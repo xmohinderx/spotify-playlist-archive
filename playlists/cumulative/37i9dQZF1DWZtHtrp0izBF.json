@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 281546,
       "name": "Achilip\u00fa",
       "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 249373,
       "name": "Azuquita Pa'l Cafe",
       "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 320466,
       "name": "Casi Te Envidio",
       "url": "https://open.spotify.com/track/58unXNsISeHfI2jdqm9nb9"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 333226,
       "name": "Conciencia",
       "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 333280,
       "name": "Conciencia",
       "url": "https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 266786,
       "name": "Conteo Regresivo - Salsa Version",
       "url": "https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
@@ -521,10 +521,36 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "album": {
+        "name": "Enam\u00f3rate Bailando",
+        "url": "https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y"
+      },
+      "artists": [
+        {
+          "name": "Reynier Perez",
+          "url": "https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd"
+        },
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267332,
+      "name": "Enam\u00f3rate Bailando",
+      "url": "https://open.spotify.com/track/3mq6o3YStVTR91oThYGnMf"
     },
     {
       "album": {
@@ -557,7 +583,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 300773,
       "name": "Eres Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
@@ -601,7 +627,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 351813,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
@@ -637,7 +663,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 272266,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
@@ -655,7 +681,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 274653,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5giBWdb2pJwFl3avFUKGXj"
@@ -829,7 +855,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 296853,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/6K5UtSAXChS6Rpm2NZJnrF"
@@ -977,6 +1003,24 @@
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
+    {
+      "album": {
+        "name": "Salsa A Musical History",
+        "url": "https://open.spotify.com/album/1iz8QIQwGfF8TAaZzsb6oX"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286533,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/7zOxCP9h7NkRIQbwu2W9t5"
     },
     {
       "album": {
@@ -1153,7 +1197,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 289586,
       "name": "No Me Acostumbro",
       "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
@@ -1189,7 +1233,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 325822,
       "name": "Oiga, Mira, Vea",
       "url": "https://open.spotify.com/track/5HJyn7mTQq7OtmpldocdZC"
@@ -1207,7 +1251,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 325642,
       "name": "Oiga, Mire, Vea",
       "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
@@ -1377,7 +1421,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 308040,
       "name": "Que Locura Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
@@ -1503,7 +1547,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 242964,
       "name": "Se Acabo El Amor",
       "url": "https://open.spotify.com/track/6vYGqxYCAcj4gfyrGcqN3i"
@@ -1579,7 +1623,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 229355,
       "name": "Sigue Tu Camino",
       "url": "https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O"
@@ -1687,7 +1731,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 280106,
       "name": "Talento De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/06YYzWTAibpHPEJTl4zVvm"
@@ -1979,7 +2023,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 306706,
       "name": "Ya No Te Puedo Amar",
       "url": "https://open.spotify.com/track/4GR1oh1QEZ5LAaj2OQzvuY"
@@ -2001,7 +2045,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 270626,
       "name": "Yamulemau",
       "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
@@ -2019,7 +2063,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 261880,
       "name": "Yo No Se Manana - Salsa Version",
       "url": "https://open.spotify.com/track/5jJTqI5yteOyLWoDTjiHCO"
@@ -2055,7 +2099,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 259853,
       "name": "Yo No S\u00e9 Ma\u00f1ana (salsa)",
       "url": "https://open.spotify.com/track/1nZziTuPRwCfJe1XvVC760"

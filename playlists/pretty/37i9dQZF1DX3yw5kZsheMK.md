@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yw5kZsheMK.md) - [plain]
 
 > Lyrical lullabies for your bedtime routine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,398 likes - 81 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,402 likes - 81 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

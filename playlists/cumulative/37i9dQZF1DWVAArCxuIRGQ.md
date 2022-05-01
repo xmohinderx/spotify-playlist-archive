@@ -4,7 +4,7 @@
 
 > A sizzling hot soundtrack for your sunshine social.
 
-88 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/4NyrelIUndIbzhU4ozZcir)
+89 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/4NyrelIUndIbzhU4ozZcir)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 | 2020-07-03 |  |
 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2020-07-03 |  |
 | [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/46h3ccArVSegccIo5j55aj) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 | 2020-07-03 |  |
-| [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 | 2020-07-03 |  |
+| [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 | 2020-07-03 | 2022-05-01 |
 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 | 2020-07-03 |  |
 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 | 2020-07-03 |  |
 | [I Want You Back](https://open.spotify.com/track/0smv5rs2TfdAaqg3V81iNm) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Motown 50](https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh) | 2:57 | 2020-07-03 |  |
@@ -55,6 +55,7 @@
 | [Mas, Que Nada!](https://open.spotify.com/track/7rOdaBwNtT6E4f2kxeiZKj) | [Tamba Trio](https://open.spotify.com/artist/3NHFpmBuWOdkNalXJgdOqc) | [VA \- Brazilian All Stars](https://open.spotify.com/album/2lJd6kiR2KZD8RD2YouakD) | 2:37 | 2020-07-03 |  |
 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 | 2020-07-03 |  |
 | [Me Myself And I](https://open.spotify.com/track/1o7pq0fvaVfQSKOKwQAHSo) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Rap Story, Vol\. 1](https://open.spotify.com/album/5Sjktw73fCXEisILugMuVM) | 3:44 | 2020-07-03 |  |
+| [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 | 2020-07-03 |  |
 | [Mo Money Mo Problems \(feat\. Mase & Puff Daddy\)](https://open.spotify.com/track/3kG2YgxjYnnPBlo7H08Xt3) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase & Puff Daddy](https://open.spotify.com/artist/096CxgjMbKJzhbYrTAHrVx) | [Life After Death \(Deluxe Version\)](https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r) | 4:13 | 2020-07-03 |  |
 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/0QMFMQF3HoSk5WvMyx8aMT) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [20th Century Masters: The Millennium Collection: Best Of Barrett Strong](https://open.spotify.com/album/6dTXSc78HM0ZsQptU0Nl2V) | 2:37 | 2020-07-03 |  |
 | [Monkey Man](https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:44 | 2020-07-03 |  |

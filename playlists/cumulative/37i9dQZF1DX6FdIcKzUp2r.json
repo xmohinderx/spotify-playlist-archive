@@ -337,7 +337,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 234493,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 289906,
       "name": "English Landscape Tradition",
       "url": "https://open.spotify.com/track/61lWbBQqGoM9daRCuEGBtJ"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 323200,
       "name": "Fine Line",
       "url": "https://open.spotify.com/track/6KzM4tMJdHJ6kDP9Zwhftu"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 295102,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/0rIIq1SWIWDen4PvfCIVyg"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 174866,
       "name": "Italian Song",
       "url": "https://open.spotify.com/track/1LuHp6sD2xyapjqpokQhr9"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 154000,
       "name": "MLK - Remastered 2009",
       "url": "https://open.spotify.com/track/6jT7ax7YI5ZVSnwqvGQUC8"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 326533,
       "name": "Polonaise",
       "url": "https://open.spotify.com/track/00g0LMstYkA0WyzDYmseXj"
@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 103773,
       "name": "Tara",
       "url": "https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 259493,
       "name": "Tea In The Sahara - Remastered 2003",
       "url": "https://open.spotify.com/track/5OsLJBTc1pQJRxs7us0xMZ"
@@ -1605,7 +1605,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 287746,
       "name": "Tell Me What You Dream",
       "url": "https://open.spotify.com/track/4gTPNMC62wseaDTDnyyOEK"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 277666,
       "name": "The One",
       "url": "https://open.spotify.com/track/7e398pvIvlwFSoBZuH9R6h"
@@ -1973,6 +1973,24 @@
       "duration_ms": 393000,
       "name": "Woman In Chains",
       "url": "https://open.spotify.com/track/5N4eBWsckD3AgTQFGLQEeU"
+    },
+    {
+      "album": {
+        "name": "B\u00eate Noire (Remastered 1999)",
+        "url": "https://open.spotify.com/album/1jr6OExKqAfYqOLFJ2wpRd"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Zamba",
+      "url": "https://open.spotify.com/track/1esRZszubnjNyMWJmlGM7E"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6FdIcKzUp2r"

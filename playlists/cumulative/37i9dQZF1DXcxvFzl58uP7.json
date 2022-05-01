@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 102468,
       "name": "80's makeout session",
       "url": "https://open.spotify.com/track/2fb5IfqG58jVkCGXWhxfa6"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 261517,
       "name": "Best Person You Know",
       "url": "https://open.spotify.com/track/4lGu6pGvisz3Zvv1ThCEPd"
@@ -3933,7 +3933,7 @@
       ],
       "date_added": "2019-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 123341,
       "name": "Flaming Hot Cheetos",
       "url": "https://open.spotify.com/track/6Q4oiVdxUveuaVEXWfephy"
@@ -5201,7 +5201,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 180181,
       "name": "honey",
       "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
@@ -5829,7 +5829,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 127312,
       "name": "i will wait",
       "url": "https://open.spotify.com/track/1YXVMeN337f44L0fQIAqpL"
@@ -6595,7 +6595,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 173856,
       "name": "Letters",
       "url": "https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6"
@@ -6995,7 +6995,7 @@
       ],
       "date_added": "2019-07-30",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
@@ -7017,7 +7017,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 143887,
       "name": "lowlife - with kenny beats",
       "url": "https://open.spotify.com/track/0YANHO32xutrmLQA6JvYlq"
@@ -9334,6 +9334,24 @@
     },
     {
       "album": {
+        "name": "Saviour Complex",
+        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Saviour Complex",
+      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
+    },
+    {
+      "album": {
         "name": "Scarlett",
         "url": "https://open.spotify.com/album/7tkT2j5BuPSjzoBWVygIG7"
       },
@@ -10103,7 +10121,7 @@
       ],
       "date_added": "2019-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 173953,
       "name": "Someone To Spend Time With",
       "url": "https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU"
@@ -10663,7 +10681,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 201226,
       "name": "Sun Outside My Window",
       "url": "https://open.spotify.com/track/2N1KZRaNtW6amPcBKb31MV"
@@ -10939,7 +10957,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 182486,
       "name": "Talk",
       "url": "https://open.spotify.com/track/62R6tHMZLTzqEvnNaqDXkz"

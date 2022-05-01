@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!!  <br/>Cover: Jackson Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,691 likes - 130 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,789 likes - 130 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

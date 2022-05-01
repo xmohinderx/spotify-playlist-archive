@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 232440,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/0TMt3fDt2x3ZKuhb20eggr"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 267000,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 223384,
       "name": "Duppy Them",
       "url": "https://open.spotify.com/track/0OnhVr0XzJlzGANtXwwS9D"
@@ -585,6 +585,24 @@
       "duration_ms": 169846,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
+    },
+    {
+      "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0KPN5WOiQslbx2XqFkL7E6"
+      },
+      "artists": [
+        {
+          "name": "Jay Faded",
+          "url": "https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167706,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/1qQGrp6pol2Swp45C9PvjC"
     },
     {
       "album": {
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "Icon",
       "url": "https://open.spotify.com/track/3FzRX9CTMgu2Qn1wHE6ygo"
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 299000,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/1O6etlhQyBRj72rNJYhZye"

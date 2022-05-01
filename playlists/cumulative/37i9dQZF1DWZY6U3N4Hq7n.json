@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 184480,
       "name": "Break My Stride",
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 216506,
       "name": "Danger Zone",
       "url": "https://open.spotify.com/track/2CJtimCSGAn8x6RE3irZFV"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/7EX5tg9qYMoDZJeKCTMGBy"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 211840,
       "name": "I Want A New Drug",
       "url": "https://open.spotify.com/track/0mZNKyrUmsrlDRoYHWsyMu"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 229466,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
@@ -971,6 +971,24 @@
       "duration_ms": 274466,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6cH34Jb2W9s9w8ooRtZZPf"
+    },
+    {
+      "album": {
+        "name": "The Best Is Yet To Come",
+        "url": "https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Let The Music Play",
+      "url": "https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64"
     },
     {
       "album": {
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 221933,
       "name": "Physical",
       "url": "https://open.spotify.com/track/7aeW3CrQAyQTk4PqwIYCVU"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 330933,
       "name": "Rhythm Nation",
       "url": "https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 245360,
       "name": "West End Girls - 2001 Remaster",
       "url": "https://open.spotify.com/track/00AdHZ94Jb7oVdHVJmJsIU"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "What A Feeling",
       "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 235493,
       "name": "When I Think Of You",
       "url": "https://open.spotify.com/track/3mJ6pNcFM2CkykCYSREdKT"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 260000,
       "name": "Word Up",
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 249960,
       "name": "You Got It (The Right Stuff)",
       "url": "https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl"

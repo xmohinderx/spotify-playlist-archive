@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 175217,
       "name": "97",
       "url": "https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 259375,
       "name": "Alone",
       "url": "https://open.spotify.com/track/71Sjke4TVQxDYAkdR8jA2D"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 198095,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 185260,
       "name": "Bluetooth",
       "url": "https://open.spotify.com/track/21muuUFqxOkUWSDxb1sLa9"
@@ -1779,7 +1779,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 140571,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/2qEgM0aQLDWJrOUoOuBfyA"
@@ -2346,6 +2346,28 @@
     },
     {
       "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/5D0ytYyt9HDWSpPgliek6H"
+      },
+      "artists": [
+        {
+          "name": "Streetlights",
+          "url": "https://open.spotify.com/artist/6JrmofdhxBatsnpTA10CHB"
+        },
+        {
+          "name": "Prisims",
+          "url": "https://open.spotify.com/artist/7lzLpc7rhPU8drvFcRNLNy"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285957,
+      "name": "Don't Look Down",
+      "url": "https://open.spotify.com/track/7wRtZB9hYQd4SK9PhHN51D"
+    },
+    {
+      "album": {
         "name": "DON'T RIOT!",
         "url": "https://open.spotify.com/album/7AjfUMjMTywBU4rWvJPa36"
       },
@@ -2481,7 +2503,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 198600,
       "name": "Echo",
       "url": "https://open.spotify.com/track/6I5GtnDdJmKUV3HECV8qVP"
@@ -2553,7 +2575,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 242869,
       "name": "Emmaus Cypher",
       "url": "https://open.spotify.com/track/7aG4erQ69UV4KQxVakUIaa"
@@ -2647,7 +2669,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 169199,
       "name": "EVERY LITTLE THING",
       "url": "https://open.spotify.com/track/4Yj3DWigyBkTbd3XW0dPMr"
@@ -3389,7 +3411,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 118848,
       "name": "Haha!",
       "url": "https://open.spotify.com/track/2ewSOGpFKYTpwT4BIWt5ZJ"
@@ -3785,7 +3807,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 199939,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/7soNMxKiqVOma0DpcsISNx"
@@ -3881,7 +3903,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 165629,
       "name": "I GET THIS?",
       "url": "https://open.spotify.com/track/5eFvHwmGYSPuJogHddWqKI"
@@ -4611,7 +4633,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 216888,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/3zQfJr7VTWaYXVJsPviyoj"
@@ -5135,7 +5157,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 170357,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/22FlIBvzFuGIxls2m4teEG"
@@ -5347,7 +5369,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 179696,
       "name": "My Bruddas",
       "url": "https://open.spotify.com/track/4VfPAgdUPrwnat0kOsbdRu"
@@ -5633,7 +5655,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 177530,
       "name": "NO GOOD",
       "url": "https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT"
@@ -6557,7 +6579,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 157826,
       "name": "PERFECT TIMING",
       "url": "https://open.spotify.com/track/60sQCapQEcnfW9FDrKxAMC"
@@ -6734,6 +6756,32 @@
     },
     {
       "album": {
+        "name": "PROBLEMATIC (Remix) [feat. Travis Hobson]",
+        "url": "https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86"
+      },
+      "artists": [
+        {
+          "name": "Kham",
+          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
+        },
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        },
+        {
+          "name": "Travis Hobson",
+          "url": "https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143512,
+      "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
+      "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
+    },
+    {
+      "album": {
         "name": "prove it",
         "url": "https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03"
       },
@@ -6749,7 +6797,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "prove it",
       "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
@@ -7067,7 +7115,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 169903,
       "name": "RESPECT",
       "url": "https://open.spotify.com/track/7KUeFWTXZAiq1v5Y0lBxaK"
@@ -7143,7 +7191,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 221772,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/7ebbIkFdhKnauU2qNQ9G4T"
@@ -7553,7 +7601,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 208717,
       "name": "So Tired (feat. Bizzle & Zhalarina)",
       "url": "https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk"
@@ -7823,7 +7871,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 162694,
       "name": "Stop",
       "url": "https://open.spotify.com/track/25zS8gq7dkaXieDRMuj5vS"
@@ -8609,7 +8657,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "Trade It All",
       "url": "https://open.spotify.com/track/7ss4s3jFOUjMUqNZXaUkWn"
@@ -8949,7 +8997,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 132972,
       "name": "Voice",
       "url": "https://open.spotify.com/track/5RYhiYjZBI9hmVopULgdoO"
@@ -9385,7 +9433,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 227004,
       "name": "Why Should I (feat. Quinten Coblentz)",
       "url": "https://open.spotify.com/track/5lQdppTJfzv9zqz0DUNm8u"

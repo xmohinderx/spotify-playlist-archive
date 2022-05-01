@@ -176,6 +176,28 @@
     },
     {
       "album": {
+        "name": "August (Duet with CHOSNG)",
+        "url": "https://open.spotify.com/album/4NUQvW7uOiI3aDx2Qz9zVZ"
+      },
+      "artists": [
+        {
+          "name": "The Orchard",
+          "url": "https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI"
+        },
+        {
+          "name": "CHOSNG",
+          "url": "https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207898,
+      "name": "August (Duet with CHOSNG)",
+      "url": "https://open.spotify.com/track/1o3nbJzw4MXtFr4r6JfvO3"
+    },
+    {
+      "album": {
         "name": "Autumn Memories",
         "url": "https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O"
       },
@@ -917,7 +939,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 217129,
       "name": "Friday (feat.Jang Yi-jeong)",
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
@@ -1159,7 +1181,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 248758,
       "name": "IWST",
       "url": "https://open.spotify.com/track/7jLusgqUbcOKTQfCzLR9S3"
@@ -1265,7 +1287,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 207333,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/5hYYEUnGVFlAf9F95tZsrT"
@@ -1423,7 +1445,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 216493,
       "name": "Love Flows (With Choi Yu Ree)",
       "url": "https://open.spotify.com/track/6caVcRBysVnAQ88GKUt9kp"
@@ -2013,7 +2035,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/3CPUiZgVUQrKdZtjkzf9U6"
@@ -2357,7 +2379,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 195943,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6ioaDimY5lmeAl5gBh0imb"
@@ -2423,7 +2445,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 215203,
       "name": "Tear drops",
       "url": "https://open.spotify.com/track/3ldLaJODjBgbUKKssJleqS"
@@ -2489,7 +2511,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 252448,
       "name": "The Sea with Stars (Feat. Hailey Jeong)",
       "url": "https://open.spotify.com/track/7pEMEaMHoFkt60BPWVKWC0"
@@ -2687,7 +2709,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 260000,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/51imtx97otLDc5IJJEup6J"

@@ -4,7 +4,7 @@
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-72 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
+73 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,12 +20,13 @@
 | [Breathe](https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/2cVfcuckyfRP6KVAHsRPHC) | 5:00 | 2018-12-10 | 2022-04-29 |
 | [Dear Seamus Heaney](https://open.spotify.com/track/28qRYCVGXVsm5UfheQ2DRi) | [The Hardy Boys](https://open.spotify.com/artist/4zdb5boEvp6op45yX3RAHj) | [Under The Piccadilly Clock](https://open.spotify.com/album/24KEGikQvg3S45VSwKTwUP) | 4:43 | 2018-12-10 | 2022-04-29 |
 | [Disturbance At The Heron House \- Remastered](https://open.spotify.com/track/3kL3FV7NPNfzgVeiG753r6) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \- 25th Anniversary Edition](https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7) | 3:33 | 2018-12-10 |  |
+| [Doublespeak](https://open.spotify.com/track/5A3LfRNlvin0EtYj6mQbn4) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Beggars](https://open.spotify.com/album/7nw8OznIFKVqaJcGCT35Lc) | 4:50 | 2018-12-10 |  |
 | [Eveline](https://open.spotify.com/track/5rbB234M0EaapxiDqOUyby) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Why Should The Fire Die?](https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb) | 3:11 | 2018-12-10 |  |
 | [Everyday I Write The Book](https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:54 | 2018-12-10 |  |
 | [Goodbye Sky Harbor](https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 16:13 | 2018-12-10 |  |
 | [Great American Novel](https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Great American Novel](https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu) | 3:54 | 2018-12-10 |  |
 | [Harold Bloom](https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/01x41UlgUnQ3QX5OLcIKFo) | 4:12 | 2018-12-10 | 2022-04-30 |
-| [Harper Lee](https://open.spotify.com/track/4MfmlkRKhlREunOHnasUhm) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0mDWJb8omHOpMdayXdLiBG) | 3:31 | 2018-12-10 |  |
+| [Harper Lee](https://open.spotify.com/track/4MfmlkRKhlREunOHnasUhm) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0mDWJb8omHOpMdayXdLiBG) | 3:31 | 2018-12-10 | 2022-05-01 |
 | [Hate the Villanelle](https://open.spotify.com/track/3fPSVnmmq2nOWM4VOmiKww) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Hate the Villanelle](https://open.spotify.com/album/4HzeliPMG1yywJ4Jw4kJRx) | 1:52 | 2018-12-10 |  |
 | [I'm Writing A Novel \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/1QIOQ3XARduygQqRIif0f7) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Sessions \- Curated by Jim Eno](https://open.spotify.com/album/42Fu7ZldhKPIis5xdHtbro) | 4:15 | 2018-12-10 | 2022-04-29 |
 | [If I Could Write](https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o) | [Sam Phillips](https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa) | [A Boot and a Shoe](https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS) | 2:18 | 2018-12-10 |  |
@@ -39,7 +40,7 @@
 | [My Antonia](https://open.spotify.com/track/6yCwfs5qUdG8ySrLl2lgOh) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Red Dirt Girl](https://open.spotify.com/album/5C7B6Wi35TyMOQVtt2eRAV) | 3:42 | 2018-12-10 |  |
 | [Narcissist](https://open.spotify.com/track/36IjkjX9jve0xUzzdI1Bvj) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri) | 2:10 | 2018-12-10 | 2022-04-29 |
 | [New Slang](https://open.spotify.com/track/5IXopLipnMznYNwLB9MzYi) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/5OHMaK4q0XOFg1cAXYgeLw) | 3:51 | 2018-12-10 |  |
-| [No Poem](https://open.spotify.com/track/3FYKFB7FHN63hD3idN9kiO) | [Coke Weed](https://open.spotify.com/artist/3rUruYHWt57tni4mdiN43r) | [Nice Dreams](https://open.spotify.com/album/2DaBNp3C4tmUnTdupdhSFg) | 4:35 | 2018-12-10 | 2022-04-29 |
+| [No Poem](https://open.spotify.com/track/3FYKFB7FHN63hD3idN9kiO) | [Coke Weed](https://open.spotify.com/artist/3rUruYHWt57tni4mdiN43r) | [Nice Dreams](https://open.spotify.com/album/2DaBNp3C4tmUnTdupdhSFg) | 4:35 | 2018-12-10 |  |
 | [Oh, Mr\. Darcy](https://open.spotify.com/track/5TJRMmxQW1WbLh5ZUMfYe0) | [The Doubleclicks](https://open.spotify.com/artist/5ArdcVqH6mTD6zNNuuMNaJ) | [Chainmail and Cello](https://open.spotify.com/album/19q5b0ZqgnNgSO5hEcHhKa) | 3:16 | 2018-12-10 |  |
 | [Open Book](https://open.spotify.com/track/3vmgOwQdZTbdT1W54eeEy0) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 3:44 | 2018-12-10 | 2022-04-28 |
 | [Orpheo Looks Back](https://open.spotify.com/track/33NsXvwapmDA93cHM73G6L) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Break It Yourself / Hands of Glory \(Deluxe\)](https://open.spotify.com/album/1TkDZ3ebL9ilggycoLazyl) | 4:55 | 2018-12-10 |  |
@@ -73,7 +74,7 @@
 | [Tonight I Feel Like Kafka](https://open.spotify.com/track/0un6V0wfo3eTYOfYeMF8cC) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Parma Violets](https://open.spotify.com/album/0GzuW3EO2SQAsPKSUfl0zQ) | 3:09 | 2018-12-10 |  |
 | [Transatlanticism](https://open.spotify.com/track/3PJikMV2xGNCooQttQrAw5) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism](https://open.spotify.com/album/5XGQ4L4XsTI3uIZiAfeAum) | 7:55 | 2018-12-10 |  |
 | [Type Endlessly](https://open.spotify.com/track/1YnkKuOyXYQYIRg2YRZRfZ) | [Magic Arm](https://open.spotify.com/artist/7e04hmo8LPOPgJalkPO2dY) | [Images Rolling](https://open.spotify.com/album/39mitxj59GRwL91UbwJCux) | 1:04 | 2018-12-10 | 2022-04-24 |
-| [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 | 2018-12-10 |  |
+| [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 | 2018-12-10 | 2022-05-01 |
 | [Walt Whitman's Niece](https://open.spotify.com/track/5H3wCJbN88o19K3inKBaMZ) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue: The Complete Sessions](https://open.spotify.com/album/7uSgX0fbBol4NDyqsSZJaE) | 3:53 | 2018-12-10 | 2022-04-27 |
 | [When I Write My Master's Thesis](https://open.spotify.com/track/0liT69dkJVAZxG3O2Lpkik) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Provincial](https://open.spotify.com/album/6ue2jxn7CfLiYe2RZnqBog) | 3:34 | 2018-12-10 | 2022-04-28 |
 | [White Blank Page](https://open.spotify.com/track/5icXpqn5f2lukunvG7uA70) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4EnpeGmIkEf8nAaBLLTBZn) | 4:13 | 2018-12-10 |  |

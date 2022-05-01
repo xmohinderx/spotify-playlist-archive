@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 164032,
       "name": "24 Hr Drive-Thru",
       "url": "https://open.spotify.com/track/0ZwS03v4euiMztP9xDLgoO"
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 157440,
       "name": "I Threw Glass at My Friend's Eyes and Now I'm on Probation",
       "url": "https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
@@ -2225,7 +2225,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "Partners in Crime (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
@@ -2265,6 +2265,24 @@
       "duration_ms": 142765,
       "name": "People I Don't Like",
       "url": "https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW"
+    },
+    {
+      "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142018,
+      "name": "Pink Panther",
+      "url": "https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6"
     },
     {
       "album": {
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 179556,
       "name": "Rough",
       "url": "https://open.spotify.com/track/4lalLstnInAdtSWUpOumhn"
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 198080,
       "name": "Sarcasm",
       "url": "https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"
@@ -3141,7 +3159,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 187880,
       "name": "Wolf in Sheep's Clothing (feat. William Beckett)",
       "url": "https://open.spotify.com/track/4WXFDVe299Po8ih6Np54n2"

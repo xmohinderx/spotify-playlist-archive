@@ -4,7 +4,7 @@
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-76 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/6EYlIXBIIzqgr8ALNHtuLz)
+77 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/6EYlIXBIIzqgr8ALNHtuLz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Delorean](https://open.spotify.com/track/5n8noNlQbeXUR2ZMrceHC2) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Delorean](https://open.spotify.com/album/1SukerUlqQUU0iA1sNIWnz) | 3:41 | 2022-04-18 |  |
 | [Divergencia](https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Divergencia](https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C) | 3:45 | 2022-04-18 |  |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2022-04-18 |  |
-| [Dying Breed](https://open.spotify.com/track/1cS6quzGhImyJPMiNxfxkA) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Dying Breed](https://open.spotify.com/album/3UL8kVLqJVXaS3tYsYpqf2) | 4:06 | 2022-04-18 |  |
+| [Dying Breed](https://open.spotify.com/track/1cS6quzGhImyJPMiNxfxkA) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Dying Breed](https://open.spotify.com/album/3UL8kVLqJVXaS3tYsYpqf2) | 4:06 | 2022-04-18 | 2022-05-01 |
 | [Déjate Caer](https://open.spotify.com/track/1xtBatmC1muBOY1RnUvP8Z) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 3:22 | 2022-04-18 |  |
 | [El Album](https://open.spotify.com/track/4FGqEn07vx9pbHLGO1rLAe) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:58 | 2022-04-18 |  |
 | [El Efecto](https://open.spotify.com/track/4BZwf7IG5wvjYn8RJLNkwu) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [El Efecto](https://open.spotify.com/album/1sE9CVzRUxZLqPfo9a1qQK) | 3:32 | 2022-04-18 |  |
@@ -54,13 +54,13 @@
 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 | 2022-04-18 |  |
 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 | 2022-04-18 |  |
 | [Paraguaya \- Live in Mexico](https://open.spotify.com/track/6h4RXhBleHq18B5ES4uBxd) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL](https://open.spotify.com/album/4Au0C9btBKDQI43lx1GGed) | 3:43 | 2022-04-18 | 2022-04-30 |
-| [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 | 2022-04-18 |  |
+| [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 | 2022-04-18 | 2022-05-01 |
 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 | 2022-04-18 |  |
 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 | 2022-04-18 |  |
 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 | 2022-04-18 |  |
 | [Ranchito](https://open.spotify.com/track/4uo9kaEn9zXai7qqIbvVJL) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Ranchito](https://open.spotify.com/album/0ko5hPP9lcJ31DElsShaZc) | 3:16 | 2022-04-18 |  |
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-04-18 |  |
-| [Safe And Sound](https://open.spotify.com/track/2Oj5BXOY01EDuJhVYNlEoq) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Safe And Sound](https://open.spotify.com/album/5iXfZywYLQWeUjoLr3Oy5J) | 3:12 | 2022-04-18 | 2022-04-27 |
+| [Safe And Sound](https://open.spotify.com/track/2Oj5BXOY01EDuJhVYNlEoq) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Safe And Sound](https://open.spotify.com/album/5iXfZywYLQWeUjoLr3Oy5J) | 3:12 | 2022-04-18 |  |
 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 | 2022-04-18 | 2022-04-30 |
 | [Shiver](https://open.spotify.com/track/0qksx8mV28lztYIZ1om8ml) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 5:04 | 2022-04-18 |  |
 | [Siento Que...](https://open.spotify.com/track/0w0tp9WIlwUWQeKnaGa2EA) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant Revisitado](https://open.spotify.com/album/2pzNABURPzUxACrqiGeN94) | 3:31 | 2022-04-18 |  |
@@ -70,6 +70,7 @@
 | [So Long](https://open.spotify.com/track/0wfA7ybZY7S44n9CI8uC7X) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [So Long](https://open.spotify.com/album/3pSudAz7LTflhdQIsxAZCt) | 4:06 | 2022-04-18 | 2022-04-30 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-04-18 |  |
 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 | 2022-04-18 |  |
+| [Star Guitar](https://open.spotify.com/track/19mC6xktT1JyyycK6cQaXA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Come With Us](https://open.spotify.com/album/56nVadPbdCs1yGB0AtXSGp) | 6:27 | 2022-04-18 |  |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-04-18 |  |
 | [The Same](https://open.spotify.com/track/5ElfFDLw56JXb0QJNoStFv) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [The Same](https://open.spotify.com/album/6pOCDhBkcTAiN0Drk3Vdaw) | 3:24 | 2022-04-18 | 2022-04-29 |
 | [Theworstthing](https://open.spotify.com/track/0EvZksFiDpboeG4UVaIvJa) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:03 | 2022-04-18 |  |

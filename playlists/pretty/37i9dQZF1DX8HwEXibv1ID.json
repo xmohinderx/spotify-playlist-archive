@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 13903,
+  "num_followers": 13925,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM0NzMwNiwwMDAwMDAwMGNjMzZlZDAyMzgxNmY2MWE1NjA5YWZlYjU4ZDViYzI5",
+  "snapshot_id": "MTY1MTM2Nzg4NiwwMDAwMDAwMDRiZTBlNDA1NmU3MThlMjY1ZjI4NjFiNmFmMmY4NGI2",
   "tracks": [
     {
       "added_at": "2022-04-22 13:30:43",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "My Funny Valentine: The Best Of Chet Baker",
-        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Why Shouldn't I?",
-      "url": "https://open.spotify.com/track/5TZUTN9vUjjxy4vDDxhlKm"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "A Man and His Trombone",
         "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 168442,
       "name": "Silk Stockings",
       "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "My Funny Valentine: The Best Of Chet Baker",
+        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Why Shouldn't I?",
+      "url": "https://open.spotify.com/track/5TZUTN9vUjjxy4vDDxhlKm"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -91,34 +91,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "French Style",
-        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
+        "name": "In the Land of Hi-Fi",
+        "url": "https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 156906,
-      "name": "C'est Magnifique",
-      "url": "https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "High Society - OST",
-        "url": "https://open.spotify.com/album/6bV6aP0K7VIGyOr7e39wSE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra and Celeste Holm",
-          "url": "https://open.spotify.com/artist/3dWvcPLAgwWVbDkJndTCPc"
-        }
-      ],
-      "duration_ms": 127226,
-      "name": "Who Want's To Be A Millionaire?",
-      "url": "https://open.spotify.com/track/4oOkqjjXr4NzkrPJQsscc5"
+      "duration_ms": 157893,
+      "name": "Let's Do It (Let's Fall in Love)",
+      "url": "https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -139,6 +123,22 @@
       "duration_ms": 252818,
       "name": "I Love You Samantha",
       "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "High Society - OST",
+        "url": "https://open.spotify.com/album/6bV6aP0K7VIGyOr7e39wSE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra and Celeste Holm",
+          "url": "https://open.spotify.com/artist/3dWvcPLAgwWVbDkJndTCPc"
+        }
+      ],
+      "duration_ms": 127226,
+      "name": "Who Want's To Be A Millionaire?",
+      "url": "https://open.spotify.com/track/4oOkqjjXr4NzkrPJQsscc5"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
         }
       ],
-      "duration_ms": 104360,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/65O89M7GMB8pA88VyxxJm7"
+      "duration_ms": 187266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -207,8 +207,8 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "The Columbia Years (1943-1952) The Complete Recordings",
-        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
+        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
       },
       "artists": [
         {
@@ -216,41 +216,41 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 168440,
-      "name": "You Don't Remind Me",
-      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
+      "duration_ms": 197800,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
     },
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "In the Land of Hi-Fi",
-        "url": "https://open.spotify.com/album/6NIPfaaCsVriz2WvfcQZMX"
+        "name": "French Style",
+        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 157893,
-      "name": "Let's Do It (Let's Fall in Love)",
-      "url": "https://open.spotify.com/track/0fsUmybL8WDSl5fU23bpF7"
+      "duration_ms": 156906,
+      "name": "C'est Magnifique",
+      "url": "https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC"
     },
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Helen Merrill With Strings",
-        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
       "artists": [
         {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
+      "duration_ms": 104360,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/65O89M7GMB8pA88VyxxJm7"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -267,22 +267,6 @@
       "duration_ms": 412133,
       "name": "You're Sensational",
       "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "You 'N Me",
-        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
-      },
-      "artists": [
-        {
-          "name": "The Al Cohn - Zoot Sims Quintet",
-          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -307,8 +291,24 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
-        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+        "name": "You 'N Me",
+        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
+      },
+      "artists": [
+        {
+          "name": "The Al Cohn - Zoot Sims Quintet",
+          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "The Columbia Years (1943-1952) The Complete Recordings",
+        "url": "https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Why Can't You Behave?",
-      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
+      "duration_ms": 168440,
+      "name": "You Don't Remind Me",
+      "url": "https://open.spotify.com/track/6WHaqgrwqzndnDEswCPaB7"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -355,34 +355,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Night and Day With Cole Porter",
-        "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
       "artists": [
         {
-          "name": "Behia Jazz Band",
-          "url": "https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Achat",
-          "url": "https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg"
-        },
-        {
-          "name": "Manu Carr\u00e9",
-          "url": "https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll"
-        },
-        {
-          "name": "Philippe Brassoud",
-          "url": "https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w"
-        },
-        {
-          "name": "Philippe Cocogne",
-          "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 234840,
-      "name": "Conversation Blues",
-      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
+      "duration_ms": 151093,
+      "name": "Let's Fly Away",
+      "url": "https://open.spotify.com/track/23OvK9AlKo3Se4xcAMDwUY"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -419,34 +403,34 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+        "name": "Night and Day With Cole Porter",
+        "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
       },
       "artists": [
         {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 151093,
-      "name": "Let's Fly Away",
-      "url": "https://open.spotify.com/track/23OvK9AlKo3Se4xcAMDwUY"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "The One And Only",
-        "url": "https://open.spotify.com/album/2h2bi5subCD6Y1JLy9TbS3"
-      },
-      "artists": [
+          "name": "Behia Jazz Band",
+          "url": "https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1"
+        },
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "J\u00e9r\u00f4me Achat",
+          "url": "https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg"
+        },
+        {
+          "name": "Manu Carr\u00e9",
+          "url": "https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll"
+        },
+        {
+          "name": "Philippe Brassoud",
+          "url": "https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w"
+        },
+        {
+          "name": "Philippe Cocogne",
+          "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
         }
       ],
-      "duration_ms": 135506,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/307sTSd6uNMwnCWJzybLy4"
+      "duration_ms": 234840,
+      "name": "Conversation Blues",
+      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -463,38 +447,6 @@
       "duration_ms": 130199,
       "name": "Ridin' High",
       "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "The Best Of Cole Porter",
-        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
-      },
-      "artists": [
-        {
-          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
-          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Old Fashioned Garden",
-      "url": "https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "Mr. Top Hat",
-        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "I've Got My Eyes On You",
-      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -535,18 +487,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+        "name": "Mr. Top Hat",
+        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
         }
       ],
-      "duration_ms": 182453,
-      "name": "Miss Otis Regrets (She's Unable To Lunch Today)",
-      "url": "https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi"
+      "duration_ms": 177213,
+      "name": "I've Got My Eyes On You",
+      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -563,6 +515,70 @@
       "duration_ms": 203533,
       "name": "You've Got That Thing",
       "url": "https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 173840,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "The One And Only",
+        "url": "https://open.spotify.com/album/2h2bi5subCD6Y1JLy9TbS3"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/307sTSd6uNMwnCWJzybLy4"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Miss Otis Regrets (She's Unable To Lunch Today)",
+      "url": "https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "The Best Of Cole Porter",
+        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+      },
+      "artists": [
+        {
+          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Old Fashioned Garden",
+      "url": "https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -587,6 +603,22 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "duration_ms": 133466,
+      "name": "It's Bad For Me",
+      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
         "name": "Let's Dance Jazz (Jazz Club)",
         "url": "https://open.spotify.com/album/0VG1QP6ZxoPRd1lUBSvk57"
       },
@@ -607,18 +639,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+        "name": "Easy To Love: The Songs Of Cole Porter",
+        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
       },
       "artists": [
         {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+          "name": "Susannah McCorkle",
+          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
         }
       ],
-      "duration_ms": 133466,
-      "name": "It's Bad For Me",
-      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
+      "duration_ms": 189906,
+      "name": "Goodbye Little Dream, Goodbye",
+      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -635,6 +667,22 @@
       "duration_ms": 174200,
       "name": "My Heart Belongs To Daddy",
       "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "The Best Of Cole Porter",
+        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
+      },
+      "artists": [
+        {
+          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
+        }
+      ],
+      "duration_ms": 169001,
+      "name": "Rosalie",
+      "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -679,66 +727,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+        "name": "Oscar Peterson Plays The Cole Porter Songbook",
+        "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
       },
       "artists": [
         {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 173840,
-      "name": "Looking at You",
-      "url": "https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "Easy To Love: The Songs Of Cole Porter",
-        "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
-      },
-      "artists": [
-        {
-          "name": "Susannah McCorkle",
-          "url": "https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Goodbye Little Dream, Goodbye",
-      "url": "https://open.spotify.com/track/28oUQEAgmiZX5LhZTYXqQW"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "The Best Of Cole Porter",
-        "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
-      },
-      "artists": [
-        {
-          "name": "Harry Arnold and His Swedish Radio Studio Orchestra",
-          "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
-        }
-      ],
-      "duration_ms": 169001,
-      "name": "Rosalie",
-      "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "An Evening With Anita O'Day",
-        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "From This Moment On - 1955 Version",
-      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
+      "duration_ms": 206933,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/6fqHlcomOg6NBwa25EK58m"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -759,34 +759,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Oscar Peterson Plays The Cole Porter Songbook",
-        "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/6fqHlcomOg6NBwa25EK58m"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "The Liberty Years",
-        "url": "https://open.spotify.com/album/2sH9FC8gzWUaO5TV6gu1A6"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 151466,
-      "name": "Always True To You (In My Fashion)",
-      "url": "https://open.spotify.com/track/0106Y0rjTFd3aYvPQ91GKO"
+      "duration_ms": 375173,
+      "name": "Begin The Beguine - Alternate Take",
+      "url": "https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -839,22 +823,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 375173,
-      "name": "Begin The Beguine - Alternate Take",
-      "url": "https://open.spotify.com/track/48Q8ER4XOaE4r00bjRxT9r"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "The Best Of Cole Porter",
         "url": "https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j"
       },
@@ -867,6 +835,54 @@
       "duration_ms": 152369,
       "name": "Experiment",
       "url": "https://open.spotify.com/track/70bVc4i0Z1WBwCpJ8IvxmB"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "The Liberty Years",
+        "url": "https://open.spotify.com/album/2sH9FC8gzWUaO5TV6gu1A6"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 151466,
+      "name": "Always True To You (In My Fashion)",
+      "url": "https://open.spotify.com/track/0106Y0rjTFd3aYvPQ91GKO"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "An Evening With Anita O'Day",
+        "url": "https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "From This Moment On - 1955 Version",
+      "url": "https://open.spotify.com/track/0YfbhZiiqZIyfknf2mbazr"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+      },
+      "artists": [
+        {
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -887,18 +903,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+        "name": "The Sammy Davis Jr. Show with Special Guests Stars Frank Sinatra and Dean Martin",
+        "url": "https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB"
       },
       "artists": [
         {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+          "name": "The Rat Pack",
+          "url": "https://open.spotify.com/artist/75kHCUYCZGNvAfSyoEuJTz"
         }
       ],
-      "duration_ms": 170333,
-      "name": "After You",
-      "url": "https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE"
+      "duration_ms": 134040,
+      "name": "We Open in Venice",
+      "url": "https://open.spotify.com/track/1SOKPop4Zk9mIHUKpAv6qm"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -931,22 +947,6 @@
       "duration_ms": 281733,
       "name": "Blue Swing",
       "url": "https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "The Sammy Davis Jr. Show with Special Guests Stars Frank Sinatra and Dean Martin",
-        "url": "https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB"
-      },
-      "artists": [
-        {
-          "name": "The Rat Pack",
-          "url": "https://open.spotify.com/artist/75kHCUYCZGNvAfSyoEuJTz"
-        }
-      ],
-      "duration_ms": 134040,
-      "name": "We Open in Venice",
-      "url": "https://open.spotify.com/track/1SOKPop4Zk9mIHUKpAv6qm"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
       "artists": [
         {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 169666,
-      "name": "Weren't We Fools",
-      "url": "https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7"
+      "duration_ms": 131173,
+      "name": "Where Oh Where",
+      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
       "artists": [
         {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 131173,
-      "name": "Where Oh Where",
-      "url": "https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr"
+      "duration_ms": 169666,
+      "name": "Weren't We Fools",
+      "url": "https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Bobby Short Loves Cole Porter",
-        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Short",
-          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Rap Tap on Wood",
-      "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "It's A Wonderful World",
         "url": "https://open.spotify.com/album/7A0VtrrFraHAEbggockFbb"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
+        "name": "Bobby Short Loves Cole Porter",
+        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Short",
+          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Rap Tap on Wood",
+      "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
         "name": "Mabel Mercer Sings Cole Porter",
         "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
-      },
-      "artists": [
-        {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
-        }
-      ],
-      "duration_ms": 143066,
-      "name": "\u00c7a, C'est l'Amour",
-      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
         "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 119426,
       "name": "Ace In The Hole",
       "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "\u00c7a, C'est l'Amour",
+      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
     },
     {
       "added_at": "2022-04-22 13:30:43",

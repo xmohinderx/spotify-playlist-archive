@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 272763,
       "name": "Anaesthetist",
       "url": "https://open.spotify.com/track/5Izi5lL265u2iPulLHOG8i"
@@ -155,7 +155,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 287360,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/3wdc5uaqzlG6BMINgk76io"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 242758,
       "name": "Boom (feat. Tonn Piper)",
       "url": "https://open.spotify.com/track/51xVwKyFMgrKeeLePsomNI"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 226306,
       "name": "Light In The Distance",
       "url": "https://open.spotify.com/track/5Zpzt0byLqey0O8lI5DC1S"
@@ -1435,7 +1435,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 209655,
       "name": "Mac 19",
       "url": "https://open.spotify.com/track/0cfzsbbOnqe8Ly6quaBKDk"
@@ -1563,7 +1563,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 248720,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/6ZPpy9nlOq2xDw054bjoS9"
@@ -1699,7 +1699,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 231605,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
@@ -1751,6 +1751,24 @@
       "duration_ms": 406395,
       "name": "Parallel - LSB Remix",
       "url": "https://open.spotify.com/track/7I62FqLYE105ulbd7fSO8b"
+    },
+    {
+      "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/6SVAHUGTdZTCeLYTog2mfQ"
+      },
+      "artists": [
+        {
+          "name": "Satl",
+          "url": "https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301789,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/64KjiKPJkgmb44IRYVXLJ0"
     },
     {
       "album": {
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Solar System",
       "url": "https://open.spotify.com/track/5cRDn5aGMLvWsldoRmOOz0"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 268955,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/3u787rFfUvg3kMK7tNyjiV"
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 213942,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/3ZLQMBYxrdLIYw0HW00BVm"

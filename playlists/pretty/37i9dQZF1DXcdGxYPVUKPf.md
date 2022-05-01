@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 
 > Mental strength begins here—Dwayne Johnson’s Iron Paradise Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,086 likes - 23 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,102 likes - 23 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 | 2 | [On The Run](https://open.spotify.com/track/4sLozZ8Weo81XhRrwqbqnJ) | [Naz Tokio](https://open.spotify.com/artist/2Ohz3BAbalahBYLuM836cd) | [On The Run](https://open.spotify.com/album/6wfUVm9aYFoYtLXCPugXrt) | 2:41 |
 | 3 | [Get Up On My Level](https://open.spotify.com/track/7hXPF6mq76yeknggOnCNID) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [Aja Elan](https://open.spotify.com/artist/5vSvL2GNm9anuyWiy9YZCL) | [Get Up On My Level](https://open.spotify.com/album/0retIMfRSCLdGiUUatMct8) | 2:50 |
 | 4 | [Go Hard](https://open.spotify.com/track/6v0WJXzW6jMO3q8ACPWgpp) | [Walter French](https://open.spotify.com/artist/1KIH0qMvrEdK5HrFtMieWE), [Lauren Hashian](https://open.spotify.com/artist/0bchCUkOuvPSeazHgDsh0Y) | [Go Hard](https://open.spotify.com/album/7rxQJ0HuHwWm0oPK0T1Eeg) | 3:09 |
-| 5 | [Rock & Roll Band](https://open.spotify.com/track/6Zqi66Qg8iBjco53F5QHcN) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Greatest Hits](https://open.spotify.com/album/0ouBJG6m2VFeQFEvFv7Io2) | 3:00 |
-| 6 | [The Ecstasy of Gold \(Live\)](https://open.spotify.com/track/0L5ZW54haCFM84is0UhLjj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ) | [S&M2](https://open.spotify.com/album/4vxkHVyS6D66Rwt0mpz0cS) | 2:41 |
+| 5 | [The Ecstasy of Gold \(Live\)](https://open.spotify.com/track/0L5ZW54haCFM84is0UhLjj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ) | [S&M2](https://open.spotify.com/album/4vxkHVyS6D66Rwt0mpz0cS) | 2:41 |
+| 6 | [Rock & Roll Band](https://open.spotify.com/track/6Zqi66Qg8iBjco53F5QHcN) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Greatest Hits](https://open.spotify.com/album/0ouBJG6m2VFeQFEvFv7Io2) | 3:00 |
 | 7 | [All Night Long \- Live; 1999 Remaster](https://open.spotify.com/track/36psUsoODcqVG52lQIzDNy) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles Live](https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2) | 5:34 |
 | 8 | [That Box](https://open.spotify.com/track/0s77c1ThyBrs35oXKGUUc4) | [Tech N9ne Collabos](https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t), [Big Krizz Kaliko](https://open.spotify.com/artist/0BWaIw0Ns1a7e51l3DminD), [Greed](https://open.spotify.com/artist/0rHMSWop2zjzzy8tDETdui), [Kutt Calhoun](https://open.spotify.com/artist/78nL8LitGR7vO0qp2iZF9E), [Snug Brim](https://open.spotify.com/artist/4qoda7nfDZu2VPP9MWPx2h), [Skatterman](https://open.spotify.com/artist/7j737JHxqSvr0ELJXhHgNq) | [Misery Loves Kompany](https://open.spotify.com/album/6ZQsfsE3X900PjZeomO4VY) | 5:49 |
 | 9 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 |
-| 10 | [Standing in the Headlights](https://open.spotify.com/track/0C4NHwuJdQn6b5SZB0ewUF) | [Eric Strickland & the B Sides](https://open.spotify.com/artist/5ITwDrWvrtMxVRlR10QYFn) | [Honky Tonk Till I Die](https://open.spotify.com/album/7FOBfMubIyN5ywBlQQldth) | 3:32 |
-| 11 | [Work Hard](https://open.spotify.com/track/6DSdSwWlQF30DkuRPvBkQn) | [Frankie Paul](https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u) | [Hard Work](https://open.spotify.com/album/7kkZyqCkWIOQs4JHuWFSTg) | 3:40 |
+| 10 | [Work Hard](https://open.spotify.com/track/6DSdSwWlQF30DkuRPvBkQn) | [Frankie Paul](https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u) | [Hard Work](https://open.spotify.com/album/7kkZyqCkWIOQs4JHuWFSTg) | 3:40 |
+| 11 | [Standing in the Headlights](https://open.spotify.com/track/0C4NHwuJdQn6b5SZB0ewUF) | [Eric Strickland & the B Sides](https://open.spotify.com/artist/5ITwDrWvrtMxVRlR10QYFn) | [Honky Tonk Till I Die](https://open.spotify.com/album/7FOBfMubIyN5ywBlQQldth) | 3:32 |
 | 12 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
 | 13 | [No More Pain](https://open.spotify.com/track/1hJtNms8jQNDm1Cx9k2UR4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/1Mdy7hhoQRYdVrHzYnlUee) | 6:14 |
 | 14 | [POP STAR \(feat\. Kevin Gates\)](https://open.spotify.com/track/2TsD9kSbgYx5fSNRsoNURE) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:03 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 | 22 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 |
 | 23 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
 
-Snapshot ID: `MTY1MTM0NzQ1OSwwMDAwMDAwMDk3Y2JlNTY0OTgwYTExOTg5ZTZiMGJmMjU1Njk5ZDgy`
+Snapshot ID: `MTY1MTM2ODAzOCwwMDAwMDAwMDY2ZjA2YThhOTNhM2YwOWRkM2JmOTFiODVmNzZhZGVh`

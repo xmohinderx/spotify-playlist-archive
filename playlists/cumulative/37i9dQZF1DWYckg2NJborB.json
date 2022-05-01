@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Beggars",
+        "url": "https://open.spotify.com/album/7nw8OznIFKVqaJcGCT35Lc"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290760,
+      "name": "Doublespeak",
+      "url": "https://open.spotify.com/track/5A3LfRNlvin0EtYj6mQbn4"
+    },
+    {
+      "album": {
         "name": "Why Should The Fire Die?",
         "url": "https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb"
       },
@@ -325,7 +343,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 211626,
       "name": "Harper Lee",
       "url": "https://open.spotify.com/track/4MfmlkRKhlREunOHnasUhm"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 275080,
       "name": "No Poem",
       "url": "https://open.spotify.com/track/3FYKFB7FHN63hD3idN9kiO"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 158680,
       "name": "Walt Whitman",
       "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá\. Foto: L\-Gante & Aleman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,373 likes - 54 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,438 likes - 54 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

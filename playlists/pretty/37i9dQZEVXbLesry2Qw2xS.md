@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLesry2Qw2xS.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,305 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,307 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

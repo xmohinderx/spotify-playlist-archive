@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 868262,
+  "num_followers": 868363,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM0Njg1MSwwMDAwMDAwMGNhYmYyMDkwMmYyOTRjZDE4NDUwMzU1ZDkxMWRkNWY2",
+  "snapshot_id": "MTY1MTM2NzQzOCwwMDAwMDAwMGMzOGI0NmQ2MDEyYjI4NjVhNGJlMGQ0NTlkNjNmZjgy",
   "tracks": [
     {
       "added_at": "2022-01-20 08:09:08",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 256959,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/5vaadMKxBp0nvzfMrlaiQ7"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
         "name": "Twentysomething",
         "url": "https://open.spotify.com/album/5uBSuPB7ZgHB1mLtFzO39B"
       },
@@ -55,22 +39,6 @@
       "duration_ms": 309693,
       "name": "What A Difference A Day Made",
       "url": "https://open.spotify.com/track/0ZwLGauFqFpbj4P3apDM3r"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Moon River And Other Great Movie Themes",
-        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 162893,
-      "name": "Moon River (From \"Breakfast at Tiffany's\")",
-      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -91,18 +59,34 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 158226,
-      "name": "It Had to Be You (Big Band and Vocals)",
-      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
+      "duration_ms": 256959,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/5vaadMKxBp0nvzfMrlaiQ7"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Moon River And Other Great Movie Themes",
+        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "Moon River (From \"Breakfast at Tiffany's\")",
+      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -127,34 +111,18 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "The Very Best Of Diana Krall (UK Version)",
-        "url": "https://open.spotify.com/album/73DrrvGY20s9bAAejnJ1s7"
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 281093,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/6ERQqdIkr7Rp4tt52Eep6r"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "The Very Best Of Andy Williams",
-        "url": "https://open.spotify.com/album/3Og0hkf2QsluUfzUJ2PIru"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Can't Take My Eyes Off You",
-      "url": "https://open.spotify.com/track/00jlyC6x233qlS1vhLHdA3"
+      "duration_ms": 158226,
+      "name": "It Had to Be You (Big Band and Vocals)",
+      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -191,18 +159,34 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Crooners And Cocktails",
-        "url": "https://open.spotify.com/album/5Hxjv0U2uMoG9UQTDpsMxy"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 154186,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/5oHE082Md9ihZvqoWMOO4y"
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "The Very Best Of Diana Krall (UK Version)",
+        "url": "https://open.spotify.com/album/73DrrvGY20s9bAAejnJ1s7"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 281093,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/6ERQqdIkr7Rp4tt52Eep6r"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -227,38 +211,6 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Come Away With Me",
-        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 154640,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/6FjAGZp7c0Z2uaL3eHkXsx"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
         "name": "We Are In Love",
         "url": "https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82"
       },
@@ -275,18 +227,66 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "The Best Of... The Great American Songbook (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7sQ8DlLQXzBKX8Z9sZ3tNZ"
+        "name": "Come Away With Me",
+        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 212106,
-      "name": "Someone To Watch Over Me",
-      "url": "https://open.spotify.com/track/0pi49lNsPqbQJ814gCrxGt"
+      "duration_ms": 154640,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/6FjAGZp7c0Z2uaL3eHkXsx"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "The Very Best Of Andy Williams",
+        "url": "https://open.spotify.com/album/3Og0hkf2QsluUfzUJ2PIru"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Can't Take My Eyes Off You",
+      "url": "https://open.spotify.com/track/00jlyC6x233qlS1vhLHdA3"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "4 Beautiful Jazz Divas (40 Tracks Remastered)",
+        "url": "https://open.spotify.com/album/1T81ZLCjdaOmgPvEuWjBOR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 182700,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1PkpbUvZkQHOvASe8pN5vi"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Crooners And Cocktails",
+        "url": "https://open.spotify.com/album/5Hxjv0U2uMoG9UQTDpsMxy"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/5oHE082Md9ihZvqoWMOO4y"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -307,18 +307,50 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "4 Beautiful Jazz Divas (40 Tracks Remastered)",
-        "url": "https://open.spotify.com/album/1T81ZLCjdaOmgPvEuWjBOR"
+        "name": "The Best Of... The Great American Songbook (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7sQ8DlLQXzBKX8Z9sZ3tNZ"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 182700,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/1PkpbUvZkQHOvASe8pN5vi"
+      "duration_ms": 212106,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/0pi49lNsPqbQJ814gCrxGt"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -343,18 +375,66 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 155306,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
+      "duration_ms": 279626,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 170960,
+      "name": "(I Left My Heart) In San Francisco",
+      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "As Time Goes By...The Great American Songbook: Volume II",
+        "url": "https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -375,70 +455,18 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
+        "name": "The Best Of The Decca Years Volume One: The Singer",
+        "url": "https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 170186,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 279626,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "As Time Goes By...The Great American Songbook: Volume II",
-        "url": "https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj"
+      "duration_ms": 182240,
+      "name": "A Kiss To Build A Dream On",
+      "url": "https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -463,34 +491,18 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
       "artists": [
         {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 152000,
-      "name": "I've Got a Crush On You",
-      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "The Best Of The Decca Years Volume One: The Singer",
-        "url": "https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "A Kiss To Build A Dream On",
-      "url": "https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID"
+      "duration_ms": 154133,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -515,86 +527,6 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Swing When You're Winning",
-        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 154133,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "I Left My Heart In San Francisco",
-        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 170960,
-      "name": "(I Left My Heart) In San Francisco",
-      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/6lTTzSk1hRrxp4VMwXBp2l"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Your Songs",
-        "url": "https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/4euDvcRWAdzjoBjEDA2lV7"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
         "name": "Little Girl Blue (2013 Remastered Version)",
         "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
       },
@@ -611,114 +543,38 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 269800,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
+      "duration_ms": 170186,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
     },
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Swing When You're Winning",
-        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Mr Bojangles",
-      "url": "https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 195626,
-      "name": "Dream A Little Dream Of Me - 1998 Remaster",
-      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Harlem On My Mind",
-        "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        }
-      ],
-      "duration_ms": 292288,
-      "name": "Don't Take Your Love From Me",
-      "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Things Are Swingin'/Jump For Joy",
-        "url": "https://open.spotify.com/album/3TgP9cFfg93qoCR7BO9ZXU"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 130639,
-      "name": "Ain't We Got Fun",
-      "url": "https://open.spotify.com/track/6TsdvMtwcoDcoJa4ZhDGxZ"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "For Once in My Life",
-      "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
+      "duration_ms": 152000,
+      "name": "I've Got a Crush On You",
+      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -739,50 +595,18 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/7IfeIgmH2s46g1RhK0wfEw"
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 231680,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/5tPdH3Qm9exYGRUG0vUrr7"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Renee Olstead",
-        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "A Love That Will Last",
-      "url": "https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh"
+      "duration_ms": 153533,
+      "name": "For Once in My Life",
+      "url": "https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -803,6 +627,134 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
+        "name": "Things Are Swingin'/Jump For Joy",
+        "url": "https://open.spotify.com/album/3TgP9cFfg93qoCR7BO9ZXU"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 130639,
+      "name": "Ain't We Got Fun",
+      "url": "https://open.spotify.com/track/6TsdvMtwcoDcoJa4ZhDGxZ"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/7IfeIgmH2s46g1RhK0wfEw"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/5tPdH3Qm9exYGRUG0vUrr7"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Mr Bojangles",
+      "url": "https://open.spotify.com/track/0aIXPVVZArfwTOrPYSOaa5"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Renee Olstead",
+        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "A Love That Will Last",
+      "url": "https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/6lTTzSk1hRrxp4VMwXBp2l"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Your Songs",
+        "url": "https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/4euDvcRWAdzjoBjEDA2lV7"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Harlem On My Mind",
+        "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        }
+      ],
+      "duration_ms": 292288,
+      "name": "Don't Take Your Love From Me",
+      "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
         "name": "My One And Only Thrill",
         "url": "https://open.spotify.com/album/0Qe8wdANNrf5PkP76qnXyN"
       },
@@ -815,6 +767,54 @@
       "duration_ms": 211893,
       "name": "Baby I'm A Fool",
       "url": "https://open.spotify.com/track/7ilWEHob3AYG3lAJlKEpDR"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "Dream A Little Dream Of Me - 1998 Remaster",
+      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Portrait of a Legend (Remastered)",
+        "url": "https://open.spotify.com/album/0oTTjsFeHYunInQieE1U3n"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 126760,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/7Ek2kv9If3IjdMCRyeVm8g"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -851,34 +851,18 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "The Manhattan Transfer",
-        "url": "https://open.spotify.com/album/2us4nYN1OoaAkvEXVNRLQu"
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
       "artists": [
         {
-          "name": "The Manhattan Transfer",
-          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 186866,
-      "name": "Tuxedo Junction",
-      "url": "https://open.spotify.com/track/5qDNH9eQkseIjwZ4BqCsNm"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Portrait of a Legend (Remastered)",
-        "url": "https://open.spotify.com/album/0oTTjsFeHYunInQieE1U3n"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 126760,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/7Ek2kv9If3IjdMCRyeVm8g"
+      "duration_ms": 181440,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -919,6 +903,38 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "The Manhattan Transfer",
+        "url": "https://open.spotify.com/album/2us4nYN1OoaAkvEXVNRLQu"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Tuxedo Junction",
+      "url": "https://open.spotify.com/track/5qDNH9eQkseIjwZ4BqCsNm"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
         "name": "Dino: The Essential Dean Martin",
         "url": "https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 162066,
       "name": "Sway (Quien Sera) - 1997 - Remastered",
       "url": "https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Around The City",
-        "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "Save Your Love For Me",
-      "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -967,38 +967,6 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Elvis 75",
-        "url": "https://open.spotify.com/album/0xbql9IlSeJSnFZjfryYuf"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/264A7BIyuZUxtCKG4wokXX"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
         "name": "The Royal Wedding Waltzes (2011)",
         "url": "https://open.spotify.com/album/0d028dCIUPkV2sJW844nRM"
       },
@@ -1015,38 +983,18 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Johnny's Greatest Hits",
-        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
+        "name": "Big Band",
+        "url": "https://open.spotify.com/album/5qwHEir763AzFBDqHaO9yM"
       },
       "artists": [
         {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        },
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "John Tesh",
+          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
         }
       ],
-      "duration_ms": 182440,
-      "name": "Chances Are (with Ray Conniff & His Orchestra)",
-      "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "That's Amore: The Best Of Dean Martin",
-        "url": "https://open.spotify.com/album/4EDmCz4omM0jQ3qMH6Klwk"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "That's Amore - Remastered",
-      "url": "https://open.spotify.com/track/59XfrHT6N1mLaqSecAHTo2"
+      "duration_ms": 263493,
+      "name": "Beyond The Sea",
+      "url": "https://open.spotify.com/track/0I05tt7WMX106xCJiRsEkc"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -1071,54 +1019,54 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+        "name": "Johnny's Greatest Hits",
+        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 202854,
-      "name": "I Only Have Eyes for You",
-      "url": "https://open.spotify.com/track/3Rth37LIX8nTYyT1XskmFR"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
         },
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
         }
       ],
-      "duration_ms": 178466,
-      "name": "I've Got The World On A String - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3BtIUTUYKdzrgTj7gjcV0W"
+      "duration_ms": 182440,
+      "name": "Chances Are (with Ray Conniff & His Orchestra)",
+      "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
     },
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Qui ?",
-        "url": "https://open.spotify.com/album/70PEHw90vbLwoHMFBEbI3x"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7GiFhLj7OY98QpRwmlVUl8"
       },
       "artists": [
         {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
         }
       ],
-      "duration_ms": 139506,
-      "name": "For Me Formidable",
-      "url": "https://open.spotify.com/track/7xx7mUGAPcMd6gGqHzoec9"
+      "duration_ms": 211586,
+      "name": "In the Mood",
+      "url": "https://open.spotify.com/track/6dZKWYSx5YBIme4SfpIHJ0"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "That's Amore: The Best Of Dean Martin",
+        "url": "https://open.spotify.com/album/4EDmCz4omM0jQ3qMH6Klwk"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "That's Amore - Remastered",
+      "url": "https://open.spotify.com/track/59XfrHT6N1mLaqSecAHTo2"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -1143,18 +1091,54 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7GiFhLj7OY98QpRwmlVUl8"
+        "name": "Elvis 75",
+        "url": "https://open.spotify.com/album/0xbql9IlSeJSnFZjfryYuf"
       },
       "artists": [
         {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 211586,
-      "name": "In the Mood",
-      "url": "https://open.spotify.com/track/6dZKWYSx5YBIme4SfpIHJ0"
+      "duration_ms": 182466,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/264A7BIyuZUxtCKG4wokXX"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Around The City",
+        "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "Save Your Love For Me",
+      "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Platinum Collection",
+        "url": "https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        },
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Qu'est-ce que tu crois ?",
+      "url": "https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -1175,18 +1159,102 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Big Band",
-        "url": "https://open.spotify.com/album/5qwHEir763AzFBDqHaO9yM"
+        "name": "love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
       },
       "artists": [
         {
-          "name": "John Tesh",
-          "url": "https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 263493,
-      "name": "Beyond The Sea",
-      "url": "https://open.spotify.com/track/0I05tt7WMX106xCJiRsEkc"
+      "duration_ms": 202854,
+      "name": "I Only Have Eyes for You",
+      "url": "https://open.spotify.com/track/3Rth37LIX8nTYyT1XskmFR"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Qui ?",
+        "url": "https://open.spotify.com/album/70PEHw90vbLwoHMFBEbI3x"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 139506,
+      "name": "For Me Formidable",
+      "url": "https://open.spotify.com/track/7xx7mUGAPcMd6gGqHzoec9"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "I've Got The World On A String - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3BtIUTUYKdzrgTj7gjcV0W"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
+      "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 275576,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/6WAoKqfh8CAqTbjiLkM4q1"
+    },
+    {
+      "added_at": "2022-01-20 08:09:08",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2022-01-20 08:09:08",
@@ -1223,106 +1291,34 @@
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Platinum Collection",
-        "url": "https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT"
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/16BF4fvjjxlzrdKrUl4k5F"
       },
       "artists": [
         {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        },
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Qu'est-ce que tu crois ?",
-      "url": "https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1"
+      "duration_ms": 201333,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2CeqxyOZEyiL6pTDYZ9gPH"
     },
     {
       "added_at": "2022-01-20 08:09:08",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Crooners And Cocktails",
+        "url": "https://open.spotify.com/album/5Hxjv0U2uMoG9UQTDpsMxy"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Vic Damone",
+          "url": "https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g"
         }
       ],
-      "duration_ms": 177400,
-      "name": "You Make Me Feel So Young - Remastered 1998",
-      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 275576,
-      "name": "Luck Be A Lady",
-      "url": "https://open.spotify.com/track/6WAoKqfh8CAqTbjiLkM4q1"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
-      "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2022-01-20 08:09:08",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Love Is Here To Stay - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4ehAqz41dlWdLbBBIubIla"
+      "duration_ms": 117053,
+      "name": "Let's Fall in Love",
+      "url": "https://open.spotify.com/track/0tr9uiYlchva9CatdXRGE9"
     },
     {
       "added_at": "2022-01-20 08:09:08",

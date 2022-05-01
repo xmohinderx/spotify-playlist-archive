@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Muse In Her Feelings",
+        "url": "https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231489,
+      "name": "'Flawless' Do It Well Pt. 3 (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/6Ok5DivyUJjsLVUUWLzz6o"
+    },
+    {
+      "album": {
         "name": "EXOTIGAZ",
         "url": "https://open.spotify.com/album/0atHmrOzrm6itiQJbGyN7Q"
       },
@@ -95,7 +117,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 202551,
       "name": "24hrs",
       "url": "https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR"
@@ -143,7 +165,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 200547,
       "name": "3AM",
       "url": "https://open.spotify.com/track/6xRNqXP3baPR9buXr8vreM"
@@ -195,7 +217,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 188293,
       "name": "7:00",
       "url": "https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz"
@@ -285,7 +307,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 150229,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/6lVzAJftbOM5Mnd3jw3otO"
@@ -599,7 +621,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 265666,
       "name": "Are You That Somebody",
       "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
@@ -1031,7 +1053,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 198171,
       "name": "Blessed & Free",
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
@@ -1291,7 +1313,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 205458,
       "name": "Calling My Phone",
       "url": "https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx"
@@ -1535,7 +1557,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 208000,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/1R6bPOBdZkxEztiXNiW3X4"
@@ -1715,7 +1737,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 182400,
       "name": "Crazy Tings",
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
@@ -1763,7 +1785,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 186459,
       "name": "Crowded Room (feat. 6LACK)",
       "url": "https://open.spotify.com/track/2C0hTkdEoikhKzDCJl32QZ"
@@ -2249,7 +2271,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 157253,
       "name": "Easy Breezy",
       "url": "https://open.spotify.com/track/43DC4xda0mFek23gGgMUz2"
@@ -2933,7 +2955,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 227234,
       "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
       "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
@@ -3079,7 +3101,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 214692,
       "name": "Gravity (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
@@ -3127,7 +3149,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 221650,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/3T9VLKYbT0pGWPqhy415G0"
@@ -4209,7 +4231,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 192823,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/4tGGaI4N2KDjmAwXxF1e7P"
@@ -4351,7 +4373,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 177720,
       "name": "LOST YOU",
       "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
@@ -4409,7 +4431,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
@@ -4467,7 +4489,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 194415,
       "name": "Magazines",
       "url": "https://open.spotify.com/track/6I9gDbfmE9hmHHWQVmvkGZ"
@@ -4867,7 +4889,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
@@ -5097,7 +5119,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 205654,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0n1JxQTqtzezc6y6sDLzuT"
@@ -5247,7 +5269,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 270760,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/6gdhHMWUv1pvkOHqCUGvCp"
@@ -5849,7 +5871,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 269883,
       "name": "Race My Mind",
       "url": "https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ"
@@ -5871,7 +5893,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 223799,
       "name": "Rain (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/1pZwFpiLKrSfNtXs6WQLlf"
@@ -5937,7 +5959,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 186432,
       "name": "raw",
       "url": "https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8"
@@ -5959,7 +5981,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 154634,
       "name": "Rebel (feat. Jeremih)",
       "url": "https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR"
@@ -6123,7 +6145,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 206893,
       "name": "Risk It All (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/7ncVTZ86MJQZK1FuW4hWLs"
@@ -6923,7 +6945,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 254230,
       "name": "Stars in The Sky (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/5ziNnhZ1hK100fIUvkDZUH"
@@ -7031,7 +7053,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 203158,
       "name": "summer night o8",
       "url": "https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU"
@@ -7483,7 +7505,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 203626,
       "name": "TIME FOR YOU",
       "url": "https://open.spotify.com/track/1DPLs8cVyL1Trlg5Kayua7"
@@ -7799,7 +7821,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 208215,
       "name": "U 2 Luv",
       "url": "https://open.spotify.com/track/3862MQcbNmghGJDfk8cOJi"
@@ -8055,7 +8077,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 259816,
       "name": "Wake Up, Get Down",
       "url": "https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54"
@@ -8111,7 +8133,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 189727,
       "name": "Wandered To LA (with Justin Bieber)",
       "url": "https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g"
@@ -8133,7 +8155,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
@@ -8455,7 +8477,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 179652,
       "name": "What You See (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/58H8cWvvaFLFg2g7SdOO44"
@@ -8477,7 +8499,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-01",
       "duration_ms": 231717,
       "name": "What's On Your Mind (feat. Jacquees)",
       "url": "https://open.spotify.com/track/0te0mYcVMqRLc4vuDjZ0Yg"

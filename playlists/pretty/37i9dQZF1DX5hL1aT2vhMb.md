@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers who continue to transform the classical world\. Cover: Olivia Belli
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,965 likes - 57 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,968 likes - 57 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
