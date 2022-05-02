@@ -181,7 +181,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 167741,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2l1ZqaEr1fyFfHSudE7uSU"
@@ -1028,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "A War On Everything",
+        "url": "https://open.spotify.com/album/3XI6zViavQ6b7uTwdKGeWc"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "Closer To The Sky",
+      "url": "https://open.spotify.com/track/1pf8bjnKw5SgtfSvINI0Kt"
+    },
+    {
+      "album": {
         "name": "When Night Becomes Day",
         "url": "https://open.spotify.com/album/1yz3tI7TG1fpTIzBzW1mud"
       },
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 210961,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/6Mf8ozEDo35UcgKgKajrBY"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 234476,
       "name": "Death By Rock And Roll",
       "url": "https://open.spotify.com/track/0ThYrwnekhJLSJBiGPD1L7"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 201556,
       "name": "Figure Eight",
       "url": "https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq"
@@ -2255,7 +2273,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 217560,
       "name": "Hesitations",
       "url": "https://open.spotify.com/track/2ulg6v1K4pj8Pf6xzNAZGi"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 165034,
       "name": "Kid Midnight",
       "url": "https://open.spotify.com/track/7FmqchmnWZPhWE7IzBAowz"
@@ -3895,7 +3913,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 167920,
       "name": "Paradise Lost, a poem by John Milton",
       "url": "https://open.spotify.com/track/0brRAViWRg60fyrCynTPxl"
@@ -4483,7 +4501,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 222936,
       "name": "Shakin' Off The Rust",
       "url": "https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl"
@@ -4649,7 +4667,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 196173,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
@@ -4789,7 +4807,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 193770,
       "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
       "url": "https://open.spotify.com/track/0FdCFfb5xb7thJMaSjLFsH"
@@ -5075,7 +5093,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 246932,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
@@ -5169,7 +5187,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 223320,
       "name": "The Best (feat. Alice Merton)",
       "url": "https://open.spotify.com/track/5iReOl0OJPQjSIIndoYDMd"
@@ -5353,7 +5371,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 227206,
       "name": "The Kingdom",
       "url": "https://open.spotify.com/track/70GPQX67w54kz33PcsXIuk"
@@ -5483,7 +5501,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 252002,
       "name": "The Vengeful One",
       "url": "https://open.spotify.com/track/5tz5QsHPkv69T1scq2utZZ"
@@ -5681,7 +5699,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 241856,
       "name": "Twisted Tongues",
       "url": "https://open.spotify.com/track/5x1Shc6k7r3hBYyjNaaddy"
@@ -6173,7 +6191,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 152796,
       "name": "WW3",
       "url": "https://open.spotify.com/track/7cL0pp1OpgcAUQfS2CsQ23"
@@ -6263,7 +6281,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 321708,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"

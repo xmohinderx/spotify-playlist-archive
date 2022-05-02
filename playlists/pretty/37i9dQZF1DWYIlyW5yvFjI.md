@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIlyW5yvFjI.md) - [plain]
 
 > Beautiful noise: when Shoegaze goes Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,199 likes - 73 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,243 likes - 73 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

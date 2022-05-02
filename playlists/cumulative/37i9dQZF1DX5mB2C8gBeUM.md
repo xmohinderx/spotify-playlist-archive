@@ -2,7 +2,7 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\.  Artist: Rvshvd
+> Country gone wild! You never know what you're gonna get\.  Artist: Kassi Ashton
 
 207 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 

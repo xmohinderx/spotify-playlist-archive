@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 | 2021-07-02 |  |
+| [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 | 2021-07-02 | 2022-05-02 |
 | [A Cor É Rosa](https://open.spotify.com/track/5QUoiOFWAaV5VC2VbBhHJ4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [A Cor É Rosa](https://open.spotify.com/album/3wLwv0W8vx2mhmMWC9lNEF) | 3:48 | 2021-07-02 |  |
 | [A Estrada](https://open.spotify.com/track/3bS1srVDOOqGYCKcnzYwfs) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Quanto Mais Curtido Melhor](https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX) | 4:42 | 2021-07-02 |  |
 | [A Voz E O Violão](https://open.spotify.com/track/3PX5eDiq4yOCeryQg5FcFr) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [A Voz E O Violão](https://open.spotify.com/album/6gEnotCkoJLErkbEpoqkmk) | 3:23 | 2021-07-02 |  |
@@ -51,7 +51,7 @@
 | [Lourinha Bombril](https://open.spotify.com/track/3eUOVnvVw9ntGUqJmHKF1J) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Nove Luas](https://open.spotify.com/album/4ZhHdPLQtqUgTfHbxxB8xB) | 2:38 | 2021-07-02 |  |
 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 | 2021-07-02 |  |
 | [Nobre Vagabundo](https://open.spotify.com/track/4tlqGrCS0PdlDPHyWPkgMR) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS) | 3:53 | 2021-07-02 |  |
-| [Nossa música](https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Nossa música](https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj) | 3:59 | 2021-07-02 | 2022-05-01 |
+| [Nossa música](https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Nossa música](https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj) | 3:59 | 2021-07-02 |  |
 | [O Descobridor dos Sete Mares](https://open.spotify.com/track/0cOad1EbVLwi06mHIcqGip) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu e Memê, Memê e Eu](https://open.spotify.com/album/1XgCslXe5fq5vQNcZvyEWS) | 3:44 | 2021-07-02 |  |
 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 | 2021-07-02 |  |
 | [Onde Você Mora?](https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Onde Você Mora?](https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ) | 3:58 | 2021-07-02 |  |

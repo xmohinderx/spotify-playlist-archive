@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about\. Try it on for size\. Cover: Zach Bryan
+> New Music Discovery is what we're about\. Try it on for size\. Cover: Ingrid Andress
 
 1,328 songs - 3 day 0 hr 5 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
 

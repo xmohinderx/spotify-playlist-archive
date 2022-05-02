@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -2785,7 +2785,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 128720,
       "name": "Dirty 30",
       "url": "https://open.spotify.com/track/3bZq9URLSRubOqwqrdzkzh"
@@ -3309,7 +3309,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
@@ -3375,7 +3375,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 145040,
       "name": "Eget Bruk",
       "url": "https://open.spotify.com/track/1kJ9nVh9LjPYiCvcBSsPyz"
@@ -5107,7 +5107,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 228453,
       "name": "Gr\u00e5ter om du vill",
       "url": "https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4"
@@ -6049,7 +6049,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 140586,
       "name": "H\u00f6rnet",
       "url": "https://open.spotify.com/track/6fViNUQQiznHZ7oZyuxoqa"
@@ -6085,7 +6085,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 168437,
       "name": "I Can't Get Enough",
       "url": "https://open.spotify.com/track/1F3NBThWyr845YUwpm5n1F"
@@ -6561,7 +6561,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 161226,
       "name": "Ingen Respekt",
       "url": "https://open.spotify.com/track/31gOnCobpIjlysBlFsaxdd"
@@ -8215,7 +8215,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 153786,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6EAJ2CD93KYEbEeC3XrKOy"
@@ -8327,7 +8327,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 161684,
       "name": "L\u00e4nge Leve Vi",
       "url": "https://open.spotify.com/track/6Pqrm55DFjQZQi8jC2yBVa"
@@ -8661,6 +8661,24 @@
       "duration_ms": 203076,
       "name": "MEDVETSL\u00d6S",
       "url": "https://open.spotify.com/track/1hA5oGHUE1TLu5QCHPmz63"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "MEDVETSL\u00d6S",
+      "url": "https://open.spotify.com/track/5KZ9BpVURYDoUNp04DBte6"
     },
     {
       "album": {
@@ -10561,7 +10579,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 156404,
       "name": "Regler (B\u00e5set)",
       "url": "https://open.spotify.com/track/5RUDslCh5maxKZ7a7QyCTk"
@@ -11841,7 +11859,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 173650,
       "name": "Som du vill",
       "url": "https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn"
@@ -13665,6 +13683,24 @@
       "duration_ms": 168000,
       "name": "V12",
       "url": "https://open.spotify.com/track/6jpdmZj65fT9jX9izk2B6n"
+    },
+    {
+      "album": {
+        "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig",
+        "url": "https://open.spotify.com/album/4y7g9dQcKkmBBNtMYhHxQs"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Valborg",
+      "url": "https://open.spotify.com/track/0Hz0ySp6XYrBhEQPU16Hz8"
     },
     {
       "album": {

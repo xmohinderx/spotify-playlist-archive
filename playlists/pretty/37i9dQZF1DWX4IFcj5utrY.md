@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=8\_2ohtNiR5i0U4oDloSrPA">Dr Feel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,098 likes - 74 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,125 likes - 74 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 48 | [Ufunantoni eGoli \- Original Mix](https://open.spotify.com/track/5yl8bP6E1TT4U1VUxaqdsE) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Issa Matthews](https://open.spotify.com/artist/70wVi4BsGpc7uTnF0zQyiL) | [Ufunantoni eGoli](https://open.spotify.com/album/6gqGu9WF3tMbMv47cfcsiA) | 6:31 |
 | 49 | [Train To Work](https://open.spotify.com/track/1pNyMl9Tj4uQgyW21yY95D) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Serengeti](https://open.spotify.com/album/4dACuW8u8dZA8k5U5ZFsOh) | 7:00 |
 | 50 | [A'aru](https://open.spotify.com/track/5iqsM5Oi7iNYxsAVjRFgi7) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [KayTee En Glent](https://open.spotify.com/artist/15u8weotNj5YflpHG98P8l) | [A'aru](https://open.spotify.com/album/7EwKc7kzFIGcIQRDL3g1bZ) | 8:35 |
-| 51 | [Coulors Of The Rainbow](https://open.spotify.com/track/7DyZ8u1AebTjZb1E0E5dcf) | [Michael King](https://open.spotify.com/artist/4QXIwYRu5HTQiTFYWl7Yri), [Afro Wav](https://open.spotify.com/artist/4isQKUJgd9uqwlZNBe7Ahk), [Takue \(SBT\)](https://open.spotify.com/artist/1AMODOLFPRMYni0iv8mZg6) | [Colours Of The Rainbow](https://open.spotify.com/album/18ClRNIs0V9VbcEbxtyKKY) | 7:20 |
+| 51 | [Coulors Of The Rainbow](https://open.spotify.com/track/7DyZ8u1AebTjZb1E0E5dcf) | [Michael King](https://open.spotify.com/artist/4QXIwYRu5HTQiTFYWl7Yri), [Afro Wav](https://open.spotify.com/artist/4isQKUJgd9uqwlZNBe7Ahk), [Takue SBT](https://open.spotify.com/artist/5YDzSHHcPzdA9RdEgi3g2U) | [Colours Of The Rainbow](https://open.spotify.com/album/18ClRNIs0V9VbcEbxtyKKY) | 7:20 |
 | 52 | [Heart & Soul \- CeeyChris Remix](https://open.spotify.com/track/1eqYfGzJ4r0lCsgIHi7mP1) | [Mshudu](https://open.spotify.com/artist/2Qq268FQgOnKcNPSe7Lz7Z), [Nasiphi](https://open.spotify.com/artist/27x90lcqHS7KvxCEGkL9Ga), [CeeyChris](https://open.spotify.com/artist/2hqjcSa1kE5VPfkHnZ9Cz4) | [Heart & Soul](https://open.spotify.com/album/3NJ9UGEi2TyXrhzR58LDG0) | 6:57 |
 | 53 | [Parachute](https://open.spotify.com/track/0I1suEDcKu73meeDsckAhz) | [Oliver Michael](https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z) | [Parachute](https://open.spotify.com/album/6C40tiozNL8KAoG7xDc4au) | 3:51 |
 | 54 | [Kuana \- \(Original Mix\)](https://open.spotify.com/track/6gRuYE5lMPf1NOcmqVh8tL) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Kuana \(Original Mix\)](https://open.spotify.com/album/27BGYIi8UUMV5P4vEaDLdK) | 7:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWzQ8keS6x.md) - [plain]
 
 > 🚂  É o trem do Poze com o melhor do Trap desse ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,161 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,491 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

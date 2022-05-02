@@ -2,7 +2,7 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Caitlyn Smith
+> Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Aaron Raitiere
 
 189 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 

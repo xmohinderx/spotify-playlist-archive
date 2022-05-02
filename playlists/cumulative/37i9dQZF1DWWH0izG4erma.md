@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS!!  <br/>Cover: Jackson Dean
+> Country Music that ROCKS!!  <br/>Cover: Whiskey Myers
 
 139 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 

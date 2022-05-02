@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: Hooks
 
-126 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+128 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [64 Bars](https://open.spotify.com/track/51JUS47kJuTDQBDJfbNGV1) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [64 Bars](https://open.spotify.com/album/6wDzucPpFL4ODV0saHuOav) | 3:09 | 2022-03-21 |  |
 | [64 Bars](https://open.spotify.com/track/4HrT0bSdtalmzfmoxiNE2Y) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [64 Bars](https://open.spotify.com/album/4lhZiRZudcm8eKSVnS11Aq) | 2:36 | 2022-03-21 |  |
 | [96 Bulls](https://open.spotify.com/track/7j2RJA45G8l0ZcDK2bOJJL) | [GMC](https://open.spotify.com/artist/1mjliHn4gJcgY5U5YtmFiP), [Johnny Narcotics](https://open.spotify.com/artist/6GBTukZn3btgHr1hq7ZGuP), [Alj](https://open.spotify.com/artist/4HPUHbvEGdXfuyaXxB0TNa), [KingTheFreeSoul](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [96 Bulls](https://open.spotify.com/album/4nitXAPFuLyCHinybJQs9b) | 3:01 | 2022-03-31 | 2022-04-15 |
+| [ABGz](https://open.spotify.com/track/2UuCc79U1gMcK1koGAPH2N) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats](https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL) | 3:14 | 2022-05-01 |  |
 | [Against All Odds](https://open.spotify.com/track/6Lv3we4ylEG00UbHPLfYBC) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [Against All Odds](https://open.spotify.com/album/5snGj1BTvW1WulJQbT31pi) | 2:38 | 2022-03-21 |  |
 | [Area Baby](https://open.spotify.com/track/5BFaSmEPZSu4A7hcTtoNlP) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:41 | 2022-03-21 |  |
 | [Aussie Raver](https://open.spotify.com/track/2IxukbfXzRflTlE06OFI7l) | [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Aussie Raver](https://open.spotify.com/album/4TKmOab6AcYpZmYw44Qkxd) | 2:59 | 2022-03-21 |  |
@@ -74,6 +75,7 @@
 | [MAKE IT DIP](https://open.spotify.com/track/0gtlSZCY8G6HJNqTRiVnDT) | [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U) | [MAKE IT DIP](https://open.spotify.com/album/2rxCJpUc6RhvjTFaFdCPCg) | 2:30 | 2022-03-21 |  |
 | [Make Money Not Friends](https://open.spotify.com/track/5F152wL6HnVIyr0UWvKh5v) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Make Money Not Friends](https://open.spotify.com/album/74vJth8gmNpP0eGJLYWiZX) | 2:56 | 2022-04-28 |  |
 | [MHMM](https://open.spotify.com/track/53vnp4yNfgLRjT1jfcukkq) | [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK), [Vinny](https://open.spotify.com/artist/6WCaEpEZmlapvnhfIdTxMN) | [Stack or Starve](https://open.spotify.com/album/1EJAt0Q2dC719lyBugb3gv) | 3:17 | 2022-03-21 |  |
+| [Molly Meldrum](https://open.spotify.com/track/3jZaqu5nKGdJAbFPuNFG51) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats](https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL) | 2:31 | 2022-05-01 |  |
 | [More Than Blessed](https://open.spotify.com/track/2tySzvRvGI6jcjfRHGKB57) | [Masei](https://open.spotify.com/artist/43Au01yCyTw5Q6vtG88vVV), [DoinDerr Deezy](https://open.spotify.com/artist/7LklqWb6ezcJf89xjvtiks) | [More Than Blessed](https://open.spotify.com/album/2mEfCuiHUBlbQfFryMJIoz) | 3:17 | 2022-03-21 |  |
 | [Morpheus](https://open.spotify.com/track/5Evd3yaRZcmhXmbaKWCPQA) | [Ivan Dr8ko](https://open.spotify.com/artist/5ZeKUfTXsz2Z3nB4qTuP7C), [Smokey.](https://open.spotify.com/artist/5a2nmVxnEEJ7Z2rhn9mmOx) | [Morpheus](https://open.spotify.com/album/0r4KH8Z2JhFdf9MIC98Hcn) | 3:47 | 2022-03-21 |  |
 | [MOST WANTED](https://open.spotify.com/track/3tjary4Ztoj0JPYPErLKan) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [ENEMY OF THE STATE](https://open.spotify.com/album/1j62L5h9Rqqo6Xn137NssQ) | 2:05 | 2022-03-26 |  |

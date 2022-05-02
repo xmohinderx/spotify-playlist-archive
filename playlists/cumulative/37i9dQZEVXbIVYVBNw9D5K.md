@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-423 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+424 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Bütün Gülleri Çalmışlar](https://open.spotify.com/track/0ZrreFYweVri0h5fZhegq0) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Umut](https://open.spotify.com/album/3BdlyOtto3aobfiUiSkYMJ) | 2:41 | 2021-05-16 | 2021-05-21 |
 | [Bırakma Kendini](https://open.spotify.com/track/087cds8zjbUmokjg2jdMOp) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Bırakma Kendini](https://open.spotify.com/album/2kj7ndfLwEJgeNFn9kL3jP) | 4:00 | 2021-03-27\* | 2021-06-03 |
 | [Cakal : İmdat](https://open.spotify.com/track/2vaT7cy28DS0lfMJOXX91S) | [RaidKlein](https://open.spotify.com/artist/2Ch8FjuR5IME08KDhdQ9CG) | [Cakal : İmdat](https://open.spotify.com/album/6zKuK8fUf5kBenRW7bTUVk) | 2:23 | 2022-04-12 | 2022-04-15 |
+| [Canıma Minnet](https://open.spotify.com/track/5mCfj3EpRzSSjm5Y5IMzzz) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Canıma Minnet](https://open.spotify.com/album/2pEJ0Iv7MLynZF0QAFaUfS) | 3:27 | 2022-05-01 |  |
 | [Cindy](https://open.spotify.com/track/40UN1GTSOsEtp7nAZYKrYq) | [Nufrain](https://open.spotify.com/artist/3UIBCL0QqPjEiolLMsLMJN), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Cindy](https://open.spotify.com/album/5heDTlRs2OOzVf136RSW5e) | 1:59 | 2021-09-25 | 2021-09-26 |
 | [CINDY](https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [CINDY](https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv) | 1:59 | 2021-09-26 |  |
 | [Daima](https://open.spotify.com/track/1u61m2yf7AaeGjASOpOOqR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Daima](https://open.spotify.com/album/4R1bXGAqz7bizLhnIaZm8p) | 3:24 | 2022-04-30 |  |
@@ -359,7 +360,7 @@
 | [Sevmek Yüzünden](https://open.spotify.com/track/4X25FY9QkLBlHAxKYjTY3U) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Sevmek Yüzünden](https://open.spotify.com/album/4GiU27H1hR7f9ZW8KlAHq6) | 3:39 | 2021-04-14 | 2021-05-03 |
 | [Señorita Sinyale](https://open.spotify.com/track/2iyI0CLKITX64eurWDRPOR) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Señorita Sinyale](https://open.spotify.com/album/7BNEu6hUIAfu1OI9UJPpkT) | 2:08 | 2021-08-01 | 2021-08-05 |
 | [Sharingan](https://open.spotify.com/track/6R76MbXJLUU3a2srbwjZHr) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Sharingan](https://open.spotify.com/album/7oqNfnG35KZbAZuIfXRu7L) | 1:47 | 2021-04-26 | 2021-07-07 |
-| [Sherlock Holmes \- Tirat](https://open.spotify.com/track/0VtY1lmgsWOv6ciozU0DEn) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Sherlock Holmes \(Tirat\)](https://open.spotify.com/album/3esW5FBZnrO0rxmjwxarKy) | 2:57 | 2022-04-30 |  |
+| [Sherlock Holmes \- Tirat](https://open.spotify.com/track/0VtY1lmgsWOv6ciozU0DEn) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Sherlock Holmes \(Tirat\)](https://open.spotify.com/album/3esW5FBZnrO0rxmjwxarKy) | 2:57 | 2022-04-30 | 2022-05-02 |
 | [Sil Baştan](https://open.spotify.com/track/1yt8iVzPepEE3NEiivo2MW) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1), [Ege Boran](https://open.spotify.com/artist/3fLOI9YQNiRAOCwUm75Zqn) | [Sil Baştan](https://open.spotify.com/album/3XtH4eCDba4FrcoKzvMrim) | 3:00 | 2022-04-23 | 2022-04-25 |
 | [Sis](https://open.spotify.com/track/76zoOB2W5KAh77cFcvKZyJ) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Bixi Blake](https://open.spotify.com/artist/2NPl6xmez0ma3ssIrMz1DM) | [Sis](https://open.spotify.com/album/1ngWrMYFufJn8B9BaIih11) | 3:14 | 2021-06-06 | 2021-06-13 |
 | [Slam Dunk](https://open.spotify.com/track/2EjorgHe9XSo5V4CaPawAm) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [EL PATRON](https://open.spotify.com/album/6aKRuXIgsdwIVonTP7PguK) | 2:30 | 2021-04-11 | 2021-04-13 |

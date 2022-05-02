@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 308253,
       "name": "Abre hoy los cielos (feat. Evan Craft)",
       "url": "https://open.spotify.com/track/3AO3bjGFZgqYtlc98APeRA"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 266947,
       "name": "Bendecir Tu Nombre",
       "url": "https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 343616,
       "name": "Construir\u00e9 Mi Vida",
       "url": "https://open.spotify.com/track/6GfDI3t6u8x0ELrbV315fT"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 465335,
       "name": "De Lo M\u00e1s Profundo",
       "url": "https://open.spotify.com/track/4ldw8AP89yMbSrbJviQxBb"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 270186,
       "name": "El Nombre De Jes\u00fas (feat. Christine D'clario)",
       "url": "https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 222229,
       "name": "Llegare (Remastered) [feat. Zeri]",
       "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 382453,
       "name": "Los Hijos Y Las Hijas De Dios - Live",
       "url": "https://open.spotify.com/track/5Cx8ciE1irYf1ur2DmGHC7"
@@ -1159,6 +1159,32 @@
       "duration_ms": 359999,
       "name": "Mas Profundo",
       "url": "https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU"
+    },
+    {
+      "album": {
+        "name": "Todo Estar\u00e1 Bien",
+        "url": "https://open.spotify.com/album/3UbQwjycRbE7UFllBlNww8"
+      },
+      "artists": [
+        {
+          "name": "Maji Phaneer",
+          "url": "https://open.spotify.com/artist/4Q6KlDRdYYbuPBrhEQ8a6X"
+        },
+        {
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+        },
+        {
+          "name": "DJ Nath",
+          "url": "https://open.spotify.com/artist/7ABp4uTv4ToqPc1BuIhUp9"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206394,
+      "name": "Me Amas",
+      "url": "https://open.spotify.com/track/1uFJZvx48xND7ADYyWKcMH"
     },
     {
       "album": {
@@ -1423,7 +1449,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 245163,
       "name": "No Lo Has Visto A\u00fan",
       "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
@@ -1535,7 +1561,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 259053,
       "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar)",
       "url": "https://open.spotify.com/track/6nK1x5xWT3x1N1gzhSB7gw"
@@ -1691,7 +1717,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 255879,
       "name": "Quien Soy Yo (feat. Redimi2)",
       "url": "https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9"
@@ -1771,7 +1797,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 265946,
       "name": "Salvo Mi Vida",
       "url": "https://open.spotify.com/track/41DEOBFUbfvDuYo83eQrIv"
@@ -1789,7 +1815,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 205043,
       "name": "Santo Esp\u00edritu",
       "url": "https://open.spotify.com/track/6UXRg4mC2k6fxi62XBqDX6"
@@ -1926,6 +1952,24 @@
     },
     {
       "album": {
+        "name": "No Hay Imposible",
+        "url": "https://open.spotify.com/album/28sW8tzjF6cNqfNQDeD69X"
+      },
+      "artists": [
+        {
+          "name": "Harold y Elena",
+          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206880,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/32w5nQB0SRObzlnra2TRpA"
+    },
+    {
+      "album": {
         "name": "Colecci\u00f3n Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/2kAZv7zHLq2y0YyCylgnoo"
       },
@@ -1991,7 +2035,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 185933,
       "name": "Temprano yo te buscar\u00e9",
       "url": "https://open.spotify.com/track/6QfSpgzQf2GbE3BMJBasgg"
@@ -2053,7 +2097,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 228970,
       "name": "Tu Amor Lo Vale Todo",
       "url": "https://open.spotify.com/track/5Fchjw21HPd4hI4GnUtEp4"
@@ -2165,7 +2209,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 182772,
       "name": "T\u00fa Eres Mi Gozo",
       "url": "https://open.spotify.com/track/5TrAJENHbxbBXSveIjJkyv"
@@ -2267,7 +2311,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 248651,
       "name": "Vives en M\u00ed",
       "url": "https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS"
@@ -2339,7 +2383,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 250720,
       "name": "Volver a Ti",
       "url": "https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa"
@@ -2357,7 +2401,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 316521,
       "name": "Yo Creo En Ti",
       "url": "https://open.spotify.com/track/6A6RWVRsBavxWjgB5qQYEg"

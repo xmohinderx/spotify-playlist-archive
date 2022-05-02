@@ -2,7 +2,7 @@
 
 ### [Still Hot](https://open.spotify.com/playlist/37i9dQZF1DX6rVyqO2FaN8)
 
-> Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Keith Urban
+> Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Luke Combs
 
 105 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/0TBZn7zfejqBGy43W0aTCF)
 

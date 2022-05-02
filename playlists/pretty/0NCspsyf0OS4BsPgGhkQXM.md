@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,040,263 likes - 129 songs - 7 hr 10 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,040,186 likes - 129 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 64 | [Haven](https://open.spotify.com/track/6Xcqm2M79Y6DvFcmAO6UqJ) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Pieces](https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB) | 4:11 |
 | 65 | [Inbetween](https://open.spotify.com/track/6AB9d81omM5pBrZUj18sn5) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Inbetween](https://open.spotify.com/album/2dxwAe8Gb186AzDGMAtWvV) | 3:39 |
 | 66 | [Aura](https://open.spotify.com/track/5RrJs8yt2SgIHfJ1oJprxp) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Daisy](https://open.spotify.com/album/60HYV2ICPgMtIMitX2rEqd) | 2:38 |
-| 67 | [Hold Me Close](https://open.spotify.com/track/6w8vKNoQ2EiAoeVdfFYkcF) | [3.](https://open.spotify.com/artist/2OUF2KY2wowaSsQHMCAoI4), [SHERIFF](https://open.spotify.com/artist/2gJEWpYDtvBqfxH7cos0Gf) | [Hold Me Close](https://open.spotify.com/album/7C8Ad9qXWfhCJWgCtqvzBs) | 2:26 |
+| 67 | [Hold Me Close](https://open.spotify.com/track/6w8vKNoQ2EiAoeVdfFYkcF) | [3.](https://open.spotify.com/artist/2OUF2KY2wowaSsQHMCAoI4), [SHERIFF](https://open.spotify.com/artist/4WAVgrrw6O5sNu4iTVU487) | [Hold Me Close](https://open.spotify.com/album/7C8Ad9qXWfhCJWgCtqvzBs) | 2:26 |
 | 68 | [Bittersweet Melody](https://open.spotify.com/track/2OZ76g7FfM1Vwxu7mX3Rqa) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:30 |
 | 69 | [Diamond](https://open.spotify.com/track/1qErURHcNx7WWrVUiOrKMs) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo) | [Diamond](https://open.spotify.com/album/0UVd1KUra44FpzWYa3ZIg0) | 3:04 |
 | 70 | [BLOOD](https://open.spotify.com/track/2odJRoZ0Bx3aHvNa8hpNrD) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [AUTONOMY](https://open.spotify.com/album/5faGNZdFI0tMkcjw40yODR) | 3:14 |

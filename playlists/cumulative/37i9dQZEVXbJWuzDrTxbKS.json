@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 224801,
       "name": "Angst",
       "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2623,7 +2623,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
@@ -2641,7 +2641,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
@@ -2961,7 +2961,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -3939,7 +3939,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 124750,
       "name": "for\u0161i b\u0113rni",
       "url": "https://open.spotify.com/track/6u382rEdCFhccZ8eREQQZB"
@@ -3997,7 +3997,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
@@ -4399,7 +4399,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -8261,7 +8261,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 192000,
       "name": "narenes ir kl\u0101t",
       "url": "https://open.spotify.com/track/2wijOKMP3ccgtfO6Idhfns"
@@ -8391,7 +8391,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 178806,
       "name": "nevari nopirkt",
       "url": "https://open.spotify.com/track/0ceRDX2oOOGtNhsC2PJ4oY"
@@ -9327,7 +9327,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 108000,
       "name": "pieaudzis v\u012brietis",
       "url": "https://open.spotify.com/track/2Bfp3LjK2lOD6AZ6NTEVdm"
@@ -10173,7 +10173,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 180596,
       "name": "rolix!",
       "url": "https://open.spotify.com/track/0CXrMXSAbTKiPylYHYCR3g"
@@ -10819,7 +10819,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 120187,
       "name": "showdown",
       "url": "https://open.spotify.com/track/48fzAdCxamFYCHNXXLk6zn"
@@ -10877,7 +10877,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 204369,
       "name": "siera plate",
       "url": "https://open.spotify.com/track/07EiqJU3LjI2ZxHmIBygeL"
@@ -11896,6 +11896,24 @@
     },
     {
       "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174646,
+      "name": "That That (prod. & feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -12059,7 +12077,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
@@ -12221,7 +12239,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 179030,
       "name": "tie\u0161i pirms blackouta",
       "url": "https://open.spotify.com/track/1Wyd9VtKHwWUjOnHr22f6D"
@@ -12745,7 +12763,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 240000,
       "name": "visurg\u0101j\u0113js",
       "url": "https://open.spotify.com/track/6TMetAezlN9nmxYSNDew7A"
@@ -12817,7 +12835,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 174967,
       "name": "W (K\u0101 pien\u0101kas)",
       "url": "https://open.spotify.com/track/1QtnkO460jPALmHFBSi4xx"
@@ -12941,7 +12959,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
@@ -14109,7 +14127,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 144000,
       "name": "\u0413\u0440\u0443\u0441\u0442\u044c 2 - \u0421\u043e\u043d\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/16KfubI9E9AYJ5hcEdZ9TI"
@@ -14135,7 +14153,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 130396,
       "name": "\u0413\u0440\u044f\u0437\u043d\u044b\u0439",
       "url": "https://open.spotify.com/track/4CTtj8kPj9A71ON0Fb2Gvb"
@@ -14397,7 +14415,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 213124,
       "name": "\u041c\u0410\u041b\u0418\u041d\u041e\u0412\u0410\u042f \u041b\u0410\u0414\u0410",
       "url": "https://open.spotify.com/track/77B4S4jkrAkL3Ng5hEHoUU"
@@ -14985,7 +15003,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 97959,
       "name": "\u0422\u0413\u041a",
       "url": "https://open.spotify.com/track/0wnDKIo7nso0MpRNGAOhfj"

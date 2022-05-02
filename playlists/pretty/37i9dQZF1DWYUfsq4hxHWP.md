@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Dylan Marlowe, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Leah Marie Mason, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,671 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,682 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [When I Look Back](https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [When I Look Back](https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B) | 2:59 |
+| 1 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 |
 | 2 | [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 |
 | 3 | [I Could Go On](https://open.spotify.com/track/4T4D7GunjxKuczHftwwGif) | [Jake Rose](https://open.spotify.com/artist/6uj6GUVOExWu9W98Gq5i98) | [I Could Go On](https://open.spotify.com/album/4qQ4bdgLPDVuwIf2pqBuZZ) | 2:55 |
 | 4 | [Almost Missed You](https://open.spotify.com/track/39ODUZOAT3IiCEx0ZaT4vp) | [Bobby McClendon](https://open.spotify.com/artist/24ZSRZ25gSFAx2bCl1aM66) | [Almost Missed You](https://open.spotify.com/album/6TH000cqtpdbUkSSigIICK) | 3:04 |
 | 5 | [Between You and Me](https://open.spotify.com/track/4BmyAiwMBMBrT8wMHcy6Ru) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Between You and Me](https://open.spotify.com/album/0OthJUlWhQIcq1Dj9qKAIG) | 3:47 |
 | 6 | [Hometown Highway](https://open.spotify.com/track/4MOeoHurTJMd9HpMsO2flS) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Hometown Highway](https://open.spotify.com/album/464qbeF75hopqROBcbpOIR) | 3:53 |
 | 7 | [Small Town Heart](https://open.spotify.com/track/6JkTj4Wuu8fsLdHprXB7fB) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Small Town Heart](https://open.spotify.com/album/2Yp3tzB7e2LYqv4w1b4Hty) | 3:25 |
-| 8 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 |
-| 9 | [Break Up Goin' Down](https://open.spotify.com/track/0gCMGDyxCJiwL2rTy0bsNF) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Break Up Goin' Down](https://open.spotify.com/album/0ikMfhuwXYuL4hAAWUb3Es) | 4:01 |
-| 10 | [Bigger Than My Small Town](https://open.spotify.com/track/5IqkU4tntO96l6IwG5fejv) | [Kelsey Bridges](https://open.spotify.com/artist/5AojaUBsu5zFnsrk3lzWwg) | [Bigger Than My Small Town](https://open.spotify.com/album/7w47RlOMqiwKu5G9c2jfBa) | 2:59 |
+| 8 | [Break Up Goin' Down](https://open.spotify.com/track/0gCMGDyxCJiwL2rTy0bsNF) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Break Up Goin' Down](https://open.spotify.com/album/0ikMfhuwXYuL4hAAWUb3Es) | 4:01 |
+| 9 | [Bigger Than My Small Town](https://open.spotify.com/track/5IqkU4tntO96l6IwG5fejv) | [Kelsey Bridges](https://open.spotify.com/artist/5AojaUBsu5zFnsrk3lzWwg) | [Bigger Than My Small Town](https://open.spotify.com/album/7w47RlOMqiwKu5G9c2jfBa) | 2:59 |
+| 10 | [When I Look Back](https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [When I Look Back](https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B) | 2:59 |
 | 11 | [Something's Better Than Nothing](https://open.spotify.com/track/3MtpNksWn0Z4ryBsyy8PYp) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Something's Better Than Nothing](https://open.spotify.com/album/2zqDTszF75ieoctWNdaSg5) | 3:20 |
 | 12 | [The Sign](https://open.spotify.com/track/581MpeSywilz7eANvX7yoy) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [The Sign](https://open.spotify.com/album/0h8TCfRH3kIhvHNqFvDNCf) | 2:42 |
 | 13 | [Take You Home](https://open.spotify.com/track/5UxwWCUE7PVTVCLVCxaCkp) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Take You Home](https://open.spotify.com/album/7j6OiggqBD0tWJ30GoNrWX) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 99 | [Ain't Like Me](https://open.spotify.com/track/5KTh8rAnac5XrZ9pm2KXZq) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Ain't Like Me](https://open.spotify.com/album/6eLGa9wM5Ua0h1qQkz2C7L) | 2:54 |
 | 100 | [Do I Miss You?](https://open.spotify.com/track/7arQ50UmMRKu1xIopKQpsM) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Do I Miss You?](https://open.spotify.com/album/2ZCeYa13EJZ4CCQZp4ObYV) | 3:14 |
 
-Snapshot ID: `MTY1MTAzMjAwMCwwMDAwMDFhMzAwMDAwMTgwNjkyZDA2YTEwMDAwMDE3ZmRkYjU3MTcx`
+Snapshot ID: `MTY1MTQyNzYxNSwwMDAwMDFhNDAwMDAwMTgwODBjMWEyOWMwMDAwMDE4MDgwYzBjMjdh`

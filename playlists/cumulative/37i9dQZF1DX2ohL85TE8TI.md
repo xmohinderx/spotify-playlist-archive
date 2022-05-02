@@ -4,7 +4,7 @@
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Business Proposal \(사내 맞선\)\)
 
-226 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
+227 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Wish](https://open.spotify.com/track/12n9WBfLII5EdQFzQiQFqv) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Hometown Cha\-Cha\-Cha, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0I9P3bt2K8NAB97yh7uBPf) | 3:57 | 2021-12-19 | 2021-12-25 |
 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 | 2022-01-26 | 2022-04-22 |
 | [With](https://open.spotify.com/track/73ZHqY7Ma03NpKiKs26yQU) | [Kim Taeri](https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X), [Nam Joohyuk](https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv), [Bona\(WJSN\)](https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL), [Choi Hyunwook](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ), [Lee Joomyung](https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6) | [Twenty\-Five Twenty\-One OST](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) | 4:29 | 2022-04-12 |  |
+| [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-01 |  |
 | [Without You](https://open.spotify.com/track/2AjCn5ZQ5YnnSRv6mxJmbr) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [Girls' World Season 2, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3thJq9dmf0ZwmQTP2rgJ3r) | 3:49 | 2022-02-03 | 2022-04-22 |
 | [You Are Mine](https://open.spotify.com/track/2lS7EowakQLS1NkRj0acbM) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [You Are Mine \(A Business Proposal OST Part.2\)](https://open.spotify.com/album/77XfHNb3xBq8cv50bsRzkn) | 3:27 | 2022-03-09 |  |
 | [You are my soul](https://open.spotify.com/track/6VDZHXq2dn9Uj44uak2Xsg) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Let Me Be Your Knight \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5829mWpzdEh2SjkrTstWEw) | 3:03 | 2022-02-03 |  |

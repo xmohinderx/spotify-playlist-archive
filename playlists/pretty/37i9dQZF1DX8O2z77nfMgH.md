@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados con Bizarrap & Paulo Londra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,818 likes - 56 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,910 likes - 56 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,6 +63,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 53 | [Gitana](https://open.spotify.com/track/6jI8HyJTIbhBu5wSSr59sk) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Fama y Fe](https://open.spotify.com/album/75wB5dRK42aKAtSIMMrFvX) | 3:03 |
 | 54 | [Aceros](https://open.spotify.com/track/3GQbDHeoczmi5QXBiXhi1C) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Gigantes](https://open.spotify.com/album/6zGeaSDbvaI8yRGpUIHCby) | 3:12 |
 | 55 | [Anestesia](https://open.spotify.com/track/5ro0BttdQXF8ElE53ixJ5h) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Temporal](https://open.spotify.com/album/783Y6IMcxDPLDkFVKSXSXi) | 3:43 |
-| 56 | [Sugar Mami \(feat\. Gini Santana\)](https://open.spotify.com/track/5Cipoy9vB4xDdCGnoMpJQH) | [Gini Santana](https://open.spotify.com/artist/1KBsQLZwxvQ6H5lh7zjeji), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Sin Pensar](https://open.spotify.com/album/6UAGXIPMrWgPcqWuT0iwra) | 2:07 |
+| 56 | [Sugar Mami \(feat\. Gini Santana\)](https://open.spotify.com/track/5Cipoy9vB4xDdCGnoMpJQH) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Gini Santana](https://open.spotify.com/artist/1KBsQLZwxvQ6H5lh7zjeji) | [Sin Pensar](https://open.spotify.com/album/6UAGXIPMrWgPcqWuT0iwra) | 2:07 |
 
 Snapshot ID: `MTY1MTIwNDgwMCwwMDAwMDJiYzAwMDAwMTgwNzM3OWJlYTcwMDAwMDE4MDcyOGI5MjNk`

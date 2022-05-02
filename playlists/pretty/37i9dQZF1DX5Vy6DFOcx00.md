@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > new look, new vibe, same playlist you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,568,117 likes - 134 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,573,732 likes - 134 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -312,6 +312,28 @@
     },
     {
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180555,
+      "name": "Chicken Curry",
+      "url": "https://open.spotify.com/track/0lAoKoYx3IlflMn8bo3ehR"
+    },
+    {
+      "album": {
         "name": "Come Online (Remix)",
         "url": "https://open.spotify.com/album/1eotNZ9P5imMktTagjngfJ"
       },
@@ -391,7 +413,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 178106,
       "name": "Dabebi",
       "url": "https://open.spotify.com/track/6xe6BocwJcN1MIipYaHdkV"

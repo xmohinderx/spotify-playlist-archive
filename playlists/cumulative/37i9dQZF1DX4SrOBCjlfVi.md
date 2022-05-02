@@ -4,7 +4,7 @@
 
 > New joints of the week featuring Future, Lil Baby, Lil Tjay, and more\. Cover: Pooh Shiesty
 
-674 songs - 1 day 7 hr 45 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+675 songs - 1 day 7 hr 47 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [Stand On It](https://open.spotify.com/track/33VLrebBNseA0DYUmXLJFX) | [Madmarcc](https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg) | [MAD.](https://open.spotify.com/album/1yMaeBkeqGdhpJH98GnJBJ) | 2:33 | 2022-04-08 | 2022-04-16 |
 | [Standards](https://open.spotify.com/track/54llkrIQrEyNyHx7PcrtSc) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Standards](https://open.spotify.com/album/77CuQ0NcdI8FfqPnGPlvDt) | 2:55 | 2022-03-11 | 2022-03-18 |
 | [Static Rain \(feat\. Birdy\)](https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Static Rain \(feat\. Birdy\)](https://open.spotify.com/album/21j9EyGoFPhmq5sYrajjLT) | 2:55 | 2022-04-22 | 2022-04-29 |
+| [Step Back](https://open.spotify.com/track/37J4LgXpW6CGKgZ3ZEELAW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Step Back](https://open.spotify.com/album/11YWHfzcAY54keMolDo7WN) | 2:55 | 2022-04-29 |  |
 | [Steppas Freestyle \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/2FHC2xTzANdprKYAwehB68) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [The Book of Eli](https://open.spotify.com/album/2JR2pvofQhv2ZEjocuH76a) | 2:32 | 2021-12-24 | 2022-01-08 |
 | [Stepper \(feat\. Nardo Wick\)](https://open.spotify.com/track/7Cc0nFTbzoNvRLo2CTAq66) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:27 | 2022-03-25 | 2022-03-30 |
 | [Stick \(with JID & J\. Cole feat\. Kenny Mason & Sheck Wes\)](https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 5:09 | 2022-04-01 | 2022-04-09 |

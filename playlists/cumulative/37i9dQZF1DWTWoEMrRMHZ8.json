@@ -452,6 +452,28 @@
     },
     {
       "album": {
+        "name": "Ben\u00e7a",
+        "url": "https://open.spotify.com/album/5kWp3mKX2AJmWJU9Tjhg1z"
+      },
+      "artists": [
+        {
+          "name": "MULAMBA",
+          "url": "https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260911,
+      "name": "Ben\u00e7a",
+      "url": "https://open.spotify.com/track/62JGoMtDUlNATOQHMj8Tdu"
+    },
+    {
+      "album": {
         "name": "Bloco do Prazer",
         "url": "https://open.spotify.com/album/5UYoNOet7BXse686Xt6FpI"
       },
@@ -909,7 +931,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 244600,
       "name": "Ela (Cita\u00e7\u00e3o a Menina Dan\u00e7a)",
       "url": "https://open.spotify.com/track/6fJijNhTg47mEoRwEjb0oQ"
@@ -1171,7 +1193,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 200608,
       "name": "Fim do Horizonte",
       "url": "https://open.spotify.com/track/7D3Kw5T7nQtM3Cg5jgNVeX"
@@ -1725,6 +1747,28 @@
       "duration_ms": 179517,
       "name": "Morena Bonita",
       "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
+    },
+    {
+      "album": {
+        "name": "Mucuripe",
+        "url": "https://open.spotify.com/album/7gjqSsgexMOUAUBufSXIIv"
+      },
+      "artists": [
+        {
+          "name": "Renato Teixeira",
+          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
+        },
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238863,
+      "name": "Mucuripe",
+      "url": "https://open.spotify.com/track/2Fil7M2pF2cduAopaetUaT"
     },
     {
       "album": {
@@ -2777,7 +2821,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 296000,
       "name": "Se N\u00e3o For Amor",
       "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
@@ -3165,7 +3209,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 243764,
       "name": "Tocando Em Frente",
       "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"

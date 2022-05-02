@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Dylan Marlowe, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Leah Marie Mason, Artwork: Fanélie Muselier
 
 485 songs - 1 day 2 hr 37 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
 

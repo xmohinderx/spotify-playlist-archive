@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
+      },
+      "artists": [
+        {
+          "name": "Rostros Ocultos",
+          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186946,
+      "name": "Abre T\u00fa Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4j8B4DACwTsVyhK1JfwXPb"
+    },
+    {
+      "album": {
         "name": "Veinte Para Las Doce",
         "url": "https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 289626,
       "name": "Coraz\u00f3n de ne\u00f3n",
       "url": "https://open.spotify.com/track/5zAnoLd8d4ssifVCnSDrwG"

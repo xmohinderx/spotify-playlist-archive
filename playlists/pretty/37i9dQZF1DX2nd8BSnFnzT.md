@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Johnny Boy, Edgard Scandurra, Nasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,552 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,570 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Carpinteiro do Universo](https://open.spotify.com/track/55uRggGWgM5G2gmqYaIKHn) | [Johnny Boy](https://open.spotify.com/artist/3WmaKtdjTylPngiYtH4bCg), [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF), [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Carpinteiro do Universo](https://open.spotify.com/album/5oFj0TPT5k1ZG0ytG0lrH7) | 4:11 |
+| 1 | [Carpinteiro do Universo](https://open.spotify.com/track/55uRggGWgM5G2gmqYaIKHn) | [Johnny Boy Chaves](https://open.spotify.com/artist/6w3YbjU7kppRphB5Fub70D), [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF), [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Carpinteiro do Universo](https://open.spotify.com/album/5oFj0TPT5k1ZG0ytG0lrH7) | 4:11 |
 | 2 | [Fobia](https://open.spotify.com/track/1KOO2nipJQq4aMF3IHsP2U) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Fobia](https://open.spotify.com/album/3GZ9KILnMXfdurw7iUnrdq) | 3:06 |
 | 3 | [Coliseu \(Video Mix\)](https://open.spotify.com/track/3uND74WMJKkkHVrtCvSrb5) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Fausto Fawcett](https://open.spotify.com/artist/5qlJRHM85YKmfOdD1fNe2O), [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Coliseu \(Video Mix\)](https://open.spotify.com/album/3vcJVRGUpB5slAtA3A3cKy) | 4:54 |
 | 4 | [Se Lembrar de Mim](https://open.spotify.com/track/13JRJM8CcGhyTzgGCiAFWf) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Se Lembrar de Mim](https://open.spotify.com/album/4ow3axuDmPUKCnUXH3imuM) | 3:09 |

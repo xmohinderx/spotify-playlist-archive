@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Carla Morrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,222 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,234 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 60 | [Over](https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Over](https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j) | 2:23 |
 | 61 | [Pensando En Ti](https://open.spotify.com/track/6lHqmkiwmolmkNwILV1NIL) | [JonLee](https://open.spotify.com/artist/5WZUKAptUOnbCoZsHDSkH3) | [Pensando En Ti](https://open.spotify.com/album/64S1OV7YhswoXEhbFbbmPC) | 2:54 |
 | 62 | [Fuego](https://open.spotify.com/track/4QFlsqVz2EQF2TVeHJFAy1) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Fuego](https://open.spotify.com/album/0xztHJMjPRz8kQ6f7cU3Bi) | 2:50 |
-| 63 | [Sugar Mami \(feat\. Gini Santana\)](https://open.spotify.com/track/5Cipoy9vB4xDdCGnoMpJQH) | [Gini Santana](https://open.spotify.com/artist/1KBsQLZwxvQ6H5lh7zjeji), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Sin Pensar](https://open.spotify.com/album/6UAGXIPMrWgPcqWuT0iwra) | 2:07 |
+| 63 | [Sugar Mami \(feat\. Gini Santana\)](https://open.spotify.com/track/5Cipoy9vB4xDdCGnoMpJQH) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Gini Santana](https://open.spotify.com/artist/1KBsQLZwxvQ6H5lh7zjeji) | [Sin Pensar](https://open.spotify.com/album/6UAGXIPMrWgPcqWuT0iwra) | 2:07 |
 | 64 | [Reality](https://open.spotify.com/track/7vy5KKzipEByRbTgG7V7q5) | [YUNG BOI](https://open.spotify.com/artist/2IZTXLWKJGbmFiqly8VmvG) | [Reality](https://open.spotify.com/album/7bq5g306RJqJNmelHDicYD) | 2:43 |
 
 Snapshot ID: `MTY1MTI1MDI5NCwwMDAwMDM4NDAwMDAwMTgwNzYyZmVlYTMwMDAwMDE4MDZjY2U0ZGQ3`

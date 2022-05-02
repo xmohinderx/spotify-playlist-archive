@@ -2,7 +2,7 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> From the Dance Halls and Honky Tonks across America to the World! Cover: Kaitlin Butts
+> From the Dance Halls and Honky Tonks across America to the World! Cover: Midland
 
 255 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 

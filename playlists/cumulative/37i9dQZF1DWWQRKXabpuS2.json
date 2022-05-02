@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u0628\u0642 \u0639\u0644\u0649 \u0627\u0637\u0644\u0627\u0639 \u0628\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u062f\u0627\u0644\u064a\u0627",
+  "description": "\u0627\u0628\u0642 \u0639\u0644\u0649 \u0627\u0637\u0644\u0627\u0639 \u0628\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0627\u064a\u0636",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "published_playlist_ids": [
     "4PSk8NVZJlLmYibT60mLzt"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Ahebak",
+        "url": "https://open.spotify.com/album/0zwZJrDmw6WZkYi54FPiUA"
+      },
+      "artists": [
+        {
+          "name": "Yousef Al Omani",
+          "url": "https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Ahebak",
+      "url": "https://open.spotify.com/track/7wtj1YsnPgGCPylmzLma4Z"
+    },
     {
       "album": {
         "name": "Ahla Watan",
@@ -834,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Leeh Ma Teji",
+        "url": "https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd"
+      },
+      "artists": [
+        {
+          "name": "Shamma Hamdan",
+          "url": "https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325133,
+      "name": "Leeh Ma Teji",
+      "url": "https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI"
+    },
+    {
+      "album": {
         "name": "Letak Maey",
         "url": "https://open.spotify.com/album/15yFJycGjc78gXyO8TsUHt"
       },
@@ -1279,6 +1315,24 @@
       "duration_ms": 182640,
       "name": "Tamnony Aleh",
       "url": "https://open.spotify.com/track/3nXTVXOH2S8a68T78FGjKT"
+    },
+    {
+      "album": {
+        "name": "Tbarak Galbe",
+        "url": "https://open.spotify.com/album/7xkSwmQxStACNH2M68zsdT"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275463,
+      "name": "Tbarak Galbe",
+      "url": "https://open.spotify.com/track/5QGkol4xMYr3DgnOPx6jAz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Special songs for mothers of all kinds.
 
-51 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/1a0fGDCELopfNoDFPZZy5y)
+52 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/1a0fGDCELopfNoDFPZZy5y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,11 +49,12 @@
 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 | 2021-05-06 |  |
 | [Sweetest Devotion](https://open.spotify.com/track/7nY8TY0Wk7kBIJi2Zv8JoR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd) | 4:11 | 2021-05-06 |  |
 | [That's How Strong My Love Is](https://open.spotify.com/track/5BUanshsri15aT9FCHOY6t) | [The Sweet Inspirations](https://open.spotify.com/artist/1wonEkTZkBGYq7J4w56yZl) | [What The World Needs Now](https://open.spotify.com/album/07XkbaAYNsHEU1dFMrbn3t) | 2:15 | 2021-05-06 |  |
-| [The Best Day](https://open.spotify.com/track/3esA216TyLHEkNiBCeCmcg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 4:05 | 2021-05-06 |  |
+| [The Best Day](https://open.spotify.com/track/3esA216TyLHEkNiBCeCmcg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 4:05 | 2021-05-06 | 2022-05-02 |
+| [The Best Day \(Taylor’s Version\)](https://open.spotify.com/track/6ON9UuIq49xXY9GPmHIYRp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:05 | 2022-05-01 |  |
 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 | 2021-05-06 |  |
 | [The Perfect Fan](https://open.spotify.com/track/5XgxLtOR4oKxnfA7Fb4968) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 4:13 | 2021-05-06 |  |
 | [The Sweetest Gift](https://open.spotify.com/track/24aHk8P9MuUYkL8DwsHJHH) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/2sLtjaUo7maVVpBAE4IyDk) | 2:18 | 2021-05-06 |  |
-| [The Wish \- Studio Outtake \- 1987](https://open.spotify.com/track/4pEueOLwLhEoc96uSzmoOa) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 5:13 | 2021-05-06 |  |
+| [The Wish \- Studio Outtake \- 1987](https://open.spotify.com/track/4pEueOLwLhEoc96uSzmoOa) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 5:13 | 2021-05-06 | 2022-05-02 |
 | [This Angel](https://open.spotify.com/track/5Q9MQEOoKXaIOVqmSW8CYn) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl \(Deluxe\)](https://open.spotify.com/album/7jCbgAamUZSkL2SUchiGyF) | 3:31 | 2021-05-06 |  |
 | [To Zion](https://open.spotify.com/track/3FFuQ5eoLNQU3IgbZP6F13) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 6:09 | 2021-05-06 |  |
 | [Where You Lead I Will Follow](https://open.spotify.com/track/5htNlXFlMI6RMBHhJuGJJm) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Love Makes the World](https://open.spotify.com/album/1F2U0WSicgaB8PwxBk3Tzo) | 3:27 | 2021-05-06 |  |

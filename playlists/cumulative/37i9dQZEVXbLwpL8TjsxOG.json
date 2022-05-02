@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Call My Name!",
       "url": "https://open.spotify.com/track/16uUro9vLJogJJued0TFos"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 198500,
       "name": "DWBF",
       "url": "https://open.spotify.com/track/3Cdpq0qhrgiwPRkR720FZf"
@@ -1241,6 +1241,24 @@
       "duration_ms": 178147,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM"
+    },
+    {
+      "album": {
+        "name": "Gotta Go!",
+        "url": "https://open.spotify.com/album/5QMViZsyLMd5pJJc3l9BEO"
+      },
+      "artists": [
+        {
+          "name": "COLLAR",
+          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206690,
+      "name": "Gotta Go!",
+      "url": "https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH"
     },
     {
       "album": {
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
@@ -3329,7 +3347,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-02",
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
@@ -4131,6 +4149,24 @@
       "duration_ms": 102293,
       "name": "\u4eca\u751f\u4eca\u4e16 - \u96fb\u5f71\"\u91d1\u679d\u7389\u8449\"\u6b4c\u66f2",
       "url": "https://open.spotify.com/track/1mSrXFejuVyMxWgwWCYgtq"
+    },
+    {
+      "album": {
+        "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
+        "url": "https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252746,
+      "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG"
     },
     {
       "album": {

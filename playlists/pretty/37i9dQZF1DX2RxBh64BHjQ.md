@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of generation next\. Cover: PGF Nuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,625,656 likes - 97 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,625,917 likes - 97 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 50 | [Popstar](https://open.spotify.com/track/1gtpf2WDqX4bwB8Jpf9nY2) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Popstar](https://open.spotify.com/album/6WDP50ES2v8aY4oETrFZYa) | 2:21 |
 | 51 | [All In](https://open.spotify.com/track/1sE7vQVIRzptUgsx2TH4Gy) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Misunderstood](https://open.spotify.com/album/5ridWYM8bnEFaZ9dQkLxid) | 2:02 |
 | 52 | [Picasso](https://open.spotify.com/track/43t69WNj30qqc2XDryeLAj) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Picasso](https://open.spotify.com/album/1tjG76nlg1AlhGG4O2CGU9) | 1:46 |
-| 53 | [Running Out Of Love](https://open.spotify.com/track/4udmLibqrbdqJtPizt6yBT) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Dante Smith](https://open.spotify.com/artist/0wI2v917gHsRkC3HF5JHO7) | [Running Out Of Love](https://open.spotify.com/album/5BYyNPawWiDnE1XPKVoaHk) | 2:56 |
+| 53 | [Running Out Of Love](https://open.spotify.com/track/4udmLibqrbdqJtPizt6yBT) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Dante Smith](https://open.spotify.com/artist/1mpbkq7xLsVwydz4vgcI0r) | [Running Out Of Love](https://open.spotify.com/album/5BYyNPawWiDnE1XPKVoaHk) | 2:56 |
 | 54 | [Still Ain’t Finished \(feat\. Gunna\)](https://open.spotify.com/track/3ZbKfSRjXe6HVm8ktwfN2X) | [T\-Shyne](https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Confetti Nights](https://open.spotify.com/album/0NCVVd6iThKUh2GF74UTdl) | 3:12 |
 | 55 | [Stand On It](https://open.spotify.com/track/33VLrebBNseA0DYUmXLJFX) | [Madmarcc](https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg) | [MAD.](https://open.spotify.com/album/1yMaeBkeqGdhpJH98GnJBJ) | 2:33 |
 | 56 | [Duffy](https://open.spotify.com/track/28hADNot8bPcCVrN536PZ7) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Duffy](https://open.spotify.com/album/6ATQjKvOPzjrNfzOFAdUmn) | 2:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > All the new artists and songs to watch in 2022, handpicked by our curators\. Featuring Yahritza y Su Esencia on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,128 likes - 35 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,110 likes - 35 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
