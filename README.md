@@ -1320,6 +1320,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Hours of Ours](/playlists/pretty/54LbSpjd64NjKPUyYAGkNU.md)
 - [House Focus](/playlists/pretty/37i9dQZF1DX8wtrGDH81Oa.md)
 - [House Party](/playlists/pretty/37i9dQZF1DXaaLM83puGG5.md)
+- [House Shift](/playlists/pretty/2vpAyuy9HOTPjygPl63QuH.md)
 - [House Supreme](/playlists/pretty/37i9dQZF1DXacX3REVaOqV.md)
 - [Housewerk](/playlists/pretty/37i9dQZF1DXa8NOEUWPn9W.md)
 - [How to Write...](/playlists/pretty/37i9dQZF1DX0IquWoRS2Rk.md)
