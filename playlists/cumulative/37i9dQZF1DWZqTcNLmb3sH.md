@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-207 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+208 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Ninnannu Nodaligaa \(From "Shokiwala \- Kannada"\)](https://open.spotify.com/track/2hIk1JJZe0kZSepUrWcVU4) | [V Sridhar Sambhram](https://open.spotify.com/artist/4gWwXX46KPq97oov9NfYMC), [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [Ninnannu Nodaligaa \(From "Shokiwala \- Kannada"\)](https://open.spotify.com/album/6jnn09iIxJYyK0z9VsCcm8) | 3:54 | 2021-12-06 |  |
 | [Nodu Shiva](https://open.spotify.com/track/1OXhhSzCUeQhhtbpMUpYjQ) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [Nodu Shiva](https://open.spotify.com/album/38rwQwWjkSzDvF0HMwk3Sa) | 3:22 | 2021-12-06 | 2022-03-14 |
 | [Nodutha Nannane](https://open.spotify.com/track/7JrHv5IwagpdpTvGCTiycP) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Love You Rachchu](https://open.spotify.com/album/29UmnyU9yU44soCQbl8DM4) | 3:47 | 2021-12-06 |  |
+| [Nooru Koti Aasti Dhost Avne \(From "Champion"\)](https://open.spotify.com/track/0ndEbPye7EwIx2puaz3IR1) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Nooru Koti Aasti Dhost Avne \(From "Champion"\)](https://open.spotify.com/album/2edPfqBdFzWdK5Ts3BVkLH) | 3:58 | 2022-05-02 |  |
 | [O Nidhima](https://open.spotify.com/track/6TLwG6i4xePR1hT3cUyrqz) | [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Love Mocktail 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6MgIFfjFtKBjRcNRkxeHn6) | 3:43 | 2022-02-21 |  |
 | [O'GA \(From "777 Charlie"\)](https://open.spotify.com/track/7LVrRY4VAa11XqIKZCP5Ms) | [Nobin Paul](https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf), [Dhiti S Lotlikar](https://open.spotify.com/artist/1o1M8VgyjYOpuOYODTTmHk) | [O'GA \(From "777 Charlie"\)](https://open.spotify.com/album/09HXvywMYtDwmLaNL3AD7L) | 2:33 | 2022-01-18 |  |
 | [Odu Odu \(From "Kailasa Kasidre"\)](https://open.spotify.com/track/5WE3b3SKqdqU3iWITBArhf) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Ashic Arun](https://open.spotify.com/artist/77GhU0R0d1NAXlEdYqCuak) | [Odu Odu \(From "Kailasa Kasidre"\)](https://open.spotify.com/album/6SRaVJhPaUkiumgbLvs5lV) | 3:36 | 2022-04-29 |  |

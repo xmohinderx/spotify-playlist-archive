@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-612 songs - 1 day 8 hr 13 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+613 songs - 1 day 8 hr 16 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Back To Reality 2021 \(feat\. Solguden\)](https://open.spotify.com/track/66VDSp4xuQElxDVxaapiVG) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [DJ Black](https://open.spotify.com/artist/6fQmO1Ho6EAGZpRBHnyp5m), [Jaannybravo](https://open.spotify.com/artist/3FuQb8Yj6J8ZJSCTv7ZKAV), [Solguden](https://open.spotify.com/artist/76oRj8bdYsniX36EQNLZ58) | [Back To Reality 2021 \(feat\. Solguden\)](https://open.spotify.com/album/4qEHrDdIjvekUckCJOJrfB) | 3:01 | 2022-04-28 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 |  |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-31 |
-| [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 | 2022-04-23 |  |
+| [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 | 2022-04-23 | 2022-05-03 |
 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5) | 1:46 | 2021-11-14 | 2021-11-19 |
 | [Bak en fasade](https://open.spotify.com/track/4AdUxdA06Ex0VUDKJItcDN) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bak en fasade \(Del 1\)](https://open.spotify.com/album/1xAQCbyNs8CYdu5uZjeeHQ) | 2:59 | 2021-09-19 | 2021-11-20 |
 | [Balkong](https://open.spotify.com/track/0kKnEddRWkolQSNd7DjjtZ) | [Thea Sofie](https://open.spotify.com/artist/3CrFhzsHBPGK0wlAp7Z5d6), [Elina Helmichsen](https://open.spotify.com/artist/5PKWz17KCZrkwJxD6HS6xf) | [The Voice 2021: Duell 4](https://open.spotify.com/album/534Wuimi2FRANqAeIgqO70) | 2:39 | 2021-03-29 | 2021-04-04 |
@@ -549,6 +549,7 @@
 | [Sweet Dreams & Dynamite](https://open.spotify.com/track/6S8pntCfgqcPa5vhybICfv) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Sweet Dreams & Dynamite](https://open.spotify.com/album/4bL1xyGhj6p9Tzw9UO5Mjy) | 2:41 | 2021-11-21 | 2021-11-23 |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-12 | 2022-03-17 |
 | [Sympati](https://open.spotify.com/track/2XAup2iHm6t3UK4Hsjkkwy) | [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [Sympati](https://open.spotify.com/album/62iiFOpxd6WAnvRGn965kH) | 2:56 | 2022-03-05 |  |
+| [Syrener](https://open.spotify.com/track/7iKUMPi3CcDLLNF4pU1vND) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Syrener](https://open.spotify.com/album/35KHrZ7KsOC7ajWq6SNxgu) | 3:02 | 2022-05-02 |  |
 | [Sånn som deg](https://open.spotify.com/track/7tr9mT8YVRSOAmeiw4D8GN) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E), [Eile](https://open.spotify.com/artist/0oM3SLbJ2k9V8G0RBJYtyj) | [Sånn som deg](https://open.spotify.com/album/7tDE7fHH2zaaQDXF9Uyuqo) | 2:38 | 2021-10-31 | 2021-11-07 |
 | [Sørenga](https://open.spotify.com/track/4pqWL4Xde0d78P13ZcupbZ) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Arne Hurlen](https://open.spotify.com/artist/7fKekOAFKfXmr0w427ZMku), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Sørenga](https://open.spotify.com/album/3UEpM6lfUqf9LnZTdbUJH6) | 2:49 | 2021-06-13 | 2021-08-03 |
 | [TADA](https://open.spotify.com/track/0bpZr2GJ1wTYN9RL7gjuUX) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [TADA](https://open.spotify.com/album/3DPkAAWAHGsfHzXLjXIbjm) | 3:10 | 2021-08-08 | 2021-08-17 |

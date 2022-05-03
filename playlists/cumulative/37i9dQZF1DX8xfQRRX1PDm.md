@@ -4,7 +4,7 @@
 
 > Best Bollywood dance songs from last 10 years\. Cover\- Tiger Shroff & Tara Sutaria.
 
-118 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/7qAEWSrM1FrFMeKQC49WwZ)
+119 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/7qAEWSrM1FrFMeKQC49WwZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Battiyan Bujhaado](https://open.spotify.com/track/5QfGBrJvpoobM9uFviqspS) | [Ramji Gulati](https://open.spotify.com/artist/0YV1rVkKOrY3V0rqd1ojrH), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Battiyan Bujhaado \(From "Motichoor Chaknachoor"\)](https://open.spotify.com/album/4n4Jvbz69l4oKzFBj6nXZ6) | 3:11 | 2021-01-29\* | 2021-03-16 |
 | [Beat Pe Booty](https://open.spotify.com/track/1UzvjLWSTgGlPT1eZXEBxn) | [Sachin Sanghvi](https://open.spotify.com/artist/30wJusyU4fVHzMW3m8Zodc), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [A Flying Jatt](https://open.spotify.com/album/6HQCxd74gaaA8aDRy1czON) | 3:17 | 2021-04-08 |  |
 | [Bezubaan Kab Se \(From "Street Dancer 3D"\)](https://open.spotify.com/track/1WzOH0E1W1z5jcLluumQGE) | [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Bezubaan Kab Se \(From "Street Dancer 3D"\)](https://open.spotify.com/album/3rocSJrl434LQwf4D5Rpec) | 4:31 | 2021-01-29\* | 2021-05-03 |
+| [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 | 2022-05-02 |  |
 | [Bom Diggy Diggy](https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:58 | 2021-04-08 |  |
 | [Buddhu Sa Mann](https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:26 | 2021-01-29\* | 2021-07-14 |
 | [BurjKhalifa \(From "Laxmii"\)](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [Shashi](https://open.spotify.com/artist/5EXIQQjCaCnRPJ68SxYURB), [DJ Khushi](https://open.spotify.com/artist/6xElGyunMSlnuJ2vabDUWA), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Madhubanti](https://open.spotify.com/artist/4x4Q6d60hC0ZuLloMeCLoS) | [BurjKhalifa \(From "Laxmii"\)](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 3:07 | 2021-01-29\* |  |

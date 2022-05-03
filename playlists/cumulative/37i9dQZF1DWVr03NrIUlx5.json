@@ -181,7 +181,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 216923,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/0yN2uHl8g22EYck9LFAAcL"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 178285,
       "name": "All the Small Things",
       "url": "https://open.spotify.com/track/42iOAFz1Qyay607RXlNr6q"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 232241,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/6yOx56hq10A0HNOPhv2BOB"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 255520,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/1WWt59TWKJLHs8VWGm3m4F"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 294838,
       "name": "Californication",
       "url": "https://open.spotify.com/track/75sOGkpNi9azjewrNObTxZ"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 229565,
       "name": "Come as You Are",
       "url": "https://open.spotify.com/track/1ePWAgYN3u9nUlfsOlTaYp"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 240652,
       "name": "Creep",
       "url": "https://open.spotify.com/track/261RumEq9qqk1I1w4OKdhd"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 210186,
       "name": "Don\u2019t You Want Me",
       "url": "https://open.spotify.com/track/0cshMqV4JfjpPMhuVmwU30"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/6or0Zn98H9Cir0LILZq26W"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 197000,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/0Y7fpN664mIaoUqEBpMCDm"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 293004,
       "name": "Fear of the Dark",
       "url": "https://open.spotify.com/track/4leOfqtPjnD3DG0DDiyFsD"
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 202185,
       "name": "God's Plan (8 Bit Version)",
       "url": "https://open.spotify.com/track/11jplf0JDXvKmpzfYvqkAR"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 250956,
       "name": "Hail to the King",
       "url": "https://open.spotify.com/track/4z5sPd30YF6UbFJWxCVMAQ"
@@ -1460,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "8-Bit New Wave",
+        "url": "https://open.spotify.com/album/5vcKx1EX0K3GgaRzX6ADl4"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272222,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/4jE8BGmQk3uIUG7KEbUWwg"
+    },
+    {
+      "album": {
         "name": "8-Bit Universe, Vol. 23",
         "url": "https://open.spotify.com/album/7tFFu7sCxQixFjMzLqoqyf"
       },
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 389837,
       "name": "Hotel California - 8-Bit Version",
       "url": "https://open.spotify.com/track/72EfHwcUwdfELjCKhYMc1x"
@@ -1529,6 +1547,24 @@
       "duration_ms": 154000,
       "name": "HUMBLE.",
       "url": "https://open.spotify.com/track/277uDsNTQ6zE8uocRBlyFN"
+    },
+    {
+      "album": {
+        "name": "8-Bit Versions of Duran Duran",
+        "url": "https://open.spotify.com/album/0lC4bha8we0sWIEp2raThf"
+      },
+      "artists": [
+        {
+          "name": "8-Bit Misfits",
+          "url": "https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206281,
+      "name": "Hungry Like the Wolf",
+      "url": "https://open.spotify.com/track/5r74kmhJ2jpo51maDShe3C"
     },
     {
       "album": {
@@ -1637,7 +1673,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 269600,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/1ETUtI2djuQUVZYr9ZFjvG"
@@ -1673,7 +1709,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 215480,
       "name": "Into the Groove",
       "url": "https://open.spotify.com/track/285MSjlZhk29w2LnCj8FnQ"
@@ -1835,7 +1871,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 256974,
       "name": "Lets Go Crazy - 8-Bit Version",
       "url": "https://open.spotify.com/track/7bjflIbLQIVTsFmMmg8k1h"
@@ -1871,7 +1907,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 201093,
       "name": "Look What You Made Me Do",
       "url": "https://open.spotify.com/track/73bIzEZGfpjhORUx4hjjgj"
@@ -2019,7 +2055,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 221020,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/1rVr7Tq6lAk9ctFEm2IlTE"
@@ -2091,7 +2127,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 319436,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/4S6Ib78sMFF0nOWVtpMJes"
@@ -2109,7 +2145,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 115559,
       "name": "Old Town Road (8 Bit Version)",
       "url": "https://open.spotify.com/track/4RcSbZpzM5qYQehEolo5z2"
@@ -2145,7 +2181,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 272400,
       "name": "One",
       "url": "https://open.spotify.com/track/7dt3M5XtCreAQzRRIMZFNZ"
@@ -2289,7 +2325,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 192763,
       "name": "Physical (8 Bit Version)",
       "url": "https://open.spotify.com/track/3a7zgZqHWsHuSIO4hhpsv1"
@@ -2343,7 +2379,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 188440,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/2LgmdJFgPvx4KPbOcxfUVb"
@@ -2361,7 +2397,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 224166,
       "name": "Ride",
       "url": "https://open.spotify.com/track/2mShI8sSU4twIQi2nC3gep"
@@ -2379,7 +2415,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 198409,
       "name": "Rock with You (8 Bit Version)",
       "url": "https://open.spotify.com/track/13XP68ZC0dKslwcO1t4Pnm"
@@ -2415,7 +2451,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 193330,
       "name": "Royals - 8-Bit Version",
       "url": "https://open.spotify.com/track/0r5KFXHRKdZezw6YmDdcEq"
@@ -2433,7 +2469,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 259058,
       "name": "Sad But True",
       "url": "https://open.spotify.com/track/6XAyauWQGknR7nj0v0S65d"
@@ -2595,7 +2631,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 231998,
       "name": "Shape of You (8 Bit Version)",
       "url": "https://open.spotify.com/track/2ei8b1huBEgIRVZCFEjpBj"
@@ -2667,7 +2703,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Sing",
       "url": "https://open.spotify.com/track/7sX8bYGJivV97crtro9vG2"
@@ -2685,7 +2721,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 202968,
       "name": "Sleep Now in the Fire",
       "url": "https://open.spotify.com/track/0z27ueTF6v4GqPPoZlb74H"
@@ -2703,7 +2739,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 301043,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5CVCqj3EtrFDMhZylxpqhf"
@@ -2721,7 +2757,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 224346,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/1JqKF0aNyA554VaBMZOdXi"
@@ -2829,7 +2865,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 431038,
       "name": "Stairway to Heaven",
       "url": "https://open.spotify.com/track/4ckFn0Nhap9sCPIF4IJori"
@@ -2865,7 +2901,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 231480,
       "name": "Straight Up",
       "url": "https://open.spotify.com/track/52vJzMHG3MVrTUmwrOq4JB"
@@ -2991,7 +3027,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 268500,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/6UDEXrnSp5fhhfIdkHQb0e"
@@ -3207,7 +3243,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 214736,
       "name": "The Number of the Beast",
       "url": "https://open.spotify.com/track/3G3QnHwq6j2OzIoqxHhK1H"
@@ -3225,7 +3261,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 272254,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7MeDTvoJD6Y0pWQN7QW6h8"
@@ -3279,7 +3315,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 241947,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/10akn5RmTjMhOPdLm4iNKh"
@@ -3351,7 +3387,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 238323,
       "name": "Under Pressure - 8-Bit Version",
       "url": "https://open.spotify.com/track/6S7FGd46wEx7Gz9fZ7aQXh"
@@ -3387,7 +3423,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 226521,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1y69XlEsszRp6Vj40JWkL5"
@@ -3495,7 +3531,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 128147,
       "name": "We Will Rock You",
       "url": "https://open.spotify.com/track/69DDTA6rWLWCtBdC8oH1Ve"
@@ -3513,7 +3549,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 274675,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/5akqGHZlDQwNu8w4BXlCDe"
@@ -3531,7 +3567,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 288000,
       "name": "Welcome to the Family",
       "url": "https://open.spotify.com/track/16bOSevVob90qmph5Bz0gj"
@@ -3549,7 +3585,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 206013,
       "name": "Welcome to the Jungle",
       "url": "https://open.spotify.com/track/6SiYPSuNfD9Erz5mRUH8N4"
@@ -3567,7 +3603,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 206500,
       "name": "What I've Done",
       "url": "https://open.spotify.com/track/1QPqTG2MhhMJsXVfezJriJ"
@@ -3603,7 +3639,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 306278,
       "name": "With or Without You",
       "url": "https://open.spotify.com/track/1fXCva5NetDcOSMr4fNcEn"
@@ -3675,7 +3711,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 197220,
       "name": "You Spin Me Round (Like a Record)",
       "url": "https://open.spotify.com/track/6DLGE2fdn41jFc6Jc6fBYy"

@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: Hooks
 
-128 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+129 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Game Day Ritual](https://open.spotify.com/track/4LWjiqxih81T0MwcNwZMUZ) | [OTEEZY](https://open.spotify.com/artist/1xM0fxmeNse4TvBV5RsuwO) | [Game Day Ritual](https://open.spotify.com/album/7dw7qyNIQiJ2nTpU5acc39) | 3:00 | 2022-03-21 |  |
 | [Gimme the Loot](https://open.spotify.com/track/1GQbMAJgzPani9PABvKOeE) | [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL) | [Gimme the Loot](https://open.spotify.com/album/3YEtjnabazF7WyW0k1wbtM) | 3:14 | 2022-03-21 | 2022-03-25 |
 | [GO!](https://open.spotify.com/track/0gYE4nGUXwlzNBwxW5SSiX) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [GO!](https://open.spotify.com/album/2kWGAs4zrCzMPofbzKs46W) | 2:37 | 2022-03-21 |  |
+| [Going Back](https://open.spotify.com/track/1A2ZIRUtEVHHBj6ElsSysV) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [Going Back](https://open.spotify.com/album/0NTtjYRlK8beG6UUsynAHP) | 2:26 | 2022-05-02 |  |
 | [Grime](https://open.spotify.com/track/6pXQRgHROE1GsSgE0Ey1pE) | [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH) | [Grime](https://open.spotify.com/album/0ENPqLod3mLWDwOAUVll6S) | 3:18 | 2022-03-21 |  |
 | [Hard Labour](https://open.spotify.com/track/5paXlSDYWldSZLS3dilNul) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [The Proctor 2021](https://open.spotify.com/album/5dQ48B7z887gEkgcz3Euvf) | 3:53 | 2022-03-21 |  |
 | [HARVEY DENT](https://open.spotify.com/track/3Jyc5O21H7tONGABhOasF9) | [Mitchos Da Menace](https://open.spotify.com/artist/4N9eOW77jpcMTy4qt2smkg) | [HARVEY DENT](https://open.spotify.com/album/06qEkV9pvpddKfeoCOksjI) | 3:12 | 2022-03-21 |  |

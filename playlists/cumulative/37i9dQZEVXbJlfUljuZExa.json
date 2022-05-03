@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -902,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/6wBzhPqkFCMGJMJmdZ2js4"
+      },
+      "artists": [
+        {
+          "name": "Sanisah Huri",
+          "url": "https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Bersabarlah Sayang",
+      "url": "https://open.spotify.com/track/460DbFlJM33MPBPBJ31ZfD"
+    },
+    {
+      "album": {
         "name": "Siri Bintang Pujaan",
         "url": "https://open.spotify.com/album/6uAIpQiqmebVpaIEPUPakP"
       },
@@ -967,7 +985,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 240759,
       "name": "Bertahan Terluka",
       "url": "https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO"
@@ -989,6 +1007,24 @@
       "duration_ms": 166023,
       "name": "beside you",
       "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
+    },
+    {
+      "album": {
+        "name": "Anugerah Aidilfitri",
+        "url": "https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283120,
+      "name": "Bila Hari Raya Menjelma",
+      "url": "https://open.spotify.com/track/2Abh3TNjvVW7OsKYDwQpiP"
     },
     {
       "album": {
@@ -1912,6 +1948,24 @@
     },
     {
       "album": {
+        "name": "Siri Bintang Pujaan",
+        "url": "https://open.spotify.com/album/3eYxXSU0FIRJvHlndU5OVx"
+      },
+      "artists": [
+        {
+          "name": "Rosemaria",
+          "url": "https://open.spotify.com/artist/5JbqpFKdKkvLtnhGLhKsJb"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Di Pagi Aidilfitri",
+      "url": "https://open.spotify.com/track/2USirghp480Q3cSqLiFxYj"
+    },
+    {
+      "album": {
         "name": "NOEASY",
         "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
       },
@@ -1999,7 +2053,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
@@ -2391,7 +2445,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
@@ -3031,10 +3085,28 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-15",
+      "date_removed": null,
       "duration_ms": 262757,
       "name": "Hari Ini Hari Raya",
       "url": "https://open.spotify.com/track/5FjwQVGLldMqvkCiyQ5DOV"
+    },
+    {
+      "album": {
+        "name": "Hurey! Raya",
+        "url": "https://open.spotify.com/album/2tDIojUILkustiyFGqcpB3"
+      },
+      "artists": [
+        {
+          "name": "Ideal Sisters",
+          "url": "https://open.spotify.com/artist/5HPs9rzylVQBZ2nw7wqH4A"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "Hari Raya Hari Bahagia",
+      "url": "https://open.spotify.com/track/4lo91W9xVrGOooj0wAv8S3"
     },
     {
       "album": {
@@ -3449,7 +3521,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 160239,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
@@ -3609,10 +3681,28 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-16",
+      "date_removed": null,
       "duration_ms": 216173,
       "name": "Inang Aidilfitri",
       "url": "https://open.spotify.com/track/1X5wtKI6CHLz1xPorTXIjT"
+    },
+    {
+      "album": {
+        "name": "Satu Hari Di Hari Raya",
+        "url": "https://open.spotify.com/album/72KRrZJF2AxljhkcLhy0Ab"
+      },
+      "artists": [
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196026,
+      "name": "Indah Di Hari Raya",
+      "url": "https://open.spotify.com/track/4rlEFMLyEWFx10k33kldJF"
     },
     {
       "album": {
@@ -3967,6 +4057,24 @@
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
+        "name": "Satu Hari Di Hari Raya",
+        "url": "https://open.spotify.com/album/72KRrZJF2AxljhkcLhy0Ab"
+      },
+      "artists": [
+        {
+          "name": "Ning Baizura",
+          "url": "https://open.spotify.com/artist/179XJA4Q2PPPkPbjPvSRt7"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148760,
+      "name": "Joget Aidilfitri",
+      "url": "https://open.spotify.com/track/77uFLBH1LKK8BIcAVGtKro"
     },
     {
       "album": {
@@ -5375,7 +5483,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-16",
+      "date_removed": null,
       "duration_ms": 351000,
       "name": "Nostalgia Aidilfitri",
       "url": "https://open.spotify.com/track/2NTay1SiXWWGPhX8J1pEqt"
@@ -5791,7 +5899,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 184601,
       "name": "Polaroid Love",
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
@@ -5911,7 +6019,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-15",
+      "date_removed": null,
       "duration_ms": 269266,
       "name": "Pulanglah",
       "url": "https://open.spotify.com/track/78MSBwceqOJ756bin6exzb"
@@ -6369,7 +6477,7 @@
       ],
       "date_added": "2021-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-16",
+      "date_removed": null,
       "duration_ms": 152853,
       "name": "Selamat Hari Raya",
       "url": "https://open.spotify.com/track/4R3BqGWGboh1b6RaRVXxWE"
@@ -6463,7 +6571,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 251714,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I"
@@ -6939,7 +7047,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
@@ -7205,7 +7313,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-23",
+      "date_removed": null,
       "duration_ms": 64969,
       "name": "Takbir Raya",
       "url": "https://open.spotify.com/track/4vyVLDXmsPXsCzpyOnx5MT"
@@ -7389,7 +7497,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 174646,
       "name": "That That (prod. & feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
@@ -7563,7 +7671,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 120308,
       "name": "this is what falling in love feels like",
       "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
@@ -7671,7 +7779,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
@@ -7995,7 +8103,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"

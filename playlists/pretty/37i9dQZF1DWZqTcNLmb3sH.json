@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 27256,
+  "num_followers": 27366,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIzMjA2OSwwMDAwMDE3NDAwMDAwMTgwNzUxOWQ4NDAwMDAwMDE3ZmFkNDkzNmEz",
+  "snapshot_id": "MTY1MTQ4OTU0MCwwMDAwMDE3NTAwMDAwMTgwODQ3Mjg5MmUwMDAwMDE3ZmFkNDkzNmEz",
   "tracks": [
     {
       "added_at": "2022-04-14 12:13:28",
@@ -43,6 +43,26 @@
       "duration_ms": 166145,
       "name": "The Monster Song (From \"KGF Chapter 2\")",
       "url": "https://open.spotify.com/track/56b4SXw2KGclrY0yzRpvMF"
+    },
+    {
+      "added_at": "2022-05-02 11:05:40",
+      "album": {
+        "name": "Nooru Koti Aasti Dhost Avne (From \"Champion\")",
+        "url": "https://open.spotify.com/album/2edPfqBdFzWdK5Ts3BVkLH"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 238090,
+      "name": "Nooru Koti Aasti Dhost Avne (From \"Champion\")",
+      "url": "https://open.spotify.com/track/0ndEbPye7EwIx2puaz3IR1"
     },
     {
       "added_at": "2022-04-18 07:26:26",

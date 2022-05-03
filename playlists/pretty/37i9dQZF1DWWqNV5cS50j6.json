@@ -1,13 +1,29 @@
 {
   "description": "Not not not pop. Cover: Brevin Kim",
-  "num_followers": 639490,
+  "num_followers": 639574,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTM0NTQzNSwwMDAwMzQyOTAwMDAwMTgwN2JkYmFkNTYwMDAwMDE4MDUyMzRjNjhh",
+  "snapshot_id": "MTY1MTUxOTU5MCwwMDAwMzQyYTAwMDAwMTgwODYzZDEyMmMwMDAwMDE4MDUyMzRjNjhh",
   "tracks": [
+    {
+      "added_at": "2022-05-02 19:26:30",
+      "album": {
+        "name": "Share Ur Feelings",
+        "url": "https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "duration_ms": 180168,
+      "name": "Share Ur Feelings",
+      "url": "https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d"
+    },
     {
       "added_at": "2022-04-29 06:47:00",
       "album": {

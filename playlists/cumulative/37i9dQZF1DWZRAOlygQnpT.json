@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 162546,
       "name": "A Trav\u00e9s De Los A\u00f1os",
       "url": "https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 145466,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/4Qq9RI55HtotsoIc7uo3NT"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 173567,
       "name": "Asi Que Adios",
       "url": "https://open.spotify.com/track/1I1ZyRTRYXxae3PcwTGRzJ"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 142440,
       "name": "Atras de la Raya",
       "url": "https://open.spotify.com/track/2FNdexUP7hlmFd2N38he7R"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 126520,
       "name": "Avientense Todos",
       "url": "https://open.spotify.com/track/0uwJPoeNBIXtwMNRhPEl5K"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 149440,
       "name": "Cuando Era Jovencito",
       "url": "https://open.spotify.com/track/45gHhGTzWoBZucIVHkWDLj"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 150905,
       "name": "Dale Dale",
       "url": "https://open.spotify.com/track/3Sa5qXg8JBBTR4SpasA7TS"
@@ -833,6 +833,24 @@
       "duration_ms": 142638,
       "name": "Dame Felicidad",
       "url": "https://open.spotify.com/track/5RX0rW0SSkc1QOC1sDltUP"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Karina",
+        "url": "https://open.spotify.com/album/2QnxVQzKb0JQ9TDjpMqSrH"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178826,
+      "name": "Dame Tu Amor",
+      "url": "https://open.spotify.com/track/3lPADg2yBojS0fAPRODg9J"
     },
     {
       "album": {
@@ -883,7 +901,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 137586,
       "name": "Dile Adios",
       "url": "https://open.spotify.com/track/5q5xDeMlD85BtzdSFC2ih9"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 134800,
       "name": "El Martillito",
       "url": "https://open.spotify.com/track/02VHQTO2yHdTvO0USliMky"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 152120,
       "name": "Ella No Est\u00e1 Ah\u00ed",
       "url": "https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 119586,
       "name": "Haciendote el Amor",
       "url": "https://open.spotify.com/track/2YJLNtaV9ELglBVHymlKHk"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 230293,
       "name": "La Mantequilla",
       "url": "https://open.spotify.com/track/7fhZsTB9ip8h9H6vMcP8ux"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 168066,
       "name": "La Novia De Mi Mejor Amigo",
       "url": "https://open.spotify.com/track/0fTQjEHnF5ixoyVHAup7As"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 146880,
       "name": "Lagrimas de Cristal",
       "url": "https://open.spotify.com/track/1yBSWdmQqj9c6wG8s9UmRw"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 169266,
       "name": "Lagrimas de Cristal",
       "url": "https://open.spotify.com/track/2prHxySM45N4XDbCAIrvhQ"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 143480,
       "name": "Leroy",
       "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 146520,
       "name": "Los Tirantes del Delantal",
       "url": "https://open.spotify.com/track/7DTsDaJKSBQx1a5FG9v6PI"
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 203453,
       "name": "Magia Blanca",
       "url": "https://open.spotify.com/track/1ETo5cov4mQkdf99ACU6Hc"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 166386,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/3ALSAAcAgp6gmWPnvPPRqH"
@@ -1863,7 +1881,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 164442,
       "name": "Mi Suegra Llego",
       "url": "https://open.spotify.com/track/0IbxoN82eXeoMZzqcFrjvL"
@@ -1939,7 +1957,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 171973,
       "name": "Olvida",
       "url": "https://open.spotify.com/track/2yGVIH86Bc28HFqU60cNTn"
@@ -2047,7 +2065,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 116253,
       "name": "Polvora",
       "url": "https://open.spotify.com/track/1Vy1yzb5ktmDwPO5TYiqPW"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 116546,
       "name": "Polvora",
       "url": "https://open.spotify.com/track/1M4rMYhxnZpkWSKxopt16X"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 210413,
       "name": "Por Eso Estamos Como Estamos",
       "url": "https://open.spotify.com/track/0CW97xf5DU6Rm2gI9T1gY1"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 150546,
       "name": "Quiero Ser Libre",
       "url": "https://open.spotify.com/track/5GpqFKIvqrPjjoSqj7YVWE"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 186733,
       "name": "Rock De La C\u00e1rcel",
       "url": "https://open.spotify.com/track/2CvtoIFUHZTi3MFfUkbIgi"
@@ -2285,7 +2303,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 283400,
       "name": "Se\u00f1or Apache",
       "url": "https://open.spotify.com/track/0wuzTtmEaE7LqVx5UTcrUb"
@@ -2663,7 +2681,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 150506,
       "name": "Vuelve Primavera",
       "url": "https://open.spotify.com/track/6qTtnTEEp4rTp2XDSeISzc"
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 124480,
       "name": "Yuyu Mata Juju Jen",
       "url": "https://open.spotify.com/track/6fZkaxBL6doyLsaaXNAtia"

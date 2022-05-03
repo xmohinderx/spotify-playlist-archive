@@ -4,7 +4,7 @@
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-138 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
+139 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Just For Me \(with SZA\) \- Space Jam: A New Legacy](https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Just For Me \(Space Jam: A New Legacy\)](https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh) | 3:37 | 2022-03-25 |  |
 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 | 2022-03-25 |  |
 | [Keep the Beat](https://open.spotify.com/track/2cEUOtY0qN5ZcXaK6fcisd) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV) | [Keep the Beat \(From the Motion Picture "Vivo"\)](https://open.spotify.com/album/15L39EnifgX8czvFLNosug) | 2:33 | 2022-03-25 |  |
+| [Kicks \- From "Sneakerella"](https://open.spotify.com/track/6E9sTTOD2LlGrbaPAb7HGt) | [Chosen Jacobs](https://open.spotify.com/artist/7aoYhHQQOaTUlBzSoGg1kG), [Sneakerella \- Cast](https://open.spotify.com/artist/78i014EDOnmTmju1EzXsvf) | [Kicks \(From "Sneakerella"\)](https://open.spotify.com/album/4xNzfG1xRk5VkFTjXRMi78) | 2:46 | 2022-05-02 |  |
 | [Krabby Step \(with Tyga & Lil Mosey\) \- Music From "Sponge On The Run" Movie](https://open.spotify.com/track/2OoIVOMmf3TloAFLtdJeO2) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Krabby Step \(with Tyga & Lil Mosey\) \[Music From "Sponge On The Run" Movie\]](https://open.spotify.com/album/0mEMKcY14EIbeOyA3oK8iD) | 3:16 | 2022-03-25 |  |
 | [Kung Fu Fighting](https://open.spotify.com/track/1pWwCGTRaZ4V0KEEi9zMst) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Kung Fu Panda](https://open.spotify.com/album/1cpNN7bkoC28hvsxwEFnJx) | 2:30 | 2022-03-25 |  |
 | [Lay Your Head On Me](https://open.spotify.com/track/4tzfm1U4YgBzJe4sUxsK13) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JCNm5gXgKMKWrNtnYezXu) | 3:16 | 2022-03-25 |  |

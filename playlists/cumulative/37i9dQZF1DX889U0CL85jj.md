@@ -4,7 +4,7 @@
 
 > Just chill...
 
-255 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+256 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-08-27 |  |
 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 | 2022-01-21 |  |
 | [Make You Feel](https://open.spotify.com/track/2aufjq2wqMFwGBunVLaxiE) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Make You Feel](https://open.spotify.com/album/79kIGfwT0BTsljM6eCBlff) | 4:52 | 2020-01-28 |  |
+| [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-02 |  |
 | [Mean](https://open.spotify.com/track/7xrwlO7d0pINF403SwlqeK) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Mean](https://open.spotify.com/album/7kaexmU6w343tzO0lrutvS) | 3:45 | 2020-06-26 | 2022-01-22 |
 | [Montara](https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Montara](https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO) | 3:45 | 2020-04-17 | 2022-01-22 |
 | [Moonboy](https://open.spotify.com/track/3j4P8ytkoDpBFePPrXHEbe) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Moonboy](https://open.spotify.com/album/2LhpR3TL7xqk8N4wJBTGIN) | 2:12 | 2020-08-21 |  |
@@ -248,7 +249,7 @@
 | [Way Up](https://open.spotify.com/track/2dcA5V4ADoZQ7jpJwPsGjK) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Way Up](https://open.spotify.com/album/60nfJFRPMc5mhdDwqPnULw) | 2:57 | 2019-09-06 |  |
 | [Weirdo](https://open.spotify.com/track/2DhST4YlvdtsAbYrPHY0Jc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Weirdo](https://open.spotify.com/album/43pEu8e86LTOto3PsKu8tK) | 3:12 | 2020-04-14 | 2022-01-22 |
 | [What if](https://open.spotify.com/track/2nQSYKTUonp2v4HjMeZz0e) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [What if](https://open.spotify.com/album/0fD5MbkW3FkVy7XbbDpiwy) | 3:43 | 2021-06-07 | 2022-01-22 |
-| [When Will I Learn](https://open.spotify.com/track/2ScZesPRtAwvZvajHgxDdQ) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/57AipIrXqa433GDNRygUsC) | 2:49 | 2021-06-07 |  |
+| [When Will I Learn](https://open.spotify.com/track/2ScZesPRtAwvZvajHgxDdQ) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/57AipIrXqa433GDNRygUsC) | 2:49 | 2021-06-07 | 2022-05-03 |
 | [When Will I Learn](https://open.spotify.com/track/4fhDUKvSmbTtK4yrwV29Q2) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [A Force Majeure](https://open.spotify.com/album/3JQs8Qu80vtIekyP8JIrDH) | 2:49 | 2022-01-21 |  |
 | [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 | 2022-01-21 |  |
 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 | 2022-04-29 |  |

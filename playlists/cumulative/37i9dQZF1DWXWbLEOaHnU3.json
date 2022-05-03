@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 315766,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/5Mfs9l7PBSu1cQUHRg7vFP"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 450206,
       "name": "Bansuri",
       "url": "https://open.spotify.com/track/7CRMavjrfUFzj4ijaMQMDN"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 459428,
       "name": "Bhavani Ashtakam",
       "url": "https://open.spotify.com/track/4hBD1db3F4KkvigumOTDMD"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 326000,
       "name": "Control Machine",
       "url": "https://open.spotify.com/track/71c8wiCCTK63JzK8pLDXGJ"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 384000,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/2IQ55IFyww2HtADa9Ewsdq"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 494968,
       "name": "Dreamworld",
       "url": "https://open.spotify.com/track/3lGnnnYxNxDwH2XTWtAyxD"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 510000,
       "name": "Enlightenment",
       "url": "https://open.spotify.com/track/7F8ACXtI6sU7dmYuBJJfrh"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 303428,
       "name": "Foresight",
       "url": "https://open.spotify.com/track/3Gu3dF2xLaOI3fVPlJmMxw"
@@ -871,6 +871,28 @@
       "duration_ms": 435428,
       "name": "Frequency - Aura Vortex Remix",
       "url": "https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I"
+    },
+    {
+      "album": {
+        "name": "Gayatri",
+        "url": "https://open.spotify.com/album/7aXU3eXiTmoYJctFlBZfSR"
+      },
+      "artists": [
+        {
+          "name": "Shanti People",
+          "url": "https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt"
+        },
+        {
+          "name": "Droplex",
+          "url": "https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311101,
+      "name": "Gayatri",
+      "url": "https://open.spotify.com/track/0uETXz9EaPbQPgvHppOQYr"
     },
     {
       "album": {
@@ -987,7 +1009,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 214290,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6m8BCfpZIVikVsm5YKVQrC"
@@ -1009,7 +1031,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 573333,
       "name": "Heaven Eleven",
       "url": "https://open.spotify.com/track/2U3FOnuf7V4D5vcqgrZadj"
@@ -1071,7 +1093,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 377058,
       "name": "High Pressure",
       "url": "https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7"
@@ -1199,7 +1221,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 150400,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/7sxlEIm4inpLw6m63kGk6W"
@@ -1217,7 +1239,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 402253,
       "name": "Joyful Life",
       "url": "https://open.spotify.com/track/0VkvOzCGSlyKsFjewlAJ8T"
@@ -1243,6 +1265,24 @@
       "duration_ms": 406478,
       "name": "Keleno",
       "url": "https://open.spotify.com/track/3167iOe6WMN5VgukbH8EXw"
+    },
+    {
+      "album": {
+        "name": "Laywa",
+        "url": "https://open.spotify.com/album/5ui0bPcL7VngQYyIgjxL4O"
+      },
+      "artists": [
+        {
+          "name": "Spectra Sonics",
+          "url": "https://open.spotify.com/artist/1YF50bV88zVwkRkSWizZnc"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500689,
+      "name": "Laywa",
+      "url": "https://open.spotify.com/track/4viW03idClQk6QilMIJ9uh"
     },
     {
       "album": {
@@ -1379,7 +1419,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 189254,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/0lFjo6mqV1VtP1T0XFc3Ng"
@@ -1927,7 +1967,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 501971,
       "name": "Snap",
       "url": "https://open.spotify.com/track/7aj4xtdZhFZW1kJ2TygT0C"
@@ -2007,7 +2047,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 260571,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/5wtUmDnAhBZ79Po5eaQUW3"
@@ -2055,7 +2095,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 160513,
       "name": "The Spook",
       "url": "https://open.spotify.com/track/5Uwo353uxQejJ33yjZgIlC"
@@ -2211,7 +2251,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 289418,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/37eQ13yBg842gYEz6sat92"
@@ -2251,7 +2291,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 178285,
       "name": "War of the Gods",
       "url": "https://open.spotify.com/track/2fSuULcE8VMeOHxBsXIy0d"
@@ -2313,7 +2353,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 258260,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/2LLflcAjE262tLv9vK7Dqz"
@@ -2375,7 +2415,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 358285,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2hXlub5ZvPv7lUiQao52I5"
@@ -2455,7 +2495,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 406750,
       "name": "Yuma",
       "url": "https://open.spotify.com/track/45gdJm5UPBR1zQWVuK50eJ"

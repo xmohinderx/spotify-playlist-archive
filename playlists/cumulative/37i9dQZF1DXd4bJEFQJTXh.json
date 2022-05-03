@@ -1346,6 +1346,28 @@
     },
     {
       "album": {
+        "name": "Kicks (From \"Sneakerella\")",
+        "url": "https://open.spotify.com/album/4xNzfG1xRk5VkFTjXRMi78"
+      },
+      "artists": [
+        {
+          "name": "Chosen Jacobs",
+          "url": "https://open.spotify.com/artist/7aoYhHQQOaTUlBzSoGg1kG"
+        },
+        {
+          "name": "Sneakerella - Cast",
+          "url": "https://open.spotify.com/artist/78i014EDOnmTmju1EzXsvf"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166839,
+      "name": "Kicks - From \"Sneakerella\"",
+      "url": "https://open.spotify.com/track/6E9sTTOD2LlGrbaPAb7HGt"
+    },
+    {
+      "album": {
         "name": "Krabby Step (with Tyga & Lil Mosey) [Music From \"Sponge On The Run\" Movie]",
         "url": "https://open.spotify.com/album/0mEMKcY14EIbeOyA3oK8iD"
       },

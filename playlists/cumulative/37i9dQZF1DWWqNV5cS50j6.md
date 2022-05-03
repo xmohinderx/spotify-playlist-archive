@@ -4,7 +4,7 @@
 
 > Not not not pop\. Cover: Brevin Kim
 
-862 songs - 1 day 17 hr 57 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+863 songs - 1 day 18 hr 0 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,6 +662,7 @@
 | [Set it on Fire](https://open.spotify.com/track/0OSFDCHge2YXQb6045oIfi) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Set it on Fire](https://open.spotify.com/album/1r28208lod8MaMRGCFP6Fl) | 3:33 | 2021-04-03 | 2022-02-12 |
 | [Shadow](https://open.spotify.com/track/4PAENZ9jspzi8mKE9UlzRe) | [Cowboy Mugshot](https://open.spotify.com/artist/5thsoHnpZYZq587Po0NgUI) | [Shadow](https://open.spotify.com/album/1dltoQE4QTe5Prt14FQSeJ) | 2:42 | 2021-05-29 | 2021-10-16 |
 | [SHAPESHIFTER](https://open.spotify.com/track/5WXz2toRgsjW6XHDvTYQ9X) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [SHAPESHIFTER](https://open.spotify.com/album/1ubKaRZMSZTtkckIO0e72j) | 3:13 | 2021-03-14 | 2021-05-15 |
+| [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 | 2022-05-02 |  |
 | [Shawty](https://open.spotify.com/track/6CLeGoAfyJZ7BpO9lZiWFS) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Shawty](https://open.spotify.com/album/7dY7qy5YcSpzEMQQQGSfSx) | 3:17 | 2020-10-13\* | 2021-01-23 |
 | [She Knows This](https://open.spotify.com/track/1xzUQMiCoY5pdego0pHMeV) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:36 | 2020-12-12 | 2021-08-18 |
 | [Shlumped Up](https://open.spotify.com/track/6RSa7U1d5Ab8zhCjMILTgI) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Shlumped Up](https://open.spotify.com/album/7reMj7mGQEOwWaJjYV01Ws) | 2:06 | 2021-09-24 | 2021-10-16 |

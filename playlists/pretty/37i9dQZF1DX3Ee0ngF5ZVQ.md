@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Cover: Midland
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,170 likes - 183 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,230 likes - 183 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

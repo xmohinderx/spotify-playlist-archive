@@ -2363,7 +2363,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 304551,
       "name": "Cascadeur",
       "url": "https://open.spotify.com/track/3xESR3mhjnxZETiVKbdXhI"
@@ -2399,7 +2399,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 265565,
       "name": "Cc",
       "url": "https://open.spotify.com/track/07qyw1D9R324YyFNZGUUdl"
@@ -5868,6 +5868,28 @@
     },
     {
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/6OqLxDFzcx4KrOsxZxG3VC"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "Iliovasilema - (Part 2 - Fos)",
+      "url": "https://open.spotify.com/track/3gMkuoFyby1uUf7rR7y8Km"
+    },
+    {
+      "album": {
         "name": "Iliovasilemata",
         "url": "https://open.spotify.com/album/10189huizuaGbkE785IqNk"
       },
@@ -6283,7 +6305,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 239995,
       "name": "Jet",
       "url": "https://open.spotify.com/track/1FaERnz6U0LZ2AHI5JZytO"
@@ -8245,7 +8267,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 160269,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/6HeG9URxuExm52kQQ8sHJU"
@@ -14445,7 +14467,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 247200,
       "name": "XILIOMETRA",
       "url": "https://open.spotify.com/track/0Az2D1ByNU09je0ZtzDcHm"

@@ -97,7 +97,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 223673,
       "name": "Alice",
       "url": "https://open.spotify.com/track/70rJOsiZjeL2O5vAD4Un0H"
@@ -707,6 +707,24 @@
       "duration_ms": 176000,
       "name": "F* F* M*",
       "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
+    },
+    {
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/3euaYIstrU817nB22OxCdu"
+      },
+      "artists": [
+        {
+          "name": "Bl4ck",
+          "url": "https://open.spotify.com/artist/1mhIYbi7ArqDX2h6FPdB1G"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142214,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/73IAc5vgsCwVYIII7I0ve8"
     },
     {
       "album": {

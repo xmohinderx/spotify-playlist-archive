@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,290 likes - 116 songs - 7 hr 16 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,291 likes - 116 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 115 | [Perfume Factory](https://open.spotify.com/track/63jweZw2hIntUxwqrwO1FB) | [Most Unlikely](https://open.spotify.com/artist/19aotCWaO0iyku8ns8kyLg), [Rich Austin](https://open.spotify.com/artist/2EHPDKgWHuaXkeCAW4XbSX) | [Perfume Factory](https://open.spotify.com/album/3ShM0FaqIs5lZOJoic8SP4) | 3:18 |
 | 116 | [Feel Better](https://open.spotify.com/track/3CoMzJXWIRLfjZkgwSW6UE) | [Jonathan Shapiro](https://open.spotify.com/artist/3U38aUkSRa6JgTdDOrUawZ), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [Feel Better](https://open.spotify.com/album/7cBIhRfgxvKHY22RHYax9T) | 2:09 |
 
-Snapshot ID: `Mjc5OSxlNTI0MTc4ZTQ5YjliOTIxYWE5NmQzODg1NzJmYTlmZGQwODdhZmFk`
+Snapshot ID: `MjgwMixhMzY3OGIzOTNmZTViYmIyZjAwYWMxNmNjMzRkMzEzYmY4MmZhMDQ5`

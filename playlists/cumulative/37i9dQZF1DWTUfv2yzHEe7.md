@@ -4,7 +4,7 @@
 
 > Bollywood beats to keep you dancing all night\. Cover: Akshay Kumar & Katrina Kaif
 
-62 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/5HAFGxpwN32oLCPDEylxYw)
+63 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/5HAFGxpwN32oLCPDEylxYw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Best of 2021 Dance Hits](https://open.spotify.com/track/3M2hoXdc7P8tgQt11hT5Lp) | [Dj Kiran Kamath](https://open.spotify.com/artist/76DiXwbDvK690KWyvU5JoP) | [Best of 2021 Dance Hits](https://open.spotify.com/album/6oYNZaANR2Cns7V1GheUPl) | 3:47 | 2021-12-24 |  |
 | [Bhai Ka Birthday \(From "ANTIM \- The Final Truth"\)](https://open.spotify.com/track/7LvUmX61ksgmbxiK4YuUas) | [Sajid Khan](https://open.spotify.com/artist/1PEOXOtxn9FQN9sc2CBYGv), [Hitesh Modak](https://open.spotify.com/artist/2lwWF2CY3jtf5jJDAKi4UU) | [Bhai Ka Birthday \(From "ANTIM \- The Final Truth"\)](https://open.spotify.com/album/2Ip3yCFwrCe1Ddm3MzQaX6) | 4:20 | 2021-12-24 | 2022-01-06 |
 | [Bhankas](https://open.spotify.com/track/2UmpdlWtlXnQdlZP1KnD9S) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Baaghi 3](https://open.spotify.com/album/5ZnhEAXHIt3lomWlfswwnv) | 2:38 | 2021-12-24 | 2022-01-06 |
+| [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 | 2022-05-02 |  |
 | [Bom Diggy Diggy](https://open.spotify.com/track/6qCNaRRr5xJALfNJvh0NAw) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Bom Diggy Diggy \(From "Sonu Ke Titu Ki Sweety"\)](https://open.spotify.com/album/3tOA9zT2Kg5lPln6oQcLfZ) | 3:58 | 2021-12-24 |  |
 | [BurjKhalifa \(From "Laxmii"\)](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [Shashi](https://open.spotify.com/artist/5EXIQQjCaCnRPJ68SxYURB), [DJ Khushi](https://open.spotify.com/artist/6xElGyunMSlnuJ2vabDUWA), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Madhubanti](https://open.spotify.com/artist/4x4Q6d60hC0ZuLloMeCLoS) | [BurjKhalifa \(From "Laxmii"\)](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 3:07 | 2021-12-24 |  |
 | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/1PDnTLpadsuLNSs6LCQtQh) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Jassi Sidhu](https://open.spotify.com/artist/2VXIKojJeuVC7NyOQs4JlE), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/3J0XOvaaEByP4xeGTtYa9Y) | 2:33 | 2021-12-24 |  |

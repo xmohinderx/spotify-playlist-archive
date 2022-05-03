@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 160307,
       "name": "Bagre",
       "url": "https://open.spotify.com/track/4dAyNv3NvYQdzvpPcpBmo6"
@@ -4171,7 +4171,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 161266,
       "name": "LA COMBI VERSACE (feat. Tokischa)",
       "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
@@ -4345,7 +4345,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -6100,6 +6100,28 @@
     },
     {
       "album": {
+        "name": "No Spang",
+        "url": "https://open.spotify.com/album/5yR7Kgl0X4OhZECse9SaoT"
+      },
+      "artists": [
+        {
+          "name": "Sherman Smith",
+          "url": "https://open.spotify.com/artist/0AHS7Ls2S2SqYAruOvl9b0"
+        },
+        {
+          "name": "Gigi Tequila",
+          "url": "https://open.spotify.com/artist/0NIFDhmpufkrkdw6lLwxZG"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169614,
+      "name": "No Spang",
+      "url": "https://open.spotify.com/track/1HXTpsTUycGVExkP0O05Ie"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -6535,7 +6557,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 258540,
       "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
       "url": "https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM"
@@ -6771,7 +6793,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 174720,
       "name": "Piri Bambam",
       "url": "https://open.spotify.com/track/2ig60OGpxzFz9qHpXCAsNY"
@@ -9099,7 +9121,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Vaina Cara",
       "url": "https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h"

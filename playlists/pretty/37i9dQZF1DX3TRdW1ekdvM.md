@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 
 > Perfect sleep riding Theta brain waves\. It's Science, it works!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,060 likes - 45 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,078 likes - 45 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 | 44 | [Theta Waves 7hz](https://open.spotify.com/track/2S5VZzo3RCO5vLnkIM9F4j) | [Subtle Mind Expansion](https://open.spotify.com/artist/2GZTcvdQzd7OgcQC0jnAsJ) | [Super Lucky: Attract Good Luck With Positive Affirmations Ischronic Tones Brainwave Entrainment](https://open.spotify.com/album/6yzrHBpa7wdDpmyG8QmCu2) | 10:02 |
 | 45 | [7.8 Hz Drone](https://open.spotify.com/track/29dNoIQv0NwNfzsx4k5rsC) | [Brainwave Binaural Systems](https://open.spotify.com/artist/0wUzLDsBbnqu7Mqzg8fhWP) | [Superdrone Progressive Relaxation](https://open.spotify.com/album/0Pl4VLTPJRQbQj4DOd8UvU) | 1:00 |
 
-Snapshot ID: `MTY1MDM1MjI2OSwwMDAwMDAzMjAwMDAwMTgwNDBhOTI2ZDIwMDAwMDE3MzQ2YzgyZTU4`
+Snapshot ID: `MTY1MTQ3MDYzMCwwMDAwMDAzMzAwMDAwMTgwODM1MWZmYTAwMDAwMDE3MzQ2YzgyZTU4`

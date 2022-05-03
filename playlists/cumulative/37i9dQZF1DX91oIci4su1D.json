@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 228537,
       "name": "Ayuma",
       "url": "https://open.spotify.com/track/3EcGHkTPyInwjBg6svuzRo"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 401951,
       "name": "Back To My Love",
       "url": "https://open.spotify.com/track/0onLNYV4aYuSQb8wPxR0O0"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 297041,
       "name": "Beyond the Sky",
       "url": "https://open.spotify.com/track/0DwBNCpmS7FFq434qH7blo"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 255869,
       "name": "Birds of A Feather",
       "url": "https://open.spotify.com/track/3mjEBoUAY8ppkTFRSiZz2k"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 252173,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/41n2LjHSyjiBtc0wV6GPpn"
@@ -2127,7 +2127,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 232714,
       "name": "Free Souls - Ben van Gosh Radio Remix",
       "url": "https://open.spotify.com/track/5ZfnLl8eUqclVeeWEuVFKf"
@@ -2193,7 +2193,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 207541,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/3drSpTn8nzMV5ier8Szgqi"
@@ -3081,7 +3081,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 245454,
       "name": "Just A Call Away",
       "url": "https://open.spotify.com/track/5wShe6vblBfKhQCb1sCfrb"
@@ -3501,7 +3501,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 210857,
       "name": "Lockdown Heart",
       "url": "https://open.spotify.com/track/1h4veLWNE7ICl6cgSiBFOn"
@@ -4035,7 +4035,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 186393,
       "name": "Moon and Sun",
       "url": "https://open.spotify.com/track/6hkiUrkqujFIpHTBJN2sZE"
@@ -4595,7 +4595,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 267692,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3Qpan87JZJxPZD7KM6IRXG"
@@ -5942,6 +5942,32 @@
     },
     {
       "album": {
+        "name": "Take This",
+        "url": "https://open.spotify.com/album/4pydWDq620SHUv13vyA08P"
+      },
+      "artists": [
+        {
+          "name": "Bryan Kearney",
+          "url": "https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx"
+        },
+        {
+          "name": "Out of the Dust",
+          "url": "https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu"
+        },
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250434,
+      "name": "Take This",
+      "url": "https://open.spotify.com/track/3ipCyw9e4Hw4nI6xmx2HCi"
+    },
+    {
+      "album": {
         "name": "Tearful",
         "url": "https://open.spotify.com/album/33QDpoSzPShSxdaIMgqGC0"
       },
@@ -6059,7 +6085,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 272250,
       "name": "The Embrace",
       "url": "https://open.spotify.com/track/3OllKKXmJ3G6m3btllU7kO"
@@ -6277,7 +6303,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 205500,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/1v51csio3TbXknsqqvn6LL"
@@ -6339,7 +6365,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 198043,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/3coUc3wYNcJiufDDoGKhBZ"
@@ -6391,7 +6417,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 201739,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/3lqOe5cVg29yNv3iQ5iCRm"
@@ -6533,7 +6559,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 202587,
       "name": "Visions",
       "url": "https://open.spotify.com/track/1dDUV0wX5nnxiqz4MCrnRr"
@@ -6739,7 +6765,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 217834,
       "name": "Wolf Cry",
       "url": "https://open.spotify.com/track/6RjjHpYw3aOsgGQhRlpHsK"

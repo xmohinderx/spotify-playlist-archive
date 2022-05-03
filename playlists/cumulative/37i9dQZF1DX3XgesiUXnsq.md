@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: Dreamville
 
-100 songs - 5 hr 36 min - not published yet
+100 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

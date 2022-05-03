@@ -4,7 +4,7 @@
 
 > thank you beabadoobee, umi, baby queen and more for these treasures
 
-1,576 songs - 3 day 12 hr 16 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,577 songs - 3 day 12 hr 20 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2020-09-12 | 2021-04-02 |
 | [Bubba](https://open.spotify.com/track/0qOe0oNsO7459dYDAlomiV) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/4yGtkKywRagLcmI3U0ldbe) | 5:00 | 2019-10-25 | 2021-01-12 |
 | [Bubble](https://open.spotify.com/track/2ohheZzavZxvs6Gm3o8EUS) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Bubble](https://open.spotify.com/album/2lkx1nUXlyvRiKtZoHEyeN) | 2:37 | 2020-06-13 | 2020-12-04 |
+| [Built This Way \- \(Slow Remix\)](https://open.spotify.com/track/4BtaPciwVOkH7eFC59i27G) | [Samantha Ronson](https://open.spotify.com/artist/439RqyQhzmvM2TG7hn4KVs) | [Mean Girls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VMeOsRr2wyELrgfz2rkHp) | 4:16 | 2022-05-02 |  |
 | [Built To Spill](https://open.spotify.com/track/4waleULtpyAttZiusnOuKG) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Built To Spill](https://open.spotify.com/album/6TLLO4Oh4ndwKlnkXNoCUV) | 3:44 | 2022-04-08 | 2022-04-29 |
 | [BULL$HIT](https://open.spotify.com/track/7lADpzPifJz9k2XcX8r9P7) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [BULL$HIT](https://open.spotify.com/album/2bEu0wvV7dkvVUAMxLTrPz) | 3:19 | 2020-10-24 | 2020-11-27 |
 | [BULLDOG](https://open.spotify.com/track/0kj8iOWDgQqiRbDWQSJsWb) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [LIGHT UP SHOES 2](https://open.spotify.com/album/70sJtyCdOQKbjDSOu9mXAQ) | 4:52 | 2019-12-04 | 2020-02-05 |

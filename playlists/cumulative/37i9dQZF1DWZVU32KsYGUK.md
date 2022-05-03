@@ -4,7 +4,7 @@
 
 > Elegant music for your fancy dinner
 
-209 songs - 9 hr 6 min - not published yet
+209 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

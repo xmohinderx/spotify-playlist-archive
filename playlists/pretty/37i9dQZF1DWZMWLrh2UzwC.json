@@ -1,6 +1,6 @@
 {
   "description": "The best newly released songs of the week. Cover: Sam Smith",
-  "num_followers": 58661,
+  "num_followers": 58667,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
@@ -74,6 +74,10 @@
         {
           "name": "PSY",
           "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
         }
       ],
       "duration_ms": 174646,

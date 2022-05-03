@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 110,631 likes - 86 songs - 7 hr 40 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 110,644 likes - 86 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 85 | [Because He Lives](https://open.spotify.com/track/1OqKHs0OGzlOib5BtuUT7L) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Reunited](https://open.spotify.com/album/7ygK4tK0qSpdlMau3sBnO5) | 3:36 |
 | 86 | [The Kindness Of The Cross](https://open.spotify.com/track/5NkRkMWyUaIFnfBTdccuqX) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [The Kindness Of The Cross](https://open.spotify.com/album/1vxB7fbWYLquhtIYSFaDL0) | 4:16 |
 
-Snapshot ID: `NjQ1OSw3ZTdkMTBmNmU4YjlmYWIwZWMyMzFlYjFhNjM3YjI2OTdmYzI1OTI0`
+Snapshot ID: `NjQ2Myw0MjNiMmU3Y2Y4Mjc4NzM1NjNkYjhkYTM0MjBlNTM0ZGFhN2VkY2I1`

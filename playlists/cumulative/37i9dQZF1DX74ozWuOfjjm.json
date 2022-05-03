@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to the women of AU & NZ at full volume. Cover: RIIKI REID",
+  "description": "Listen to the women of AU & NZ at full volume. Cover: Alison Wonderland",
   "name": "EQUAL AU & NZ",
   "published_playlist_ids": [
     "4PJNyPSll9BI9JEGTXEKxV"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 179340,
       "name": "A Heart Don't Break Like That",
       "url": "https://open.spotify.com/track/2V7KxZ0HTzRVqKkQFOawNO"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 191952,
       "name": "Alone on the Moon",
       "url": "https://open.spotify.com/track/4bnJC64uvoZ598bqwZ6L9L"
@@ -139,6 +139,24 @@
       "duration_ms": 202397,
       "name": "An Honest Mess",
       "url": "https://open.spotify.com/track/00nJAeUvd37o65vdmqtg1G"
+    },
+    {
+      "album": {
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/75Q930fpXUkDmazRlXKAmp"
+      },
+      "artists": [
+        {
+          "name": "Charlie Collins",
+          "url": "https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226348,
+      "name": "Are You Even Listening",
+      "url": "https://open.spotify.com/track/0KyAkUItGXfoLbsDQ7p3ww"
     },
     {
       "album": {
@@ -528,6 +546,28 @@
     },
     {
       "album": {
+        "name": "Crying At This Party (feat. bby ivy)",
+        "url": "https://open.spotify.com/album/7fyaZQbIbfPr7gQltTzTa5"
+      },
+      "artists": [
+        {
+          "name": "Jordie Ireland",
+          "url": "https://open.spotify.com/artist/1fTCSmuwhEaa6J6Hjq8xmi"
+        },
+        {
+          "name": "bby ivy",
+          "url": "https://open.spotify.com/artist/17aZjZK0Dqx0xGd05Ooo0R"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205782,
+      "name": "Crying At This Party (feat. bby ivy)",
+      "url": "https://open.spotify.com/track/1Af7leoKf8dkatsECOVhs6"
+    },
+    {
+      "album": {
         "name": "Crying in the Club",
         "url": "https://open.spotify.com/album/36x7iB3fS5Rb1tEiOh2egW"
       },
@@ -575,10 +615,28 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 193511,
       "name": "Darts in the Dark",
       "url": "https://open.spotify.com/track/01U7Hj60HEBOI9jCY9Wfh7"
+    },
+    {
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/5ziOA3BzD49xDKsSJMMikl"
+      },
+      "artists": [
+        {
+          "name": "JOY.",
+          "url": "https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186708,
+      "name": "Depends On",
+      "url": "https://open.spotify.com/track/1c3Tl6mMFCUd1p3C2gyJhL"
     },
     {
       "album": {
@@ -695,6 +753,24 @@
     {
       "album": {
         "name": "Everything",
+        "url": "https://open.spotify.com/album/6YusTL3UDrIcFq4OtTX4i0"
+      },
+      "artists": [
+        {
+          "name": "Miiesha",
+          "url": "https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253376,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/5nTx2HH2VF4D02SS67WThI"
+    },
+    {
+      "album": {
+        "name": "Everything",
         "url": "https://open.spotify.com/album/4Sk44FeY4ItAK5cdiiaxC7"
       },
       "artists": [
@@ -802,6 +878,24 @@
     },
     {
       "album": {
+        "name": "Fairytale",
+        "url": "https://open.spotify.com/album/59qUkMkvIeP043jMXBVUtX"
+      },
+      "artists": [
+        {
+          "name": "NOURI",
+          "url": "https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118951,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/0o6fLmEBkaTqjH2zm2s79P"
+    },
+    {
+      "album": {
         "name": "Fear Of Dying",
         "url": "https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q"
       },
@@ -813,7 +907,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 187800,
       "name": "Fear Of Dying",
       "url": "https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE"
@@ -1520,6 +1614,24 @@
     },
     {
       "album": {
+        "name": "KEITH (Pop Remix)",
+        "url": "https://open.spotify.com/album/7iI58yZEmaNGVhGGMq6v8m"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172711,
+      "name": "KEITH - Pop Remix",
+      "url": "https://open.spotify.com/track/5P9CxTCFWzaom9YM2dnVDN"
+    },
+    {
+      "album": {
         "name": "Super Single",
         "url": "https://open.spotify.com/album/6q5PpzD3Ljm7beMhYCmCMv"
       },
@@ -1553,6 +1665,32 @@
       "duration_ms": 211158,
       "name": "Ladder to the Moon",
       "url": "https://open.spotify.com/track/41aYKwJPK7facN5CMXLvZT"
+    },
+    {
+      "album": {
+        "name": "Lane",
+        "url": "https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162462,
+      "name": "Lane",
+      "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
     },
     {
       "album": {
@@ -1643,7 +1781,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 196693,
       "name": "Look Me In The Eyes",
       "url": "https://open.spotify.com/track/1kCKOjFILLIu0tlYJjBnPM"
@@ -1877,10 +2015,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 172373,
       "name": "new ground",
       "url": "https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX"
+    },
+    {
+      "album": {
+        "name": "next life",
+        "url": "https://open.spotify.com/album/6PLd5OqpdGTqJYpULgXJA1"
+      },
+      "artists": [
+        {
+          "name": "Yorke",
+          "url": "https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181929,
+      "name": "next life",
+      "url": "https://open.spotify.com/track/0EMaDLab0jjbGS4OWzDUoW"
     },
     {
       "album": {
@@ -2342,6 +2498,24 @@
     },
     {
       "album": {
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/2UDAM6b2FOsuHyhdNSRCrT"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229213,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/2CDA3hjjG6o8CwrEsRBFjn"
+    },
+    {
+      "album": {
         "name": "Spike The Punch",
         "url": "https://open.spotify.com/album/3S2fNUJkRiyB3SrgkixKRG"
       },
@@ -2353,7 +2527,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 181662,
       "name": "Spike The Punch",
       "url": "https://open.spotify.com/track/2gzhJCWgQ9MxKXiIWP1BfB"
@@ -2371,7 +2545,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 238720,
       "name": "Still Dream",
       "url": "https://open.spotify.com/track/4eobWZbCrcHmd1uNl6V1uo"
@@ -2418,6 +2592,24 @@
     },
     {
       "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/6A1RyV1mKJszJbk0WfZOrX"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jade",
+          "url": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181038,
+      "name": "Tantrum in Duet",
+      "url": "https://open.spotify.com/track/65vCQzEiKYIU9Uox7RwS4E"
+    },
+    {
+      "album": {
         "name": "Teeth",
         "url": "https://open.spotify.com/album/6LWe8tLgZfcj9S8gi8reLY"
       },
@@ -2429,7 +2621,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 189202,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/3fcPv6ZWPfIwWENirt7w2w"
@@ -2483,7 +2675,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 206666,
       "name": "Temper",
       "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
@@ -2519,7 +2711,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 162645,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5jPiLWYq8X5sUKfRTVm6JY"
@@ -2555,7 +2747,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 164873,
       "name": "The Limit",
       "url": "https://open.spotify.com/track/7FBwokXPo9nkVPElGPls8x"
@@ -2613,6 +2805,24 @@
       "duration_ms": 335868,
       "name": "Total Control",
       "url": "https://open.spotify.com/track/4NLrAa9QTQWkO9fAFzYmRY"
+    },
+    {
+      "album": {
+        "name": "Look Me In The Eyes",
+        "url": "https://open.spotify.com/album/6QKGRsT17L0a2JLGIhOvfv"
+      },
+      "artists": [
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237013,
+      "name": "Unaware",
+      "url": "https://open.spotify.com/track/3roidInKXgWRTSZYLiZbUY"
     },
     {
       "album": {
@@ -2689,6 +2899,24 @@
       "duration_ms": 207786,
       "name": "Weakness",
       "url": "https://open.spotify.com/track/045scjsVsgs4fJtvUgmWtz"
+    },
+    {
+      "album": {
+        "name": "Quantum Jumping",
+        "url": "https://open.spotify.com/album/1XAzH6OVdH1BlpBEnjMcPk"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "weekends",
+      "url": "https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk"
     },
     {
       "album": {

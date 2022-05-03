@@ -2,7 +2,7 @@
 
 ### [Living Christian](https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs)
 
-> Your go to Christian playlist for every day listening .
+> Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
 112 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 

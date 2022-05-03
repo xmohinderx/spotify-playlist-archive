@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Aluna & Jayda G
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,115 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,119 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 91 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 |
 | 92 | [Ruin Your Life](https://open.spotify.com/track/7rnNkVDXH6RQUNQTXVClCr) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Ruin Your Life](https://open.spotify.com/album/7LYoKeuNBP1jWkMTLmf0Wo) | 2:32 |
 | 93 | [You Take My Hand](https://open.spotify.com/track/6ZahQeSE8fqyvC0jKr7CHA) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [Healing Forest](https://open.spotify.com/album/2P5fOX5q2FOcuxtBJBVorC) | 5:15 |
-| 94 | [fisticuffs \(featuring tiLLie\)](https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fisticuffs \(featuring tiLLie\)](https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd) | 3:57 |
+| 94 | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd) | 3:57 |
 | 95 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 |
 | 96 | [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 |
 | 97 | [Tellin Me](https://open.spotify.com/track/4tZZrYIEf3Jctzhf2fUSik) | [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3) | [Tellin Me](https://open.spotify.com/album/24IrHo8LsbaixSKswmMDSi) | 3:38 |

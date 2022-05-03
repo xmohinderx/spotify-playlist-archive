@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-1,311 songs - 2 day 23 hr 43 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
+1,312 songs - 2 day 23 hr 45 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Deliveroo](https://open.spotify.com/track/4BRxNwqRlLulTkQXaIKFiu) | [Swarmz](https://open.spotify.com/artist/2yPprAQlrIQWu60g09B9MZ), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Deliveroo](https://open.spotify.com/album/7baBs8m0cRS7DrMB7tvfPY) | 2:42 | 2022-01-07 | 2022-02-26 |
 | [DeLorean](https://open.spotify.com/track/5UoHMqBFLgadqd7i0jsvE0) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [DeLorean](https://open.spotify.com/album/1T6Bps8wpxTYp0Ht83PqQc) | 3:53 | 2021-11-06 | 2021-11-20 |
 | [Desastre](https://open.spotify.com/track/7n38U69O0DEnYYFEovSSdD) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Desastre](https://open.spotify.com/album/11zMKZ5RYvwhetEZczLjZX) | 3:12 | 2021-07-10 | 2021-07-31 |
+| [Desemboca](https://open.spotify.com/track/4aq4Ws0s0EplRp3GfwJL38) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Desemboca](https://open.spotify.com/album/73nkdH1m2WBGpyy7M7j8nF) | 2:49 | 2022-05-02 |  |
 | [Desire](https://open.spotify.com/track/4d2idNxQsn1dHvDcNvrcyb) | [Six The Northstar](https://open.spotify.com/artist/5iVUAvHkhAZqJ1yTsMqJ5V) | [Desire](https://open.spotify.com/album/100wTuRSgKyyCX3VmxsTcs) | 1:50 | 2021-04-10 | 2021-04-24 |
 | [Despicable Me](https://open.spotify.com/track/1XxluwU1r3K1TfDvpTkSAN) | [AK](https://open.spotify.com/artist/0KbixuYaB7jZFk5og1PzII) | [Despicable Me](https://open.spotify.com/album/5oTKcKV8TA06qlMFkUFhCB) | 2:45 | 2021-05-03 | 2021-05-15 |
 | [DGGG](https://open.spotify.com/track/0iDM73MkT7dFMLroB0xCWp) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [DGGG](https://open.spotify.com/album/1MbQLSjiUShG6dlrOjP1Pa) | 2:40 | 2021-12-11 | 2022-01-15 |

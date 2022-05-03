@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-01",
   "description": "Gym harder, better, faster and longer. Yes, you CAN do it.",
   "name": "You Can Do It",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7KYDTb9MPMU550wXeMZesu"
+  ],
   "tracks": [
     {
       "album": {
@@ -156,6 +158,28 @@
     },
     {
       "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/12iI9cnI21f6BfPsXGLdE9"
+      },
+      "artists": [
+        {
+          "name": "Crvvcks",
+          "url": "https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161551,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/4BW2RnlPPYCVmiM2iLiVxm"
+    },
+    {
+      "album": {
         "name": "Crystallise",
         "url": "https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK"
       },
@@ -219,10 +243,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 171946,
       "name": "Dancing in the Moonlight (feat. NEIMY) - Nathan Dawe Remix",
       "url": "https://open.spotify.com/track/2gJ3YaUoh90BwIFfC8tUoJ"
+    },
+    {
+      "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202633,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl"
     },
     {
       "album": {
@@ -241,7 +283,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Didn't Know - Tobtok Remix",
       "url": "https://open.spotify.com/track/0TgAsV5VoewfCIT9y6KQYR"
@@ -350,6 +392,24 @@
     },
     {
       "album": {
+        "name": "Getting Over This",
+        "url": "https://open.spotify.com/album/7hPtpTY8ObMImZoRuDOXqb"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195396,
+      "name": "Getting Over This",
+      "url": "https://open.spotify.com/track/34G80YJLjP46YcIlDoVpdC"
+    },
+    {
+      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/4FgSB1DDC5bKynrjVs68Uv"
       },
@@ -387,7 +447,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 165141,
       "name": "Good Ones - Joel Corry Remix",
       "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
@@ -409,7 +469,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 180480,
       "name": "Habits (Stay High)",
       "url": "https://open.spotify.com/track/1Cnh9OJqRQq37e59nvaxQg"
@@ -427,7 +487,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 172277,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/4npAbdkJcdD7XMlltqQwIf"
@@ -598,6 +658,24 @@
     },
     {
       "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/2q7pFJwV3iBfpUyfMrShQH"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/6kXt76P4R9OddzbKC4eSrR"
+    },
+    {
+      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD"
       },
@@ -701,7 +779,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw"
@@ -727,7 +805,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 201176,
       "name": "Promises",
       "url": "https://open.spotify.com/track/50YQaQXog18lS11wGCl77u"
@@ -753,7 +831,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 205933,
       "name": "Regardless - Hannah Wants Remix",
       "url": "https://open.spotify.com/track/0eaGeeED3Xpwgp4Zq4wkv5"
@@ -875,10 +953,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 187247,
       "name": "Shivers - Ofenbach Remix",
       "url": "https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/1dDZe1JQ7wnGY1roOOujNm"
+      },
+      "artists": [
+        {
+          "name": "Ali Story",
+          "url": "https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/7AV1g7h1KJlAvi8JoXBQ0p"
     },
     {
       "album": {
@@ -919,7 +1015,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 222720,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6VKpDRWz9HAUOEpElNvjSi"
@@ -963,6 +1059,24 @@
       "duration_ms": 195330,
       "name": "Summer In Love",
       "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
     },
     {
       "album": {
@@ -1130,6 +1244,24 @@
     },
     {
       "album": {
+        "name": "WANT NEED LOVE",
+        "url": "https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241889,
+      "name": "WANT NEED LOVE",
+      "url": "https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu"
+    },
+    {
+      "album": {
         "name": "What I Need",
         "url": "https://open.spotify.com/album/4rCS2cW5gqIhDtzwMRXhzR"
       },
@@ -1185,7 +1317,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 181944,
       "name": "When Friday Comes",
       "url": "https://open.spotify.com/track/3yDbJlEJuWjTMPUrM9z9TH"

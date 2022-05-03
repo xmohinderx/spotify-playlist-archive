@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Mavis Staples
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,714 likes - 86 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,729 likes - 86 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

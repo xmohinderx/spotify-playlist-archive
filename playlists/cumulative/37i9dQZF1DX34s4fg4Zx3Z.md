@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Winno; thiết kế: Isu Kim
+> Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Vang; thiết kế: Isu Kim
 
-281 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+282 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Có Lẽ](https://open.spotify.com/track/6WBckbNYCnRS8uUY8Nxry6) | [phuong](https://open.spotify.com/artist/7y6P5UDQi9Dk3ACrSKOB7l), [manner](https://open.spotify.com/artist/6ptCdWWRUKaXNw7y9gEaJI) | [Có Lẽ](https://open.spotify.com/album/6PT6KSdqy9sszLrwqI3MqK) | 4:07 | 2022-01-06 | 2022-04-23 |
 | [Có Lẽ Em Đã](https://open.spotify.com/track/6vBEhOxPPENdaFVRVrWiCw) | [5Zone](https://open.spotify.com/artist/7g9mj1ec2xf7PY4x2ZZKpv) | [Có Lẽ Em Đã](https://open.spotify.com/album/7n9m1VPqn12fEqotyAFGzO) | 3:00 | 2022-01-06 | 2022-01-15 |
 | [Cơm Nhà](https://open.spotify.com/track/5WnlXKKUuG3YcWXAKN9K8p) | [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW), [Ruby V](https://open.spotify.com/artist/4JmcHoZrhg2HhNaeuFPaa0) | [Cơm Nhà](https://open.spotify.com/album/54oIo1WVgy6zXZWSy2gBkt) | 2:23 | 2022-01-20 | 2022-01-27 |
-| [Cơn Gió Ngang](https://open.spotify.com/track/5TTR3wseJewjFvIW1HKAX4) | [Tiez](https://open.spotify.com/artist/0Eg0IlHXO7ehEErVsi24xv), [Fay](https://open.spotify.com/artist/50c2TevFNnNUrQ69JahGRb) | [Cơn Gió Ngang](https://open.spotify.com/album/16fK9DR9KtB8OxTvtltNhT) | 3:48 | 2022-01-25 |  |
+| [Cơn Gió Ngang](https://open.spotify.com/track/5TTR3wseJewjFvIW1HKAX4) | [Tiez](https://open.spotify.com/artist/0Eg0IlHXO7ehEErVsi24xv), [Fay](https://open.spotify.com/artist/50c2TevFNnNUrQ69JahGRb) | [Cơn Gió Ngang](https://open.spotify.com/album/16fK9DR9KtB8OxTvtltNhT) | 3:48 | 2022-01-25 | 2022-05-03 |
 | [Cơn Mưa Bình Yên \(feat\. Cường\)](https://open.spotify.com/track/3kGgUPDgMF2N9QQUREePAi) | [Lãnh Cung](https://open.spotify.com/artist/16H5og96i0ZbAmG54t6s9X), [Cuong](https://open.spotify.com/artist/4fkPPfSk4WJXtvKITIgD9u) | [Cơn Mưa Bình Yên](https://open.spotify.com/album/48H3MdnVtoXTTo6R3RWRyf) | 3:57 | 2022-01-28 | 2022-04-16 |
 | [Cảm Giác Lạ \(feat\. Tài Smile\)](https://open.spotify.com/track/4okdW9XpuHlQW6YWt1rCp7) | [Zoky](https://open.spotify.com/artist/2NwcaFBDo5q8yedM6HZe38), [Tài Smile](https://open.spotify.com/artist/7l7JnnrdPYWBSFDfXuce4T) | [Cảm Giác Lạ \(feat\. Tài Smile\)](https://open.spotify.com/album/7ES5gcJGdbs9moHJiWVZLS) | 3:32 | 2022-02-18 | 2022-02-25 |
 | [Dangling Heart\(Tim Treo Ngọn Cây\)](https://open.spotify.com/track/4TrFQv7aX0TYH0ZFu9IpLe) | [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o), [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls) | [Dangling Heart\(Tim Treo Ngọn Cây\)](https://open.spotify.com/album/0wMMSUJUEudqGo057RbAwV) | 2:45 | 2022-02-28 | 2022-03-09 |
@@ -264,6 +264,7 @@
 | [Vẽ](https://open.spotify.com/track/5VFDQ3ZVyFMJQUjDOw8otJ) | [LGKH](https://open.spotify.com/artist/4Zcle1oVf2bVAxRbnlEJ4i), [Mouse T](https://open.spotify.com/artist/5aVn5DcjTAe6LMKzgCBMLv) | [Vẽ](https://open.spotify.com/album/6pSPnQyjqp1G5LQsFQPzML) | 3:12 | 2022-02-15 | 2022-03-01 |
 | [Waiting for You](https://open.spotify.com/track/7tseuw1e7EiGHM6YHVz17w) | [Thomas Dong](https://open.spotify.com/artist/69lHbxlJthL5hRim5cTmAR), [Charlotte Lyyn](https://open.spotify.com/artist/3BnFSCI4gUYXHzyXTYuDNk) | [Waiting for You](https://open.spotify.com/album/19qyj4rqHelmQTHF2F1YcF) | 3:15 | 2022-02-10 | 2022-02-19 |
 | [What's Your Problem? \(feat\. GoKKy\)](https://open.spotify.com/track/4OpF0X4ki0as0qnuErqehJ) | [Thanh Ngân](https://open.spotify.com/artist/6p2rk0bZVJQl0EtC3FO7QZ), [GoKKy](https://open.spotify.com/artist/6mJiuwiL3bbVP8rTEyan1N) | [What's Your Problem?](https://open.spotify.com/album/6apUi3bnReuohPQqI8MfWc) | 3:05 | 2022-01-28 | 2022-03-23 |
+| [Why](https://open.spotify.com/track/74DpTuEIBAfDoVTuUjUn7X) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo), [Khac Dii](https://open.spotify.com/artist/6yK61pHCw3226aNps9tixD) | [Why](https://open.spotify.com/album/4pAk4P9lDt5QXQrmT5Y489) | 3:55 | 2022-05-02 |  |
 | [Worthless](https://open.spotify.com/track/3PaiLH8DLZ6JMB0lcJeaQz) | [Haukong](https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Worthless](https://open.spotify.com/album/6GY3FGcnqDi7aOkJ3rfmqn) | 3:36 | 2022-04-04 |  |
 | [Xem Như Anh Chẳng May](https://open.spotify.com/track/2rIFRse00Znv6FfpQBdthx) | [Chu Thúy Quỳnh](https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6) | [Xem Như Anh Chẳng May](https://open.spotify.com/album/0KHpdLLlsjcwycvDMehkV4) | 3:25 | 2022-01-06 |  |
 | [Yêu Quá Đi](https://open.spotify.com/track/60DRCQgWpCNoF6Jue5ul6h) | [Lộc Linh](https://open.spotify.com/artist/1WjYZ465wOCB3e1HE0I1cE), [Vàng Ngọc Kính](https://open.spotify.com/artist/2qo0YL4NXnZHIlIOMBlHQC) | [Yêu Quá Đi](https://open.spotify.com/album/5lkMecWOkAFo1sGtLrkgtU) | 5:17 | 2022-01-06 |  |

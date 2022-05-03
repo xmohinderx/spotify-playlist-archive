@@ -4,7 +4,7 @@
 
 > Esto es un perreo a lo...Ryan castro & Justin Quiles
 
-191 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
+192 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 | 2021-12-24 | 2022-03-12 |
 | [Amor Con Odio](https://open.spotify.com/track/2d3DyvhzYMKEjPc49ogM4X) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Amor Con Odio](https://open.spotify.com/album/3ilanQtLlzzmdTbqrnnZ1B) | 3:20 | 2022-04-15 |  |
 | [Ansioso](https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Ansioso](https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT) | 3:07 | 2022-03-11 |  |
-| [Baila Baila](https://open.spotify.com/track/7v8fuiKEDYiXWjCoXvUmhW) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Romances de una Nota](https://open.spotify.com/album/4HzPwnGB4aUacqCXhWeDKA) | 3:36 | 2021-12-24 |  |
+| [Baila Baila](https://open.spotify.com/track/7v8fuiKEDYiXWjCoXvUmhW) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Romances de una Nota](https://open.spotify.com/album/4HzPwnGB4aUacqCXhWeDKA) | 3:36 | 2021-12-24 | 2022-05-03 |
 | [Bandidos](https://open.spotify.com/track/1dZkAYdCvUA4u5cMzGhRJh) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Bandidos](https://open.spotify.com/album/0EC8Sa1jYekLosZIYDlWvw) | 2:57 | 2022-04-29 |  |
 | [Baya](https://open.spotify.com/track/0cux7pJXDRjT7UBlwIx0DZ) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:35 | 2021-12-24 |  |
 | [Bebé Que Bien Te Ves](https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:46 | 2021-12-24 | 2022-03-12 |
@@ -104,6 +104,7 @@
 | [LAS OLAS](https://open.spotify.com/track/0ERKM0ev4j3MHoc2PBn0Qo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [LAS OLAS](https://open.spotify.com/album/15QGnc6XqRoMXZJKikT75p) | 3:42 | 2021-12-24 | 2022-03-12 |
 | [Ley de Atracción](https://open.spotify.com/track/52PVGjg5sUhfs9PHiSl02c) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Ley de Atracción](https://open.spotify.com/album/3bCHpjpghyFjPfl0l108mF) | 3:00 | 2021-12-24 | 2022-03-05 |
 | [Llegamos Pal Party](https://open.spotify.com/track/0wnCf5NlkmUUoAD7ZmDjij) | [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Llegamos Pal Party](https://open.spotify.com/album/5j8JaGaCaHfCW1hrzf8L3a) | 2:48 | 2022-04-15 |  |
+| [Lo Olvidaste](https://open.spotify.com/track/6HQTemjqjKBwDfN8AG16uj) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Lo Olvidaste](https://open.spotify.com/album/3StSMliOF6G8OLYrsPV3Y0) | 2:46 | 2022-05-02 |  |
 | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx) | 3:27 | 2021-12-24 | 2022-03-18 |
 | [Loco Por Perrearte](https://open.spotify.com/track/2KNeDbgymVCUJmP6PJQ4Bx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Loco Por Perrearte](https://open.spotify.com/album/5dD5GnMkozTvrcsqD1T97a) | 3:14 | 2022-03-04 |  |
 | [Los Malvekes](https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7) | 3:38 | 2021-12-24 | 2022-04-29 |

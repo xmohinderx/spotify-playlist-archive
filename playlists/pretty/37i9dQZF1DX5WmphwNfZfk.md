@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Nonso Amadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,882 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,884 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 99 | [Crime of the Century](https://open.spotify.com/track/6VLrRwqYS9tHYRdWdBlMAL) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Crime of the Century](https://open.spotify.com/album/3KFAfbgxPVWzvvENkeFxOv) | 2:49 |
 | 100 | [Animals](https://open.spotify.com/track/71NICVYcw7O7dGTZCxTuPr) | [Dakota North](https://open.spotify.com/artist/3jSpqzexmaN7fAcJ0R7pNx) | [Animals](https://open.spotify.com/album/0P6sKlV8Vt9WmKYEheKfHt) | 2:46 |
 
-Snapshot ID: `MTY1MTQ1MzUwMSwwMDAwMDAwMGI2NjJmMzdhZDdiZTk2NDBkNzg0MzM3Y2I4MTJhMmMz`
+Snapshot ID: `MTY1MTU0MDA0NSwwMDAwMDAwMGI2NjJmMzdhZDdiZTk2NDBkNzg0MzM3Y2I4MTJhMmMz`

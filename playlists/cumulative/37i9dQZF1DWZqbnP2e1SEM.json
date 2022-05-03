@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 164975,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/6qLkMLUIkdtX34gHF9sPFL"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 169466,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 205250,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 199720,
       "name": "Before U",
       "url": "https://open.spotify.com/track/1YK1uWCZLaljd7kgjaC7bH"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 230654,
       "name": "Blinded By Your Grace, Pt. 2 (feat. MNEK)",
       "url": "https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY"
@@ -610,6 +610,24 @@
     },
     {
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/18WO0cnGjnQiBehYVtF33g"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156210,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/61eyaitcIdl1jpnc6Kb8M3"
+    },
+    {
+      "album": {
         "name": "Deep In Your Heart",
         "url": "https://open.spotify.com/album/3QloSDXEQj1hjjLaH48ih3"
       },
@@ -705,7 +723,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 213813,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/6LhmzKfu4kQcZqWPWDKvF9"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 224800,
       "name": "Get Out My Head",
       "url": "https://open.spotify.com/track/1LC6p9xSpZBogQMqlWZ5SZ"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 200357,
       "name": "Girl With The Bat (feat. Shadow Boxxer) - Edit",
       "url": "https://open.spotify.com/track/4aJ3ys72vKkJXokem7ju7H"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 224651,
       "name": "Good Times - Radio Edit",
       "url": "https://open.spotify.com/track/6MmcXmpXBeqY640DLNHPKW"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 178613,
       "name": "Heartbroken - Edit",
       "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 186200,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/33VrQvOZ7dyytQV3xCMolM"
@@ -1813,7 +1831,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 162104,
       "name": "Million Rings",
       "url": "https://open.spotify.com/track/3xPIndCsBuz27cLygsUhSB"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "My Love (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/4jpbDGZz6euo0xDcLlJUDZ"
@@ -2139,10 +2157,28 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 198750,
       "name": "Pulling Me Back",
       "url": "https://open.spotify.com/track/0Xj09B2hxhOOmzKrfy4bjA"
+    },
+    {
+      "album": {
+        "name": "Pump the Brakes",
+        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220581,
+      "name": "Pump the Brakes",
+      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
     },
     {
       "album": {
@@ -2227,7 +2263,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 172940,
       "name": "Repeat After Me (feat. Melissa Steel)",
       "url": "https://open.spotify.com/track/3t2Cyq3GntNxnffzRRlCLp"
@@ -2293,7 +2329,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 204133,
       "name": "Sambuca - Original Mix (Radio Edit) [feat. Dennis G]",
       "url": "https://open.spotify.com/track/4todOcpbt1Kpp4jl5x0r9h"
@@ -2315,7 +2351,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/6h2WDabbgcDfnTLiMJ2wqH"
@@ -2333,7 +2369,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 154680,
       "name": "Set U Free",
       "url": "https://open.spotify.com/track/0m69QNuZVZDXhGHBGK1mQA"
@@ -2438,6 +2474,24 @@
     },
     {
       "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/1vbX5xsy8Dz96qmskVY8SI"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154523,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/28cF5QOu0CWdyTt6lYxIeA"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2R6V1HDBBgRxfu469y6V6R"
       },
@@ -2453,7 +2507,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 266200,
       "name": "Sunshine - Wookie Main Mix",
       "url": "https://open.spotify.com/track/5q1hpdlf8ncJUhKLyjHoHB"
@@ -2519,7 +2573,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 158197,
       "name": "Tear It Up",
       "url": "https://open.spotify.com/track/5m9AmJ3DLVZaS7VhfoTOAF"
@@ -2541,7 +2595,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 226451,
       "name": "Tell Me Something",
       "url": "https://open.spotify.com/track/0gnPONZvU8go7Cze5A9HoJ"
@@ -2625,7 +2679,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 172440,
       "name": "Thinkin' of You",
       "url": "https://open.spotify.com/track/30T1syZuFJdIKQ79JnSoJR"
@@ -2771,7 +2825,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 170480,
       "name": "Wearing My Rolex - Radio Edit",
       "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
@@ -2793,7 +2847,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 179439,
       "name": "When You Know What Love Is - Star.One Remix",
       "url": "https://open.spotify.com/track/6Ytk2YHdAXWonpm5sqxgny"
@@ -2815,7 +2869,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 340268,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/7mMaJKkvMKUB4KPtWjMQ8D"
@@ -2903,7 +2957,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 265685,
       "name": "You & I",
       "url": "https://open.spotify.com/track/4Dju9g4NCz0LDxwcjonSvI"
@@ -2925,7 +2979,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-03",
       "duration_ms": 188346,
       "name": "You Want Me (feat. Sadie Ama)",
       "url": "https://open.spotify.com/track/4xX7OsX8XTGWJgRxNNIaFT"

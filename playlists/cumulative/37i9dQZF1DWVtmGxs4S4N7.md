@@ -4,7 +4,7 @@
 
 > Shout ¡Viva México! with these classics\. ¡Ay caramba! ¡Arriba!
 
-75 songs - 4 hr 12 min - not published yet
+75 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/6qnCnZn96nGZ0DeWk7dFOu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

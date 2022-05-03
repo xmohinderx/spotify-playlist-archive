@@ -4,7 +4,7 @@
 
 > Soundtrack your dinner with bossa sounds.
 
-104 songs - 6 hr 34 min - not published yet
+104 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

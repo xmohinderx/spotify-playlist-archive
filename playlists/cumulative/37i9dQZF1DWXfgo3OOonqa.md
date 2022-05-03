@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-294 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+295 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [BABY](https://open.spotify.com/track/6Ghy40eXZC79f3O0CukKUU) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO) | [BABY](https://open.spotify.com/album/7KWM1GsvjWQ3h2KEVgoeyD) | 2:47 | 2022-03-31 |  |
 | [Baby \(feat\. Asme & Ricky Rich\)](https://open.spotify.com/track/6A0qeZiQc0HoKZuoiHJdnG) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 3:03 | 2021-12-16 | 2022-01-14 |
 | [Bacardi](https://open.spotify.com/track/3dA1lU0x8Hm2MlCqz3w7cH) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:28 | 2022-04-28 |  |
+| [Back 2 Back](https://open.spotify.com/track/6aHLVrKdThtnm0EboXtPYk) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Back 2 Back](https://open.spotify.com/album/54oLT4AaGd9KKPwHl1T2tD) | 3:06 | 2022-05-02 |  |
 | [Bagaget](https://open.spotify.com/track/1zTa8EjeV78WHp4zDKN9Qr) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [MP3](https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ) | 1:54 | 2021-12-16 | 2022-03-04 |
 | [BAGS](https://open.spotify.com/track/7BrVRDCieNEotTW4FptYh3) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [BAGS](https://open.spotify.com/album/5uQIVyMtZm1kjPA5acv8IC) | 2:40 | 2021-12-16 | 2022-01-28 |
 | [Banana](https://open.spotify.com/track/4lhNy5ouftIuxPuISfEk16) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Mode Avion](https://open.spotify.com/album/12bqfaU1WWmN4REkJOqQOd) | 3:30 | 2022-02-20 | 2022-03-05 |
@@ -68,7 +69,7 @@
 | [D.G.B.N](https://open.spotify.com/track/5gP8Kh3dMBSASOEwUcULCQ) | [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0) | [D.G.B.N](https://open.spotify.com/album/2j8jCljGlEbwttO6CJui5v) | 2:48 | 2022-01-13 | 2022-02-25 |
 | [Dagar i regn](https://open.spotify.com/track/1oURoSnXjvFqm2o4U8eKgQ) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Dagar i regn](https://open.spotify.com/album/6uqLNWTSB6p3vO6v5qFRxH) | 2:46 | 2021-12-16 | 2022-01-20 |
 | [Dansa](https://open.spotify.com/track/2CcXJMWC3qlrSfgMJJrDTM) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [MUSIK ELLER METALL](https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS) | 2:31 | 2022-02-25 |  |
-| [DAY BY DAY](https://open.spotify.com/track/6Q1O5ijo0un3nJYlqKnvHp) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [DEJAVU](https://open.spotify.com/album/4QMHEXKxLB3ATm0YdjVGPx) | 2:56 | 2022-03-10 |  |
+| [DAY BY DAY](https://open.spotify.com/track/6Q1O5ijo0un3nJYlqKnvHp) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [DEJAVU](https://open.spotify.com/album/4QMHEXKxLB3ATm0YdjVGPx) | 2:56 | 2022-03-10 | 2022-05-03 |
 | [De klart](https://open.spotify.com/track/4B060rVmi5g0tdI3mWoVut) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [BJ Music](https://open.spotify.com/artist/6WSXFLsUmw0uJn9Ym1mqHJ) | [De klart](https://open.spotify.com/album/0UOr6efjzS1BbruhRVLs1H) | 2:36 | 2022-04-07 |  |
 | [Dedär – Spotify Studio 100 Recording](https://open.spotify.com/track/06CHD99F2QktVszKVpKqCs) | [Robin Nazari](https://open.spotify.com/artist/4aK9sNftDZEcieWnzCk2Ed), [RAHIMIC](https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM) | [Dedär – Spotify Studio 100 Recording](https://open.spotify.com/album/35ziEJaUtgMrNzN4OtsRdl) | 3:21 | 2022-02-10 |  |
 | [Demons](https://open.spotify.com/track/2zVvdOYwVkz2ownPMwsNhW) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [Demons](https://open.spotify.com/album/2qX5Wf692BSRABozOf5pDM) | 2:49 | 2021-12-16 | 2022-02-11 |

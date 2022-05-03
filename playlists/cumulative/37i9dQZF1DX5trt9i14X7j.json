@@ -658,6 +658,28 @@
     },
     {
       "album": {
+        "name": "Fresh Air",
+        "url": "https://open.spotify.com/album/5Yvsg0Yzg8pYR8X3EiUBok"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Fresh Air",
+      "url": "https://open.spotify.com/track/3xwMfWfBRgdTWzPNrIfDTw"
+    },
+    {
+      "album": {
         "name": "Green Tea",
         "url": "https://open.spotify.com/album/0ldNSbOCGLTYKYC9yWXd77"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,591 likes - 82 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,615 likes - 82 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

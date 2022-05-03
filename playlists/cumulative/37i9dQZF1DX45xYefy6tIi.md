@@ -4,7 +4,7 @@
 
 > Music from and inspired by ‘The Last Dance.’ Brought to you by ESPN Films and Netflix.
 
-55 songs - 3 hr 52 min - not published yet
+55 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/797Bj2eG1Mp1bVWYfkxMMo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
