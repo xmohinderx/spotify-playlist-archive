@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-400 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
+402 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Shingo](https://open.spotify.com/track/3YegC72pbwviu6fy5zbPh3) | [The Graph](https://open.spotify.com/artist/4bwrakWnAq3spXK7FvNqwY) | [Shingo](https://open.spotify.com/album/7klo4BZCjEJT0158jeEamD) | 2:46 | 2021-11-10 |  |
 | [Shinrin\-yoku](https://open.spotify.com/track/2ByA0nEhebx6CD22wMmGM7) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL) | [Shinrin\-yoku](https://open.spotify.com/album/0IOnDUjJlSqQ1Vy9x6Vbfq) | 1:56 | 2021-11-10 |  |
 | [Sidewalks](https://open.spotify.com/track/3NOKSBsL5amXGYBv8v60VM) | [mago](https://open.spotify.com/artist/0PCoJKGJi361NuMfE0FmMd) | [Sidewalks](https://open.spotify.com/album/3g8ybeju4qtXFSmGraf7sS) | 2:10 | 2022-04-08 |  |
+| [Sightseeing \- Spotify Singles](https://open.spotify.com/track/5vCEWn2vvZJo8zbCbvraAG) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Spotify Singles](https://open.spotify.com/album/3I3g8FgFZjTqNIkAge7kja) | 4:20 | 2022-05-04 |  |
 | [Silk Lips](https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc) | [Saif Amo](https://open.spotify.com/artist/0EtMAH16SljSdJ3DFy2pod) | [Silk Lips](https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV) | 2:07 | 2021-11-10 |  |
 | [Sky Lullaby](https://open.spotify.com/track/3cQHsfwhxsdJJABkWO1N5U) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Sky Lullaby](https://open.spotify.com/album/6jo7r1HGaDlUBBgNUUue8G) | 3:07 | 2021-11-10 |  |
 | [Sleepin](https://open.spotify.com/track/4U2ooZvgmBRLXEcMNH8PG6) | [Chillowfy](https://open.spotify.com/artist/21show38R2hYaNkEeCZNbZ) | [Study Beats Pt\. 1](https://open.spotify.com/album/0d8WQhnAfjatnv0QuI3eiU) | 2:03 | 2021-11-10 |  |
@@ -336,6 +337,7 @@
 | [sound by night](https://open.spotify.com/track/17EyMtoMHoVj1LQyOluAEO) | [scratchine](https://open.spotify.com/artist/7tDgvVUF0rqcdI44ZKWMHh) | [sound by night](https://open.spotify.com/album/3TF0ANcNRkxJUW9qKTBGnk) | 2:29 | 2021-11-10 |  |
 | [Spanish Galleon](https://open.spotify.com/track/4c40xb9gC7orsnW9MJm0Xi) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Pirata](https://open.spotify.com/album/4UMB9C6ejgPHuhJQZg6UgV) | 0:54 | 2021-11-10 | 2022-04-22 |
 | [Squares and Circles](https://open.spotify.com/track/2LHjVBewQoqtWECN4awbV4) | [Untitled Yet Known](https://open.spotify.com/artist/09UkA3EeHfOWE3kQszp0sA) | [Moments of Stillness](https://open.spotify.com/album/3xTcifMhPCALnDMmJdKIIx) | 2:00 | 2022-02-18 |  |
+| [Starless II \- Spotify Singles](https://open.spotify.com/track/139uZo8dlYHgVyMYN6bSXA) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 2:51 | 2022-05-04 |  |
 | [Suburbia Drive](https://open.spotify.com/track/57P3uC190Yc9VYmaHeMEqO) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [Suburbia Drive](https://open.spotify.com/album/34uScT0otY4ovm3BLlYeTC) | 1:18 | 2021-11-10 |  |
 | [Sudden Life](https://open.spotify.com/track/7LpiKAJpwzbVqPNBhincPD) | [Kenzo Hill](https://open.spotify.com/artist/0t8px0Bpm4kjzSJ2RREXiK) | [Sudden Life](https://open.spotify.com/album/3X2HohLNj0aC0U37cCrrq6) | 2:17 | 2021-11-10 |  |
 | [Sugar Haze](https://open.spotify.com/track/5gdq4y3L394cn4I9eKPsmA) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Cocobolo](https://open.spotify.com/album/4K46vbvU9s0mYMhP5WAFXX) | 2:27 | 2021-11-10 |  |

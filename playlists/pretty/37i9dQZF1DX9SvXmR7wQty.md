@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Marilyne Léonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,104 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,102 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 23 | [Première terre \- Radio Edit](https://open.spotify.com/track/52dKxMtDOTgYqqeTL2uYi4) | [Arriola](https://open.spotify.com/artist/0A4Go2q4CTLLLf4bulMzxb) | [Première terre \(Radio Edit\)](https://open.spotify.com/album/7aRws12bDZMxjyKO8fVF9m) | 3:08 |
 | 24 | [Outfit](https://open.spotify.com/track/3rsCRv584vweuDabWrHgRR) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [LEDOC](https://open.spotify.com/artist/5bR9oIpu664wSag91FUI9d) | [Outfit](https://open.spotify.com/album/3H1ZDOuNRN8VbTIQNNU31Q) | 2:55 |
 | 25 | [Sur la pointe des pieds](https://open.spotify.com/track/1jK4orgoFQGbmYAYp7OMbq) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Sur la pointe des pieds](https://open.spotify.com/album/3I79ViJzvgFejiCj2UJVye) | 6:36 |
-| 26 | [Invincible](https://open.spotify.com/track/4Sy7oa9pfZd7P5tU4ayXPK) | [Baggies](https://open.spotify.com/artist/3MaLB9t8oVeKHmnmYi0VJS), [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Invincible](https://open.spotify.com/album/3S1oc61PhNNAxItsHNg9tX) | 2:48 |
+| 26 | [Invincible](https://open.spotify.com/track/4Sy7oa9pfZd7P5tU4ayXPK) | [Baggies](https://open.spotify.com/artist/3MaLB9t8oVeKHmnmYi0VJS), [JeanCoeur](https://open.spotify.com/artist/3EnquMDJk2xQ9uaROEv8mT), [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Invincible](https://open.spotify.com/album/3S1oc61PhNNAxItsHNg9tX) | 2:48 |
 | 27 | [Vaslaw](https://open.spotify.com/track/5Tsc2kib1Ver0jqZloT8nY) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Vaslaw](https://open.spotify.com/album/3AAj7Qak7bNlcwUqSF20Yc) | 4:34 |
 | 28 | [Uber Eats Freestyle](https://open.spotify.com/track/0Of0wSZPDgQcYccKuQtptU) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Uber Eats Freestyle](https://open.spotify.com/album/0OOPR6c1oSw0FMS3CVhwl0) | 3:03 |
 | 29 | [Je lève mon verre](https://open.spotify.com/track/6o16D1kBaq7QQUSw9QP0fv) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Je lève mon verre](https://open.spotify.com/album/7FBCvIOKM2KydwJzznpBI3) | 3:46 |

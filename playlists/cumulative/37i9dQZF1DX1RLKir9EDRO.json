@@ -2014,6 +2014,24 @@
     },
     {
       "album": {
+        "name": "Kurtar Beni",
+        "url": "https://open.spotify.com/album/2jMbXrCDMP3kirzUVVHOAC"
+      },
+      "artists": [
+        {
+          "name": "Billur Battal",
+          "url": "https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159886,
+      "name": "Kurtar Beni",
+      "url": "https://open.spotify.com/track/1oZ6w6YzxtaBah3ggwi2Hv"
+    },
+    {
+      "album": {
         "name": "K\u00f6r Vakitler",
         "url": "https://open.spotify.com/album/6arh8EeBo8qUi9S8i6oJlP"
       },

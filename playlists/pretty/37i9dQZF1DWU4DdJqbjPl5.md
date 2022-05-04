@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover: <a href="https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q?si=WeTIbYIyS66s3113tvmEOA" > Ria Boss </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,473 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,615 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 69 | [Nike](https://open.spotify.com/track/3gUNco4uLKydiO0smv2EJR) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:57 |
 | 70 | [Bom Bom](https://open.spotify.com/track/3urVvgxwqxKq8u3W7BRv2V) | [Batida](https://open.spotify.com/artist/5rILRopfIgqH4Cg6Ean6AJ), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Bom Bom](https://open.spotify.com/album/0dBepsBCGwswPMvZHM6G68) | 3:32 |
 
-Snapshot ID: `MTY1MTUzOTY0MCwwMDAwMDAwMDAzODRkZGQ2YjMzOWY5ZTBiNzQ0NWIwOGFiNGIxNGYy`
+Snapshot ID: `MTY1MTYyNjA3MCwwMDAwMDAwMDAzODRkZGQ2YjMzOWY5ZTBiNzQ0NWIwOGFiNGIxNGYy`

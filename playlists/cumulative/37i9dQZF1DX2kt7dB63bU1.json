@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 174186,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 334933,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 166630,
       "name": "Alice in Wonderland",
       "url": "https://open.spotify.com/track/740uVBdbe9lthL3py12aRJ"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 354594,
       "name": "Alone With My Faith",
       "url": "https://open.spotify.com/track/2NQzmkHk9K6aKwWIdhyo3J"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 136373,
       "name": "Are You Havin' Any Fun?",
       "url": "https://open.spotify.com/track/2BqI5ltCAVF0tzdPCmtT91"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 171760,
       "name": "At Long Last Love - Live",
       "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
@@ -654,6 +654,28 @@
     },
     {
       "album": {
+        "name": "Be Still My Heart",
+        "url": "https://open.spotify.com/album/6p3iBqJ0owxMFKGsN0ytN4"
+      },
+      "artists": [
+        {
+          "name": "Club des Belugas",
+          "url": "https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo"
+        },
+        {
+          "name": "Lene Riebau",
+          "url": "https://open.spotify.com/artist/22tKbWCOHQ8QnAD0SxN1Tw"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206363,
+      "name": "Be Still My Heart",
+      "url": "https://open.spotify.com/track/1VUNJqbGvsZKQEEx0lVVFH"
+    },
+    {
+      "album": {
         "name": "Luxury and Waste",
         "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
@@ -705,7 +727,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 276579,
       "name": "Bei Mir Bist Du Sch\u00f6n",
       "url": "https://open.spotify.com/track/5EHm4yYpUnpWcwhfJ31wUj"
@@ -927,7 +949,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 541081,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0es0xpOnqscchL7Ff1uAgu"
@@ -1097,7 +1119,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 389276,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/1KTaQ86FXc2K1yQg6aSWeq"
@@ -1115,7 +1137,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 218835,
       "name": "Cheek To Cheek (Live At Blues Alley) - Audience Muted",
       "url": "https://open.spotify.com/track/67YtIysFORhzr5ISCtydAO"
@@ -1533,7 +1555,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 211408,
       "name": "Devil May Care",
       "url": "https://open.spotify.com/track/5ImWPpPTnxTsVUiuQ6RVKu"
@@ -1891,7 +1913,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 188456,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/64d7qj0fQyXF0HNiYpjd2o"
@@ -2111,7 +2133,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 448640,
       "name": "From a Mother to a Child",
       "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
@@ -2285,8 +2307,8 @@
           "url": "https://open.spotify.com/artist/68lUxS3pedsaDheFRlcxFn"
         },
         {
-          "name": "Simone Guarino",
-          "url": "https://open.spotify.com/artist/6rKRBGv6i7BDTUnwv50w56"
+          "name": "Simone Garino",
+          "url": "https://open.spotify.com/artist/0liJ6pRfaEzHaS5GYFcnLs"
         },
         {
           "name": "Veronica Perego",
@@ -2321,7 +2343,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 270440,
       "name": "Greenbacks",
       "url": "https://open.spotify.com/track/36d2jH3x50KvPE0ng15O6f"
@@ -2397,7 +2419,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 234029,
       "name": "Heritage",
       "url": "https://open.spotify.com/track/0phhblyuUY2QNU1XWs2XJ5"
@@ -2557,7 +2579,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 266138,
       "name": "I Didn't Know About You",
       "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
@@ -2575,7 +2597,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 258575,
       "name": "I Don't Know Anything",
       "url": "https://open.spotify.com/track/4VDHfpObfOrut2GvkCOu6V"
@@ -2611,7 +2633,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 328176,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
@@ -2647,7 +2669,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 189186,
       "name": "I Feel Foolish",
       "url": "https://open.spotify.com/track/1Ro0NNRNJVgRfPZFzHwjh0"
@@ -2851,7 +2873,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 118004,
       "name": "I Won't Dance",
       "url": "https://open.spotify.com/track/0Xs9Ye5qtHNcYT64UCyNd6"
@@ -2869,7 +2891,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 299931,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/6Ho8YoVurhNZKv2yIyIF06"
@@ -3047,7 +3069,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 278385,
       "name": "I'm Gonna Live Till I Die",
       "url": "https://open.spotify.com/track/2SnYeRhFn71dGPgj0pxWAg"
@@ -3205,7 +3227,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 250200,
       "name": "If I Loved You",
       "url": "https://open.spotify.com/track/6mMaZQLLPCMxOWhTjBpRkW"
@@ -3563,7 +3585,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 233093,
       "name": "Just a Word",
       "url": "https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe"
@@ -3733,7 +3755,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 267189,
       "name": "Late Bloomin' Jazzman",
       "url": "https://open.spotify.com/track/3JwEoUUYE3UlGYp5WWMSJ5"
@@ -3887,7 +3909,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 269066,
       "name": "Let You Break My Heart Again",
       "url": "https://open.spotify.com/track/41H96KDENmbR7d9NzMgojt"
@@ -4497,7 +4519,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 219852,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/5MIVDFKYU9VGB76ur3VeSP"
@@ -4891,7 +4913,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 245175,
       "name": "once in a moon",
       "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
@@ -5007,7 +5029,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 288986,
       "name": "Plus Fort Que Nous",
       "url": "https://open.spotify.com/track/2nhWlpHs20wCiti78c52dI"
@@ -5813,7 +5835,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 213999,
       "name": "The Alberta Lounge",
       "url": "https://open.spotify.com/track/3o08sAsr87UbU9WoizRIKp"
@@ -5983,7 +6005,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 195600,
       "name": "The Nearness of You",
       "url": "https://open.spotify.com/track/7xA2g7J5vjbOlEhsPQeQLs"
@@ -6351,7 +6373,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 309426,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
@@ -6583,7 +6605,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 400973,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3t5J7r88UPVLSYqvPhc463"
@@ -7049,7 +7071,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 283377,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo"
@@ -7119,7 +7141,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 163997,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD"

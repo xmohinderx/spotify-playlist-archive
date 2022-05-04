@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 328120,
       "name": "A Distance Inwards",
       "url": "https://open.spotify.com/track/3zPV4wjfvVAkBM1JMHOyFN"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 346451,
       "name": "Anything & Everything",
       "url": "https://open.spotify.com/track/3LbSfbeLXZSWVHiyFvahcM"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 399480,
       "name": "Anything & Everything - Mihai Popoviciu Remix",
       "url": "https://open.spotify.com/track/2mZAtO7U09nHPjmOqGhTu3"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 392905,
       "name": "Coyhaique - Original Mix",
       "url": "https://open.spotify.com/track/5lvx0HcLnbXBjHIC7LcwUD"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 266300,
       "name": "Dilla 4 Life",
       "url": "https://open.spotify.com/track/7aUXv3MJYpYgcpVgJVbqaP"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 363680,
       "name": "Fade - Fatima & Jerome Interpretation",
       "url": "https://open.spotify.com/track/2s2Cgh3uwaMpCnIXavUSHt"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 254015,
       "name": "Faded Memory",
       "url": "https://open.spotify.com/track/30sWK9of3ll8689n12qV0b"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 410439,
       "name": "Floss",
       "url": "https://open.spotify.com/track/3I7cvFHNwanYTnGiK6qrQ0"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 418657,
       "name": "Free - HOSH Edit",
       "url": "https://open.spotify.com/track/2Of6ELgB41N4REAnQvbpwD"
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 341193,
       "name": "I'll be",
       "url": "https://open.spotify.com/track/2QLjto27aFe8gt0AjJC3zp"
@@ -1795,7 +1795,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 373562,
       "name": "Inspired",
       "url": "https://open.spotify.com/track/1Bii3LSvFNeRTrW4s0Kj4m"
@@ -1998,6 +1998,28 @@
     },
     {
       "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218308,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
+    },
+    {
+      "album": {
         "name": "Keep on Reachin",
         "url": "https://open.spotify.com/album/2ZaDoH0PAeavRtIvmPKwq3"
       },
@@ -2154,6 +2176,28 @@
     },
     {
       "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/4JJduz9iTc6n8ntRPAhOUy"
+      },
+      "artists": [
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Like I Used To",
+      "url": "https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg"
+    },
+    {
+      "album": {
         "name": "Revisited EP",
         "url": "https://open.spotify.com/album/0ImuV2pJHgEnsHhKAwLmmf"
       },
@@ -2271,7 +2315,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 333442,
       "name": "Magnetic Generation",
       "url": "https://open.spotify.com/track/12jqiScAZkKCnkHMfrDVlM"
@@ -2347,7 +2391,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 385573,
       "name": "Mamafaka",
       "url": "https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF"
@@ -2383,7 +2427,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 466451,
       "name": "Mas",
       "url": "https://open.spotify.com/track/3i1zwjMO1fmW4uI9r7iiJW"
@@ -2485,7 +2529,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 365792,
       "name": "Moment Scale - Dubmaster X Remix",
       "url": "https://open.spotify.com/track/3RsWr97TnDsUA4AMd2aiXB"
@@ -2758,6 +2802,24 @@
     },
     {
       "album": {
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+    },
+    {
+      "album": {
         "name": "Odyssee",
         "url": "https://open.spotify.com/album/3oH1Bgm99euvruCUUvUdSR"
       },
@@ -2769,7 +2831,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 277073,
       "name": "Odyssee - Pt. 2",
       "url": "https://open.spotify.com/track/4isQapTCsf1TvF9RkzfrCG"
@@ -3041,7 +3103,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 427520,
       "name": "Please - Jeff Samuel Remix",
       "url": "https://open.spotify.com/track/5hNNUmZYDpn3ECksD3SxoB"
@@ -3287,7 +3349,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 395520,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/3KOdeL8kLUYBpM10XMZ2iy"
@@ -3341,7 +3403,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 479000,
       "name": "Robots With Soul Part 1 - Original Mix",
       "url": "https://open.spotify.com/track/6VR7ss1z27BJr67VrL4hC6"
@@ -3511,7 +3573,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 503500,
       "name": "She's A Replicant - Afriqua Remix",
       "url": "https://open.spotify.com/track/19iHk5XuK4BwNrEbqUCkxO"
@@ -3693,7 +3755,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 287750,
       "name": "Solace",
       "url": "https://open.spotify.com/track/7B9Nl7MSxywe2TfcqztTJ5"
@@ -3802,6 +3864,28 @@
     },
     {
       "album": {
+        "name": "Spectre (Theo Kottis Remix)",
+        "url": "https://open.spotify.com/album/5x1pmw6FPmCIy4AsHqc6cb"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290652,
+      "name": "Spectre - Theo Kottis Remix",
+      "url": "https://open.spotify.com/track/5cIOqCyQzGw9Im60Q7RlWS"
+    },
+    {
+      "album": {
         "name": "Spectrum EP",
         "url": "https://open.spotify.com/album/5I5VAP5dHV0ZRZdDRv6VXH"
       },
@@ -3813,7 +3897,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 415238,
       "name": "Spectrum - Original",
       "url": "https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV"
@@ -3911,7 +3995,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 540495,
       "name": "Sunday Afterglow",
       "url": "https://open.spotify.com/track/2Q6raM7fnrzaN8qDOj00VF"
@@ -4127,7 +4211,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 461680,
       "name": "The Melody - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/5k1S9YYZUlxD8R57KFjh8p"
@@ -4149,6 +4233,24 @@
       "duration_ms": 534342,
       "name": "the mirror",
       "url": "https://open.spotify.com/track/00i5lwTpbdEq3Cp9m3oB88"
+    },
+    {
+      "album": {
+        "name": "The Observer",
+        "url": "https://open.spotify.com/album/1VhXkL2qIGFwQH8hWANTOy"
+      },
+      "artists": [
+        {
+          "name": "Kasper Koman",
+          "url": "https://open.spotify.com/artist/2fjKKBOOCTqkDTRC7wH6dO"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492899,
+      "name": "The Observer",
+      "url": "https://open.spotify.com/track/6QoVPPIRdkiNCVcCUJOzbI"
     },
     {
       "album": {
@@ -4275,7 +4377,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 296000,
       "name": "There's No End in the Beginning",
       "url": "https://open.spotify.com/track/0rWXWWfMU3biukxJAdgRNY"
@@ -4365,7 +4467,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 408027,
       "name": "Transit of Venus",
       "url": "https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac"
@@ -4455,7 +4557,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 387049,
       "name": "Unknown Neighbor",
       "url": "https://open.spotify.com/track/1EETWBjKos9qzuKFWYNK8w"
@@ -4499,7 +4601,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 430374,
       "name": "Vince Montana Tribute - LV & Rick Wilhite ReWork",
       "url": "https://open.spotify.com/track/2yMFXtHHJTMTv2ynWl6avF"
@@ -4517,7 +4619,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 323766,
       "name": "Visionary",
       "url": "https://open.spotify.com/track/2c2KJyaxfA3scd09VdRMsA"

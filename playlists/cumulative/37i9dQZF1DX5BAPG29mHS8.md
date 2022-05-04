@@ -4,7 +4,7 @@
 
 > Los hits de ahora en la playlist más grande de México, con C\. Tangana.
 
-120 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/63poUoUtwzQDsNKgrO1ZRT)
+121 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/63poUoUtwzQDsNKgrO1ZRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 | 2022-03-04 | 2022-04-29 |
 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 | 2022-01-28 |  |
 | [Tendencia Global](https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tendencia Global](https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk) | 3:54 | 2022-03-18 | 2022-04-08 |
+| [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-03 |  |
 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2021-12-09 | 2022-03-30 |
 | [Tocame](https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:53 | 2022-02-10 | 2022-03-10 |
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2021-12-09 | 2022-03-25 |
@@ -125,7 +126,7 @@
 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 | 2021-12-09 | 2022-03-12 |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-02-18 |  |
 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 | 2021-12-09 |  |
-| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-04-07 |  |
+| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-04-07 | 2022-05-04 |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-12-09 | 2022-02-10 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2021-12-09 | 2022-01-29 |
 

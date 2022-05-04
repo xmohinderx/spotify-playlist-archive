@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "FLASHBACK",
+        "url": "https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212687,
+      "name": "BUT YOU",
+      "url": "https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv"
+    },
+    {
+      "album": {
         "name": "Butter",
         "url": "https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD"
       },

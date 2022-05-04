@@ -5782,6 +5782,28 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3I3g8FgFZjTqNIkAge7kja"
+      },
+      "artists": [
+        {
+          "name": "Bluewerks",
+          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
+        },
+        {
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260532,
+      "name": "Sightseeing - Spotify Singles",
+      "url": "https://open.spotify.com/track/5vCEWn2vvZJo8zbCbvraAG"
+    },
+    {
+      "album": {
         "name": "Silk Lips",
         "url": "https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV"
       },
@@ -6129,6 +6151,28 @@
       "duration_ms": 120750,
       "name": "Squares and Circles",
       "url": "https://open.spotify.com/track/2LHjVBewQoqtWECN4awbV4"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1"
+      },
+      "artists": [
+        {
+          "name": "Bluewerks",
+          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
+        },
+        {
+          "name": "Arbour",
+          "url": "https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Starless II - Spotify Singles",
+      "url": "https://open.spotify.com/track/139uZo8dlYHgVyMYN6bSXA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-109 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
+110 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/4cNGHDcvjEjFQPQd3RNnQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Afterhours](https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 2:58 | 2022-04-12 |  |
 | [All Alone](https://open.spotify.com/track/3I5wdCgOJ0q3dBly0fyErW) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:26 | 2022-04-12 |  |
 | [Bellevue](https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Doldrums](https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p) | 3:21 | 2022-04-12 |  |
-| [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2022-04-12 |  |
+| [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2022-04-12 | 2022-05-04 |
 | [But Beautiful](https://open.spotify.com/track/3Go7lD0l36UKtc5ocAazVv) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [But Beautiful](https://open.spotify.com/album/6hw3wT7eq3sQtG5kD6rcvQ) | 4:48 | 2022-04-12 |  |
 | [Caramelle](https://open.spotify.com/track/3aursaVkHsjlf72cAuhl41) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Caramelle](https://open.spotify.com/album/3Uv2i6LlSDo65sr76fdpHF) | 3:54 | 2022-04-12 |  |
 | [Central Park West](https://open.spotify.com/track/5HBXDapFW7kEjT04fQfk1p) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Central Park West](https://open.spotify.com/album/1tL7QVHU3Pv8kymhagnO2l) | 3:52 | 2022-04-12 |  |
@@ -62,6 +62,7 @@
 | [My One And Only Love](https://open.spotify.com/track/7qpM6ZfKiHVCEmqo4pPnKR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My One And Only Love](https://open.spotify.com/album/0cSg1M044LOkrxLCAgPZmT) | 3:45 | 2022-04-12 |  |
 | [My Romance](https://open.spotify.com/track/6xlT01JRhfE3ihLXZ8UkXZ) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [My Romance](https://open.spotify.com/album/6DythIGgVrUIV8e7RUcubL) | 3:50 | 2022-04-12 |  |
 | [Naima](https://open.spotify.com/track/4OxC4yBBsZ3BNmS9oFAzBx) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Naima](https://open.spotify.com/album/6Zoa4RTHHwt7FY6fxHLja2) | 3:40 | 2022-04-12 |  |
+| [Old Folks](https://open.spotify.com/track/6HK5l5TOiSUfkOt57hiOwf) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Old Folks](https://open.spotify.com/album/268BPTmcyOh0uSDFxYWYZ4) | 3:27 | 2022-05-03 |  |
 | [On A Clear Day](https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [On A Clear Day](https://open.spotify.com/album/5tc4yM14HsMvbLUErYQ4MH) | 3:16 | 2022-04-12 |  |
 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 | 2022-04-12 |  |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2022-04-12 |  |
@@ -102,7 +103,7 @@
 | [There´s no you](https://open.spotify.com/track/1CwW9u0HgDPMT0h6E5HN72) | [Elton Willis](https://open.spotify.com/artist/5I7l6XScYYCML9N2WETKE1) | [There´s no you](https://open.spotify.com/album/1apFtaoZpliaFiEswZgZrb) | 4:41 | 2022-04-12 |  |
 | [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2022-04-12 |  |
 | [They Say It's Wonderful](https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [They Say It's Wonderful](https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198) | 3:19 | 2022-04-12 |  |
-| [Time Remembered](https://open.spotify.com/track/6QVNNtFa2zVy9kbE5DyGQA) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Time Remembered](https://open.spotify.com/album/313pbQgHhe9UguJEKfvFKn) | 2:02 | 2022-04-12 |  |
+| [Time Remembered](https://open.spotify.com/track/6QVNNtFa2zVy9kbE5DyGQA) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Time Remembered](https://open.spotify.com/album/313pbQgHhe9UguJEKfvFKn) | 2:02 | 2022-04-12 | 2022-05-04 |
 | [Time Will Tell](https://open.spotify.com/track/5iLOx5BMblSA9Ge2goijPf) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Time Will Tell](https://open.spotify.com/album/1DR3K7na2wR32dBL2wNWdg) | 2:39 | 2022-04-12 |  |
 | [Underbart är kort](https://open.spotify.com/track/0cMLTbR7VyjsYc1267fp2M) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [Songs by the bay](https://open.spotify.com/album/1dhYnd1atGKlPshAx7n4Kg) | 4:04 | 2022-04-12 |  |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-04-12 |  |

@@ -1842,24 +1842,6 @@
     },
     {
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/4lkCObIzVTJ0xKsc7AoRqb"
-      },
-      "artists": [
-        {
-          "name": "eSNa",
-          "url": "https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ"
-        }
-      ],
-      "date_added": "2022-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224013,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/55J7BBQJdrwETSLSwxdEWJ"
-    },
-    {
-      "album": {
         "name": "Young Lady And Gentleman (Original Television Soundtrack), Pt. 6",
         "url": "https://open.spotify.com/album/0mRY8SeFynVVa2oMV3J5eW"
       },
@@ -2019,6 +2001,24 @@
       "duration_ms": 231177,
       "name": "Foolish Love (Strings ver.)",
       "url": "https://open.spotify.com/track/5axJOxygEc8HYAEinfZGzf"
+    },
+    {
+      "album": {
+        "name": "Footsteps",
+        "url": "https://open.spotify.com/album/4lkCObIzVTJ0xKsc7AoRqb"
+      },
+      "artists": [
+        {
+          "name": "eSNa",
+          "url": "https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224013,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/55J7BBQJdrwETSLSwxdEWJ"
     },
     {
       "album": {

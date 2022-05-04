@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-41 songs - 2 hr 19 min - not published yet
+41 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

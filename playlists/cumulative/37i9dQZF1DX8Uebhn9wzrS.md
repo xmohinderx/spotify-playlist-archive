@@ -4,7 +4,7 @@
 
 > The perfect study beats, twenty four seven.
 
-507 songs - 19 hr 30 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
+511 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2022-04-15 |  |
 | [button press](https://open.spotify.com/track/1W5oSgHcgFqLZkUGSb5mgi) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [button press](https://open.spotify.com/album/0gzqGvz8CA2SIhVaErYEyk) | 2:05 | 2022-04-15 |  |
 | [by the book](https://open.spotify.com/track/2HO4rPSFnE2FCggOcZUDtq) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [by the book](https://open.spotify.com/album/6lYaUUZThMYNybUokR9IAJ) | 2:33 | 2022-04-15 |  |
+| [By This River \- Spotify Singles](https://open.spotify.com/track/3ZuyLRUhtxy3Aw8LOX3nsE) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 3:51 | 2022-05-04 |  |
 | [Calling mars](https://open.spotify.com/track/5EkBTY3zbyZIgLDXhEwsyf) | [FG yang](https://open.spotify.com/artist/2Cub4EX4bNBLZMbbfzTumv) | [Calling mars](https://open.spotify.com/album/7uHnpZoPqOEfvO4N4AzZUK) | 2:05 | 2022-04-15 |  |
 | [calm motion](https://open.spotify.com/track/1GhOOUD5750SG2ffvxn5c9) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [calm motion](https://open.spotify.com/album/4gzkAbeCLneCPzfwCqwaRr) | 2:40 | 2022-04-15 |  |
 | [Cameleon](https://open.spotify.com/track/2z9CyOsKP6VkZAh32ERYSz) | [JIMI O’HARA](https://open.spotify.com/artist/4ZjTiyXDnLJmJRmaxg5sFQ) | [CAMOUFLAGE](https://open.spotify.com/album/4QGUYHCw96ZtEKTWOlDj1i) | 1:55 | 2022-04-15 |  |
@@ -221,6 +222,8 @@
 | [How Fun](https://open.spotify.com/track/5DxCODzWTtx0p8Vn9B290A) | [Mirroz](https://open.spotify.com/artist/6LzgXMophnKO23QxigjsiP) | [How Fun](https://open.spotify.com/album/5Yrlia3kFNIcqZE27iaN1b) | 2:11 | 2022-04-15 | 2022-04-22 |
 | [How's That?](https://open.spotify.com/track/4R06qnWPSfljUqt4n6mzQN) | [Tally Tilly](https://open.spotify.com/artist/2anhg6PY9gbMbyjPNjFyCE) | [Listen Up](https://open.spotify.com/album/4wdbmP7WMxxnfbGVvvABmZ) | 2:41 | 2022-04-15 |  |
 | [humify](https://open.spotify.com/track/4wkQzdybc3qK4nNaxHLzvO) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [humify](https://open.spotify.com/album/3ETuV9sCWTjsUqUf0FVe4R) | 2:41 | 2022-04-15 |  |
+| [Hybrid Moments \- Spotify Singles](https://open.spotify.com/track/07z8vI28uv1yUQm9BnGoQP) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Spotify Singles](https://open.spotify.com/album/4gf4VESgQrsHTYjmxgtPOX) | 2:04 | 2022-05-04 |  |
+| [I am Loving \- Spotify Singles](https://open.spotify.com/track/4IJsomqPm1O6fVPkRlP2n3) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 2:15 | 2022-05-04 |  |
 | [I fly by](https://open.spotify.com/track/3RiD3K4dx0dcWafH0kZboB) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [I fly by](https://open.spotify.com/album/3Slu8hAHhie7QTdReKjuXe) | 2:08 | 2022-04-15 |  |
 | [I.](https://open.spotify.com/track/6A5EYxkV7gzZv3PW96u3Jf) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [I.](https://open.spotify.com/album/0vBKiSgFfpnnAD37wjuicI) | 2:07 | 2022-04-22 |  |
 | [in my dream EP](https://open.spotify.com/track/5SxMQZawqnsZHybzUJlmce) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [in my dream EP](https://open.spotify.com/album/1nRKafaKn78uSKQxavi5xo) | 2:13 | 2022-04-15 |  |
@@ -228,6 +231,7 @@
 | [In The Deep](https://open.spotify.com/track/57NUJvvaolgDOw4DwumiDN) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [In The Deep](https://open.spotify.com/album/780tID6S852uS2Bo2s3qWz) | 2:06 | 2022-04-15 |  |
 | [intentions](https://open.spotify.com/track/7an4nPcSCnHX3BZBPJsMON) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [intentions](https://open.spotify.com/album/4k2f1pwo3sQrePxO8LSP3v) | 2:18 | 2022-04-15 |  |
 | [Interlace](https://open.spotify.com/track/7LV01OBynmYstauhU7HeTC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Interlace](https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U) | 2:36 | 2022-04-15 |  |
+| [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-05-04 |  |
 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 | 2022-04-15 |  |
 | [Jamster Clause](https://open.spotify.com/track/2UJHwp0RykrCU2mhKQNhNf) | [Mauro Itzhak](https://open.spotify.com/artist/4ABZDpqLJ4IKly9Vx8sr9i) | [Big City Music](https://open.spotify.com/album/6eu3s8wTiugTQjXeuH4r7S) | 1:46 | 2022-04-15 |  |
 | [Jericho Sun](https://open.spotify.com/track/4pDDvReURWfRQMrM0vSZXi) | [Neil Fonda](https://open.spotify.com/artist/5H1cu70jIQPO4nP9bjlKhp) | [Jericho Sun](https://open.spotify.com/album/5HgpaEHSoNk9HFFhMCqlH7) | 1:56 | 2022-04-15 |  |

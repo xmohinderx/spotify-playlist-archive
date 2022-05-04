@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 216866,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3Gj3CIHeZjds77ITl8XX7r"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 240826,
       "name": "Arms Open",
       "url": "https://open.spotify.com/track/3WTUNLFtzWaDwfFfZJZ9d8"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 214226,
       "name": "Empty Space",
       "url": "https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 282693,
       "name": "Everglow",
       "url": "https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/1K3LRUEcUz5FMtPYyg0F45"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
@@ -1068,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198897,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
+    },
+    {
+      "album": {
         "name": "Raised Under Grey Skies (Deluxe)",
         "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 229400,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 181360,
       "name": "Us",
       "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 231533,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"

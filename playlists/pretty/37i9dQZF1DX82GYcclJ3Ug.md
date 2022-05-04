@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,125 likes - 115 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,327 likes - 115 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
 | 2 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 |
-| 3 | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
+| 3 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
 | 4 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
 | 5 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
 | 6 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |

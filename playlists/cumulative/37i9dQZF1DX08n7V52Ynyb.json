@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 346352,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6wpE2kIiFQUdJiKDlSywdf"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 349238,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/7pYHNfu7TnBOnkKi7YZW9N"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 161173,
       "name": "Dindi",
       "url": "https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8"
@@ -922,6 +922,28 @@
     },
     {
       "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa"
+      },
+      "artists": [
+        {
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293700,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/4WipUexDpNvekJbFMBsGa3"
+    },
+    {
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -1027,7 +1049,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 410773,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N"
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 221112,
       "name": "Julian",
       "url": "https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO"
@@ -1877,7 +1899,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 254066,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
@@ -2217,7 +2239,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 200000,
       "name": "When I Fall in Love",
       "url": "https://open.spotify.com/track/3vL4OOMwluNhVEdmfkgw1n"
@@ -2293,7 +2315,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 333666,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/0KiIVvicncLbgf0Gl3OXAI"
@@ -2323,7 +2345,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 376085,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"

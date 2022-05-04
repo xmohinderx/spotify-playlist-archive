@@ -4,7 +4,7 @@
 
 > Happy and swinging jazz.
 
-122 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
+123 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Four Brothers](https://open.spotify.com/track/3LjzOkPLf42Hqh9XLcLCXj) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Jazz Sax \- Verve 50](https://open.spotify.com/album/4zx6NfgviTklWmEsNgwNsI) | 3:01 | 2021-12-17 |  |
 | [Friends](https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:15 | 2021-12-17 |  |
 | [Greasy](https://open.spotify.com/track/5rcEapnWT4NrPSFT5co106) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [New Soil](https://open.spotify.com/album/2jutpmWgWgnoYm6wgy1I2Z) | 7:25 | 2022-02-24 |  |
-| [Hampus & Anna](https://open.spotify.com/track/42ZlXHwEqXy9ezOEkd3wOx) | [William Soovik Grand Finale](https://open.spotify.com/artist/2VUNVm36k2gAXHp8eGWXRi), [Malin Wättring](https://open.spotify.com/artist/7KLJdGfoqRW7HU9BFgvGbi), [Signe Dahlgreen](https://open.spotify.com/artist/2m9LMkvEcJ3Fc5TdfnEYz1), [Viktor Reuter](https://open.spotify.com/artist/5czCa9acpSUFLbQa7RnSfv), [Joel Fabiansson](https://open.spotify.com/artist/3nID4VwJvkwd8kgC63HHND) | [Major](https://open.spotify.com/album/766C6KZ3N0GAQZCQ2lr7Wz) | 4:33 | 2021-12-17 |  |
+| [Hampus & Anna](https://open.spotify.com/track/42ZlXHwEqXy9ezOEkd3wOx) | [William Soovik Grand Finale](https://open.spotify.com/artist/2VUNVm36k2gAXHp8eGWXRi), [Malin Wättring](https://open.spotify.com/artist/7KLJdGfoqRW7HU9BFgvGbi), [Signe Dahlgreen](https://open.spotify.com/artist/2m9LMkvEcJ3Fc5TdfnEYz1), [Viktor Reuter](https://open.spotify.com/artist/5czCa9acpSUFLbQa7RnSfv), [Joel Fabiansson](https://open.spotify.com/artist/3nID4VwJvkwd8kgC63HHND) | [Major](https://open.spotify.com/album/766C6KZ3N0GAQZCQ2lr7Wz) | 4:33 | 2021-12-17 | 2022-05-04 |
 | [Happy and the Fall](https://open.spotify.com/track/36FSengmFZRJNe0xaY1GGA) | [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2) | [Searching for Jupiter](https://open.spotify.com/album/31QdNyizKKlLYf8ZSdUOL5) | 5:35 | 2021-12-17 |  |
 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 | 2021-12-17 |  |
 | [Home Cookin' \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/6QzARXbdztTRu42kQigY96) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:28 | 2021-12-17 |  |
@@ -95,6 +95,7 @@
 | [Sing, Sing, Sing](https://open.spotify.com/track/61znp1Iy11bdJ2YAbwaqw7) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Ken Burns Jazz\-Benny Goodman](https://open.spotify.com/album/2fIAk4u4vd8yy8th8ZSlbS) | 8:40 | 2022-04-13 | 2022-04-28 |
 | [Smile, Stacey \- Remastered](https://open.spotify.com/track/2ssA3VT7tzLDtF1wKgouiX) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 8:06 | 2021-12-17 |  |
 | [Soon](https://open.spotify.com/track/2HyhUHo9i6tsAEjb8Rjvmk) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Soon](https://open.spotify.com/album/2SIpgdBZhwz6fYZ0pGMwcu) | 3:45 | 2021-12-17 | 2022-03-05 |
+| [Soul Bossa Nova](https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Big Band Bossa Nova](https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8) | 2:46 | 2022-05-03 |  |
 | [Star Eyes](https://open.spotify.com/track/03wsijXCWgrIjGaPHy3sTe) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Minor Move \(Expanded Edition\)](https://open.spotify.com/album/5g0JJixBHg3QsqxW9tVJjH) | 8:15 | 2022-03-04 |  |
 | [Stolen Sweets](https://open.spotify.com/track/377ALnPexo1VGmD8dqHRXl) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Comin' Your Way](https://open.spotify.com/album/18C4w4Di2mjHHYTDQyuwUX) | 6:12 | 2021-12-17 |  |
 | [Stompin' At The Savoy](https://open.spotify.com/track/1YwL0oRz2KmlNcO2ahQWOn) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 3:09 | 2022-02-24 |  |

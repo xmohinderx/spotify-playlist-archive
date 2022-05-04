@@ -1,13 +1,29 @@
 {
   "description": "Not not not pop. Cover: Brevin Kim",
-  "num_followers": 639574,
+  "num_followers": 639662,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTUxOTU5MCwwMDAwMzQyYTAwMDAwMTgwODYzZDEyMmMwMDAwMDE4MDUyMzRjNjhh",
+  "snapshot_id": "MTY1MTYwODE5MiwwMDAwMzQyYzAwMDAwMTgwOGI4NTA1ZTcwMDAwMDE4MDUyMzRjNjhh",
   "tracks": [
+    {
+      "added_at": "2022-05-03 20:02:39",
+      "album": {
+        "name": "Death n' Taxes",
+        "url": "https://open.spotify.com/album/5hjj4vU1h3ItQCUMZdkEzE"
+      },
+      "artists": [
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Death n' Taxes",
+      "url": "https://open.spotify.com/track/1g7IP3DUgprNzIljpsdAun"
+    },
     {
       "added_at": "2022-05-02 19:26:30",
       "album": {
@@ -2099,38 +2115,6 @@
       "duration_ms": 132413,
       "name": "come thru",
       "url": "https://open.spotify.com/track/3kZLfFEvFmuRhpVM7Nyfq0"
-    },
-    {
-      "added_at": "2022-03-25 18:45:24",
-      "album": {
-        "name": "Too Late (To Call)",
-        "url": "https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz"
-      },
-      "artists": [
-        {
-          "name": "Ruby Red",
-          "url": "https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "Too Late (To Call)",
-      "url": "https://open.spotify.com/track/0M0hUyO8pVLCfm7O44fV6w"
-    },
-    {
-      "added_at": "2022-03-25 18:45:24",
-      "album": {
-        "name": "INBETWEEN",
-        "url": "https://open.spotify.com/album/6hR6RmrvpAdAJjA2LJmDLz"
-      },
-      "artists": [
-        {
-          "name": "LIL DUSTY G",
-          "url": "https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ"
-        }
-      ],
-      "duration_ms": 114845,
-      "name": "INBETWEEN",
-      "url": "https://open.spotify.com/track/2Bx7iFM88NmuTKnvaiMH3i"
     }
   ],
   "unique_name": "anti pop",

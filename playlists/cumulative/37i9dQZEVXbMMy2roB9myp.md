@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-291 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/5OGTGwAXm9ef4quCFwcKo8)
+292 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/5OGTGwAXm9ef4quCFwcKo8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2021-12-26 | 2022-01-04 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-08-11 | 2021-10-05 |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2021-12-05 | 2022-01-30 |
-| [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-01-29 |  |
+| [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-01-29 | 2022-05-04 |
 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 | 2022-03-25 | 2022-03-27 |
 | [Tamo Chelo](https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Tamo Chelo](https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD) | 1:52 | 2021-12-26 | 2022-03-23 |
 | [Tan Enamorados](https://open.spotify.com/track/1yc7ERfIzFxPP1E0OFRvp0) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 2:56 | 2021-03-27\* | 2021-05-26 |
@@ -247,6 +247,7 @@
 | [Te Mentiría](https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:38 | 2021-12-14 |  |
 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-10-19 | 2021-12-08 |
 | [Te Mentiría](https://open.spotify.com/track/5kuidI7QNbpJCB1ObdCPKx) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Mentiría](https://open.spotify.com/album/1k84mTufoGZwXjGIpz93Zi) | 3:06 | 2021-05-13 | 2021-07-11 |
+| [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2022-05-03 |  |
 | [TE MUDASTE](https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:10 | 2021-03-27\* | 2021-04-26 |
 | [Te Necesito](https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito](https://open.spotify.com/album/6qacH4ed0StQX243TgQITF) | 3:17 | 2021-05-16 | 2021-09-06 |
 | [Teca \(Remix\) \[feat\. Neo Pistea, Midel, Rei & Zecca\]](https://open.spotify.com/track/4L9WoTpNvdFv8SPW7koxWC) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [Teca \(Remix\) \[feat\. Neo Pistea, Midel, Rei & Zecca\]](https://open.spotify.com/album/6NyQQNGA9zfA1mlsFmPLaO) | 4:24 | 2021-05-30 | 2021-06-20 |

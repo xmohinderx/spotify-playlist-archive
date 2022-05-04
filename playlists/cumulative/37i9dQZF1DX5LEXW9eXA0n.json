@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 166968,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 271325,
       "name": "Doll",
       "url": "https://open.spotify.com/track/5bIn60Sg8MkELjJzCPlR7I"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 222415,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
@@ -1567,6 +1567,24 @@
       "duration_ms": 200565,
       "name": "Even if nobody cares for you",
       "url": "https://open.spotify.com/track/3wDgRdUelv4VWol7FlPlTu"
+    },
+    {
+      "album": {
+        "name": "Even Then, I",
+        "url": "https://open.spotify.com/album/3PXL79oceHp1bAMpGVknD4"
+      },
+      "artists": [
+        {
+          "name": "\ucc30\ub9ac\ube48\uc6cd\uc2a4",
+          "url": "https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271666,
+      "name": "Even Then, I",
+      "url": "https://open.spotify.com/track/3aATak00Bg68cyJwMyIgrS"
     },
     {
       "album": {
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 252133,
       "name": "Flower",
       "url": "https://open.spotify.com/track/0GVKkD74xcixRYYG3zv1NL"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 212173,
       "name": "Foolish Love",
       "url": "https://open.spotify.com/track/7I7TTfKcDDAeSf6HPgbdPT"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 253760,
       "name": "Full Bloom",
       "url": "https://open.spotify.com/track/6rX4ZMxZC6spPAIsr0i7j2"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 280360,
       "name": "Give You My Heart",
       "url": "https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 259413,
       "name": "Good Night MY LOVE",
       "url": "https://open.spotify.com/track/08JrdECBp67G9IwipvxuBO"
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 224000,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/0vMg57uWWcnv4T3qjoXP68"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 193560,
       "name": "HAPPEN",
       "url": "https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16"
@@ -2167,7 +2185,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 260597,
       "name": "Happiness (feat. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun)",
       "url": "https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO"
@@ -2442,6 +2460,24 @@
     },
     {
       "album": {
+        "name": "I hope",
+        "url": "https://open.spotify.com/album/3rw63CsSL39xUhvW2yuEx2"
+      },
+      "artists": [
+        {
+          "name": "Cheon Dan Bi",
+          "url": "https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230511,
+      "name": "I hope",
+      "url": "https://open.spotify.com/track/5ylBPTi0o2plQ4sFrhzd0s"
+    },
+    {
+      "album": {
         "name": "Hometown Cha-Cha-Cha, Pt. 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2kS1zLNQYhRwHoxh6B7xNB"
       },
@@ -2471,7 +2507,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 207999,
       "name": "I Just Want To Stay With You",
       "url": "https://open.spotify.com/track/6ldRtpROAk4H3BT4trDo9X"
@@ -2619,7 +2655,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 227866,
       "name": "I still love you a lot",
       "url": "https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy"
@@ -2673,7 +2709,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 219146,
       "name": "I will",
       "url": "https://open.spotify.com/track/1cwCsOMKxYrVmvTFT4Q7mY"
@@ -2821,6 +2857,24 @@
       "duration_ms": 249230,
       "name": "If we can't see from tomorrow",
       "url": "https://open.spotify.com/track/2PfE8HKtpBJ1WGTmhuusBE"
+    },
+    {
+      "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274386,
+      "name": "If We Ever Meet Again",
+      "url": "https://open.spotify.com/track/0lr8HEEQBvIpDE9xGchTgW"
     },
     {
       "album": {
@@ -2983,7 +3037,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 183440,
       "name": "Introduce me a good person",
       "url": "https://open.spotify.com/track/2CHk9VD0glOknemRMFEQfH"
@@ -3145,7 +3199,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 202893,
       "name": "Just hug me",
       "url": "https://open.spotify.com/track/2H3Hl20eU9cpzQUz43GtEc"
@@ -3239,7 +3293,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 199240,
       "name": "Leaf (feat. 10CM)",
       "url": "https://open.spotify.com/track/012syLYaTalPGsorWvJJSJ"
@@ -3383,10 +3437,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 223644,
       "name": "Listen to this song",
       "url": "https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG"
+    },
+    {
+      "album": {
+        "name": "Live your day",
+        "url": "https://open.spotify.com/album/0WXp98T5hi6PDmxgUtL6wf"
+      },
+      "artists": [
+        {
+          "name": "OYEON",
+          "url": "https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252490,
+      "name": "Live your day",
+      "url": "https://open.spotify.com/track/4la99hjrmKkpNRhV9OIDpd"
     },
     {
       "album": {
@@ -3831,7 +3903,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 193930,
       "name": "My Love",
       "url": "https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n"
@@ -4365,7 +4437,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 207106,
       "name": "Plant",
       "url": "https://open.spotify.com/track/3oTeu6YzKhXQIogBgzJr9w"
@@ -4795,7 +4867,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 221946,
       "name": "Should\u2032ve known",
       "url": "https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w"
@@ -4849,7 +4921,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 241080,
       "name": "Slowly Fall",
       "url": "https://open.spotify.com/track/20iKxZ9WfxHgTB2GVXpQMk"
@@ -5127,7 +5199,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
@@ -5477,7 +5549,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 248133,
       "name": "The Song",
       "url": "https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb"
@@ -5597,7 +5669,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 201832,
       "name": "Things We Took For Granted",
       "url": "https://open.spotify.com/track/0AWL2pfPLApKBhV8p6XezU"
@@ -6069,7 +6141,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 254893,
       "name": "When We Were In Love",
       "url": "https://open.spotify.com/track/613Ixm4sbcHRZGKmGtLX9v"
@@ -6383,7 +6455,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 205312,
       "name": "You, Clouds, Rain",
       "url": "https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv"

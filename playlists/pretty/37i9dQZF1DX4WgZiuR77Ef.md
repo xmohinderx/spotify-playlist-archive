@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,277 likes - 78 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,342 likes - 78 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

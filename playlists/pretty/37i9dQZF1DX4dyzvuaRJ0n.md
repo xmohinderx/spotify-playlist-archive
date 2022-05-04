@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Sonny Fodera & Raphaella, Aluna & Jayda G, Sofi Tukker, Martin Garrix, Tiesto & Deorro and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,909,678 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,909,873 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

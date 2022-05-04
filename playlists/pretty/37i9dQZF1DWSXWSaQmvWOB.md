@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Congratulations to the amazing Jon Batiste \(cover\).
+> Your daily dose of soul\-infused music! Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,725 likes - 110 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,847 likes - 110 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FREEDOM](https://open.spotify.com/track/2JHHXGSC6Ra3IJOBNLbhS6) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/7MmdRxtcFnN33C6MQLE61u) | 2:58 |
-| 2 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
+| 1 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
+| 2 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 |
 | 3 | [Admit It](https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Admit It](https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk) | 3:07 |
 | 4 | [Never Forget My Love](https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Never Forget My Love](https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4) | 3:41 |
 | 5 | [Pure Gold](https://open.spotify.com/track/3ZS0ao05ZDmPSO4q1riUf3) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Pure Gold](https://open.spotify.com/album/3zjqX3wVedOOx9yRANaUTS) | 2:49 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 11 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 |
 | 12 | [What A Life](https://open.spotify.com/track/5AaA9XKKc7AKL370qVeWQv) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [What A Life](https://open.spotify.com/album/3G6dOOzgGUnq9iR8Ee6vaR) | 3:01 |
 | 13 | [Everything's Gonna Be Alright](https://open.spotify.com/track/1USqDSnSZ2RYsZIflEJNWP) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Everything's Gonna Be Alright](https://open.spotify.com/album/2teo9fYVUAJ3qBRi3FIjJm) | 3:33 |
-| 14 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 |
+| 14 | [FREEDOM](https://open.spotify.com/track/2JHHXGSC6Ra3IJOBNLbhS6) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/7MmdRxtcFnN33C6MQLE61u) | 2:58 |
 | 15 | [Celebrate](https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Persona](https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix) | 3:23 |
 | 16 | [The Fool](https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Fool](https://open.spotify.com/album/5bnoKgSgUtYn8RqviCM15H) | 4:12 |
 | 17 | [Paradise](https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Paradise](https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA) | 5:16 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 109 | [Love And Happiness](https://open.spotify.com/track/5Neb5dg5YMBb4PQn15b3Xt) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [Love And Happiness](https://open.spotify.com/album/37oB93Q429bPfVZU51c7jx) | 2:35 |
 | 110 | [Overdrive](https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Overdrive](https://open.spotify.com/album/2EawgbUgLHmihszPlKtFoK) | 2:46 |
 
-Snapshot ID: `MTY1MTE4MzIwMCwwMDAwMDEyMDAwMDAwMTgwNzIzMDI3YzQwMDAwMDE3ZmY4YTUwODU3`
+Snapshot ID: `MTY1MTU2OTk2MSwwMDAwMDEyMTAwMDAwMTgwODkzZGFhNjEwMDAwMDE3ZmY4YTUwODU3`

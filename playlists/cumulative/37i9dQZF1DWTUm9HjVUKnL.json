@@ -8390,6 +8390,28 @@
     },
     {
       "album": {
+        "name": "Need U - Spotify Singles",
+        "url": "https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154017,
+      "name": "Need U - Spotify Singles",
+      "url": "https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp"
       },

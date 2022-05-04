@@ -4,7 +4,7 @@
 
 > Chill beats for cool coffeehouse vibes.
 
-447 songs - 17 hr 13 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+449 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Cameleon](https://open.spotify.com/track/2z9CyOsKP6VkZAh32ERYSz) | [JIMI O’HARA](https://open.spotify.com/artist/4ZjTiyXDnLJmJRmaxg5sFQ) | [CAMOUFLAGE](https://open.spotify.com/album/4QGUYHCw96ZtEKTWOlDj1i) | 1:55 | 2022-01-27 |  |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2022-01-27 |  |
 | [Candor](https://open.spotify.com/track/1nTCeX3GsGLyh9TQtQpbOl) | [Sileon](https://open.spotify.com/artist/0wmKKwWn8zNrBnRpOkvcSH) | [Zone](https://open.spotify.com/album/2XiYnl7gqdERJbJcMR8bl9) | 1:58 | 2022-01-27 |  |
+| [Cantaloupe Island \- Spotify Singles](https://open.spotify.com/track/35Up1VtzDnwdBleWKlDKxO) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Spotify Singles](https://open.spotify.com/album/1EdtxyWMoFkoWAE2g7gd5T) | 2:01 | 2022-05-04 |  |
 | [cascade](https://open.spotify.com/track/66DPObizbVuxeLf2yjvCx2) | [sound butler](https://open.spotify.com/artist/6aSAkIrQshhK1BKhiPxh0O) | [the sound is served](https://open.spotify.com/album/1czaSl9IOCmuP1RthQq6p4) | 2:38 | 2022-01-27 |  |
 | [Cathartic](https://open.spotify.com/track/0yk0UX9d2qa9eCqsvQobei) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 2:12 | 2022-01-27 |  |
 | [Cayo](https://open.spotify.com/track/6p8cuVRnfBv4C6dhvYua5i) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Cayo](https://open.spotify.com/album/0oY0cZTZBDrlPTM7chf4bE) | 2:16 | 2022-01-27 |  |
@@ -118,6 +119,7 @@
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2022-01-27 |  |
 | [Endless](https://open.spotify.com/track/5LEb9xW2hBjv2rBZrFgAQa) | [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Endless](https://open.spotify.com/album/1uI8K2c82bOEfsYB26600K) | 2:42 | 2022-04-08 |  |
 | [Enthalpy](https://open.spotify.com/track/4DLFDmqoAEPAhxjagmRfJq) | [Transparent Man](https://open.spotify.com/artist/5BzOhiTZdq869mBfPYOKST), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Enthalpy](https://open.spotify.com/album/5g95vyYNbRJebBo4O1ACyP) | 2:32 | 2022-04-08 |  |
+| [Envy \- Spotify Singles](https://open.spotify.com/track/0DDRxSTiIvr9BU5Udn622y) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 2:38 | 2022-05-04 |  |
 | [Era](https://open.spotify.com/track/6uIPwhxrUFj16Y8ciMB2Pk) | [Jaz, The Legend](https://open.spotify.com/artist/45GIW6BGNRLmlDGI24CbGE) | [Era](https://open.spotify.com/album/3odjP3Tse52fCVdiA6XiJC) | 4:25 | 2022-01-27 |  |
 | [Eskgrow](https://open.spotify.com/track/4SMMdkI3aMh08Ntf9DxuCh) | [Moon Ladder](https://open.spotify.com/artist/0oYx4r2AY0nWFoE5KUyqQI) | [Epsom Road](https://open.spotify.com/album/56OGV838fAkynsOASVD2im) | 3:15 | 2022-01-27 |  |
 | [Everything I'm not](https://open.spotify.com/track/3VRUnokiLze9VzGfeQWt8i) | [lowerful](https://open.spotify.com/artist/5vud9meb096x8pcNKiGDAm) | [Everything I'm not](https://open.spotify.com/album/25MzO5IM7UJI0YLX1eNfbM) | 1:48 | 2022-01-27 |  |

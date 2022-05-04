@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 198973,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/6SYgBTp6KuQ2ZQ91bATYl0"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 159481,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/46jJ6aqpwugeYhg0rciBUx"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 223273,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/4CNicxGbQWMwCZD3cZIOND"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 166026,
       "name": "Butter",
       "url": "https://open.spotify.com/track/3p1amIF17ryE70SnlK33eH"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 222080,
       "name": "Cha Cha Slide",
       "url": "https://open.spotify.com/track/5xM801uXVrqhUb0PzeSLvJ"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 202380,
       "name": "Cold Heart",
       "url": "https://open.spotify.com/track/7CKRtwLxj8dd05CguZ26xK"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 174800,
       "name": "Don't Slack (from Trolls World Tour)",
       "url": "https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 141666,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/0zvvCso2UalzEEc8MLJPFx"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 140955,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3tkBrXOx3LGwtAgSq09JaP"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 202942,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/2KA8r3yxck7wKKF9URwYAW"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 136569,
       "name": "Montero (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/6Dpvk8uvQyrpyCiqG46E2d"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 197812,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2"
@@ -1089,6 +1089,24 @@
       "duration_ms": 70583,
       "name": "Sharky Shuffle",
       "url": "https://open.spotify.com/track/39u8hIOvO92EaXnXN71NFp"
+    },
+    {
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/4beiC4EtRtovImB28vhtYk"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139840,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/2IKHl3w9vstJH5bGuFOKnf"
     },
     {
       "album": {
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Vaqueiro, Justin Bieber, Simone & Simaria e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747,614 likes - 104 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,747,803 likes - 104 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 28 | [HUGO BOSS](https://open.spotify.com/track/5G5P4zHSij8d744Rd8OYSG) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [HBe](https://open.spotify.com/artist/15rnS5CZKmu5FJ3fkM8C1y), [Dree](https://open.spotify.com/artist/0eHBdjeBg7lZqD4ntywa8H) | [HUGO BOSS](https://open.spotify.com/album/7mW0TZiMqIwviIVjSjcPPk) | 2:57 |
 | 29 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 |
 | 30 | [Criminosa](https://open.spotify.com/track/3wWf58cpUW5hdDUbwmk3Av) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Jorge Bask](https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy), [Bubbajay](https://open.spotify.com/artist/7fctsXmbgy715CE6TEafJq), [Apollo](https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6) | [Criminosa](https://open.spotify.com/album/3dhrpc2HGYSK4MpPmaf69X) | 4:41 |
-| 31 | [Comunista Elegante](https://open.spotify.com/track/07WWwzmVHoEMgcbuDo8P0N) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497) | [Comunista Elegante](https://open.spotify.com/album/2ymyTpa0K8XX8XjCAWpZf8) | 2:45 |
+| 31 | [Comunista Elegante](https://open.spotify.com/track/07WWwzmVHoEMgcbuDo8P0N) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Comunista Elegante](https://open.spotify.com/album/2ymyTpa0K8XX8XjCAWpZf8) | 2:45 |
 | 32 | [TBT](https://open.spotify.com/track/3ByQx79Fhy7TV6MP5HeG1L) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Andinho Dj](https://open.spotify.com/artist/2whEbvBXV8wrTAU9IKoUEM), [Thomaz](https://open.spotify.com/artist/2Y9JJi5tsqEFAzr1NY9Mag) | [TBT](https://open.spotify.com/album/46onHWvbIkATKhSuIMDgEO) | 3:25 |
 | 33 | [Cavalona](https://open.spotify.com/track/0v2Bc9YBplcdaBk7oEHliO) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Cavalona](https://open.spotify.com/album/3cDefGhhnYoqP5Bc8XDbqc) | 2:56 |
 | 34 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |

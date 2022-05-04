@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 321323,
       "name": "A Que No Me Dejas",
       "url": "https://open.spotify.com/track/4s5D7IM9z6xDVwOg9r8Hqp"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 206226,
       "name": "Am\u00e1rrame",
       "url": "https://open.spotify.com/track/0jTJlKUegj0w7crcxzxqhj"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 278493,
       "name": "Bella Se\u00f1ora",
       "url": "https://open.spotify.com/track/5G856yObLTUZpFwZXkZLXu"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 267826,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 250440,
       "name": "Claridad",
       "url": "https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 221520,
       "name": "Coraz\u00f3n En La Maleta",
       "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 308560,
       "name": "Cuando Nadie Me Ve",
       "url": "https://open.spotify.com/track/4YbIwJ8rI5XkAVD6WwnRLj"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 260613,
       "name": "De la Noche a la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2xezpH0r1pT7kcx2TPNsZ0"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 247640,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 242160,
       "name": "Dura - Remix",
       "url": "https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb"
@@ -1574,6 +1574,24 @@
     },
     {
       "album": {
+        "name": "Natalia Lafourcade",
+        "url": "https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "En el 2000",
+      "url": "https://open.spotify.com/track/2cVJwPD5CaTx2kBZyomzGN"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 235493,
       "name": "Eres la Persona Correcta en el Momento Equivocado",
       "url": "https://open.spotify.com/track/7ujYXA5hgJVVpc3dHHMkpG"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 235760,
       "name": "Estrellas Rotas",
       "url": "https://open.spotify.com/track/5OeCxTOOl8N4FAUNZmw4Va"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 241160,
       "name": "Est\u00e9s Donde Est\u00e9s",
       "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 241933,
       "name": "Formas De Amor",
       "url": "https://open.spotify.com/track/5MfHBAD6xKLwRygDd2pHbP"
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 326797,
       "name": "Historias De Danz\u00f3n Y De Arrabal",
       "url": "https://open.spotify.com/track/0Qzkm9CSXwK2Fk3Gm0ioDA"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 265626,
       "name": "La Cosa Mas Bella",
       "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-27",
+      "date_removed": null,
       "duration_ms": 261200,
       "name": "La flaca",
       "url": "https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 283120,
       "name": "La Vida Despues De Ti",
       "url": "https://open.spotify.com/track/3ywtpODtgaPs2vjqj4GCBi"
@@ -2449,7 +2467,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Maldita Primavera - Utilizar el c\u00f3digo MXF011400504",
       "url": "https://open.spotify.com/track/4ySUZAN05ItrB1q2j7r0gA"
@@ -2525,7 +2543,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 233080,
       "name": "Me Cambiaste la Vida",
       "url": "https://open.spotify.com/track/2zAvki587iz3FseLyUaGAS"
@@ -2579,7 +2597,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 206173,
       "name": "Me Enamor\u00e9 De Ti",
       "url": "https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6"
@@ -2597,7 +2615,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 239706,
       "name": "Me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
@@ -2727,7 +2745,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 237386,
       "name": "Mi primer millon",
       "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
@@ -2959,7 +2977,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 224786,
       "name": "Ni Una Sola Palabra",
       "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
@@ -2995,7 +3013,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
@@ -3115,7 +3133,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 232373,
       "name": "Nota de Amor (feat. Daddy Yankee)",
       "url": "https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1"
@@ -3407,7 +3425,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 216333,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
@@ -3455,7 +3473,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 240613,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
@@ -3791,7 +3809,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 237053,
       "name": "Solamente t\u00fa",
       "url": "https://open.spotify.com/track/4f0jYdCQUUR7tEWj1vETuL"
@@ -3809,7 +3827,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 218280,
       "name": "Soldado Del Amor",
       "url": "https://open.spotify.com/track/4S5MEAUeyandJQxJysl5Zd"
@@ -4019,7 +4037,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 220066,
       "name": "Te Perdiste Mi Amor (feat. Prince Royce)",
       "url": "https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu"
@@ -4091,7 +4109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 231573,
       "name": "Tengo Tu Love",
       "url": "https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT"
@@ -4109,7 +4127,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 246200,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
@@ -4391,7 +4409,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 272693,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"

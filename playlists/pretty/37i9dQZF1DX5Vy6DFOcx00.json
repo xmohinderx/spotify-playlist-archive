@@ -1,12 +1,12 @@
 {
   "description": "new look, new vibe, same playlist you love. ",
-  "num_followers": 1578723,
+  "num_followers": 1583798,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzYzMSwwMDAwMDJlNzAwMDAwMTgwNzc5NDA4YzEwMDAwMDE4MDZlNzY4YzU1",
+  "snapshot_id": "MTY1MTU0OTM2OCwwMDAwMDJlODAwMDAwMTgwODgwMzcxNmQwMDAwMDE4MDZlNzY4YzU1",
   "tracks": [
     {
       "added_at": "2022-04-20 22:27:58",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 120026,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 220013,
       "name": "Pacify Her",
       "url": "https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -135,6 +135,22 @@
       "duration_ms": 379226,
       "name": "Me and Your Mama",
       "url": "https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU"
+    },
+    {
+      "added_at": "2022-04-28 14:00:00",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -205,6 +221,38 @@
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
     },
     {
+      "added_at": "2022-04-21 23:17:18",
+      "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2022-04-20 22:40:15",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
+      },
+      "artists": [
+        {
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
+    },
+    {
       "added_at": "2022-04-20 06:33:10",
       "album": {
         "name": "Color",
@@ -237,38 +285,6 @@
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
     },
     {
-      "added_at": "2022-04-20 22:40:15",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
-      },
-      "artists": [
-        {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
-    },
-    {
-      "added_at": "2022-04-21 23:17:18",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
-    },
-    {
       "added_at": "2022-04-21 23:17:18",
       "album": {
         "name": "Younger Now",
@@ -283,6 +299,22 @@
       "duration_ms": 231906,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
+    },
+    {
+      "added_at": "2022-05-03 03:42:48",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -319,18 +351,18 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+      "duration_ms": 156145,
+      "name": "A Pearl",
+      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -347,6 +379,22 @@
       "duration_ms": 205275,
       "name": "Over",
       "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -383,18 +431,18 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+        "name": "BABYDOLL (Speed)",
+        "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
         }
       ],
-      "duration_ms": 156145,
-      "name": "A Pearl",
-      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
+      "duration_ms": 156650,
+      "name": "BABYDOLL (Speed)",
+      "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
     },
     {
       "added_at": "2022-04-28 21:27:45",
@@ -427,38 +475,6 @@
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
-    },
-    {
-      "added_at": "2022-04-28 14:00:00",
-      "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "BABYDOLL (Speed)",
-        "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 156650,
-      "name": "BABYDOLL (Speed)",
-      "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
     },
     {
       "added_at": "2022-04-27 22:28:13",
@@ -509,6 +525,22 @@
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     },
     {
+      "added_at": "2022-05-03 03:42:48",
+      "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+    },
+    {
       "added_at": "2022-04-20 06:33:10",
       "album": {
         "name": "Here I Stand",
@@ -527,22 +559,6 @@
       "duration_ms": 259720,
       "name": "Love in This Club (feat. Young Jeezy)",
       "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
-    },
-    {
-      "added_at": "2022-04-28 21:21:36",
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -585,6 +601,22 @@
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
     },
     {
+      "added_at": "2022-05-03 03:42:48",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
       "added_at": "2022-04-20 06:33:10",
       "album": {
         "name": "Electra Heart (Deluxe)",
@@ -599,22 +631,6 @@
       "duration_ms": 221075,
       "name": "Primadonna",
       "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
-    },
-    {
-      "added_at": "2022-04-28 21:21:36",
-      "album": {
-        "name": "ZOOM",
-        "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "ZOOM",
-      "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -649,6 +665,22 @@
       "url": "https://open.spotify.com/track/33aLws184a7SVqraKuDqI3"
     },
     {
+      "added_at": "2022-05-03 03:42:48",
+      "album": {
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/0cev5DkOdS8wk0aRoac6Fh"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 180742,
+      "name": "World's Smallest Violin",
+      "url": "https://open.spotify.com/track/6R8L4HZxaVSFED7rLePbK3"
+    },
+    {
       "added_at": "2022-04-21 14:00:00",
       "album": {
         "name": "Where you are (feat. WILLOW)",
@@ -667,6 +699,42 @@
       "duration_ms": 153706,
       "name": "Where you are (feat. WILLOW)",
       "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/3CxknRPQLbOJRwQrNekNyU"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 253386,
+      "name": "She",
+      "url": "https://open.spotify.com/track/5WzfCu5fhgm7jv896EN1Md"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "Fall in Love with You.",
+        "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -705,28 +773,20 @@
       "url": "https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy"
     },
     {
-      "added_at": "2022-04-29 23:07:11",
+      "added_at": "2022-05-03 03:42:48",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/0P2mWEmLyOtXeallz8cGXz"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        },
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 243176,
-      "name": "Demons - Massane Remix",
-      "url": "https://open.spotify.com/track/5f4qquwjZzEXIdua2FId7b"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2022-04-27 23:34:17",
@@ -743,6 +803,22 @@
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "added_at": "2022-04-28 21:21:36",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -777,42 +853,6 @@
       "url": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
     },
     {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "Fall in Love with You.",
-        "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Fall in Love with You.",
-      "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "Goblin",
-        "url": "https://open.spotify.com/album/3CxknRPQLbOJRwQrNekNyU"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 253386,
-      "name": "She",
-      "url": "https://open.spotify.com/track/5WzfCu5fhgm7jv896EN1Md"
-    },
-    {
       "added_at": "2022-04-25 22:09:52",
       "album": {
         "name": "Culture II",
@@ -827,6 +867,22 @@
       "duration_ms": 190288,
       "name": "Stir Fry",
       "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
+    },
+    {
+      "added_at": "2022-04-28 21:21:36",
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
     },
     {
       "added_at": "2022-04-25 22:19:02",
@@ -935,6 +991,30 @@
       "duration_ms": 191912,
       "name": "Cool for the Summer - Sped Up (Nightcore)",
       "url": "https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67"
+    },
+    {
+      "added_at": "2022-04-29 23:07:11",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/0P2mWEmLyOtXeallz8cGXz"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        },
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        }
+      ],
+      "duration_ms": 243176,
+      "name": "Demons - Massane Remix",
+      "url": "https://open.spotify.com/track/5f4qquwjZzEXIdua2FId7b"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -1127,22 +1207,6 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "Aimed to Kill",
-        "url": "https://open.spotify.com/album/1EYaxqjZ8sMfYprcW3XVij"
-      },
-      "artists": [
-        {
-          "name": "Jade LeMac",
-          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
-        }
-      ],
-      "duration_ms": 202721,
-      "name": "Aimed to Kill",
-      "url": "https://open.spotify.com/track/5Xx1X1rBk5fpxuhvvtt4th"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -1175,22 +1239,6 @@
       "duration_ms": 157138,
       "name": "10 Things I Hate About You",
       "url": "https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M"
-    },
-    {
-      "added_at": "2022-04-20 22:27:58",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 248818,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -1227,26 +1275,6 @@
       "duration_ms": 125142,
       "name": "Glad U Came (feat. ZieZie)",
       "url": "https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy"
-    },
-    {
-      "added_at": "2022-04-25 22:09:52",
-      "album": {
-        "name": "Ruth Langmore (If You Wanna Stop Me...)",
-        "url": "https://open.spotify.com/album/5M2IeqXTl3cDizfj0pWj3h"
-      },
-      "artists": [
-        {
-          "name": "Davi Richie",
-          "url": "https://open.spotify.com/artist/4IjrryLh4NjxN8KC6CZijI"
-        },
-        {
-          "name": "Anymorph",
-          "url": "https://open.spotify.com/artist/4WBEDrp1bZE719F3a9Wz7R"
-        }
-      ],
-      "duration_ms": 78107,
-      "name": "Ruth Langmore (If You Wanna Stop Me...)",
-      "url": "https://open.spotify.com/track/54cV7pqcoIUDftaczXuGKt"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -1679,26 +1707,6 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "Exis",
-        "url": "https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 251859,
-      "name": "Drama (feat. Drake)",
-      "url": "https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
         "name": "HAUNTED",
         "url": "https://open.spotify.com/album/0NJhMR5JGpXyDaqCgKywvf"
       },
@@ -1711,22 +1719,6 @@
       "duration_ms": 136363,
       "name": "HAUNTED",
       "url": "https://open.spotify.com/track/2y3kTv2pxaLM7YEwyazSH7"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "Imma Celebrity",
-        "url": "https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 188965,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -1811,26 +1803,6 @@
       "duration_ms": 268717,
       "name": "Dandelions - slowed + reverb",
       "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 187943,
-      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -2027,46 +1999,6 @@
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Syleena Johnson",
-          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "All Falls Down",
-      "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "All For Us (from the HBO Original Series Euphoria)",
-        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "All For Us - from the HBO Original Series Euphoria",
-      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
     },
     {
       "added_at": "2022-04-20 06:33:10",

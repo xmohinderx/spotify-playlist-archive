@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-448 songs - 1 day 2 hr 0 min - [published](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
+449 songs - 1 day 2 hr 4 min - [published](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-07 |
 | [Past Lives](https://open.spotify.com/track/3NPWH2UbMjch2vnS7qMFGM) | [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi), [Martin Arteta](https://open.spotify.com/artist/4bGPjihFEUsxf9LPn1epOv) | [it's summer '13, you're on a roadtrip vibing and life's good](https://open.spotify.com/album/5pWY8Sg8FEwYPiGMp5YTye) | 2:14 | 2022-03-26 | 2022-03-28 |
 | [Payphone](https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:51 | 2022-04-15 |  |
-| [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* |  |
+| [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2022-05-04 |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2021-07-18 | 2021-08-25 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-25 |
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-07-25 | 2021-11-07 |
@@ -325,6 +325,7 @@
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2021-03-27\* | 2021-07-01 |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-14 | 2021-11-14 |
 | [SCIENTIST](https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:14 | 2021-11-14 | 2021-12-04 |
+| [Sesuci Lebaran](https://open.spotify.com/track/20gz9dYTVbtnDUFV2YmJC0) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Anugerah Aidilfitri](https://open.spotify.com/album/0NLE24UYydjx4sddYTjnIJ) | 3:59 | 2022-05-03 |  |
 | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 | 2021-10-23 | 2021-11-14 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-05 |  |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 |  |

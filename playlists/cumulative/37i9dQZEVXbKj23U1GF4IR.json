@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -3753,6 +3753,28 @@
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209269,
+      "name": "Drowning (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
     },
     {
       "album": {
@@ -6085,7 +6107,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
@@ -15379,7 +15401,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"

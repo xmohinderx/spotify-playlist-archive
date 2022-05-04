@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-645 songs - 1 day 12 hr 46 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
+646 songs - 1 day 12 hr 49 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-05 | 2021-09-26 |
 | [Far](https://open.spotify.com/track/3HxtdKRmw0BNUs4VM7uYvE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:36 | 2021-09-19 | 2021-09-20 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2021-10-27 | 2021-11-28 |
+| [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-03 |  |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-22 |  |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-25 | 2021-12-27 |
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-03 | 2021-06-26 |
@@ -643,7 +644,7 @@
 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 | 2021-12-25 | 2021-12-27 |
 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 | 2021-04-21 | 2021-04-30 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-27 | 2021-07-28 |
-| [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 | 2022-03-01 |  |
+| [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 | 2022-03-01 | 2022-05-04 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-06-01 |
 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-09 | 2022-02-24 |
 | [Yours \- Instrumental](https://open.spotify.com/track/1oyVMDi8RlgPsRyZXPNNKk) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-10 | 2021-11-11 |

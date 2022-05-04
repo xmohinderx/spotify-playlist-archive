@@ -2620,6 +2620,44 @@
     },
     {
       "album": {
+        "name": "Flotao",
+        "url": "https://open.spotify.com/album/426a5rPIXnkvHG9il06TPO"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yishark",
+          "url": "https://open.spotify.com/artist/2hp2lUfm32mmW4mMlhMQnW"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Benji La Maldita Escritura De Oro",
+          "url": "https://open.spotify.com/artist/2H5XfIuAQCXmaIDm7vcViA"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337021,
+      "name": "Flotao",
+      "url": "https://open.spotify.com/track/0HsI8dYRVnVGpzppNThv1e"
+    },
+    {
+      "album": {
         "name": "Fragancia (with Jay Wheeler)",
         "url": "https://open.spotify.com/album/6IvNKfgj37xVwthEmXHcMK"
       },
@@ -4207,7 +4245,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 198556,
       "name": "Me Voy Contigo",
       "url": "https://open.spotify.com/track/5VSAcJtB7PlXO3cwC4vjom"

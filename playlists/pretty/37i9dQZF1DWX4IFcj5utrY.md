@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=8\_2ohtNiR5i0U4oDloSrPA">Dr Feel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,159 likes - 74 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,200 likes - 74 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 61 | [Amaqhawe](https://open.spotify.com/track/67SbrFM5Xkqc2S4W8bXBZH) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Amaqhawe](https://open.spotify.com/album/7A50pBMyme6fz99gjIlwSU) | 7:28 |
 | 62 | [Zephyr](https://open.spotify.com/track/5MWV6GxNbMR9sfLNhW70GE) | [Alley SA](https://open.spotify.com/artist/1ScHe3PMvTSjbH6A0XYxoy) | [Abiona](https://open.spotify.com/album/0ky5Rf1653pzGKFoOwqBML) | 5:22 |
 | 63 | [Khoisan](https://open.spotify.com/track/4GxlpHNFEyzzdNJre3r2Tw) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT) | [Africa Gets Physical, Vol\. 4](https://open.spotify.com/album/3dAuIqHo6q9ObSes44dB4V) | 4:23 |
-| 64 | [Told You!](https://open.spotify.com/track/5ZozorZYvUXQZQgqoqMkh5) | [SpheraQ](https://open.spotify.com/artist/3st3c9lOShlywDU01lnEEE), [Tebza De Soul](https://open.spotify.com/artist/3FlsxL6Dd6rMlnhBkij9kg) | [Told You!](https://open.spotify.com/album/64VvLz16H3Ifah2uOMN9wQ) | 7:04 |
+| 64 | [Told You!](https://open.spotify.com/track/5ZozorZYvUXQZQgqoqMkh5) | [SpheraQ](https://open.spotify.com/artist/3st3c9lOShlywDU01lnEEE), [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Told You!](https://open.spotify.com/album/64VvLz16H3Ifah2uOMN9wQ) | 7:04 |
 | 65 | [Best Lifestyle \- Vuscare Remix](https://open.spotify.com/track/3irYlw9OtD9gGudVfUrzTQ) | [Senzo C](https://open.spotify.com/artist/00rQpaR5oh9jwZlyGMB0yA), [Billeni](https://open.spotify.com/artist/4WppOtqCv7xwTYpdMB2qFv), [Vuscare](https://open.spotify.com/artist/7C1LihDHAPTUCMmUELa0os) | [Best Lifestyle: THE REMIXES](https://open.spotify.com/album/6IM1n5vf87looSYs7jcRw0) | 7:01 |
 | 66 | [Mhlaba \- Radio Edit](https://open.spotify.com/track/4J9vk9aueB7109TOvRvFoa) | [AJourneyOfMilez](https://open.spotify.com/artist/5qRpQsttjQfQ8jQvP32I1m), [Mbalizethu](https://open.spotify.com/artist/4dG9QEqVmAIJRAzYKZzTeA) | [Mhlaba](https://open.spotify.com/album/25UpTQlV3ZaVkVzQng8CkC) | 4:25 |
 | 67 | [Spirit Of Ubuntu](https://open.spotify.com/track/2EhYSRxz7U6TWrnnmO3aKt) | [Ivory Child](https://open.spotify.com/artist/4jsTcZXYvEJt2Gshh6cIPk) | [Polokwane](https://open.spotify.com/album/4yVQqrZ88ad6XIj7xUr8Ar) | 6:26 |

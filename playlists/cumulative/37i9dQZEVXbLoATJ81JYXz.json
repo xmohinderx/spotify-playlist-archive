@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -2785,7 +2785,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 128720,
       "name": "Dirty 30",
       "url": "https://open.spotify.com/track/3bZq9URLSRubOqwqrdzkzh"
@@ -3309,7 +3309,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
@@ -4387,7 +4387,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 149268,
       "name": "FUCK MITT EKS",
       "url": "https://open.spotify.com/track/0IgvbLS4DCkEe7DaaB0azl"
@@ -6085,7 +6085,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 168437,
       "name": "I Can't Get Enough",
       "url": "https://open.spotify.com/track/1F3NBThWyr845YUwpm5n1F"
@@ -8244,6 +8244,24 @@
     },
     {
       "album": {
+        "name": "Love N Affection",
+        "url": "https://open.spotify.com/album/1apurOf1HMNvY3kzGb3OgH"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Love N Affection",
+      "url": "https://open.spotify.com/track/4BEjyZGERmOFkZOSIgdoAn"
+    },
+    {
+      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -8327,7 +8345,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 161684,
       "name": "L\u00e4nge Leve Vi",
       "url": "https://open.spotify.com/track/6Pqrm55DFjQZQi8jC2yBVa"
@@ -10579,7 +10597,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 156404,
       "name": "Regler (B\u00e5set)",
       "url": "https://open.spotify.com/track/5RUDslCh5maxKZ7a7QyCTk"
@@ -11859,7 +11877,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 173650,
       "name": "Som du vill",
       "url": "https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn"
@@ -13697,7 +13715,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 198173,
       "name": "Valborg",
       "url": "https://open.spotify.com/track/0Hz0ySp6XYrBhEQPU16Hz8"

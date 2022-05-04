@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: 1Kilo, Kawe
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,071 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,166 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 21 | [Lágrimas](https://open.spotify.com/track/3PWfXDkLIqfbTdEyv812za) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 2:57 |
 | 22 | [R.U.A 12 Batalha de Vida](https://open.spotify.com/track/1E8nSsB4EKkKlOQOfUA9mV) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Max Bo](https://open.spotify.com/artist/5XXPhWP74GdoaxLyoljzsS), [Alves](https://open.spotify.com/artist/2zS9YaAB6eGPZYhHdFeMvN), [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [R.U.A 12 Batalha de Vida](https://open.spotify.com/album/1UwM49xZkncbw3Rsqkq2l7) | 10:18 |
 | 23 | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/track/7mAo5yR1WdnLwBMxJ8pBGC) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/album/6fFZz6sTLJe51S3w7IPxpg) | 2:54 |
-| 24 | [Comunista Elegante](https://open.spotify.com/track/07WWwzmVHoEMgcbuDo8P0N) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497) | [Comunista Elegante](https://open.spotify.com/album/2ymyTpa0K8XX8XjCAWpZf8) | 2:45 |
+| 24 | [Comunista Elegante](https://open.spotify.com/track/07WWwzmVHoEMgcbuDo8P0N) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Comunista Elegante](https://open.spotify.com/album/2ymyTpa0K8XX8XjCAWpZf8) | 2:45 |
 | 25 | [Internet Gangster](https://open.spotify.com/track/1q3fY5VK5mD9eSVbZ12sJD) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Internet Gangster](https://open.spotify.com/album/7w3ilw8Yq1Z9MRCJdrpacU) | 2:08 |
 | 26 | [Que Nem Criança](https://open.spotify.com/track/1ceM4rUT3e7ilZYSVqPKnO) | [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Que Nem Criança](https://open.spotify.com/album/4wrYuwiRAIrhkpf5z8Nbtt) | 4:14 |
 | 27 | [Ponta da Leste](https://open.spotify.com/track/6NuozwQmxLdblaztz2f0EW) | [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Ponta da Leste](https://open.spotify.com/album/5FMZw2zU7v8G1PNSo3WGWy) | 2:22 |

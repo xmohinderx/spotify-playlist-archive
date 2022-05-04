@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=47Ueg5GHTDumdgQjcwYZlw" > DaVido</a>  and <a href="https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=hxfzcV9lQsu3b47ZgEK0rg" > Young Jonn </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,724 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,692 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

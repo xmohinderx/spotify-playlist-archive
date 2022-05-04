@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Amaal
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,344 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,393 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 85 | [Back to You](https://open.spotify.com/track/1M1pCtHsfELKBeFCNd20im) | [Speng Squire](https://open.spotify.com/artist/1xtxdFPGw2IVa9BMxWtiUa) | [Exes & O's](https://open.spotify.com/album/0J5rmovLwIyGzUgiGAOIoR) | 2:28 |
 | 86 | [Body](https://open.spotify.com/track/4SBEgCAsQm8ZHIoc2TPfQo) | [Ramone](https://open.spotify.com/artist/2gIluf0vPZaV1rK1KZwyqS) | [Body](https://open.spotify.com/album/5b4ScimxuDVWmV1vYNJrtA) | 3:13 |
 | 87 | [Benchmark](https://open.spotify.com/track/17Ct6PmsR5laPdylW8cRms) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Benchmark](https://open.spotify.com/album/0nDORNahzyOzSM4jBwNMEz) | 3:07 |
-| 88 | [Better Man](https://open.spotify.com/track/2CZjjlYWasiqbCOors8pAC) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Better Man](https://open.spotify.com/album/6y78B6grK5x7soppUlOwcX) | 2:43 |
+| 88 | [Better Man](https://open.spotify.com/track/2CZjjlYWasiqbCOors8pAC) | [JYDN](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Better Man](https://open.spotify.com/album/6y78B6grK5x7soppUlOwcX) | 2:43 |
 | 89 | [Let Me Love You](https://open.spotify.com/track/3Py6wuewE5h24mZhBosGYl) | [BLK](https://open.spotify.com/artist/51HV0KFq7wIVIs1WIvvVi7) | [Let Me Love You](https://open.spotify.com/album/3Q5d533Hi2KodjLEBeifSF) | 3:26 |
 | 90 | [No Lames](https://open.spotify.com/track/1kqBt8yLmCOevY2Nw7ptVE) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [No Lames](https://open.spotify.com/album/3G0a6rQ8Qm9p7kGhosenzQ) | 3:00 |
 | 91 | [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 |

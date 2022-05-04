@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 215251,
       "name": "00:00",
       "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "ARRANCARMELO",
+        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183547,
+      "name": "ARRANCARMELO",
+      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/6cgGOkq1ctjIMsIuSyHOPj"
       },
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 109120,
       "name": "BIZCOCHITO",
       "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
@@ -625,6 +643,24 @@
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154760,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
     },
     {
       "album": {
@@ -1121,7 +1157,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194583,
-      "name": "Cnv Sound, Vol. Special 5k",
+      "name": "Cnv Sound, Vol. 14",
       "url": "https://open.spotify.com/track/6ioupaJ387IxHQC9RSHMar"
     },
     {
@@ -1137,7 +1173,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 235470,
       "name": "Colapso",
       "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
@@ -1714,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/1uVGFC7Zio3Sc4UTfz4Y7Y"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/6FJbKBPUiFVPC4e5S3uesc"
+    },
+    {
+      "album": {
         "name": "No More Drama",
         "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
       },
@@ -1729,6 +1783,24 @@
       "duration_ms": 265866,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+    },
+    {
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
     },
     {
       "album": {
@@ -1869,7 +1941,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 210165,
       "name": "Gonna Be Okay",
       "url": "https://open.spotify.com/track/2zZuQRgs9xNBXwdZUFEGE6"
@@ -1931,6 +2003,24 @@
       "duration_ms": 204316,
       "name": "Hrs and Hrs",
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
     },
     {
       "album": {
@@ -2355,7 +2445,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
@@ -2373,10 +2463,28 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 212205,
       "name": "Los Santos",
       "url": "https://open.spotify.com/track/5VZUk1ryO5RjKEd2txFNhU"
+    },
+    {
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
       "album": {
@@ -2627,7 +2735,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
@@ -2689,7 +2797,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 150941,
       "name": "Money Rain - Phonk Remix",
       "url": "https://open.spotify.com/track/4P0r0yO7HNPvOra7BHGixH"
@@ -2844,6 +2952,32 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Contigo",
+        "url": "https://open.spotify.com/album/70ddg1lMQklsojaoud6RyR"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187635,
+      "name": "M\u00e1s Contigo",
+      "url": "https://open.spotify.com/track/4mFIOxB5fZFGBDTP2CzcR0"
+    },
+    {
+      "album": {
         "name": "M\u00edranos Ahora",
         "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
       },
@@ -2877,6 +3011,46 @@
       "duration_ms": 172018,
       "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
       "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
+    },
+    {
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
+    },
+    {
+      "album": {
+        "name": "No Olvidamos",
+        "url": "https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274991,
+      "name": "No Olvidamos",
+      "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
     },
     {
       "album": {
@@ -2989,10 +3163,28 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 160946,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
+    },
+    {
+      "album": {
+        "name": "Nos Da Igual",
+        "url": "https://open.spotify.com/album/3RQzEGZ1F64jVRUA2MTncJ"
+      },
+      "artists": [
+        {
+          "name": "KG970",
+          "url": "https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Nos Da Igual",
+      "url": "https://open.spotify.com/track/3dyQfqPEASyhbdCnIteJQY"
     },
     {
       "album": {
@@ -3375,6 +3567,28 @@
       "duration_ms": 205700,
       "name": "P\u00fablico",
       "url": "https://open.spotify.com/track/1PzvsHLUbLRsXuKTDvgJPW"
+    },
+    {
+      "album": {
+        "name": "RATIO",
+        "url": "https://open.spotify.com/album/6hPIS2sIYeeiUMQOy70Ev1"
+      },
+      "artists": [
+        {
+          "name": "JuanSGuarnizo",
+          "url": "https://open.spotify.com/artist/193FNrNDNDnzFrNxUw6Dr3"
+        },
+        {
+          "name": "Rodezel",
+          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "RATIO",
+      "url": "https://open.spotify.com/track/1spITpds0bb12suzLpqk31"
     },
     {
       "album": {
@@ -4231,7 +4445,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 174386,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
@@ -4441,6 +4655,36 @@
       "duration_ms": 226776,
       "name": "Un Nuevo Amor",
       "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
+    },
+    {
+      "album": {
+        "name": "Un Viaje",
+        "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
+      },
+      "artists": [
+        {
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285746,
+      "name": "Un Viaje",
+      "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
     },
     {
       "album": {

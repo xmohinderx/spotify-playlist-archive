@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 184028,
       "name": "Alright!",
       "url": "https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 220413,
       "name": "Ashtray",
       "url": "https://open.spotify.com/track/0PU3efcpu4rp0dTbt28sgS"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 213053,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 251475,
       "name": "Blessed (Feat. GSoul)",
       "url": "https://open.spotify.com/track/2rt1yVMnPbvuKJU7hKqAi3"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 147080,
       "name": "Butterfly Effect (Feat. nobody likes you pat, Emily Brophy)",
       "url": "https://open.spotify.com/track/5pYfDCKYjiWHJcIZIiCcDP"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 211080,
       "name": "D-day (Feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/15LVXIWDmQA7mLUnLJn1AF"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 253200,
       "name": "Darling",
       "url": "https://open.spotify.com/track/13Ck1nAjyzdcMCKIQ9Kpkh"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 229658,
       "name": "DON'T",
       "url": "https://open.spotify.com/track/49nzDNR4naSzzFWSxXwYYm"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 200373,
       "name": "Dope Lovers",
       "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 211093,
       "name": "Encourage",
       "url": "https://open.spotify.com/track/4yitm2JyWU6MvIXkVeAzej"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 170120,
       "name": "Feel this breeze (with JoeSwan)",
       "url": "https://open.spotify.com/track/0gKLv0j8udm3xIRDNrkLF8"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 199093,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu"
@@ -1319,6 +1319,46 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "album": {
+        "name": "Get Ya! (feat. pH-1)",
+        "url": "https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159973,
+      "name": "Get Ya! (feat. pH-1)",
+      "url": "https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr"
+    },
+    {
+      "album": {
+        "name": "glass",
+        "url": "https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208740,
+      "name": "glass",
+      "url": "https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN"
     },
     {
       "album": {
@@ -1675,7 +1715,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 199672,
       "name": "Irene",
       "url": "https://open.spotify.com/track/7KwxU8kseYKf5pLbuI25g0"
@@ -1715,7 +1755,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -1787,7 +1827,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 235666,
       "name": "Last",
       "url": "https://open.spotify.com/track/1soyZAqoYDKzfEq3xiOKuN"
@@ -1809,7 +1849,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 204213,
       "name": "Lazy (feat. JAEHA)",
       "url": "https://open.spotify.com/track/0nBgiOD26onE45CGTNgAAM"
@@ -1977,7 +2017,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
@@ -2203,7 +2243,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 211600,
       "name": "Me without you (feat. Moon Byul of MAMAMOO)",
       "url": "https://open.spotify.com/track/3FfvXpIMyw29AJ3ghGXEJ5"
@@ -2491,7 +2531,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 212800,
       "name": "O (Feat. LEE HI)",
       "url": "https://open.spotify.com/track/7iooxPmnLY6wZynSplHUah"
@@ -2527,7 +2567,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 160280,
       "name": "omg, so what?",
       "url": "https://open.spotify.com/track/7w7yjYakkCuf3gtznG9Cjf"
@@ -2549,7 +2589,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 162917,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/7zbuLxauVIXbIGx14PxAWJ"
@@ -2661,7 +2701,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 194573,
       "name": "Paradigm",
       "url": "https://open.spotify.com/track/1HJUvm2MJHytVJ4xPmNGPE"
@@ -2679,7 +2719,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 198080,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
@@ -2799,6 +2839,24 @@
       "duration_ms": 154418,
       "name": "PRADA",
       "url": "https://open.spotify.com/track/0baJx4nGlfhylHDSlzj4bM"
+    },
+    {
+      "album": {
+        "name": "Future Boy",
+        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193033,
+      "name": "Rainbow Freestyle",
+      "url": "https://open.spotify.com/track/5IzNyik573EIobd8OPPqpZ"
     },
     {
       "album": {
@@ -2961,7 +3019,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 208294,
       "name": "sherlock",
       "url": "https://open.spotify.com/track/1tcRQkZyqzRSlQ3xUseeL1"
@@ -3221,7 +3279,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 220106,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij"
@@ -3349,7 +3407,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 199986,
       "name": "UFO (Feat. Seori)",
       "url": "https://open.spotify.com/track/3RIDQ0NiYcV896kb0mWz3k"
@@ -3538,6 +3596,28 @@
     },
     {
       "album": {
+        "name": "When My Loneliness Calls You (From The Original TV Show \"Live On\")",
+        "url": "https://open.spotify.com/album/2H4grijt12bvvaeJyLcXCc"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/33o1YsuLhGhY1HCq6TKd9X"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257031,
+      "name": "When My Loneliness Calls You",
+      "url": "https://open.spotify.com/track/1wV9pJyx8kCoB20nbRI3R5"
+    },
+    {
+      "album": {
         "name": "whenever it rains",
         "url": "https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq"
       },
@@ -3557,7 +3637,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 185737,
       "name": "Whenever it rains",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
@@ -3583,7 +3663,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 155357,
       "name": "White",
       "url": "https://open.spotify.com/track/412nLwVTwU3nlXFXOr2VqW"
@@ -3725,7 +3805,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 270003,
       "name": "Your Dog Loves You",
       "url": "https://open.spotify.com/track/2XdyebP7KxClMOse2C5iyA"
@@ -3761,7 +3841,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 142363,
       "name": "Yours",
       "url": "https://open.spotify.com/track/2t4olQUck1cDjsVQetHRRq"

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-148 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+149 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Never Enough](https://open.spotify.com/track/0OIHK8vvOTnjg4dtBH34qX) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Never Enough](https://open.spotify.com/album/4GN1ATNzGkfuhGDgcnKgKJ) | 3:17 | 2022-02-04 | 2022-04-15 |
 | [New Age \- Bossfight Remix](https://open.spotify.com/track/5aCABFeoSwL2Ux0c1gW2QL) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [New Age \(Bossfight Remix\)](https://open.spotify.com/album/4wUzPAPk50YZRRxMcCRPPX) | 3:10 | 2022-02-23 |  |
 | [Nibbana](https://open.spotify.com/track/4GmreCkjHdkuX9S1LipRvS) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nibbana](https://open.spotify.com/album/5tlAhQ2zVsth5w1KpRIRkS) | 4:20 | 2022-01-14 | 2022-03-24 |
+| [Night Shift](https://open.spotify.com/track/2LSBuW3iZjxypcoTGVUp54) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Night Shift](https://open.spotify.com/album/2hgKEap2EXtwDunaPRb2ip) | 2:53 | 2022-05-03 |  |
 | [Nirvana](https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana](https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK) | 3:15 | 2022-03-18 |  |
 | [No Control](https://open.spotify.com/track/57OlQTDHonsUTAAC75H76e) | [Ghost](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [MADREX](https://open.spotify.com/artist/4hI1zpze5eNa4V2MwkpLAr), [DAINA](https://open.spotify.com/artist/1dS4Jq6et9it9hW9Xj1QRX) | [No Control](https://open.spotify.com/album/1tfTOFgCNCObyeKhlyHatu) | 2:58 | 2021-11-26 | 2022-03-03 |
 | [Nocturnal](https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Nocturnal](https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT) | 3:43 | 2022-04-28 |  |
@@ -138,7 +139,7 @@
 | [Too Far](https://open.spotify.com/track/4Ru59Wjufh4vgt1ZKVxUtn) | [Hiski](https://open.spotify.com/artist/766PDHJTKiOFdmGhl36cGY), [Kobana](https://open.spotify.com/artist/1XyWJuyRJBkwsOeGR8Pxea) | [Too Far](https://open.spotify.com/album/6eKGfZzEKDORyl4fymlDAX) | 4:14 | 2021-12-01 | 2022-03-05 |
 | [Tripwire](https://open.spotify.com/track/4XaYL3woPIICr4dbCb2ZxH) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Tripwire](https://open.spotify.com/album/5dbcJHB0RwwcWNw8z3IvTt) | 3:05 | 2021-11-22 | 2022-02-26 |
 | [TROUBLEMAKER](https://open.spotify.com/track/6mo88PgAWke0VsVbFmABoT) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [TROUBLEMAKER](https://open.spotify.com/album/5XxwIsdTvY6h335Jmcf10Y) | 3:42 | 2021-11-19 | 2022-01-27 |
-| [Trust Issues](https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Trust Issues](https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF) | 3:02 | 2022-02-22 |  |
+| [Trust Issues](https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Trust Issues](https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF) | 3:02 | 2022-02-22 | 2022-05-04 |
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-02 | 2022-03-08 |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |
 | [Uatchu](https://open.spotify.com/track/4eUX2nKYBGSbknXF6zoRgj) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Uatchu](https://open.spotify.com/album/2Kdrhi2A9RY0gmB2yyBPUw) | 4:37 | 2021-11-19 | 2022-01-25 |

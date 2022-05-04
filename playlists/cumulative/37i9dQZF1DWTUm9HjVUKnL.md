@@ -4,7 +4,7 @@
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Lewis Capaldi, Miguel, and Maggie Rogers.
 
-732 songs - 1 day 21 hr 14 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
+733 songs - 1 day 21 hr 17 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [My Old Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/30x7X9Mjo0Spbb2POIc3E0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H) | 3:54 | 2022-01-19 |  |
 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 | 2022-01-19 |  |
 | [Name For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0WA6hODnSyMCRmRZKGKocc) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Spotify Singles](https://open.spotify.com/album/0wl4Ftg1DK1nzUAh8ueTDP) | 3:11 | 2022-01-19 |  |
+| [Need U \- Spotify Singles](https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Need U \- Spotify Singles](https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF) | 2:34 | 2022-05-03 |  |
 | [Need You Tonight \- Spotify Singles](https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 3:02 | 2022-04-06 |  |
 | [Need Your Love \(feat\. Noah Kahan\) \- Recorded at Electric Lady Studios, NYC](https://open.spotify.com/track/5ViQpaAk3MlvdGPctEUNTw) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL) | 3:19 | 2022-01-19 |  |
 | [Needed Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33umhvUI5zJRxXDQcYk4Uj) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Spotify Singles](https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq) | 4:48 | 2022-01-19 |  |

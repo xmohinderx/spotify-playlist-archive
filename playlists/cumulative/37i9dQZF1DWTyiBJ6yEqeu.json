@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 154285,
       "name": "Before U",
       "url": "https://open.spotify.com/track/1iyXU0LHY9Irw7oohGf7hb"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "City of Gods",
       "url": "https://open.spotify.com/track/6hu4zxEVl8vhbZwDlqNqK6"
@@ -2832,6 +2832,24 @@
     },
     {
       "album": {
+        "name": "Go!",
+        "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
+    },
+    {
+      "album": {
         "name": "Music To Be Murdered By",
         "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
@@ -2949,7 +2967,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
@@ -5373,7 +5391,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 165627,
       "name": "No Return (with The Kid LAROI & Lil Durk)",
       "url": "https://open.spotify.com/track/6ENkbZAv9v4WeQ4SmBzjt1"
@@ -7047,7 +7065,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 174960,
       "name": "Show Out (with Skepta & Pop Smoke)",
       "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
@@ -7603,7 +7621,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 158000,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/5Unr6WoYvsnGYo3NazmkW4"
@@ -7855,7 +7873,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 221746,
       "name": "The Way Life Goes (feat. Oh Wonder)",
       "url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"

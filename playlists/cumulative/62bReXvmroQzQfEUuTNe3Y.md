@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-277 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+278 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Heaven](https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Heaven](https://open.spotify.com/album/20hpXtqd02hIOkQ8Xoj4dM) | 2:04 | 2021-10-16 |  |
 | [Here For You \- Bearcubs Remix](https://open.spotify.com/track/3UzmjXtZUncUbprhVYTTAc) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe), [Jack Ritchie](https://open.spotify.com/artist/3eNhNbPG6pIou8XhDhb6wC) | [Sirens \(Remixes\)](https://open.spotify.com/album/0CoYk78WZsYyT79mRSEb6Q) | 4:53 | 2020-09-13\* | 2021-03-06 |
 | [Hey Now](https://open.spotify.com/track/0McOrVxmad9tAYyxDOXOvm) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Hey Now](https://open.spotify.com/album/2SJD9OZQ0DparYmiEUZiwV) | 3:09 | 2021-07-17 | 2021-10-02 |
+| [Hey Now](https://open.spotify.com/track/0D4jfYqgPUjzAWbXsxvd4n) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Innarius](https://open.spotify.com/artist/3ByAHu681RFcsV7iaHsdZ9) | [Hey Now](https://open.spotify.com/album/0lvmcaO9OdN8SjiB8PLt4M) | 3:58 | 2022-05-03 |  |
 | [Higher](https://open.spotify.com/track/36rCmwPIB3hE2MXtvjP0cc) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Higher](https://open.spotify.com/album/62UaR3oWtK94SgDjP0CN56) | 2:41 | 2021-10-23 | 2021-11-27 |
 | [Hold Me](https://open.spotify.com/track/13jgeCWlw2Bjeh90vyZajK) | [JSUNT](https://open.spotify.com/artist/5tgmqoI3yKsDNg3AuewVoM), [Brieda](https://open.spotify.com/artist/76zhe0Iq37waOXl1n9CplW) | [Hold Me](https://open.spotify.com/album/7FPgYTd0iUarrky09zXPVP) | 3:12 | 2020-09-13\* | 2020-09-15 |
 | [Hold You Back](https://open.spotify.com/track/4d2aMvOMJPy0KCfslxNq9q) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Hold You Back](https://open.spotify.com/album/1HBCbOUgsLJ7qrRRWThdLe) | 2:47 | 2021-08-20 |  |

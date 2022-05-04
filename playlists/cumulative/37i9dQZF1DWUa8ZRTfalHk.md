@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Ava Max
 
-1,124 songs - 2 day 10 hr 3 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+1,126 songs - 2 day 10 hr 9 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6) | 3:44 | 2021-05-15 | 2021-07-24 |
 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 | 2021-08-07 | 2021-09-04 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2021-05-22 | 2021-07-31 |
+| [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2022-05-03 |  |
 | [Hold On](https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Hold On](https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J) | 2:50 | 2021-03-06 | 2021-03-26 |
 | [Holding On](https://open.spotify.com/track/6CN7FuZ7o1xle9TNxApGeQ) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Holding On](https://open.spotify.com/album/7CIDA4a6EIj1k88sln1tKl) | 2:06 | 2020-11-20 | 2021-01-29 |
 | [Holiday](https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Holiday](https://open.spotify.com/album/2FiATmtrSNjakqKjqgC6Vb) | 3:13 | 2021-06-26 | 2021-09-04 |
@@ -648,6 +649,7 @@
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-04-29 |  |
 | [Me Gusta \- Remix \(feat\. Cardi B & 24kGoldn\)](https://open.spotify.com/track/6vrsT2dvgbttZXmPYNfY8i) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Me Gusta \[Remix \(feat\. Cardi B & 24kGoldn\)\]](https://open.spotify.com/album/3TRdcUb9S2862uVEHGYWlh) | 2:44 | 2020-11-20 | 2020-12-18 |
 | [Me Without You](https://open.spotify.com/track/4GwfjONzvqJbVeDo49VC6J) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Me Without You](https://open.spotify.com/album/4evy8XIXFcXOqGc8twyhyg) | 3:09 | 2021-05-08 | 2021-05-22 |
+| [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-03 |  |
 | [Medicine](https://open.spotify.com/track/7CHNIK6EGjnwpWkSpx6JZe) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Medicine](https://open.spotify.com/album/6K8gvUTwVftCa3gd0MFtI4) | 3:28 | 2021-03-06 | 2021-06-12 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-09-11 | 2021-10-23 |
 | [Meet Me At Our Spot \- Live](https://open.spotify.com/track/3BrWLBC4WYx393yRUOlTih) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Meet Me At Our Spot \(Live\)](https://open.spotify.com/album/7x5oZf6cKUstjslCxLsKkT) | 2:27 | 2021-10-23 | 2022-01-08 |

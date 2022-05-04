@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá\. Foto: L\-Gante & Aleman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,570 likes - 54 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,618 likes - 54 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 4 | [PELIKULON](https://open.spotify.com/track/6GBmsnc0nyHoirMPmgFnSZ) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [PELIKULON](https://open.spotify.com/album/3NFdz4Cl4t5cgPLQa0TdNj) | 2:43 |
 | 5 | [Pinta](https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [Pinta](https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha) | 2:57 |
 | 6 | [CARANCHO](https://open.spotify.com/track/6PMWJlpsP6uocjP4YTUW3H) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [CARANCHO](https://open.spotify.com/album/0YnJLL2o3w6VkVWZKTpz6N) | 2:29 |
-| 7 | [Indiquen \| E3](https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [Indiquen \| E3](https://open.spotify.com/album/0tR8VEP2fcNDGdQFEOpfAo) | 2:40 |
+| 7 | [INDIQUEN \| E3](https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [INDIQUEN \| E3](https://open.spotify.com/album/0tR8VEP2fcNDGdQFEOpfAo) | 2:40 |
 | 8 | [Pa Tra Rkt \- Remix](https://open.spotify.com/track/4RuXJVAsDaF52Z8D6lYRXX) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW) | [Pa Tra Rkt \(Remix\)](https://open.spotify.com/album/0b1oaaNjBCMZ1UBsqAokfU) | 8:18 |
 | 9 | [Tamo Chelo](https://open.spotify.com/track/2Y7v7XjZV1FcQprRV6VLpt) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Tamo Chelo](https://open.spotify.com/album/2alcg2C46hoRfhO9hcFEV0) | 1:52 |
 | 10 | [Rin Tin Tin](https://open.spotify.com/track/5yJsDz8c16INrVtoN9hdyW) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Rin Tin Tin](https://open.spotify.com/album/2xbjaXObO74HQU530db1bX) | 2:49 |

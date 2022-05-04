@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-449 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
+450 songs - 1 day 0 hr 26 min - [published](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-02 |
 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 | 2021-12-12 |  |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-08 |
-| [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 | 2022-05-01 |  |
+| [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 | 2022-05-01 | 2022-05-04 |
 | [Novinha Malada do Insta](https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6) | [Novinha Malada do Insta](https://open.spotify.com/album/0PysEJ0X0U5sP1uG4fxFVj) | 1:47 | 2022-01-28 | 2022-04-17 |
 | [Não Nasceu pra Namorar](https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [Não Nasceu pra Namorar](https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ) | 2:20 | 2021-06-13 | 2022-04-17 |
 | [Não Quer Chifre](https://open.spotify.com/track/7Ls0AYtBWAJtt7iORFc6zC) | [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Quer Chifre](https://open.spotify.com/album/0bjhRzZTAjo8MJ4MuV9Y5g) | 2:29 | 2021-08-23 | 2021-11-10 |
@@ -328,6 +328,7 @@
 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/3lJ8BcGM1ROQ1ufneU3Qya) | [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/4ZHtNy8nlylDT1QtQdEA5l) | 2:38 | 2021-04-26 | 2021-06-22 |
 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/73x4PDzlTdJkAa8GtjnUs0) | [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs), [Batidão Stronda](https://open.spotify.com/artist/5JNJDtyiFwY74t1uZx0N3Y) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/0m4lLqpcMKDmgh6VCBN2Kk) | 2:38 | 2021-06-22 | 2021-07-21 |
 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/6SA8c5JbUZF7HyAeDX4iiB) | [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/1ZDXuc6Mv84xAM2eEkJMPO) | 2:41 | 2021-03-29 | 2021-04-01 |
+| [Que Rabão \(feat\. Mr\. Catra\)](https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Mr\. Catra](https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:56 | 2022-05-03 |  |
 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 | 2021-08-13 |  |
 | [Qué Más Pues?](https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:37 | 2021-09-12 | 2021-09-29 |
 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2021-07-19 | 2021-09-12 |

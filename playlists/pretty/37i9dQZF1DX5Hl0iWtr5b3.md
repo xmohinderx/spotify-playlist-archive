@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > All your favorite tracks from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,740 likes - 63 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,425 likes - 63 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 3 | [What About Us](https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:51 |
 | 4 | [Sign of the Times \- Stripped](https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0) | [Steve Horner](https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:39 |
 | 5 | [Material Girl](https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:04 |
-| 6 | [How Deep Is Your Love](https://open.spotify.com/track/2qmWh0uDidLJ8yAlPOtq0g) | [Kiris Houston](https://open.spotify.com/artist/1xYtMP3MMtJRx99jXrTVKB) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:46 |
-| 7 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
+| 6 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
+| 7 | [How Deep Is Your Love](https://open.spotify.com/track/2qmWh0uDidLJ8yAlPOtq0g) | [Kiris Houston](https://open.spotify.com/artist/1xYtMP3MMtJRx99jXrTVKB) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:46 |
 | 8 | [Kabhi Khushi Kabhie Gham](https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:28 |
 | 9 | [Diamonds](https://open.spotify.com/track/6M4CKv0mfBDXKg8uIphjG0) | [Hannah V](https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f), [Joe Rodwell](https://open.spotify.com/artist/08v2ze9Khd6JwFPdgDoDRR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 1:56 |
 | 10 | [thank u, next](https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:26 |
-| 11 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
-| 12 | [Girls Like You](https://open.spotify.com/track/3oh7ZiaBgHj4sLxdMEUSJx) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
+| 11 | [Girls Like You](https://open.spotify.com/track/3oh7ZiaBgHj4sLxdMEUSJx) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
+| 12 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
 | 13 | [Stay Away](https://open.spotify.com/track/3sBxUne6rvOPAgVmYUA2IC) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:07 |
 | 14 | [Strange \(feat\. Hillary Smith\)](https://open.spotify.com/track/2bPWLtJe3v33z1j40sWB8a) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Hillary Smith](https://open.spotify.com/artist/1Yy8TYDcutF60eKqdmaYv0) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:18 |
 | 15 | [In My Blood](https://open.spotify.com/track/3ZpdOnmZvlJVCuMGMYDNQO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:30 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 62 | [The Duel](https://open.spotify.com/track/1xXMP0iVs9bpZBpK0CmlVB) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 7:13 |
 | 63 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
 
-Snapshot ID: `MTY1MTU0MDAzMywwMDAwMDAwMDJkYjM4NzNhYTcxZjY2NWNhYWQ3Y2ZhZDU3YjJiN2Uy`
+Snapshot ID: `MTY1MTYyNjQ2NCwwMDAwMDAwMGM0NWQyYTU4ODBiYjFiNjNkNWNiODFjMDY5YWY1Mjky`

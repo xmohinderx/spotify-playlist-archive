@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 156213,
       "name": "11 Hours - Branchez Remix",
       "url": "https://open.spotify.com/track/1BzdE75pSHlsqF2roxxEWk"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 182653,
       "name": "All Over",
       "url": "https://open.spotify.com/track/7IDKIfRltN07TdsdTVtRHh"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 225747,
       "name": "Best to You",
       "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
@@ -950,6 +950,24 @@
     },
     {
       "album": {
+        "name": "Days Are Gone (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257813,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1vSEwZtoQA0sJxkOgF7MtG"
+    },
+    {
+      "album": {
         "name": "Life of Leisure",
         "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
       },
@@ -961,7 +979,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 192080,
       "name": "Feel It All Around",
       "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 204400,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/0VnLohgzwLEleLmo19Z8B0"
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 256133,
       "name": "Good Mistake",
       "url": "https://open.spotify.com/track/2C7RqNj5P1x7qDkfuxbbN4"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 190866,
       "name": "Luna",
       "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 194053,
       "name": "Modern Jesus",
       "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 187710,
       "name": "Mother & Father",
       "url": "https://open.spotify.com/track/3Nttjgkm2lDCRVFpMh22hv"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 258653,
       "name": "Myth",
       "url": "https://open.spotify.com/track/5UFt0wpIRFSYTIPjZny4u9"
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 296275,
       "name": "Ocean Eyes (Astronomyy Edit)",
       "url": "https://open.spotify.com/track/76dv5KLRIAejZNmYqYnFYw"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 204306,
       "name": "OctaHate",
       "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 255397,
       "name": "Peach",
       "url": "https://open.spotify.com/track/6M8qU2rDpeRQLE88DF2xtq"
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 187733,
       "name": "Talking Backwards",
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
@@ -2367,7 +2385,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 191293,
       "name": "The Mother We Share",
       "url": "https://open.spotify.com/track/2pE0CMK1fE3mfU0eEOHhKw"
@@ -2695,7 +2713,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 251626,
       "name": "Yours",
       "url": "https://open.spotify.com/track/3zzW1STuSWbyEe76XgP6kp"

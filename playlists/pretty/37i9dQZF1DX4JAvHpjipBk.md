@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Justin Bieber, Future, Sam Smith, Kehlani and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,894,055 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,894,266 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 54 | [Duntsane](https://open.spotify.com/track/3xySxvtSaRaxQ4nr2VCWEc) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Duntsane](https://open.spotify.com/album/77EHssqkfiZmrZtAHyDzq3) | 3:12 |
 | 55 | [Flags To The Sky \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/34nGTjKinQV46a8C8T2HfY) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:28 |
 | 56 | [Dancing Queen](https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Dancing Queen / Yasss Queen](https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff) | 3:13 |
-| 57 | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
+| 57 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
 | 58 | [It Ain't Over](https://open.spotify.com/track/46NnMrWFwS0P6HyJ8tgNi8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [It Ain't Over](https://open.spotify.com/album/4Jbu5TQmeAmE1pdLkZQGng) | 3:48 |
 | 59 | [Everybody Needs a Song](https://open.spotify.com/track/75vHaYeWPXNSEytZzxIFXw) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Everybody Needs a Song](https://open.spotify.com/album/4CHsfVCrAwEr2FXe9RLweB) | 3:03 |
 | 60 | [Starstruck](https://open.spotify.com/track/1J3aj2c8KMR5lgc3l46gXV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 2:50 |

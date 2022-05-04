@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 256688,
       "name": "Be My Mistake",
       "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 194686,
       "name": "Easy",
       "url": "https://open.spotify.com/track/7DoNtK2gVFRwJh0hkHe5wQ"
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 218826,
       "name": "Free Time",
       "url": "https://open.spotify.com/track/0fNLObXT9pvc3VED0oAevd"
@@ -1595,7 +1595,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Go",
       "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
@@ -1761,7 +1761,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 156798,
       "name": "hate to be lame (feat. FINNEAS)",
       "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
@@ -2286,6 +2286,24 @@
     },
     {
       "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "album": {
         "name": "Get You - Single",
         "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
       },
@@ -2479,7 +2497,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
@@ -2541,7 +2559,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 149877,
       "name": "Lie To Me (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/6GzApXoBQiiAjak3tOQfV3"
@@ -2805,7 +2823,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 148603,
       "name": "Loved You Once",
       "url": "https://open.spotify.com/track/3LbwR2WcofkDBp4LSgGJh1"
@@ -4553,10 +4571,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 232600,
       "name": "This Town",
       "url": "https://open.spotify.com/track/5nA67Y0XX9JipZwYxX7Gl7"
+    },
+    {
+      "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
     },
     {
       "album": {
@@ -5057,7 +5093,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 102452,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3S9kCBYnWg7jSSV1XAYL6Q"
@@ -5253,7 +5289,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 185194,
       "name": "YOUTH",
       "url": "https://open.spotify.com/track/3nRmuCfXdEDIPGX7pXBtto"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Jaded
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,915 likes - 125 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,441 likes - 125 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Drip](https://open.spotify.com/track/4NH9xSGfbs8zchM70KZReS) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Drip](https://open.spotify.com/album/5O3Uj3ADw6P0CGQakooc4N) | 2:49 |
 | 125 | [Puerto Rico](https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn) | [Puerto Rico](https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G) | 2:24 |
 
-Snapshot ID: `MTY1MTIzNTIyNiwwMDAwMDEyNzAwMDAwMTgwNzU0YTAzYzkwMDAwMDE4MDcxYzhhYjU0`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDEyODAwMDAwMTgwOGE2YzRhZDAwMDAwMDE4MDcxYzhhYjU0`

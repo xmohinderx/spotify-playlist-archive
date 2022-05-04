@@ -994,6 +994,28 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1EdtxyWMoFkoWAE2g7gd5T"
+      },
+      "artists": [
+        {
+          "name": "Bluewerks",
+          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
+        },
+        {
+          "name": "Oatmello",
+          "url": "https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121361,
+      "name": "Cantaloupe Island - Spotify Singles",
+      "url": "https://open.spotify.com/track/35Up1VtzDnwdBleWKlDKxO"
+    },
+    {
+      "album": {
         "name": "the sound is served",
         "url": "https://open.spotify.com/album/1czaSl9IOCmuP1RthQq6p4"
       },
@@ -2065,6 +2087,28 @@
       "duration_ms": 152941,
       "name": "Enthalpy",
       "url": "https://open.spotify.com/track/4DLFDmqoAEPAhxjagmRfJq"
+    },
+    {
+      "album": {
+        "name": "Bluewerks: Spotify Singles",
+        "url": "https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP"
+      },
+      "artists": [
+        {
+          "name": "Bluewerks",
+          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
+        },
+        {
+          "name": "Somni",
+          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158740,
+      "name": "Envy - Spotify Singles",
+      "url": "https://open.spotify.com/track/0DDRxSTiIvr9BU5Udn622y"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Viral, trending and taking off.
 
-155 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/2hH5qQbyuOq8mla61ka40f)
+156 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/2hH5qQbyuOq8mla61ka40f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [505](https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 4:13 | 2022-02-03 |  |
 | [A\-O\-K](https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc) | 2:53 | 2021-12-20 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-20 |  |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-04 |  |
 | [Alien Blues](https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI) | 2:36 | 2021-12-20 | 2022-02-01 |
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2022-01-21 |  |
 | [Alors on danse \- Radio Edit](https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Cheese](https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80) | 3:26 | 2021-12-20 |  |
@@ -84,7 +85,7 @@
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 | 2021-12-20 | 2021-12-23 |
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-12-20 |  |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2021-12-20 |  |
-| [Like I Can](https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:47 | 2021-12-20 |  |
+| [Like I Can](https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:47 | 2021-12-20 | 2022-05-04 |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2021-12-20 | 2021-12-23 |
 | [Lost](https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:54 | 2022-01-16 |  |
 | [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 | 2021-12-20 |  |

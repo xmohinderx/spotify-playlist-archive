@@ -4,7 +4,7 @@
 
 > next gen pop featuring EMELINE
 
-908 songs - 1 day 20 hr 8 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+909 songs - 1 day 20 hr 10 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [Manic Pixie Dream Girl](https://open.spotify.com/track/5gMb2nGAvbK45uNSS2xh0N) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Manic Pixie Dream Girl](https://open.spotify.com/album/3YDDoz2EmnE6lTo3RDwykA) | 3:23 | 2021-05-08 | 2021-05-22 |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-04-29 |  |
 | [Me Without You](https://open.spotify.com/track/4GwfjONzvqJbVeDo49VC6J) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Me Without You](https://open.spotify.com/album/4evy8XIXFcXOqGc8twyhyg) | 3:09 | 2021-05-08 | 2021-07-10 |
+| [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-03 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-10-07 | 2021-10-23 |
 | [Meet Me At Our Spot \- Live](https://open.spotify.com/track/3BrWLBC4WYx393yRUOlTih) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Meet Me At Our Spot \(Live\)](https://open.spotify.com/album/7x5oZf6cKUstjslCxLsKkT) | 2:27 | 2021-10-23 | 2022-02-26 |
 | [Melatonin](https://open.spotify.com/track/6LKPd0yNYWbcwkTL0bx3DV) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Melatonin](https://open.spotify.com/album/3CN1rEJINFxNogHus13Y2A) | 3:07 | 2021-06-12 | 2021-07-24 |

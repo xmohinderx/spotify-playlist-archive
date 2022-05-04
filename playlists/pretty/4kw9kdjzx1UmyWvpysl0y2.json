@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128394,
+  "num_followers": 128392,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM4MSwzY2I5YzI2ZjFiMTU2ZTdiZDQ0MjA0MDAzNWY4MWFjNjNkMThmOWI1",
+  "snapshot_id": "MzM4MywwMTg2ODIzYmQwMjFmN2NjNzA3YmU5ODhmYTlkZDBmYWM1NGE5OTI0",
   "tracks": [
+    {
+      "added_at": "2022-05-03 16:17:30",
+      "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/2hgKEap2EXtwDunaPRb2ip"
+      },
+      "artists": [
+        {
+          "name": "Nick Smith",
+          "url": "https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/2LSBuW3iZjxypcoTGVUp54"
+    },
     {
       "added_at": "2022-05-02 16:03:35",
       "album": {
@@ -1067,30 +1083,6 @@
       "duration_ms": 190800,
       "name": "New Age - Bossfight Remix",
       "url": "https://open.spotify.com/track/5aCABFeoSwL2Ux0c1gW2QL"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Adam Pearce",
-          "url": "https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf"
-        },
-        {
-          "name": "Zack Gray",
-          "url": "https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l"
-        }
-      ],
-      "duration_ms": 182350,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

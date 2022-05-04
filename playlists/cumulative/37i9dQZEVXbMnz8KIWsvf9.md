@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-338 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+339 songs - 19 hr 59 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Extraordinary](https://open.spotify.com/track/19CoWVqDyUbiqxoyMf4HkJ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [Extraordinary](https://open.spotify.com/album/1nm0OJwsjXkjixIFpk8FZG) | 4:01 | 2021-03-27\* | 2021-12-11 |
 | [Far](https://open.spotify.com/track/3HxtdKRmw0BNUs4VM7uYvE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:36 | 2021-09-19 | 2021-09-20 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2021-10-27 | 2021-11-14 |
+| [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-03 |  |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-22 |  |
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-04 | 2021-04-16 |
 | [Filter](https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:00 | 2022-04-03 | 2022-04-05 |
@@ -267,7 +268,7 @@
 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w) | [NO ONE ELSE](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8) | 4:14 | 2021-10-29 |  |
 | [ถ้าเขาจะรัก \(ยืนเฉยๆเขาก็รัก\)](https://open.spotify.com/track/261cLiqJtmRlv8NNfl162N) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ถ้าเขาจะรัก \(ยืนเฉยๆเขาก็รัก\)](https://open.spotify.com/album/4Z1nuGK58ILziQy2Qdqcva) | 3:27 | 2021-03-27\* | 2021-03-27 |
 | [ถ้าเธอ feat\. Violette Wautier](https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ถ้าเธอ](https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD) | 3:19 | 2022-01-22 |  |
-| [ถ้าเธอรักฉันจริง](https://open.spotify.com/track/3kVApGWaoR48GzDagnY55b) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:00 | 2021-03-27\* |  |
+| [ถ้าเธอรักฉันจริง](https://open.spotify.com/track/3kVApGWaoR48GzDagnY55b) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:00 | 2021-03-27\* | 2022-05-04 |
 | [ถ้าเราเจอกันอีก \(Until Then\)](https://open.spotify.com/track/3crZQarcOagdupRZNzRGWe) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [It's Gonna Be OK](https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL) | 4:48 | 2022-01-18 |  |
 | [ทน](https://open.spotify.com/track/4tM3ygBuSy0QzB0ihYZQcf) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ทน](https://open.spotify.com/album/7IuvqVBG4tlAJnE5I0araN) | 3:25 | 2021-05-19 | 2021-07-11 |
 | [ทราบแล้วเปลี่ยน \- attention please](https://open.spotify.com/track/7MxhdBolnOFvWu4WMURsX5) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ทราบแล้วเปลี่ยน \(attention please\)](https://open.spotify.com/album/7r8dBkF7ABMLXIFQEuVbk2) | 3:55 | 2022-03-18 |  |

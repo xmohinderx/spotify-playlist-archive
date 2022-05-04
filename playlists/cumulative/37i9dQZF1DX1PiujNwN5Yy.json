@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    {
+      "album": {
         "name": "Altos Bajos",
         "url": "https://open.spotify.com/album/6iPNxDDgZ444idVAU2PlCG"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 220285,
       "name": "April",
       "url": "https://open.spotify.com/track/23PbT6VELTygvO7lFgtT9D"
@@ -261,7 +279,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 207413,
       "name": "Bailando Lentos",
       "url": "https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE"
@@ -319,7 +337,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 194506,
       "name": "Con el Viento",
       "url": "https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF"
@@ -381,7 +399,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 197250,
       "name": "Cuando lloras (feat. David Rees)",
       "url": "https://open.spotify.com/track/5xpBHHSL7zwrZfE9QnqHI2"
@@ -417,7 +435,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 143975,
       "name": "Dolerme",
       "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 213440,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 187016,
       "name": "nana triste",
       "url": "https://open.spotify.com/track/7zH4rnKKGm5vACoSEXBEDe"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 164683,
       "name": "No Te Pude Soltar",
       "url": "https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 177692,
       "name": "olv\u00eddate de m\u00ed",
       "url": "https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 163040,
       "name": "querida ansiedad",
       "url": "https://open.spotify.com/track/4AuBegU1SOEkei8TOYEMw0"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 117966,
       "name": "QU\u00c9DATE, TE QUIERO",
       "url": "https://open.spotify.com/track/1qdlys3D2hI2BV5qusTEFu"
@@ -1756,6 +1774,24 @@
     },
     {
       "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "album": {
         "name": "Amor Insustancial",
         "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
       },
@@ -1785,7 +1821,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 196022,
       "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
       "url": "https://open.spotify.com/track/4TkPskOsVY7j798xZwIZ5M"
@@ -1879,7 +1915,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 209573,
       "name": "Sola",
       "url": "https://open.spotify.com/track/0rmMciOccq9HDXeKOfkABd"
@@ -2045,7 +2081,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 172634,
       "name": "Todo me sabe a poco",
       "url": "https://open.spotify.com/track/7Kzn9GAvx70B8AupNR3JTz"

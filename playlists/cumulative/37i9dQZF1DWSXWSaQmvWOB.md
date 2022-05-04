@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Congratulations to the amazing Jon Batiste \(cover\).
+> Your daily dose of soul\-infused music! Cover: Jon Batiste
 
 468 songs - 1 day 4 hr 48 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 

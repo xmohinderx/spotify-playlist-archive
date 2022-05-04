@@ -416,6 +416,28 @@
     },
     {
       "album": {
+        "name": "Banho de Cheiro",
+        "url": "https://open.spotify.com/album/3RzEyZrqcNRg1DLcKulro5"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "Banho de Cheiro",
+      "url": "https://open.spotify.com/track/1rpKo0qWagKkzkNEl97gHa"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Lisboa",
         "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
       },
@@ -467,7 +489,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 260911,
       "name": "Ben\u00e7a",
       "url": "https://open.spotify.com/track/62JGoMtDUlNATOQHMj8Tdu"
@@ -489,7 +511,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 186600,
       "name": "Bloco do Prazer",
       "url": "https://open.spotify.com/track/6eB7SGRyrooX9CBc4CdNjf"
@@ -819,7 +841,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 244330,
       "name": "Deus Dar\u00e1",
       "url": "https://open.spotify.com/track/0BYlm0AWV6jp1lQ37BR027"
@@ -1363,7 +1385,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 210690,
       "name": "Isso Me Far\u00e1",
       "url": "https://open.spotify.com/track/4vNyFrftdxHk61euvwUpT1"
@@ -1535,7 +1557,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 218445,
       "name": "Lua e Sol",
       "url": "https://open.spotify.com/track/3VWX6p8fx82o1AduNqgDGb"
@@ -1765,7 +1787,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 238863,
       "name": "Mucuripe",
       "url": "https://open.spotify.com/track/2Fil7M2pF2cduAopaetUaT"
@@ -1823,7 +1845,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 182181,
       "name": "Negue",
       "url": "https://open.spotify.com/track/2Es7AW2PulafR8CAK99QQS"
@@ -1903,7 +1925,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 206390,
       "name": "Nosso Altar",
       "url": "https://open.spotify.com/track/4vokpvUB5DPRXlG9rQFM3V"
@@ -1979,7 +2001,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 202638,
       "name": "N\u00e3o Identificado",
       "url": "https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf"
@@ -2147,7 +2169,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 243189,
       "name": "Paix\u00e3o",
       "url": "https://open.spotify.com/track/0a5h4bVwbVH2YbVuZ4pLM3"
@@ -2821,7 +2843,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "Se N\u00e3o For Amor",
       "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
@@ -2857,7 +2879,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 249845,
       "name": "Seca - Ao Vivo no Montreux Jazz Festival 1997",
       "url": "https://open.spotify.com/track/55sJHFHTpLSrBVy8OSHsVy"

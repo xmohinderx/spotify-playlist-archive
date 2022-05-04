@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 278626,
       "name": "(I Just) Died In Your Arms",
       "url": "https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 184093,
       "name": "Brass in Pocket",
       "url": "https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 235839,
       "name": "Bring on the Dancing Horses",
       "url": "https://open.spotify.com/track/5pCGWaQFtRBkRse3DAN5yB"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 327306,
       "name": "Compulsion",
       "url": "https://open.spotify.com/track/5ZkLm20XMu4r1KCYaCgx61"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 251600,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/7lVbgM5cMH8zxDRBpJQNjq"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 207306,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/60ubljabcQKHeMpjiypBcH"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 408173,
       "name": "How Soon Is Now? - 2011 Remaster",
       "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
@@ -1150,6 +1150,24 @@
     },
     {
       "album": {
+        "name": "Green (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "Orange Crush - Remastered 2013",
+      "url": "https://open.spotify.com/track/1dZ0YJDBE5cyEbYVahUqPI"
+    },
+    {
+      "album": {
         "name": "90125 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
       },
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 218960,
       "name": "Play For Today",
       "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 274626,
       "name": "Repetition",
       "url": "https://open.spotify.com/track/2Dq6BAHRXcoTxg9azES5xW"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 252533,
       "name": "She Sells Sanctuary",
       "url": "https://open.spotify.com/track/66glXjjFvlS5r1gDUK4ugq"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 187893,
       "name": "Should I Stay or Should I Go",
       "url": "https://open.spotify.com/track/5oVd20ddRqp5yenSA0E6u1"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 257826,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/6amZm52SfS7d6oCEu9NDMl"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 217453,
       "name": "Souvenir - Remastered 2003",
       "url": "https://open.spotify.com/track/6ovrxrZnAvJRbUJ5Sscoqk"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 300466,
       "name": "Synchronicity II - Remastered 2003",
       "url": "https://open.spotify.com/track/5N1719oH5ftLWiKOgWOCcE"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 346280,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 201360,
       "name": "Understanding Jane",
       "url": "https://open.spotify.com/track/6LTjqBs1dmjBhFUIuoCNcF"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 304466,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/6NHgiZFCnfDzDhOD02GcnR"

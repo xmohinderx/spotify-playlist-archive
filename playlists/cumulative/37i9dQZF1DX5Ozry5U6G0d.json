@@ -1424,6 +1424,28 @@
     },
     {
       "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246573,
+      "name": "Glamorous",
+      "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
+    },
+    {
+      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -2265,7 +2287,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 220293,
       "name": "Mambo No. 5 (a Little Bit of...)",
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
@@ -2521,7 +2543,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 247133,
       "name": "Murder She Wrote (Original Mix)",
       "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
@@ -4067,6 +4089,32 @@
       "duration_ms": 173325,
       "name": "Truth Hurts",
       "url": "https://open.spotify.com/track/5Qel1sTrU4LM8HlJSPT2jd"
+    },
+    {
+      "album": {
+        "name": "Tease Me",
+        "url": "https://open.spotify.com/album/3MvOWcHQP67OGTJvr9TPFi"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        },
+        {
+          "name": "Jack Radics",
+          "url": "https://open.spotify.com/artist/0YeIluqMsCUwn5NC3TG2iQ"
+        },
+        {
+          "name": "The Taxi Gang",
+          "url": "https://open.spotify.com/artist/2Af07b1sTnXHHSdCqdLSfy"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237506,
+      "name": "Twist And Shout",
+      "url": "https://open.spotify.com/track/2XCI7vQB1pnGR3nuPtoejf"
     },
     {
       "album": {

@@ -176,6 +176,24 @@
     },
     {
       "album": {
+        "name": "20 blues",
+        "url": "https://open.spotify.com/album/0NvFgGERMLnzNlYp0eLZqW"
+      },
+      "artists": [
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191404,
+      "name": "20 blues",
+      "url": "https://open.spotify.com/track/0VbuqkKfdUFbffJMyitMNI"
+    },
+    {
+      "album": {
         "name": "Mikkinit Brown 0.5",
         "url": "https://open.spotify.com/album/3xuf5Du40jFipXY6HMFcbf"
       },
@@ -453,7 +471,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 184874,
       "name": "Acid Fly Remix (feat. CAMO)",
       "url": "https://open.spotify.com/track/1Ilw0zTfz9tTEmpXpeE1yI"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 209226,
       "name": "All In (Feat. Paul Blanco, CHANGMO)",
       "url": "https://open.spotify.com/track/4EkOAeo2qIhlbycH80Arc2"
@@ -589,7 +607,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 215213,
       "name": "Antisocial (Prod. Mokyo)",
       "url": "https://open.spotify.com/track/5FFWhDhJe9u9y4l8qkz4LR"
@@ -641,7 +659,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "At Night",
       "url": "https://open.spotify.com/track/0da5hji35BCVb7nC8gRQzF"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 265227,
       "name": "B.O.T.B. (Prod. GRAY)",
       "url": "https://open.spotify.com/track/4AwtazkAUcviUqBmlvLft7"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 242407,
       "name": "Back In The Day (HipHop Version) Feat. Don Malik, Paloalto",
       "url": "https://open.spotify.com/track/5MEVEzmCN567LPdQSl6KM0"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 158800,
       "name": "BLUE EYES",
       "url": "https://open.spotify.com/track/6Xgyil4wclc5xkSIPRNm0n"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 178893,
       "name": "Born",
       "url": "https://open.spotify.com/track/1oFoW0xbdmdsU42VOs4C7H"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 196120,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/35h968aFQALDYPq1tnhTfU"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 139494,
       "name": "CHANEL N.5",
       "url": "https://open.spotify.com/track/7pwgbW5Njwg6YQlZeLkR1t"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 221826,
       "name": "Cheap talk (Feat. JUSTHIS) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/31l7az7JT4boi5BjUth78k"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 205263,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/0Fw9QIr1EMXMR4p6c7DEkE"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 195078,
       "name": "City Life",
       "url": "https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Cloud (Feat. Clavita, Donutman)",
       "url": "https://open.spotify.com/track/5JPohmztk8M6sdxB59yEY0"
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 172956,
       "name": "Dessert shop (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 204120,
       "name": "Direction (Feat. GARY)",
       "url": "https://open.spotify.com/track/5YoVoe2bz3x1Ls9ZiDEjL4"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 170706,
       "name": "DO Gae Bee (Prod by D.O)",
       "url": "https://open.spotify.com/track/1BcufSE0XxEPM2Q2qVLh38"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 216253,
       "name": "Don't worry, dear (feat. NO:EL)",
       "url": "https://open.spotify.com/track/59gs4zZCZnDc3jxMpZQqv7"
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 218933,
       "name": "Dressed Up (Feat. The Quiett)",
       "url": "https://open.spotify.com/track/4kWZJSbNXqEwNAr8ZNJ2Qo"
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 219906,
       "name": "F(ucked up) (Feat. Gaeko, GRAY)",
       "url": "https://open.spotify.com/track/3WKOfIpqPHnhzogH2Ds73k"
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 216503,
       "name": "Face ID (Feat. GIRIBOY, Sik-K, JUSTHIS)",
       "url": "https://open.spotify.com/track/6YcJycTGtvfTt5ACVH29q7"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 178349,
       "name": "FAKE RAPPERS KILLER (Feat. northfacegawd)",
       "url": "https://open.spotify.com/track/5Bok398XfFLisIi72rZqSo"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "Family (Feat. THAMA)",
       "url": "https://open.spotify.com/track/36PJlu7LbBOfbN3nIVsQPE"
@@ -2605,7 +2623,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 196266,
       "name": "Film",
       "url": "https://open.spotify.com/track/7qxpSOYNnPTKsyjRUt4kX3"
@@ -2715,7 +2733,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 273453,
       "name": "Flower (Feat. Jay Park, Woo, GIRIBOY)",
       "url": "https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ"
@@ -2943,7 +2961,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 243453,
       "name": "Garion (Feat. Dynamicduo) (Prod. Primary)",
       "url": "https://open.spotify.com/track/3ulX3obs7oJGzluQNzcIDX"
@@ -3203,7 +3221,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 196263,
       "name": "Good Morning (feat. Wonstein)",
       "url": "https://open.spotify.com/track/6CLuvQbLbE6Hrxx42uTSVC"
@@ -3425,7 +3443,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 225666,
       "name": "Grim THUG (feat. punchnello)",
       "url": "https://open.spotify.com/track/3XqHDWD2I9xX1hoFcxc98u"
@@ -3575,7 +3593,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH"
@@ -3635,7 +3653,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 229787,
       "name": "High (Feat. LeeHi) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/66hfy09gzJOp4NMZWD1jEy"
@@ -3693,7 +3711,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 210940,
       "name": "Hit me up (Feat. Ted Park)",
       "url": "https://open.spotify.com/track/3zDj6Qlc2TUfPuvk3VHysK"
@@ -3793,7 +3811,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 266093,
       "name": "Hopefully (Feat. Jung In) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/6zdgPI0zkt6xJSUoTLud8v"
@@ -3957,7 +3975,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 175160,
       "name": "i (Feat. Jung Yup) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3"
@@ -4001,7 +4019,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "I Don't Love You (Feat. Coogie)",
       "url": "https://open.spotify.com/track/3U7bYD9n4QP0P3LITLgLkc"
@@ -4187,7 +4205,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 175347,
       "name": "Ideology",
       "url": "https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK"
@@ -4303,7 +4321,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 224833,
       "name": "INSTOP ! (Feat. Touch the Sky)",
       "url": "https://open.spotify.com/track/4746fCzYtpdSropBwpvtdM"
@@ -4405,7 +4423,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 247093,
       "name": "Jaeho (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/4jLk9mYrBahcWnoDAfQkaC"
@@ -4661,7 +4679,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 250000,
       "name": "K.O.",
       "url": "https://open.spotify.com/track/4Ayc7M0iybDZqZan2yxWIa"
@@ -4723,7 +4741,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 278200,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
@@ -4741,7 +4759,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1"
@@ -4795,7 +4813,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 191866,
       "name": "Last Waltz",
       "url": "https://open.spotify.com/track/32Q54GVSCwmiFdkHrtq8tV"
@@ -4917,7 +4935,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 184240,
       "name": "Life Goes On (Feat. pH-1)",
       "url": "https://open.spotify.com/track/7DNT98RushlHadPmT3qaiX"
@@ -5005,7 +5023,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 168781,
       "name": "LiLaC",
       "url": "https://open.spotify.com/track/6eQ74GNcsSwHsXp6kG0v4Y"
@@ -5067,7 +5085,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 160786,
       "name": "LOST",
       "url": "https://open.spotify.com/track/5a0SuGMEWcQiTHeh8Q8Too"
@@ -5125,7 +5143,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 196866,
       "name": "Love & hate (Feat. BIBI)",
       "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
@@ -5229,7 +5247,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 251813,
       "name": "Love Peace Movement (Love Peace REMIX)",
       "url": "https://open.spotify.com/track/3MtaDHBUCkfge8xExxyiQL"
@@ -5347,7 +5365,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 233346,
       "name": "Make You Mine (Feat. JUSTHIS)",
       "url": "https://open.spotify.com/track/1cCxgHTmvfur5rlWGnG6aY"
@@ -5453,7 +5471,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 248513,
       "name": "MBTI (Feat. Coogie & Loco) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/3sMyDgDEGNCAOIvlEs6PR7"
@@ -6015,7 +6033,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 198857,
       "name": "Nag Champa",
       "url": "https://open.spotify.com/track/5Z3wrh8mL4qjEDRlz4JyVm"
@@ -6213,7 +6231,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 208000,
       "name": "No Doubt",
       "url": "https://open.spotify.com/track/1JS6uJeYOerdx7U5y9Tbdc"
@@ -6373,7 +6391,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 238736,
       "name": "OHAYO MY NIGHT",
       "url": "https://open.spotify.com/track/6AJhvujU1XgnYjUTYDyxrh"
@@ -6475,7 +6493,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 151948,
       "name": "Only Late at Night (feat. Jay Park) (prod. Vangdale)",
       "url": "https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p"
@@ -6759,7 +6777,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 219746,
       "name": "PEOPLE (Feat. Paloalto, The Quiett)",
       "url": "https://open.spotify.com/track/55VLNyLM11aRY7rn4xSupR"
@@ -6913,7 +6931,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 182986,
       "name": "POW (Feat. GRAY)",
       "url": "https://open.spotify.com/track/3QpwHZCLi4vPrt2TJ1kurE"
@@ -7319,7 +7337,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 159226,
       "name": "Ring Ring",
       "url": "https://open.spotify.com/track/6Wu6Ee5c9n5s6g8xvK2cK3"
@@ -7511,7 +7529,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 218560,
       "name": "Routine",
       "url": "https://open.spotify.com/track/2xlPC8QQTT3MVoxX64EvdK"
@@ -7529,7 +7547,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 195187,
       "name": "RUN AWAY",
       "url": "https://open.spotify.com/track/54QnwP0o6MPBo4UNTbXrUO"
@@ -7629,6 +7647,32 @@
       "duration_ms": 217853,
       "name": "Self Isolation",
       "url": "https://open.spotify.com/track/6neQsYjtYlp98ioxs2XhZn"
+    },
+    {
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "DPR CLINE",
+          "url": "https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150906,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB"
     },
     {
       "album": {
@@ -7765,7 +7809,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 197093,
       "name": "Siren Remix (Feat. UNEDUCATED KID, Paul Blanco)",
       "url": "https://open.spotify.com/track/2S9FuNX2H2cCwxcIoTUtbM"
@@ -7887,7 +7931,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 136733,
       "name": "SMF (Prod. Czaer)",
       "url": "https://open.spotify.com/track/2RwFM3urdm9MhkZek5G8aH"
@@ -8135,7 +8179,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 177750,
       "name": "Spring Rain (feat. Rakon)",
       "url": "https://open.spotify.com/track/72CqKBz1W0sHlbVazkD9Ur"
@@ -8179,7 +8223,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 139529,
       "name": "Stars for You (Feat. KOONTA, RETA)",
       "url": "https://open.spotify.com/track/00gxCvZUaZY9dhe5MJpWMT"
@@ -8293,7 +8337,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 154984,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/5OYu2gZDLzCGEYgeNvcmO2"
@@ -8389,7 +8433,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 222014,
       "name": "Supernova (Feat. Dut2)",
       "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
@@ -8441,7 +8485,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 174280,
       "name": "Tag",
       "url": "https://open.spotify.com/track/57AHdM9RXKjpIY0YOpaBHg"
@@ -8721,7 +8765,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 187400,
       "name": "Tikita (feat. lIlBOI)",
       "url": "https://open.spotify.com/track/3lcLgImrQkglTgI8Fm5x5X"
@@ -8871,7 +8915,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 181069,
       "name": "Tree",
       "url": "https://open.spotify.com/track/5fL0pFoAi6V6OWOgIRdraP"
@@ -8931,7 +8975,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 284977,
       "name": "TROUBLE (Prod. Slom)",
       "url": "https://open.spotify.com/track/5UJTNrW72ZMubW2wKBf8g2"
@@ -9161,7 +9205,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 275400,
       "name": "UP (Feat. Jay Park, Woo) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/4NgBGkkjK006wySQL4IaBA"
@@ -9183,7 +9227,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 228706,
       "name": "us (feat. meenoi)",
       "url": "https://open.spotify.com/track/2qcAEHuRQRtnmMMroqpgdB"
@@ -9409,7 +9453,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 261066,
       "name": "Way (Feat. CHOILB, GIRIBOY, BIG Naughty, Kvsh, Kim Seungmin, OLNL, Kid Milli, THAMA)",
       "url": "https://open.spotify.com/track/0WHUg5Z0NZkeuPt5l4uMB9"
@@ -9501,7 +9545,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 198826,
       "name": "What If You and Me (Feat. Han Dong Geun)",
       "url": "https://open.spotify.com/track/2ATI0XQ9kWnDuvjF7ZG56Q"
@@ -9669,7 +9713,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 174906,
       "name": "WINNER (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx"
@@ -9803,7 +9847,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 198244,
       "name": "YAYAYA (Feat. Mirani)",
       "url": "https://open.spotify.com/track/6H7hpnwgn2zH1OUsJjbrPo"
@@ -9821,7 +9865,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 205600,
       "name": "Yellow Cab",
       "url": "https://open.spotify.com/track/6KZ5tQzMzradTe0pxsfObz"
@@ -9913,7 +9957,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 234761,
       "name": "\ub0b4 \uc598\uae30 \uac19\uc544 (Based On A True Story)",
       "url": "https://open.spotify.com/track/3TODabyKjZdBvpGFCDAgxs"

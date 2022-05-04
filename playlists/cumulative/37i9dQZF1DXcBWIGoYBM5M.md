@@ -4,7 +4,7 @@
 
 > Justin Bieber is on top of the Hottest 50!
 
-724 songs - 1 day 14 hr 39 min - [published](https://open.spotify.com/playlist/47EyYjdbbASCmJLAzJxhXP)
+725 songs - 1 day 14 hr 42 min - [published](https://open.spotify.com/playlist/47EyYjdbbASCmJLAzJxhXP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Whole New World \(End Title\) \- From "Aladdin"](https://open.spotify.com/track/1iWHabUgUuuKLBa0TzTHfk) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia Ward](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [A Whole New World \(End Title\) \[From "Aladdin"\]](https://open.spotify.com/album/1m8eXQqp3QCQyR56fgbm6o) | 4:02 | 2019-05-26\* | 2019-06-15 |
 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2021-08-21 | 2021-11-13 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-20 |  |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-03 |  |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-10-16 | 2022-01-29 |
 | [Adore You](https://open.spotify.com/track/1M4qEo4HE3PRaCOM7EXNJq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Adore You](https://open.spotify.com/album/5SL9nXZYZZl68bHwaM8uLa) | 3:27 | 2019-12-06 | 2020-05-22 |
 | [After Hours](https://open.spotify.com/track/4ejyZ4uJEXUURcgKp1kP8v) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/1wSmi4DMuPu5fG7xtyspT2) | 6:01 | 2020-02-19 | 2020-04-18 |
@@ -501,7 +502,7 @@
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2021-11-06 | 2021-12-18 |
 | [Press](https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Press](https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ) | 2:23 | 2019-05-31 | 2019-06-20 |
 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/5JqZ3oqF00jkT81foAFvqg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/album/3hUh17FzYZwwZyNjU9B3vL) | 2:49 | 2020-11-20 | 2021-04-17 |
-| [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 | 2022-04-08 |  |
+| [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 | 2022-04-08 | 2022-05-04 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-01-21 | 2022-03-26 |
 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2020-09-18 | 2021-02-06 |
 | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC) | 2:49 | 2019-09-16 | 2019-10-25 |

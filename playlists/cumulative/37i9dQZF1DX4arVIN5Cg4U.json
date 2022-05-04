@@ -77,7 +77,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 215253,
       "name": "Bangarang (feat. Sirah)",
       "url": "https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 250880,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6WZ5EMzMDchO374npQHpp5"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 336079,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4KyRFye8Zqh7RAYakwtt65"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 224040,
       "name": "Intensive Snare feat. Skepta - Original Mix",
       "url": "https://open.spotify.com/track/5iNvnrGvOV6J17eUUc0skt"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 256500,
       "name": "Lone Wolf",
       "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 219860,
       "name": "Me Want Cookie",
       "url": "https://open.spotify.com/track/32DHNTwLq8wX9boBM7Kye7"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 246955,
       "name": "Mmmmm",
       "url": "https://open.spotify.com/track/1Zr3VqpOdIWkesC8eHuGTi"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 238984,
       "name": "Organ Donor",
       "url": "https://open.spotify.com/track/7kZ7HsK9XD6X6e9Yb5zBTn"
@@ -963,6 +963,24 @@
       "duration_ms": 184615,
       "name": "Sepia",
       "url": "https://open.spotify.com/track/4vpvkDPQfCVPDS64hBtUbl"
+    },
+    {
+      "album": {
+        "name": "Triadzz / Slasherr",
+        "url": "https://open.spotify.com/album/1OKId2zwMoVaZzngQHVyyb"
+      },
+      "artists": [
+        {
+          "name": "Rustie",
+          "url": "https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "Slasherr",
+      "url": "https://open.spotify.com/track/52SPa846gRMhjujh054UFr"
     },
     {
       "album": {
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 298285,
       "name": "Where's My Money (Caspa Remix)",
       "url": "https://open.spotify.com/track/2wXtemuU48ra2V6esXbLyd"

@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 159306,
       "name": "Dulcemente Enamorada",
       "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 146013,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 126693,
       "name": "El Pipiripau",
       "url": "https://open.spotify.com/track/6bBdgv3nOKHmG1ue8IcujY"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 313613,
       "name": "El Verde De Tus Ojos",
       "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
@@ -916,6 +916,24 @@
     },
     {
       "album": {
+        "name": "Amor Vendido, Vol. 4",
+        "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204669,
+      "name": "Hola Como Estas",
+      "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
+    },
+    {
+      "album": {
         "name": "Presenta... La Trombanda",
         "url": "https://open.spotify.com/album/7nfwPBgq6nyv14WDQtyn3y"
       },
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 189013,
       "name": "La Fuerza Del Destino",
       "url": "https://open.spotify.com/track/3WjmQylxM3VhcCcajyYGAK"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 190053,
       "name": "Mi Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2W1H5fQD5rGHq0SduYaTbM"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 207400,
       "name": "Mu\u00f1eca Esquiva",
       "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 71893,
       "name": "Pedacito de Mi Vida",
       "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
@@ -1487,6 +1505,24 @@
       "duration_ms": 177040,
       "name": "Piensa En M\u00ed",
       "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
+    },
+    {
+      "album": {
+        "name": "Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147360,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
     },
     {
       "album": {
@@ -1754,6 +1790,24 @@
     },
     {
       "album": {
+        "name": "Tongoneaito",
+        "url": "https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM"
+      },
+      "artists": [
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194413,
+      "name": "Tongoneaito",
+      "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
+    },
+    {
+      "album": {
         "name": "25 Exitos Vol. 1 (USA)",
         "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
       },
@@ -1783,7 +1837,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 240666,
       "name": "Traicion Y Olvido",
       "url": "https://open.spotify.com/track/2ldfytKZtTX3neva81I5YH"
@@ -1855,7 +1909,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 209040,
       "name": "Un Millon de Rosas",
       "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"

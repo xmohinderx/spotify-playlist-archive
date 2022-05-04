@@ -2,9 +2,9 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Đông Nhi
+> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: tlinh
 
-66 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+68 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Gặp Nhưng Không Ở Lại](https://open.spotify.com/track/3pyHABNUu0QxeyH1x8p7yf) | [Hiền Hồ](https://open.spotify.com/artist/6ZmHJcmCcc9X2sAyz6cHng), [Vuong Anh Tu](https://open.spotify.com/artist/3OeYidiG0MAcGmiSwTHZf6) | [Gặp Nhưng Không Ở Lại](https://open.spotify.com/album/3fAy66dEycL2DFH0oqzBHU) | 4:36 | 2021-12-07 |  |
 | [Hoàng Hôn](https://open.spotify.com/track/0GdrFeLGWjlEcAfoQEMXH5) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/20l0aOMxX0YDZq1bBCuoU6) | 4:10 | 2021-12-07 |  |
 | [Hương](https://open.spotify.com/track/7kOkCq8MPpSciLHQiKliJs) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [hương](https://open.spotify.com/album/6DET8Fkgy2bz1sl6gXcnGO) | 3:30 | 2021-12-07 |  |
+| [Hẹn Ước Từ Hư Vô \- Live](https://open.spotify.com/track/2tg8L2ls1k19B2SvRKBnJh) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Hẹn Ước Từ Hư Vô \(Live\)](https://open.spotify.com/album/6hJV3dVl97mP4tTzXsToOT) | 4:07 | 2022-05-03 |  |
 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 | 2021-12-07 |  |
 | [Let's Talk About Love](https://open.spotify.com/track/0urC4kxpc9YcVhmpWifrug) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Blacka](https://open.spotify.com/artist/0JggLWdYe1p6oHZoHpyPSD), [Chau Dang Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Let's Talk About Love](https://open.spotify.com/album/0JJbK3juFfG3bMetKGDQ7W) | 4:02 | 2021-12-24 | 2022-02-24 |
 | [Liệu Chân Thành Có Đổi Được Chân Tình](https://open.spotify.com/track/6N877oVBaZveFGDvBIVlXm) | [Huyền Tâm Môn](https://open.spotify.com/artist/5udW05zLTeswVyS7fTHdlc) | [Liệu Chân Thành Có Đổi Được Chân Tình](https://open.spotify.com/album/0XDBxevzLBe2wT8YOO6GcW) | 6:30 | 2021-12-07 | 2022-04-07 |
@@ -45,9 +46,9 @@
 | [Mân Côi](https://open.spotify.com/track/0p2mf4CTUyzvBuzLrIgrvh) | [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Mân Côi](https://open.spotify.com/album/5uHS6eI46RbGKPkzSR0tZY) | 4:13 | 2021-12-07 | 2022-04-07 |
 | [Mình Yêu Đến Đây Thôi](https://open.spotify.com/track/5P5lTAd4r6ro0rMpjwg34u) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC) | [Yêu Rồi Yêu Rồi Yêu](https://open.spotify.com/album/4ajoBTSkKcfjsWoHr99drC) | 4:45 | 2022-01-04 |  |
 | [Một Cú Lừa](https://open.spotify.com/track/2LKI0fGEKR3RWAiY2jqq8k) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/0JoA8Z6TWI31c6uWXldxyU) | 3:28 | 2021-12-07 |  |
-| [Ngày Chưa Giông Bão](https://open.spotify.com/track/7laWkT6uyoMDUXBqhcAN4V) | [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9) | [Ngày Chưa Giông Bão \(Người Bất Tử OST\)](https://open.spotify.com/album/6eYeMsrAOwsbGsdMU3tMZn) | 3:32 | 2021-12-07 |  |
+| [Ngày Chưa Giông Bão](https://open.spotify.com/track/7laWkT6uyoMDUXBqhcAN4V) | [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9) | [Ngày Chưa Giông Bão \(Người Bất Tử OST\)](https://open.spotify.com/album/6eYeMsrAOwsbGsdMU3tMZn) | 3:32 | 2021-12-07 | 2022-05-04 |
 | [Người Hãy Quên Em Đi](https://open.spotify.com/track/1rJyVbXb3njXbN3lokllKf) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Tâm 9](https://open.spotify.com/album/3A9rCX2VkZWP6NGnLUnjQq) | 3:52 | 2021-12-07 |  |
-| [Nhắm Mắt Thấy Mùa Hè](https://open.spotify.com/track/7KiVghFxUSJjrSQXlb9tdh) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Nhắm Mắt Thấy Mùa Hè \(Nhạc Phim\)](https://open.spotify.com/album/7jozXLciIE8b6eh8yM6UYi) | 4:42 | 2021-12-07 |  |
+| [Nhắm Mắt Thấy Mùa Hè](https://open.spotify.com/track/7KiVghFxUSJjrSQXlb9tdh) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Nhắm Mắt Thấy Mùa Hè \(Nhạc Phim\)](https://open.spotify.com/album/7jozXLciIE8b6eh8yM6UYi) | 4:42 | 2021-12-07 | 2022-05-04 |
 | [Nơi Mình Dừng Chân \(Nhạc Phim Chị Trợ Lý Của Anh\)](https://open.spotify.com/track/5U5aFzSWZVGe5gg8eCc8ft) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Nơi Mình Dừng Chân \(Nhạc Phim Chị Trợ Lý Của Anh\)](https://open.spotify.com/album/4IDvNp1lelYq2kmHjCDkvo) | 4:02 | 2022-01-04 |  |
 | [nằm ngủ emru](https://open.spotify.com/track/0TTJufXrJgRZUUV7brd2hT) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [nằm ngủ emru](https://open.spotify.com/album/4uig3uMCgVndDQeOw1shgg) | 4:14 | 2021-12-07 | 2022-04-24 |
 | [OK Anh Đúng](https://open.spotify.com/track/50Dh4QeAljOaFDRYcedzNW) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [OK Anh Đúng](https://open.spotify.com/album/48C9W0epgpJf0yMecK2FHP) | 3:48 | 2021-12-07 |  |
@@ -59,6 +60,7 @@
 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 | 2021-12-07 |  |
 | [Sau Nay, Hay Gap Lai Nhau Khi Hoa No](https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Hom Qua Hom Nay Va Sau Nay](https://open.spotify.com/album/4QV5oU2eIMfPob4hLC3yar) | 4:36 | 2021-12-07 |  |
 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 | 2022-02-23 |  |
+| [Siren](https://open.spotify.com/track/1c0LbgYt51JeBUMAzofjkq) | [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RZ Mas](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31) | [Siren](https://open.spotify.com/album/0Cb2HIaYbo2in1yXeDoxv0) | 2:37 | 2022-05-03 |  |
 | [thay mọi cô gái yêu anh](https://open.spotify.com/track/7e8Kt6pX4Y589CJL37mIWa) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [thay mọi cô gái yêu anh](https://open.spotify.com/album/3hR3yDFUQhLex9F9goRs80) | 3:35 | 2022-02-06 |  |
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 | 2021-12-07 |  |
 | [thế giới không anh](https://open.spotify.com/track/4IpeOlxcNz1IFVvZ2ll7In) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [yesteryear](https://open.spotify.com/album/33EIrbMJq7O5fQ1WPcwaB4) | 4:19 | 2021-12-07 |  |

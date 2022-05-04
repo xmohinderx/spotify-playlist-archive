@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 278186,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7e8zLk0zyjNmHQV4givkI6"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 224258,
       "name": "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",
       "url": "https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ"
@@ -1445,7 +1445,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 215360,
       "name": "King",
       "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 248337,
       "name": "Lot to Learn",
       "url": "https://open.spotify.com/track/3TRFq09DUgYj1mug6RRqJW"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 205360,
       "name": "Love Machine",
       "url": "https://open.spotify.com/track/6SHvqMjPEQqyJaxuEzNcr3"
@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 221973,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/3ktQWLu1mVhc4GTMrdPLEG"
@@ -1955,7 +1955,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 206040,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2"
@@ -1977,6 +1977,24 @@
       "duration_ms": 237200,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
+    },
+    {
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
     },
     {
       "album": {
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 183587,
       "name": "Summer Air",
       "url": "https://open.spotify.com/track/0V9cosR5jWa4fr2koARmhD"
@@ -2447,7 +2465,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 238706,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I"

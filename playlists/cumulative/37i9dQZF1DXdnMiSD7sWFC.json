@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 247041,
       "name": "All of My Love",
       "url": "https://open.spotify.com/track/4vX6VqibKBy7AhYxHvvv06"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 235746,
       "name": "And It's Still Alright",
       "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 273106,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 148773,
       "name": "Collar of Fur",
       "url": "https://open.spotify.com/track/4W5gTdnD0ONxtRaKunsGlI"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 234271,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/1lzvsof3WhWbUvGNkUcEAg"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 230031,
       "name": "Halo Light",
       "url": "https://open.spotify.com/track/6T6elHOwbZDoZauaaJF82F"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 283080,
       "name": "Holding to the Edge of Night",
       "url": "https://open.spotify.com/track/3PmiTqqpIP7PUs5qx8aWLO"
@@ -902,6 +902,24 @@
     },
     {
       "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/7lKYYw41WOOx87Jf139st5"
+    },
+    {
+      "album": {
         "name": "Glade",
         "url": "https://open.spotify.com/album/2jLbcCta4ORz1pnrSR24dj"
       },
@@ -953,6 +971,32 @@
       "duration_ms": 200025,
       "name": "Montana",
       "url": "https://open.spotify.com/track/1kodYJ3wtJuVozLPRKWDOR"
+    },
+    {
+      "album": {
+        "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
+      },
+      "artists": [
+        {
+          "name": "Olivia Vedder",
+          "url": "https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E"
+        },
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170893,
+      "name": "My Father's Daughter",
+      "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
     },
     {
       "album": {
@@ -1325,7 +1369,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 264666,
       "name": "Strawberry Lemonade",
       "url": "https://open.spotify.com/track/03NyueJZJPGfjqrrPAtP7N"
@@ -1585,7 +1629,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 223708,
       "name": "Water from the Mountain",
       "url": "https://open.spotify.com/track/6mpKlEAqZRk2xxu4yCAJ8s"
@@ -1679,7 +1723,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 174960,
       "name": "You - Midnight Version",
       "url": "https://open.spotify.com/track/7zBnzXGHhof5U4RLYKORHY"

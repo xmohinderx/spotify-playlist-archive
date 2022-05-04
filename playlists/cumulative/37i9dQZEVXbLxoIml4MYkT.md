@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- El Salvador.
 
-305 songs - 18 hr 1 min - [published](https://open.spotify.com/playlist/721wE5lHAa4JBRjC4QpOOZ)
+306 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/721wE5lHAa4JBRjC4QpOOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,9 +279,10 @@
 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:42 | 2021-03-27\* | 2021-04-24 |
 | [Te Acuerdas De Mí](https://open.spotify.com/track/3EgHkFBGUu7NHZspAdiy0D) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 1:44 | 2021-09-12 | 2021-09-13 |
 | [TE DESEO LO MEJOR](https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:19 | 2021-12-27 | 2022-02-17 |
+| [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-03 |  |
 | [TE MUDASTE](https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:10 | 2021-03-27\* |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-07-08 |
-| [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-04-30 |  |
+| [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-04-30 | 2022-05-04 |
 | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/album/1LDCTu0ZfGLtWAzV82Pop0) | 2:40 | 2021-12-31 | 2022-01-07 |
 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2021-07-12 | 2022-03-27 |
 | [Toda Remix \- Remix](https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Toda Remix](https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618) | 6:07 | 2022-01-21 | 2022-04-30 |

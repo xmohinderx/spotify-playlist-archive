@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Future, Lil Baby, Lil Tjay, and more\. Cover: Pooh Shiesty
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,292 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,597 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

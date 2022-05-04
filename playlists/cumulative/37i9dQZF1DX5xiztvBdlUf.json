@@ -141,7 +141,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 210607,
       "name": "alone with you (feat. Didi Han)",
       "url": "https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 384444,
       "name": "Amethyst",
       "url": "https://open.spotify.com/track/3te14QVhgWAkC3kNMIcy5m"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 408027,
       "name": "Arc De Triomphe - Brandt Brauer Frick Remix",
       "url": "https://open.spotify.com/track/1uiwyqzS8UMVExmJus9wn2"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 161951,
       "name": "Azure",
       "url": "https://open.spotify.com/track/50uP3LQRrc7Sv2NSrYYlON"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 378536,
       "name": "Bind - Rampa Remix",
       "url": "https://open.spotify.com/track/7wAVCSMQa3WyFFhfGfPDNP"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 354000,
       "name": "Blue Canary",
       "url": "https://open.spotify.com/track/0tcwkZuO5JLDXQNHnExKS7"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 341419,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 246466,
       "name": "Cold Shoulder - Helsloot Remix",
       "url": "https://open.spotify.com/track/1ipso6qku1yalltQEtxAPw"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 270506,
       "name": "Cool Air",
       "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 203749,
       "name": "Deepest Thoughts",
       "url": "https://open.spotify.com/track/0xYiTAId8EDuHg9RSiP1QR"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 385103,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f"
@@ -1186,6 +1186,32 @@
     },
     {
       "album": {
+        "name": "Knock Knock Remixes",
+        "url": "https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Sophia Kennedy",
+          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546471,
+      "name": "Drone Me Up, Flashy - &ME Remix",
+      "url": "https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4"
+    },
+    {
+      "album": {
         "name": "Easy on You",
         "url": "https://open.spotify.com/album/0irWZNe7kJgU49Z7t7J6B4"
       },
@@ -1237,7 +1263,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 184860,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2E78HhgMhRAYONtMktDgg7"
@@ -1357,7 +1383,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 271160,
       "name": "Fir",
       "url": "https://open.spotify.com/track/1EGAeOf7KRUj8VyzDh2TlJ"
@@ -1415,7 +1441,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 264098,
       "name": "Firefly - Radio-Edit",
       "url": "https://open.spotify.com/track/0VjngxuoccDjTDb0NfEZAq"
@@ -1451,7 +1477,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 398095,
       "name": "Five Minutes Past Midnight",
       "url": "https://open.spotify.com/track/2yYMnuV6Vqmm3E6esz5D43"
@@ -1587,7 +1613,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 286451,
       "name": "Glint - Edit",
       "url": "https://open.spotify.com/track/7c720VNyZ7knlVIV18AtHa"
@@ -1609,7 +1635,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 392496,
       "name": "Glitch In The Matrix",
       "url": "https://open.spotify.com/track/4TfaQdTeHI8FdsScmRp6Kb"
@@ -1667,7 +1693,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 520012,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/2g7BwK58fPL8xOnMGVYz0K"
@@ -1685,7 +1711,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 434060,
       "name": "Hack Into Your Soul",
       "url": "https://open.spotify.com/track/7aeAQvMddQg6EOb0lQcieC"
@@ -1779,7 +1805,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 392000,
       "name": "I Care For You",
       "url": "https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt"
@@ -1867,7 +1893,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 485810,
       "name": "Ichika",
       "url": "https://open.spotify.com/track/4xc2aA7RZzHjrPPZcdReAW"
@@ -2023,7 +2049,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 575500,
       "name": "Kamenka",
       "url": "https://open.spotify.com/track/4abrxVPM6VkY010z7HAsBY"
@@ -2077,7 +2103,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 385752,
       "name": "Korrelate",
       "url": "https://open.spotify.com/track/0qmuy4k8kApluZHCv5E7hl"
@@ -2405,7 +2431,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 198250,
       "name": "Love You Or Don't",
       "url": "https://open.spotify.com/track/2ihfWFRqpsebImMvBlzc84"
@@ -2423,7 +2449,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 229470,
       "name": "Lunaire",
       "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
@@ -2467,7 +2493,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 280806,
       "name": "megapunk - TSHA Remix",
       "url": "https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps"
@@ -2583,7 +2609,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 470564,
       "name": "Mood - Dole & Kom Remix",
       "url": "https://open.spotify.com/track/3ErdXxidIsTKoecR0OJkhN"
@@ -2769,7 +2795,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 286717,
       "name": "No Silence",
       "url": "https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO"
@@ -2795,7 +2821,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ"
@@ -2915,7 +2941,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 383872,
       "name": "One Trick Pony",
       "url": "https://open.spotify.com/track/5mPdbkpDQTlqt56HPptRhe"
@@ -3068,6 +3094,24 @@
     },
     {
       "album": {
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/5PWueW2Xlt87sSDhdpFObd"
+      },
+      "artists": [
+        {
+          "name": "Adam Stacks",
+          "url": "https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320342,
+      "name": "Palm Trees",
+      "url": "https://open.spotify.com/track/63j8rf1Qtn8UG1PZlvsWf2"
+    },
+    {
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/60cRGlAzSKXoCQNQoDP6Du"
       },
@@ -3187,7 +3231,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 479075,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
@@ -3257,7 +3301,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 464132,
       "name": "Restless Mind",
       "url": "https://open.spotify.com/track/1cWqKMY9UmPen1n6XH4byq"
@@ -3511,7 +3555,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 483962,
       "name": "Shinsetsu",
       "url": "https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV"
@@ -3577,6 +3621,28 @@
       "duration_ms": 423520,
       "name": "Signs Of A Swarm",
       "url": "https://open.spotify.com/track/4PJ1fHvANi7GC7JLsQNPmo"
+    },
+    {
+      "album": {
+        "name": "Silence & Secrets (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474093,
+      "name": "Silence & Secrets - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
     },
     {
       "album": {
@@ -3733,7 +3799,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 448524,
       "name": "Stellar Hearts",
       "url": "https://open.spotify.com/track/4hETDMTvvuvP9IgOnhkOVS"
@@ -3769,7 +3835,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 484645,
       "name": "Sun Salutations",
       "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
@@ -3889,7 +3955,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 228561,
       "name": "The Message - Radio Edit",
       "url": "https://open.spotify.com/track/3O8b0YaIjwIXLIpintKnAX"
@@ -3947,6 +4013,32 @@
       "duration_ms": 391125,
       "name": "Time Traveller",
       "url": "https://open.spotify.com/track/4wbLApI2Fm7Ach7ni0o9J4"
+    },
+    {
+      "album": {
+        "name": "To Be Written",
+        "url": "https://open.spotify.com/album/7I8uUuIpW3f8eEHKyI4hhi"
+      },
+      "artists": [
+        {
+          "name": "Marc DePulse",
+          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Lunar Plane",
+          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393442,
+      "name": "To Be Written - Lunar Plane Remix",
+      "url": "https://open.spotify.com/track/7mlLLaYWZEguKsMmMXOnrS"
     },
     {
       "album": {
@@ -4009,7 +4101,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 172809,
       "name": "Torn - Mat.Joe Remix",
       "url": "https://open.spotify.com/track/5faV7DcMghEwYC0rp6HHEG"
@@ -4089,7 +4181,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 488149,
       "name": "Unforgettable Times",
       "url": "https://open.spotify.com/track/3NbnrVeAX6uL7Yy754EJ6M"
@@ -4223,7 +4315,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 399888,
       "name": "Walk in the Wild",
       "url": "https://open.spotify.com/track/5DBoyXGI3NH05wNYPK0Mpq"
@@ -4263,7 +4355,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 401501,
       "name": "Walls Around Me",
       "url": "https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX"
@@ -4403,7 +4495,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 403505,
       "name": "What You Expected",
       "url": "https://open.spotify.com/track/77r4MAR9vAqQgRDH3NfcIr"
@@ -4475,7 +4567,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 382668,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/6aqhM9bUq6tdC9QUj3OXij"

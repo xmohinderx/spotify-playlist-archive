@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Cover: Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,686 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,708 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

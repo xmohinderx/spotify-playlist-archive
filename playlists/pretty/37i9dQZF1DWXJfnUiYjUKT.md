@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,275 likes - 101 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,380 likes - 101 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 56 | [Plenty](https://open.spotify.com/track/2ss1LPi7nbrzUKjxsRxkWH) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Whale Games](https://open.spotify.com/album/3GjJR2eVc3KOAzrB1uTnca) | 1:42 |
 | 57 | [Death n' Taxes](https://open.spotify.com/track/1g7IP3DUgprNzIljpsdAun) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Death n' Taxes](https://open.spotify.com/album/5hjj4vU1h3ItQCUMZdkEzE) | 2:31 |
 | 58 | [EVER AGAIN](https://open.spotify.com/track/6bVFrhyMHTWzRe5v5RTnSA) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [EVER AGAIN](https://open.spotify.com/album/02BP8qD2EHtYpi77uyG3PJ) | 2:36 |
-| 59 | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
+| 59 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
 | 60 | [WATER\. \(feat\. Bryce Vine\)](https://open.spotify.com/track/57Zhe3iZ0PGDXm5qpeoXIh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [WATER\. \(feat\. Bryce Vine\)](https://open.spotify.com/album/6rin0eQVQWe4kAA7tCLmyX) | 2:46 |
 | 61 | [Kind Of Girl](https://open.spotify.com/track/04cy0BQeW4ZDLspMIfpMLv) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Kind Of Girl](https://open.spotify.com/album/7M7Qc4c1qDMdrDWXtQ4NF7) | 4:06 |
 | 62 | [prom](https://open.spotify.com/track/1EtWJJbvPfmNsVDGOhTtSG) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [prom](https://open.spotify.com/album/3hsaSidYs7NWEn0c2ncIDA) | 3:20 |

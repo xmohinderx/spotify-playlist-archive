@@ -270,6 +270,28 @@
     },
     {
       "album": {
+        "name": "Body on Fire",
+        "url": "https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        },
+        {
+          "name": "NO\u00cbP",
+          "url": "https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "Body on Fire",
+      "url": "https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ"
+    },
+    {
+      "album": {
         "name": "Bora",
         "url": "https://open.spotify.com/album/3HaKdY1qynqmypOTsiLQUs"
       },
@@ -281,7 +303,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 183092,
       "name": "Bora",
       "url": "https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D"
@@ -861,7 +883,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Give It All Now",
       "url": "https://open.spotify.com/track/0DagTSqkS7UIYWJFBN1Up1"
@@ -1295,7 +1317,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 145833,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/0FDOviIZNbcgIQ5Djypzwv"
@@ -1397,7 +1419,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 160174,
       "name": "Knew That Second",
       "url": "https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt"
@@ -1583,7 +1605,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 151101,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/2LWFPBG7hlEpMy2b2LUu5A"
@@ -1857,7 +1879,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 159669,
       "name": "Mount Fuji",
       "url": "https://open.spotify.com/track/358JLcp3eGCfjlCvzoK00w"
@@ -1989,7 +2011,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 166080,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/2eU50HdqsZPXNBzKOdiwkV"
@@ -2209,7 +2231,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 154731,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
@@ -2389,7 +2411,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 158241,
       "name": "Seesaw",
       "url": "https://open.spotify.com/track/1uAj4hDjBtWly8NmC4zZoX"
@@ -2539,7 +2561,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 132571,
       "name": "Sun Screen",
       "url": "https://open.spotify.com/track/3noJl0ag90pcZMSUTbDt4q"
@@ -2579,7 +2601,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 228845,
       "name": "Sweet Nothings (feat. Minke)",
       "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
@@ -2663,7 +2685,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 145161,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/4ypvGTFFUV8yJasEl7toew"
@@ -3081,7 +3103,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 192125,
       "name": "We\u2019re Good",
       "url": "https://open.spotify.com/track/0i5Cko9s2HbUq6KCNPAq13"

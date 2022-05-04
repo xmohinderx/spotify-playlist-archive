@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Bloc Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,665 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,773 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 6 | [Mouth Shut \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/0fcGYLNBOEydUC79wZ70MM) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Mouth Shut](https://open.spotify.com/album/09GOubmt67sIzzVxhBe3VH) | 2:41 |
 | 7 | [The Alchemist](https://open.spotify.com/track/4d5ynlKOWa4xkQKiymfW8y) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [The Alchemist](https://open.spotify.com/album/4CVhH2aMXn5F2Pxytbi0tV) | 2:38 |
 | 8 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |
-| 9 | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
+| 9 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
 | 10 | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/track/5iYv4Kj9EEBMJRoFOlJWeb) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/album/5bIbXSqZjr3m6DBm6t7HPQ) | 3:45 |
 | 11 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 |
 | 12 | [Against the Timeline](https://open.spotify.com/track/5CUjeptwvWsnN8HR9A9sA0) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Against the Timeline](https://open.spotify.com/album/7tBaitQTmmuIYoPq1tv1n4) | 3:42 |

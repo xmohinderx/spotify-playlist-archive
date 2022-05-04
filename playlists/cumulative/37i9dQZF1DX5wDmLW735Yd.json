@@ -137,6 +137,28 @@
     {
       "album": {
         "name": "Back To Me",
+        "url": "https://open.spotify.com/album/6bXBnoY7S6n6274sx1Goco"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4OZpbYFj0cxtCNtXq937l3"
+    },
+    {
+      "album": {
+        "name": "Back To Me",
         "url": "https://open.spotify.com/album/3dM5PL2xuR0xnRdkxFk0Sj"
       },
       "artists": [
@@ -349,7 +371,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 231724,
       "name": "Blame You (feat. Dylan)",
       "url": "https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i"
@@ -393,7 +415,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 211162,
       "name": "Bourgeois Imagery",
       "url": "https://open.spotify.com/track/553ZWdi7tRpCWTk1LQ57R7"
@@ -411,7 +433,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/24abahS4tYAxt7lgSBk7Vc"
@@ -521,7 +543,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 244045,
       "name": "Catharsis X",
       "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
@@ -569,7 +591,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 157521,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/7ozVjHGiCPXJ8I9ktvWakW"
@@ -1111,7 +1133,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 192000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
@@ -1231,7 +1253,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 264827,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/75XqaG8cZRQMs1qHjU2UOf"
@@ -1289,7 +1311,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 203534,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/7q4fVHc05vJrMFayLV9Bw6"
@@ -1377,7 +1399,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 249384,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/3ZVanYYFDyY8odbBNUbhOM"
@@ -1399,7 +1421,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo"
@@ -1811,7 +1833,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 273103,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6xPMLRHQFWxZC9ylfRmdBk"
@@ -2145,7 +2167,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 312685,
       "name": "Overture",
       "url": "https://open.spotify.com/track/4AjiA5HkJVy59369f0Jjlk"
@@ -2167,7 +2189,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0yqU5tPByI1uLX5vIB7XO7"
@@ -2193,7 +2215,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 388439,
       "name": "Phukalupe",
       "url": "https://open.spotify.com/track/14Qh13evGAvlSoY9JeIgAs"
@@ -2215,7 +2237,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 257259,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg"
@@ -2467,7 +2489,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 240344,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/6ea7W4icINIl04UyRG2YLk"
@@ -2507,7 +2529,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
@@ -2529,7 +2551,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 246617,
       "name": "Self Made",
       "url": "https://open.spotify.com/track/0YMxtPDNnm6HB38mzwlyWJ"
@@ -2729,7 +2751,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 340114,
       "name": "Space Station - My Nu Leng Remix",
       "url": "https://open.spotify.com/track/1RvmCoxXbBAKMahU4oKEQN"
@@ -2751,7 +2773,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI"
@@ -2915,7 +2937,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 207964,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0ADQTVFIq9hOdfpWbCCEJM"
@@ -2933,7 +2955,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 266057,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
@@ -3133,7 +3155,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 285517,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/0yy4tAum7UPQgQe3K6LJuZ"
@@ -3191,7 +3213,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 274364,
       "name": "VENGEANCE",
       "url": "https://open.spotify.com/track/4TWzFH0TcuQlWYjQK7D6pb"
@@ -3217,7 +3239,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 281871,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/2ddp4ZorxoNXEqkAIZ7qIk"
@@ -3371,7 +3393,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 269000,
       "name": "When It Rains (feat. BackRoad Gee)",
       "url": "https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL"
@@ -3393,7 +3415,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 216637,
       "name": "Where\u2019s Your Head At - 1991 Remix",
       "url": "https://open.spotify.com/track/3MX0TGUzniV9GiEVEcjNqB"

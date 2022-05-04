@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: سيف نبيل
 
-104 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+105 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ani Msafir](https://open.spotify.com/track/6pcaL6VQLGbpMmFQDXzWUb) | [Zaid Al Habeb](https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK) | [Ani Msafir](https://open.spotify.com/album/0QusawiKu1PdGTfAgUHPr7) | 3:54 | 2021-12-23 | 2022-03-12 |
 | [Anta Ma TArtaah](https://open.spotify.com/track/11nTzsYhrE7eu4nIP6C12R) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Anta Ma TArtaah](https://open.spotify.com/album/0nZo9CQVD1dvXxrl27Y6Jc) | 3:09 | 2021-12-23 | 2022-03-12 |
 | [Arahen Bek](https://open.spotify.com/track/2CxAQ1mdOJLcYjriAucuTr) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Ghassan Barsim](https://open.spotify.com/artist/7DotftTLVBmBRACF8K1hK4) | [Arahen Bek](https://open.spotify.com/album/3JHnfBjf3BOkhL8QahUcVE) | 4:00 | 2021-12-23 | 2022-01-06 |
+| [Ared Ahebk](https://open.spotify.com/track/086RaoiNdWZofaL01JOOfF) | [Kais Hisham](https://open.spotify.com/artist/5NoDkAWBJIHHBhq2iBtmcn) | [Ared Ahebk](https://open.spotify.com/album/0o4ycxV0Wnj3vUkpojMmMo) | 3:22 | 2022-05-02 |  |
 | [Arfo Beh Ahebk](https://open.spotify.com/track/33htRNgoFDhdlRtiDj0Yp2) | [Ahmad AlKaisi](https://open.spotify.com/artist/2BySKMB8pGMBsjVd7AzcQa) | [Arfo Beh Ahebk](https://open.spotify.com/album/5v7qhW0KPrcXbAGwTg99Nm) | 3:23 | 2022-01-06 |  |
 | [Argalak Kama Kont](https://open.spotify.com/track/2zmQqYm3VvOXtpom1g2N2g) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Argalak Kama Kont](https://open.spotify.com/album/5u6ahHa7QC2LmKa3oOwHfE) | 3:02 | 2022-01-14 |  |
 | [Asab Khabar](https://open.spotify.com/track/7aqTO66MftpsIrF3WbCesB) | [Ahmad AlKaisi](https://open.spotify.com/artist/2BySKMB8pGMBsjVd7AzcQa) | [Asab Khabar](https://open.spotify.com/album/42g8gRlw4AnIfKwGjSUQsJ) | 3:12 | 2021-12-23 | 2022-03-12 |

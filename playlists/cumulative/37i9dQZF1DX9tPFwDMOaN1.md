@@ -4,7 +4,7 @@
 
 > New look and feel, same old playlist you love\. Let's turn on the movement! Cover: PSY, SUGA
 
-121 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
+122 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Beauty and the Beast](https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Beauty and the Beast](https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS) | 4:24 | 2022-01-12 | 2022-02-04 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 |  |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-16 |  |
+| [BUT YOU](https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:32 | 2022-05-03 |  |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-12-13 |  |
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-03-02 | 2022-03-22 |
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-01-17 | 2022-03-22 |

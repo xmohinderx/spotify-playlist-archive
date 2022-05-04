@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Sticky Fingers (Deluxe)",
+        "url": "https://open.spotify.com/album/1WDA6r4advRJalp0gJCoXv"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/5EcvzboYmDIfXo9gPplsSB"
+    },
+    {
+      "album": {
         "name": "By the Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
       },
@@ -207,6 +225,24 @@
       "duration_ms": 163106,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/24SGws6o7m3TzROMO5Qc0g"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
       "album": {
@@ -423,7 +459,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 208400,
       "name": "Highway to Hell",
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
@@ -459,7 +495,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 299760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
@@ -477,7 +513,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 299760,
       "name": "I Don't Want to Miss a Thing - From the Touchstone film, \"Armageddon\"",
       "url": "https://open.spotify.com/track/0c1gHntWjKD7QShC8s99sq"
@@ -765,7 +801,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 202266,
       "name": "Paint It, Black",
       "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
@@ -783,7 +819,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 253804,
       "name": "Piece Of My Heart",
       "url": "https://open.spotify.com/track/3PGAgwFWnFCisvjb3rLyuh"
@@ -837,7 +873,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 482830,
       "name": "Stairway to Heaven - Remaster",
       "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
@@ -873,7 +909,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 281147,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/4CJVkjo5WpmUAKp3R44LNb"
@@ -1057,7 +1093,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 210173,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"

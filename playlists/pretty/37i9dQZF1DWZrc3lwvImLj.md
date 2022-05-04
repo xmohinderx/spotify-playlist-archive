@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,279 likes - 150 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,389 likes - 150 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

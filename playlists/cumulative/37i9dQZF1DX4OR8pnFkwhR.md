@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ego apartment
 
-155 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+159 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [じゃなくて](https://open.spotify.com/track/1yGJ1NOkiLqe6WjCi71BeP) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [じゃなくて](https://open.spotify.com/album/3u1rsZNK17VrzKAWv3Oxu5) | 3:47 | 2022-04-21 |  |
 | [たそがれ](https://open.spotify.com/track/3R5XYQfseulmlAyOuIbuay) | [U\_A\_MI](https://open.spotify.com/artist/69q0Ekd40Ya3pFgQzj3JH9) | [たそがれ](https://open.spotify.com/album/3NddKq6qmuJw2zrBnZkI0g) | 4:36 | 2022-04-27 |  |
 | [はじまる](https://open.spotify.com/track/1CERFGNBkEUq68yxHyvGYs) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [はじまる](https://open.spotify.com/album/68xb9Fj47KT2j6YCerL0QL) | 3:47 | 2022-04-05 |  |
+| [ひかり](https://open.spotify.com/track/24qLak5ULUj0680uqueJOl) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ひかり](https://open.spotify.com/album/3LmFbVc7PaFeAMxonbW21A) | 3:47 | 2022-05-03 |  |
 | [ふらふら](https://open.spotify.com/track/0oTkCxdu7FGmc00WbnGofM) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [ふらふら](https://open.spotify.com/album/3Or1rjZO4SfB7kpxUDBif2) | 3:42 | 2022-02-17 | 2022-03-09 |
 | [ぼく](https://open.spotify.com/track/5E126Hhzr684Nr7iBt05o4) | [麗奈](https://open.spotify.com/artist/5DwNbc9qoOadKsP5btdj6O) | [ぼく](https://open.spotify.com/album/7ENSPxwDvZp4uUlxMwm1X4) | 4:17 | 2022-03-22 | 2022-04-13 |
 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 | 2022-02-17 | 2022-04-20 |
@@ -144,6 +145,7 @@
 | [水槽](https://open.spotify.com/track/2jkX2wsiII8YQTTF4jonwr) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [水槽](https://open.spotify.com/album/2KnIrC9vZylwYUfR52tTps) | 3:50 | 2022-02-22 |  |
 | [流星](https://open.spotify.com/track/1sfyQUatfN1kp6vSlKkx1C) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [流星](https://open.spotify.com/album/5FimuYQM8U4mpe763ms4g5) | 2:58 | 2022-03-08 | 2022-04-08 |
 | [流星群](https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [流星群](https://open.spotify.com/album/1NVfNGKoeTlThe7SMCooXT) | 3:09 | 2022-04-07 |  |
+| [海が満ちる](https://open.spotify.com/track/5Gb82b8WuY46kHCs8nykML) | [かりんちょ落書き](https://open.spotify.com/artist/7szylaibmQeGUetRKLVW65) | [海が満ちる](https://open.spotify.com/album/65UGPf7rbEiLJV0YqF8kMf) | 2:58 | 2022-05-03 |  |
 | [渋谷](https://open.spotify.com/track/6r7UWUoUuGwuF7WREfVPfW) | [イトハ](https://open.spotify.com/artist/2FvMNFgv7sVbpbA32TK2Mq) | [渋谷](https://open.spotify.com/album/7mL7yin2dbHNaCdMIcaKTA) | 4:16 | 2022-04-05 | 2022-04-13 |
 | [濡溶](https://open.spotify.com/track/7GW6IgNWf23xbwyQ3rfwNR) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [濡溶](https://open.spotify.com/album/0OSmMCfoplA3Rqpevs7Dqu) | 1:34 | 2022-02-22 | 2022-03-30 |
 | [灰になって空に舞う](https://open.spotify.com/track/0cv01P6YagCS2AzVJ7Zm53) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [灰になって空に舞う](https://open.spotify.com/album/42O4d68FPjGsellVrCxJBp) | 2:50 | 2022-04-12 |  |
@@ -155,6 +157,7 @@
 | [私小説](https://open.spotify.com/track/5yrcqOxTWVLOnT00AXeiNu) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [私小説](https://open.spotify.com/album/7FlKBxbdbMM2xPBGY2MoxY) | 4:13 | 2022-02-17 | 2022-03-16 |
 | [突然変異](https://open.spotify.com/track/7zockz49Ux0fDbly9D94BS) | [ろくようび](https://open.spotify.com/artist/4fESCyyS071fh8GJnSYpks) | [Quiz](https://open.spotify.com/album/25kXmupN03KW06qkPRp0y0) | 5:26 | 2022-04-04 |  |
 | [笑って透明人間](https://open.spotify.com/track/52d0HV5FhkjQxyWEuHFJ1D) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [光を投げていた](https://open.spotify.com/album/4r9IoFzX6ePXpmTJj5lh2B) | 3:16 | 2022-03-11 |  |
+| [舞台の上で](https://open.spotify.com/track/51SCBTWn7HbmBRPRHNB8Re) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA), [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [舞台の上で](https://open.spotify.com/album/4XYTZrIy61jFCIj0c4IoPB) | 3:38 | 2022-05-03 |  |
 | [良い男](https://open.spotify.com/track/2g74SClqazB7zd4td7LRcR) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [良い男](https://open.spotify.com/album/56UZYxV2Hcl1wQS0spUrHw) | 3:46 | 2022-02-17 | 2022-03-23 |
 | [花瓶](https://open.spotify.com/track/6P1utj8gYatYEPYLS0rPAp) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [花瓶](https://open.spotify.com/album/7lo3NwZ7X29kF9GffDGVB0) | 3:27 | 2022-04-27 |  |
 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 | 2022-03-17 | 2022-04-22 |
@@ -162,6 +165,7 @@
 | [銃の部品](https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [銃の部品](https://open.spotify.com/album/3lF7gg3xzznR7gL6IKm4LB) | 2:34 | 2022-04-19 |  |
 | [関係のない人](https://open.spotify.com/track/3WlAqL1Vaei9e84PDNh5FH) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [関係のない人](https://open.spotify.com/album/6gcvBSWLvo4zpdPYQDiZPS) | 3:33 | 2022-04-12 |  |
 | [雨の魔法](https://open.spotify.com/track/1lWVxJGW5s5LCNgO2mQB0v) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [雨の魔法](https://open.spotify.com/album/1zKpfBrMjF0bYj4ZGs5c7H) | 3:53 | 2022-04-28 |  |
+| [青を掬う](https://open.spotify.com/track/2917sge1opN5LbWy8IsIzu) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [青を掬う](https://open.spotify.com/album/28ZRPnbsRseTQvZWN8HFVE) | 3:59 | 2022-05-03 |  |
 | [面影](https://open.spotify.com/track/1xxQh8BSsVOcnSSMkLtJ0U) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [面影](https://open.spotify.com/album/4IZaX0XSU8FuSEs0ugX0tQ) | 3:47 | 2022-04-12 |  |
 
 \*This playlist was first scraped on 2022-02-21. Prior content cannot be recovered.

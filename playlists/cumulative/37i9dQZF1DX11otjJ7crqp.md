@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Khalid
 
-648 songs - 1 day 8 hr 21 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+649 songs - 1 day 8 hr 24 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Hero](https://open.spotify.com/track/5TMAescvs6Z6FlgQjfj3Vp) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Hero](https://open.spotify.com/album/7pFWRKpjaEFnX0gJSVQMIO) | 3:13 | 2022-02-04 | 2022-02-12 |
 | [Hesitate](https://open.spotify.com/track/2KUkySRQrwsevyS5mNBOu9) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [side by side we lie awake](https://open.spotify.com/album/6h5zcRHaGnOWGH35d47Ep4) | 2:40 | 2022-03-18 | 2022-03-26 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-02-04 | 2022-02-26 |
+| [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2022-05-03 |  |
 | [Holding My Breath](https://open.spotify.com/track/0XycLVdrmcN0gaGMGTrY8j) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [Holding My Breath](https://open.spotify.com/album/5VCrmIyHL1xO8e1liFXZFq) | 2:30 | 2022-04-01 | 2022-04-09 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-29 |  |
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-04-01 | 2022-04-23 |

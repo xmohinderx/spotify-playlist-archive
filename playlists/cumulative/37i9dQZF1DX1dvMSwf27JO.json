@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 173546,
       "name": "FREEZE",
       "url": "https://open.spotify.com/track/7cxJa9oiHeAwl4fkxVjBYC"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 236946,
       "name": "I'm Honestly Not a Gangster",
       "url": "https://open.spotify.com/track/2QXlFiKu516LyFVFJO6yqG"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 222357,
       "name": "Last Day On Earth",
       "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 255466,
       "name": "Vans",
       "url": "https://open.spotify.com/track/5pdUVaAfEOGSdc4GAuQgEp"
@@ -2269,6 +2269,28 @@
       "duration_ms": 220000,
       "name": "When I Get There",
       "url": "https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS"
+    },
+    {
+      "album": {
+        "name": "Where you are (feat. WILLOW)",
+        "url": "https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153706,
+      "name": "Where you are (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
     },
     {
       "album": {

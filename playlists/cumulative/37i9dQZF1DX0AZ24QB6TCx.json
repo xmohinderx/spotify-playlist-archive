@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 247136,
       "name": "11-11",
       "url": "https://open.spotify.com/track/6Gmazx7JDCdgQiSCTiYwIq"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 287986,
       "name": "AvA",
       "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 329095,
       "name": "Balearic Sea",
       "url": "https://open.spotify.com/track/7o0ahnxkovZvbwvg7YdMzi"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 192386,
       "name": "Best of Me - Album Mix",
       "url": "https://open.spotify.com/track/7zusjgCHs7kRzOX04YGaS8"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 343278,
       "name": "Clarion - Kiasmos Remix",
       "url": "https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 198000,
       "name": "CTG",
       "url": "https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 441056,
       "name": "Dan",
       "url": "https://open.spotify.com/track/3VSpNmnDxDjebe87gWn6cM"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Dreamt",
       "url": "https://open.spotify.com/track/2R7HWs9ZWX9WaM7rjIpbbS"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 184860,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2E78HhgMhRAYONtMktDgg7"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 394834,
       "name": "Feeling Down",
       "url": "https://open.spotify.com/track/2oy7IzuyTJqIG1OvUsmMsz"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 372500,
       "name": "Foxglove - PALLADIAN Remix",
       "url": "https://open.spotify.com/track/6mgD9X3y4hhy0mhKnlYF8B"
@@ -1381,10 +1381,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 324000,
       "name": "High Spirits",
       "url": "https://open.spotify.com/track/7zODCTu7UCXtGAMBChfBvp"
+    },
+    {
+      "album": {
+        "name": "Home (Remixes)",
+        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334867,
+      "name": "Holy - Frank Wiedemann Remix",
+      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
     },
     {
       "album": {
@@ -2061,7 +2083,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 252000,
       "name": "No Goodbye",
       "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
@@ -2145,7 +2167,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 278124,
       "name": "NO SKIN",
       "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
@@ -2338,6 +2360,24 @@
     },
     {
       "album": {
+        "name": "Out of Sight",
+        "url": "https://open.spotify.com/album/4Rf8S9GYuFKF2nc9ooS6kl"
+      },
+      "artists": [
+        {
+          "name": "Arutani",
+          "url": "https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370066,
+      "name": "Out of Sight",
+      "url": "https://open.spotify.com/track/61FSy3AZM9Q0nGdfXbnyGG"
+    },
+    {
+      "album": {
         "name": "Amniotic (Deluxe Version)",
         "url": "https://open.spotify.com/album/2fzzIFmdGD3JhapJYL9y3t"
       },
@@ -2441,7 +2481,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 474000,
       "name": "Pieces of You - Ron Flatter Remix",
       "url": "https://open.spotify.com/track/5Ws9mUDnRmZ0jgjU5dIqvc"
@@ -2535,7 +2575,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 333223,
       "name": "Quarantine - Original",
       "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
@@ -2615,7 +2655,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 231250,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3kKhaaIjqGMcOVhl5r36Ap"
@@ -2749,7 +2789,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 242773,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
@@ -2767,7 +2807,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 321276,
       "name": "Scarabaeus",
       "url": "https://open.spotify.com/track/6Zsf3CnoOS8X4r6ibSGHcv"
@@ -2876,6 +2916,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293701,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
+    },
+    {
+      "album": {
         "name": "Something About",
         "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
@@ -2923,7 +2981,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 340856,
       "name": "Spinnerei",
       "url": "https://open.spotify.com/track/3RPzB3zrl0WOaxfneOn1rH"
@@ -3075,7 +3133,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 230239,
       "name": "The Center Will Not Hold",
       "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
@@ -3155,7 +3213,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 358983,
       "name": "The Last Goodbye (feat. Bettye LaVette)",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
@@ -3407,7 +3465,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Unite",
       "url": "https://open.spotify.com/track/3oIybLlADYuhdinp3LB8Ct"
@@ -3425,7 +3483,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 237000,
       "name": "Unknown Colors",
       "url": "https://open.spotify.com/track/6WObyUzuwHeNGX3gbxRQtQ"
@@ -3655,7 +3713,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 227176,
       "name": "Yuregine Deprem",
       "url": "https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E"

@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO"
       },
@@ -5733,7 +5751,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 271840,
       "name": "I'M DAT N****",
       "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
@@ -7891,7 +7909,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -10011,7 +10029,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/0IdsoEg5mjXNqlrskkzWjl"
@@ -12647,7 +12665,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
@@ -13383,7 +13401,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 269693,
       "name": "\u00c1str\u00f3s (feat. BR\u00cdET)",
       "url": "https://open.spotify.com/track/2QVU4zCVdeOfIkrMQ07ze3"

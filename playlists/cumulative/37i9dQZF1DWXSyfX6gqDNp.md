@@ -4,7 +4,7 @@
 
 > Slow jazz for evening listening pleasure.
 
-113 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
+115 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,13 +12,14 @@
 | [A Hero Lives Another Day](https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0) | [Claudia Torrek](https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ) | [A Hero Lives Another Day](https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n) | 3:06 | 2021-12-14 |  |
 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2021-12-14 |  |
 | [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 | 2021-12-14 |  |
-| [Alone And I \- Remastered](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 | 2021-12-14 |  |
+| [Alone And I \- Remastered 2007](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 | 2021-12-14 |  |
 | [Alone at Night](https://open.spotify.com/track/4HljpOZkfoUT97Ia7K3DFf) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [Alone at Night](https://open.spotify.com/album/4Ch9O6W16gFXTeL8FoGQGd) | 2:59 | 2022-04-01 |  |
 | [Alone Together](https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 7:34 | 2022-02-03 |  |
 | [Am I Blue](https://open.spotify.com/track/2H9sFbaD7lixr8KrsXdiLh) | [Jiggs Whigham](https://open.spotify.com/artist/3Bzlk4ZlefSEhybdIYWEyr) | [Values](https://open.spotify.com/album/0KY9p5iJxvyXP1ruqNuc7M) | 4:47 | 2021-12-14 |  |
-| [And All Is Well Now](https://open.spotify.com/track/116Z8pydjYsREn2LWk7El7) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [And All Is Well Now](https://open.spotify.com/album/15D4tQlzbR4iCFPSF2DqTM) | 3:09 | 2021-12-14 |  |
+| [And All Is Well Now](https://open.spotify.com/track/116Z8pydjYsREn2LWk7El7) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [And All Is Well Now](https://open.spotify.com/album/15D4tQlzbR4iCFPSF2DqTM) | 3:09 | 2021-12-14 | 2022-05-04 |
 | [Bandängen](https://open.spotify.com/track/7HX0DryEZ4qOYEzVCF942E) | [Jazz Tonality](https://open.spotify.com/artist/7bUmkNAZbilFTnmG2lmU5t) | [Bandängen](https://open.spotify.com/album/7akZUKwJixzT2ey60dcaPR) | 2:30 | 2021-12-14 |  |
 | [Believe, Beleft, Below](https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 4:51 | 2021-12-14 |  |
+| [Bella's Smile](https://open.spotify.com/track/2YDm0hVUj1JGWqyRK6ERpP) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Baldwin's Tune](https://open.spotify.com/album/7BkeW5r0rPvAuIgnCLQD7F) | 3:11 | 2022-05-03 |  |
 | [Beneath The Pale Moonlight](https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Beneath The Pale Moonlight](https://open.spotify.com/album/1I3u82aRiglXALaR2FmcGP) | 4:11 | 2021-12-14 |  |
 | [Bianca](https://open.spotify.com/track/2T2dIV8coIPZ08ryHUYy6z) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Anyone Anytime](https://open.spotify.com/album/5zDjf9sEmqwqYrTbiQCM4F) | 3:28 | 2021-12-14 |  |
 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-01-05 |  |
@@ -99,7 +100,8 @@
 | [Spring Is Here](https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:09 | 2021-12-14 |  |
 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 | 2021-12-14 |  |
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2021-12-14 |  |
-| [Stop Look Desire](https://open.spotify.com/track/1Tkj4AH4GndygWAUMJOMa2) | [Ellie & The Bunch](https://open.spotify.com/artist/3KgAqkM5fxFxW17aBtZkBD) | [Stop Look Desire](https://open.spotify.com/album/0KolRqxySLkvZWxnBhETRX) | 3:07 | 2021-12-14 |  |
+| [Stop Look Desire](https://open.spotify.com/track/1Tkj4AH4GndygWAUMJOMa2) | [Ellie & The Bunch](https://open.spotify.com/artist/3KgAqkM5fxFxW17aBtZkBD) | [Stop Look Desire](https://open.spotify.com/album/0KolRqxySLkvZWxnBhETRX) | 3:07 | 2021-12-14 | 2022-05-04 |
+| [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 | 2022-05-03 |  |
 | [Tell Me When](https://open.spotify.com/track/0HG8WuIuukHhsonrn50qKk) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 5:06 | 2021-12-14 |  |
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2021-12-14 |  |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2021-12-14 |  |

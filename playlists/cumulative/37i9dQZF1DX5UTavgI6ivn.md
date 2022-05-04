@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Fonseca
 
-104 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
+105 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 | 2022-01-12 |  |
 | [Amor Pasajero](https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Amor Pasajero](https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls) | 2:32 | 2022-01-12 |  |
 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 | 2022-01-12 | 2022-02-03 |
+| [Babel](https://open.spotify.com/track/20G5CFb10eulCPFSLTIpt8) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Babel](https://open.spotify.com/album/07i1aBWmIFnWK5yRQDu3Gk) | 4:18 | 2022-05-04 |  |
 | [Bailar Contigo](https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bailar Contigo](https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf) | 3:40 | 2022-01-12 |  |
 | [Baloncito Viejo](https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Baloncito Viejo](https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe) | 2:50 | 2022-03-04 |  |
 | [Besos En Guerra](https://open.spotify.com/track/1d0c62VFYauOOgxZ2eFUxx) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Besos En Guerra](https://open.spotify.com/album/4XoiA4NiNcjYPmJV8INiQE) | 3:49 | 2022-01-12 |  |
@@ -94,7 +95,7 @@
 | [Sirena](https://open.spotify.com/track/1juHIWqgFiDFAKuEBP24Lt) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Sirena](https://open.spotify.com/album/66gJE320Be12GcqN7BKFk0) | 3:25 | 2022-01-12 |  |
 | [Solita](https://open.spotify.com/track/6oEs0qf6YpUD83rmjzm7Uh) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Solita](https://open.spotify.com/album/4EW2dho3P6ZhmhDVxNVtOp) | 3:31 | 2022-01-12 | 2022-03-05 |
 | [Solo](https://open.spotify.com/track/0shi1zFuDEXZS8FZcICyxd) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Solo](https://open.spotify.com/album/1ceDfxGH0jLRBQnpx6tlz3) | 2:56 | 2022-04-27 |  |
-| [Solo](https://open.spotify.com/track/5vA5zKaoFqbJ1uPi8rGeIr) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Solo](https://open.spotify.com/album/3uidpSvV0pe290g18HjbB4) | 3:27 | 2022-04-29 |  |
+| [Solo](https://open.spotify.com/track/5vA5zKaoFqbJ1uPi8rGeIr) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Solo](https://open.spotify.com/album/3uidpSvV0pe290g18HjbB4) | 3:27 | 2022-04-29 | 2022-05-04 |
 | [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-02-02 |  |
 | [Te Mando Flores](https://open.spotify.com/track/6OpHDI8lRiqHLqmUIYUxVr) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Corazon](https://open.spotify.com/album/7GZadm08rfMiYXhRHlv993) | 3:47 | 2022-01-12 |  |
 | [Te Tengo Ganas](https://open.spotify.com/track/3FhMGOGlgzEmgyzr54nhWy) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Te Tengo Ganas](https://open.spotify.com/album/1f2WGOxmrj7IT5CVQKhHUZ) | 3:30 | 2022-01-12 | 2022-02-03 |

@@ -9704,6 +9704,24 @@
     },
     {
       "album": {
+        "name": "MEAN!",
+        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143957,
+      "name": "MEAN!",
+      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
+    },
+    {
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },

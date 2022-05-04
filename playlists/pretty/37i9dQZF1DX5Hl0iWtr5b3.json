@@ -1,12 +1,12 @@
 {
   "description": "All your favorite tracks from Bridgerton.",
-  "num_followers": 716740,
+  "num_followers": 720425,
   "original_name": "Bridgerton: Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU0MDAzMywwMDAwMDAwMDJkYjM4NzNhYTcxZjY2NWNhYWQ3Y2ZhZDU3YjJiN2Uy",
+  "snapshot_id": "MTY1MTYyNjQ2NCwwMDAwMDAwMGM0NWQyYTU4ODBiYjFiNjNkNWNiODFjMDY5YWY1Mjky",
   "tracks": [
     {
       "added_at": "2022-03-25 07:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-03-25 07:00:00",
       "album": {
-        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
-      },
-      "artists": [
-        {
-          "name": "Kiris Houston",
-          "url": "https://open.spotify.com/artist/1xYtMP3MMtJRx99jXrTVKB"
-        }
-      ],
-      "duration_ms": 226433,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2qmWh0uDidLJ8yAlPOtq0g"
-    },
-    {
-      "added_at": "2022-03-25 07:00:00",
-      "album": {
         "name": "Bridgerton (Covers from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 203293,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP"
+    },
+    {
+      "added_at": "2022-03-25 07:00:00",
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Kiris Houston",
+          "url": "https://open.spotify.com/artist/1xYtMP3MMtJRx99jXrTVKB"
+        }
+      ],
+      "duration_ms": 226433,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2qmWh0uDidLJ8yAlPOtq0g"
     },
     {
       "added_at": "2022-03-25 07:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-03-25 07:00:00",
       "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/3oh7ZiaBgHj4sLxdMEUSJx"
+    },
+    {
+      "added_at": "2022-03-25 07:00:00",
+      "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 167609,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF"
-    },
-    {
-      "added_at": "2022-03-25 07:00:00",
-      "album": {
-        "name": "Bridgerton (Covers from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/3oh7ZiaBgHj4sLxdMEUSJx"
     },
     {
       "added_at": "2022-03-25 07:00:00",

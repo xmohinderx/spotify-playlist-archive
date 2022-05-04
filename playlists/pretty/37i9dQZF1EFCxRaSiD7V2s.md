@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370 likes - 217 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 217 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 216 | [Wow Wow Wow](https://open.spotify.com/track/1LexMbAap7y77uKFMtRr53) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:22 |
 | 217 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc1MjUxMTIsMDAwMDAwMDA5ZDgxM2ExNTE5ZGE2NmU3NmQwMWI0ZGY4ZjMxZjU0NA==`
+Snapshot ID: `Mjc1MjcwOTIsMDAwMDAwMDA4NDk0ODhmNDhlYjA5Njk5NWU2NmZiMmFiNzg0MTllZg==`

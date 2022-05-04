@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: Heo Hoy Kyung\(허회경\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,984 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,044 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 10 | [Now, I'm writing your song](https://open.spotify.com/track/5h5pxh80nDultDHx2cWTpk) | [Taeb2](https://open.spotify.com/artist/2PWVaWdOdocqnJhIdaGMRT) | [Now, I'm writing your song](https://open.spotify.com/album/6PaEwqWeVEuMd2VWNz2obe) | 3:04 |
 | 11 | [I'm not fine](https://open.spotify.com/track/1NtQo6lwlWEIohiXAw2SKY) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [I'm not fine](https://open.spotify.com/album/7jeodpRN0Veb4gEfxhAPP1) | 3:12 |
 | 12 | [Matrix<3](https://open.spotify.com/track/1fVA0U2ed6LhGC9ADynsJ7) | [Noizeegu](https://open.spotify.com/artist/6eLjOr4BzLerxxVuzLClOe) | [Matrix<3](https://open.spotify.com/album/1KEfk7HWYLhkJcItcgpVNf) | 3:06 |
-| 13 | [Far Away](https://open.spotify.com/track/55J7BBQJdrwETSLSwxdEWJ) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Far Away](https://open.spotify.com/album/4lkCObIzVTJ0xKsc7AoRqb) | 3:44 |
+| 13 | [Footsteps](https://open.spotify.com/track/55J7BBQJdrwETSLSwxdEWJ) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Footsteps](https://open.spotify.com/album/4lkCObIzVTJ0xKsc7AoRqb) | 3:44 |
 | 14 | [kyrie](https://open.spotify.com/track/28cZrg5bm25e5LcZJL8gFi) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [4pricøt](https://open.spotify.com/album/3t8eCpA20zjLJdAFdYAslp) | 2:59 |
 | 15 | [I hope](https://open.spotify.com/track/5ylBPTi0o2plQ4sFrhzd0s) | [Cheon Dan Bi](https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ) | [I hope](https://open.spotify.com/album/3rw63CsSL39xUhvW2yuEx2) | 3:50 |
 | 16 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 |

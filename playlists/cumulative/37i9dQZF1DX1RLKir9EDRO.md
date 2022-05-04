@@ -4,7 +4,7 @@
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Beliz Çizim: Isu Kim
 
-205 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
+206 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Koca Bir Hiçlik](https://open.spotify.com/track/72VbfdIsHkA7aWYn9QTlgs) | [ÖzgürCan](https://open.spotify.com/artist/6m1bPVZMf5Hsi8cgmEs1yy) | [Koca Bir Hiçlik](https://open.spotify.com/album/4YxmlNt9tK6GyH16qZqWT9) | 4:13 | 2021-12-03 | 2022-01-20 |
 | [Koşma Konuşma](https://open.spotify.com/track/1JAmfJqvS08LQeeRWP1Lbi) | [Dozi Ozovski](https://open.spotify.com/artist/5DaeHpsp3vSdhj6j5FqeIl), [Undermoz](https://open.spotify.com/artist/1cUpfLwp7a6HzfKuMvIOKP) | [Koşma Konuşma](https://open.spotify.com/album/5FBzaHPpQTvm8CxSfACljj) | 4:00 | 2022-03-17 |  |
 | [Kum Saati](https://open.spotify.com/track/5LXJGqxiDY4xDFiRoE3BVJ) | [Portre](https://open.spotify.com/artist/6Y9MGDMTkn35iTnJihRjVa) | [Kum Saati](https://open.spotify.com/album/0eeVFIhsYpJoWmB4GP79K9) | 3:49 | 2022-04-15 |  |
+| [Kurtar Beni](https://open.spotify.com/track/1oZ6w6YzxtaBah3ggwi2Hv) | [Billur Battal](https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu) | [Kurtar Beni](https://open.spotify.com/album/2jMbXrCDMP3kirzUVVHOAC) | 2:39 | 2022-05-03 |  |
 | [Kör Vakitler](https://open.spotify.com/track/2COPrl0Ya3YUu5qKC8S6aY) | [Nicelatte](https://open.spotify.com/artist/5QFWw9YCsZzcVF4FXRPpHu) | [Kör Vakitler](https://open.spotify.com/album/6arh8EeBo8qUi9S8i6oJlP) | 4:50 | 2021-12-03 | 2022-02-05 |
 | [kırlangıç](https://open.spotify.com/track/54HVkap19JtiOwTCFwb8uF) | [dündenberi](https://open.spotify.com/artist/58oTXqyd4ekc4Wbjy0bDd9) | [kırlangıç](https://open.spotify.com/album/3xazpikhXXEsI48UilVVxi) | 4:01 | 2021-12-03 | 2022-01-20 |
 | [Kız Güzel \- Acoustic Version](https://open.spotify.com/track/173Baezc2qopQ9IA75fQb5) | [Poşetimde Bir Somon](https://open.spotify.com/artist/0xoItt17FzjFLC3SyNFibQ) | [Kız Güzel \(Acoustic Version\)](https://open.spotify.com/album/4b8yWfe8Pd4qtcTU3I4VhE) | 3:04 | 2022-04-01 |  |

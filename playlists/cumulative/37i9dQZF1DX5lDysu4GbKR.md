@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Allen Stone
 
-115 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
+116 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/7iaAsve80WPfpQJbVIqmFm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [I Love You More Than You'll Ever Know \- Live at Dockside Studio](https://open.spotify.com/track/5MqHZeqdHCtR10jo7PfVAZ) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Home \(The Dockside Sessions\)](https://open.spotify.com/album/5jrSY1fqN4LL0Ju4OHciYE) | 5:26 | 2021-12-09 |  |
 | [i'm a builder \- outtake](https://open.spotify.com/track/4CFscxdRPWFZ37oObWY3ML) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [invisible](https://open.spotify.com/album/0DABQ84K1LcuqoPXjm1pv8) | 4:42 | 2021-12-09 | 2022-01-14 |
 | [If You Let Me \(acoustic\)](https://open.spotify.com/track/0uiD8QLovbwsuJPnIRqQWM) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [If You Let Me \(acoustic\)](https://open.spotify.com/album/3Rg1V0bGiMusD8yvXy8oR1) | 4:25 | 2021-12-09 |  |
+| [In Your Head](https://open.spotify.com/track/7CJ1Q5T9InemrShfg1mHAY) | [Shan Ako](https://open.spotify.com/artist/6e8tjWVoHdVq00RY4VetKL), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [God's Best](https://open.spotify.com/album/6qazaJgI2kR9ClXu0MsFAi) | 3:21 | 2022-05-03 |  |
 | [Insecure \- Live in Nashville](https://open.spotify.com/track/1xKTLrwGGxHhltkrDHd6N8) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Insecure \(Live In Nashville\)](https://open.spotify.com/album/3GS6nnMAWVavSdhcq7PLKS) | 3:07 | 2021-12-09 |  |
 | [Is This Love](https://open.spotify.com/track/4DNisbJkFrnE940piQZZa8) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/5F9dIlw7nEOIVpXk0sBnVg) | 4:04 | 2021-12-09 |  |
 | [Island \- Acoustic](https://open.spotify.com/track/5Uy03aUBj5VnFlUsAqee96) | [Jessica Domingo](https://open.spotify.com/artist/3ote0zYtTM5HzVyDKEJrzR) | [Island \(Acoustic\)](https://open.spotify.com/album/5jlDQfDkKGseLn7ZAyCB9E) | 3:32 | 2021-12-09 | 2022-04-15 |
@@ -114,7 +115,7 @@
 | [Trust in You](https://open.spotify.com/track/2MUKRBgYAQC6Wyi7htkrm8) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Trust in You](https://open.spotify.com/album/7j7lLvqDSAEMLjz9aH0G68) | 3:09 | 2021-12-09 |  |
 | [U Should](https://open.spotify.com/track/6L1yA61015sIz9Vd02gGHZ) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [U Should](https://open.spotify.com/album/477YeBAfUzOmqI2rPelNXP) | 4:04 | 2021-12-09 |  |
 | [Unaware](https://open.spotify.com/track/4JxbEjAkli1L1uppxive32) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/3qBXZkDcgHfptEbAw840wL) | 4:36 | 2021-12-09 |  |
-| [Up All Night \- Acoustic Version](https://open.spotify.com/track/0sF9rafYmmI4Kw8PCCRSFo) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Up All Night](https://open.spotify.com/album/1RlvoML4BfPSxFOqQCx4Gi) | 3:36 | 2021-12-09 |  |
+| [Up All Night \- Acoustic Version](https://open.spotify.com/track/0sF9rafYmmI4Kw8PCCRSFo) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Up All Night](https://open.spotify.com/album/1RlvoML4BfPSxFOqQCx4Gi) | 3:36 | 2021-12-09 | 2022-05-04 |
 | [Wait for You](https://open.spotify.com/track/0jjsLGCJmUzYRu6GKQqlR4) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Wait for You](https://open.spotify.com/album/2zdqd5mCgqHeDh6CR2PYLY) | 4:34 | 2021-12-09 | 2022-01-14 |
 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 | 2021-12-09 |  |
 | [What is Love](https://open.spotify.com/track/3NtgkbiePe3ccFyX5uOrGk) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [What is Love](https://open.spotify.com/album/5xqsx7KZjvgLJE2EcbAr9q) | 3:46 | 2021-12-09 |  |

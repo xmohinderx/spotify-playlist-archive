@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Alesso, Zara Larrson
 
-562 songs - 1 day 5 hr 17 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
+564 songs - 1 day 5 hr 24 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [999 \(with Camilo\)](https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [999 \(with Camilo\)](https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu) | 3:44 | 2021-08-28 | 2021-09-18 |
 | [@ my worst](https://open.spotify.com/track/0mHGftgYtmpH4y17T3VZ2E) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [@ my worst](https://open.spotify.com/album/6nai5PN6n6imja0Bg8n3OW) | 3:11 | 2021-08-14 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-08 | 2022-04-09 |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-03 |  |
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-11 | 2022-03-26 |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-09-04 |  |
 | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/6PxNpy8jOjyZ8aGCD58LpW) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [acting like that \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1) | 3:11 | 2020-12-04 | 2021-01-08 |
@@ -387,6 +388,7 @@
 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 | 2020-10-13\* | 2020-10-16 |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2021-04-10 | 2021-06-24 |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-05-22 | 2021-09-25 |
+| [Out of Time](https://open.spotify.com/track/6TZFNPSXXXBakzy5oUDQhc) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 3:34 | 2022-05-03 |  |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2021-08-14 |  |
 | [Overdrive](https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS) | 3:03 | 2021-02-26 | 2021-04-10 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-30 |  |

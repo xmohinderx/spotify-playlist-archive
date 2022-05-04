@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Mother Mother along with the top Rock songs you need to know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,620,657 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,620,814 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 2 | [Black Summer](https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:52 |
 | 3 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
 | 4 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
-| 5 | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
+| 5 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
 | 6 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 |
 | 7 | [.intoodeep.](https://open.spotify.com/track/5QhNhUBkNtz9f6NQLrv5A8) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\-](https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl) | 3:39 |
 | 8 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 |

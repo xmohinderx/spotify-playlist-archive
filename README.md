@@ -1745,7 +1745,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Most Necessary](/playlists/pretty/37i9dQZF1DX2RxBh64BHjQ.md)
 - [Mother Funk](/playlists/pretty/37i9dQZF1DXcyPBAlQvdpJ.md)
 - [Mother Nature](/playlists/pretty/37i9dQZF1DX4If4OqUyC8k.md)
-- [Mother's Day Love](/playlists/pretty/37i9dQZF1DWSoTL04mwiZp.md)
+- [Mother's Day](/playlists/pretty/37i9dQZF1DWSoTL04mwiZp.md)
 - [Motivation Mix](/playlists/pretty/37i9dQZF1DXdxcBWuJkbcy.md)
 - [Motivation Montage](/playlists/pretty/2f4rXblveCedKdU2adFgC8.md)
 - [Motown Family](/playlists/pretty/37i9dQZF1DX1en5gBpRe76.md)

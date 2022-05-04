@@ -416,6 +416,24 @@
     },
     {
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO"
       },
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 210000,
       "name": "Alusp\u00fckse",
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -5119,7 +5137,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 183902,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6sSq38pmQxG0YuvbipDoEi"
@@ -5649,7 +5667,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
@@ -5951,6 +5969,24 @@
       "duration_ms": 178024,
       "name": "Jano (feat. P\u00f5hja-Korea)",
       "url": "https://open.spotify.com/track/3vuh8be71eBtbydQrGJ8As"
+    },
+    {
+      "album": {
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
+      },
+      "artists": [
+        {
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
       "album": {
@@ -6917,7 +6953,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
@@ -9531,7 +9567,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 193030,
       "name": "pagasita peruus (aguascalientes)",
       "url": "https://open.spotify.com/track/5eJ7P2Wx8bMujs5T46yAlM"
@@ -9721,7 +9757,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 164962,
       "name": "Pargi 6",
       "url": "https://open.spotify.com/track/57ROYUybqh2ujlErrk3VL9"
@@ -11535,7 +11571,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 230388,
       "name": "SOS (Siimi Remix)",
       "url": "https://open.spotify.com/track/0AFmjTe9cGSWywqfa5fpuu"
@@ -12929,7 +12965,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 174240,
       "name": "u.",
       "url": "https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i"
@@ -14133,7 +14169,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 244365,
       "name": "Zick Zack",
       "url": "https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N"

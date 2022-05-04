@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Pabst
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,990 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,084 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
+| 1 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 |
 | 2 | [June Carter Cash \(Lost and Found\)](https://open.spotify.com/track/4c48jmCU5a2qg2hXelAZRt) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Pop Drunk Snot Bread](https://open.spotify.com/album/5mJh9svijKizHhXkf9167B) | 3:04 |
 | 3 | [Locker Room](https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Locker Room](https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194) | 3:43 |
 | 4 | [Oldest Daughter](https://open.spotify.com/track/2xnpoelpkXaxbtS5lHEHIi) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Oldest Daughter](https://open.spotify.com/album/0fSbo7YSSjigl9A125Uxhv) | 3:19 |

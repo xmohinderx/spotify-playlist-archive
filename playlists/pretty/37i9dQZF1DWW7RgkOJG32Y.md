@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending new and recent tracks from the last few months\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,100 likes - 114 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,392 likes - 114 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

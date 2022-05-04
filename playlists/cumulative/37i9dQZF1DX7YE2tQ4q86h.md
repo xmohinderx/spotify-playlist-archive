@@ -4,7 +4,7 @@
 
 > No sleep, bus, club, another club\. Like this? You'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover: Madison Rose
 
-112 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+113 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Headphones](https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Headphones](https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F) | 2:28 | 2022-03-25 |  |
 | [Higher \(feat\. Alex Newell\)](https://open.spotify.com/track/3x0oc9CVW5RwLx4EHW6JZk) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:07 | 2022-02-15 |  |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-03-18 |  |
+| [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2022-05-03 |  |
 | [Hot Crush Lover](https://open.spotify.com/track/0J0ba8kZZw6r4SItlHKGlU) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/3WAh5TuJY4ywrAtbKOupK5) | 3:13 | 2022-04-08 |  |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-02-15 |  |
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2022-02-15 |  |
@@ -62,7 +63,7 @@
 | [I Love You But I Love Me More](https://open.spotify.com/track/351FDCXLTRFLiSdKz8lY0j) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:43 | 2022-02-15 |  |
 | [I'd Rather Have Sex](https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:53 | 2022-04-15 |  |
 | [Impossible](https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Impossible](https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX) | 6:27 | 2022-02-15 |  |
-| [In The Dark](https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In The Dark](https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY) | 3:05 | 2022-02-15 |  |
+| [In The Dark](https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In The Dark](https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY) | 3:05 | 2022-02-15 | 2022-05-04 |
 | [It Gets Dark](https://open.spotify.com/track/5DxVRNrKQJkjibB6jmUhej) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [It Gets Dark](https://open.spotify.com/album/4jEjxmfyDepTh4ObH2qJtr) | 3:23 | 2022-03-11 |  |
 | [Jenny \(feat\. Kim Petras\)](https://open.spotify.com/track/6iKV3OxYyXJK1uAoZnKVMz) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Jenny \(feat\. Kim Petras\)](https://open.spotify.com/album/2Il5QGyrXg4WlV98sRWt7B) | 2:52 | 2022-02-15 |  |
 | [Kiss Me Right Now](https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI) | 4:00 | 2022-04-29 |  |

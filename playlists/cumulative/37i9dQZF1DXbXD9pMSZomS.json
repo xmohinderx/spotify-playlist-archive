@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 373974,
       "name": "008A1",
       "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 375000,
       "name": "100 reasons",
       "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 290431,
       "name": "1759 (Outro)",
       "url": "https://open.spotify.com/track/1s2JjSKiQNUwk7tR67ojnw"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 150750,
       "name": "A Big Life",
       "url": "https://open.spotify.com/track/7cCJyKpa73zXiFI9FPJgmi"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 285772,
       "name": "Alfa - Original Mix",
       "url": "https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 536480,
       "name": "All That Remains",
       "url": "https://open.spotify.com/track/6SWbKY7mrtDJnMq3yriudU"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 312304,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 428605,
       "name": "An Other One For Me",
       "url": "https://open.spotify.com/track/4LWiFuehm2uY3GK8q8sduT"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 245863,
       "name": "Back to My Place",
       "url": "https://open.spotify.com/track/1zlRyggzGQWbRCSMUCDjtu"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 345341,
       "name": "Business Rework - Felipe Gordon Rework",
       "url": "https://open.spotify.com/track/57E2x6NdqRtedmZsOuFOR4"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 235125,
       "name": "Can't see me",
       "url": "https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 208000,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
@@ -736,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Proto Emotions",
+        "url": "https://open.spotify.com/album/1oMj6TxhLp8oVUYciOS1MK"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397087,
+      "name": "Don't Think 'bout It",
+      "url": "https://open.spotify.com/track/4kYjqM8iwZGmUsiiFjmzab"
+    },
+    {
+      "album": {
         "name": "Beats On Boat: FloFilz",
         "url": "https://open.spotify.com/album/7cMaOzUsjQwkkZfOcpIuPz"
       },
@@ -747,7 +765,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 264984,
       "name": "Doorsteps",
       "url": "https://open.spotify.com/track/6EV84s3YMoU6prWqHlMD4X"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 368172,
       "name": "I'm Gonna Get You",
       "url": "https://open.spotify.com/track/1hnANA1tO5FrQuy8rXsO2x"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 150545,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/5AkRnos2tu8HKPX7ES0ohJ"
@@ -1219,7 +1237,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 381662,
       "name": "Kokiri Forest",
       "url": "https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 267326,
       "name": "LS Anthem",
       "url": "https://open.spotify.com/track/2XWMTMDNwFXhyixyVRGo47"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 202137,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3GcQOMGQ8cXwitx8Koe7NG"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 105071,
       "name": "Melatonin",
       "url": "https://open.spotify.com/track/4pMiSXlSsVtGWmSf7BbbvC"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 154814,
       "name": "Mellow Mornings",
       "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 268717,
       "name": "New Nkalo",
       "url": "https://open.spotify.com/track/7Cr69VwLjFKZqjFXRoxRUe"
@@ -1799,7 +1817,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 244363,
       "name": "Pastis",
       "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 117660,
       "name": "Polar Circle",
       "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
@@ -1933,7 +1951,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 128450,
       "name": "Pyrexia",
       "url": "https://open.spotify.com/track/3zczBLZYI46fBVs36Cr1ne"
@@ -1987,7 +2005,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 415999,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/48P4RxHWG5pklN7z0saJdT"
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 272698,
       "name": "Raining Outside",
       "url": "https://open.spotify.com/track/6l8Er0cKQkgreamtwBkr2j"
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 146949,
       "name": "SEX IS GOOD BUT HAVE U EVER",
       "url": "https://open.spotify.com/track/5Zoo5FV2AteC6zrFwGoukH"
@@ -2211,7 +2229,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 279719,
       "name": "Super Solid - Radio Edit",
       "url": "https://open.spotify.com/track/4F2r6VndVq8LC2ZoPPQMwP"
@@ -2301,7 +2319,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 293584,
       "name": "The Sayers",
       "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
@@ -2551,7 +2569,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-04",
       "duration_ms": 173000,
       "name": "Undergrowth",
       "url": "https://open.spotify.com/track/6FNAdNwaknBVkg4u7CSMTp"
@@ -2631,7 +2649,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 409619,
       "name": "Watarase - Henrik Schwarz Version",
       "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"

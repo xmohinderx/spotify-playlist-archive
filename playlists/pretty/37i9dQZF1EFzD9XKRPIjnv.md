@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,150 likes - 108 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151 likes - 108 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 107 | [Paradigm](https://open.spotify.com/track/3VX9HKHVjgyP0ttPleaRDE) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 3:24 |
 | 108 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc1MjUxMTIsMDAwMDAwMDBjNjk0YWNiYjg3NGRmMTllZDM3NGVlZmRjNzU5OTk1Mg==`
+Snapshot ID: `Mjc1MjcwOTIsMDAwMDAwMDA4OWNmYzAzM2U4NGYyYjA0MWQ1YWM2YjZmZDBkNTNkMQ==`
