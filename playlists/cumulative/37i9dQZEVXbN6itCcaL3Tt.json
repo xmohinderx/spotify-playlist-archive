@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-09",
+      "date_removed": null,
       "duration_ms": 301573,
       "name": "100 dni do matury",
       "url": "https://open.spotify.com/track/78L2RUFISfqkmZMTCLYQJC"
@@ -12795,7 +12795,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
@@ -13602,6 +13602,24 @@
     },
     {
       "album": {
+        "name": "Zegarek ze Szwajcarii",
+        "url": "https://open.spotify.com/album/3Tkhe88GUd78Dw1KD4HfQV"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189902,
+      "name": "Zegarek ze Szwajcarii",
+      "url": "https://open.spotify.com/track/6h0FK5TBm2ZMDYzh9xYisW"
+    },
+    {
+      "album": {
         "name": "ZEMSTA",
         "url": "https://open.spotify.com/album/0KmXbCAwEuLcRbBRb9elsK"
       },
@@ -13647,7 +13665,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 223200,
       "name": "ZEMSTA",
       "url": "https://open.spotify.com/track/6MFXlDBL1gbEuLaExXcOwI"

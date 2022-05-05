@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > 🚂  Aqui é só o trem caro do trap! Foto: MD Chefe, Negra Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,804 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,497 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 10 | [Filho do Dono](https://open.spotify.com/track/0EuRZKWzNptC1ZuIMFKLxz) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Filho do Dono](https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe) | 3:30 |
 | 11 | [CPX Ta Tega](https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [CPX Ta Tega](https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG) | 2:22 |
 | 12 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 |
-| 13 | [Cavalona](https://open.spotify.com/track/0v2Bc9YBplcdaBk7oEHliO) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Cavalona](https://open.spotify.com/album/3cDefGhhnYoqP5Bc8XDbqc) | 2:56 |
+| 13 | [Cavalona](https://open.spotify.com/track/0v2Bc9YBplcdaBk7oEHliO) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Cavalona](https://open.spotify.com/album/3cDefGhhnYoqP5Bc8XDbqc) | 2:56 |
 | 14 | [Matemática](https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:14 |
 | 15 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 |
 | 16 | [Aliança](https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Coração Terra de Ninguém](https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy) | 5:18 |

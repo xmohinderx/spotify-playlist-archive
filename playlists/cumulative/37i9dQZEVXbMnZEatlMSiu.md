@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-380 songs - 23 hr 23 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+382 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Fall](https://open.spotify.com/track/0kHrf7gLiWjvgZTbJRbyYp) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Fall](https://open.spotify.com/album/1cdWnSFAbV6maLHq391an1) | 2:28 | 2021-08-19 | 2021-09-04 |
 | [Fall in Love](https://open.spotify.com/track/406KPQqXM4AQlT5KSmFcvG) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Fall in Love](https://open.spotify.com/album/0VVLT0MV0GlFNKLYjxmgP7) | 3:21 | 2021-04-23 | 2021-05-24 |
 | [FatBoyGang](https://open.spotify.com/track/0BSgcbVCu2za7urWWfEqxA) | [大淵 MUTA](https://open.spotify.com/artist/4pWDJ1CIEJGf6AzU1HIDgM) | [Fat Boy Gang](https://open.spotify.com/album/3L1l5bekhtj1EMW66MGeUs) | 2:51 | 2021-04-24 | 2021-04-29 |
+| [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-04 |  |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-22 | 2022-04-17 |
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-04 | 2021-04-18 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-26 |  |
@@ -232,7 +233,7 @@
 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 | 2022-01-05 | 2022-01-21 |
 | [你不屬於我 \- 《比悲傷更悲傷的故事》影集版片尾曲](https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [你不屬於我 \(《比悲傷更悲傷的故事》影集版片尾曲\)](https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv) | 5:22 | 2021-10-23 |  |
 | [你不知道的事](https://open.spotify.com/track/1QcaGSikGJLo09xN19BZdc) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [十八般武藝](https://open.spotify.com/album/2c2US10YDd76wr25ctgejQ) | 4:39 | 2021-12-19 | 2021-12-26 |
-| [你夠了](https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [你夠了](https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ) | 3:21 | 2022-04-21 |  |
+| [你夠了](https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [你夠了](https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ) | 3:21 | 2022-04-21 | 2022-05-05 |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 | 2022-04-08 |
 | [你的答案](https://open.spotify.com/track/4QWSICaQ6LGmcS8qX9lNVh) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [你的答案](https://open.spotify.com/album/05nfv9HHHKkKWoNDGQSNNb) | 3:39 | 2021-11-05 | 2021-12-16 |
 | [倒流时间](https://open.spotify.com/track/0s46SmBykd4tqLxJ9AT7eB) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [倒流时间](https://open.spotify.com/album/6DdWMOdkrnUORonnh8Xkhk) | 3:08 | 2021-12-28 | 2022-01-12 |
@@ -274,7 +275,7 @@
 | [妹妹](https://open.spotify.com/track/3HLALO7VlxrTcWWQaAs6Ae) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [EARTHBOUND](https://open.spotify.com/album/3lHtaWlEUfb7unlRMyVx23) | 2:51 | 2022-02-17 | 2022-04-15 |
 | [妹妹](https://open.spotify.com/track/0aue1Pz7kyJ1vLRlaCMxTx) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [妹妹 Mei Mei](https://open.spotify.com/album/6dvJUaTLVKGsVXT1DDTGz4) | 2:51 | 2022-01-08 | 2022-02-18 |
 | [孤勇者 \- 《英雄聯盟:雙城之戰》動畫劇集中文主題曲](https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [孤勇者 \(《英雄聯盟:雙城之戰》動畫劇集中文主題曲\)](https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp) | 4:16 | 2022-04-07 |  |
-| [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/track/4MVBHALfwiy44u5s4Y1TY0) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/album/1VVAlZiFxfPpaod1qG8nUh) | 4:06 | 2022-04-27 |  |
+| [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/track/4MVBHALfwiy44u5s4Y1TY0) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/album/1VVAlZiFxfPpaod1qG8nUh) | 4:06 | 2022-04-27 | 2022-05-05 |
 | [寂寞留白 \(電影《揚名立萬》推廣曲\)](https://open.spotify.com/track/3PTrVhOpgCSjjbuTCF2lFz) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [寂寞留白](https://open.spotify.com/album/53qPOdnZTvDYCfqbAUtP7C) | 4:22 | 2021-11-22 | 2021-12-04 |
 | [寫一條歌,寫你我爾爾](https://open.spotify.com/track/3EohByRFmkLh1Upve1UpSC) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB), [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [舞台](https://open.spotify.com/album/3J4wraaHCpQvLYofNxH51f) | 4:51 | 2021-04-09 | 2021-06-21 |
 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 | 2021-12-10 |  |
@@ -347,6 +348,7 @@
 | [稱職](https://open.spotify.com/track/4rGmfL85pgfnInGd7TWGoN) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [稱職](https://open.spotify.com/album/59oYBzmP7hyCBSIr4v6OXH) | 4:14 | 2021-09-18 | 2021-09-24 |
 | [精神分裂](https://open.spotify.com/track/37f3lHvINSdzriJeBNTuJY) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [2622](https://open.spotify.com/album/4FsfJ4W3zxBFfkiBNUpdo6) | 2:37 | 2021-09-02 | 2021-10-16 |
 | [終究還是因為愛](https://open.spotify.com/track/53yiHIP3ptxWtT4ambRcgb) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4) | [Holy Trip!](https://open.spotify.com/album/4xI5LoEWLxoTm4DNa4fSUn) | 4:45 | 2021-09-30 |  |
+| [終究還是因為愛 \(REMIX\) \[feat\. 李浩瑋, PIZZALI, 陳忻玥, G5SH\]](https://open.spotify.com/track/6gmhokBDn6wPYNmlMdhIdw) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [終究還是因為愛 \(REMIX\) \[feat\. 李浩瑋, PIZZALI, 陳忻玥, G5SH\]](https://open.spotify.com/album/7lShWVtu3VipTPnB4p4Itj) | 5:22 | 2022-05-04 |  |
 | [終點起點](https://open.spotify.com/track/2rmsL9k7LneLszZFBo1H6f) | [魚丁糸](https://open.spotify.com/artist/4TGQEYGf6Pu4tpMNGQ4tOR) | [終點起點](https://open.spotify.com/album/4GxI9OZ4YRwDSca6X1AEAQ) | 5:02 | 2021-06-27 | 2021-07-16 |
 | [縱橫四海](https://open.spotify.com/track/46ALtWhiHtNpJVrr3pfcut) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/3J7Fpv3maowZeSOcX3ZLju) | 4:01 | 2021-07-23 | 2021-08-12 |
 | [繞 \- 原創影集《火神的眼淚》片尾曲](https://open.spotify.com/track/2XyCniKJUGKglRg01aehRn) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [繞 \(原創影集《火神的眼淚》片尾曲\)](https://open.spotify.com/album/33PYcY5m2zHwJ32YtMYRQp) | 4:27 | 2021-05-27 | 2021-06-19 |

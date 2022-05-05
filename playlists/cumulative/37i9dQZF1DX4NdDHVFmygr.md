@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-97 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+98 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Ana Wiyak](https://open.spotify.com/track/6DLEP9WL1MAoDqFDWAIch5) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Maria Nadim](https://open.spotify.com/artist/3e5UC7VlCSt4DLxmXCYXZe) | [Ana Wiyak](https://open.spotify.com/album/62xt9zSogidX80GRNfLZZ6) | 2:58 | 2021-12-25 | 2022-01-12 |
 | [Ayay](https://open.spotify.com/track/44DBAjWwzFlUY2361xh6BW) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [R&B KINGZ](https://open.spotify.com/album/3568mNTIRB9KzRLFBYWCBh) | 3:05 | 2021-12-25 | 2022-03-09 |
 | [Ba9i Ghadi](https://open.spotify.com/track/1H6QL0ZZQE6PGEjIK6PquR) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Marjana](https://open.spotify.com/artist/5RYnsnyAY3olfaIWVVcjP5) | [Ba9i Ghadi](https://open.spotify.com/album/4B3gXNiT4cwYk0ncSimlSI) | 2:56 | 2021-12-25 | 2022-02-10 |
-| [BABA](https://open.spotify.com/track/7wx8mijv8TXROYv2WZ2oTM) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [BABA](https://open.spotify.com/album/1vNjVDbX6zT8eGXg5fKbwj) | 3:00 | 2021-12-25 |  |
+| [BABA](https://open.spotify.com/track/7wx8mijv8TXROYv2WZ2oTM) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [BABA](https://open.spotify.com/album/1vNjVDbX6zT8eGXg5fKbwj) | 3:00 | 2021-12-25 | 2022-05-05 |
 | [Bayen](https://open.spotify.com/track/6GW9c4VOXzxfODQEVtkaP7) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Bayen](https://open.spotify.com/album/7338ZC7BoYblLtLrQlDhcE) | 3:18 | 2022-03-17 | 2022-04-19 |
 | [Bianco](https://open.spotify.com/track/2EdXbgelxBBEiNvRb3fpLv) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv), [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Bianco](https://open.spotify.com/album/3y9ruR0EtvfUOaYUIBITs4) | 2:06 | 2021-12-25 | 2022-02-08 |
 | [Cariño](https://open.spotify.com/track/43WGG3jUSVGStwAByFIKkC) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Cariño](https://open.spotify.com/album/2mLtZR6hCt81DOYsiWkniJ) | 3:02 | 2021-12-25 | 2022-01-25 |
@@ -70,6 +70,7 @@
 | [Marfoud](https://open.spotify.com/track/56Bs6dWaxizARR9y1Ghs5y) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Marfoud](https://open.spotify.com/album/0xaytxkgDNmIjvnh1pCQ9p) | 3:23 | 2021-12-25 | 2022-03-15 |
 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2021-12-25 |  |
 | [Mmi Lalla](https://open.spotify.com/track/7nsSXzC5emf376CWUkn8Sw) | [Khalifa](https://open.spotify.com/artist/19qkQqETJstZ0IOcVoZhUJ) | [Mmi Lalla](https://open.spotify.com/album/7yIchg5XojEvKS3lYnZd4L) | 3:27 | 2022-01-24 | 2022-04-16 |
+| [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 | 2022-05-04 |  |
 | [Nabra](https://open.spotify.com/track/4zrKP7AehgyJaU8jGIGvPQ) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Nabra](https://open.spotify.com/album/7Mj2Go09HnPewEFgyOlral) | 3:40 | 2021-12-25 | 2022-01-04 |
 | [Nada Nada \(feat\. Chawki\)](https://open.spotify.com/track/1lF775PA7nBwkYW0jEQlyk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [MON VOYAGE](https://open.spotify.com/album/4tCCEyA2VMRbda3WAsMAqy) | 3:08 | 2021-12-25 | 2022-01-08 |
 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 | 2021-12-25 |  |

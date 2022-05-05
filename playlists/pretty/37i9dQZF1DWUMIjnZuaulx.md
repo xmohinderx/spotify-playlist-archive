@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Karima
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,101 likes - 99 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,236 likes - 99 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 7 | [Positive](https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Positive](https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC) | 3:31 |
 | 8 | [All in Your Hands](https://open.spotify.com/track/4u841f1ewKUqDUWdjIoeSf) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [All in Your Hands](https://open.spotify.com/album/5jntu2u3T6W0fvlB7SMto2) | 4:35 |
 | 9 | [House of the Lord](https://open.spotify.com/track/2Ikc7DnYoVnXxdsL4rFkRs) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [House of the Lord](https://open.spotify.com/album/3ZyVz0tykiXHBpkRN5x6yy) | 4:12 |
-| 10 | [Canvas and Clay \(feat\. DOE & Jonathan Traylor\)](https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 8:42 |
+| 10 | [Canvas & Clay \(King of My Heart\) \[feat\. DOE & Jonathan Traylor\]](https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 8:42 |
 | 11 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl) | 9:58 |
 | 12 | [House of the Lord \(No Limits\)](https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Alive & Well: No Limits](https://open.spotify.com/album/5wogFi882sOPdMXJqxVMP6) | 4:10 |
 | 13 | [My Portion](https://open.spotify.com/track/0YnO0NlWKxEKHeOhfKARQx) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [My Portion](https://open.spotify.com/album/6C58XmJvIcml1Wgez0Ad8C) | 4:10 |

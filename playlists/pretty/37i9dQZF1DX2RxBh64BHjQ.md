@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of generation next\. Cover: PGF Nuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,626,746 likes - 98 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,627,128 likes - 98 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

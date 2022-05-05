@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 695759,
+  "num_followers": 695912,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTYyNjY0NywwMDAwMDAwMGVjNGFjNTljZTI3NTcwOWFjMTc5YmI2NjM3NzM1Yzlm",
+  "snapshot_id": "MTY1MTcxMjk3MSwwMDAwMDAwMDA0NThhMDdkYjM5M2U0YzEwOWJkOGZjMDhkMDAwNmU4",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -71,18 +71,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
         }
       ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
+      "duration_ms": 210373,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -99,6 +99,22 @@
       "duration_ms": 318521,
       "name": "Neva Gonna Break My Heart Again",
       "url": "https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -131,30 +147,6 @@
       "duration_ms": 204055,
       "name": "Love, Love, Love",
       "url": "https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "People Get Ready (From \"I Can't Breathe / Music For the Movement\")",
-        "url": "https://open.spotify.com/album/0MmKsaUxCz8XZrwKoLSFDG"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 214548,
-      "name": "People Get Ready - From \"I Can't Breathe / Music For the Movement\"",
-      "url": "https://open.spotify.com/track/3LERAXOWvNVreOnYySWU7U"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -207,34 +199,42 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd"
+        "name": "Table For Two",
+        "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
       },
       "artists": [
         {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 210373,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo"
+      "duration_ms": 302240,
+      "name": "How Much Can A Heart Take (feat. Yebba)",
+      "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Same Girl",
-        "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
+        "name": "The Piano Album",
+        "url": "https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW"
       },
       "artists": [
         {
-          "name": "Tess Henley",
-          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 182751,
-      "name": "Same Girl",
-      "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
+      "duration_ms": 244620,
+      "name": "How Deep Is Your Love - Acoustic Version",
+      "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -295,22 +295,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Louie Bag (feat. Smino)",
-        "url": "https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ"
+        "name": "Same Girl",
+        "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "Tess Henley",
+          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
         }
       ],
-      "duration_ms": 227756,
-      "name": "Louie Bag (feat. Smino)",
-      "url": "https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4"
+      "duration_ms": 182751,
+      "name": "Same Girl",
+      "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -331,18 +327,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "DARLING",
-        "url": "https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb"
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
       },
       "artists": [
         {
-          "name": "DIXSON",
-          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 218704,
-      "name": "DARLING",
-      "url": "https://open.spotify.com/track/5rrTie8d13kxtK8S6JOgyQ"
+      "duration_ms": 256542,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -363,22 +359,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "The Piano Album",
-        "url": "https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW"
+        "name": "Louie Bag (feat. Smino)",
+        "url": "https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ"
       },
       "artists": [
         {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         },
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 244620,
-      "name": "How Deep Is Your Love - Acoustic Version",
-      "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
+      "duration_ms": 227756,
+      "name": "Louie Bag (feat. Smino)",
+      "url": "https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -407,42 +403,38 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Ledisi Sings Nina",
-        "url": "https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc"
+        "name": "DARLING",
+        "url": "https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+          "name": "DIXSON",
+          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
         }
       ],
-      "duration_ms": 219436,
-      "name": "My Baby Just Cares for Me",
-      "url": "https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA"
+      "duration_ms": 218704,
+      "name": "DARLING",
+      "url": "https://open.spotify.com/track/5rrTie8d13kxtK8S6JOgyQ"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Table For Two",
-        "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         },
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 302240,
-      "name": "How Much Can A Heart Take (feat. Yebba)",
-      "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
+      "duration_ms": 180095,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -483,38 +475,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "summer night o8",
-        "url": "https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw"
-      },
-      "artists": [
-        {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        }
-      ],
-      "duration_ms": 203158,
-      "name": "summer night o8",
-      "url": "https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Wake Up Everybody (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
-        "url": "https://open.spotify.com/album/7tOdvzx7uCAsjdrKvkEZZL"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Wake Up Everybody - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
-      "url": "https://open.spotify.com/track/0SXc07eEULCarnpq6pSrPD"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -531,62 +491,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "All About You",
-        "url": "https://open.spotify.com/album/36Lr1Ipl7w3gn0NdZbRcge"
+        "name": "summer night o8",
+        "url": "https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
         }
       ],
-      "duration_ms": 180095,
-      "name": "All About You",
-      "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Take Me Away (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Take Me Away (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Love Is The New Black",
-        "url": "https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 395493,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c"
+      "duration_ms": 203158,
+      "name": "summer night o8",
+      "url": "https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -607,66 +523,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-        "url": "https://open.spotify.com/album/5QIrCVTrODMsB5XIBrPvGz"
+        "name": "Take Me Away (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
       },
       "artists": [
         {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 191482,
-      "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-      "url": "https://open.spotify.com/track/72PM6IPh11h6akXKzMJs3q"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
-      },
-      "artists": [
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        },
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 256542,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Footsteps in the Dark Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 317992,
-      "name": "Footsteps in the Dark Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "then, now & again",
-        "url": "https://open.spotify.com/album/5CitFeZFJGYkgdH8EhIHta"
-      },
-      "artists": [
-        {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "Break Me",
-      "url": "https://open.spotify.com/track/03XDjkWj7ME04UpDyAjg8Q"
+      "duration_ms": 172493,
+      "name": "Take Me Away (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -703,8 +575,84 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
+        "name": "Love Is The New Black",
+        "url": "https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 395493,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "People Get Ready (From \"I Can't Breathe / Music For the Movement\")",
+        "url": "https://open.spotify.com/album/0MmKsaUxCz8XZrwKoLSFDG"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 214548,
+      "name": "People Get Ready - From \"I Can't Breathe / Music For the Movement\"",
+      "url": "https://open.spotify.com/track/3LERAXOWvNVreOnYySWU7U"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Wake Up Everybody (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
+        "url": "https://open.spotify.com/album/7tOdvzx7uCAsjdrKvkEZZL"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Wake Up Everybody - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
+      "url": "https://open.spotify.com/track/0SXc07eEULCarnpq6pSrPD"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Footsteps in the Dark Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 317992,
+      "name": "Footsteps in the Dark Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+        "url": "https://open.spotify.com/album/5QIrCVTrODMsB5XIBrPvGz"
       },
       "artists": [
         {
@@ -712,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 215852,
-      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
+      "duration_ms": 191482,
+      "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+      "url": "https://open.spotify.com/track/72PM6IPh11h6akXKzMJs3q"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -735,6 +683,58 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
+        }
+      ],
+      "duration_ms": 255109,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Like You'll Never See Me Again",
+        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "Like You'll Never See Me Again",
+      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Slow Down (Acoustic)",
+        "url": "https://open.spotify.com/album/6oucPVEBijDE1a4Ef2vEU4"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 251920,
+      "name": "Slow Down - Acoustic",
+      "url": "https://open.spotify.com/track/3ugCSRkkewHctDELil9Ixq"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -751,102 +751,98 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Brown Angel",
-        "url": "https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG"
+        "name": "Good & Plenty",
+        "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
       "artists": [
         {
-          "name": "Tamaraebi",
-          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Brown Angel",
-      "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "The Best Things",
-        "url": "https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t"
-      },
-      "artists": [
-        {
-          "name": "Kindred The Family Soul",
-          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
-        }
-      ],
-      "duration_ms": 196608,
-      "name": "The Best Things",
-      "url": "https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Every Word (feat. Krysten Simone)",
-        "url": "https://open.spotify.com/album/7yk8zzo9gYc0GvfAENJsOc"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         },
         {
-          "name": "Krysten Simone",
-          "url": "https://open.spotify.com/artist/0hn6MIbOu7wcJcTpLD5KfQ"
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
         }
       ],
-      "duration_ms": 167790,
-      "name": "Every Word (feat. Krysten Simone)",
-      "url": "https://open.spotify.com/track/5NyONMWLkVKu8Mcgjn20aq"
+      "duration_ms": 204705,
+      "name": "Good & Plenty",
+      "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Don't You Forget",
-        "url": "https://open.spotify.com/album/7pY34q52m9JmtddVGL8UZx"
+        "name": "Ledisi Sings Nina",
+        "url": "https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc"
       },
       "artists": [
         {
-          "name": "Louis York",
-          "url": "https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
         }
       ],
-      "duration_ms": 318666,
-      "name": "Don't You Forget",
-      "url": "https://open.spotify.com/track/6QafQW90SRQSC3ZTFg4pGt"
+      "duration_ms": 219436,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
+        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
       },
       "artists": [
         {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 185198,
-      "name": "Bitch Don't Be Mad",
-      "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
+      "duration_ms": 215852,
+      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/12cGytJRlgjkILDYLB7tdD"
+        "name": "Running Outta Love (feat. Tori Kelly)",
+        "url": "https://open.spotify.com/album/5Or2V3ZWeIcdpnrFwCn1Wp"
       },
       "artists": [
         {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
         }
       ],
-      "duration_ms": 335731,
-      "name": "Last Request",
-      "url": "https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53"
+      "duration_ms": 265586,
+      "name": "Running Outta Love (feat. Tori Kelly)",
+      "url": "https://open.spotify.com/track/5jYF7Xmvmn7sNjtuPXaXfQ"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Addicted (Acoustic)",
+        "url": "https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 185129,
+      "name": "Addicted (Acoustic)",
+      "url": "https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -867,18 +863,34 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Addicted (Acoustic)",
-        "url": "https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh"
+        "name": "Don't You Forget",
+        "url": "https://open.spotify.com/album/7pY34q52m9JmtddVGL8UZx"
       },
       "artists": [
         {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+          "name": "Louis York",
+          "url": "https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb"
         }
       ],
-      "duration_ms": 185129,
-      "name": "Addicted (Acoustic)",
-      "url": "https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY"
+      "duration_ms": 318666,
+      "name": "Don't You Forget",
+      "url": "https://open.spotify.com/track/6QafQW90SRQSC3ZTFg4pGt"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/7pkzpOwaF7sgUQqbeneNnJ"
+      },
+      "artists": [
+        {
+          "name": "D.Folks",
+          "url": "https://open.spotify.com/artist/4tQP0JjpxmNplCt2HFzZmI"
+        }
+      ],
+      "duration_ms": 199789,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/0BvetzkxZsWj6hgSaHtTRd"
     }
   ],
   "unique_name": "Soul Coffee",

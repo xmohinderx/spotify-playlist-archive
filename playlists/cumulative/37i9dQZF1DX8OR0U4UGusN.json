@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "3 More Wishes",
+        "url": "https://open.spotify.com/album/7zVb0ohAlTKYMXmHTbKcew"
+      },
+      "artists": [
+        {
+          "name": "Froogle",
+          "url": "https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "3 More Wishes",
+      "url": "https://open.spotify.com/track/0K3qrcFbCALwFVfuo1Hzfl"
+    },
+    {
+      "album": {
         "name": "All Hallows Grieve",
         "url": "https://open.spotify.com/album/7Bq7CAwEJ1BxTcMAEvypFm"
       },
@@ -95,10 +113,28 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 197818,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/5UBCzEjj6I6nQt6nKzbpcw"
+    },
+    {
+      "album": {
+        "name": "anymore",
+        "url": "https://open.spotify.com/album/7l5LuCySWubSnrRV7P7doi"
+      },
+      "artists": [
+        {
+          "name": "Grace Sanders",
+          "url": "https://open.spotify.com/artist/2aDcf64iS2QBTPjBKkkBBL"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279339,
+      "name": "anymore",
+      "url": "https://open.spotify.com/track/7AJZthxqKgdpNmoeo0QSwV"
     },
     {
       "album": {
@@ -131,7 +167,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 217021,
       "name": "Arco\u00edris",
       "url": "https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU"
@@ -185,7 +221,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 195918,
       "name": "Body",
       "url": "https://open.spotify.com/track/0BZip62uEjvHL7jdDyC21p"
@@ -333,7 +369,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 214000,
       "name": "Can Someone Take Me Home?",
       "url": "https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V"
@@ -597,7 +633,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 189617,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/4SD9La0LQOeWgxdmWU1g43"
@@ -803,7 +839,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 250291,
       "name": "Faisal (Envelops Me)",
       "url": "https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp"
@@ -901,7 +937,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 216638,
       "name": "fitt (with Amaarae)",
       "url": "https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc"
@@ -995,7 +1031,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 172788,
       "name": "fukced up.",
       "url": "https://open.spotify.com/track/3CPWUWSmbkKoV48apYPi5d"
@@ -1035,6 +1071,24 @@
       "duration_ms": 116630,
       "name": "Funny Thing",
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
+    },
+    {
+      "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143838,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA"
     },
     {
       "album": {
@@ -1129,7 +1183,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 185779,
       "name": "Head on Fire - Danny L Harle Remix",
       "url": "https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J"
@@ -1151,6 +1205,46 @@
       "duration_ms": 156149,
       "name": "HEAD OVER HEELS",
       "url": "https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162135,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY"
+    },
+    {
+      "album": {
+        "name": "help herself",
+        "url": "https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "help herself",
+      "url": "https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce"
     },
     {
       "album": {
@@ -1888,6 +1982,24 @@
     },
     {
       "album": {
+        "name": "Pixel Bath",
+        "url": "https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252293,
+      "name": "Power Freaks",
+      "url": "https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy"
+    },
+    {
+      "album": {
         "name": "then i'll be happy",
         "url": "https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s"
       },
@@ -1903,7 +2015,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 98025,
       "name": "pretending",
       "url": "https://open.spotify.com/track/6JdsPCckuimQaRQgDhTpB9"
@@ -2174,6 +2286,24 @@
     },
     {
       "album": {
+        "name": "Smoking Section",
+        "url": "https://open.spotify.com/album/6Epl0VfGd5Ao5iZ0tR2wAK"
+      },
+      "artists": [
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "Smoking Section",
+      "url": "https://open.spotify.com/track/3YYSTOsem7yFoAU7QqeRkP"
+    },
+    {
+      "album": {
         "name": "Sneak Away With Me",
         "url": "https://open.spotify.com/album/7GcPAdmhtF0duAlDydss28"
       },
@@ -2203,7 +2333,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 240946,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/4zIiarkbaDt2cm6sukb1Xt"
@@ -2293,7 +2423,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 117187,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/5Skth9SmIvbaZUTPaLm5v3"
@@ -2311,7 +2441,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/3FBiYeUHxCbgsQmRz10abu"
@@ -2401,7 +2531,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 142500,
       "name": "The Outsiders",
       "url": "https://open.spotify.com/track/7ikfWiyZgjwCFi8Wq88oCk"
@@ -2553,7 +2683,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 202920,
       "name": "VOCES",
       "url": "https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T"

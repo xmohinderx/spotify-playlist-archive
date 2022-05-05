@@ -1296,6 +1296,24 @@
     },
     {
       "album": {
+        "name": "Comedy",
+        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+    },
+    {
+      "album": {
         "name": "Comfort Chain",
         "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
       },
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 153054,
       "name": "Fucked by a Country Boy",
       "url": "https://open.spotify.com/track/7l4tELVqU1wWKHDc3JlhwS"
@@ -3265,7 +3283,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 162650,
       "name": "Hits 2021 - Mashup",
       "url": "https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ"
@@ -4779,7 +4797,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 158746,
       "name": "Minefield",
       "url": "https://open.spotify.com/track/7fbkwtqiEiBTFr8IA2CHg3"
@@ -4844,6 +4862,28 @@
     },
     {
       "album": {
+        "name": "Money Rain (Phonk Remix)",
+        "url": "https://open.spotify.com/album/0z3SFl34YWiKMXwsTNPdVp"
+      },
+      "artists": [
+        {
+          "name": "VTORNIK",
+          "url": "https://open.spotify.com/artist/1iuGd0kNu2eqLwP9DFGCNY"
+        },
+        {
+          "name": "Phonk",
+          "url": "https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150941,
+      "name": "Money Rain - Phonk Remix",
+      "url": "https://open.spotify.com/track/4P0r0yO7HNPvOra7BHGixH"
+    },
+    {
+      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
       },
@@ -4859,6 +4899,28 @@
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+    },
+    {
+      "album": {
+        "name": "They Got Amnesia",
+        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216414,
+      "name": "Mopstick (with Kodak Black)",
+      "url": "https://open.spotify.com/track/2i3y5eG5Brkb96v5ZslpXS"
     },
     {
       "album": {
@@ -5631,7 +5693,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 101052,
       "name": "POLTERGEIST!",
       "url": "https://open.spotify.com/track/041sluNZwBxTCOuu766eNi"
@@ -5689,6 +5751,24 @@
       "duration_ms": 146266,
       "name": "Pray",
       "url": "https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte"
+    },
+    {
+      "album": {
+        "name": "prolly my spookiest beat",
+        "url": "https://open.spotify.com/album/56HClvGjV3yEhiNb2gy4Ba"
+      },
+      "artists": [
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119409,
+      "name": "prolly my spookiest beat",
+      "url": "https://open.spotify.com/track/7bzZzwCiidSodNRK1Deyf2"
     },
     {
       "album": {

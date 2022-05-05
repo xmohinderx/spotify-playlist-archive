@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 301933,
       "name": "A la primera persona",
       "url": "https://open.spotify.com/track/6mXHxE2BEafOgdWoFvc6mF"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 196802,
       "name": "A Partir De Hoy",
       "url": "https://open.spotify.com/track/1FMNuRMIcPD6PDQGoi5Ifn"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 237813,
       "name": "Agua Nueva",
       "url": "https://open.spotify.com/track/3oG4RYZCM0hVPo9N46I0E9"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 215600,
       "name": "Ahora Decide",
       "url": "https://open.spotify.com/track/1iUU0K9bFKJw6dVZp5ZXyY"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 220466,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/3yeT1oIBRGuEhOb3OCvL2z"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 258532,
       "name": "Al\u00e9jate de M\u00ed",
       "url": "https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 260066,
       "name": "Amada Amante",
       "url": "https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 301493,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/46Ohl1ufRmsAPeu0K9EW3H"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 238000,
       "name": "Asignatura Pendiente",
       "url": "https://open.spotify.com/track/2UWFTnyf2aXnR54AXoMSXe"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 288600,
       "name": "Como Yo Te Amo",
       "url": "https://open.spotify.com/track/2WGYmstMZN1Kbz2sKiguFB"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 210360,
       "name": "Con los Ojos Cerrados",
       "url": "https://open.spotify.com/track/6DIt34Pm9LXZUfs4ap67fJ"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 206840,
       "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
       "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 245466,
       "name": "De la Ilusi\u00f3n Al Miedo",
       "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 216919,
       "name": "Deber\u00edas Estar Aqu\u00ed",
       "url": "https://open.spotify.com/track/0nyrWJu7GTlmS7YxPb7ZyA"
@@ -1192,6 +1192,24 @@
     },
     {
       "album": {
+        "name": "Demasiado Fr\u00e1giles",
+        "url": "https://open.spotify.com/album/7etYD0Cib7leHL4L974vVj"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225386,
+      "name": "Demasiado Fr\u00e1giles",
+      "url": "https://open.spotify.com/track/03BX08zWM5eauA9kyMQfyW"
+    },
+    {
+      "album": {
         "name": "Paraiso Express",
         "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
       },
@@ -1239,7 +1257,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 308133,
       "name": "Detalles (Detalhes)",
       "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 230346,
       "name": "Disparo al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 247640,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 318946,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/56gsLSSdKzRZM0FHsISTNO"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 228413,
       "name": "Es Ella M\u00e1s Que Yo",
       "url": "https://open.spotify.com/track/374F2ZrWYYCFuRr1XDUnER"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 222933,
       "name": "Este Terco Corazon",
       "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
@@ -2009,7 +2027,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 203760,
       "name": "Falta Amor",
       "url": "https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs"
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 250200,
       "name": "Gavil\u00e1n o Paloma",
       "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 433533,
       "name": "Hasta Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/7sZi8RCDaoMw9T0AU0iah4"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 222666,
       "name": "Hilo Rojo",
       "url": "https://open.spotify.com/track/5c17sD5ibjougPh0bNnBTj"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 289293,
       "name": "Hoy Quiero Confesarme",
       "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
@@ -2323,7 +2341,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 247800,
       "name": "Imag\u00edname Sin Ti",
       "url": "https://open.spotify.com/track/3Ntr2xdlZ17BLt8wX3TmWa"
@@ -2413,7 +2431,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 193706,
       "name": "Jam\u00e1s",
       "url": "https://open.spotify.com/track/2AL3PHnY0cdOiCvpHjvIQi"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 175840,
       "name": "Lejos Conmigo",
       "url": "https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn"
@@ -2717,7 +2735,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 213400,
       "name": "Lo Que No Fue No Ser\u00e1",
       "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
@@ -2739,7 +2757,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 198448,
       "name": "Lo Siento Mucho",
       "url": "https://open.spotify.com/track/6IXrEQi71AjuBV8AItJP2L"
@@ -2757,7 +2775,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 292706,
       "name": "Los dos cogidos de la mano",
       "url": "https://open.spotify.com/track/1fkkbV7wJ0ivY9UXU2RdH7"
@@ -2811,7 +2829,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 182826,
       "name": "Marinero de Luces",
       "url": "https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu"
@@ -2887,7 +2905,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 241000,
       "name": "Me Dediqu\u00e9 a Perderte (with Thalia)",
       "url": "https://open.spotify.com/track/1xUd1qCTzyJuxqvH0BvvZP"
@@ -2959,7 +2977,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 275066,
       "name": "Me llamas",
       "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
@@ -3201,7 +3219,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 214106,
       "name": "Mi Vida Sin Tu Amor",
       "url": "https://open.spotify.com/track/7ar0x3rmUNKo1rAkxTy8S5"
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
@@ -3237,7 +3255,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 213542,
       "name": "More Than Words - Spotify Singles",
       "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
@@ -3273,7 +3291,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 231693,
       "name": "Mudanzas",
       "url": "https://open.spotify.com/track/3zzlzmcV08EkLTTdwtK98o"
@@ -3345,7 +3363,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 239826,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/7Fk4GdWusuxSDabJKzyzbt"
@@ -3363,7 +3381,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 321826,
       "name": "No Ha Parado De Llover",
       "url": "https://open.spotify.com/track/0Rw7jcRFxo9ZaQt1aXl4vi"
@@ -3453,7 +3471,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 199280,
       "name": "No Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
@@ -3893,7 +3911,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 229493,
       "name": "Por El Amor De Una Mujer",
       "url": "https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI"
@@ -3915,7 +3933,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 289746,
       "name": "Por Ese Hombre (with Dyango)",
       "url": "https://open.spotify.com/track/6Xj4KkWScUvO3LiowRl7GK"
@@ -4081,7 +4099,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 286791,
       "name": "Primero Dios - En Vivo",
       "url": "https://open.spotify.com/track/2KG8GlwODa8R0vhs0kmdxt"
@@ -4117,7 +4135,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 307106,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/4Wc0FFBjYDVNJ3Zx3fck6s"
@@ -4189,7 +4207,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 274213,
       "name": "Que Quieres De Mi",
       "url": "https://open.spotify.com/track/3CPRPpkv2p7r3EYdYM7jF3"
@@ -4229,7 +4247,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 247053,
       "name": "Quiero Amanecer Con Alguien",
       "url": "https://open.spotify.com/track/2ryQUYtQkg8oHvkEyPxPz5"
@@ -4355,7 +4373,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 226240,
       "name": "Qui\u00e9reme Despacito",
       "url": "https://open.spotify.com/track/4oSmllN9KoFbU1qcn7KbCG"
@@ -4445,7 +4463,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 214973,
       "name": "Regr\u00e9same Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1NTypzYioS7MHVnIR4d7Uy"
@@ -4485,7 +4503,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 210066,
       "name": "R\u00f3mpeme El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2dNjo3KBW38Yea8XygWPpb"
@@ -4723,7 +4741,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 292760,
       "name": "Si T\u00fa La Quieres - Versi\u00f3n Balada",
       "url": "https://open.spotify.com/track/3c5KjQlxwrWBf7oBN8nU2k"
@@ -4943,7 +4961,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 228560,
       "name": "S\u00e9 Que Te Duele",
       "url": "https://open.spotify.com/track/2R6r40dVVmkDvCYgan9dGO"
@@ -5077,7 +5095,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
@@ -5131,7 +5149,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 194146,
       "name": "Te Confieso",
       "url": "https://open.spotify.com/track/6WbExfpFDEH3UJYPLqoobv"
@@ -5221,7 +5239,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 223786,
       "name": "Te Fuiste de Aqu\u00ed",
       "url": "https://open.spotify.com/track/0832pFK9N12P1B0nuaUb2Z"
@@ -5539,7 +5557,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 173560,
       "name": "Tu Pirata Soy Yo",
       "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
@@ -5619,7 +5637,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
       "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
@@ -5673,7 +5691,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 212946,
       "name": "Un Amor de Verdad",
       "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
@@ -5727,7 +5745,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 280200,
       "name": "Un Siglo Sin Ti",
       "url": "https://open.spotify.com/track/145YOwjGncJQZPKbfol7Xr"
@@ -5803,7 +5821,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 236613,
       "name": "Vas A Recordarme",
       "url": "https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd"
@@ -5839,7 +5857,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 210133,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
@@ -5893,7 +5911,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 290133,
       "name": "Volveras",
       "url": "https://open.spotify.com/track/0HBBLo3stGC04YBtVb43fG"
@@ -6077,7 +6095,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 222946,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
@@ -6157,7 +6175,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 282146,
       "name": "Yo No S\u00e9 Que Me Pas\u00f3",
       "url": "https://open.spotify.com/track/0UCgNgJYVQDXGB6E2S7Sri"
@@ -6229,7 +6247,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 226333,
       "name": "Yo Te Pido Amor",
       "url": "https://open.spotify.com/track/6XX94OLURwLYyvh0kdHm6m"
@@ -6269,7 +6287,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 288893,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"

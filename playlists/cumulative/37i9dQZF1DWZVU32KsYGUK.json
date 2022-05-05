@@ -354,6 +354,28 @@
     },
     {
       "album": {
+        "name": "Biblioth\u00e8que",
+        "url": "https://open.spotify.com/album/2AgUYEnDRtr6a7B8eMj530"
+      },
+      "artists": [
+        {
+          "name": "Nadav Amir-Himmel",
+          "url": "https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ"
+        },
+        {
+          "name": "Hazel Dumoulin",
+          "url": "https://open.spotify.com/artist/4ddvhBOBwHziZBPGwJPTjd"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174570,
+      "name": "Biblioth\u00e8que",
+      "url": "https://open.spotify.com/track/02q15OnIA9bH90KYqbyBvI"
+    },
+    {
+      "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/0I4JXUV2ck18CJ5RoX090x"
       },
@@ -401,7 +423,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 147500,
       "name": "Ce jour l\u00e0",
       "url": "https://open.spotify.com/track/3lUAjSVqgu8A7e7Vhlu74G"
@@ -1355,7 +1377,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 180889,
       "name": "Hopelessly in Love",
       "url": "https://open.spotify.com/track/4qJMyRUlLa6zIzq5yKrOPo"
@@ -1517,7 +1539,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 119250,
       "name": "Jesie\u0144",
       "url": "https://open.spotify.com/track/221DNbyZYq39AyEvrvrD0P"
@@ -1553,7 +1575,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 126298,
       "name": "Kokyu",
       "url": "https://open.spotify.com/track/5v9dmm3md5BdP2qpH0lriI"
@@ -1643,7 +1665,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 136374,
       "name": "La Raison",
       "url": "https://open.spotify.com/track/5O4mtDJO8jOP867GGp495v"
@@ -1719,6 +1741,28 @@
       "duration_ms": 237924,
       "name": "Le Castellet",
       "url": "https://open.spotify.com/track/0kvEiW0fbL26tJwHXaZDPh"
+    },
+    {
+      "album": {
+        "name": "Le Printemps du Coeur- Une Liaison Amoureuse",
+        "url": "https://open.spotify.com/album/3WkZ5uMr8iiE3RutnSoHeb"
+      },
+      "artists": [
+        {
+          "name": "Coen Molenaar",
+          "url": "https://open.spotify.com/artist/3mDU9n4gGcXFkQ2Cby05aO"
+        },
+        {
+          "name": "Myll\u00e8r\u00ed",
+          "url": "https://open.spotify.com/artist/7FBXThPwYvJ0kdeQagzYKj"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117495,
+      "name": "Le Printemps du Coeur- Une Liaison Amoureuse",
+      "url": "https://open.spotify.com/track/1XyrzokknbUbEpME4NZFVz"
     },
     {
       "album": {
@@ -1899,7 +1943,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 141139,
       "name": "Lost in a Dream",
       "url": "https://open.spotify.com/track/3n4WSQV9xopZy4wamL2tKL"
@@ -2187,7 +2231,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 118270,
       "name": "My Absence",
       "url": "https://open.spotify.com/track/60aQ47g6775vmbN3yMntql"
@@ -2695,7 +2739,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 142070,
       "name": "Recluse",
       "url": "https://open.spotify.com/track/3bFvORAkFIg8TFXcpoCYwg"
@@ -2947,7 +2991,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 130541,
       "name": "Sentiment",
       "url": "https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9"
@@ -2983,7 +3027,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 160458,
       "name": "Seul",
       "url": "https://open.spotify.com/track/7adeEYqvDXAXIvP3dwLAww"
@@ -3113,6 +3157,24 @@
       "duration_ms": 206545,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd"
+    },
+    {
+      "album": {
+        "name": "Spring Time Ballet",
+        "url": "https://open.spotify.com/album/341LYFQqln5ycveU2A0F7L"
+      },
+      "artists": [
+        {
+          "name": "Listening Wind",
+          "url": "https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148847,
+      "name": "Spring Time Ballet",
+      "url": "https://open.spotify.com/track/1tVqsgTUBOIsN8We0UtdqJ"
     },
     {
       "album": {
@@ -3517,6 +3579,24 @@
       "duration_ms": 175066,
       "name": "vertra\u0308umt",
       "url": "https://open.spotify.com/track/2VrSJrGv8MBnQY5M6OkeeB"
+    },
+    {
+      "album": {
+        "name": "Springtime Improvisations",
+        "url": "https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D"
+      },
+      "artists": [
+        {
+          "name": "Leila Milki",
+          "url": "https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128103,
+      "name": "Vicino Al Mare",
+      "url": "https://open.spotify.com/track/0evg2YZZKEKnKkjraD4LGQ"
     },
     {
       "album": {

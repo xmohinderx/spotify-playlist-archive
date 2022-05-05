@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Luna Li
 
-284 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+285 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Wet x3](https://open.spotify.com/track/3Js9HDMcXtQIpYorsbERcD) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Taraval](https://open.spotify.com/artist/7nfNAw10popYtPuxLEUjrF) | [DJ\-Kicks: Jessy Lanza](https://open.spotify.com/album/3RVxiA5FxTloZGWsdPZVXs) | 4:56 | 2021-12-08 | 2022-01-06 |
 | [What Does That Make Me](https://open.spotify.com/track/3Gkz6glSbXuVkdNgIgzTXM) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [What Does That Make Me](https://open.spotify.com/album/46YDvX9MEU4pXNN7fJnB7Q) | 2:37 | 2022-03-08 | 2022-04-07 |
 | [What You're Thinking](https://open.spotify.com/track/51q8KeszKpVOWghI37pdWK) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:28 | 2022-03-08 | 2022-04-07 |
+| [When It Kills Me](https://open.spotify.com/track/7heSG5oy44Si0bc8toOsYX) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [When It Kills Me: Pt\. 2](https://open.spotify.com/album/5g0ADZD2v0pRnkgX8UhHaX) | 3:41 | 2022-05-04 |  |
 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 | 2022-05-04 |  |
 | [Ya Delali](https://open.spotify.com/track/7EuwFP60iXRlqc0GdTGKhy) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Ya Delali](https://open.spotify.com/album/45GG4H9863zgjD1NmqMhao) | 3:24 | 2022-03-08 | 2022-04-07 |
 | [You Lie You Die](https://open.spotify.com/track/7H3IIcQXaAs2bu7CztNL9k) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix \(Deluxe\)](https://open.spotify.com/album/3RHWRodXUkFBjtdlstP0rw) | 2:30 | 2022-01-05 | 2022-02-03 |

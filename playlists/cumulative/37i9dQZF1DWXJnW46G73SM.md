@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: حسين الجسمي
 
-141 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+143 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-23 | 2022-01-21 |
 | [Gehaz Tasgeel](https://open.spotify.com/track/31kJfQ4nHd7tuxNnfBfWe8) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Gehaz Tasgeel](https://open.spotify.com/album/6Acw13zVdVC2jfZ9vr94dL) | 3:05 | 2021-12-23 | 2022-02-18 |
 | [Ghayart El Tarekh](https://open.spotify.com/track/7KKXMHZZbl3j2u6NgMKnrq) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Ghayart El Tarekh](https://open.spotify.com/album/6grY10EzNruoWcBvo2MxKG) | 3:50 | 2021-12-23 | 2022-02-02 |
+| [Good Morning Baby](https://open.spotify.com/track/3XklYy1kjbs0y0HL5s56gU) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [Good Morning Baby](https://open.spotify.com/album/41rVNCKFx5rMKUKRKcyLdg) | 2:31 | 2022-05-04 |  |
 | [Haga Ghareeba](https://open.spotify.com/track/70xGNS2RoKq99DTRuVXuTr) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Haga Ghareeba](https://open.spotify.com/album/0DDyP1N6Tp9I3zB5EwzV91) | 3:45 | 2021-12-23 | 2022-02-26 |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2021-12-23 | 2022-02-17 |
 | [Hateshtaou](https://open.spotify.com/track/6NcgWiRX9L2j6w8ZeoIsGG) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Hateshtaou](https://open.spotify.com/album/4w4I8NPdmNrAmdqb4aV3ZM) | 4:35 | 2021-12-23 | 2022-02-17 |
@@ -102,6 +103,7 @@
 | [Mesh Nadman](https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mesh Nadman](https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy) | 2:55 | 2021-12-29 | 2022-03-10 |
 | [Mesh Saybani](https://open.spotify.com/track/5qO0ltb9QRvQvj2c7San3y) | [Hudz](https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Mesh Saybani](https://open.spotify.com/album/1QLI8mWdXlxempEeh3AlRV) | 3:00 | 2022-01-27 | 2022-04-08 |
 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 | 2021-12-23 | 2022-01-28 |
+| [Min Awel Dekika](https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR), [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Min Awel Dekika](https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto) | 4:32 | 2022-05-04 |  |
 | [Mlook Alfarhah](https://open.spotify.com/track/4pcAKurw42eSHSWfmHpr6p) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Enaba](https://open.spotify.com/artist/6oKthe3hcKm6ZuPuTiyTnE) | [Mlook Alfarhah](https://open.spotify.com/album/0AU9qF9WsMUgbrYm6QqSDQ) | 1:36 | 2021-12-23 | 2022-01-21 |
 | [Momken Azaalak](https://open.spotify.com/track/4QKRv2FjUogwA1tHRr8LBH) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Momken Azaalak](https://open.spotify.com/album/0TaRvYnIEuXDfH5JVU0Q4f) | 3:38 | 2022-02-11 |  |
 | [Moody Aali](https://open.spotify.com/track/1JIeyLYiovSeXrj3EONekE) | [Dalida Khalil](https://open.spotify.com/artist/43frAQLY3YdRaaGTt2Jobb) | [Moody Aali](https://open.spotify.com/album/7nZflWlZjFWWwY3iL864hh) | 2:48 | 2021-12-23 | 2022-03-03 |

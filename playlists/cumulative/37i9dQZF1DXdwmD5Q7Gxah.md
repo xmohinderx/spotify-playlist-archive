@@ -4,7 +4,7 @@
 
 > thank you beabadoobee, umi, baby queen and more for these treasures
 
-1,577 songs - 3 day 12 hr 20 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,578 songs - 3 day 12 hr 24 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 | 2021-05-15 | 2022-02-12 |
 | [Frío](https://open.spotify.com/track/2R7ZNlng7Kjdo0Pp4TWNXa) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Frío](https://open.spotify.com/album/7oHG4YB2YjfpnfEPeUtS72) | 2:05 | 2019-10-31 | 2019-11-14 |
 | [fuck, i luv my friends](https://open.spotify.com/track/4hk4plGoAmg3naYTq8EUul) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [fuck, i luv my friends](https://open.spotify.com/album/4r4S1Vthv9l5CSJdTee4S6) | 2:43 | 2020-07-18 | 2020-08-20 |
+| [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 | 2022-05-04 |  |
 | [Funky](https://open.spotify.com/track/1Sov7OQevNqkPxNNEpjt6z) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Funky](https://open.spotify.com/album/58p2sAkz9RGgnpDXiJqO7I) | 3:34 | 2021-09-09 | 2022-03-05 |
 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2021-01-27 | 2021-03-26 |
 | [FYO \(feat\. CHAI\)](https://open.spotify.com/track/1bjnEXR0EqtaQsiAQ8crmB) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [FYO \(feat\. CHAI\)](https://open.spotify.com/album/3Tfl2WgX2XJFXs7577YmDM) | 2:52 | 2021-04-10 | 2021-06-24 |

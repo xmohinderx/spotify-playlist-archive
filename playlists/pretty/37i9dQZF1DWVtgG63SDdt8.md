@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Tasha Layton
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,280 likes - 99 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,334 likes - 99 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 17 | [On And On](https://open.spotify.com/track/1pECacoxvlJZUOaaZl3Qlv) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [On And On](https://open.spotify.com/album/1jtk79QrzBfGaswpzCjPBk) | 5:34 |
 | 18 | [Come Boldly](https://open.spotify.com/track/3mrNRoXiOFtaAHmkfVg4Ak) | [Destiny Worship Music](https://open.spotify.com/artist/5qlCb5hbJ9JGhi6FcMwwbc) | [Come Boldly](https://open.spotify.com/album/7Gwr8sWw2kKTFc1ERWvLDH) | 4:10 |
 | 19 | [My Cup Overflows \- Live](https://open.spotify.com/track/5XetRjRlWI0DHNlmnVJxjq) | [Will Edwards](https://open.spotify.com/artist/2fDNeMnYZn2xsvnEFYWyP7) | [My Cup Overflows \(Live\)](https://open.spotify.com/album/2PBENKB0mC3cdwhanc7REt) | 6:37 |
-| 20 | [Canvas and Clay \(feat\. DOE & Jonathan Traylor\)](https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 8:42 |
+| 20 | [Canvas & Clay \(King of My Heart\) \[feat\. DOE & Jonathan Traylor\]](https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 8:42 |
 | 21 | [Onye eze](https://open.spotify.com/track/4I0YZiBnM2OGJ4M43dZ1zz) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [MELODY](https://open.spotify.com/album/22KYkMXnym8QCxE2qvaTxS) | 5:24 |
 | 22 | [Places \(Des Endroits\)](https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Mbushka](https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya) | [Places \(Des Endroits\)](https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2) | 3:32 |
 | 23 | [Free](https://open.spotify.com/track/1dIkTZDKHy952Ew1uc9j2m) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Free](https://open.spotify.com/album/7lF9ZQoVd8ZUtOky0dbEaq) | 6:04 |

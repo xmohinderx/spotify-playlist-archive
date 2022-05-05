@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 
 > Get on top of Bollywood's newest and all time hits \- Raataan Lambiyan and Ranjha from Shershaah, Param Sundari, Shayad,  Channa Mereya and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and many more\. Listen to Bollywood's best only on this playlist!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 213,331 likes - 79 songs - 4 hr 36 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 213,339 likes - 79 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 | 78 | [Coca Cola \(From "Luka Chuppi"\)](https://open.spotify.com/track/352wEkChkiClswqwDoM0nj) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Young Desi](https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Coca Cola \(From "Luka Chuppi"\)](https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc) | 2:59 |
 | 79 | [Cutiepie \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1YOW5pnfikVa6BcCBIOQUU) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Pardeep Singh Sran](https://open.spotify.com/artist/2dnnS3sjCk9OHns6kAYI19), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Cutiepie \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/5ihBJJNvnTaDzEj1i2ACwM) | 3:51 |
 
-Snapshot ID: `NDExOCw1NGM2ODIzYTBjMDNmYjgxOGRlOTM4OWJlMjI2MDRiYTczYTJhODRh`
+Snapshot ID: `NDExOSwyZDYyNjc3MzcxYzMyMWQ3OWMzMDZlZTNjNmExYzQxZjhlMTA2ZGI0`

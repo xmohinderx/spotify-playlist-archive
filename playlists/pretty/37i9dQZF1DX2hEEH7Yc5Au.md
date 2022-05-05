@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 孫盛希 \(Shi Shi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,651 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,727 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [分手吧 \- 滾石40 滾石撞樂隊 40團拚經典 \(原唱:張震嶽\)](https://open.spotify.com/track/1hkJUyfsZ6aw7TeHjW4t2r) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi), [希有樂團 SHI's Band](https://open.spotify.com/artist/0kL1KcSDxMjRrZ3fbi9ukA) | [滾石40 滾石撞樂隊 40團拚經典 \- 分手吧](https://open.spotify.com/album/6D572SCckABG1akpUPhI2Q) | 5:00 |
+| 1 | [恆溫](https://open.spotify.com/track/122XVqEGBM36Lp0XNvsgTV) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [girls](https://open.spotify.com/album/0MhMx54l7L35HxqnMNfL9z) | 4:20 |
 | 2 | [連名帶姓](https://open.spotify.com/track/4a5FvWpFaCs3YOzEnnpgR0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 5:33 |
 | 3 | [都沒差 \(Equal in the Darkness\)](https://open.spotify.com/track/6BWZXxnygBWgq983XP9lIK) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Equal in the Darkness \(The Remixes\)](https://open.spotify.com/album/13Ctc58yxc9LaKBtq5L6bU) | 3:30 |
 | 4 | [你夠了](https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [你夠了](https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ) | 3:21 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 23 | [虧欠](https://open.spotify.com/track/5yiJ65THPeXiZFcYwh8t1U) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [虧欠](https://open.spotify.com/album/0UvqTkCJvKAt4W20NGu4SG) | 3:39 |
 | 24 | [親愛的你](https://open.spotify.com/track/0oHPfQgO0da9W0S8KUBNpD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [親愛的你](https://open.spotify.com/album/7wpNfsUp8hZQG0D81uaPaO) | 3:57 |
 | 25 | [你存在](https://open.spotify.com/track/4o34abHrsUXOpw64ImhfjK) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [你存在](https://open.spotify.com/album/0SwyQIU4AGERP46HUUgSB0) | 4:51 |
-| 26 | [恆溫](https://open.spotify.com/track/122XVqEGBM36Lp0XNvsgTV) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [girls](https://open.spotify.com/album/0MhMx54l7L35HxqnMNfL9z) | 4:20 |
+| 26 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 |
 | 27 | [聽海](https://open.spotify.com/track/2WWDsBLNL4czuVcg7rjfy2) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [Bad Boy](https://open.spotify.com/album/5Nd65IjWWIpd0F3daiLqnr) | 5:18 |
 | 28 | [我知道你很難過](https://open.spotify.com/track/3Wuplaz7OX7p17wjempzj9) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [1019](https://open.spotify.com/album/6JDdALvBa9ePL4UnrgqTuj) | 4:24 |
 | 29 | [煙幕](https://open.spotify.com/track/5ISwrjD9HDFTgB77UpRwDj) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Am I Who I Am](https://open.spotify.com/album/4UNHITlg3vOCdwV2qMwwl1) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [我不想忘記你](https://open.spotify.com/track/6sNXFtBPUvyFWEjSZhEwbd) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [我不想忘記你](https://open.spotify.com/album/7o2ROGhw8sJxshtIRuO29U) | 4:05 |
 | 50 | [分手後不要做朋友](https://open.spotify.com/track/0QYWNTnsFxCBJF7Ns3xLbz) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [漫情歌](https://open.spotify.com/album/6lQA1jATPLTZ21TClyxh9W) | 4:17 |
 
-Snapshot ID: `MTY1MTU5MzYwMCwwMDAwMDAxMzAwMDAwMTgwOGFhNjVjODMwMDAwMDE4MDg3ZTk0YWMy`
+Snapshot ID: `MTY1MTY1Mzc0NSwwMDAwMDAxNDAwMDAwMTgwOGUzYzFiOWMwMDAwMDE4MDg3ZTk0YWMy`

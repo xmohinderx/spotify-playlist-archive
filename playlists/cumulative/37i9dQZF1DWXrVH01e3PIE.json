@@ -936,6 +936,24 @@
     },
     {
       "album": {
+        "name": "GRR PAW",
+        "url": "https://open.spotify.com/album/58niEuot4EYfEHcsukrvvj"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167318,
+      "name": "GRR PAW",
+      "url": "https://open.spotify.com/track/38MEJAGU5Ks6gEHdKG9Q3v"
+    },
+    {
+      "album": {
         "name": "Guchi Polo",
         "url": "https://open.spotify.com/album/6geOVKHOwBGyQIMo9m8yR6"
       },
@@ -2541,7 +2559,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 156939,
       "name": "Valentino",
       "url": "https://open.spotify.com/track/27uT2ouF88miD988lpgkm5"

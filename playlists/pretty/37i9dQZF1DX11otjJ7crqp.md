@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,173 likes - 101 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,267 likes - 101 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

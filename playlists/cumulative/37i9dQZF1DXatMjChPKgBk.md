@@ -4,7 +4,7 @@
 
 > Dinner music that includes well known and new tracks.
 
-259 songs - 16 hr 21 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+260 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,10 +72,10 @@
 | [Easy](https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Very Best Of The Commodores](https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn) | 4:20 | 2022-01-27 |  |
 | [Elephant](https://open.spotify.com/track/62KHcIv9l9lxbuhvTqWRpB) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Elephant](https://open.spotify.com/album/5lxB0BDJl2frF6zDyAKvmK) | 3:24 | 2022-01-27 |  |
 | [Endless Love](https://open.spotify.com/track/6QxgfimsVDPepssZtFrseb) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Love and Life: The Very Best of Diana Ross](https://open.spotify.com/album/6syCFYImxKPSf6G8Oh3bIq) | 4:28 | 2022-01-27 |  |
-| [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 | 2022-05-02 | 2022-05-04 |
+| [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 | 2022-05-02 |  |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2022-01-27 |  |
 | [Every Young Boy's Song](https://open.spotify.com/track/3X0kv8WYEVQad30VLOEOEG) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Summer 3000](https://open.spotify.com/album/7BAhm5zjEzoHlfC3cIZaKf) | 3:33 | 2022-01-27 |  |
-| [Everything I Own](https://open.spotify.com/track/1ZgEpCLk5sQcwMSpIpGfiQ) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [Sold](https://open.spotify.com/album/6B4RhkHgm341clE9eX8x0I) | 3:53 | 2022-01-27 |  |
+| [Everything I Own](https://open.spotify.com/track/1ZgEpCLk5sQcwMSpIpGfiQ) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [Sold](https://open.spotify.com/album/6B4RhkHgm341clE9eX8x0I) | 3:53 | 2022-01-27 | 2022-05-05 |
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2022-01-27 |  |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-01-27 |  |
 | [Fast Car \- Acoustic](https://open.spotify.com/track/618v3huzqDQQBfMogznSb3) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car \(Acoustic\)](https://open.spotify.com/album/6UcZPki3VoKEEQrI6nDON7) | 3:37 | 2022-01-27 |  |
@@ -147,7 +147,7 @@
 | [Left Side](https://open.spotify.com/track/6QUVcbxAJTVDQeDrchWzZx) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/6VtxEWVdKRHUyRnrtC3K7r) | 2:24 | 2022-01-27 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/4ZBYSNcjjn3ZF1qZnZeddt) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/0iZZwv2fp5uF8hTYFNWFbW) | 4:18 | 2022-01-27 |  |
 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 | 2022-01-27 |  |
-| [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 | 2022-01-27 |  |
+| [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 | 2022-01-27 | 2022-05-05 |
 | [Long Way Down](https://open.spotify.com/track/25Caem6cbUveFkgPSXtGXe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 4:17 | 2022-01-27 |  |
 | [Lost](https://open.spotify.com/track/6dexp1WYGzQWDr8DA8yDHG) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Lost](https://open.spotify.com/album/1mam9hcxnLjCGkt8ovWija) | 2:49 | 2022-01-27 | 2022-05-04 |
 | [Lost In A Blue Note](https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [My Dream is You](https://open.spotify.com/album/26ACa71xPjvov8cZ4Rai52) | 4:24 | 2022-01-27 |  |
@@ -158,7 +158,7 @@
 | [Make You Feel My Love](https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:32 | 2022-01-27 |  |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/3RoZqntWw5zzeLUyewnDBm) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You \(Acoustic\)](https://open.spotify.com/album/4twS0ttG97Gtu0roSQ8mKg) | 3:11 | 2022-01-27 |  |
 | [Memories of You](https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Memories of You: A Tribute to Benny Goodman](https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9) | 4:50 | 2022-01-27 |  |
-| [Miss You](https://open.spotify.com/track/4x6WqZyGxsdqbWmJhaoPwE) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Miss You](https://open.spotify.com/album/0joGNhmxUTBvrldTNr8LCy) | 3:18 | 2022-01-27 | 2022-05-04 |
+| [Miss You](https://open.spotify.com/track/4x6WqZyGxsdqbWmJhaoPwE) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Miss You](https://open.spotify.com/album/0joGNhmxUTBvrldTNr8LCy) | 3:18 | 2022-01-27 |  |
 | [Missing Peace](https://open.spotify.com/track/5fTJGZ6k0zokfh5KLfe0sm) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Missing Peace](https://open.spotify.com/album/6z7NkrydW0T66QEB2DXblG) | 3:58 | 2022-01-27 |  |
 | [More Than Words](https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz) | 5:34 | 2022-01-27 |  |
 | [My Love](https://open.spotify.com/track/6l9fOwFZ2pZzGUAVnPM76l) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Lionel Richie](https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ) | 4:04 | 2022-01-27 |  |
@@ -210,7 +210,7 @@
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2022-01-27 |  |
 | [Soon You’ll Get Better \(feat\. The Chicks\)](https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:21 | 2022-01-27 |  |
 | [Sorrow](https://open.spotify.com/track/33ry67NZycIR011igWIFD3) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/377tGSk9SCvV34DAhTqb0P) | 3:12 | 2022-01-27 |  |
-| [Sorry Seems To Be The Hardest Word](https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Best Of Blue](https://open.spotify.com/album/7kPVKSy6zNK1PnvylEqTpL) | 3:30 | 2022-01-27 |  |
+| [Sorry Seems To Be The Hardest Word](https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Best Of Blue](https://open.spotify.com/album/7kPVKSy6zNK1PnvylEqTpL) | 3:30 | 2022-01-27 | 2022-05-05 |
 | [Spiral Thinking](https://open.spotify.com/track/2X2Lm8Cvu1bwKJhI01vGfw) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Spiral Thinking](https://open.spotify.com/album/7Ep2hsaXMZfxshejJBzRr6) | 3:33 | 2022-01-27 |  |
 | [Spoiled](https://open.spotify.com/track/08ydcS9NTm1a2csSppGsJT) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul](https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM) | 4:03 | 2022-01-27 |  |
 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 | 2022-05-02 | 2022-05-04 |
@@ -266,6 +266,7 @@
 | [You Give Me Something](https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered \(International Version\)](https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ) | 3:33 | 2022-01-27 |  |
 | [You're Love Lifted Me](https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Patches](https://open.spotify.com/album/2AcHC18egTq63cyBagwINA) | 2:39 | 2022-01-27 |  |
 | [You're Still The One](https://open.spotify.com/track/3I4nZ14GRL7eXwFDjCEEVr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/3sbhN8QlcMeCZAX80IKoW8) | 3:32 | 2022-01-27 |  |
+| [Your Heart Is As Black As Night](https://open.spotify.com/track/4lO5Pi6rjI5P2CWVEVKb0e) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0Qe8wdANNrf5PkP76qnXyN) | 2:43 | 2022-05-02 |  |
 | [Your Song](https://open.spotify.com/track/0P2j7ogCRvGMK4Pdw2K5ZQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 4:00 | 2022-01-27 |  |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > The sweet sounds of Algeria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,817 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,863 likes - 49 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 |
-| 2 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 |
-| 3 | [Babour Ellouh \- Waves Edit](https://open.spotify.com/track/4yTsqKht7TgflJTNAhEtm9) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Babour Ellouh \(Waves Edit\)](https://open.spotify.com/album/1rpR2Xk0gSPO48EuRFzbaA) | 3:09 |
+| 1 | [Babour Ellouh \- Waves Edit](https://open.spotify.com/track/4yTsqKht7TgflJTNAhEtm9) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Babour Ellouh \(Waves Edit\)](https://open.spotify.com/album/1rpR2Xk0gSPO48EuRFzbaA) | 3:09 |
+| 2 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 |
+| 3 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 |
 | 4 | [No Stop](https://open.spotify.com/track/6VD64LAe1raY65BTkJdt5v) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [No Stop](https://open.spotify.com/album/14FD9LxC7IR05LPeDK5Ts9) | 3:46 |
 | 5 | [Balak](https://open.spotify.com/track/0WQqJD52PqOmSVtEYiX4NC) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Balak](https://open.spotify.com/album/58TtNp2W6dXurKZd23H0nL) | 3:47 |
 | 6 | [Abracadabra](https://open.spotify.com/track/3Ox87ADaSgof5yOrFhvKaC) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Abracadabra](https://open.spotify.com/album/2PJM03jBuTlPVmginhaWWf) | 4:18 |
@@ -56,7 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 46 | [Courage](https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Courage](https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV) | 4:00 |
 | 47 | [Ça fait des années](https://open.spotify.com/track/1Opks4WxGK1c1KvjJ1OlL9) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Ca fait des années](https://open.spotify.com/album/0yp3ImaA7EvBSJQBLj19lr) | 3:55 |
 | 48 | [Kelthoum](https://open.spotify.com/track/7L5ZaHH54rkruo8N08vEf4) | [Nacim El Bey](https://open.spotify.com/artist/7DfSR1McqGpS5b7o1NSl5u) | [Kelthoum](https://open.spotify.com/album/0RyIS8LW7g75acJI2z0Ege) | 3:45 |
-| 49 | [Welili](https://open.spotify.com/track/7l7ZDnYDzyEolxqsJP1POf) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Welili](https://open.spotify.com/album/7xUBj6AnlQlJOznWSrZ9wp) | 4:16 |
-| 50 | [Fi Hwak](https://open.spotify.com/track/58jAcDo0Tc5ylzfBwg9VSi) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Fi Hwak](https://open.spotify.com/album/2mVRwKuWGDDp0j2wWOIFfa) | 3:35 |
+| 49 | [Fi Hwak](https://open.spotify.com/track/58jAcDo0Tc5ylzfBwg9VSi) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Fi Hwak](https://open.spotify.com/album/2mVRwKuWGDDp0j2wWOIFfa) | 3:35 |
 
-Snapshot ID: `MTY1MDUzODIzNywwMDAwMDBhYTAwMDAwMTgwNGJiZWNmYTkwMDAwMDE3MGM0YzdmNmQ0`
+Snapshot ID: `MTY1MTY5OTE0MiwwMDAwMDBhYjAwMDAwMTgwOTBmMGNlMmIwMDAwMDE3MGM0YzdmNmQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,671 likes - 104 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,669 likes - 104 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

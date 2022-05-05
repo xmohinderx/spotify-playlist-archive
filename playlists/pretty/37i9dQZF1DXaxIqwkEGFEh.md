@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,981 likes - 98 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,473 likes - 98 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

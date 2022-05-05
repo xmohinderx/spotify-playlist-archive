@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Toro y Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,735 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,757 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 45 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 |
 | 46 | [OK](https://open.spotify.com/track/6tIZqygSTNRyGn9WSIQxrl) | [Adrian Danial](https://open.spotify.com/artist/494R2afpLGofkQy8OVXleD) | [OK](https://open.spotify.com/album/0VZTi0KgY9x0o145joTKd0) | 2:26 |
 | 47 | [Looking High](https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Looking High](https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx) | 4:21 |
-| 48 | [Step By Step](https://open.spotify.com/track/3AWyfblIa1nThi3DU58YrW) | [Braxe & Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step by Step / Creative Source](https://open.spotify.com/album/77FKqvql03zGTztg9ikAXz) | 4:02 |
+| 48 | [Step By Step](https://open.spotify.com/track/3AWyfblIa1nThi3DU58YrW) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step by Step / Creative Source](https://open.spotify.com/album/77FKqvql03zGTztg9ikAXz) | 4:02 |
 | 49 | [not alright](https://open.spotify.com/track/3qvK5qHvwP1mX6g9lOF2dJ) | [kan](https://open.spotify.com/artist/1lBTgx2dax8DTyeZ4URvzZ) | [not alright](https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB) | 4:04 |
 | 50 | [FLACTAL](https://open.spotify.com/track/0OxtwA0COQaKppo54YwFn5) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Let's Go! DSDC!](https://open.spotify.com/album/4TzvYfWz8YKSKBMK82XScS) | 3:23 |
 | 51 | [Alone In The Night](https://open.spotify.com/track/19LGo0Ei7NGpSlhWKh9iVn) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Avatars Of Love](https://open.spotify.com/album/5YbxJ02zBKgzwTuamFiic2) | 6:25 |

@@ -2,7 +2,7 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Residente
+> De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Bardero$
 
 92 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Anees.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,564 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,619 likes - 98 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 92 | [Shine](https://open.spotify.com/track/4w1yEDtO2J4otvGALYZNEt) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Shine](https://open.spotify.com/album/2HAgCkfUZq2duvnfabIeYY) | 3:47 |
 | 93 | [Somewave](https://open.spotify.com/track/5UdK4jJ7qcY8wU4d9kpits) | [Zeyada](https://open.spotify.com/artist/2UJIKiHl019qoazIKbax7D) | [Somewave](https://open.spotify.com/album/6JH0QKxS6ygJqS3zTsoiHk) | 3:01 |
 | 94 | [Leeh \(feat\. BUGGATINO\)](https://open.spotify.com/track/6TCbTczOreXauNQMepPeuJ) | [Azira](https://open.spotify.com/artist/3uUYaYT9wbZFNL0iMv5LIP), [BUGGATINO](https://open.spotify.com/artist/43zou9f8vndQl2XZR5gAmR) | [Leeh \(feat\. BUGGATINO\)](https://open.spotify.com/album/0XwxYo7Gd8biv6yp2GIQgK) | 2:53 |
-| 95 | [Rebirth](https://open.spotify.com/track/7LHcVG6sqmKMFK5WAV2ON5) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5) | 3:29 |
-| 96 | [Red Zone](https://open.spotify.com/track/0OYnkVivn0i88HIa7mJ85E) | [Not.Fay](https://open.spotify.com/artist/5oBXBDfbDztCCPGHXqJKUo) | [Red Zone](https://open.spotify.com/album/3ceAEqR5KpNa9IEQBycYti) | 2:11 |
-| 97 | [Fearless](https://open.spotify.com/track/0D795IGmranbFSZruPAZEf) | [Dj Emir](https://open.spotify.com/artist/7gyy92KNK2QPjRPqeSip5h) | [Fearless](https://open.spotify.com/album/1Tmgp1B1h0i60hdwS9pe93) | 3:15 |
-| 98 | [Drunk in Berlin](https://open.spotify.com/track/7nwoZs2HNMZd1XjNcktiTq) | [Not.Fay](https://open.spotify.com/artist/5oBXBDfbDztCCPGHXqJKUo) | [Drunk in Berlin](https://open.spotify.com/album/7cJ2iXTJa0ksMtgnjj0uPK) | 2:37 |
-| 99 | [Astronaut in the Ocean](https://open.spotify.com/track/27ErCu5vx463lPyabA87oi) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Astronaut in the Ocean](https://open.spotify.com/album/4JupiYe3WiIJwzA0BxXvXl) | 2:14 |
-| 100 | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/track/4mCkHTkDfG4GG29cd7nrT5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/album/7gAjCKK7SJMIYLxYGDUEUM) | 3:14 |
+| 95 | [Red Zone](https://open.spotify.com/track/0OYnkVivn0i88HIa7mJ85E) | [Not.Fay](https://open.spotify.com/artist/5oBXBDfbDztCCPGHXqJKUo) | [Red Zone](https://open.spotify.com/album/3ceAEqR5KpNa9IEQBycYti) | 2:11 |
+| 96 | [Fearless](https://open.spotify.com/track/0D795IGmranbFSZruPAZEf) | [Dj Emir](https://open.spotify.com/artist/7gyy92KNK2QPjRPqeSip5h) | [Fearless](https://open.spotify.com/album/1Tmgp1B1h0i60hdwS9pe93) | 3:15 |
+| 97 | [Drunk in Berlin](https://open.spotify.com/track/7nwoZs2HNMZd1XjNcktiTq) | [Not.Fay](https://open.spotify.com/artist/5oBXBDfbDztCCPGHXqJKUo) | [Drunk in Berlin](https://open.spotify.com/album/7cJ2iXTJa0ksMtgnjj0uPK) | 2:37 |
+| 98 | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/track/4mCkHTkDfG4GG29cd7nrT5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/album/7gAjCKK7SJMIYLxYGDUEUM) | 3:14 |
 
-Snapshot ID: `MTY1MDYxNjE4OCwwMDAwMDI4NzAwMDAwMTgwNTA2NDNmZTUwMDAwMDE4MDNjMjg4OWE2`
+Snapshot ID: `MTY1MTY5ODM5NCwwMDAwMDI4OTAwMDAwMTgwOTBlNTY1MjUwMDAwMDE4MDNjMjg4OWE2`

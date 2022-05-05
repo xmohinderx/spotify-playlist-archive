@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,895 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,048 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 4 | [Khala My Friend](https://open.spotify.com/track/17WvocrxbKL2t7HyoSpSCK) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:20 |
 | 5 | [Wanna Do My Thing](https://open.spotify.com/track/5PHMByfnN7hGWSnZsUoomX) | [Matata](https://open.spotify.com/artist/3wM3kzh5jEJwnsCaJIVtwU) | [Feelin' Funky](https://open.spotify.com/album/2k25m9vcKrYhkTcRUYYzQg) | 3:07 |
 | 6 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
-| 7 | [Afe Ato Yen Bio](https://open.spotify.com/track/6IwbrqhA8HxDwcIWNbAbGV) | [De Frank Professionals](https://open.spotify.com/artist/1fE63ATeabzzI5ohMJSw7n) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 14\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 4:42 |
+| 7 | [Afe Ato Yen Bio](https://open.spotify.com/track/6IwbrqhA8HxDwcIWNbAbGV) | [De Frank Professionals](https://open.spotify.com/artist/1fE63ATeabzzI5ohMJSw7n) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 8\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 4:42 |
 | 8 | [Petit Sekou](https://open.spotify.com/track/7bJSFZJzWv8J7AyzZIGASJ) | [Bembeya Jazz National](https://open.spotify.com/artist/1OGuNbASgvINcHfDtrDnj3) | [Discothèque 76](https://open.spotify.com/album/67OQuCcp8yfLRKa49asN8i) | 5:55 |
 | 9 | [Afro Beat Blues \(Feat\. Ojah\)](https://open.spotify.com/track/4Ua2SU25r2XCnT8CpmYAyM) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp), [Ojah](https://open.spotify.com/artist/4rdXJh5pnHQxhvmlCPJKwp) | [Presents the Chissa Years 1965\-1975](https://open.spotify.com/album/3kAccw0xfJEIayWAiyvKI4) | 6:47 |
 | 10 | [Tire Loma da Nigbehin](https://open.spotify.com/track/1106NpuH96tUmf53qlKsoA) | [Monomono](https://open.spotify.com/artist/6AmVniWakUqMZUBVc7zeK6) | [Tire Loma Da Nigbehin](https://open.spotify.com/album/1wmnnD0JYdybQhfmis8CxK) | 4:48 |

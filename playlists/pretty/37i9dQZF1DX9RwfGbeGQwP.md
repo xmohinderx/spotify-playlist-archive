@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > Chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,596 likes - 425 songs - 16 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,651 likes - 425 songs - 16 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 40 | [Connection](https://open.spotify.com/track/06AbUUsnDWJ6W4m6sEYnZI) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Connection](https://open.spotify.com/album/5rz7xkg4wnZMQg4IN9EDyD) | 2:46 |
 | 41 | [Chillin'](https://open.spotify.com/track/5QasMxBFqYtWjljLCm7SR4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr), [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Chillin'](https://open.spotify.com/album/2erNlAiEBMmBNE9addE9bK) | 2:28 |
 | 42 | [A short break](https://open.spotify.com/track/6i2DGyzis8BuUJRnzbill2) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [A short break](https://open.spotify.com/album/2dARGp3nfUoyTl8JaNuq8E) | 2:02 |
-| 43 | [Breakfast in Bed](https://open.spotify.com/track/1N0H9OSGxcSqlGtwk9Wfw4) | [Smoodmood](https://open.spotify.com/artist/5gWiSoKQnuzN6SzukwZhei), [Teau](https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Breakfast In Bed](https://open.spotify.com/album/2izlvKycfmcdkiG4S6Hbau) | 2:24 |
+| 43 | [Breakfast in Bed](https://open.spotify.com/track/1N0H9OSGxcSqlGtwk9Wfw4) | [Smoodmood](https://open.spotify.com/artist/5gWiSoKQnuzN6SzukwZhei), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Teau](https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID) | [Breakfast In Bed](https://open.spotify.com/album/2izlvKycfmcdkiG4S6Hbau) | 2:24 |
 | 44 | [Golden Hour](https://open.spotify.com/track/6fr0Zk5MAlEvTW6nPf5lad) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Golden Hour](https://open.spotify.com/album/7Cb05nGQNVgL32LIkdOxEM) | 2:04 |
 | 45 | [Rain](https://open.spotify.com/track/6Qo9rLlkAnaPSYzljIFeJ8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/3fhdj1IZa6mTiPQbQzKoBy) | 2:08 |
 | 46 | [Drive Thru](https://open.spotify.com/track/6dmo8FpWhleJYdiPwpKo4E) | [Loose Cannonz](https://open.spotify.com/artist/1PICAJuUPRwLbI77aAAtOV) | [Sea Breeze](https://open.spotify.com/album/700wmoRRp6z56TUym4tUPL) | 3:27 |

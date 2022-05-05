@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The fiercest African women making waves. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=NUkyaTHqSXKn6rO-lrJrZA\"> Nomfundo Moh </a>",
+  "description": "The fiercest African women making waves. Cover: <a href=\"https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M?si=NUBee52kRqWz9dHI1vbIbw\"> Zuchu </a>",
   "name": "EQUAL Africa",
   "published_playlist_ids": [
     "6yzD6damvxnHwo13ZRV2qK"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Mahogany St",
+        "url": "https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d"
+      },
+      "artists": [
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp"
+    },
     {
       "album": {
         "name": "Stairway To Heaven",
@@ -27,6 +45,28 @@
       "duration_ms": 203951,
       "name": "Abeg (feat. Amindi)",
       "url": "https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP"
+    },
+    {
+      "album": {
+        "name": "Adua (Remix)",
+        "url": "https://open.spotify.com/album/1qkEUpHPioAcOlMjDkEGLV"
+      },
+      "artists": [
+        {
+          "name": "Liya",
+          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Adua (Remix)",
+      "url": "https://open.spotify.com/track/7oZDRbZggx7wHJpQJqUGFp"
     },
     {
       "album": {
@@ -222,6 +262,28 @@
     },
     {
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/2vuKxwd9eHXmNP2AolZYp2"
+      },
+      "artists": [
+        {
+          "name": "Kofee Bean",
+          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
+        },
+        {
+          "name": "KiddBlack",
+          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z"
+    },
+    {
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2"
       },
@@ -298,6 +360,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/6rhM9Jy1HrlyALJY1TP8kj"
+      },
+      "artists": [
+        {
+          "name": "Mwanje",
+          "url": "https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183316,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/5B22C99j6dIYr8RuQPehn7"
+    },
+    {
+      "album": {
         "name": "Lagos to Jozi",
         "url": "https://open.spotify.com/album/2JfBHMbRioFcrq5ie7Rdwd"
       },
@@ -367,7 +447,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 198857,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3JT3enk1eYMdwoV5liSJ3B"
@@ -462,6 +542,24 @@
     },
     {
       "album": {
+        "name": "Eshu",
+        "url": "https://open.spotify.com/album/7Gb6bgH1YnrsoNulqp4tHd"
+      },
+      "artists": [
+        {
+          "name": "Amai Kuda Et Les Bois",
+          "url": "https://open.spotify.com/artist/1SBiL8VyIl0OzZbyJQTNvw"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "Eshu",
+      "url": "https://open.spotify.com/track/2EB9HogbtwaVVHOUhmArEp"
+    },
+    {
+      "album": {
         "name": "Panther in Mode",
         "url": "https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1"
       },
@@ -521,6 +619,24 @@
       "duration_ms": 281479,
       "name": "Feel",
       "url": "https://open.spotify.com/track/76mz34JYWi4qm4WuTulHWP"
+    },
+    {
+      "album": {
+        "name": "Find Me Now",
+        "url": "https://open.spotify.com/album/3fhfvuaFaruXeGguTHbpHx"
+      },
+      "artists": [
+        {
+          "name": "Lady Zamar",
+          "url": "https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Find Me Now",
+      "url": "https://open.spotify.com/track/6L10afputsSSBq42wmq3VM"
     },
     {
       "album": {
@@ -860,6 +976,32 @@
     },
     {
       "album": {
+        "name": "Lane",
+        "url": "https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162462,
+      "name": "Lane",
+      "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
+    },
+    {
+      "album": {
         "name": "Ada",
         "url": "https://open.spotify.com/album/6nZ7n5DR6sqV7AqsGAithg"
       },
@@ -871,7 +1013,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 230932,
       "name": "Life",
       "url": "https://open.spotify.com/track/3xBSBXvY0mSQuiWh58XP05"
@@ -911,6 +1053,28 @@
       "duration_ms": 158400,
       "name": "Mayana",
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
+    },
+    {
+      "album": {
+        "name": "Kilumi",
+        "url": "https://open.spotify.com/album/4medk5UXHb4cLGZnQmRkoF"
+      },
+      "artists": [
+        {
+          "name": "Coco Em",
+          "url": "https://open.spotify.com/artist/3FahF8OhHNaw7OJRfEPy9x"
+        },
+        {
+          "name": "Janice Iche",
+          "url": "https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Mbeni",
+      "url": "https://open.spotify.com/track/4GoHJShWNMbRoCmG2hn23w"
     },
     {
       "album": {
@@ -1045,10 +1209,32 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 180978,
       "name": "Mwambieni",
       "url": "https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9"
+    },
+    {
+      "album": {
+        "name": "My Man",
+        "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "My Man",
+      "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
     },
     {
       "album": {
@@ -1117,7 +1303,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 190000,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4"
@@ -1283,7 +1469,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 191626,
       "name": "Put You In Line",
       "url": "https://open.spotify.com/track/6FQ8JrJgVefEXyonSrC73S"
@@ -1363,6 +1549,36 @@
       "duration_ms": 192596,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju"
+    },
+    {
+      "album": {
+        "name": "Romantic Rivals",
+        "url": "https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE"
+      },
+      "artists": [
+        {
+          "name": "Wangechi",
+          "url": "https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6"
+        },
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+        },
+        {
+          "name": "Domani Mkadinali",
+          "url": "https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2"
+        },
+        {
+          "name": "Sewersydaa",
+          "url": "https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "Romantic Rivals",
+      "url": "https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY"
     },
     {
       "album": {
@@ -1482,6 +1698,42 @@
     },
     {
       "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/4A2JD3hw0NqoqIMe0q0Dbj"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125420,
+      "name": "Soft Life",
+      "url": "https://open.spotify.com/track/2NQnm0p9AFiiihmGokssSN"
+    },
+    {
+      "album": {
+        "name": "Somali Rose",
+        "url": "https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu"
+      },
+      "artists": [
+        {
+          "name": "Ria Boss",
+          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259673,
+      "name": "Somali Rose",
+      "url": "https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0"
+    },
+    {
+      "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
       },
@@ -1595,6 +1847,32 @@
       "duration_ms": 154000,
       "name": "S\u00e1r\u00e9",
       "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"
+    },
+    {
+      "album": {
+        "name": "Afrique Refait",
+        "url": "https://open.spotify.com/album/60uhkJ0Jj8yrnk6YRpCJKl"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        },
+        {
+          "name": "MC Yallah",
+          "url": "https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg"
+        },
+        {
+          "name": "Debmaster",
+          "url": "https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "Tala Tannam - Debmaster Remix",
+      "url": "https://open.spotify.com/track/14daujw9oZR0jlQQDMdY4J"
     },
     {
       "album": {

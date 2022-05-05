@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 183232,
       "name": "echo - acoustic",
       "url": "https://open.spotify.com/track/7LB11knvxUwv6CAMRu42Dz"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 169975,
       "name": "Grew Apart",
       "url": "https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 170328,
       "name": "heartbreak honeymoon",
       "url": "https://open.spotify.com/track/58QZNN5P9UC8moU8mWVzNy"
@@ -1901,7 +1901,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 198823,
       "name": "if you hate me, say it",
       "url": "https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO"
@@ -2197,7 +2197,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
@@ -2251,7 +2251,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 242652,
       "name": "listen before i go",
       "url": "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE"
@@ -2273,7 +2273,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 266219,
       "name": "london (with Cam)",
       "url": "https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln"
@@ -3919,7 +3919,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 202014,
       "name": "What I Put You Through",
       "url": "https://open.spotify.com/track/4JCcXmANxb48z3WTeUHiJp"
@@ -4042,6 +4042,24 @@
     },
     {
       "album": {
+        "name": "Why Am I Like This?",
+        "url": "https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212713,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
+    },
+    {
+      "album": {
         "name": "TOO YOUNG TO BE SAD",
         "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
@@ -4111,7 +4129,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 164408,
       "name": "Worst Kind of Hurt",
       "url": "https://open.spotify.com/track/2TvCQzggZs6tX9HmeXPja2"

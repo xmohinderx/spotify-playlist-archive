@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-271 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+273 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,12 +119,14 @@
 | [Heart Out My Chest](https://open.spotify.com/track/7upmHVQPUsEisdIA7NuMdt) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Heart Out My Chest](https://open.spotify.com/album/7hNCn0U74ITDR6zDbQWJcl) | 3:15 | 2022-01-30 | 2022-03-05 |
 | [HEROIN](https://open.spotify.com/track/54glJfnfZgMutAEMXpS2t8) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEROIN](https://open.spotify.com/album/40DFO4R4WiWLejep48mMAO) | 3:07 | 2022-03-28 |  |
 | [High Hopes](https://open.spotify.com/track/1Usby6wCOlnwFcbcXtqO8O) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [High Hopes](https://open.spotify.com/album/2Xt39TtY6ayTD6IfZhW3CU) | 2:09 | 2022-04-08 |  |
+| [High on Life](https://open.spotify.com/track/6ZX9CSWDRpf6C0aSP59pym) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6) | [High on Life](https://open.spotify.com/album/1CSE2niI6bZxdFRxLoAg41) | 3:16 | 2022-05-04 |  |
 | [Hold Me Close](https://open.spotify.com/track/6w8vKNoQ2EiAoeVdfFYkcF) | [3.](https://open.spotify.com/artist/2OUF2KY2wowaSsQHMCAoI4), [SHERIFF](https://open.spotify.com/artist/4WAVgrrw6O5sNu4iTVU487) | [Hold Me Close](https://open.spotify.com/album/7C8Ad9qXWfhCJWgCtqvzBs) | 2:26 | 2022-04-29 |  |
 | [Holding On \- Rome In Silver Remix](https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Holding On \(Rome In Silver Remix\)](https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M) | 3:00 | 2022-01-22 |  |
 | [how you like me now](https://open.spotify.com/track/4dbQFY2jSgKrMWu6et132u) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS), [STAHL](https://open.spotify.com/artist/70urRuTXP7M2orf9bvn3DS) | [how you like me now](https://open.spotify.com/album/3tEwNQkSdTz12dyhG0g45k) | 2:04 | 2022-02-18 | 2022-03-19 |
 | [Human](https://open.spotify.com/track/3Y01ciVMNWp7hNCjP9J4Gc) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL) | [Human](https://open.spotify.com/album/3yQJSRbBjg5blygtrOzrnS) | 2:30 | 2022-01-14 | 2022-02-05 |
 | [Hurricane](https://open.spotify.com/track/4JzTQFJ4kFG1Tqol1DkFoZ) | [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5), [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Hurricane](https://open.spotify.com/album/3eFW35qg9tx6zCPxAcmeaq) | 3:16 | 2022-04-21 |  |
 | [Hysteria](https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Hysteria](https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE) | 3:49 | 2022-02-03 |  |
+| [I can't stop](https://open.spotify.com/track/02xP8YKQjC9EOti0sC87Nl) | [Hiboky](https://open.spotify.com/artist/4XmN4QdtGS3wBL5Erq7RWu) | [I can't stop](https://open.spotify.com/album/2JLidK5LE0nbC7XYJAIo1T) | 3:10 | 2022-05-04 |  |
 | [I Know](https://open.spotify.com/track/2Kzp4jYbUbDSxbX13oMd2a) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [I Know](https://open.spotify.com/album/20U0SiZh9ofVxSOlvPVLBV) | 3:44 | 2022-04-01 |  |
 | [i wanna say](https://open.spotify.com/track/3Xv0K6XiBhbEHC3LEoj9id) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [i wanna say](https://open.spotify.com/album/4dhUxrW3VtRdFrrgjj7Mnr) | 3:07 | 2022-04-01 |  |
 | [I'm Dreaming](https://open.spotify.com/track/0EqSRhWIeNqdomsU603EfC) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [I'm Dreaming](https://open.spotify.com/album/5OrbMYF9w0mxSi5mwtLoYR) | 3:57 | 2022-01-14 |  |

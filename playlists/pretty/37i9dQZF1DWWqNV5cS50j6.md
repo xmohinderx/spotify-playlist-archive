@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not not not pop\. Cover: Brevin Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,662 likes - 125 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,778 likes - 125 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

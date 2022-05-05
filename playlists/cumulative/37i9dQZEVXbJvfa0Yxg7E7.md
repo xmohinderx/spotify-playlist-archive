@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-613 songs - 1 day 8 hr 16 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+614 songs - 1 day 8 hr 20 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-23 |
 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 | 2022-01-22 | 2022-01-24 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-14 | 2022-04-30 |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-04 |  |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-10-29 | 2021-11-23 |
 | [After All](https://open.spotify.com/track/38UDoZyudPWXLzXRAb71oP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [After All](https://open.spotify.com/album/3kxT5SN1GQ3j3kS9NHOsYI) | 3:28 | 2021-09-26 | 2021-09-27 |
 | [Afterski](https://open.spotify.com/track/0UQvSOE0CgQ1gIHSfo73RS) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Afterski](https://open.spotify.com/album/0ZxmkvnQFdgiK8VS7yzfsl) | 2:30 | 2021-03-29 | 2022-04-24 |
@@ -45,7 +46,7 @@
 | [Baby, It's Cold Outside \(feat\. Christel Alsos\)](https://open.spotify.com/track/44PlwWxz3q10i2WrznihX4) | [Kurt Nilsen](https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv), [The Norwegian Radio Orchestra](https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02), [Christel Alsos](https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc) | 3:41 | 2021-12-25 | 2021-12-27 |
 | [Bacardi fra en kopp \(feat\. Amara\)](https://open.spotify.com/track/4RbbAdOtGvXTVXAvZvPgXa) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Bacardi fra en kopp \(feat\. Amara\)](https://open.spotify.com/album/68lUMbLFja11NTlPMinTwP) | 2:41 | 2021-07-25 | 2021-07-31 |
 | [Back To Reality 2021 \(feat\. Solguden\)](https://open.spotify.com/track/66VDSp4xuQElxDVxaapiVG) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [DJ Black](https://open.spotify.com/artist/6fQmO1Ho6EAGZpRBHnyp5m), [Jaannybravo](https://open.spotify.com/artist/3FuQb8Yj6J8ZJSCTv7ZKAV), [Solguden](https://open.spotify.com/artist/76oRj8bdYsniX36EQNLZ58) | [Back To Reality 2021 \(feat\. Solguden\)](https://open.spotify.com/album/4qEHrDdIjvekUckCJOJrfB) | 3:01 | 2022-04-28 |  |
-| [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 |  |
+| [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2022-05-05 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-31 |
 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 | 2022-04-23 | 2022-05-03 |
 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5) | 1:46 | 2021-11-14 | 2021-11-19 |

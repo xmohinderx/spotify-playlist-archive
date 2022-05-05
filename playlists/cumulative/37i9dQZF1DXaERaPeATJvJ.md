@@ -4,7 +4,7 @@
 
 > Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Themilo
 
-72 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+73 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Sepasang Kekasih Yang Pertama Bercinta Di Luar Angkasa](https://open.spotify.com/track/7pXbfo5RqiKu8ojg6qJCpX) | [Frau](https://open.spotify.com/artist/57aIUWdoh4cKqfr78UksRS), [Ugoran Prasad](https://open.spotify.com/artist/0pLLozVOEXjYuEu4c4vuE8) | [Starlit Carousel](https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M) | 6:27 | 2021-11-25 |  |
 | [She Pretends](https://open.spotify.com/track/7EBjzSq8dyhwZvNsDtdOjY) | [cscd](https://open.spotify.com/artist/7bKRgEFmYuAzF3xSbI5ftZ) | [Pieces Of The World](https://open.spotify.com/album/6tDKVE1hkmrXUD87JJe0F7) | 4:23 | 2021-11-25 |  |
 | [Spoken](https://open.spotify.com/track/208KDxFGSAbH5ZYA1ktBuk) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 5:17 | 2021-11-25 |  |
+| [Strange Is the Song in Our Conversation](https://open.spotify.com/track/10s8XK7vzEIfDP1fSIVzst) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98), [Marsha Suryawinata](https://open.spotify.com/artist/74ImuWk6U363Ktn4QbQjsL) | [Lantai Merah](https://open.spotify.com/album/51pYHM3rQTWuN1wvIyknsi) | 4:48 | 2022-05-04 |  |
 | [Suburban Love](https://open.spotify.com/track/5idywMLoczcnF9P3w26bTq) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside](https://open.spotify.com/album/6Zt1SG67JijuskYbTSwxDs) | 5:10 | 2022-04-14 |  |
 | [Ta' Ada Yang Gelap](https://open.spotify.com/track/0csrfbjfJcRxCDcp4KzhDO) | [FABLE](https://open.spotify.com/artist/6GoEL7hKaBGHSLoDkcFMNm) | [Fable](https://open.spotify.com/album/3ItOraUy3QuOtiiWHAVFO9) | 4:21 | 2021-11-25 |  |
 | [Tarian](https://open.spotify.com/track/1QVHsfLzOrsoKJTbRnbWZS) | [L'Alphalpha](https://open.spotify.com/artist/46ipdIq678HcnKpQqYFPuh) | [Von Stufe Zu Stufe](https://open.spotify.com/album/3xBAgVZ2bjZeUbRmO4CMUH) | 5:16 | 2021-11-25 |  |

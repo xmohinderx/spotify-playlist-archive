@@ -4,7 +4,7 @@
 
 > In loving memory of Marie Fredriksson.
 
-51 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/1fUcg2oddZ7NzQJEr3yXBo)
+52 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/1fUcg2oddZ7NzQJEr3yXBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Directamente a Ti \(Run to You\)](https://open.spotify.com/track/4Uf16gygVXW2aZuuXI0qRO) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 3:32 | 2020-10-01 |  |
 | [Dressed For Success](https://open.spotify.com/track/5hRXW7bDPwj08jTI74N3gg) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 4:09 | 2020-10-01 |  |
 | [Easy Way Out](https://open.spotify.com/track/652SjitiLFptw9ac34uQoz) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Travelling](https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq) | 3:38 | 2020-10-01 |  |
+| [Fading Like A Flower](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Fading Like A Flower](https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT) | 2:25 | 2022-05-04 |  |
 | [Fading Like A Flower \(Every Time You Leave\)](https://open.spotify.com/track/7qSd3WHSPUtmt6c36pwJaY) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Deluxe Version\)](https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R) | 3:50 | 2020-10-01 |  |
 | [Good Karma](https://open.spotify.com/track/7B0cmoe2K9vOTaYZP8AWP8) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 3:19 | 2020-10-01 |  |
 | [Habla El Corazón \(Listen to Your Heart\)](https://open.spotify.com/track/2V9cNEWIimaJCXMw4tL6Sk) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 5:11 | 2020-10-01 |  |

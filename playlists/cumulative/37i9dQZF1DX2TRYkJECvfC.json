@@ -285,7 +285,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 346451,
       "name": "Anything & Everything",
       "url": "https://open.spotify.com/track/3LbSfbeLXZSWVHiyFvahcM"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 286271,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2C8c1RN9BDuwR7DiIXqYNY"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 281840,
       "name": "Churches",
       "url": "https://open.spotify.com/track/4PWnRpj7y40SaUUD2fELAn"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 392905,
       "name": "Coyhaique - Original Mix",
       "url": "https://open.spotify.com/track/5lvx0HcLnbXBjHIC7LcwUD"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 363680,
       "name": "Fade - Fatima & Jerome Interpretation",
       "url": "https://open.spotify.com/track/2s2Cgh3uwaMpCnIXavUSHt"
@@ -1795,7 +1795,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 373562,
       "name": "Inspired",
       "url": "https://open.spotify.com/track/1Bii3LSvFNeRTrW4s0Kj4m"
@@ -1911,7 +1911,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 425084,
       "name": "Juli",
       "url": "https://open.spotify.com/track/5Fps0MTzLWDEdkrEzjefWt"
@@ -2013,7 +2013,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
@@ -2169,7 +2169,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 147457,
       "name": "Letzter",
       "url": "https://open.spotify.com/track/7A75UBKiDVmzvaFkYpnYz4"
@@ -2213,7 +2213,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 472195,
       "name": "Live For The Music (feat. Erire) - Instrumental",
       "url": "https://open.spotify.com/track/0ff3N46RJWzrz1nMApRLdx"
@@ -2391,7 +2391,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 385573,
       "name": "Mamafaka",
       "url": "https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF"
@@ -2529,7 +2529,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 365792,
       "name": "Moment Scale - Dubmaster X Remix",
       "url": "https://open.spotify.com/track/3RsWr97TnDsUA4AMd2aiXB"
@@ -2653,7 +2653,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 267874,
       "name": "Natural Consequence",
       "url": "https://open.spotify.com/track/6aAIl1SKNgDGcZXlh841N6"
@@ -2740,6 +2740,24 @@
     },
     {
       "album": {
+        "name": "Nostalgic",
+        "url": "https://open.spotify.com/album/2ZErGALHzhUPyxR9nOiZU4"
+      },
+      "artists": [
+        {
+          "name": "Col Lawton",
+          "url": "https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389033,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/10LSigkAHxT3yBe1rQJpBv"
+    },
+    {
+      "album": {
         "name": "Endless (Remixes)",
         "url": "https://open.spotify.com/album/2obZe0VX40C3BL9FNmDjP7"
       },
@@ -2777,7 +2795,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 425043,
       "name": "Novo Dia",
       "url": "https://open.spotify.com/track/3rYiDPHMFnUseosoKq6YCC"
@@ -2831,7 +2849,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 277073,
       "name": "Odyssee - Pt. 2",
       "url": "https://open.spotify.com/track/4isQapTCsf1TvF9RkzfrCG"
@@ -3349,7 +3367,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 395520,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/3KOdeL8kLUYBpM10XMZ2iy"
@@ -3573,7 +3591,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 503500,
       "name": "She's A Replicant - Afriqua Remix",
       "url": "https://open.spotify.com/track/19iHk5XuK4BwNrEbqUCkxO"
@@ -3755,7 +3773,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 287750,
       "name": "Solace",
       "url": "https://open.spotify.com/track/7B9Nl7MSxywe2TfcqztTJ5"
@@ -3897,7 +3915,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 415238,
       "name": "Spectrum - Original",
       "url": "https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV"
@@ -4035,7 +4053,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 441289,
       "name": "Supervivencia - Original Mix",
       "url": "https://open.spotify.com/track/4bJlbvjScvFlkzuHU1AC0n"
@@ -4467,7 +4485,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 408027,
       "name": "Transit of Venus",
       "url": "https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac"
@@ -4557,7 +4575,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 387049,
       "name": "Unknown Neighbor",
       "url": "https://open.spotify.com/track/1EETWBjKos9qzuKFWYNK8w"
@@ -4601,7 +4619,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 430374,
       "name": "Vince Montana Tribute - LV & Rick Wilhite ReWork",
       "url": "https://open.spotify.com/track/2yMFXtHHJTMTv2ynWl6avF"
@@ -4645,7 +4663,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 526779,
       "name": "Vutuka",
       "url": "https://open.spotify.com/track/5dW1pmxxlWlBcqUUGL6wE9"
@@ -4805,7 +4823,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 225000,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw"
@@ -4957,7 +4975,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 471473,
       "name": "Yini - Serge Devant Remix",
       "url": "https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp"
@@ -5051,7 +5069,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 466608,
       "name": "Zikaron",
       "url": "https://open.spotify.com/track/69a3g97juYgOj3nFT6xX5d"

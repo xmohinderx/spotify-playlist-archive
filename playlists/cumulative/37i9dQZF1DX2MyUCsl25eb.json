@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 170960,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/3eDo0sBUGqFUnnScLAUy0f"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 200173,
       "name": "Dancing Slow",
       "url": "https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 284146,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/33onVefa4PMs8b705pKRGz"
@@ -1321,7 +1321,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 209300,
       "name": "evergone",
       "url": "https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 216866,
       "name": "Face The River",
       "url": "https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF"
@@ -1570,6 +1570,24 @@
     },
     {
       "album": {
+        "name": "Four Moons",
+        "url": "https://open.spotify.com/album/03Lr0XypP8kCFSauaugvmi"
+      },
+      "artists": [
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215280,
+      "name": "Four Moons",
+      "url": "https://open.spotify.com/track/1HKID3TlgC1HOSGJU6Icya"
+    },
+    {
+      "album": {
         "name": "Funeral Singers",
         "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
       },
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 174557,
       "name": "Good Person",
       "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 282506,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/1cXhJOnf6n1Ed7kbdFd4hq"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 150156,
       "name": "Home",
       "url": "https://open.spotify.com/track/7smPGXPTC7rfvvYBs624hl"
@@ -2299,7 +2317,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 227350,
       "name": "In Water",
       "url": "https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO"
@@ -2732,6 +2750,24 @@
     },
     {
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/7xQTGR29x2BzB1zYniXIan"
+      },
+      "artists": [
+        {
+          "name": "Karen Elson",
+          "url": "https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146560,
+      "name": "Look Over My Shoulder",
+      "url": "https://open.spotify.com/track/5pVX2A5DLqQfNrpUdRw306"
+    },
+    {
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5"
       },
@@ -3086,6 +3122,24 @@
     },
     {
       "album": {
+        "name": "New Normal",
+        "url": "https://open.spotify.com/album/2Gpdm0FDnFWxvI9oB6emOB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187506,
+      "name": "New Normal",
+      "url": "https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07"
+    },
+    {
+      "album": {
         "name": "Oh, Inverted World",
         "url": "https://open.spotify.com/album/6tMeipxbqiKnp7F368cwsi"
       },
@@ -3281,7 +3335,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 157184,
       "name": "parasite",
       "url": "https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH"
@@ -3389,7 +3443,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 213573,
       "name": "Permanent",
       "url": "https://open.spotify.com/track/1rSOFCuQXMtLu5bvv9qSW7"
@@ -3497,7 +3551,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/6YDf6QV7QfCEo8O2dbWalK"
@@ -3887,7 +3941,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 274506,
       "name": "Something New",
       "url": "https://open.spotify.com/track/1i5cR4r7eiPcl1X8JYPDFu"
@@ -3905,7 +3959,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 271276,
       "name": "Something To Hold",
       "url": "https://open.spotify.com/track/2oPczwxIHoFxNkl7SbKNAH"
@@ -4082,6 +4136,24 @@
     },
     {
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/3bzu8rRotavOgVPrQFPmwT"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257013,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/1DEHkieaXEuXm2SumbWQG1"
+    },
+    {
+      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -4231,6 +4303,24 @@
       "duration_ms": 221213,
       "name": "The Start (Acoustic)",
       "url": "https://open.spotify.com/track/1TSZlZNbAkZNK8KbyjjHwF"
+    },
+    {
+      "album": {
+        "name": "The Sweetest Part",
+        "url": "https://open.spotify.com/album/6uFHbaZeX8HwXjqRLKR6hA"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223402,
+      "name": "The Sweetest Part",
+      "url": "https://open.spotify.com/track/6cm7s8AeYlIpwOg4vToAeq"
     },
     {
       "album": {
@@ -4429,7 +4519,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 195093,
       "name": "Want That Back",
       "url": "https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1"
@@ -4501,7 +4591,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 233425,
       "name": "We'll Be Alright",
       "url": "https://open.spotify.com/track/6klNPAhUTmsYNlWbOyVbsy"
@@ -4805,7 +4895,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 194231,
       "name": "You Better Run",
       "url": "https://open.spotify.com/track/7BX7n5ZRHCM8Ao4dN70qnC"

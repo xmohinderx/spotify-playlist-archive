@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128392,
+  "num_followers": 128391,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM4MywwMTg2ODIzYmQwMjFmN2NjNzA3YmU5ODhmYTlkZDBmYWM1NGE5OTI0",
+  "snapshot_id": "MzM4NSw2MDY5YzE4N2QxMmE2NjFlNTgxYjY3NjU3MTI2NTFkZTk0NjM3Yjdi",
   "tracks": [
+    {
+      "added_at": "2022-05-04 16:18:39",
+      "album": {
+        "name": "Outlines",
+        "url": "https://open.spotify.com/album/1GKcEcDtOBsRRgJxNx765a"
+      },
+      "artists": [
+        {
+          "name": "Stendahl",
+          "url": "https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo"
+        },
+        {
+          "name": "Meeting Molly",
+          "url": "https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Outlines",
+      "url": "https://open.spotify.com/track/6u09isfip6hiPkOl0uobwy"
+    },
     {
       "added_at": "2022-05-03 16:17:30",
       "album": {
@@ -1059,30 +1079,6 @@
       "duration_ms": 230000,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "New Age (Bossfight Remix)",
-        "url": "https://open.spotify.com/album/4wUzPAPk50YZRRxMcCRPPX"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        },
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        },
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "New Age - Bossfight Remix",
-      "url": "https://open.spotify.com/track/5aCABFeoSwL2Ux0c1gW2QL"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

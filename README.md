@@ -2317,6 +2317,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Soft Pop Hits](/playlists/pretty/37i9dQZF1DWTwnEm1IYyoj.md)
 - [Soft Rock](/playlists/pretty/37i9dQZF1DX6xOPeSOGone.md)
 - [Soirée](/playlists/pretty/37i9dQZF1DX4Vd1jJ7X9H8.md)
+- [Solo Jazz Piano](/playlists/pretty/37i9dQZF1DX2EXcndYUb2y.md)
 - [Some Kinda Way](/playlists/pretty/37i9dQZF1DWW78Y3ocEppf.md)
 - [SongCraft](/playlists/pretty/37i9dQZF1DX4cukhkYKVZW.md)
 - [Songbirds](/playlists/pretty/5JXV7ioEqB9ZA1b1RjSLVg.md)

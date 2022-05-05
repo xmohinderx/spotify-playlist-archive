@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 231500,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/1yuwQM4hjfcpa45pkFzdDY"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 204373,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/6XLzVUmjuhpYy9EAnC6KDN"
@@ -1212,6 +1212,28 @@
     },
     {
       "album": {
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/7Jl45cmO0a0yzJJw62i3Ps"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/2F3Ta1V8cKZfLmu5vEF41b"
+    },
+    {
+      "album": {
         "name": "Bossanova Dinner",
         "url": "https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf"
       },
@@ -1360,6 +1382,28 @@
     },
     {
       "album": {
+        "name": "Rolling in the Deep",
+        "url": "https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223889,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6bzKHErUwnKYXMooyayCEL"
       },
@@ -1425,7 +1469,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 213746,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/25q0NW59vQQ2sS8QxeCjXB"
@@ -1678,6 +1722,28 @@
     },
     {
       "album": {
+        "name": "Sweet Child O' Mine",
+        "url": "https://open.spotify.com/album/7k2tdsIiuaQY0fLXiO7V1a"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204154,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/2DHoF695nEPtbWMiqFeDTy"
+    },
+    {
+      "album": {
         "name": "Thank You Next - Bossa Nova",
         "url": "https://open.spotify.com/album/4cpGMTeSx4MyAbDgfW51ih"
       },
@@ -1783,6 +1849,28 @@
       "duration_ms": 166226,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/3a3WkFkamEZsGsjnymi3hy"
+    },
+    {
+      "album": {
+        "name": "Best of Bossa Lounge (Millenium Edition)",
+        "url": "https://open.spotify.com/album/1jP8363d7EK6QHKYq8eZhX"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        },
+        {
+          "name": "Daniela Maia",
+          "url": "https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5"
     },
     {
       "album": {

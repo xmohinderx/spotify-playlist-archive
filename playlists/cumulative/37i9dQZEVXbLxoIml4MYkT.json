@@ -1605,10 +1605,28 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
+    },
+    {
+      "album": {
+        "name": "Trap Variado",
+        "url": "https://open.spotify.com/album/4Yu99aK6r1SBJdb0bHtc64"
+      },
+      "artists": [
+        {
+          "name": "Trap Naption",
+          "url": "https://open.spotify.com/artist/1FcEQYh1EHZrNVCmbxdC7r"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286066,
+      "name": "Diles",
+      "url": "https://open.spotify.com/track/5ZzNGwBBGaewMGG1LucGfp"
     },
     {
       "album": {

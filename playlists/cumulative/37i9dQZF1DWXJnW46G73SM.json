@@ -994,6 +994,28 @@
     },
     {
       "album": {
+        "name": "Good Morning Baby",
+        "url": "https://open.spotify.com/album/41rVNCKFx5rMKUKRKcyLdg"
+      },
+      "artists": [
+        {
+          "name": "Hassan Shakosh",
+          "url": "https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt"
+        },
+        {
+          "name": "Omar Kamal",
+          "url": "https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151110,
+      "name": "Good Morning Baby",
+      "url": "https://open.spotify.com/track/3XklYy1kjbs0y0HL5s56gU"
+    },
+    {
+      "album": {
         "name": "Haga Ghareeba",
         "url": "https://open.spotify.com/album/0DDyP1N6Tp9I3zB5EwzV91"
       },
@@ -1745,6 +1767,28 @@
       "duration_ms": 200699,
       "name": "Met3ala2 Beeky",
       "url": "https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO"
+    },
+    {
+      "album": {
+        "name": "Min Awel Dekika",
+        "url": "https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        },
+        {
+          "name": "Saad Lamjarred",
+          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "Min Awel Dekika",
+      "url": "https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2"
     },
     {
       "album": {

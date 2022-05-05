@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-41 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+42 songs - 2 hr 22 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Surdose](https://open.spotify.com/track/4LC69zHD4ErGxZZBzHpThq) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu) | [Surdose](https://open.spotify.com/album/6ky2LQD22BcQtCeqyxRmfr) | 4:00 | 2022-04-28 |  |
 | [Swagga](https://open.spotify.com/track/3zKkcyRXcDiKbYQh0srMBe) | [Shdws](https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg), [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Spellbound](https://open.spotify.com/album/0cX2g0xSiSLrMBmqWyUmUE) | 4:27 | 2022-04-29 |  |
 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 | 2022-03-04 |  |
+| [To the Top](https://open.spotify.com/track/51kmMosGrxEBWIg3XV6NIg) | [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0) | [To the Top](https://open.spotify.com/album/5zmmLF0PWCv4DroMvh8upa) | 2:55 | 2022-05-04 |  |
 | [Trouble](https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 2:49 | 2022-04-28 |  |
 | [Under The Lights](https://open.spotify.com/track/0WQv5M9BAHCM6ZPckPEdD8) | [Dennis Beutler](https://open.spotify.com/artist/2VIBqJ811sIGbtwmYYFXP5), [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Under The Lights](https://open.spotify.com/album/1oBhspTnFSCwh1NLeuvAju) | 3:07 | 2022-04-28 |  |
 | [Uno Dos Tres](https://open.spotify.com/track/1tmiHmrdeVP3dGaIsCxtcW) | [Whistleface](https://open.spotify.com/artist/7KnYUpS6tznoeCp8LeJI1D), [Mack Gray](https://open.spotify.com/artist/5ga4xg1wQ3JyzEJAPSU51x) | [Uno Dos Tres](https://open.spotify.com/album/0eAqLbQnSS7H0iJTxV8q20) | 2:24 | 2022-04-28 |  |

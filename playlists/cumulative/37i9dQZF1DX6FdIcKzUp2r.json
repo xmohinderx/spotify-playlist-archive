@@ -55,7 +55,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 269666,
       "name": "A Month Of Sundays",
       "url": "https://open.spotify.com/track/2UvjKanQFcupuVtGhNbvUn"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 292666,
       "name": "Behind the Veil (with Terry Bozzio & Tony Hymas)",
       "url": "https://open.spotify.com/track/1zC1tzJToHYYZuTbYbZ4Dl"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 251493,
       "name": "Beside",
       "url": "https://open.spotify.com/track/0uUcARJtUGVtf6w35FSoPs"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 234493,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 237600,
       "name": "Drive",
       "url": "https://open.spotify.com/track/1s4Mvh3jgFCJJijR53JIEx"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 289906,
       "name": "English Landscape Tradition",
       "url": "https://open.spotify.com/track/61lWbBQqGoM9daRCuEGBtJ"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 279413,
       "name": "Has Anyone Ever Written Anything for You",
       "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 182360,
       "name": "I Will Never Love Again",
       "url": "https://open.spotify.com/track/4isRY93vp7ir4OzPGLDa2Z"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 243026,
       "name": "It's a Mystery",
       "url": "https://open.spotify.com/track/15fdjzKpxFAQcFpmwbsB9a"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 342973,
       "name": "Nostalgia - Remastered 2003",
       "url": "https://open.spotify.com/track/3vjaDEadbVnlyplWKOg1hR"
@@ -1284,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228893,
+      "name": "Ravel In The Rain",
+      "url": "https://open.spotify.com/track/7mLzdjwOMCkAdprJsawjjU"
+    },
+    {
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 287973,
       "name": "Soul Mining",
       "url": "https://open.spotify.com/track/7MgbqtibSRfBaK0CZQrqWF"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 103773,
       "name": "Tara",
       "url": "https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 277666,
       "name": "The One",
       "url": "https://open.spotify.com/track/7e398pvIvlwFSoBZuH9R6h"
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 239720,
       "name": "The Things You Said",
       "url": "https://open.spotify.com/track/5tb8T4WJ5SULuf8lNkVfEp"
@@ -1987,7 +2005,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 181600,
       "name": "Zamba",
       "url": "https://open.spotify.com/track/1esRZszubnjNyMWJmlGM7E"

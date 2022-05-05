@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Micayl, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Ocean LeClair, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -45,6 +45,24 @@
       "duration_ms": 187391,
       "name": "2nd Floor",
       "url": "https://open.spotify.com/track/1Z5PMuV1AOBokmmEXupSpt"
+    },
+    {
+      "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/7LpLN7N13cHYadIiadDVYw"
+      },
+      "artists": [
+        {
+          "name": "North Naim",
+          "url": "https://open.spotify.com/artist/21M0q2WeCiN12Pa1UWpNCj"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198782,
+      "name": "444",
+      "url": "https://open.spotify.com/track/6A0kXgaun0zxhtjs28UKw0"
     },
     {
       "album": {
@@ -254,6 +272,24 @@
     },
     {
       "album": {
+        "name": "Arbeit und Struktur",
+        "url": "https://open.spotify.com/album/3mQjdSK4HcsB61Vf7W0Slm"
+      },
+      "artists": [
+        {
+          "name": "Hotel Rimini",
+          "url": "https://open.spotify.com/artist/7biB33wdoy2Kz0sKoGfj53"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248297,
+      "name": "Arbeit und Struktur",
+      "url": "https://open.spotify.com/track/1xhxXNRDW0FjkCxPQPxVa3"
+    },
+    {
+      "album": {
         "name": "Artist",
         "url": "https://open.spotify.com/album/1bFsQ1HqrYUmtWyZ3lSVBN"
       },
@@ -398,6 +434,24 @@
     },
     {
       "album": {
+        "name": "Begs me to dance",
+        "url": "https://open.spotify.com/album/4sYgiMKZ3ndk027S540GLC"
+      },
+      "artists": [
+        {
+          "name": "Agatha is Dead!",
+          "url": "https://open.spotify.com/artist/3t12sehooJP6lkLBy4h9R1"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151885,
+      "name": "Begs me to dance",
+      "url": "https://open.spotify.com/track/2wNxeAqaQdkLCmumgQ4enA"
+    },
+    {
+      "album": {
         "name": "big bull",
         "url": "https://open.spotify.com/album/78UO1jX8EjsT9aDHTHedn2"
       },
@@ -409,7 +463,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 172959,
       "name": "big bull",
       "url": "https://open.spotify.com/track/2DfUWRyNwrq649gMHtivnP"
@@ -565,6 +619,24 @@
       "duration_ms": 234666,
       "name": "BoyToy",
       "url": "https://open.spotify.com/track/0S3GbVZNxPn0eQYB5S1Sz3"
+    },
+    {
+      "album": {
+        "name": "BRD Noir",
+        "url": "https://open.spotify.com/album/0gp5VNjhgG8fNB46Ks808g"
+      },
+      "artists": [
+        {
+          "name": "Jogger",
+          "url": "https://open.spotify.com/artist/6WfovyqrOYzwSMQEqOjlo1"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170086,
+      "name": "BRD Noir",
+      "url": "https://open.spotify.com/track/0y1nMW1hdiPwnffgO1FUMq"
     },
     {
       "album": {
@@ -806,6 +878,24 @@
     },
     {
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/0lHYuBBi2sWFP0j8ilARPz"
+      },
+      "artists": [
+        {
+          "name": "Clear Coast",
+          "url": "https://open.spotify.com/artist/58UapvdMDXRAObkMvp4Ree"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189040,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/5M0sGKRpEbuPRp6h9MwBpH"
+    },
+    {
+      "album": {
         "name": "Die Welt ist fertig",
         "url": "https://open.spotify.com/album/5nTHiVkexfddhYi4XGT5N1"
       },
@@ -817,7 +907,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 240813,
       "name": "Die Welt ist fertig",
       "url": "https://open.spotify.com/track/3LUOcqlu46rIVkRRxJF0mU"
@@ -1463,10 +1553,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 434060,
       "name": "Hack Into Your Soul",
       "url": "https://open.spotify.com/track/7aeAQvMddQg6EOb0lQcieC"
+    },
+    {
+      "album": {
+        "name": "Hai oder Hering",
+        "url": "https://open.spotify.com/album/0WkZrFYX6O8TDr9Nbpwwtt"
+      },
+      "artists": [
+        {
+          "name": "raumfisch",
+          "url": "https://open.spotify.com/artist/5PWhkydVS4baSEsnLJmFey"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228387,
+      "name": "Hai oder Hering",
+      "url": "https://open.spotify.com/track/0ikQkZm6cm4xZYSrOy77eB"
     },
     {
       "album": {
@@ -1845,7 +1953,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 144000,
       "name": "Immer Da",
       "url": "https://open.spotify.com/track/5LeZQN2oYx0bi1BtYCUkDJ"
@@ -2101,7 +2209,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 295675,
       "name": "Kaisermantel",
       "url": "https://open.spotify.com/track/1ThZOanS72JqrhCCpfOPXo"
@@ -2711,10 +2819,28 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 133953,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/1LbZGCffeOGXyXEQsUoL2F"
+    },
+    {
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/4h5VsV26hGgmhS34k2LApb"
+      },
+      "artists": [
+        {
+          "name": "Detechtive",
+          "url": "https://open.spotify.com/artist/7tx1v32KdbYBuU5LaMji6z"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/6QOwQePqZlij4xcdVj14DH"
     },
     {
       "album": {
@@ -2783,7 +2909,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 182606,
       "name": "Narbenherz",
       "url": "https://open.spotify.com/track/6SweHmEqP8dq4k9tkanykm"
@@ -3321,7 +3447,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 294482,
       "name": "Roads - Ede Remix",
       "url": "https://open.spotify.com/track/2lkwSpLsr4scWtmuIrtKVC"
@@ -3516,6 +3642,24 @@
     },
     {
       "album": {
+        "name": "Silver Screens",
+        "url": "https://open.spotify.com/album/28EgjcSozPVhh5L4WXYZpQ"
+      },
+      "artists": [
+        {
+          "name": "Willow Parlo",
+          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Silver Screens",
+      "url": "https://open.spotify.com/track/6PaYceNoEhqsXRuPJx0B0n"
+    },
+    {
+      "album": {
         "name": "Slipper",
         "url": "https://open.spotify.com/album/7CxctPGPpZCHiGZ5kAz3X1"
       },
@@ -3567,6 +3711,24 @@
       "duration_ms": 185063,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3YfVl8ppe0M4nM3ROyBS6D"
+    },
+    {
+      "album": {
+        "name": "Something To Save",
+        "url": "https://open.spotify.com/album/2TRPdBwGBtgpwgdl3KFy1C"
+      },
+      "artists": [
+        {
+          "name": "She Knows",
+          "url": "https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227796,
+      "name": "Something To Save - Radio Edit",
+      "url": "https://open.spotify.com/track/2y18y42IEQlAsUHoRWSduw"
     },
     {
       "album": {
@@ -3679,7 +3841,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 210187,
       "name": "Starstruck",
       "url": "https://open.spotify.com/track/4sVkZ9vP6YZB5R5DU6wfEi"
@@ -3791,7 +3953,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 262222,
       "name": "Summer is Gone",
       "url": "https://open.spotify.com/track/42zDdOjb59esXiwAEPkcUZ"
@@ -3946,6 +4108,24 @@
     },
     {
       "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/20yMqSwOxvKb3H6yYRfEey"
+      },
+      "artists": [
+        {
+          "name": "Three Times Faster",
+          "url": "https://open.spotify.com/artist/6Bd4zIbPzVhdAK9gEvuX3d"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180124,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/474rr9J1qEIeKmcaRuISGY"
+    },
+    {
+      "album": {
         "name": "The Golden Age",
         "url": "https://open.spotify.com/album/47hJI4xiQf5emwvfnW2n5M"
       },
@@ -3997,6 +4177,24 @@
       "duration_ms": 241414,
       "name": "The Weatherman",
       "url": "https://open.spotify.com/track/48slNMBWmhIdfuCUJm0SFN"
+    },
+    {
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/5xl7j7J98elPb2bP2OJ9oZ"
+      },
+      "artists": [
+        {
+          "name": "KTRNA",
+          "url": "https://open.spotify.com/artist/5pKcy7BcqjgJ632BpR6wMa"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144420,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/72lUG8YbxHpZY0Ccxxn7t1"
     },
     {
       "album": {
@@ -4155,7 +4353,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 280000,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6QvUhzYIBiuRaMJbm120te"
@@ -4360,6 +4558,24 @@
     },
     {
       "album": {
+        "name": "Wild Horse",
+        "url": "https://open.spotify.com/album/1prGQeJ91ikiQXJ703pX5S"
+      },
+      "artists": [
+        {
+          "name": "Ocean LeClair",
+          "url": "https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243400,
+      "name": "Wild Horse",
+      "url": "https://open.spotify.com/track/6jx11cSFmCJ1SkJnmZ7KaT"
+    },
+    {
+      "album": {
         "name": "Windy Night",
         "url": "https://open.spotify.com/album/0MHYoUPrM5yyK3q2DvV6Te"
       },
@@ -4425,7 +4641,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 214291,
       "name": "You Can't Escape the Future",
       "url": "https://open.spotify.com/track/6AYk4poVXqn2n4WJmf27Hw"

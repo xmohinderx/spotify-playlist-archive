@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Carla Morrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,368 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,435 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 37 | [Bandidos](https://open.spotify.com/track/1dZkAYdCvUA4u5cMzGhRJh) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Bandidos](https://open.spotify.com/album/0EC8Sa1jYekLosZIYDlWvw) | 2:57 |
 | 38 | [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 |
 | 39 | [Cuando Te Vuelva a Ver](https://open.spotify.com/track/4REmaoifu2A11miAvPps2j) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Cuando Te Vuelva a Ver](https://open.spotify.com/album/1eUvaTByr69saY12H7qB9X) | 4:09 |
-| 40 | [Una Vaina Loca \(R3hab Remix\)](https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS) | 2:57 |
+| 40 | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS) | 2:57 |
 | 41 | [The Carnival](https://open.spotify.com/track/1A7lwaWzcPtflW1bvrrvDJ) | [Aazar](https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Dany Synthé](https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy) | [The Carnival](https://open.spotify.com/album/6H9sERXZq85JytXgJ5lTaI) | 2:45 |
 | 42 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 |
 | 43 | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR) | 3:31 |

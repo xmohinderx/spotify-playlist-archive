@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: LE SSERAFIM\(르세라핌\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,673 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,960 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 13 | [Flower](https://open.spotify.com/track/6fEUHL85CN1I1TcqJDbzho) | [Youth Like A Dream](https://open.spotify.com/artist/0O07UU1GecVRKrnl2tviPy) | [Flower](https://open.spotify.com/album/0LMc3iaXrYEcZdiDyXboJL) | 4:04 |
 | 14 | [Little Special](https://open.spotify.com/track/4tSHQ5lf9ky6F6D2VTA2wQ) | [Onbee](https://open.spotify.com/artist/0Uva0hYXom0xXcEXV50YWo) | [Little Special](https://open.spotify.com/album/01tDHIJmUA6u7xz9ccS9p7) | 2:36 |
 | 15 | [Live For](https://open.spotify.com/track/48H329U01mPEcZYMv4Vm6b) | [heroincity](https://open.spotify.com/artist/4Sl2QYei5nqAb8bDcccyEP), [Hollowyoung](https://open.spotify.com/artist/2LsV2BYhHlt1wGqVBu8Dwe), [J Way](https://open.spotify.com/artist/5S6Plajbjwn4tlgLyFmDtS) | [Live For](https://open.spotify.com/album/3ospDZddJJkcKJhQH6YdRt) | 3:11 |
-| 16 | [Personal Color](https://open.spotify.com/track/7u4XMVoRnKS87QPwIoKUiM) | [FLORA](https://open.spotify.com/artist/4LW5EBlvm5LCR8JjWgj5PR) | [PERSONAL COLOR](https://open.spotify.com/album/0YpDeaONCs3npkow7NZZos) | 3:37 |
+| 16 | [Personal Color](https://open.spotify.com/track/7u4XMVoRnKS87QPwIoKUiM) | [FLORA](https://open.spotify.com/artist/18knWHmszJGVFfaJYx7Yw3) | [PERSONAL COLOR](https://open.spotify.com/album/0YpDeaONCs3npkow7NZZos) | 3:37 |
 | 17 | [Star](https://open.spotify.com/track/5VbTq7pA59RmsavcLWfBHp) | [Flower Kim](https://open.spotify.com/artist/4FcQBTev1IR7xc029Lb011) | [Goodbye, star](https://open.spotify.com/album/7rgdscUImqsjX0YyHwbTYP) | 4:05 |
 | 18 | [If We Ever Meet Again](https://open.spotify.com/track/0lr8HEEQBvIpDE9xGchTgW) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 4:34 |
 | 19 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 33 | [우리우리 겨울](https://open.spotify.com/track/4AN88Zg4Q7nI74DKbCvPzx) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [나무에 물방울 머금고](https://open.spotify.com/album/36bDnq3WeM8ORGUSUPyDtd) | 3:50 |
 | 34 | [The Godfather](https://open.spotify.com/track/3feyXz3w3SCOAvNB2KDNB3) | [B\-gonn](https://open.spotify.com/artist/0UuhfGJ42vy6C2sb26xsvr), [dumboi](https://open.spotify.com/artist/4gYrEP9JWtAzTQsBnXYQcr), [Ryu Han](https://open.spotify.com/artist/1Zh78eU7XlnlZAkfrBu8L9), [KINKADE](https://open.spotify.com/artist/6h97BJDP9zdJYweY40aWbU), [ted is emotionmaker](https://open.spotify.com/artist/6AeDKHNzEbOwrzFa9Xb8UW), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu) | [ætas vol.2 : special arrangement](https://open.spotify.com/album/5d30x4mroBFWEY4s8k1K7e) | 4:21 |
 | 35 | [Fad3d \(Feat\. David Shawty\)](https://open.spotify.com/track/0jskAlemCx9IYCkJkDrIkr) | [Lil Kirby](https://open.spotify.com/artist/0AyTTFMP8EFKZJ9VUNEBq1), [David Shawty](https://open.spotify.com/artist/1p8A4FgZDL8Q7o6BO3NwJk) | [Fad3d](https://open.spotify.com/album/1ZZ6f8jIgtFptneqwsZYBe) | 2:24 |
-| 36 | [i love you \(feat\. The Barberettes\)](https://open.spotify.com/track/6VrVB3BNd0zflmgs3CODCK) | [Bae Young Gyoung](https://open.spotify.com/artist/5T1eiImBYOtJSQkXBdZ3fn), [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [you my blue](https://open.spotify.com/album/03oEcO2FMxiJJPU9ZfT1dc) | 3:07 |
+| 36 | [i love you \(feat\. Sunnie\)](https://open.spotify.com/track/6VrVB3BNd0zflmgs3CODCK) | [Bae Young Gyoung](https://open.spotify.com/artist/5T1eiImBYOtJSQkXBdZ3fn), [Sunnie](https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5) | [you my blue](https://open.spotify.com/album/03oEcO2FMxiJJPU9ZfT1dc) | 3:07 |
 | 37 | [Goodbye](https://open.spotify.com/track/034D3wkt2TCoeExxsAg987) | [이민석](https://open.spotify.com/artist/0zMC92hK7LrNZ3n5cM8nj5) | [ANXIETY](https://open.spotify.com/album/62QoVBhhC4y81f7v9mTf6z) | 3:15 |
 | 38 | [Don’t know what to do \- Retro Remix Version](https://open.spotify.com/track/2v9eq9bUwwKfJvkRUL2Fp6) | [The Paradice](https://open.spotify.com/artist/0gsf1rw2Mtxc2DORnT2FQ1) | [Don’t know what to do](https://open.spotify.com/album/6527m3S3DocBZXPNWtYa59) | 3:56 |
 | 39 | [TIME](https://open.spotify.com/track/0OtneDXQUyQeYyaCJNwcQi) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'TIME'](https://open.spotify.com/album/3DVBKjlaEM1nYLh6h3Uz6X) | 3:36 |

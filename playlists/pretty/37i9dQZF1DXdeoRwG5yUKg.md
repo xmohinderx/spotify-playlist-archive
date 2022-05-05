@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: Lizz Wright
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,035 likes - 87 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,052 likes - 87 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,503 likes - 41 songs - 2 hr 19 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,511 likes - 42 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 39 | [Deep State](https://open.spotify.com/track/5T1fza9F8TTuB1pGqDGziH) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Deep State](https://open.spotify.com/album/2GOLTHiwyNWYHQaBuIZASH) | 2:52 |
 | 40 | [Radar](https://open.spotify.com/track/1djoRrseUF5KsdgOQeArmO) | [Lekota](https://open.spotify.com/artist/4DXQ3UFHciEdLjwwJe3gEU) | [Radar](https://open.spotify.com/album/5ur625TMdgqvNQdVYq4DmY) | 3:24 |
 | 41 | [We Drop Beats](https://open.spotify.com/track/47HQ8T7jHpb14FS1Env1BD) | [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [We Drop Beats](https://open.spotify.com/album/3eOjavq637siaUO4TpPy5r) | 3:04 |
+| 42 | [To the Top](https://open.spotify.com/track/51kmMosGrxEBWIg3XV6NIg) | [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0) | [To the Top](https://open.spotify.com/album/5zmmLF0PWCv4DroMvh8upa) | 2:55 |
 
-Snapshot ID: `NTIxMixkNzYwNzZiODBhM2YxMGZmMzdmNjBjNGRjMmZiMjI4NTBhYmU0Mjk3`
+Snapshot ID: `NTIxMyw4ZDk0NTdhNjk0N2QyZWM4MDc4NGU5NjYwNWVlOGNhZGExYzg0MTg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Miranda Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,098 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,158 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | [Close To You](https://open.spotify.com/track/6tCKxf3W394Qz7JXcUoQux) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Close To You](https://open.spotify.com/album/5wwvpA2v5yiiy4VF9zTNdl) | 2:45 |
 | 100 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 |
 
-Snapshot ID: `MTY1MTYyNjAwNiwwMDAwMDAwMDRiODJiY2JmOGFiNmM1MTZhMmY0ZDczN2M4NGRlOWY3`
+Snapshot ID: `MTY1MTcxMjM0OSwwMDAwMDAwMDRiODJiY2JmOGFiNmM1MTZhMmY0ZDczN2M4NGRlOWY3`

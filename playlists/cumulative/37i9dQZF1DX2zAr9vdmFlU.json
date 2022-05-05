@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 211586,
       "name": "Arturo Sandoval",
       "url": "https://open.spotify.com/track/35U6NyVIlRIdNiNBd7Hz6G"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 329719,
       "name": "Danza de Vision",
       "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 225080,
       "name": "El Amor Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 152072,
       "name": "La Marea",
       "url": "https://open.spotify.com/track/2jVYJ5WjkhqhEsTchOQyfW"
@@ -1187,6 +1187,24 @@
       "duration_ms": 185786,
       "name": "Linda Guajira",
       "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
+    },
+    {
+      "album": {
+        "name": "Picotero",
+        "url": "https://open.spotify.com/album/0vPbGBZEYaIoFsT4SP6tGy"
+      },
+      "artists": [
+        {
+          "name": "Monareta",
+          "url": "https://open.spotify.com/artist/4jSRnBG7AjFDDGDWwt24yg"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231920,
+      "name": "Llama",
+      "url": "https://open.spotify.com/track/7e7pzSgy6vpqJW4iZC239Y"
     },
     {
       "album": {
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 247320,
       "name": "Nain",
       "url": "https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 226405,
       "name": "Porro Maracatu",
       "url": "https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 273466,
       "name": "Tiene Sabor, Tiene Saz\u00f3n",
       "url": "https://open.spotify.com/track/382x0IaQk1Nqx2f3Xzfy14"

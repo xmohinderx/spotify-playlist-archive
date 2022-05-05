@@ -1,13 +1,65 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Yaya Bey",
-  "num_followers": 147752,
+  "num_followers": 147993,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTA3NTIwMCwwMDAwMDBjZjAwMDAwMTgwNmJjMDM0YTUwMDAwMDE4MDY5YmEyYTRl",
+  "snapshot_id": "MTY1MTY0NTQyNiwwMDAwMDBkMDAwMDAwMTgwOGRiZDJiYjIwMDAwMDE4MDY5YmEyYTRl",
   "tracks": [
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/7kTB0TcBJLcEDlfeG9HFTS"
+      },
+      "artists": [
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        }
+      ],
+      "duration_ms": 145965,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/4jmFQAiHWGmgUBIuWY74be"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/14zKEx62p2QYnFb8gyP7qJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Zayne",
+          "url": "https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd"
+        }
+      ],
+      "duration_ms": 236199,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/6QlWVgJiRRC6IbaW6TSmwB"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/3kAvLGkeU40IINgCQmkiUC"
+      },
+      "artists": [
+        {
+          "name": "Sage Harris",
+          "url": "https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2"
+        },
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Love In Atlanta",
+      "url": "https://open.spotify.com/track/6K8qwbuUweQOdaErsNbdRc"
+    },
     {
       "added_at": "2022-04-27 16:00:00",
       "album": {
@@ -25,36 +77,24 @@
       "url": "https://open.spotify.com/track/7u0nMMBCsmZUFLZwIv6jKO"
     },
     {
-      "added_at": "2022-04-27 16:00:00",
+      "added_at": "2022-05-04 06:23:46",
       "album": {
-        "name": "alright",
-        "url": "https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM"
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/4kLxWUzWC2ljw7QLHeWAUg"
       },
       "artists": [
         {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 188396,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T"
-    },
-    {
-      "added_at": "2022-04-27 16:00:00",
-      "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/1d6d8AezYNJ2PgpY7Oc5IQ"
-      },
-      "artists": [
+          "name": "SirBastien",
+          "url": "https://open.spotify.com/artist/4J3AoVEbI3WEaR8LHVAwRC"
+        },
         {
-          "name": "Nia Sultana",
-          "url": "https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz"
+          "name": "SGaWD",
+          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
         }
       ],
-      "duration_ms": 182811,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/2u1lDhvkGDUkc8UQWWcC2Y"
+      "duration_ms": 176326,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1vL3vv3AzPXEUh1tDsZjMr"
     },
     {
       "added_at": "2022-04-27 16:00:00",
@@ -75,22 +115,82 @@
     {
       "added_at": "2022-04-27 16:00:00",
       "album": {
-        "name": "Over U",
-        "url": "https://open.spotify.com/album/7xqNjgPEQFQmlKKCxdUZEB"
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/1d6d8AezYNJ2PgpY7Oc5IQ"
       },
       "artists": [
         {
-          "name": "Jay Isaiah",
-          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
-        },
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+          "name": "Nia Sultana",
+          "url": "https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz"
         }
       ],
-      "duration_ms": 169878,
-      "name": "Over U",
-      "url": "https://open.spotify.com/track/2c1xEMyAW0Y9wGiWvvNRws"
+      "duration_ms": 182811,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/2u1lDhvkGDUkc8UQWWcC2Y"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 153551,
+      "name": "Shea Butter Baby",
+      "url": "https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL"
+    },
+    {
+      "added_at": "2022-04-27 16:00:00",
+      "album": {
+        "name": "alright",
+        "url": "https://open.spotify.com/album/05ghgyljDtoTqeUupyeBfM"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 188396,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/2I4lmCQ7hdizYNqXzu9zAB"
+      },
+      "artists": [
+        {
+          "name": "Samajay",
+          "url": "https://open.spotify.com/artist/2CICVtX9IY45k5cV1dbaHz"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/0djp1WNBOIa6sE117Y4b8u"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "Keep It Private",
+        "url": "https://open.spotify.com/album/6K0Wi3DXpyOlWVfIMa2QEp"
+      },
+      "artists": [
+        {
+          "name": "2Tone",
+          "url": "https://open.spotify.com/artist/1XzKKmjRMw6ue1SL5pLzAp"
+        }
+      ],
+      "duration_ms": 146039,
+      "name": "Keep It Private",
+      "url": "https://open.spotify.com/track/14ActYOMcY8WBaTKFsaVWa"
     },
     {
       "added_at": "2022-04-06 16:00:05",
@@ -113,6 +213,26 @@
       "url": "https://open.spotify.com/track/1VjBUsTjfdSipjpihEPOhg"
     },
     {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "Galerie",
+        "url": "https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        },
+        {
+          "name": "India Carney",
+          "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
+        }
+      ],
+      "duration_ms": 184728,
+      "name": "Untouchable",
+      "url": "https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m"
+    },
+    {
       "added_at": "2022-04-27 16:00:00",
       "album": {
         "name": "Lounging",
@@ -127,6 +247,58 @@
       "duration_ms": 187767,
       "name": "Lounging",
       "url": "https://open.spotify.com/track/1YTEtjzUTEJbzhXgJ72T78"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/5x4bqSgvVxklbVoc9FfWSy"
+      },
+      "artists": [
+        {
+          "name": "Alayisha",
+          "url": "https://open.spotify.com/artist/5VwXAnvZLSfpVRCJwvyIgg"
+        }
+      ],
+      "duration_ms": 256972,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7eC2GfiI67xwe5PF4U56mJ"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "Earth Is Ghetto",
+        "url": "https://open.spotify.com/album/6SnB0wtaNfB5hApKghuQSR"
+      },
+      "artists": [
+        {
+          "name": "Aliah Sheffield",
+          "url": "https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ"
+        }
+      ],
+      "duration_ms": 143237,
+      "name": "Earth Is Ghetto",
+      "url": "https://open.spotify.com/track/4NHSCdUJmAqmyBaegp3NJj"
+    },
+    {
+      "added_at": "2022-04-27 16:00:00",
+      "album": {
+        "name": "Over U",
+        "url": "https://open.spotify.com/album/7xqNjgPEQFQmlKKCxdUZEB"
+      },
+      "artists": [
+        {
+          "name": "Jay Isaiah",
+          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "duration_ms": 169878,
+      "name": "Over U",
+      "url": "https://open.spotify.com/track/2c1xEMyAW0Y9wGiWvvNRws"
     },
     {
       "added_at": "2022-04-06 16:00:05",
@@ -163,34 +335,22 @@
     {
       "added_at": "2022-04-27 16:00:00",
       "album": {
-        "name": "If Anything,",
-        "url": "https://open.spotify.com/album/5RVI4s2DuHs0GVdCiLt0YX"
+        "name": "High with Me",
+        "url": "https://open.spotify.com/album/3u9oXr7VWoLd9eTllucHHd"
       },
       "artists": [
         {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "Petty Lies",
-      "url": "https://open.spotify.com/track/50DNIT0PO1We8arXPXGQw9"
-    },
-    {
-      "added_at": "2022-04-27 16:00:00",
-      "album": {
-        "name": "Rose Out The Mud",
-        "url": "https://open.spotify.com/album/5dJ8Zg98nzdo3qCSvLOrzm"
-      },
-      "artists": [
+          "name": "hard.times",
+          "url": "https://open.spotify.com/artist/4YPWm7B3v1LMxmkPTc5kkc"
+        },
         {
-          "name": "Astrokidjay",
-          "url": "https://open.spotify.com/artist/4EqrcmIvzNaisM7z775lyE"
+          "name": "Lady Phyl",
+          "url": "https://open.spotify.com/artist/2Sj10auNFpo3YkxpxFp5yI"
         }
       ],
-      "duration_ms": 139714,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/1G68PxN1SDCCxkMgHW5rTZ"
+      "duration_ms": 344470,
+      "name": "High with Me",
+      "url": "https://open.spotify.com/track/4npQ5B7PrxGtxoWHqQ1wbe"
     },
     {
       "added_at": "2022-04-27 16:00:00",
@@ -225,6 +385,38 @@
       "url": "https://open.spotify.com/track/2NZqwrJ42ZKzM8k9nCBVVj"
     },
     {
+      "added_at": "2022-04-27 16:00:00",
+      "album": {
+        "name": "If Anything,",
+        "url": "https://open.spotify.com/album/5RVI4s2DuHs0GVdCiLt0YX"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "Petty Lies",
+      "url": "https://open.spotify.com/track/50DNIT0PO1We8arXPXGQw9"
+    },
+    {
+      "added_at": "2022-04-27 16:00:00",
+      "album": {
+        "name": "Rose Out The Mud",
+        "url": "https://open.spotify.com/album/5dJ8Zg98nzdo3qCSvLOrzm"
+      },
+      "artists": [
+        {
+          "name": "Astrokidjay",
+          "url": "https://open.spotify.com/artist/4EqrcmIvzNaisM7z775lyE"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/1G68PxN1SDCCxkMgHW5rTZ"
+    },
+    {
       "added_at": "2022-03-16 18:15:34",
       "album": {
         "name": "keisha",
@@ -239,26 +431,6 @@
       "duration_ms": 175524,
       "name": "keisha",
       "url": "https://open.spotify.com/track/0ICoAzphnJ3i5I9KHcBLdo"
-    },
-    {
-      "added_at": "2022-04-27 16:00:00",
-      "album": {
-        "name": "High with Me",
-        "url": "https://open.spotify.com/album/3u9oXr7VWoLd9eTllucHHd"
-      },
-      "artists": [
-        {
-          "name": "hard.times",
-          "url": "https://open.spotify.com/artist/4YPWm7B3v1LMxmkPTc5kkc"
-        },
-        {
-          "name": "Lady Phyl",
-          "url": "https://open.spotify.com/artist/2Sj10auNFpo3YkxpxFp5yI"
-        }
-      ],
-      "duration_ms": 344470,
-      "name": "High with Me",
-      "url": "https://open.spotify.com/track/4npQ5B7PrxGtxoWHqQ1wbe"
     },
     {
       "added_at": "2022-04-06 16:00:05",

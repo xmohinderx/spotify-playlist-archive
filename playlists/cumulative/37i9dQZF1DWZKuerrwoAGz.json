@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "3 Nights",
+      "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
+    },
+    {
+      "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
@@ -515,7 +533,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 209754,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/421leiR6jKlH5KDdwLYrOs"
@@ -1012,6 +1030,24 @@
     },
     {
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
+    },
+    {
+      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
       },
@@ -1129,7 +1165,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 202266,
       "name": "Heart Skips a Beat (feat. Rizzle Kicks)",
       "url": "https://open.spotify.com/track/1f8UCzB3RqIgNkW7QIiIeP"
@@ -1661,7 +1697,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 221973,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/3ktQWLu1mVhc4GTMrdPLEG"
@@ -1991,7 +2027,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 246960,
       "name": "Pon de Replay",
       "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
@@ -2577,7 +2613,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 194906,
       "name": "This Kiss",
       "url": "https://open.spotify.com/track/0TxXEbxn52XsuAhxb6VFZw"
@@ -2919,7 +2955,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 163636,
       "name": "Whenever (feat. Conor Maynard)",
       "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country that made Country Cool! Cover: Shania Twain",
+  "description": "Country that made country cool! Celebrating 35 years of Randy Travis' iconic album 'Always & Forever'.",
   "name": "90s Country",
   "published_playlist_ids": [
     "5IDkbO4ORcphFP9N9pX9l7"
@@ -660,6 +660,24 @@
     },
     {
       "album": {
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212640,
+      "name": "Forever and Ever, Amen",
+      "url": "https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx"
+    },
+    {
+      "album": {
         "name": "Michael Peterson",
         "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
       },
@@ -1017,6 +1035,24 @@
       "duration_ms": 206506,
       "name": "I Think About You",
       "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
+    },
+    {
+      "album": {
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219506,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
     },
     {
       "album": {

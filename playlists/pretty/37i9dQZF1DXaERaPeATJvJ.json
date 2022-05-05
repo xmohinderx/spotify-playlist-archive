@@ -1,13 +1,81 @@
 {
   "description": "Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia. Cover: Themilo",
-  "num_followers": 83500,
+  "num_followers": 83514,
   "original_name": "Memorindie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTkyNDkzNiwwMDAwMDAzZTAwMDAwMTgwMjczMDk0MDYwMDAwMDE4MDA3YzA1ZjVl",
+  "snapshot_id": "MTY1MTY0MTM0MCwwMDAwMDAzZjAwMDAwMTgwOGQ3ZWQzNmQwMDAwMDE4MDA3YzA1ZjVl",
   "tracks": [
+    {
+      "added_at": "2022-04-14 08:28:56",
+      "album": {
+        "name": "V2.05",
+        "url": "https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG"
+      },
+      "artists": [
+        {
+          "name": "The Adams",
+          "url": "https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Hanya Kau",
+      "url": "https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN"
+    },
+    {
+      "added_at": "2022-05-04 05:15:40",
+      "album": {
+        "name": "Lantai Merah",
+        "url": "https://open.spotify.com/album/51pYHM3rQTWuN1wvIyknsi"
+      },
+      "artists": [
+        {
+          "name": "Monkey to Millionaire",
+          "url": "https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98"
+        },
+        {
+          "name": "Marsha Suryawinata",
+          "url": "https://open.spotify.com/artist/74ImuWk6U363Ktn4QbQjsL"
+        }
+      ],
+      "duration_ms": 288768,
+      "name": "Strange Is the Song in Our Conversation",
+      "url": "https://open.spotify.com/track/10s8XK7vzEIfDP1fSIVzst"
+    },
+    {
+      "added_at": "2022-04-14 08:28:56",
+      "album": {
+        "name": "Nol Derajat",
+        "url": "https://open.spotify.com/album/79HenduAxtzqwIznxHKJ8F"
+      },
+      "artists": [
+        {
+          "name": "rumahsakit",
+          "url": "https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP"
+        }
+      ],
+      "duration_ms": 349893,
+      "name": "Kuning",
+      "url": "https://open.spotify.com/track/5vIXRsAZwa8uvXBhTNWTiK"
+    },
+    {
+      "added_at": "2022-04-14 08:28:56",
+      "album": {
+        "name": "Galih & Ratna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KBEON1Bmw2aQBAjNU2IFn"
+      },
+      "artists": [
+        {
+          "name": "White Shoes & The Couples Company",
+          "url": "https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus"
+        }
+      ],
+      "duration_ms": 288270,
+      "name": "Masa Remadja (Remastered)",
+      "url": "https://open.spotify.com/track/0iVAkXQiLOb20NIfwLdTBe"
+    },
     {
       "added_at": "2022-04-14 08:28:56",
       "album": {
@@ -43,6 +111,22 @@
     {
       "added_at": "2022-04-14 08:28:56",
       "album": {
+        "name": "Time for a Change / Time to Move On",
+        "url": "https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV"
+      },
+      "artists": [
+        {
+          "name": "Pure Saturday",
+          "url": "https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn"
+        }
+      ],
+      "duration_ms": 208372,
+      "name": "Kosong",
+      "url": "https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA"
+    },
+    {
+      "added_at": "2022-04-14 08:28:56",
+      "album": {
         "name": "The Place I Wanna Go",
         "url": "https://open.spotify.com/album/1EtoolKNgWx0OoIJNDtZWt"
       },
@@ -55,38 +139,6 @@
       "duration_ms": 224400,
       "name": "Firefiles",
       "url": "https://open.spotify.com/track/4Vg4wDdSihxcGQhXHSEzMj"
-    },
-    {
-      "added_at": "2022-04-14 08:28:56",
-      "album": {
-        "name": "V2.05",
-        "url": "https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG"
-      },
-      "artists": [
-        {
-          "name": "The Adams",
-          "url": "https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Hanya Kau",
-      "url": "https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN"
-    },
-    {
-      "added_at": "2022-04-14 08:28:56",
-      "album": {
-        "name": "Galih & Ratna (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KBEON1Bmw2aQBAjNU2IFn"
-      },
-      "artists": [
-        {
-          "name": "White Shoes & The Couples Company",
-          "url": "https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus"
-        }
-      ],
-      "duration_ms": 288270,
-      "name": "Masa Remadja (Remastered)",
-      "url": "https://open.spotify.com/track/0iVAkXQiLOb20NIfwLdTBe"
     },
     {
       "added_at": "2022-04-14 08:28:56",
@@ -203,22 +255,6 @@
     {
       "added_at": "2022-04-14 08:28:56",
       "album": {
-        "name": "Time for a Change / Time to Move On",
-        "url": "https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV"
-      },
-      "artists": [
-        {
-          "name": "Pure Saturday",
-          "url": "https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn"
-        }
-      ],
-      "duration_ms": 208372,
-      "name": "Kosong",
-      "url": "https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA"
-    },
-    {
-      "added_at": "2022-04-14 08:28:56",
-      "album": {
         "name": "No-Dream Land",
         "url": "https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX"
       },
@@ -331,6 +367,22 @@
     {
       "added_at": "2022-04-14 08:28:56",
       "album": {
+        "name": "Di Sayidan",
+        "url": "https://open.spotify.com/album/1UYpybR1fl9rAxK89RbCEH"
+      },
+      "artists": [
+        {
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Di Sayidan",
+      "url": "https://open.spotify.com/track/5lTnUb4IgWgsEiJseldpkM"
+    },
+    {
+      "added_at": "2022-04-14 08:28:56",
+      "album": {
         "name": "Together Whatever Sessions (Live Version)",
         "url": "https://open.spotify.com/album/0eXX7sZMrUItp9FT6FTWdl"
       },
@@ -359,22 +411,6 @@
       "duration_ms": 263773,
       "name": "She Pretends",
       "url": "https://open.spotify.com/track/7EBjzSq8dyhwZvNsDtdOjY"
-    },
-    {
-      "added_at": "2022-04-14 08:28:56",
-      "album": {
-        "name": "Di Sayidan",
-        "url": "https://open.spotify.com/album/1UYpybR1fl9rAxK89RbCEH"
-      },
-      "artists": [
-        {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Di Sayidan",
-      "url": "https://open.spotify.com/track/5lTnUb4IgWgsEiJseldpkM"
     },
     {
       "added_at": "2022-04-14 08:28:56",
@@ -711,22 +747,6 @@
       "duration_ms": 245156,
       "name": "Love Saturday",
       "url": "https://open.spotify.com/track/24unKxTtjxhMSIJ64XbFCS"
-    },
-    {
-      "added_at": "2022-04-14 08:28:56",
-      "album": {
-        "name": "Nol Derajat",
-        "url": "https://open.spotify.com/album/79HenduAxtzqwIznxHKJ8F"
-      },
-      "artists": [
-        {
-          "name": "rumahsakit",
-          "url": "https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP"
-        }
-      ],
-      "duration_ms": 349893,
-      "name": "Kuning",
-      "url": "https://open.spotify.com/track/5vIXRsAZwa8uvXBhTNWTiK"
     },
     {
       "added_at": "2022-04-14 08:28:56",

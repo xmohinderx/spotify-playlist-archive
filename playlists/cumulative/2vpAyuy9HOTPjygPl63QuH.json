@@ -678,6 +678,24 @@
     },
     {
       "album": {
+        "name": "To the Top",
+        "url": "https://open.spotify.com/album/5zmmLF0PWCv4DroMvh8upa"
+      },
+      "artists": [
+        {
+          "name": "Empher",
+          "url": "https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175260,
+      "name": "To the Top",
+      "url": "https://open.spotify.com/track/51kmMosGrxEBWIg3XV6NIg"
+    },
+    {
+      "album": {
         "name": "Club 95",
         "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
       },

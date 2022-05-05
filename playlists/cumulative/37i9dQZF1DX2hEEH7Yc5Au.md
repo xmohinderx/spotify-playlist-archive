@@ -4,7 +4,7 @@
 
 > 一起來支持女性音樂人的精采表現！Cover: 孫盛希 \(Shi Shi\)
 
-135 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
+136 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [你是不會當樹嗎](https://open.spotify.com/track/51nFnRWMHTRq26EZd8F7PX) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [優雅的刺蝟](https://open.spotify.com/album/2IPPtaA2Fm3SiBS5UzWzkF) | 5:17 | 2022-02-01 | 2022-03-08 |
 | [信任的樣子](https://open.spotify.com/track/5HB7YNphVVj7SFqErOaZYM) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [My Life Will...](https://open.spotify.com/album/7x0DIwQu2yNMjg05DxPhHu) | 4:21 | 2022-03-07 | 2022-04-07 |
 | [再也沒有你](https://open.spotify.com/track/01PSJFZbSRujjSk9d2Gbla) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW), [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [來者何人{}](https://open.spotify.com/album/6R4H2E718SWgo9grF9SPyB) | 4:35 | 2022-03-07 | 2022-05-04 |
-| [分手吧 \- 滾石40 滾石撞樂隊 40團拚經典 \(原唱:張震嶽\)](https://open.spotify.com/track/1hkJUyfsZ6aw7TeHjW4t2r) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi), [希有樂團 SHI's Band](https://open.spotify.com/artist/0kL1KcSDxMjRrZ3fbi9ukA) | [滾石40 滾石撞樂隊 40團拚經典 \- 分手吧](https://open.spotify.com/album/6D572SCckABG1akpUPhI2Q) | 5:00 | 2022-05-03 |  |
+| [分手吧 \- 滾石40 滾石撞樂隊 40團拚經典 \(原唱:張震嶽\)](https://open.spotify.com/track/1hkJUyfsZ6aw7TeHjW4t2r) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi), [希有樂團 SHI's Band](https://open.spotify.com/artist/0kL1KcSDxMjRrZ3fbi9ukA) | [滾石40 滾石撞樂隊 40團拚經典 \- 分手吧](https://open.spotify.com/album/6D572SCckABG1akpUPhI2Q) | 5:00 | 2022-05-03 | 2022-05-05 |
 | [分手後不要做朋友](https://open.spotify.com/track/0QYWNTnsFxCBJF7Ns3xLbz) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [漫情歌](https://open.spotify.com/album/6lQA1jATPLTZ21TClyxh9W) | 4:17 | 2022-02-01 |  |
 | [別說出](https://open.spotify.com/track/5hl59K5L9dH4ofLs554zrH) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [如果你愛我](https://open.spotify.com/album/4xfN5uchL7U9aV56ggo8WH) | 4:31 | 2022-03-07 | 2022-05-04 |
 | [剪愛](https://open.spotify.com/track/3WGc9lBdNzIc8jOoL3ryY5) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [姊妹](https://open.spotify.com/album/1jmU2MogimLAfQyAL4QYNn) | 4:42 | 2022-02-01 | 2022-03-08 |
@@ -141,6 +141,7 @@
 | [酒店關門之後](https://open.spotify.com/track/6ko07io9l9SNFRA3bIHuQo) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [PLUTO](https://open.spotify.com/album/2dAegw6SJ1TYiX7s1DMNZz) | 4:05 | 2022-01-04 | 2022-02-02 |
 | [閉上眼睛會想起的人 \(電影《一杯熱奶茶的等待》主題曲\)](https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [閉上眼睛會想起的人](https://open.spotify.com/album/4m8zX2aF2ggXlAqLsSj8Vb) | 4:45 | 2022-01-04 |  |
 | [陽光](https://open.spotify.com/track/4mJGxW5pj1YFwnooXVwTMI) | [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [陽光](https://open.spotify.com/album/2qBnr5O6XwBdYfjVVDI44C) | 4:35 | 2022-02-01 | 2022-03-08 |
+| [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 | 2022-05-04 |  |
 | [雨愛](https://open.spotify.com/track/553GNiNqcudWfsF55RBDqz) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 | 2022-01-04 | 2022-02-02 |
 | [類似快樂的信 \- 電視劇《戀戀小酒窩》片尾曲](https://open.spotify.com/track/6rlJBa8cJCYcKZSs4QgYva) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [類似快樂的信 \(電視劇《戀戀小酒窩》片尾曲\)](https://open.spotify.com/album/5LzdZ3RwlsiRYjDEGkZJok) | 4:43 | 2022-02-01 | 2022-03-08 |
 

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-149 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+150 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Nevada \- Vicetone Lofi Mix](https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Vicetone Lofi Mix\)](https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA) | 2:27 | 2022-02-18 | 2022-04-29 |
 | [Never Cared](https://open.spotify.com/track/1eFlpHjgc4OCRMo4TgAh5g) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Never Cared](https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y) | 3:39 | 2022-02-14 | 2022-04-23 |
 | [Never Enough](https://open.spotify.com/track/0OIHK8vvOTnjg4dtBH34qX) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Never Enough](https://open.spotify.com/album/4GN1ATNzGkfuhGDgcnKgKJ) | 3:17 | 2022-02-04 | 2022-04-15 |
-| [New Age \- Bossfight Remix](https://open.spotify.com/track/5aCABFeoSwL2Ux0c1gW2QL) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [New Age \(Bossfight Remix\)](https://open.spotify.com/album/4wUzPAPk50YZRRxMcCRPPX) | 3:10 | 2022-02-23 |  |
+| [New Age \- Bossfight Remix](https://open.spotify.com/track/5aCABFeoSwL2Ux0c1gW2QL) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [New Age \(Bossfight Remix\)](https://open.spotify.com/album/4wUzPAPk50YZRRxMcCRPPX) | 3:10 | 2022-02-23 | 2022-05-05 |
 | [Nibbana](https://open.spotify.com/track/4GmreCkjHdkuX9S1LipRvS) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Nibbana](https://open.spotify.com/album/5tlAhQ2zVsth5w1KpRIRkS) | 4:20 | 2022-01-14 | 2022-03-24 |
 | [Night Shift](https://open.spotify.com/track/2LSBuW3iZjxypcoTGVUp54) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Night Shift](https://open.spotify.com/album/2hgKEap2EXtwDunaPRb2ip) | 2:53 | 2022-05-03 |  |
 | [Nirvana](https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana](https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK) | 3:15 | 2022-03-18 |  |
@@ -103,6 +103,7 @@
 | [Numb](https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Numb](https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT) | 3:45 | 2022-05-02 |  |
 | [Only You](https://open.spotify.com/track/4L6ZciTfXvf4XWzIch8sw9) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Only You](https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva) | 4:16 | 2021-11-19 | 2022-01-29 |
 | [Other Side](https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Other Side](https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop) | 2:30 | 2021-11-19 | 2022-01-27 |
+| [Outlines](https://open.spotify.com/track/6u09isfip6hiPkOl0uobwy) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Outlines](https://open.spotify.com/album/1GKcEcDtOBsRRgJxNx765a) | 3:28 | 2022-05-04 |  |
 | [Outta My Head](https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:29 | 2022-04-12 |  |
 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 | 2022-04-05 |  |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |

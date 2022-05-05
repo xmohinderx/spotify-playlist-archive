@@ -2,13 +2,13 @@
 
 ### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DX27DJRLhzQiD)
 
-> Itzza Primera y más mujeres, a todo volumen.
+> Lele Pons y más mujeres, a todo volumen.
 
-97 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+98 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24/7](https://open.spotify.com/track/4uV03a4DOwNuNRFnWyS5ws) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [24/7](https://open.spotify.com/album/0qjyN1h2xO3t84R3LX6vV5) | 3:28 | 2022-02-02 |  |
+| [24/7](https://open.spotify.com/track/4uV03a4DOwNuNRFnWyS5ws) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [24/7](https://open.spotify.com/album/0qjyN1h2xO3t84R3LX6vV5) | 3:28 | 2022-02-02 | 2022-05-05 |
 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 | 2022-02-02 | 2022-04-09 |
 | [Agua de Mar](https://open.spotify.com/track/5gIgObxUAIAvUqBW59uujT) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [Agua de Mar](https://open.spotify.com/album/3o1hlsCJ1MdPQjQgomvF42) | 3:41 | 2022-01-05 |  |
 | [Alguien](https://open.spotify.com/track/06GNb7cUCN6YTQmzfFd2m1) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/6Tm5rVXr3ofn5d5vK8U6ie) | 4:32 | 2022-01-05 |  |
@@ -19,6 +19,7 @@
 | [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 | 2022-03-08 |  |
 | [Callao](https://open.spotify.com/track/6nTZdy0g6OmvMMiCO2mmz3) | [Anna Carina](https://open.spotify.com/artist/7moMwCf6s2SVquYO0rrlR8) | [Callao](https://open.spotify.com/album/1OgHuBpc4AZ88BVFgRajO9) | 3:04 | 2022-01-05 |  |
 | [Caramelo](https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:23 | 2022-01-05 | 2022-02-03 |
+| [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 | 2022-05-04 |  |
 | [Cerveza Cerveza 2.0](https://open.spotify.com/track/56Z1XXi31MoanMN0RlW16E) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Maca Del Pilar](https://open.spotify.com/artist/42rQdqCJtlMTkiWjwwYevF), [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Cerveza Cerveza 2.0](https://open.spotify.com/album/3obB69K992BGQyDF9LwcWF) | 3:22 | 2022-01-05 |  |
 | [Cha Cha Cha](https://open.spotify.com/track/02r4y9kqU8GQYX2kg32n6W) | [Anna Carina](https://open.spotify.com/artist/7moMwCf6s2SVquYO0rrlR8) | [Cha Cha Cha](https://open.spotify.com/album/6FhtQQydH3Y6SNb1X6UgFn) | 2:43 | 2022-04-29 |  |
 | [Cobarde](https://open.spotify.com/track/3w0IdrfXrlmvESogOesvOf) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Cobarde \(feat\. Sergio George\)](https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo) | 3:12 | 2022-01-05 |  |

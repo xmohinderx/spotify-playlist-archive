@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best Hip Hop coming out of Australia\. Cover: Hooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,347 likes - 97 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,361 likes - 97 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -947,7 +947,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 160307,
       "name": "Bagre",
       "url": "https://open.spotify.com/track/4dAyNv3NvYQdzvpPcpBmo6"
@@ -2335,10 +2335,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
+    },
+    {
+      "album": {
+        "name": "Trap Variado",
+        "url": "https://open.spotify.com/album/4Yu99aK6r1SBJdb0bHtc64"
+      },
+      "artists": [
+        {
+          "name": "Trap Naption",
+          "url": "https://open.spotify.com/artist/1FcEQYh1EHZrNVCmbxdC7r"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286066,
+      "name": "Diles",
+      "url": "https://open.spotify.com/track/5ZzNGwBBGaewMGG1LucGfp"
     },
     {
       "album": {
@@ -4345,7 +4363,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -6115,7 +6133,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 169614,
       "name": "No Spang",
       "url": "https://open.spotify.com/track/1HXTpsTUycGVExkP0O05Ie"
@@ -7825,7 +7843,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-03",
+      "date_removed": null,
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"

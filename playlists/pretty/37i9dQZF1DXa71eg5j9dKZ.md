@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Loods
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,888 likes - 106 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,995 likes - 106 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

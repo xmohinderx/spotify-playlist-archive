@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Luna Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,895 likes - 48 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,972 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,22 +39,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 29 | [Don't Know How to Girlfriend](https://open.spotify.com/track/0Xujn00SgmNKBo4y7czhnl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 3:01 |
 | 30 | [Bach To The Future](https://open.spotify.com/track/0CTa7Tzm3xKUtirAV2AOAR) | [Kyla Charter](https://open.spotify.com/artist/7wzZ8mQWZVqlMRVoctu4Z9) | [Bach To The Future](https://open.spotify.com/album/07yiAwV5iuadm9PdRv44sw) | 2:41 |
 | 31 | [Pénélope](https://open.spotify.com/track/6igMBCYzoJWpYr79Rmpw1q) | [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [Pénélope](https://open.spotify.com/album/3lefVAjXnsOGHtuFnJr2V9) | 4:25 |
-| 32 | [Kissed Me Like That](https://open.spotify.com/track/5ZUuLmIU1laEV2RMQCztIp) | [Megan Dawson](https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4) | [Kissed Me Like That](https://open.spotify.com/album/0OmmnPHYRa1qLmROhDUoPo) | 3:07 |
-| 33 | [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 |
-| 34 | [Blind Eyes](https://open.spotify.com/track/3X5eIiJr9eciTzWfFcgO7r) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Another Self](https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0) | 3:49 |
-| 35 | [Messed Up](https://open.spotify.com/track/6mTsUbPFWNMCcqGrK3TwAx) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [Messed Up](https://open.spotify.com/album/1cIF7pimPYCqCxZQz5XfuR) | 2:43 |
-| 36 | [Far from Home](https://open.spotify.com/track/03SLN8hv86G6jHm0F4wZch) | [Krissy Feniak](https://open.spotify.com/artist/2zU9MH0cczhjDXnYqjUuQA) | [Far from Home](https://open.spotify.com/album/3LUz1OyooikZFSfhIcw8Us) | 3:24 |
-| 37 | [I Could Die](https://open.spotify.com/track/7ygrZLtm1fACjfPTYHjBLK) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [I Could Die](https://open.spotify.com/album/788D1lbGLyKuaUtL6euBPv) | 2:47 |
-| 38 | [In My Body](https://open.spotify.com/track/3gH0GSDhN9ia7MJP3xHhvm) | [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [In My Body](https://open.spotify.com/album/2iL7RpwOsXqcneMeYbsi5p) | 2:56 |
-| 39 | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/album/53J5G6P1Xdj6ZsgsHSlg1a) | 3:05 |
-| 40 | [Warning Signs](https://open.spotify.com/track/4zRcmMBLYd5nYpk5Jy1Gq7) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Warning Signs](https://open.spotify.com/album/3oy0O4DrNBpqfY54WCayI6) | 3:29 |
-| 41 | [Counterfeit Love](https://open.spotify.com/track/0Mqt5UD2SCi8Qd6pvaJupU) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [Counterfeit Love](https://open.spotify.com/album/6EjWmcLTiMjVa57CxfyIBa) | 3:04 |
-| 42 | [Resist](https://open.spotify.com/track/4fZIIyvsVjges8sgivPak2) | [Kitt](https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy) | [Resist](https://open.spotify.com/album/1tiuEwjh0mTlDn9f3zMKo0) | 4:10 |
-| 43 | [We Getting Rich](https://open.spotify.com/track/7A3dMjedhNKQmMossWQUpC) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [We Getting Rich](https://open.spotify.com/album/3ij4Gfms0GhTkssiKIcjBG) | 2:33 |
-| 44 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 |
-| 45 | [Que Oso](https://open.spotify.com/track/2kZJlpvdBiF40opT7AzFky) | [Amiccella](https://open.spotify.com/artist/4q0Qd38NLcWypTIFEHM535) | [Que Oso](https://open.spotify.com/album/53etMC6dZQ6yag04Yz30w2) | 1:48 |
-| 46 | [Princess Diana](https://open.spotify.com/track/0ksxpimZxylZV6zpnVLwHG) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [Princess Diana](https://open.spotify.com/album/16NCb8PZS2tAbop2FbWYsl) | 3:10 |
-| 47 | [repeat after me](https://open.spotify.com/track/0gvVLIViL9Bm4RiMYpe1Zb) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [repeat after me](https://open.spotify.com/album/6D7fw4Yzw3rVgu6zjDnZGe) | 2:22 |
-| 48 | [Bravo](https://open.spotify.com/track/19JHmvMUhb5dGLZPufqEUh) | [Jerusha](https://open.spotify.com/artist/3Cq9dfQDBiFja0j9m717cW) | [Bravo](https://open.spotify.com/album/4P88Chg12Vuuwo8fbuqPDZ) | 2:10 |
+| 32 | [When It Kills Me](https://open.spotify.com/track/7heSG5oy44Si0bc8toOsYX) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [When It Kills Me: Pt\. 2](https://open.spotify.com/album/5g0ADZD2v0pRnkgX8UhHaX) | 3:41 |
+| 33 | [Kissed Me Like That](https://open.spotify.com/track/5ZUuLmIU1laEV2RMQCztIp) | [Megan Dawson](https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4) | [Kissed Me Like That](https://open.spotify.com/album/0OmmnPHYRa1qLmROhDUoPo) | 3:07 |
+| 34 | [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 |
+| 35 | [Blind Eyes](https://open.spotify.com/track/3X5eIiJr9eciTzWfFcgO7r) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Another Self](https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0) | 3:49 |
+| 36 | [Messed Up](https://open.spotify.com/track/6mTsUbPFWNMCcqGrK3TwAx) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [Messed Up](https://open.spotify.com/album/1cIF7pimPYCqCxZQz5XfuR) | 2:43 |
+| 37 | [Far from Home](https://open.spotify.com/track/03SLN8hv86G6jHm0F4wZch) | [Krissy Feniak](https://open.spotify.com/artist/2zU9MH0cczhjDXnYqjUuQA) | [Far from Home](https://open.spotify.com/album/3LUz1OyooikZFSfhIcw8Us) | 3:24 |
+| 38 | [I Could Die](https://open.spotify.com/track/7ygrZLtm1fACjfPTYHjBLK) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [I Could Die](https://open.spotify.com/album/788D1lbGLyKuaUtL6euBPv) | 2:47 |
+| 39 | [In My Body](https://open.spotify.com/track/3gH0GSDhN9ia7MJP3xHhvm) | [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [In My Body](https://open.spotify.com/album/2iL7RpwOsXqcneMeYbsi5p) | 2:56 |
+| 40 | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/album/53J5G6P1Xdj6ZsgsHSlg1a) | 3:05 |
+| 41 | [Warning Signs](https://open.spotify.com/track/4zRcmMBLYd5nYpk5Jy1Gq7) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Warning Signs](https://open.spotify.com/album/3oy0O4DrNBpqfY54WCayI6) | 3:29 |
+| 42 | [Counterfeit Love](https://open.spotify.com/track/0Mqt5UD2SCi8Qd6pvaJupU) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [Counterfeit Love](https://open.spotify.com/album/6EjWmcLTiMjVa57CxfyIBa) | 3:04 |
+| 43 | [Resist](https://open.spotify.com/track/4fZIIyvsVjges8sgivPak2) | [Kitt](https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy) | [Resist](https://open.spotify.com/album/1tiuEwjh0mTlDn9f3zMKo0) | 4:10 |
+| 44 | [We Getting Rich](https://open.spotify.com/track/7A3dMjedhNKQmMossWQUpC) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [We Getting Rich](https://open.spotify.com/album/3ij4Gfms0GhTkssiKIcjBG) | 2:33 |
+| 45 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 |
+| 46 | [Que Oso](https://open.spotify.com/track/2kZJlpvdBiF40opT7AzFky) | [Amiccella](https://open.spotify.com/artist/4q0Qd38NLcWypTIFEHM535) | [Que Oso](https://open.spotify.com/album/53etMC6dZQ6yag04Yz30w2) | 1:48 |
+| 47 | [Princess Diana](https://open.spotify.com/track/0ksxpimZxylZV6zpnVLwHG) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [Princess Diana](https://open.spotify.com/album/16NCb8PZS2tAbop2FbWYsl) | 3:10 |
+| 48 | [repeat after me](https://open.spotify.com/track/0gvVLIViL9Bm4RiMYpe1Zb) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [repeat after me](https://open.spotify.com/album/6D7fw4Yzw3rVgu6zjDnZGe) | 2:22 |
+| 49 | [Bravo](https://open.spotify.com/track/19JHmvMUhb5dGLZPufqEUh) | [Jerusha](https://open.spotify.com/artist/3Cq9dfQDBiFja0j9m717cW) | [Bravo](https://open.spotify.com/album/4P88Chg12Vuuwo8fbuqPDZ) | 2:10 |
 
 Snapshot ID: `MTY1MTYyMjQwMCwwMDAwMDAxZTAwMDAwMTgwOGM1ZGQwNjQwMDAwMDE4MDhhYzk4MjY1`

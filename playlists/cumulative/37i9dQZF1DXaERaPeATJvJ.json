@@ -1154,6 +1154,28 @@
     },
     {
       "album": {
+        "name": "Lantai Merah",
+        "url": "https://open.spotify.com/album/51pYHM3rQTWuN1wvIyknsi"
+      },
+      "artists": [
+        {
+          "name": "Monkey to Millionaire",
+          "url": "https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98"
+        },
+        {
+          "name": "Marsha Suryawinata",
+          "url": "https://open.spotify.com/artist/74ImuWk6U363Ktn4QbQjsL"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288768,
+      "name": "Strange Is the Song in Our Conversation",
+      "url": "https://open.spotify.com/track/10s8XK7vzEIfDP1fSIVzst"
+    },
+    {
+      "album": {
         "name": "Room for Outside",
         "url": "https://open.spotify.com/album/6Zt1SG67JijuskYbTSwxDs"
       },

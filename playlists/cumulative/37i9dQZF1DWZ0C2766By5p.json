@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Downset",
+        "url": "https://open.spotify.com/album/6QPhwljO8jvbR9zuL5Vm2E"
+      },
+      "artists": [
+        {
+          "name": "Downset",
+          "url": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253426,
+      "name": "Anger",
+      "url": "https://open.spotify.com/track/3Biz0iz1YTAyDXed2hrgm1"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 314266,
       "name": "Antichrist Superstar",
       "url": "https://open.spotify.com/track/6XN91pyNTEtP2o1SZY5Cwk"
@@ -163,7 +181,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 203653,
       "name": "Be Quick or Be Dead - 2015 Remaster",
       "url": "https://open.spotify.com/track/7xa3dJQMzBVzsrZ81tNcHP"
@@ -325,10 +343,28 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 246733,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx"
+    },
+    {
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "Block",
+      "url": "https://open.spotify.com/track/12Y7hBuLrFuHrwdmCC98BY"
     },
     {
       "album": {
@@ -487,7 +523,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 310493,
       "name": "Cockroaches",
       "url": "https://open.spotify.com/track/6jIVLU8ewF4pWLojWLUca1"
@@ -541,7 +577,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 308093,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
@@ -559,7 +595,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 307426,
       "name": "Crystal Mountain",
       "url": "https://open.spotify.com/track/0ItAcLSkUiePOmFGun3cSe"
@@ -613,7 +649,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 257266,
       "name": "Denial",
       "url": "https://open.spotify.com/track/25LbeGnYJuqbkxqc8VyhTs"
@@ -631,7 +667,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 241573,
       "name": "Dogman",
       "url": "https://open.spotify.com/track/2wl8wRamdIQBilTBWbnRum"
@@ -829,7 +865,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 269000,
       "name": "Existense Is Punishment",
       "url": "https://open.spotify.com/track/5da84NXPLY2PetiqAmuh1y"
@@ -847,7 +883,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 313440,
       "name": "Fall from Grace",
       "url": "https://open.spotify.com/track/4swUCr7TH4vP1WYD8ohygv"
@@ -1045,7 +1081,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 201960,
       "name": "Good God",
       "url": "https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML"
@@ -1117,7 +1153,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 302560,
       "name": "Hallowed Land",
       "url": "https://open.spotify.com/track/0ibuggkWTSDXHo25S0Qqvj"
@@ -1153,7 +1189,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 284648,
       "name": "Heirate mich",
       "url": "https://open.spotify.com/track/33LTCp3HM36k7KuB7M3IHd"
@@ -1189,7 +1225,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 351960,
       "name": "Hooligan's Holiday",
       "url": "https://open.spotify.com/track/47ux5RnqIfnZSQ6FD0F6Ao"
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 204626,
       "name": "I'm With Stupid",
       "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
@@ -1333,7 +1369,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 223826,
       "name": "Lack of Comprehension",
       "url": "https://open.spotify.com/track/3iEI6GAx1al5WGRzSJtqX7"
@@ -1369,7 +1405,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 344600,
       "name": "Lay Lady Lay",
       "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
@@ -1459,7 +1495,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 511826,
       "name": "Lock Up The Wolves",
       "url": "https://open.spotify.com/track/32ZexrL6miT3hu4up7PH0b"
@@ -1567,7 +1603,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 272800,
       "name": "Lunchbox",
       "url": "https://open.spotify.com/track/1EYTOP6cIzADbgxCFG87ML"
@@ -1639,7 +1675,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 301666,
       "name": "Moonshield",
       "url": "https://open.spotify.com/track/3gqdwcfzDsJvuPQ8oSZCxq"
@@ -1657,7 +1693,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 385413,
       "name": "Mother North",
       "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
@@ -1783,7 +1819,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 332333,
       "name": "Nobody Hears",
       "url": "https://open.spotify.com/track/2YWneK5JPbsfYuFMFgEon7"
@@ -1801,7 +1837,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 241266,
       "name": "Noose",
       "url": "https://open.spotify.com/track/7Hv98IdZ1vcYzV5nyDhxjN"
@@ -1819,7 +1855,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 245600,
       "name": "Old",
       "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
@@ -1855,7 +1891,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 624626,
       "name": "One Rode to ASA Bay",
       "url": "https://open.spotify.com/track/58HV7ZJ99McDZ5P8nBnt9g"
@@ -1945,7 +1981,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 253400,
       "name": "Pain",
       "url": "https://open.spotify.com/track/3k466XMvOGqErBqfj0nrAE"
@@ -1981,7 +2017,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 195880,
       "name": "People of the Lie",
       "url": "https://open.spotify.com/track/6WDMOh0LJY9EHO4aIE7dPh"
@@ -2071,7 +2107,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 330360,
       "name": "Psycho Circus",
       "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
@@ -2089,7 +2125,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 265453,
       "name": "Purity",
       "url": "https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio"
@@ -2107,7 +2143,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 595613,
       "name": "Pushit",
       "url": "https://open.spotify.com/track/4CbHM5bpfOfMNxNgVDHJRw"
@@ -2161,7 +2197,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 244760,
       "name": "Rebellion (The Clans Are Marching) - Remastered Version",
       "url": "https://open.spotify.com/track/1P5B3ARqjPkB9yCNPZq9jV"
@@ -2233,7 +2269,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 248800,
       "name": "Rollin' Stoned",
       "url": "https://open.spotify.com/track/0lmzRoEAZ3OKqnocLC5ByY"
@@ -2251,7 +2287,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 236693,
       "name": "Roswell 47",
       "url": "https://open.spotify.com/track/0gfgJmNF3X5W9Be0bABYVH"
@@ -2377,7 +2413,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 217800,
       "name": "She-Wolf - Remastered 2004 / Remixed",
       "url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
@@ -2413,7 +2449,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 188829,
       "name": "Sick of You",
       "url": "https://open.spotify.com/track/3wYGlCudjkMRvgSC2UqfWS"
@@ -2611,7 +2647,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 464400,
       "name": "Spiritual Healing",
       "url": "https://open.spotify.com/track/7lylZyx3PtBVq9YpioPVMD"
@@ -2629,7 +2665,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 205026,
       "name": "Stain Of Mind",
       "url": "https://open.spotify.com/track/64HJdqR2Jm267wHwB17hy3"
@@ -2773,7 +2809,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 207066,
       "name": "Take No Prisoners - Remastered 2004",
       "url": "https://open.spotify.com/track/1XFSSbQ9fApWNXZMAKllb6"
@@ -2809,7 +2845,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 254666,
       "name": "Ten Ton Hammer",
       "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
@@ -2845,7 +2881,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "The Blood, the Sweat, the Tears",
       "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
@@ -2863,7 +2899,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 733333,
       "name": "The Cry of Mankind",
       "url": "https://open.spotify.com/track/11Q5n9PmpRQbbblwHygugt"
@@ -2899,7 +2935,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 330866,
       "name": "The Legacy",
       "url": "https://open.spotify.com/track/4h2EyesIj4WhgcMeIClpBx"
@@ -2957,7 +2993,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 396440,
       "name": "The Unforgiven II",
       "url": "https://open.spotify.com/track/6nswV1Lz3OZkaiCJfmVUOa"
@@ -3047,7 +3083,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 756546,
       "name": "Unsuccessfully Coping with the Natural Beauty of Infidelity",
       "url": "https://open.spotify.com/track/3GJDbEgfpGKs8y7urY5Epm"
@@ -3065,7 +3101,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 267933,
       "name": "Until It Sleeps",
       "url": "https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX"
@@ -3101,7 +3137,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-05",
       "duration_ms": 475853,
       "name": "Victorious March",
       "url": "https://open.spotify.com/track/680deUU8rj3yNWh2sxvOBF"
@@ -3119,7 +3155,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 256293,
       "name": "Violent & Funky",
       "url": "https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP"
@@ -3209,7 +3245,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 282840,
       "name": "Wicked Sensation",
       "url": "https://open.spotify.com/track/2Kf3Sy6Tj0T2jl36ghCHpF"

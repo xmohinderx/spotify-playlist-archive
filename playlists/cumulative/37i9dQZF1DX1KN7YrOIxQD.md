@@ -2,7 +2,7 @@
 
 ### [Éxitos Centroamérica](https://open.spotify.com/playlist/37i9dQZF1DX1KN7YrOIxQD)
 
-> Los éxitos del momento en Centroamérica, con Harry Styles en portada.
+> Los éxitos del momento en Centroamérica, con Karol G en portada.
 
 99 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/2V52nSYzBBJejzD9Aow8EK)
 

@@ -2,9 +2,9 @@
 
 ### [EQUAL Colombia](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡<a href="https://bit.ly/FestivalEqualColombia">Compra tus entradas al Festival EQUAL aquí</a>! En portada: Farina
+> ¡Juliana y más mujeres, a todo volumen!
 
-96 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
+101 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,8 @@
 | [Fui y Volví](https://open.spotify.com/track/66tE6J4QvH59jTSajXcVXl) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Fui y Volví](https://open.spotify.com/album/3oDIB2jNRlhWJM7qcYa7LF) | 4:05 | 2022-01-05 | 2022-03-10 |
 | [Ganas](https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Ganas](https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD) | 3:01 | 2022-01-05 |  |
 | [Gracias A Ti](https://open.spotify.com/track/41k2uNbjNzjUTmwvpw1kK8) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Gracias A Ti](https://open.spotify.com/album/5SqgyIuq6nnGDn2QYAu8I8) | 2:15 | 2022-01-05 | 2022-04-02 |
+| [Gravedad](https://open.spotify.com/track/6rHOqHrsEyQeX7X5pDtvv2) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Gravedad](https://open.spotify.com/album/1LwHjlzl2QgQPN9CfbQoSk) | 2:38 | 2022-05-04 |  |
+| [Hasta Que Te Vi](https://open.spotify.com/track/1v8kXzzhbyCj00F0vAlQys) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Hasta Que Te Vi](https://open.spotify.com/album/74JAnkxv8JvDLpuv2vOPpa) | 2:56 | 2022-05-04 |  |
 | [Hoy](https://open.spotify.com/track/53H3TaCK8iUC5YSRtSrwn1) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Prisma](https://open.spotify.com/album/3gTgGR1rBXCvDgU9cLIAEW) | 3:10 | 2022-01-05 |  |
 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 | 2022-01-05 |  |
 | [La Cara](https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Cara](https://open.spotify.com/album/3n4PlVDnUeFUuS1oIyuS7D) | 2:03 | 2022-01-05 |  |
@@ -64,6 +66,7 @@
 | [Me Liberé](https://open.spotify.com/track/1hCaiILikh8EbuuvHi8aVX) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc), [Guafa Trío](https://open.spotify.com/artist/6mtgqH9aTL4tvdBheEoaN6) | [Me Liberé](https://open.spotify.com/album/30gLK3cqK2HuoG1PmgOZZk) | 4:15 | 2022-01-05 | 2022-03-10 |
 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 | 2022-01-05 | 2022-03-05 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-04-08 |  |
+| [Mujer Desastre](https://open.spotify.com/track/5vmnUDKeC89lNuoHJfX0ks) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 3:17 | 2022-05-04 |  |
 | [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 | 2022-03-09 |  |
 | [MÍO AÚN](https://open.spotify.com/track/4W1w9X63tBsilzTXnk8P68) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [MÍO AÚN](https://open.spotify.com/album/4M49OOzgbYzqlUsA2RNQcw) | 3:34 | 2022-01-05 | 2022-03-10 |
 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 | 2022-03-04 | 2022-03-10 |
@@ -72,6 +75,7 @@
 | [Nada Tuyo](https://open.spotify.com/track/2XqWV1iop77nR1LMJPUQXH) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Nada Tuyo](https://open.spotify.com/album/6in6qRM05Gpy9OH79rDy4O) | 3:05 | 2022-01-05 | 2022-03-10 |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2022-01-05 |  |
 | [Niebla](https://open.spotify.com/track/44kB5zEuaAbUxdfruJ6xRL) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q) | [Niebla](https://open.spotify.com/album/2Tl3JRmsdLG1nOg5rOE47x) | 2:46 | 2022-01-05 |  |
+| [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 | 2022-05-04 |  |
 | [No Hay una Vida Que No Nos Duela](https://open.spotify.com/track/1p0wuVjISHjF45zzjvVBJ5) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [No Hay una Vida Que No Nos Duela](https://open.spotify.com/album/6In5wZ5nybOTglfJc5740c) | 3:37 | 2022-01-05 |  |
 | [No Soy de Callar](https://open.spotify.com/track/47U6WT9IaozynJQQn4cfHb) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7) | [Amor Profundo](https://open.spotify.com/album/785Bp0IlD9sB1WrXXqI1Jf) | 3:04 | 2022-01-05 |  |
 | [No Te Pido Más](https://open.spotify.com/track/71tVAHlntYm49TTYwhe8uG) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [No Te Pido Más](https://open.spotify.com/album/0yE1wk2NYPTO47P1Tozbz1) | 3:19 | 2022-01-05 | 2022-02-03 |
@@ -99,6 +103,7 @@
 | [Ubalauka](https://open.spotify.com/track/0BjB9sSJtvQdmoMGieswNw) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Ubalauka](https://open.spotify.com/album/4fMI5YS8cD4aDJGoKx0xZI) | 2:51 | 2022-01-05 |  |
 | [Una Noche Mas](https://open.spotify.com/track/0YvNCaMdtxglEGFNiT9qye) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Una Noche Mas](https://open.spotify.com/album/3sdQd8UJGKdZZY0RrvUroK) | 3:55 | 2022-01-05 |  |
 | [Vamos por el Magdalena](https://open.spotify.com/track/0doKRvScUdK3sByhEqUasG) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Vamos por el Magdalena](https://open.spotify.com/album/32h1Oyjs5teGmctWjhjRsc) | 3:50 | 2022-01-05 |  |
+| [Ver](https://open.spotify.com/track/6kGlYDjxxfJLKr7dfjAYQ5) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Ver](https://open.spotify.com/album/1SHTzLSuTJsOlZ2DYE5t6B) | 3:38 | 2022-05-04 |  |
 | [Vete](https://open.spotify.com/track/48drpTVrcQ3z9jgWW1zIAa) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Vete](https://open.spotify.com/album/6DNZha5d4L1k6IYOtRaC7g) | 2:28 | 2022-01-05 | 2022-03-11 |
 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 | 2022-01-05 |  |
 | [WOW](https://open.spotify.com/track/4hOHayswD8yGZ28A07u57D) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:51 | 2022-01-05 | 2022-03-05 |

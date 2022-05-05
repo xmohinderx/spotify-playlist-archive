@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,234 likes - 47 songs - 3 hr 4 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,238 likes - 47 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 36 | [The Owl Song](https://open.spotify.com/track/7CdcnX9m1wI8sIlQGLd0Un) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [The Owl Song](https://open.spotify.com/album/38EVhFxJ7NEkFHFzUxXQNo) | 3:12 |
 | 37 | [VTRN](https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [VTRN](https://open.spotify.com/album/3m5zP3S9CyQqJvbjINGvMI) | 5:02 |
 | 38 | [Pulse](https://open.spotify.com/track/6UQhXFGhrsqoQC9VzgBads) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Pulse](https://open.spotify.com/album/2pP8FP2pWfb94qCJrHhy7f) | 3:29 |
-| 39 | [Up in Smoke](https://open.spotify.com/track/44pU0jjcq3kxtXe9Nv3mOU) | [WerD](https://open.spotify.com/artist/6rik4C78AcU2bAncYFNLgZ) | [Transmission](https://open.spotify.com/album/6Oiqyx3pmTGdzJG1EZL93b) | 4:04 |
+| 39 | [Up in Smoke](https://open.spotify.com/track/44pU0jjcq3kxtXe9Nv3mOU) | [WerD](https://open.spotify.com/artist/6rik4C78AcU2bAncYFNLgZ) | [Neurotransmission](https://open.spotify.com/album/6Oiqyx3pmTGdzJG1EZL93b) | 4:04 |
 | 40 | [Genesis](https://open.spotify.com/track/2l5zC9tYT3oPPCvDYnke3U) | [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [Genesis](https://open.spotify.com/album/7jXXhska4s5ewmCjx3f542) | 3:46 |
 | 41 | [Inferno](https://open.spotify.com/track/1MGrP7eLvfLDKMmAiEcufm) | [Ringtone Murder](https://open.spotify.com/artist/6DQVEV3tyaBDdb0Z7Z2cKh) | [Inferno](https://open.spotify.com/album/4cvjwU0s2yLAHmKDGbPcGY) | 3:01 |
 | 42 | [MULTIVERSE](https://open.spotify.com/track/23oOs4H4jRkYCSwOf7MApd) | [Sky Suite](https://open.spotify.com/artist/0D3OutokoXMRF8kwCPpJZc) | [MULTIVERSE](https://open.spotify.com/album/1a63sK5PcSjgbceKc5u0oU) | 4:15 |
