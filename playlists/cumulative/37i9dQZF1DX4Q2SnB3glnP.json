@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
+      },
+      "artists": [
+        {
+          "name": "Pristeen",
+          "url": "https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139600,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
+    },
+    {
+      "album": {
         "name": "Anfang",
         "url": "https://open.spotify.com/album/1NTR3MPOBNHQfOLFdtlYlN"
       },
@@ -139,6 +157,24 @@
       "duration_ms": 158002,
       "name": "After the Storm",
       "url": "https://open.spotify.com/track/20RvtdICuVLxbtHs179hxA"
+    },
+    {
+      "album": {
+        "name": "Agua viva",
+        "url": "https://open.spotify.com/album/2jQXtoSONAJpPY8UfxlhHS"
+      },
+      "artists": [
+        {
+          "name": "Moon Swan",
+          "url": "https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194892,
+      "name": "Agua viva",
+      "url": "https://open.spotify.com/track/5zH1V6C1gkeNji64dQ4rBc"
     },
     {
       "album": {

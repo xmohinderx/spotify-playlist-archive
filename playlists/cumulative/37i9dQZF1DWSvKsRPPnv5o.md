@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Blxst
 
-141 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/5aX0s9SI2pKqP9pXX6vZ2V)
+142 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/5aX0s9SI2pKqP9pXX6vZ2V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [STOP IT](https://open.spotify.com/track/3loQ69RjHEsOB2ADrusRwy) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [STOP IT](https://open.spotify.com/album/3h853f1lbotNRiJUTxwOJg) | 1:55 | 2021-12-03 | 2022-03-12 |
 | [Street Signs](https://open.spotify.com/track/1tu6h8NPmeS4q2RRpEGjT8) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Street Signs](https://open.spotify.com/album/7e9S1FRNCWxw2UeIQtmFAP) | 1:53 | 2022-04-15 |  |
 | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/album/4UvC1cEP1VmZeFMvbCtHkw) | 4:11 | 2021-12-10 | 2022-03-12 |
+| [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 | 2022-04-29 |  |
 | [thailand](https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:20 | 2021-12-17 | 2022-03-12 |
 | [Titanic](https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Titanic](https://open.spotify.com/album/5lerjk0bthUa3F5g2K3GrU) | 1:52 | 2022-01-07 | 2022-03-26 |
 | [Too Many Goats \(feat\. Rick Ross, Nas & Kevin Cossom\)](https://open.spotify.com/track/6swN1b1cTmneA1HKcn1NR9) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Kevin Cossom](https://open.spotify.com/artist/0Ja9yL6PS5FBnGJimpx504) | [GOTTI](https://open.spotify.com/album/37y72XuNwuPyzfB9kk2uIc) | 4:15 | 2021-12-03 | 2022-03-18 |

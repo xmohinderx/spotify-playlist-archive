@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Scene Queen
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lozeak
 
-200 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+203 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [nihilist blues \(feat\. Grimes\)](https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 5:25 | 2022-02-04 | 2022-04-20 |
 | [no more](https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more](https://open.spotify.com/album/67x9FY7e6O6PEfZnBUOUFy) | 2:44 | 2022-02-18 |  |
 | [No More Friends \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/5jbk17nRpXXvzGXPXjm3uW) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [No More Friends](https://open.spotify.com/album/5T2HtXj1rvReE0gAAMNx53) | 3:13 | 2022-04-19 | 2022-04-29 |
+| [No Saving You](https://open.spotify.com/track/0q1lONbSdcZT6UthZNtt30) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [No Saving You](https://open.spotify.com/album/46xxFNqLwFfrdX0CeJcjW2) | 2:22 | 2022-05-05 |  |
 | [Opinion](https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Opinion](https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A) | 2:27 | 2021-12-27 | 2022-02-04 |
 | [Outcast Radio](https://open.spotify.com/track/2ZXmDl6a8yvWRTrOml2wvS) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Outcast Radio](https://open.spotify.com/album/3RDcuLho8axFjv64qo9iFg) | 2:49 | 2021-12-27 | 2022-01-06 |
 | [P.M.P](https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [P.M.P](https://open.spotify.com/album/6g1CyzJuejx3AVopNeS1aX) | 3:22 | 2021-12-27 | 2022-02-18 |
@@ -157,6 +158,7 @@
 | [Pretty Boy](https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Boys Will Be Boys](https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ) | 2:32 | 2021-12-27 |  |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-12-27 | 2022-02-04 |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-03-25 |  |
+| [PURGE ft\. Siiickbrain](https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PURGE ft\. Siiickbrain](https://open.spotify.com/album/5O7wZ6lbvfTi7OJexsULS1) | 2:37 | 2022-05-05 |  |
 | [R34l L1e$](https://open.spotify.com/track/5m6YJ2umjuFD9CK4h7Ca9w) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [REAL EYES REALIZE REAL LIES](https://open.spotify.com/album/0zJ3MbyZ0wdicmPB6fXfjA) | 3:01 | 2022-03-31 |  |
 | [RAD](https://open.spotify.com/track/1QkI7Udu7JP54oMppM4YEY) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [RAD](https://open.spotify.com/album/4jpkqp0mQwJaCxtCKsmbMf) | 2:38 | 2022-02-18 |  |
 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 | 2022-01-05 | 2022-01-19 |
@@ -169,6 +171,7 @@
 | [Save Yourselves](https://open.spotify.com/track/30iYY7maOxnipdtsohgJlt) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Save Yourselves](https://open.spotify.com/album/2nEm2s5PWaB6x95wjaxUuU) | 3:27 | 2022-04-19 |  |
 | [Scratchcard Feeling](https://open.spotify.com/track/5B1ZMJQqtjMSJqFckLGLx8) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Scratchcard Feeling](https://open.spotify.com/album/3ZIYT6OXxH0eHrnKheNMDn) | 4:00 | 2021-12-27 |  |
 | [SHALL WE?](https://open.spotify.com/track/15JD2p4h5sk0jXGMuSLVBP) | [LINA MAXINE](https://open.spotify.com/artist/5kFin5jNp7ZLxpJngi0AbC) | [SHALL WE?](https://open.spotify.com/album/6PxilKjQiTVpWSOlR8smRV) | 3:27 | 2022-02-25 | 2022-03-19 |
+| [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 | 2022-05-05 |  |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-28 |  |
 | [Shockwave](https://open.spotify.com/track/19xegamOXWHUg3YdibYfRi) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/39YL5TUKANLWh4s5QtuSU0) | 3:17 | 2022-01-12 | 2022-01-29 |
 | [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-02-04 | 2022-04-01 |

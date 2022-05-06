@@ -212,6 +212,24 @@
     },
     {
       "album": {
+        "name": "alright, ok",
+        "url": "https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "alright, ok",
+      "url": "https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL"
+    },
+    {
+      "album": {
         "name": "Arrested by Love",
         "url": "https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8"
       },
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 144927,
       "name": "Bombs Away (the perfect interlude)",
       "url": "https://open.spotify.com/track/3J1ghAVjFCEQqk6FFgd92L"
@@ -1112,6 +1130,28 @@
     },
     {
       "album": {
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/2Gl9K6erA2hugDhU1qqbUC"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199331,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa"
+    },
+    {
+      "album": {
         "name": "If Orange Was A Place",
         "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
       },
@@ -1598,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "less is more",
+        "url": "https://open.spotify.com/album/2YRR2wZ8cz6nDHeUUfW5BI"
+      },
+      "artists": [
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156585,
+      "name": "less is more",
+      "url": "https://open.spotify.com/track/6PSivAJERaHuvJqOaJ2XYh"
+    },
+    {
+      "album": {
         "name": "LET YOU DOWN",
         "url": "https://open.spotify.com/album/0xjETjDt8P1ch5DHYAMjZA"
       },
@@ -1649,7 +1707,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 202906,
       "name": "Lie to Me (feat. Loyce)",
       "url": "https://open.spotify.com/track/18u3kmdgJPVWGuVF4C5xXR"
@@ -2389,7 +2447,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
@@ -2415,6 +2473,24 @@
       "duration_ms": 189500,
       "name": "Sanguine - Pastel Remix",
       "url": "https://open.spotify.com/track/45DcpHNu6MLivmNaalRIZo"
+    },
+    {
+      "album": {
+        "name": "Sarki",
+        "url": "https://open.spotify.com/album/3XfcaCQwUu1osgUhrgti7C"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134571,
+      "name": "Sarki",
+      "url": "https://open.spotify.com/track/1QZb7PGPXcuC7XoFdN7VKf"
     },
     {
       "album": {
@@ -2885,7 +2961,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 188826,
       "name": "THE SUN (Prod. Gesaffelstein)",
       "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
@@ -2943,7 +3019,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 177891,
       "name": "Time Difference",
       "url": "https://open.spotify.com/track/0oAMtDXJSvTmXKTo6xCyMQ"

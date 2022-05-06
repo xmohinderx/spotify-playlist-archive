@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> SDM au top de la première playlist de rap français !
+> DA Uzi & Gazo au top de la première playlist de rap français !
 
-60 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+61 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,10 +46,11 @@
 | [Manège](https://open.spotify.com/track/0JyX9jNf4mUdp1eNUVAqyR) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/1UEcfpwy8q1TvhATQx6Ntu) | 2:29 | 2022-01-06 | 2022-02-11 |
 | [Mapessa \(feat\. Tiakola\)](https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:48 | 2022-01-06 |  |
 | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [MAUVAIS 2X \(feat\. Ninho\)](https://open.spotify.com/album/1VzvY3LElVy2aPEph6Tsch) | 4:00 | 2022-01-06 |  |
-| [MAUVAIS PAYEUR](https://open.spotify.com/track/2IGabiC03QhYoz6lcAmxXk) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [MAUVAIS PAYEUR](https://open.spotify.com/album/0fpEA74mmopuM5pJfnYBpT) | 2:19 | 2022-01-20 |  |
+| [MAUVAIS PAYEUR](https://open.spotify.com/track/2IGabiC03QhYoz6lcAmxXk) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [MAUVAIS PAYEUR](https://open.spotify.com/album/0fpEA74mmopuM5pJfnYBpT) | 2:19 | 2022-01-20 | 2022-05-06 |
 | [Mon poto \- Extrait de la BO de « En Passant Pécho »](https://open.spotify.com/track/1SelxYHPb04GjUy0oYV1Jw) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En Passant Pécho \(Bande originale inspirée du film\)](https://open.spotify.com/album/5Z31afWU0NIldn8hRK5CZq) | 3:03 | 2022-01-06 | 2022-02-04 |
 | [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/track/6C5GEPPhz7XyXPE2rYhu98) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/album/25CWaYpI4ZIrJV3YbRaxfi) | 3:20 | 2022-03-03 |  |
 | [N.I](https://open.spotify.com/track/4H1CfsnXQonWnJeHzHuVUz) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [N.I](https://open.spotify.com/album/0LsSz4wemYvMIr5l0AUUR9) | 2:59 | 2022-01-06 |  |
+| [NEYMAR JR](https://open.spotify.com/track/3ejRaW9IZCWkr15JN2OpQO) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NOSTALGIA+](https://open.spotify.com/album/6ZINcIMQXxeGL6hvC7nG75) | 2:45 | 2022-05-05 |  |
 | [Nintch](https://open.spotify.com/track/57ogeKenA6Q9sFnWTuloKy) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Agis ou Rêve](https://open.spotify.com/artist/2orsIwfNhcubub42sK74uP) | [Nintch](https://open.spotify.com/album/1h2DffxQt1NMDczFScHo3p) | 2:56 | 2022-01-06 |  |
 | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO) | 2:59 | 2022-03-31 |  |
 | [ONGBAK 2](https://open.spotify.com/track/1VOn2rRxe7JBweoK4SINHe) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE !](https://open.spotify.com/album/322mvTsAmEoCF3rbnXy9iQ) | 2:31 | 2022-01-06 | 2022-03-18 |

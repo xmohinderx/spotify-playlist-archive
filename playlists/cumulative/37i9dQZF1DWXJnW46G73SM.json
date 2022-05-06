@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Agheeb Agheeb",
+        "url": "https://open.spotify.com/album/1j0xsnp8SbACRY7Pq7xzp9"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Agheeb Agheeb",
+      "url": "https://open.spotify.com/track/0W2TvZUTKMheKIulf8U1Lr"
+    },
+    {
+      "album": {
         "name": "Ahkelak",
         "url": "https://open.spotify.com/album/30DzaAannug4aragLVhSMA"
       },
@@ -633,6 +651,24 @@
       "duration_ms": 228600,
       "name": "El Halazona",
       "url": "https://open.spotify.com/track/69yrkIjdgcPmdTQZPhLw1p"
+    },
+    {
+      "album": {
+        "name": "El Haraka de",
+        "url": "https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "El Haraka de",
+      "url": "https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9"
     },
     {
       "album": {

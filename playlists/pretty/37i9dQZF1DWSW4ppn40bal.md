@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,559 likes - 190 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,601 likes - 190 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

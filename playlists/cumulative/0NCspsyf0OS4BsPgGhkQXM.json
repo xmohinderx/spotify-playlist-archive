@@ -3186,6 +3186,24 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/4718f8p5I2EHop2LwcPHah"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188764,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf"
+    },
+    {
+      "album": {
         "name": "Lost In My Mind",
         "url": "https://open.spotify.com/album/0zL7vKsNDJPLm91dliiMlX"
       },

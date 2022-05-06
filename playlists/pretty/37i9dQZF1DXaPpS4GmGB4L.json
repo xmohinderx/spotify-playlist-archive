@@ -1,76 +1,28 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 18788,
+  "num_followers": 18840,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTcxMjk2NiwwMDAwMDAwMGE3NmE5ZTRkM2E4ODMyMGIwMDY0OGNlMGI3OWZhNDRi",
+  "snapshot_id": "MTY1MTc5ODgzOSwwMDAwMDAwMGVlZGZkMjc4YmJiYTNjMTY2NDk5YTA5YWM5MzRmMDg5",
   "tracks": [
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8"
       },
       "artists": [
         {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
         }
       ],
-      "duration_ms": 172826,
-      "name": "Killing Floor",
-      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Shufflin' the Blues",
-      "url": "https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Pride and Joy",
-      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
+      "duration_ms": 194853,
+      "name": "You Can't Judge A Book By It's Cover",
+      "url": "https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -107,38 +59,6 @@
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "You Can't Judge A Book By It's Cover",
-      "url": "https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "Give Me Back My Wig - Remastered",
-      "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -155,50 +75,18 @@
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
         }
       ],
-      "duration_ms": 214733,
-      "name": "The Blues Had a Baby and They Named It Rock and Roll",
-      "url": "https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "Crossroads (Original Sountrack)",
-        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Crossroads - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 152350,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
+      "duration_ms": 201826,
+      "name": "Shufflin' the Blues",
+      "url": "https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -219,18 +107,98 @@
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 136013,
-      "name": "Hate To See You Go",
-      "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
+      "duration_ms": 321133,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 152350,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Pride and Joy",
+      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Crossroads (Original Sountrack)",
+        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Crossroads - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/18XbxRCuvLeKk9zbmhyARH"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "I Ain't Drunk",
+      "url": "https://open.spotify.com/track/0NkbSdUKVUTouk8JLh9TjG"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -251,70 +219,18 @@
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Let It Rock (Live from Blueberry Hill)",
-        "url": "https://open.spotify.com/album/5foGuU81PM8iNTwQBFlA9P"
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
       },
       "artists": [
         {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
         }
       ],
-      "duration_ms": 208253,
-      "name": "Let It Rock (Live from Blueberry Hill)",
-      "url": "https://open.spotify.com/track/6tc69oV0eeSgoQvGAzP7a1"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Shake Your Hips - Single Version",
-      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 321133,
-      "name": "Mannish Boy",
-      "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "Buddy Guy & Junior Wells Plays The Blues",
-        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 135546,
-      "name": "Messin' with the Kid",
-      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
+      "duration_ms": 214520,
+      "name": "Give Me Back My Wig - Remastered",
+      "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -351,54 +267,70 @@
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+      "duration_ms": 214733,
+      "name": "The Blues Had a Baby and They Named It Rock and Roll",
+      "url": "https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM"
     },
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Bluesbreakers",
-        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+        "name": "Buddy Guy & Junior Wells Plays The Blues",
+        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
       },
       "artists": [
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 147560,
-      "name": "Steppin' Out",
-      "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
+      "duration_ms": 135546,
+      "name": "Messin' with the Kid",
+      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
     },
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/18XbxRCuvLeKk9zbmhyARH"
+        "name": "Let It Rock (Live from Blueberry Hill)",
+        "url": "https://open.spotify.com/album/5foGuU81PM8iNTwQBFlA9P"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 247026,
-      "name": "I Ain't Drunk",
-      "url": "https://open.spotify.com/track/0NkbSdUKVUTouk8JLh9TjG"
+      "duration_ms": 208253,
+      "name": "Let It Rock (Live from Blueberry Hill)",
+      "url": "https://open.spotify.com/track/6tc69oV0eeSgoQvGAzP7a1"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -415,22 +347,6 @@
       "duration_ms": 194666,
       "name": "Big Chief - Remastered",
       "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "Got My Mojo Working",
-      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -455,54 +371,54 @@
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+        "name": "Traveler's Blues",
+        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
       },
       "artists": [
         {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Poor Boy",
-      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "Can't Take No More",
-        "url": "https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8"
-      },
-      "artists": [
-        {
-          "name": "John Mayall",
-          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
         },
         {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Mickey Raphael",
+          "url": "https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B"
         }
       ],
-      "duration_ms": 225358,
-      "name": "Can't Take No More",
-      "url": "https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs"
+      "duration_ms": 265386,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy"
     },
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "At Fillmore East",
-        "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
         }
       ],
-      "duration_ms": 275303,
-      "name": "Done Somebody Wrong - Live At The Fillmore East, March 1971",
-      "url": "https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0"
+      "duration_ms": 149800,
+      "name": "Shake Your Hips - Single Version",
+      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -523,24 +439,8 @@
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "The Very Best of Wilson Pickett",
-        "url": "https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
       "artists": [
         {
@@ -548,73 +448,45 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 147400,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
     },
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+        "name": "Bluesbreakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
         {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 132173,
-      "name": "Don't Start Crying Now",
-      "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"
+      "duration_ms": 147560,
+      "name": "Steppin' Out",
+      "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
     },
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 293106,
-      "name": "It's My Fault, Darling - Remastered",
-      "url": "https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "Leave This House",
-        "url": "https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi"
-      },
-      "artists": [
-        {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
-        }
-      ],
-      "duration_ms": 209098,
-      "name": "Leave This House",
-      "url": "https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "The Baddest Of George Thorogood And The Destroyers",
-        "url": "https://open.spotify.com/album/0hK7AoMOpRZrGL5bU1WIv2"
-      },
-      "artists": [
-        {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "Move It On Over",
-      "url": "https://open.spotify.com/track/7gfIbrRrOt4eAlQblTqB9O"
+      "duration_ms": 136013,
+      "name": "Hate To See You Go",
+      "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -639,18 +511,18 @@
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Too Old To Grow Up",
-        "url": "https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH"
+        "name": "The Very Best of Wilson Pickett",
+        "url": "https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH"
       },
       "artists": [
         {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 201237,
-      "name": "Too Old To Grow Up",
-      "url": "https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr"
+      "duration_ms": 187826,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -671,86 +543,106 @@
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Slide Guitar Blues",
-        "url": "https://open.spotify.com/album/6OpTLo3rOf4fS8GheHnuaX"
+        "name": "Ain't No Good (But It's Good Enough For Me)",
+        "url": "https://open.spotify.com/album/1cXisOYjn31sHHxnEldlbY"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 146800,
-      "name": "Madison Blues",
-      "url": "https://open.spotify.com/track/07d1bozzpuOLkG5EKTcYrt"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Don't Want No Woman",
-      "url": "https://open.spotify.com/track/4wf3I828IPvlbEGw7IZ3Ic"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 171040,
-      "name": "Mellow Down Easy",
-      "url": "https://open.spotify.com/track/3w7JOstC58U7VxTQcm7GIN"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "Mississippi Nights (Live)",
-        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 300929,
-      "name": "Mississippi Nights - Live",
-      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
-    },
-    {
-      "added_at": "2022-04-15 00:30:00",
-      "album": {
-        "name": "Traveler's Blues",
-        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+          "name": "Sister Cookie",
+          "url": "https://open.spotify.com/artist/6XKmTFkgxCVctqRxptLMLM"
         },
         {
-          "name": "Mickey Raphael",
-          "url": "https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B"
+          "name": "Spencer Evoy",
+          "url": "https://open.spotify.com/artist/3M9xbqadZwYIhhNtq0thxX"
         }
       ],
-      "duration_ms": 265386,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy"
+      "duration_ms": 172653,
+      "name": "Ain't No Good (But It's Good Enough for Me)",
+      "url": "https://open.spotify.com/track/3VUAKOTROGVzwpPFalb70O"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Can't Take No More",
+        "url": "https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8"
+      },
+      "artists": [
+        {
+          "name": "John Mayall",
+          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 225358,
+      "name": "Can't Take No More",
+      "url": "https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "You Move Me So",
+      "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/7CrxQyz0pFkETwJFlXN7L8"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "I\u2019ve Been Walkin\u2019",
+      "url": "https://open.spotify.com/track/6SDqFo0iI7gFPvoO7rIgAE"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -767,6 +659,54 @@
       "duration_ms": 168466,
       "name": "One Way Out - Mono Version",
       "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Leave This House",
+        "url": "https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "duration_ms": 209098,
+      "name": "Leave This House",
+      "url": "https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Golden Girl Blues",
+        "url": "https://open.spotify.com/album/1iArO8gjyaE6y0MUW9H8QQ"
+      },
+      "artists": [
+        {
+          "name": "Trudy Lynn",
+          "url": "https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz"
+        }
+      ],
+      "duration_ms": 307320,
+      "name": "Golden Girl Blues",
+      "url": "https://open.spotify.com/track/6Zrmhv80Oc3ASwhRtjXDPF"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "The Baddest Of George Thorogood And The Destroyers",
+        "url": "https://open.spotify.com/album/0hK7AoMOpRZrGL5bU1WIv2"
+      },
+      "artists": [
+        {
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Move It On Over",
+      "url": "https://open.spotify.com/track/7gfIbrRrOt4eAlQblTqB9O"
     },
     {
       "added_at": "2022-04-15 00:30:00",
@@ -791,50 +731,118 @@
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/7CrxQyz0pFkETwJFlXN7L8"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 154200,
-      "name": "I\u2019ve Been Walkin\u2019",
-      "url": "https://open.spotify.com/track/6SDqFo0iI7gFPvoO7rIgAE"
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+        "name": "Juke Joint Chapel",
+        "url": "https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
         }
       ],
-      "duration_ms": 124800,
-      "name": "You Move Me So",
-      "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
+      "duration_ms": 460640,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/7IiqtwxMj0kV0hTutzZmzy"
     },
     {
       "added_at": "2022-04-15 00:30:00",
       "album": {
-        "name": "Rush Hour",
-        "url": "https://open.spotify.com/album/4DyiaOUlcWhlxhgWfhMGNY"
+        "name": "Ooh Poo Pah Do",
+        "url": "https://open.spotify.com/album/0nPsjgUeJCi31GD8yJggXL"
       },
       "artists": [
         {
-          "name": "Federico Verteramo",
-          "url": "https://open.spotify.com/artist/7arbLF5KNH9SXNCuSYUsYx"
+          "name": "Jessie Hill",
+          "url": "https://open.spotify.com/artist/0LeecN3yVUDsHFFzrTLp5v"
         }
       ],
-      "duration_ms": 195790,
-      "name": "My Baby Is a Good 'Un",
-      "url": "https://open.spotify.com/track/0lEpe4WQaHcdbH2QI45z42"
+      "duration_ms": 137627,
+      "name": "Ooh Poo Pah Do (Pt. 1)",
+      "url": "https://open.spotify.com/track/02v6Ie89lZ4bArlzp9MKzi"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 132173,
+      "name": "Don't Start Crying Now",
+      "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "At Fillmore East",
+        "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 275303,
+      "name": "Done Somebody Wrong - Live At The Fillmore East, March 1971",
+      "url": "https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "The High Cost Of Low Living",
+        "url": "https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N"
+      },
+      "artists": [
+        {
+          "name": "Nick Moss Band",
+          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
+        },
+        {
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Get Right Before You Get Left",
+      "url": "https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz"
+    },
+    {
+      "added_at": "2022-04-15 00:30:00",
+      "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "Mellow Down Easy",
+      "url": "https://open.spotify.com/track/3w7JOstC58U7VxTQcm7GIN"
     }
   ],
   "unique_name": "Upbeat Blues",

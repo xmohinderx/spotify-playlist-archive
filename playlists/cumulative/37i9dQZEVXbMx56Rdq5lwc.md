@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-643 songs - 1 day 10 hr 48 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
+644 songs - 1 day 10 hr 51 min - [published](https://open.spotify.com/playlist/0EEJK6TovvmWZyvip17xR6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Chuleria](https://open.spotify.com/track/1whZIUiQbL03vdtoZ7GiXD) | [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV) | [Chuleria](https://open.spotify.com/album/1YoKbAFzYF95Lh3ivL0SZn) | 3:23 | 2021-04-07 | 2021-04-08 |
 | [Clap](https://open.spotify.com/track/1XM76EZ27n9zk8gb6oRUWO) | [Frankie Prada](https://open.spotify.com/artist/2WoXaS9p96qIo0g1kSL9Of) | [Clap](https://open.spotify.com/album/7yJknWOCZRp094ff9cLpx3) | 2:13 | 2021-03-27\* | 2021-04-03 |
 | [Close Eyes](https://open.spotify.com/track/7BNWWI6aZPLkYCfRat8HuD) | [Chego1963](https://open.spotify.com/artist/5UkiJi6aTQnJeqCrsGEAt7), [onurxt](https://open.spotify.com/artist/1Sl3NqTA49ay9Cb1ANXQog), [Rylixe](https://open.spotify.com/artist/57wNgV40K2oSH5KyzvVw1F) | [Close Eyes](https://open.spotify.com/album/6phw9EwZgc6h5tmiIRndVe) | 2:12 | 2022-04-10 | 2022-04-22 |
-| [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-10-05 |  |
+| [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2021-10-05 | 2022-05-06 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:22 | 2022-04-20 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-08-18 | 2021-10-23 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2021-10-23 | 2022-04-21 |
@@ -218,6 +218,7 @@
 | [HOLIDAY](https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOLIDAY](https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu) | 2:34 | 2021-04-04 | 2021-04-18 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2021-12-06 | 2021-12-29 |
 | [Home](https://open.spotify.com/track/1ID9Iour6yMUsUccV9JxyS) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Home](https://open.spotify.com/album/3RyNVyd8yO8amV4GUqoZ2q) | 3:45 | 2021-07-04 | 2021-11-21 |
+| [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-05-05 |  |
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2021-09-05 | 2021-09-16 |
 | [HOT WIND BLOWS \(feat\. Lil Wayne\)](https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:35 | 2021-06-27 | 2021-07-01 |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-26 |  |

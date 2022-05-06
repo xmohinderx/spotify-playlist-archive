@@ -1986,6 +1986,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Glow",
+        "url": "https://open.spotify.com/album/0jvZawamBniaCE5aFRRMsw"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151624,
+      "name": "Ethereal Glow",
+      "url": "https://open.spotify.com/track/381cpx26XrMnGOIn4faioN"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/7Bs1tiV1SjNSRzm2ZvJeVV"
       },
@@ -2055,6 +2073,24 @@
       "duration_ms": 127000,
       "name": "Everlonging",
       "url": "https://open.spotify.com/track/7ncqZEutTnKNmxJn50URcf"
+    },
+    {
+      "album": {
+        "name": "everpresent",
+        "url": "https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "everpresent",
+      "url": "https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS"
     },
     {
       "album": {

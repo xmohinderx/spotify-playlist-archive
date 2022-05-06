@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Luna Li
 
-285 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+286 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Stay In Luv](https://open.spotify.com/track/7BkyJod32Yoocn72Jj2JYS) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [Stay In Luv](https://open.spotify.com/album/7kmPzrAYg0lTax8XIfDNjM) | 3:22 | 2022-02-02 | 2022-03-09 |
 | [still](https://open.spotify.com/track/7oDohZCDFN9RgxroWcxVAn) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [still](https://open.spotify.com/album/2w7vynYkjfQgzBRZYdFon8) | 2:42 | 2022-01-05 | 2022-02-03 |
 | [Str8 Up](https://open.spotify.com/track/3U7L8KrcIiG0J7oWzgcQzB) | [NAYA ALI](https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC) | [Godspeed: Elevated](https://open.spotify.com/album/28ebK13c2ZgLKK6ZswXAwN) | 3:23 | 2022-02-02 | 2022-03-09 |
+| [Stuck in the Middle](https://open.spotify.com/track/0kJkiYAvGPwxcMgVznuS8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:21 | 2022-05-04 |  |
 | [Stuttering](https://open.spotify.com/track/7iMI1Z3h8H5UdKeA3rBqlP) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Joy](https://open.spotify.com/album/15qHh5U7v1DrA3Bk9M1jAu) | 3:09 | 2022-02-02 | 2022-03-09 |
 | [Supposed To Be](https://open.spotify.com/track/0GTbfwPBpAJ8B4Dpw5Rwka) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [Supposed To Be](https://open.spotify.com/album/1jMFIViRO10jYNe5KEC9cG) | 4:46 | 2022-05-04 |  |
 | [Surround Me](https://open.spotify.com/track/2VpT2mgMMGOgWsLve3FXQI) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Surround Me](https://open.spotify.com/album/7coxHNA9sfn6xEkTF1IbxW) | 3:37 | 2022-04-06 | 2022-05-04 |

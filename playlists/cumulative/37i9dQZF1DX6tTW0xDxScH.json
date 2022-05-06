@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 210565,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/0W6XPogEpsX8BLZxU6AQDv"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 203906,
       "name": "Before We Make It Real",
       "url": "https://open.spotify.com/track/6N0aQvnu2lc73bVznVm2h2"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 209160,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
@@ -784,6 +784,24 @@
     },
     {
       "album": {
+        "name": "Mouthoil",
+        "url": "https://open.spotify.com/album/0n2DviOOZZeNwgCSPQrFMp"
+      },
+      "artists": [
+        {
+          "name": "The Shouting Matches",
+          "url": "https://open.spotify.com/artist/4Ol9S3QuVEVdbXfSjM6ZdQ"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392106,
+      "name": "I Had a Real Good Lover",
+      "url": "https://open.spotify.com/track/1XMQ4v75bj65rHBCDwaBGc"
+    },
+    {
+      "album": {
         "name": "I Love That Sound",
         "url": "https://open.spotify.com/album/2tgJc41zUNeeBlocD34nRW"
       },
@@ -867,7 +885,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 191670,
       "name": "If Not For You (Demo)",
       "url": "https://open.spotify.com/track/3HUCTp20rxqMnCtdyU7JgU"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM"
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 223693,
       "name": "Say It Ain't So",
       "url": "https://open.spotify.com/track/73qCssYvdf93OxwVf04JcT"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 220887,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"

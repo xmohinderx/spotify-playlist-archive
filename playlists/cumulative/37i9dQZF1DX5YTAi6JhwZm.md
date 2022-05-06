@@ -4,7 +4,7 @@
 
 > Happy and swinging jazz.
 
-123 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
+124 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Friends](https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:15 | 2021-12-17 |  |
 | [Greasy](https://open.spotify.com/track/5rcEapnWT4NrPSFT5co106) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [New Soil](https://open.spotify.com/album/2jutpmWgWgnoYm6wgy1I2Z) | 7:25 | 2022-02-24 |  |
 | [Hampus & Anna](https://open.spotify.com/track/42ZlXHwEqXy9ezOEkd3wOx) | [William Soovik Grand Finale](https://open.spotify.com/artist/2VUNVm36k2gAXHp8eGWXRi), [Malin Wättring](https://open.spotify.com/artist/7KLJdGfoqRW7HU9BFgvGbi), [Signe Dahlgreen](https://open.spotify.com/artist/2m9LMkvEcJ3Fc5TdfnEYz1), [Viktor Reuter](https://open.spotify.com/artist/5czCa9acpSUFLbQa7RnSfv), [Joel Fabiansson](https://open.spotify.com/artist/3nID4VwJvkwd8kgC63HHND) | [Major](https://open.spotify.com/album/766C6KZ3N0GAQZCQ2lr7Wz) | 4:33 | 2021-12-17 | 2022-05-04 |
+| [Happiness](https://open.spotify.com/track/2MdVE0AkcaD126zpvs3JPv) | [Stav Goldberg](https://open.spotify.com/artist/5CRwdWuGHFsgGncNfFU3X2) | [Happiness](https://open.spotify.com/album/35CJDMD5vmhwT4ybPlGRHa) | 5:32 | 2022-05-05 |  |
 | [Happy and the Fall](https://open.spotify.com/track/36FSengmFZRJNe0xaY1GGA) | [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2) | [Searching for Jupiter](https://open.spotify.com/album/31QdNyizKKlLYf8ZSdUOL5) | 5:35 | 2021-12-17 |  |
 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 | 2021-12-17 |  |
 | [Home Cookin' \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/6QzARXbdztTRu42kQigY96) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:28 | 2021-12-17 |  |

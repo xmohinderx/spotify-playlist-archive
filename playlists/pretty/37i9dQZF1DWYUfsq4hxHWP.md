@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Leah Marie Mason, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,805 likes - 95 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,876 likes - 95 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

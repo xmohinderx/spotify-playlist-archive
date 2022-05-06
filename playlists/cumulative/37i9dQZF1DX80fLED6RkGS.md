@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy?si=jPbvdDuzSBa7eplGIlGCGw">Breeder LW</a> and <a href="https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u?si=5SpYoiuSRP2Oe9N\-QFBG8Q">Mejja</a>
 
-147 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
+148 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Sipangwingwi](https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Sipangwingwi](https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn) | 3:26 | 2021-11-11 |  |
 | [Sirudi Home \- Refix](https://open.spotify.com/track/2At9zUR7cfWVrndDmvmAOv) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [NDOVU KUU](https://open.spotify.com/artist/1uVUMFfX9GKlsn7R9ZmECO) | [Sirudi Home \(Refix\)](https://open.spotify.com/album/6DfoAHnPMfmGxHPvbTsRxz) | 3:44 | 2021-09-02 |  |
 | [Siskii](https://open.spotify.com/track/7puSVBxqYL4iHE3s6Xu7dx) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Mejja](https://open.spotify.com/album/0rTXdHoCzmgo3aIwMyRU3c) | 3:13 | 2021-09-02 |  |
+| [Spin Kama Dera](https://open.spotify.com/track/52YgssRciWzw4xhEU1uGwl) | [Ivy Lygue](https://open.spotify.com/artist/4q8comaywVGcjJw14K6YZl), [Maddox Mkuruweng](https://open.spotify.com/artist/1fgnHHOprMjQhfr5V9zjDs), [Von Prince](https://open.spotify.com/artist/20eFIDmWrxEYJ3ycJqwr5V) | [Spin Kama Dera](https://open.spotify.com/album/7tnxvdNrSeaJHg12HLYfuY) | 3:38 | 2022-04-21 |  |
 | [Such Kinda Love](https://open.spotify.com/track/12ZjCl72eIKjyRLxdzCzp3) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Such Kinda Love](https://open.spotify.com/album/3vmQjkht3qete3qI8fg4ac) | 3:06 | 2022-01-20 | 2022-01-28 |
 | [Sugua](https://open.spotify.com/track/0ClhZfQOOgzCNuL9TyqTtf) | [Africa Unit](https://open.spotify.com/artist/0ddwr7ZwUHzB4zaY5YrO7w), [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [Sugua](https://open.spotify.com/album/16xNSA6ORCu279EF5SZqt9) | 3:03 | 2022-02-10 |  |
 | [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 | 2022-01-20 | 2022-01-28 |

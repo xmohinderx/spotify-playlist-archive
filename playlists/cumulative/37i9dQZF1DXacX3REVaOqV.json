@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "333 EP",
+        "url": "https://open.spotify.com/album/4X9pRIOXjqMJKYjb6ydtqJ"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        },
+        {
+          "name": "Majoness",
+          "url": "https://open.spotify.com/artist/3AUYGVHoXYjXumJ9aAfgYR"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245669,
+      "name": "333 - Cut Version",
+      "url": "https://open.spotify.com/track/18eNlKPO2mpzRgzJthA2TY"
+    },
+    {
+      "album": {
         "name": "A Bit Patchy (Remixes)",
         "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
       },
@@ -657,7 +679,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 408920,
       "name": "Dangly Panther",
       "url": "https://open.spotify.com/track/2tUJka7z72sFDuRYtAz7fR"
@@ -693,7 +715,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 264320,
       "name": "Desire - Radio Edit",
       "url": "https://open.spotify.com/track/631bx8hIT8bVS2vfUzn5GN"
@@ -711,7 +733,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 374629,
       "name": "Don't You Want Some More",
       "url": "https://open.spotify.com/track/5DDmcUb3wnPXhZwom0wjZq"
@@ -733,7 +755,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 238026,
       "name": "Down - Franky Rizardo Remix",
       "url": "https://open.spotify.com/track/0U65qiH70mcfB1wyF0Mal0"
@@ -803,7 +825,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 204793,
       "name": "Drowning In Your Love (feat. Jem Cooke) - Mark Knight Remix",
       "url": "https://open.spotify.com/track/3stfe0XW3KIF1G1MNyn238"
@@ -861,7 +883,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 191698,
       "name": "Estafette",
       "url": "https://open.spotify.com/track/0UXSed2eRwzvuxfBRkKhKS"
@@ -901,7 +923,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 376721,
       "name": "Everything You Say",
       "url": "https://open.spotify.com/track/2Ps1fYFcUdqIbgJW5DqgHj"
@@ -941,7 +963,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 208524,
       "name": "Feel My Needs",
       "url": "https://open.spotify.com/track/7nionv2ijjqUlg9m5iWPTc"
@@ -1301,7 +1323,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 361451,
       "name": "Hold on My Heart - Zetbee Extended Remix",
       "url": "https://open.spotify.com/track/6xmiqFdYeWrRVwy4yqcqFm"
@@ -1439,7 +1461,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 282580,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6"
@@ -1579,7 +1601,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
@@ -1699,7 +1721,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 325414,
       "name": "Leko - Session Victim Remix",
       "url": "https://open.spotify.com/track/18nGprzEucUO4FF768lLhe"
@@ -1889,7 +1911,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Look Up At The Sky",
       "url": "https://open.spotify.com/track/3Ts73V8SnaXIcnLAxwt41W"
@@ -2184,6 +2206,36 @@
     },
     {
       "album": {
+        "name": "New Millenium (feat. Topazz)",
+        "url": "https://open.spotify.com/album/4kW4lp8sqMrDAckcSsDDeG"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Nicola Fasano",
+          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
+        },
+        {
+          "name": "Steve Forest",
+          "url": "https://open.spotify.com/artist/0U6suWTdf1eQtxorBi2Chu"
+        },
+        {
+          "name": "Topazz",
+          "url": "https://open.spotify.com/artist/46Ypf6yVzj7hnEwhoe6JOg"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180507,
+      "name": "New Millenium (feat. Topazz)",
+      "url": "https://open.spotify.com/track/1eEPPA57q2V1EqHZ4O46mU"
+    },
+    {
+      "album": {
         "name": "90's House & Garage compiled by Joey Negro",
         "url": "https://open.spotify.com/album/0ummH0sIlaN6nrAmwb4H52"
       },
@@ -2425,7 +2477,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
@@ -2497,7 +2549,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 418899,
       "name": "Pasci\u00e0",
       "url": "https://open.spotify.com/track/3B9pguwtbemJQlVWkxrfeU"
@@ -2747,7 +2799,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 413745,
       "name": "Right On - Dario D'attis Remix",
       "url": "https://open.spotify.com/track/5ymor3b8Gs82TouTl7z7Yj"
@@ -2853,7 +2905,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 180937,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1u3AbZvelg9GqMrp5jbikq"
@@ -2927,7 +2979,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
@@ -2971,7 +3023,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 354720,
       "name": "So Good Today - Yoruba Soul Remix",
       "url": "https://open.spotify.com/track/7mUYdPpOKMG9xYaks22yiP"
@@ -2993,7 +3045,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 247680,
       "name": "Speed Up - Menesix Remix",
       "url": "https://open.spotify.com/track/0DBnkbWalfo6TNjRcll0ui"
@@ -3161,7 +3213,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 229347,
       "name": "Sunny Days (with Dawn Tallman)",
       "url": "https://open.spotify.com/track/12KVUsP4XTG3iDgzD4SjGu"
@@ -3255,7 +3307,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 391961,
       "name": "TALI",
       "url": "https://open.spotify.com/track/51pEVxPCc5ZlAm5Y47Kuhg"
@@ -3307,7 +3359,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 435909,
       "name": "The Day - Alternate",
       "url": "https://open.spotify.com/track/7ljUxtrd8bRDVUbMhfIZnT"
@@ -3713,7 +3765,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 220952,
       "name": "Won't Explain",
       "url": "https://open.spotify.com/track/28sh8QxMveO01irLmUOjP5"
@@ -3795,7 +3847,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 158685,
       "name": "You Are My Life - Chambray Remix",
       "url": "https://open.spotify.com/track/4FBYJVSbojmT5wbC1EQA0F"
@@ -3921,7 +3973,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 193609,
       "name": "Your Time Is Up",
       "url": "https://open.spotify.com/track/1SEBehSYYCuADY6kf3CHlP"

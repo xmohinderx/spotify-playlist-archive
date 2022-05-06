@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 245535,
       "name": "ANSWERS",
       "url": "https://open.spotify.com/track/6bm9OoERWQ8zfnIcN0pykg"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 137983,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/16SKS0Na572RmGeajx7ker"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 160357,
       "name": "Burn",
       "url": "https://open.spotify.com/track/7ryiGamxHR1s4onRPsEzND"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 143966,
       "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 304279,
       "name": "Delicious Things",
       "url": "https://open.spotify.com/track/6pAfAhSBOeNi5Tw8AfB5RQ"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 289074,
       "name": "Follaton Wood",
       "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
@@ -1568,6 +1568,24 @@
     },
     {
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230146,
+      "name": "So Good At Being in Trouble",
+      "url": "https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5"
       },
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 251493,
       "name": "The Wolves & The Ravens",
       "url": "https://open.spotify.com/track/3ZkdpIHWiUTI830a7RpcFU"
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 225017,
       "name": "Warm Foothills",
       "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 233773,
       "name": "Where The Rocks Are",
       "url": "https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R"
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 257426,
       "name": "White Blood",
       "url": "https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 267266,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"

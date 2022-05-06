@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-249 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
+250 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/7i5KAD4Mv8R9eIeXdhlXaC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 | 2021-04-22 |  |
 | [Alpha Mind Fields 12Hz](https://open.spotify.com/track/1FoDFD5k9GChv7nC9Sp9QK) | [Sound Calligraphy](https://open.spotify.com/artist/1Zp7nKZPuuLgjoPOeWoXVm) | [Mind Fields](https://open.spotify.com/album/1z9ggktUU722husvf5FCNN) | 4:00 | 2021-06-04 |  |
 | [Alpha Night \(106Hz \- 114Hz\)](https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:12 | 2021-08-05 |  |
+| [Alpha Overload \(1.4hz\)](https://open.spotify.com/track/6LXE8SCIlLewp3w8ayJI7P) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 2:24 | 2022-05-05 |  |
 | [Alpha Pulse \- 92Hz \- 100Hz](https://open.spotify.com/track/6Bdz9KhB5T0yIM8ix7TYjR) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:36 | 2021-09-02 |  |
 | [Alpha Sine](https://open.spotify.com/track/2ayFHCjDIFtxjnyzDCt1J6) | [SOWE](https://open.spotify.com/artist/4gsiHX6ewD0G96o4sO5wOF) | [Binaural Sleep Beats](https://open.spotify.com/album/7lHKcPjSRQsXDfWKzOrXOp) | 3:25 | 2021-01-19 |  |
 | [Alpha Sinus](https://open.spotify.com/track/5dMfTDcIPnebZk9Opm9GQw) | [Neon Pearl](https://open.spotify.com/artist/2nlnp3ilBaLQqoXychc2cm) | [Binauraal](https://open.spotify.com/album/4Hcb1I7ezgiZu5XJo8ssVU) | 3:12 | 2021-06-04 |  |
@@ -144,7 +145,7 @@
 | [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/0crhvasDtSsXpLX2dlnb7Z) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Gamma Brainwaves](https://open.spotify.com/album/2VjUMYURryhVfw79wYpTHI) | 3:16 | 2020-12-03 | 2020-12-10 |
 | [Binaural Gamma Sinus Smooth](https://open.spotify.com/track/1Mb9AEykvFRq17KcIgtJ3v) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:48 | 2021-02-03 |  |
 | [Birds Touch \- Gamma](https://open.spotify.com/track/19TGWSV1jpgTRxb6N37BdA) | [Meditative Souls](https://open.spotify.com/artist/6nyLL1OEFX7G7DUL3Wiyul) | [Birds Touch \- Gamma](https://open.spotify.com/album/0wFeuyeCcAOFVZrcPNmbUw) | 1:41 | 2021-02-03 | 2021-12-09 |
-| [Breathe \(Alpha 10 Hz\)](https://open.spotify.com/track/1yPHyeOZIcFCsY4xPKYwge) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [Breathe](https://open.spotify.com/album/4dvLP2NgD04TxQmE5yhBzY) | 2:40 | 2021-08-05 |  |
+| [Breathe \(Alpha 10 Hz\)](https://open.spotify.com/track/1yPHyeOZIcFCsY4xPKYwge) | [Blissful Dreams](https://open.spotify.com/artist/4lPwfvbWNPN2FNrLuijbcC) | [Breathe](https://open.spotify.com/album/4dvLP2NgD04TxQmE5yhBzY) | 2:40 | 2021-08-05 | 2022-05-06 |
 | [Bridge Alpha Sinus \- 147 hz \- 148 hz](https://open.spotify.com/track/1ml9cNlcbmwytBtl0eEadf) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Sinus Moments](https://open.spotify.com/album/7HbRDOMi06vfQgudWIeIIK) | 3:29 | 2021-08-05 |  |
 | [Bûche Creuse](https://open.spotify.com/track/2X6yLNxl3XsH0YZRQ4B1w2) | [Kensa Mitchell](https://open.spotify.com/artist/1Bw5TivstABMbIaMDM4jyX) | [Brainwave Focus](https://open.spotify.com/album/6jc66CwXrBYOVNQvqkQFXz) | 3:38 | 2019-05-26\* | 2021-01-12 |
 | [Chakra Flow Gamma Sinus](https://open.spotify.com/track/2IjmfeOvXo6ha4PxW7WqWk) | [Mindful Entrainment](https://open.spotify.com/artist/3VC3a7EmahK5d9RCPQqNEk) | [Chakra Flow Gamma Sinus](https://open.spotify.com/album/0DL8insWLSxIU96C5AwDmv) | 1:44 | 2021-02-03 | 2021-03-25 |

@@ -4,7 +4,7 @@
 
 > New music from Future, Lil Baby and Lil Tjay.
 
-1,201 songs - 2 day 13 hr 41 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,202 songs - 2 day 13 hr 43 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [Suicidal \(Remix\) \[feat\. Juice WRLD\]](https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Suicidal \(Remix\) \[feat\. Juice WRLD\]](https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH) | 3:45 | 2020-03-13 | 2020-05-15 |
 | [Suicide Doors \(feat\. Gunna\)](https://open.spotify.com/track/1rmpmDrnCR7fFZSmghtXmY) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Suicide Doors \(feat\. Gunna\)](https://open.spotify.com/album/5mgQnRLJIgrgduG2zWWiL3) | 3:35 | 2019-09-13 | 2019-12-27 |
 | [Sum 2 Prove](https://open.spotify.com/track/2u3EyuCqqV31woqGvO9LBz) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sum 2 Prove](https://open.spotify.com/album/7KPtAktRGrVjy0QV3MXnZk) | 3:25 | 2020-01-10 | 2020-04-10 |
+| [SUNDOWN](https://open.spotify.com/track/0ipgd8PPFza3NNmN3Rn2uF) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 2:05 | 2022-05-05 |  |
 | [Sunset \(with J\. Cole feat\. Young Nudy\)](https://open.spotify.com/track/3pZO6GoVPeSYDxxsH6vCdj) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 2:58 | 2019-07-06 | 2019-08-13 |
 | [Super](https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Super](https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo) | 2:57 | 2021-10-09 | 2021-12-04 |
 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2021-11-19 |  |

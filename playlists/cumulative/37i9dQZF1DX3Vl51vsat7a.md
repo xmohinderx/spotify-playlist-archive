@@ -2,15 +2,17 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: AVEC
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Stephan Jolk
 
-90 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+93 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...](https://open.spotify.com/track/2n1WH7I33C9Tm47unwnp8U) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [badmómz.](https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz) | 2:17 | 2021-12-16 |  |
 | [2 become 1](https://open.spotify.com/track/2kmaG6LSoJGUrLf9MAAX8P) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [2 become 1](https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4) | 2:49 | 2021-12-16 |  |
+| [30](https://open.spotify.com/track/7yj210hrb5Itkz9XWRUazN) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [30](https://open.spotify.com/album/3JMWBrrc0S74EAddYj0ial) | 1:54 | 2022-05-05 |  |
 | [A Declaration of Love](https://open.spotify.com/track/65bMFgIYR9rxMR9GeYraIh) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 5:34 | 2021-12-16 | 2022-01-14 |
+| [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-05-05 |  |
 | [All We Are](https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:38 | 2021-12-16 |  |
 | [an all diesen Tagen](https://open.spotify.com/track/129TLJVbwR9oS1pVn20FAb) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [an all diesen Tagen](https://open.spotify.com/album/2HDPnK1ZmhJXm0rcPNYXTs) | 2:44 | 2022-04-07 |  |
 | [Another year like that and we'd all be dead](https://open.spotify.com/track/7ytFo4I2OsaiGRhYdFGoQW) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ROMANIAC](https://open.spotify.com/album/6DqP8rOL3mQrK1av1L3AbT) | 4:36 | 2021-12-16 | 2022-02-11 |
@@ -31,7 +33,7 @@
 | [Feel Good](https://open.spotify.com/track/3Qhb33VQRVAfCVEa1oga05) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Feel Good](https://open.spotify.com/album/6p4rt48ywuUFCaQtbicjUy) | 3:17 | 2021-12-16 |  |
 | [Fluss](https://open.spotify.com/track/2QuyGidLrET8KlD8fN2bPc) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Fluss](https://open.spotify.com/album/4TEfhnre2612yM3UCM93Bx) | 3:17 | 2021-12-16 | 2022-02-25 |
 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 | 2022-01-06 |  |
-| [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-04-07 |  |
+| [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-04-07 | 2022-05-06 |
 | [Fucked Up.](https://open.spotify.com/track/1nIUFAIo5U4Yc1KsnnnPz0) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Fucked Up.](https://open.spotify.com/album/3369iQfBJZcTS1ZrMa3Jbx) | 2:27 | 2022-02-24 |  |
 | [Fuji](https://open.spotify.com/track/7wXakijrSKkpvrdPYwJr7t) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Fuji](https://open.spotify.com/album/29spAqjN7v2hmQHoHMU7z1) | 2:28 | 2021-12-16 | 2022-03-25 |
 | [Funke, Flächenbrand](https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Funke, Flächenbrand](https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o) | 2:36 | 2022-03-03 |  |
@@ -43,6 +45,7 @@
 | [Hotel](https://open.spotify.com/track/3Ldae7O6YMFE7vxlTNocdQ) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Hotel](https://open.spotify.com/album/1naWv2unZPzXPa3UdQIdAb) | 2:43 | 2021-12-16 |  |
 | [I See Love](https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Push Life](https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4) | 2:45 | 2022-03-31 |  |
 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-01-20 |  |
+| [I Would Be Rich](https://open.spotify.com/track/0voEoD86osCqSZm6YnX41Q) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [I Would Be Rich](https://open.spotify.com/album/1hgaD8ZBdht7nSTHZ1RKdt) | 3:51 | 2022-05-05 |  |
 | [I'M A LITTLE](https://open.spotify.com/track/36lARxuQqwXnvALPNeVjtK) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [I'M A LITTLE](https://open.spotify.com/album/5zCcIO7yJLAznBPxohaZzb) | 2:38 | 2021-12-16 |  |
 | [I'm Boring](https://open.spotify.com/track/40Xc96R5OS3s0zacs6wPte) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [I'm Boring](https://open.spotify.com/album/2UPFVcOuNlf2Yl3C6LDxpO) | 3:20 | 2021-12-16 |  |
 | [Ich wünschte, du wärst verloren](https://open.spotify.com/track/40eThGfQt1VehllIdIsQdr) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Ich wünschte, du wärst verloren](https://open.spotify.com/album/79H3xVO9RldV3NOFMHR3ui) | 2:40 | 2021-12-16 | 2022-02-04 |
@@ -73,7 +76,7 @@
 | [Run](https://open.spotify.com/track/3BZrNbP0EHxvdrB0MOM4Qi) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Run](https://open.spotify.com/album/1YhYELd70GE5d42z8mTz5U) | 2:25 | 2021-12-16 | 2022-03-25 |
 | [Schnelle Brille](https://open.spotify.com/track/5Ig9ZFTfH6PIjjZxtY3iUw) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Schnelle Brille](https://open.spotify.com/album/28ObxChs89xBac4j15Dt0e) | 2:16 | 2022-03-10 |  |
 | [School Friends](https://open.spotify.com/track/5QNmYUtAV91xj3LHePazkl) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [School Friends](https://open.spotify.com/album/4l86mdEGe67Ilg2dNCelZq) | 3:30 | 2022-04-07 |  |
-| [She's A Star](https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/0q5wcUvHIgklQrc1SDam2x) | 4:45 | 2022-03-17 |  |
+| [She's A Star](https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Star](https://open.spotify.com/album/0q5wcUvHIgklQrc1SDam2x) | 4:45 | 2022-03-17 | 2022-05-06 |
 | [Sicher](https://open.spotify.com/track/6qEykl5MTiALJndjT2lrPM) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Sicher](https://open.spotify.com/album/5qGB7Az88V3wMpeJw6uwOq) | 2:55 | 2022-04-07 |  |
 | [Sick Of Being Sad](https://open.spotify.com/track/584NxuMTvdTausXZ9oT85R) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Sick Of Being Sad](https://open.spotify.com/album/4FD9TVJXqsT3OuCR1jZjXP) | 2:43 | 2022-04-07 |  |
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2021-12-16 |  |

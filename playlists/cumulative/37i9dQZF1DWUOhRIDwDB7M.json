@@ -1398,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "Europa",
+        "url": "https://open.spotify.com/album/0tvUIHd5KOv2cRnKPkzq5t"
+      },
+      "artists": [
+        {
+          "name": "Heddwch",
+          "url": "https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193374,
+      "name": "Europa",
+      "url": "https://open.spotify.com/track/5A3kw1qZP3UQwzfALXmVFd"
+    },
+    {
+      "album": {
         "name": "Evening Tide",
         "url": "https://open.spotify.com/album/5DMLJNgADhisXz3RpXQO9v"
       },
@@ -3699,6 +3717,24 @@
       "duration_ms": 202000,
       "name": "True Belonging",
       "url": "https://open.spotify.com/track/4traer7MzTsR7UAmC8t3il"
+    },
+    {
+      "album": {
+        "name": "T\u0119sknota",
+        "url": "https://open.spotify.com/album/5Jm14NT2CpUrYwF5iFUOo4"
+      },
+      "artists": [
+        {
+          "name": "Idzi Kowalczyk",
+          "url": "https://open.spotify.com/artist/5rmln9rtcpJK2jz9QDvmYa"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "T\u0119sknota",
+      "url": "https://open.spotify.com/track/3oilArNJ908kJ3GUkOPuzm"
     },
     {
       "album": {

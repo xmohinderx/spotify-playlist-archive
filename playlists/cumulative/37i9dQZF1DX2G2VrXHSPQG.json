@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 218168,
       "name": "androgyne friend",
       "url": "https://open.spotify.com/track/56Q1iO4DKgBEVNBCqr49DE"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "Better Move On",
       "url": "https://open.spotify.com/track/6IvXmtDVFYkjMqzLrQJMPB"
@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261741,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/2BOUrjXoRIo2YHVAyZyXVX"
+    },
+    {
+      "album": {
         "name": "Crutch",
         "url": "https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi"
       },
@@ -495,7 +513,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 194952,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5u7hUcmeztyz4iuDf4UHFV"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 218000,
       "name": "Far Away Truths",
       "url": "https://open.spotify.com/track/3dJCbcLcqMKJVZ9Vd390K3"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 187173,
       "name": "Hallucinogenics",
       "url": "https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 231896,
       "name": "High",
       "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-22",
+      "date_removed": null,
       "duration_ms": 177768,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 249586,
       "name": "Lost In Yesterday",
       "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 137933,
       "name": "OK OK",
       "url": "https://open.spotify.com/track/0UCSqy0XuSN3FUITKjtljZ"
@@ -1325,7 +1343,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 277908,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 238924,
       "name": "Rebel Heart",
       "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-13",
+      "date_removed": null,
       "duration_ms": 218806,
       "name": "Sunday Driver",
       "url": "https://open.spotify.com/track/0qVSoMLshegqzDE2FZlIsc"
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 178480,
       "name": "Years In The Making",
       "url": "https://open.spotify.com/track/7e4jhsoV4urOVVZOS6112k"

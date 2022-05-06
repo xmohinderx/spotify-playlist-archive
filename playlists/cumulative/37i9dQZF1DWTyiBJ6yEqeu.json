@@ -1002,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "By the Sword",
+        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125812,
+      "name": "By the Sword",
+      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
+    },
+    {
+      "album": {
         "name": "Cali",
         "url": "https://open.spotify.com/album/4W1o7NKjpinFTCHiBIsdxr"
       },
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 209829,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 175309,
       "name": "edamame (feat. Rich Brian) - Diplo Remix",
       "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 199111,
       "name": "ESCAPE YOUR LOVE (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI"
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
@@ -3061,7 +3079,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 123151,
       "name": "GTA 2",
       "url": "https://open.spotify.com/track/0qjux3nULEYN7Yz9jijgWz"
@@ -3587,7 +3605,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 183000,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/5dcmm8ZvXDQMm24jqf4fS9"
@@ -3883,7 +3901,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 177149,
       "name": "KULT (feat. Jasiah)",
       "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
@@ -4269,6 +4287,28 @@
       "duration_ms": 210906,
       "name": "Livin It Up (with Post Malone & A$AP Rocky)",
       "url": "https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM"
+    },
+    {
+      "album": {
+        "name": "Living Life, In The Night",
+        "url": "https://open.spotify.com/album/1YgzO5Y6YxzXoHN2yCZIpD"
+      },
+      "artists": [
+        {
+          "name": "Cheriimoya",
+          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+        },
+        {
+          "name": "Sierra Kidd",
+          "url": "https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122517,
+      "name": "Living Life, In The Night",
+      "url": "https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW"
     },
     {
       "album": {
@@ -5372,6 +5412,24 @@
     },
     {
       "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "album": {
         "name": "Nike Ticks",
         "url": "https://open.spotify.com/album/0hfev3dB7JKPp52ZvdAu7J"
       },
@@ -6005,7 +6063,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 141343,
       "name": "Phonky Town",
       "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
@@ -6794,6 +6852,36 @@
     },
     {
       "album": {
+        "name": "Royalty (Wiguez & Alltair Remix)",
+        "url": "https://open.spotify.com/album/5sNcv31njio0AJVl8XtceF"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Maestro Chives",
+          "url": "https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs"
+        },
+        {
+          "name": "Wiguez",
+          "url": "https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU"
+        },
+        {
+          "name": "Alltair",
+          "url": "https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212859,
+      "name": "Royalty - Wiguez & Alltair Remix",
+      "url": "https://open.spotify.com/track/58A0GOp6jVOwvOFY8QpB1S"
+    },
+    {
+      "album": {
         "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
         "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
@@ -6813,7 +6901,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 163373,
       "name": "Run It (feat. Rick Ross & Rich Brian)",
       "url": "https://open.spotify.com/track/5x4vgABKiGp4Vg7ZyFRxhn"
@@ -6839,7 +6927,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 163389,
       "name": "Run It (feat. Rick Ross & Rich Brian)",
       "url": "https://open.spotify.com/track/282R6Lvm9nLtpx8AzUwJe0"
@@ -7012,6 +7100,32 @@
     },
     {
       "album": {
+        "name": "Scary Garry",
+        "url": "https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP"
+      },
+      "artists": [
+        {
+          "name": "Kaito Shoma",
+          "url": "https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR"
+        },
+        {
+          "name": "DJ Paul",
+          "url": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc"
+        },
+        {
+          "name": "Kingpin Skinny Pimp",
+          "url": "https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99748,
+      "name": "Scary Garry",
+      "url": "https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D"
+    },
+    {
+      "album": {
         "name": "It's Almost Dry",
         "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },
@@ -7031,7 +7145,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 152612,
       "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
       "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
@@ -7719,7 +7833,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 182765,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
@@ -7887,7 +8001,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 151475,
       "name": "The Ride - The FifthGuys Remix",
       "url": "https://open.spotify.com/track/4092jNui2iVNHGIELwv9CD"

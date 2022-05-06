@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Toro y Moi
 
-1,499 songs - 3 day 12 hr 3 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
+1,500 songs - 3 day 12 hr 7 min - [published](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/track/5HGU08aDQkOjwogqE3SwhG) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S) | 3:41 | 2019-10-04 | 2020-04-24 |
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG) | 4:04 | 2022-03-25 |  |
 | [cz](https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [cz](https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf) | 3:48 | 2020-02-28 | 2020-08-21 |
+| [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-05-05 |  |
 | [D.T.M.](https://open.spotify.com/track/56cRdF1XyxOY1tjjaaiA57) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [D.T.M.](https://open.spotify.com/album/7x2S0Te3wioCK1ouviWT84) | 3:00 | 2019-07-30\* | 2019-09-20 |
 | [Damaged](https://open.spotify.com/track/7t5rS5U4XlPYkkgjUOGUPE) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Damaged](https://open.spotify.com/album/3eFhpjUQT8VXJ7zzgbROHp) | 3:10 | 2021-04-30 | 2021-07-02 |
 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/50jNfTe68NRfCXsBdTgh5W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [DameLove \(feat\. Cuco\)](https://open.spotify.com/album/1i7LHFlyRmuwfRWlghFXlj) | 3:48 | 2019-07-30\* | 2019-08-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Home of the best bands orbiting the universe right now. Cover: Beach House",
+  "description": "Home of the best bands orbiting the universe right now. Cover: Arcade Fire",
   "name": "The Best Bands In The Universe \ud83e\ude90",
   "published_playlist_ids": [
     "1G49YSmV3HVbe641zBfJx5"
@@ -23,6 +23,24 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401253,
+      "name": "Age of Anxiety II (Rabbit Hole)",
+      "url": "https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z"
     },
     {
       "album": {
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 173573,
       "name": "Alphabet",
       "url": "https://open.spotify.com/track/7C1yN5TNMMxzfBv57qyK9a"
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 186173,
       "name": "Antagonist",
       "url": "https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31"
@@ -153,7 +171,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 191960,
       "name": "Bad Friday",
       "url": "https://open.spotify.com/track/6sWnt5FMTlcgSe2xkYpszP"
@@ -510,6 +528,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ"
+    },
+    {
+      "album": {
         "name": "Artifacts",
         "url": "https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK"
       },
@@ -727,6 +763,24 @@
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming with You",
       "url": "https://open.spotify.com/track/3LQDkH5zNQ4x0UUsmH4zkj"
+    },
+    {
+      "album": {
+        "name": "Alpha Games",
+        "url": "https://open.spotify.com/album/12I46H1wjhsfOdf8iEETlB"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175180,
+      "name": "In Situ",
+      "url": "https://open.spotify.com/track/7LVck898vegWlmM0Rwc81Z"
     },
     {
       "album": {
@@ -1087,7 +1141,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX"
@@ -1163,6 +1217,24 @@
       "duration_ms": 176315,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
+    },
+    {
+      "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "album": {
@@ -1260,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193369,
+      "name": "The Hardest Cut",
+      "url": "https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU"
+    },
+    {
+      "album": {
         "name": "The Lightning I, II",
         "url": "https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr"
       },
@@ -1307,7 +1397,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 174581,
       "name": "Traps",
       "url": "https://open.spotify.com/track/2ZvxyrNMYKMTazLQI2v9BX"

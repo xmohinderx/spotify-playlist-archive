@@ -1,13 +1,33 @@
 {
   "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Sojabrat\n",
-  "num_followers": 180965,
+  "num_followers": 181088,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTY4MDAwMCwwMDAwMDEwYjAwMDAwMTgwOGZjY2I4OGYwMDAwMDE4MDAwNzA2ODYx",
+  "snapshot_id": "MTY1MTc5MTYyOCwwMDAwMDEwYzAwMDAwMTgwOTY3NDA5OGUwMDAwMDE4MDAwNzA2ODYx",
   "tracks": [
+    {
+      "added_at": "2022-05-04 16:00:00",
+      "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/52ux202UcTEFnp1Bojy1hu"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 137640,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/6bkRx9TWQfP5rcRnS89oXI"
+    },
     {
       "added_at": "2022-05-04 16:00:00",
       "album": {
@@ -139,26 +159,6 @@
       "duration_ms": 115203,
       "name": "Fresh off the UFO",
       "url": "https://open.spotify.com/track/3RSK78MIagdtqYLvN4cWKN"
-    },
-    {
-      "added_at": "2022-05-04 16:00:00",
-      "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/52ux202UcTEFnp1Bojy1hu"
-      },
-      "artists": [
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 137640,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/6bkRx9TWQfP5rcRnS89oXI"
     },
     {
       "added_at": "2022-05-04 16:00:00",

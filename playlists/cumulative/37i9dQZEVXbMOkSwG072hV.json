@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 197760,
       "name": "Because I Got High",
       "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
@@ -3365,7 +3365,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 135183,
       "name": "Me Chama de Amor",
       "url": "https://open.spotify.com/track/2IItvFDZTeEOASQwFfSvBD"
@@ -4405,7 +4405,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 137681,
       "name": "Party Everyday",
       "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
@@ -5821,6 +5821,24 @@
       "duration_ms": 227424,
       "name": "Teu Amigo Cuidou",
       "url": "https://open.spotify.com/track/1bm9fDxVpuWlxoxoLPru7a"
+    },
+    {
+      "album": {
+        "name": "Lapada Intense",
+        "url": "https://open.spotify.com/album/7mG6aqqZysmUcfTegceMAj"
+      },
+      "artists": [
+        {
+          "name": "Banda Lapada De Amor",
+          "url": "https://open.spotify.com/artist/4KHAgxXSIWRf5ZN7tPxykh"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199549,
+      "name": "Teu Amigo Cuidou",
+      "url": "https://open.spotify.com/track/4RZNSNyLsB9vLM3nKvGaRi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-78 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
+82 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/4S2R2HqBmqVbrqPIypTgWG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Binaural Delta Sinus 160 Hz \- L 161 Hz \- R](https://open.spotify.com/track/0rvPwQabfUSeU08LDDQVM8) | [Parascope Doll](https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y) | [Binaural Delta Sinus 160 Hz \- L 161 Hz \- R](https://open.spotify.com/album/0TJS3JB2pb5mXXrPN7oFer) | 2:21 | 2021-12-22 |  |
 | [Binaural Delta Sinus 90 Hz \- L 94 Hz \- R](https://open.spotify.com/track/70PN99PsC7BoqAmmrdxj0H) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Binaural Gamma Sinus 70 Hz \- L 170 Hz \- R](https://open.spotify.com/album/7E9Zfn9aGdJOSp1YxBiGZg) | 2:16 | 2021-12-22 |  |
 | [Calm Body \(Delta Binaural\)](https://open.spotify.com/track/4JTKJY41QWzUkbPKl8iMCx) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Calm Body \(Delta Binaural\)](https://open.spotify.com/album/6jVgqv97W8bopZZNf0RyBF) | 3:02 | 2022-03-21 |  |
+| [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/track/37QKoaOOqKqS7khtF4KNRT) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/album/4yZmbSxZTXG24qQ0GNoqgX) | 4:37 | 2022-05-05 |  |
 | [Chaturanga : Delta Sinus Beats](https://open.spotify.com/track/7bHmwz4ZsxlAwzMeXQaMCS) | [Enlightened Spirits](https://open.spotify.com/artist/0Ii80W3VIHBgr211IUReM8) | [Sun Salutation : Delta Sinus Beats](https://open.spotify.com/album/2wdkJYEmhMdgmwyc9GXOmG) | 2:05 | 2021-12-22 |  |
 | [Deep Peace Delta Waves](https://open.spotify.com/track/6Vy9dbj0T5rwSjHCJ2Qw5J) | [Swedish Sound Therapy](https://open.spotify.com/artist/0x1B4lDtMoPTU3VRSxQsUU) | [Deep Peace Delta Waves](https://open.spotify.com/album/1OT6hl83qmZsBQ2RzhIeCr) | 3:30 | 2021-12-22 |  |
 | [Deep Shelter \(2 Hz Delta Binaural Beat\)](https://open.spotify.com/track/5ce38nO7UuAYX7190FS0WD) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Binarual Beats Remixes](https://open.spotify.com/album/6fkdmxYgNXsRdOdloCJnCy) | 3:10 | 2021-12-22 |  |
@@ -64,11 +65,14 @@
 | [In Control \(Delta Relax Waves\)](https://open.spotify.com/track/4vJGL9X3d3dFymERTqxHTL) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Delta Force](https://open.spotify.com/album/4fmpqaIzIfbK9JABdeSzB9) | 3:26 | 2021-12-22 |  |
 | [Limitless \- Delta Sinus 132Hz \- 133Hz](https://open.spotify.com/track/7oyUv4e3GnJuviEIGd4dQR) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:20 | 2021-12-22 |  |
 | [Magica \(3 Hz Delta Binaural Beat Version\)](https://open.spotify.com/track/5kEVAtbYLgb7Ymen4ljPgk) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Magica \(Binaural Beat Versions\)](https://open.spotify.com/album/67tFryPsJTFWT7YuOLlSNk) | 3:00 | 2021-12-22 |  |
+| [Maximum Focus Delta \(1.7Hz\)](https://open.spotify.com/track/29Hn90Qbo0E3lwf97pJOHg) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 2:24 | 2022-05-05 |  |
 | [Meditative Delta \(L\-98Hz R\-99.7Hz\)](https://open.spotify.com/track/53B0QMB3fQVFxt93wVjHuk) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 4:52 | 2021-12-22 |  |
 | [nite delta pattern](https://open.spotify.com/track/3VqF8tiKkVVVnhhmYmSif8) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [dream drifting \(binaural sleep\)](https://open.spotify.com/album/0I8Lj3JDpx8hEAYLzM5ac9) | 3:09 | 2021-12-22 |  |
 | [Ocean Wings \- Delta Sinus 156Hz \- 159Hz](https://open.spotify.com/track/4zkLAkhO367nuQEDoFGgEh) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [Binaural Ocean](https://open.spotify.com/album/4FqaMcjDOWjiA8n5ggwFGK) | 4:30 | 2021-12-22 |  |
 | [REM Ember \(Delta Waves\)](https://open.spotify.com/track/5nRbt0FEu7g8Zm1oApiKhe) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [REM Ember](https://open.spotify.com/album/7FDCVL0FDr0lgZ0duzkkfO) | 3:26 | 2021-12-22 |  |
 | [Schlaf, Schlaf, Schlaf \- Delta Sinus 92Hz \- 94Hz](https://open.spotify.com/track/2a4LNCvT38dM7ZSZzsDruh) | [Binaural Guidance](https://open.spotify.com/artist/3mTeGp1bAGxdJOzX19BCbD) | [Silent Words](https://open.spotify.com/album/12jobwwmDUtE73NkF9SFnC) | 3:16 | 2021-12-22 |  |
+| [Selective \(Delta Waves\)](https://open.spotify.com/track/0aNuiZsEMGst08a6WrVJmJ) | [circular ceremony](https://open.spotify.com/artist/51sMyVL0cmQQuh4hGpy5OU) | [stellar](https://open.spotify.com/album/4cGX0Y3eWuD3jbHzBxi8Ye) | 3:10 | 2022-05-05 |  |
+| [Sinewave Party Delta \(3Hz\)](https://open.spotify.com/track/5hd2zkUGgqjn5Y4eEdCNxP) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 3:21 | 2022-05-05 |  |
 | [Sleep Architect \(Delta Waves\)](https://open.spotify.com/track/4OmIx94FGulyQCG4p8DD0U) | [Dreamstatic](https://open.spotify.com/artist/24sCSCuOs5lxNXY5SsMUdj) | [Dreamstatic](https://open.spotify.com/album/3GnJyk0lcbxS6J7PvzsPGa) | 3:12 | 2021-12-22 |  |
 | [sleepless nights Delta Sinus 109Hz \- 112Hz](https://open.spotify.com/track/4InR2J0FZNvQYp51xoKYJ5) | [oOcean](https://open.spotify.com/artist/6pjctIaHCJFvelpfzEiATn) | [Delta Sleep](https://open.spotify.com/album/3sNAAlIhr6Jion8yR8vyAs) | 3:27 | 2021-12-22 |  |
 | [Stars above Joshua Tree \- Delta 146Hz \- 149Hz](https://open.spotify.com/track/7IbSLgWkmoKbPYcFYOrICj) | [One Zero 8](https://open.spotify.com/artist/0EFJcvdIgISyRJsVSx0ZGw) | [Oceanfloor](https://open.spotify.com/album/5ZWrbw1RN3yg48mQ2O7nL8) | 4:27 | 2021-12-22 |  |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > The sweet sounds of Morocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,544 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,616 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 |
 | 2 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 |
-| 3 | [Magic](https://open.spotify.com/track/1BPkouQsD4GyYIQc0pJ76I) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/0T6B119moSdRIZ2641ukTV) | 3:04 |
-| 4 | [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 |
-| 5 | [De9at l9elb](https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [De9at l9elb](https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr) | 2:34 |
+| 3 | [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 |
+| 4 | [De9at l9elb](https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [De9at l9elb](https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr) | 2:34 |
+| 5 | [Magic](https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN) | 3:04 |
 | 6 | [Serrek](https://open.spotify.com/track/2P6663NWulwljND7qHu910) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Serrek](https://open.spotify.com/album/1CCZubOoiB5X0xdJCVvnOU) | 3:51 |
 | 7 | [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 |
 | 8 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 |
 | 50 | [Vamos](https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:49 |
 
-Snapshot ID: `MTY1MTY5NjY5NSwwMDAwMDIwODAwMDAwMTgwOTBjYjc4NmUwMDAwMDE3MGE0ZjQyMDMw`
+Snapshot ID: `MTY1MTc5NzE2MywwMDAwMDIwOTAwMDAwMTgwOTZjODdkMjIwMDAwMDE3MGE0ZjQyMDMw`

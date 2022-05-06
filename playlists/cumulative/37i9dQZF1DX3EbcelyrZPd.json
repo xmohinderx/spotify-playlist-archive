@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rich Mavoko",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Ali Kiba",
   "name": "Bongo Flava",
   "published_playlist_ids": [
     "2xDYM2I9YQK1z2Fhl4qoxF"
@@ -983,6 +983,24 @@
     {
       "album": {
         "name": "Mama",
+        "url": "https://open.spotify.com/album/54kmZYE3OieaMSlLkMh1qj"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174905,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/4dHZ8yHndXrUt6Kh2OQx41"
+    },
+    {
+      "album": {
+        "name": "Mama",
         "url": "https://open.spotify.com/album/2cLFk3vyXGbEsg20dDXcZF"
       },
       "artists": [
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 186855,
       "name": "Outside",
       "url": "https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 157853,
       "name": "Sasambu",
       "url": "https://open.spotify.com/track/6tfVC1Ghg5KvIh8NItSPQh"
@@ -1675,6 +1693,50 @@
       "duration_ms": 189520,
       "name": "Shikilia",
       "url": "https://open.spotify.com/track/4cK0vktmHhHnz8m5ZlJnEk"
+    },
+    {
+      "album": {
+        "name": "Shinda Rmx",
+        "url": "https://open.spotify.com/album/0CBojdIhHZtam1KgBxWe4u"
+      },
+      "artists": [
+        {
+          "name": "Enzo Siffredi",
+          "url": "https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ"
+        },
+        {
+          "name": "BAQABO",
+          "url": "https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn"
+        },
+        {
+          "name": "The Fuego",
+          "url": "https://open.spotify.com/artist/63osCxwkEmgSOqyWszgPTy"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217435,
+      "name": "SHINDA - The Fuego Rmx",
+      "url": "https://open.spotify.com/track/0OTH2GQ4PaEo1Txzu5zPRt"
+    },
+    {
+      "album": {
+        "name": "Simuachi",
+        "url": "https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196421,
+      "name": "Simuachi",
+      "url": "https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2"
     },
     {
       "album": {
@@ -1981,7 +2043,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 148800,
       "name": "Upendo (feat. Zuchu)",
       "url": "https://open.spotify.com/track/4rET38eDNmdCHOgIoH4RzP"

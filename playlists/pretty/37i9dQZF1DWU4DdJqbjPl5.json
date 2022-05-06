@@ -1,13 +1,65 @@
 {
-  "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q?si=WeTIbYIyS66s3113tvmEOA\" > Ria Boss </a>",
-  "num_followers": 103757,
+  "description": "The smoothest Afro R&B out right now. Cover: <a href=\"https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=qhR12UGsSpOUFsjHzhaQhw\" > Stonebwoy </a>",
+  "num_followers": 103870,
   "original_name": "Tantalizers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTcxMjQwOSwwMDAwMDAwMDAzODRkZGQ2YjMzOWY5ZTBiNzQ0NWIwOGFiNGIxNGYy",
+  "snapshot_id": "MTY1MTc5ODMxNywwMDAwMDAwMGVjMzMwYWQ5ZGMwNWMzZTU5OGMzYWRmNzQ2N2RlZmIz",
   "tracks": [
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 185341,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
+    },
+    {
+      "added_at": "2021-11-15 10:10:44",
+      "album": {
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2021-12-16 23:01:00",
+      "album": {
+        "name": "Gone Girl",
+        "url": "https://open.spotify.com/album/7askKzi7oR1VpOswKLtMAN"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "duration_ms": 253685,
+      "name": "Gone Girl",
+      "url": "https://open.spotify.com/track/4SVjVLpHngzqTzGfQe0hGz"
+    },
     {
       "added_at": "2022-01-20 23:00:00",
       "album": {
@@ -45,20 +97,20 @@
       "url": "https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi"
     },
     {
-      "added_at": "2021-11-15 10:10:44",
+      "added_at": "2022-05-05 23:00:00",
       "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5"
       },
       "artists": [
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+      "duration_ms": 213580,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
     },
     {
       "added_at": "2022-04-28 23:00:00",
@@ -147,42 +199,6 @@
       "duration_ms": 136270,
       "name": "Summertime With You",
       "url": "https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE"
-    },
-    {
-      "added_at": "2021-12-16 23:01:00",
-      "album": {
-        "name": "Gone Girl",
-        "url": "https://open.spotify.com/album/7askKzi7oR1VpOswKLtMAN"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        }
-      ],
-      "duration_ms": 253685,
-      "name": "Gone Girl",
-      "url": "https://open.spotify.com/track/4SVjVLpHngzqTzGfQe0hGz"
-    },
-    {
-      "added_at": "2022-04-28 23:00:00",
-      "album": {
-        "name": "Eshu",
-        "url": "https://open.spotify.com/album/7Gb6bgH1YnrsoNulqp4tHd"
-      },
-      "artists": [
-        {
-          "name": "Amai Kuda Et Les Bois",
-          "url": "https://open.spotify.com/artist/1SBiL8VyIl0OzZbyJQTNvw"
-        }
-      ],
-      "duration_ms": 200454,
-      "name": "Eshu",
-      "url": "https://open.spotify.com/track/2EB9HogbtwaVVHOUhmArEp"
     },
     {
       "added_at": "2021-03-25 22:00:00",
@@ -323,6 +339,26 @@
       "duration_ms": 180563,
       "name": "Attention",
       "url": "https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Playing With Fire",
+        "url": "https://open.spotify.com/album/5lCzLkyHar40yPR2mIHEZC"
+      },
+      "artists": [
+        {
+          "name": "Jess ETA",
+          "url": "https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y"
+        },
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/7nx5roePDWEAzJwGajxFmF"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -639,22 +675,6 @@
       "duration_ms": 159914,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk"
-    },
-    {
-      "added_at": "2021-01-27 19:05:44",
-      "album": {
-        "name": "Ayra Starr",
-        "url": "https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm"
     },
     {
       "added_at": "2021-12-16 23:01:00",
@@ -1291,26 +1311,6 @@
       "duration_ms": 177913,
       "name": "Nike",
       "url": "https://open.spotify.com/track/3gUNco4uLKydiO0smv2EJR"
-    },
-    {
-      "added_at": "2022-04-21 23:00:00",
-      "album": {
-        "name": "Bom Bom",
-        "url": "https://open.spotify.com/album/0dBepsBCGwswPMvZHM6G68"
-      },
-      "artists": [
-        {
-          "name": "Batida",
-          "url": "https://open.spotify.com/artist/5rILRopfIgqH4Cg6Ean6AJ"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 212682,
-      "name": "Bom Bom",
-      "url": "https://open.spotify.com/track/3urVvgxwqxKq8u3W7BRv2V"
     }
   ],
   "unique_name": "Tantalizers",

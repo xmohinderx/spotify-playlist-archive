@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-304 songs - 16 hr 42 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+307 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Chobara](https://open.spotify.com/track/2aK4FvQCWnyac8NshliNGd) | [Mr\. Richi](https://open.spotify.com/artist/1Q4Ab6lCkxB8czhDIBjx3X) | [Chobara](https://open.spotify.com/album/6Tf7hmJaHOMyZwTEgUVR83) | 2:36 | 2022-01-31 | 2022-03-11 |
 | [Choodhe Wali](https://open.spotify.com/track/7EpBW8ix608NfhLh86wclH) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn) | [Choodhe Wali](https://open.spotify.com/album/1UxPVWhAlJFxzaiyAxqmld) | 3:21 | 2022-04-08 | 2022-04-29 |
 | [Chunni](https://open.spotify.com/track/2vZ7SA9jkaV3JqHiQKdoEA) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp) | [Chitti Chunni](https://open.spotify.com/album/4Kq3o0uXjaBiyMtFx2IX0L) | 3:50 | 2022-03-08 | 2022-04-06 |
+| [Close](https://open.spotify.com/track/0MpMnxzwiF4dfzDwrd21MI) | [Saheb](https://open.spotify.com/artist/2ShbFK8mw2wWXf0EkD36ch) | [Close](https://open.spotify.com/album/0O9YcekE4hqY003nZQ9W3b) | 3:21 | 2022-05-05 |  |
 | [Conversation](https://open.spotify.com/track/169eHrJhaAKOPJJoda2Pgz) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Conversation](https://open.spotify.com/album/1AvCpygMn5bSEGm4kTqywo) | 3:22 | 2022-04-06 |  |
 | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/6CP0jsIBEM5VEEKLr4tf69) | [Jovan Dhillon](https://open.spotify.com/artist/2EW4LUtzs9hLVAZTRzphS0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/6GXPVaPJPeQFhcheqd1tP7) | 2:48 | 2021-12-02 |  |
 | [Dark Circle](https://open.spotify.com/track/4Yy0Aval2j2K5UkLh6RAPO) | [Deep Fateh](https://open.spotify.com/artist/6TwRnAsvNFG4nXZyZhwXyn) | [Dark Circle](https://open.spotify.com/album/3D1EEKOLqoSXFIXGVhcngn) | 3:57 | 2022-03-25 | 2022-04-06 |
@@ -79,6 +80,7 @@
 | [Gaani](https://open.spotify.com/track/03uNC6xp1LUJCa7CEomzva) | [Guri](https://open.spotify.com/artist/7AzzWJUcEEKVTOijy4OeX3) | [Gaani](https://open.spotify.com/album/5mX6dHWudwwmUXaL2LRgha) | 2:43 | 2022-03-07 | 2022-04-06 |
 | [Gaani](https://open.spotify.com/track/4q1ESZkZKH3D4K89G6Kjfm) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Gaani](https://open.spotify.com/album/772wLGKJbEF0WeClAQ4g40) | 1:00 | 2022-01-12 | 2022-02-01 |
 | [Gal Ni Bani](https://open.spotify.com/track/14yIcx0HA4RTKkndUvHlda) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Gal Ni Bani](https://open.spotify.com/album/4pOsWsGiGZtzzUDoOvzqCl) | 3:07 | 2022-03-18 |  |
+| [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 | 2022-05-05 |  |
 | [Gal Sun Ke](https://open.spotify.com/track/5B1lbZYUPga3sZgD87um0W) | [Dil Sandhu](https://open.spotify.com/artist/4v9zktlAwWhLLhm8vZazny), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Lovey Akhtar](https://open.spotify.com/artist/5baJF3Zd6EDt4njVMaqhoD) | [Gal Sun Ke](https://open.spotify.com/album/31lU2rJSfpFZjKWPUhMxM8) | 3:14 | 2022-02-28 | 2022-03-11 |
 | [Gall Khaas](https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Gall Khaas](https://open.spotify.com/album/6zhGxMXaDxizCLjNoIvMw8) | 2:40 | 2022-03-02 | 2022-04-06 |
 | [Gallan Baatan](https://open.spotify.com/track/1GS3cGSTsGOIkPh8WvgCm4) | [Ravneet](https://open.spotify.com/artist/6HkQAVfiEMIx0yWyWOnVfq), [Jaya](https://open.spotify.com/artist/3Z3RmuFa0nCgwCQfjAmFUb) | [Gallan Baatan](https://open.spotify.com/album/0PxRLUKODqDGCLB9aJBDbX) | 2:50 | 2022-01-08 | 2022-02-01 |
@@ -309,6 +311,7 @@
 | [Yaad \- From The Album "ikigai"](https://open.spotify.com/track/24fcOo0Mif4IoYAMx3bFp4) | [Harman Mann](https://open.spotify.com/artist/1XcqQJdOdlJjwNVKRMHUWu), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u) | [Yaad](https://open.spotify.com/album/2BwQgV96oAfQv9o8IJeLp6) | 2:26 | 2022-02-04 | 2022-02-12 |
 | [Yaar Mera](https://open.spotify.com/track/6Fx5FyrlseqiL7L8ddY6iG) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Yaar Mera](https://open.spotify.com/album/2DVosjSDtVTKdyuJgoWloD) | 3:07 | 2022-02-11 | 2022-04-06 |
 | [Yaar Razi](https://open.spotify.com/track/4jCY1d4d16OJTPD793Zf0K) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Yaar Razi](https://open.spotify.com/album/6xijSCqyV5BBEb09kTDmwd) | 3:35 | 2022-04-04 | 2022-04-29 |
+| [Yaar Suli Te](https://open.spotify.com/track/2r1zm4qZTVfVNJU9gBOE0J) | [Nobby Singh](https://open.spotify.com/artist/6uwgbF1ioLsU15PZCDZCeP) | [Yaar Suli Te](https://open.spotify.com/album/7efg8nVuWZJTsRPM8Eu7CX) | 3:00 | 2022-05-05 |  |
 | [You N’ I](https://open.spotify.com/track/4hg7dDYEK3Mc1fLVBPbzpl) | [Laddi Gill](https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD) | [You N’ I](https://open.spotify.com/album/4oppIoX5vEptnhXE3VcU3x) | 2:48 | 2022-04-11 | 2022-04-29 |
 | [Your Smile](https://open.spotify.com/track/7oFAuczMTH37F3mYTEXcOh) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Your Smile](https://open.spotify.com/album/1H86338CdPmXfkWtXieGMY) | 3:16 | 2022-01-08 | 2022-04-06 |
 | [Zindagi](https://open.spotify.com/track/1IsbvmZLFPfe0P8XCNBtOX) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Zindagi](https://open.spotify.com/album/6FTS94l96Gerr6Yfk9Yqpz) | 2:35 | 2022-03-18 | 2022-04-06 |

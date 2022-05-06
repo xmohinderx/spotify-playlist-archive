@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,460 likes - 133 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,459 likes - 133 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

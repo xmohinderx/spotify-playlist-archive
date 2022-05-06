@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Zane Cotton\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Strange Alias\. Artwork: Isu Kim.
 
-201 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+203 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Hard To Love](https://open.spotify.com/track/4mYU1lSo0jgIxzH8iofmM3) | [Karazey](https://open.spotify.com/artist/2sA7JXgexSOAcvqTBveRNf), [Airinna Namara](https://open.spotify.com/artist/144bztZE6ImAnYLiYuVdEU) | [Hard To Love](https://open.spotify.com/album/1WyOsHwTY8Jn6rGZ2PPetC) | 3:04 | 2022-02-17 |  |
 | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/track/2GkRcyxXrcK1N69fTvh41V) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/album/12tStuD8cBgyYlLGuNt1un) | 3:08 | 2021-12-01 | 2022-01-14 |
 | [Heart On Fire](https://open.spotify.com/track/6tvl88OEmUpw4uAh9nNI9S) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Heart On Fire](https://open.spotify.com/album/178NsqOrpIbqpOQtJparp5) | 3:46 | 2022-02-10 |  |
+| [Hindsight](https://open.spotify.com/track/6vONY8IwDRU4WWEGrfYf43) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Hindsight](https://open.spotify.com/album/4WVj2eFk774aULiDEefviT) | 3:03 | 2022-05-05 |  |
 | [Hold Me](https://open.spotify.com/track/22UneO4S3Num3CIsFsX3BR) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Hold Me](https://open.spotify.com/album/2F3wq0941ab4XPnfNapWTH) | 2:34 | 2021-12-01 | 2022-01-14 |
 | [home.](https://open.spotify.com/track/6x6i7ky72K8OgytVjmDPpJ) | [Lincoln Lim](https://open.spotify.com/artist/6SWt2vc0oCLKFQKy5OB253) | [home.](https://open.spotify.com/album/78qhhu1f0mzaBHHnH5e3Ev) | 5:31 | 2022-01-20 |  |
 | [Homemade Chicken Soup](https://open.spotify.com/track/0ZDb1gKLEmimWszMPX6QjY) | [thelandofgreysea](https://open.spotify.com/artist/1elZrGAuUvrokatVLMnUWl), [DSML](https://open.spotify.com/artist/7kZ5xFtlC9bPMPjWGYBpIu) | [Homemade Chicken Soup](https://open.spotify.com/album/0tNXJpv0SkYP1aB6Xv0vWw) | 2:05 | 2022-01-13 |  |
@@ -109,6 +110,7 @@
 | [LMI \(feat\. Sherlyn Veronica\)](https://open.spotify.com/track/5czXZZpUJVrZnUkWdk8tBq) | [Astronauts](https://open.spotify.com/artist/2d4PRxsiDtfcXVv9WKs7Ci), [Sherlyn Veronica](https://open.spotify.com/artist/2dUieILowO0QlDgMi64K6d) | [LMI \(feat\. Sherlyn Veronica\)](https://open.spotify.com/album/0u8Bx8HVsmC5W39nkfLc0S) | 3:54 | 2021-12-01 | 2022-01-14 |
 | [Looking For You](https://open.spotify.com/track/4d9DgnnAbTKumsm7iickdi) | [Caspar](https://open.spotify.com/artist/7mc37Uyetmxgzq7nOKGiAI), [Ines Lavigne](https://open.spotify.com/artist/7en6B2DNfQfMx9LmFAj7j5) | [Looking For You](https://open.spotify.com/album/3cD6A9MG6WW99dPmCYZBpx) | 3:35 | 2021-12-01 | 2022-01-14 |
 | [LOSE](https://open.spotify.com/track/5J2a8D1TpCBLn7ElBUq1We) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH), [Alan D](https://open.spotify.com/artist/3u4VRULomA2rso0lBPV5VQ) | [LOSE](https://open.spotify.com/album/1z5A7zTyG90VvubFP2cjDw) | 2:42 | 2021-12-01 | 2022-01-14 |
+| [Love Like You](https://open.spotify.com/track/6fzcTivgSDZqKzkK1CKlKA) | [Strange Alias](https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj) | [Love Like You](https://open.spotify.com/album/1omPIAZK12fqM3qxcwdfQK) | 2:30 | 2022-05-05 |  |
 | [Lover's Dream](https://open.spotify.com/track/7wmxK5k0oFNrCJlTppQlNW) | [Saints Amongst Sinners](https://open.spotify.com/artist/5CNHIyCLT2jMGpO3re7Mjf) | [Y/OURS](https://open.spotify.com/album/2qDawRZFkl6s4Mt1xuGFHd) | 5:35 | 2021-12-01 | 2022-01-14 |
 | [Lovesick Blues](https://open.spotify.com/track/1DWWMZn2WY2rX9SuvtI0Xq) | [jun](https://open.spotify.com/artist/2fPotAbyJW12ngcBGKw8J8) | [Lovesick Blues](https://open.spotify.com/album/6eQwpV7xAs35n8XtWDPGVg) | 4:08 | 2022-03-10 |  |
 | [Lovestruck](https://open.spotify.com/track/0AfrgSDnn5gt9gDuJ2G7tb) | [Sign of Five](https://open.spotify.com/artist/5v9bVo0Z9GI9L2SCFON6Hh) | [Lovestruck](https://open.spotify.com/album/47VJViuY2ZR5rm2CiODTXd) | 3:13 | 2022-03-03 | 2022-03-25 |

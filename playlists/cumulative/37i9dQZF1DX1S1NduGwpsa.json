@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : \nNorah Jones",
+  "description": "The best jazz new releases. Photo : \nMelody Gardot",
   "name": "Jazz Club",
   "published_playlist_ids": [
     "3rs0g3vcnj4aI2NKRtpM5z"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 290226,
       "name": "Joy Song",
       "url": "https://open.spotify.com/track/4NwkPwcmLEI9HwAgNRJamy"
@@ -525,6 +525,24 @@
       "duration_ms": 285453,
       "name": "La \u00d1apa",
       "url": "https://open.spotify.com/track/15A7KFrf9RKpCDUWGGuImI"
+    },
+    {
+      "album": {
+        "name": "Solo Suites",
+        "url": "https://open.spotify.com/album/6yZr9kTMjd7wF4SOy74683"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373693,
+      "name": "Little Melody",
+      "url": "https://open.spotify.com/track/0qxH67J4QDaho2g4T0b5n1"
     },
     {
       "album": {
@@ -970,6 +988,50 @@
     },
     {
       "album": {
+        "name": "Something Tomorrow",
+        "url": "https://open.spotify.com/album/2MDgqeWW7IJot1PPNKN2at"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197501,
+      "name": "Something Tomorrow",
+      "url": "https://open.spotify.com/track/6il16WIBZGRYEJ5sqpYoVY"
+    },
+    {
+      "album": {
+        "name": "Soulful",
+        "url": "https://open.spotify.com/album/5ZPmWiHGNH6yU0jdD1LUAU"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298096,
+      "name": "Soulful",
+      "url": "https://open.spotify.com/track/4uuF07XqmSTTrpmHEfkYSc"
+    },
+    {
+      "album": {
         "name": "Strange Days in Paris",
         "url": "https://open.spotify.com/album/4jI8XY1T303alYnPviLPFl"
       },
@@ -1153,7 +1215,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 286080,
       "name": "TO BE WE (feat. Jill Scott)",
       "url": "https://open.spotify.com/track/5wjYQzsjEKjRCJqi1ATR6A"
@@ -1369,7 +1431,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 241000,
       "name": "When I First Saw Your Face",
       "url": "https://open.spotify.com/track/78EF8TCHy2rDm19i7SXqhq"

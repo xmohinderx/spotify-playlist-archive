@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 
 > Masterpieces of baroque era, all the way to 20th century and contemporary classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,648 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,725 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

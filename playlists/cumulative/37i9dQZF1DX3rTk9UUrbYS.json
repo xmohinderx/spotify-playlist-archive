@@ -23,7 +23,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 344373,
       "name": "A Very Long Letter",
       "url": "https://open.spotify.com/track/6yoWyTB5nxXtcnWSFJNlpy"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 492066,
       "name": "Attack of the Mikrokosmos",
       "url": "https://open.spotify.com/track/42wVyu4ZVkFLBMK2cqZEYB"
@@ -180,6 +180,32 @@
     },
     {
       "album": {
+        "name": "Bold Dream",
+        "url": "https://open.spotify.com/album/4Mi8YE2A7ZJXvpt4c6UejO"
+      },
+      "artists": [
+        {
+          "name": "Flock",
+          "url": "https://open.spotify.com/artist/5c4ETn2xdmdKYUm29Ht3kN"
+        },
+        {
+          "name": "Bex Burch",
+          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
+        },
+        {
+          "name": "Sarathy Korwar",
+          "url": "https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372440,
+      "name": "Bold Dream",
+      "url": "https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9"
+    },
+    {
+      "album": {
         "name": "Problem of Absolute Generality",
         "url": "https://open.spotify.com/album/25ZSDXYVeaT9rfVueSUefL"
       },
@@ -199,7 +225,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 763674,
       "name": "Boltzmann Brain",
       "url": "https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5"
@@ -225,7 +251,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 359466,
       "name": "Box Step",
       "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
@@ -261,7 +287,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 937720,
       "name": "Broken Cycles",
       "url": "https://open.spotify.com/track/0wnIDv8Za64PpMPK08z3Jk"
@@ -297,7 +323,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 463330,
       "name": "Cancellation - Digital Remaster/2006",
       "url": "https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa"
@@ -315,7 +341,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
@@ -359,7 +385,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 374688,
       "name": "Chapter I",
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
@@ -521,7 +547,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 382693,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/4zg0iYZ0PM6iYLUDbvr76B"
@@ -565,7 +591,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 476000,
       "name": "Equation",
       "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
@@ -647,7 +673,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 468600,
       "name": "Explain It To Me",
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
@@ -677,7 +703,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 399882,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/0ssTZCjpOLSJuGfDj7a9SV"
@@ -695,7 +721,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 214201,
       "name": "Fiasco : In the Moment",
       "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
@@ -731,7 +757,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 760558,
       "name": "Fractured Gatherings",
       "url": "https://open.spotify.com/track/06njugsiOINoCxXCr0fvCI"
@@ -749,7 +775,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 411466,
       "name": "From Before",
       "url": "https://open.spotify.com/track/5xNLSDTG2TL62XufqAnvWN"
@@ -785,7 +811,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 165613,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5CWLhuuIGwTl96DQsVfeml"
@@ -811,7 +837,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 408638,
       "name": "Golden Calf",
       "url": "https://open.spotify.com/track/3fPHc6SaoMLYoIv3YbUh0I"
@@ -841,7 +867,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 335256,
       "name": "Haie d'eau II",
       "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
@@ -1007,7 +1033,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 122142,
       "name": "Kasumi",
       "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
@@ -1037,7 +1063,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 979370,
       "name": "Knknighgh 3",
       "url": "https://open.spotify.com/track/34sjpLJnGPzcCV3QyMlaC2"
@@ -1063,7 +1089,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 344453,
       "name": "Lebroba",
       "url": "https://open.spotify.com/track/5Uiofafr14TDphDMDeqxIz"
@@ -1081,7 +1107,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 312626,
       "name": "Love",
       "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
@@ -1125,7 +1151,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 271798,
       "name": "Melt All the Guns",
       "url": "https://open.spotify.com/track/4zpN6HASOz9T15MhpBvM4A"
@@ -1197,7 +1223,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 427746,
       "name": "Nona's Blues",
       "url": "https://open.spotify.com/track/0yRHtnaA8A7F0G4L5xM443"
@@ -1215,7 +1241,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 329760,
       "name": "One Tree Found",
       "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
@@ -1233,7 +1259,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 314786,
       "name": "Piano Equation",
       "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
@@ -1273,7 +1299,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 334762,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/1Rk7L0w2piutRt6onKrIdj"
@@ -1313,7 +1339,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 401866,
       "name": "Quirks",
       "url": "https://open.spotify.com/track/1s6nin660S2ETTGJSGEnA6"
@@ -1367,7 +1393,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 378666,
       "name": "Round Trip",
       "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
@@ -1411,7 +1437,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 227346,
       "name": "Shudder to Think",
       "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
@@ -1499,7 +1525,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 1013476,
       "name": "Suite 3320, Pt. I - Live",
       "url": "https://open.spotify.com/track/3yt7rjEyVLYWGZ2307OSNI"
@@ -1569,7 +1595,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 1224332,
       "name": "The Eyes Moving. Slowly.",
       "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
@@ -1587,7 +1613,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 258333,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
@@ -1605,7 +1631,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 430053,
       "name": "The Unidentifiable",
       "url": "https://open.spotify.com/track/6dO9SCydkLhqwSz2ayKiEH"
@@ -1715,7 +1741,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 347092,
       "name": "Way Beyond Cave",
       "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"

@@ -242,6 +242,28 @@
     },
     {
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/3CrcABa7dWIH4Oxdb0H48Z"
+      },
+      "artists": [
+        {
+          "name": "FREAKY",
+          "url": "https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT"
+        },
+        {
+          "name": "High Zombie",
+          "url": "https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170533,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/1ouitWGWGsCbvlpNCbUA4b"
+    },
+    {
+      "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu"
       },
@@ -619,7 +641,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 190856,
       "name": "Call Of The Unicorn",
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
@@ -681,7 +703,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Carbonara",
       "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
@@ -923,7 +945,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 185600,
       "name": "DIFFRENT",
       "url": "https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884"
@@ -1117,7 +1139,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 176516,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NM99r8sRxJ1vbVlAopATe"
@@ -1605,7 +1627,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 198400,
       "name": "Griztronics",
       "url": "https://open.spotify.com/track/6OTClxme7EYRZGO6An3SMc"
@@ -1667,7 +1689,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 236800,
       "name": "Harsh",
       "url": "https://open.spotify.com/track/4dZpVthxO7J7f7RHCdfSXP"
@@ -1765,7 +1787,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 155192,
       "name": "High Life",
       "url": "https://open.spotify.com/track/2N6qMBL0E2G55pKKmkCDce"
@@ -2545,7 +2567,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 186400,
       "name": "NEW WIP",
       "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
@@ -2585,7 +2607,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 161012,
       "name": "No Brakes",
       "url": "https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG"
@@ -2783,7 +2805,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 180193,
       "name": "Own The Night",
       "url": "https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F"
@@ -3849,7 +3871,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 180298,
       "name": "STFU",
       "url": "https://open.spotify.com/track/6wb3aDPGNaXdshGBzpOAGA"
@@ -3911,7 +3933,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 139877,
       "name": "Takin' Over",
       "url": "https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2"
@@ -3933,7 +3955,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 212941,
       "name": "The Cheeki Breeki Song",
       "url": "https://open.spotify.com/track/1gbUrCmsJchMppBeC6wL3r"

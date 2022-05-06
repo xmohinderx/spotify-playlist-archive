@@ -1088,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "Till There Was You",
+        "url": "https://open.spotify.com/album/5f1XIM1Hp0TiZEC1H3UBRV"
+      },
+      "artists": [
+        {
+          "name": "Julian Byrd",
+          "url": "https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107620,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/2UDtRV70lU0JbFNLeznfOJ"
+    },
+    {
+      "album": {
         "name": "You Stepped Out of a Dream",
         "url": "https://open.spotify.com/album/0xuRscRx1FotSIRc6JeKTM"
       },

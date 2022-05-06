@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "La scena italiana indipendente, senza etichette di genere. Cover: nudda",
+  "description": "La scena italiana indipendente, senza etichette di genere. Cover: Vieri Cervelli Montel",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -240,6 +240,24 @@
     },
     {
       "album": {
+        "name": "A\u0160",
+        "url": "https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE"
+      },
+      "artists": [
+        {
+          "name": "Selene Ice",
+          "url": "https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138450,
+      "name": "Almeno Stasera",
+      "url": "https://open.spotify.com/track/6lICy5xp0iuiFkrRE7IFfv"
+    },
+    {
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/2GWd9vVKtslp32sziRGPJH"
       },
@@ -313,7 +331,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 394293,
       "name": "An Interior of Strange Beauty",
       "url": "https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG"
@@ -357,7 +375,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 157175,
       "name": "ANIMA",
       "url": "https://open.spotify.com/track/1x14T3fXUhQxF7TKI0Dvgy"
@@ -409,6 +427,24 @@
       "duration_ms": 135836,
       "name": "Anomalia",
       "url": "https://open.spotify.com/track/5zpncVhGWNvIhNUzaNaj3D"
+    },
+    {
+      "album": {
+        "name": "APOLLO 11",
+        "url": "https://open.spotify.com/album/7Cw7BLWPn3o2XRhUTsWhqq"
+      },
+      "artists": [
+        {
+          "name": "I Le Lucertole",
+          "url": "https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183277,
+      "name": "APOLLO 11",
+      "url": "https://open.spotify.com/track/5dJcZ79cBBq016PNOtAPz6"
     },
     {
       "album": {
@@ -665,7 +701,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 177187,
       "name": "CAMOMILLA",
       "url": "https://open.spotify.com/track/4lNZbF3jBuNDDdkasOcwWf"
@@ -813,7 +849,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 196045,
       "name": "Da solo",
       "url": "https://open.spotify.com/track/6Ecd6qmTNg38sUr7OgbKBd"
@@ -1056,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/2RGUJun6AQFdrsZ29xy37C"
+      },
+      "artists": [
+        {
+          "name": "Cascate",
+          "url": "https://open.spotify.com/artist/7cG5p7UFGDKEZlFE351bX4"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/1hEsQqngL8iq7IwsoTjB9O"
+    },
+    {
+      "album": {
         "name": "Fantasma quattro",
         "url": "https://open.spotify.com/album/0oZgsmX3fhOoZlhvrTfvGH"
       },
@@ -1197,7 +1251,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 178669,
       "name": "Giovani Vecchi",
       "url": "https://open.spotify.com/track/78SvGNqbA2GQa8kiwvkKKi"
@@ -1357,6 +1411,24 @@
       "duration_ms": 212236,
       "name": "I want to believe",
       "url": "https://open.spotify.com/track/5rsWEQHRjj79IdYimUC5zz"
+    },
+    {
+      "album": {
+        "name": "Il suono che ho dentro alla testa",
+        "url": "https://open.spotify.com/album/7qhpdfM1CRlV3DDrBIqSI2"
+      },
+      "artists": [
+        {
+          "name": "Narcolessia",
+          "url": "https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Il suono che ho dentro alla testa",
+      "url": "https://open.spotify.com/track/6MfiKVSAiknuYP9XUXQYFg"
     },
     {
       "album": {
@@ -1574,6 +1646,24 @@
     },
     {
       "album": {
+        "name": "Lucido",
+        "url": "https://open.spotify.com/album/4Nr8JYO6KoWqJ7ylP1vYIZ"
+      },
+      "artists": [
+        {
+          "name": "ZANNA",
+          "url": "https://open.spotify.com/artist/0F9jANZdmAJKEXyha9ELv2"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187376,
+      "name": "Lucido",
+      "url": "https://open.spotify.com/track/0wWHA2fRW21xXpPprVWxdc"
+    },
+    {
+      "album": {
         "name": "Luna Park (Extended Version)",
         "url": "https://open.spotify.com/album/18rKku8UVZb7Le2GFCw51Z"
       },
@@ -1618,6 +1708,24 @@
     },
     {
       "album": {
+        "name": "LUNES",
+        "url": "https://open.spotify.com/album/5rMv8OvpZ9HTyTn5UkGeO5"
+      },
+      "artists": [
+        {
+          "name": "Marianna Mancini",
+          "url": "https://open.spotify.com/artist/5kEjbi0NY9b82y85keg2hY"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180086,
+      "name": "LUNES",
+      "url": "https://open.spotify.com/track/3ux6HhWQNXS4fjTGuyZcru"
+    },
+    {
+      "album": {
         "name": "MALIBU",
         "url": "https://open.spotify.com/album/7i9sJDgBaV8W8DCnaCOD3Q"
       },
@@ -1637,6 +1745,28 @@
       "duration_ms": 211962,
       "name": "MALIBU",
       "url": "https://open.spotify.com/track/42t5TYyKBghKeYkta4YnXI"
+    },
+    {
+      "album": {
+        "name": "Mandostai",
+        "url": "https://open.spotify.com/album/61R7YYgrlixF9cu9HhkDqO"
+      },
+      "artists": [
+        {
+          "name": "Ngawa",
+          "url": "https://open.spotify.com/artist/0k1NRT7Wbw1bjbjygEBtE7"
+        },
+        {
+          "name": "GIUMO",
+          "url": "https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "Mandostai",
+      "url": "https://open.spotify.com/track/3tkNO7r9FKCqNfQUTmDbnO"
     },
     {
       "album": {
@@ -2217,7 +2347,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 150214,
       "name": "oceano di lacrime",
       "url": "https://open.spotify.com/track/6jp5OkWCrJb8gS8Ea8s6FA"
@@ -2243,10 +2373,32 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 104348,
       "name": "OK!! RIGHT!!",
       "url": "https://open.spotify.com/track/3y8xGNtdNenRLkKZ36iC19"
+    },
+    {
+      "album": {
+        "name": "OSHILLANDO",
+        "url": "https://open.spotify.com/album/3Y10kwsCYiafagyaxiGdRI"
+      },
+      "artists": [
+        {
+          "name": "Tonino3000",
+          "url": "https://open.spotify.com/artist/3lmaY64jiPo0uqfLleWX1E"
+        },
+        {
+          "name": "La Siepe",
+          "url": "https://open.spotify.com/artist/1RwER3uO3nJj1KEeeXTtme"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193418,
+      "name": "OSHILLANDO",
+      "url": "https://open.spotify.com/track/1Cs7Oazl4HcOM6mxBCQ4VX"
     },
     {
       "album": {
@@ -2261,7 +2413,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 164706,
       "name": "OSIRIDE",
       "url": "https://open.spotify.com/track/3RPOqq5pytLKQRuryDKSSU"
@@ -2327,7 +2479,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 147972,
       "name": "persa",
       "url": "https://open.spotify.com/track/7h7ZIjlUNlg3rrAw8m27yv"
@@ -2363,7 +2515,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 152500,
       "name": "Piangi mai (domani)",
       "url": "https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ"
@@ -2385,6 +2537,24 @@
       "duration_ms": 229047,
       "name": "Piano bar",
       "url": "https://open.spotify.com/track/5Hhl4K5XEgOI9BGAbLC4QP"
+    },
+    {
+      "album": {
+        "name": "Piatti Sporchi",
+        "url": "https://open.spotify.com/album/3MTwNIztPZS019lqYKKuUP"
+      },
+      "artists": [
+        {
+          "name": "Mattino",
+          "url": "https://open.spotify.com/artist/6AWJDRkGAulcoS0K1fChAT"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Piatti Sporchi",
+      "url": "https://open.spotify.com/track/6QliTzcKrwZDZ4riRy7IL8"
     },
     {
       "album": {
@@ -2682,6 +2852,24 @@
     },
     {
       "album": {
+        "name": "Rotterdam",
+        "url": "https://open.spotify.com/album/5Hh1Yp8l8vZNDaNGS5mAco"
+      },
+      "artists": [
+        {
+          "name": "Anna Carol",
+          "url": "https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197282,
+      "name": "Rotterdam",
+      "url": "https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ"
+    },
+    {
+      "album": {
         "name": "Sailor Moon",
         "url": "https://open.spotify.com/album/38LqzOsheklizCNiuImWc3"
       },
@@ -2839,6 +3027,28 @@
       "duration_ms": 243157,
       "name": "SERIE TVB - feat. Caneda",
       "url": "https://open.spotify.com/track/57s75yvz68X8dJhrrKOnna"
+    },
+    {
+      "album": {
+        "name": "Serramanico Farfalla",
+        "url": "https://open.spotify.com/album/10ggwPJhklVqNIl9ef9Qcp"
+      },
+      "artists": [
+        {
+          "name": "Floral Grin",
+          "url": "https://open.spotify.com/artist/5m1fvLDO1DDWVNhluFhOA9"
+        },
+        {
+          "name": "J Milli",
+          "url": "https://open.spotify.com/artist/4kaZVOJpqYgHdQ05EwvGeK"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179017,
+      "name": "Serramanico Farfalla",
+      "url": "https://open.spotify.com/track/3GCTfmatkqze9rwqcMVvMb"
     },
     {
       "album": {
@@ -3022,6 +3232,24 @@
     },
     {
       "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7vbidq5v7PoumjBZhzHfJ0"
+      },
+      "artists": [
+        {
+          "name": "Vieri Cervelli Montel",
+          "url": "https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325386,
+      "name": "stanza",
+      "url": "https://open.spotify.com/track/17o45MbE29kKZoGpWh2YvN"
+    },
+    {
+      "album": {
         "name": "STARS ALIGN",
         "url": "https://open.spotify.com/album/3vnbz1dr9Si8cabIZXtov6"
       },
@@ -3063,7 +3291,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 210633,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/4y38EplYu8PVUqowLUPjql"
@@ -3263,7 +3491,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 205600,
       "name": "Tremo",
       "url": "https://open.spotify.com/track/06cpgjxgSb5gcSTY90xKX3"
@@ -3343,7 +3571,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 228571,
       "name": "tutto e niente",
       "url": "https://open.spotify.com/track/4bwoGNDTrv1a3nnAcA2jOb"
@@ -3419,7 +3647,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 235028,
       "name": "Umano",
       "url": "https://open.spotify.com/track/1FyF0EXkDP7uwDDwiNzYMl"
@@ -3477,6 +3705,24 @@
       "duration_ms": 179478,
       "name": "Una via d'uscita",
       "url": "https://open.spotify.com/track/6gxLlVRuJdN8jNczpPur3p"
+    },
+    {
+      "album": {
+        "name": "Universo",
+        "url": "https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I"
+      },
+      "artists": [
+        {
+          "name": "Venere",
+          "url": "https://open.spotify.com/artist/2OSkd1QGv0AtrRmoFHWT9e"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163053,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x"
     },
     {
       "album": {
@@ -3625,6 +3871,28 @@
       "duration_ms": 175500,
       "name": "Yin e Yang",
       "url": "https://open.spotify.com/track/39RLFZQtumst5e826cqMyP"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/743Abmv04PR3012wIg5YPM"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        },
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291600,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/4acda42yRN6yGsdhx5ATk1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY"

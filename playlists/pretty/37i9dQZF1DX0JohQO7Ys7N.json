@@ -1,12 +1,12 @@
 {
   "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN?si=Xdcl_sVfQmuVgfl7ca4l6A\"> Caleb Awiti </a>",
-  "num_followers": 3763,
+  "num_followers": 3798,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTE3OTU0MCwwMDAwMDAxMzAwMDAwMTgwNzFmODRlODAwMDAwMDE4MDcwYjUxYjFj",
+  "snapshot_id": "MTY1MTc4NDM0MCwwMDAwMDAxNDAwMDAwMTgwOTYwNGQyYjcwMDAwMDE4MDcwYjUxYjFj",
   "tracks": [
     {
       "added_at": "2022-03-31 20:59:00",
@@ -25,42 +25,6 @@
       "url": "https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9"
     },
     {
-      "added_at": "2022-04-28 20:59:00",
-      "album": {
-        "name": "Uko Poa (Full Version)",
-        "url": "https://open.spotify.com/album/1aKKwECJHnLPpHF6zJ9vi1"
-      },
-      "artists": [
-        {
-          "name": "Ethan Muziki",
-          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
-        }
-      ],
-      "duration_ms": 204282,
-      "name": "Uko Poa - Full Version",
-      "url": "https://open.spotify.com/track/3xfM0L04g8E0F7Pz111Pf3"
-    },
-    {
-      "added_at": "2022-04-22 06:39:39",
-      "album": {
-        "name": "in the name of love",
-        "url": "https://open.spotify.com/album/60IOLifUMf2mvPn2WSwC61"
-      },
-      "artists": [
-        {
-          "name": "Papa",
-          "url": "https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy"
-        },
-        {
-          "name": "anatu",
-          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "in the name of love",
-      "url": "https://open.spotify.com/track/2Z8PgUAoQxxdW6NshdJv1Q"
-    },
-    {
       "added_at": "2022-03-03 20:59:00",
       "album": {
         "name": "Love Letters II",
@@ -77,6 +41,22 @@
       "url": "https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1"
     },
     {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Kesho Kutwa",
+        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
+      },
+      "artists": [
+        {
+          "name": "Ethan Muziki",
+          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+        }
+      ],
+      "duration_ms": 252623,
+      "name": "Kesho Kutwa",
+      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
+    },
+    {
       "added_at": "2022-02-17 20:06:18",
       "album": {
         "name": "Sorry",
@@ -91,22 +71,6 @@
       "duration_ms": 232173,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/4jmj60YuyEMwANIOck2jFV"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/5J4SDAQfgnAE90ErS4dO4u"
     },
     {
       "added_at": "2022-02-24 20:59:00",
@@ -147,18 +111,34 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Kesho Kutwa",
-        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs"
       },
       "artists": [
         {
-          "name": "Ethan Muziki",
-          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
         }
       ],
-      "duration_ms": 252623,
-      "name": "Kesho Kutwa",
-      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
+      "duration_ms": 249600,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/4jmj60YuyEMwANIOck2jFV"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/5J4SDAQfgnAE90ErS4dO4u"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -181,6 +161,22 @@
       "url": "https://open.spotify.com/track/6vxwG8RWDOOlyCyxU4l0qP"
     },
     {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Qwarantunes",
+        "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 262798,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
+    },
+    {
       "added_at": "2022-03-31 20:59:00",
       "album": {
         "name": "sorry it didn't work out",
@@ -195,6 +191,26 @@
       "duration_ms": 149690,
       "name": "sorry it didn't work out",
       "url": "https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a"
+    },
+    {
+      "added_at": "2022-04-22 06:39:39",
+      "album": {
+        "name": "in the name of love",
+        "url": "https://open.spotify.com/album/60IOLifUMf2mvPn2WSwC61"
+      },
+      "artists": [
+        {
+          "name": "Papa",
+          "url": "https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "in the name of love",
+      "url": "https://open.spotify.com/track/2Z8PgUAoQxxdW6NshdJv1Q"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -219,34 +235,18 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Qwarantunes",
-        "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
+        "name": "Rafiki (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47HCCsYMmSjswC4jLM644r"
       },
       "artists": [
         {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+          "name": "Mumbi Kasumba",
+          "url": "https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1"
         }
       ],
-      "duration_ms": 262798,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Baisikeli",
-        "url": "https://open.spotify.com/album/0G5wIFKCzrjKTmBp6PNsL1"
-      },
-      "artists": [
-        {
-          "name": "Valerie Kimani",
-          "url": "https://open.spotify.com/artist/2dC0yENj6j5OeTi9Maz1HW"
-        }
-      ],
-      "duration_ms": 264840,
-      "name": "Nguga Ii",
-      "url": "https://open.spotify.com/track/6CnZsq519bjSUjEVSzaAQP"
+      "duration_ms": 345059,
+      "name": "Ignited",
+      "url": "https://open.spotify.com/track/560xVsPybvOmJ0iok2MJGE"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -267,6 +267,38 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
+        "name": "Baisikeli",
+        "url": "https://open.spotify.com/album/0G5wIFKCzrjKTmBp6PNsL1"
+      },
+      "artists": [
+        {
+          "name": "Valerie Kimani",
+          "url": "https://open.spotify.com/artist/2dC0yENj6j5OeTi9Maz1HW"
+        }
+      ],
+      "duration_ms": 264840,
+      "name": "Nguga Ii",
+      "url": "https://open.spotify.com/track/6CnZsq519bjSUjEVSzaAQP"
+    },
+    {
+      "added_at": "2022-04-28 20:59:00",
+      "album": {
+        "name": "Uko Poa (Full Version)",
+        "url": "https://open.spotify.com/album/1aKKwECJHnLPpHF6zJ9vi1"
+      },
+      "artists": [
+        {
+          "name": "Ethan Muziki",
+          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+        }
+      ],
+      "duration_ms": 204282,
+      "name": "Uko Poa - Full Version",
+      "url": "https://open.spotify.com/track/3xfM0L04g8E0F7Pz111Pf3"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
         "name": "Ambia",
         "url": "https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn"
       },
@@ -283,18 +315,22 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Rafiki (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/47HCCsYMmSjswC4jLM644r"
+        "name": "What I See",
+        "url": "https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX"
       },
       "artists": [
         {
-          "name": "Mumbi Kasumba",
-          "url": "https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1"
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        },
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
         }
       ],
-      "duration_ms": 345059,
-      "name": "Ignited",
-      "url": "https://open.spotify.com/track/560xVsPybvOmJ0iok2MJGE"
+      "duration_ms": 174193,
+      "name": "What I See",
+      "url": "https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG"
     },
     {
       "added_at": "2022-02-04 03:03:06",
@@ -423,26 +459,6 @@
       "duration_ms": 85947,
       "name": "Less",
       "url": "https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "What I See",
-        "url": "https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX"
-      },
-      "artists": [
-        {
-          "name": "Amara Tari",
-          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
-        },
-        {
-          "name": "Nviiri The Storyteller",
-          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "What I See",
-      "url": "https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG"
     },
     {
       "added_at": "2022-02-04 03:03:06",
@@ -579,22 +595,6 @@
       "duration_ms": 239500,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs"
-      },
-      "artists": [
-        {
-          "name": "Matt Ngesa",
-          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -863,6 +863,54 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/3hdpiMQSXkG3tXRVF4oaw7"
+      },
+      "artists": [
+        {
+          "name": "Njoki Karu",
+          "url": "https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/4VGdRiXSYdL44YCz84jpG5"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Usiende Mbali",
+        "url": "https://open.spotify.com/album/3gWHpGUHpc8u90J3oReY8M"
+      },
+      "artists": [
+        {
+          "name": "Antonio Carmona",
+          "url": "https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo"
+        },
+        {
+          "name": "Romantico",
+          "url": "https://open.spotify.com/artist/0M3CMDbz66AlRsb6AEwbf6"
+        },
+        {
+          "name": "Samaki Mkuu",
+          "url": "https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou"
+        },
+        {
+          "name": "Jabali Afrika",
+          "url": "https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC"
+        },
+        {
+          "name": "Sanaipei Tande",
+          "url": "https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J"
+        }
+      ],
+      "duration_ms": 274271,
+      "name": "Usiende Mbali",
+      "url": "https://open.spotify.com/track/2T80rcru064O2vpGt9zU9S"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
         "name": "Hayawi Hayawi",
         "url": "https://open.spotify.com/album/56o0WD6fjIZqABQ7w2H5TK"
       },
@@ -931,22 +979,6 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Anchor",
-        "url": "https://open.spotify.com/album/3hdpiMQSXkG3tXRVF4oaw7"
-      },
-      "artists": [
-        {
-          "name": "Njoki Karu",
-          "url": "https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Tender",
-      "url": "https://open.spotify.com/track/4VGdRiXSYdL44YCz84jpG5"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/2WrJzd9B9IAJhq9RfRxxZK"
       },
@@ -979,38 +1011,6 @@
     {
       "added_at": "2021-12-28 14:30:06",
       "album": {
-        "name": "Usiende Mbali",
-        "url": "https://open.spotify.com/album/3gWHpGUHpc8u90J3oReY8M"
-      },
-      "artists": [
-        {
-          "name": "Antonio Carmona",
-          "url": "https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo"
-        },
-        {
-          "name": "Romantico",
-          "url": "https://open.spotify.com/artist/0M3CMDbz66AlRsb6AEwbf6"
-        },
-        {
-          "name": "Samaki Mkuu",
-          "url": "https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou"
-        },
-        {
-          "name": "Jabali Afrika",
-          "url": "https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC"
-        },
-        {
-          "name": "Sanaipei Tande",
-          "url": "https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J"
-        }
-      ],
-      "duration_ms": 274271,
-      "name": "Usiende Mbali",
-      "url": "https://open.spotify.com/track/2T80rcru064O2vpGt9zU9S"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
         "name": "Lowkey",
         "url": "https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 170458,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "A Side Of Me",
-        "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 192272,
-      "name": "Crossing Lines",
-      "url": "https://open.spotify.com/track/0xnSY4GmMl3qvXYuzJcGnf"
     },
     {
       "added_at": "2021-12-28 14:30:06",
@@ -1059,6 +1043,22 @@
       "duration_ms": 216979,
       "name": "Want You",
       "url": "https://open.spotify.com/track/4soHwOdoVbeY0HgXI8K5vS"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "A Side Of Me",
+        "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 192272,
+      "name": "Crossing Lines",
+      "url": "https://open.spotify.com/track/0xnSY4GmMl3qvXYuzJcGnf"
     }
   ],
   "unique_name": "NairoBae",

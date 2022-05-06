@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-150 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+151 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Stained Glass](https://open.spotify.com/track/6jAPzxblYZrD1XpGAhIswt) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq), [Chxse](https://open.spotify.com/artist/1Xyr7EUPlc0ZDHaE0VRBRz) | [Stained Glass](https://open.spotify.com/album/4VYcnqjXVo6ekUEIOUr0Ml) | 2:51 | 2022-02-15 | 2022-04-27 |
 | [Stand By Me](https://open.spotify.com/track/4z6JhOgdaVoP4WR3gjftBJ) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Stand By Me](https://open.spotify.com/album/5R4PlfnRbAsDQoCBpArhDK) | 4:12 | 2021-11-19 | 2022-02-24 |
 | [Star Glide \- Stonebank Remix](https://open.spotify.com/track/0tRIhHyjXfeElFTObVEJDg) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [The X Saga](https://open.spotify.com/album/0cEjf52EUrUJGPxlW205ea) | 4:10 | 2022-03-31 |  |
-| [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 |  |
+| [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
+| [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-05 |  |
 | [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 |  |
 | [The Intimate Space](https://open.spotify.com/track/1pJW9CkfDyV7wc1YJpK4g9) | [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [The Intimate Space](https://open.spotify.com/album/5AzkYIG5sDlEChKq7n93Kv) | 5:01 | 2022-04-29 |  |
 | [The Moment](https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Martin Graff](https://open.spotify.com/artist/6SR5c2LXuUrSqhqkj3MTz9) | [The Moment](https://open.spotify.com/album/0ASBkV3dhCp5dvCNpHwzEb) | 3:30 | 2022-02-18 | 2022-04-29 |

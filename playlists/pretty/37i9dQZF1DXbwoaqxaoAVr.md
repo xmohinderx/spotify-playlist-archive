@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,621 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,104 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 69 | [Beautiful Things](https://open.spotify.com/track/5f1ipolg7GbqPvU82RrPKW) | [Phonosonics](https://open.spotify.com/artist/2xpEIe8STKeim2STwFAVyH) | [Beautiful Things](https://open.spotify.com/album/5AHhfT944fJxDCAwXzSlHn) | 4:04 |
 | 70 | [Tellme](https://open.spotify.com/track/67WqnBV34inBIzVoEX8UV1) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Tellme](https://open.spotify.com/album/7m75esfC7Hb4Uxn6d70ZSJ) | 3:18 |
 
-Snapshot ID: `MTY1MTE4MzMyMCwwMDAwMDA1YTAwMDAwMTgwNzIzMWZjNDIwMDAwMDE4MDY3MWY3YzA3`
+Snapshot ID: `MTY1MTc3NDkzMCwwMDAwMDA1YjAwMDAwMTgwOTU3NTNmYjEwMDAwMDE4MDY3MWY3YzA3`

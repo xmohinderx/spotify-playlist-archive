@@ -4,7 +4,7 @@
 
 > The official voice of generation next\. Cover: PGF Nuk
 
-374 songs - 16 hr 54 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+375 songs - 16 hr 57 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [TALK MY SHIT](https://open.spotify.com/track/6rhpEthdNKUw3fEFrCLPH0) | [Leeky Bandz](https://open.spotify.com/artist/08UUGGbQJQENS4gOd6VU00) | [TALK MY SHIT](https://open.spotify.com/album/2WBUQbnVhoWciXXdy0SKpL) | 2:57 | 2022-03-04 | 2022-03-26 |
 | [Talk My Shit](https://open.spotify.com/track/3dRO3kKkuYX80XTzvnIhHN) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Talk My Shit](https://open.spotify.com/album/2iQMcX4Rm7wNAuAR7ArUxS) | 2:29 | 2022-01-21 | 2022-03-01 |
 | [Teacher](https://open.spotify.com/track/0PZYcvesIgVsiOSQEUVgUA) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Teacher](https://open.spotify.com/album/2FPmhFzGjnZUKXfLjLljAZ) | 2:30 | 2021-10-29 | 2022-01-22 |
+| [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 | 2022-04-29 |  |
 | [The Good And The Bad](https://open.spotify.com/track/0EqPCHTXkak4J74zBg0Nic) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [The Good and The Bad](https://open.spotify.com/album/12poWhbYnHBh0pKdVN4U2t) | 2:44 | 2021-11-19 | 2022-02-19 |
 | [The One](https://open.spotify.com/track/42p3DhJW9tC9YRvMsSd8VT) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [The One](https://open.spotify.com/album/53iPXTwxvv6iDhryLzjx3R) | 3:14 | 2022-03-11 | 2022-04-23 |
 | [The Wolf Is In The Peacoat](https://open.spotify.com/track/7kHiDZNxmAGaFM85aSuJH3) | [Doley Bernays](https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch) | [The Wolf Is In The Peacoat](https://open.spotify.com/album/67p1Bgut3cEHpDJBTG8NQV) | 3:16 | 2022-03-04 | 2022-04-29 |

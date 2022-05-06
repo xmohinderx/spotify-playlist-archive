@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Loods",
+  "description": "The home for alternative electronic music. Cover: HAAi & Jon Hopkins",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -269,10 +269,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 219936,
       "name": "Affection",
       "url": "https://open.spotify.com/track/3fTxLcPR2i8b9yIrvNScuC"
+    },
+    {
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "album": {
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 209045,
       "name": "Alone - Edit",
       "url": "https://open.spotify.com/track/2FBin20nrPK6TCU4LCnKlA"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 167804,
       "name": "Always You",
       "url": "https://open.spotify.com/track/6aMVz7CZngLl3hNPnYVw8d"
@@ -593,6 +611,28 @@
       "duration_ms": 324858,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2ZqYiWW6yqG1vjjOyR6LE6"
+    },
+    {
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252805,
+      "name": "Baby, We're Ascending - Edit",
+      "url": "https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT"
     },
     {
       "album": {
@@ -792,6 +832,24 @@
     },
     {
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225021,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7"
+    },
+    {
+      "album": {
         "name": "Bodies Of Water",
         "url": "https://open.spotify.com/album/6IlPSsw7R1M7gA69yom1OY"
       },
@@ -803,7 +861,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 304306,
       "name": "Bodies Of Water",
       "url": "https://open.spotify.com/track/4tAIZ4jqnYtuZwx5trVtbE"
@@ -913,6 +971,24 @@
       "duration_ms": 207874,
       "name": "Bring The Noise",
       "url": "https://open.spotify.com/track/4RqPqt3d3WfooOB0ZTW27h"
+    },
+    {
+      "album": {
+        "name": "At What Cost?",
+        "url": "https://open.spotify.com/album/4qAZjzKlFI4c0v0xezQ6I8"
+      },
+      "artists": [
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156912,
+      "name": "Buccho Ni Ba Bhai (Grindin')",
+      "url": "https://open.spotify.com/track/7ay5eafHMaUih54yiqjuDr"
     },
     {
       "album": {
@@ -1087,7 +1163,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 390857,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/1JkiUUejePFuSJkbCxiOta"
@@ -1163,7 +1239,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 354465,
       "name": "Danshaug",
       "url": "https://open.spotify.com/track/06lJUqEd1IUkJUm0TIdaqh"
@@ -1300,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "DRaiN",
+        "url": "https://open.spotify.com/album/1PFSvtdr5l2fYt0L2NIDov"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "DRaiN",
+      "url": "https://open.spotify.com/track/3wDqjtZ7Ua7Vz4QrCJqVoD"
+    },
+    {
+      "album": {
         "name": "D\u00e4mmerung",
         "url": "https://open.spotify.com/album/1RqKWY4TjWrpgMGvP5zn3L"
       },
@@ -1329,7 +1423,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 149976,
       "name": "Earn It",
       "url": "https://open.spotify.com/track/7dYCexMyeIX4gikhil1mV6"
@@ -1568,6 +1662,24 @@
     },
     {
       "album": {
+        "name": "Fiorucci Made Me Hardcore",
+        "url": "https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Fiorucci Made Me Hardcore",
+      "url": "https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT"
+    },
+    {
+      "album": {
         "name": "I Hope It Lasts Forever",
         "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
       },
@@ -1673,7 +1785,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 291337,
       "name": "Fru Fru - Edit",
       "url": "https://open.spotify.com/track/3tvGBi6sxIeTzKzvgRWHgf"
@@ -1825,6 +1937,28 @@
       "duration_ms": 196796,
       "name": "Hannah (The Sun)",
       "url": "https://open.spotify.com/track/4AGwu2Zn3sYmR2s2y3vfft"
+    },
+    {
+      "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
     },
     {
       "album": {
@@ -1980,6 +2114,28 @@
     },
     {
       "album": {
+        "name": "I Feel You (feat. Ell Murphy) [Edit]",
+        "url": "https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku"
+      },
+      "artists": [
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        },
+        {
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184242,
+      "name": "I Feel You (feat. Ell Murphy) - Edit",
+      "url": "https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S"
+    },
+    {
+      "album": {
         "name": "I Go (Remixes)",
         "url": "https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj"
       },
@@ -2085,7 +2241,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 412386,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/6hBHMrdoQP3VmtvCvbhKOX"
@@ -2103,7 +2259,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 205026,
       "name": "In-between and Overseas",
       "url": "https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs"
@@ -2451,7 +2607,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 347290,
       "name": "Lightyear Dub",
       "url": "https://open.spotify.com/track/3Z7dTZ5aZzXRtJPl8LCMTV"
@@ -2589,7 +2745,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 245437,
       "name": "malo okoma - Radio Edit",
       "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
@@ -2694,6 +2850,24 @@
     },
     {
       "album": {
+        "name": "Midnight Shift",
+        "url": "https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312677,
+      "name": "Midnight Shift",
+      "url": "https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS"
+    },
+    {
+      "album": {
         "name": "miss u",
         "url": "https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC"
       },
@@ -2731,7 +2905,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 560680,
       "name": "Moth",
       "url": "https://open.spotify.com/track/6zil6cE61Yo8fKkw9yxpz5"
@@ -2796,6 +2970,24 @@
     },
     {
       "album": {
+        "name": "My Paradise",
+        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211029,
+      "name": "My Paradise",
+      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
+    },
+    {
+      "album": {
         "name": "My Purple iPod Nano",
         "url": "https://open.spotify.com/album/3GSIeTBRBAxSji76YI1uHn"
       },
@@ -2851,6 +3043,32 @@
       "duration_ms": 239240,
       "name": "Natural (feat. Big Ever)",
       "url": "https://open.spotify.com/track/0Coblp9s0SdXoU5XoILgt9"
+    },
+    {
+      "album": {
+        "name": "Natural Mission (Bakey Remix)",
+        "url": "https://open.spotify.com/album/6XYZoamDKyHi4uLQ0TScG1"
+      },
+      "artists": [
+        {
+          "name": "Redders",
+          "url": "https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk"
+        },
+        {
+          "name": "Sam Binga",
+          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        },
+        {
+          "name": "BAKEY",
+          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232835,
+      "name": "Natural Mission - Bakey Remix",
+      "url": "https://open.spotify.com/track/7lXJ2aDupClyfemSftyUxv"
     },
     {
       "album": {
@@ -3065,10 +3283,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 180899,
       "name": "Passion - Sam Gellaitry Remix",
       "url": "https://open.spotify.com/track/4Kd2L1XwxyGOa9dcQIEndh"
+    },
+    {
+      "album": {
+        "name": "Piano Skank",
+        "url": "https://open.spotify.com/album/5WnCqwiHCV0DxkgZkAsEUh"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277619,
+      "name": "Piano Skank",
+      "url": "https://open.spotify.com/track/79XMhe7Y6KfuECqu1sEqKN"
     },
     {
       "album": {
@@ -3456,6 +3692,24 @@
     },
     {
       "album": {
+        "name": "Universal Consciousness EP",
+        "url": "https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379653,
+      "name": "Satori",
+      "url": "https://open.spotify.com/track/17SCJbXeu121LBiittnXTI"
+    },
+    {
+      "album": {
         "name": "Years On Years",
         "url": "https://open.spotify.com/album/1s5ZFYgycwl95KApfbDwZR"
       },
@@ -3467,7 +3721,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 323019,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/7bsGEh6Zve75sF3cvRAod7"
@@ -3525,7 +3779,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 141364,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
@@ -3623,7 +3877,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 406353,
       "name": "Ski Sunday",
       "url": "https://open.spotify.com/track/0F4L3DU2sg7pOC7W8exx2n"
@@ -4107,7 +4361,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 240122,
       "name": "The Hill",
       "url": "https://open.spotify.com/track/2deS1gZIjmyBkHNqVjgDfE"
@@ -4147,7 +4401,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 188666,
       "name": "The need to avoid",
       "url": "https://open.spotify.com/track/25PIpJMhgUa85Yaz7nvUxV"
@@ -4370,6 +4624,28 @@
     },
     {
       "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223637,
+      "name": "Understand (Feat.Brendan Yates)",
+      "url": "https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr"
+    },
+    {
+      "album": {
         "name": "Antidawn EP",
         "url": "https://open.spotify.com/album/46Tzqoo34KEb0G2hYDp5Ry"
       },
@@ -4381,7 +4657,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 367775,
       "name": "Upstairs Flat",
       "url": "https://open.spotify.com/track/6VOiyOngpEqCw17OdUfSQj"
@@ -4522,6 +4798,28 @@
     },
     {
       "album": {
+        "name": "Who U Are",
+        "url": "https://open.spotify.com/album/0hCRWpomue7U0BJNdNYUYn"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        },
+        {
+          "name": "Mr. Sosa",
+          "url": "https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237964,
+      "name": "Who U Are - Edit",
+      "url": "https://open.spotify.com/track/51gWNkvo0ClCGWuW4672SO"
+    },
+    {
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3lVv7XXJ7tnpbvSk4YLXfO"
       },
@@ -4625,7 +4923,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"

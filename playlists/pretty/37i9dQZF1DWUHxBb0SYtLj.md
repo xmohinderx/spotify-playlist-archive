@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Sissi
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,383 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,407 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 43 | [UH NA NA EH](https://open.spotify.com/track/58doxdbTp9Q47wdyz24Ebq) | [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC) | [UH NA NA EH](https://open.spotify.com/album/3vmJCJOlL3DEcnfNUxg8ps) | 2:28 |
 | 44 | [Vipere](https://open.spotify.com/track/0rY6KVqpnj5docK3Jx5LuD) | [Candyvan](https://open.spotify.com/artist/2FdQbKMXV59OJR3YE3KkrN) | [Vipere](https://open.spotify.com/album/4EX2P6rk6fYNInGP7tWype) | 2:38 |
 | 45 | [nemico](https://open.spotify.com/track/5IHKlCwNTJwlgaz1zrr5Rh) | [VIOLA](https://open.spotify.com/artist/6hlPSbDnZvl9olgL268bto) | [nemico](https://open.spotify.com/album/4szPhwOiVWtVWzN4VDJHzl) | 2:37 |
-| 46 | [Lonely People \- \(UN UOMO SOLO\)](https://open.spotify.com/track/1asMI2qdcmLF0gLleR7VzL) | [Imen Siar](https://open.spotify.com/artist/36JmeaPYkStxoKLqPmUNVE) | [Lonely People \(UN UOMO SOLO\)](https://open.spotify.com/album/54PJP9WFdmtKbXOok6agMQ) | 3:13 |
+| 46 | [Lonely People \- UN UOMO SOLO](https://open.spotify.com/track/1asMI2qdcmLF0gLleR7VzL) | [Imen Siar](https://open.spotify.com/artist/36JmeaPYkStxoKLqPmUNVE) | [Lonely People \(UN UOMO SOLO\)](https://open.spotify.com/album/54PJP9WFdmtKbXOok6agMQ) | 3:13 |
 | 47 | [Broken Melody](https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Broken Melody](https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn) | 4:26 |
 | 48 | [OSIRIDE](https://open.spotify.com/track/3RPOqq5pytLKQRuryDKSSU) | [Rebecca](https://open.spotify.com/artist/4qglWCdo4uyHaBay75PWYM) | [OSIRIDE](https://open.spotify.com/album/6USaG2oaJFq1hy8GqFDFXW) | 2:44 |
 | 49 | [Birthday](https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Birthday](https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi) | 2:13 |

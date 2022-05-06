@@ -1,12 +1,12 @@
 {
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=hF3KpHpFTNmf7Go9_OfZVg\"> Yemi Alade </a> and <a href=\"https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S?si=VUxF_jE8RZuqUQSxi9AoJAg\"> Kranium</a>",
-  "num_followers": 3253,
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP?si=DaEuELmGQcuxZZgwMpkKlQ\"> Smallgod </a> ",
+  "num_followers": 3278,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIxNDI0MiwwMDAwMDAxYjAwMDAwMTgwNzQwOWQyOWMwMDAwMDE4MDA1MzU5OWZl",
+  "snapshot_id": "MTY1MTc5MTYwMCwwMDAwMDAxYzAwMDAwMTgwOTY3MzlhNDIwMDAwMDE4MDhkZDhmYWVk",
   "tracks": [
     {
       "added_at": "2022-04-29 06:37:22",
@@ -71,6 +71,30 @@
       "duration_ms": 199173,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Connecting the Dots",
+        "url": "https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 200325,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/1GQnMal8SSHDZLeoOoD0JL"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -1515,30 +1539,6 @@
       "duration_ms": 227415,
       "name": "Higher (feat. JKING & Billymaree)",
       "url": "https://open.spotify.com/track/577o8dF3FtOvCMiN56ilmz"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Sore (Remix)",
-        "url": "https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc"
-      },
-      "artists": [
-        {
-          "name": "Yaw Tog",
-          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 266501,
-      "name": "Sore - Remix",
-      "url": "https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6"
     },
     {
       "added_at": "2022-02-03 23:02:00",

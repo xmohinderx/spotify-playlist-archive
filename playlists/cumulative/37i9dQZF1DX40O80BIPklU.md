@@ -4,7 +4,7 @@
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Bardero$
 
-92 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
+93 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Los Guachos en La Esquina](https://open.spotify.com/track/23UlukMiAMAaxcR0szp4ov) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Los Guachos en La Esquina](https://open.spotify.com/album/5LrgtKWrRSv78s5IB67Keo) | 3:09 | 2021-12-30 |  |
 | [Los No Tan Tristes](https://open.spotify.com/track/2iS1BUa0VwSil4uQ89cfst) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/01X0X1KTVjis1cNXF0zA9U) | 4:06 | 2021-12-30 | 2022-02-11 |
 | [MAMA](https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [MAMA](https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO) | 4:25 | 2022-03-07 |  |
+| [MANIFIESTO FREESTYLE](https://open.spotify.com/track/3TaK5hftxlrp38Gt0wAPq4) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Manifiesto Freestyle](https://open.spotify.com/album/2xiR9BHSrYTogEJvEo4nVY) | 2:42 | 2022-05-05 |  |
 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 | 2022-04-11 |  |
 | [Mexicano](https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mexicano](https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt) | 2:54 | 2022-01-31 |  |
 | [Mi Fucking Vida Loca](https://open.spotify.com/track/5TaEqPEcVumcFj6BIJUUUc) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Mi Fucking Vida Loca](https://open.spotify.com/album/5FYjXEhiF2tJ3mNXGoe079) | 3:26 | 2022-04-18 |  |
@@ -98,7 +99,7 @@
 | [Vida Eterna](https://open.spotify.com/track/6dILZGMSEuaIqx7DnNhz5C) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Vida Eterna](https://open.spotify.com/album/243F9X01ypu39S723UeoB7) | 3:14 | 2022-01-14 |  |
 | [Wassap](https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Wassap](https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w) | 2:45 | 2022-02-18 | 2022-03-14 |
 | [West Side](https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [West Side](https://open.spotify.com/album/1EFPBMgpUspW5wp7JUkwIV) | 2:31 | 2021-12-30 | 2022-01-12 |
-| [Ya No Te Pude Ver](https://open.spotify.com/track/4qSqnCaVelsI9bvwrxJjty) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes \(Álbum\)](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:41 | 2021-12-30 |  |
+| [Ya No Te Pude Ver](https://open.spotify.com/track/4qSqnCaVelsI9bvwrxJjty) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes \(Álbum\)](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:41 | 2021-12-30 | 2022-05-06 |
 | [Último Adiós](https://open.spotify.com/track/0RGcJ6VaN0UlC91o3xqJBB) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios I](https://open.spotify.com/album/0Fcbk98RH370akJ4nyMANT) | 4:18 | 2022-02-24 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

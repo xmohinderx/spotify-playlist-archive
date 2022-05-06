@@ -4,7 +4,7 @@
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-66 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
+67 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2021-12-18 |  |
 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 | 2021-12-18 |  |
 | [Gal Ban Jau](https://open.spotify.com/track/2FXjXUH7kzRTIzQaVHfs3j) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Fuffad Ji \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2rUfyKVXe16mH973tWOjkB) | 2:15 | 2021-12-18 | 2022-01-11 |
+| [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 | 2022-05-05 |  |
 | [Gallan Kardi](https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Jawaani Jaaneman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR) | 3:14 | 2021-12-18 | 2022-01-11 |
 | [It Ain't Legal](https://open.spotify.com/track/3Fr1WmziIKmhU9s5fNKZrQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 3:34 | 2021-12-18 |  |
 | [Jagga](https://open.spotify.com/track/5XJGVtJcKHgWBo3fNwJWSl) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E) | [Bhangra Essential](https://open.spotify.com/album/7jdDevCoN03GtfGl9jn46p) | 4:08 | 2022-01-14 |  |

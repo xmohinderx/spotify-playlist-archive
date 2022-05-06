@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Anees.
 
-130 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+132 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 | 2022-03-14 |  |
 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 | 2022-03-07 |  |
 | [This Feeling \- Kerfo Remix](https://open.spotify.com/track/3xSQJa2PyiKwcRpU4jfbzB) | [Wissam Hilal](https://open.spotify.com/artist/2yICXFfulgwVygZl6d19AZ) | [This Feeling \(Kerfo Remix\)](https://open.spotify.com/album/1TxoM5aWYB0OftQvM3oGnk) | 3:25 | 2021-12-16 |  |
+| [Toxic Attachments](https://open.spotify.com/track/5x0poZDwH3BDAvXqsmQEOZ) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Toxic Attachments](https://open.spotify.com/album/2hC53yChNCrr86nlW9iLoC) | 2:45 | 2022-05-04 |  |
 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 | 2021-12-16 |  |
 | [Twelve](https://open.spotify.com/track/3ncLkot0E2tpDHlSnmbcIV) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Twelve](https://open.spotify.com/album/3cbxwt8iEKGzd6IFOh6tTX) | 2:48 | 2021-12-16 |  |
 | [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 | 2022-02-25 |  |
@@ -136,6 +137,7 @@
 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 | 2022-03-29 |  |
 | [Wild Trance](https://open.spotify.com/track/3v6BuQKmmwaWxuaKX4O7Lq) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Wild Trance](https://open.spotify.com/album/4KY5L36S4tzI3lX5lXxdML) | 1:44 | 2022-01-24 |  |
 | [worth it](https://open.spotify.com/track/4l1IwENWYhTx0PGnPhRHXV) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE), [Guy Manoukian](https://open.spotify.com/artist/7cSr0LrHabJyfJRCEfoB00) | [worth it](https://open.spotify.com/album/5rFVbxtfvGLdyjaaU1K4gu) | 3:24 | 2021-12-16 |  |
+| [Xbox](https://open.spotify.com/track/0D96Qm09CDTxfu85rkpZwO) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY) | [Xbox](https://open.spotify.com/album/0VTpElYxz599FWApgxZk86) | 1:51 | 2022-05-04 |  |
 | [Ya Hilwe \- Dance With Me Now](https://open.spotify.com/track/7626wm4ng8sQYhRJXUFmJn) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Ya Hilwe \(Dance With Me Now\)](https://open.spotify.com/album/18NmOiAYayTSHZrNnFMJji) | 3:40 | 2021-12-16 |  |
 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 | 2021-12-16 | 2022-02-04 |
 

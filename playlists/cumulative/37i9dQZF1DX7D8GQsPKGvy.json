@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 289528,
       "name": "Complicated (feat. Kiiara) - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/30jTflhN1ExdH9RCBTVlcl"
@@ -2035,7 +2035,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 302788,
       "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Noodles Remix",
       "url": "https://open.spotify.com/track/7LEC0myl3sacpIdsrgjWLe"
@@ -2885,7 +2885,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 177323,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi) - Banx & Ranx Remix",
       "url": "https://open.spotify.com/track/3YSP4fARqLlh8iwwb3V5yK"
@@ -3163,7 +3163,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 214491,
       "name": "Lush Life - Alex Adair Remix",
       "url": "https://open.spotify.com/track/5qmj6TGCq1HbqQJHIQK2hm"
@@ -3185,10 +3185,32 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 200893,
       "name": "Mad Love - Blinkie Remix",
       "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
+    },
+    {
+      "album": {
+        "name": "The Workout Mix 2020",
+        "url": "https://open.spotify.com/album/4k4B55478iuyOHlsZ66Spe"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Blinkie",
+          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201893,
+      "name": "Mad Love - Blinkie Remix",
+      "url": "https://open.spotify.com/track/014dDuh4mfPH9uvuBqT93c"
     },
     {
       "album": {
@@ -3389,7 +3411,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 223090,
       "name": "Miss You - Major Lazer & Alvaro Remix",
       "url": "https://open.spotify.com/track/03FUQjwgCIfnprBZqVFvgh"
@@ -3687,7 +3709,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 184714,
       "name": "Now Or Never - R3hab Remix",
       "url": "https://open.spotify.com/track/34mowgpYk8cnLLiIvEzWBm"
@@ -3713,7 +3735,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 260786,
       "name": "Obsessed - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4918TwZfPrxk8vKhuaqIiq"
@@ -3761,7 +3783,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 171108,
       "name": "Oceans Away - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/78mNkiUBAwHqjT0QOeEqqg"
@@ -4327,7 +4349,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 231964,
       "name": "RITMO (Bad Boys For Life) - Steve Aoki Remix",
       "url": "https://open.spotify.com/track/6cg7xTJ0KnJS59h5RHWZ6K"
@@ -4745,7 +4767,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 213359,
       "name": "So Far Away (feat. Jamie Scott & Romy Dya) - CLiQ Remix",
       "url": "https://open.spotify.com/track/7BLZP3Q291G2iVKKgVRDyj"
@@ -4797,6 +4819,28 @@
       "duration_ms": 273095,
       "name": "Somebody I Used to Know - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/013CED9qUgt808UQr9jSPm"
+    },
+    {
+      "album": {
+        "name": "Someone You Loved (Future Humans Remix)",
+        "url": "https://open.spotify.com/album/7m7vv9wlQ4i0LFuJiE2zsQ"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Future Humans",
+          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189052,
+      "name": "Someone You Loved - Future Humans Remix",
+      "url": "https://open.spotify.com/track/1e8PAfcKUYoKkxPhrHqw4x"
     },
     {
       "album": {
@@ -5817,7 +5861,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 152120,
       "name": "Who Do You Love - R3HAB Remix",
       "url": "https://open.spotify.com/track/5QkVPG2Hf3MmAarireF6lh"

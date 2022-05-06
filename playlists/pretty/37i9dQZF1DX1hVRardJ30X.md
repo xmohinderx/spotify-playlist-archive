@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Carla Morrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,435 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,502 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

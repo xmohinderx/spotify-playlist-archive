@@ -1,31 +1,51 @@
 {
-  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Siho Villalobos",
-  "num_followers": 52893,
+  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: El Malilla",
+  "num_followers": 52896,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDc2NDgwOSwwMDAwMDEwYjAwMDAwMTgwNTk0MDA0NzAwMDAwMDE3Zjk0M2Y0MzJm",
+  "snapshot_id": "MTY1MTc4MTc1NCwwMDAwMDEwZDAwMDAwMTgwOTVkZDYwMjcwMDAwMDE4MDk1ZDk3OTJm",
   "tracks": [
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
       },
       "artists": [
         {
-          "name": "Siho Villalobos",
-          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
         }
       ],
-      "duration_ms": 196744,
-      "name": "14",
-      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
+      "duration_ms": 183956,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
+      "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
+    },
+    {
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Otra Canci\u00f3n",
         "url": "https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
@@ -61,23 +81,7 @@
       "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
-      "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
-    },
-    {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Se Te Nota",
         "url": "https://open.spotify.com/album/3DwVCDIE6zV6VLTiLV7PVh"
@@ -93,7 +97,23 @@
       "url": "https://open.spotify.com/track/2a0SazgaPiQkIJSbnUDJgy"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
+      "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI"
+      },
+      "artists": [
+        {
+          "name": "Siho Villalobos",
+          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
+        }
+      ],
+      "duration_ms": 196744,
+      "name": "14",
+      "url": "https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw"
+    },
+    {
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Las de Octubre",
         "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Ya No Somos",
         "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "La Oportunidad - Spotify Singles",
         "url": "https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Bailalo",
         "url": "https://open.spotify.com/album/4Z2n4N44wtzsVH7p9rLPzi"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/76goNKad1tCxAmEfH6PFPp"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Charles Ans x Neto Pe\u00f1a x Yoss Bones - LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Uy K Raro",
         "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Blanco Y Negro",
         "url": "https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/3SdMz8hyuRYbbiYoNqmyxO"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Mejor Sola",
         "url": "https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Pa\u00b4 Mi",
         "url": "https://open.spotify.com/album/7gNuiwvC9c7O2UxjdE4xMY"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/5zSC2yZUAh9n3JcQcPDjMP"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Tu Foto",
         "url": "https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "SESENTAYNUEVE",
         "url": "https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Termin\u00e9 Contigo",
         "url": "https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Los Tweets",
         "url": "https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX"
@@ -353,7 +373,27 @@
       "url": "https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
+      "album": {
+        "name": "Numero 1",
+        "url": "https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6"
+      },
+      "artists": [
+        {
+          "name": "Oscu",
+          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+        },
+        {
+          "name": "Nobeat",
+          "url": "https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Numero 1",
+      "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
+    },
+    {
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Imperio",
         "url": "https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6"
@@ -369,7 +409,7 @@
       "url": "https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Ven",
         "url": "https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK"
@@ -385,7 +425,7 @@
       "url": "https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A"
@@ -401,23 +441,7 @@
       "url": "https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
-      "album": {
-        "name": "La Duda",
-        "url": "https://open.spotify.com/album/0cioRZF43qh52TX4t3rGcm"
-      },
-      "artists": [
-        {
-          "name": "Matt Paris",
-          "url": "https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "La Duda",
-      "url": "https://open.spotify.com/track/3crXhhRijAL3zvH5XzxZGG"
-    },
-    {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Facetime",
         "url": "https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8"
@@ -433,7 +457,7 @@
       "url": "https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "KRMA",
         "url": "https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ"
@@ -449,7 +473,7 @@
       "url": "https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Morena M\u00eda",
         "url": "https://open.spotify.com/album/5oBKjHnCEXWK1KlaqcFpH0"
@@ -465,7 +489,7 @@
       "url": "https://open.spotify.com/track/5ppm2LDV6yqf7cxjKHOqkG"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Imag\u00ednate",
         "url": "https://open.spotify.com/album/3E5kxpDUSFKT7SjJY1DOqw"
@@ -481,7 +505,7 @@
       "url": "https://open.spotify.com/track/5OyNPdV8PMbOE967zAVtKG"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "POP (feat. Jae S)",
         "url": "https://open.spotify.com/album/4oDOSThgM71p7MkRtsaASD"
@@ -509,7 +533,7 @@
       "url": "https://open.spotify.com/track/3qkDTmEGzViHrJu39B6W4l"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Mal Acompa\u00f1ada",
         "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
@@ -529,7 +553,7 @@
       "url": "https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
@@ -561,7 +585,7 @@
       "url": "https://open.spotify.com/track/5JWnIfs6jmUAJzx1HKJlEr"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Adicta",
         "url": "https://open.spotify.com/album/15NSR3NJJZJYU8Be5zFbUv"
@@ -577,7 +601,7 @@
       "url": "https://open.spotify.com/track/3hmuvslh6nU6lHi0QxIMsn"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Maviri",
         "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
@@ -593,7 +617,7 @@
       "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Jake Long",
         "url": "https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM"
@@ -609,7 +633,7 @@
       "url": "https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Shot de Tequila",
         "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
@@ -625,7 +649,7 @@
       "url": "https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "YNG LGNDZ: Season 1",
         "url": "https://open.spotify.com/album/6THHZzzZicnZYL3HiwnTDL"
@@ -649,7 +673,7 @@
       "url": "https://open.spotify.com/track/4rqprXWVN6msrKaA6MK0Wl"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "La Mano (feat. Tavo Rayo)",
         "url": "https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR"
@@ -677,7 +701,7 @@
       "url": "https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "De Lao Remix",
         "url": "https://open.spotify.com/album/3spAK93c7mgN7sbLIqR3cB"
@@ -705,7 +729,7 @@
       "url": "https://open.spotify.com/track/0xvrNtfjeNn8Ueug6eXzrY"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Gitana Kamp, Vol. I",
         "url": "https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2"
@@ -729,7 +753,7 @@
       "url": "https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Ir por Ti",
         "url": "https://open.spotify.com/album/6CmrNA7Brd2b1f00bYNkqS"
@@ -745,7 +769,7 @@
       "url": "https://open.spotify.com/track/65S5ZhV3ATRA4iHrTIj6mz"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Toketeo",
         "url": "https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz"
@@ -769,7 +793,7 @@
       "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Pari\u0301s",
         "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
@@ -785,7 +809,7 @@
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe"
@@ -809,7 +833,7 @@
       "url": "https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Mal Mal Mal",
         "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
@@ -829,27 +853,7 @@
       "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
-      "album": {
-        "name": "Desamor Feliz (Remix)",
-        "url": "https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Desamor Feliz - Remix",
-      "url": "https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2"
-    },
-    {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "A Escondidas",
         "url": "https://open.spotify.com/album/5AVKaP9muBWh1HFmeWW9dL"
@@ -865,7 +869,7 @@
       "url": "https://open.spotify.com/track/2BwHStCcFVQ8DxnncSdMoq"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Vente (Como Moctezuma) [Remix]",
         "url": "https://open.spotify.com/album/69IoQ69L6srLfViw4QwEXC"
@@ -885,7 +889,7 @@
       "url": "https://open.spotify.com/track/6H0Qwk2OdvMGsrrN60bhsP"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Nieve de Vainilla",
         "url": "https://open.spotify.com/album/0Gor4xY55uhvXIxsB2y9ly"
@@ -901,7 +905,7 @@
       "url": "https://open.spotify.com/track/6DNaON1fypnYBW9ud7za94"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "Loco Demente",
         "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
@@ -917,7 +921,7 @@
       "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
     },
     {
-      "added_at": "2022-04-24 01:46:49",
+      "added_at": "2022-05-05 20:15:54",
       "album": {
         "name": "MOOD",
         "url": "https://open.spotify.com/album/3D5MV1TC8L4HQvnZ4edTqq"

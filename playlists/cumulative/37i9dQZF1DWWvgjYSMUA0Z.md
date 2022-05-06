@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-99 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+103 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [At last](https://open.spotify.com/track/1lNdqczd0uKZcioivNQZBt) | [Alannah Hammer](https://open.spotify.com/artist/2utndN6OrmNQKozhXYJ8Hn) | [At last](https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd) | 3:30 | 2021-12-22 |  |
 | [Aware of Awareness](https://open.spotify.com/track/2t3aECDRZDsMN8858uYRar) | [Reiki](https://open.spotify.com/artist/6FwOq8Kolj0BnP7PMhsqb0) | [Reiki Music \(My Spiritual Practice\)](https://open.spotify.com/album/3W1zD6ELr5fp93a5HMnNaP) | 5:09 | 2021-12-22 |  |
 | [Bansuri](https://open.spotify.com/track/4Cy9EEXAjmzjIa2hBYJa7R) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Bansuri](https://open.spotify.com/album/1os3PzBysPuwHUOAJIQlHs) | 2:50 | 2021-12-22 |  |
+| [Birth](https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Birth](https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM) | 2:55 | 2022-05-05 |  |
 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 | 2021-12-22 |  |
 | [Celestial Visions](https://open.spotify.com/track/3A9nqhgcN0F7S1AHfeBLxp) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Celestial Visions](https://open.spotify.com/album/5CW2QFsfzbf5YVkAjbrM3u) | 2:27 | 2022-04-21 |  |
 | [Cestrum Nocturnum](https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Cestrum Nocturnum](https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ) | 3:15 | 2022-03-09 |  |
@@ -64,6 +65,7 @@
 | [Quiet Space \(From Celestial Reiki\)](https://open.spotify.com/track/3PIVz3rSeYU90YmVokPdag) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Frequencies: Sounds of Healing](https://open.spotify.com/album/3TEW3eR5UOL7TXFd3bUimc) | 5:46 | 2021-12-22 | 2022-01-21 |
 | [Quite A Ways](https://open.spotify.com/track/2ASqUS3DbDDBxbnoFrYp1Q) | [Inez Wolde](https://open.spotify.com/artist/433Ic9GNVFmaxAQz46hIlu) | [Quite A Ways](https://open.spotify.com/album/5rCg7By2k4dFUxYXYVqX1b) | 2:28 | 2021-12-22 |  |
 | [Radiant Trust](https://open.spotify.com/track/7qCGORMXbhsWRN4ngiq2zy) | [Arissa Farrow](https://open.spotify.com/artist/6Wt3fy35MAVaFlyo8s3g6v) | [Radiant Trust](https://open.spotify.com/album/5ISQKMXsvXaLBUVQesJ3FO) | 3:01 | 2021-12-22 |  |
+| [Rainfall](https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw) | [Vabali](https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8) | [Rainfall](https://open.spotify.com/album/3ndp2H6qEh8lb8XAVJvgUe) | 3:50 | 2022-05-05 |  |
 | [Raise Me Up](https://open.spotify.com/track/4xQHXRTY5A3YbWBLt79QcJ) | [Bah Zen](https://open.spotify.com/artist/6WOLPTN3uKvcpJUYHkRb6k) | [Positive Thinking](https://open.spotify.com/album/2lMNGjVYdKvRG5DosyhjOi) | 2:33 | 2021-12-22 |  |
 | [Recline](https://open.spotify.com/track/5sAIeiXf3O08GhLBb9sO9R) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Recline](https://open.spotify.com/album/6Whp4MggXtkjsGYWct0aGU) | 4:14 | 2021-12-22 |  |
 | [Rejuvenation](https://open.spotify.com/track/3fAV0eFLbmNgCjS3fMhqf6) | [Amela Clouds](https://open.spotify.com/artist/62UW4G3lvlmjFMTy5CUQ6l) | [Rejuvenation](https://open.spotify.com/album/7atqe3Cp2ezHLqBL8mo0OQ) | 3:20 | 2021-12-22 |  |
@@ -74,6 +76,7 @@
 | [Root Chakra \- Evolution \- regular](https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B) | [Ben Scott / Christa Michell](https://open.spotify.com/artist/1c8h0oXHbyxkrLFu0vL1N7) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 | 2021-12-22 |  |
 | [Sacred Spirit](https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Beyond My Senses](https://open.spotify.com/album/61mwT5YHs6Eig5XDeTeuu2) | 3:12 | 2022-03-09 |  |
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2021-12-22 |  |
+| [Scintilla](https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW) | [Xo Liam](https://open.spotify.com/artist/6cuCmSWkMV1romxctai2c2) | [Scintilla](https://open.spotify.com/album/0L5i67SXZZq52SfWZfEDBZ) | 2:38 | 2022-05-05 |  |
 | [Seiza](https://open.spotify.com/track/3LthWqBoIUpReucHmhf4Zr) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Singing Bowls And Music Meditation](https://open.spotify.com/album/039njQFCznTzhINn5jN1aa) | 2:22 | 2022-02-04 |  |
 | [Senses](https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Senses](https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG) | 3:09 | 2022-04-21 |  |
 | [Shaasvat](https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Shaasvat](https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk) | 3:25 | 2021-12-22 |  |
@@ -99,6 +102,7 @@
 | [Transcend](https://open.spotify.com/track/2UGEJYn55BJANAwjEqn6mX) | [Ee Ve](https://open.spotify.com/artist/18NItzXyxJgwcsJ6skOoPb) | [Transcend](https://open.spotify.com/album/12DfL5OyYopS4UqF8AgCyq) | 4:03 | 2021-12-22 |  |
 | [Transparent](https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Echoes of Water](https://open.spotify.com/album/42l3J84qQWgIcToLFBAJr1) | 2:33 | 2021-12-22 |  |
 | [Triangulated Approval](https://open.spotify.com/track/2EcCTbAbBJiOx5iM9vvb5J) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Triangulated Approval](https://open.spotify.com/album/1tcKuayruuJRBkx105LOUs) | 2:17 | 2021-12-22 |  |
+| [Unified](https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Together As One](https://open.spotify.com/album/2kqy5EuTtNjqThnUEqYyDJ) | 2:45 | 2022-05-05 |  |
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2021-12-22 |  |
 | [Velvetine](https://open.spotify.com/track/4840LfK9NqJAwfFTxJIrz2) | [Goran Solkjær](https://open.spotify.com/artist/4TS76DvkB16Zk3uoOTgByQ) | [Velvetine](https://open.spotify.com/album/1BD35jazKq9rYZlKhoM7xM) | 3:45 | 2021-12-22 |  |
 | [Voice Healing](https://open.spotify.com/track/0kaXyVNzFEfBqkXW5dOC6m) | [Johan Davidsson](https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi) | [Voice Healing](https://open.spotify.com/album/7xYSAwu51DTDeaB5qStm0N) | 6:18 | 2021-12-22 |  |

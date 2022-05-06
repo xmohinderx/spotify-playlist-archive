@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 491520,
       "name": "Bageshri",
       "url": "https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb"
@@ -611,6 +611,24 @@
       "duration_ms": 240000,
       "name": "Insitarament",
       "url": "https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN"
+    },
+    {
+      "album": {
+        "name": "Jal",
+        "url": "https://open.spotify.com/album/6sWGq5vGUPEPCxaIDm4gFb"
+      },
+      "artists": [
+        {
+          "name": "Talvin Singh",
+          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283519,
+      "name": "Jal",
+      "url": "https://open.spotify.com/track/4YpD0n0hC3Cw2As4jGaQ1z"
     },
     {
       "album": {

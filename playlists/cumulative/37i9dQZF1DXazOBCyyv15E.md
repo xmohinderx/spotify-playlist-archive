@@ -2,9 +2,9 @@
 
 ### [The Other List](https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E)
 
-> The home of the best new alternative music\. Cover: NiNE8
+> The home of the best new alternative music\. Cover: Rae Morris
 
-865 songs - 2 day 3 hr 40 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+870 songs - 2 day 3 hr 58 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Ego](https://open.spotify.com/track/5tufdZwj8gOkNWrN71yH8w) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Ego](https://open.spotify.com/album/3lYWdLv0o8MIA7cWt4WsE4) | 3:14 | 2021-07-02 | 2021-09-03 |
 | [Electric Dream](https://open.spotify.com/track/5uijMApAj15FDccuaziRKS) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Electric Dream](https://open.spotify.com/album/6x6ldV8SHiyOLGXvYodN3d) | 3:28 | 2021-02-06 | 2021-02-26 |
 | [Elevate](https://open.spotify.com/track/4Bfp9heUqxCEOX74tg4UNB) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Elevate](https://open.spotify.com/album/2hmbhBs26kW4wNtzGhIZKi) | 3:37 | 2020-11-06 | 2021-01-23 |
+| [End Of Last Year](https://open.spotify.com/track/58fgYUV3XwhSRL0Vb9Ki61) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [End Of Last Year](https://open.spotify.com/album/3mHwTmJ61iawvxHBsUafhQ) | 3:05 | 2022-05-05 |  |
 | [Enemy's Belly](https://open.spotify.com/track/1BH0LuT4PA8nx1AmoDourz) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Enemy’s Belly](https://open.spotify.com/album/5RrLFiqtp2wvcGcEOAACnU) | 4:08 | 2020-09-29\* | 2020-10-09 |
 | [Escalator](https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Escalator](https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG) | 2:26 | 2021-06-11 | 2021-08-20 |
 | [escape \(daydream\) \[feat\. Adam LC\]](https://open.spotify.com/track/4LGvT5Kt4n2bdqDZERmXaI) | [FOZSA](https://open.spotify.com/artist/0oHNluZt2ANbFvSo60xDO6), [Adam LC](https://open.spotify.com/artist/3YTXxZ4GDkRDlQ6xj9Q6J0) | [Coral](https://open.spotify.com/album/0RYQVUL0aKWb45EFYeJoRm) | 5:05 | 2020-12-18 | 2021-03-14 |
@@ -249,6 +250,7 @@
 | [Feel Good](https://open.spotify.com/track/5lmgkKIkmyVH5DofULJ0YM) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Feel Good](https://open.spotify.com/album/10BbeJ1AOLszpaDhZWJBVS) | 3:04 | 2021-06-04 | 2021-07-09 |
 | [Feel It](https://open.spotify.com/track/1L11Wk1tb47KpN0acMiqSn) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feel It](https://open.spotify.com/album/3YDDkfaNN4vIJKccBMSkPq) | 2:46 | 2020-09-29\* | 2020-11-13 |
 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-07-09 | 2021-09-10 |
+| [Feeling Down](https://open.spotify.com/track/504i7MmqPuxyb2mrczIZsx) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Feeling Down](https://open.spotify.com/album/33X9q4WM9iGz08BrbfQZK5) | 3:36 | 2022-05-05 |  |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-11 |  |
 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 | 2020-11-20 | 2022-03-09 |
 | [Feels Right](https://open.spotify.com/track/5j8oKK0JbQrPz9ch6fu1Iu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Feels Right](https://open.spotify.com/album/4TqVjyEwWhHctGVDDNNsvJ) | 4:34 | 2020-10-09 | 2021-01-29 |
@@ -297,6 +299,7 @@
 | [Glimmer](https://open.spotify.com/track/0p8La7Sz6cNeYsqzXYtPgX) | [FOZSA](https://open.spotify.com/artist/0oHNluZt2ANbFvSo60xDO6) | [Glimmer](https://open.spotify.com/album/2LzYH8fpfnEaPBTMTdoRMm) | 3:46 | 2020-09-29\* | 2020-10-23 |
 | [Glowing in the Dark](https://open.spotify.com/track/4V0nJR3AfJI4J13297ga7u) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Glowing in the Dark](https://open.spotify.com/album/04LKchTCKFSGU8LPnAmeWS) | 2:59 | 2020-11-13 | 2021-01-15 |
 | [Go \- Radio Edit](https://open.spotify.com/track/5Z6Ur8oNoKfDzIdi0wMD1Y) | [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC) | [Go \(Radio Edit\)](https://open.spotify.com/album/4hlEAUdIANoFdaZwyKsLy1) | 3:00 | 2020-09-29\* | 2020-10-30 |
+| [Go Dancing \(feat\. Fryars\)](https://open.spotify.com/track/5gxd09Fnkylal8TLCAVvNv) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [Go Dancing \(feat\. Fryars\)](https://open.spotify.com/album/24z1u6qVeGPWVQlq4JjDMi) | 4:35 | 2022-05-05 |  |
 | [Go Down Together](https://open.spotify.com/track/4tkpi79JqjPCMGmBOtEJI9) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Go Down Together](https://open.spotify.com/album/3YtQHYbQ55OQapg8SxhIkh) | 3:15 | 2021-04-16 | 2021-07-15 |
 | [God Melodies \- Single Version](https://open.spotify.com/track/4PFjhC6s3GV1d6roZsj1Fm) | [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [God Melodies](https://open.spotify.com/album/0R70V99HyZ6lPlk9bAXptF) | 3:30 | 2021-01-23 | 2021-02-26 |
 | [Golden Ratio](https://open.spotify.com/track/3MHBYSloK2tHDGAZ3ucA5I) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Golden Ratio](https://open.spotify.com/album/3gBKFggMKS5mbwWWg6TdZp) | 4:27 | 2021-10-16 | 2022-01-15 |
@@ -392,6 +395,7 @@
 | [In My Car](https://open.spotify.com/track/19PaC9pxp89ZyZUeusIrOG) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [In My Car](https://open.spotify.com/album/6wCMljIbiSHawIJlf8RLYu) | 3:41 | 2020-11-13 | 2021-01-15 |
 | [IN PINK \(feat\. Mndsgn\)](https://open.spotify.com/track/2hh57Boyz8tUEFxvyurmeb) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [WINK](https://open.spotify.com/album/0OVqSFvnMWiYgeMfu6VJsB) | 3:45 | 2021-05-21 | 2021-07-23 |
 | [In The Middle](https://open.spotify.com/track/1CfQQObRTUqJFfP1NTQmDn) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [In The Middle](https://open.spotify.com/album/5CK6nfIS8GOvtbPiCxjQAt) | 4:00 | 2021-03-24 | 2021-06-11 |
+| [In the Water](https://open.spotify.com/track/4zOeP3KJ1eMHzXAd7okE0k) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/2YgxYVjrIzeQvB7tu6a5B4) | 2:52 | 2022-05-05 |  |
 | [In\-between and Overseas](https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:25 | 2022-02-04 | 2022-03-18 |
 | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/album/1bmFqLkkpsfeAEZoBiV4W6) | 2:15 | 2021-08-13 | 2021-10-08 |
 | [infrared](https://open.spotify.com/track/3IqFuyeTZA1q6CBuOdRJRQ) | [joey maxwell](https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq) | [trying not to deep it](https://open.spotify.com/album/3GNlMHqkPdBMvmTbsgUKhC) | 3:29 | 2021-05-14 | 2021-07-09 |
@@ -527,6 +531,7 @@
 | [never had a place](https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [never had a place](https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX) | 2:53 | 2022-01-07 | 2022-02-18 |
 | [Never Let You Go](https://open.spotify.com/track/13Y2mzU5MUI1ii8FXXcyVJ) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:47 | 2022-03-08 | 2022-03-09 |
 | [Neverland](https://open.spotify.com/track/7MeQGVoZEyol99EadwbBFN) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Neverland](https://open.spotify.com/album/6QipvBed5y4lifalcQ4CwO) | 4:15 | 2021-10-29 | 2022-02-04 |
+| [New Gen](https://open.spotify.com/track/7xMQHQdWKeI9g6mf33OFcE) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [New Gen](https://open.spotify.com/album/1eiKiydXTyESi3t63W0FLW) | 3:15 | 2022-05-05 |  |
 | [New Romance](https://open.spotify.com/track/5ZhBx7W9rigl2vuRdT27rq) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/4uGklcCyzOko2IOYtMzUNg) | 4:12 | 2021-12-10 | 2022-02-11 |
 | [New Shapes \(feat\. Christine and the Queens and Caroline Polachek\)](https://open.spotify.com/track/2JvWoj5bTklsb6fPzRfZ3x) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [New Shapes \(feat\. Christine and the Queens and Caroline Polachek\)](https://open.spotify.com/album/3oFHBiIriBPXysgMbeaUVY) | 3:20 | 2021-11-05 | 2022-03-09 |
 | [Next To Me](https://open.spotify.com/track/25B37PuDwZCLof9uOtlVww) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Next To Me](https://open.spotify.com/album/7KVCSOYFXS42GI7zsu9z84) | 2:33 | 2022-02-04 | 2022-04-08 |

@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-145 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+147 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 | 2021-11-10 |  |
 | [Across the Sky](https://open.spotify.com/track/2LqrkTxO7V6R0xoLEdtyaQ) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Across the Sky](https://open.spotify.com/album/2h7RIAyJ3vvnW4Wl8vnklD) | 2:09 | 2021-11-10 |  |
 | [Aether Talk](https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6) | [Mei Wyatt](https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak) | [Aether Talk](https://open.spotify.com/album/3cARiEXphXSJtlU63ttYuC) | 2:52 | 2022-04-14 |  |
+| [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-05 |  |
 | [Alignment](https://open.spotify.com/track/1avLEAr9M1YOdiSBQ29nit) | [Sleepy Moon](https://open.spotify.com/artist/2QRn1QIBN1ayOLFvAMVrIc) | [Alignment](https://open.spotify.com/album/1oIcD5Icrn4DBpJSXf5eLs) | 2:41 | 2021-11-10 |  |
 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 | 2021-11-10 |  |
 | [Annashuwa](https://open.spotify.com/track/10ZtwOdYSWqKgiYgOg36N5) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Annashuwa](https://open.spotify.com/album/0nJZwim2ChJLwgnr6xo4PR) | 3:35 | 2021-11-10 |  |
@@ -50,6 +51,7 @@
 | [Douelle](https://open.spotify.com/track/4F2Fuy3BIP5u0f3CbOPAqi) | [Miriam and Blue](https://open.spotify.com/artist/4gXusH0nbJbPH55gt8C0d1) | [Douelle](https://open.spotify.com/album/7ixDDMWC7gm4ugMNuHP9Se) | 3:28 | 2021-11-10 | 2022-04-22 |
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2022-03-03 |  |
 | [Dreams of the Universe](https://open.spotify.com/track/2PCzhRAdaQxLl3UJT8N4zY) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Dreams of the Universe](https://open.spotify.com/album/6PmH4fQpcStfyVgJzhmpRg) | 2:32 | 2021-11-10 |  |
+| [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-05-05 |  |
 | [Dromen](https://open.spotify.com/track/7vIew2ZVzo2XVNXHxLHWkV) | [Bedtijd](https://open.spotify.com/artist/3zgXwIxfRrDAWL8QYsZcih) | [Dromen](https://open.spotify.com/album/04XQLv9HUY1KtLVLuMD06c) | 1:46 | 2021-11-10 |  |
 | [Dust](https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G) | [En Orbita](https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o) | [Dust](https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1) | 3:17 | 2022-01-21 |  |
 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 | 2021-11-10 |  |

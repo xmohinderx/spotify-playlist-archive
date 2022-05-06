@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Mc Caverinha",
-  "num_followers": 41579,
+  "num_followers": 41777,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTcxMjM3MiwwMDAwMDAwMGVmMzA3ZTAyNzFkZTk1MDIzNzNmZTI0NmYzNmIyMzI3",
+  "snapshot_id": "MTY1MTc5ODI4MSwwMDAwMDAwMGI4MDA3Mjk2YWIzMGI0N2QyMDZiOWNmNGU4OTY5MjNl",
   "tracks": [
     {
       "added_at": "2022-04-29 03:01:00",
@@ -51,6 +51,26 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
+        "name": "212",
+        "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 150610,
+      "name": "212",
+      "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
         "name": "Oi, Como Ce T\u00e1?",
         "url": "https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou"
       },
@@ -79,26 +99,6 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "Isso Que \u00c9 Bom",
-        "url": "https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 155258,
-      "name": "Isso Que \u00c9 Bom",
-      "url": "https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
         "name": "Filho do Dono",
         "url": "https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe"
       },
@@ -123,38 +123,22 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "Aulas e Cursos",
-        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
+        "name": "Isso Que \u00c9 Bom",
+        "url": "https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk"
       },
       "artists": [
         {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
-        }
-      ],
-      "duration_ms": 213634,
-      "name": "Aulas e Cursos",
-      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
         },
         {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
         }
       ],
-      "duration_ms": 150610,
-      "name": "212",
-      "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
+      "duration_ms": 155258,
+      "name": "Isso Que \u00c9 Bom",
+      "url": "https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -175,6 +159,42 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
+        "name": "Aulas e Cursos",
+        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "duration_ms": 213634,
+      "name": "Aulas e Cursos",
+      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Iphone Branco",
+        "url": "https://open.spotify.com/album/6hp21aFf4l4auKtNfgKmU2"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Iphone Branco",
+      "url": "https://open.spotify.com/track/6jxE4XjFVSKF18kfo7FCl9"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
         "name": "Vestido da Fendi",
         "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
       },
@@ -187,6 +207,34 @@
       "duration_ms": 164203,
       "name": "Vestido da Fendi",
       "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "EU SOU O TREM",
+      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -239,6 +287,26 @@
       "duration_ms": 239253,
       "name": "S\u00f3 Rock 2",
       "url": "https://open.spotify.com/track/3r9ljWQNQMV0xLY5v44Hwp"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Atg Tape",
+        "url": "https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Offlei Sounds",
+          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -303,6 +371,26 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
+        "name": "Abusad\u00e3o",
+        "url": "https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 176814,
+      "name": "Abusad\u00e3o",
+      "url": "https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
         "name": "Desce A\u00ed (Flow Drake)",
         "url": "https://open.spotify.com/album/2aYuVO6GqSpFokJTuWoSiI"
       },
@@ -319,58 +407,38 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+        "name": "Gest\u00e3o Inteligente",
+        "url": "https://open.spotify.com/album/0vVSwwO55in8qT3PimHJtJ"
       },
       "artists": [
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 225600,
-      "name": "EU SOU O TREM",
-      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
+      "duration_ms": 118000,
+      "name": "Gest\u00e3o Inteligente",
+      "url": "https://open.spotify.com/track/7hqoLCS3rhWYoWUBOgakaU"
     },
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "Royal Salute",
-        "url": "https://open.spotify.com/album/4ytptXvi8DRm1jbXwoklwH"
+        "name": "Corte do Jaca",
+        "url": "https://open.spotify.com/album/6ZQNfwK2DagQENxZhXkuOj"
       },
       "artists": [
         {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
           "name": "Tz da Coronel",
           "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
         }
       ],
-      "duration_ms": 279130,
-      "name": "Royal Salute",
-      "url": "https://open.spotify.com/track/3v9Pr9ha7UezSYZAlpOx8o"
+      "duration_ms": 152812,
+      "name": "Corte do Jaca",
+      "url": "https://open.spotify.com/track/2a2GuHAYjmIVAPVaG9Nh7u"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -399,154 +467,6 @@
       "duration_ms": 210445,
       "name": "Lideran\u00e7a",
       "url": "https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Gest\u00e3o Inteligente",
-        "url": "https://open.spotify.com/album/0vVSwwO55in8qT3PimHJtJ"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "Gest\u00e3o Inteligente",
-      "url": "https://open.spotify.com/track/7hqoLCS3rhWYoWUBOgakaU"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Atg Tape",
-        "url": "https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Offlei Sounds",
-          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "Tiffany",
-      "url": "https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Iphone Branco",
-        "url": "https://open.spotify.com/album/6hp21aFf4l4auKtNfgKmU2"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Iphone Branco",
-      "url": "https://open.spotify.com/track/6jxE4XjFVSKF18kfo7FCl9"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Abusad\u00e3o",
-        "url": "https://open.spotify.com/album/0vlgBzPeKCjpXXVEN2D6a6"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 176814,
-      "name": "Abusad\u00e3o",
-      "url": "https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 134634,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Trajad\u00e3o",
-        "url": "https://open.spotify.com/album/6648hpSaPRY76q4aViAm7H"
-      },
-      "artists": [
-        {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
-        },
-        {
-          "name": "Offlei Sounds",
-          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
-        }
-      ],
-      "duration_ms": 127642,
-      "name": "Trajad\u00e3o",
-      "url": "https://open.spotify.com/track/2nTwPzTaH85sDYD07qZrwR"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "HERM\u00c8S",
-        "url": "https://open.spotify.com/album/1T8ofDIXhsAiB6jN9cxtcG"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "LeodoKick",
-          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
-        },
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "HERM\u00c8S",
-      "url": "https://open.spotify.com/track/65YQv0Ulsp2ZnL0Uv4l6Nu"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -587,18 +507,26 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "Corte do Jaca",
-        "url": "https://open.spotify.com/album/6ZQNfwK2DagQENxZhXkuOj"
+        "name": "HERM\u00c8S",
+        "url": "https://open.spotify.com/album/1T8ofDIXhsAiB6jN9cxtcG"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
         }
       ],
-      "duration_ms": 152812,
-      "name": "Corte do Jaca",
-      "url": "https://open.spotify.com/track/2a2GuHAYjmIVAPVaG9Nh7u"
+      "duration_ms": 171367,
+      "name": "HERM\u00c8S",
+      "url": "https://open.spotify.com/track/65YQv0Ulsp2ZnL0Uv4l6Nu"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -635,42 +563,78 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "Hilux",
-        "url": "https://open.spotify.com/album/3GfIrrp9ZghJi6fM0eTkCr"
+        "name": "Royal Salute",
+        "url": "https://open.spotify.com/album/4ytptXvi8DRm1jbXwoklwH"
       },
       "artists": [
         {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
           "name": "UCL\u00c3",
           "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
         }
       ],
-      "duration_ms": 184273,
-      "name": "Hilux",
-      "url": "https://open.spotify.com/track/37H3lGic5EOlZQ9SLuJaVw"
+      "duration_ms": 279130,
+      "name": "Royal Salute",
+      "url": "https://open.spotify.com/track/3v9Pr9ha7UezSYZAlpOx8o"
     },
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "Burberry",
-        "url": "https://open.spotify.com/album/7FqQD9hlanh1SElgB38FtE"
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN"
       },
       "artists": [
         {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Kloe",
-          "url": "https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5"
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         }
       ],
-      "duration_ms": 164181,
-      "name": "Burberry",
-      "url": "https://open.spotify.com/track/6WUszwWJVz8CCtrTEOllSD"
+      "duration_ms": 134634,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Intoc\u00e1vel",
+        "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 174303,
+      "name": "Contando Dinheiro",
+      "url": "https://open.spotify.com/track/1jeg6gX21ljllOryvi9SJh"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -715,26 +679,174 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "Intoc\u00e1vel",
-        "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
+        "name": "Burberry",
+        "url": "https://open.spotify.com/album/7FqQD9hlanh1SElgB38FtE"
       },
       "artists": [
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
         },
         {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "Kloe",
+          "url": "https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5"
+        }
+      ],
+      "duration_ms": 164181,
+      "name": "Burberry",
+      "url": "https://open.spotify.com/track/6WUszwWJVz8CCtrTEOllSD"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "OUTRO PATAMAR",
+        "url": "https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 206608,
+      "name": "OUTRO PATAMAR",
+      "url": "https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Melhor Amigo do Dinheiro",
+        "url": "https://open.spotify.com/album/3kqt7zNmCfLdS5q3Hv8qzk"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Grife",
+      "url": "https://open.spotify.com/track/0mtxZdz5ISNK7X2T0slm8d"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "\u00c9TPM?!",
+        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        }
+      ],
+      "duration_ms": 208031,
+      "name": "Money Rain",
+      "url": "https://open.spotify.com/track/43xN94U5MAyfDOFdqwGxWw"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Trap de Cria 2",
+        "url": "https://open.spotify.com/album/34KjrHRVwZDCLBRJAe95Zu"
+      },
+      "artists": [
         {
           "name": "Kyan",
           "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         }
       ],
-      "duration_ms": 174303,
-      "name": "Contando Dinheiro",
-      "url": "https://open.spotify.com/track/1jeg6gX21ljllOryvi9SJh"
+      "duration_ms": 157566,
+      "name": "Trap de Cria 2",
+      "url": "https://open.spotify.com/track/5qnho1YQwjbuTa3j3pfoyS"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Trajad\u00e3o",
+        "url": "https://open.spotify.com/album/6648hpSaPRY76q4aViAm7H"
+      },
+      "artists": [
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Offlei Sounds",
+          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
+        }
+      ],
+      "duration_ms": 127642,
+      "name": "Trajad\u00e3o",
+      "url": "https://open.spotify.com/track/2nTwPzTaH85sDYD07qZrwR"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "HB20",
+        "url": "https://open.spotify.com/album/5xrQgXDEa1H8g0jokxPHp9"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "HB20",
+      "url": "https://open.spotify.com/track/1wjmGk216y7V2Q5NzG0TRG"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -795,210 +907,6 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "HB20",
-        "url": "https://open.spotify.com/album/5xrQgXDEa1H8g0jokxPHp9"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "HB20",
-      "url": "https://open.spotify.com/track/1wjmGk216y7V2Q5NzG0TRG"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "OUTRO PATAMAR",
-        "url": "https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 206608,
-      "name": "OUTRO PATAMAR",
-      "url": "https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Trap de Cria 2",
-        "url": "https://open.spotify.com/album/34KjrHRVwZDCLBRJAe95Zu"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 157566,
-      "name": "Trap de Cria 2",
-      "url": "https://open.spotify.com/track/5qnho1YQwjbuTa3j3pfoyS"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Panamera",
-        "url": "https://open.spotify.com/album/63pxCSJJWJScWObD1R2Wzm"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Elenko Music",
-          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Panamera",
-      "url": "https://open.spotify.com/track/1z61dHpzFnpbLQFZl8GjLH"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Melhor Amigo do Dinheiro",
-        "url": "https://open.spotify.com/album/3kqt7zNmCfLdS5q3Hv8qzk"
-      },
-      "artists": [
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Grife",
-      "url": "https://open.spotify.com/track/0mtxZdz5ISNK7X2T0slm8d"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Bandido N\u00e3o Dan\u00e7a BB",
-        "url": "https://open.spotify.com/album/3DF7jgjk6GJP0zrAmp2HGu"
-      },
-      "artists": [
-        {
-          "name": "OG BEBEL",
-          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
-        },
-        {
-          "name": "Young World",
-          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Bandido N\u00e3o Dan\u00e7a BB",
-      "url": "https://open.spotify.com/track/57WYicG97oHBu0uJgd6u38"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 207378,
-      "name": "Versace",
-      "url": "https://open.spotify.com/track/5rryOlcxbh700EuOa59waG"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "\u00c9TPM?!",
-        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        }
-      ],
-      "duration_ms": 208031,
-      "name": "Money Rain",
-      "url": "https://open.spotify.com/track/43xN94U5MAyfDOFdqwGxWw"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "Mans\u00e3o da Nadamal",
-        "url": "https://open.spotify.com/album/0LnEZovsRCo7uDMNLOLWGk"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Mans\u00e3o da Nadamal",
-      "url": "https://open.spotify.com/track/1mt7mgPFH8YoJHIUFG8yF3"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
         "name": "A Braba",
         "url": "https://open.spotify.com/album/3RIAKTzSmDdX1qkbl9BVNN"
       },
@@ -1011,30 +919,6 @@
       "duration_ms": 169124,
       "name": "A Braba",
       "url": "https://open.spotify.com/track/3iIFYPAQSx4NuSwJ7xFbeu"
-    },
-    {
-      "added_at": "2022-04-29 03:01:00",
-      "album": {
-        "name": "De Prada Ela Vem",
-        "url": "https://open.spotify.com/album/6q6VnNRAAxP5QoDSIpBesC"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "D-Hit",
-          "url": "https://open.spotify.com/artist/3HafNAvjrNfvn98PwEeRNS"
-        },
-        {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
-        }
-      ],
-      "duration_ms": 202904,
-      "name": "De Prada Ela Vem",
-      "url": "https://open.spotify.com/track/522JNK97AaLL60dfJNYoNg"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -1067,26 +951,30 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "Preto e Dinheiro",
-        "url": "https://open.spotify.com/album/1nLXyI7gsmzdfU3Il7kaTk"
+        "name": "Mans\u00e3o da Nadamal",
+        "url": "https://open.spotify.com/album/0LnEZovsRCo7uDMNLOLWGk"
       },
       "artists": [
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
         },
         {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         },
         {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         }
       ],
-      "duration_ms": 197380,
-      "name": "Preto e Dinheiro",
-      "url": "https://open.spotify.com/track/3kHxuY36nCmcKJ4GddBjIe"
+      "duration_ms": 242500,
+      "name": "Mans\u00e3o da Nadamal",
+      "url": "https://open.spotify.com/track/1mt7mgPFH8YoJHIUFG8yF3"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -1127,26 +1015,114 @@
     {
       "added_at": "2022-04-29 03:01:00",
       "album": {
-        "name": "Correntes",
-        "url": "https://open.spotify.com/album/2Qi1osttb0zvJ1XO6okb36"
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj"
       },
       "artists": [
         {
-          "name": "A Banca Records",
-          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Ikinya",
-          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         },
         {
-          "name": "Giganthe",
-          "url": "https://open.spotify.com/artist/1zChRFlMhgA4MLX0xUPSXg"
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 138152,
-      "name": "Correntes",
-      "url": "https://open.spotify.com/track/29UaXzUCzgejIzvHFruvT0"
+      "duration_ms": 207378,
+      "name": "Versace",
+      "url": "https://open.spotify.com/track/5rryOlcxbh700EuOa59waG"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Bandido N\u00e3o Dan\u00e7a BB",
+        "url": "https://open.spotify.com/album/3DF7jgjk6GJP0zrAmp2HGu"
+      },
+      "artists": [
+        {
+          "name": "OG BEBEL",
+          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
+        },
+        {
+          "name": "Young World",
+          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Bandido N\u00e3o Dan\u00e7a BB",
+      "url": "https://open.spotify.com/track/57WYicG97oHBu0uJgd6u38"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Preto e Dinheiro",
+        "url": "https://open.spotify.com/album/1nLXyI7gsmzdfU3Il7kaTk"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 197380,
+      "name": "Preto e Dinheiro",
+      "url": "https://open.spotify.com/track/3kHxuY36nCmcKJ4GddBjIe"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "De Prada Ela Vem",
+        "url": "https://open.spotify.com/album/6q6VnNRAAxP5QoDSIpBesC"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "D-Hit",
+          "url": "https://open.spotify.com/artist/3HafNAvjrNfvn98PwEeRNS"
+        },
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        }
+      ],
+      "duration_ms": 202904,
+      "name": "De Prada Ela Vem",
+      "url": "https://open.spotify.com/track/522JNK97AaLL60dfJNYoNg"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Hilux",
+        "url": "https://open.spotify.com/album/3GfIrrp9ZghJi6fM0eTkCr"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "duration_ms": 184273,
+      "name": "Hilux",
+      "url": "https://open.spotify.com/track/37H3lGic5EOlZQ9SLuJaVw"
     },
     {
       "added_at": "2022-04-29 03:01:00",
@@ -1171,6 +1147,30 @@
       "duration_ms": 205800,
       "name": "Jacar\u00e9",
       "url": "https://open.spotify.com/track/3WHwjHxGnPwTE1LHtnOIVq"
+    },
+    {
+      "added_at": "2022-04-29 03:01:00",
+      "album": {
+        "name": "Correntes",
+        "url": "https://open.spotify.com/album/2Qi1osttb0zvJ1XO6okb36"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "Giganthe",
+          "url": "https://open.spotify.com/artist/1zChRFlMhgA4MLX0xUPSXg"
+        }
+      ],
+      "duration_ms": 138152,
+      "name": "Correntes",
+      "url": "https://open.spotify.com/track/29UaXzUCzgejIzvHFruvT0"
     },
     {
       "added_at": "2022-04-29 03:01:00",

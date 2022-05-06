@@ -4,7 +4,7 @@
 
 > The sweet sounds of Algeria.
 
-59 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
+60 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-12-09 |  |
 | [Moujat El Babour](https://open.spotify.com/track/5bFAK2BB8tKl9GDtA74AJy) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Moujat El Babour](https://open.spotify.com/album/4EWXSX7uIJtZfOkEXeiPvi) | 3:30 | 2021-12-09 | 2022-01-28 |
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-02-28 |  |
+| [Nar El Hob](https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Nar El Hob](https://open.spotify.com/album/5YJ4dtTJ2s71lB5yctLPY5) | 3:26 | 2022-05-04 |  |
 | [Nhassel fi Chkoune](https://open.spotify.com/track/1nQuz3XdgcRgYtCIGBN82I) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh) | [Nhassel fi Chkoune](https://open.spotify.com/album/0oSld3Mvd2nIvnhnAHvDOz) | 4:16 | 2021-12-09 |  |
 | [No Stop](https://open.spotify.com/track/6VD64LAe1raY65BTkJdt5v) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [No Stop](https://open.spotify.com/album/14FD9LxC7IR05LPeDK5Ts9) | 3:46 | 2022-03-09 |  |
 | [Nostalgia](https://open.spotify.com/track/2tigdzJhKHibLNXApAlTKZ) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/7oH1hIfjDhCaM8oOrewWJN) | 2:34 | 2021-12-09 |  |

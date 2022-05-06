@@ -1638,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162151,
+      "name": "HOY COBR\u00c9",
+      "url": "https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J"
+    },
+    {
+      "album": {
         "name": "Huracheee",
         "url": "https://open.spotify.com/album/1vlgEBezFraFDhkFPcUSbo"
       },
@@ -2961,7 +2979,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 190207,
       "name": "Puesto Pa' Guerrial",
       "url": "https://open.spotify.com/track/5gCg2qMPzKkW4jS4dBKdDs"
@@ -3067,7 +3085,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 150060,
       "name": "RONCA FREESTYLE",
       "url": "https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI"
@@ -3501,6 +3519,54 @@
       "duration_ms": 257327,
       "name": "Soy Peor",
       "url": "https://open.spotify.com/track/5MT96Zz0ymUJNm8obKZQr0"
+    },
+    {
+      "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "album": {
+        "name": "Soy Peor Remix",
+        "url": "https://open.spotify.com/album/059FBKRSxDxaHsk8xzfOUM"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315846,
+      "name": "Soy Peor - Remix",
+      "url": "https://open.spotify.com/track/1RijmOnza5p9CzaFKr8W1Y"
     },
     {
       "album": {
@@ -4181,7 +4247,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 159228,
       "name": "\u00bfQuien Tu Eres?",
       "url": "https://open.spotify.com/track/6kN06eEOblRAuWI0xUUS91"

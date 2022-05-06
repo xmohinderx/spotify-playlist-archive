@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-88 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+89 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Anarkali](https://open.spotify.com/track/6XjsTOdtCJqn50W7ouvXAq) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Temple Leaves](https://open.spotify.com/album/4FgFJmKNa2omZgJxpybnkP) | 5:00 | 2022-04-04 |  |
 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 | 2022-04-04 |  |
 | [Aum](https://open.spotify.com/track/142JeUf0yewGiafhVEVZAQ) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Relaxing Music From Around The World: Music for Meditation, Sleep and Working](https://open.spotify.com/album/5QU0YYRzu0pzxfNESLOECe) | 5:23 | 2022-04-04 |  |
-| [Bageshri](https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 8:11 | 2022-04-04 |  |
+| [Bageshri](https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 8:11 | 2022-04-04 | 2022-05-06 |
 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 | 2022-04-04 |  |
 | [Bhairavi](https://open.spotify.com/track/4zttb0FMlcA1PO9h8mQ8ub) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 6:47 | 2022-04-04 |  |
 | [Bhupali](https://open.spotify.com/track/3hfh3VfPtFVtB9KnuNtJXo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:34 | 2022-04-04 |  |
@@ -41,6 +41,7 @@
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-04-04 |  |
 | [Indian Song](https://open.spotify.com/track/7yAAcErAnwMpDOlVYEaTpl) | [Fold The Sun](https://open.spotify.com/artist/5SOUv2efO5CO6gerIKJlQJ) | [Indian Song](https://open.spotify.com/album/2wGJAE9NZVHEai5PsbI8IB) | 3:30 | 2022-04-04 |  |
 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 | 2022-04-04 |  |
+| [Jal](https://open.spotify.com/track/4YpD0n0hC3Cw2As4jGaQ1z) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Jal](https://open.spotify.com/album/6sWGq5vGUPEPCxaIDm4gFb) | 4:43 | 2022-05-05 |  |
 | [Jodi Tare Nai Chini Go \- Instrumental](https://open.spotify.com/track/7cEZxN0bwOoJC61Bu2KLzn) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Tejas Vinchurkar](https://open.spotify.com/artist/0tg9ZOHpgLqgTeFgO843Y8) | [The Magic of Tagore \- Instrumentals](https://open.spotify.com/album/6gyzmR2nG9OM6mJRW07aXs) | 4:46 | 2022-04-04 |  |
 | [Kharasha](https://open.spotify.com/track/5b0pO1D67bUkGKzx4kNP56) | [The Sitar Lounge Experience](https://open.spotify.com/artist/2KdoHKu7K72giUrFxLQjKe) | [The Sitar Lounge Experience](https://open.spotify.com/album/0OILgZSp5RbtJszUSJXNog) | 4:48 | 2022-04-04 | 2022-04-21 |
 | [King of the Ragas \(Darbari\)](https://open.spotify.com/track/7n4BUekVuwAYTIHtxoz9n4) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Ãnanda Nãda](https://open.spotify.com/album/1MYMwqJ5tCmMUjCc2NkJsZ) | 8:00 | 2022-04-04 |  |

@@ -772,6 +772,24 @@
     },
     {
       "album": {
+        "name": "Nar El Hob",
+        "url": "https://open.spotify.com/album/5YJ4dtTJ2s71lB5yctLPY5"
+      },
+      "artists": [
+        {
+          "name": "Amine Babylone",
+          "url": "https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206314,
+      "name": "Nar El Hob",
+      "url": "https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b"
+    },
+    {
+      "album": {
         "name": "Nhassel fi Chkoune",
         "url": "https://open.spotify.com/album/0oSld3Mvd2nIvnhnAHvDOz"
       },

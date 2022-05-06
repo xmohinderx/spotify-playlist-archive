@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > You and jazz are the center of this universe\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,966 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,093 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 69 | [ALIENS!](https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ALIENS!](https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj) | 4:18 |
 | 70 | [Don't Let It Go to Your Head](https://open.spotify.com/track/6cyOEQBfXRO7RofaFpzlT4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:19 |
 | 71 | [Don't Forget](https://open.spotify.com/track/04jkk9HM7mTlCNTYhWUZBx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:49 |
-| 72 | [Rising Above](https://open.spotify.com/track/6pMdanTQemKEiM3AgREKrr) | [blu.collective](https://open.spotify.com/artist/3TvrAvs3jeilJQRwV5SzXL) | [Rising Above](https://open.spotify.com/album/0syENayZgbGfpIX7eUKjBQ) | 4:00 |
+| 72 | [Rising Above](https://open.spotify.com/track/6pMdanTQemKEiM3AgREKrr) | [blu.collective](https://open.spotify.com/artist/3TvrAvs3jeilJQRwV5SzXL), [Caratgold](https://open.spotify.com/artist/1GdkwH1tFj4RnSteL0wshu), [Danilo Ray](https://open.spotify.com/artist/7zzGYW7fMxBQAGRzBLyJ6o), [Juzzone](https://open.spotify.com/artist/6kE2NhWFdYOUI44dOWV1FR), [Simon Hunt](https://open.spotify.com/artist/0h8p0a7zxiFOpB7avpld1f) | [Rising Above](https://open.spotify.com/album/0syENayZgbGfpIX7eUKjBQ) | 4:00 |
 | 73 | [Isolated](https://open.spotify.com/track/0icYUkm7H0I21NG2oTdpG8) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Sabrina Mahfouz](https://open.spotify.com/artist/6D8Yw8YdWpwqkJLx0HnEXH) | [Shout Out! To Freedom...](https://open.spotify.com/album/58jh2fv0ZWkGTNzQ1O7Tsq) | 4:13 |
 | 74 | [Talk to Me](https://open.spotify.com/track/0Fum6cgfDCPM8rE1OiPOTi) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Sean C\. Johnson](https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H), [Peter Manns](https://open.spotify.com/artist/2qwx7CUQ9aw3C8b4amNmxy) | [Talk to Me](https://open.spotify.com/album/3pcbeVlYaQzu49o02DGiXP) | 3:34 |
 | 75 | [La Luna](https://open.spotify.com/track/5dLkQJdUKnsxZP0OTAynxb) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj), [Bedows](https://open.spotify.com/artist/2Dh99o5qQLhqwRv5i1tIGX), [Burns Twins](https://open.spotify.com/artist/7GIgWnjx8RK1OJsMJkevgg), [Maceo Haymes](https://open.spotify.com/artist/5b5K1EV9WLtjvKeYRufaC0) | [Sweet Asl.](https://open.spotify.com/album/7dS8MJQ0BBwX4q5NShBxPG) | 2:10 |

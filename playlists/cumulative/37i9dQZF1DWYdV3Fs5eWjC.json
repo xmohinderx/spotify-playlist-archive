@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 169251,
       "name": "Cowgirl (Creeping)",
       "url": "https://open.spotify.com/track/5dI0fDIw367KbZH5LUieJE"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 234754,
       "name": "dance in the mirror",
       "url": "https://open.spotify.com/track/3m2e3LEMygUgU2JbJ420Iu"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 228839,
       "name": "Declare Independence - Spotify Singles",
       "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
@@ -310,6 +310,24 @@
     },
     {
       "album": {
+        "name": "Blue Dream",
+        "url": "https://open.spotify.com/album/7yDq7lYlhTJS5JkESBNcXS"
+      },
+      "artists": [
+        {
+          "name": "Le1f",
+          "url": "https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO"
+        }
+      ],
+      "date_added": "2020-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223720,
+      "name": "Fatty Acid",
+      "url": "https://open.spotify.com/track/4SFFhWS513mwrr8up8nSFe"
+    },
+    {
+      "album": {
         "name": "Fem Queen",
         "url": "https://open.spotify.com/album/42GWkXJ8tHcAhRvgTwy8Pj"
       },
@@ -333,7 +351,7 @@
       ],
       "date_added": "2020-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 234857,
       "name": "Fem Queen",
       "url": "https://open.spotify.com/track/2ThiiAe7cXCwIi6NDJRXzK"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 217600,
       "name": "Gold Digger (feat. Dess Dior)",
       "url": "https://open.spotify.com/track/18BZfOTpruzkVJhDN7pair"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 185786,
       "name": "Got Her Own",
       "url": "https://open.spotify.com/track/5s7REbEOo8rf3qeC0A7vVS"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 225853,
       "name": "Greed",
       "url": "https://open.spotify.com/track/5PPzJ8kLOfIftp75EnrT1z"
@@ -558,6 +576,28 @@
     },
     {
       "album": {
+        "name": "CROWN",
+        "url": "https://open.spotify.com/album/1cPF0Lik7NzzRuUs7lNln6"
+      },
+      "artists": [
+        {
+          "name": "Aja",
+          "url": "https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0"
+        },
+        {
+          "name": "Dai Burger",
+          "url": "https://open.spotify.com/artist/5G6jDaJ9jJIfRgVsqFQ78c"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237714,
+      "name": "Horsewh!p",
+      "url": "https://open.spotify.com/track/02LCf5tJcF6KszW2cKOySx"
+    },
+    {
+      "album": {
         "name": "Thicker Than Water",
         "url": "https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5"
       },
@@ -569,7 +609,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "Human",
       "url": "https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN"
@@ -667,10 +707,28 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 241196,
       "name": "jordan",
       "url": "https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr"
+    },
+    {
+      "album": {
+        "name": "ARIZONA BABY",
+        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2020-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216070,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a"
     },
     {
       "album": {
@@ -693,7 +751,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 193135,
       "name": "Kill My Heart (feat. Parson James & Qveen Herby)",
       "url": "https://open.spotify.com/track/26WwjBABRwIJPKhEcWpY4b"
@@ -729,7 +787,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 239744,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
@@ -747,10 +805,32 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 154140,
       "name": "Must Be Something",
       "url": "https://open.spotify.com/track/3gEeg3lRnlBYbC5lwG8C7R"
+    },
+    {
+      "album": {
+        "name": "Off the Yak",
+        "url": "https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN"
+      },
+      "artists": [
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "Max YB",
+          "url": "https://open.spotify.com/artist/1utuqjQ62Vu5Kokk1cY7Jg"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156260,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/57jnaPSchj34y6k44qVYc3"
     },
     {
       "album": {
@@ -823,7 +903,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 197794,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/7700T9tYeO5NdTBnLNlGEI"
@@ -859,7 +939,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 156909,
       "name": "One Time",
       "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
@@ -947,7 +1027,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 184711,
       "name": "RE(a)D (with Bas)",
       "url": "https://open.spotify.com/track/3zkb4iEBArtWivbkhw4Jnd"
@@ -983,7 +1063,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 218305,
       "name": "Save Myself",
       "url": "https://open.spotify.com/track/74DbiadhBhDwhyG9D863IS"
@@ -1005,7 +1085,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js"
@@ -1139,7 +1219,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 200214,
       "name": "Waiting For (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"

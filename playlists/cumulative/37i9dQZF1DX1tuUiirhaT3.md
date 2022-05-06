@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-187 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+189 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Canals](https://open.spotify.com/track/1pK2SvpHrWrWFse9qxuj9f) | [Orphoria](https://open.spotify.com/artist/0WTxtKGnW3poFGHyG9Hcpg) | [Solar Sail](https://open.spotify.com/album/5LnqmFMVmIut3nRotPDWzc) | 2:49 | 2021-12-17 |  |
 | [Cave by the Ocean](https://open.spotify.com/track/6EvWjiZZhu8gYmAp52sT4X) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Songs in the Key of Earth, Vol\. 1](https://open.spotify.com/album/0TSj3QARPm9cNkEd6GyjbD) | 1:40 | 2021-12-17 |  |
 | [Chrystal Waters](https://open.spotify.com/track/0STNzJ42S02Ep6mcnwLfMW) | [Astral View](https://open.spotify.com/artist/7pq8kxpU61rnrS73yuK1xF) | [Chrystal Waters](https://open.spotify.com/album/5tNpDpbw7T6GlJOodIAQjO) | 3:08 | 2021-12-17 |  |
-| [City Sun](https://open.spotify.com/track/3cP0lItvdmwHLQsFtTSczu) | [Mochas](https://open.spotify.com/artist/4GimdSN8NMDW7LYdSHtjIH) | [City Sun](https://open.spotify.com/album/6CU4QLegDqC55dF4860RhK) | 2:51 | 2021-12-17 |  |
+| [City Sun](https://open.spotify.com/track/3cP0lItvdmwHLQsFtTSczu) | [Mochas](https://open.spotify.com/artist/4GimdSN8NMDW7LYdSHtjIH) | [City Sun](https://open.spotify.com/album/6CU4QLegDqC55dF4860RhK) | 2:51 | 2021-12-17 | 2022-05-06 |
 | [Colors Of The Wind](https://open.spotify.com/track/0YL8kXuNOcOF8curSrGOEw) | [Alex Patel](https://open.spotify.com/artist/4e90KIWr9PXRvOsvB7kdnb) | [Colors Of The Wind](https://open.spotify.com/album/1Ta8HPmo20jBMUCyah11oC) | 3:05 | 2021-12-17 |  |
 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 | 2021-12-17 |  |
 | [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 | 2022-03-04 |  |
@@ -128,6 +128,7 @@
 | [Peaceful Memories](https://open.spotify.com/track/3xeXkQ3g2J1kBo5ex8uM2H) | [Ralph Torin](https://open.spotify.com/artist/3TUD0Es8JW7gx1FLgHukxx) | [Abstract Textures](https://open.spotify.com/album/7uLEzZ94QeZma7UYAwU77N) | 3:37 | 2021-12-17 |  |
 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 | 2021-12-17 |  |
 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 | 2021-12-17 |  |
+| [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2022-05-05 |  |
 | [Praeniteo](https://open.spotify.com/track/33o8qJ9gYei7lJe7FT2ZTY) | [Chasing The Eclipse](https://open.spotify.com/artist/7srCM8fl9JtX1OT0ZORcIC) | [Praeniteo](https://open.spotify.com/album/55m0KrbmCCLoyFfXWEhpEL) | 2:34 | 2022-04-13 |  |
 | [Quechee](https://open.spotify.com/track/0YHo8BjNpNr35qkQ06OB7Y) | [Stig Dahl](https://open.spotify.com/artist/3MYCekQ5MCvigzegvwg0Vt) | [Quechee](https://open.spotify.com/album/6rd91D5DtuaeL7150xTksL) | 3:50 | 2021-12-17 |  |
 | [Rain Spirit](https://open.spotify.com/track/3lrkbRgRSxQFXlJRz2PbK7) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Rain Spirit](https://open.spotify.com/album/3mkEeKRZoNrsIDvUp8h3X0) | 2:36 | 2021-12-17 |  |
@@ -135,6 +136,7 @@
 | [Reche Drone In Rain](https://open.spotify.com/track/5TdsdSdpWUPgeO4a4W2Qsa) | [Floating Portal](https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X) | [Reche Drone In Rain](https://open.spotify.com/album/7ALJilhRBmCACJuI644IBJ) | 3:16 | 2021-12-17 |  |
 | [Recreation And Peace](https://open.spotify.com/track/1oQmOuEApsxo5SKBiToT7m) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Rain & Pan Flute \- vol.1](https://open.spotify.com/album/1zmeH4AE8rXExGyBcJsKyV) | 2:57 | 2021-12-17 |  |
 | [Reiki for Life](https://open.spotify.com/track/1IzkMXkEGkqWi50NF1I606) | [Deep Sleep](https://open.spotify.com/artist/4gGGFclZZyED2i5BgzGAlD) | [Sleep Music: Lullabies to Help You Relax, Sleep, Meditate and Heal With Relaxing Piano Music, Nature Sounds and Natural Noise](https://open.spotify.com/album/0yB3m49PTZx8DtWADiO0oy) | 2:01 | 2021-12-17 |  |
+| [Relajación espiritual \(Sound Bath\)](https://open.spotify.com/track/4oetcmOX3Se7HSEzFuymZ4) | [Toga Bali](https://open.spotify.com/artist/0DUOo4Eips5aR2eA4V5Vfb) | [Relajación espiritual \(Sound Bath\)](https://open.spotify.com/album/5DE6bYPWsWnnSYfDRTXIf6) | 3:09 | 2022-05-05 |  |
 | [Relaxing Forest Music](https://open.spotify.com/track/6Y6wfZQMFF13l3RXL9QduP) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 1:52 | 2021-12-17 |  |
 | [Relaxing Water Flow](https://open.spotify.com/track/0WI552XdVtIsWJzxU0vxXA) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:16 | 2021-12-17 |  |
 | [Releaser](https://open.spotify.com/track/1GddIEy7hjJfOCRvjLq7Tu) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Healing Touch](https://open.spotify.com/album/0fSmub8HrabT9rG53oOGbk) | 4:04 | 2021-12-17 |  |

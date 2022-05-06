@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-257 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+262 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2021-12-17 | 2022-03-26 |
 | [Body & Soul](https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 | 2021-12-17 |  |
 | [Boreas](https://open.spotify.com/track/7bBS7gjSC4NwZiBwcbYoR7) | [Tide Machine](https://open.spotify.com/artist/1dwB5V858hnmHhR9tCIor2) | [Boreas](https://open.spotify.com/album/3XlfG83Ffv1YGZpWwFbHZ8) | 2:54 | 2021-12-17 |  |
+| [Boy Blowing Bubbles](https://open.spotify.com/track/4vhjKm3JGXjBefwblXlExw) | [Olivia Line](https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA) | [Boy Blowing Bubbles](https://open.spotify.com/album/7CuFbbQgSZqJBp1VudRHu6) | 2:37 | 2022-05-05 |  |
 | [Breathe](https://open.spotify.com/track/7Mr1C9U2R0bSyviqQ9IYuV) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [In The Deep](https://open.spotify.com/album/3Zs6jLiLhNzQcwJFHq677C) | 3:36 | 2021-12-17 | 2022-04-22 |
 | [Breathhold](https://open.spotify.com/track/3NM51TRi6mY2S60vbMq1X6) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Breathhold](https://open.spotify.com/album/3somiBkLvnnEkPPzjSIlE2) | 3:08 | 2021-12-17 | 2022-04-22 |
 | [Bring You Home](https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Bring You Home](https://open.spotify.com/album/2CWJts4Z3ZCOgTHYbNo6a1) | 2:41 | 2022-02-15 |  |
@@ -44,6 +45,7 @@
 | [Buoyant](https://open.spotify.com/track/7DEcoyUFy04Zhe89uthswA) | [Keira Barton](https://open.spotify.com/artist/7MDW47TOvs2sC0FyHqSV3Y) | [Buoyant](https://open.spotify.com/album/0oWrIAxKrOq6Cj96ZeRp4S) | 3:09 | 2021-12-17 |  |
 | [Calm](https://open.spotify.com/track/2LxskIBEuhVXVpl0w4WLne) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Calm](https://open.spotify.com/album/2Gq3PzfqwVrFHOCyWMEQNP) | 2:59 | 2021-12-17 |  |
 | [Calm Embrace](https://open.spotify.com/track/5rMCyc5FUpkpAx2MIB9Bja) | [Esa Plant](https://open.spotify.com/artist/0QQlMFDABAtm2cdSGJdB4p) | [Calm Embrace](https://open.spotify.com/album/0ECjtVkMi9MHOwrDdsi3eo) | 2:56 | 2021-12-17 |  |
+| [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 |  |
 | [Calming Tune](https://open.spotify.com/track/4nwPbxRsKm81Alkoj3nZMi) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Feel a Sense](https://open.spotify.com/album/2QSLLC0Kby30GZgyJ7NSy8) | 3:18 | 2021-12-17 |  |
 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 | 2021-12-17 |  |
 | [Celandine](https://open.spotify.com/track/5ptMWCoMxUP5phRKZ5MyBx) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:53 | 2021-12-17 |  |
@@ -52,6 +54,7 @@
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-02-01 |  |
 | [Circadian](https://open.spotify.com/track/3bb6awuqz2ZJggqGtvPVYE) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Phases](https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk) | 2:52 | 2021-12-17 | 2022-04-22 |
 | [Clarity](https://open.spotify.com/track/7mgX4lCdmvSN2lacmXAlSK) | [Blue is Blue](https://open.spotify.com/artist/1AjRe7I3aEcgXocpQuDUK0) | [Clarity](https://open.spotify.com/album/5uyfMS2E2lulhGql8Zp7kV) | 4:29 | 2021-12-17 | 2022-04-22 |
+| [Cohesion](https://open.spotify.com/track/4tX0TK8klpx4iRXB47pOFv) | [Boris Rosenbaum](https://open.spotify.com/artist/41hz9dfBrQt1zteqqTUrYd) | [Cohesion](https://open.spotify.com/album/5yAML82E28lWUo9LFWaaAN) | 2:01 | 2022-05-05 |  |
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2021-12-17 |  |
 | [Covering the Sun](https://open.spotify.com/track/1IUe9CBv83sg56rTorIVLp) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Ivory Clouds](https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr) | 3:13 | 2021-12-17 |  |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-03-17 |  |
@@ -66,7 +69,7 @@
 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 | 2021-12-17 |  |
 | [Distant](https://open.spotify.com/track/7czmviSHPd55HKidnHmYYB) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Traveling Windows](https://open.spotify.com/album/4C9ugRx6etBU29t5694z7m) | 3:17 | 2021-12-17 | 2022-04-22 |
 | [Do We Really Know](https://open.spotify.com/track/4jIjpoq9FcHzJowwFBPYbg) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Do We Really Know](https://open.spotify.com/album/0LRCtNt8B7iIolAz6y2Gxx) | 2:55 | 2021-12-17 |  |
-| [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2021-12-17 |  |
+| [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2021-12-17 | 2022-05-06 |
 | [Dormiveglia](https://open.spotify.com/track/59wYGLIGo4rMqIXcteuFd2) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Dormiveglia](https://open.spotify.com/album/6fplqqCFvzrz1fZHgxvS89) | 3:21 | 2021-12-17 |  |
 | [Dreams Come True](https://open.spotify.com/track/1eUZnVvwrOptdKQ8vvi3Yh) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Carry On](https://open.spotify.com/album/5ryLW7nz2xS5nPpkFidx9F) | 3:02 | 2021-12-17 | 2022-04-22 |
 | [Dusk Sermons](https://open.spotify.com/track/4eoA6gqXBqpCuCemOineDh) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [Dusk Sermons](https://open.spotify.com/album/6jTsueHPtmp2svmRED9FOk) | 3:21 | 2022-02-25 |  |
@@ -89,6 +92,7 @@
 | [Feather](https://open.spotify.com/track/2AQtxqUEmqd5mVUFD2UC61) | [Art Decorum](https://open.spotify.com/artist/2VDTrLjZH9fCcf0lhHY3jb) | [Feather](https://open.spotify.com/album/4da6ESxj0O2SlJGLewnxmS) | 3:05 | 2021-12-17 |  |
 | [Featherlight](https://open.spotify.com/track/66ZCyyGZ3Hose7ofDcbkkd) | [Subno](https://open.spotify.com/artist/2egCtVwLwVGRY2kwmA0D8K) | [Featherlight](https://open.spotify.com/album/4PIrMjkaOdHB40aee4xhq6) | 3:20 | 2022-01-19 |  |
 | [Fermez vos yeux](https://open.spotify.com/track/7fjl8fmaUdRWNstdzGHCeF) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Fermez vos yeux](https://open.spotify.com/album/1uUObEiPqN0i7YzA3MR7RL) | 2:34 | 2021-12-17 |  |
+| [Figuratives](https://open.spotify.com/track/07FdbSr9DEzo8QjEcHB7XD) | [Natalie Carlton](https://open.spotify.com/artist/5tskj9vtZkM605QJsLW9AH) | [Figuratives](https://open.spotify.com/album/1SCWwtBjWjQCkTS14TLoL4) | 2:16 | 2022-05-05 |  |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2021-12-17 |  |
 | [Fliessend](https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Fliessend](https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9) | 2:44 | 2022-04-07 |  |
 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 | 2022-02-01 |  |
@@ -144,6 +148,7 @@
 | [Linea Degli Alberi](https://open.spotify.com/track/7pSiVCrdIbpIvn8oNH3XPY) | [Giulia De Serio](https://open.spotify.com/artist/51lfmojViPJ0XrAghn70IC) | [Linea Degli Alberi](https://open.spotify.com/album/4fFXVfJEGlld0nASf5kGHr) | 3:56 | 2021-12-17 |  |
 | [Ljung](https://open.spotify.com/track/4S3rgz60bvE155xKGyCaZe) | [Fjellet](https://open.spotify.com/artist/4S0x628hBw2YQyh0hCQAf8) | [Ljung](https://open.spotify.com/album/6xKGBiSNUOB37r84vLhPWJ) | 2:00 | 2021-12-17 |  |
 | [Longing](https://open.spotify.com/track/1ONolOLYjM977hgtqKzXmJ) | [Joaquin Mans](https://open.spotify.com/artist/5JBXyHBJYZCIHMQXee1sMm) | [Longing](https://open.spotify.com/album/2rK7rji9Qxafhao5PFXtu5) | 2:12 | 2021-12-17 |  |
+| [Los Sueños](https://open.spotify.com/track/6EfUGhY6j99AjN6Q4LhwOW) | [Aarona](https://open.spotify.com/artist/1v4myR6ZDEKYmMlRqT48IS) | [Los Sueños](https://open.spotify.com/album/3gjRWFJ0czcex9ESBKsec0) | 2:36 | 2022-05-05 |  |
 | [Lucerne](https://open.spotify.com/track/023i4Phiw266d2OaRbudOg) | [Lorah Weber](https://open.spotify.com/artist/6KPIG4JnXUCcKZPGD8aE5R) | [Lucerne](https://open.spotify.com/album/5SvO1rgtXSxI44z0M53if2) | 3:17 | 2021-12-17 |  |
 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 | 2021-12-17 |  |
 | [Luna’s Ways](https://open.spotify.com/track/6IEE3o7MIgSEnJ3RxgEOwl) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [Luna’s Ways](https://open.spotify.com/album/6dZ0uWEtxqYGdHykwDYhaJ) | 2:45 | 2021-12-17 |  |

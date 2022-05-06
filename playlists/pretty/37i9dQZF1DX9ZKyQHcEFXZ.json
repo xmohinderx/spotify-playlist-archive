@@ -1,13 +1,29 @@
 {
   "description": "El t\u00edtulo lo dice todo! Work it out with the OG's of Reggaeton!",
-  "num_followers": 1601651,
+  "num_followers": 1601711,
   "original_name": "Perreo Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTcxMjkzNiwwMDAwMDAwMDBkYWVmNjRlOTE2ZWQ0NmI0OGVhZDM2Y2NjOWQyZWNh",
+  "snapshot_id": "MTY1MTc5ODgxMiwwMDAwMDAwMGMzZGZjNTA4MmU5ODc3OTU2ZGE3ZWNjMzUxZWZjMDll",
   "tracks": [
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Diva Platinum Edition",
+        "url": "https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT"
+    },
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
@@ -27,6 +43,38 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
+        "name": "The Best Of Hector El Father",
+        "url": "https://open.spotify.com/album/5VMXif6AXwyrkcDAMd2BN5"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Esta Noche De Travesura",
+      "url": "https://open.spotify.com/track/5YsF9N9Gv7DswM0KPk4iby"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Una Vaina Loca",
+        "url": "https://open.spotify.com/album/01nV3KuocS1NJHTsJbPkTO"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "Una Vaina Loca",
+      "url": "https://open.spotify.com/track/00hdjyXt6MohKnCyDmhxOL"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
         "name": "The Noise: Biografia",
         "url": "https://open.spotify.com/album/1Ks5mn89wtdwGd4RH3ow78"
       },
@@ -39,22 +87,6 @@
       "duration_ms": 235023,
       "name": "Me Pones en Tension",
       "url": "https://open.spotify.com/track/6yvg8XOT0yiLhkuPOCkjEN"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 315293,
-      "name": "Sali\u00f3 El Sol",
-      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -79,18 +111,38 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Diva Platinum Edition",
-        "url": "https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e"
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT"
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Latin Party",
+        "url": "https://open.spotify.com/album/5IXBIo7E8V2JR9lILcAIaL"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Permitame",
+      "url": "https://open.spotify.com/track/2UPfiKisNceDee4VFcdoZx"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -127,94 +179,18 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Una Vaina Loca",
-        "url": "https://open.spotify.com/album/01nV3KuocS1NJHTsJbPkTO"
+        "name": "Love And Sex",
+        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
       },
       "artists": [
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 188213,
-      "name": "Una Vaina Loca",
-      "url": "https://open.spotify.com/track/00hdjyXt6MohKnCyDmhxOL"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Latin Party",
-        "url": "https://open.spotify.com/album/5IXBIo7E8V2JR9lILcAIaL"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Permitame",
-      "url": "https://open.spotify.com/track/2UPfiKisNceDee4VFcdoZx"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Showtime",
-        "url": "https://open.spotify.com/album/03UcnEB1GF99BGjNWbybrN"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        },
-        {
-          "name": "Gocho \"El L\u00e1piz De Platino\"",
-          "url": "https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA"
-        },
-        {
-          "name": "John Eric",
-          "url": "https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2"
-        }
-      ],
-      "duration_ms": 202880,
-      "name": "Na De Na",
-      "url": "https://open.spotify.com/track/5oQDYIpN3ieXNHwXAr8TXf"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Reggaeton Rulers: Los Que Ponen",
-        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Sensacion Del Bloque",
-      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+      "duration_ms": 207626,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -231,46 +207,6 @@
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Ella Me Levanto",
-        "url": "https://open.spotify.com/album/2HHad0pQ1914x6DURVB4du"
-      },
-      "artists": [
-        {
-          "name": "DY",
-          "url": "https://open.spotify.com/artist/1zqpsQPgYJM5lYlaaoIL7h"
-        }
-      ],
-      "duration_ms": 209529,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/6LDqp7BlLdkHgR7pmeky6B"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Tra Tra Tra Remix",
-        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Tra Tra Tra Remix - Remix",
-      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -315,22 +251,18 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+        "name": "Ella Me Levanto",
+        "url": "https://open.spotify.com/album/2HHad0pQ1914x6DURVB4du"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "DY",
+          "url": "https://open.spotify.com/artist/1zqpsQPgYJM5lYlaaoIL7h"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+      "duration_ms": 209529,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/6LDqp7BlLdkHgR7pmeky6B"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -355,6 +287,66 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/03UcnEB1GF99BGjNWbybrN"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        },
+        {
+          "name": "Gocho \"El L\u00e1piz De Platino\"",
+          "url": "https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA"
+        },
+        {
+          "name": "John Eric",
+          "url": "https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "Na De Na",
+      "url": "https://open.spotify.com/track/5oQDYIpN3ieXNHwXAr8TXf"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 315293,
+      "name": "Sali\u00f3 El Sol",
+      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
         "name": "House Of Pleasure",
         "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
       },
@@ -371,254 +363,6 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Mas Flow 2",
-        "url": "https://open.spotify.com/album/10bXI84d97WceZe9A41gaM"
-      },
-      "artists": [
-        {
-          "name": "Baby Ranks",
-          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Tonny Tun Tun",
-          "url": "https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        }
-      ],
-      "duration_ms": 248013,
-      "name": "Mayor Que Yo",
-      "url": "https://open.spotify.com/track/0H26e1PgtkQ2aTRZEKWOOO"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 258613,
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/0A7uLa2SqVK5s5Y2V3kCyW"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/1h0XOtmHmARcI1HieT8ZWk"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 303906,
-      "name": "Zun Da Da",
-      "url": "https://open.spotify.com/track/0WdtoSPuxXXdFzb7VqmbyT"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "La Jeepeta (Remix)",
-        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "La Jeepeta - Remix",
-      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 295176,
-      "name": "Safaera",
-      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "The Best Of Hector El Father",
-        "url": "https://open.spotify.com/album/5VMXif6AXwyrkcDAMd2BN5"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Esta Noche De Travesura",
-      "url": "https://open.spotify.com/track/5YsF9N9Gv7DswM0KPk4iby"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Love And Sex",
-        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Los Extraterrestres - Otra Dimension",
-        "url": "https://open.spotify.com/album/7orkwiOBziIdt3HLUno6Tz"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Ahora Es",
-      "url": "https://open.spotify.com/track/7AkKdkY1WrkkHJntRKXyc4"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Baila Morena (Reggaeton Mix)",
-        "url": "https://open.spotify.com/album/106R30c82nUmpln49yR9zs"
-      },
-      "artists": [
-        {
-          "name": "Hector & Tito",
-          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
-        },
-        {
-          "name": "Luny Tunes",
-          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
-        },
-        {
-          "name": "Noriega",
-          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
-        }
-      ],
-      "duration_ms": 187080,
-      "name": "Baila Morena (with Luny Tunes, Noriega) - Remix",
-      "url": "https://open.spotify.com/track/4qbi9JDziBh3cxi9SFUbeu"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Mi Ni\u00f1a",
-        "url": "https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        }
-      ],
-      "duration_ms": 213313,
-      "name": "Mi Nin\u0303a",
-      "url": "https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
         "name": "Calle 13 (Explicit Version)",
         "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
@@ -631,26 +375,6 @@
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Motivando a la Yal Special Edition",
-        "url": "https://open.spotify.com/album/4SGvB1PgiQ8a5LmlPYZFLO"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Yo Voy (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/4Y26cfrhyQ6KllWN6VYlR0"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -691,8 +415,116 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Latino! Greatest Hits - 56 Latin Top Hits (Original Versions!)",
-        "url": "https://open.spotify.com/album/0VSYBKZgle28fILiupe1Bv"
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "duration_ms": 213313,
+      "name": "Mi Nin\u0303a",
+      "url": "https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Baila Morena (Reggaeton Mix)",
+        "url": "https://open.spotify.com/album/106R30c82nUmpln49yR9zs"
+      },
+      "artists": [
+        {
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+        },
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        },
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+        }
+      ],
+      "duration_ms": 187080,
+      "name": "Baila Morena (with Luny Tunes, Noriega) - Remix",
+      "url": "https://open.spotify.com/track/4qbi9JDziBh3cxi9SFUbeu"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Motivando a la Yal Special Edition",
+        "url": "https://open.spotify.com/album/4SGvB1PgiQ8a5LmlPYZFLO"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Yo Voy (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/4Y26cfrhyQ6KllWN6VYlR0"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/1h0XOtmHmARcI1HieT8ZWk"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 303906,
+      "name": "Zun Da Da",
+      "url": "https://open.spotify.com/track/0WdtoSPuxXXdFzb7VqmbyT"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 295176,
+      "name": "Safaera",
+      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
       "artists": [
         {
@@ -700,57 +532,9 @@
           "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 253080,
-      "name": "Pobre Diabla",
-      "url": "https://open.spotify.com/track/0yglvGgLOCnznme674cR9X"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Enoc",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/5Jm4w8jmPEBTLjI9vH4fXo"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 186426,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "PROBLEMA",
-        "url": "https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "PROBLEMA",
-      "url": "https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm"
+      "duration_ms": 258613,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/0A7uLa2SqVK5s5Y2V3kCyW"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -775,18 +559,206 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "La Jeepeta (Remix)",
+        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
       "artists": [
         {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Dominicana",
-      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
+      "duration_ms": 345240,
+      "name": "La Jeepeta - Remix",
+      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Tra Tra Tra Remix",
+        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Tra Tra Tra Remix - Remix",
+      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Los Extraterrestres - Otra Dimension",
+        "url": "https://open.spotify.com/album/7orkwiOBziIdt3HLUno6Tz"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Ahora Es",
+      "url": "https://open.spotify.com/track/7AkKdkY1WrkkHJntRKXyc4"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Mundial (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3g09ln1DeyjtPhlITh8DzT"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/6XE2V2icEranw5YpS4WMDD"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Alocate",
+      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Latino! Greatest Hits - 56 Latin Top Hits (Original Versions!)",
+        "url": "https://open.spotify.com/album/0VSYBKZgle28fILiupe1Bv"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Pobre Diabla",
+      "url": "https://open.spotify.com/track/0yglvGgLOCnznme674cR9X"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Perreito",
+        "url": "https://open.spotify.com/album/2h75BdwB5z9ueXOV37Af4d"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 121240,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/5LsUdPeqmKVGlPJre2sIRt"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "La Historia De El D\u00fao (Vol.1)",
+        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "Sexy Movimiento",
+      "url": "https://open.spotify.com/track/6ppRLoJ9FETtXtxWmYhcVd"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Bellacoso",
+        "url": "https://open.spotify.com/album/0un8ZRojNl6fYFRHYzQ9GG"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257864,
+      "name": "Bellacoso",
+      "url": "https://open.spotify.com/track/1kMUGCt7XLDc5Q64Vl0H8S"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -815,44 +787,56 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Bellacoso",
-        "url": "https://open.spotify.com/album/0un8ZRojNl6fYFRHYzQ9GG"
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
       "artists": [
         {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 257864,
-      "name": "Bellacoso",
-      "url": "https://open.spotify.com/track/1kMUGCt7XLDc5Q64Vl0H8S"
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "La Historia De El D\u00fao (Vol.1)",
-        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
+        "name": "Rebota",
+        "url": "https://open.spotify.com/album/0WtvTluO0QSmXndhOydGDA"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 213013,
-      "name": "Sexy Movimiento",
-      "url": "https://open.spotify.com/track/6ppRLoJ9FETtXtxWmYhcVd"
+      "duration_ms": 204630,
+      "name": "Rebota",
+      "url": "https://open.spotify.com/track/2YRvdf9cdS88y1wB1WhKoE"
     },
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Barrio Fino En Directo",
-        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calderon",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "PROBLEMA",
+        "url": "https://open.spotify.com/album/62qqk2oK0GGO0AwWqUIqrJ"
       },
       "artists": [
         {
@@ -860,25 +844,109 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 188626,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
+      "duration_ms": 184506,
+      "name": "PROBLEMA",
+      "url": "https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm"
     },
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Perreito",
-        "url": "https://open.spotify.com/album/2h75BdwB5z9ueXOV37Af4d"
+        "name": "Enoc",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 121240,
-      "name": "Perreito",
-      "url": "https://open.spotify.com/track/5LsUdPeqmKVGlPJre2sIRt"
+      "duration_ms": 217240,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/5Jm4w8jmPEBTLjI9vH4fXo"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 175533,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5sgyVBKaXXoVCJa4c14IYu"
+      },
+      "artists": [
+        {
+          "name": "Big Yamo",
+          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
+        },
+        {
+          "name": "Natya",
+          "url": "https://open.spotify.com/artist/1eKhdE1BV5isL4SQbXjMTM"
+        }
+      ],
+      "duration_ms": 202632,
+      "name": "Tocarte Toa (feat. Natya)",
+      "url": "https://open.spotify.com/track/0qp29frhNoklK9WvxERqlS"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Mas Flow 2",
+        "url": "https://open.spotify.com/album/10bXI84d97WceZe9A41gaM"
+      },
+      "artists": [
+        {
+          "name": "Baby Ranks",
+          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Tonny Tun Tun",
+          "url": "https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "duration_ms": 248013,
+      "name": "Mayor Que Yo",
+      "url": "https://open.spotify.com/track/0H26e1PgtkQ2aTRZEKWOOO"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Wisin Y Yandel Presentan: Los Vaqueros",
+        "url": "https://open.spotify.com/album/3p74sa1tzoEASM6PyMq69t"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Quizas",
+      "url": "https://open.spotify.com/track/0nDI66E3QkCqeykXMMBo7w"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -907,34 +975,18 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+        "name": "Barrio Fino En Directo",
+        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
       },
       "artists": [
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 152613,
-      "name": "Alocate",
-      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "La Revolucion (Deluxe)",
-        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/6Zdjh0uRQPt22BPckJgvEj"
+      "duration_ms": 188626,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -963,6 +1015,54 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "5 Letras",
+      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Los Vaqueros Wild Wild Mixes",
+        "url": "https://open.spotify.com/album/4Yufs8sW6tHUNvkDAVTaYn"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/5n9iuiNBT8jYPJOPfKWjWU"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 186426,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
         "name": "Travesuras",
         "url": "https://open.spotify.com/album/6aKBvPUoqy0brM7geYXPLn"
       },
@@ -987,8 +1087,24 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Mundial (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3g09ln1DeyjtPhlITh8DzT"
+        "name": "La Familia B Sides",
+        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Ay Vamos",
+      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr"
       },
       "artists": [
         {
@@ -996,25 +1112,9 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 202826,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/6XE2V2icEranw5YpS4WMDD"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 175533,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
+      "duration_ms": 218506,
+      "name": "\u00bfQu\u00e9 Tengo Que Hacer?",
+      "url": "https://open.spotify.com/track/0nssGbqC6ZSMx0OliWCkHk"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -1043,24 +1143,44 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Rebota",
-        "url": "https://open.spotify.com/album/0WtvTluO0QSmXndhOydGDA"
+        "name": "Masterpiece : Commemorative Edition",
+        "url": "https://open.spotify.com/album/14bjkNMkckykFN7Sy8G8gY"
       },
       "artists": [
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        },
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
         }
       ],
-      "duration_ms": 204630,
-      "name": "Rebota",
-      "url": "https://open.spotify.com/track/2YRvdf9cdS88y1wB1WhKoE"
+      "duration_ms": 227880,
+      "name": "Down (Remix)",
+      "url": "https://open.spotify.com/track/53kn9xq31Hfrqfc3T7JYTT"
     },
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "La Familia B Sides",
-        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
+        "name": "Mas Flow",
+        "url": "https://open.spotify.com/album/7pKwdrN5uGoBTDNuVLdzPB"
+      },
+      "artists": [
+        {
+          "name": "Tego Calderon",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "Metele Sazon",
+      "url": "https://open.spotify.com/track/4UkEnTEStVzuPoRB27sK4J"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
       "artists": [
         {
@@ -1068,93 +1188,9 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 226413,
-      "name": "Ay Vamos",
-      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Frikitona - Single",
-        "url": "https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 183182,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "La Historia De El D\u00fao (Vol.1)",
-        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 227280,
-      "name": "Pam Pam",
-      "url": "https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Talento de Barrio",
-        "url": "https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "\u00bfQu\u00e9 Tengo Que Hacer?",
-      "url": "https://open.spotify.com/track/0nssGbqC6ZSMx0OliWCkHk"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Pa' Que La Pases Bien",
-      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5sgyVBKaXXoVCJa4c14IYu"
-      },
-      "artists": [
-        {
-          "name": "Big Yamo",
-          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
-        },
-        {
-          "name": "Natya",
-          "url": "https://open.spotify.com/artist/1eKhdE1BV5isL4SQbXjMTM"
-        }
-      ],
-      "duration_ms": 202632,
-      "name": "Tocarte Toa (feat. Natya)",
-      "url": "https://open.spotify.com/track/0qp29frhNoklK9WvxERqlS"
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -1179,8 +1215,8 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Mas Flow 2 (International Version)",
-        "url": "https://open.spotify.com/album/06wangppKC5zu161TzLrnB"
+        "name": "La Historia De El D\u00fao (Vol.1)",
+        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
       },
       "artists": [
         {
@@ -1188,41 +1224,29 @@
           "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 171146,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/1hUxy4xuXlzRENHPg5Qqdb"
+      "duration_ms": 227280,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n"
     },
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+        "name": "Duro y Suave",
+        "url": "https://open.spotify.com/album/7as9B0RBSX3cxUIs1MlZ4V"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "El Principe",
-        "url": "https://open.spotify.com/album/0D40hQgz3Czyl4LJ7B7IBA"
-      },
-      "artists": [
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        },
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
         }
       ],
-      "duration_ms": 237546,
-      "name": "Prrrum",
-      "url": "https://open.spotify.com/track/0INWoq84kaWrJN1AxiOrtb"
+      "duration_ms": 207720,
+      "name": "Duro y Suave",
+      "url": "https://open.spotify.com/track/31M5m42C3EGlbydf9XB5to"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -1263,118 +1287,6 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "5 Letras",
-      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Barrio Fino En Directo",
-        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Machucando",
-      "url": "https://open.spotify.com/track/3FWAWggrMlMaSuBrf5cgKP"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "La Historia Live",
-        "url": "https://open.spotify.com/album/3syIceuWeZKFbuVubOsS4W"
-      },
-      "artists": [
-        {
-          "name": "Hector & Tito",
-          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Glory",
-          "url": "https://open.spotify.com/artist/17WbRGqXOt3Garv9CERTGk"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Morena - Re-Mix",
-      "url": "https://open.spotify.com/track/1ZE19OuOnqsMFB6V9Gtzcy"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
-        }
-      ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Wisin Y Yandel Presentan: Los Vaqueros",
-        "url": "https://open.spotify.com/album/5gHKtewt6CtuGLiAj2m3XC"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Nadie Como Tu",
-      "url": "https://open.spotify.com/track/3E2jVBZU7fjRNB0m3PrrhF"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Plan Calle",
-        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
-      },
-      "artists": [
-        {
-          "name": "Latin Fresh",
-          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Bata Bata 2",
-      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -1407,6 +1319,186 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
+        "name": "La Historia Live",
+        "url": "https://open.spotify.com/album/3syIceuWeZKFbuVubOsS4W"
+      },
+      "artists": [
+        {
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Glory",
+          "url": "https://open.spotify.com/artist/17WbRGqXOt3Garv9CERTGk"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Morena - Re-Mix",
+      "url": "https://open.spotify.com/track/1ZE19OuOnqsMFB6V9Gtzcy"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Mas Flow 2 (International Version)",
+        "url": "https://open.spotify.com/album/06wangppKC5zu161TzLrnB"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/1hUxy4xuXlzRENHPg5Qqdb"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Frikitona - Single",
+        "url": "https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 183182,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "The Underdog - El Subestimado",
+        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
+      },
+      "artists": [
+        {
+          "name": "Tego Calderon",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "Cuando Baila Reggaeton",
+      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+        }
+      ],
+      "duration_ms": 248406,
+      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
+      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        },
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Soy Igual Que T\u00fa (feat. Toby Love)",
+      "url": "https://open.spotify.com/track/4Zil8ro7fhQGVYXl2YYkO2"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Barrio Fino En Directo",
+        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "Machucando",
+      "url": "https://open.spotify.com/track/3FWAWggrMlMaSuBrf5cgKP"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "La Revolucion (Deluxe)",
+        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/6Zdjh0uRQPt22BPckJgvEj"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "El Principe",
+        "url": "https://open.spotify.com/album/0D40hQgz3Czyl4LJ7B7IBA"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Prrrum",
+      "url": "https://open.spotify.com/track/0INWoq84kaWrJN1AxiOrtb"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
       },
@@ -1431,26 +1523,6 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Duro y Suave",
-        "url": "https://open.spotify.com/album/7as9B0RBSX3cxUIs1MlZ4V"
-      },
-      "artists": [
-        {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Duro y Suave",
-      "url": "https://open.spotify.com/track/31M5m42C3EGlbydf9XB5to"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
         "name": "Motivando a la Yal",
         "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
       },
@@ -1467,114 +1539,102 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Barrio Fino En Directo",
-        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
+        "name": "Alex Gargolas Greatest Hits",
+        "url": "https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Soy Una Gargola",
+      "url": "https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Ginza (Remix)",
+        "url": "https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 212986,
-      "name": "Gangsta Zone",
-      "url": "https://open.spotify.com/track/3h99fBGkTn3J2NsrYU8rcO"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Los Vaqueros Wild Wild Mixes",
-        "url": "https://open.spotify.com/album/4Yufs8sW6tHUNvkDAVTaYn"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/5n9iuiNBT8jYPJOPfKWjWU"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 235311,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/0qtmSv1LAqAD63ApakCUuz"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Perreo Intenso",
-        "url": "https://open.spotify.com/album/7aWd8ZBLV48NfdNjwIn0Jv"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
           "name": "Farruko",
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Alejandro \"Mosty\" Pati\u00f1o",
+          "url": "https://open.spotify.com/artist/4iDI9qh9SzcTm6vZeTT258"
         }
       ],
-      "duration_ms": 239586,
-      "name": "Perreo Intenso",
-      "url": "https://open.spotify.com/track/4B2kFp1ulVz1FgwVYSShoj"
+      "duration_ms": 373960,
+      "name": "Ginza - Remix",
+      "url": "https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo"
     },
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Mas Flow",
-        "url": "https://open.spotify.com/album/7pKwdrN5uGoBTDNuVLdzPB"
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
       },
       "artists": [
         {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
         }
       ],
-      "duration_ms": 242173,
-      "name": "Metele Sazon",
-      "url": "https://open.spotify.com/track/4UkEnTEStVzuPoRB27sK4J"
+      "duration_ms": 188320,
+      "name": "Sol, Playa Y Arena",
+      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
     },
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+        "name": "Plan Calle",
+        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
         }
       ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+      "duration_ms": 208840,
+      "name": "Bata Bata 2",
+      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -1639,24 +1699,8 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Dale Don Dale",
-      "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Rompe (Remix)",
-        "url": "https://open.spotify.com/album/1hFtPU825efQUyjjHm6KAV"
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
       },
       "artists": [
         {
@@ -1664,17 +1708,61 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "Lloyd Banks",
-          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+          "name": "Wise",
+          "url": "https://open.spotify.com/artist/3BQAQ5pSX01pjomONRW4ty"
         },
         {
-          "name": "Young Buck",
-          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Hector",
+          "url": "https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2"
+        },
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/6hMDj5bpYMfvbrOKsS4iGE"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Franco",
+          "url": "https://open.spotify.com/artist/1ErelRaPeFwx0n96WeJJDi"
+        },
+        {
+          "name": "Alexi",
+          "url": "https://open.spotify.com/artist/1i9BKPKQwYXkNkEliz44D5"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Rompe - Remix",
-      "url": "https://open.spotify.com/track/0O5HIFPenTeh8oj1xRI5Hx"
+      "duration_ms": 376026,
+      "name": "Royal Rumble (Se Van)",
+      "url": "https://open.spotify.com/track/0UAGQMu69SmPBLSVNVK2D0"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Reggaeton Rulers: Los Que Ponen",
+        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Sensacion Del Bloque",
+      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -1699,26 +1787,46 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
       },
       "artists": [
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         }
       ],
-      "duration_ms": 305333,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+      "duration_ms": 235311,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/0qtmSv1LAqAD63ApakCUuz"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Perreo Intenso",
+        "url": "https://open.spotify.com/album/7aWd8ZBLV48NfdNjwIn0Jv"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Perreo Intenso",
+      "url": "https://open.spotify.com/track/4B2kFp1ulVz1FgwVYSShoj"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -1747,230 +1855,46 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
       },
       "artists": [
         {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Sol, Playa Y Arena",
-      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/6e4BOXIVdPs9b5XvQzCjth"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "Llam\u00e9 Pa' Verte (Bailando Sexy)",
-      "url": "https://open.spotify.com/track/2r7g6pdJiKexCTd1zar2H6"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "The Underdog - El Subestimado",
-        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
-      },
-      "artists": [
-        {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
         },
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "Cuando Baila Reggaeton",
-      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Alex Gargolas Greatest Hits",
-        "url": "https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv"
-      },
-      "artists": [
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Soy Una Gargola",
-      "url": "https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Contra La Pared",
-        "url": "https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
           "name": "J Balvin",
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Contra La Pared",
-      "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
+      "duration_ms": 305333,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
     },
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Wisin Y Yandel Presentan: Los Vaqueros",
-        "url": "https://open.spotify.com/album/3p74sa1tzoEASM6PyMq69t"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Quizas",
-      "url": "https://open.spotify.com/track/0nDI66E3QkCqeykXMMBo7w"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im"
+        "name": "Barrio Fino En Directo",
+        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
       },
       "artists": [
         {
           "name": "Daddy Yankee",
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Masterpiece : Commemorative Edition",
-        "url": "https://open.spotify.com/album/14bjkNMkckykFN7Sy8G8gY"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        },
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Down (Remix)",
-      "url": "https://open.spotify.com/track/53kn9xq31Hfrqfc3T7JYTT"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        },
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Soy Igual Que T\u00fa (feat. Toby Love)",
-      "url": "https://open.spotify.com/track/4Zil8ro7fhQGVYXl2YYkO2"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "Ginza (Remix)",
-        "url": "https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Alejandro \"Mosty\" Pati\u00f1o",
-          "url": "https://open.spotify.com/artist/4iDI9qh9SzcTm6vZeTT258"
-        }
-      ],
-      "duration_ms": 373960,
-      "name": "Ginza - Remix",
-      "url": "https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo"
-    },
-    {
-      "added_at": "2021-12-09 23:06:29",
-      "album": {
-        "name": "El Disco De Reggaeton 04",
-        "url": "https://open.spotify.com/album/6EREkQF1kzKOJJeBaXQDwK"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Yo Te Quiero",
-      "url": "https://open.spotify.com/track/67bG5H7iT26q8ADWsfVWQM"
+      "duration_ms": 212986,
+      "name": "Gangsta Zone",
+      "url": "https://open.spotify.com/track/3h99fBGkTn3J2NsrYU8rcO"
     },
     {
       "added_at": "2021-12-09 23:06:29",
@@ -1995,8 +1919,44 @@
     {
       "added_at": "2021-12-09 23:06:29",
       "album": {
-        "name": "Flow La Discoteca Special Edition",
-        "url": "https://open.spotify.com/album/0O7WZyeOifrJq3nExwSPE4"
+        "name": "Wisin Y Yandel Presentan: Los Vaqueros",
+        "url": "https://open.spotify.com/album/5gHKtewt6CtuGLiAj2m3XC"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Nadie Como Tu",
+      "url": "https://open.spotify.com/track/3E2jVBZU7fjRNB0m3PrrhF"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "BRB Be Right Back",
+        "url": "https://open.spotify.com/album/4UH0KVGha7Ni3ZHIACGPCH"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Mera",
+      "url": "https://open.spotify.com/track/4etu1vf1o3YYNUN0z4HiPs"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Mi Trayectoria",
+        "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
       },
       "artists": [
         {
@@ -2004,9 +1964,89 @@
           "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
         }
       ],
-      "duration_ms": 212733,
-      "name": "Noche de Travesura",
-      "url": "https://open.spotify.com/track/6ODIW5KyJKtXY2rOuXv9WW"
+      "duration_ms": 218106,
+      "name": "Tu Quieres Duro",
+      "url": "https://open.spotify.com/track/5QpUAyROQsLtNLPY5TJcFv"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Dale Don Dale",
+      "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "Contra La Pared",
+        "url": "https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Contra La Pared",
+      "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "La Escuela",
+        "url": "https://open.spotify.com/album/7jcuqVDIb9BYElfLRxjy3h"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Mala Suerte",
+      "url": "https://open.spotify.com/track/5ot5K8NQtr8fCmhCxh7gmm"
+    },
+    {
+      "added_at": "2021-12-09 23:06:29",
+      "album": {
+        "name": "MERA (with Dalex & \u00c1lvaro D\u00edaz)",
+        "url": "https://open.spotify.com/album/1jSaGmaAvSKgMa4whI89Cx"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 188862,
+      "name": "MERA (with Dalex & \u00c1lvaro D\u00edaz)",
+      "url": "https://open.spotify.com/track/3mr13zNWprAzYYY0RinBCp"
     }
   ],
   "unique_name": "Perreo Workout",

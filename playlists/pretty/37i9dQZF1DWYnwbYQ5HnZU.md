@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify Fan Favorites from the last few years\.  Artist: Chris Janson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,969,525 likes - 106 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970,015 likes - 106 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

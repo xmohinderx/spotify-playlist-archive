@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > A collection of recent tracks from the world of black and dark metal\. Cover: Abbath
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,446 likes - 80 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,503 likes - 80 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > new look, new vibe, same playlist you love.
 
-322 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+323 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2022-02-15 | 2022-03-25 |
 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 | 2022-03-24 |  |
 | [Serotonin](https://open.spotify.com/track/1FUQZYqWRVL8eaQd7uENlz) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Serotonin](https://open.spotify.com/album/01rTHg02Cbbc15aADfi96I) | 2:31 | 2022-01-30 | 2022-02-09 |
+| [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 | 2022-05-05 |  |
 | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Bory300](https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH) | [Shake It \(feat\. Cardi B, Dougie B & Bory300\)](https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z) | 1:58 | 2022-04-18 |  |
 | [She](https://open.spotify.com/track/5WzfCu5fhgm7jv896EN1Md) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Goblin](https://open.spotify.com/album/3CxknRPQLbOJRwQrNekNyU) | 4:13 | 2022-03-13 |  |
 | [She Wants My Money](https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:13 | 2022-01-20 | 2022-02-13 |

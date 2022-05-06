@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 
 > Special songs for mothers of all kinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,423 likes - 58 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,474 likes - 58 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

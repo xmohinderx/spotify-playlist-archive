@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: N.I.N.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,358 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,449 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Matemática](https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:14 |
 | 2 | [Sequestro](https://open.spotify.com/track/7gGRwexw0Zy8ejSAdy5lWx) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sequestro](https://open.spotify.com/album/5rq1soVKaDW0yTvFb5s23N) | 2:52 |
-| 3 | [Aliança](https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Coração Terra de Ninguém](https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy) | 5:18 |
+| 3 | [Aliança](https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Coração Terra de Ninguém](https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy) | 5:18 |
 | 4 | [Filho do Dono](https://open.spotify.com/track/40TTpkt2jMUr9wDeZPcQD6) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [CalliCartel](https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq) | [É o Trem!](https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx) | 3:32 |
 | 5 | [Pitbull](https://open.spotify.com/track/4BbZUFzlbx4mVR1r0Z35x2) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Pitbull](https://open.spotify.com/album/6EwvwqxByg8Ll9VJmeqBcc) | 2:50 |
 | 6 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 |

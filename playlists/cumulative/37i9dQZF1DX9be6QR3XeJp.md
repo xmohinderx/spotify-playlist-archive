@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: ShaSimone
+> Discover your new favourite artists\. Cover: Barry Can't Swim
 
-106 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+107 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2022-02-18 |  |
 | [FAKE](https://open.spotify.com/track/3eImUEjfyVt2YtkyU6PNhB) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [FAKE](https://open.spotify.com/album/4jiGlNrQLme80dP2lS3bzg) | 3:35 | 2022-02-18 |  |
 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 | 2022-02-18 |  |
+| [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 | 2022-05-06 |  |
 | [For You](https://open.spotify.com/track/2MRo59IW5O13nu0BIBqhW0) | [India Jordan](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [For You](https://open.spotify.com/album/5Gna2Z9JhoRjYR2CmIBB2r) | 5:37 | 2022-02-18 |  |
 | [Glue](https://open.spotify.com/track/2xAL8CyACab3SzV2oEwjJq) | [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Glue](https://open.spotify.com/album/5ezdZ1R3DnBczev00GboAK) | 2:29 | 2022-02-18 |  |
 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 | 2022-02-18 |  |

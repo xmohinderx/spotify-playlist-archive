@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Ibeyi
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,394 likes - 47 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,418 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sister 2 Sister](https://open.spotify.com/track/4In5YLF0CjSRIvTqD7k0Mg) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Sister 2 Sister](https://open.spotify.com/album/05laAXb0YBC13y2z375EZj) | 3:15 |
+| 1 | [Sangoma](https://open.spotify.com/track/729WnoXA7mkkO2prQoXSvI) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 2:45 |
 | 2 | [Clit Is Good](https://open.spotify.com/track/162VxrGfWcY4uE0LW6jbeQ) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Clit Is Good](https://open.spotify.com/album/1MzcGJruvNRVX49q5ZR9wt) | 3:01 |
 | 3 | [Ways of Dreaming](https://open.spotify.com/track/1jkD185V875tmtftU4iIGu) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [Ways of Dreaming](https://open.spotify.com/album/7gXGdzmzPopXfwRwrOP2iQ) | 3:28 |
 | 4 | [Horizon](https://open.spotify.com/track/0IhP65g9X82qPRb2bYGunO) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Horizon](https://open.spotify.com/album/3J9bxDC6kdRXJDopIvb9cQ) | 3:18 |
@@ -55,5 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 45 | [Quiproquo](https://open.spotify.com/track/3qLnoHeoYuBI8279bsbN0x) | [Jade](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [Quiproquo](https://open.spotify.com/album/0MuO5NKm5kU9INX9tKEJAr) | 2:41 |
 | 46 | [jtm de ouf](https://open.spotify.com/track/5RETH5olIVxF5otLezKqbh) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [jtm de ouf](https://open.spotify.com/album/4RspWUPtIKPBXU4WzwEho2) | 3:11 |
 | 47 | [Like A Mantra](https://open.spotify.com/track/1oi4YveFA1R1rzpg3PjMrr) | [Romane Santarelli](https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN) | [Like A Mantra](https://open.spotify.com/album/7634WuMZaOeHKmj7AlKThD) | 4:15 |
+| 48 | [Sister 2 Sister](https://open.spotify.com/track/4In5YLF0CjSRIvTqD7k0Mg) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Sister 2 Sister](https://open.spotify.com/album/05laAXb0YBC13y2z375EZj) | 3:15 |
+| 49 | [Belle pour une renoie](https://open.spotify.com/track/14UChneY1Dj9AqlhaxGxh6) | [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [Belle pour une renoie](https://open.spotify.com/album/3jOKcUX2Bi1R2kKD5tURNB) | 2:27 |
 
-Snapshot ID: `MTY1MTYxNTIwMCwwMDAwMDA3NTAwMDAwMTgwOGJlZmYzNzAwMDAwMDE4MDVmZTJmYzBi`
+Snapshot ID: `MTY1MTc4ODA2MCwwMDAwMDA3NjAwMDAwMTgwOTYzZDk1ZmEwMDAwMDE4MDVmZTJmYzBi`

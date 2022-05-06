@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-797 songs - 1 day 16 hr 35 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
+798 songs - 1 day 16 hr 38 min - [published](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [A Holly Jolly Christmas \- Single Version](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-24 | 2021-12-27 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-17 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-16 |  |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-05 |  |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-10-01 |  |
 | [Adieu](https://open.spotify.com/track/56SLMIzWKrEOWIQ5LCzKXV) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:38 | 2022-04-30 | 2022-05-05 |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-03-27\* | 2021-05-16 |
@@ -633,7 +634,7 @@
 | [Schmetterlinge](https://open.spotify.com/track/6xIhI4a3oTB6FKkIYQWBTs) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schmetterlinge](https://open.spotify.com/album/64CHbz2CiY6qBPFiIHx86n) | 2:27 | 2022-03-14 | 2022-03-27 |
 | [Schockstarre](https://open.spotify.com/track/5iddrTFG7zJ4g9UkgpPxJv) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Schockstarre](https://open.spotify.com/album/6cZp80lmjpc5NnIWil623j) | 2:38 | 2021-11-28 | 2021-12-04 |
 | [Schwarz](https://open.spotify.com/track/0XpTuvT4Yueddiv20w6M9a) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Schwarz](https://open.spotify.com/album/2Kjz72sZidXCPuUMxel6ed) | 2:36 | 2021-07-04 | 2021-07-11 |
-| [Schwarz](https://open.spotify.com/track/2UK4qw712yzFh8vYYJGv2B) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:18 | 2022-04-30 |  |
+| [Schwarz](https://open.spotify.com/track/2UK4qw712yzFh8vYYJGv2B) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:18 | 2022-04-30 | 2022-05-06 |
 | [Schwarz Rot Gold](https://open.spotify.com/track/4oCxSv2Gjk8Ac6RtuiJBMl) | [Sun Diego](https://open.spotify.com/artist/3TqfPVt0HX8GCzNOOjDcum), [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y), [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [Yellow Bar Mitzvah](https://open.spotify.com/album/2zNwPb6Zd8VAyZMghkNxLN) | 3:34 | 2022-04-23 | 2022-04-25 |
 | [Schwarzer Jaguar](https://open.spotify.com/track/4ibRthHhVXBMnXox4lNB42) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Gallo Nero](https://open.spotify.com/artist/7impXYp8gHr8curMVe60gR) | [Zukunft 1 & 2](https://open.spotify.com/album/6npdmy45COickvaNIV5obJ) | 2:43 | 2021-10-03 | 2021-10-04 |
 | [Scusa](https://open.spotify.com/track/6n4CUJdkTLQHDvqd4i79r7) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 2:39 | 2021-07-18 | 2021-07-25 |

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 235053,
       "name": "2016",
       "url": "https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 263120,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 193517,
       "name": "Girls In My Hometown",
       "url": "https://open.spotify.com/track/79Mc3PPC4D5TxqyTt6KRbU"
@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "album": {
         "name": "thirty one",
         "url": "https://open.spotify.com/album/7zD1Xp405071FTXmxySeD9"
       },
@@ -610,6 +628,24 @@
     },
     {
       "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284706,
+      "name": "Just a Dream",
+      "url": "https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L"
+    },
+    {
+      "album": {
         "name": "Just About Over You",
         "url": "https://open.spotify.com/album/22riN0U2QIHFdqKv9uzBK0"
       },
@@ -661,6 +697,24 @@
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
+    },
+    {
+      "album": {
+        "name": "Brett Young",
+        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp"
     },
     {
       "album": {
@@ -805,7 +859,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 236626,
       "name": "The House That Built Me",
       "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
@@ -1029,6 +1083,24 @@
       "duration_ms": 243898,
       "name": "Where You Are - Acoustic",
       "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
+    },
+    {
+      "album": {
+        "name": "Whiskey Sour",
+        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209740,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
     },
     {
       "album": {

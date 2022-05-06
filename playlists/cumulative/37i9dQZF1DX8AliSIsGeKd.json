@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best new electronic music from Electronica to Techno. Cover: Charlotte de Witte",
+  "description": "The best new electronic music from Electronica to Techno. Cover: Nicon\u00e9",
   "name": "Electronic Rising",
   "published_playlist_ids": [
     "1PJKlmQboCNGXvNYEgYkxk"
@@ -59,10 +59,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 231980,
       "name": "A Time To",
       "url": "https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME"
+    },
+    {
+      "album": {
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
       "album": {
@@ -191,7 +209,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 278710,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/3YEofHNLCwtG0Xg6e9AfC6"
@@ -249,7 +267,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 278000,
       "name": "Am Kanal",
       "url": "https://open.spotify.com/track/2aMCCgr3oZWHnKbNBOPas0"
@@ -289,10 +307,32 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 447384,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/3N0Bk8zkKxuGHQslbFMmEk"
+    },
+    {
+      "album": {
+        "name": "LNOE TEN, Vol. II",
+        "url": "https://open.spotify.com/album/5NtdTVdUFfJMdgfIqcDS37"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        },
+        {
+          "name": "Alex Banks",
+          "url": "https://open.spotify.com/artist/2eQoWrMAVomftJQMFnZ6iE"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233418,
+      "name": "Australia - Edit",
+      "url": "https://open.spotify.com/track/2CFRljcEG8JR4JpgP4A56X"
     },
     {
       "album": {
@@ -314,6 +354,28 @@
     },
     {
       "album": {
+        "name": "Awa Power (Henri Bergmann Remix)",
+        "url": "https://open.spotify.com/album/1FWnEEMzxlFY61oSvrWJfF"
+      },
+      "artists": [
+        {
+          "name": "Hardt Antoine",
+          "url": "https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA"
+        },
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305973,
+      "name": "Awa Power (Henri Bergmann Remix)",
+      "url": "https://open.spotify.com/track/0tqJYaO7R20rv11dzrJ6EN"
+    },
+    {
+      "album": {
         "name": "B.o.y",
         "url": "https://open.spotify.com/album/6wtqudX80xIX6fJEa1GnzR"
       },
@@ -325,10 +387,32 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 326077,
       "name": "B.o.y",
       "url": "https://open.spotify.com/track/01qeyXGFwHabAXHkzVGQs2"
+    },
+    {
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252805,
+      "name": "Baby, We're Ascending - Edit",
+      "url": "https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT"
     },
     {
       "album": {
@@ -383,10 +467,54 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 328500,
       "name": "Beverly Chills - Stephan Zovsky Edit",
       "url": "https://open.spotify.com/track/1rclnt1k8pgGnMyN415mOl"
+    },
+    {
+      "album": {
+        "name": "Blaze",
+        "url": "https://open.spotify.com/album/6zeFKJE1JNr9aZ5c6Y5lmd"
+      },
+      "artists": [
+        {
+          "name": "DJ T.",
+          "url": "https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx"
+        },
+        {
+          "name": "Simon Sheldon",
+          "url": "https://open.spotify.com/artist/7gSCcResgnyJoooAhjQCzG"
+        },
+        {
+          "name": "Loew",
+          "url": "https://open.spotify.com/artist/7Baf5stNqDGIu1lqElNkp4"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297895,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/2QRLlpCqmtFiDnHDqU9NrW"
+    },
+    {
+      "album": {
+        "name": "Blind Man's Labrynth",
+        "url": "https://open.spotify.com/album/5RUnOeEwxOvx3ASntUuwxa"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376000,
+      "name": "Blind Man's Labrynth",
+      "url": "https://open.spotify.com/track/7hJzN5ElQldceuUx2PDJCI"
     },
     {
       "album": {
@@ -419,7 +547,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 363934,
       "name": "Bouzouki",
       "url": "https://open.spotify.com/track/4S5Qk3Q2u3H6f47bWexu7D"
@@ -542,6 +670,32 @@
     },
     {
       "album": {
+        "name": "Control (Remix)",
+        "url": "https://open.spotify.com/album/7lWGicyFxvzR1Ep2nYR9y2"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "DJ Rush",
+          "url": "https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244545,
+      "name": "Control - Remix",
+      "url": "https://open.spotify.com/track/4Elu1ULm0zAMqP0hsRvQtm"
+    },
+    {
+      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/1Bdu74T7ZEJrVF9LRYCucr"
       },
@@ -561,6 +715,24 @@
       "duration_ms": 270769,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/6xjNHQIUKsFufyfeBz48GK"
+    },
+    {
+      "album": {
+        "name": "Crystal 22",
+        "url": "https://open.spotify.com/album/5inYWMKsAxMDmArnQA8Qe1"
+      },
+      "artists": [
+        {
+          "name": "Graumann",
+          "url": "https://open.spotify.com/artist/32wi0zvRMBhVnuecqYUSr1"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436572,
+      "name": "Crystal 22 - Original Mix",
+      "url": "https://open.spotify.com/track/5KkMMt52tx8nBOE7Pbgxux"
     },
     {
       "album": {
@@ -684,6 +856,24 @@
     },
     {
       "album": {
+        "name": "Drawn Rain",
+        "url": "https://open.spotify.com/album/2rxF2SPg87eTHHTD3jtT2f"
+      },
+      "artists": [
+        {
+          "name": "S.ONE",
+          "url": "https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415755,
+      "name": "Drawn Rain",
+      "url": "https://open.spotify.com/track/1Xj9iLr18pAB0RiWwkX3hf"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
       },
@@ -699,6 +889,24 @@
       "duration_ms": 192476,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot"
     },
     {
       "album": {
@@ -786,6 +994,24 @@
     },
     {
       "album": {
+        "name": "Epoche",
+        "url": "https://open.spotify.com/album/2Md53Ho2kXNMATFL8pK3go"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386034,
+      "name": "Epoche",
+      "url": "https://open.spotify.com/track/5Gxh6WPQVqsfESePvpHsDf"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
       },
@@ -815,7 +1041,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 208444,
       "name": "Fire Hell and Holy Water",
       "url": "https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk"
@@ -855,7 +1081,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 204736,
       "name": "For Now",
       "url": "https://open.spotify.com/track/0ujDyMKa4yquONPNdPfZgU"
@@ -898,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/7vW4gBsax9nfeS8r5ZWeSp"
+      },
+      "artists": [
+        {
+          "name": "Mario Ochoa",
+          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385454,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/0oKYqOAuzGrLbakRHMbFnk"
+    },
+    {
+      "album": {
         "name": "Get Down To Work",
         "url": "https://open.spotify.com/album/0FgvJnn2qlTjxud4DMu4mO"
       },
@@ -913,7 +1157,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 171750,
       "name": "Get Down To Work",
       "url": "https://open.spotify.com/track/2YHB3ybypVQQrbaVsKV2jO"
@@ -982,7 +1226,7 @@
     },
     {
       "album": {
-        "name": "Hiraeth",
+        "name": "Hiraeth (feat. Kim Van Loo)",
         "url": "https://open.spotify.com/album/7IgiAU0pK6VagZW4SRPe4A"
       },
       "artists": [
@@ -998,7 +1242,7 @@
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 299533,
+      "duration_ms": 299400,
       "name": "Hiraeth (feat. Kim Van Loo)",
       "url": "https://open.spotify.com/track/71TdE7ggzJGo0kmdS8eJhC"
     },
@@ -1015,7 +1259,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 217104,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV"
@@ -1045,6 +1289,50 @@
       "duration_ms": 185696,
       "name": "Hold Tight (feat. Darla Jade)",
       "url": "https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us"
+    },
+    {
+      "album": {
+        "name": "Home (Mind Against Remix)",
+        "url": "https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+        },
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437647,
+      "name": "Home - Mind Against Remix",
+      "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
+    },
+    {
+      "album": {
+        "name": "Horizon in Your Eyes",
+        "url": "https://open.spotify.com/album/2bwA0eBnbsNcy3VV4NkauR"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234960,
+      "name": "Horizon in Your Eyes",
+      "url": "https://open.spotify.com/track/29xOzz6zS14b2rHIpoCR9I"
     },
     {
       "album": {
@@ -1143,7 +1431,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 352195,
       "name": "Inari",
       "url": "https://open.spotify.com/track/3tfLqAOwV4gTht3tE3UmQk"
@@ -1289,7 +1577,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 225494,
       "name": "LET\u2019S DO IT AGAIN - Radio Edit",
       "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
@@ -1311,6 +1599,24 @@
       "duration_ms": 386506,
       "name": "Libertas",
       "url": "https://open.spotify.com/track/4hiKwWocPmJe06qhGHemgI"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7rEnt8hACs4MheXnzBJFIt"
+      },
+      "artists": [
+        {
+          "name": "5DUST",
+          "url": "https://open.spotify.com/artist/4b0VDiiIl8ZT1vdzpsvWb1"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255245,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3rBi5p8tSMbtzqtQVkTi2L"
     },
     {
       "album": {
@@ -1347,7 +1653,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 498893,
       "name": "Mas Profundo",
       "url": "https://open.spotify.com/track/2o09QAjkmeZolqCLDN9WBO"
@@ -1424,6 +1730,60 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc"
+    },
+    {
+      "album": {
+        "name": "Modus Operandi",
+        "url": "https://open.spotify.com/album/0KSjJRKyzPTT1msfbEonPl"
+      },
+      "artists": [
+        {
+          "name": "GIGEE",
+          "url": "https://open.spotify.com/artist/7mqebOCOql0RKtn1bGUdOd"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435483,
+      "name": "Modus Operandi",
+      "url": "https://open.spotify.com/track/5kGJwbJ0zECLqZVUY2M0zX"
+    },
+    {
+      "album": {
+        "name": "Firestorm",
+        "url": "https://open.spotify.com/album/4OQwkJa6EB9QUxV8eSEUKH"
+      },
+      "artists": [
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460591,
+      "name": "Momentary",
+      "url": "https://open.spotify.com/track/7w1XEGMMKGuzPsXO3zU9ZT"
+    },
+    {
+      "album": {
         "name": "MORE LOVE",
         "url": "https://open.spotify.com/album/1gK6Yfs4kPhbHn1JvAGMfT"
       },
@@ -1460,6 +1820,24 @@
     },
     {
       "album": {
+        "name": "Namtar",
+        "url": "https://open.spotify.com/album/0LEttMZzw1Ub66CONc4DtW"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426666,
+      "name": "Namtar",
+      "url": "https://open.spotify.com/track/2Xfcb3UDq4osSNXD4tcUtt"
+    },
+    {
+      "album": {
         "name": "Need To Feel Loved (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
       },
@@ -1479,7 +1857,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 224467,
       "name": "Need To Feel Loved - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
@@ -1533,7 +1911,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 515036,
       "name": "Noja",
       "url": "https://open.spotify.com/track/7yRGxtFHvLoY4zux9m1wKg"
@@ -1653,7 +2031,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 226014,
       "name": "Owls - Edit",
       "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
@@ -1693,7 +2071,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 241769,
       "name": "Planet F",
       "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
@@ -1719,10 +2097,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 363000,
       "name": "Plenty Of Nothing - Olivier Weiter Remix",
       "url": "https://open.spotify.com/track/0qu7FhmTVlYrig8Sxka1g7"
+    },
+    {
+      "album": {
+        "name": "PSYCHODYSKO",
+        "url": "https://open.spotify.com/album/2lFstCwn0jCvKn0sR2TQ2c"
+      },
+      "artists": [
+        {
+          "name": "Nicon\u00e9",
+          "url": "https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324705,
+      "name": "PSYCHODYSKO",
+      "url": "https://open.spotify.com/track/6SUhqjKnzoD6NapngfSNEF"
     },
     {
       "album": {
@@ -1784,6 +2180,28 @@
     },
     {
       "album": {
+        "name": "Roots (Mollono.Bass Remix)",
+        "url": "https://open.spotify.com/album/3udfGv6HV1jEQDSjtAouoF"
+      },
+      "artists": [
+        {
+          "name": "Dole & Kom",
+          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
+        },
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319915,
+      "name": "Roots - Mollono.Bass Remix",
+      "url": "https://open.spotify.com/track/1Qhwfl0AsaHzZWkO66ezWS"
+    },
+    {
+      "album": {
         "name": "Sabotage EP",
         "url": "https://open.spotify.com/album/48Zh6P4xu8LPMTdcqvbB9o"
       },
@@ -1795,7 +2213,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 323321,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/6Jq60qpC6EeD0tUeRbPM2m"
@@ -1879,10 +2297,28 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 330393,
       "name": "Slow Wave - The Blaze Remix",
       "url": "https://open.spotify.com/track/5QSApYuBclglDXd5QVx5cA"
+    },
+    {
+      "album": {
+        "name": "Blue Horizon",
+        "url": "https://open.spotify.com/album/08ITVuW6fxTNgynQE0Zz85"
+      },
+      "artists": [
+        {
+          "name": "Jono Stephenson",
+          "url": "https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366048,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6UgBaEXuexQCA0yNmmrw9W"
     },
     {
       "album": {
@@ -1988,6 +2424,28 @@
     },
     {
       "album": {
+        "name": "Speed Of Sound",
+        "url": "https://open.spotify.com/album/0saoiEzAyhQ3ihzzGflYnW"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431419,
+      "name": "Speed of Sound",
+      "url": "https://open.spotify.com/track/4UFmK1Cvam4YaAoISiyUJG"
+    },
+    {
+      "album": {
         "name": "Speed Trials On Acid (feat. Dan Diamond)",
         "url": "https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR"
       },
@@ -2025,7 +2483,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 387266,
       "name": "Splash",
       "url": "https://open.spotify.com/track/5f45g0NAjeNj2a13V6EHtZ"
@@ -2091,10 +2549,28 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 381278,
       "name": "Super Stroke",
       "url": "https://open.spotify.com/track/7mWNjVmAZt7UWZbFJEFFgc"
+    },
+    {
+      "album": {
+        "name": "Heist Mastercuts EP",
+        "url": "https://open.spotify.com/album/7y9QMsMUqT79jodTsdrhUf"
+      },
+      "artists": [
+        {
+          "name": "Orlando Voorn",
+          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337151,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/6vVl5QZF1qR1a5ijjiEkch"
     },
     {
       "album": {
@@ -2127,7 +2603,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 286933,
       "name": "The Brain",
       "url": "https://open.spotify.com/track/4I74YwKvYBy2xMBrxWfDXZ"
@@ -2145,10 +2621,32 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 187242,
       "name": "The East",
       "url": "https://open.spotify.com/track/3f24OX8Zk6JAbZJbpbXd6U"
+    },
+    {
+      "album": {
+        "name": "The Gallery",
+        "url": "https://open.spotify.com/album/7BRYajbod0TYQNvVxVpIX7"
+      },
+      "artists": [
+        {
+          "name": "Ost & Kjex",
+          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
+        },
+        {
+          "name": "Whalesharkattacks",
+          "url": "https://open.spotify.com/artist/30OJnpvrGlgy5EAtKRBPpJ"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341513,
+      "name": "The Gallery",
+      "url": "https://open.spotify.com/track/3aPnelfLDaNxUE8oj5ZVDF"
     },
     {
       "album": {
@@ -2181,7 +2679,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 395000,
       "name": "The Last Dance",
       "url": "https://open.spotify.com/track/7gpBSW6yukzBkdrpjeAB5E"
@@ -2203,7 +2701,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 394104,
       "name": "The Light Inside",
       "url": "https://open.spotify.com/track/3m7B6VD9igAgNSeCtBmsFE"
@@ -2287,7 +2785,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 440655,
       "name": "To Be Written - Sasha Carassi Remix",
       "url": "https://open.spotify.com/track/5IrmAVJqbwIT0K4R47cH1S"
@@ -2349,6 +2847,24 @@
       "duration_ms": 432976,
       "name": "Tommu",
       "url": "https://open.spotify.com/track/5vcdi0SudVDj9mDM1G86ip"
+    },
+    {
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/3RCWfFOf8PobmnA4neSTpJ"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419016,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/027RooXxvZGn0WEkEj8d6s"
     },
     {
       "album": {
@@ -2475,7 +2991,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 412970,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/77PfbIcVaRwTea1MBiN1BS"
@@ -2540,6 +3056,42 @@
     },
     {
       "album": {
+        "name": "Viento, Color y Fuego",
+        "url": "https://open.spotify.com/album/3KKtEB4O2tvuTAav0x4T0n"
+      },
+      "artists": [
+        {
+          "name": "Wally Lopez",
+          "url": "https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194083,
+      "name": "Viento, Color y Fuego",
+      "url": "https://open.spotify.com/track/0FuQSbeuQkpwYtV2ZLnWpH"
+    },
+    {
+      "album": {
+        "name": "Visionaire",
+        "url": "https://open.spotify.com/album/0cdOTswaFmWaGLvWYsoEuA"
+      },
+      "artists": [
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409390,
+      "name": "Visionaire",
+      "url": "https://open.spotify.com/track/080Ta6y45xccSK0q9Hct9d"
+    },
+    {
+      "album": {
         "name": "Voicebox EP",
         "url": "https://open.spotify.com/album/5BfzNOh8U6VH2hXpasVw9t"
       },
@@ -2581,7 +3133,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 190942,
       "name": "Voices Above",
       "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
@@ -2657,6 +3209,28 @@
       "duration_ms": 204637,
       "name": "Wildlands",
       "url": "https://open.spotify.com/track/3hlwSv1rRVguTBGRH813Pw"
+    },
+    {
+      "album": {
+        "name": "Wildside",
+        "url": "https://open.spotify.com/album/3RRhOM6a9IzhKjrIKTHn0J"
+      },
+      "artists": [
+        {
+          "name": "Yousef",
+          "url": "https://open.spotify.com/artist/1HsWNPlqCBv9AwCFBDIEKF"
+        },
+        {
+          "name": "Penny F.",
+          "url": "https://open.spotify.com/artist/3Dh740vRUlju7vg98N3Rkd"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249448,
+      "name": "Wildside",
+      "url": "https://open.spotify.com/track/5q8imvnixEYjK2YVGOaKE2"
     },
     {
       "album": {

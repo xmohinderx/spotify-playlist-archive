@@ -472,6 +472,28 @@
     },
     {
       "album": {
+        "name": "Gal Sun",
+        "url": "https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82"
+      },
+      "artists": [
+        {
+          "name": "Jaz Dhami",
+          "url": "https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213346,
+      "name": "Gal Sun",
+      "url": "https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6"
+    },
+    {
+      "album": {
         "name": "Jawaani Jaaneman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR"
       },

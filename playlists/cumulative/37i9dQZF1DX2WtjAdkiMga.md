@@ -4,7 +4,7 @@
 
 > Soft piano versions of jazz classics to lull your baby to sleep.
 
-70 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+71 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [The Song Is You](https://open.spotify.com/track/25lDslLJo5psoMvb2y1tfJ) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [The Song Is You](https://open.spotify.com/album/55IjhkZDjtWNC181obRV0a) | 4:56 | 2022-04-12 |  |
 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2022-04-12 |  |
 | [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2022-04-12 |  |
+| [Till There Was You](https://open.spotify.com/track/2UDtRV70lU0JbFNLeznfOJ) | [Julian Byrd](https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC) | [Till There Was You](https://open.spotify.com/album/5f1XIM1Hp0TiZEC1H3UBRV) | 1:47 | 2022-05-05 |  |
 | [Time After Time](https://open.spotify.com/track/0MljxuIuG5VkNEhZy0Wn1j) | [Lester Rosin](https://open.spotify.com/artist/0A2nXJBdV4EkQ7fiQPkELE) | [You Stepped Out of a Dream](https://open.spotify.com/album/0xuRscRx1FotSIRc6JeKTM) | 2:17 | 2022-04-12 |  |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-04-12 |  |
 | [What a Difference a Day Made](https://open.spotify.com/track/4CameIqIIPcQzNgIY4iCXi) | [Jazz for Babies](https://open.spotify.com/artist/6HTqDlK6LS0Ju7P58XXW2T) | [The Piano Album](https://open.spotify.com/album/0eBs49NdPsqdca0VztAB4K) | 3:07 | 2022-04-12 |  |

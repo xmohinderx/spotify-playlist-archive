@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Toro y Moi",
+  "description": "Current indie tunes from Asia and around the world. Cover: Belle and Sebastian",
   "name": "Indie Shuffle",
   "published_playlist_ids": [
     "20Eh596su19VARcgGsKVKl"
@@ -161,6 +161,24 @@
       "duration_ms": 192786,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401253,
+      "name": "Age of Anxiety II (Rabbit Hole)",
+      "url": "https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z"
     },
     {
       "album": {
@@ -414,6 +432,28 @@
     },
     {
       "album": {
+        "name": "Bang My Line (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Bang My Line (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
+    },
+    {
+      "album": {
         "name": "final_sketch_001.mp3",
         "url": "https://open.spotify.com/album/171MAtr60Xtt68ye9LyzAD"
       },
@@ -461,7 +501,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 216920,
       "name": "Better in the Shade",
       "url": "https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O"
@@ -783,7 +823,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 254056,
       "name": "cant celebrate",
       "url": "https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V"
@@ -1193,6 +1233,24 @@
       "duration_ms": 197855,
       "name": "dinner in bed",
       "url": "https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM"
+    },
+    {
+      "album": {
+        "name": "Dive Deep",
+        "url": "https://open.spotify.com/album/0HMngOwJkBXDsSAF3yZcUG"
+      },
+      "artists": [
+        {
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313500,
+      "name": "Dive Deep",
+      "url": "https://open.spotify.com/track/3c795a0cdZEHJtsSOhB3VX"
     },
     {
       "album": {
@@ -1755,7 +1813,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 249471,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/5o1btwVBnVjS7prt1htP4f"
@@ -2109,7 +2167,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 271120,
       "name": "If They\u2019re Shooting At You",
       "url": "https://open.spotify.com/track/1MpQ9COoG75VzxABaBrNwF"
@@ -2127,10 +2185,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 261556,
       "name": "Imaginary Girl",
       "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
+      "album": {
+        "name": "In Flight",
+        "url": "https://open.spotify.com/album/0qcpXiVKtiR06HcQUuxufF"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205872,
+      "name": "In Flight",
+      "url": "https://open.spotify.com/track/6xTZCvS7UHAVeOoNsG4bO5"
     },
     {
       "album": {
@@ -2265,6 +2341,24 @@
       "duration_ms": 204133,
       "name": "just like heaven",
       "url": "https://open.spotify.com/track/11xjDJ7i9BLd1AYMedwJQK"
+    },
+    {
+      "album": {
+        "name": "Karaoke",
+        "url": "https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Karaoke",
+      "url": "https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq"
     },
     {
       "album": {
@@ -2738,6 +2832,24 @@
     },
     {
       "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe"
+    },
+    {
+      "album": {
         "name": "Making Me Sick!",
         "url": "https://open.spotify.com/album/5BR2hx0RWzvUJ2KfRksdo5"
       },
@@ -2836,6 +2948,24 @@
     },
     {
       "album": {
+        "name": "We've Been Going About This All Wrong",
+        "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239146,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
+    },
+    {
+      "album": {
         "name": "mona lisa",
         "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
       },
@@ -2851,6 +2981,24 @@
       "duration_ms": 190052,
       "name": "mona lisa",
       "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
+    },
+    {
+      "album": {
+        "name": "Kumoyo Island",
+        "url": "https://open.spotify.com/album/0brtdAObNjsWPbjPDtpxJf"
+      },
+      "artists": [
+        {
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315249,
+      "name": "Monaka",
+      "url": "https://open.spotify.com/track/3LVVcEQADkkZOZcaPTFXfD"
     },
     {
       "album": {
@@ -2909,7 +3057,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 180714,
       "name": "M\u1ea5y Khi",
       "url": "https://open.spotify.com/track/14Y6vaDKyaUzjoZT0VA6pB"
@@ -3483,7 +3631,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 176266,
       "name": "plastic body",
       "url": "https://open.spotify.com/track/22aPzreqGgBeaw3nsRHES2"
@@ -4023,7 +4171,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 264372,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
@@ -4622,6 +4770,24 @@
     },
     {
       "album": {
+        "name": "A Bit of Previous",
+        "url": "https://open.spotify.com/album/2VWqqmcIjjzdzayaawToIU"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267093,
+      "name": "Talk to Me, Talk to Me",
+      "url": "https://open.spotify.com/track/3tY8hVWV5QnulkKVSm7LjQ"
+    },
+    {
+      "album": {
         "name": "Teenager",
         "url": "https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ"
       },
@@ -4803,7 +4969,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 270226,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN"

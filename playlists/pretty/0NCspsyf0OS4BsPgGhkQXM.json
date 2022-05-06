@@ -1,13 +1,29 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2039977,
+  "num_followers": 2039949,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTE2NDUsODRhNTczNWE3NDE3YzhjNWM4ZDk2YTQ3ZjM0Njk0NTgwZjlmNjYyMw==",
+  "snapshot_id": "MTE2NDcsYmJlYWFkMzRkOWIzODQ1ZDk1YjAyYTRkNjMxZTgyNTA5ODViNDM3NQ==",
   "tracks": [
+    {
+      "added_at": "2022-05-05 14:21:22",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/4718f8p5I2EHop2LwcPHah"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf"
+    },
     {
       "added_at": "2022-05-04 06:18:46",
       "album": {

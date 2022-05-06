@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-90 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/0mrd15aLOKr95KM1j8m6jV)
+93 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/0mrd15aLOKr95KM1j8m6jV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 | 2022-03-10 |  |
 | [Eastside](https://open.spotify.com/track/4J2tPd3ptiD5kxbnq7t3Ge) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Lúc EP](https://open.spotify.com/album/4TUtNswdfx1J2kt0eKQqE2) | 4:01 | 2022-03-10 |  |
 | [Fast Car](https://open.spotify.com/track/2pPPW5MlJg0JUPdqTrV3Ll) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [Fast Car](https://open.spotify.com/album/4pIM0EG3s7vcZKcZHt0AHU) | 4:07 | 2022-03-10 |  |
+| [First Date \- Acoustic](https://open.spotify.com/track/7sskqSUwyGS5DIf3PCFsDS) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [First Date \(Acoustic\)](https://open.spotify.com/album/01vxszmVdERPN5jDRcEDwo) | 2:55 | 2022-05-05 |  |
 | [Glycerine](https://open.spotify.com/track/5oyDs4s7zWcvPyOr6aenCW) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Glycerine](https://open.spotify.com/album/26RqcmCTKtxEo3W0ADbuSY) | 2:59 | 2022-03-10 |  |
 | [Good](https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Good](https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe) | 4:01 | 2022-03-10 |  |
 | [Goodbyes](https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Goodbyes](https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik) | 2:05 | 2022-03-10 |  |
@@ -38,6 +39,7 @@
 | [Help!](https://open.spotify.com/track/54aVuDTgpImivXNxanNnCG) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Help!](https://open.spotify.com/album/2q3DDnj2Dob01ZHzlHVlVJ) | 3:56 | 2022-03-10 |  |
 | [Hey Ya \- solo version](https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [The Tip Jar Volume One](https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx) | 4:58 | 2022-03-10 |  |
 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 | 2022-03-10 |  |
+| [Home / Dirty Paws](https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Home / Dirty Paws](https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn) | 2:53 | 2022-05-05 |  |
 | [I Don't Care \- Acoustic Version](https://open.spotify.com/track/6npKFnNEMN65CrS2BYf9nd) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [I Don't Care \(Acoustic Version\)](https://open.spotify.com/album/4Gn2Zma5G5bpVr8XlUCYzI) | 3:39 | 2022-03-10 |  |
 | [I Don't Wanna Live Forever \(Fifty Shades Darker\) \- Acoustic](https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/album/14bGY9xaoIyLPLCxytC0Gy) | 3:52 | 2022-03-10 |  |
 | [I Love The Way You Love Me](https://open.spotify.com/track/1DcKLf37erdwo5A3rEw9qL) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Love The Way You Love Me](https://open.spotify.com/album/648cHrWoPorXBdwHNU3bzS) | 3:23 | 2022-03-10 |  |
@@ -61,6 +63,7 @@
 | [Lion \- Acoustic](https://open.spotify.com/track/3RjnoBsOWcyUV5Et0Pow16) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lion \- Acoustic](https://open.spotify.com/album/2v0PW8pRzzR3nhsxyZgXHn) | 2:47 | 2022-03-10 |  |
 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 | 2022-03-10 |  |
 | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/track/4mzSkWDdDDrd1i3wg1FfpC) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng) | 2:36 | 2022-03-10 |  |
+| [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 | 2022-05-05 |  |
 | [Mama \- Acoustic](https://open.spotify.com/track/3VOtM6x5KXZuxSzHaaf9oO) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/0AIZFcHSbXf5B7XLRaPLN5) | 3:12 | 2022-03-10 |  |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-03-10 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Mr\. Brightside](https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp) | 4:32 | 2022-03-10 |  |

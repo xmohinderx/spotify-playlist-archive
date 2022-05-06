@@ -1,12 +1,12 @@
 {
   "description": "Celebrating some of the most iconic female voices of all time.  Cover: Barbra Streisand",
-  "num_followers": 1626145,
+  "num_followers": 1626256,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTcxMjk0MSwwMDAwMDAwMDA1MzhiMTNmOTU4OWExODBmZjZkNzFjOGQ2NjhjYjJh",
+  "snapshot_id": "MTY1MTc5ODgxNiwwMDAwMDAwMDY1MmIzMTM1NTc2MmUzNmFjY2UzNTYzYTM1OWNmOWUy",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
         "name": "Pair Of Fives: Roberta Flack / Dionne Warwick",
         "url": "https://open.spotify.com/album/6bcs0N6URuCCa206hPceyh"
       },
@@ -135,38 +119,6 @@
       "duration_ms": 286920,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/1U1xdCEZYkr6e1stqhaR2F"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/4TtOLhd2Ig1VxCbFu1BW6b"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/01jb2YsLdnRu3YYs777zSk"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -187,34 +139,50 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
         }
       ],
-      "duration_ms": 221293,
-      "name": "Your Love Is King - Remastered",
-      "url": "https://open.spotify.com/track/5EwNOL1CWnM74ptsVvW9OV"
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Imagination (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 279333,
-      "name": "Midnight Train to Georgia",
-      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/4TtOLhd2Ig1VxCbFu1BW6b"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/01jb2YsLdnRu3YYs777zSk"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -235,6 +203,22 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "Your Love Is King - Remastered",
+      "url": "https://open.spotify.com/track/5EwNOL1CWnM74ptsVvW9OV"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX"
       },
@@ -251,34 +235,18 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Diamond Diana: The Legacy Collection",
-        "url": "https://open.spotify.com/album/2iPkYpFitI1RXmnnza1PeN"
+        "name": "Imagination (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/1KbuhBnzMHp4eq1q6flhWd"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "I Try: The Macy Gray Collection",
-        "url": "https://open.spotify.com/album/5CM936m8EZUHEEpxN5X7Sa"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg"
+      "duration_ms": 279333,
+      "name": "Midnight Train to Georgia",
+      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -299,6 +267,22 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
+        "name": "I Try: The Macy Gray Collection",
+        "url": "https://open.spotify.com/album/5CM936m8EZUHEEpxN5X7Sa"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
         "name": "Rhino Hi-Five: Linda Ronstadt",
         "url": "https://open.spotify.com/album/5s2DuWddxp8onCKncWspZR"
       },
@@ -311,38 +295,6 @@
       "duration_ms": 238000,
       "name": "Blue Bayou - 1999 Remaster",
       "url": "https://open.spotify.com/track/31Q84a7UanVaTSrnFsFypj"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7kwezyxShStyqj0PE8NvRw"
-      },
-      "artists": [
-        {
-          "name": "Alison Moyet",
-          "url": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Love Letters - Remastered",
-      "url": "https://open.spotify.com/track/6iM14W0FGSCZczBiNI6jPe"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Broken English",
-        "url": "https://open.spotify.com/album/5hLO4KIOY3lbYdPv4Swn3b"
-      },
-      "artists": [
-        {
-          "name": "Marianne Faithfull",
-          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
-        }
-      ],
-      "duration_ms": 250226,
-      "name": "The Ballad Of Lucy Jordan",
-      "url": "https://open.spotify.com/track/1hWa3NiuvNwnDHZ9TYMBkr"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -367,54 +319,6 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "Love Is A Losing Game",
-      "url": "https://open.spotify.com/track/4IMBnBRqm9RALmLrRqfMor"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Joan Armatrading",
-        "url": "https://open.spotify.com/album/3wKouVhrEkGmdgnASErALn"
-      },
-      "artists": [
-        {
-          "name": "Joan Armatrading",
-          "url": "https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Love And Affection",
-      "url": "https://open.spotify.com/track/4I1w0J6NA3M25jFZ5dhp6y"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
         "name": "Dusty In Memphis",
         "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
       },
@@ -427,70 +331,6 @@
       "duration_ms": 148053,
       "name": "Son Of A Preacher Man",
       "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/6dx7saKYTu93wHcCuDSvUH"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/77XlfkvXtMwppbEU5sku97"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Man",
-        "url": "https://open.spotify.com/album/2bYrUTI2vWLQq2VXJ8DvVJ"
-      },
-      "artists": [
-        {
-          "name": "Neneh Cherry",
-          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/1eOCyaSRBdFGofbLYjgGM2"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
-      },
-      "artists": [
-        {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -511,18 +351,114 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+        "name": "Diamond Diana: The Legacy Collection",
+        "url": "https://open.spotify.com/album/2iPkYpFitI1RXmnnza1PeN"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 312306,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
+      "duration_ms": 215200,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/1KbuhBnzMHp4eq1q6flhWd"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/6dx7saKYTu93wHcCuDSvUH"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/77XlfkvXtMwppbEU5sku97"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Joan Armatrading",
+        "url": "https://open.spotify.com/album/3wKouVhrEkGmdgnASErALn"
+      },
+      "artists": [
+        {
+          "name": "Joan Armatrading",
+          "url": "https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4I1w0J6NA3M25jFZ5dhp6y"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Broken English",
+        "url": "https://open.spotify.com/album/5hLO4KIOY3lbYdPv4Swn3b"
+      },
+      "artists": [
+        {
+          "name": "Marianne Faithfull",
+          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        }
+      ],
+      "duration_ms": 250226,
+      "name": "The Ballad Of Lucy Jordan",
+      "url": "https://open.spotify.com/track/1hWa3NiuvNwnDHZ9TYMBkr"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7kwezyxShStyqj0PE8NvRw"
+      },
+      "artists": [
+        {
+          "name": "Alison Moyet",
+          "url": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Love Letters - Remastered",
+      "url": "https://open.spotify.com/track/6iM14W0FGSCZczBiNI6jPe"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Love Is A Losing Game",
+      "url": "https://open.spotify.com/track/4IMBnBRqm9RALmLrRqfMor"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -543,18 +479,34 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "The Soul Sessions",
-        "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
       },
       "artists": [
         {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Super Duper Love",
-      "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -575,6 +527,86 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
+        "name": "Man",
+        "url": "https://open.spotify.com/album/2bYrUTI2vWLQq2VXJ8DvVJ"
+      },
+      "artists": [
+        {
+          "name": "Neneh Cherry",
+          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/1eOCyaSRBdFGofbLYjgGM2"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 312306,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "The Soul Sessions",
+        "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Super Duper Love",
+      "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
@@ -587,22 +619,6 @@
       "duration_ms": 270333,
       "name": "Un-Break My Heart",
       "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -639,38 +655,6 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Let Me Sing and I'm Happy",
-        "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
       },
       "artists": [
         {
-          "name": "Shirley Bassey",
-          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
         }
       ],
-      "duration_ms": 161933,
-      "name": "Diamonds Are Forever",
-      "url": "https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2"
+      "duration_ms": 176426,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -751,6 +735,22 @@
     {
       "added_at": "2022-04-22 04:01:00",
       "album": {
+        "name": "Let Me Sing and I'm Happy",
+        "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
+      },
+      "artists": [
+        {
+          "name": "Shirley Bassey",
+          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Diamonds Are Forever",
+      "url": "https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Stax 50th Anniversary",
-        "url": "https://open.spotify.com/album/0inBSwF5qDv8OUM6BHq396"
-      },
-      "artists": [
-        {
-          "name": "Linda Lyndell",
-          "url": "https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ"
-        }
-      ],
-      "duration_ms": 160546,
-      "name": "What A Man",
-      "url": "https://open.spotify.com/track/20fHsQJ6sXz6EFN3VTPpOD"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -811,6 +795,22 @@
       "duration_ms": 219493,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Stax 50th Anniversary",
+        "url": "https://open.spotify.com/album/0inBSwF5qDv8OUM6BHq396"
+      },
+      "artists": [
+        {
+          "name": "Linda Lyndell",
+          "url": "https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ"
+        }
+      ],
+      "duration_ms": 160546,
+      "name": "What A Man",
+      "url": "https://open.spotify.com/track/20fHsQJ6sXz6EFN3VTPpOD"
     }
   ],
   "unique_name": "Great Female Voices",

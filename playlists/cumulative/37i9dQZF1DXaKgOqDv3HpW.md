@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-163 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+167 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Breathing Star](https://open.spotify.com/track/2TcvA5WlWyZdLMdQrX05LG) | [Allana Johnson](https://open.spotify.com/artist/3hmAY9MInLEYjfgedjLmlL) | [Breathing Star](https://open.spotify.com/album/5K3RC3cxE2mfKHrg1Wf9iM) | 2:56 | 2022-02-18 |  |
 | [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 | 2022-02-18 |  |
 | [Calling](https://open.spotify.com/track/682LbPTgwSkwOQGS16OsW5) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 3:11 | 2022-02-18 |  |
+| [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 |  |
 | [celestial sojourn](https://open.spotify.com/track/3tI1sd213SOODpv7bYRutx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:20 | 2022-02-18 |  |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-02-18 |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2022-02-18 |  |
@@ -123,6 +124,7 @@
 | [Quasar](https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Quasar](https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE) | 4:18 | 2022-02-18 |  |
 | [Quiet Dreams](https://open.spotify.com/track/6jJkW2RUsOHCe4hiIk1tED) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Quiet Dreams](https://open.spotify.com/album/5Xxn5Iuq8NGJ3pYzMxov60) | 3:24 | 2022-02-18 |  |
 | [Quiet Stars](https://open.spotify.com/track/1OlQRV9bOuT0CGCNI225EP) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/1160mTTHoFxFl3wFuIkUGX) | 1:54 | 2022-02-18 |  |
+| [Rainfall](https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw) | [Vabali](https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8) | [Rainfall](https://open.spotify.com/album/3ndp2H6qEh8lb8XAVJvgUe) | 3:50 | 2022-05-05 |  |
 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 | 2022-02-18 |  |
 | [Restfulness](https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:55 | 2022-02-18 |  |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2022-02-18 |  |
@@ -133,6 +135,7 @@
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2022-02-18 |  |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2022-02-18 |  |
 | [Satori \- Without Ambience](https://open.spotify.com/track/2lHPRp0fGmU59ArT2z2t25) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Satori](https://open.spotify.com/album/3C3HvzERaQbTUVh8gz2xK8) | 3:37 | 2022-02-18 |  |
+| [Scintilla](https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW) | [Xo Liam](https://open.spotify.com/artist/6cuCmSWkMV1romxctai2c2) | [Scintilla](https://open.spotify.com/album/0L5i67SXZZq52SfWZfEDBZ) | 2:38 | 2022-05-05 |  |
 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 | 2022-02-18 |  |
 | [See It Through](https://open.spotify.com/track/28Vm9HwBIfy13ZPEffBFOF) | [Zara Mazure](https://open.spotify.com/artist/0qC06w5AZgtEhJLvt9CiE1) | [See It Through](https://open.spotify.com/album/6XJPhQ3Vd40G4mB4xXpljU) | 2:35 | 2022-02-18 |  |
 | [Serene](https://open.spotify.com/track/5B1bNtPY2jCZq87yuH4dDk) | [Claude Sabatier](https://open.spotify.com/artist/5oRDhVSff6UD1uX7cZa7mf) | [Serene](https://open.spotify.com/album/71mpsVqU6IxAXkxyuKdCnE) | 1:48 | 2022-02-18 |  |
@@ -157,6 +160,7 @@
 | [Tidal Flow](https://open.spotify.com/track/63yQS5uf762DJHLssPlrNw) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:42 | 2022-02-18 |  |
 | [Towards Calm](https://open.spotify.com/track/4izjPsdgh9xFe2eg7GgAtD) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Resolution](https://open.spotify.com/album/2iMKanYYDayHuy5toA3I8y) | 4:02 | 2022-02-18 |  |
 | [Ulayaw](https://open.spotify.com/track/6mk4Fk0a1ZEQZTBBQBccIm) | [Elise Ryen](https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc) | [Ulayaw](https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd) | 3:08 | 2022-02-18 |  |
+| [Unified](https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Together As One](https://open.spotify.com/album/2kqy5EuTtNjqThnUEqYyDJ) | 2:45 | 2022-05-05 |  |
 | [Unknown Distance](https://open.spotify.com/track/1fFIHg6d5sSwqN2LQEFE9Z) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hollow Sunset](https://open.spotify.com/album/0cb5WIpntE0pAqnBvbGL1Y) | 2:35 | 2022-02-18 |  |
 | [Verlangen](https://open.spotify.com/track/75pcpojFTJnyfeGw0YrEQ9) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Verlangen](https://open.spotify.com/album/0rJlx5Lk9FZni8yreWrEFP) | 4:13 | 2022-02-18 |  |
 | [Vivante](https://open.spotify.com/track/6S0hwfRH6W5iLbAXl3cmB4) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Vivante](https://open.spotify.com/album/5Kzb8AvMcFS801pp6SR012) | 2:13 | 2022-02-18 |  |

@@ -720,6 +720,24 @@
     },
     {
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/0O9YcekE4hqY003nZQ9W3b"
+      },
+      "artists": [
+        {
+          "name": "Saheb",
+          "url": "https://open.spotify.com/artist/2ShbFK8mw2wWXf0EkD36ch"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201767,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/0MpMnxzwiF4dfzDwrd21MI"
+    },
+    {
+      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/1AvCpygMn5bSEGm4kTqywo"
       },
@@ -1427,6 +1445,28 @@
       "duration_ms": 187605,
       "name": "Gal Ni Bani",
       "url": "https://open.spotify.com/track/14yIcx0HA4RTKkndUvHlda"
+    },
+    {
+      "album": {
+        "name": "Gal Sun",
+        "url": "https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82"
+      },
+      "artists": [
+        {
+          "name": "Jaz Dhami",
+          "url": "https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213346,
+      "name": "Gal Sun",
+      "url": "https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6"
     },
     {
       "album": {
@@ -6175,6 +6215,24 @@
       "duration_ms": 215624,
       "name": "Yaar Razi",
       "url": "https://open.spotify.com/track/4jCY1d4d16OJTPD793Zf0K"
+    },
+    {
+      "album": {
+        "name": "Yaar Suli Te",
+        "url": "https://open.spotify.com/album/7efg8nVuWZJTsRPM8Eu7CX"
+      },
+      "artists": [
+        {
+          "name": "Nobby Singh",
+          "url": "https://open.spotify.com/artist/6uwgbF1ioLsU15PZCDZCeP"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180722,
+      "name": "Yaar Suli Te",
+      "url": "https://open.spotify.com/track/2r1zm4qZTVfVNJU9gBOE0J"
     },
     {
       "album": {

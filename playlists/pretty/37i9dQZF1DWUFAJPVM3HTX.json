@@ -1,6 +1,6 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Yaya Bey",
-  "num_followers": 147993,
+  "num_followers": 148211,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
     {
       "added_at": "2022-05-04 06:23:46",
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/1wXLHkpMRGzEJU6bVpRHPf"
+      },
+      "artists": [
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        },
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/6RD9VzliQUDASSWdClnrPX"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/3kAvLGkeU40IINgCQmkiUC"
       },
@@ -79,6 +99,22 @@
     {
       "added_at": "2022-05-04 06:23:46",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/0lBeSg0kqvdbMpEgVhjI83"
+      },
+      "artists": [
+        {
+          "name": "Lehla Samia",
+          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
+        }
+      ],
+      "duration_ms": 135005,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1m8aLC8QjGPK4ZZPraw7BE"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
         "name": "Jellyfish",
         "url": "https://open.spotify.com/album/4kLxWUzWC2ljw7QLHeWAUg"
       },
@@ -95,6 +131,22 @@
       "duration_ms": 176326,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1vL3vv3AzPXEUh1tDsZjMr"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "Day Glow",
+        "url": "https://open.spotify.com/album/5wj0DlCBDw7dsl6a91O1DZ"
+      },
+      "artists": [
+        {
+          "name": "K. Roosevelt",
+          "url": "https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Day Glow",
+      "url": "https://open.spotify.com/track/7ErrdMe76hkvS5kKNw0kUa"
     },
     {
       "added_at": "2022-04-27 16:00:00",
@@ -351,6 +403,30 @@
       "duration_ms": 344470,
       "name": "High with Me",
       "url": "https://open.spotify.com/track/4npQ5B7PrxGtxoWHqQ1wbe"
+    },
+    {
+      "added_at": "2022-05-04 06:23:46",
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/70ZwJYHVIuodN4ybaZ8O9y"
+      },
+      "artists": [
+        {
+          "name": "Nizzy",
+          "url": "https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R"
+        },
+        {
+          "name": "Senth",
+          "url": "https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b"
+        },
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/2utNNtRHr75sEZngsrTRLG"
     },
     {
       "added_at": "2022-04-27 16:00:00",

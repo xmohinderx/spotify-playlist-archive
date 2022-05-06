@@ -2,33 +2,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: Moon Byul
+> Future K\-Pop hits! Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 672,424 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,977 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 |
-| 2 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
+| 1 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
+| 2 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 |
 | 3 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 |
-| 4 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 |
+| 4 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 |
 | 5 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 |
-| 6 | [Business \(Feat\. BE'O\)](https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [The 1st Mini Album 'Day & Night'](https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz) | 3:24 |
-| 7 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 |
-| 8 | [Undercover](https://open.spotify.com/track/25hPY8NCwcvXr21YdWmPns) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 3 : WHOLE\]](https://open.spotify.com/album/5b2HT9dEEZptUsusV1Klc5) | 3:07 |
-| 9 | [Love Theory](https://open.spotify.com/track/1dmi9lVthTKjuemmO8ucWm) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Love Theory \- SM STATION](https://open.spotify.com/album/2i27IzG4jFQjX7pS5L6TIu) | 3:19 |
-| 10 | [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 |
-| 11 | [TANK](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:48 |
-| 12 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 |
-| 13 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
-| 14 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 |
-| 15 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 |
-| 16 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 |
-| 17 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 |
-| 18 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 |
-| 19 | [Take You Down \(Feat\. Coogie\)](https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 3:27 |
-| 20 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 |
-| 21 | [memeM](https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) | 2:52 |
+| 6 | [Love Theory](https://open.spotify.com/track/1dmi9lVthTKjuemmO8ucWm) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Love Theory \- SM STATION](https://open.spotify.com/album/2i27IzG4jFQjX7pS5L6TIu) | 3:19 |
+| 7 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
+| 8 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 |
+| 9 | [memeM](https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) | 2:52 |
+| 10 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 |
+| 11 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 |
+| 12 | [TANK](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:48 |
+| 13 | [Business \(Feat\. BE'O\)](https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [The 1st Mini Album 'Day & Night'](https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz) | 3:24 |
+| 14 | [Undercover](https://open.spotify.com/track/25hPY8NCwcvXr21YdWmPns) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 3 : WHOLE\]](https://open.spotify.com/album/5b2HT9dEEZptUsusV1Klc5) | 3:07 |
+| 15 | [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 |
+| 16 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 |
+| 17 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 |
+| 18 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 |
+| 19 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 |
+| 20 | [Take You Down \(Feat\. Coogie\)](https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 3:27 |
+| 21 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 |
 | 22 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 |
 | 23 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 |
 | 24 | [Real Love](https://open.spotify.com/track/5jjTsBPfe6u9sD9u4CSvjr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0at0j5nXz7gxEBiz2Goh6s) | 3:21 |
@@ -56,8 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 46 | [VOYAGER](https://open.spotify.com/track/5X8djrOyJCnCnwD19QXQIK) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [VOYAGER](https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE) | 3:11 |
 | 47 | [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 |
 | 48 | [BORN TO LOVE YOU](https://open.spotify.com/track/3gOfgRZp9Cglmn2p0I68YP) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [BORN TO LOVE YOU](https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo) | 2:54 |
-| 49 | [Eye On You](https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Obsession](https://open.spotify.com/album/7KgsAlBnzkH1vyYluTUtUd) | 3:06 |
-| 50 | [Again](https://open.spotify.com/track/3obitKwgSPRoPGqmWcHD13) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Best Album ‘Needle & Bubble’](https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu) | 3:26 |
-| 51 | [Why](https://open.spotify.com/track/1IqOAlSisJIxDHrKT1oG66) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [Why](https://open.spotify.com/album/5t5kwvCqaOXrCjlRAunfLe) | 3:16 |
+| 49 | [Again](https://open.spotify.com/track/3obitKwgSPRoPGqmWcHD13) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Best Album ‘Needle & Bubble’](https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu) | 3:26 |
+| 50 | [Why](https://open.spotify.com/track/1IqOAlSisJIxDHrKT1oG66) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [Why](https://open.spotify.com/album/5t5kwvCqaOXrCjlRAunfLe) | 3:16 |
 
-Snapshot ID: `MTY1MTU5MTUxNSwwMDAwMDI1ZTAwMDAwMTgwOGE4NjhjZjMwMDAwMDE4MDZlODhjZTFi`
+Snapshot ID: `MTY1MTcxNDc2NSwwMDAwMDI1ZjAwMDAwMTgwOTFkZjMzNTEwMDAwMDE4MDkxZDk5NTU4`

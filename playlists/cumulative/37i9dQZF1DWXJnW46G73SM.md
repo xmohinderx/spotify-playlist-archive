@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: حسين الجسمي
 
-143 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+145 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Abia El Donia](https://open.spotify.com/track/6hioBIoRNttVg7pvZ9qnrd) | [Bossy](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [Abia El Donia](https://open.spotify.com/album/3UlzoBKkSpdbdOopu4NtJb) | 3:32 | 2021-12-23 | 2021-12-30 |
 | [Abos Albak](https://open.spotify.com/track/3LYUhEfB90kf2dt0sQ7esr) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Abos Albak](https://open.spotify.com/album/4zqwxJpcg6Zzm9vMz5fdEl) | 4:27 | 2022-02-17 |  |
 | [Agaby](https://open.spotify.com/track/3nkxT86Yig9jbqxfPj8aEz) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Tooma](https://open.spotify.com/artist/06DFi3gbAAErstJENtIa5z) | [Agaby](https://open.spotify.com/album/6tJgJlVAZD9fom15faEf1y) | 3:51 | 2022-02-24 |  |
+| [Agheeb Agheeb](https://open.spotify.com/track/0W2TvZUTKMheKIulf8U1Lr) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Agheeb Agheeb](https://open.spotify.com/album/1j0xsnp8SbACRY7Pq7xzp9) | 3:06 | 2022-05-05 |  |
 | [Ahkelak](https://open.spotify.com/track/60gNtG4TeY7YQxbxx9mUwU) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Ahkelak](https://open.spotify.com/album/30DzaAannug4aragLVhSMA) | 3:16 | 2022-03-18 |  |
 | [Ahla Wahda](https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ahla Wahda](https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K) | 2:40 | 2021-12-23 | 2022-02-18 |
 | [Ahla Youm](https://open.spotify.com/track/4klTJvLlyWcr5nt91rZzSu) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ahla Youm](https://open.spotify.com/album/0enk0vJ9ab11zEJVddWyqH) | 2:01 | 2022-04-07 |  |
@@ -42,6 +43,7 @@
 | [El Fatra Di](https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:49 | 2022-01-27 | 2022-05-02 |
 | [El Halawa Di](https://open.spotify.com/track/5hpzNmbYpjS4WcQW1nAt3j) | [Ahmed Basyoni](https://open.spotify.com/artist/2T6gqh96T1Cy8YfvzEPr49), [Hussein Gamal](https://open.spotify.com/artist/6qsRiXkSz88prbplwiKpmr) | [El Halawa Di](https://open.spotify.com/album/2Ea9QzlkBwrVGd7ENONLsf) | 2:57 | 2022-01-28 |  |
 | [El Halazona](https://open.spotify.com/track/69yrkIjdgcPmdTQZPhLw1p) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [El Halazona](https://open.spotify.com/album/4s3leAWo7u3Ml5DhRvCmWi) | 3:48 | 2021-12-23 | 2021-12-30 |
+| [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 | 2022-05-05 |  |
 | [El Leila Eid](https://open.spotify.com/track/1v6xHWH5koUiYp1PYYDjGS) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [El Leila Eid](https://open.spotify.com/album/3Vao3BYiDmnLLtoLJa8HoU) | 3:08 | 2022-05-01 |  |
 | [El Mawdou3](https://open.spotify.com/track/2s4nQbVCaFH2m12kzddHCL) | [Sherif ElBahey](https://open.spotify.com/artist/72S98nXzuQTo3LYFo2utSo) | [El Mawdou3](https://open.spotify.com/album/5vvr3pRUrFgc17NVbyCBFh) | 4:00 | 2021-12-23 | 2021-12-31 |
 | [El Nafseya](https://open.spotify.com/track/5NdVyOLoXDVQaaDHcJRI8S) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Nafseya](https://open.spotify.com/album/2e14G407cbG5rCgRVzgiSh) | 4:52 | 2022-03-11 |  |

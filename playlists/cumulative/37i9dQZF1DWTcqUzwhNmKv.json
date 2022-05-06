@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rammstein on top of the biggest Metal playlist!",
+  "description": "Five Finger Death Punch on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "I Run With Wolves",
+        "url": "https://open.spotify.com/album/68FghP1QWbbmmmVcIKYKNM"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181949,
+      "name": "Break The Habit",
+      "url": "https://open.spotify.com/track/5jl8iC4QC8GFFUR0Uae1tN"
+    },
+    {
+      "album": {
         "name": "Break The Silence",
         "url": "https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv"
       },
@@ -203,7 +221,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 207573,
       "name": "Break The Silence",
       "url": "https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 199000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY"
@@ -685,10 +703,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 187680,
       "name": "Death to the Holy",
       "url": "https://open.spotify.com/track/1IypdXpPULSVvtrWRba5A5"
+    },
+    {
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/2notng3VruouqChEzm2IJl"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201111,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/5su7QP5m3Mt5yaAM5rrriE"
     },
     {
       "album": {
@@ -873,7 +909,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 197213,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
@@ -1292,6 +1328,24 @@
     },
     {
       "album": {
+        "name": "Rashomon",
+        "url": "https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2"
+      },
+      "artists": [
+        {
+          "name": "Ibaraki",
+          "url": "https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454920,
+      "name": "Kagutsuchi",
+      "url": "https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41"
+    },
+    {
+      "album": {
         "name": "Your Highness",
         "url": "https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef"
       },
@@ -1375,7 +1429,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 208920,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
@@ -1472,6 +1526,28 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        },
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218406,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
+    },
+    {
+      "album": {
         "name": "MONSTER",
         "url": "https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9"
       },
@@ -1483,7 +1559,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 204765,
       "name": "MONSTER",
       "url": "https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp"
@@ -1769,7 +1845,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 183350,
       "name": "Plastic Heart",
       "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
@@ -1913,7 +1989,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 285586,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8"
@@ -2148,6 +2224,24 @@
     },
     {
       "album": {
+        "name": "Superstition",
+        "url": "https://open.spotify.com/album/5g4WCIUGBX79fi37rRxZwj"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194101,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/6cpzmH6s1EV9ImMh4s6tr5"
+    },
+    {
+      "album": {
         "name": "Heaven in Hiding",
         "url": "https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ"
       },
@@ -2213,7 +2307,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 259173,
       "name": "Temple Of Ekur",
       "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
@@ -2343,6 +2437,42 @@
       "duration_ms": 251000,
       "name": "The Unkillable Soldier",
       "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
+    },
+    {
+      "album": {
+        "name": "Boombox",
+        "url": "https://open.spotify.com/album/67G7x4a0RqR00Y1jH3UwlH"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214173,
+      "name": "The Vulture Club",
+      "url": "https://open.spotify.com/track/15R3KwPfM0dZS0TAc2vbwm"
+    },
+    {
+      "album": {
+        "name": "Thinking in Tongues",
+        "url": "https://open.spotify.com/album/4rWZPzKJnGLtNyTxVGLFEh"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204541,
+      "name": "Thinking in Tongues",
+      "url": "https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq"
     },
     {
       "album": {
@@ -2682,6 +2812,24 @@
     },
     {
       "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206959,
+      "name": "Wicked Ways",
+      "url": "https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT"
+    },
+    {
+      "album": {
         "name": "Doom Crew Inc.",
         "url": "https://open.spotify.com/album/5j7daAyvVHbB4oNhJvsTX4"
       },
@@ -2697,6 +2845,24 @@
       "duration_ms": 271025,
       "name": "You Made Me Want To Live",
       "url": "https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88"
+    },
+    {
+      "album": {
+        "name": "Your Turn",
+        "url": "https://open.spotify.com/album/5GMqvj7aJDFjBLDrtkBWcX"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201395,
+      "name": "Your Turn",
+      "url": "https://open.spotify.com/track/3dSWxpIMFUjzAyqZieivD0"
     },
     {
       "album": {

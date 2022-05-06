@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0z1epx5KTtS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0z1epx5KTtS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0z1epx5KTtS)
 
-### [Coupe Decale](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
+### [Coupé Decalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan.
+> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-49 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+51 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,10 @@
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 |  |
 | [Blô blô](https://open.spotify.com/track/6ktw0PV1l5NMC4eBPlZCbA) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Blô blô](https://open.spotify.com/album/5yuQacRLQLbtFRlDhaJM0t) | 3:30 | 2021-12-20 |  |
 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 | 2021-12-20 |  |
-| [C'Gater](https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe) | [DJ LEWIS](https://open.spotify.com/artist/2Rw4zdWjWKGTh7giGhOyFb) | [C'Gater](https://open.spotify.com/album/2Gmdt7fQvIyKt2MOTq4UP6) | 3:47 | 2021-12-20 |  |
+| [C'Gater](https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe) | [DJ LEWIS](https://open.spotify.com/artist/2Rw4zdWjWKGTh7giGhOyFb) | [C'Gater](https://open.spotify.com/album/2Gmdt7fQvIyKt2MOTq4UP6) | 3:47 | 2021-12-20 | 2022-05-06 |
 | [Caléçon](https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Coco Argentée](https://open.spotify.com/artist/3eZbaZtJasAh4P1ptj7bOe) | [Caléçon](https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In) | 3:28 | 2021-12-20 |  |
 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 | 2022-02-18 |  |
-| [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 |  |
+| [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 | 2022-05-06 |
 | [Descend un peu](https://open.spotify.com/track/0Yc6JRXXgNzj6zOtQEv7f3) | [Molare](https://open.spotify.com/artist/4RVinIIKSvO4mc0DGj8FW1), [Kiff No Beat](https://open.spotify.com/artist/4dQxvm7YD9qOd3SdToppT8) | [Descend un peu](https://open.spotify.com/album/1GsntAdgmlPTwI5vRcM0fU) | 3:42 | 2021-12-20 |  |
 | [Detounounan](https://open.spotify.com/track/7y55f9xT7YZqyQc5vqHyxc) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Detounounan](https://open.spotify.com/album/0W8RUFSIkglecLJhjt4ocf) | 4:09 | 2021-12-20 |  |
 | [Dis merci à Dieu](https://open.spotify.com/track/2KqGneSnIJJATSwpv2mbA3) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Dis merci à Dieu](https://open.spotify.com/album/3FWMC015RDd3VS86NUrohj) | 3:26 | 2021-12-20 |  |
@@ -48,12 +48,14 @@
 | [Mon nom](https://open.spotify.com/track/45XiGbtboVhKVy0pt58C9B) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Mon nom](https://open.spotify.com/album/7cbpbkoPQ5NkKZ6rmDRjcd) | 3:42 | 2021-12-20 | 2022-01-22 |
 | [MOTIVATION](https://open.spotify.com/track/5hS82eevCQ6KEToDTjJ9jz) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [MOTIVATION](https://open.spotify.com/album/6tsJ3OpV0kSm8G5oYrlsJP) | 3:40 | 2022-01-21 |  |
 | [Oko Lelela Nani](https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Oko Lelela Nani](https://open.spotify.com/album/3Mclnp6RQ7HRHtUGpOt9Jz) | 3:41 | 2021-12-20 |  |
+| [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 |  |
 | [Rebelotte](https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 3:38 | 2021-12-20 |  |
 | [Super Fan](https://open.spotify.com/track/3XoJ1fhN3NACS4O5SbdkzJ) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Super Fan](https://open.spotify.com/album/3jdznaG1yv3fjgklH3BWtp) | 3:52 | 2021-12-20 |  |
 | [Supporteurs Maso](https://open.spotify.com/track/5AmaKQXErLGa23mtFwI5lj) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Debordo Leekunfa](https://open.spotify.com/artist/7L6fUPhKqRJGYVB1hnrkfJ) | [Supporteurs Maso](https://open.spotify.com/album/6ySLqOgsAeIoT3PUm7Bk0k) | 3:33 | 2022-02-18 |  |
 | [Tala N'dile](https://open.spotify.com/track/15yN7E99wB5yo12CCr2G8F) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/2DWtnLOf0zcPrZWSmeShVT) | [Tala N'dile](https://open.spotify.com/album/47FvCt5Faqv33pjUi9omrW) | 3:54 | 2021-12-20 |  |
 | [Touche ici](https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Touche ici](https://open.spotify.com/album/6whze3CYPWp0Wt797GKV0y) | 3:35 | 2021-12-20 |  |
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |
+| [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 |  |
 | [Yo Pe \- Remix](https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yo Pe \(Remix\)](https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV) | 4:32 | 2021-12-20 | 2022-02-19 |
 | [Zambeleman](https://open.spotify.com/track/5QqYi2I1W5qWs492jukBhc) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Bonigo](https://open.spotify.com/artist/6haKYR8zgWMWv4VK8TYBME) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 4:29 | 2021-12-20 |  |
 | [Zendaka](https://open.spotify.com/track/7BlelZjPQgRSTPhKAEkauM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Zendaka](https://open.spotify.com/album/0NppZsF445DiWFxVq7ezcP) | 3:03 | 2021-12-20 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: PSY, SUGA
+> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: iKON
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,855,481 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,858,549 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 50 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 |
 | 51 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 |
 
-Snapshot ID: `MTY1MTcxMjk0NSwwMDAwMDAwMDE0MWFlMzQyZGFkMjA2YmFkMDI5NWE4N2E1MDZkOTY3`
+Snapshot ID: `MTY1MTc5ODgyMCwwMDAwMDAwMGRkZmMxMWY0ZmQ2MGFlOTdiNTQ3MDg3YTkxZmNjMjA5`

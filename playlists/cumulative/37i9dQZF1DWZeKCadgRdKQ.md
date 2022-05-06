@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-441 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+443 songs - 1 day 2 hr 0 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,10 +117,12 @@
 | [Eternity](https://open.spotify.com/track/3C2spCWjGXotQt1nnoCrMn) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Kingdom](https://open.spotify.com/album/4cXKlWVyQD0xK0yTsg5nwX) | 3:00 | 2019-06-19\* | 2020-08-07 |
 | [Ether](https://open.spotify.com/track/2MlOFHc3MfkTIRVGGCM4HL) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Ether](https://open.spotify.com/album/0En8WtheZ8I01DambEhbn5) | 3:09 | 2019-06-27 |  |
 | [Ether](https://open.spotify.com/track/49fKIKnEXvfCEy2HWwKwVG) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ether](https://open.spotify.com/album/2n6SmFMb8x9HHyiPAGLOXd) | 5:10 | 2019-05-26\* | 2019-06-19 |
+| [Ethereal Glow](https://open.spotify.com/track/381cpx26XrMnGOIn4faioN) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Ethereal Glow](https://open.spotify.com/album/0jvZawamBniaCE5aFRRMsw) | 2:31 | 2022-05-05 |  |
 | [Euphoria](https://open.spotify.com/track/2srKKTOmWUOEUZogGDTCIm) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Euphoria](https://open.spotify.com/album/7Bs1tiV1SjNSRzm2ZvJeVV) | 3:30 | 2019-06-19\* | 2019-06-27 |
 | [Event Horizon](https://open.spotify.com/track/7lSHfDPdyGdRyG234h5ToK) | [Airwaves](https://open.spotify.com/artist/46y7tUi3QWFMElXSyMyYvf) | [Event Horizon](https://open.spotify.com/album/0RulKn45TE6lNROR1jvxDm) | 5:10 | 2019-06-27 | 2020-12-24 |
 | [Everest](https://open.spotify.com/track/5OHNiEcJSvVv2gB8dd5ntH) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Dear Avalanche](https://open.spotify.com/album/1Q4lWl84CNsZDDXQCm9VLe) | 3:03 | 2019-05-26\* | 2019-06-19 |
 | [Everlonging](https://open.spotify.com/track/7ncqZEutTnKNmxJn50URcf) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Everlonging](https://open.spotify.com/album/1DQviQUrW2Ek5Nas6q3mUw) | 2:07 | 2022-04-07 |  |
+| [everpresent](https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [everpresent](https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q) | 2:35 | 2022-05-05 |  |
 | [Everything](https://open.spotify.com/track/17Vyuiin8uY1eOR1imRtqS) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/7CyISiIyKSbgIQZr8JaqoS) | 5:37 | 2019-05-26\* | 2019-06-27 |
 | [Fallen](https://open.spotify.com/track/5M88pavKSWfH8YEjNHDNP6) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Rusted Waters](https://open.spotify.com/album/1kG7ooS7ra0bNHkwXCLf3c) | 4:38 | 2019-06-19\* | 2020-08-07 |
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2021-03-24 |  |

@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Ibeyi
 
-246 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
+248 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/1j8ppjdvQ9TlzoMiE9zx0Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Balader dans les roses](https://open.spotify.com/track/2gt6ThVmujhH06ZYgNP4DA) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Hors saison](https://open.spotify.com/album/0Bhlam0jOhd9Sk1Up1l2yB) | 3:10 | 2022-02-01 | 2022-03-08 |
 | [Bali](https://open.spotify.com/track/5MZeeySHvuMx4DoPtI6sgy) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Happiness](https://open.spotify.com/album/7tKhCsssgWuP7QVuOJw3Hd) | 2:35 | 2022-01-05 | 2022-02-02 |
 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-03-07 | 2022-04-08 |
+| [Belle pour une renoie](https://open.spotify.com/track/14UChneY1Dj9AqlhaxGxh6) | [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [Belle pour une renoie](https://open.spotify.com/album/3jOKcUX2Bi1R2kKD5tURNB) | 2:27 | 2022-05-05 |  |
 | [Billy](https://open.spotify.com/track/61YosbilovTgnqTh4MD5Jm) | [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Billy](https://open.spotify.com/album/0menNtBYwpWsHi5mlXNl4R) | 3:12 | 2022-03-07 | 2022-04-06 |
 | [Blue](https://open.spotify.com/track/0zMSLABV6KfnWvczaflsce) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Blue](https://open.spotify.com/album/6ITvMudbZkQWn9BqfypNl2) | 3:47 | 2022-05-03 |  |
 | [Blue](https://open.spotify.com/track/6STofxXw6EZjaQVcIEdrJa) | [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Tôt ou tard \- 25 ans](https://open.spotify.com/album/7Eq9q37hMOOdviQrxlVsRg) | 2:45 | 2022-01-05 | 2022-02-02 |
@@ -212,6 +213,7 @@
 | [S.O.S.](https://open.spotify.com/track/29ZhB3M6xs1mFSW7Vq2h1I) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [S.O.S.](https://open.spotify.com/album/43MSv0yUXyYt9Lhov6SUhD) | 2:39 | 2022-01-05 | 2022-02-02 |
 | [Saga](https://open.spotify.com/track/0xwubA4Pfvcn0qCbiYtVM9) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [Saga](https://open.spotify.com/album/6iZ2AS7gwMg3OAKot9Jm7O) | 2:15 | 2022-01-05 | 2022-02-02 |
 | [Salama](https://open.spotify.com/track/6iCGzeGAzjgZtBAYXSELn1) | [Larusso](https://open.spotify.com/artist/07sMHU0vu01xrz1gnNrNry) | [Salama](https://open.spotify.com/album/0xvQ5lfDY3p9RWa7hacLaO) | 3:36 | 2022-02-01 | 2022-03-08 |
+| [Sangoma](https://open.spotify.com/track/729WnoXA7mkkO2prQoXSvI) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 2:45 | 2022-05-05 |  |
 | [sans rancune](https://open.spotify.com/track/2ZyuDiGMoj9SPK8iGqPVmV) | [TESSÆ](https://open.spotify.com/artist/4Rc4ZjE8dK1b794tfc3BIt) | [sans rancune](https://open.spotify.com/album/3dS4u53iRCBvJGgA6zNLCH) | 3:24 | 2022-03-07 | 2022-04-06 |
 | [Sauvage](https://open.spotify.com/track/5j0mmjb7WNlLw1FHaGywqi) | [Fanny](https://open.spotify.com/artist/10UjZAtg3Ny2Ne1FjRe8Yo) | [Sauvage](https://open.spotify.com/album/2208OfHBfkl5mVZcJAeYnE) | 2:23 | 2022-04-05 | 2022-05-04 |
 | [See Me Now](https://open.spotify.com/track/3G3Cw4ktGVreHis8mNfrg8) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [See Me Now](https://open.spotify.com/album/03xP1ERab9Fzl2Wpww944P) | 3:31 | 2022-02-01 | 2022-03-08 |

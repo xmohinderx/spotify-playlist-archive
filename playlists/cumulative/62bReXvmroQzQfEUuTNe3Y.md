@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-278 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+279 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Just Friends](https://open.spotify.com/track/3NjyrsDr4qS0L424H4muQd) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Boy Matthews](https://open.spotify.com/artist/2jn9JOmdrR9BdiR1LTvYG4) | [Between Us](https://open.spotify.com/album/3BFj0MO4iiDBggZXcJ5k4D) | 3:58 | 2021-03-06 | 2021-11-11 |
 | [Katy \- Rosbeh Remix](https://open.spotify.com/track/32yYHbU5OzKtBW7q0MZMWe) | [BUFFALA](https://open.spotify.com/artist/27Vd3yb5Q9CoMJCYMb9zpg), [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE) | [Katy \(Rosbeh Remix\)](https://open.spotify.com/album/1Mn0GdPt0tgzoQkRSRV0py) | 3:29 | 2021-07-17 | 2021-07-31 |
 | [Last](https://open.spotify.com/track/4cdbulDhvuAond5ZTNeJGC) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [Begin](https://open.spotify.com/album/35AlpLlW4vKJ4nRGpGZcJt) | 5:17 | 2020-09-13\* | 2021-03-06 |
+| [Last Time](https://open.spotify.com/track/3r2FSdNto1jIArfK6WeiIb) | [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Amadea](https://open.spotify.com/artist/6b6O55rHSZAXU9Ro4KKGxy) | [Last Time](https://open.spotify.com/album/7GRomEijtussuPxGNsXEAo) | 2:25 | 2022-05-05 |  |
 | [Leave Me Low](https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Leave Me Low](https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f) | 2:58 | 2021-03-06 |  |
 | [Let Go \(El Día\)](https://open.spotify.com/track/571295eoFtv5NcQRUXbt4k) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Gazelle](https://open.spotify.com/artist/4avg26YpNfxui1Jl40RdFU) | [Let Go](https://open.spotify.com/album/31TBi8zTRhWs1tQqOs6WDK) | 2:47 | 2021-06-05 | 2021-11-11 |
 | [Let You Know](https://open.spotify.com/track/0ZKvsGwD3D8Y4orIQGyyBW) | [Carter.](https://open.spotify.com/artist/4FNkz4oChr6RwFLZqHQiX0), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Let You Know](https://open.spotify.com/album/3j0SwqbhvA8Aw0pmET5Wh9) | 2:43 | 2020-09-13\* |  |

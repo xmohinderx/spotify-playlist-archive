@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> \\m/ ft\. maggie lindemann
+> \\m/ ft\. yungblud + willow
 
-213 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+216 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Lazy Bones \(feat\. Boy Destroy\)](https://open.spotify.com/track/0GSdOOCnH72bwjeioW8dYb) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB), [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Lazy Bones \(feat\. Boy Destroy\)](https://open.spotify.com/album/7acp6aBWpECA3tBZd3ipxD) | 2:15 | 2022-01-07 | 2022-01-28 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-03-18 |  |
 | [LIKE YOU](https://open.spotify.com/track/7LQTL3hhiZ7ZXKt7dACDrK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [THE BEST DAY OF MY LIFE](https://open.spotify.com/album/2bzsluckPjoDg17ERuLJac) | 2:59 | 2022-01-07 | 2022-02-04 |
+| [Locked Out](https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Locked Out](https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA) | 2:56 | 2022-05-05 |  |
 | [looking at porn](https://open.spotify.com/track/2WLH4kW5gS9G5nPtoo8qGg) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [looking at porn](https://open.spotify.com/album/1v1VzddkiTxhqEaDhqtkdC) | 2:40 | 2022-01-21 | 2022-04-01 |
 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 | 2022-01-28 | 2022-03-11 |
 | [Losers](https://open.spotify.com/track/1eefRCECiFkeCI7QgcadsC) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Losers](https://open.spotify.com/album/07j0qkF5exWt26iXfRcnNf) | 2:57 | 2022-01-07 | 2022-02-04 |
@@ -131,6 +132,7 @@
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2022-01-07 | 2022-03-25 |
 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 | 2022-03-31 |  |
 | [me & ur ghost](https://open.spotify.com/track/5tiZBnx5IvETA0Pj3gELjn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:21 | 2021-12-31 | 2022-01-08 |
+| [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 | 2022-05-05 |  |
 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 | 2021-12-31 |  |
 | [Miss Jackson \(feat\. LOLO\)](https://open.spotify.com/track/46Kcradxrva9Dny4lHU1b3) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:12 | 2022-03-11 | 2022-04-01 |
 | [Molly](https://open.spotify.com/track/1kTZ1aERsOBTrihsDdGFNn) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [Tighter](https://open.spotify.com/album/1R7cyLXrVT4Y7PnXNk7NQl) | 1:44 | 2022-02-04 |  |
@@ -197,6 +199,7 @@
 | [The Downfall Of Us All](https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:29 | 2021-12-31 | 2022-01-08 |
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-11 |  |
 | [The Rock Show](https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 | 2021-12-31 | 2022-01-08 |
+| [this might be our last december](https://open.spotify.com/track/0vKSOTSPy2SgcChNoBR77c) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [just in case the world ends](https://open.spotify.com/album/3X1H1Xq8rAcMQUE27sSSzi) | 3:26 | 2022-05-05 |  |
 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2021-12-31 | 2022-01-08 |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2021-12-31 | 2022-01-08 |
 | [Time Machine](https://open.spotify.com/track/0tYfi7vl6FbspcxyGHCDCu) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Time Machine](https://open.spotify.com/album/30w21xul3TETE8LNZGLE5l) | 2:33 | 2022-01-07 | 2022-03-25 |

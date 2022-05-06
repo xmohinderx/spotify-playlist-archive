@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Sojabrat
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,965 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,088 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Keep IT Real](https://open.spotify.com/track/59VL7G69EtYe2LFJRhkfKr) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [B4BMG: The Experience](https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs) | 2:45 |
-| 2 | [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [Boa Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 |
-| 3 | [Stop The Rain](https://open.spotify.com/track/6ng5m6PFWXjKJTTaaqM38B) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O) | 1:49 |
-| 4 | [Look Ma I Did It](https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr) | [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/38x8ZVRRLJykh2x4gAeMMz) | 2:57 |
-| 5 | [R.T.T.B](https://open.spotify.com/track/40NuHUtRB6oedbFV1O2Rph) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [2 Effortless](https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz) | 2:10 |
-| 6 | [waY bacK wheN](https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [wheN iT rainS iT pourS](https://open.spotify.com/album/53zUIw0vdPLw5YhMwFBeWU) | 2:57 |
-| 7 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 |
-| 8 | [Fresh off the UFO](https://open.spotify.com/track/3RSK78MIagdtqYLvN4cWKN) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Fresh off the UFO](https://open.spotify.com/album/5ohRCDMjtNZq70x9SdKAwC) | 1:55 |
-| 9 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/6bkRx9TWQfP5rcRnS89oXI) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/52ux202UcTEFnp1Bojy1hu) | 2:17 |
+| 1 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/6bkRx9TWQfP5rcRnS89oXI) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/52ux202UcTEFnp1Bojy1hu) | 2:17 |
+| 2 | [Keep IT Real](https://open.spotify.com/track/59VL7G69EtYe2LFJRhkfKr) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [B4BMG: The Experience](https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs) | 2:45 |
+| 3 | [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [Boa Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 |
+| 4 | [Stop The Rain](https://open.spotify.com/track/6ng5m6PFWXjKJTTaaqM38B) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O) | 1:49 |
+| 5 | [Look Ma I Did It](https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr) | [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/38x8ZVRRLJykh2x4gAeMMz) | 2:57 |
+| 6 | [R.T.T.B](https://open.spotify.com/track/40NuHUtRB6oedbFV1O2Rph) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [2 Effortless](https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz) | 2:10 |
+| 7 | [waY bacK wheN](https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [wheN iT rainS iT pourS](https://open.spotify.com/album/53zUIw0vdPLw5YhMwFBeWU) | 2:57 |
+| 8 | [Jupiter & Mars](https://open.spotify.com/track/1BTECTa3NituN8LqXjrw2B) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Jupiter & Mars](https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU) | 3:16 |
+| 9 | [Fresh off the UFO](https://open.spotify.com/track/3RSK78MIagdtqYLvN4cWKN) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Fresh off the UFO](https://open.spotify.com/album/5ohRCDMjtNZq70x9SdKAwC) | 1:55 |
 | 10 | [New 50's](https://open.spotify.com/track/1E2ukB8wWsO5BFVrhpgg99) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [New 50's](https://open.spotify.com/album/16TFhLh8M2aSIfXhK7DxOr) | 1:54 |
 | 11 | [gi joe](https://open.spotify.com/track/2ex4Q6pNhTrDYcMyvGtp07) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [gi joe](https://open.spotify.com/album/0NxrfULUe9bC19XNeq0xAg) | 1:55 |
 | 12 | [GENIUS](https://open.spotify.com/track/61rjJ6RzWIu9UdzN5KfOCI) | [Kelow LaTesha](https://open.spotify.com/artist/6oUUlugyY0JajHnw3FYAKb) | [GENIUS](https://open.spotify.com/album/4u7q2kf1w8scoskKrPdx0E) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [Water](https://open.spotify.com/track/3xBwgrDop99r4pRMNnwDz0) | [Tizzy Stackz](https://open.spotify.com/artist/3oBYsMKXO4E5j6j3hzFygR), [Lil Berete](https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx) | [Water](https://open.spotify.com/album/7q8egUmkTzz2Nh2EtRP1n9) | 3:05 |
 | 50 | [toast to me](https://open.spotify.com/track/0GX2IFi49yh7BmudeyQNpn) | [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [toast to me](https://open.spotify.com/album/0lFj42FwIdOPB2O76yhPaS) | 2:17 |
 
-Snapshot ID: `MTY1MTY4MDAwMCwwMDAwMDEwYjAwMDAwMTgwOGZjY2I4OGYwMDAwMDE4MDAwNzA2ODYx`
+Snapshot ID: `MTY1MTc5MTYyOCwwMDAwMDEwYzAwMDAwMTgwOTY3NDA5OGUwMDAwMDE4MDAwNzA2ODYx`

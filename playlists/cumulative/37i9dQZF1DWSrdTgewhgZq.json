@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Hip-hop hits. Foto: Eminem",
+  "description": "Hip-hop hits. Foto: Future",
   "name": "DOPE.",
   "published_playlist_ids": [
     "5uxXRmYANYLYX4xEGWZNbz"
@@ -1492,6 +1492,32 @@
     },
     {
       "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
       },
@@ -1511,7 +1537,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 190261,
       "name": "Wave Gods",
       "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"

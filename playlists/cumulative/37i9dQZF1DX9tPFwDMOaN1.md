@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: PSY, SUGA
+> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: iKON
 
 122 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 

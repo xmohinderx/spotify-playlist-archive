@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-230 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+232 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Escape](https://open.spotify.com/track/7th2hXLHjvUPvxyxHt2IAU) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Escape](https://open.spotify.com/album/6Pft1eyl8GjbzywxAnAuen) | 3:44 | 2021-09-06 |  |
 | [Eternity](https://open.spotify.com/track/4XZz634KzXkHftaBVyKsS6) | [Slow Clouds](https://open.spotify.com/artist/2R3DV0jv4qC5PHxVnxhQMA) | [Eternity](https://open.spotify.com/album/5EbArSaUXMtF95S2sS4Gvv) | 3:21 | 2021-09-06 |  |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2021-09-06 |  |
+| [Europa](https://open.spotify.com/track/5A3kw1qZP3UQwzfALXmVFd) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Europa](https://open.spotify.com/album/0tvUIHd5KOv2cRnKPkzq5t) | 3:13 | 2022-05-05 |  |
 | [Evening Tide](https://open.spotify.com/track/3IVpqqweRwUvQ49ovda18Y) | [Catherine Holm](https://open.spotify.com/artist/4L8nmO7kqdX1K9ydfCfbh7) | [Evening Tide](https://open.spotify.com/album/5DMLJNgADhisXz3RpXQO9v) | 2:01 | 2021-09-06 |  |
 | [Ever Connecting Thoughts](https://open.spotify.com/track/6JsGwsk7OGOrzUJ3lueufO) | [Tim Gourolis](https://open.spotify.com/artist/5q8Q9Fa2WPZVwj5VR6XYgp) | [Ever Connecting Thoughts](https://open.spotify.com/album/6JnhFLK8LVjZAHUmRe3Wx3) | 3:18 | 2021-09-06 |  |
 | [Explorer](https://open.spotify.com/track/1t1cYrekvHwwpKl8PzEg2I) | [The Lost Astronaut](https://open.spotify.com/artist/2th806MD01Yc7JKd06uJ14) | [Stella](https://open.spotify.com/album/1ai1jBFImpmxd6KkSPZtMX) | 3:03 | 2021-09-06 |  |
@@ -213,6 +214,7 @@
 | [Timelapse](https://open.spotify.com/track/5S9d4zV0jeAKVmikBBpHoA) | [Avery Young](https://open.spotify.com/artist/1Uc5aI4Mz5c9SPUEjUga29) | [Still Waters](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 3:49 | 2021-09-06 |  |
 | [Timeless](https://open.spotify.com/track/2dqeTHHeyLioSSCn9L3xbc) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [Timeless](https://open.spotify.com/album/7Bs9jEwbi5uF0iVPd0NN0o) | 1:56 | 2021-09-06 |  |
 | [True Belonging](https://open.spotify.com/track/4traer7MzTsR7UAmC8t3il) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [True Belonging](https://open.spotify.com/album/4ja8zc2HYBGpJLAyednU1o) | 3:22 | 2022-03-04 |  |
+| [Tęsknota](https://open.spotify.com/track/3oilArNJ908kJ3GUkOPuzm) | [Idzi Kowalczyk](https://open.spotify.com/artist/5rmln9rtcpJK2jz9QDvmYa) | [Tęsknota](https://open.spotify.com/album/5Jm14NT2CpUrYwF5iFUOo4) | 3:11 | 2022-05-05 |  |
 | [Under a Cloud](https://open.spotify.com/track/2rbk8KIJi5m1GA2gQepA98) | [Across The Great Valley](https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav) | [Cold Light of Day](https://open.spotify.com/album/7Kmi7xXY7piM5RzMDen8qd) | 2:52 | 2021-09-06 |  |
 | [Under The Wind](https://open.spotify.com/track/4YS6FM8lct3QyV2oGIrCp4) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Under The Wind](https://open.spotify.com/album/6E1x5WibS1p1kHsDuXfiau) | 4:00 | 2021-09-06 |  |
 | [Understudy](https://open.spotify.com/track/0Y41ZfnVaNRQp9dQiagwbC) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Understudy](https://open.spotify.com/album/3VcIkzC32KOKkJNheSSwzW) | 2:43 | 2021-09-06 |  |

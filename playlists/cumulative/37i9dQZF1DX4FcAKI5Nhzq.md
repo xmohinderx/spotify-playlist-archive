@@ -2,7 +2,7 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: Moon Byul
+> Future K\-Pop hits! Cover: LE SSERAFIM
 
 553 songs - 1 day 6 hr 59 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
@@ -161,7 +161,7 @@
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-07 | 2022-03-03 |
 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 | 2021-02-20 | 2021-05-11 |
 | [Excalibur](https://open.spotify.com/track/1SLDcZRnr6zHJOsFqO9T8n) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom : PartⅠ\. Arthur](https://open.spotify.com/album/1Vf3hY3aLfTVhPLiXU8HR7) | 4:13 | 2021-03-01 | 2021-05-05 |
-| [Eye On You](https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Obsession](https://open.spotify.com/album/7KgsAlBnzkH1vyYluTUtUd) | 3:06 | 2022-02-17 |  |
+| [Eye On You](https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Obsession](https://open.spotify.com/album/7KgsAlBnzkH1vyYluTUtUd) | 3:06 | 2022-02-17 | 2022-05-06 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy) | 3:35 | 2021-10-28 | 2022-01-13 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-03 |  |
 | [Feel Good \(SECRET CODE\)](https://open.spotify.com/track/2ZpL1wqiiQ3DUWEjo8CgFL) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [My Little Society](https://open.spotify.com/album/6XPT0rwyyZnG4Z2lJAych2) | 3:44 | 2020-10-13\* | 2021-01-18 |

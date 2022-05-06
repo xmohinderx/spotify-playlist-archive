@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 464329,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5Zk4iUcotUIcyPeanblxS3"
@@ -194,6 +194,32 @@
     },
     {
       "album": {
+        "name": "Clandestina (feat. Emma Peters) [Cocaina Remix]",
+        "url": "https://open.spotify.com/album/06IeiiR0ZXsBmrBxJ35t82"
+      },
+      "artists": [
+        {
+          "name": "FILV",
+          "url": "https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0"
+        },
+        {
+          "name": "Edmofo",
+          "url": "https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ"
+        },
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150106,
+      "name": "Clandestina (feat. Emma Peters) - Cocaina Remix",
+      "url": "https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez"
+    },
+    {
+      "album": {
         "name": "Closer (Erick T Remix)",
         "url": "https://open.spotify.com/album/2CsgK10ycscnJNzf9KQs2D"
       },
@@ -213,7 +239,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 180008,
       "name": "Closer - Erick T Remix",
       "url": "https://open.spotify.com/track/3W09dhuCx6kktI7pwo2BZj"
@@ -301,7 +327,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 304761,
       "name": "Dark Light",
       "url": "https://open.spotify.com/track/3qFs2JFS2fDSfC5SoJFB7p"
@@ -1031,7 +1057,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 256551,
       "name": "Pandemia",
       "url": "https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8"
@@ -1413,7 +1439,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 315826,
       "name": "V\u00edctor Jara",
       "url": "https://open.spotify.com/track/5Uyp05hXNyZ36m4oUzhS4G"

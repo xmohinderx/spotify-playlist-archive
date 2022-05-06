@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-257 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
+259 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/1lBmyE41azvWjLpkavRKq1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2021-11-10 |  |
 | [Calibration of the Mind](https://open.spotify.com/track/19SLzhOkxgb3nns5m2qp93) | [Sleep Lab](https://open.spotify.com/artist/5m6EST12WzdTRdYKtk5w7W) | [Perfect Parameters](https://open.spotify.com/album/6goUgF0Cx4l1AlO1Xk9rv7) | 2:35 | 2021-11-10 |  |
 | [Calm](https://open.spotify.com/track/2LxskIBEuhVXVpl0w4WLne) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Calm](https://open.spotify.com/album/2Gq3PzfqwVrFHOCyWMEQNP) | 2:59 | 2021-11-10 |  |
+| [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 |  |
 | [Campus](https://open.spotify.com/track/2PUoynqedBx15JbPYxzA5v) | [Løkss](https://open.spotify.com/artist/4BDykan7916A0AbhBtzDE6) | [Campus](https://open.spotify.com/album/7INe8nJOpKW1XVClOBvjmo) | 3:39 | 2021-11-10 |  |
 | [Caring](https://open.spotify.com/track/1MaL94GiYXnWEExO4tPo3w) | [Bonnie Mathis](https://open.spotify.com/artist/1lyM0WTssQ6UictS7BOoOr) | [Caring](https://open.spotify.com/album/2lfMq9oDRUDgd8BE5VoiNk) | 3:33 | 2021-11-10 |  |
 | [Catnap](https://open.spotify.com/track/5Ni1Fb5zLruSbDwAoKdoPF) | [Mina Donovan](https://open.spotify.com/artist/5tGJFD9qXBdOKrOlhIXOBk) | [Catnap](https://open.spotify.com/album/4NTRDYA9fWjwHH2Wc2Jxxr) | 2:42 | 2021-11-10 | 2022-02-03 |
@@ -154,6 +155,7 @@
 | [Mind](https://open.spotify.com/track/7DvR34weBiIehUpND2sN6O) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:31 | 2021-11-10 |  |
 | [Mist](https://open.spotify.com/track/1cDxN422npw3wU2ZfY6Qb9) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [Mist](https://open.spotify.com/album/2U7MoXvOHyKZorf993LEDt) | 2:58 | 2021-11-10 |  |
 | [Mitigation](https://open.spotify.com/track/7CTMv3eJZ3mQ618kZWAb6f) | [Lorne Kroos](https://open.spotify.com/artist/6Wk6weno4MPG3dutdTNbDD) | [Mitigation](https://open.spotify.com/album/6CqhHR1DRyQHasTVtE7aHN) | 3:31 | 2021-11-10 |  |
+| [Mo Chroidhe](https://open.spotify.com/track/01yqm6MIIlCdOXCtrYJpRx) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Mo Chroidhe](https://open.spotify.com/album/4d0cCBHVGlmqCqqW3dffzg) | 3:02 | 2022-05-05 |  |
 | [Moment Of Peace](https://open.spotify.com/track/1eENdH1bdiDgMIWy4FKle1) | [Dreams And Memories](https://open.spotify.com/artist/48XZ2sN06Hn9eJOczKtzqN) | [Moment Of Peace](https://open.spotify.com/album/3GBgOD6EbeFFlMoQfmurHB) | 2:55 | 2021-11-10 |  |
 | [Moment To Moment](https://open.spotify.com/track/4vOHJJO8fJudz8JVVG9av6) | [Modal Colours](https://open.spotify.com/artist/6J7iKiucfuY6yg4dp0b67i) | [Moment To Moment](https://open.spotify.com/album/17QORfdYpsGqQ3D74hUPCx) | 2:35 | 2021-11-10 |  |
 | [Moments of Stillness](https://open.spotify.com/track/6m9JbPIC8saBo8pVm08x0j) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Moments Of Stillness](https://open.spotify.com/album/4nikff5wMmknaIkoqtzQrz) | 3:02 | 2021-11-10 |  |

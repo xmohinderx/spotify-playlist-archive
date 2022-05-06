@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Welcome back Hardwell!",
+  "description": "Big rooms with big sounds. Cover: Hardwell",
   "name": "Big Room Dance",
   "published_playlist_ids": [
     "6qNCTGV1lgbBTyQi4Ez9QG"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 248888,
       "name": "Acid Soul",
       "url": "https://open.spotify.com/track/5nQmCDsgTXUx9AlhKJPfY5"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 145312,
       "name": "AIR",
       "url": "https://open.spotify.com/track/7LCsrG7NKsd1gb7dVT2qxk"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 193846,
       "name": "Bulldog",
       "url": "https://open.spotify.com/track/19nsltZHkVqAcbb2l88nZl"
@@ -621,10 +621,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 180951,
       "name": "Dream Team",
       "url": "https://open.spotify.com/track/2L56RffNEmWcocoXKcbk0Q"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot"
     },
     {
       "album": {
@@ -885,7 +903,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 189004,
       "name": "Founding Fathers",
       "url": "https://open.spotify.com/track/0XvtB7JNbIvWaQGVAy8amP"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Funky Town",
       "url": "https://open.spotify.com/track/4A7aOnpjE4yytIbXTg6BxT"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 208095,
       "name": "Kill Me Slow",
       "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 157884,
       "name": "Make It Louder",
       "url": "https://open.spotify.com/track/4ncKmpQLkgdUWf7HUpWc8K"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 191250,
       "name": "Massive",
       "url": "https://open.spotify.com/track/41NEHLGt9hJul5U0IBad8b"
@@ -1624,6 +1642,24 @@
     },
     {
       "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156328,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
+    },
+    {
+      "album": {
         "name": "Odin",
         "url": "https://open.spotify.com/album/1ec8L03O4FiLIpVmqmHHIa"
       },
@@ -1639,7 +1675,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 231750,
       "name": "Odin",
       "url": "https://open.spotify.com/track/1P1UvsJcy7hzkCM43jNWaD"
@@ -1701,7 +1737,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 181908,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/3LPtsTvGpHtVgwja5VZFRb"
@@ -1719,7 +1755,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 147656,
       "name": "Peru",
       "url": "https://open.spotify.com/track/5GTboKbndutgM0oJOMpzTC"
@@ -1811,7 +1847,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 185952,
       "name": "Raindrops (feat. Chacel)",
       "url": "https://open.spotify.com/track/1HGJjjDGNT5uhoNRRGt8Z7"
@@ -1855,7 +1891,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 159640,
       "name": "Rampage (Free Fire Rampage Theme Song)",
       "url": "https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE"
@@ -2411,7 +2447,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 162461,
       "name": "The Passenger (LaLaLa) [feat. MOKABY] - Gabry Ponte Festival Mix",
       "url": "https://open.spotify.com/track/0LpWBNqyyn81WnoILV9mxV"
@@ -2513,7 +2549,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 193154,
       "name": "Turn Up The Bass",
       "url": "https://open.spotify.com/track/16mgFU72kDK6o1bGzqitT6"
@@ -2663,7 +2699,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 195387,
       "name": "We Love Hardcore",
       "url": "https://open.spotify.com/track/5HUEkmgvW0nVojSP1lZasg"
@@ -2693,7 +2729,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 196521,
       "name": "Yama",
       "url": "https://open.spotify.com/track/6IDkdabcsyZmLQDCMtp6An"

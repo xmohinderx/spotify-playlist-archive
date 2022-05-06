@@ -1,12 +1,12 @@
 {
   "description": "Feel-good tunes for your Cinco de Mayo. \u00a1Salud!",
-  "num_followers": 34571,
+  "num_followers": 36563,
   "original_name": "Cinco de Mayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTcxMjQ3OSwwMDAwMDAwMGEwZTZmOTAzODA0MWE1ZDcxZTNkMjFhYWM0NmJhMzQy",
+  "snapshot_id": "MTY1MTc5ODM4MiwwMDAwMDAwMGY2YWYxM2EzNTM1MjJiNjgyZmEzNWEyZDFjMTM5M2Ux",
   "tracks": [
     {
       "added_at": "2022-05-02 17:26:28",
@@ -23,22 +23,6 @@
       "duration_ms": 187524,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2022-05-02 17:26:28",
@@ -63,18 +47,18 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
-        "name": "Historia De Un Idolo Vol.II",
-        "url": "https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 154226,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH"
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2022-05-02 17:26:28",
@@ -111,6 +95,22 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/50h6l1JyfIScae2246HXru"
       },
@@ -131,154 +131,18 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "En Tu Perra Vida",
-        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 238677,
-      "name": "En Tu Perra Vida",
-      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Volver Volver",
-      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 258355,
-      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Jefe De Jefes",
-        "url": "https://open.spotify.com/album/68Ycn9k1YEXKPbbx5p8lMe"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Jefe De Jefes",
-      "url": "https://open.spotify.com/track/0gSZb3cwP9G6Byd6Z7acbi"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Durmiendo en el Lugar Equivocado",
-        "url": "https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 148693,
-      "name": "La Fiesta en Acci\u00f3n",
-      "url": "https://open.spotify.com/track/3xX5uR8mDntlOXZ3FbdEqh"
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2022-05-02 17:26:28",
@@ -299,6 +163,38 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
+        "name": "Para Tucancillos y Tucancillas",
+        "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Volver Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -315,106 +211,18 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
-        "name": "Ticket De Salida",
-        "url": "https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 184520,
-      "name": "Ticket De Salida",
-      "url": "https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Pau Factor",
-        "url": "https://open.spotify.com/album/5aJbHf0uuWc09nain4j3wl"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 162706,
-      "name": "Dame Otro Tequila",
-      "url": "https://open.spotify.com/track/1vJcLbQyYRfmCoiyXKTsLk"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Cruzando Fronteras",
-        "url": "https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Monterrey",
-        "url": "https://open.spotify.com/album/5e62RmU6dB91wQA6TWrIyL"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Pain Digital",
-          "url": "https://open.spotify.com/artist/3ROBnT2BmT0WBbwJCOxtRD"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Monterrey",
-      "url": "https://open.spotify.com/track/6y6xATSjOC2EpMTJh51R4v"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Amor A La Mexicana",
-        "url": "https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Amor A La Mexicana",
-      "url": "https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Para Tucancillos y Tucancillas",
-        "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy"
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
       "added_at": "2022-05-02 17:26:28",
@@ -455,6 +263,126 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
+        "name": "En Tu Perra Vida",
+        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 238677,
+      "name": "En Tu Perra Vida",
+      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Historia De Un Idolo Vol.II",
+        "url": "https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 148693,
+      "name": "La Fiesta en Acci\u00f3n",
+      "url": "https://open.spotify.com/track/3xX5uR8mDntlOXZ3FbdEqh"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Amor A La Mexicana",
+        "url": "https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Amor A La Mexicana",
+      "url": "https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Cruzando Fronteras",
+        "url": "https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
+        "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Mis Sentimientos",
+      "url": "https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -467,6 +395,66 @@
       "duration_ms": 283240,
       "name": "Rumba Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Ticket De Salida",
+        "url": "https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 184520,
+      "name": "Ticket De Salida",
+      "url": "https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Monterrey",
+        "url": "https://open.spotify.com/album/5e62RmU6dB91wQA6TWrIyL"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Pain Digital",
+          "url": "https://open.spotify.com/artist/3ROBnT2BmT0WBbwJCOxtRD"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Monterrey",
+      "url": "https://open.spotify.com/track/6y6xATSjOC2EpMTJh51R4v"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 252946,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
     },
     {
       "added_at": "2022-05-02 17:26:28",
@@ -507,18 +495,38 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
-        "name": "Tus Jefes No Me Quieren",
-        "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
+        "name": "Pau Factor",
+        "url": "https://open.spotify.com/album/5aJbHf0uuWc09nain4j3wl"
       },
       "artists": [
         {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 224256,
-      "name": "Tus Jefes No Me Quieren",
-      "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
+      "duration_ms": 162706,
+      "name": "Dame Otro Tequila",
+      "url": "https://open.spotify.com/track/1vJcLbQyYRfmCoiyXKTsLk"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 258355,
+      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
     },
     {
       "added_at": "2022-05-02 17:26:28",
@@ -535,26 +543,6 @@
       "duration_ms": 223453,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/6ywAdlGT8mgYmuCts7YYtd"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
-        "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Mis Sentimientos",
-      "url": "https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p"
     },
     {
       "added_at": "2022-05-02 17:26:28",
@@ -583,42 +571,6 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
-        "name": "El Shot",
-        "url": "https://open.spotify.com/album/52dvQjFBqkmznqKe9m8lVV"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 160986,
-      "name": "El Shot",
-      "url": "https://open.spotify.com/track/050LR97VqIBFqQ57IJUyHY"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 252946,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
         "name": "M\u00e1s Caro, que ayer",
         "url": "https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd"
       },
@@ -635,6 +587,38 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
+        "name": "Tus Jefes No Me Quieren",
+        "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+        }
+      ],
+      "duration_ms": 224256,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "El Shot",
+        "url": "https://open.spotify.com/album/52dvQjFBqkmznqKe9m8lVV"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 160986,
+      "name": "El Shot",
+      "url": "https://open.spotify.com/track/050LR97VqIBFqQ57IJUyHY"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -647,6 +631,54 @@
       "duration_ms": 212000,
       "name": "La ingrata",
       "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "Jefe De Jefes",
+        "url": "https://open.spotify.com/album/68Ycn9k1YEXKPbbx5p8lMe"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Jefe De Jefes",
+      "url": "https://open.spotify.com/track/0gSZb3cwP9G6Byd6Z7acbi"
+    },
+    {
+      "added_at": "2022-05-02 17:26:28",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
     },
     {
       "added_at": "2022-05-02 17:26:28",
@@ -671,42 +703,42 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
-        "name": "Cinco De Mayo",
-        "url": "https://open.spotify.com/album/0ZvRbWjsPCPaIw1jjnAtIq"
+        "name": "Super 1's Mega Hits",
+        "url": "https://open.spotify.com/album/6V2aVcZUAtZ9k87BUFCvhP"
       },
       "artists": [
         {
-          "name": "El Dusty",
-          "url": "https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB"
+          "name": "Hechizeros Band",
+          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
         },
         {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
         },
         {
-          "name": "Morenito De Fuego",
-          "url": "https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/37tu48Y5bFE1LRuF5zDSfo"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Cinco De Mayo",
-      "url": "https://open.spotify.com/track/68NuIOBewsVmJ7mo08JTSe"
+      "duration_ms": 200226,
+      "name": "El Sonidito - Urban Version",
+      "url": "https://open.spotify.com/track/5FUDRZZrHzK2EA7nokdJWY"
     },
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
+        "name": "Why Can't We Be Friends?",
+        "url": "https://open.spotify.com/album/6IaC3IRa3OAl6bHmdmjPTf"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
         }
       ],
-      "duration_ms": 182106,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+      "duration_ms": 191560,
+      "name": "Low Rider",
+      "url": "https://open.spotify.com/track/2fmMPJb5EzZCx8BcNJvVk4"
     },
     {
       "added_at": "2022-05-02 17:26:28",
@@ -727,54 +759,18 @@
     {
       "added_at": "2022-05-02 17:26:28",
       "album": {
-        "name": "Electric City",
-        "url": "https://open.spotify.com/album/199M8a384GDDU13cXUob3j"
+        "name": "Estos Tragos Van Por Ti",
+        "url": "https://open.spotify.com/album/4toVgPcbyFxBrTqh7irjEZ"
       },
       "artists": [
         {
-          "name": "Mexican Dubweiser",
-          "url": "https://open.spotify.com/artist/12yHJOqkoLAJ1zE3VTlSa8"
-        },
-        {
-          "name": "Rocky Dawuni",
-          "url": "https://open.spotify.com/artist/4NQybqFNuJt02nyGh9eCEC"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 208413,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/4Il9SInQxqpu3EVGL5z54T"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Ca\u00f1onazo Electrocumbiero",
-        "url": "https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 137018,
-      "name": "Cumbia",
-      "url": "https://open.spotify.com/track/4BxlJwzmKAL0JLBJ1r8k9O"
-    },
-    {
-      "added_at": "2022-05-02 17:26:28",
-      "album": {
-        "name": "Why Can't We Be Friends?",
-        "url": "https://open.spotify.com/album/6IaC3IRa3OAl6bHmdmjPTf"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Low Rider",
-      "url": "https://open.spotify.com/track/2fmMPJb5EzZCx8BcNJvVk4"
+      "duration_ms": 144642,
+      "name": "Estos Tragos Van Por Ti",
+      "url": "https://open.spotify.com/track/0ZxFFIJg3TzEoVcuj08rA2"
     }
   ],
   "unique_name": "Cinco de Mayo",

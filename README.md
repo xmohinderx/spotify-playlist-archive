@@ -737,7 +737,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Country Worldwide Hot 50](/playlists/pretty/37i9dQZF1DX7aUUBCKwo4Y.md)
 - [Country by the Grace of God](/playlists/pretty/37i9dQZF1DWU2LcZVHsTdv.md)
 - [Country's Greatest Hits](/playlists/pretty/37i9dQZF1DWZBCPUIUs2iR.md)
-- [Coupe Decale](/playlists/pretty/37i9dQZF1DX0z1epx5KTtS.md)
+- [Coupé Decalé](/playlists/pretty/37i9dQZF1DX0z1epx5KTtS.md)
 - [Covered In Punk](/playlists/pretty/37i9dQZF1DXaDzsRodF91I.md)
 - [Covered in Country](/playlists/pretty/0jJQDST7bzwAYlN19tFLXw.md)
 - [Cozinhando em Casa](/playlists/pretty/37i9dQZF1DWWA91mpJ5Ldc.md)

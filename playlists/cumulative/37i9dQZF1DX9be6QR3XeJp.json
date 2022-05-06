@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists. Cover: ShaSimone",
+  "description": "Discover your new favourite artists. Cover: Barry Can't Swim",
   "name": "RADAR: First Listen",
   "published_playlist_ids": [
     "6qn9QC3gawWvZcEMTsuVpt"
@@ -577,6 +577,24 @@
       "duration_ms": 203247,
       "name": "Falling Asleep At The Wheel",
       "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
+    },
+    {
+      "album": {
+        "name": "Fiorucci Made Me Hardcore",
+        "url": "https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Fiorucci Made Me Hardcore",
+      "url": "https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT"
     },
     {
       "album": {

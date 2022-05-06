@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 219533,
       "name": "Hawel Tensany",
       "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 253895,
       "name": "Kefayak Aazar",
       "url": "https://open.spotify.com/track/25HgTWTcPXoEF0mjSYrIpy"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 278546,
       "name": "Mel Bedaya",
       "url": "https://open.spotify.com/track/2j9B8YHcnxDwiDNZg6UXFl"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 221400,
       "name": "Omer Aasal",
       "url": "https://open.spotify.com/track/0joxJdOyy3wuhQdcxdP9RW"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 297570,
       "name": "Waga'a El Hawa",
       "url": "https://open.spotify.com/track/1YW1dJLhxxlDab19RkeIQz"
@@ -1823,7 +1823,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 237217,
       "name": "Zina",
       "url": "https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF"
@@ -1845,6 +1845,24 @@
       "duration_ms": 189130,
       "name": "Zuruni",
       "url": "https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0627\u0644\u0646\u0627\u0634 \u0627\u0644\u0627 \u0628\u0639\u0636",
+        "url": "https://open.spotify.com/album/33pX4SvxjRcSSaR1hQCLVL"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343376,
+      "name": "\u0625\u0648\u0639\u062f\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/0IVKMWovu9jtiHDRKn4HvE"
     },
     {
       "album": {
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 252000,
       "name": "\u062f\u0627\u0631 \u064a\u0627 \u062f\u0627\u0631 (feat. Eftekasat)",
       "url": "https://open.spotify.com/track/2HjAvbDnZIiwH2bXLgYvn2"

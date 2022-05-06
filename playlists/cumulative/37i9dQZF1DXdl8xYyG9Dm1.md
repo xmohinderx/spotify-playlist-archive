@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kLYGxjE1TfCkb\-j\_igjP\_Q"> Black Sherif </a>
 
-96 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
+97 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 | 2021-10-14 |  |
 | [Culture](https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/20rCv5TASuxaLAgd8Icw1V) | 3:28 | 2022-03-11 |  |
 | [danser](https://open.spotify.com/track/576lLNRA4HnejTI5Q0c3zd) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [danser](https://open.spotify.com/album/2fmRDcnFbSR2T9oxDVcXPw) | 2:24 | 2022-02-17 |  |
-| [David](https://open.spotify.com/track/04C965GjVjZ5QkqpykklEB) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [B4Now](https://open.spotify.com/album/0n3oKXQQknEwbBywUgiBzp) | 3:52 | 2021-10-14 |  |
+| [David](https://open.spotify.com/track/04C965GjVjZ5QkqpykklEB) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [B4Now](https://open.spotify.com/album/0n3oKXQQknEwbBywUgiBzp) | 3:52 | 2021-10-14 | 2022-05-06 |
 | [DRK SKN](https://open.spotify.com/track/15LjBARGx20a8qAiNF4T0H) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:01 | 2022-02-17 |  |
 | [ENFANTS DE LA PATRIE \(feat\. Naps\)](https://open.spotify.com/track/5QZFdEwqd97XcqQnrLgMcr) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [L'EMPIRE DE MÉROÉ](https://open.spotify.com/album/3xguQ5iKIFjG2z3GjfG8We) | 2:43 | 2021-12-02 | 2022-02-04 |
 | [Ethiopia](https://open.spotify.com/track/6lx4aUEcnR7sojpxEQu4mV) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:05 | 2021-11-18 | 2022-03-25 |
@@ -63,6 +63,7 @@
 | [Midf \(Money I Dey Find\)](https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Quarantunes](https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV) | 3:40 | 2021-10-14 |  |
 | [Motivation](https://open.spotify.com/track/2zmtVdWZ37PZEbN8lx5cou) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [Motivation](https://open.spotify.com/album/1Ut7ddhsn6VzMATPYtNbpw) | 3:06 | 2021-11-11 | 2022-03-08 |
 | [Mud](https://open.spotify.com/track/5GWqKTUOOFf7jH0T8GOsfP) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [Mud](https://open.spotify.com/album/4sQjiqXrRvUpwpCpgjn6Q3) | 2:34 | 2021-10-14 |  |
+| [My Way](https://open.spotify.com/track/1GQnMal8SSHDZLeoOoD0JL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Connecting the Dots](https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX) | 3:20 | 2022-05-05 |  |
 | [Next Up](https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 2:02 | 2022-04-21 |  |
 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 | 2021-12-21 |  |
 | [Ox](https://open.spotify.com/track/4ZudOHw5GMiugumo4VgCQv) | [Gabe 'Nandez](https://open.spotify.com/artist/7dD9zcdQrFX9LypKkK5LVW) | [Ox](https://open.spotify.com/album/7fRda1dXtIniKmUYXbuTOJ) | 2:38 | 2021-10-14 | 2022-03-17 |

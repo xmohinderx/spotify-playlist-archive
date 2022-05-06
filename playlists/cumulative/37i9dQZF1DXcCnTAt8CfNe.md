@@ -4,10 +4,11 @@
 
 > Soothe your mind with gentle instrumentals.
 
-212 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+213 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Light in the dark](https://open.spotify.com/track/3FqKLJItPFAY2JVEQEzuHg) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Change](https://open.spotify.com/album/3VD9sJqEFEWtv9KjQaXYt1) | 2:29 | 2022-05-05 |  |
 | [A Message of Hope](https://open.spotify.com/track/4B3sBWHD5rfWtkXCdYwrFq) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:26 | 2021-12-09 |  |
 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 | 2021-12-09 |  |
 | [After The Rain](https://open.spotify.com/track/4AyYtj639eTCj84hyaee28) | [Giovanna Gallo](https://open.spotify.com/artist/2vmNQKFEBJ85NupICrIMUT) | [After The Rain](https://open.spotify.com/album/2DrKbf1pApesHoTExO3hLP) | 2:40 | 2022-02-03 |  |
@@ -79,7 +80,7 @@
 | [Harvest](https://open.spotify.com/track/0ICfYaolLKtzKeRDucQu2u) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Liberté](https://open.spotify.com/album/4qqa8SGNzbh0jPERO7yoAk) | 4:40 | 2021-12-09 |  |
 | [Hush](https://open.spotify.com/track/2WsGdaZkFsUSrpn4QVWcI1) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Quietude](https://open.spotify.com/album/3BEKM1H1FgNCGmDRJZICfD) | 2:50 | 2021-12-09 |  |
 | [Hush](https://open.spotify.com/track/7JDULs0oIly6dVLDZLUNkd) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Hush](https://open.spotify.com/album/2Exc7jItLMt5PF3jtqemVE) | 2:28 | 2021-12-09 |  |
-| [I Promise](https://open.spotify.com/track/1XH3miXC6EsroQKHct8ygN) | [Gary Koepp](https://open.spotify.com/artist/03b5zfYHJxK8v6IpTnVUlX) | [I Promise](https://open.spotify.com/album/2o2U7cZ6PCZMe1nGR6ZDH1) | 3:23 | 2021-12-09 |  |
+| [I Promise](https://open.spotify.com/track/1XH3miXC6EsroQKHct8ygN) | [Gary Koepp](https://open.spotify.com/artist/03b5zfYHJxK8v6IpTnVUlX) | [I Promise](https://open.spotify.com/album/2o2U7cZ6PCZMe1nGR6ZDH1) | 3:23 | 2021-12-09 | 2022-05-06 |
 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 | 2021-12-09 |  |
 | [In Bloom](https://open.spotify.com/track/60nhoUdtsUq4FOwts7B2bM) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [In Bloom](https://open.spotify.com/album/1JdYFFVhnjTmj0lOXGwzZy) | 2:59 | 2021-12-09 |  |
 | [In the deep](https://open.spotify.com/track/0KCrx98nbNZoy4y0GYA4l1) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [In the deep](https://open.spotify.com/album/3zUScCSyKqXMIGVrOrz1Bt) | 2:56 | 2022-02-03 |  |

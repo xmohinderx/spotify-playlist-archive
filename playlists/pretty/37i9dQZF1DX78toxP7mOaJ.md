@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Gretel Hänlyn \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,021 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,094 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 61 | [Fine Everything](https://open.spotify.com/track/2uMB0oBd8A2RuW1MW1CwSz) | [CIEL](https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g) | [Fine Everything](https://open.spotify.com/album/3V3xhOgIQ6neWBN3hXevSZ) | 3:08 |
 | 62 | [Storyteller](https://open.spotify.com/track/1LeY0GzMcLwAc2NQe9RCUf) | [Maggie Koerner](https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe) | [The Bartholomew Songs](https://open.spotify.com/album/24cBWx1hlT9GUBZBOJjcal) | 4:32 |
 | 63 | [Shadow](https://open.spotify.com/track/6py2BcgFyBBocwb5n1soLr) | [3lh](https://open.spotify.com/artist/3ZJ3kHmCqRUqK4fYltHc7f) | [Shadow](https://open.spotify.com/album/0P5f5jogXYq4nTgv1t6DgT) | 3:20 |
-| 64 | [Caroline](https://open.spotify.com/track/5pCroNlo5jGxjbTCeDtIHK) | [PHONY](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [Caroline](https://open.spotify.com/album/6V6H3JcUSmbJGFiRxuEgic) | 3:14 |
+| 64 | [CAROLINE](https://open.spotify.com/track/5pCroNlo5jGxjbTCeDtIHK) | [PHONY](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [CAROLINE](https://open.spotify.com/album/6V6H3JcUSmbJGFiRxuEgic) | 3:14 |
 | 65 | [Why Can't You Just Be Alone?](https://open.spotify.com/track/4UDudSdhStgE6O0aI8sMsZ) | [Nico Days](https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh) | [Why Can't You Just Be Alone?](https://open.spotify.com/album/4AEbvfJQ0LiGbDCHVQJmho) | 3:48 |
 | 66 | [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 |
 | 67 | [Bluefish Season](https://open.spotify.com/track/1TxcVW0JrUaFqCe6pYvNWB) | [Nick Cianci](https://open.spotify.com/artist/01ZS9jjsggYfg27iw7AoDp) | [Bluefish Season](https://open.spotify.com/album/7H5ddbP95iKkJi98V9FJOz) | 4:29 |

@@ -562,6 +562,24 @@
     },
     {
       "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/35CJDMD5vmhwT4ybPlGRHa"
+      },
+      "artists": [
+        {
+          "name": "Stav Goldberg",
+          "url": "https://open.spotify.com/artist/5CRwdWuGHFsgGncNfFU3X2"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332579,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/2MdVE0AkcaD126zpvs3JPv"
+    },
+    {
+      "album": {
         "name": "Searching for Jupiter",
         "url": "https://open.spotify.com/album/31QdNyizKKlLYf8ZSdUOL5"
       },

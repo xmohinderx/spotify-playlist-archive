@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Quinn Christopherson Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,342 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,489 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

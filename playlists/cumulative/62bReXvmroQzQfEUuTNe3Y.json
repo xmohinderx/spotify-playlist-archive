@@ -2632,6 +2632,28 @@
     },
     {
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/7GRomEijtussuPxGNsXEAo"
+      },
+      "artists": [
+        {
+          "name": "yuma.",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+        },
+        {
+          "name": "Amadea",
+          "url": "https://open.spotify.com/artist/6b6O55rHSZAXU9Ro4KKGxy"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145487,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/3r2FSdNto1jIArfK6WeiIb"
+    },
+    {
+      "album": {
         "name": "Leave Me Low",
         "url": "https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f"
       },

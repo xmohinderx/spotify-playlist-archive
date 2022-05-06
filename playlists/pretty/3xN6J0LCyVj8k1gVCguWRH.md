@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,300 likes - 116 songs - 7 hr 15 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,293 likes - 123 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,14 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 112 | [Dreams](https://open.spotify.com/track/0GZgpLTjtWNeTLasSGRXl1) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [Dreams](https://open.spotify.com/album/3pNWwKyRTMLTUc7LxyVN9k) | 3:02 |
 | 113 | [Millennium](https://open.spotify.com/track/6nW3UvSHCY0OxbQsloPMGp) | [The Trusted](https://open.spotify.com/artist/08kAhC7OUPdnD0dGaX5OLG) | [Millennium](https://open.spotify.com/album/3ZQ9NmnDVn73LZ2hwD0sbl) | 3:05 |
 | 114 | [Replace Me](https://open.spotify.com/track/0txHLZBfuAtUN8ja8gZaFs) | [John Noble Barrack](https://open.spotify.com/artist/6lrpKE857HFC8ohwObzINB) | [Replace Me](https://open.spotify.com/album/15d1SCP6Pys7m0uzHeUo9V) | 2:46 |
-| 115 | [Perfume Factory](https://open.spotify.com/track/63jweZw2hIntUxwqrwO1FB) | [Most Unlikely](https://open.spotify.com/artist/19aotCWaO0iyku8ns8kyLg), [Rich Austin](https://open.spotify.com/artist/2EHPDKgWHuaXkeCAW4XbSX) | [Perfume Factory](https://open.spotify.com/album/3ShM0FaqIs5lZOJoic8SP4) | 3:18 |
-| 116 | [Feel Better](https://open.spotify.com/track/3CoMzJXWIRLfjZkgwSW6UE) | [Jonathan Shapiro](https://open.spotify.com/artist/3U38aUkSRa6JgTdDOrUawZ), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [Feel Better](https://open.spotify.com/album/7cBIhRfgxvKHY22RHYax9T) | 2:09 |
+| 115 | [Cold Hearted](https://open.spotify.com/track/7cB40VKCyeR4IZ90r0sVhN) | [SNJÜ](https://open.spotify.com/artist/4FZ3Wx6Mitb6txV51DqasS) | [Cold Hearted](https://open.spotify.com/album/6eMdFiAtpOGDNb868GgtGU) | 3:47 |
+| 116 | [Won't Break My Heart](https://open.spotify.com/track/2Q4x3dYRh3ucjEzORPq61C) | [Bella Delle](https://open.spotify.com/artist/2Ss9z0SG3FQwFJVpWoyafk), [Mr Pike](https://open.spotify.com/artist/2UNIOSRUFaaDEylaAo55m6) | [Won't Break My Heart](https://open.spotify.com/album/5hvckqMSzwpniUOrEnmU2m) | 2:43 |
+| 117 | [Simple](https://open.spotify.com/track/69tw7L2hMdaSQkzlxKJBu7) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Simple](https://open.spotify.com/album/79v6jLQmtk8iSbvDd32piX) | 2:59 |
+| 118 | [Perfume Factory](https://open.spotify.com/track/63jweZw2hIntUxwqrwO1FB) | [Most Unlikely](https://open.spotify.com/artist/19aotCWaO0iyku8ns8kyLg), [Rich Austin](https://open.spotify.com/artist/2EHPDKgWHuaXkeCAW4XbSX) | [Perfume Factory](https://open.spotify.com/album/3ShM0FaqIs5lZOJoic8SP4) | 3:18 |
+| 119 | [Aware](https://open.spotify.com/track/2bk1uzJ0s3d64AdtFwfgi4) | [FADES](https://open.spotify.com/artist/2VElyouiCfoYPDJluzwJwK), [Shaefri](https://open.spotify.com/artist/6Uue2zjsE8VBfcFVPBfMbP) | [Aware](https://open.spotify.com/album/2xBFIZEL2319Ux8euBOopg) | 2:36 |
+| 120 | [and then the earth opened up](https://open.spotify.com/track/0BHUY2vfypaJPKllvbxX70) | [Cam Jelli](https://open.spotify.com/artist/4yjpHRAT830MAdwdEXgGN5) | [Thoughts From A Black Hole](https://open.spotify.com/album/09NUOeaOhfSWyaZJrCix0j) | 2:54 |
+| 121 | [RWH](https://open.spotify.com/track/5CkSpEdTCQfKaYJyAhZcKW) | [51b](https://open.spotify.com/artist/3t4dtvAzT6mSui1MHYMpWg) | [RWH](https://open.spotify.com/album/6oVK0B8ZteUj4EGr4cFubz) | 3:08 |
+| 122 | [10oclock](https://open.spotify.com/track/0K7E3XnPSA1SYypzBC6q41) | [Jish](https://open.spotify.com/artist/0uFEORYGLa0d2KqJuK9Pyo) | [10oclock](https://open.spotify.com/album/4FP7n81L4wM3ioX0Y4MkrP) | 4:06 |
+| 123 | [Feel Better](https://open.spotify.com/track/3CoMzJXWIRLfjZkgwSW6UE) | [Jonathan Shapiro](https://open.spotify.com/artist/3U38aUkSRa6JgTdDOrUawZ), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [Feel Better](https://open.spotify.com/album/7cBIhRfgxvKHY22RHYax9T) | 2:09 |
 
-Snapshot ID: `MjgwNCxhZmM2OTdmZjc5MjZmNzY5OWUxZWM1M2MzOWI1N2RjNWEzYjM1OTk2`
+Snapshot ID: `MjgxMSw3NTIyYTY5ZDk3MGU1NWMwNWE5NDNhNzdlZTYzNTQyMDExYjM5NDQx`

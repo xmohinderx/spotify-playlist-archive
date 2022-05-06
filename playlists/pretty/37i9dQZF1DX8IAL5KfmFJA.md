@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 
 > In loving memory of Marie Fredriksson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,786 likes - 52 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,897 likes - 52 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let Your Heart Dance With Me](https://open.spotify.com/track/6Zz5roTd5pRgkrH7Mc8qdh) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Let Your Heart Dance With Me](https://open.spotify.com/album/7CCCA04QzihpAgSqXdatI7) | 3:07 |
-| 2 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |
-| 3 | [Fading Like A Flower](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Fading Like A Flower](https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT) | 2:25 |
+| 1 | [Fading Like A Flower](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Fading Like A Flower](https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT) | 2:25 |
+| 2 | [Let Your Heart Dance With Me](https://open.spotify.com/track/6Zz5roTd5pRgkrH7Mc8qdh) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Let Your Heart Dance With Me](https://open.spotify.com/album/7CCCA04QzihpAgSqXdatI7) | 3:07 |
+| 3 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |
 | 4 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:18 |
-| 5 | [Fading Like A Flower \(Every Time You Leave\)](https://open.spotify.com/track/7qSd3WHSPUtmt6c36pwJaY) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Deluxe Version\)](https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R) | 3:50 |
-| 6 | [The Look](https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 3:57 |
-| 7 | [Dressed For Success](https://open.spotify.com/track/5hRXW7bDPwj08jTI74N3gg) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 4:09 |
+| 5 | [The Look](https://open.spotify.com/track/0ZfM5XfJTtFPhOxAERRnNY) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 3:57 |
+| 6 | [Dressed For Success](https://open.spotify.com/track/5hRXW7bDPwj08jTI74N3gg) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 4:09 |
+| 7 | [Fading Like A Flower \(Every Time You Leave\)](https://open.spotify.com/track/7qSd3WHSPUtmt6c36pwJaY) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Deluxe Version\)](https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R) | 3:50 |
 | 8 | [Joyride \- Single Version](https://open.spotify.com/track/3Skwc4sh1QHUGcWrFBFWSF) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:01 |
 | 9 | [Spending My Time](https://open.spotify.com/track/47PQWnMc01EmIH0PD2UuGb) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Deluxe Version\)](https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R) | 4:35 |
 | 10 | [Dangerous](https://open.spotify.com/track/756YOXmKh2iUnx33nAdfPf) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 3:48 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 51 | [She's Got Nothing on \(But the Radio\)](https://open.spotify.com/track/3nxqafow5BCurvyPaVzH1q) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Charm School](https://open.spotify.com/album/6BcDgENhbFI6CHX2rNnS98) | 3:34 |
 | 52 | [Why Dontcha?](https://open.spotify.com/track/2XoC5eg7dngMTiySchGYFU) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 2:45 |
 
-Snapshot ID: `MTY1MTY2Nzk3MSwwMDAwMDAwZTAwMDAwMTgwOGYxNTJjZjUwMDAwMDE2ZDE1MjViNDZm`
+Snapshot ID: `MTY1MTczNzg4NywwMDAwMDAxMDAwMDAwMTgwOTM0MDA0ZGQwMDAwMDE2ZDE1MjViNDZm`

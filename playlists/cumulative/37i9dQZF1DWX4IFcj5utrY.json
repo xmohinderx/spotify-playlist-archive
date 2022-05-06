@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=8_2ohtNiR5i0U4oDloSrPA\">Dr Feel</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=4jQ2e8muSy-1lcntVwVGSA\">Kid Fonque</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -942,6 +942,28 @@
     },
     {
       "album": {
+        "name": "Baxolele",
+        "url": "https://open.spotify.com/album/25wOAxvyBChNiYz0ZUg8zZ"
+      },
+      "artists": [
+        {
+          "name": "Afro Brotherz",
+          "url": "https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN"
+        },
+        {
+          "name": "Tseke De Vince",
+          "url": "https://open.spotify.com/artist/1CZS2k2b3PB1XJyMAX44u3"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474569,
+      "name": "Baxolele",
+      "url": "https://open.spotify.com/track/2GZnE7SXGyjmCN6XzJKMY0"
+    },
+    {
+      "album": {
         "name": "BlackOut",
         "url": "https://open.spotify.com/album/0SfxA4wuTe6hcwmrOiDjUo"
       },
@@ -1027,7 +1049,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 421055,
       "name": "Best Lifestyle - Vuscare Remix",
       "url": "https://open.spotify.com/track/3irYlw9OtD9gGudVfUrzTQ"
@@ -1659,6 +1681,36 @@
       "duration_ms": 290095,
       "name": "Cold nights",
       "url": "https://open.spotify.com/track/4jrYshxS2ZdwpsQorJc0A9"
+    },
+    {
+      "album": {
+        "name": "Connected Beings (Jazzanova Remix)",
+        "url": "https://open.spotify.com/album/3uWUYgWxxzYWxKkb3KiaVS"
+      },
+      "artists": [
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        },
+        {
+          "name": "Jonny Miller",
+          "url": "https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV"
+        },
+        {
+          "name": "ASAP Shembe",
+          "url": "https://open.spotify.com/artist/2r2BISxwk0So3lL0ELr7Tx"
+        },
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356000,
+      "name": "Connected Beings - Jazzanova Remix",
+      "url": "https://open.spotify.com/track/1KkYYcCYTDJIJQcgGCMhLv"
     },
     {
       "album": {
@@ -2840,6 +2892,46 @@
     },
     {
       "album": {
+        "name": "Iafrika Yethu",
+        "url": "https://open.spotify.com/album/4wvP4Lx3jablCpGkNnqDtH"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432078,
+      "name": "Iafrika Yethu",
+      "url": "https://open.spotify.com/track/6xPPE9xLlfAotywarVJeTv"
+    },
+    {
+      "album": {
+        "name": "Ikigai (Radio Edit)",
+        "url": "https://open.spotify.com/album/1Tg917lfjEH1VE9Id0RAGt"
+      },
+      "artists": [
+        {
+          "name": "A\u00fcra",
+          "url": "https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ"
+        },
+        {
+          "name": "Sediis",
+          "url": "https://open.spotify.com/artist/19t8pcz4HC33dy1MbAkZc9"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Ikigai - Radio Edit",
+      "url": "https://open.spotify.com/track/3QIGv8VZqZ18JbtihrmaDI"
+    },
+    {
+      "album": {
         "name": "Aero",
         "url": "https://open.spotify.com/album/56GMjzA7Cn9HhNPcDoKywa"
       },
@@ -3021,6 +3113,28 @@
       "duration_ms": 439943,
       "name": "In and Out",
       "url": "https://open.spotify.com/track/4S7WZQRkSDWkGSRQvh3kXn"
+    },
+    {
+      "album": {
+        "name": "Indoda Emadodeni",
+        "url": "https://open.spotify.com/album/2CUiYRc6CXta2p1pLkia5p"
+      },
+      "artists": [
+        {
+          "name": "Supta",
+          "url": "https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM"
+        },
+        {
+          "name": "Nkosazana_Daughter",
+          "url": "https://open.spotify.com/artist/2KFBgdGWpDd7guvNqILGoE"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285507,
+      "name": "Indoda Emadodeni",
+      "url": "https://open.spotify.com/track/5nKtrtKz8PIGk4oYuUM093"
     },
     {
       "album": {
@@ -3275,6 +3389,24 @@
       "duration_ms": 281229,
       "name": "Jazz Vibes",
       "url": "https://open.spotify.com/track/7pUBplWvm2fYj6t450VtFM"
+    },
+    {
+      "album": {
+        "name": "Jump! - the Singles",
+        "url": "https://open.spotify.com/album/7LAuzbwahWJULy0Syr6QqZ"
+      },
+      "artists": [
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456465,
+      "name": "Jump!",
+      "url": "https://open.spotify.com/track/4dGYGZJjKfdF2vxx8WSeYn"
     },
     {
       "album": {
@@ -3874,6 +4006,24 @@
     },
     {
       "album": {
+        "name": "Maji Matamu (Main HT)",
+        "url": "https://open.spotify.com/album/0K3KmKQOJBMRDzLfc6koBI"
+      },
+      "artists": [
+        {
+          "name": "HyperSOUL-X",
+          "url": "https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343484,
+      "name": "Maji Matamu - Main HT",
+      "url": "https://open.spotify.com/track/0r3lYlCsW31s7rWcWxBY7X"
+    },
+    {
+      "album": {
         "name": "Stay True Sounds Vol.4 Compiled By Kid Fonque",
         "url": "https://open.spotify.com/album/5K19EXUx0mNTfKPc7Zo5AK"
       },
@@ -4123,7 +4273,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 265705,
       "name": "Mhlaba - Radio Edit",
       "url": "https://open.spotify.com/track/4J9vk9aueB7109TOvRvFoa"
@@ -4357,7 +4507,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 386740,
       "name": "Msiba - Original Mix",
       "url": "https://open.spotify.com/track/0tZaZ6JG14H2sHE2xRsA0w"
@@ -4763,7 +4913,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 231672,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/0I1suEDcKu73meeDsckAhz"
@@ -5070,6 +5220,24 @@
     },
     {
       "album": {
+        "name": "Riye Riye",
+        "url": "https://open.spotify.com/album/2FwJrhI15xsS1r0deYlU9F"
+      },
+      "artists": [
+        {
+          "name": "DJ Edit SA",
+          "url": "https://open.spotify.com/artist/1qdAAqaY9mEOjAccgvsOWg"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322638,
+      "name": "Riye Riye",
+      "url": "https://open.spotify.com/track/6h2S4HDYSjwFoivILir8ON"
+    },
+    {
+      "album": {
         "name": "Salam Kom Salam",
         "url": "https://open.spotify.com/album/1W4za2jUFlupSIfR6484QG"
       },
@@ -5089,6 +5257,28 @@
       "duration_ms": 483375,
       "name": "Salam Kom Salam",
       "url": "https://open.spotify.com/track/7BXttR3HKJFpRXxzU35tzF"
+    },
+    {
+      "album": {
+        "name": "Saliya Dub",
+        "url": "https://open.spotify.com/album/1TBsYfDBweAsVNtnPJFWOW"
+      },
+      "artists": [
+        {
+          "name": "Razoof",
+          "url": "https://open.spotify.com/artist/6roDS2aXza80gIF5OoTrfE"
+        },
+        {
+          "name": "Pa Bobo Jobarteh",
+          "url": "https://open.spotify.com/artist/4t31Axj26clQ33oNA56Ata"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336638,
+      "name": "Saliya Dub",
+      "url": "https://open.spotify.com/track/2B8nRDOXsRrH2bQIw8DUr5"
     },
     {
       "album": {
@@ -5315,7 +5505,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 250000,
       "name": "Sibonga Wena",
       "url": "https://open.spotify.com/track/2NuifcdFl6UsNvJOYC3g5z"
@@ -5607,7 +5797,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 386000,
       "name": "Spirit Of Ubuntu",
       "url": "https://open.spotify.com/track/2EhYSRxz7U6TWrnnmO3aKt"
@@ -5625,7 +5815,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 458644,
       "name": "Spliff N Drumm",
       "url": "https://open.spotify.com/track/5UzLNFrxLSLj6pDA9VG0ie"
@@ -5643,7 +5833,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 388729,
       "name": "Star of Sigui",
       "url": "https://open.spotify.com/track/1lrjMDPkSwZzfvb4pDD0Uy"
@@ -5753,7 +5943,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 426043,
       "name": "Take It All ( Miza & Regalo Joints Revisit )",
       "url": "https://open.spotify.com/track/3CxEFsiqDPFqGyVjGogrKB"
@@ -5787,6 +5977,36 @@
       "duration_ms": 444238,
       "name": "Take One - Stalgic Mix",
       "url": "https://open.spotify.com/track/2lYNVCl9jgXmPWvAkktnGC"
+    },
+    {
+      "album": {
+        "name": "Tawada",
+        "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "OSENS",
+          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
+        },
+        {
+          "name": "Anas Chlih",
+          "url": "https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV"
+        },
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435121,
+      "name": "Tawada - Saint Evo Remix",
+      "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
     },
     {
       "album": {
@@ -5944,6 +6164,28 @@
     },
     {
       "album": {
+        "name": "The Warrior",
+        "url": "https://open.spotify.com/album/3QdCZ7kmJUZschpKqbDLCJ"
+      },
+      "artists": [
+        {
+          "name": "McK",
+          "url": "https://open.spotify.com/artist/7Hq2IxP42MAzk8X0C1j6z4"
+        },
+        {
+          "name": "Yaw Appiah",
+          "url": "https://open.spotify.com/artist/2EpwVoTYiRy4LqGFvW7URr"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386863,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/3nt93Flj7FBSaEKJWbWJ18"
+    },
+    {
+      "album": {
         "name": "The Warrior's Prayer",
         "url": "https://open.spotify.com/album/0d1IQ98wnxi0itD2TI8wZR"
       },
@@ -6043,7 +6285,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 424000,
       "name": "Told You!",
       "url": "https://open.spotify.com/track/5ZozorZYvUXQZQgqoqMkh5"
@@ -6373,6 +6615,28 @@
       "duration_ms": 396826,
       "name": "Uvalo",
       "url": "https://open.spotify.com/track/6AWG94PiLOenHLjrBcctqE"
+    },
+    {
+      "album": {
+        "name": "Uyakhuluma Umoya",
+        "url": "https://open.spotify.com/album/2nkOJi4ZcvlFarFA3oRum8"
+      },
+      "artists": [
+        {
+          "name": "DJ Bongz",
+          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
+        },
+        {
+          "name": "Nobuhle",
+          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294556,
+      "name": "Uyakhuluma Umoya",
+      "url": "https://open.spotify.com/track/1Rbw6r5RaWRp4OrSketNXw"
     },
     {
       "album": {
@@ -6807,7 +7071,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 374619,
       "name": "Zimbabwe - Original Mix",
       "url": "https://open.spotify.com/track/0EK62rsplSFxztVQUO3EIt"

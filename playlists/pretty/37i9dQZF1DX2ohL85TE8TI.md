@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Business Proposal \(사내 맞선\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,433,713 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434,065 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 50 | [Did \- Thirty\-nine Version](https://open.spotify.com/track/54LmAfM47Qn5ZgH16XV1lY) | [Jung Joonil](https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf) | 3:49 |
 | 51 | [Pretty](https://open.spotify.com/track/1YbbukgceRV3Z8SiMvX0hr) | [태호](https://open.spotify.com/artist/3tJezw9KJYJRtJ9WG1fasi) | [Cherryblossom After Winter Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/22V707ElwTSCJM5oOIn53v) | 3:38 |
 | 52 | [Ignite](https://open.spotify.com/track/4ZtiA7LDHh6iv7QIxzEGwr) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [Military Prosecutor Doberman, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/1SLjq3U1ouGlLo5qBq3His) | 3:57 |
-| 53 | [Fall in love](https://open.spotify.com/track/5h6c3ArwadWdEny5yXUPOt) | [Jihan](https://open.spotify.com/artist/47ODPG71p0WSxPL9fjooi4), [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Fall in love \(A Business Proposal OST Part.6\)](https://open.spotify.com/album/3JYP9Vln3dCV2vIXcVWKzy) | 3:19 |
+| 53 | [Fall in love](https://open.spotify.com/track/5h6c3ArwadWdEny5yXUPOt) | [Jihan](https://open.spotify.com/artist/47ODPG71p0WSxPL9fjooi4), [Park Soeun](https://open.spotify.com/artist/5mRaQUiwWOrJGSsC2TM1K0) | [Fall in love \(A Business Proposal OST Part.6\)](https://open.spotify.com/album/3JYP9Vln3dCV2vIXcVWKzy) | 3:19 |
 | 54 | [Love Hurts A Little More](https://open.spotify.com/track/6hhd89lE4QxdYDjerOxkEO) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/3iwfOmxN8eUyxT7hxe2xUY) | 3:53 |
 | 55 | [In your days](https://open.spotify.com/track/5E24Cqg0gcD2zrgxxgh0sn) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3SEHTx0lgdfmbswBht0tCS) | 3:58 |
 | 56 | [Bite!](https://open.spotify.com/track/5INLCxTdmeulHS3UB4Qq30) | [Baekho](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [Crazy Love \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/5Mhnp2r2l5veahC1v5dDpb) | 3:18 |

@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 226524,
       "name": "Electric Eclectic",
       "url": "https://open.spotify.com/track/4B2xWDcBUtyiifvBnXxOnE"
@@ -2239,7 +2239,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 234664,
       "name": "Stonehouse",
       "url": "https://open.spotify.com/track/3lGgUdlzMIRskPzQKGTBRq"
@@ -2758,6 +2758,24 @@
     },
     {
       "album": {
+        "name": "Tutto Passa",
+        "url": "https://open.spotify.com/album/19IM6CveZ3jfng86RG1pbD"
+      },
+      "artists": [
+        {
+          "name": "Gianni Brezzo",
+          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222937,
+      "name": "Torino",
+      "url": "https://open.spotify.com/track/6cEtprCmXLwljz6Kl3J9Tc"
+    },
+    {
+      "album": {
         "name": "Tremendoce (feat. Petter Eldh, Dan Nicholls, Tilo Weber, Jonas Kullhammar & Per \"Texas\" Johansson)",
         "url": "https://open.spotify.com/album/2CYHf1mM4QL6L4oa8TzgmC"
       },
@@ -2811,7 +2829,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 259093,
       "name": "Try Walk with Me",
       "url": "https://open.spotify.com/track/7oebiuuObYBjX2F4kuTKfn"

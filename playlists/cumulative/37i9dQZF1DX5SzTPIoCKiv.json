@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 214173,
       "name": "All God's Children",
       "url": "https://open.spotify.com/track/0DlGAxnYAx5hMSJO3QVPaH"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 192980,
       "name": "As For Me (feat. Chris Tomlin)",
       "url": "https://open.spotify.com/track/1XFbNf7O1xycvXDZiO8NsK"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 245213,
       "name": "Battles",
       "url": "https://open.spotify.com/track/135BpkRmi9GG7HLhB6OK5m"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 220733,
       "name": "Be Still & Know",
       "url": "https://open.spotify.com/track/6c0EkhURXqbBVAcIegCF6u"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-09",
+      "date_removed": null,
       "duration_ms": 202943,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 244020,
       "name": "Best Thing Ever",
       "url": "https://open.spotify.com/track/28NUh4A55zjrDyW744dj4E"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 223224,
       "name": "Coming Out Fighting",
       "url": "https://open.spotify.com/track/4BhIdUwXCuraOleWckiAL5"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 424373,
       "name": "Defender",
       "url": "https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 257390,
       "name": "Don't You Dare",
       "url": "https://open.spotify.com/track/41Yp3rSMdCjPIaDFb0LSa5"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 229066,
       "name": "Fighting For Me",
       "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 217444,
       "name": "Follow You Into The Fire",
       "url": "https://open.spotify.com/track/69wTzxjSNve6gAz5WLaIps"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 191563,
       "name": "Good Memories",
       "url": "https://open.spotify.com/track/4XhrBsxPkuFNAPojs3svt0"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 243476,
       "name": "Heart of the Father",
       "url": "https://open.spotify.com/track/1TmLe4cOUoLjEiON85AOQF"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 267773,
       "name": "Hymn of Heaven",
       "url": "https://open.spotify.com/track/4nK7i4idbh4N3Nf6p9PSPa"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 229119,
       "name": "I Believe It Now (Single Version)",
       "url": "https://open.spotify.com/track/6kc0XFXTEaBWCEXZnQPFIc"
@@ -1778,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "No Hopeless Soul",
+        "url": "https://open.spotify.com/album/5gZ1OG8XcJpv69F2BqBUoW"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183240,
+      "name": "No Hopeless Soul",
+      "url": "https://open.spotify.com/track/7fovCglnkftOlJmrIidq8r"
+    },
+    {
+      "album": {
         "name": "Trial & Triumph",
         "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 198986,
       "name": "Reason",
       "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 242606,
       "name": "Reputation",
       "url": "https://open.spotify.com/track/63KXg5coLHasBMw6QY8SDR"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 182612,
       "name": "The Devil Is A Liar",
       "url": "https://open.spotify.com/track/3Q2jYy7vwY6wWzPTlXwxU6"
@@ -2593,7 +2611,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 268186,
       "name": "The Road",
       "url": "https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 194191,
       "name": "Undeniable",
       "url": "https://open.spotify.com/track/5lnAvxx2pxIM9MRZUIhkl0"
@@ -2719,7 +2737,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 242160,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
@@ -2883,7 +2901,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
@@ -2901,7 +2919,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 234731,
       "name": "Yes I Will",
       "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"

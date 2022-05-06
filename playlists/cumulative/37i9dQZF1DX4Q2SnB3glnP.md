@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-207 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+209 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,9 @@
 | [A Glimpse of Eternity](https://open.spotify.com/track/4gIkhmRSrvTltuBGYVp3TX) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 3:39 | 2021-12-08 |  |
 | [A Mirror in Every Drawer](https://open.spotify.com/track/6ekfFY1c61AVIYn8mD6cHN) | [Tiger Stories](https://open.spotify.com/artist/0Rjd9VdV6Bx4XjDZPp1O2U) | [Dinami](https://open.spotify.com/album/26wCcQ91JidqBJ9NH6HfiB) | 4:06 | 2021-12-08 |  |
 | [Aan de andere kant](https://open.spotify.com/track/0pIQQqzZpzh00oTnY1VhXi) | [Cyrano Brussee](https://open.spotify.com/artist/7tlxZyGtbGvlr4TPWLhJx6) | [Aan de andere kant](https://open.spotify.com/album/1QaSWd0iizfIrmRKuuqfIM) | 4:06 | 2021-12-08 |  |
+| [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-05 |  |
 | [After the Storm](https://open.spotify.com/track/20RvtdICuVLxbtHs179hxA) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Anfang](https://open.spotify.com/album/1NTR3MPOBNHQfOLFdtlYlN) | 2:38 | 2021-12-08 |  |
+| [Agua viva](https://open.spotify.com/track/5zH1V6C1gkeNji64dQ4rBc) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [Agua viva](https://open.spotify.com/album/2jQXtoSONAJpPY8UfxlhHS) | 3:14 | 2022-05-05 |  |
 | [aldrei endar elskan](https://open.spotify.com/track/0ov4xf6xaae92Ob0fppnSv) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [aldrei endar elskan](https://open.spotify.com/album/5daP5cHf9iBMspEtYajoFh) | 2:57 | 2021-12-08 |  |
 | [Angalalluarina](https://open.spotify.com/track/7HMqoo6TbtoZLHwqkfp7Lw) | [Søren Jeremiassen](https://open.spotify.com/artist/54h5UZPx5rj7dEDGaofoaj) | [Angalalluarina](https://open.spotify.com/album/0Oi2WtaSEaPXedHjY4bbV2) | 4:00 | 2021-12-08 |  |
 | [apoapsis](https://open.spotify.com/track/4HeGTGqUfgIA98HEkIWTp2) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [apoapsis](https://open.spotify.com/album/7Bova6yWsJlQV3Zms6wm1M) | 3:58 | 2021-12-08 |  |

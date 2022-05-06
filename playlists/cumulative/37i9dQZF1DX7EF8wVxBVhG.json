@@ -444,6 +444,24 @@
     },
     {
       "album": {
+        "name": "sinewave party",
+        "url": "https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3"
+      },
+      "artists": [
+        {
+          "name": "Binaural Bob",
+          "url": "https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Alpha Overload (1.4hz)",
+      "url": "https://open.spotify.com/track/6LXE8SCIlLewp3w8ayJI7P"
+    },
+    {
+      "album": {
         "name": "Binaural Concentration",
         "url": "https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l"
       },
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-06",
       "duration_ms": 160000,
       "name": "Breathe (Alpha 10 Hz)",
       "url": "https://open.spotify.com/track/1yPHyeOZIcFCsY4xPKYwge"

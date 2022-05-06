@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-273 songs - 14 hr 47 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+274 songs - 14 hr 50 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Lose Your Way](https://open.spotify.com/track/6H4ekfJY19P8t26lxaBW8D) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [Lose Your Way](https://open.spotify.com/album/2ApZobhOJQ1GyjI8AZZ2nr) | 2:10 | 2022-01-14 |  |
 | [Losing My Mind](https://open.spotify.com/track/3DKWSWJsNtRQil4FsytGHD) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Losing My Mind](https://open.spotify.com/album/0OS7ve0wMwbUSyVGvcthMf) | 6:26 | 2022-02-07 | 2022-03-05 |
 | [Losing My Mind \- DVRKCLOUD Remix](https://open.spotify.com/track/6jiZm78Rk6jF2oxkj9yYGh) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE) | [Losing My Mind \(DVRKCLOUD Remix\)](https://open.spotify.com/album/0vAu4P2eBFJIt4ZlHCdziW) | 3:37 | 2022-03-01 | 2022-04-02 |
+| [Lost](https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Lost](https://open.spotify.com/album/4718f8p5I2EHop2LwcPHah) | 3:08 | 2022-05-05 |  |
 | [Lost In My Mind](https://open.spotify.com/track/2J6k6GnFrWm3i5rueXr1p1) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Lost In My Mind](https://open.spotify.com/album/0zL7vKsNDJPLm91dliiMlX) | 3:15 | 2022-03-04 | 2022-04-02 |
 | [Lost Without You](https://open.spotify.com/track/5x7dCMY120aFbg33VxCjpG) | [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [KnownAsNat](https://open.spotify.com/artist/4CxkpkQVs7cguL10DtmyjR) | [Lost Without You](https://open.spotify.com/album/3ZMIql6dt08cpegtz4Gr7b) | 3:51 | 2022-02-04 | 2022-03-05 |
 | [LOVE ME](https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu), [Gabriel Paris](https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4) | [LOVE ME](https://open.spotify.com/album/1YKGI3mInNowuk50Q5HWsQ) | 3:24 | 2022-01-14 |  |
