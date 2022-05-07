@@ -1068,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Live at the Room at the Top",
+        "url": "https://open.spotify.com/album/6bjUgLGgIZKeCeWRogVFoM"
+      },
+      "artists": [
+        {
+          "name": "Pepper Adams",
+          "url": "https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1151423,
+      "name": "Patrice - Live",
+      "url": "https://open.spotify.com/track/6bHuuD809FCg6tQW3U83iu"
+    },
+    {
+      "album": {
         "name": "The Quintet: Jazz At Massey Hall",
         "url": "https://open.spotify.com/album/0C3hwpzJmauK7jTRmv17Yg"
       },

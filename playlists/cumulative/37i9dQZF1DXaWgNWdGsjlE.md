@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: POORSTACY
 
-102 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
+103 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,13 +86,14 @@
 | [Pretend](https://open.spotify.com/track/55tKh3y0kGoMGexQeyCktd) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51), [Intrelock](https://open.spotify.com/artist/41pmSD7ceBz02NR6M2u0B4) | [Pretend](https://open.spotify.com/album/6r2wINnEsK01NjpxbZuZmQ) | 4:40 | 2022-04-08 |  |
 | [Public Enemy](https://open.spotify.com/track/6CSTSByUvQyYIlGStzM3Qd) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Public Enemy](https://open.spotify.com/album/6gWVDCeNynphJ6MIxZRgiN) | 2:29 | 2022-04-08 |  |
 | [Pulse Queen](https://open.spotify.com/track/6ObSWTFcmGP4gGCBGKVZE3) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pulse Queen](https://open.spotify.com/album/2v7ohXpdk3Z2WFfEKOfoE2) | 3:28 | 2022-04-08 |  |
+| [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 | 2022-05-06 |  |
 | [Reset](https://open.spotify.com/track/4vnCxv2cGTYye90giGIddD) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 3:21 | 2022-04-08 |  |
 | [Save Yourself](https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [The Essential Stabbing Westward](https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7) | 4:13 | 2022-04-08 |  |
 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 | 2022-04-08 |  |
 | [Scissorhands](https://open.spotify.com/track/5wC6xF8adOW6WQKZEBibCq) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Scissorhands](https://open.spotify.com/album/75la8mqEDlQzN6r9gy1tJH) | 2:38 | 2022-04-08 |  |
 | [Shut Up](https://open.spotify.com/track/4W153KIGht166HnCswWlzp) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Shut Up](https://open.spotify.com/album/1qxfqTnxyVHIA03mlFjSrV) | 3:22 | 2022-04-08 |  |
 | [Smile](https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ) | 3:16 | 2022-04-08 |  |
-| [Sober](https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 5:06 | 2022-04-08 |  |
+| [Sober](https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 5:06 | 2022-04-08 | 2022-05-07 |
 | [Spit.](https://open.spotify.com/track/3H6KM1WMpTIMlwlJBwDBkV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Spit.](https://open.spotify.com/album/4N8vRR39A9ttCbAVW5Gztx) | 4:08 | 2022-04-08 |  |
 | [Structure of Love II \- Renholdër Remix](https://open.spotify.com/track/1PfCGcRzrnTCFJVoVy03yp) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9), [Renholdër](https://open.spotify.com/artist/7nPKXL3VRokWPSYHtsDD5i) | [Structure of Love II \(Renholdër Remix\)](https://open.spotify.com/album/1koqkGT2Qsd5ToPJZgMFCn) | 3:21 | 2022-04-08 |  |
 | [The Demented](https://open.spotify.com/track/3ROmQ4E9Nu0ZFTJVprp3Iu) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Demented](https://open.spotify.com/album/21fvzqzvdgOZL6tPRMKqvo) | 3:12 | 2022-04-08 |  |

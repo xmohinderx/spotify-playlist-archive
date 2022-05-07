@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 175862,
       "name": "Asking For",
       "url": "https://open.spotify.com/track/1YIkj75IPsfW4fzPB6qNlE"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 170533,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1ouitWGWGsCbvlpNCbUA4b"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 190856,
       "name": "Call Of The Unicorn",
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 172800,
       "name": "Carbonara",
       "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "DIFFRENT",
       "url": "https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 198400,
       "name": "Griztronics",
       "url": "https://open.spotify.com/track/6OTClxme7EYRZGO6An3SMc"
@@ -2173,7 +2173,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 211862,
       "name": "Lasers",
       "url": "https://open.spotify.com/track/5wEq97Dc7x5k2tJz3DlJFO"
@@ -2874,6 +2874,28 @@
     },
     {
       "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Kazu",
+          "url": "https://open.spotify.com/artist/5YWhkJe7pSNnmurK40sUyA"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160874,
+      "name": "Pop Off",
+      "url": "https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc"
+    },
+    {
+      "album": {
         "name": "Poppin (feat. Krystall Poppin)",
         "url": "https://open.spotify.com/album/056Q5SMLhC7RsijCzllEJt"
       },
@@ -2981,7 +3003,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 249600,
       "name": "Ragnarok",
       "url": "https://open.spotify.com/track/5n5d39gcjEstUpM6kadJYF"
@@ -3871,7 +3893,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 180298,
       "name": "STFU",
       "url": "https://open.spotify.com/track/6wb3aDPGNaXdshGBzpOAGA"
@@ -3933,7 +3955,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 139877,
       "name": "Takin' Over",
       "url": "https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2"
@@ -3955,7 +3977,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 212941,
       "name": "The Cheeki Breeki Song",
       "url": "https://open.spotify.com/track/1gbUrCmsJchMppBeC6wL3r"
@@ -4171,7 +4193,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 240529,
       "name": "Time",
       "url": "https://open.spotify.com/track/37hoHtZNUuIbJSHkyII0zx"
@@ -4551,6 +4573,24 @@
       "duration_ms": 223615,
       "name": "Warp",
       "url": "https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj"
+    },
+    {
+      "album": {
+        "name": "Who Run Dis",
+        "url": "https://open.spotify.com/album/63ANwKD831AL1Y6o57875Q"
+      },
+      "artists": [
+        {
+          "name": "Lit Lords",
+          "url": "https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Who Run Dis",
+      "url": "https://open.spotify.com/track/4YqiqOr3raVtOeA0moroQP"
     },
     {
       "album": {

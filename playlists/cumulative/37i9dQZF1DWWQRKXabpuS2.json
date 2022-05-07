@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "Farghty",
+        "url": "https://open.spotify.com/album/40yxzlYTsLAMBhmzevbKvB"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305771,
+      "name": "Farghty",
+      "url": "https://open.spotify.com/track/3HBDTztJZkHAy5NUDitGNb"
+    },
+    {
+      "album": {
         "name": "Fattak",
         "url": "https://open.spotify.com/album/1StqBpyc5o8sBJxXIt3xAW"
       },

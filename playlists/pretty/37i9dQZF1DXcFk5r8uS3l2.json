@@ -1,18 +1,18 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 408091,
+  "num_followers": 408140,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDAzZTAwMDAwMTgwNzM3YjkzMWQwMDAwMDE3ZGI1ZDhhMjYx",
+  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDAzZjAwMDAwMTgwOTc4ODE3M2MwMDAwMDE3ZGI1ZDhhMjYx",
   "tracks": [
     {
-      "added_at": "2022-04-22 04:01:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/0JP5Rmp9tMhI1M6wa44XRU"
+        "url": "https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c"
       },
       "artists": [
         {
@@ -20,9 +20,25 @@
           "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
         }
       ],
-      "duration_ms": 204685,
-      "name": "If These Walls Could Talk",
-      "url": "https://open.spotify.com/track/4yYzxF8zUXEG5bsnebYxXe"
+      "duration_ms": 144985,
+      "name": "Have a Ball",
+      "url": "https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Never Giving Up",
+        "url": "https://open.spotify.com/album/60h7Js16nMwWUhRiOYrXpM"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "duration_ms": 158912,
+      "name": "Never Giving Up",
+      "url": "https://open.spotify.com/track/24OXVPUzk1SMVMiMd8LmQ3"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -39,6 +55,42 @@
       "duration_ms": 247380,
       "name": "Get Real High",
       "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Calling Cadence",
+        "url": "https://open.spotify.com/album/7fSLZKWKWueYzKOBH1RWkg"
+      },
+      "artists": [
+        {
+          "name": "Calling Cadence",
+          "url": "https://open.spotify.com/artist/4k9Si9nVLMfD6bEIMzXdXD"
+        }
+      ],
+      "duration_ms": 242241,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/5wBP2sIgbhdWdmr1u54Eoz"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "I Walk On Guilded Splinters",
+        "url": "https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        },
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "I Walk On Guilded Splinters",
+      "url": "https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f"
     },
     {
       "added_at": "2022-04-29 04:02:00",

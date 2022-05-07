@@ -1470,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Every Song I Ever Wrote",
+        "url": "https://open.spotify.com/album/6iNsRB01wsep3c6sMESTLu"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197109,
+      "name": "Every Song I Ever Wrote",
+      "url": "https://open.spotify.com/track/3MGPk4icRXf24OL6RlYhDX"
+    },
+    {
+      "album": {
         "name": "everyone blooms",
         "url": "https://open.spotify.com/album/26KAku0l1AFIgT65GehP34"
       },

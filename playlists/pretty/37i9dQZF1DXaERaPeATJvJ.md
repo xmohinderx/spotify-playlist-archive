@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Themilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,552 likes - 72 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,564 likes - 72 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

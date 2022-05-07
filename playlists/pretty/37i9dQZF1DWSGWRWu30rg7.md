@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aldwin Dinata\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,341 likes - 71 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,345 likes - 71 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 19 | [Stay](https://open.spotify.com/track/7k6KcHMsgUaGuTroXX83SL) | [Phonetic](https://open.spotify.com/artist/5wnc79wwz2nX17qfqbD3Ko) | [Stay](https://open.spotify.com/album/1KqfrNnrpqIjiTFOHP5lid) | 3:00 |
 | 20 | [Yang Terjadi](https://open.spotify.com/track/5DoJ1JgX0215rwJvtZiPPD) | [Prasiwan](https://open.spotify.com/artist/3zoZiV3ifoASOAwO0HhLl1) | [Yang Terjadi](https://open.spotify.com/album/0qp1uNjzI6LzoplWKKpr9N) | 4:14 |
 | 21 | [On My Way](https://open.spotify.com/track/0JpVMm9EGln9DVbQwHR7KF) | [Negatif Satu](https://open.spotify.com/artist/6tE65NTg4lUs6blIkhj2pi) | [On My Way](https://open.spotify.com/album/2EXejhNbDtchwZIZwwlL4g) | 3:20 |
-| 22 | [\(Tanpa\) Orang Dalam](https://open.spotify.com/track/4vwhbvq90bfPLRobwtG0hE) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [Yosh](https://open.spotify.com/artist/24fhgM8dRX50onhCX4JpI9) | [\(Tanpa\) Orang Dalam](https://open.spotify.com/album/7ty4V3XzW1WGfM0WjdBJLP) | 2:00 |
+| 22 | [\(Tanpa\) Orang Dalam](https://open.spotify.com/track/4vwhbvq90bfPLRobwtG0hE) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [YOSH](https://open.spotify.com/artist/2wHazSJnTevLiiJzn70GX7) | [\(Tanpa\) Orang Dalam](https://open.spotify.com/album/7ty4V3XzW1WGfM0WjdBJLP) | 2:00 |
 | 23 | [Benci Jadi Cinta](https://open.spotify.com/track/6h6LD8tO7F1u6sH8VGzQmj) | [Fourtune](https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k) | [Benci Jadi Cinta](https://open.spotify.com/album/4JGsSl1gCe11YBzrsVEmW6) | 3:56 |
 | 24 | [Demon](https://open.spotify.com/track/4Xw6Osef059Zg8blbuzkl5) | [Hello Bandito](https://open.spotify.com/artist/1WqcIgBWSAjA9PqznucsCO) | [Demon](https://open.spotify.com/album/0Rjv5SwrYVb28m9spLKHvk) | 1:56 |
 | 25 | [Bukan Rahasia](https://open.spotify.com/track/1nw3Ur1tV5jz0iirSCSU8l) | [Tri Em](https://open.spotify.com/artist/1eJbsRw7f2Lx6yBaoi7zEb) | [Bukan Rahasia](https://open.spotify.com/album/1k97wASVsqJ6hq1IqLE12H) | 4:10 |

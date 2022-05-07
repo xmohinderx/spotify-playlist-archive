@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-89 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+90 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Peace](https://open.spotify.com/track/2G05MCwb1Cnk1csGaU3ZY5) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion Collection 1 \- Blessings of the Heart](https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry) | 5:05 | 2022-04-04 |  |
 | [Peaceful Being](https://open.spotify.com/track/6IKGWm6XdJMs8YxMh2wr8W) | [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Sadhana](https://open.spotify.com/album/1oZRS0AoopzdEbW623lcRZ) | 5:28 | 2022-04-04 |  |
 | [Pipers](https://open.spotify.com/track/7wDZOZiMJxjOH8R9Xv6yvw) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Pipers](https://open.spotify.com/album/6wh12iQPshA8QQq7Xtunc3) | 4:06 | 2022-04-04 |  |
+| [Puja \- Soundscape Mix](https://open.spotify.com/track/2tXLZ9m1ZrvMqTnYHrO93b) | [For the Good of All](https://open.spotify.com/artist/0wYjAAeaDXrNnxy3qs0xQj), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn), [Aubrey Marcus](https://open.spotify.com/artist/2G6geUYzXyqHJpAZ7nVFYX), [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG), [Liquid Bloom](https://open.spotify.com/artist/16N7BvvGgw3jvmXBSn0hVS), [Eric Zang](https://open.spotify.com/artist/0bqNGlh4NGgVj8NHjP10Jm) | [Remembrance Soundscapes](https://open.spotify.com/album/6qxbqgTA9S4mZIOlXIGIs2) | 5:52 | 2022-05-06 |  |
 | [Qalanderi](https://open.spotify.com/track/1EOrtwXZXYuZjR9ACjaxNO) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/6lPvH0V0rcrysdfNI3SStg) | 7:09 | 2022-04-04 |  |
 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 | 2022-04-04 |  |
 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 | 2022-04-04 |  |

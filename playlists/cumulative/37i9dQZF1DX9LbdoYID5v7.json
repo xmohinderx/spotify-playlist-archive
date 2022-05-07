@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 405013,
       "name": "Crosses",
       "url": "https://open.spotify.com/track/5d5vSYY4mek3bHv0rwHA5o"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 188800,
       "name": "First Day Of My Life",
       "url": "https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 204906,
       "name": "L.E.S. Artistes",
       "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
@@ -981,10 +981,28 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 246973,
       "name": "Little Lion Man",
       "url": "https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI"
+    },
+    {
+      "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/2d2nOfrJxU2Wpzc1AAZewC"
+      },
+      "artists": [
+        {
+          "name": "Girls",
+          "url": "https://open.spotify.com/artist/6eO95BjZhrWHREMfwC4vVN"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145293,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/72DTGt2tVAL6ATVhzVjvkk"
     },
     {
       "album": {
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 150293,
       "name": "Walking with a Ghost",
       "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "When Did Your Heart Go Missing?",
       "url": "https://open.spotify.com/track/60okmgzrYnFh2nXfi0XxWR"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 223133,
       "name": "With Arms Outstretched",
       "url": "https://open.spotify.com/track/4AnNE7nPSshznEi1WCBfFI"
@@ -1755,7 +1773,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 405693,
       "name": "You! Me! Dancing! - Remastered",
       "url": "https://open.spotify.com/track/0BiYKvf5gJ9bGNJnngyDkU"

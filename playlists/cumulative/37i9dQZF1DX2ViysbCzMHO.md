@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-147 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+148 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Some Girls \- Acoustic](https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Some Girls \(Acoustic\)](https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz) | 3:11 | 2021-12-17 |  |
 | [Some Summers Never End](https://open.spotify.com/track/4HS53HbN380PhcTsb9Yitg) | [Radio Romance](https://open.spotify.com/artist/3zpay2Ds6IoLxC70N1H1vW) | [Some Summers Never End](https://open.spotify.com/album/13bcxmKc5RHriqLRGdAYYG) | 4:02 | 2021-12-17 | 2022-04-16 |
 | [Somebody Like That \- Acoustic](https://open.spotify.com/track/3gsnrXfYHjBM7dcUrz0UwK) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Somebody Like That \(Acoustic\)](https://open.spotify.com/album/1v9UST961rkk1uoMRUAgdV) | 3:14 | 2021-12-17 |  |
+| [Somebody Will \- Acoustic](https://open.spotify.com/track/2QtOfeHiZpoHfYUCpMaMim) | [Christina Taylor](https://open.spotify.com/artist/0ol2YEW9hEgLLF9UyDCB4d) | [Somebody Will \(Acoustic\)](https://open.spotify.com/album/58JPDqiqR0tQdoYr5jgrBt) | 3:19 | 2022-05-06 |  |
 | [Something Sexy \(Stripped\)](https://open.spotify.com/track/7ahB6NaGsY42NEiLQEgLiw) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Something Sexy \(Stripped\)](https://open.spotify.com/album/6tlU1uRC0bJBesIpAZakkv) | 3:12 | 2021-12-17 |  |
 | [Something You Ain't Ever Had \- Acoustic](https://open.spotify.com/track/0WdkuR9ZwleXI1MZH37ZCP) | [Waterloo Revival](https://open.spotify.com/artist/3dYdcyW7mhZYVDDkNvkd0c) | [Something You Ain't Ever Had \(Acoustic\)](https://open.spotify.com/album/4p6gQvM1IU97W6vhWNdBkk) | 3:18 | 2021-12-17 |  |
 | [Son Of A \(Acoustic\)](https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A \(Acoustic\)](https://open.spotify.com/album/3DfnUMdSb5KMIpsJE7BQb3) | 3:16 | 2022-01-28 |  |

@@ -1324,6 +1324,24 @@
     },
     {
       "album": {
+        "name": "Damn Phones",
+        "url": "https://open.spotify.com/album/3K9eM56WbUzJba3QvRjafp"
+      },
+      "artists": [
+        {
+          "name": "Dino DZ",
+          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Damn Phones",
+      "url": "https://open.spotify.com/track/6EbInBDc8gbqxkyIZVGjVt"
+    },
+    {
+      "album": {
         "name": "damn Right Pt. 2",
         "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
       },
@@ -2448,6 +2466,24 @@
     },
     {
       "album": {
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487359,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
+    },
+    {
+      "album": {
         "name": "Friction",
         "url": "https://open.spotify.com/album/60qbqLzykTykKXAygDLKhx"
       },
@@ -2497,6 +2533,28 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "album": {
+        "name": "Friends (feat. fio)",
+        "url": "https://open.spotify.com/album/31NbjGnvApIfYslwU8G9Eh"
+      },
+      "artists": [
+        {
+          "name": "LEER",
+          "url": "https://open.spotify.com/artist/3APFeaxXlhPVZ5RTsu4Be9"
+        },
+        {
+          "name": "fio",
+          "url": "https://open.spotify.com/artist/1fo9PkM0pY9g0NnQyEVn5j"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Friends (feat. fio)",
+      "url": "https://open.spotify.com/track/6RUuVYDEmMTwv3sNM2HFhL"
     },
     {
       "album": {
@@ -3659,7 +3717,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 200550,
       "name": "Lauren (I Can't Stay Forever)",
       "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
@@ -3773,6 +3831,24 @@
       "duration_ms": 234374,
       "name": "Let You Go (feat. Kareen Lomax)",
       "url": "https://open.spotify.com/track/4VEEC6sCpH1AnP1bVF1vuf"
+    },
+    {
+      "album": {
+        "name": "Let's Roll",
+        "url": "https://open.spotify.com/album/7sRSumKwSPxwOEoHxoGJ9d"
+      },
+      "artists": [
+        {
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243582,
+      "name": "Let's Roll",
+      "url": "https://open.spotify.com/track/1Omx6NSsJxBUghMsWr7EZB"
     },
     {
       "album": {
@@ -3953,7 +4029,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 170325,
       "name": "Lonely (feat. Sananda Maitreya)",
       "url": "https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii"
@@ -7363,7 +7439,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 170022,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"
@@ -8011,7 +8087,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 175435,
       "name": "You for Me",
       "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"

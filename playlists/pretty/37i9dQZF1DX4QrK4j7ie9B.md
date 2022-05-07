@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for yoga, meditation and daily mindfulness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,041 likes - 54 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,092 likes - 54 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 45 | [4 Postludes for Piano & String Orchestra: No\. 3, Larghetto, con moto poco rubato](https://open.spotify.com/track/7EIdLojjYniqWmDTB3yWXP) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF), [Thomas Sanderling](https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa) | [Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra](https://open.spotify.com/album/3IyVSzyvWxYTkIN8nxXAcz) | 2:50 |
 | 46 | [Continuum: I](https://open.spotify.com/track/2UjDFvb4aXggDerBtphpq1) | [Jane Antonia Cornish](https://open.spotify.com/artist/7krLA5PivFoG56wnlFHJRy), [Decoda](https://open.spotify.com/artist/5jExU1Kr51WCC5CjqGyhoM) | [Jane Antonia Cornish: Continuum](https://open.spotify.com/album/00aapTRofsjksAH1poSRrj) | 7:24 |
 | 47 | [Too Soon](https://open.spotify.com/track/1nqFHztC0sDmMVqxksjNVL) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/5kkUYXyrANeClclVI4nQow) | 4:03 |
-| 48 | [Chopin: 24 Preludes Op\. 28: No\. 15 in D\-Flat Major, "Raindrop"](https://open.spotify.com/track/4q8f3Ls32PcXE8Ks4V1ufx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nikolai Lugansky](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) | [Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes](https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v) | 5:48 |
+| 48 | [Chopin: 24 Preludes, Op\. 28: No\. 15 in D\-Flat Major "Raindrop"](https://open.spotify.com/track/4q8f3Ls32PcXE8Ks4V1ufx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nikolai Lugansky](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) | [Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes](https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v) | 5:48 |
 | 49 | [Naive Music: No\. 2, Nocturne](https://open.spotify.com/track/1D1PqVxn8ZzeMA66T7mS1o) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g) | [Silvestrov: Piano Music](https://open.spotify.com/album/5YKfDffKCC2f5vmeljPWv2) | 2:35 |
 | 50 | [8 Norwegian Folk Tunes, Op\. 70: No\. 2, Um morgon tidleg "Um morgon tidleg på høgste nut"](https://open.spotify.com/track/38wOo372GR73kzKJJ77Cc2) | [Johan Kvandal](https://open.spotify.com/artist/5Pod14R8rXwlW13GpvTG6Q), [Joachim Knoph](https://open.spotify.com/artist/1wuIOgNE6mJIvoRdsnRst1) | [Kvandal: Complete Works for Solo Piano](https://open.spotify.com/album/5ChC7jU6I8a5sv9kdp2Wnu) | 1:36 |
 | 51 | [Curious](https://open.spotify.com/track/6ljcjizmdPBfA8ltCtpqzb) | [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [A Different Forest](https://open.spotify.com/album/61GocYuQdVJWZpI1dkcYCb) | 3:30 |

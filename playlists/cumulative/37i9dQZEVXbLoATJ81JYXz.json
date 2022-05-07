@@ -344,6 +344,28 @@
     },
     {
       "album": {
+        "name": "ABSOLUT",
+        "url": "https://open.spotify.com/album/0Sw98eJOGUqsivhjYink9d"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "LOLO",
+          "url": "https://open.spotify.com/artist/30G2LsTs2NCXeCbjuZYvnf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134666,
+      "name": "ABSOLUT",
+      "url": "https://open.spotify.com/track/684ek6GMzzinfgalcgqsE5"
+    },
+    {
+      "album": {
         "name": "MYROR I BRALLAN",
         "url": "https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt"
       },
@@ -8073,7 +8095,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 173854,
       "name": "Lose my mind",
       "url": "https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e"

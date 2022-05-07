@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-76 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
+77 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Once In A While \(Live\)](https://open.spotify.com/track/5LCWRVUkzLxujuQ5w7pLPL) | [Art Blakey Quintet](https://open.spotify.com/artist/180iCL28IiUTkC6epvZfYI) | [A Night At Birdland](https://open.spotify.com/album/6r7judxVxuABrzdTYhNQCr) | 5:18 | 2021-11-12 |  |
 | [Open Country](https://open.spotify.com/track/6KLjvezsrwtrl2UW4PwflN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 5:46 | 2021-11-12 |  |
 | [Out 'N' In \- live](https://open.spotify.com/track/77QDXNb6mor0iUdD3F9vcx) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Rudy Van Gelder](https://open.spotify.com/artist/0XMh2eSb9EmhFxqIKcFzKx) | [Joe Henderson In Japan](https://open.spotify.com/album/5aDmGHhMGNNGLtWz5WK67Q) | 9:05 | 2021-11-12 |  |
+| [Patrice \- Live](https://open.spotify.com/track/6bHuuD809FCg6tQW3U83iu) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Live at the Room at the Top](https://open.spotify.com/album/6bjUgLGgIZKeCeWRogVFoM) | 19:11 | 2022-05-06 |  |
 | [Perdido \- Live](https://open.spotify.com/track/5Z6cjKT9giCudItSjdDRM9) | [Bud Powell Trio](https://open.spotify.com/artist/7il5MMdORy6JoYnqxFPKqE), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Quintet: Jazz At Massey Hall](https://open.spotify.com/album/0C3hwpzJmauK7jTRmv17Yg) | 7:47 | 2021-11-12 |  |
 | [Poinciana \- Live At The Pershing, Chicago, 1958](https://open.spotify.com/track/19CKYnx17KtyWRtmCa5tMf) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Ahmad Jamal At The Pershing: But Not For Me](https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY) | 8:08 | 2021-11-12 |  |
 | [Prayer for Passive Resistance \- Live Version](https://open.spotify.com/track/4OWaNn8uChWyXcw0OXLsy4) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus At Antibes](https://open.spotify.com/album/2gMTsMOwF9WHh9jx9vGnPz) | 8:23 | 2021-11-12 |  |

@@ -4,7 +4,7 @@
 
 > The leading wave of Latin Electronic music\. Cover: Tokischa & Marshmello
 
-95 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
+96 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,11 +28,12 @@
 | [Dominicana \- The Martinez Brothers + Florentino Remix](https://open.spotify.com/track/7GtkJSvO9djv0GkoCoPbyH) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Dominicana \(The Martinez Brothers + Florentino Remix\)](https://open.spotify.com/album/5zruzxbUxzzf2mjJpuUqAX) | 4:05 | 2022-03-22 | 2022-04-29 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-03-22 |  |
 | [Drifting & Burning](https://open.spotify.com/track/2WTTEfbb96NHOmKJ7TrJvH) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 2](https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6) | 2:50 | 2022-03-22 |  |
+| [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2022-05-06 |  |
 | [El Incomprendido](https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [El Incomprendido](https://open.spotify.com/album/046Eyq94B09gkJ8ISXxzt8) | 4:27 | 2022-03-22 |  |
 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 | 2022-03-22 |  |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-04-29 |  |
 | [Falso Amor](https://open.spotify.com/track/2sNKnmpgjKJgyPDAfqxL80) | [Salomé](https://open.spotify.com/artist/3GzqWbNPAKo0u0f5Dz6AUJ) | [Falso Amor](https://open.spotify.com/album/693AKWbr6QeY6mvnNhBD8c) | 2:51 | 2022-03-22 | 2022-04-21 |
-| [Fenix \- Radio Edit](https://open.spotify.com/track/1kATj4UD3ZO9EeiEyRXBx0) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Fenix \(Radio Edit\)](https://open.spotify.com/album/4OWOcaoeR6A6HmOfC2UYyQ) | 2:35 | 2022-04-20 |  |
+| [Fenix \- Radio Edit](https://open.spotify.com/track/1kATj4UD3ZO9EeiEyRXBx0) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Hidd Sage](https://open.spotify.com/artist/3d6BUISFDk2Nkb1NUOuTrc) | [Fenix \(Radio Edit\)](https://open.spotify.com/album/4OWOcaoeR6A6HmOfC2UYyQ) | 2:35 | 2022-04-20 |  |
 | [Fiesta Forever](https://open.spotify.com/track/2RGUFATsyrVxWYhCNUfU9R) | [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Fiesta Forever \(Produced by Cuban Deejays\)](https://open.spotify.com/album/0fwWbAUwfLJnH4xSvIn82x) | 2:32 | 2022-03-22 | 2022-04-21 |
 | [Firefly](https://open.spotify.com/track/30QQol7Vsq7ULmFDavJxZN) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Firefly](https://open.spotify.com/album/4WdtklPfsAneuq0RoFn8lP) | 4:27 | 2022-03-22 | 2022-04-29 |
 | [Flex](https://open.spotify.com/track/04xd1RYPYlaWAavY7NnyTt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [Sorry For The Weight](https://open.spotify.com/album/61UgKPXbltFZQiF3qifIyG) | 4:00 | 2022-03-22 |  |

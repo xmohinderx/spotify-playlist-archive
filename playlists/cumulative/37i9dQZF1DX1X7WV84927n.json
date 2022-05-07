@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: Def Leppard",
+  "description": "For the Hard Rock and full volume lovers. Cover: Ghost",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
@@ -51,13 +51,29 @@
         {
           "name": "Michael Schenker Group",
           "url": "https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi"
+        },
+        {
+          "name": "Bob Daisley",
+          "url": "https://open.spotify.com/artist/67vieFbFOOhGMEz0OLznOO"
+        },
+        {
+          "name": "Bobby Rondinelli",
+          "url": "https://open.spotify.com/artist/3H2AYJg4F5mCMz9ak4FOEq"
+        },
+        {
+          "name": "Michael Kiske",
+          "url": "https://open.spotify.com/artist/0gCtlB8zAb5lkus3e4X1ET"
+        },
+        {
+          "name": "Tony Carey",
+          "url": "https://open.spotify.com/artist/4urvwbid7NFoVes5PTx9lV"
         }
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 293908,
-      "name": "A King Has Gone",
+      "name": "A King Has Gone (feat. Michael Kiske, Bobby Rondinelli, Bob Daisley & Tony Carey)",
       "url": "https://open.spotify.com/track/4hJY176L0CKPXcXkaGoQYY"
     },
     {
@@ -95,7 +111,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 241954,
       "name": "Actions Speak Louder Than Words (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
@@ -543,6 +559,24 @@
       "duration_ms": 208695,
       "name": "Cold Blue Steel",
       "url": "https://open.spotify.com/track/3QzS5FkuAZRMO4SFll3s7M"
+    },
+    {
+      "album": {
+        "name": "Get Off",
+        "url": "https://open.spotify.com/album/1xxA0JiTUidQe7dMfIh7Wp"
+      },
+      "artists": [
+        {
+          "name": "Motor Sister",
+          "url": "https://open.spotify.com/artist/2PSgWUN5hVuv4LYulLxaT3"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160661,
+      "name": "Coming for You",
+      "url": "https://open.spotify.com/track/5iHpCkeNVzVo2nNVF7jqhJ"
     },
     {
       "album": {
@@ -1869,7 +1903,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 194694,
       "name": "Naturally Wild",
       "url": "https://open.spotify.com/track/5qg7MzDQ51X2TTDuTIqh2o"
@@ -2171,6 +2205,24 @@
       "duration_ms": 181520,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/766rtcPfIGfdT1YzRyxkZl"
+    },
+    {
+      "album": {
+        "name": "Ready for a Good Time",
+        "url": "https://open.spotify.com/album/0CmMi5CVhUusvcNCd7HcN0"
+      },
+      "artists": [
+        {
+          "name": "Art Of Dying",
+          "url": "https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184146,
+      "name": "Ready for a Good Time",
+      "url": "https://open.spotify.com/track/5rX16XklyqZnUBM9fF59qc"
     },
     {
       "album": {

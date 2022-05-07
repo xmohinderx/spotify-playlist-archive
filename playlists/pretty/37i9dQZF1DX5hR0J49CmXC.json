@@ -1,28 +1,80 @@
 {
   "description": "The Real hip-hop. Cover: Westside Boogie",
-  "num_followers": 1073385,
+  "num_followers": 1073495,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDgwMCwwMDAwMDFhMjAwMDAwMTgwNzM3OWJlOTQwMDAwMDE4MDcxN2QxNDNm",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDFhMzAwMDAwMTgwOTc4NjQzM2IwMDAwMDE4MDcxN2QxNDNm",
   "tracks": [
     {
-      "added_at": "2022-04-29 04:00:00",
+      "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Cocodrillo Turbo",
-        "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
+        "name": "UP",
+        "url": "https://open.spotify.com/album/6bBIifv9VnIVRPKTKQjyBP"
       },
       "artists": [
         {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
         }
       ],
-      "duration_ms": 175306,
-      "name": "Jaguar",
-      "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
+      "duration_ms": 211687,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/2yayJdN0THmDy3Cco1TZtI"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "STUCK",
+        "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 217271,
+      "name": "STUCK",
+      "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Simple.",
+        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 144695,
+      "name": "The Code (feat. Mike Dimes)",
+      "url": "https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c"
+    },
+    {
+      "added_at": "2022-04-22 22:47:23",
+      "album": {
+        "name": "Hollandaise",
+        "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Hollandaise",
+      "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
     },
     {
       "added_at": "2022-04-22 04:44:09",
@@ -43,6 +95,22 @@
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Cocodrillo Turbo",
+        "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Jaguar",
+      "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -131,22 +199,6 @@
       "duration_ms": 179533,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
-    },
-    {
-      "added_at": "2022-04-22 22:47:23",
-      "album": {
-        "name": "Hollandaise",
-        "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Hollandaise",
-      "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -775,22 +827,6 @@
     {
       "added_at": "2022-04-22 04:44:09",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 171398,
-      "name": "Meet Joe Black",
-      "url": "https://open.spotify.com/track/6DxuDt3ixGmXWKOTwaA2vz"
-    },
-    {
-      "added_at": "2022-04-22 04:44:09",
-      "album": {
         "name": "Dollar Menu",
         "url": "https://open.spotify.com/album/3aQjgylGN3kd7rTPsi6gaK"
       },
@@ -853,26 +889,6 @@
       "url": "https://open.spotify.com/track/15gPvZFGYcznrSDxyv7zjC"
     },
     {
-      "added_at": "2022-04-22 04:44:09",
-      "album": {
-        "name": "Richer Than I Ever Been",
-        "url": "https://open.spotify.com/album/5cZ23u1lWxszHiUokH6LnJ"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 203207,
-      "name": "Rapper Estates (feat. Benny The Butcher)",
-      "url": "https://open.spotify.com/track/3cYuqoOhuXjx4iB9ttHn6E"
-    },
-    {
       "added_at": "2022-03-11 05:42:06",
       "album": {
         "name": "From a Birds Eye View",
@@ -931,26 +947,6 @@
       "duration_ms": 251799,
       "name": "Tabula Rasa (feat. Armand Hammer)",
       "url": "https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR"
-    },
-    {
-      "added_at": "2022-03-11 05:42:06",
-      "album": {
-        "name": "Mortgage Free (feat. 2 Chainz)",
-        "url": "https://open.spotify.com/album/3O83kLKjolZCfPKyNr4mpW"
-      },
-      "artists": [
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Mortgage Free (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/6VEHKvuIAB7LcTwl1XqnBi"
     }
   ],
   "unique_name": "Mind Right",

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
-> The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Quinn Christopherson Artwork: Robin Clifford Ellis
+> The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: kelz Artwork: Robin Clifford Ellis
 
-523 songs - 1 day 4 hr 44 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+524 songs - 1 day 4 hr 47 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-12-01 | 2022-01-13 |
 | [Acts of Service](https://open.spotify.com/track/45eZeT5WQNPIxLS3tGbCZU) | [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [Acts of Service](https://open.spotify.com/album/3BXHiplzVE9jaebveZYFqj) | 2:43 | 2022-02-22 | 2022-03-17 |
 | [Added Sugar](https://open.spotify.com/track/6jISouTUutj65lrbcX4knN) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Added Sugar](https://open.spotify.com/album/0HdxoYwOSUrbs9VyL0EtZB) | 2:42 | 2022-05-04 |  |
+| [Adieu](https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 2:39 | 2022-05-06 |  |
 | [Adore](https://open.spotify.com/track/6XcWvpiPu0o4JStDMz1xYs) | [Andrew Kamen](https://open.spotify.com/artist/2lfHp2l2V3e1OmZGZzLabi) | [Adore](https://open.spotify.com/album/0kjLxeKG8NI2KUSTzLk94P) | 3:00 | 2022-03-09 | 2022-04-27 |
 | [Adventures of Tricky N Duke](https://open.spotify.com/track/2Nh4io2oYYGTKga8J5fK5L) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Adventures of Tricky N Duke](https://open.spotify.com/album/0t3Eq2TRjepZeWGvGy9kZR) | 2:14 | 2021-12-01 | 2022-05-05 |
 | [Afraid of Driving](https://open.spotify.com/track/1qff8a4waSslWtW4QvClol) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [Afraid of Driving](https://open.spotify.com/album/2Ll7amJP0P9oGHCRKa81A2) | 3:00 | 2022-03-22 | 2022-04-13 |
@@ -131,7 +132,7 @@
 | [Days Go By](https://open.spotify.com/track/0Wi4Cn9tgcNKEKWNWXQqIV) | [Fontanarosa](https://open.spotify.com/artist/0k4N7aGYCoBA9NVf1AKoqy) | [Are You There ?](https://open.spotify.com/album/54Au5aeDYhtVv1cPVeIuaC) | 2:30 | 2022-04-06 | 2022-04-27 |
 | [DD](https://open.spotify.com/track/5NXryQULOsXksGBwnXOVwz) | [Hot Moms Club](https://open.spotify.com/artist/44U6qVof1S72cplspDbWrj) | [DD](https://open.spotify.com/album/1fk3lsaqYE7Zmi6e0WiK1u) | 3:46 | 2022-05-04 |  |
 | [Dead Dear \(Deer\)](https://open.spotify.com/track/36tSVRFlsdxAUtWODAAIpx) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Dead Dear \(Deer\)](https://open.spotify.com/album/56QKLIjO5nur7Z4ekgQzwG) | 2:46 | 2021-09-20 | 2022-01-13 |
-| [Dead End](https://open.spotify.com/track/1lnjoZ0B7L2qNpqqt9O7DN) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [Dead End](https://open.spotify.com/album/0J5ZEh8YWFejDZISf9xeWY) | 3:06 | 2022-04-27 |  |
+| [dead end](https://open.spotify.com/track/1lnjoZ0B7L2qNpqqt9O7DN) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [Dead End](https://open.spotify.com/album/0J5ZEh8YWFejDZISf9xeWY) | 3:06 | 2022-04-27 |  |
 | [Dead Surfer](https://open.spotify.com/track/2Zafak3xu7Y2625DptJzei) | [Grant Claytor](https://open.spotify.com/artist/7AV5NsnZkoZJ0OSqxwgUTm) | [Dead Surfer](https://open.spotify.com/album/6wCVprxBsCXUjqB7qc9Nci) | 2:57 | 2022-05-04 |  |
 | [Decades & Dreams](https://open.spotify.com/track/22YplawUxyX69xqTaPlt7w) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Decades & Dreams](https://open.spotify.com/album/3zpxgBF3kZrl6z1BON34qB) | 3:28 | 2022-03-09 | 2022-04-27 |
 | [Deep Blue](https://open.spotify.com/track/1c6xkwwhc0T5JdU2oiTFkH) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Deep Blue](https://open.spotify.com/album/7f9VlhNeNi5zc0URre6H6I) | 2:58 | 2021-08-18 | 2022-01-13 |

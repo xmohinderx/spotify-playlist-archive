@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 278626,
       "name": "(I Just) Died In Your Arms",
       "url": "https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 295360,
       "name": "Away",
       "url": "https://open.spotify.com/track/2GRL794l2R1SFJc3Z0pIlr"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "Ballad Of Peter Pumpkinhead - 2001 Remaster",
       "url": "https://open.spotify.com/track/50GQrTJ85qG7wSPoGjvuCM"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 327306,
       "name": "Compulsion",
       "url": "https://open.spotify.com/track/5ZkLm20XMu4r1KCYaCgx61"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 331306,
       "name": "Dazzle",
       "url": "https://open.spotify.com/track/7bnCNRtPeex7J5vU7gWJ7t"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 334066,
       "name": "Disappointed",
       "url": "https://open.spotify.com/track/2PSXD9A74a6eLlrcbR32NM"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 243106,
       "name": "Don't Stand So Close To Me",
       "url": "https://open.spotify.com/track/1pvqjbbL6C5wKNjnNSnWQm"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 239400,
       "name": "Driven Out",
       "url": "https://open.spotify.com/track/0lT3Q3GFZQCzyiwFEam4TG"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 214800,
       "name": "Kayleigh - Single Edit",
       "url": "https://open.spotify.com/track/5wG0fxX1Ag3Xx4wACyUQMh"
@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 140506,
       "name": "Panic - 2011 Remaster",
       "url": "https://open.spotify.com/track/6sqLEYDoCpEcQYlHGYjTTv"
@@ -1251,7 +1251,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 218960,
       "name": "Play For Today",
       "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
@@ -1273,6 +1273,24 @@
       "duration_ms": 227733,
       "name": "Pride (In The Name Of Love)",
       "url": "https://open.spotify.com/track/4Jdr7BkpqkkUwl2pFR0yVj"
+    },
+    {
+      "album": {
+        "name": "Murmur - Deluxe Edition",
+        "url": "https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245786,
+      "name": "Radio Free Europe",
+      "url": "https://open.spotify.com/track/7A6Z9bZgSq8WRuoDIVNM6P"
     },
     {
       "album": {
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 274626,
       "name": "Repetition",
       "url": "https://open.spotify.com/track/2Dq6BAHRXcoTxg9azES5xW"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 252533,
       "name": "She Sells Sanctuary",
       "url": "https://open.spotify.com/track/66glXjjFvlS5r1gDUK4ugq"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 257826,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/6amZm52SfS7d6oCEu9NDMl"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 217453,
       "name": "Souvenir - Remastered 2003",
       "url": "https://open.spotify.com/track/6ovrxrZnAvJRbUJ5Sscoqk"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 346280,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"

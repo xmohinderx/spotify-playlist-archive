@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Mavis Staples
+> The best in blues right now\. Cover: Dr\. John
 
-181 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+183 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Hush Money](https://open.spotify.com/track/3GyqRIWdigKoHOpkPXXEra) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 4:14 | 2021-04-09 | 2022-04-23 |
 | [I Feel So Good](https://open.spotify.com/track/6cC947WJ1IZrBmR36VVaVw) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [I Feel So Good](https://open.spotify.com/album/3eae0rBXR5q244uoqnbhVd) | 3:36 | 2021-01-15 | 2022-04-23 |
 | [I Shall Not Be Moved](https://open.spotify.com/track/0vgye3WuFujBVE0o7bMlUs) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [I Shall Not Be Moved](https://open.spotify.com/album/7rdwOavrIfe48baqM5SPP6) | 4:19 | 2022-02-25 | 2022-04-23 |
+| [I Walk On Guilded Splinters](https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [I Walk On Guilded Splinters](https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc) | 4:53 | 2022-05-06 |  |
 | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/2DqvcJ1mq1ioIVWmDGgWBn) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/album/40W7GqrM3klsP4bHSxGrBT) | 4:19 | 2021-10-22 | 2022-04-23 |
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/album/2zIs5JH5olt903NfR0A1XK) | 3:42 | 2022-04-29 |  |
 | [I'd Climb Mountains](https://open.spotify.com/track/3Viv0Zuw0FT4EuxdVGfrDo) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Living In A Burning House](https://open.spotify.com/album/1eBYbklgOrUS8hYho7rPXj) | 3:30 | 2021-01-29 | 2022-04-23 |
@@ -132,6 +133,7 @@
 | [Signs, High Times](https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:51 | 2020-12-14 | 2022-02-26 |
 | [Simple Man](https://open.spotify.com/track/09NEAaQ8HTHtyTRfkZI4Gm) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Brighter Days](https://open.spotify.com/album/0O2cq6Qpljvqt4zBas4On2) | 3:03 | 2020-12-14 | 2022-02-26 |
 | [Sitting At Home Alone](https://open.spotify.com/track/1rjhzTMKG8NdgkNKRFnFmi) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Sitting At Home Alone](https://open.spotify.com/album/77MTWaEpZrh3vjitwDfsdC) | 4:35 | 2021-08-13 |  |
+| [Sitting On Top Of The World](https://open.spotify.com/track/4UXEchrcvlBwJgXzlYf7Fr) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Sitting on Top of the World / Love Will Never Say Goodbye](https://open.spotify.com/album/5pDNlo70gsJgTs8YX1FTjp) | 3:53 | 2022-05-06 |  |
 | [Sleeping Without You Is a Dragg \(feat\. Justin Vernon, Jenny Lewis\)](https://open.spotify.com/track/647yyMzcgJc1dON8QddRFo) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Sorry You Couldn't Make It](https://open.spotify.com/album/3Z2NP5RmJvOwxdRm2AGKAA) | 4:01 | 2020-12-14 | 2022-02-26 |
 | [Smokestack Lightning](https://open.spotify.com/track/0AA58C0kJduvq8gvDF1E4r) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Smokestack Lightning](https://open.spotify.com/album/1mS7rSoYHzeyCHk7KHuERv) | 3:58 | 2022-04-08 |  |
 | [Solid Ground](https://open.spotify.com/track/4dtYmYgTH5I5uZxUuF5eon) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/2wVJmrDg19gR4wtCRFDncv) | 2:34 | 2021-10-22 |  |

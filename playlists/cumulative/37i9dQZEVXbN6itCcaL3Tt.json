@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 301573,
       "name": "100 dni do matury",
       "url": "https://open.spotify.com/track/78L2RUFISfqkmZMTCLYQJC"
@@ -2739,7 +2739,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 137992,
       "name": "COCO",
       "url": "https://open.spotify.com/track/4huKZSBZ0UJt2RWwB8PEWU"
@@ -4778,6 +4778,28 @@
     },
     {
       "album": {
+        "name": "Huragan",
+        "url": "https://open.spotify.com/album/6xKVlOL8stXITDhVZjQPDb"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "Huragan",
+      "url": "https://open.spotify.com/track/07Av3mjaJZglOphEyYKA63"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -6435,6 +6457,28 @@
       "duration_ms": 168386,
       "name": "La La La (Oh Oh)",
       "url": "https://open.spotify.com/track/6lHwA7R2CNHSOFJXiSZprk"
+    },
+    {
+      "album": {
+        "name": "La Manga",
+        "url": "https://open.spotify.com/album/159tAKVX40G35wTbZ7Efk0"
+      },
+      "artists": [
+        {
+          "name": "Alberto",
+          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
+        },
+        {
+          "name": "Josef Bratan",
+          "url": "https://open.spotify.com/artist/4RoVw3AbSvjr1KFpzjBZgA"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180806,
+      "name": "La Manga",
+      "url": "https://open.spotify.com/track/7ApeFeWYcnTTGOpo5b9Yx6"
     },
     {
       "album": {
@@ -12864,7 +12908,7 @@
     },
     {
       "album": {
-        "name": "Wi\u0119cej dymu",
+        "name": "WI\u0118CEJ DYMU",
         "url": "https://open.spotify.com/album/7jpaMrXyirYMgkREyS3mZL"
       },
       "artists": [
@@ -12893,7 +12937,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165000,
-      "name": "Wi\u0119cej dymu",
+      "name": "WI\u0118CEJ DYMU",
       "url": "https://open.spotify.com/track/41UYfhZqeITq1gQJVstvG5"
     },
     {

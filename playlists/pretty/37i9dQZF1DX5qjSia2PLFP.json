@@ -1,13 +1,33 @@
 {
-  "description": "Emerging music breaking waves.  Cover: A$AP ANT",
-  "num_followers": 14694,
+  "description": "New music breaking waves.  Cover: Jay305",
+  "num_followers": 14736,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc4NTYwMCwwMDAwMDAzNDAwMDAwMTdmZTM0N2FlY2UwMDAwMDE3ZmUzMWE2ZTVl",
+  "snapshot_id": "MTY1MTgxMDU1NywwMDAwMDAzNTAwMDAwMTgwOTc5NGRkYzgwMDAwMDE4MDk3OTRiZGQ2",
   "tracks": [
+    {
+      "added_at": "2022-05-06 04:15:57",
+      "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+      },
+      "artists": [
+        {
+          "name": "HitKidd",
+          "url": "https://open.spotify.com/artist/6fD4Wp0ohNtBZNB5mvS4PK"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+    },
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
@@ -27,6 +47,26 @@
       "duration_ms": 155076,
       "name": "The God Hour",
       "url": "https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC"
+    },
+    {
+      "added_at": "2022-05-06 04:15:57",
+      "album": {
+        "name": "Ghetto Praise",
+        "url": "https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc"
+      },
+      "artists": [
+        {
+          "name": "Jay 305",
+          "url": "https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "duration_ms": 193756,
+      "name": "Ghetto Praise",
+      "url": "https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6"
     },
     {
       "added_at": "2022-04-01 04:00:00",

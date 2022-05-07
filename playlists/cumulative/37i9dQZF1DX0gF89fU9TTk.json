@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "All I See (feat. CASS)",
+        "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
+      },
+      "artists": [
+        {
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183341,
+      "name": "All I See (feat. CASS)",
+      "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
+    },
+    {
+      "album": {
         "name": "Canyon Worship 2021",
         "url": "https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ"
       },
@@ -135,7 +157,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 185573,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
@@ -265,7 +287,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 182758,
       "name": "Changed - OHKI Roller Rink Remix",
       "url": "https://open.spotify.com/track/7h8sVS1zlPsMIQZDyFmFSK"
@@ -319,7 +341,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 200350,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH"
@@ -337,7 +359,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 222551,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/6isD7JA7wF5TV6E3cVxcgD"
@@ -399,7 +421,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 260610,
       "name": "Edge of Time (Bala Mandala Remix)",
       "url": "https://open.spotify.com/track/4qjDLG7d5gQoE2vkQKOrjz"
@@ -497,7 +519,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 254026,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
@@ -555,7 +577,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/3HBJo3avOKynYfKIfTecjX"
@@ -609,7 +631,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 194335,
       "name": "Found in You",
       "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
@@ -699,7 +721,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 171546,
       "name": "Good Friend",
       "url": "https://open.spotify.com/track/5qFhF4u1rsTkmVGX9ftdzK"
@@ -739,7 +761,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 202710,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/36J64RkkFvdrJNKfiwY0iB"
@@ -833,7 +855,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 243817,
       "name": "Highest Praise",
       "url": "https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM"
@@ -855,7 +877,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 223023,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/1NmHUEvUh1JdxsxSBv1xIg"
@@ -873,7 +895,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 230220,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
@@ -927,7 +949,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 212998,
       "name": "I Could Sing of Your Love Forever",
       "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 213381,
       "name": "Joy",
       "url": "https://open.spotify.com/track/3w6t8nc3s891MChiTM0AxS"
@@ -1149,7 +1171,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Just As I Am",
       "url": "https://open.spotify.com/track/1nA0NiBT62ZUdL5bvV3rRn"
@@ -1171,7 +1193,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 439714,
       "name": "Just Want You - Live",
       "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
@@ -1291,7 +1313,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Let You Love Me",
       "url": "https://open.spotify.com/track/5xv9rwOC7YZC2Gv7XFfJM6"
@@ -1345,7 +1367,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 210697,
       "name": "Like You Love Me",
       "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
@@ -1407,7 +1429,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 222597,
       "name": "Love Goes On - Remix",
       "url": "https://open.spotify.com/track/5UdR96WgFNSPA1N4GvkWgy"
@@ -1469,7 +1491,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 153684,
       "name": "Loyal (OMG)",
       "url": "https://open.spotify.com/track/1vqDM7Dx9s4TokQu2NWXRF"
@@ -1523,7 +1545,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 223688,
       "name": "More Than Good Enough",
       "url": "https://open.spotify.com/track/4nZN50JWs7JTQxbW3PXNKV"
@@ -1581,7 +1603,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 233024,
       "name": "Never Let You Go - Live",
       "url": "https://open.spotify.com/track/6g3zF52ZzbTL3eu7lxxsoQ"
@@ -1635,7 +1657,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 187692,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
@@ -1653,7 +1675,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 196506,
       "name": "Nobody But You - Live",
       "url": "https://open.spotify.com/track/0i337cf6Iqos7LXeuiUEop"
@@ -1801,7 +1823,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 162894,
       "name": "Phenomena (DA DA) - Live",
       "url": "https://open.spotify.com/track/5SU08C7u2nFFZ10QyvI8RO"
@@ -1819,7 +1841,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 198702,
       "name": "Pray It Up",
       "url": "https://open.spotify.com/track/32r9KWfKdaYs2lEOdDQ8LV"
@@ -1855,7 +1877,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 168000,
       "name": "Quiet Talk",
       "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
@@ -1877,7 +1899,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 209739,
       "name": "Rest On Us",
       "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
@@ -1895,7 +1917,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 268360,
       "name": "Shiloh",
       "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
@@ -1913,7 +1935,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 212520,
       "name": "Signs",
       "url": "https://open.spotify.com/track/7Jsgkhp3pASBzaqb4vI9nW"
@@ -1953,7 +1975,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 195986,
       "name": "Sound of Freedom",
       "url": "https://open.spotify.com/track/0ffnyvtjsmJvME97m2JVeh"
@@ -2029,7 +2051,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 221693,
       "name": "State Of Mind - Live",
       "url": "https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl"
@@ -2087,7 +2109,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 210355,
       "name": "Take up My Cross",
       "url": "https://open.spotify.com/track/7CPaUzk8cgVb4u122bchT6"
@@ -2109,7 +2131,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 236025,
       "name": "The Blessing - Reyer Remix",
       "url": "https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd"

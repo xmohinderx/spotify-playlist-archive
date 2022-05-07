@@ -172,6 +172,24 @@
     },
     {
       "album": {
+        "name": "This 2 Shall Pass",
+        "url": "https://open.spotify.com/album/6jYeqcUwxI2GOK2gnXLEDH"
+      },
+      "artists": [
+        {
+          "name": "GANG51E JUNE",
+          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169092,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/7xHPjLPNyrVbIyGJmQwX5E"
+    },
+    {
+      "album": {
         "name": "Baddest (feat. Chris Brown & 2 Chainz)",
         "url": "https://open.spotify.com/album/3ERp6sI91Flu5Onq9me2pV"
       },
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 156943,
       "name": "Coming Down (with Ari Lennox)",
       "url": "https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn"
@@ -608,6 +626,24 @@
     },
     {
       "album": {
+        "name": "D.M.B.",
+        "url": "https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291611,
+      "name": "D.M.B.",
+      "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
+    },
+    {
+      "album": {
         "name": "Dancing With The Devil",
         "url": "https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM"
       },
@@ -627,7 +663,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 169717,
       "name": "Dancing With The Devil",
       "url": "https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN"
@@ -1169,7 +1205,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 158146,
       "name": "If You Want Me To (feat. Jacquees)",
       "url": "https://open.spotify.com/track/0u8OPAAPuIASEmrpg32H62"
@@ -1235,6 +1271,24 @@
       "duration_ms": 201060,
       "name": "It's About A Girl",
       "url": "https://open.spotify.com/track/2tKXH7NdVrrjDvQrv9CCVd"
+    },
+    {
+      "album": {
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/2coZBB3PhjAsm1HMRucDwm"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200192,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/2DxrPZi0nxaIrGciFmErTW"
     },
     {
       "album": {
@@ -1318,6 +1372,24 @@
     },
     {
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129565,
+      "name": "Lil Secret",
+      "url": "https://open.spotify.com/track/29SR6SFfjQJoddfmimHbQh"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni"
       },
@@ -1373,7 +1445,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 146086,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2PxUUGpUBoHcDUrPKNstTE"
@@ -1563,7 +1635,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 174482,
       "name": "Never Leave Her (feat. Jacquees)",
       "url": "https://open.spotify.com/track/3i9k5M8xkZZ7LFAeMZBT4m"
@@ -1775,7 +1847,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 200063,
       "name": "Personal",
       "url": "https://open.spotify.com/track/3reh5PVIiMCsIAy3RNJpFq"
@@ -1990,6 +2062,24 @@
     },
     {
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234117,
+      "name": "Side Piece",
+      "url": "https://open.spotify.com/track/0203aGEIzVVlmvQ8lX4fmV"
+    },
+    {
+      "album": {
         "name": "Single & Happy",
         "url": "https://open.spotify.com/album/3Rhqmw9GAShFfVEVP8R0EF"
       },
@@ -2129,6 +2219,28 @@
       "duration_ms": 170693,
       "name": "Taken For Granted",
       "url": "https://open.spotify.com/track/3CsdKcnQRUtuPO7hHjzJ1P"
+    },
+    {
+      "album": {
+        "name": "Tell Your Friends (feat. Kalan.FrFr)",
+        "url": "https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163166,
+      "name": "Tell Your Friends (feat. Kalan.FrFr)",
+      "url": "https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz"
     },
     {
       "album": {
@@ -2435,7 +2547,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201398,
-      "name": "What\u2019s My Name (with Queen Naija) [feat. Coi Leray]",
+      "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
     },
     {

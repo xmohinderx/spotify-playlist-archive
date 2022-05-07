@@ -101,7 +101,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
@@ -2743,7 +2743,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 157706,
       "name": "EXHALE (feat. Sia) - Hook N Sling Remix",
       "url": "https://open.spotify.com/track/6Ee4FnGvp1r6jvJNRHXpCD"
@@ -3061,7 +3061,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 146983,
       "name": "Friday",
       "url": "https://open.spotify.com/track/4t5DaUXvdAFahZJtXYGYpH"
@@ -5459,7 +5459,7 @@
       ],
       "date_added": "2021-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 126511,
       "name": "Monkey Mind",
       "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
@@ -5837,7 +5837,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 153913,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/490LclNVKfdheKMqdyjzZN"
@@ -8019,7 +8019,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 204435,
       "name": "Something Stupid (feat. AWA) - KC Lights Remix",
       "url": "https://open.spotify.com/track/6vChWkgv3K0ttMLpL822ZU"
@@ -8365,7 +8365,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 158728,
       "name": "Stupid Feelings - Jonasu Remix",
       "url": "https://open.spotify.com/track/0agrpW5vGvWNziZwzPHwQ7"
@@ -10214,6 +10214,28 @@
     },
     {
       "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/7G0zAdOGlZALLj0yIu1b7j"
       },
@@ -10251,7 +10273,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 192413,
       "name": "Worlds Collide - Edison Cole Remix",
       "url": "https://open.spotify.com/track/3JqpIjrQfmW68YkpxXWPL4"
@@ -10331,7 +10353,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 195562,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO"

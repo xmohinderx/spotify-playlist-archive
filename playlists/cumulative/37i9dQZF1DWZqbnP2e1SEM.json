@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "Advice",
+        "url": "https://open.spotify.com/album/4wOuGy0YTmOHjHIUo6drO8"
+      },
+      "artists": [
+        {
+          "name": "Cadet",
+          "url": "https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK"
+        },
+        {
+          "name": "Deno",
+          "url": "https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192571,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/1fp2uoWXPca3mIdxRHIgQm"
+    },
+    {
+      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz"
       },
@@ -147,7 +169,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 212368,
       "name": "All Over Again - Edit",
       "url": "https://open.spotify.com/track/2yGJDfOKuFlEDxqJGUOT62"
@@ -225,7 +247,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 274173,
       "name": "Angles - Preditah Remix",
       "url": "https://open.spotify.com/track/0jU7WyqzzQ5qIefnEodh9S"
@@ -273,7 +295,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 205250,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD"
@@ -317,7 +339,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 197419,
       "name": "Bayside - Radio Edit",
       "url": "https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB"
@@ -361,7 +383,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 226773,
       "name": "Beautiful People (feat. Benny Benassi)",
       "url": "https://open.spotify.com/track/2eqSXs0g5E7ydQqLcT58Lr"
@@ -387,7 +409,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 199720,
       "name": "Before U",
       "url": "https://open.spotify.com/track/1YK1uWCZLaljd7kgjaC7bH"
@@ -643,7 +665,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 199073,
       "name": "Deep In Your Heart",
       "url": "https://open.spotify.com/track/3MLG4eqsR2pL1fcxOltH4W"
@@ -851,7 +873,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 200015,
       "name": "Fireworks (feat. Moss Kena & The Knocks)",
       "url": "https://open.spotify.com/track/3uxsrlRldPneshvxlXVcYS"
@@ -873,7 +895,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 188918,
       "name": "First Time",
       "url": "https://open.spotify.com/track/25Mf35cnnFalpVNFp0g3hW"
@@ -891,7 +913,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 247500,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/1qeSZD2hBkOqwD9e5jcTYa"
@@ -1009,7 +1031,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 234666,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/3RMK5x4l1muv7NXrSBCAUE"
@@ -1061,7 +1083,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 295413,
       "name": "Frisky (feat. Labrinth)",
       "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
@@ -1101,7 +1123,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 224800,
       "name": "Get Out My Head",
       "url": "https://open.spotify.com/track/1LC6p9xSpZBogQMqlWZ5SZ"
@@ -1123,7 +1145,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 200357,
       "name": "Girl With The Bat (feat. Shadow Boxxer) - Edit",
       "url": "https://open.spotify.com/track/4aJ3ys72vKkJXokem7ju7H"
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 243515,
       "name": "Hands Free",
       "url": "https://open.spotify.com/track/4ULgU2dA3wrnmYwpW6uvMA"
@@ -1273,7 +1295,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 178613,
       "name": "Heartbroken - Edit",
       "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
@@ -1335,7 +1357,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 209090,
       "name": "Here To Party - Shaun Dean Remix",
       "url": "https://open.spotify.com/track/7aUSQFp0twv9wpborjXV0V"
@@ -1445,7 +1467,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 262588,
       "name": "I Got You (feat. Tyler Daley)",
       "url": "https://open.spotify.com/track/5IFNp4DueyGpUwaXs6JrK1"
@@ -1463,7 +1485,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 183444,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/6nRNYQiLt3RU06fzHxCnsc"
@@ -1707,7 +1729,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 186200,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/33VrQvOZ7dyytQV3xCMolM"
@@ -1831,7 +1853,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 213230,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/06nCnkVALuvvNcBwVRNTUS"
@@ -2003,7 +2025,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw"
@@ -2025,7 +2047,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3PBxGPKTvxXvcP1Z7dDc3Q"
@@ -2135,7 +2157,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 168602,
       "name": "Power of Bass",
       "url": "https://open.spotify.com/track/1zwFMk78PdZvl7ARj14yn6"
@@ -2179,7 +2201,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 198750,
       "name": "Pulling Me Back",
       "url": "https://open.spotify.com/track/0Xj09B2hxhOOmzKrfy4bjA"
@@ -2241,7 +2263,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 282758,
       "name": "Remedies",
       "url": "https://open.spotify.com/track/1bCl2ys5OAbgoEw3vE0B57"
@@ -2391,7 +2413,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 154680,
       "name": "Set U Free",
       "url": "https://open.spotify.com/track/0m69QNuZVZDXhGHBGK1mQA"
@@ -2639,7 +2661,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 157040,
       "name": "The Cure & The Cause - Radio Edit",
       "url": "https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm"
@@ -2767,7 +2789,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 208483,
       "name": "Vibranium",
       "url": "https://open.spotify.com/track/3i3zj8jTAHkr3b1dSR6SOU"
@@ -2935,7 +2957,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 156630,
       "name": "XTC",
       "url": "https://open.spotify.com/track/7CN6ZYIX338ekn7pb2CpQp"
@@ -3075,7 +3097,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 203972,
       "name": "Your Lovin' (feat. M\u00d8 & Yxng Bane)",
       "url": "https://open.spotify.com/track/1p6Sc7zeA9dMIDT1mIpCJ1"

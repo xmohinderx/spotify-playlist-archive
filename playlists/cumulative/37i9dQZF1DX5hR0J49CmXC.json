@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 171398,
       "name": "Meet Joe Black",
       "url": "https://open.spotify.com/track/6DxuDt3ixGmXWKOTwaA2vz"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 195933,
       "name": "Mortgage Free (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/6VEHKvuIAB7LcTwl1XqnBi"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 203207,
       "name": "Rapper Estates (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/3cYuqoOhuXjx4iB9ttHn6E"
@@ -2096,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "STUCK",
+        "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217271,
+      "name": "STUCK",
+      "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
+    },
+    {
+      "album": {
         "name": "Subzero",
         "url": "https://open.spotify.com/album/1AQMJbIC1RrLaKbM47DvYi"
       },
@@ -2202,6 +2220,28 @@
     },
     {
       "album": {
+        "name": "Simple.",
+        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144695,
+      "name": "The Code (feat. Mike Dimes)",
+      "url": "https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c"
+    },
+    {
+      "album": {
         "name": "The Happy",
         "url": "https://open.spotify.com/album/5mue8Vi6Sxw3vscmf1Nra1"
       },
@@ -2293,6 +2333,24 @@
       "duration_ms": 242186,
       "name": "Tongpo [Feat. Conway the Machine]",
       "url": "https://open.spotify.com/track/0onGlO4GD6A9IFbCkHhq6e"
+    },
+    {
+      "album": {
+        "name": "UP",
+        "url": "https://open.spotify.com/album/6bBIifv9VnIVRPKTKQjyBP"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211687,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/2yayJdN0THmDy3Cco1TZtI"
     },
     {
       "album": {

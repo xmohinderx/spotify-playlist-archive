@@ -4,7 +4,7 @@
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-92 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
+93 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aralkum](https://open.spotify.com/track/5WTL2dxPPRTdKZrrFOvHiD) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Aralkum](https://open.spotify.com/album/64qo09yNVqquWNVde0MA0v) | 6:39 | 2022-03-11 |  |
 | [Avril](https://open.spotify.com/track/0div0En4DQn4cGuZYqwtpR) | [Venus Ex Machina](https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p) | [Lux](https://open.spotify.com/album/1O09puSK7tOoQP58R4FM5M) | 2:24 | 2022-03-11 |  |
 | [Band \(pause\)](https://open.spotify.com/track/6cUrqtrXOcmRfUhlkJ8RWx) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 3:40 | 2022-03-11 |  |
+| [Bautarsteinn](https://open.spotify.com/track/0HEsNDEwSuTLbLTpnOZjqt) | [Fuimadane](https://open.spotify.com/artist/0bvLGQcToNe2fbO2IIXpvN) | [Baráttan við Myrkrið](https://open.spotify.com/album/5ZqYuoyzvEEoK8QiPSvTVL) | 5:21 | 2022-05-06 |  |
 | [Before Meaning Comes](https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:12 | 2022-03-11 |  |
 | [besideways](https://open.spotify.com/track/0iGq0e4hGEqkItM34gIeC9) | [Septober](https://open.spotify.com/artist/5mrnxL7kMgBuBt1PsC5jl5) | [besideways](https://open.spotify.com/album/6S8T9rmuPXwgYAYNAhc9og) | 1:48 | 2022-03-11 |  |
 | [Blinding Shadow](https://open.spotify.com/track/02r6zlxkpUon7RRBo68ggg) | [Christian Marclay](https://open.spotify.com/artist/3s4oEo05Do24wMkcjXlxll), [Elliott Sharp](https://open.spotify.com/artist/17PS6mukckWnUN4DwilBBs) | [High Noon](https://open.spotify.com/album/30bNYzo8tUysCEpw6wTwMJ) | 4:20 | 2022-03-11 |  |

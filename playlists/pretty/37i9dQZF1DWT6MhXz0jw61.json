@@ -1,13 +1,101 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Action Bronson",
-  "num_followers": 1067895,
+  "num_followers": 1068297,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNjY1MCwwMDAwMDFhMDAwMDAwMTgwNzM5NWZjMjUwMDAwMDE4MDcxNDhlNTlk",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDFhMTAwMDAwMTgwOTc4NjQyZDUwMDAwMDE4MDcxNDhlNTlk",
   "tracks": [
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "D.M.B.",
+        "url": "https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 291611,
+      "name": "D.M.B.",
+      "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 309327,
+      "name": "Churchill Downs (feat. Drake)",
+      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2022-04-22 04:22:12",
+      "album": {
+        "name": "learn 2 swim",
+        "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "pg baby",
+      "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
+    },
+    {
+      "added_at": "2022-04-29 04:30:50",
+      "album": {
+        "name": "Cocodrillo Turbo",
+        "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Jaguar",
+      "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
+    },
+    {
+      "added_at": "2022-04-29 04:30:50",
+      "album": {
+        "name": "From The District To The World",
+        "url": "https://open.spotify.com/album/03q8PTeivBkbtmpm1GkYtS"
+      },
+      "artists": [
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "Dontplaydat (feat. Buddy)",
+      "url": "https://open.spotify.com/track/5AwF7f9aYqOsIbiLOZHCjf"
+    },
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
@@ -29,6 +117,26 @@
       "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
     },
     {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Simple.",
+        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 184123,
+      "name": "Dog Food (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY"
+    },
+    {
       "added_at": "2022-04-22 04:22:12",
       "album": {
         "name": "It's Almost Dry",
@@ -43,58 +151,6 @@
       "duration_ms": 178620,
       "name": "Just So You Remember",
       "url": "https://open.spotify.com/track/6XC3zX8dEiFTpd2hPpOA9y"
-    },
-    {
-      "added_at": "2022-04-29 04:30:50",
-      "album": {
-        "name": "Cocodrillo Turbo",
-        "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Jaguar",
-      "url": "https://open.spotify.com/track/2CjNQ2T7fSfp45CWb3dh85"
-    },
-    {
-      "added_at": "2022-04-22 04:22:12",
-      "album": {
-        "name": "learn 2 swim",
-        "url": "https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "pg baby",
-      "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
-    },
-    {
-      "added_at": "2022-04-22 04:22:12",
-      "album": {
-        "name": "Taylor Allderdice",
-        "url": "https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "My Favorite Song",
-      "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
     },
     {
       "added_at": "2022-01-28 20:30:35",
@@ -173,26 +229,6 @@
       "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
     },
     {
-      "added_at": "2022-04-29 04:30:50",
-      "album": {
-        "name": "From The District To The World",
-        "url": "https://open.spotify.com/album/03q8PTeivBkbtmpm1GkYtS"
-      },
-      "artists": [
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "Dontplaydat (feat. Buddy)",
-      "url": "https://open.spotify.com/track/5AwF7f9aYqOsIbiLOZHCjf"
-    },
-    {
       "added_at": "2022-04-08 04:00:00",
       "album": {
         "name": "RAMONA PARK BROKE MY HEART",
@@ -261,6 +297,22 @@
       "url": "https://open.spotify.com/track/7vWtHXwHvlTdi2o6IGIB3l"
     },
     {
+      "added_at": "2022-04-22 04:22:12",
+      "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 132603,
+      "name": "Open Air",
+      "url": "https://open.spotify.com/track/5JURxzoZ0r9FP6N01XRAAi"
+    },
+    {
       "added_at": "2022-04-29 04:30:50",
       "album": {
         "name": "From The District To The World",
@@ -295,6 +347,22 @@
       "duration_ms": 208422,
       "name": "Coolest Things (feat. Ari Lennox)",
       "url": "https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 224841,
+      "name": "Young Harleezy",
+      "url": "https://open.spotify.com/track/4CuZSJLlmUrEfcXUm6pQk9"
     },
     {
       "added_at": "2022-04-01 04:00:00",
@@ -335,6 +403,26 @@
       "duration_ms": 196066,
       "name": "Still Here (feat. Cordae)",
       "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Simple.",
+        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 144695,
+      "name": "The Code (feat. Mike Dimes)",
+      "url": "https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c"
     },
     {
       "added_at": "2022-01-28 20:27:54",
@@ -397,6 +485,30 @@
       "url": "https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1"
     },
     {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "Wiz Got Wings",
+        "url": "https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        },
+        {
+          "name": "Sledgren",
+          "url": "https://open.spotify.com/artist/4BU9oJUTOxoPchpcPSlUvR"
+        }
+      ],
+      "duration_ms": 163499,
+      "name": "Blacc Tarantino",
+      "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
+    },
+    {
       "added_at": "2022-03-25 04:52:36",
       "album": {
         "name": "THE PRICE EP",
@@ -415,22 +527,6 @@
       "duration_ms": 190703,
       "name": "PROBLEMS",
       "url": "https://open.spotify.com/track/049jORKYoPsyLsLnDhlthU"
-    },
-    {
-      "added_at": "2022-04-22 04:22:12",
-      "album": {
-        "name": "It's Almost Dry",
-        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 132603,
-      "name": "Open Air",
-      "url": "https://open.spotify.com/track/5JURxzoZ0r9FP6N01XRAAi"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -623,6 +719,30 @@
       "duration_ms": 126245,
       "name": "Just What it Seem",
       "url": "https://open.spotify.com/track/1EX11t2KcrBqQmi5v3AyuG"
+    },
+    {
+      "added_at": "2021-07-02 04:01:00",
+      "album": {
+        "name": "Life is Like a Dice Game - Spotify Singles",
+        "url": "https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Life is Like a Dice Game - Spotify Singles",
+      "url": "https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -969,10 +1089,10 @@
       "url": "https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2022-04-22 04:22:12",
       "album": {
-        "name": "Wiz Got Wings",
-        "url": "https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq"
+        "name": "Taylor Allderdice",
+        "url": "https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J"
       },
       "artists": [
         {
@@ -980,17 +1100,13 @@
           "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         },
         {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
-        },
-        {
-          "name": "Sledgren",
-          "url": "https://open.spotify.com/artist/4BU9oJUTOxoPchpcPSlUvR"
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
         }
       ],
-      "duration_ms": 163499,
-      "name": "Blacc Tarantino",
-      "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
+      "duration_ms": 232053,
+      "name": "My Favorite Song",
+      "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1771,114 +1887,6 @@
       "duration_ms": 148280,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Life is Like a Dice Game - Spotify Singles",
-        "url": "https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Life is Like a Dice Game - Spotify Singles",
-      "url": "https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR"
-    },
-    {
-      "added_at": "2021-07-09 04:22:36",
-      "album": {
-        "name": "Feels Like Killa Season",
-        "url": "https://open.spotify.com/album/2X2kwcegoaiWfLR8HDRn9b"
-      },
-      "artists": [
-        {
-          "name": "Doley Bernays",
-          "url": "https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Feels Like Killa Season",
-      "url": "https://open.spotify.com/track/1QRsljjsJAcpEqB5MljdWC"
-    },
-    {
-      "added_at": "2021-08-13 04:00:00",
-      "album": {
-        "name": "BOZOS",
-        "url": "https://open.spotify.com/album/1grHcnMMW7aLjUY11KJtH2"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 169453,
-      "name": "BOZOS",
-      "url": "https://open.spotify.com/track/6SD90udaKP3jfdz0c9p8Om"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "WHEN THE SMOKE CLEARS",
-        "url": "https://open.spotify.com/album/4lJqysez134v4UCSzvYcnP"
-      },
-      "artists": [
-        {
-          "name": "Tru",
-          "url": "https://open.spotify.com/artist/51Y9uMxhciB1I5qIAhJs8q"
-        }
-      ],
-      "duration_ms": 302175,
-      "name": "The Gift (Patience)",
-      "url": "https://open.spotify.com/track/0HItmlv0OG7xe00N1nQHsC"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Imagine [Feat. PJ]",
-        "url": "https://open.spotify.com/album/5lMP421zrGKA48fUtdaDp0"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "PJ",
-          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
-        }
-      ],
-      "duration_ms": 221318,
-      "name": "Imagine [Feat. PJ]",
-      "url": "https://open.spotify.com/track/2MntSatbcikLjKbpJoPgVV"
-    },
-    {
-      "added_at": "2021-07-09 04:22:36",
-      "album": {
-        "name": "Paperview",
-        "url": "https://open.spotify.com/album/4O48TAci7mBg6hrhSMtx6J"
-      },
-      "artists": [
-        {
-          "name": "Mosez Jones",
-          "url": "https://open.spotify.com/artist/3v2UncvXxZIIh1d0xiTyNp"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "Paperview",
-      "url": "https://open.spotify.com/track/0g2fBzRnPHHNyaiLF9oIbG"
     }
   ],
   "unique_name": "Mellow Bars",

@@ -197,6 +197,10 @@
         {
           "name": "Dalsin",
           "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
         }
       ],
       "date_added": "2022-04-29",
@@ -249,7 +253,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 142000,
       "name": "Aut\u00f3psia",
       "url": "https://open.spotify.com/track/4sQijaq6Iikem3yJCFaJOr"
@@ -307,6 +311,24 @@
       "duration_ms": 196356,
       "name": "Bel-Prazer",
       "url": "https://open.spotify.com/track/7vkDhw3AXPs50aKShHW32B"
+    },
+    {
+      "album": {
+        "name": "Boombap",
+        "url": "https://open.spotify.com/album/3Dj6pQbYLbD5Vdmira6GS1"
+      },
+      "artists": [
+        {
+          "name": "Neo Mc",
+          "url": "https://open.spotify.com/artist/6FUy68mNerpBmix9JLdH58"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212582,
+      "name": "Boombap",
+      "url": "https://open.spotify.com/track/6LM2B5QzMIewJLdqXnh2Vq"
     },
     {
       "album": {
@@ -385,6 +407,32 @@
       "duration_ms": 181631,
       "name": "Carta pra Lucas",
       "url": "https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB"
+    },
+    {
+      "album": {
+        "name": "Cicatriz",
+        "url": "https://open.spotify.com/album/2I092bC9mI1VQdudz10plb"
+      },
+      "artists": [
+        {
+          "name": "Melk",
+          "url": "https://open.spotify.com/artist/468sASOdHUVTemljKTwVlU"
+        },
+        {
+          "name": "Lado Sujo da Frequ\u00eancia",
+          "url": "https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh"
+        },
+        {
+          "name": "Dj Samu AKA Suguiura",
+          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298658,
+      "name": "Cicatriz",
+      "url": "https://open.spotify.com/track/3tm4WUhDTMBg91iEd9hmm7"
     },
     {
       "album": {
@@ -1702,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "Pierrot e Colombina",
+        "url": "https://open.spotify.com/album/3zDetmF1o7NQ3S5W3Y93uC"
+      },
+      "artists": [
+        {
+          "name": "Ven\u00e2ncio",
+          "url": "https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239077,
+      "name": "Pierrot e Colombina",
+      "url": "https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw"
+    },
+    {
+      "album": {
         "name": "Pouco em Pouco",
         "url": "https://open.spotify.com/album/0wMaRz79qiu2J8q2oEIajK"
       },
@@ -1863,7 +1929,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 204245,
       "name": "Rap Mensagem",
       "url": "https://open.spotify.com/track/2Wi4sb1QSfvGitZsdKZHhU"
@@ -1951,7 +2017,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 174348,
       "name": "Responsa",
       "url": "https://open.spotify.com/track/0ZE4rDxCg8mSwViA74p5hc"
@@ -2183,6 +2249,24 @@
       "duration_ms": 206160,
       "name": "Sinto Falta Dos Amigos Que Se Foram",
       "url": "https://open.spotify.com/track/6HIphOXrFhWzLQ3t9boOnl"
+    },
+    {
+      "album": {
+        "name": "Sobre mim",
+        "url": "https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Sobre mim",
+      "url": "https://open.spotify.com/track/4qaOtwB4LjQv2U3UAJN5a1"
     },
     {
       "album": {
@@ -2535,7 +2619,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 263235,
       "name": "Vaidade ao extremo",
       "url": "https://open.spotify.com/track/2tYhODA6sIR4CAFrayWHIa"

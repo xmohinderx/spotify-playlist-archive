@@ -1,13 +1,45 @@
 {
-  "description": "The very best in new music from around the world.",
-  "num_followers": 306561,
+  "description": "The very best in new music from around the world. Cover: Jack Harlow",
+  "num_followers": 306741,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTc5MTYwMCwwMDAwMDM3NDAwMDAwMTgwOTY3MzlhNDgwMDAwMDE4MDk2NjFlMGRi",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDM3NTAwMDAwMTgwOTc4NjQyZDEwMDAwMDE4MDk3MjA5OGRm",
   "tracks": [
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
@@ -127,6 +159,22 @@
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
+        "name": "This Love (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 250100,
+      "name": "This Love (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
         "name": "Cate\u2019s Brother",
         "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
       },
@@ -155,6 +203,26 @@
       "duration_ms": 225946,
       "name": "Western Wind",
       "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 309327,
+      "name": "Churchill Downs (feat. Drake)",
+      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -312,7 +380,7 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         }
       ],
-      "duration_ms": 483991,
+      "duration_ms": 487359,
       "name": "Freeze",
       "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
     },
@@ -491,6 +559,22 @@
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
+        "name": "Thought You Should Know",
+        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
         "name": "Open the Gate",
         "url": "https://open.spotify.com/album/1BlxSkd0XuXeU15NKhFfDc"
       },
@@ -603,6 +687,22 @@
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
+        "name": "Sheikh Talk",
+        "url": "https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 160256,
+      "name": "Sheikh Talk",
+      "url": "https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
         "name": "THEY DON'T KNOW",
         "url": "https://open.spotify.com/album/2xAgOtruwnkJarTLexy2DS"
       },
@@ -615,6 +715,26 @@
       "duration_ms": 103783,
       "name": "THEY DON'T KNOW",
       "url": "https://open.spotify.com/track/3ydusC725etWQ7QlAjmIi4"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Good Morning Gorgeous (Deluxe)",
+        "url": "https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 273793,
+      "name": "Tough Love (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -703,7 +823,7 @@
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
-        "name": "Tru Religion",
+        "name": "TRU RELIGION",
         "url": "https://open.spotify.com/album/2KVJYvcbFijqVQZCMEBQvH"
       },
       "artists": [
@@ -713,7 +833,7 @@
         }
       ],
       "duration_ms": 177257,
-      "name": "Tru Religion",
+      "name": "TRU RELIGION",
       "url": "https://open.spotify.com/track/0DyDLDwnMWWBDNw3cTM37f"
     },
     {
@@ -785,7 +905,7 @@
         },
         {
           "name": "Endless Summer",
-          "url": "https://open.spotify.com/artist/2YGQUPTkvaM8VeqeIqXrwc"
+          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
         }
       ],
       "duration_ms": 188571,
@@ -987,6 +1107,26 @@
       "duration_ms": 267093,
       "name": "Talk to Me, Talk to Me",
       "url": "https://open.spotify.com/track/3tY8hVWV5QnulkKVSm7LjQ"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Borderline (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 171996,
+      "name": "Borderline (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -1255,6 +1395,22 @@
     {
       "added_at": "2022-05-05 23:00:00",
       "album": {
+        "name": "I Look Good",
+        "url": "https://open.spotify.com/album/1IoA8ma8z6shw1ZAre9rab"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 113450,
+      "name": "I Look Good",
+      "url": "https://open.spotify.com/track/09zTVXUcPZvWhIERXChXep"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
         "name": "Love Me Till U Hate Me",
         "url": "https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB"
       },
@@ -1299,6 +1455,22 @@
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "CRUNKSTARZ",
+        "url": "https://open.spotify.com/album/1LWIgYaNi1rMt7mqiSjLpG"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "duration_ms": 151594,
+      "name": "CRUNKSTARZ",
+      "url": "https://open.spotify.com/track/6qo16WaYT1f8aRF9ut6MDQ"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -1531,6 +1703,22 @@
       "duration_ms": 123428,
       "name": "Parade",
       "url": "https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota"
+    },
+    {
+      "added_at": "2022-05-05 23:00:00",
+      "album": {
+        "name": "Awkward Conversations",
+        "url": "https://open.spotify.com/album/0BB9ouB4kSMT5u52Lsocxf"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Awkward Conversations",
+      "url": "https://open.spotify.com/track/3IWMJdzSOZyGi9jMGIWmrU"
     }
   ],
   "unique_name": "New Music Friday (2)",

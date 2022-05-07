@@ -745,7 +745,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 209454,
       "name": "Cruel Love (feat. shYbeast & FRANK ZUMMO)",
       "url": "https://open.spotify.com/track/1NTfEjAtESDdRX8H2a9uFh"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 192468,
       "name": "Dream Boy (JVNA Remix)",
       "url": "https://open.spotify.com/track/7a9QjEksqPwVBkpTSaoJGU"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 202493,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/0KOVdfvvDujqNvK7h43PZ1"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 233203,
       "name": "FIMBULVETR",
       "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
@@ -1595,7 +1595,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 219007,
       "name": "JASMINE",
       "url": "https://open.spotify.com/track/5XyP3oBFkJPOUpdsyNnkJD"
@@ -1957,7 +1957,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 167343,
       "name": "My Name Is Thunder",
       "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
@@ -2323,7 +2323,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 325501,
       "name": "nihilist blues (feat. Grimes)",
       "url": "https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr"
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 217714,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/5TjFxHpoDtVtLxIRezZhbR"
@@ -2839,7 +2839,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 237203,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
@@ -2879,7 +2879,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 181666,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/11s8gbi7pqmvuREruilbJP"
@@ -3271,7 +3271,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/65YiXAuE5eA8pWI4COEhmQ"
@@ -3762,6 +3762,28 @@
     },
     {
       "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223637,
+      "name": "Understand (Feat. Brendan Yates)",
+      "url": "https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr"
+    },
+    {
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/58RaTQA8XsNG9T7tl5n0ac"
       },
@@ -3913,7 +3935,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 193103,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
@@ -3957,7 +3979,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 168736,
       "name": "We Did It!!!",
       "url": "https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K"

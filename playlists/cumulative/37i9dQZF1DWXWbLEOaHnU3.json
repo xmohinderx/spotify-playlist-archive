@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 315766,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/5Mfs9l7PBSu1cQUHRg7vFP"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Aliyu",
       "url": "https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 301714,
       "name": "Art & Melody",
       "url": "https://open.spotify.com/track/0jIvbSHnTGlXbryMYaxohh"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 140434,
       "name": "Babylonia",
       "url": "https://open.spotify.com/track/5TJAq4LbOtVs8jY8USwTPa"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 459428,
       "name": "Bhavani Ashtakam",
       "url": "https://open.spotify.com/track/4hBD1db3F4KkvigumOTDMD"
@@ -305,10 +305,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 331094,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5kCdc14ItHSF6N6rI7wGSX"
+    },
+    {
+      "album": {
+        "name": "Braveheart",
+        "url": "https://open.spotify.com/album/2jZZY5dqQEDHf5xDN8qfwH"
+      },
+      "artists": [
+        {
+          "name": "We Do Voodoo",
+          "url": "https://open.spotify.com/artist/3S8ItVamAGF1uaSGdacoE4"
+        },
+        {
+          "name": "Amfree",
+          "url": "https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE"
+        },
+        {
+          "name": "DJ Shog",
+          "url": "https://open.spotify.com/artist/36g2U19HPpLeY5FyrPhrfp"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144347,
+      "name": "Braveheart",
+      "url": "https://open.spotify.com/track/417FBXmll2tCYcXI6CLt9g"
     },
     {
       "album": {
@@ -484,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/1N1pSoFlNFVQUaxcfVVDN7"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/1pmuzoDKupFOcxHkMzpsvY"
+    },
+    {
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/3HLysNwDBKFdCJBlLXAsbv"
       },
@@ -549,7 +593,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/5lSopyliv1abtwdNhQ4aJT"
@@ -779,7 +823,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 303428,
       "name": "Foresight",
       "url": "https://open.spotify.com/track/3Gu3dF2xLaOI3fVPlJmMxw"
@@ -1079,7 +1123,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 304394,
       "name": "Hero - Infected Mushroom Remix",
       "url": "https://open.spotify.com/track/5e447qV9VjEOQfGM682o3W"
@@ -1221,7 +1265,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 365714,
       "name": "Indian Spirit",
       "url": "https://open.spotify.com/track/5ialmmuwylzm1xDwHlxpCg"
@@ -1349,7 +1393,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 254896,
       "name": "look into the mirror",
       "url": "https://open.spotify.com/track/1CN9SDbF4slNTJPVAcWzJa"
@@ -1533,7 +1577,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 267428,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/5FM2LQo6zItfKqSPmDluYO"
@@ -1727,7 +1771,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 208695,
       "name": "Power To The People",
       "url": "https://open.spotify.com/track/15OxUnG7rPNdBx9yblK6YG"
@@ -1886,6 +1930,24 @@
     },
     {
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/0qH7mbypWgfElVWaG4LJUZ"
+      },
+      "artists": [
+        {
+          "name": "Reverence",
+          "url": "https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0Jz3sOalZAP80G290yYZZB"
+    },
+    {
+      "album": {
         "name": "See The Light",
         "url": "https://open.spotify.com/album/2jtU9gx30PSYWExLBYrMVD"
       },
@@ -1923,7 +1985,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 538539,
       "name": "Shores of The Subconscious",
       "url": "https://open.spotify.com/track/5H0qHxv8gIcMfpyDNis7iU"
@@ -2069,7 +2131,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 260571,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/5wtUmDnAhBZ79Po5eaQUW3"
@@ -2375,7 +2437,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 258260,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/2LLflcAjE262tLv9vK7Dqz"
@@ -2437,7 +2499,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 358285,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2hXlub5ZvPv7lUiQao52I5"

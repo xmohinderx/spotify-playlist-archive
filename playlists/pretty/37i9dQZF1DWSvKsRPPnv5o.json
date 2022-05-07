@@ -1,13 +1,33 @@
 {
   "description": "Holdin' it down for the westside. Cover: Blxst",
-  "num_followers": 687599,
+  "num_followers": 687662,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDgwMCwwMDAwMDUxOTAwMDAwMTgwNzM3OWJlZDEwMDAwMDE4MDczNTBiODk3",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDUxYTAwMDAwMTgwOTc4NjQyY2UwMDAwMDE4MDczNTBiODk3",
   "tracks": [
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Tell The Truth (with Shordie Shordie)",
+        "url": "https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Tell The Truth (with Shordie Shordie)",
+      "url": "https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh"
+    },
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
@@ -49,6 +69,22 @@
       "url": "https://open.spotify.com/track/5Z3mR4zAX4K3krt4JAOpmx"
     },
     {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Sheikh Talk",
+        "url": "https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 160256,
+      "name": "Sheikh Talk",
+      "url": "https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG"
+    },
+    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "No Handoutz (feat. Yeat)",
@@ -83,6 +119,46 @@
       "duration_ms": 195756,
       "name": "Hoochie Mama",
       "url": "https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Tell Your Friends (feat. Kalan.FrFr)",
+        "url": "https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 163166,
+      "name": "Tell Your Friends (feat. Kalan.FrFr)",
+      "url": "https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz"
+    },
+    {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Do It Up",
+        "url": "https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        },
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "duration_ms": 244968,
+      "name": "Do It Up",
+      "url": "https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -121,68 +197,40 @@
       "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
+      "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Do It Up",
-        "url": "https://open.spotify.com/album/12qikACF7J93qSNK5kR5O7"
+        "name": "STUCK",
+        "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
       },
       "artists": [
         {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
-        },
-        {
-          "name": "Wallie the Sensei",
-          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
         }
       ],
-      "duration_ms": 244968,
-      "name": "Do It Up",
-      "url": "https://open.spotify.com/track/787dJt1cj2CeEiHZIcpzu3"
+      "duration_ms": 217271,
+      "name": "STUCK",
+      "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
     },
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Tell Your Friends (feat. Kalan.FrFr)",
-        "url": "https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO"
+        "name": "From The District To The World",
+        "url": "https://open.spotify.com/album/03q8PTeivBkbtmpm1GkYtS"
       },
       "artists": [
         {
-          "name": "Rucci",
-          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
         },
         {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
         }
       ],
-      "duration_ms": 163166,
-      "name": "Tell Your Friends (feat. Kalan.FrFr)",
-      "url": "https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "Scared Money",
-        "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 204285,
-      "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
+      "duration_ms": 250240,
+      "name": "Dontplaydat (feat. Buddy)",
+      "url": "https://open.spotify.com/track/5AwF7f9aYqOsIbiLOZHCjf"
     },
     {
       "added_at": "2022-04-08 04:00:00",
@@ -293,26 +341,6 @@
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
     },
     {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "From The District To The World",
-        "url": "https://open.spotify.com/album/03q8PTeivBkbtmpm1GkYtS"
-      },
-      "artists": [
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "Dontplaydat (feat. Buddy)",
-      "url": "https://open.spotify.com/track/5AwF7f9aYqOsIbiLOZHCjf"
-    },
-    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "Popstar",
@@ -327,6 +355,26 @@
       "duration_ms": 141714,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/1gtpf2WDqX4bwB8Jpf9nY2"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Couldn't Be Me",
+        "url": "https://open.spotify.com/album/4DVcol8OR1bvEctFdz4DL6"
+      },
+      "artists": [
+        {
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        }
+      ],
+      "duration_ms": 152792,
+      "name": "Couldn't Be Me",
+      "url": "https://open.spotify.com/track/1NhZlloWR20r0ETcvhWPxL"
     },
     {
       "added_at": "2022-04-08 04:00:00",
@@ -385,32 +433,28 @@
       "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
     },
     {
-      "added_at": "2022-04-01 04:00:00",
+      "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "D-Day: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
+        "name": "Scared Money",
+        "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
       },
       "artists": [
         {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         },
         {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         },
         {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
-        },
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 193573,
-      "name": "Hair Salon (with Cozz feat. G Perico & Reason)",
-      "url": "https://open.spotify.com/track/7eheBzQNeMd0ZxU3HoXltE"
+      "duration_ms": 204285,
+      "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -727,66 +771,6 @@
     {
       "added_at": "2022-04-01 04:00:00",
       "album": {
-        "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
-        "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "3G (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
-        "name": "2 P'z In A Pod",
-        "url": "https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk"
-      },
-      "artists": [
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "LNDN DRGS",
-          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
-        }
-      ],
-      "duration_ms": 175220,
-      "name": "Leave It Up To Me",
-      "url": "https://open.spotify.com/track/6xRD47ABwR3y4RytXiTJFi"
-    },
-    {
-      "added_at": "2022-03-25 05:02:22",
-      "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 187416,
-      "name": "505",
-      "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
-    },
-    {
-      "added_at": "2022-04-01 04:00:00",
-      "album": {
         "name": "Half A Bird",
         "url": "https://open.spotify.com/album/3nqy0kf2d2tYGDASrSR8xM"
       },
@@ -935,22 +919,6 @@
       "duration_ms": 143429,
       "name": "Victor Cruz",
       "url": "https://open.spotify.com/track/2pwKrzjIitdMlrdAnK810C"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/4U2FeSvWV0WGMvl4Q5E5D7"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 246268,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/6CigsKxaU5iDoQnWUFXw6K"
     }
   ],
   "unique_name": "Westside Story",

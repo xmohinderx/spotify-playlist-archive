@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-115 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+117 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Squamish](https://open.spotify.com/track/0WdAgLZNLbCPLXrbSsUctg) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Squamish](https://open.spotify.com/album/09oraBzbbYJmPtCReztBe6) | 2:13 | 2022-04-08 |  |
 | [Stasis Sounds for Long\-Distance Space Travel \(Extended Hypersleep Program 2 \- Cave\)](https://open.spotify.com/track/2n6X2tLzZwprQOeyvDPpvJ) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Stasis Sounds for Long\-Distance Space Travel](https://open.spotify.com/album/36SQ8Aokc2yMPcRhtmytN3) | 10:29 | 2021-12-22 |  |
 | [Still Can't Believe It](https://open.spotify.com/track/2dwgDe9pLWHpvN9P5EfJck) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 6:36 | 2021-12-22 |  |
+| [Submerged](https://open.spotify.com/track/0bXpbgKZkhqwybPJRWnmsh) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Submerged](https://open.spotify.com/album/5Jl7bueg0pYDWJHwyZ0hNE) | 3:09 | 2022-05-06 |  |
 | [Swan and Morning Dews](https://open.spotify.com/track/2Ox800jaDGqxFW1KoDYE3N) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Stories](https://open.spotify.com/album/6bOC2AtibqcjwP1OOHHOTD) | 4:16 | 2021-12-22 |  |
 | [Take Me by the Hand \(36 After Dark Version\)](https://open.spotify.com/track/6LIqC6EASRPcMetiXt42H4) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [The Other Side of Darkness](https://open.spotify.com/album/0Tdcm7f0lANH7EwD6p7c8k) | 3:47 | 2021-12-22 |  |
 | [Thalfang](https://open.spotify.com/track/2pKCu894n98a9xwpSJ8nmG) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Thousands of Eyes in the Dark](https://open.spotify.com/album/4QMtlhvAyEYpxPLhw7XBqI) | 5:23 | 2021-12-22 |  |
@@ -108,6 +109,7 @@
 | [Tides IX](https://open.spotify.com/track/6Alc94RqPchQ9gFeJEDqY4) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Tides: Music for Meditation and Yoga](https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh) | 5:52 | 2021-12-22 |  |
 | [To Start Again \(36 After Dark Version\)](https://open.spotify.com/track/0Hubg0iFKQwWqrUHRKESNo) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [The Other Side of Darkness](https://open.spotify.com/album/0Tdcm7f0lANH7EwD6p7c8k) | 3:59 | 2021-12-22 |  |
 | [Triennale](https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 4:06 | 2021-12-22 |  |
+| [tsukimi dango \- Meditation](https://open.spotify.com/track/42tLQymkJ8SlkSl7Mebyrt) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 | 2022-05-06 |  |
 | [Und](https://open.spotify.com/track/0Zseawrdx3aB2JJp0UbknM) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:24 | 2021-12-22 |  |
 | [Vienna](https://open.spotify.com/track/2CZm12Kpg0i9o5h07ZEgNb) | [Rug Rivers](https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 2:11 | 2021-12-22 |  |
 | [Watching](https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 5:06 | 2021-12-22 |  |

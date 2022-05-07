@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,109 likes - 70 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,170 likes - 70 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 67 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Youth Choir](https://open.spotify.com/artist/4e1wKyDJhWiTS9zY8UH2kf) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 |
 | 68 | [WETIN I GAIN](https://open.spotify.com/track/5ol1H9REx8MYJi8f27BMmU) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [WETIN I GAIN](https://open.spotify.com/album/0nfZJtb8Utj8YufZVMNG6O) | 3:52 |
 | 69 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 |
-| 70 | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/4Oa1YzzDPEqGi0GaNOCU5k) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/album/3opAdWW3lwePS6g9tjJrsz) | 5:20 |
+| 70 | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/4Oa1YzzDPEqGi0GaNOCU5k) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God Remix \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/album/3opAdWW3lwePS6g9tjJrsz) | 5:20 |
 
 Snapshot ID: `MTY0OTk3NzIwMCwwMDAwMDAzMzAwMDAwMTgwMmE0ZTBlMjEwMDAwMDE3MGM0YmU5MTkx`

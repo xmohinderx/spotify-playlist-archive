@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 238453,
       "name": "10 More Commandments (feat. Diddy)",
       "url": "https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 190533,
       "name": "89",
       "url": "https://open.spotify.com/track/5qIEf0IMDI9CvQTu9qDIc0"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 219464,
       "name": "Cold (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/5wMh9hhqKQ4JfqLuvqAC7s"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 135740,
       "name": "Expensive (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/0IAkpYTRomExXOUJonNMTR"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 203066,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 211132,
       "name": "Get Dis Money",
       "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
@@ -2701,7 +2701,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 152746,
       "name": "No Bark When I Bite (feat. Rick Ross & Cruel Youth)",
       "url": "https://open.spotify.com/track/1ab84pPNDrYToyqsYj9skD"
@@ -2833,7 +2833,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 239933,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/3tC8SJpOwJhDg8WGG1NKGR"
@@ -3295,7 +3295,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 174822,
       "name": "Ring (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3Q7ve0W9OdEmWoCn5pDzJq"
@@ -3613,7 +3613,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 111498,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO"
@@ -4049,7 +4049,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 156404,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/07D2IULzPNePTwnBzDnudX"
@@ -4310,6 +4310,24 @@
     },
     {
       "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "album": {
         "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) [From Venom: Let There Be Carnage]",
         "url": "https://open.spotify.com/album/2aYIs6VLwMLzONDdVtNOe6"
       },
@@ -4511,7 +4529,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
@@ -4559,7 +4577,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 167915,
       "name": "What's Mine (feat. Mick Jenkins) [Remix]",
       "url": "https://open.spotify.com/track/6oR9RjUKb9RhUnl4jaPNXe"

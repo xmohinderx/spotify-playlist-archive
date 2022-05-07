@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,705 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,704 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 80 | [I Know You, I Live You](https://open.spotify.com/track/2bd08DhkZxgfKy7A4zZVa0) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:27 |
 | 81 | [Soul Makossa](https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anthology](https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa) | 4:24 |
 | 82 | [Where Love Lives \(Come On In\) \- Red Zone Mix](https://open.spotify.com/track/66XLJnOdqp9Y5U4INyutuQ) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Dance Vault Mixes \- Where Love Lives](https://open.spotify.com/album/0bmvAevl0AD5xaLHHjjHHP) | 5:32 |
-| 83 | [Lost in Music \- 1984 Bernard Edwards & Nile Rodgers Remix](https://open.spotify.com/track/5elGdlLAIvV0W4VGXVZCTF) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Bernard Edwards](https://open.spotify.com/artist/0H50J2JBGvMud4sNbRaWjI), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [We Are Family](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:37 |
+| 83 | [Lost in Music \(1984 Bernard Edwards & Nile Rodgers Remix\) \- 1995 Remaster](https://open.spotify.com/track/5elGdlLAIvV0W4VGXVZCTF) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Bernard Edwards](https://open.spotify.com/artist/0H50J2JBGvMud4sNbRaWjI), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:37 |
 | 84 | [Harlem](https://open.spotify.com/track/1upGYgohMyV4SBGWcJRIWm) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Best Of Bill Withers: Lean On Me](https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e) | 3:21 |
 | 85 | [Yellow Train](https://open.spotify.com/track/0wvqK9QxlLRGCYRG3I44EB) | [Resonance](https://open.spotify.com/artist/26repaC0CBTKUoIgKapyiS) | [Balance 020 \(Mixed By Deetron\)](https://open.spotify.com/album/7gt0LfGQyoMbmFs56Ib8Nf) | 2:24 |
 | 86 | [All I Do](https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 5:06 |

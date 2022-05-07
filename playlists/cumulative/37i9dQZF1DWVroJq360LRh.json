@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 259893,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/1c8pre6bgToC224IOZEwbg"
@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188742,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
+    },
+    {
+      "album": {
         "name": "Dare You To Move (Acoustic)",
         "url": "https://open.spotify.com/album/01FzZJ8CCSjIRD52xKOYTB"
       },
@@ -369,6 +387,24 @@
       "duration_ms": 243752,
       "name": "Dust On The Ground",
       "url": "https://open.spotify.com/track/3fyOzUoRQJmGxzJ0dPR1KW"
+    },
+    {
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+      },
+      "artists": [
+        {
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
     },
     {
       "album": {
@@ -481,6 +517,24 @@
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
+    },
+    {
+      "album": {
+        "name": "Glycerine",
+        "url": "https://open.spotify.com/album/26RqcmCTKtxEo3W0ADbuSY"
+      },
+      "artists": [
+        {
+          "name": "Nicole Morenno",
+          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179939,
+      "name": "Glycerine",
+      "url": "https://open.spotify.com/track/5oyDs4s7zWcvPyOr6aenCW"
     },
     {
       "album": {
@@ -1084,6 +1138,24 @@
     },
     {
       "album": {
+        "name": "Love Or Something Like It",
+        "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172741,
+      "name": "Love Or Something Like It",
+      "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
+    },
+    {
+      "album": {
         "name": "Mood (Acoustic)",
         "url": "https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc"
       },
@@ -1175,6 +1247,42 @@
       "duration_ms": 214626,
       "name": "One Great Mystery",
       "url": "https://open.spotify.com/track/1lTcbMQTEIYBsdPRGsWMvp"
+    },
+    {
+      "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226603,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
+    },
+    {
+      "album": {
+        "name": "Paradise (Acoustic)",
+        "url": "https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Paradise - Acoustic",
+      "url": "https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw"
     },
     {
       "album": {
@@ -1659,7 +1767,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 190129,
       "name": "Svag (English)",
       "url": "https://open.spotify.com/track/4EpjsroU2oIiG1LkbJU4Be"
@@ -1717,6 +1825,24 @@
       "duration_ms": 241346,
       "name": "Tenerife Sea",
       "url": "https://open.spotify.com/track/5rYipCuUMXmKr5XM3eDC1r"
+    },
+    {
+      "album": {
+        "name": "Thank You Next - Bossa Nova",
+        "url": "https://open.spotify.com/album/4cpGMTeSx4MyAbDgfW51ih"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227675,
+      "name": "Thank You Next - Bossa Nova",
+      "url": "https://open.spotify.com/track/0oDaCDJSz9K878vbIOmQsT"
     },
     {
       "album": {
@@ -1865,6 +1991,24 @@
       "duration_ms": 209400,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/0kQcWJTOfbktGHPEN0Gaa3"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/5jVI3QPXUpKFqOLTVaS0wn"
+      },
+      "artists": [
+        {
+          "name": "Son De Durango",
+          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198281,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/4GKleQApcyCJduauR13QIi"
     },
     {
       "album": {

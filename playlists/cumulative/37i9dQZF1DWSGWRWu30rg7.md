@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Tanpa\) Orang Dalam](https://open.spotify.com/track/4vwhbvq90bfPLRobwtG0hE) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [Yosh](https://open.spotify.com/artist/24fhgM8dRX50onhCX4JpI9) | [\(Tanpa\) Orang Dalam](https://open.spotify.com/album/7ty4V3XzW1WGfM0WjdBJLP) | 2:00 | 2022-05-05 |  |
+| [\(Tanpa\) Orang Dalam](https://open.spotify.com/track/4vwhbvq90bfPLRobwtG0hE) | [Tarrzankota](https://open.spotify.com/artist/6ptSpJVbC6f492Lt5IfpD2), [YOSH](https://open.spotify.com/artist/2wHazSJnTevLiiJzn70GX7) | [\(Tanpa\) Orang Dalam](https://open.spotify.com/album/7ty4V3XzW1WGfM0WjdBJLP) | 2:00 | 2022-05-05 |  |
 | [1 Step 2 Steps](https://open.spotify.com/track/5ui9DKe84R5JhMQc2P4fax) | [Idiofon](https://open.spotify.com/artist/6TIL8tSEyAlm53E05ruhC1) | [1 Step 2 Steps](https://open.spotify.com/album/7G3NGpXPoapMEbfU2MErpp) | 4:17 | 2022-02-10 | 2022-02-25 |
 | [1 Untukku](https://open.spotify.com/track/76Z8pgn596eF4t925HDGDd) | [Aldwin Dinata](https://open.spotify.com/artist/4XjBxUbEqtn5qqzE003bK5) | [1 Untukku](https://open.spotify.com/album/5is0Yrsl7ErJ5goUPkEIWl) | 4:20 | 2022-05-05 |  |
 | [2020](https://open.spotify.com/track/0HcfDC0Gx2k0sItTO96UAw) | [Ga Ga Grand](https://open.spotify.com/artist/2JKtLNLaJhvQvMtzWbEubD) | [2020](https://open.spotify.com/album/5yqEG1Ti0P1mWH6RC35b2s) | 3:52 | 2022-02-03 | 2022-02-18 |

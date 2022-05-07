@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Ibeyi
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,418 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,424 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 9 | [Focus](https://open.spotify.com/track/64PU8rTy4xLgOVaea3U7bq) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Focus](https://open.spotify.com/album/70IMg0I6RndR161BsTJvrJ) | 2:48 |
 | 10 | [Tandem](https://open.spotify.com/track/6EpXkYDIjzUnJlXzJuQIXE) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Tandem](https://open.spotify.com/album/0xW35d2VzLZaCiIeG4BLRs) | 3:19 |
 | 11 | [Misunderstood](https://open.spotify.com/track/4cd2bB36S1dcP88xNZnY3p) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Misunderstood](https://open.spotify.com/album/6ju1O90njqELb8iVbc2bOh) | 2:33 |
-| 12 | [Dead End](https://open.spotify.com/track/1lnjoZ0B7L2qNpqqt9O7DN) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [Dead End](https://open.spotify.com/album/0J5ZEh8YWFejDZISf9xeWY) | 3:06 |
+| 12 | [dead end](https://open.spotify.com/track/1lnjoZ0B7L2qNpqqt9O7DN) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [dead end](https://open.spotify.com/album/0J5ZEh8YWFejDZISf9xeWY) | 3:06 |
 | 13 | [Where the Water Clears the Illusion](https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:03 |
 | 14 | [Give Me a Kiss](https://open.spotify.com/track/4KACV2cI5E9qOn6POkKR0p) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Give Me a Kiss](https://open.spotify.com/album/4CgxcL3TNmZhrkSxkytcOU) | 3:04 |
 | 15 | [Météo](https://open.spotify.com/track/0Ynw7RXjW3LMNN5niLnIBb) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Météo](https://open.spotify.com/album/4QTDFBSQCU6BLq5NHR3lXS) | 2:32 |

@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Ella Langley
 
-177 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+180 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Highway](https://open.spotify.com/track/4CsoPg1tLA8iuWq3bMAI0U) | [Steven Diaz](https://open.spotify.com/artist/0E0l8nOxyJNHSWIszabgVZ) | [Highway](https://open.spotify.com/album/2Cu2YAFNVFsvBVy3PZzYxD) | 2:45 | 2021-12-31 |  |
 | [Hold My Hand](https://open.spotify.com/track/62MunltjvuU5mItRLL71pR) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Hold My Hand](https://open.spotify.com/album/0tzhIlyqB0awQxSH5v0IGy) | 2:34 | 2021-12-31 | 2022-01-22 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-12-31 |  |
+| [Hometown Highway](https://open.spotify.com/track/4MOeoHurTJMd9HpMsO2flS) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Hometown Highway](https://open.spotify.com/album/464qbeF75hopqROBcbpOIR) | 3:53 | 2022-05-06 |  |
 | [How Do We Go](https://open.spotify.com/track/3ojKXnza6KIPy2VqvF0ttr) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do We Go](https://open.spotify.com/album/5S1UrS5lAVcZZGi2zKNLUm) | 3:28 | 2021-12-31 |  |
 | [How Many Hangovers](https://open.spotify.com/track/7gSrde7a8HByZovujKZGfi) | [Baker Grissom](https://open.spotify.com/artist/33oGwiMtijTES49M0gJAEG) | [How Many Hangovers](https://open.spotify.com/album/1x3VIAjZ4s9HAIvqyP5Kxk) | 2:45 | 2021-12-31 |  |
 | [I Go Back to You](https://open.spotify.com/track/4KJWXMMbapd4ZzEFJiV2kk) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Go Back to You](https://open.spotify.com/album/3zMThHPhNdD6dTNJLG6wL4) | 3:17 | 2021-12-31 | 2022-01-08 |
@@ -107,6 +108,7 @@
 | [Miss California](https://open.spotify.com/track/3PzFElSoQkDDbeloGfg7Nm) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn) | [Miss California](https://open.spotify.com/album/1XcCJgdR5mdwmY38BwO3o5) | 3:01 | 2021-12-31 |  |
 | [Miss Us Then](https://open.spotify.com/track/3v7t1HDVDKCwa5QB9GUy4I) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Miss Us Then](https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw) | 3:13 | 2021-12-31 |  |
 | [Missing You](https://open.spotify.com/track/3ry2MzHjQaDK2HCJfOI0yj) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Missing You](https://open.spotify.com/album/18Mp4wIhG0WGXkkmsk7hNs) | 2:43 | 2022-04-01 |  |
+| [Momentum](https://open.spotify.com/track/2Km7p52eJt51AsLoizZsXz) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Momentum](https://open.spotify.com/album/1UVUIMDHj2I0Lt5Mumd6eh) | 3:21 | 2022-05-06 |  |
 | [My Favorite](https://open.spotify.com/track/2IVy3iMsdJpoL93FYaPZZD) | [Stephen Carey](https://open.spotify.com/artist/5R4aCM4MHu9UvbvfDgW6N1) | [My Favorite](https://open.spotify.com/album/7EYrUwCFsD1544kVlGtP0r) | 2:39 | 2022-04-08 |  |
 | [My Mistake](https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/3kXYEKoW7QdKQALUEdKvbp) | 3:41 | 2021-12-31 |  |
 | [My Turn](https://open.spotify.com/track/4fREYVupHFsPepnZeZrKI5) | [Alyssa Trahan](https://open.spotify.com/artist/0aMw8k8BbQf9sEeVokLzSo) | [Baby Blues & Stilettos](https://open.spotify.com/album/7xhGmTGboj8tUh1XfeW0k6) | 2:53 | 2021-12-31 | 2022-01-08 |
@@ -148,6 +150,7 @@
 | [Somebody with a Broken Heart](https://open.spotify.com/track/7yQJUfSF801AAMjcJcFbvh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Somebody with a Broken Heart](https://open.spotify.com/album/5c8V1funhYDhiuKVajsXa4) | 3:32 | 2021-12-31 | 2022-01-08 |
 | [Somethin' in the Sunshine](https://open.spotify.com/track/1JDRyKJkKgmm8F4m9QSTnk) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Somethin' in the Sunshine](https://open.spotify.com/album/2vZKaE4y1UoVuJboLV0ZHE) | 2:52 | 2021-12-31 | 2022-02-12 |
 | [Something Good To Miss](https://open.spotify.com/track/7sFn9QneuaujkjFOiumatu) | [Juna N Joey](https://open.spotify.com/artist/7sFEaRrD84U9n0GHI4CmO8) | [Something Good To Miss](https://open.spotify.com/album/1li3OPa9nsQHeR0SmtYk3I) | 3:23 | 2021-12-31 |  |
+| [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 | 2022-05-06 |  |
 | [Speed Limit](https://open.spotify.com/track/6fNDFwpFaWodIX2MYqPbdn) | [Savannah Harmon](https://open.spotify.com/artist/5ohZt1uNprmtf0EkzIQxnU) | [Speed Limit](https://open.spotify.com/album/3WwJuG2JSLkS86vsTOIq3Q) | 4:09 | 2021-12-31 |  |
 | [Started Right Here](https://open.spotify.com/track/6g1hr3hkvJPopynA633RvQ) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/5Np7Ek9CPromitJthQCLfO) | 2:44 | 2021-12-31 |  |
 | [Stranger](https://open.spotify.com/track/4DyGan0wxPUZk21B1fF57X) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [Stranger](https://open.spotify.com/album/5CnarDYvtOMmdLTnMqtWxY) | 2:30 | 2021-12-31 |  |

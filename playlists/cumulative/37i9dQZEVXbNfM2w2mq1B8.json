@@ -5431,7 +5431,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 188106,
       "name": "LA FAMA (with The Weeknd)",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
@@ -7461,7 +7461,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 231363,
       "name": "Ot utre",
       "url": "https://open.spotify.com/track/5d6gL8EcuaisGM9UWJN4gM"
@@ -9623,7 +9623,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
@@ -10621,7 +10621,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
@@ -12007,7 +12007,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 236000,
       "name": "\u041a\u0430\u0442\u043e \u043c\u0435\u043d",
       "url": "https://open.spotify.com/track/0ypymQDnbOUGK3h0P0SRVE"
@@ -12697,6 +12697,28 @@
       "duration_ms": 169441,
       "name": "\u0421\u043c\u044a\u0440\u0442 \u041f\u0440\u0435\u0434\u0438 \u041f\u043e\u0437\u043e\u0440\u0430",
       "url": "https://open.spotify.com/track/6Yv7vIisTRhCtC4svGV4Z3"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0440\u0435\u0449\u0430\u0442\u0430 \u0431\u044a\u0440\u0437\u0430",
+        "url": "https://open.spotify.com/album/1FG1vAD4sw41N076UZBiv4"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232413,
+      "name": "\u0421\u0440\u0435\u0449\u0430\u0442\u0430 \u0431\u044a\u0440\u0437\u0430",
+      "url": "https://open.spotify.com/track/0O0LhLIImOBeLGYqmLLKqv"
     },
     {
       "album": {

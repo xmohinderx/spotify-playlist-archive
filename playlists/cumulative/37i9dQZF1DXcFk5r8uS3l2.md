@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Cedric Burnside
 
-131 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+135 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Good To You](https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17) | [Jonny P](https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6) | [Good To You](https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15) | 2:38 | 2021-12-17 |  |
 | [Grass Is Greener](https://open.spotify.com/track/5ugEkJcLbQrAkCN2kH7j8S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ) | 4:14 | 2021-12-17 |  |
 | [Hard to Stay Cool](https://open.spotify.com/track/1sA5P8waghOeBj5nc1S4XZ) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hard to Stay Cool](https://open.spotify.com/album/3fpTOEGSvGIhVtLMZ44w8t) | 5:34 | 2021-12-17 |  |
+| [Have a Ball](https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c) | 2:24 | 2022-05-06 |  |
 | [Heart by Heart](https://open.spotify.com/track/3xOt8ADrsq52yDivtBZfS6) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Heart by Heart](https://open.spotify.com/album/35lPmfsSzeu5pgEIlO2Ntv) | 4:03 | 2021-12-17 |  |
 | [Heaven Knows](https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8) | 5:23 | 2022-04-29 |  |
 | [History Repeats](https://open.spotify.com/track/7u0FwjCZoc3uZA4OJtlUrB) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:04 | 2021-12-17 |  |
@@ -59,9 +60,10 @@
 | [I Feel A Sin Coming On](https://open.spotify.com/track/0BgoEUr5NlIr3smY951qll) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/3RbTP1BoNM2obRu7Zr31kJ) | 3:52 | 2021-12-17 |  |
 | [I Know How You Feel](https://open.spotify.com/track/2y6i0SqujGvBIU8CdsIQDz) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Amitié](https://open.spotify.com/album/46lxdP9TY1y8hLJyy2NWFE) | 2:35 | 2021-12-17 |  |
 | [I Ran Down Every Dream](https://open.spotify.com/track/43UMMNyNRnDao4nqqXz5SL) | [Tommy McLain](https://open.spotify.com/artist/2qmpfeyFFJJeOzSF6ZJ0oo), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [I Ran Down Every Dream](https://open.spotify.com/album/62sA97QyEIuDWovqknXQ8J) | 3:22 | 2022-04-22 |  |
+| [I Walk On Guilded Splinters](https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [I Walk On Guilded Splinters](https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc) | 4:53 | 2022-05-06 |  |
 | [I'll Come Running Back To You](https://open.spotify.com/track/4rDmjHyy754Js2SaojUVjZ) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [I'll Come Running Back To You](https://open.spotify.com/album/5FwYTrkDxnTwmKIZ54CGzh) | 4:11 | 2022-03-11 |  |
 | [Ice Cream & Cigarettes](https://open.spotify.com/track/4MF13EQrQftevIUwXcLQHS) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [Ice Cream & Cigarettes](https://open.spotify.com/album/2y2szuP1tMpaGCJhb2TfRM) | 2:52 | 2021-12-17 |  |
-| [If These Walls Could Talk](https://open.spotify.com/track/4yYzxF8zUXEG5bsnebYxXe) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/0JP5Rmp9tMhI1M6wa44XRU) | 3:24 | 2022-04-22 |  |
+| [If These Walls Could Talk](https://open.spotify.com/track/4yYzxF8zUXEG5bsnebYxXe) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/0JP5Rmp9tMhI1M6wa44XRU) | 3:24 | 2022-04-22 | 2022-05-07 |
 | [In Every Heart](https://open.spotify.com/track/76mL8jSzIJGybicOOMP3up) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Let Me Get By](https://open.spotify.com/album/0nE6b7My7kpkI9dRs0pGoV) | 6:20 | 2021-12-17 |  |
 | [In The Night Time](https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF) | 3:08 | 2021-12-17 |  |
 | [Jet Black Cadillac](https://open.spotify.com/track/5W0GIUYxM787mpfkl84hSF) | [Mike Clark & the Sugar Sounds](https://open.spotify.com/artist/01RocYhqTJzt3gzdpVM2MJ) | [Moon Rock](https://open.spotify.com/album/4CBsnUSUmxwCH1NmtEyGUH) | 5:14 | 2022-03-11 |  |
@@ -83,6 +85,7 @@
 | [My Kentucky](https://open.spotify.com/track/353KDYzMxofC6davOZ1oH6) | [Kamara Thomas & the Ghost Gamblers](https://open.spotify.com/artist/7c4SDBbtEW9iX2MPBGhn4q) | [Earth Hero](https://open.spotify.com/album/6u5saPFGrin6Q16nQ5CvV3) | 7:01 | 2021-12-17 |  |
 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/4x1vhOOK3VJhhq9BkMNq9z) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/0pZUQKSLyTeTHIy0A4Q0Zb) | 5:52 | 2021-12-17 |  |
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-12-17 |  |
+| [Never Giving Up](https://open.spotify.com/track/24OXVPUzk1SMVMiMd8LmQ3) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Never Giving Up](https://open.spotify.com/album/60h7Js16nMwWUhRiOYrXpM) | 2:38 | 2022-05-06 |  |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-12-17 |  |
 | [No Wrong](https://open.spotify.com/track/6j3ltnb3g4RQRt8azR7Yf5) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/5Pe4lj6pfNgR0ZXeZ1altv) | 3:49 | 2021-12-17 | 2022-04-16 |
 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 | 2022-03-11 |  |
@@ -97,6 +100,7 @@
 | [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 | 2021-12-17 |  |
 | [Roll With Me](https://open.spotify.com/track/0GQS7JTrnUCstlUQNPJYzl) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Black Gospel, Vol\. 1](https://open.spotify.com/album/1uRbfjXXq4IPqMbvITn66V) | 4:20 | 2021-12-17 |  |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-12-17 |  |
+| [Rosie](https://open.spotify.com/track/5wBP2sIgbhdWdmr1u54Eoz) | [Calling Cadence](https://open.spotify.com/artist/4k9Si9nVLMfD6bEIMzXdXD) | [Calling Cadence](https://open.spotify.com/album/7fSLZKWKWueYzKOBH1RWkg) | 4:02 | 2022-05-06 |  |
 | [Savior](https://open.spotify.com/track/5gICNh1EHmDlpyWERFitXG) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Savior](https://open.spotify.com/album/7FH2YwQt08tTA8vnxkAwfy) | 3:43 | 2021-12-17 |  |
 | [Scoundrel](https://open.spotify.com/track/4j0WcNktMTebmrWzxiOOnQ) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/6fY05JCUUXTtFmDsYZ2ulw) | 3:49 | 2022-03-11 |  |
 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 | 2021-12-17 |  |

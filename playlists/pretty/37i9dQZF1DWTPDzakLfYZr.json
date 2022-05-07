@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Ozuna y Boza",
-  "num_followers": 606843,
+  "num_followers": 606986,
   "original_name": "Popet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwOTcyMCwwMDAwMDBkNTAwMDAwMTgwNzNjNGQxMTYwMDAwMDE4MDczOTEwZGNi",
+  "snapshot_id": "MTY1MTgxMjg5NywwMDAwMDBkNjAwMDAwMTgwOTdiODk0NTkwMDAwMDE4MDczOTEwZGNi",
   "tracks": [
     {
       "added_at": "2022-04-29 05:22:00",
@@ -27,26 +27,6 @@
       "duration_ms": 199627,
       "name": "Apretaito",
       "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2022-04-29 05:22:00",
@@ -87,6 +67,26 @@
     {
       "added_at": "2022-04-29 05:22:00",
       "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2022-04-29 05:22:00",
+      "album": {
         "name": "Canci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/5UkFwcfQr9BJ20lFQFSKoz"
       },
@@ -103,6 +103,62 @@
       "duration_ms": 169640,
       "name": "Canci\u00f3n De Amor",
       "url": "https://open.spotify.com/track/2smiN8hY0HeUhjicag6Ath"
+    },
+    {
+      "added_at": "2022-05-06 04:54:57",
+      "album": {
+        "name": "No Tenemos La Culpa",
+        "url": "https://open.spotify.com/album/0NX3kzOlPddKsWUCJZg2YR"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "MON\u00c1CO",
+          "url": "https://open.spotify.com/artist/5mrZpUB8oFSOMkyyhW0rmH"
+        }
+      ],
+      "duration_ms": 172259,
+      "name": "No Tenemos La Culpa",
+      "url": "https://open.spotify.com/track/70gwSrZmNuuIPLIioB5aaW"
+    },
+    {
+      "added_at": "2022-04-29 05:22:00",
+      "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/5OGm96jxCkZDkQoKWJcfiK"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 202186,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/5VQyB3R9Q6anjtf23J2TK7"
+    },
+    {
+      "added_at": "2022-05-06 04:54:57",
+      "album": {
+        "name": "Bailaito",
+        "url": "https://open.spotify.com/album/16ja2Wgq1XaFUM45DLtGw8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        }
+      ],
+      "duration_ms": 158321,
+      "name": "Bailaito",
+      "url": "https://open.spotify.com/track/2VPViVkDETMH8MRBH0t4dj"
     },
     {
       "added_at": "2022-04-29 05:22:00",
@@ -125,24 +181,176 @@
       "url": "https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2"
     },
     {
-      "added_at": "2022-04-29 05:22:00",
+      "added_at": "2022-05-06 04:54:57",
       "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/5OGm96jxCkZDkQoKWJcfiK"
+        "name": "Quillami",
+        "url": "https://open.spotify.com/album/1uytP1JpsinoS7IWHMVivd"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
         },
         {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         }
       ],
-      "duration_ms": 202186,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/5VQyB3R9Q6anjtf23J2TK7"
+      "duration_ms": 202733,
+      "name": "Quillami",
+      "url": "https://open.spotify.com/track/3u5Qk608vlaU3M3NH6YNtI"
+    },
+    {
+      "added_at": "2022-04-29 05:22:00",
+      "album": {
+        "name": "Mojando Asientos (feat. Feid)",
+        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Mojando Asientos (feat. Feid)",
+      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
+    },
+    {
+      "added_at": "2022-05-06 04:54:57",
+      "album": {
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/3BdctQrrNWKKazV67UXzGK"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 128432,
+      "name": "Aqu\u00ed Estoy",
+      "url": "https://open.spotify.com/track/0AjWPhrgNzEAO7FTnQIlEf"
+    },
+    {
+      "added_at": "2022-04-29 05:22:00",
+      "album": {
+        "name": "Baloncito Viejo",
+        "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 170862,
+      "name": "Baloncito Viejo",
+      "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
+    },
+    {
+      "added_at": "2022-05-06 04:54:57",
+      "album": {
+        "name": "FVCKBOI",
+        "url": "https://open.spotify.com/album/6tY5CGZdseurQ2Kbfmqebs"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "FVCKBOI",
+      "url": "https://open.spotify.com/track/3pAAa9i7Qini7gKanj7xjY"
+    },
+    {
+      "added_at": "2022-04-29 05:22:00",
+      "album": {
+        "name": "Tus Labios",
+        "url": "https://open.spotify.com/album/3rRg3xAbZrqoLQCIUBk0MR"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        }
+      ],
+      "duration_ms": 218898,
+      "name": "Tus Labios",
+      "url": "https://open.spotify.com/track/0EI0p6kX1Ds9bnSnEuUVb6"
+    },
+    {
+      "added_at": "2022-05-06 04:54:57",
+      "album": {
+        "name": "Despues De Las 12",
+        "url": "https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 194218,
+      "name": "Despues De Las 12",
+      "url": "https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H"
+    },
+    {
+      "added_at": "2022-04-29 05:22:00",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "added_at": "2022-05-06 04:54:57",
+      "album": {
+        "name": "Esto Reci\u00e9n Empieza",
+        "url": "https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 172352,
+      "name": "Esto Reci\u00e9n Empieza",
+      "url": "https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB"
     },
     {
       "added_at": "2022-04-29 05:22:00",
@@ -211,158 +419,6 @@
     {
       "added_at": "2022-04-29 05:22:00",
       "album": {
-        "name": "Tus Labios",
-        "url": "https://open.spotify.com/album/3rRg3xAbZrqoLQCIUBk0MR"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Revol",
-          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
-        }
-      ],
-      "duration_ms": 218898,
-      "name": "Tus Labios",
-      "url": "https://open.spotify.com/track/0EI0p6kX1Ds9bnSnEuUVb6"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6Kh3nNf8Slq5GZojjsx2nb"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4QwibSrCYyAxlOG1FirXoo"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "Mojando Asientos (feat. Feid)",
-        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Mojando Asientos (feat. Feid)",
-      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "Dice Que Me Olvid\u00f3",
-        "url": "https://open.spotify.com/album/4hjJHBBUkZLsDA2EzuyAwj"
-      },
-      "artists": [
-        {
-          "name": "Nobeat",
-          "url": "https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW"
-        }
-      ],
-      "duration_ms": 171427,
-      "name": "Dice Que Me Olvid\u00f3",
-      "url": "https://open.spotify.com/track/4rDkKZBdeQBGw0lWjZCls2"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "Amor Con Odio",
-        "url": "https://open.spotify.com/album/3ilanQtLlzzmdTbqrnnZ1B"
-      },
-      "artists": [
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "Yera",
-          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Amor Con Odio",
-      "url": "https://open.spotify.com/track/2d3DyvhzYMKEjPc49ogM4X"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 206277,
-      "name": "Gata (feat. Chencho Corleone)",
-      "url": "https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "Baloncito Viejo",
-        "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 170862,
-      "name": "Baloncito Viejo",
-      "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
         "name": "NO SE OLVIDA",
         "url": "https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA"
       },
@@ -375,46 +431,6 @@
       "duration_ms": 250841,
       "name": "NO SE OLVIDA",
       "url": "https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "Vacaciones",
-        "url": "https://open.spotify.com/album/1HP0xerTMAjxal5A8B8luG"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Vacaciones",
-      "url": "https://open.spotify.com/track/5a1uP3YHcvb4XkucSQGC1c"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "Fantasi",
-        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Fantasi",
-      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
     },
     {
       "added_at": "2022-04-29 05:22:00",
@@ -983,30 +999,6 @@
       "duration_ms": 211998,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2022-04-29 05:22:00",
-      "album": {
-        "name": "Despi\u00e9rtate",
-        "url": "https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Despi\u00e9rtate",
-      "url": "https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI"
     },
     {
       "added_at": "2022-04-29 05:22:00",

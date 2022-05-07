@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 66782,
       "name": "Battery",
       "url": "https://open.spotify.com/track/3TZD1tcwJWCu5Zitgx362G"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 138318,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT"
@@ -1001,10 +1001,36 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 145121,
       "name": "CAUTIOUS",
       "url": "https://open.spotify.com/track/5qF7knZoOT4pPq6A7xlOSw"
+    },
+    {
+      "album": {
+        "name": "CECE",
+        "url": "https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH"
+      },
+      "artists": [
+        {
+          "name": "indie tribe",
+          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142782,
+      "name": "CECE",
+      "url": "https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga"
     },
     {
       "album": {
@@ -1619,6 +1645,28 @@
       "duration_ms": 75751,
       "name": "EXTRAVAGANT",
       "url": "https://open.spotify.com/track/1OqRZUOy9RlJ4688w6m8rd"
+    },
+    {
+      "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+      },
+      "artists": [
+        {
+          "name": "HitKidd",
+          "url": "https://open.spotify.com/artist/6fD4Wp0ohNtBZNB5mvS4PK"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
       "album": {
@@ -2515,7 +2563,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 107090,
       "name": "Jumpin!",
       "url": "https://open.spotify.com/track/4QYmp5IkfsghZzr20l7FgB"
@@ -2555,6 +2603,28 @@
       "duration_ms": 186233,
       "name": "Killers On They Shit",
       "url": "https://open.spotify.com/track/18bYKZxPwsm9kSdBQBlxx9"
+    },
+    {
+      "album": {
+        "name": "Last Chance",
+        "url": "https://open.spotify.com/album/4fRGDsRre34ivhAEgpmxsJ"
+      },
+      "artists": [
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        },
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117263,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/3uEN1krSkx55bI4WljDFRB"
     },
     {
       "album": {
@@ -3080,6 +3150,28 @@
     },
     {
       "album": {
+        "name": "No Handoutz (feat. Yeat)",
+        "url": "https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150491,
+      "name": "No Handoutz (feat. Yeat)",
+      "url": "https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH"
+    },
+    {
+      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -3547,7 +3639,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 180000,
       "name": "posed2be",
       "url": "https://open.spotify.com/track/6QSHeRgzDS2pxTkgZg8dwl"
@@ -3923,6 +4015,24 @@
       "duration_ms": 229564,
       "name": "RUNITUP (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/13HsOwrwTA5HgLuoaDHncP"
+    },
+    {
+      "album": {
+        "name": "Glock Bond",
+        "url": "https://open.spotify.com/album/1J4REuUZfX1OjjQhi9whzA"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142497,
+      "name": "Russian Cream",
+      "url": "https://open.spotify.com/track/03ThZweiBWFP8tOGsk6QMO"
     },
     {
       "album": {
@@ -4591,7 +4701,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 100440,
       "name": "Vet",
       "url": "https://open.spotify.com/track/3iGicWZjOWrXXgRE4UcYJL"

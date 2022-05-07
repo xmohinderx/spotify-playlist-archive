@@ -1,13 +1,53 @@
 {
-  "description": "New jazz for open minds. Cover: DOMi & JD Beck",
-  "num_followers": 813690,
+  "description": "New jazz for open minds. Cover: H ZETTRIO",
+  "num_followers": 813982,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDFjYjAwMDAwMTgwNzM3YjkzMWYwMDAwMDE4MDY2NDE0Nzky",
+  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDFjYzAwMDAwMTgwOTc4ODE3N2UwMDAwMDE4MDhiNzhjOTFh",
   "tracks": [
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Rainbows everywhere",
+        "url": "https://open.spotify.com/album/3YCCXWR47845EZD3EIHz3c"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Rainbows everywhere",
+      "url": "https://open.spotify.com/track/0kSP6SaRHpmjbuS6IEdfYZ"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "The Summertime",
+        "url": "https://open.spotify.com/album/0BFeUVULFUJYgxLnOkY0ly"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "The Summertime",
+      "url": "https://open.spotify.com/track/7CvibeML5CjDjy0sZyiB2u"
+    },
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {
@@ -25,24 +65,48 @@
       "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "StandArt",
-        "url": "https://open.spotify.com/album/1j9abB0wpxOjBxSmdeNIbP"
+        "name": "Kepler-39 (808 State Remix)",
+        "url": "https://open.spotify.com/album/4u3gTDyvjLppLgkAODS2S2"
       },
       "artists": [
         {
-          "name": "Tigran Hamasyan",
-          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+          "name": "Joakim",
+          "url": "https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk"
         },
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
         }
       ],
-      "duration_ms": 450153,
-      "name": "Big Foot (feat. Joshua Redman)",
-      "url": "https://open.spotify.com/track/3X0HDn9m6yXzAyjV0VZugH"
+      "duration_ms": 349568,
+      "name": "Kepler-39 - 808 State Remix",
+      "url": "https://open.spotify.com/track/101hdgdBfT9Kqeeo5SOesm"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Something Tomorrow",
+        "url": "https://open.spotify.com/album/2MDgqeWW7IJot1PPNKN2at"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
+        }
+      ],
+      "duration_ms": 197501,
+      "name": "Something Tomorrow",
+      "url": "https://open.spotify.com/track/6il16WIBZGRYEJ5sqpYoVY"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -65,6 +129,114 @@
       "url": "https://open.spotify.com/track/1iDDTc4gBmnciyfcbauam7"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Dirty Mindz (feat. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock)",
+        "url": "https://open.spotify.com/album/2GfJbWrtq2pKRS8ugzi8or"
+      },
+      "artists": [
+        {
+          "name": "Zach Brock",
+          "url": "https://open.spotify.com/artist/2gP7EdtXx1CWc3gLco3B1C"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        },
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        },
+        {
+          "name": "Jonathan Maron",
+          "url": "https://open.spotify.com/artist/5c2waqtgYO4U0hSvVzxSXe"
+        },
+        {
+          "name": "Justin Stanton",
+          "url": "https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5"
+        },
+        {
+          "name": "Chris Bullock",
+          "url": "https://open.spotify.com/artist/38SvOojqE9VsTpoodD0N5g"
+        }
+      ],
+      "duration_ms": 545719,
+      "name": "Dirty Mindz (feat. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock)",
+      "url": "https://open.spotify.com/track/2LPvgbWHHy7evKFvqGh1yI"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "StandArt",
+        "url": "https://open.spotify.com/album/1j9abB0wpxOjBxSmdeNIbP"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        },
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 450153,
+      "name": "Big Foot (feat. Joshua Redman)",
+      "url": "https://open.spotify.com/track/3X0HDn9m6yXzAyjV0VZugH"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Zugzwang",
+        "url": "https://open.spotify.com/album/7tlvLaNrbNfiBuL6j25DcY"
+      },
+      "artists": [
+        {
+          "name": "Fazer",
+          "url": "https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C"
+        }
+      ],
+      "duration_ms": 364767,
+      "name": "Zugzwang",
+      "url": "https://open.spotify.com/track/4ujwzElVJ89jmRLoT4gYY9"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Silver Needle",
+        "url": "https://open.spotify.com/album/1YS1pLb5x8Ot6OgSaQA04N"
+      },
+      "artists": [
+        {
+          "name": "Tobias Wiklund",
+          "url": "https://open.spotify.com/artist/60qX0LHYPPka2fkSsGhcsx"
+        }
+      ],
+      "duration_ms": 351186,
+      "name": "Silver Needle",
+      "url": "https://open.spotify.com/track/5wd6BFck1slRZSsoniICZi"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Open",
+        "url": "https://open.spotify.com/album/1J9ELecYoqJNa7d1igb18F"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "The Modern Jazz Trio",
+          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
+        }
+      ],
+      "duration_ms": 232998,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/5Y5tQUyZVoeWBUg5qT3xUP"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Badeep",
@@ -79,6 +251,22 @@
       "duration_ms": 363554,
       "name": "Badeep",
       "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "John Scofield",
+        "url": "https://open.spotify.com/album/5KxGVWWQWETbJQ6ckQ4XD6"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 156986,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/65bV7W1domslLwDqyYQgKk"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -105,20 +293,20 @@
       "url": "https://open.spotify.com/track/4OWFijqelfGi2ooBcDl88K"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "SPEED MUSIC \u30bd\u30af\u30c9\u30ce\u30aa\u30f3\u30ac\u30af vol. 6",
-        "url": "https://open.spotify.com/album/5IGdJ6LiDMQFBqn8yvjMlQ"
+        "name": "Tutto Passa",
+        "url": "https://open.spotify.com/album/19IM6CveZ3jfng86RG1pbD"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "Gianni Brezzo",
+          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
         }
       ],
-      "duration_ms": 291000,
-      "name": "RIDE ON TIME",
-      "url": "https://open.spotify.com/track/6chYTYr6KD553YV3enDhdU"
+      "duration_ms": 222937,
+      "name": "Torino",
+      "url": "https://open.spotify.com/track/6cEtprCmXLwljz6Kl3J9Tc"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -737,22 +925,6 @@
       "url": "https://open.spotify.com/track/7mzo6tiWRZE8Fu6AEvGXLd"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Trance De Jour",
-        "url": "https://open.spotify.com/album/4eyUBeYGwrJvvTHaBrq6t7"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 263746,
-      "name": "Trance De Jour",
-      "url": "https://open.spotify.com/track/2bK6NBZeG9WG2BmZZAXFYS"
-    },
-    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Nature's Kiss",
@@ -791,26 +963,6 @@
       "duration_ms": 286785,
       "name": "O Fogo",
       "url": "https://open.spotify.com/track/5wJYIdc4P70DuqFWwQgSLZ"
-    },
-    {
-      "added_at": "2022-02-10 23:00:00",
-      "album": {
-        "name": "Chandler",
-        "url": "https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8"
-      },
-      "artists": [
-        {
-          "name": "Ebi Soda",
-          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
-        },
-        {
-          "name": "Yazz Ahmed",
-          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
-        }
-      ],
-      "duration_ms": 221129,
-      "name": "Chandler",
-      "url": "https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK"
     },
     {
       "added_at": "2022-02-10 23:00:00",
@@ -1003,30 +1155,6 @@
       "duration_ms": 354638,
       "name": "Sha' la ko'",
       "url": "https://open.spotify.com/track/00CkPAQcxDZ3A9rm3FP1AY"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/6HprkyGT2M3BMtN7hHNFLD"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        }
-      ],
-      "duration_ms": 267920,
-      "name": "Black Rainbows",
-      "url": "https://open.spotify.com/track/3NOffN95JiN3r73JXzg3Vx"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -1403,26 +1531,6 @@
       "duration_ms": 223078,
       "name": "maybe as his skies are wide",
       "url": "https://open.spotify.com/track/5vMHLGOunVL0ymAd3ROeCP"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "OD",
-        "url": "https://open.spotify.com/album/0CiCDUpPYrc9MvOsuHJcs0"
-      },
-      "artists": [
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        },
-        {
-          "name": "The Modern Jazz Trio",
-          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
-        }
-      ],
-      "duration_ms": 418779,
-      "name": "OD",
-      "url": "https://open.spotify.com/track/2ih8SappJXdqcXKHHn24Jc"
     },
     {
       "added_at": "2022-04-12 13:32:30",

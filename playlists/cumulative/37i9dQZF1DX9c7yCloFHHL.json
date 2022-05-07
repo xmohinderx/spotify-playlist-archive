@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 170000,
       "name": "1969",
       "url": "https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv"
@@ -792,6 +792,24 @@
     },
     {
       "album": {
+        "name": "Arroyo",
+        "url": "https://open.spotify.com/album/7nKNV3AGdqI7eLwv71FQrB"
+      },
+      "artists": [
+        {
+          "name": "Jon Porras",
+          "url": "https://open.spotify.com/artist/0FDxPN4OkExGczv8cRTAZx"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464031,
+      "name": "Arroyo",
+      "url": "https://open.spotify.com/track/0KsW9bgPq22f5UK9agaBql"
+    },
+    {
+      "album": {
         "name": "As I Was (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
       },
@@ -1085,6 +1103,28 @@
       "duration_ms": 251560,
       "name": "Beethoven 250",
       "url": "https://open.spotify.com/track/4F4XbR8oZKp4iNj1WAq11d"
+    },
+    {
+      "album": {
+        "name": "Before I Forget You",
+        "url": "https://open.spotify.com/album/22omqP8r89EcEWyQVnC8KB"
+      },
+      "artists": [
+        {
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
+        },
+        {
+          "name": "Amai Oto",
+          "url": "https://open.spotify.com/artist/3iNGaJ4kwEjOpkj6IEyQCR"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174512,
+      "name": "Before I Forget You",
+      "url": "https://open.spotify.com/track/2o4uQ0qj4WNEMnnmtkUcrz"
     },
     {
       "album": {
@@ -2229,7 +2269,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 141176,
       "name": "Ditha's Dream",
       "url": "https://open.spotify.com/track/4unqSlBaaWvPVuKX8h1UTR"
@@ -2305,7 +2345,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 288500,
       "name": "DRAHTKURBEL",
       "url": "https://open.spotify.com/track/3euqW42c6yR3DP4GgIIwpE"
@@ -2429,7 +2469,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 311000,
       "name": "Du repos",
       "url": "https://open.spotify.com/track/1HTyYBqbbyKH8zHRgUru2q"
@@ -4173,7 +4213,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Introducing - Zazenkai Escape Ambient Re-Work",
       "url": "https://open.spotify.com/track/3U4UtwEsN53RimSfhaIHhL"
@@ -4517,7 +4557,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 221384,
       "name": "Le Temps Passe",
       "url": "https://open.spotify.com/track/7swF9G3yaUQHLROnSoXDld"
@@ -4709,7 +4749,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 265520,
       "name": "Lost in Buenos Aires",
       "url": "https://open.spotify.com/track/3Q3sGHjw1FHPiIV5aNyAuX"
@@ -4763,7 +4803,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 197335,
       "name": "LUN",
       "url": "https://open.spotify.com/track/5ipMiNXR4MATOx8pqCQpFo"
@@ -4843,7 +4883,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 234795,
       "name": "Mammatus",
       "url": "https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g"
@@ -4978,6 +5018,24 @@
     },
     {
       "album": {
+        "name": "Meditation on a Sequence",
+        "url": "https://open.spotify.com/album/61mszSIWQ0fo4CdNtNZM20"
+      },
+      "artists": [
+        {
+          "name": "Giselle Gabrielle Garcia",
+          "url": "https://open.spotify.com/artist/79UcfHNMN7uaLkPVQrdt86"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257722,
+      "name": "Meditation, No. 1",
+      "url": "https://open.spotify.com/track/6YGBhIuanpChP7LeP26jhj"
+    },
+    {
+      "album": {
         "name": "Melting Hazard",
         "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
       },
@@ -5029,7 +5087,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 117775,
       "name": "Mesmerising Waves",
       "url": "https://open.spotify.com/track/3xXFRBuzJysZwZ8h2ljVGz"
@@ -5087,7 +5145,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 1088375,
       "name": "Mira",
       "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
@@ -5355,7 +5413,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 183851,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
@@ -5827,7 +5885,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 300000,
       "name": "Only Us",
       "url": "https://open.spotify.com/track/3RAPk591P7FhcehZSMpico"
@@ -6391,7 +6449,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 264000,
       "name": "Polar Winds",
       "url": "https://open.spotify.com/track/2GBHHDN57i2DQBp38t1I1y"
@@ -6601,7 +6659,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 241809,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/6O0KdIaOEkKr1q915bHNqe"
@@ -6703,7 +6761,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 320009,
       "name": "Remember This Time",
       "url": "https://open.spotify.com/track/5GB1TCF6ZMbcYMmGoKQtf3"
@@ -7304,6 +7362,24 @@
     },
     {
       "album": {
+        "name": "Sounds For Sleep",
+        "url": "https://open.spotify.com/album/3soUUa1xRuj2IlrVxyGZws"
+      },
+      "artists": [
+        {
+          "name": "Hallucination Orbit",
+          "url": "https://open.spotify.com/artist/2TsrJ8aEu8sWhKWlv8AMEO"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Snuggle",
+      "url": "https://open.spotify.com/track/2xjssVrADK6vTOtZNzlM28"
+    },
+    {
+      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -7359,7 +7435,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 121653,
       "name": "softly",
       "url": "https://open.spotify.com/track/1zp5bDTjX4hFLaKm3JAAub"
@@ -7865,7 +7941,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 164495,
       "name": "The First Falling Snowflakes Of A Winter Long Gone",
       "url": "https://open.spotify.com/track/5wEdD7Wrj2Zm0z2eUg9vsF"
@@ -7926,6 +8002,24 @@
     },
     {
       "album": {
+        "name": "The Marrow Thieves",
+        "url": "https://open.spotify.com/album/2aLBMB40rhKQ10BR9FEzQN"
+      },
+      "artists": [
+        {
+          "name": "Kilometre Club",
+          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295729,
+      "name": "The Marrow Thieves",
+      "url": "https://open.spotify.com/track/4l82raVUjUHXmiJQ8cCd0T"
+    },
+    {
+      "album": {
         "name": "Nyman Brass",
         "url": "https://open.spotify.com/album/6hKZ4fy51M5tMF1By8pID3"
       },
@@ -7959,7 +8053,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 254717,
       "name": "The Place We're Headed",
       "url": "https://open.spotify.com/track/6byfDidLBUBuCGfp4eAHFt"
@@ -8133,6 +8227,24 @@
       "duration_ms": 316640,
       "name": "there is always a girl with a secret",
       "url": "https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh"
+    },
+    {
+      "album": {
+        "name": "this feeling (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/6yGOt8ZXsdPcKNybC7aOX7"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114857,
+      "name": "this feeling (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/1PEKGePNN1XrdKG2QQDUCv"
     },
     {
       "album": {
@@ -8386,6 +8498,28 @@
     },
     {
       "album": {
+        "name": "LAYERS",
+        "url": "https://open.spotify.com/album/6fWfFSP4Bec1FRoSkfo2NC"
+      },
+      "artists": [
+        {
+          "name": "Mara Simpson",
+          "url": "https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH"
+        },
+        {
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249306,
+      "name": "Traquair (LAYERS ambient)",
+      "url": "https://open.spotify.com/track/4SoNj3UU6nJP4QCsDIp8hr"
+    },
+    {
+      "album": {
         "name": "Colored Grey",
         "url": "https://open.spotify.com/album/1VspH1asJd0GgEQ9tuVycI"
       },
@@ -8513,7 +8647,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 286680,
       "name": "T\u00e1ra",
       "url": "https://open.spotify.com/track/0hIeLn8zCJVQY9M2YnSKkV"
@@ -8531,7 +8665,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 166800,
       "name": "U.N.I.",
       "url": "https://open.spotify.com/track/2T4fAC5cbanBsKjsbIP93P"
@@ -8683,7 +8817,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 390303,
       "name": "Uninvited Guests",
       "url": "https://open.spotify.com/track/4S9HaCnFPMJmxaqagKfzPA"
@@ -9009,7 +9143,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 628736,
       "name": "Wawa by the Ocean",
       "url": "https://open.spotify.com/track/2S7slBXVQLbQUVW1ICWlvK"
@@ -9107,6 +9241,24 @@
       "duration_ms": 127766,
       "name": "whateverness",
       "url": "https://open.spotify.com/track/3MKC7OvW9dw7bxgNuknQi5"
+    },
+    {
+      "album": {
+        "name": "when will i see her again?",
+        "url": "https://open.spotify.com/album/5dSaOxiuS0MBVgifMcQCs4"
+      },
+      "artists": [
+        {
+          "name": "Stoopa",
+          "url": "https://open.spotify.com/artist/1Dvz7bquj2cSDyEUz1C8hx"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78335,
+      "name": "when will i see her again?",
+      "url": "https://open.spotify.com/track/65KYTtspLmlO0awOT87TaT"
     },
     {
       "album": {

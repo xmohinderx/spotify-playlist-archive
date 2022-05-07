@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-141 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+143 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Know You Will](https://open.spotify.com/track/758pVpyAPaFWlZQAoB0UYt) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Know You Will](https://open.spotify.com/album/1rTs1PbPBCoKPC7PWklo5H) | 3:37 | 2022-02-17 | 2022-04-02 |
 | [Let The Light In \- Live](https://open.spotify.com/track/7uEho9WLsvWHQyd3jwqI2Q) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 7:29 | 2022-02-17 | 2022-04-05 |
 | [Living Hope](https://open.spotify.com/track/7o24sKRAGXOfX2BWhO7oqU) | [Worship Solutions](https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI), [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Top 25 Praise Songs – The Blessing](https://open.spotify.com/album/3Ip0l3AjSDjpv6hn2THc3Z) | 5:18 | 2022-02-17 |  |
+| [Lord Of The Harvest \- Live](https://open.spotify.com/track/7C9T43q7KGEYWkkQ2jFEcE) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Lord Of The Harvest \(Live\)](https://open.spotify.com/album/2MPWAjBXD0w7N8CCJ6OTBe) | 9:54 | 2022-05-06 |  |
 | [Love Note](https://open.spotify.com/track/3dzhfgsHS5fRRIqKj6HqDG) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Love Note](https://open.spotify.com/album/4UKGeG9V2lLmXDmqCyWMOw) | 5:41 | 2022-02-17 | 2022-03-16 |
 | [Man Of Sorrows \- Live](https://open.spotify.com/track/7tURQQhMTcJXIVe1dvji7v) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Glorious Ruins \(Live\)](https://open.spotify.com/album/7xLjYHAsg4pe76OLFWGFks) | 5:14 | 2022-04-05 |  |
 | [Mercy Of Jesus](https://open.spotify.com/track/4DUYGD9qBMUJEOYPisadF2) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Mercy Of Jesus](https://open.spotify.com/album/34v3tdnUyhImBD23XlyeJx) | 4:31 | 2022-03-18 |  |
@@ -111,6 +112,7 @@
 | [Resurrender \- Live](https://open.spotify.com/track/2yYsMsc5Ic7HZoOS3DbGMZ) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [These Same Skies \(Live\)](https://open.spotify.com/album/08skyG33WqHITgFg6S09LR) | 7:02 | 2022-02-17 |  |
 | [Run To The Father](https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:08 | 2022-02-17 |  |
 | [Shine Like Stars](https://open.spotify.com/track/3PfewOCZm2VpGetWwZsZuU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Burn Bright](https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv) | 4:30 | 2022-02-17 |  |
+| [Simple Kingdom \(with Cody Carnes\) \- Live](https://open.spotify.com/track/5WryeVVD4YY1LnbZvwa40s) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Simple Kingdom \(with Cody Carnes\) \[Live\]](https://open.spotify.com/album/6cdFeMCCrgo9eU2jqLOvJk) | 6:24 | 2022-05-06 |  |
 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 | 2022-02-17 |  |
 | [Something About That Name](https://open.spotify.com/track/68qm1xj2QTa1aRO0qqN8Vx) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:32 | 2022-02-17 | 2022-03-16 |
 | [Speak O Lord \- Live](https://open.spotify.com/track/2b96tmoGtUNQdWlQGbgkiN) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Speak O Lord \(Live\)](https://open.spotify.com/album/0saO1MoWHiHtuCTw8pHEBY) | 3:41 | 2022-03-04 | 2022-04-05 |

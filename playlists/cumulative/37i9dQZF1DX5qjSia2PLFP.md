@@ -2,9 +2,9 @@
 
 ### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> Emerging music breaking waves\.  Cover: A$AP ANT
+> New music breaking waves\.  Cover: Jay305
 
-103 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
+105 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,14 @@
 | [Die With Pride](https://open.spotify.com/track/4Nj0NamL8w2k2Ei5GKfGIx) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [GoodEvil](https://open.spotify.com/album/0INdS3yzG2eFDZwX44rzGE) | 1:52 | 2021-12-01 |  |
 | [Every Part of Me \(feat\. Ari Lennox\)](https://open.spotify.com/track/3fo5i7RCEyLycp8dsn7Pa1) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [BLK2LIFE \|\| A FUTURE PAST](https://open.spotify.com/album/5ULA4LSxoFzpCPERRiNuRT) | 3:10 | 2021-09-24 | 2022-03-05 |
 | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/track/0X4OaqRlKPYdIFL2LZECHv) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/album/3uc0BBMDWAkDwxunNXZtJx) | 2:55 | 2021-09-01 | 2022-03-05 |
+| [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [HitKidd](https://open.spotify.com/artist/6fD4Wp0ohNtBZNB5mvS4PK), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-05-06 |  |
 | [Feels Good](https://open.spotify.com/track/39p6WaVTnpsqNiGkRmXw9a) | [Jay Wile](https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU), [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1) | [Somewhere in Mind](https://open.spotify.com/album/5lUwPajCLxdOdSAWNFiPqS) | 2:40 | 2021-05-26 | 2022-03-12 |
 | [Fight Night](https://open.spotify.com/track/5dlicVIRU7PVOKAtN9dN1L) | [Boyscoutsam](https://open.spotify.com/artist/6mzQSW98vK1vHNearVSG0c) | [Fight Night](https://open.spotify.com/album/6T36i0JuiP1B24fwk4sAA2) | 2:18 | 2021-10-29 | 2022-02-26 |
 | [Figure It Out](https://open.spotify.com/track/7nZDS9vvNuDBE3w1JQNx3c) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Figure It Out](https://open.spotify.com/album/4KM1PhBa0e4oYkn3qQ3xGt) | 2:51 | 2022-03-25 |  |
 | [For Me](https://open.spotify.com/track/4fcWrSIWnXlsU4yNB9lJk4) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [For Me](https://open.spotify.com/album/66M1yxhYoJ0iT7k36rOpid) | 2:14 | 2022-02-25 |  |
 | [Fortified](https://open.spotify.com/track/7cjpT290uAfIaQg2NB5Rko) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Fortified](https://open.spotify.com/album/4HjhhSHzL3jjhOQFgyY19w) | 3:17 | 2022-02-25 |  |
 | [Function](https://open.spotify.com/track/0DYcMa43MF2cFqNWoCkfYC) | [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Rebirth](https://open.spotify.com/album/7dZEbiYj7YziJFSJWTf6D8) | 2:40 | 2022-02-11 |  |
+| [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 | 2022-05-06 |  |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-09-01 | 2022-03-05 |
 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-02-11 |  |
 | [History](https://open.spotify.com/track/0O39nIQSeYJP9yHouKKZvP) | [Marti](https://open.spotify.com/artist/4pVaOJ2YYHHvy80Aau5BDs) | [History](https://open.spotify.com/album/3pqOqlgUJ39OPL3F2EqPcN) | 2:50 | 2022-04-01 |  |

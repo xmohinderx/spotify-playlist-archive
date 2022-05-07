@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Let the sounds of the rainforest calm you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,034 likes - 64 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,029 likes - 64 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

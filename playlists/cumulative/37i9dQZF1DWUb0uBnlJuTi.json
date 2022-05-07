@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 531533,
       "name": "A Message From The Inner City",
       "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 185056,
       "name": "A Walk Down 7th st.",
       "url": "https://open.spotify.com/track/5vlBePKYHkVWzZoYUBIG0O"
@@ -141,7 +141,7 @@
       ],
       "date_added": "2021-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 280463,
       "name": "Always Let Me Go",
       "url": "https://open.spotify.com/track/3vxNtjIlwUB5A525DGfs2Q"
@@ -159,7 +159,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 230625,
       "name": "Andromeda Style Fuunk",
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
@@ -351,10 +351,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 231573,
       "name": "Black Octopus",
       "url": "https://open.spotify.com/track/2cDgtkuxmABPn530SRo5bo"
+    },
+    {
+      "album": {
+        "name": "Live At: Archive Group Studios",
+        "url": "https://open.spotify.com/album/0IENaoZTdX50sMypwcgD4H"
+      },
+      "artists": [
+        {
+          "name": "Whatitdo Archive Group",
+          "url": "https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Blood Chief - Live in Studio",
+      "url": "https://open.spotify.com/track/4cV7k8bph31wVkk74TbRCv"
     },
     {
       "album": {
@@ -453,7 +471,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 378933,
       "name": "Breaki",
       "url": "https://open.spotify.com/track/4rudng6ylXm7HKBAw524hV"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 235543,
       "name": "Broasted or Fried",
       "url": "https://open.spotify.com/track/2HWQmXaDJXeGror617oKgS"
@@ -551,7 +569,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 91733,
       "name": "CATS GROOVE",
       "url": "https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 177500,
       "name": "Cheers to Frank",
       "url": "https://open.spotify.com/track/4LPtfyhOaXtMqrJUmhUXm1"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 270106,
       "name": "Chum City",
       "url": "https://open.spotify.com/track/2zdWHYYe0aqqzBjOKEvE8k"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 352931,
       "name": "Crescent City",
       "url": "https://open.spotify.com/track/17QFQClOy6dZJeqUivkGUE"
@@ -939,7 +957,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 500866,
       "name": "Cucumber Slumber",
       "url": "https://open.spotify.com/track/7HVLRiHEzNYuNlbKYy3JVq"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 270085,
       "name": "Deadlines",
       "url": "https://open.spotify.com/track/0JRsF8dhA1REeU30rW9mKL"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 317645,
       "name": "Free Angela (Thoughts\u2026 And All I've Got To Say)",
       "url": "https://open.spotify.com/track/1VUnI5Inw1b7ZyVw5jnkaq"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 225906,
       "name": "Funky Snakefoot",
       "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 273586,
       "name": "Glaze",
       "url": "https://open.spotify.com/track/05OOwdPf6R9McIukghw4w9"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 289350,
       "name": "Grease of the East(bay) [feat. Eric Krasno, Daniel Casares & Adam Theis]",
       "url": "https://open.spotify.com/track/5frRUnhEY8Pd5KGz5hRvTE"
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 430968,
       "name": "Hambone",
       "url": "https://open.spotify.com/track/0QSDnSYwEzsBOisXZqzIJy"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 204432,
       "name": "Herbie",
       "url": "https://open.spotify.com/track/0H93akvUa8SyoWlkYywgRa"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 389815,
       "name": "Joyous",
       "url": "https://open.spotify.com/track/1PLbAq2vbYJTAP9pbEoGmY"
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 209013,
       "name": "Love Age",
       "url": "https://open.spotify.com/track/4rI9SISHRL2STgTlLH1DtN"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 356800,
       "name": "Mole's Pirouette",
       "url": "https://open.spotify.com/track/2YzKkL5iR8noOJwufVNFCy"
@@ -2229,7 +2247,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 316493,
       "name": "One In Seven",
       "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
@@ -2494,6 +2512,40 @@
     },
     {
       "album": {
+        "name": "Rajazz",
+        "url": "https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28"
+        },
+        {
+          "name": "Jeff Ballard",
+          "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
+        },
+        {
+          "name": "Daniel Somaroo",
+          "url": "https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A"
+        },
+        {
+          "name": "Raphael Rosse",
+          "url": "https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp"
+        },
+        {
+          "name": "Gerry Lopez",
+          "url": "https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441426,
+      "name": "Rajazz",
+      "url": "https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx"
+    },
+    {
+      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
       },
@@ -2505,7 +2557,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 396666,
       "name": "Red Baron",
       "url": "https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd"
@@ -2541,7 +2593,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 177068,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5hg5J0FMtHsk2KpOvRWWuG"
@@ -2631,7 +2683,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 192527,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/4ttyuisGzPrVAAfAeTmbXC"
@@ -2759,7 +2811,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 212263,
       "name": "Souly",
       "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
@@ -2825,7 +2877,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 113785,
       "name": "Spoon (Mike Casey Remix) [No Sax]",
       "url": "https://open.spotify.com/track/3pdsLXaqbXxq2cleFYLeaq"
@@ -2961,7 +3013,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "Sunray Junonia",
       "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
@@ -2997,7 +3049,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 326320,
       "name": "Sweet Power of Your Embrace",
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
@@ -3169,7 +3221,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 347500,
       "name": "The Drip - Live Session",
       "url": "https://open.spotify.com/track/3xo3K91h5jdhA3Udk0wio4"
@@ -3199,7 +3251,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 409560,
       "name": "The Epic (feat. Stanton Moore, Charlie Hunter & Skerik)",
       "url": "https://open.spotify.com/track/3mR91U7nqzAe2QQmawlQ5M"
@@ -3221,7 +3273,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 136020,
       "name": "The Hornet's Nest",
       "url": "https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y"
@@ -3311,7 +3363,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 287349,
       "name": "The Positive and the Negative",
       "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
@@ -3355,6 +3407,32 @@
       "duration_ms": 185878,
       "name": "The Revolution Will Not Be Televised",
       "url": "https://open.spotify.com/track/7kjg2NCn3Zx70m1DFHSSGO"
+    },
+    {
+      "album": {
+        "name": "The Summertime",
+        "url": "https://open.spotify.com/album/0BFeUVULFUJYgxLnOkY0ly"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "The Summertime",
+      "url": "https://open.spotify.com/track/7CvibeML5CjDjy0sZyiB2u"
     },
     {
       "album": {
@@ -3421,7 +3499,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 171726,
       "name": "Three Ears",
       "url": "https://open.spotify.com/track/1sgclQe6xZ62RLGkmSulsS"
@@ -3457,7 +3535,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 205160,
       "name": "Tokisan",
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
@@ -3563,7 +3641,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 406660,
       "name": "Universal Insanity",
       "url": "https://open.spotify.com/track/16H5KPPLFLzvW0oZjJjwwe"
@@ -3581,7 +3659,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 155280,
       "name": "V Neck Sweater",
       "url": "https://open.spotify.com/track/2QdcIeRxcBbTQk3B6fng25"
@@ -3679,7 +3757,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 141030,
       "name": "What's the Matter",
       "url": "https://open.spotify.com/track/2t4Jta1l1mONdzyMAhjvYf"
@@ -3697,7 +3775,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 194226,
       "name": "Where's the Music",
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
@@ -3731,7 +3809,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 429923,
       "name": "White Caps",
       "url": "https://open.spotify.com/track/31ujFgAn19kJLbnlm8KG0Z"

@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Addison Grace",
-  "num_followers": 58846,
+  "num_followers": 58041,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDgwMCwwMDAwMDA1MTAwMDAwMTgwNzM3OWJlOTMwMDAwMDE4MDcxNTM4NTdm",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDA1MjAwMDAwMTgwOTc4NjQzMDYwMDAwMDE4MDcxNTM4NTdm",
   "tracks": [
     {
       "added_at": "2022-04-29 04:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 171317,
       "name": "Getting Used To",
       "url": "https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "DECLINED",
+        "url": "https://open.spotify.com/album/0BVDq72SfkUvDv11NuLyHP"
+      },
+      "artists": [
+        {
+          "name": "Britton",
+          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
+        }
+      ],
+      "duration_ms": 256250,
+      "name": "DECLINED",
+      "url": "https://open.spotify.com/track/1OvTmyB5Rh9Gn1rqlqgTMY"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "when the sun came up",
+        "url": "https://open.spotify.com/album/2MrUkSTLolgDJTboaxwCXl"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "the sky looked nice today",
+      "url": "https://open.spotify.com/track/1R0WKnVaUrZbEyJNHSVlgX"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -153,6 +185,22 @@
       "url": "https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw"
     },
     {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "When It Kills Me: Pt. 2",
+        "url": "https://open.spotify.com/album/5g0ADZD2v0pRnkgX8UhHaX"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "duration_ms": 221839,
+      "name": "When It Kills Me",
+      "url": "https://open.spotify.com/track/7heSG5oy44Si0bc8toOsYX"
+    },
+    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "I Wanna Be a Boy",
@@ -167,22 +215,6 @@
       "duration_ms": 199733,
       "name": "I Wanna Be a Boy",
       "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "DECLINED",
-        "url": "https://open.spotify.com/album/0BVDq72SfkUvDv11NuLyHP"
-      },
-      "artists": [
-        {
-          "name": "Britton",
-          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
-        }
-      ],
-      "duration_ms": 256250,
-      "name": "DECLINED",
-      "url": "https://open.spotify.com/track/1OvTmyB5Rh9Gn1rqlqgTMY"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -937,22 +969,6 @@
       "url": "https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg"
-    },
-    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "pretty when u cry",
@@ -1111,22 +1127,6 @@
       "duration_ms": 166391,
       "name": "that was quick!",
       "url": "https://open.spotify.com/track/36tVh8MZ2bxliGj0eJyKsX"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "volkswagens",
-        "url": "https://open.spotify.com/album/5lleMb5RdpoSGN8uGaOzYq"
-      },
-      "artists": [
-        {
-          "name": "dora.",
-          "url": "https://open.spotify.com/artist/0Ym566deMKtIcLclCs6AqB"
-        }
-      ],
-      "duration_ms": 160568,
-      "name": "volkswagens",
-      "url": "https://open.spotify.com/track/5lJKyrg4IRUEGN0eQao1JK"
     },
     {
       "added_at": "2022-02-04 05:00:00",

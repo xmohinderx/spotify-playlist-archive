@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Not not not pop. Cover: Brevin Kim",
+  "description": "Not not not pop. Cover: Junior Varsity",
   "name": "anti pop",
   "published_playlist_ids": [
     "6mIA8qAabkwc8qms18iOYE"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 179693,
       "name": "ALIENSPEAK (feat. Curtis Waters)",
       "url": "https://open.spotify.com/track/15HLtPoII6TTHbej3R6xKz"
@@ -1651,6 +1651,24 @@
       "duration_ms": 187240,
       "name": "Blood Sugar",
       "url": "https://open.spotify.com/track/60iDIlOnohKwxEKW8yGdXg"
+    },
+    {
+      "album": {
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/3N9piIqnt2BHomjXpg4BEe"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/253Sq7utuR9vchbNWyjyE4"
     },
     {
       "album": {
@@ -5131,7 +5149,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 187626,
       "name": "Free",
       "url": "https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP"
@@ -9723,7 +9741,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 200133,
       "name": "Neo Surf",
       "url": "https://open.spotify.com/track/6XmT8fIEfcS3ZSVEz00U7m"
@@ -10826,6 +10844,24 @@
     },
     {
       "album": {
+        "name": "Parade",
+        "url": "https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota"
+    },
+    {
+      "album": {
         "name": "parasite",
         "url": "https://open.spotify.com/album/5cKrbpL8h1UOpqp7EBbPEp"
       },
@@ -10841,6 +10877,24 @@
       "duration_ms": 174624,
       "name": "parasite",
       "url": "https://open.spotify.com/track/7FxZjZYATRvLJHSw2vHx4Z"
+    },
+    {
+      "album": {
+        "name": "PASSENGER",
+        "url": "https://open.spotify.com/album/1pafNIcIArSVHimtIIh0SS"
+      },
+      "artists": [
+        {
+          "name": "papa mbye",
+          "url": "https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203216,
+      "name": "PASSENGER",
+      "url": "https://open.spotify.com/track/6am5t6aado8ApWWuJIxHQS"
     },
     {
       "album": {
@@ -12439,7 +12493,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 147853,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6NduQjYR9ElRhgSOAqdoOV"
@@ -12833,7 +12887,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 152019,
       "name": "sink",
       "url": "https://open.spotify.com/track/5smvhXxq6FpGKNJIqwOetD"
@@ -15526,6 +15580,28 @@
     },
     {
       "album": {
+        "name": "\u00bfT\u00e9o?",
+        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        },
+        {
+          "name": "Jaden Smith",
+          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170125,
+      "name": "Uno Dos",
+      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
+    },
+    {
+      "album": {
         "name": "Epochs",
         "url": "https://open.spotify.com/album/4F5BxxBPbLidRGBYdMsGug"
       },
@@ -15951,6 +16027,24 @@
       "duration_ms": 143905,
       "name": "Weather (feat. Spill Tab)",
       "url": "https://open.spotify.com/track/37gqLs74suBBjQf4nPv5UV"
+    },
+    {
+      "album": {
+        "name": "Web",
+        "url": "https://open.spotify.com/album/2P0ebrotEYGBlrTn7cKC1E"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126151,
+      "name": "Web",
+      "url": "https://open.spotify.com/track/4C79MQWKw9ov99q8AXXBpe"
     },
     {
       "album": {

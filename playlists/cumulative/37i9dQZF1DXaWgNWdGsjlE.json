@@ -1572,6 +1572,28 @@
     },
     {
       "album": {
+        "name": "RAINING BLOOD (feat. ZillaKami)",
+        "url": "https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        },
+        {
+          "name": "ZillaKami",
+          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "RAINING BLOOD (feat. ZillaKami)",
+      "url": "https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO"
+    },
+    {
+      "album": {
         "name": "You Will Not Be Saved",
         "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
       },
@@ -1695,7 +1717,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 306853,
       "name": "Sober",
       "url": "https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt"

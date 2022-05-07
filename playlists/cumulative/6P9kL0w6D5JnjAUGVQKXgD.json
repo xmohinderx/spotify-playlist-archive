@@ -3264,6 +3264,32 @@
     },
     {
       "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/7L5em7eMd9hfQUU5ijnyMl"
+      },
+      "artists": [
+        {
+          "name": "Farzin Salehi",
+          "url": "https://open.spotify.com/artist/2bOYi40lviElkE1aywiyw7"
+        },
+        {
+          "name": "Kenan Waters",
+          "url": "https://open.spotify.com/artist/5wqaqDigmVwxbb69jlpfOv"
+        },
+        {
+          "name": "Sydney Jo Jackson",
+          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139187,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/1R5mw7oBYukUvbXlQueWQX"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/3xmt4RrW7Bv4Pp5bhvlieg"
       },
@@ -7565,7 +7591,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 180937,
       "name": "First Girl On The Moon",
       "url": "https://open.spotify.com/track/7e5mu6P9XOBH3uLCT3JitQ"
@@ -15903,7 +15929,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 157480,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/4NnIVd1NI1OFeUy4t8Re9f"
@@ -24503,6 +24529,24 @@
       "duration_ms": 208253,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
+    },
+    {
+      "album": {
+        "name": "Who Else",
+        "url": "https://open.spotify.com/album/4zCO4rZ2D9dhFT5OnXkRk9"
+      },
+      "artists": [
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130655,
+      "name": "Who Else",
+      "url": "https://open.spotify.com/track/3zbiToGAX9qdQFBKatYjm8"
     },
     {
       "album": {

@@ -728,6 +728,28 @@
     },
     {
       "album": {
+        "name": "Funkatron",
+        "url": "https://open.spotify.com/album/2LnfOgfUOo91vCHLTvgv5M"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189047,
+      "name": "Funkatron",
+      "url": "https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4"
       },
@@ -1479,7 +1501,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 253658,
       "name": "With You",
       "url": "https://open.spotify.com/track/3hx2GGk4lwbOislq85AE0q"

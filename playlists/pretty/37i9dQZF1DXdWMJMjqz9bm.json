@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop and a little bit of rap. Cover: anees",
-  "num_followers": 149445,
+  "num_followers": 149700,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTE1OTc1OCwwMDAwMDExOTAwMDAwMTgwNzBjYTc3ZDgwMDAwMDE4MDFhNWZhZTNi",
+  "snapshot_id": "MTY1MTgxNTA2MCwwMDAwMDExYTAwMDAwMTgwOTdkOTkyOTAwMDAwMDE4MDFhNWZhZTNi",
   "tracks": [
     {
       "added_at": "2022-04-28 15:16:03",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy"
     },
     {
+      "added_at": "2022-05-06 05:31:00",
+      "album": {
+        "name": "If Not Now, When?",
+        "url": "https://open.spotify.com/album/5K4Ygp0yLgeaYSKFizi15P"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 91224,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/46e8kngVlFjuDTCyyTbLfJ"
+    },
+    {
       "added_at": "2022-04-08 19:00:34",
       "album": {
         "name": "First Class",
@@ -237,22 +253,6 @@
       "url": "https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL"
     },
     {
-      "added_at": "2022-04-22 18:42:00",
-      "album": {
-        "name": "Girl U My Plug",
-        "url": "https://open.spotify.com/album/7MnuSCvU2bmLIzkOfxI302"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 199670,
-      "name": "Girl U My Plug",
-      "url": "https://open.spotify.com/track/5bYphpTtDCeVgzoYP6KFSu"
-    },
-    {
       "added_at": "2022-04-04 22:47:16",
       "album": {
         "name": "RESCUE",
@@ -283,6 +283,22 @@
       "duration_ms": 114427,
       "name": "summer&cigarettes",
       "url": "https://open.spotify.com/track/5PmtPTXrLqgqQfqngsUqZp"
+    },
+    {
+      "added_at": "2022-05-06 05:31:00",
+      "album": {
+        "name": "ONNAFRIDAY",
+        "url": "https://open.spotify.com/album/4M4Lm0G81QTEJDvrdGznP3"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 132686,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/7sYwBsZQ775DglPjuz8p3S"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -377,6 +393,22 @@
       "url": "https://open.spotify.com/track/4NJaaIIhzLlzGj4dHMb4FO"
     },
     {
+      "added_at": "2022-05-06 05:31:00",
+      "album": {
+        "name": "age tape 4",
+        "url": "https://open.spotify.com/album/3bR27hf8msbWz6q9km7S5N"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 134857,
+      "name": "toxic crush",
+      "url": "https://open.spotify.com/track/4jx3OhzeLknPoF52To841h"
+    },
+    {
       "added_at": "2022-04-22 18:42:00",
       "album": {
         "name": "dimples",
@@ -417,6 +449,26 @@
       "url": "https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA"
     },
     {
+      "added_at": "2022-05-06 05:31:00",
+      "album": {
+        "name": "Therapy Music",
+        "url": "https://open.spotify.com/album/0umXnJRqobrCwHOlWlHZc9"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 262748,
+      "name": "Therapy Music (feat. Russ)",
+      "url": "https://open.spotify.com/track/3WRT8uD7wYPzIJagtFRVjF"
+    },
+    {
       "added_at": "2022-04-08 13:25:03",
       "album": {
         "name": "Nice to Meet Me (feat. Au/Ra)",
@@ -435,22 +487,6 @@
       "duration_ms": 171756,
       "name": "Nice to Meet Me (feat. Au/Ra)",
       "url": "https://open.spotify.com/track/62GuxZfDmTAnheXJqpbTVl"
-    },
-    {
-      "added_at": "2022-04-08 13:25:03",
-      "album": {
-        "name": "age tape 3",
-        "url": "https://open.spotify.com/album/3Q05Dy5yX20ByC4pRz5zI5"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 88163,
-      "name": "la di da - acoustic",
-      "url": "https://open.spotify.com/track/5bNjrg9hIcDqb2OLttzxlN"
     },
     {
       "added_at": "2022-04-08 14:46:43",
@@ -653,6 +689,22 @@
       "url": "https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY"
     },
     {
+      "added_at": "2022-05-06 05:31:00",
+      "album": {
+        "name": "nothing to lose",
+        "url": "https://open.spotify.com/album/70ZI0zWLDEQP4MTB0ONVCA"
+      },
+      "artists": [
+        {
+          "name": "Sally Boy",
+          "url": "https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf"
+        }
+      ],
+      "duration_ms": 74840,
+      "name": "nothing to lose",
+      "url": "https://open.spotify.com/track/1FjHCIhGZNXkuYQGziT3p4"
+    },
+    {
       "added_at": "2022-04-11 20:55:09",
       "album": {
         "name": "Sunsick",
@@ -789,6 +841,26 @@
       "url": "https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi"
     },
     {
+      "added_at": "2022-05-06 05:31:00",
+      "album": {
+        "name": "I Don't Like",
+        "url": "https://open.spotify.com/album/3CreE7aczVbvJBmE7F84K7"
+      },
+      "artists": [
+        {
+          "name": "JYLPO",
+          "url": "https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe"
+        },
+        {
+          "name": "Willy P",
+          "url": "https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP"
+        }
+      ],
+      "duration_ms": 183514,
+      "name": "I Don't Like",
+      "url": "https://open.spotify.com/track/18EarjJzm91TbgHH7yjyZc"
+    },
+    {
       "added_at": "2022-04-04 15:24:43",
       "album": {
         "name": "ONEPOINTFIVE",
@@ -843,22 +915,6 @@
       "duration_ms": 140665,
       "name": "IDGAF (with blackbear)",
       "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
-        "name": "age tape 1",
-        "url": "https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 123269,
-      "name": "horror story",
-      "url": "https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL"
     },
     {
       "added_at": "2022-04-04 15:24:43",
@@ -1259,26 +1315,6 @@
     {
       "added_at": "2022-04-04 15:24:43",
       "album": {
-        "name": "Colorado Boulder",
-        "url": "https://open.spotify.com/album/5hF6qsppuOKFRmgeCKwj2T"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        },
-        {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        }
-      ],
-      "duration_ms": 163663,
-      "name": "Colorado Boulder",
-      "url": "https://open.spotify.com/track/415cidxCKnjZg9l7dAnVJp"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx"
       },
@@ -1559,22 +1595,6 @@
     {
       "added_at": "2022-04-04 15:24:43",
       "album": {
-        "name": "age tape 2",
-        "url": "https://open.spotify.com/album/4VFcsJluDONGiR78zu3h6a"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 117714,
-      "name": "the other side",
-      "url": "https://open.spotify.com/track/3wledcRROg8EvoTbc27Xfw"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
         "name": "TESTING",
         "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
       },
@@ -1702,6 +1722,10 @@
         {
           "name": "Saint Lane",
           "url": "https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX"
+        },
+        {
+          "name": "Lily Papas",
+          "url": "https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi"
         }
       ],
       "duration_ms": 189000,
@@ -2103,22 +2127,6 @@
       "duration_ms": 127679,
       "name": "LMK",
       "url": "https://open.spotify.com/track/19YxMrQzETGpRvMmFNbsPW"
-    },
-    {
-      "added_at": "2022-04-04 15:24:43",
-      "album": {
-        "name": "Play Dumb",
-        "url": "https://open.spotify.com/album/7HMgaC6WOyaHmeG4TdEFyZ"
-      },
-      "artists": [
-        {
-          "name": "North Ave Jax",
-          "url": "https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Play Dumb",
-      "url": "https://open.spotify.com/track/3mUZEL6JHbTzjGheGP6Qz9"
     }
   ],
   "unique_name": "Varsity Bars",

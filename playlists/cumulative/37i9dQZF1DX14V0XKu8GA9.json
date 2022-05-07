@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 165478,
       "name": "4 the Streets",
       "url": "https://open.spotify.com/track/6RFKghJxTPFzY79UvzgYC4"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 114936,
       "name": "Barbacoa",
       "url": "https://open.spotify.com/track/0TPhatnTdEG2FVxFHqlEij"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Don't Forget to Mention",
       "url": "https://open.spotify.com/track/6RV5FIOchdTvz2TGLEHRBn"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 117629,
       "name": "From The Gravel",
       "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 160768,
       "name": "London",
       "url": "https://open.spotify.com/track/4qXkllmd1rA0jWxtsPQqpW"
@@ -2499,6 +2499,28 @@
       "duration_ms": 187972,
       "name": "SHUTTUP",
       "url": "https://open.spotify.com/track/6mVHBnsUG0a2XJHLl5Wfh7"
+    },
+    {
+      "album": {
+        "name": "SLIDIN",
+        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
+      },
+      "artists": [
+        {
+          "name": "Omar Cruz",
+          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
+        },
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158007,
+      "name": "SLIDIN",
+      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
     },
     {
       "album": {

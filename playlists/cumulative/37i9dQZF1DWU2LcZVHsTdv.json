@@ -408,6 +408,24 @@
     },
     {
       "album": {
+        "name": "boom.",
+        "url": "https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190106,
+      "name": "Craig",
+      "url": "https://open.spotify.com/track/6YmWSu43kuuKGoYYgHrb1r"
+    },
+    {
+      "album": {
         "name": "Day with Jesus",
         "url": "https://open.spotify.com/album/3KGAeln42pur213kCU0iHH"
       },

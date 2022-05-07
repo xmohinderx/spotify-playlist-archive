@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Tegan and Sara",
+  "description": "Home to all the latest indie jams. Cover: Arcade Fire",
   "name": "Indie All Stars",
   "published_playlist_ids": [
     "4hpfeoyJCUxj1W1YZOVAqm"
@@ -117,6 +117,24 @@
       "duration_ms": 173124,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3OEzp4UBS6xWHsyMHyKD6r"
+    },
+    {
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401253,
+      "name": "Age of Anxiety II (Rabbit Hole)",
+      "url": "https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z"
     },
     {
       "album": {
@@ -925,7 +943,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 292960,
       "name": "Ce n'est pas de la chance",
       "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
@@ -1031,6 +1049,24 @@
       "duration_ms": 240000,
       "name": "Chrysanthemums",
       "url": "https://open.spotify.com/track/1DWlM8z38cCw2R91jnvTtr"
+    },
+    {
+      "album": {
+        "name": "Ribbon Around The Bomb",
+        "url": "https://open.spotify.com/album/0bOTBOc1p5IbwQqjDXoC2C"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194293,
+      "name": "Cinerama Holy Days",
+      "url": "https://open.spotify.com/track/6MDhDl5nIsnxd4FZ8si02B"
     },
     {
       "album": {
@@ -1287,7 +1323,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 169605,
       "name": "Curious",
       "url": "https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF"
@@ -1406,6 +1442,24 @@
     },
     {
       "album": {
+        "name": "Dear Boy",
+        "url": "https://open.spotify.com/album/44Bmf0xSlLy5REkiXLVQ6N"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183911,
+      "name": "Dear Boy",
+      "url": "https://open.spotify.com/track/0LivNVRgzrqT5Fnicg2e3Q"
+    },
+    {
+      "album": {
         "name": "Deer Island",
         "url": "https://open.spotify.com/album/5DUmX6Jvvr0OulQMgZhj6k"
       },
@@ -1421,6 +1475,24 @@
       "duration_ms": 190574,
       "name": "Deer Island",
       "url": "https://open.spotify.com/track/7IQhSyhmcQvGAjL9G7FpwS"
+    },
+    {
+      "album": {
+        "name": "Degree",
+        "url": "https://open.spotify.com/album/2jUAcSkdKRU99LUKDoqFea"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171946,
+      "name": "Degree",
+      "url": "https://open.spotify.com/track/70eOBL8QxPiiCVlQQeqnHa"
     },
     {
       "album": {
@@ -1731,6 +1803,24 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "album": {
+        "name": "Exactly What I Needed",
+        "url": "https://open.spotify.com/album/30pn8Kg0lKsUOEEUhIS6DY"
+      },
+      "artists": [
+        {
+          "name": "Michael Rault",
+          "url": "https://open.spotify.com/artist/1bcztlEOrJIIfLbUIKQY6O"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242093,
+      "name": "Exactly What I Needed",
+      "url": "https://open.spotify.com/track/10psreRFEdx5WLA6zqg7m2"
     },
     {
       "album": {
@@ -2515,7 +2605,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 188027,
       "name": "Heavy Stone",
       "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
@@ -3047,7 +3137,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 189511,
       "name": "I Think I Met You In A Dream",
       "url": "https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz"
@@ -3195,6 +3285,24 @@
       "duration_ms": 225343,
       "name": "If You Were Me",
       "url": "https://open.spotify.com/track/2MCwBbYNrpT0RTDIrOPHoE"
+    },
+    {
+      "album": {
+        "name": "In Flight",
+        "url": "https://open.spotify.com/album/0qcpXiVKtiR06HcQUuxufF"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205872,
+      "name": "In Flight",
+      "url": "https://open.spotify.com/track/6xTZCvS7UHAVeOoNsG4bO5"
     },
     {
       "album": {
@@ -3467,6 +3575,24 @@
       "duration_ms": 393080,
       "name": "June",
       "url": "https://open.spotify.com/track/0q9GWZd6dEJGFmQnJ8M47a"
+    },
+    {
+      "album": {
+        "name": "Karaoke",
+        "url": "https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Karaoke",
+      "url": "https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq"
     },
     {
       "album": {
@@ -4086,6 +4212,24 @@
     },
     {
       "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe"
+    },
+    {
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -4249,7 +4393,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 146586,
       "name": "Million Little Problems",
       "url": "https://open.spotify.com/track/1nccRXlgqIuC8WiAuTieBo"
@@ -4671,7 +4815,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
@@ -5461,7 +5605,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 262940,
       "name": "Sacred Heart",
       "url": "https://open.spotify.com/track/7xdNikoGh1g2rY7FO2ikzR"
@@ -5497,7 +5641,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 196264,
       "name": "Satan",
       "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
@@ -5782,6 +5926,24 @@
     },
     {
       "album": {
+        "name": "Sinister Bell",
+        "url": "https://open.spotify.com/album/7aLNgqa1iTualPGAGBtqRG"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248444,
+      "name": "Sinister Bell",
+      "url": "https://open.spotify.com/track/0nk1knaCkAkiWkpVVjNoQ6"
+    },
+    {
+      "album": {
         "name": "Situational",
         "url": "https://open.spotify.com/album/3t5DJ117xQowMf8os3AFbK"
       },
@@ -5851,7 +6013,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 180040,
       "name": "So Excited",
       "url": "https://open.spotify.com/track/5hm4OC3PJs0tEd7PdvtUkm"
@@ -5927,6 +6089,24 @@
       "duration_ms": 225746,
       "name": "Someplace Else",
       "url": "https://open.spotify.com/track/4LEkzIefEXT8E5rU8g84af"
+    },
+    {
+      "album": {
+        "name": "The Words You Spoke Still Move Me",
+        "url": "https://open.spotify.com/album/5gxCaZ2KFlYfBWSmTMGi2g"
+      },
+      "artists": [
+        {
+          "name": "Ellevator",
+          "url": "https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227928,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/3P1yQdXdACzk5HZySceBNc"
     },
     {
       "album": {
@@ -6461,7 +6641,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 159426,
       "name": "The Sun (feat. JAWNY)",
       "url": "https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC"

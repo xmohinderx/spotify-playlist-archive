@@ -1,12 +1,12 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 387430,
+  "num_followers": 387476,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDA5MTAwMDAwMTgwNzM3YjkzMjkwMDAwMDE4MDUyMWJjM2Mw",
+  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDA5MjAwMDAwMTgwOTc4ODE3MzQwMDAwMDE4MDUyMWJjM2Mw",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -23,6 +23,38 @@
       "duration_ms": 213000,
       "name": "Everything's Gonna Be Alright",
       "url": "https://open.spotify.com/track/1USqDSnSZ2RYsZIflEJNWP"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Hazel",
+        "url": "https://open.spotify.com/album/2O5A8VHIlLf8OEQeNtquwU"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 241613,
+      "name": "Hazel",
+      "url": "https://open.spotify.com/track/25fq8Rq28dNyC4VWCFs8uN"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Little Orphan Boy",
+        "url": "https://open.spotify.com/album/4yhhKYu4vNtJVWeh9dneMo"
+      },
+      "artists": [
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        }
+      ],
+      "duration_ms": 205535,
+      "name": "Little Orphan Boy",
+      "url": "https://open.spotify.com/track/0gn6Qb2WC279QfiOIVZzhN"
     },
     {
       "added_at": "2022-04-15 04:01:00",

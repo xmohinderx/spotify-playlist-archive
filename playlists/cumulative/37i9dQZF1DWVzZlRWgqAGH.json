@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Smooth joints. Cover: Terrace Martin",
+  "description": "Smooth joints. Cover: SiR",
   "name": "BUTTER",
   "published_playlist_ids": [
     "6iBWJdwWthi80GH8IDHW0t"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 271054,
       "name": "9",
       "url": "https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 153931,
       "name": "Animal",
       "url": "https://open.spotify.com/track/2cmvfEmXM1ZqMBiOQLGGQY"
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 168829,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/2vCBMWGY3MWMhDs5vHiiyV"
@@ -2785,7 +2785,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 244138,
       "name": "CYBAH (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
@@ -3411,7 +3411,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 237250,
       "name": "Eiderdown",
       "url": "https://open.spotify.com/track/2Qa4HnGfslqN5dGwVj6C05"
@@ -3677,7 +3677,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 294004,
       "name": "Eye Glass",
       "url": "https://open.spotify.com/track/5osZBK4ACgXcyxMc5etRxA"
@@ -3815,7 +3815,7 @@
       ],
       "date_added": "2021-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/5i9GI8aOr3tJjaWHOG8icj"
@@ -4409,7 +4409,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 191041,
       "name": "Free Time",
       "url": "https://open.spotify.com/track/7wsmSOEnf7AcTLEl0tKagU"
@@ -5389,7 +5389,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 269982,
       "name": "Home - Village Live",
       "url": "https://open.spotify.com/track/2bkr9TrBPb1p7tPthY63v2"
@@ -5537,7 +5537,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 187426,
       "name": "How Many Years",
       "url": "https://open.spotify.com/track/4u7hPfDnZX5vTO0u5hltt9"
@@ -5803,7 +5803,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 148004,
       "name": "I Still Need Love",
       "url": "https://open.spotify.com/track/0Kxzo7sUXDDlJoWiLkBucY"
@@ -6605,7 +6605,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 278680,
       "name": "Light It Again - Radio Edit",
       "url": "https://open.spotify.com/track/2NZo2ZK5AgUgIuVGsraMq5"
@@ -8031,7 +8031,7 @@
       ],
       "date_added": "2021-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 177653,
       "name": "No Reply",
       "url": "https://open.spotify.com/track/2VbNBhOi7n7WX1yCVfy77I"
@@ -9543,7 +9543,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 166046,
       "name": "Round n Round",
       "url": "https://open.spotify.com/track/2V94IWVS9kf79A8GnUM6wP"
@@ -9649,6 +9649,24 @@
       "duration_ms": 207401,
       "name": "Sao Paulo Sunset",
       "url": "https://open.spotify.com/track/0vTJP35J4M1PY9iAA8UmbV"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130981,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
     },
     {
       "album": {
@@ -9827,7 +9845,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 235219,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/2gdklwx9RchkYL2L8FeYMs"
@@ -10031,7 +10049,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Shovel",
       "url": "https://open.spotify.com/track/7Dv6mcthYV0WBtdm7RoL7I"
@@ -10191,7 +10209,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 315798,
       "name": "Slowdance",
       "url": "https://open.spotify.com/track/2rOSB52mcm036RHVrRBbYj"
@@ -10227,7 +10245,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/092s6wVDOgosfuZKY4ccj7"
@@ -10405,7 +10423,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 179215,
       "name": "Solar",
       "url": "https://open.spotify.com/track/3rgq0rNscbanTfD24ZshDu"
@@ -10793,7 +10811,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 264575,
       "name": "Still Strange (feat. Priya Ragu & Sainte Ezekiel)",
       "url": "https://open.spotify.com/track/2913TPvqgDIeFsQvG34SQu"
@@ -11117,7 +11135,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 230426,
       "name": "Sweet Shop",
       "url": "https://open.spotify.com/track/66LXZLB5neVWhdeEx56qjS"
@@ -11335,7 +11353,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 255266,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/6vz5CRaat5Vc4561v7eSUr"
@@ -11633,7 +11651,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 223991,
       "name": "This Morning (feat. Arin Ray & Smino)",
       "url": "https://open.spotify.com/track/3onuWjUbFaNSdAMD5Z2UOQ"
@@ -12239,7 +12257,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 210756,
       "name": "Wadada Lasts",
       "url": "https://open.spotify.com/track/01wYPJbuyxKspVehuuG2eA"
@@ -12279,7 +12297,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 168618,
       "name": "Walks",
       "url": "https://open.spotify.com/track/0tE7eEnGyRqNqiZQ6LlCSg"
@@ -12373,7 +12391,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 193937,
       "name": "We Can",
       "url": "https://open.spotify.com/track/30w4c9hVQ30ZKUyDRFPWwB"
@@ -12449,7 +12467,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 242346,
       "name": "What Do You Say (Move It Baby)",
       "url": "https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh"
@@ -12559,7 +12577,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 152113,
       "name": "What to Do",
       "url": "https://open.spotify.com/track/3C6ThTshJgug2Ba73Aj9CJ"
@@ -12633,7 +12651,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 160250,
       "name": "When It's Sweet",
       "url": "https://open.spotify.com/track/3b54cV4Vim1d4YhlDPkVj2"
@@ -12673,7 +12691,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 205911,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP"
@@ -12721,7 +12739,7 @@
       ],
       "date_added": "2020-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 271250,
       "name": "WHITE CRAYON",
       "url": "https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj"

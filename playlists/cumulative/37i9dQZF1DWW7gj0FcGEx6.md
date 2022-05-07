@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-132 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+133 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Let Him Goverture](https://open.spotify.com/track/2W6T02jcA0HiVBcuPjcRqh) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Let Him Go \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis) | 7:03 | 2021-12-20 |  |
 | [Life Was Just Beginning](https://open.spotify.com/track/2ZZLWOz3YrQfhD8q0OUsdW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [A Journal for Jordan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lnVivEoRcH4Hh7e38vmdn) | 4:07 | 2021-12-20 |  |
 | [Loki Green Theme](https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe) | 2:24 | 2021-12-20 |  |
+| [Main Titles](https://open.spotify.com/track/5BRpHMeMmznGplORyurX5n) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0tcFS2LRXYloWu9Z4Iyrni) | 2:36 | 2022-05-06 |  |
 | [Main Titles](https://open.spotify.com/track/2dssT0G1eXmqLoNIzKEuxN) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [Severance: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/6sImespZLxOQOKwbmegpcF) | 1:20 | 2022-02-18 |  |
 | [Mando Is Back](https://open.spotify.com/track/7utTE8XHVCpQXC8PdtBjIL) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 2 \- Vol\. 1 \(Chapters 9\-12\) \[Original Score\]](https://open.spotify.com/album/2NxNzw1ohPc2Hhjaq2j3tW) | 4:04 | 2021-12-20 |  |
 | [Marital Dance](https://open.spotify.com/track/10DKh4aJ2sPPOVZnBwjruG) | [Evgueni Galperine](https://open.spotify.com/artist/6wUwrf6CPtVdxhMX8TejqM), [Sacha Galperine](https://open.spotify.com/artist/4rhbbNkUATyvGiYxGMmx7H) | [Scenes from a Marriage \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/5SG4qxHwgSHsIQHF045MjC) | 2:10 | 2021-12-20 |  |

@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128401,
+  "num_followers": 128395,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM4NywwZDk2ZTkzNzY1ZWE1ODY2MDhmMTBlYmM5ZDAxZDIwYzUwNzYxYjNm",
+  "snapshot_id": "MzM5NSxkYjgyYzNiNzViNzZlMjUyMmNhMGVhNjQxYWEzNzk2NzM0MGZkZmM4",
   "tracks": [
+    {
+      "added_at": "2022-05-06 16:44:54",
+      "album": {
+        "name": "Paranoid Optimist",
+        "url": "https://open.spotify.com/album/2XuM7DMo1S8BueOOxBuiYl"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "duration_ms": 131199,
+      "name": "1975",
+      "url": "https://open.spotify.com/track/5bQqkBDFptj1oNKoVDVsGI"
+    },
+    {
+      "added_at": "2022-05-06 16:43:21",
+      "album": {
+        "name": "Garden Of The Gods",
+        "url": "https://open.spotify.com/album/7KYoqdpnKj02uvmm9iMkQq"
+      },
+      "artists": [
+        {
+          "name": "Hausman",
+          "url": "https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ"
+        },
+        {
+          "name": "Discognition",
+          "url": "https://open.spotify.com/artist/1VTyOD5RJcYUGn9uPFV5my"
+        },
+        {
+          "name": "Lumynesynth",
+          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "Garden Of The Gods",
+      "url": "https://open.spotify.com/track/4AZEvIDQpzyib7BX4Cd91U"
+    },
     {
       "added_at": "2022-05-05 16:23:33",
       "album": {
@@ -1039,42 +1079,6 @@
       "duration_ms": 200815,
       "name": "Multiverse",
       "url": "https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Austrumi",
-        "url": "https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si"
-      },
-      "artists": [
-        {
-          "name": "Stendahl",
-          "url": "https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Austrumi",
-      "url": "https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "UMBRA",
-        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
-      },
-      "artists": [
-        {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
-        },
-        {
-          "name": "Voicians",
-          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "UMBRA",
-      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

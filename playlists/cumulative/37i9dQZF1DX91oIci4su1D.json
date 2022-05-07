@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Setting sights on banging <a href=\"spotify:genre:trance_progressive\">trance and progressive</a> with Ben Gold and Yasmin Jane.",
+  "description": "Setting sights on banging <a href=\"spotify:genre:trance_progressive\">trance and progressive</a> with Fatum.",
   "name": "Trance Mission",
   "published_playlist_ids": [
     "113TZi416gfSF4o2RXnxHl"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 219688,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/6kgyuhLSBUB1LJVoACkPYV"
@@ -375,6 +375,28 @@
       "duration_ms": 170624,
       "name": "Anyone But You - Steve Brian Remix",
       "url": "https://open.spotify.com/track/3r6jXcM19bhtLzzWJLcwrD"
+    },
+    {
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/4VduXgBxMziOHKlcaRJ4mj"
+      },
+      "artists": [
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        },
+        {
+          "name": "Clara Yates",
+          "url": "https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206833,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/5WD7n1SmKkZN9OysKjU0QR"
     },
     {
       "album": {
@@ -513,7 +535,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/2Q6crgCiZsT5cSbCOn5snz"
@@ -996,6 +1018,24 @@
     },
     {
       "album": {
+        "name": "Calling Berlin",
+        "url": "https://open.spotify.com/album/6umgHu9cCQ4WkGG4JOM0VH"
+      },
+      "artists": [
+        {
+          "name": "Alex M.O.R.P.H.",
+          "url": "https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189855,
+      "name": "Calling Berlin",
+      "url": "https://open.spotify.com/track/2K7W4hn3IoLEyY5EXWfoWC"
+    },
+    {
+      "album": {
         "name": "Calling Home",
         "url": "https://open.spotify.com/album/60X2h0MWEawYk8QxmU18lg"
       },
@@ -1037,7 +1077,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 235171,
       "name": "Canyons",
       "url": "https://open.spotify.com/track/11tbnvSnZfD8q0k80K9wft"
@@ -1607,7 +1647,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 252173,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/41n2LjHSyjiBtc0wV6GPpn"
@@ -1745,7 +1785,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 270000,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/1Xm26qAA8qJ1cYNZHgyoLs"
@@ -1874,6 +1914,28 @@
     },
     {
       "album": {
+        "name": "Exception",
+        "url": "https://open.spotify.com/album/7AmNCiwmt2DZoUlm3EsfMb"
+      },
+      "artists": [
+        {
+          "name": "Exolight",
+          "url": "https://open.spotify.com/artist/6z0GV9YDUsh73aIlnGb9yi"
+        },
+        {
+          "name": "Frank Waanders",
+          "url": "https://open.spotify.com/artist/00eZQLSi5N5mpBuvojLa7P"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Exception",
+      "url": "https://open.spotify.com/track/4dsPKYGvQny2AZDKky7XiB"
+    },
+    {
+      "album": {
         "name": "Expression",
         "url": "https://open.spotify.com/album/0oZFWjvWzEQzoCvnG4mXww"
       },
@@ -1929,7 +1991,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 224584,
       "name": "Eyepiece",
       "url": "https://open.spotify.com/track/1gMWFfgtpzVXP1PoGRKIob"
@@ -2127,7 +2189,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 232714,
       "name": "Free Souls - Ben van Gosh Radio Remix",
       "url": "https://open.spotify.com/track/5ZfnLl8eUqclVeeWEuVFKf"
@@ -2761,7 +2823,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 201739,
       "name": "Hyperion",
       "url": "https://open.spotify.com/track/7smTqiBvBzEXksDWw2GD8H"
@@ -3125,7 +3187,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 183000,
       "name": "Kasia",
       "url": "https://open.spotify.com/track/2b3EEVMW4hMD2RnF8pPKf3"
@@ -3501,7 +3563,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 210857,
       "name": "Lockdown Heart",
       "url": "https://open.spotify.com/track/1h4veLWNE7ICl6cgSiBFOn"
@@ -3969,7 +4031,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 210250,
       "name": "Militia",
       "url": "https://open.spotify.com/track/5BPmf3wlUmDDQvsFMJaXby"
@@ -5055,7 +5117,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 216956,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/581wJ8JYtVBZ88fHp2nXe8"
@@ -5285,7 +5347,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 187826,
       "name": "Searching (For A Kinder Love)",
       "url": "https://open.spotify.com/track/7HsNq025c5crDgp3qvqhPn"
@@ -5516,6 +5578,28 @@
     },
     {
       "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/796wmTXuTFSrXxu67ig4KR"
+      },
+      "artists": [
+        {
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+        },
+        {
+          "name": "LYCA",
+          "url": "https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6m5aNC2SqNherMjAYU7s5k"
+    },
+    {
+      "album": {
         "name": "Sonata",
         "url": "https://open.spotify.com/album/3qLi1lqpntgGdH5DAROvY0"
       },
@@ -5531,7 +5615,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 193248,
       "name": "Sonata",
       "url": "https://open.spotify.com/track/4tbJLaTclmcaaro2lAhKIe"
@@ -5920,6 +6004,24 @@
     },
     {
       "album": {
+        "name": "Switch Up",
+        "url": "https://open.spotify.com/album/00plw9gSpFkqpce77VueKZ"
+      },
+      "artists": [
+        {
+          "name": "Dustin Husain",
+          "url": "https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Switch Up",
+      "url": "https://open.spotify.com/track/7xiDImB6EbVuYDgvp2iqKy"
+    },
+    {
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/6Uko7MJpeALnJblYe8ccog"
       },
@@ -5953,7 +6055,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 257142,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/4lC49uMbMLld4MFMRwgmX1"
@@ -6103,7 +6205,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 272250,
       "name": "The Embrace",
       "url": "https://open.spotify.com/track/3OllKKXmJ3G6m3btllU7kO"
@@ -6383,7 +6485,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 198043,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/3coUc3wYNcJiufDDoGKhBZ"
@@ -6475,7 +6577,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 204193,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/2pyvGOhJ78nGL1mSPWGmPD"
@@ -6603,7 +6705,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 247320,
       "name": "Walk Through Shadows",
       "url": "https://open.spotify.com/track/288OdSeiMaRQSx2XKoGbDr"
@@ -6629,7 +6731,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 224091,
       "name": "Way To You",
       "url": "https://open.spotify.com/track/6oOWzHuMNBZSopa3zvvuoQ"
@@ -6783,7 +6885,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 217834,
       "name": "Wolf Cry",
       "url": "https://open.spotify.com/track/6RjjHpYw3aOsgGQhRlpHsK"

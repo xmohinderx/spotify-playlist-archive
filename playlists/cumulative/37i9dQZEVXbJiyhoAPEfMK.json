@@ -2597,7 +2597,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
@@ -3077,7 +3077,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -6239,7 +6239,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 188263,
       "name": "Giftig",
       "url": "https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp"
@@ -8351,6 +8351,24 @@
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+    },
+    {
+      "album": {
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
+      },
+      "artists": [
+        {
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
       "album": {
@@ -11529,7 +11547,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
@@ -14911,7 +14929,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 258108,
       "name": "Schwarz",
       "url": "https://open.spotify.com/track/2UK4qw712yzFh8vYYJGv2B"
@@ -15871,7 +15889,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 195000,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/5Pp64isQvPVgptiOdS9Kcn"
@@ -16071,6 +16089,28 @@
       "duration_ms": 154280,
       "name": "TDB",
       "url": "https://open.spotify.com/track/5YoDQgB4j7oBHWXH3DcwFD"
+    },
+    {
+      "album": {
+        "name": "TDU",
+        "url": "https://open.spotify.com/album/6VYWYafGOSGn8Yyn7kQByD"
+      },
+      "artists": [
+        {
+          "name": "Kida",
+          "url": "https://open.spotify.com/artist/0rtILhtW5MNyUqkZzKDd3J"
+        },
+        {
+          "name": "Ledri Vula",
+          "url": "https://open.spotify.com/artist/5519qQ4H5p0qIIidEWUOB6"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182375,
+      "name": "TDU",
+      "url": "https://open.spotify.com/track/09c9K1XvuYM8xijcmZNLMv"
     },
     {
       "album": {

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 219028,
       "name": "2001",
       "url": "https://open.spotify.com/track/2LvBuNhDu3SWaPudMo2zGq"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 373720,
       "name": "Aquarius Swing",
       "url": "https://open.spotify.com/track/5DL059fT2EWGJsurcEGlQE"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 193820,
       "name": "Call Me - You Man Remix",
       "url": "https://open.spotify.com/track/632hTioEegQLCR2uOfVHlN"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 264320,
       "name": "Desire - Radio Edit",
       "url": "https://open.spotify.com/track/631bx8hIT8bVS2vfUzn5GN"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 374629,
       "name": "Don't You Want Some More",
       "url": "https://open.spotify.com/track/5DDmcUb3wnPXhZwom0wjZq"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 204793,
       "name": "Drowning In Your Love (feat. Jem Cooke) - Mark Knight Remix",
       "url": "https://open.spotify.com/track/3stfe0XW3KIF1G1MNyn238"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 191698,
       "name": "Estafette",
       "url": "https://open.spotify.com/track/0UXSed2eRwzvuxfBRkKhKS"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 210029,
       "name": "Faith (feat. Leslie O'Smith)",
       "url": "https://open.spotify.com/track/53obzOnsAHHBYL5ZKSt6jD"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 192958,
       "name": "Good Times - Radio Edit",
       "url": "https://open.spotify.com/track/2oVeXlWPMaRxwZzcVwqTmv"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 379948,
       "name": "Heartbreak - Kerri Chandler Remix",
       "url": "https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 179520,
       "name": "House Music (feat. Arctic Lake) - Edit",
       "url": "https://open.spotify.com/track/3aAgQEbQUFMhXqk9fz3fcK"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 286476,
       "name": "I Can Boogie",
       "url": "https://open.spotify.com/track/2ozkaxd6uFj0dKhHJUxurx"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 282580,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 428254,
       "name": "It's Yours (feat. E-Man) - Distant Music Mix",
       "url": "https://open.spotify.com/track/4XNh03XZOu9CY0VjGGsrrU"
@@ -1627,6 +1627,24 @@
       "duration_ms": 155000,
       "name": "Jumpin'",
       "url": "https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W"
+    },
+    {
+      "album": {
+        "name": "Jungle Trip (Edit Versions)",
+        "url": "https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Jungle Trip - Edit",
+      "url": "https://open.spotify.com/track/4LpjBeeKDhUQiFTyS87y8u"
     },
     {
       "album": {
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 325414,
       "name": "Leko - Session Victim Remix",
       "url": "https://open.spotify.com/track/18nGprzEucUO4FF768lLhe"
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 418899,
       "name": "Pasci\u00e0",
       "url": "https://open.spotify.com/track/3B9pguwtbemJQlVWkxrfeU"
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 180937,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1u3AbZvelg9GqMrp5jbikq"
@@ -3023,7 +3041,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 354720,
       "name": "So Good Today - Yoruba Soul Remix",
       "url": "https://open.spotify.com/track/7mUYdPpOKMG9xYaks22yiP"
@@ -3045,7 +3063,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 247680,
       "name": "Speed Up - Menesix Remix",
       "url": "https://open.spotify.com/track/0DBnkbWalfo6TNjRcll0ui"
@@ -3063,7 +3081,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 178546,
       "name": "Spells Of Yoruba - Jamie Jones Watertight Mix",
       "url": "https://open.spotify.com/track/6OEVWRWJ0ZkGFOFSp3cNOR"
@@ -3359,7 +3377,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 435909,
       "name": "The Day - Alternate",
       "url": "https://open.spotify.com/track/7ljUxtrd8bRDVUbMhfIZnT"
@@ -3465,7 +3483,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 161726,
       "name": "They Don't Know - Radio Edit",
       "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
@@ -3729,7 +3747,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 232500,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/5nIL1etglKhsfxRPcVhbjq"

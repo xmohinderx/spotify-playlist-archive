@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Cory Wong",
-  "num_followers": 248720,
+  "num_followers": 248935,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDA3ZDAwMDAwMTgwNzM3YjkzMjUwMDAwMDE3ZmZmNjQ4MDNh",
+  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDA3ZTAwMDAwMTgwOTc4ODE3NDgwMDAwMDE3ZmZmNjQ4MDNh",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -27,6 +27,22 @@
       "duration_ms": 211582,
       "name": "J.A.M. (Just A Minute)",
       "url": "https://open.spotify.com/track/7eEo7A0Kw7xAQJLLh3WdKq"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Until I Get Back",
+        "url": "https://open.spotify.com/album/0mqVkEjfEhg8jXz7HRtWqJ"
+      },
+      "artists": [
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Until I Get Back",
+      "url": "https://open.spotify.com/track/2inueyaWWmc0Hu0LJwMetH"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -87,6 +103,26 @@
       "duration_ms": 234194,
       "name": "Everybody in the World (feat. New Breed Brass Band)",
       "url": "https://open.spotify.com/track/3xRrcTVx6yjNGSEhw8rE2A"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Glad",
+        "url": "https://open.spotify.com/album/7kxrxVUnCpG3m0bTePROaN"
+      },
+      "artists": [
+        {
+          "name": "Michele Chiavarini",
+          "url": "https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr"
+        },
+        {
+          "name": "Andre Espeut",
+          "url": "https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn"
+        }
+      ],
+      "duration_ms": 275654,
+      "name": "Glad - Vocal Mix",
+      "url": "https://open.spotify.com/track/1lPpxO3lulSYSO8V7yLig9"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -853,22 +889,6 @@
       "url": "https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
-      "album": {
-        "name": "Years",
-        "url": "https://open.spotify.com/album/4iucJnSKmWG79eEsu0GxyB"
-      },
-      "artists": [
-        {
-          "name": "Liquid Spirits",
-          "url": "https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Be Life",
-      "url": "https://open.spotify.com/track/6tzlSbv5DXJUbQNR7ohFC9"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Life's Been Good To Me",
@@ -947,22 +967,6 @@
       "duration_ms": 113853,
       "name": "Skate with Me",
       "url": "https://open.spotify.com/track/2qy4Rc8zGRRc73hbkPNJ5U"
-    },
-    {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/4GRcZN5fLAhRnSXSyWTyLm"
-      },
-      "artists": [
-        {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
-        }
-      ],
-      "duration_ms": 181097,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/0d6PTB1CDWFCWKiixR0YI7"
     },
     {
       "added_at": "2021-11-05 04:01:00",

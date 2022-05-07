@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Alessia Cara
 
-272 songs - 15 hr 40 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+274 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All You Need Is Love](https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [All You Need Is Love](https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR) | 3:26 | 2021-12-17 |  |
 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 | 2021-12-17 |  |
 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 | 2021-12-17 |  |
+| [Arcade \- Acoustic Cover](https://open.spotify.com/track/7fwfXft2yM3Sz1ZI2uXYUP) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Arcade \(Acoustic Cover\)](https://open.spotify.com/album/5DVgSeCgxDTFm9PU81dpQt) | 3:04 | 2022-05-06 |  |
 | [As Long as You Love Me](https://open.spotify.com/track/1tlYEixIaixxBrsEYFOEQ4) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9) | [As Long as You Love Me](https://open.spotify.com/album/3jyAmeckEV9bX0N7Nw3iqD) | 3:24 | 2021-12-17 | 2022-04-16 |
 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 | 2021-12-17 | 2022-05-02 |
 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 | 2021-12-17 |  |
@@ -229,6 +230,7 @@
 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 | 2021-12-17 | 2022-01-03 |
 | [Sweet Dreams \(Are Made of This\) \[Epic Mix\]](https://open.spotify.com/track/3IxGrrXUhehYdSHrEkhzRh) | [We Rabbitz](https://open.spotify.com/artist/05Zr3tq3xPIxChT2JfMDCe), [Moon Roses](https://open.spotify.com/artist/65yfUzuqGBdOTibkTeKNda) | [Sweet Dreams \(Are Made of This\)](https://open.spotify.com/album/1ryMDSZzakLR7RxHo6CmIx) | 2:43 | 2021-12-17 |  |
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/1XmhBZq2QahjdqebUbFwTW) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/album/6F92H0EuolbqbRUE4BygP8) | 2:45 | 2021-12-17 | 2022-05-02 |
+| [Take My Breath Away](https://open.spotify.com/track/7jolSfE1rnsBLg0DMWuTkm) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Take My Breath Away](https://open.spotify.com/album/6LN1YVc2JOrc7yYWTbbONh) | 3:00 | 2022-05-06 |  |
 | [Take On Me](https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Take On Me](https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw) | 2:26 | 2021-12-17 |  |
 | [Taylor Swift 1989 Medley](https://open.spotify.com/track/4Pt2aOG6KETMQp5mukYhD3) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Taylor Swift 1989 Medley](https://open.spotify.com/album/6db7iWQUXALMDTVzRcOGpy) | 2:59 | 2021-12-17 | 2022-05-02 |
 | [Teenage Dirtbag \(feat\. chloe moriondo\)](https://open.spotify.com/track/5goZCkRmpk5tWTX3Af6XRL) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Teenage Dirtbag \(feat\. chloe moriondo\)](https://open.spotify.com/album/0MKG6I8hXwzKlW2ww5OclV) | 3:19 | 2021-12-17 | 2022-04-16 |

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-05",
   "description": "The best solo jazz piano pieces through all time. Cover: Keith Jarrett",
   "name": "Solo Jazz Piano",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "133bIrvgCDuZieyRgurxk1"
+  ],
   "tracks": [
     {
       "album": {
@@ -273,7 +275,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 352733,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/6tu4mRLkwUqQgUQjMLryng"
@@ -425,7 +427,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 424333,
       "name": "Elsewhere",
       "url": "https://open.spotify.com/track/6f1fCXsyEUvR3ztu2a3Ple"
@@ -641,7 +643,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 270600,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/7oVVDSFQKF7H0H2YGmiLF3"
@@ -695,7 +697,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 195200,
       "name": "It Could Happen To You - 1994 Remaster",
       "url": "https://open.spotify.com/track/0zu7moqmgAyuOzUBvHpYoW"
@@ -749,7 +751,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 382245,
       "name": "Koral",
       "url": "https://open.spotify.com/track/75J3oHSbGQesLlJ1vlQjj9"
@@ -875,7 +877,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 286253,
       "name": "Lonely Woman - Rambling",
       "url": "https://open.spotify.com/track/0SXdPqNNRmTzXkGIufCBv2"
@@ -911,7 +913,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 168880,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/2OMy6C14Jig5YJyBgaMDQ9"
@@ -983,7 +985,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 149093,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/6E81pDQAoxgGEAGqVbPgYr"
@@ -1127,7 +1129,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 219653,
       "name": "My Ideal 1",
       "url": "https://open.spotify.com/track/0N0TlAikYM9i5lphpv04WR"
@@ -1163,7 +1165,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 231600,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/64C2o48S2kMTwde11HhWOA"
@@ -1350,6 +1352,24 @@
     },
     {
       "album": {
+        "name": "Echoes Of A Friend",
+        "url": "https://open.spotify.com/album/5HbJEL4SgUpiHT3o8IoVJg"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369760,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/6xSalKe5cf3f4RkIbJmKQv"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/6sqN88H3XxVu17iCuANyX4"
       },
@@ -1365,6 +1385,24 @@
       "duration_ms": 228973,
       "name": "Prospect Park",
       "url": "https://open.spotify.com/track/1hxaDtdljnFb3CNmqrjJnz"
+    },
+    {
+      "album": {
+        "name": "Reflections of a Grateful Heart",
+        "url": "https://open.spotify.com/album/4kUPPJX1ZnXO9LrDqEbVnH"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324040,
+      "name": "Psalm 8",
+      "url": "https://open.spotify.com/track/2S7YKI3lqIgcbkgkIQEEAz"
     },
     {
       "album": {
@@ -1469,7 +1507,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 210800,
       "name": "Solitude - 1999 Remastered - Take 1",
       "url": "https://open.spotify.com/track/3WMPYIW14ELZWHvq4O9Juz"
@@ -1613,7 +1651,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 136306,
       "name": "the suspension",
       "url": "https://open.spotify.com/track/1k95HDTvVAFMAOOLyq8JgL"
@@ -1631,7 +1669,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 199293,
       "name": "There Is Music Where You're Going My Friends",
       "url": "https://open.spotify.com/track/1NRxkQczCqIWTOD5dtKDhr"
@@ -1649,7 +1687,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 260533,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/2g15fQP9py7WtnQp4Yh22u"
@@ -1703,7 +1741,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 398426,
       "name": "Tokyo - Pt. VI / Live",
       "url": "https://open.spotify.com/track/1UuioboIz9hHkTlxShdKEN"
@@ -1721,7 +1759,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 218866,
       "name": "Touch the Light",
       "url": "https://open.spotify.com/track/7puKHKF4sGdfVOMh6d0lx8"
@@ -1880,6 +1918,24 @@
     },
     {
       "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/0lGbFJw5a08SnPexAtPAlr"
+      },
+      "artists": [
+        {
+          "name": "Joey Calderazzo",
+          "url": "https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373120,
+      "name": "Waltz For Debby",
+      "url": "https://open.spotify.com/track/7hhgHxnqF1amrV9cWHZj3c"
+    },
+    {
+      "album": {
         "name": "Plays",
         "url": "https://open.spotify.com/album/0bCQBbSG0KGv9X5pb4IQY0"
       },
@@ -1981,7 +2037,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 320693,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"

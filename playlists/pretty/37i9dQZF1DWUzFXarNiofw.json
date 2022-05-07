@@ -1,13 +1,53 @@
 {
-  "description": "The newest, freshest R&B tunes.  Cover: Giveon",
-  "num_followers": 876113,
+  "description": "The newest, freshest R&B tunes.  Cover: Mary J. Blidge ",
+  "num_followers": 876370,
   "original_name": "New Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI1NjMwNCwwMDAwMDU1ZDAwMDAwMTgwNzY4YmEyZjQwMDAwMDE4MDcyM2U2ZGE0",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDU1ZTAwMDAwMTgwOTc4NjQyYzUwMDAwMDE4MDk3NzVmMzU1",
   "tracks": [
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Good Morning Gorgeous (Deluxe)",
+        "url": "https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 273793,
+      "name": "Tough Love (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 218320,
+      "name": "How (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
+    },
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
@@ -41,6 +81,22 @@
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
     },
     {
+      "added_at": "2022-04-22 04:38:36",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 170702,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
+    },
+    {
       "added_at": "2022-04-29 18:18:24",
       "album": {
         "name": "Cater",
@@ -63,38 +119,6 @@
     {
       "added_at": "2022-04-22 04:38:36",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 170702,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
-    },
-    {
-      "added_at": "2022-04-29 18:18:24",
-      "album": {
-        "name": "ON THE ROCKS",
-        "url": "https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz"
-      },
-      "artists": [
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Hennessy Tears",
-      "url": "https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4"
-    },
-    {
-      "added_at": "2022-04-22 04:38:36",
-      "album": {
         "name": "Please Do Not Lean",
         "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
@@ -113,6 +137,38 @@
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
     },
     {
+      "added_at": "2022-04-29 18:18:24",
+      "album": {
+        "name": "ON THE ROCKS",
+        "url": "https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz"
+      },
+      "artists": [
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Hennessy Tears",
+      "url": "https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5qvBGoEtTh1P8abEJ99D91"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 185410,
+      "name": "ISLY",
+      "url": "https://open.spotify.com/track/7tjinNOtfRQydDmXFPzfbL"
+    },
+    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "In The Club",
@@ -127,6 +183,38 @@
       "duration_ms": 172946,
       "name": "In The Club",
       "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/6x4dhOka4HVr9hmXgQhWA9"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 188132,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/5ChrCVSERccPyn3p2Clsum"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Downright",
+        "url": "https://open.spotify.com/album/5avhqr0GessrsdBSr82FIE"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 177181,
+      "name": "Downright",
+      "url": "https://open.spotify.com/track/030k1bb2qwKTsBxPskfkB1"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -159,6 +247,38 @@
       "duration_ms": 228562,
       "name": "What A Lie",
       "url": "https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 213580,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "HARMINE",
+        "url": "https://open.spotify.com/album/3m8xrGYg4snYy54VS2IHsh"
+      },
+      "artists": [
+        {
+          "name": "The Hics",
+          "url": "https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo"
+        }
+      ],
+      "duration_ms": 285203,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2acAftMCwuDIsKkTABFC5A"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -797,22 +917,6 @@
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
     },
     {
-      "added_at": "2022-04-15 04:00:00",
-      "album": {
-        "name": "Artery",
-        "url": "https://open.spotify.com/album/2DNglHje1BeqeInOWoFvSX"
-      },
-      "artists": [
-        {
-          "name": "CLAY",
-          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
-        }
-      ],
-      "duration_ms": 222022,
-      "name": "Artery",
-      "url": "https://open.spotify.com/track/1wJbNrBJ3Bwh4HJvS0NNxT"
-    },
-    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "Last One",
@@ -847,22 +951,6 @@
       "duration_ms": 182710,
       "name": "Shine",
       "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Um, Hello",
-        "url": "https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 132706,
-      "name": "On Sight",
-      "url": "https://open.spotify.com/track/7HrGCco4XvgbbOmXOEE55i"
     },
     {
       "added_at": "2022-04-01 04:00:00",

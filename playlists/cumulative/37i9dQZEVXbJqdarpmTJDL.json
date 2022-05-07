@@ -10267,7 +10267,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 167947,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/5MSjkbXoVSgd0i9Bkwm0nd"
@@ -11841,7 +11841,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 276994,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/6W11qt0cfGVx7ZOEYNrSYX"
@@ -12005,7 +12005,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 182601,
       "name": "SMOOTH LIVIN'",
       "url": "https://open.spotify.com/track/4Xl27vacC5c1ynjtzE4ShU"
@@ -12477,6 +12477,24 @@
       "duration_ms": 193897,
       "name": "T-MAX",
       "url": "https://open.spotify.com/track/1gGIw749eBETqQPpOzTTWM"
+    },
+    {
+      "album": {
+        "name": "Giro Ap' Ola",
+        "url": "https://open.spotify.com/album/6xjNMrEgJkokI4Xu79e4Zt"
+      },
+      "artists": [
+        {
+          "name": "Dj Xquze",
+          "url": "https://open.spotify.com/artist/7grhW6FUdVVeQwrM23vgW5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240416,
+      "name": "Ta 84aria",
+      "url": "https://open.spotify.com/track/4ci8w5oLWtGRzFjf9h6KY4"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTc2NjQwMCwwMDAwMDQ3MDAwMDAwMTgwOTRmMzE0YmQwMDAwMDE4MDk0NzFjOTM4",
+  "snapshot_id": "MTY1MTg2MzQwMiwwMDAwMDQ3MjAwMDAwMTgwOWFiYjM4YTcwMDAwMDE4MDk0NzFjOTM4",
   "tracks": [
     {
       "added_at": "2022-05-05 16:00:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-05-05 16:00:00",
       "album": {
+        "name": "This Love (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 250100,
+      "name": "This Love (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
+    },
+    {
+      "added_at": "2022-05-05 16:00:00",
+      "album": {
         "name": "Y2",
         "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
       },
@@ -55,6 +71,22 @@
       "duration_ms": 193500,
       "name": "Make A Move",
       "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
+    },
+    {
+      "added_at": "2022-05-05 16:00:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
     },
     {
       "added_at": "2022-05-05 16:00:00",
@@ -255,7 +287,7 @@
     {
       "added_at": "2022-05-05 16:00:00",
       "album": {
-        "name": "Disaster",
+        "name": "disaster",
         "url": "https://open.spotify.com/album/2Pa1RmoFk68sGWNYzbaBid"
       },
       "artists": [
@@ -265,8 +297,40 @@
         }
       ],
       "duration_ms": 148469,
-      "name": "Disaster",
+      "name": "disaster",
       "url": "https://open.spotify.com/track/0l39wZwdO1xqIbw3DgGRxk"
+    },
+    {
+      "added_at": "2022-05-05 16:00:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "added_at": "2022-05-05 16:00:00",
+      "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2022-05-05 16:00:00",
@@ -435,62 +499,6 @@
       "duration_ms": 186432,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y"
-    },
-    {
-      "added_at": "2022-05-05 16:00:00",
-      "album": {
-        "name": "Love Like You",
-        "url": "https://open.spotify.com/album/1omPIAZK12fqM3qxcwdfQK"
-      },
-      "artists": [
-        {
-          "name": "Strange Alias",
-          "url": "https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj"
-        }
-      ],
-      "duration_ms": 150511,
-      "name": "Love Like You",
-      "url": "https://open.spotify.com/track/6fzcTivgSDZqKzkK1CKlKA"
-    },
-    {
-      "added_at": "2022-05-05 16:00:00",
-      "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/4WVj2eFk774aULiDEefviT"
-      },
-      "artists": [
-        {
-          "name": "xena giam",
-          "url": "https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF"
-        }
-      ],
-      "duration_ms": 183925,
-      "name": "Hindsight",
-      "url": "https://open.spotify.com/track/6vONY8IwDRU4WWEGrfYf43"
-    },
-    {
-      "added_at": "2022-05-05 16:00:00",
-      "album": {
-        "name": "Forget Me",
-        "url": "https://open.spotify.com/album/0rz8iKZ86eHK6PTSUWYegq"
-      },
-      "artists": [
-        {
-          "name": "An Honest Mistake",
-          "url": "https://open.spotify.com/artist/10AFY2pkSdVHy940701lu6"
-        },
-        {
-          "name": "Reckless Escapades",
-          "url": "https://open.spotify.com/artist/6leCbCvi7oiUDCCee0wDrm"
-        },
-        {
-          "name": "Maruxa Lynd",
-          "url": "https://open.spotify.com/artist/1qqvY6v4Hj9i4bPp5neCFh"
-        }
-      ],
-      "duration_ms": 222268,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/413A8dVq2UHnuMhIGDT2Iw"
     },
     {
       "added_at": "2022-05-05 16:00:00",
@@ -671,18 +679,58 @@
     {
       "added_at": "2022-05-05 16:00:00",
       "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+        "name": "Love Like You",
+        "url": "https://open.spotify.com/album/1omPIAZK12fqM3qxcwdfQK"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Strange Alias",
+          "url": "https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj"
         }
       ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+      "duration_ms": 150511,
+      "name": "Love Like You",
+      "url": "https://open.spotify.com/track/6fzcTivgSDZqKzkK1CKlKA"
+    },
+    {
+      "added_at": "2022-05-05 16:00:00",
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/4WVj2eFk774aULiDEefviT"
+      },
+      "artists": [
+        {
+          "name": "xena giam",
+          "url": "https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF"
+        }
+      ],
+      "duration_ms": 183925,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/6vONY8IwDRU4WWEGrfYf43"
+    },
+    {
+      "added_at": "2022-05-05 16:00:00",
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/0rz8iKZ86eHK6PTSUWYegq"
+      },
+      "artists": [
+        {
+          "name": "An Honest Mistake",
+          "url": "https://open.spotify.com/artist/10AFY2pkSdVHy940701lu6"
+        },
+        {
+          "name": "Reckless Escapades",
+          "url": "https://open.spotify.com/artist/6leCbCvi7oiUDCCee0wDrm"
+        },
+        {
+          "name": "Maruxa Lynd",
+          "url": "https://open.spotify.com/artist/1qqvY6v4Hj9i4bPp5neCFh"
+        }
+      ],
+      "duration_ms": 222268,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/413A8dVq2UHnuMhIGDT2Iw"
     },
     {
       "added_at": "2022-05-05 16:00:00",
@@ -772,7 +820,7 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         }
       ],
-      "duration_ms": 483991,
+      "duration_ms": 487359,
       "name": "Freeze",
       "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
     },
@@ -837,7 +885,7 @@
         },
         {
           "name": "Endless Summer",
-          "url": "https://open.spotify.com/artist/2YGQUPTkvaM8VeqeIqXrwc"
+          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
         }
       ],
       "duration_ms": 188571,
@@ -876,14 +924,14 @@
           "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 173217,
+      "duration_ms": 173270,
       "name": "Day & Nite",
       "url": "https://open.spotify.com/track/5fgT3t3IYunBVjKhEzJZv6"
     },
     {
       "added_at": "2022-05-05 16:00:00",
       "album": {
-        "name": "bb u ok? Deluxe",
+        "name": "bb u ok? deluxe",
         "url": "https://open.spotify.com/album/24zBlbEb8JuMqFxxXHCL66"
       },
       "artists": [

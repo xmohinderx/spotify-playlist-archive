@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 128004,
       "name": "Bad Business (Killswitch)",
       "url": "https://open.spotify.com/track/5SfQRqIR5NRZhLqpX2Z6sE"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 318000,
       "name": "Be That As It May",
       "url": "https://open.spotify.com/track/16JqCysNiBDExuj4qRkudm"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 79966,
       "name": "Beer Just Bread in a Can",
       "url": "https://open.spotify.com/track/2NSNRgm6AbyxIFOt7YCOJi"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 182551,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/3jpjbizEUW74AQPNlmoeiD"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 350400,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/7frJEBqz0olVg8sQpXD5BF"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 338906,
       "name": "Drop",
       "url": "https://open.spotify.com/track/1QUdhZ3LBHdHzLQars6etD"
@@ -1510,6 +1510,32 @@
     },
     {
       "album": {
+        "name": "Feeling Like Jah",
+        "url": "https://open.spotify.com/album/0QnLoxNh9dkgQ745a8Auiu"
+      },
+      "artists": [
+        {
+          "name": "Phro.",
+          "url": "https://open.spotify.com/artist/5YXHkRQUQU314daYoZDI9n"
+        },
+        {
+          "name": "Jayy Grams",
+          "url": "https://open.spotify.com/artist/6q8DZBLBYqEUdKZl54sqGd"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Feeling Like Jah",
+      "url": "https://open.spotify.com/track/0N4D8Z006iarE9WUhWCMlf"
+    },
+    {
+      "album": {
         "name": "The Life & Death of Scenery",
         "url": "https://open.spotify.com/album/2LwNMBOZ5CXtfCEKzHu2Tf"
       },
@@ -1591,7 +1617,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 163774,
       "name": "For The Money",
       "url": "https://open.spotify.com/track/4BINJC1uO9DOFhuK3Tbf32"
@@ -1621,7 +1647,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 234819,
       "name": "From99",
       "url": "https://open.spotify.com/track/7x8MxpJLA4gZnkQpi5jx5M"
@@ -1691,7 +1717,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 278000,
       "name": "Gangsta Rap",
       "url": "https://open.spotify.com/track/23pkbY7zMlJ3XQPh5S9gtY"
@@ -1739,7 +1765,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 176946,
       "name": "Gassed up (feat. Fly Anakin)",
       "url": "https://open.spotify.com/track/4iHx0Sf8bjOSYZJ5M41NQn"
@@ -1834,6 +1860,36 @@
     },
     {
       "album": {
+        "name": "Only Built 4 Cuban Linx...",
+        "url": "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
+      },
+      "artists": [
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "GZA (Genius)",
+          "url": "https://open.spotify.com/artist/7aqGFEAHF3O0yMVci78BdR"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262973,
+      "name": "Guillotine (Swordz) (feat. Ghostface Killah, Inspectah Deck & GZA (Genius))",
+      "url": "https://open.spotify.com/track/6eAIynPK19mHRypXB26o6X"
+    },
+    {
+      "album": {
         "name": "Son Tzu & The Wav.God",
         "url": "https://open.spotify.com/album/5uPExFdHB53kFy13ez3Xve"
       },
@@ -1849,7 +1905,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 196113,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/44m4K4o9rie4OHIFt24th3"
@@ -1911,7 +1967,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 117106,
       "name": "Headwear Discount",
       "url": "https://open.spotify.com/track/4rini0sODLmNIljPpcC3qh"
@@ -2335,7 +2391,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "its all good",
       "url": "https://open.spotify.com/track/3dgLsN49usi0UVar2nOaRd"
@@ -2371,7 +2427,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 251666,
       "name": "Jazzy Belle",
       "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
@@ -2802,6 +2858,32 @@
     },
     {
       "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/2nTXAeLVve08BWJIxdVXJt"
+      },
+      "artists": [
+        {
+          "name": "Mello Music Group",
+          "url": "https://open.spotify.com/artist/3c5J6hzTBZJVsjJ9FJoQ0V"
+        },
+        {
+          "name": "yU",
+          "url": "https://open.spotify.com/artist/7qDALSEiVZvynETxUjyiCu"
+        },
+        {
+          "name": "Tall Black Guy",
+          "url": "https://open.spotify.com/artist/2bz6GlqjAN5fTFWvy0rmSP"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205250,
+      "name": "Lose the Ground (feat. Yu & Tall Black Guy)",
+      "url": "https://open.spotify.com/track/69vqqhQ9krPXOso59QUTcw"
+    },
+    {
+      "album": {
         "name": "The Fiasco",
         "url": "https://open.spotify.com/album/5x8yEBROkUqHwh6hhKL2Lg"
       },
@@ -2915,7 +2997,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 249026,
       "name": "Lyrics to Go",
       "url": "https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1"
@@ -3067,7 +3149,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 308733,
       "name": "Mind Playing Tricks on Me",
       "url": "https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ"
@@ -3269,7 +3351,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 184013,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/6hvUcNz4QLXGftpZsvjWDb"
@@ -3361,7 +3443,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 230199,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/6goyucJM0GInaNlQMe4I9s"
@@ -3684,6 +3766,32 @@
     },
     {
       "album": {
+        "name": "Game Related",
+        "url": "https://open.spotify.com/album/1EFbrRDm9qFSF2zdHsBmgp"
+      },
+      "artists": [
+        {
+          "name": "Kaleel Carp\u00e8",
+          "url": "https://open.spotify.com/artist/6cWSalngEl22NOtkTh3FuK"
+        },
+        {
+          "name": "Marc Spano",
+          "url": "https://open.spotify.com/artist/7a0fWz1BBranhBTJ91X1is"
+        },
+        {
+          "name": "Fari",
+          "url": "https://open.spotify.com/artist/6jnLfjQV1TY6jei2k4r5Gg"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204653,
+      "name": "One of One",
+      "url": "https://open.spotify.com/track/3DGlxdIzyQP6BiLHVqdmqP"
+    },
+    {
+      "album": {
         "name": "ZFTP IX (Life Path)",
         "url": "https://open.spotify.com/album/24VleKUFcJq8QxkVGDgmTR"
       },
@@ -3743,7 +3851,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 272013,
       "name": "Pam Grier",
       "url": "https://open.spotify.com/track/4COklyEUnipSInTyM61f56"
@@ -3769,7 +3877,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 182000,
       "name": "Paragon",
       "url": "https://open.spotify.com/track/7vmNuW2rWCrsA3Ho16fHFu"
@@ -3903,7 +4011,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 213000,
       "name": "Popeye",
       "url": "https://open.spotify.com/track/7sij1RXUTjEBZEkGGtWgxR"
@@ -3925,7 +4033,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 177946,
       "name": "Poppin' Wheelies",
       "url": "https://open.spotify.com/track/58kmtIUjA2VI4tJQQLxxAB"
@@ -3987,7 +4095,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 210893,
       "name": "Queens",
       "url": "https://open.spotify.com/track/2iUiX1Tez9E7pAO7hNtIdQ"
@@ -4097,7 +4205,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 132954,
       "name": "Rap Phenomenom",
       "url": "https://open.spotify.com/track/3KdABpJFJ6iqCIat8oyH32"
@@ -4119,7 +4227,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 184625,
       "name": "Reaching The Sky (feat. Che Grand)",
       "url": "https://open.spotify.com/track/3RChtW2KXc17yhkCp14peI"
@@ -4217,7 +4325,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 302973,
       "name": "Return of the Crooklyn Dodgers",
       "url": "https://open.spotify.com/track/72mGcVc65dysPSaT2SvWZX"
@@ -4395,7 +4503,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 109973,
       "name": "Sanotori",
       "url": "https://open.spotify.com/track/00LmrwZM42wxGf3tWZd6ky"
@@ -4417,7 +4525,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 160591,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5o0lCm5dykHTdHAf4lzcx6"
@@ -4519,7 +4627,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 141000,
       "name": "Shattered Dreams",
       "url": "https://open.spotify.com/track/2LQb3iYBzoxbxct2IexjBc"
@@ -4555,7 +4663,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 218391,
       "name": "Short Eyes",
       "url": "https://open.spotify.com/track/5tY4a6W3gMZDaHHgIgSiCs"
@@ -4657,7 +4765,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 164176,
       "name": "Splendor",
       "url": "https://open.spotify.com/track/2x8Ipjj7eX2fJ72hA6GKOe"
@@ -4679,7 +4787,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 147904,
       "name": "Stay Down",
       "url": "https://open.spotify.com/track/5D6IPioAdjkgXndWih9dxD"
@@ -5003,7 +5111,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 280220,
       "name": "The Love Song",
       "url": "https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn"
@@ -5123,7 +5231,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 286693,
       "name": "They Reminisce Over You (T.R.O.Y.)",
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
@@ -5255,6 +5363,28 @@
       "duration_ms": 169590,
       "name": "Triumph",
       "url": "https://open.spotify.com/track/6RVz7IaTnJ2WlCTwZtLWjV"
+    },
+    {
+      "album": {
+        "name": "Cocodrillo Turbo",
+        "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Meyhem Lauren",
+          "url": "https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "Turkish [Feat. Meyhem Lauren]",
+      "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
     },
     {
       "album": {
@@ -5415,7 +5545,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 233530,
       "name": "Vitamin D",
       "url": "https://open.spotify.com/track/4bzXt6FwTaOVShHEpANQK0"
@@ -5477,7 +5607,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 155800,
       "name": "War of the Roses",
       "url": "https://open.spotify.com/track/6yiH52BKzaVLGdNTQoBKpB"
@@ -5657,7 +5787,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 142046,
       "name": "Whoop T",
       "url": "https://open.spotify.com/track/4rCdZNTAi41YRzc9dB4QcS"
@@ -5697,7 +5827,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 170544,
       "name": "Within",
       "url": "https://open.spotify.com/track/4PTz74h9yl34uL2fB110Io"
@@ -5817,7 +5947,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 168000,
       "name": "YOD Body",
       "url": "https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA"

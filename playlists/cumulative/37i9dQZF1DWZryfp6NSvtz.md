@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Halestorm
 
-932 songs - 2 day 5 hr 31 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+933 songs - 2 day 5 hr 35 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Chasing Kites](https://open.spotify.com/track/0oK8bEVLkPPUvN3IIbxB6b) | [PARTYOFØNE](https://open.spotify.com/artist/3bb8SEudKsfPJOU3PMBXut) | [Chasing Kites](https://open.spotify.com/album/06e1MSR7uMU1RAqdNHKDmh) | 2:35 | 2022-02-10 | 2022-02-25 |
 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 | 2022-03-03 | 2022-03-11 |
 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 | 2022-02-24 | 2022-03-04 |
+| [CHILDREN OF LIGHT II](https://open.spotify.com/track/77J2f7wtuSRqtWkL8mnKOo) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [CHILDREN OF LIGHT II](https://open.spotify.com/album/2rxJYawpkLl4E8Bcw8VzAt) | 3:44 | 2022-05-05 |  |
 | [Cinerama Holy Days](https://open.spotify.com/track/6MDhDl5nIsnxd4FZ8si02B) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ribbon Around The Bomb](https://open.spotify.com/album/0bOTBOc1p5IbwQqjDXoC2C) | 3:14 | 2022-04-28 |  |
 | [Circles](https://open.spotify.com/track/2d5nvTEPNgLzvdhBrcc8FA) | [DIRT](https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa) | [Circles](https://open.spotify.com/album/1laYwMskzwRiLgH7FDDwXB) | 5:11 | 2022-04-07 | 2022-04-15 |
 | [Circles](https://open.spotify.com/track/2SNkdHWUc0zcvBcJKiX0a5) | [HRTLSS](https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD) | [Circles](https://open.spotify.com/album/3vZQKx7j76M7OgJqwV9iGG) | 3:09 | 2022-02-03 | 2022-02-11 |

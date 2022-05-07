@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "a little sound",
+        "url": "https://open.spotify.com/album/3xkaAltfAJQBjHlsP84QUf"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "a little sound",
+      "url": "https://open.spotify.com/track/4a5H71m0fvUD4D3ARVuFSs"
+    },
+    {
+      "album": {
         "name": "A Little Time",
         "url": "https://open.spotify.com/album/6hPgKyXNnnQfexevGDORvP"
       },
@@ -808,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Checklist",
+        "url": "https://open.spotify.com/album/7G5lBCJJtG3RTnIbuvEo5Z"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "Checklist",
+      "url": "https://open.spotify.com/track/5Aswt4tzP6hF8SZJQkpW3S"
+    },
+    {
+      "album": {
         "name": "Chin Up",
         "url": "https://open.spotify.com/album/5EVVPoXeuCyYN8dhjGZ9dx"
       },
@@ -1133,7 +1169,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 200173,
       "name": "Dancing Slow",
       "url": "https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ"
@@ -1581,7 +1617,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 215280,
       "name": "Four Moons",
       "url": "https://open.spotify.com/track/1HKID3TlgC1HOSGJU6Icya"
@@ -1791,7 +1827,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 174557,
       "name": "Good Person",
       "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
@@ -2007,7 +2043,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 282506,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/1cXhJOnf6n1Ed7kbdFd4hq"
@@ -2299,7 +2335,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 232893,
       "name": "In Real Life",
       "url": "https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve"
@@ -2761,7 +2797,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 146560,
       "name": "Look Over My Shoulder",
       "url": "https://open.spotify.com/track/5pVX2A5DLqQfNrpUdRw306"
@@ -2844,6 +2880,24 @@
     },
     {
       "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j"
       },
@@ -2873,7 +2927,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 241116,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/4VeTqMj8t14gF7UcBaAkzC"
@@ -2985,10 +3039,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "Modern Art",
       "url": "https://open.spotify.com/track/5xFa3vNbwlhoNV1htRkGKK"
+    },
+    {
+      "album": {
+        "name": "mothers",
+        "url": "https://open.spotify.com/album/6LZZFBF5mopquCMJZZ5mnb"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174355,
+      "name": "mothers",
+      "url": "https://open.spotify.com/track/4AXlebMtXdaleomf845EEh"
     },
     {
       "album": {
@@ -3133,7 +3205,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 187506,
       "name": "New Normal",
       "url": "https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07"
@@ -3739,7 +3811,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 170146,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/6lF5yAmscceMAs0T5qSrAi"
@@ -3984,6 +4056,24 @@
     },
     {
       "album": {
+        "name": "Sorry to Bother You",
+        "url": "https://open.spotify.com/album/7cRLVhQj1dNzNnR2aLl1mT"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124700,
+      "name": "Sorry to Bother You",
+      "url": "https://open.spotify.com/track/2FY5jxMOFCc02mEJhYoNES"
+    },
+    {
+      "album": {
         "name": "Spirits",
         "url": "https://open.spotify.com/album/4vzJSw1aVn3PIspCSbI38h"
       },
@@ -4118,6 +4208,24 @@
     },
     {
       "album": {
+        "name": "Sheryl: Music From The Feature Documentary",
+        "url": "https://open.spotify.com/album/0dsb8wm9tVgrZW3Cs1Xci4"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259527,
+      "name": "Still The Same",
+      "url": "https://open.spotify.com/track/5cPZCxBXD1iqc9bremnLd6"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV"
       },
@@ -4147,7 +4255,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 257013,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/1DEHkieaXEuXm2SumbWQG1"
@@ -4317,7 +4425,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 223402,
       "name": "The Sweetest Part",
       "url": "https://open.spotify.com/track/6cm7s8AeYlIpwOg4vToAeq"
@@ -4591,10 +4699,28 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 233425,
       "name": "We'll Be Alright",
       "url": "https://open.spotify.com/track/6klNPAhUTmsYNlWbOyVbsy"
+    },
+    {
+      "album": {
+        "name": "Western Wind",
+        "url": "https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225946,
+      "name": "Western Wind",
+      "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
     },
     {
       "album": {
@@ -4613,6 +4739,24 @@
       "duration_ms": 254594,
       "name": "What I Owe",
       "url": "https://open.spotify.com/track/1151i83cxQk1rZdrB0B1zX"
+    },
+    {
+      "album": {
+        "name": "Space Boy",
+        "url": "https://open.spotify.com/album/0PJVjCAbO6kba6SZVcw6rt"
+      },
+      "artists": [
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205662,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/2R7OPN4SjT2fmiGLtYOudc"
     },
     {
       "album": {
@@ -4703,7 +4847,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 219453,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/1u4vnt92EF8arsXwCtGsdP"

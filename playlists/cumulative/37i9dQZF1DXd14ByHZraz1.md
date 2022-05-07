@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-69 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
+70 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Feel Your Love](https://open.spotify.com/track/4gtmLfdvLaKO1PY4cvdfaI) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [EEVA](https://open.spotify.com/artist/1pJgpp0DoZYerUf0SkeZuG) | [Feel Your Love](https://open.spotify.com/album/6lkHjfaElhaWfYGZEmFkWG) | 3:02 | 2021-12-24 |  |
 | [fReAk o.O](https://open.spotify.com/track/0p0i2yxBoV1R7LH4RXsavZ) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [fReAk o.O](https://open.spotify.com/album/0aDuBR6kAzlVSVRPaGMwiO) | 3:00 | 2021-12-24 |  |
 | [Free My Mind](https://open.spotify.com/track/7zcmIz44ipSUMprZKvEeRO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Free My Mind](https://open.spotify.com/album/7F5b3CtINIB8fGrxZqPMjY) | 2:40 | 2021-12-24 | 2022-04-09 |
+| [Funkatron](https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Funkatron](https://open.spotify.com/album/2LnfOgfUOo91vCHLTvgv5M) | 3:09 | 2022-05-06 |  |
 | [Ghost](https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Ghost](https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4) | 2:41 | 2021-12-24 |  |
 | [Gimme Gimme](https://open.spotify.com/track/61PUqivooERiYjgLMw2UR2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Gimme Gimme](https://open.spotify.com/album/18AIQ8lzuMHEm9pfBtBGRK) | 2:27 | 2021-12-24 |  |
 | [Go With Me](https://open.spotify.com/track/1i6Htm6AlXi2pqbd8i2HDk) | [D\-Groov](https://open.spotify.com/artist/1plmayGv4JinxVkZg17xMp), [Zambelli](https://open.spotify.com/artist/6DoDzOwAXazCp8Sa38MmuT) | [Go With Me](https://open.spotify.com/album/5K2zQEqrOAddXUWva6AEuo) | 3:16 | 2021-12-24 |  |
@@ -74,7 +75,7 @@
 | [Terremoto](https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Ghabe](https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA) | [Terremoto EP](https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4) | 2:45 | 2021-12-24 | 2022-04-09 |
 | [The Way](https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo) | [Mary Mesk](https://open.spotify.com/artist/7Fc6qlNa6F4ONSLfJjlfjJ), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [The Way](https://open.spotify.com/album/25cyAsBHAUIIME98kp0wXY) | 4:31 | 2021-12-24 |  |
 | [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 | 2022-04-22 |  |
-| [With You](https://open.spotify.com/track/3hx2GGk4lwbOislq85AE0q) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee) | [With You](https://open.spotify.com/album/68josQsaxs9CCBsoEpmOo4) | 4:13 | 2021-12-24 |  |
+| [With You](https://open.spotify.com/track/3hx2GGk4lwbOislq85AE0q) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee) | [With You](https://open.spotify.com/album/68josQsaxs9CCBsoEpmOo4) | 4:13 | 2021-12-24 | 2022-05-07 |
 | [Worst Enemy](https://open.spotify.com/track/3N3H2fNepRQVf71lnWqJ8I) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Worst Enemy](https://open.spotify.com/album/4rhbowsSXfV2wH3vRau1RQ) | 2:44 | 2021-12-24 |  |
 | [Would You Blame Me](https://open.spotify.com/track/7hCIfAq7QL06nKnoeugoxl) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Would You Blame Me](https://open.spotify.com/album/7MsdbOGBxd8Lahj0oh6yvS) | 3:44 | 2022-03-18 |  |
 

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Cloak Woven of Stars",
+        "url": "https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm"
+      },
+      "artists": [
+        {
+          "name": "Lacrimas Profundere",
+          "url": "https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "A Cloak Woven of Stars",
+      "url": "https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH"
+    },
+    {
+      "album": {
         "name": "A Dance With Tragedy",
         "url": "https://open.spotify.com/album/465YfKnLh7MrCXh3qPnsld"
       },
@@ -498,6 +516,28 @@
     },
     {
       "album": {
+        "name": "My Father's Son",
+        "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
+      },
+      "artists": [
+        {
+          "name": "Jani Liimatainen",
+          "url": "https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9"
+        },
+        {
+          "name": "Bjorn \"Speed\" Strid",
+          "url": "https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303253,
+      "name": "Breathing Divinity",
+      "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
+    },
+    {
+      "album": {
         "name": "Brothers of the Past (2022 Version)",
         "url": "https://open.spotify.com/album/0qrDK7oCOnwxipfC225U11"
       },
@@ -549,6 +589,24 @@
       "duration_ms": 240130,
       "name": "Chain of the Golden Horn",
       "url": "https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV"
+    },
+    {
+      "album": {
+        "name": "Chambers of Fire",
+        "url": "https://open.spotify.com/album/2knMVLETWD9mGLSF02iClX"
+      },
+      "artists": [
+        {
+          "name": "Battlelore",
+          "url": "https://open.spotify.com/artist/6vDPwpGZIflBoW6Gy3FWFw"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253919,
+      "name": "Chambers of Fire",
+      "url": "https://open.spotify.com/track/0t6hb4sQPxJQAAB7iYPrpt"
     },
     {
       "album": {
@@ -1055,7 +1113,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 148957,
       "name": "Ennen",
       "url": "https://open.spotify.com/track/0HpZjIABarod86IOpju4Ll"
@@ -2087,7 +2145,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 333693,
       "name": "Into the Fray",
       "url": "https://open.spotify.com/track/7AfWTnag2fhUVKY8oklYGN"
@@ -2392,6 +2450,24 @@
     },
     {
       "album": {
+        "name": "Litany Of The Fallen",
+        "url": "https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu"
+      },
+      "artists": [
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250923,
+      "name": "Litany Of The Fallen",
+      "url": "https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS"
+    },
+    {
+      "album": {
         "name": "Live and Let Go",
         "url": "https://open.spotify.com/album/69oaxF365xH0f6GYc68pN3"
       },
@@ -2559,7 +2635,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 278899,
       "name": "Magellan's Expedition",
       "url": "https://open.spotify.com/track/6jZTrRpjpJKWxtmrm7yf0s"
@@ -2757,7 +2833,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 218000,
       "name": "Metal United",
       "url": "https://open.spotify.com/track/2J39E5ALx4hS1WkhWl6qXu"
@@ -3219,6 +3295,24 @@
       "duration_ms": 323990,
       "name": "Over the Horizon Radar",
       "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
+    },
+    {
+      "album": {
+        "name": "P.A.R.T.Y.",
+        "url": "https://open.spotify.com/album/0GThAZZXkQ8PVzqkT5XfBx"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203118,
+      "name": "P.A.R.T.Y.",
+      "url": "https://open.spotify.com/track/4u8kaEpeqCNakSjKvHJmgv"
     },
     {
       "album": {
@@ -3947,7 +4041,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 241541,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3yhiVw0c508cIU7dcr58cs"
@@ -3965,7 +4059,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 267040,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5fIjngwWngFucpYJdRHhQZ"
@@ -4700,6 +4794,28 @@
     },
     {
       "album": {
+        "name": "Veiled in Despair",
+        "url": "https://open.spotify.com/album/2EznOag1XNIUnTNd5hRmFA"
+      },
+      "artists": [
+        {
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Heidi Parviainen",
+          "url": "https://open.spotify.com/artist/5XjOHp3QWS7IC2mm4SNwTj"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372500,
+      "name": "Veiled in Despair",
+      "url": "https://open.spotify.com/track/4yHtEgZqyUgcClZD3AOX3l"
+    },
+    {
+      "album": {
         "name": "Venerate Me",
         "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
@@ -4942,6 +5058,28 @@
     },
     {
       "album": {
+        "name": "What Was Dreamt and Lived",
+        "url": "https://open.spotify.com/album/73RiO9eVYKd9USOzuhoqnZ"
+      },
+      "artists": [
+        {
+          "name": "Opera Magna",
+          "url": "https://open.spotify.com/artist/4XfEU7U94G33udFPTPwLbC"
+        },
+        {
+          "name": "Fabio Lione",
+          "url": "https://open.spotify.com/artist/1toJ8R36bFALH06xycfaJp"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 694225,
+      "name": "What Was Dreamt and Lived",
+      "url": "https://open.spotify.com/track/3mJvoWmfeg8zUjdjCqHlqv"
+    },
+    {
+      "album": {
         "name": "What's Become of Us",
         "url": "https://open.spotify.com/album/3xemJeY99vJmR5WuILSLnL"
       },
@@ -5097,7 +5235,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 249720,
       "name": "YOU CAN'T RUN AWAY",
       "url": "https://open.spotify.com/track/34yWYCjZzUAhRy6DKDlYWn"

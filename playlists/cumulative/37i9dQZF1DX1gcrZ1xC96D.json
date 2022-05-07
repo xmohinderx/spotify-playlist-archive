@@ -74,6 +74,54 @@
     },
     {
       "album": {
+        "name": "All I Want (feat. Andrea Martin)",
+        "url": "https://open.spotify.com/album/0uimumrxrhDakhPW35FQ1v"
+      },
+      "artists": [
+        {
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Andrea Martin",
+          "url": "https://open.spotify.com/artist/4CfTFp39LgcvLWn9YQBIbZ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184623,
+      "name": "All I Want (feat. Andrea Martin)",
+      "url": "https://open.spotify.com/track/0WXFAweDUMSLl2YZl8NSTc"
+    },
+    {
+      "album": {
+        "name": "Baby It's You",
+        "url": "https://open.spotify.com/album/119eih4LjVlYUu7u09hv3N"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180557,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2TJX15Trf1UOOBwQm7PEzI"
+    },
+    {
+      "album": {
         "name": "Back To Summer",
         "url": "https://open.spotify.com/album/0Ri4Tg1CvxhvaDKmHtf8X5"
       },
@@ -129,7 +177,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 165380,
       "name": "Body Groove (feat. Crystxl King)",
       "url": "https://open.spotify.com/track/2sW3snLTi77h0rm4g9tDuD"
@@ -151,7 +199,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 200385,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/79Ys5RA1vKAeKAdYA4dtzz"
@@ -425,7 +473,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 161250,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/4QNHkL09PIRR9TY11blRLY"
@@ -461,7 +509,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 195396,
       "name": "Getting Over This",
       "url": "https://open.spotify.com/track/34G80YJLjP46YcIlDoVpdC"
@@ -483,7 +531,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 178234,
       "name": "Good",
       "url": "https://open.spotify.com/track/0LEEtJg8hHOyytcotgnaKq"
@@ -505,7 +553,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 165141,
       "name": "Good Ones - Joel Corry Remix",
       "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
@@ -545,7 +593,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 172277,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/4npAbdkJcdD7XMlltqQwIf"
@@ -585,7 +633,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 210731,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/5DF2KFDVeC7wF5CXipl9WN"
@@ -607,7 +655,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 236129,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1NMmSM6DYwhAf7027fowmD"
@@ -625,7 +673,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 238080,
       "name": "I'm Just Sayin' - Radio Edit",
       "url": "https://open.spotify.com/track/4YviPw2SBoQbGklWcFy014"
@@ -1051,7 +1099,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 187247,
       "name": "Shivers - Ofenbach Remix",
       "url": "https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR"
@@ -1113,7 +1161,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 151436,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z"
@@ -1135,7 +1183,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 222720,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6VKpDRWz9HAUOEpElNvjSi"
@@ -1175,7 +1223,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 195330,
       "name": "Summer In Love",
       "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
@@ -1215,7 +1263,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 209728,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/43ezOGYCrWlOebao7hTyRG"
@@ -1419,7 +1467,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 180651,
       "name": "What You Gonna Do (feat. Taet)",
       "url": "https://open.spotify.com/track/4m2pZ1y1GmiOA8UYebp3A0"

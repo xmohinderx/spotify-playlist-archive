@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist
 
-157 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
+158 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/6s7Ce3R6enjvEkk6nbt6Wh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Don't Play Me](https://open.spotify.com/track/11zDwAkUczHN72NmK4nPHf) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Don't Play Me](https://open.spotify.com/album/2b6HGhyzxE01dI93MlNWv9) | 3:32 | 2022-03-08 | 2022-03-09 |
 | [Double Double](https://open.spotify.com/track/2xrqAfdEyRhKZZYz5mnM2L) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Double Double](https://open.spotify.com/album/53it9fD6h4pvI776cy6Blc) | 4:01 | 2022-02-25 | 2022-03-18 |
 | [Drillie Go Lightly](https://open.spotify.com/track/5MlTcpn5SNGjes2ELp7S4y) | [Millie Go Lightly](https://open.spotify.com/artist/3eSQPLy8hktGQTGSVB51lD) | [Drillie Go Lightly](https://open.spotify.com/album/7BxNhkbZkDvlqTRGWtGxiG) | 1:37 | 2022-03-08 | 2022-03-09 |
+| [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-06 |  |
 | [Early Hours](https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:46 | 2022-03-18 | 2022-04-22 |
 | [Elegance \(feat\. Lil Tjay\)](https://open.spotify.com/track/3oO2XyRdK811tVYax3qEAZ) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Elegance \(feat\. Lil Tjay\)](https://open.spotify.com/album/11WYYNPzYrRWezc3wgb1Po) | 3:28 | 2022-02-25 | 2022-03-18 |
 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-04-21 |  |
@@ -102,7 +103,7 @@
 | [Militant](https://open.spotify.com/track/5HqBdMWyYi0I2xVbkDzo9S) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Militant](https://open.spotify.com/album/0F8IMTbcpQB5u1mz564mth) | 3:23 | 2022-03-08 | 2022-03-09 |
 | [Money Calling \(feat\. RAYE, Russ Millions & wewantwraiths\)](https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk) | [Da Beatfreakz](https://open.spotify.com/artist/3Q8Ow3li2nXzZhRPHMwR7h), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Money Calling \(feat\. RAYE, Russ Millions & wewantwraiths\)](https://open.spotify.com/album/3E9ya95dpugJBXNlHEilrA) | 3:11 | 2022-02-25 | 2022-04-01 |
 | [Motions](https://open.spotify.com/track/5rdBZkZw3kkkZxCUym3E9j) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Motions](https://open.spotify.com/album/4VDVfTgQlwL828aEPK6lIe) | 3:33 | 2022-03-08 | 2022-03-09 |
-| [My Way](https://open.spotify.com/track/1GQnMal8SSHDZLeoOoD0JL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Connecting the Dots](https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX) | 3:20 | 2022-05-06 |  |
+| [My Way](https://open.spotify.com/track/1GQnMal8SSHDZLeoOoD0JL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Connecting the Dots](https://open.spotify.com/album/2LNd9HCGhWEtSUeqqfYPkX) | 3:20 | 2022-05-06 |  |
 | [Neverland](https://open.spotify.com/track/0Zlz5gXkxN5krAVMWWE7bX) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 2:58 | 2022-04-01 |  |
 | [Next Up \- S4\-E2, Pt\. 1](https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S4\-E2](https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE) | 2:00 | 2022-04-22 |  |
 | [NGL](https://open.spotify.com/track/0CVZMoWiCizIuuxsu3Rlf9) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [NGL](https://open.spotify.com/album/3cDseoR2oeClAG8hhhHkBD) | 3:02 | 2022-03-11 | 2022-04-22 |

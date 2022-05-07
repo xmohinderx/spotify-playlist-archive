@@ -1,12 +1,12 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Taj Mahal",
-  "num_followers": 668947,
+  "num_followers": 668987,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDA1MDAwMDAwMTdmOWI2NTk1MGQwMDAwMDE3ZWZmNzI0ODU5",
+  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDA1MTAwMDAwMTgwOTc4ODE3MzUwMDAwMDE3ZWZmNzI0ODU5",
   "tracks": [
     {
       "added_at": "2022-02-11 05:02:00",
@@ -75,6 +75,34 @@
       "duration_ms": 150560,
       "name": "Gonna Walk This Road",
       "url": "https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "The Lost Session",
+        "url": "https://open.spotify.com/album/2wbIgncFT47Lef7qFcdXrh"
+      },
+      "artists": [
+        {
+          "name": "Frank Schaap Quartet",
+          "url": "https://open.spotify.com/artist/6LpU4IZOJ1g4HullPifcOC"
+        },
+        {
+          "name": "Josh Levine",
+          "url": "https://open.spotify.com/artist/7kLUXJlgHP3muNOKgd1272"
+        },
+        {
+          "name": "David Langlois",
+          "url": "https://open.spotify.com/artist/6OTOjYUcczTljZHtfgzjXv"
+        },
+        {
+          "name": "Miguel Weissman",
+          "url": "https://open.spotify.com/artist/6dVnje7HuJzCIKrIlgLiAP"
+        }
+      ],
+      "duration_ms": 282263,
+      "name": "Eyesight to the Blind",
+      "url": "https://open.spotify.com/track/6NEgd3mCyms5M1eDFTqKHR"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1227,22 +1255,6 @@
       "duration_ms": 151403,
       "name": "Brazos River Blues",
       "url": "https://open.spotify.com/track/6lWbufKOd1mQYdhSYEL3vE"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Mountain",
-        "url": "https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Under His Command",
-      "url": "https://open.spotify.com/track/5rO1zJCRkUdypNagJ99Zj0"
     },
     {
       "added_at": "2020-08-11 16:18:31",

@@ -1,13 +1,69 @@
 {
   "description": "spotify hyperpop playlist Cover: 100 gecs",
-  "num_followers": 317534,
+  "num_followers": 317772,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI0NDQ4MCwwMDAwMDE1YzAwMDAwMTgwNzVkNzM5Y2IwMDAwMDE4MDI5MWMzZmRl",
+  "snapshot_id": "MTY1MTgxODY2MCwwMDAwMDE1ZDAwMDAwMTgwOTgxMDgxMmMwMDAwMDE4MDI5MWMzZmRl",
   "tracks": [
+    {
+      "added_at": "2022-05-06 06:31:00",
+      "album": {
+        "name": "tutorial: how to..",
+        "url": "https://open.spotify.com/album/4GcNBCL8eKTeEDL0t8j19k"
+      },
+      "artists": [
+        {
+          "name": "Senses",
+          "url": "https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA"
+        },
+        {
+          "name": "thirtyonetwentyfive",
+          "url": "https://open.spotify.com/artist/6C17s5mFSAlqQo69YuTdIC"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "run away",
+      "url": "https://open.spotify.com/track/4hzmfludEkdCYRbmxBxgzg"
+    },
+    {
+      "added_at": "2022-01-14 18:09:29",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2022-05-06 06:31:00",
+      "album": {
+        "name": "the loved ones",
+        "url": "https://open.spotify.com/album/5JuZ3OALUJBW1fzylz2K5Z"
+      },
+      "artists": [
+        {
+          "name": "juno",
+          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
+        },
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "duration_ms": 136346,
+      "name": "downhill",
+      "url": "https://open.spotify.com/track/2Q8qXAOdHLe1qSrKI3c1Bg"
+    },
     {
       "added_at": "2022-04-12 15:33:30",
       "album": {
@@ -23,6 +79,66 @@
       "duration_ms": 196896,
       "name": "Doritos & Fritos",
       "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
+    },
+    {
+      "added_at": "2022-05-06 06:31:00",
+      "album": {
+        "name": "MATRIX",
+        "url": "https://open.spotify.com/album/4KwW9lAthRqtz2DpVpaQgT"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "MATRIX",
+      "url": "https://open.spotify.com/track/0DyEnrW1MGBHA1sRLb2eGp"
+    },
+    {
+      "added_at": "2022-05-06 06:31:00",
+      "album": {
+        "name": "TROLL ME",
+        "url": "https://open.spotify.com/album/2CjOugY1olVuGk5ZlMlLU7"
+      },
+      "artists": [
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        },
+        {
+          "name": "MANON",
+          "url": "https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3"
+        }
+      ],
+      "duration_ms": 214944,
+      "name": "TROLL ME",
+      "url": "https://open.spotify.com/track/2O59SRSok0egHtp3yYo2z4"
+    },
+    {
+      "added_at": "2022-04-29 06:17:00",
+      "album": {
+        "name": "MISA & LIGHT",
+        "url": "https://open.spotify.com/album/3VuoJuyQGrWF3r1X3zZHLY"
+      },
+      "artists": [
+        {
+          "name": "NXFEIT",
+          "url": "https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k"
+        },
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        },
+        {
+          "name": "Hen848",
+          "url": "https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo"
+        }
+      ],
+      "duration_ms": 170860,
+      "name": "MISA & LIGHT",
+      "url": "https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr"
     },
     {
       "added_at": "2022-04-29 06:17:00",
@@ -43,6 +159,58 @@
       "duration_ms": 171746,
       "name": "purgatorio",
       "url": "https://open.spotify.com/track/6ABxR1EOa7PVb7mYPc5PID"
+    },
+    {
+      "added_at": "2022-05-06 06:31:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/6W9MmVO5evkp4vRgpe3HMK"
+      },
+      "artists": [
+        {
+          "name": "Docx",
+          "url": "https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj"
+        }
+      ],
+      "duration_ms": 78669,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4LvAjFkdT6wq8JXHhegqHK"
+    },
+    {
+      "added_at": "2022-05-06 06:31:00",
+      "album": {
+        "name": "Twilight Zone",
+        "url": "https://open.spotify.com/album/1onkzMWL0XAmSY3egGWHiO"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 213540,
+      "name": "Twilight Zone",
+      "url": "https://open.spotify.com/track/0upU8ZFS5cJlzATbjm9OKM"
+    },
+    {
+      "added_at": "2022-05-06 06:31:00",
+      "album": {
+        "name": "WANNABE",
+        "url": "https://open.spotify.com/album/5rzdBBLMcjHSr0W5LRISLS"
+      },
+      "artists": [
+        {
+          "name": "Voda Fuji",
+          "url": "https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "WANNABE",
+      "url": "https://open.spotify.com/track/3Wdf1ZrqRDZDXf81KsRpXY"
     },
     {
       "added_at": "2022-04-29 06:17:00",
@@ -109,50 +277,6 @@
       "url": "https://open.spotify.com/track/5L1eW2bt7pDbjhNLKWKom2"
     },
     {
-      "added_at": "2022-04-29 06:17:00",
-      "album": {
-        "name": "MISA & LIGHT",
-        "url": "https://open.spotify.com/album/3VuoJuyQGrWF3r1X3zZHLY"
-      },
-      "artists": [
-        {
-          "name": "NXFEIT",
-          "url": "https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k"
-        },
-        {
-          "name": "Sillyelly",
-          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
-        },
-        {
-          "name": "Hen848",
-          "url": "https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo"
-        }
-      ],
-      "duration_ms": 170860,
-      "name": "MISA & LIGHT",
-      "url": "https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr"
-    },
-    {
-      "added_at": "2022-04-29 06:17:00",
-      "album": {
-        "name": "R-110NLINE",
-        "url": "https://open.spotify.com/album/5huProdSIaVKAWkg0FNRHP"
-      },
-      "artists": [
-        {
-          "name": "R-110",
-          "url": "https://open.spotify.com/artist/6h0MxZRsSkM4dl2saKMzjW"
-        },
-        {
-          "name": "Sleepa",
-          "url": "https://open.spotify.com/artist/1iT8Vbd7KhZiBji3G72zDW"
-        }
-      ],
-      "duration_ms": 70370,
-      "name": "R-110NLINE",
-      "url": "https://open.spotify.com/track/6mxNifvOuccMQ7IsgpDYDX"
-    },
-    {
       "added_at": "2022-04-22 06:42:00",
       "album": {
         "name": "fuK u lol",
@@ -203,22 +327,6 @@
       "duration_ms": 140979,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/26MtZfJOjVrYXSazR5NPhi"
-    },
-    {
-      "added_at": "2022-01-14 18:09:29",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2022-04-29 06:17:00",
@@ -375,26 +483,6 @@
       "duration_ms": 165206,
       "name": "lifeline",
       "url": "https://open.spotify.com/track/2wPQ6FDiPAhmhO92JPpxHd"
-    },
-    {
-      "added_at": "2022-01-28 05:13:00",
-      "album": {
-        "name": "doitrightback",
-        "url": "https://open.spotify.com/album/2dlvnOWVWoN5C8FB0fw2ZT"
-      },
-      "artists": [
-        {
-          "name": "saoirse dream",
-          "url": "https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf"
-        },
-        {
-          "name": "CMTEN",
-          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
-        }
-      ],
-      "duration_ms": 224468,
-      "name": "doitrightback",
-      "url": "https://open.spotify.com/track/6IglDAMJ38U1IzGa13X2po"
     },
     {
       "added_at": "2022-04-29 06:17:00",
@@ -633,22 +721,6 @@
       "url": "https://open.spotify.com/track/3fPnvjoIrcyW6CILe5yT9Z"
     },
     {
-      "added_at": "2022-04-29 06:17:00",
-      "album": {
-        "name": "\u0422\u0430\u043a \u0445\u043e\u043b\u043e\u0434\u043d\u043e",
-        "url": "https://open.spotify.com/album/0iczkbcZd5hhqCbkYthgsD"
-      },
-      "artists": [
-        {
-          "name": "LIM LALI",
-          "url": "https://open.spotify.com/artist/3r4NpFClIcDQkMevnBPkqL"
-        }
-      ],
-      "duration_ms": 113366,
-      "name": "\u0422\u0430\u043a \u0445\u043e\u043b\u043e\u0434\u043d\u043e",
-      "url": "https://open.spotify.com/track/54Y55Tb6x7aGiMEGR4Q39y"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "#IAmDelusional",
@@ -839,26 +911,6 @@
       "duration_ms": 194112,
       "name": "get to u",
       "url": "https://open.spotify.com/track/685i0Q50zyccJaxVM5Qu3Y"
-    },
-    {
-      "added_at": "2022-04-08 04:05:00",
-      "album": {
-        "name": "xtc",
-        "url": "https://open.spotify.com/album/6Rj5EonDXw6qthEUuFKL51"
-      },
-      "artists": [
-        {
-          "name": "Boy Virgo",
-          "url": "https://open.spotify.com/artist/6qOXLXKu3ULLCLb9bqqVSM"
-        },
-        {
-          "name": "Baby Brat",
-          "url": "https://open.spotify.com/artist/60JmfA2GmW0TxOzsZgjITw"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "xtc",
-      "url": "https://open.spotify.com/track/73N29v5tx5HgLrTh3u2AX8"
     },
     {
       "added_at": "2022-04-01 13:22:34",
@@ -1237,34 +1289,6 @@
       "url": "https://open.spotify.com/track/4L2eotzQjQwVPDlbzXjsVk"
     },
     {
-      "added_at": "2022-04-08 14:25:26",
-      "album": {
-        "name": "Unlimited Ammo: Infinity (Remix)",
-        "url": "https://open.spotify.com/album/0hRCrpv98LWp86pYFGg1G9"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        },
-        {
-          "name": "La Zowi",
-          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
-        },
-        {
-          "name": "Tohji",
-          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
-        },
-        {
-          "name": "felicita",
-          "url": "https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX"
-        }
-      ],
-      "duration_ms": 114249,
-      "name": "Demonic - felicita + Tohji Remix",
-      "url": "https://open.spotify.com/track/0VtPMp7loTn6Sq8f2H5x5k"
-    },
-    {
       "added_at": "2022-04-08 04:05:00",
       "album": {
         "name": "Number 02",
@@ -1459,22 +1483,6 @@
       "duration_ms": 155403,
       "name": "step back",
       "url": "https://open.spotify.com/track/6xFDa84aiINK5ZeCn16KAm"
-    },
-    {
-      "added_at": "2022-03-25 04:04:00",
-      "album": {
-        "name": "STATiC",
-        "url": "https://open.spotify.com/album/4pm8GATYzNxFc7bW2NkVYO"
-      },
-      "artists": [
-        {
-          "name": "nervyyy",
-          "url": "https://open.spotify.com/artist/5UFY2CrDO385nXztkbzT4U"
-        }
-      ],
-      "duration_ms": 148385,
-      "name": "STATiC",
-      "url": "https://open.spotify.com/track/3U53uPJESnIFnPpV9Po2Gr"
     },
     {
       "added_at": "2022-03-25 04:04:00",
@@ -1779,22 +1787,6 @@
       "duration_ms": 199796,
       "name": "Spoiled little brat",
       "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
-    },
-    {
-      "added_at": "2022-01-28 05:13:00",
-      "album": {
-        "name": "moon-e",
-        "url": "https://open.spotify.com/album/16k2U8YeE9H2xvOfy26IO0"
-      },
-      "artists": [
-        {
-          "name": "Overpade",
-          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "moon-e",
-      "url": "https://open.spotify.com/track/73jgT3Xc1d8KqXohUhaITa"
     },
     {
       "added_at": "2022-01-28 05:13:00",

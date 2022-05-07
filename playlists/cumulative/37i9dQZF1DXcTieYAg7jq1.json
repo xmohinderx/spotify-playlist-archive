@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Gavin DeGraw",
+  "description": "Featuring that new vintage. Cover: Lawrence",
   "name": "Retro Pop",
   "published_playlist_ids": [
     "3Icin3X1CyEouQNp33mzQK"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 225550,
       "name": "Blow My Cover",
       "url": "https://open.spotify.com/track/0ZVZ0htiIF0MaoczqT0zFV"
@@ -648,6 +648,24 @@
     },
     {
       "album": {
+        "name": "Don't Lose Sight",
+        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406186,
+      "name": "Don't Lose Sight (Acoustic)",
+      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
+    },
+    {
+      "album": {
         "name": "dose",
         "url": "https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD"
       },
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 174762,
       "name": "downBAD",
       "url": "https://open.spotify.com/track/3bSnDv4C54Z8Fp4rhHs4w0"
@@ -713,7 +731,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 209293,
       "name": "Drifting Apart",
       "url": "https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 215280,
       "name": "Four Moons",
       "url": "https://open.spotify.com/track/1HKID3TlgC1HOSGJU6Icya"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 265106,
       "name": "Good Lady",
       "url": "https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 259534,
       "name": "Gotta Be Lovin Me",
       "url": "https://open.spotify.com/track/0GN7hYVgkvzVgGs6fO8dj6"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 236293,
       "name": "Holding Pattern",
       "url": "https://open.spotify.com/track/47DNjUtdIuDVDbcvO8HGtO"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 175232,
       "name": "Home",
       "url": "https://open.spotify.com/track/1oqv2RGjVEZxJtJTvXg9LD"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 233058,
       "name": "House On The Bay (Nick Waterhouse Remix)",
       "url": "https://open.spotify.com/track/1PCd39i0krAIzIS9VkuzHW"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 243853,
       "name": "I Don't Really Care For You",
       "url": "https://open.spotify.com/track/5heU7rc2joRWgV7zz9N0Ll"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 194418,
       "name": "If It's Love",
       "url": "https://open.spotify.com/track/0pPt7BzRUrYLiSdFrjN7QA"
@@ -1432,6 +1450,24 @@
     },
     {
       "album": {
+        "name": "It Don't Matter",
+        "url": "https://open.spotify.com/album/5CSe4p4wJpggsELemioCqj"
+      },
+      "artists": [
+        {
+          "name": "Elise Azkoul",
+          "url": "https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213184,
+      "name": "It Don't Matter",
+      "url": "https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc"
+    },
+    {
+      "album": {
         "name": "It Will Come In Time",
         "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
       },
@@ -1443,7 +1479,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 173862,
       "name": "It Will Come In Time",
       "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
@@ -1609,7 +1645,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 206753,
       "name": "Let Me Get To Know You",
       "url": "https://open.spotify.com/track/1QudNKU0D6MxhlakgIul9Z"
@@ -1627,7 +1663,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 185373,
       "name": "Light - Edit",
       "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
@@ -1663,7 +1699,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 265589,
       "name": "Little Bird",
       "url": "https://open.spotify.com/track/5tPyzRPQpJszN4KLCPEUHz"
@@ -1793,7 +1829,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 403044,
       "name": "Love Is A Game",
       "url": "https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J"
@@ -1883,7 +1919,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 238172,
       "name": "Making a Home",
       "url": "https://open.spotify.com/track/06rzXALwHru7trEapSZi8h"
@@ -2051,7 +2087,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 267627,
       "name": "No Guns",
       "url": "https://open.spotify.com/track/7BN5emnco3opS6u3baUuR1"
@@ -2347,7 +2383,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 233356,
       "name": "Place Names",
       "url": "https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx"
@@ -2520,6 +2556,24 @@
     },
     {
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1yFYrWlcucrG2gI2AzowyP"
+      },
+      "artists": [
+        {
+          "name": "Erez Zobary",
+          "url": "https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204513,
+      "name": "Shoulda",
+      "url": "https://open.spotify.com/track/3zVnXQUiHUTPYxz47BOafP"
+    },
+    {
+      "album": {
         "name": "SING",
         "url": "https://open.spotify.com/album/1o3sKhWeAePQIl0DQegPla"
       },
@@ -2637,7 +2691,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "Smooth Sailin'",
       "url": "https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A"
@@ -3038,6 +3092,28 @@
     },
     {
       "album": {
+        "name": "Turn the Radio Up",
+        "url": "https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        },
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199605,
+      "name": "Turn the Radio Up (feat. Jewel)",
+      "url": "https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60"
+    },
+    {
+      "album": {
         "name": "Black Hole Rainbow",
         "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
       },
@@ -3187,7 +3263,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 319393,
       "name": "When the Wires Are Down - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/37uZicD5MGyg0YqEi7MNk6"
@@ -3387,7 +3463,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 187213,
       "name": "You Know What It Do",
       "url": "https://open.spotify.com/track/6ldfbQlcEFhaIN7ZQNqsC6"

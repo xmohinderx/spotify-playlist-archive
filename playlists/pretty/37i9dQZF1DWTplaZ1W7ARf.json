@@ -1,33 +1,13 @@
 {
   "description": "Neighborhood Storytellers. Cover: NoCap",
-  "num_followers": 47300,
+  "num_followers": 47357,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDA0NzAwMDAwMTgwNzM3YWE5MTUwMDAwMDE4MDZkMGE2Mzc1",
+  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDA0ODAwMDAwMTgwOTc4NjQzMDMwMDAwMDE4MDZkMGE2Mzc1",
   "tracks": [
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Mr. Crawford",
-        "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 148732,
-      "name": "Flags To The Sky (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/34nGTjKinQV46a8C8T2HfY"
-    },
     {
       "added_at": "2022-04-10 00:28:46",
       "album": {
@@ -43,6 +23,42 @@
       "duration_ms": 200470,
       "name": "In A Minute",
       "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Borderline (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 171996,
+      "name": "Borderline (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd"
+    },
+    {
+      "added_at": "2022-01-26 21:12:53",
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 142226,
+      "name": "livin wild",
+      "url": "https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -65,20 +81,44 @@
       "url": "https://open.spotify.com/track/4BKN3EPTN0HVte4s59dj68"
     },
     {
-      "added_at": "2022-01-26 21:12:53",
+      "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+        "name": "Mr. Crawford",
+        "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 142226,
-      "name": "livin wild",
-      "url": "https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25"
+      "duration_ms": 148732,
+      "name": "Flags To The Sky (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/34nGTjKinQV46a8C8T2HfY"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX"
+      },
+      "artists": [
+        {
+          "name": "Boa Hunxho",
+          "url": "https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6"
+        },
+        {
+          "name": "BOA QG",
+          "url": "https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7"
     },
     {
       "added_at": "2021-11-29 19:56:27",
@@ -99,7 +139,7 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Can't Lose",
+        "name": "Can't Lose (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/6IlNeUhzVDjbwrMPfjqkyx"
       },
       "artists": [
@@ -113,7 +153,7 @@
         }
       ],
       "duration_ms": 192000,
-      "name": "Can't Lose",
+      "name": "Can't Lose (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2oX9VjMLgO8hYMZ3Mh4J8o"
     },
     {
@@ -137,26 +177,6 @@
       "url": "https://open.spotify.com/track/5SbtfQsckw0gUxsEYIOPI3"
     },
     {
-      "added_at": "2022-04-15 06:22:20",
-      "album": {
-        "name": "Last One Left",
-        "url": "https://open.spotify.com/album/136JKS8joUGUiReq11D03P"
-      },
-      "artists": [
-        {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 195590,
-      "name": "Last One Left (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun"
-    },
-    {
       "added_at": "2022-04-10 00:28:46",
       "album": {
         "name": "Mention My Name",
@@ -175,6 +195,26 @@
       "duration_ms": 197446,
       "name": "Nobody (ft. Vory)",
       "url": "https://open.spotify.com/track/4XJwoV192ks89Tdd6VCpCu"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Save The Day (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Save The Day (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -249,26 +289,6 @@
       "url": "https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC"
     },
     {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Save The Day (feat. Kodak Black)",
-        "url": "https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Save The Day (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp"
-    },
-    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "Best End",
@@ -325,6 +345,26 @@
       "url": "https://open.spotify.com/track/5v2ArrX27i9VmZNvPRlI49"
     },
     {
+      "added_at": "2022-04-15 06:22:20",
+      "album": {
+        "name": "Last One Left",
+        "url": "https://open.spotify.com/album/136JKS8joUGUiReq11D03P"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 195590,
+      "name": "Last One Left (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun"
+    },
+    {
       "added_at": "2022-02-25 05:09:00",
       "album": {
         "name": "Slums",
@@ -343,6 +383,22 @@
       "duration_ms": 192000,
       "name": "Slums",
       "url": "https://open.spotify.com/track/71gCSQlGoGC2N9BOGAjbk5"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Letter 2 My Brother",
+        "url": "https://open.spotify.com/album/4IhixF00YHMV3nPGVdFzMS"
+      },
+      "artists": [
+        {
+          "name": "Lil Kee",
+          "url": "https://open.spotify.com/artist/21UqznWenhsInMOKxpVPBd"
+        }
+      ],
+      "duration_ms": 202701,
+      "name": "Letter 2 My Brother",
+      "url": "https://open.spotify.com/track/5QIT3l4ZyXIUn9fe0hYfr3"
     },
     {
       "added_at": "2022-02-04 05:00:00",
@@ -757,22 +813,6 @@
       "url": "https://open.spotify.com/track/0PFgeiQORt3eqq5OX7BxCc"
     },
     {
-      "added_at": "2021-10-15 07:04:43",
-      "album": {
-        "name": "Can't Break Me",
-        "url": "https://open.spotify.com/album/2M1fkzJ78Dt0BzIQU6Yxvn"
-      },
-      "artists": [
-        {
-          "name": "YXNG K.A",
-          "url": "https://open.spotify.com/artist/3BBujITyfgwyXTQliFzUNH"
-        }
-      ],
-      "duration_ms": 157766,
-      "name": "Can't Break Me",
-      "url": "https://open.spotify.com/track/0zBG2fyXZVu2Ssjad5Hn7L"
-    },
-    {
       "added_at": "2022-01-07 05:00:00",
       "album": {
         "name": "Buzz",
@@ -845,26 +885,6 @@
       "url": "https://open.spotify.com/track/3dK8Q0Fl1ETHRueC2FMl9H"
     },
     {
-      "added_at": "2021-12-03 05:00:00",
-      "album": {
-        "name": "Settle (feat. Seddy Hendrinx)",
-        "url": "https://open.spotify.com/album/2OFIv4JASD85jXQCA1Xn0M"
-      },
-      "artists": [
-        {
-          "name": "2FeetBino",
-          "url": "https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M"
-        },
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Settle (feat. Seddy Hendrinx)",
-      "url": "https://open.spotify.com/track/5tSEc1zFTKe8gBpeOi600K"
-    },
-    {
       "added_at": "2021-12-17 05:01:00",
       "album": {
         "name": "Abandoned",
@@ -935,22 +955,6 @@
       "duration_ms": 202580,
       "name": "Eyes Open (feat. Lil Baby & Young Thug)",
       "url": "https://open.spotify.com/track/0va4UcIcxAOf4yVpxGQWSa"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Call 100 Times",
-        "url": "https://open.spotify.com/album/0NIwXml1beCMBBADUgsKFZ"
-      },
-      "artists": [
-        {
-          "name": "Taleban Dooda",
-          "url": "https://open.spotify.com/artist/7aCA2LCzNmtAua4JrMvDb0"
-        }
-      ],
-      "duration_ms": 184941,
-      "name": "Call 100 Times",
-      "url": "https://open.spotify.com/track/2FRiTfXWChdEkagA10rTa3"
     }
   ],
   "unique_name": "Street Soul",

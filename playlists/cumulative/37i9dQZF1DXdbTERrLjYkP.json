@@ -1609,7 +1609,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 154000,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg"
@@ -2640,6 +2640,24 @@
     },
     {
       "album": {
+        "name": "when the sun came up",
+        "url": "https://open.spotify.com/album/2MrUkSTLolgDJTboaxwCXl"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "the sky looked nice today",
+      "url": "https://open.spotify.com/track/1R0WKnVaUrZbEyJNHSVlgX"
+    },
+    {
+      "album": {
         "name": "The Way It Was Before",
         "url": "https://open.spotify.com/album/21WzCHmaKB5boZZdxf4jRN"
       },
@@ -2817,7 +2835,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 160568,
       "name": "volkswagens",
       "url": "https://open.spotify.com/track/5lJKyrg4IRUEGN0eQao1JK"
@@ -2897,6 +2915,24 @@
       "duration_ms": 229565,
       "name": "When It Ends",
       "url": "https://open.spotify.com/track/2956I0IdLAutaSEmwhSPii"
+    },
+    {
+      "album": {
+        "name": "When It Kills Me: Pt. 2",
+        "url": "https://open.spotify.com/album/5g0ADZD2v0pRnkgX8UhHaX"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221839,
+      "name": "When It Kills Me",
+      "url": "https://open.spotify.com/track/7heSG5oy44Si0bc8toOsYX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Aaron Raitiere
 
-189 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+193 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alone With You](https://open.spotify.com/track/0bsmuUBwDdNAPCcuV05gLF) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:24 | 2022-02-28 |  |
 | [American Made](https://open.spotify.com/track/7tLgFHsGyklwaB0Wc10ERE) | [Bob DiPiero](https://open.spotify.com/artist/3zqhEeEHP3dgmWuWUyJgRP) | [American Made](https://open.spotify.com/album/2kj7dIlQHGTU7QWi8etf6m) | 2:47 | 2022-01-01 |  |
 | [Back Where I Come From](https://open.spotify.com/track/4wGVahECwLKG1gH3yjeMq3) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Simple Life](https://open.spotify.com/album/4cpelV3X4CopeKPvN6UNp2) | 3:31 | 2022-01-01 |  |
+| [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-05-06 |  |
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/5CQ1BKIfD8cpMsxn3rdEXm) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Even If It Breaks Your Barefoot Friday Night, Pt\. 1](https://open.spotify.com/album/2TDTiLd5HpKDkX5WxZmBJ3) | 2:56 | 2022-04-15 |  |
 | [Better Boat](https://open.spotify.com/track/0AP1oqhd2cAs0q4X3hBtNk) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [First Cigarette](https://open.spotify.com/album/0LjnNjuO0XLc239qIRXj8F) | 4:53 | 2022-01-01 |  |
 | [Blue Ain't Your Color](https://open.spotify.com/track/2Ynzb3b6Ddpi1EtovAuvVE) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:38 | 2022-01-01 |  |
@@ -169,6 +170,7 @@
 | [The Rest Of Us](https://open.spotify.com/track/7xnO1Ezt3GfymnaIaHij72) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [The Rest Of Us](https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG) | 3:25 | 2022-02-11 |  |
 | [The Road](https://open.spotify.com/track/0pAKpLlTtZZrkPFfnQRm99) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Jon Randall](https://open.spotify.com/album/53B4uGWjlFp0kcXfmhjYN3) | 4:45 | 2022-01-01 |  |
 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 | 2022-01-01 |  |
+| [The Wind](https://open.spotify.com/track/4NDrKPwZ8SzpFQ4vzFmx3w) | [Yesterday's Wine](https://open.spotify.com/artist/0tRBFOqzDBDH8XP3VC9kZN), [Wyatt Durrette](https://open.spotify.com/artist/3VZsRkLj2QtJBcYoHojb0k), [Levi Lowrey](https://open.spotify.com/artist/0nMJIZIXTK8H6f3fS1OlZ7) | [The Wind](https://open.spotify.com/album/4WGI33Z228TG7kTA6yjlsB) | 3:42 | 2022-05-06 |  |
 | [Then Again](https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Then Again](https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb) | 3:25 | 2022-01-01 |  |
 | [These Days](https://open.spotify.com/track/55OrXbHnrlFw9wCRg6Nf4Q) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 4:23 | 2022-01-01 |  |
 | [Things a Man Oughta Know \(Stripped\)](https://open.spotify.com/track/07WRv6TnAaqcI0UyxbljbO) | [Jason Nix](https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798) | [Things a Man Oughta Know \(Stripped\)](https://open.spotify.com/album/0bhlGclh3uEiFE6LwrmekC) | 3:44 | 2022-03-11 |  |
@@ -177,6 +179,7 @@
 | [Thought This Through](https://open.spotify.com/track/0zRfkCzOyUbW6vKxCNcWjm) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [You Are This Town](https://open.spotify.com/album/6eE2wAfCyYXKWcn14iPp7J) | 2:52 | 2022-01-01 |  |
 | [Till You're Grown](https://open.spotify.com/track/6hBgYys8z94rDSchebUYTm) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 4:13 | 2022-01-01 |  |
 | [Time Honored Tradition](https://open.spotify.com/track/4XqD2pfvBycih1dHLbW2rG) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 3:16 | 2022-01-01 |  |
+| [Time Will Fly](https://open.spotify.com/track/5FuAfUY40SS7akpTdLeRTe) | [Aaron Raitiere](https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw) | [Single Wide Dreamer](https://open.spotify.com/album/4aRnSu933sKKthwIVQT21x) | 4:11 | 2022-05-06 |  |
 | [True Believer](https://open.spotify.com/track/5kqS0hdikr4ye4UwR548F6) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [I Am Now](https://open.spotify.com/album/6ajKwHKtUDhGI4Wnh8Ezx9) | 3:15 | 2022-01-01 | 2022-03-01 |
 | [Trust You \(with Emily Weisband\)](https://open.spotify.com/track/6obk7jRlIDQ4CKO7buIefS) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Trust You \(with Emily Weisband\)](https://open.spotify.com/album/4Rxk4rrJ2cjG3C3KKAwcXU) | 2:42 | 2022-01-01 | 2022-04-16 |
 | [Two Birds](https://open.spotify.com/track/4dXYpeXEDUAB9PONc1hT1A) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:28 | 2022-01-01 |  |
@@ -184,6 +187,7 @@
 | [Up Down](https://open.spotify.com/track/4LMUMC48EGWeBzp1TyTcvw) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Michael Hardy](https://open.spotify.com/artist/0dggwcQzcosyXotXkNp2df) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:24 | 2022-01-01 |  |
 | [Uphill](https://open.spotify.com/track/2U8tmNAhE9LzmEoMABd5rk) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:01 | 2022-01-01 |  |
 | [Wake up Loving You](https://open.spotify.com/track/1E1LaXgZRkBOljpGXtlR7B) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion Originals](https://open.spotify.com/album/5khSHsmQhkTJ1iJr5FdAP8) | 3:48 | 2022-01-01 |  |
+| [Walks On Whiskey](https://open.spotify.com/track/38Kr23AF7ClWkD8Tiew0Vj) | [Brent Anderson](https://open.spotify.com/artist/3Dn6YYnot4nDcpNxvQ23AT) | [Walks On Whiskey](https://open.spotify.com/album/5bQGiywjN2dxEy2pqtPPOY) | 2:37 | 2022-05-06 |  |
 | [We Are Tonight \- Acoustic Mixtape](https://open.spotify.com/track/5G4upYoNLjklTY6qD32pSf) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Between The Pines \(Acoustic Mixtape\)](https://open.spotify.com/album/0oDDkafimkfmBVssJF2X64) | 2:52 | 2022-02-28 |  |
 | [We Were](https://open.spotify.com/track/4t64dPfqlZa7fFGPSKavId) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [We Were](https://open.spotify.com/album/2Km77rh3Acs42qRQydKwLV) | 3:08 | 2022-02-28 |  |
 | [We Were Us](https://open.spotify.com/track/0pZpHs9BQfy6w11J0VpONW) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [The Worktapes.](https://open.spotify.com/album/4a4ETcRtvnEvypmzT4CfFd) | 2:48 | 2022-01-01 |  |

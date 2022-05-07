@@ -2,9 +2,9 @@
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
-> Electronic + Dance making waves, every month\. Cover: Kah\-Lo.
+> Electronic + Dance making waves, every month\. Cover: Aluna & Jayda G.
 
-129 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/2TNmeY42vrKnq2dfH2dCEO)
+130 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/2TNmeY42vrKnq2dfH2dCEO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Evian \(feat\. PinkPantheress, Rizloski & Rax\)](https://open.spotify.com/track/5uakDGEx9HegMZZi840VzH) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Rizloski](https://open.spotify.com/artist/6Wl9y5OsaB4fyXl0cCC2iO), [Rax](https://open.spotify.com/artist/5WeVKbqPBzsASTkta9ijsz) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:08 | 2022-02-01 | 2022-04-29 |
 | [Fight to Love \- Radio Edit](https://open.spotify.com/track/0V2rtUVbb3Vpz2ZE5pu0Sa) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i) | [Fight to Love \(Radio Edit\)](https://open.spotify.com/album/6ttCwZ0VxKrzDFnOhHlTj3) | 4:07 | 2022-02-01 |  |
 | [Finesse \(Jersey Club Remix\)](https://open.spotify.com/track/7eJVltzaJ8X9HS7I8XG5lg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Don't Say I Didn't Warn You \(Jersey Club Remixes\)](https://open.spotify.com/album/4mCjWDfNCRWBUpckc1Eu3a) | 2:11 | 2022-03-11 |  |
-| [Flourish](https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Flourish](https://open.spotify.com/album/1cfItDeK7Zq8DptVmokzN2) | 4:03 | 2022-02-01 |  |
+| [Flourish](https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Flourish](https://open.spotify.com/album/1cfItDeK7Zq8DptVmokzN2) | 4:03 | 2022-02-01 | 2022-05-07 |
 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 | 2022-02-01 |  |
 | [Freaky Deaky \- R3HAB Remix](https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Freaky Deaky \(R3HAB Remix\)](https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp) | 2:20 | 2022-04-15 |  |
 | [Free](https://open.spotify.com/track/0kzhCraxTEGj5uyft6y6aD) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Free](https://open.spotify.com/album/0qfQxiLiUyGvWpz8QQs0Gd) | 3:57 | 2022-02-01 | 2022-04-16 |
@@ -130,6 +130,7 @@
 | [Waiting For The Day](https://open.spotify.com/track/19WKcEuuC6QVm6C2DdJmQA) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Waiting For The Day](https://open.spotify.com/album/1s7vhmyQbJxsmdGlZOeNyr) | 4:28 | 2022-04-22 |  |
 | [We Are One](https://open.spotify.com/track/3J3XaMhpQvDfJjCE38ow9x) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [We Are One](https://open.spotify.com/album/3lF2W0TPmVTLdB0SqzB4wE) | 3:48 | 2022-02-01 | 2022-04-29 |
 | [What Chu Waiting For?](https://open.spotify.com/track/6FpJyIZaQiRFQliaMnJIyK) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [Heartbeats](https://open.spotify.com/album/0ZR5JXKysRQEEAZ0oWrxmJ) | 3:20 | 2022-02-01 |  |
+| [What's Next](https://open.spotify.com/track/7dSQHfnJSK0SzmPpiuNrlC) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [What's Next](https://open.spotify.com/album/5BgDSrPBRrUmr0C77N3T5P) | 2:39 | 2022-05-06 |  |
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-22 |  |
 | [Wild Side \(feat\. KAYTRANADA\) \- KAYTRANADA Remix](https://open.spotify.com/track/2smDPFcFsLTxDrckkOL2gR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Wild Side \(feat\. KAYTRANADA\) \[KAYTRANADA Remix\]](https://open.spotify.com/album/2VzKdDTQMJ8VReWnmEOiSN) | 4:24 | 2022-02-25 |  |
 | [Work That Body](https://open.spotify.com/track/1h3LHD3iDbP4MGYNeQG4N5) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 6:42 | 2022-02-01 |  |

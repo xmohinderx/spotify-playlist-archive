@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Bar In Belize",
+        "url": "https://open.spotify.com/album/1Ch61lessoISQYShQ1gBwf"
+      },
+      "artists": [
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185504,
+      "name": "Bar In Belize",
+      "url": "https://open.spotify.com/track/7qoP8UanlYhL4OjQLyIPVm"
+    },
+    {
+      "album": {
         "name": "Been in a Bar",
         "url": "https://open.spotify.com/album/3qxULpKjdm7D9palaG94kj"
       },

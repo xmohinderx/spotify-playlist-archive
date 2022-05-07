@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,378 songs - 3 day 8 hr 26 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,380 songs - 3 day 8 hr 31 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 | 2020-07-12 | 2020-08-20 |
 | [Always Tomorrow](https://open.spotify.com/track/6znQ8d94uFOfREB86KmgUw) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:50 | 2020-11-17 | 2020-12-02 |
 | [Amalgamation](https://open.spotify.com/track/10AB38gKSM7MmYGqsMqoVm) | [Blkgmmn](https://open.spotify.com/artist/5duDucqmFjPnD91X9Y3GHs) | [Amalgamation](https://open.spotify.com/album/7xWeWqb3JwFca19AKBRBCI) | 5:39 | 2021-04-10 | 2021-04-26 |
+| [And So It Begins](https://open.spotify.com/track/6N59LGxW3G0rfEX5a2lyx2) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 2:05 | 2022-05-06 |  |
 | [and then the earth opened up](https://open.spotify.com/track/0BHUY2vfypaJPKllvbxX70) | [Cam Jelli](https://open.spotify.com/artist/4yjpHRAT830MAdwdEXgGN5) | [Thoughts From A Black Hole](https://open.spotify.com/album/09NUOeaOhfSWyaZJrCix0j) | 2:54 | 2022-05-06 |  |
 | [And We Sing](https://open.spotify.com/track/6FTJlQ7MG6GMQPEXjU6Zif) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Undivided](https://open.spotify.com/album/1M7mmtyHPvGhbp8Sb7vkDt) | 4:55 | 2021-01-12 | 2021-01-21 |
 | [Angel Blue](https://open.spotify.com/track/3umLKsmP1LPHIF2hJocayK) | [Ay Wing](https://open.spotify.com/artist/7cjLa6AQcbH9XWQYmPNpX4) | [Angel Blue](https://open.spotify.com/album/4I5uVln7qDBVIpdp3NAR78) | 3:05 | 2021-08-24 | 2021-09-11 |
@@ -210,6 +211,7 @@
 | [Bye Bye](https://open.spotify.com/track/5gasjsIPUPWES6V3C2INOb) | [ISA](https://open.spotify.com/artist/25TgcWHKIx5DuoHjECQC2s) | [Debut Album](https://open.spotify.com/album/3TaTnYogaygo5TuHgfvQEh) | 3:13 | 2020-11-06 | 2020-11-21 |
 | [Bye\-Ya](https://open.spotify.com/track/3V5sNDS0lWlpXmznn9ICi6) | [Chris Greco](https://open.spotify.com/artist/71IGzwmyuS9Rz2Jn0IB4El) | [Standards, Vol\. 1](https://open.spotify.com/album/2ohO88cy2MDYLhvg9lgcet) | 7:00 | 2022-01-21 | 2022-02-27 |
 | [Cali](https://open.spotify.com/track/4Rb5dm817OISOzubC0DgYK) | [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Cali](https://open.spotify.com/album/4tJOcbPQmfSmahKW8cFhHZ) | 3:11 | 2020-12-04 | 2020-12-19 |
+| [Calling Back](https://open.spotify.com/track/0E1tLCLmyK5pmNewAqHBvb) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Calling Back](https://open.spotify.com/album/2xuD8TvbHrWLVm7imgFajY) | 3:06 | 2022-05-06 |  |
 | [Calling Me Back \- Coeus Remix](https://open.spotify.com/track/0iEClQxJw6VHyXrSyifNJ1) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Vangelis Dreams EP \- Reimagined](https://open.spotify.com/album/0CFe0tqHQKry2xVk0KiV9E) | 7:46 | 2021-05-21 | 2021-06-06 |
 | [Camino Por Un Camino](https://open.spotify.com/track/3KPclpATgNWBJ6ck0IAvdD) | [Intergalactic C](https://open.spotify.com/artist/2qqvQRHFMPXZas3dFoMOm1) | [Camino Por Un Camino](https://open.spotify.com/album/1gJwp6ohAIU9U6SJhMbbwi) | 3:49 | 2022-04-15 | 2022-04-30 |
 | [Can I Call](https://open.spotify.com/track/7KEoaGK0LbmooqotHalGI9) | [Alannah McCready](https://open.spotify.com/artist/19fZ2lVAwrWHiELAsDJPWH), [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Can I Call](https://open.spotify.com/album/2647W0tRgbbR7oaUhN67bY) | 3:07 | 2022-04-01 | 2022-04-17 |

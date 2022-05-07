@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 172306,
       "name": "HB20",
       "url": "https://open.spotify.com/track/1wjmGk216y7V2Q5NzG0TRG"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 271384,
       "name": "Lip Tint",
       "url": "https://open.spotify.com/track/7waYsXxo3ckAAaLbnxtmjq"
@@ -1373,6 +1373,24 @@
       "duration_ms": 254224,
       "name": "PISANDO FOFO",
       "url": "https://open.spotify.com/track/5piCfoJLleAaccELaQHGbz"
+    },
+    {
+      "album": {
+        "name": "Pitbull",
+        "url": "https://open.spotify.com/album/6EwvwqxByg8Ll9VJmeqBcc"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Pitbull",
+      "url": "https://open.spotify.com/track/4BbZUFzlbx4mVR1r0Z35x2"
     },
     {
       "album": {
@@ -1877,6 +1895,32 @@
       "duration_ms": 164203,
       "name": "Vestido da Fendi",
       "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
+    },
+    {
+      "album": {
+        "name": "VIS\u00c3O DA GRANA",
+        "url": "https://open.spotify.com/album/1N3Jq2n1vRKkQbI8nsi4yA"
+      },
+      "artists": [
+        {
+          "name": "Pack Music",
+          "url": "https://open.spotify.com/artist/65m9BcegfjKhWK84AP8RqZ"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "K2R",
+          "url": "https://open.spotify.com/artist/0MJk6Hhne3m9Dd35WuHBxi"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227737,
+      "name": "VIS\u00c3O DA GRANA",
+      "url": "https://open.spotify.com/track/4aA9kIJBGeu1SuBtGLA3vW"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: McKenna Grace
+> Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Mothica
 
-156 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
+158 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2021-10-29 |  |
 | [Kind of Love](https://open.spotify.com/track/27q9snUZ3LptuVJyXgrHPk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Kind of Love](https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0) | 3:38 | 2022-01-14 | 2022-04-29 |
 | [Kiss And Tell](https://open.spotify.com/track/5Zi2tbxAaZQGkFWU8QdSqU) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Kiss And Tell](https://open.spotify.com/album/6iOn23WerrBcb3rSLRqMlT) | 2:32 | 2022-02-11 | 2022-03-30 |
+| [LAST CIGARETTE \(feat\. Au/Ra\)](https://open.spotify.com/track/2XvOZXnY0CKTRIo186QE9e) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [LAST CIGARETTE \(feat\. Au/Ra\)](https://open.spotify.com/album/3dK2iIjUFadIeePyqL6zel) | 2:13 | 2022-05-06 |  |
 | [lava](https://open.spotify.com/track/5wn3o3cfK1cq740KQFEN1n) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [lava](https://open.spotify.com/album/28svVdd3XPgkmtoy1UbL9j) | 2:18 | 2022-03-25 |  |
 | [LEVITATE](https://open.spotify.com/track/1CTtPSqqZEGXOi42FFb736) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [LEVITATE](https://open.spotify.com/album/0D8oXXB0uBxGCsjUeLmkay) | 3:03 | 2022-01-14 | 2022-02-26 |
 | [Library Card](https://open.spotify.com/track/4zQiuvLmOFXI9lRxBEeb94) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Library Card](https://open.spotify.com/album/2F6Iz0xIZevO0WH1BwDSPn) | 3:26 | 2022-03-18 |  |
@@ -93,11 +94,11 @@
 | [Liquorice](https://open.spotify.com/track/3Ze8TIoX3bV1OZVAxguX6j) | [Elle Lexxa](https://open.spotify.com/artist/2cBDh8dCO4LQaSq07uvzve) | [Bubblegum](https://open.spotify.com/album/4dhOZl5rUI3oXRGLAFQfCc) | 2:22 | 2022-02-18 |  |
 | [little boy](https://open.spotify.com/track/7xe5j7CnB63ejlzg5Y5H9Q) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [Mom, I’m Lost](https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA) | 2:46 | 2022-01-28 | 2022-02-19 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 |  |
-| [Make A Wish](https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Make A Wish](https://open.spotify.com/album/7nUfxVkgiGGaPddm8Y4ojp) | 2:38 | 2022-02-25 |  |
+| [Make A Wish](https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Make A Wish](https://open.spotify.com/album/7nUfxVkgiGGaPddm8Y4ojp) | 2:38 | 2022-02-25 | 2022-05-07 |
 | [Masterclass](https://open.spotify.com/track/0H5nic3dfKXg09HQGmcmTq) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Masterclass](https://open.spotify.com/album/5s865EPaHzPgrilRTsz1GA) | 2:52 | 2022-04-29 |  |
 | [Mean](https://open.spotify.com/track/2SniviLus5g8LNMCpObLx4) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:05 | 2021-12-10 |  |
 | [Mean Girls](https://open.spotify.com/track/1ACbgqWv4OYTqd3BBYVLVF) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [Mean Girls](https://open.spotify.com/album/0L0C2pdLE0gfdtXdivLbWd) | 2:21 | 2022-02-25 |  |
-| [Megan Fox](https://open.spotify.com/track/3qboOCxreAR56KwFV8Zc7S) | [Kayla DiVenere](https://open.spotify.com/artist/6LmymAfsFtt2CaJSj9hdCn) | [Megan Fox](https://open.spotify.com/album/5aONnhSehA4r9V6BeCeC3C) | 2:04 | 2022-04-08 |  |
+| [Megan Fox](https://open.spotify.com/track/3qboOCxreAR56KwFV8Zc7S) | [Kayla DiVenere](https://open.spotify.com/artist/6LmymAfsFtt2CaJSj9hdCn) | [Megan Fox](https://open.spotify.com/album/5aONnhSehA4r9V6BeCeC3C) | 2:04 | 2022-04-08 | 2022-05-07 |
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-02-25 |  |
 | [Okay Okay](https://open.spotify.com/track/2ryUKjHhbRn2T7DmkT3nl1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [PEP](https://open.spotify.com/album/2El7FWTNM5fE8BbMN3qFlB) | 3:20 | 2022-04-01 | 2022-04-09 |
 | [Papercut](https://open.spotify.com/track/2eWz1ODTF9DcKikcwxsc9A) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/3FKnPiVfCOLhNeSlzpkJ3D) | 3:13 | 2022-04-08 |  |
@@ -117,6 +118,7 @@
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-07 | 2022-04-29 |
 | [Read The Room](https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Read The Room](https://open.spotify.com/album/66hA0bftjpanygAoCYZhou) | 2:46 | 2022-02-18 |  |
 | [Rich Man](https://open.spotify.com/track/48SHHV3qxvboO8TFWrroC4) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Rich Man](https://open.spotify.com/album/1LbXVD0LLYNvAv6ZJt4DRa) | 2:51 | 2022-02-11 | 2022-03-18 |
+| [RÉSUMÉ](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [RÉSUMÉ](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 | 2022-05-06 |  |
 | [SACRILEGIOUS \(with TOKYO'S REVENGE\)](https://open.spotify.com/track/47mzGm0Jp2OzKOuK1T7mYI) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [SACRILEGIOUS \(with TOKYO'S REVENGE\)](https://open.spotify.com/album/6NcKtumpdHtY6Mbcmb4nci) | 2:42 | 2022-02-11 | 2022-02-19 |
 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 | 2022-02-04 | 2022-03-18 |
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-02-07 | 2022-02-26 |

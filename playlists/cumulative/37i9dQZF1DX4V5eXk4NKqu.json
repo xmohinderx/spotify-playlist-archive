@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 187173,
       "name": "a lifetime with you",
       "url": "https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 249211,
       "name": "ALL THESE INSTRUMENTS",
       "url": "https://open.spotify.com/track/0KdWKPgZ0pleOpV2xOd8D0"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 206536,
       "name": "Another Observer",
       "url": "https://open.spotify.com/track/0OwQPTFWy8Xcvy4ViLvyF1"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 164535,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/72QD8GncVMD1DdHOtTjDM5"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 229186,
       "name": "Can't Stop Your Lovin' \u2013 Katz\u00f9 Oso Remix",
       "url": "https://open.spotify.com/track/5b6eR6G1JhnYhaIWbelHDh"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 181786,
       "name": "CAVIAR",
       "url": "https://open.spotify.com/track/3988SQ0XqHIaDZgd66ZZIl"
@@ -489,10 +489,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 262053,
       "name": "Dos que uno",
       "url": "https://open.spotify.com/track/3V2sqiqXuRUaK1gv1ugbdp"
+    },
+    {
+      "album": {
+        "name": "La Santa Cecilia",
+        "url": "https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215880,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1ryvTdyw1DYZhy2LBp4Jvh"
     },
     {
       "album": {
@@ -565,7 +583,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
@@ -695,7 +713,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 223786,
       "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/53y2hHY9gPhOZzoEh7umgq"
@@ -771,7 +789,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 137961,
       "name": "Hear Me Out - Stripped",
       "url": "https://open.spotify.com/track/0EX3OCeGdjwz2P017sOEIk"
@@ -861,7 +879,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 233696,
       "name": "Inutil",
       "url": "https://open.spotify.com/track/1jVfUFLizfiZYtp24Jmg0R"
@@ -1118,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "Match",
+        "url": "https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205160,
+      "name": "Match",
+      "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
+    },
+    {
+      "album": {
         "name": "Love </3",
         "url": "https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn"
       },
@@ -1320,6 +1356,28 @@
     },
     {
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244444,
+      "name": "Otro Atardecer",
+      "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
+    },
+    {
+      "album": {
         "name": "Para\u00edso",
         "url": "https://open.spotify.com/album/4X61CX0485026hU97ZPc57"
       },
@@ -1349,7 +1407,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 232160,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/7uOv9seTuAbjuGBcgGXHuJ"
@@ -1367,7 +1425,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 198573,
       "name": "PARIS",
       "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
@@ -1457,7 +1515,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 241920,
       "name": "QADIR - Single Version",
       "url": "https://open.spotify.com/track/4SGV6Us8HHNY4d1ysiq2cZ"
@@ -1785,7 +1843,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 251520,
       "name": "Te Espero Aqu\u00ed",
       "url": "https://open.spotify.com/track/1xvQsgUbvz53trUe3xaIdm"
@@ -2044,6 +2102,24 @@
     },
     {
       "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201887,
+      "name": "vuelve",
+      "url": "https://open.spotify.com/track/5vbUaeom27lTaAIhDin5DU"
+    },
+    {
+      "album": {
         "name": "V\u00e1mono",
         "url": "https://open.spotify.com/album/0DAtzeZ09MxUORBOwGWxF5"
       },
@@ -2055,7 +2131,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 208329,
       "name": "V\u00e1mono",
       "url": "https://open.spotify.com/track/623mI2F1iCO4cqGbv6WUVn"
@@ -2127,7 +2203,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 171628,
       "name": "Yo Creo en el Amor",
       "url": "https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz"
@@ -2181,7 +2257,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 272511,
       "name": "\u00bfYpqsp?",
       "url": "https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D"

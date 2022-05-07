@@ -1,18 +1,34 @@
 {
   "description": "All new, all blues. Cover: Fantastic Negrito",
-  "num_followers": 116323,
+  "num_followers": 116393,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDBiZDAwMDAwMTgwNzM3YjkzMWYwMDAwMDE3ZmZiNDEwYTc4",
+  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDBiZTAwMDAwMTgwOTc4ODE3MjUwMDAwMDE3ZmZiNDEwYTc4",
   "tracks": [
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Trudoo",
-        "url": "https://open.spotify.com/album/22RA78OrEQBFsWO0GOrBW3"
+        "name": "Yada Yada",
+        "url": "https://open.spotify.com/album/2CbfiGqSkYci5rPVgYRUGk"
+      },
+      "artists": [
+        {
+          "name": "The Suffers",
+          "url": "https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU"
+        }
+      ],
+      "duration_ms": 155449,
+      "name": "Yada Yada",
+      "url": "https://open.spotify.com/track/2IXvJ4KQFzo1TnqMgTk12w"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "They Go Low",
+        "url": "https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb"
       },
       "artists": [
         {
@@ -20,9 +36,25 @@
           "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 217059,
-      "name": "Trudoo",
-      "url": "https://open.spotify.com/track/4Sn5zo5BXRhMp54m20sQNg"
+      "duration_ms": 222685,
+      "name": "They Go Low",
+      "url": "https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "NEVER TELL ME THE ODDS",
+        "url": "https://open.spotify.com/album/5SuQXa5Uw9BxJUIyg735rH"
+      },
+      "artists": [
+        {
+          "name": "Watt White",
+          "url": "https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "NEVER TELL ME THE ODDS",
+      "url": "https://open.spotify.com/track/2iK0Txu1uCzpGH196CsQEf"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -61,6 +93,26 @@
       "url": "https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Susie Q",
+        "url": "https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm"
+      },
+      "artists": [
+        {
+          "name": "DOBBY",
+          "url": "https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad"
+        },
+        {
+          "name": "Jackie Brown Jr.",
+          "url": "https://open.spotify.com/artist/5ZFhORdL6hTb3sypMrT5GV"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "Susie Q",
+      "url": "https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Neither Here Nor There",
@@ -75,6 +127,22 @@
       "duration_ms": 175818,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "All Roads Are Good",
+        "url": "https://open.spotify.com/album/7GeAo0kFkaE1Xm4S4FwCWj"
+      },
+      "artists": [
+        {
+          "name": "OPLIAM",
+          "url": "https://open.spotify.com/artist/4vx5pLklP1r4WOGo1SA0DE"
+        }
+      ],
+      "duration_ms": 182907,
+      "name": "All Roads Are Good",
+      "url": "https://open.spotify.com/track/5p0K8BNmVIBBycmUpIQ3bb"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -155,6 +223,22 @@
       "duration_ms": 162030,
       "name": "Hits Like Lightning",
       "url": "https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Trudoo",
+        "url": "https://open.spotify.com/album/22RA78OrEQBFsWO0GOrBW3"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 217059,
+      "name": "Trudoo",
+      "url": "https://open.spotify.com/track/4Sn5zo5BXRhMp54m20sQNg"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -1113,22 +1197,6 @@
       "url": "https://open.spotify.com/track/0I6N0Vjf4AlSmB1E4rzeyM"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Purple BLUE",
-        "url": "https://open.spotify.com/album/4n6ueWyNmmeqB9OVBPwbWh"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 167949,
-      "name": "Can't Stay Away",
-      "url": "https://open.spotify.com/track/0KAOUetWwOlmQIbZ5eMoXB"
-    },
-    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "Better Days",
@@ -1145,38 +1213,6 @@
       "url": "https://open.spotify.com/track/4XW0ZZJ2avabVMuHUkwonG"
     },
     {
-      "added_at": "2021-04-09 04:00:00",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/1PGDSkZS0LldDjD74gj96M"
-      },
-      "artists": [
-        {
-          "name": "Jessarae",
-          "url": "https://open.spotify.com/artist/6g09G6rt0abMMLVp4xyKx6"
-        }
-      ],
-      "duration_ms": 234811,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/0sgSnT7ltGmbtDk6oYCORs"
-    },
-    {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Waste of a Pretty Face",
-        "url": "https://open.spotify.com/album/1gcgGlZKyAH4YuJTR7hqcO"
-      },
-      "artists": [
-        {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
-        }
-      ],
-      "duration_ms": 158655,
-      "name": "Waste of a Pretty Face",
-      "url": "https://open.spotify.com/track/4IpuYe7tPM0VasiAzigXff"
-    },
-    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "That's The Way I Feel About You",
@@ -1191,186 +1227,6 @@
       "duration_ms": 293141,
       "name": "That's The Way I Feel About You",
       "url": "https://open.spotify.com/track/4SrcZBjrz1mTrjFfwuGG06"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Don't Tell Me No Lies",
-        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 147423,
-      "name": "Don't Tell Me No Lies",
-      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "OZARK",
-        "url": "https://open.spotify.com/album/5GYl6wdaiA22kKtt2Y7aY6"
-      },
-      "artists": [
-        {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
-        }
-      ],
-      "duration_ms": 224150,
-      "name": "OZARK",
-      "url": "https://open.spotify.com/track/7nAcaH62CEDb4naXyoomJU"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Everything You Need",
-        "url": "https://open.spotify.com/album/3yM6APa7fwLuGC4RLDmnGB"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 218682,
-      "name": "Everything You Need",
-      "url": "https://open.spotify.com/track/2IJ7JF3Sva50EgrbCVcWW1"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Bitter Taste",
-        "url": "https://open.spotify.com/album/0BZOtVXIS9jshHxwLXVJhS"
-      },
-      "artists": [
-        {
-          "name": "Jordan Run",
-          "url": "https://open.spotify.com/artist/77n5FV29Cq5bbukhovCofj"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "Bitter Taste",
-      "url": "https://open.spotify.com/track/0S88eFYO7gSJKxdwGHGKrs"
-    },
-    {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "Surface Sounds",
-        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 284798,
-      "name": "Hey Gringo",
-      "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "If You're Gonna Leave Me",
-        "url": "https://open.spotify.com/album/3yfkg9em3SCAygQPfoORh1"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 332310,
-      "name": "If You're Gonna Leave Me",
-      "url": "https://open.spotify.com/track/1o5m2tSsrzqLyJf6qfmSrO"
-    },
-    {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "The Mess I Made",
-        "url": "https://open.spotify.com/album/09N5XzPUjGF2C88j0QWJPc"
-      },
-      "artists": [
-        {
-          "name": "Kezia Gill",
-          "url": "https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc"
-        },
-        {
-          "name": "Sarah Jory",
-          "url": "https://open.spotify.com/artist/3vIXE7wvyCjfLhVU4PPs3a"
-        }
-      ],
-      "duration_ms": 182116,
-      "name": "The Mess I Made",
-      "url": "https://open.spotify.com/track/0jgysibe0XfoEO4QF4txxo"
-    },
-    {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "First Agnostic Church of Hope and Wonder",
-        "url": "https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y"
-      },
-      "artists": [
-        {
-          "name": "Todd Snider",
-          "url": "https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Never Let a Day Go By",
-      "url": "https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl"
-    },
-    {
-      "added_at": "2021-05-07 04:01:00",
-      "album": {
-        "name": "3AM in Chicago",
-        "url": "https://open.spotify.com/album/23VUe5ASQwqXtLWhMQgTpe"
-      },
-      "artists": [
-        {
-          "name": "Eddie 9V",
-          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "3AM in Chicago",
-      "url": "https://open.spotify.com/track/5ojFJM8fhqK1Ktg69bPmPt"
-    },
-    {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "All of It, Again",
-        "url": "https://open.spotify.com/album/5VQjDyJ416TBS2g8ESxZAI"
-      },
-      "artists": [
-        {
-          "name": "Katie Buchanan",
-          "url": "https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1"
-        }
-      ],
-      "duration_ms": 243649,
-      "name": "All of It, Again",
-      "url": "https://open.spotify.com/track/0OdzIwQTj4BRGaQ7yfvJ6i"
-    },
-    {
-      "added_at": "2021-04-09 04:00:00",
-      "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/2eaEQlPaIwx7QI3MgGORbf"
-      },
-      "artists": [
-        {
-          "name": "Hamish Anderson",
-          "url": "https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/1vC2eGIjumzgYknFrKl3Vg"
     }
   ],
   "unique_name": "Nu-Blue",

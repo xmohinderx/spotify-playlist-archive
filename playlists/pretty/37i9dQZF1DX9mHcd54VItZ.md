@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW?si=oZbbsUQEQaKRU6VlW5Nfgw">Seether</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,286 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,295 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 2 | [Risk](https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Teen Tapes \(For Performing Your Own Stunts\)](https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj) | 2:49 |
 | 3 | [Too Much \(Feat\. Shane Durrant\)](https://open.spotify.com/track/5ERIKZDFo9IDQl4dg69fzS) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt), [Shane Durrant](https://open.spotify.com/artist/3rJ8mFZryeXC2n5bMkQVkV) | [Fine thanks, and you?](https://open.spotify.com/album/7w9HwmPatYwQd2MgIUqyM8) | 3:12 |
 | 4 | [Silwer](https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Silwer](https://open.spotify.com/album/6P5AWCkCPJyb3UPbeaoB2F) | 3:41 |
-| 5 | [Man Down](https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3) | [Fuzigish](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Man Down](https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV) | 4:19 |
+| 5 | [Man Down](https://open.spotify.com/track/6LvcACjtwZr8d8Rjyz3Jw3) | [Fuzigish](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Man Down](https://open.spotify.com/album/6yPesYP8A3zZWXKpc1s8PV) | 4:20 |
 | 6 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 |
 | 7 | [Dapper](https://open.spotify.com/track/22mVe2AVZRBmAnveENz9qn) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Dapper](https://open.spotify.com/album/2rpJjqpMJQOx69ksFk7vbB) | 3:08 |
 | 8 | [What Would You Do?](https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Wasteland \- The Purgatory EP](https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF) | 4:49 |

@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 194818,
       "name": "8 Letters - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4N8CuFtyo4UanLTEW0EkBb"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 222270,
       "name": "Attention - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 177214,
       "name": "Baby One More Time - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 211688,
       "name": "Echo - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2d7lM2tUbVZbfOvmJFn4pw"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 265687,
       "name": "Everything Is Free - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 204814,
       "name": "Hold Me While You Wait - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4XJ2SmdXNTkMkkx6PFPU8m"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 252942,
       "name": "i don't think i love you anymore - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/11MNmZqWEYAzIbrOQGSTCE"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 180581,
       "name": "I-89 - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
@@ -1281,7 +1281,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 162360,
       "name": "Love Is Here To Stay - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4ehAqz41dlWdLbBBIubIla"
@@ -1347,6 +1347,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165328,
+      "name": "Lucid Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
       },
       "artists": [
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 206190,
       "name": "mars - Spotify Singles",
       "url": "https://open.spotify.com/track/3hmjsmXPsfUrQZwFhGemGd"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 171821,
       "name": "Medicine - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/3WB3A1Et0ieNTNcq6qVNGN"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 240522,
       "name": "No One - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 163386,
       "name": "Shout Out to My Ex - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 236054,
       "name": "Super Far - Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 206333,
       "name": "Touch - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808"
@@ -2215,7 +2233,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 222282,
       "name": "We Know Who U R - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/64Ck5Rsc77cOzdiqElhgUj"

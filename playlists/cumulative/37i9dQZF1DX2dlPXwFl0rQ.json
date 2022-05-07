@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "A Poco S\u00ed A Poco No",
+        "url": "https://open.spotify.com/album/7bwBWm3SuVG2vzHSmFd8kk"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        },
+        {
+          "name": "Uriel Barrera",
+          "url": "https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193626,
+      "name": "A Poco S\u00ed A Poco No",
+      "url": "https://open.spotify.com/track/6PiCtlrRnL5SWS92EOSXkw"
+    },
+    {
+      "album": {
         "name": "Mudanzas",
         "url": "https://open.spotify.com/album/5rvG8IAlVaJRtUHLzaGtyv"
       },
@@ -131,7 +153,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 196407,
       "name": "Always On My Mind (Banda Sonora de la Serie Amsterdam)",
       "url": "https://open.spotify.com/track/2awmX60LDBZufim98UCpW4"
@@ -1251,6 +1273,24 @@
       "duration_ms": 247706,
       "name": "Jab\u00f3n De Olor",
       "url": "https://open.spotify.com/track/1Bqux8vSIgwoRycpC0eLcV"
+    },
+    {
+      "album": {
+        "name": "Andan Hablando De Mi",
+        "url": "https://open.spotify.com/album/5MxHjNgVXSaie2hDyMCb1c"
+      },
+      "artists": [
+        {
+          "name": "La Dama Brava",
+          "url": "https://open.spotify.com/artist/1gih3S3zpg3aJz7Y9Q0v6K"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169360,
+      "name": "Jefe De La Plaza",
+      "url": "https://open.spotify.com/track/7mXuZOGs63m6dipfm2D1M0"
     },
     {
       "album": {
@@ -2451,7 +2491,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 156329,
       "name": "Que Facilito",
       "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"

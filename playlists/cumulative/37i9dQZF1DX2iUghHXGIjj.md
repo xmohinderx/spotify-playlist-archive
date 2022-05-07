@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-100 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+101 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Don't Fish in My Sea](https://open.spotify.com/track/02wAtZaUqHt147UtEBR4LO) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Don't Fish in My Sea](https://open.spotify.com/album/4p4TdPZ6H8k7fp8ozuS6M4) | 4:10 | 2021-07-30 |  |
 | [Down in Mississippi](https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Down in Mississippi](https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP) | 3:23 | 2020-08-11 |  |
 | [Dust My Broom](https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Dust My Broom](https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj) | 3:35 | 2020-08-14 |  |
+| [Eyesight to the Blind](https://open.spotify.com/track/6NEgd3mCyms5M1eDFTqKHR) | [Frank Schaap Quartet](https://open.spotify.com/artist/6LpU4IZOJ1g4HullPifcOC), [Josh Levine](https://open.spotify.com/artist/7kLUXJlgHP3muNOKgd1272), [David Langlois](https://open.spotify.com/artist/6OTOjYUcczTljZHtfgzjXv), [Miguel Weissman](https://open.spotify.com/artist/6dVnje7HuJzCIKrIlgLiAP) | [The Lost Session](https://open.spotify.com/album/2wbIgncFT47Lef7qFcdXrh) | 4:42 | 2022-05-06 |  |
 | [Fishin' Blues \(with Taj Mahal\)](https://open.spotify.com/track/2i9YLsEQ2z0NhJ1ynuQQm2) | [Bob Stewart](https://open.spotify.com/artist/1j6ZqtSr1Y94DjLnQdUnUl), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Then & Now](https://open.spotify.com/album/2DRzxrAuKQwZ79O1lddtwp) | 4:03 | 2022-02-11 |  |
 | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/track/6IXoRpgaFJEf8gSptfpFE6) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/album/63cFrmjsqyaUh97l64IBAG) | 3:46 | 2020-08-11 |  |
 | [Going Down the Road Feeling Bad](https://open.spotify.com/track/70NvafQPgdytXWUe2Yvw1W) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings Volume 3](https://open.spotify.com/album/5c7E6QImmtlRXTsbU4dQWC) | 4:57 | 2020-08-11 |  |
@@ -96,7 +97,7 @@
 | [The World Can Be So Cold](https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/7kE0bDyvEtUN1HLK6aHRwC) | 3:26 | 2021-05-21 |  |
 | [Thumb A Ride](https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb A Ride](https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof) | 2:53 | 2020-08-11 |  |
 | [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 | 2020-08-11 |  |
-| [Under His Command](https://open.spotify.com/track/5rO1zJCRkUdypNagJ99Zj0) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:15 | 2020-08-11 |  |
+| [Under His Command](https://open.spotify.com/track/5rO1zJCRkUdypNagJ99Zj0) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:15 | 2020-08-11 | 2022-05-07 |
 | [Walking Blues](https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Stefan Grossman](https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5) | [Country Blues Guitar](https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO) | 3:45 | 2020-08-11 |  |
 | [Walking My Troubles Away](https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9) | [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Mystery Man](https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt) | 4:54 | 2021-12-17 |  |
 | [Walking the dog](https://open.spotify.com/track/6TZa0ySHmDrjet5uk1gFSM) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom) | [Journey On](https://open.spotify.com/album/3AMhMqVJLR0Gyoz4iDdbnz) | 4:11 | 2020-08-11 |  |

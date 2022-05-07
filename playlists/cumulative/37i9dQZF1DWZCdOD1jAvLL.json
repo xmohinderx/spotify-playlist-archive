@@ -770,6 +770,24 @@
     },
     {
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot"
+    },
+    {
+      "album": {
         "name": "edamame (feat. Rich Brian) [Diplo Remix]",
         "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
       },
@@ -789,7 +807,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 175309,
       "name": "edamame (feat. Rich Brian) - Diplo Remix",
       "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
@@ -859,6 +877,24 @@
       "duration_ms": 222426,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk"
+    },
+    {
+      "album": {
+        "name": "Essa Mina",
+        "url": "https://open.spotify.com/album/3eaQmIHdcfnwCq68lJzKYH"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370946,
+      "name": "Essa Mina",
+      "url": "https://open.spotify.com/track/1D7rwwv3n4ChKvS3CyMiGL"
     },
     {
       "album": {
@@ -1041,7 +1077,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 232132,
       "name": "Funk Accelerator",
       "url": "https://open.spotify.com/track/3QORLvINZ5ie3lRsTOZJqD"
@@ -1125,10 +1161,36 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 172245,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+    },
+    {
+      "album": {
+        "name": "Ghost - Cloverdale Remix",
+        "url": "https://open.spotify.com/album/77cGlrjC62YXn9wHJK0xRW"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204285,
+      "name": "Ghost - Cloverdale Remix",
+      "url": "https://open.spotify.com/track/4sd13Wkerj62pdgkMHBBUd"
     },
     {
       "album": {
@@ -1293,6 +1355,28 @@
       "duration_ms": 251612,
       "name": "Human League",
       "url": "https://open.spotify.com/track/23urM0HEdculuZPJyhImwB"
+    },
+    {
+      "album": {
+        "name": "I Don't Think U Do",
+        "url": "https://open.spotify.com/album/53t06XQarorEYsDJXjwjSg"
+      },
+      "artists": [
+        {
+          "name": "SNBRN",
+          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+        },
+        {
+          "name": "FREAK ON",
+          "url": "https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "I Don't Think U Do",
+      "url": "https://open.spotify.com/track/2cyNqXxLcSV7EtEkIivrlz"
     },
     {
       "album": {
@@ -1584,6 +1668,50 @@
     },
     {
       "album": {
+        "name": "Let's Freak",
+        "url": "https://open.spotify.com/album/681OCAwzVaNg6yPgMQ3uJx"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        },
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Let's Freak",
+      "url": "https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs"
+    },
+    {
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/1Jz9lsCZlbb7pW829VbgXH"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Shapov",
+          "url": "https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200952,
+      "name": "Let's Rave, Make Love",
+      "url": "https://open.spotify.com/track/6mylgnvuGYjcakF6ur4uHC"
+    },
+    {
+      "album": {
         "name": "Life Of Sin (feat. Ranger Trucco)",
         "url": "https://open.spotify.com/album/58lFMssaXCRBis5YRcsycv"
       },
@@ -1846,6 +1974,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc"
+    },
+    {
+      "album": {
         "name": "Story Of A Stoner",
         "url": "https://open.spotify.com/album/645cxe4AcIaIxUiz6tdraC"
       },
@@ -1883,6 +2029,28 @@
       "duration_ms": 170833,
       "name": "Money",
       "url": "https://open.spotify.com/track/2AhKFNKiRxk2NZNF47bFjn"
+    },
+    {
+      "album": {
+        "name": "fuck ya go us",
+        "url": "https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT"
+      },
+      "artists": [
+        {
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        },
+        {
+          "name": "Party Nails",
+          "url": "https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "monotony (feat. Party Nails)",
+      "url": "https://open.spotify.com/track/5OPRwpt3Bl41raaWphfW3q"
     },
     {
       "album": {
@@ -2089,7 +2257,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 185196,
       "name": "No Stoppin",
       "url": "https://open.spotify.com/track/7yhgXEXfxFZ3umffj1UPaQ"
@@ -2133,7 +2301,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 159137,
       "name": "Nuit Blanche",
       "url": "https://open.spotify.com/track/4gYwnkWNrORyaDgBj5V8ri"
@@ -2225,7 +2393,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 160629,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6"
@@ -2243,7 +2411,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 186964,
       "name": "Out The Door",
       "url": "https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK"
@@ -2415,7 +2583,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 199059,
       "name": "Polite (feat. Malokyo)",
       "url": "https://open.spotify.com/track/0ymIxPq8P10uANAKQVCwCp"
@@ -2485,7 +2653,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 170551,
       "name": "Put The Sauce On It",
       "url": "https://open.spotify.com/track/4Vowybk65jE8toBn3A2oaG"
@@ -2689,7 +2857,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 207272,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
@@ -3144,6 +3312,24 @@
     },
     {
       "album": {
+        "name": "Take It Away",
+        "url": "https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226895,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq"
+    },
+    {
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/4g4Ud08xXYgLuW3ltAy5X4"
       },
@@ -3185,6 +3371,28 @@
       "duration_ms": 283980,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL"
+    },
+    {
+      "album": {
+        "name": "Talamanca (Carl Cox Remix)",
+        "url": "https://open.spotify.com/album/4UWvyZcVY2xOzXoWOetaSA"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275076,
+      "name": "Talamanca - Carl Cox Remix",
+      "url": "https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg"
     },
     {
       "album": {
@@ -3404,6 +3612,24 @@
     },
     {
       "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/37zquxYvzsXCvhO8whITBM"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/76IBjqYohp5r2ff5hvbXqg"
+    },
+    {
+      "album": {
         "name": "Trigger Technology",
         "url": "https://open.spotify.com/album/61Hv14MDmklquNTnwh55wo"
       },
@@ -3415,7 +3641,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 214047,
       "name": "Trigger Technology",
       "url": "https://open.spotify.com/track/29e8sjYkArwTiNxKNEgvpX"

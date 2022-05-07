@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 
-83 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
+84 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Can't You See \(feat\. Kid Rock\) \[Live\] \[Pass The Jar \- Zac Brown Band and Friends Live from the Fabulous Fox Theatre In Atlanta\]](https://open.spotify.com/track/5WEVM8TCxYLE6ChEe1Tom6) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Pass the Jar \- Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)](https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb) | 5:46 | 2021-07-22 |  |
 | [Check Yes Or No \- Live](https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 2:53 | 2021-07-22 |  |
 | [Chicken Fried \(Live\) \[Pass the Jar \- Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta\]](https://open.spotify.com/track/1ut0xFxNXho4lONKCfAu28) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Pass the Jar \- Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)](https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb) | 5:10 | 2021-07-22 |  |
+| [Cold Beer Calling My Name \- Live](https://open.spotify.com/track/1cAWVia2LjLD7F0ESODY8u) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Live from Oxford, MS](https://open.spotify.com/album/3Pe6oAFJJTCRxNEvNrxczL) | 3:42 | 2022-05-06 |  |
 | [Colder Weather \(feat\. Little Big Town\) \[Live\] \[Pass the Jar \- Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta\]](https://open.spotify.com/track/6zshANE5F24ouL8THcKfxc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pass the Jar \- Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)](https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb) | 4:29 | 2021-07-22 |  |
 | [Different ‘Round Here \- Live](https://open.spotify.com/track/3ENzGRDiKCLnbWXuY8vibZ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [We Out Here: Live](https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB) | 3:36 | 2022-03-25 |  |
 | [Downtown \- Live](https://open.spotify.com/track/5OSgA8BnIaPpoYQKRSVv9x) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:29 | 2021-07-22 |  |

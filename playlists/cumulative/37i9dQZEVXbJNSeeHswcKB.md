@@ -4,11 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-560 songs - 1 day 7 hr 2 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
+561 songs - 1 day 7 hr 5 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 Op Een Miljoen](https://open.spotify.com/track/04zzaZmF7rn0AkvOTiYhHy) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Metejoor](https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W) | 3:18 | 2021-11-09 |  |
+| [1 Op Een Miljoen](https://open.spotify.com/track/04zzaZmF7rn0AkvOTiYhHy) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Metejoor](https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W) | 3:18 | 2021-11-09 | 2022-05-07 |
 | [1 Op Een Miljoen](https://open.spotify.com/track/1Ox6RIOerYvgRH9AxIl4DO) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [1 Op Een Miljoen](https://open.spotify.com/album/7vhYasDgXpdyjwVaFvt95z) | 3:18 | 2021-03-27\* | 2021-07-04 |
 | [1,2,3](https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [1,2,3](https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q) | 3:45 | 2021-04-18 | 2021-04-26 |
 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-05-25 | 2021-05-31 |
@@ -23,6 +23,7 @@
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-20 |
 | [A Tale By Quincy](https://open.spotify.com/track/759ndr57jb0URg4j9YSWml) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-17 |  |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-06 |  |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2022-01-14 | 2022-01-15 |
 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2022-01-02 | 2022-01-04 |
 | [Afro Trap Part\. 11 \(King Kong\)](https://open.spotify.com/track/62nJqZs3Qs7DGUto35dVUv) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Afro Trap Part\. 11 \(King Kong\)](https://open.spotify.com/album/2ztIejOSOlhj6tbkwgaSsc) | 2:34 | 2021-05-30 | 2021-06-28 |

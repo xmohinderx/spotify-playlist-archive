@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Vieri Cervelli Montel
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,679 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,698 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 25 | [Fantasma quattro](https://open.spotify.com/track/5av6NKEUJksROjH1AayoEw) | [Sonambient](https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn) | [Fantasma quattro](https://open.spotify.com/album/0oZgsmX3fhOoZlhvrTfvGH) | 3:29 |
 | 26 | [Fantasia](https://open.spotify.com/track/1hEsQqngL8iq7IwsoTjB9O) | [Cascate](https://open.spotify.com/artist/7cG5p7UFGDKEZlFE351bX4) | [Fantasia](https://open.spotify.com/album/2RGUJun6AQFdrsZ29xy37C) | 2:49 |
 | 27 | [Anima Gemella \(1926\)](https://open.spotify.com/track/4594QC5Q9USRBX2KDJnf9f) | [Aaron Rumore](https://open.spotify.com/artist/32E3ChQHyhmhRs1H4sM4OU), [rrageless](https://open.spotify.com/artist/0pjFf3X1jg3UVCVvreDJ3F) | [3x3+2](https://open.spotify.com/album/3i3kWVR2RaOD2pjQ4bRcYK) | 2:39 |
-| 28 | [Universo](https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x) | [Venere](https://open.spotify.com/artist/2OSkd1QGv0AtrRmoFHWT9e) | [Universo](https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I) | 2:43 |
+| 28 | [Universo](https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x) | [Venere](https://open.spotify.com/artist/0oRYvj2dYUhN9rAcxUqu4f) | [Universo](https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I) | 2:43 |
 | 29 | [quattro](https://open.spotify.com/track/5o39NoEvZyZl3jvL2CCX61) | [bianca](https://open.spotify.com/artist/6Cuyy7LGKfJqK91oFBd2yc) | [quattro](https://open.spotify.com/album/5COv2rWgGH0aTosXpgsHwe) | 3:04 |
 | 30 | [Tutta Pratica](https://open.spotify.com/track/67YI8g9GQGZXorJlNKxc7S) | [Nick Sick](https://open.spotify.com/artist/4OfbG8mT7rOznJ4UDbejLO) | [Tutta Pratica](https://open.spotify.com/album/6OCyskhIDhJppKGjv75maw) | 3:47 |
 | 31 | [Kids are electric](https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 3:38 |

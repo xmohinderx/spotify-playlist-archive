@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Emerging music breaking waves.  Cover: A$AP ANT",
+  "description": "New music breaking waves.  Cover: Jay305",
   "name": "Ripple Effect",
   "published_playlist_ids": [
     "74YlDMgCbNeMMptS6g5iCD"
@@ -584,6 +584,28 @@
     },
     {
       "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+      },
+      "artists": [
+        {
+          "name": "HitKidd",
+          "url": "https://open.spotify.com/artist/6fD4Wp0ohNtBZNB5mvS4PK"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+    },
+    {
+      "album": {
         "name": "Somewhere in Mind",
         "url": "https://open.spotify.com/album/5lUwPajCLxdOdSAWNFiPqS"
       },
@@ -693,6 +715,28 @@
       "duration_ms": 160078,
       "name": "Function",
       "url": "https://open.spotify.com/track/0DYcMa43MF2cFqNWoCkfYC"
+    },
+    {
+      "album": {
+        "name": "Ghetto Praise",
+        "url": "https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc"
+      },
+      "artists": [
+        {
+          "name": "Jay 305",
+          "url": "https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193756,
+      "name": "Ghetto Praise",
+      "url": "https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6"
     },
     {
       "album": {

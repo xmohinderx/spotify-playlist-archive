@@ -4,7 +4,7 @@
 
 > Cuidar de si todos os dias com a melhor trilha sonora.
 
-36 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/41vYaKONxsf6dvUNFH56lw)
+37 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/41vYaKONxsf6dvUNFH56lw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 | 2021-11-30 |  |
 | [Reminds Me](https://open.spotify.com/track/4KNlASXNNrYYmNZj4KG8qX) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Reminds Me](https://open.spotify.com/album/39YqiiIeV7BjNSZEggvI0F) | 2:37 | 2021-11-30 |  |
 | [Rules](https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:07 | 2021-11-30 |  |
+| [sad girls always finish first](https://open.spotify.com/track/16mFtGFLstwAxII0hUknUk) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [sad girls always finish first](https://open.spotify.com/album/1FaBznYSUrobcSjQEmERFM) | 3:15 | 2022-05-06 |  |
 | [Save Room for Us](https://open.spotify.com/track/3TMZVleKFb75oUZpp86KPn) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Songs For You](https://open.spotify.com/album/03mqFnIf0SxlMFVDO4a3YK) | 2:44 | 2021-11-30 |  |
 | [se essa vida fosse um filme](https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [se essa vida fosse um filme](https://open.spotify.com/album/1Ekb2K13vBO6VkILvBV6LI) | 2:05 | 2021-11-30 |  |
 | [Shifted](https://open.spotify.com/track/29m7O8gJheZBBD0WYAVPQ9) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty](https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW) | 3:12 | 2021-11-30 |  |

@@ -30,6 +30,32 @@
     },
     {
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/5tIrZYi4mSCvhrEEi7zU2A"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "777",
+      "url": "https://open.spotify.com/track/0LpUlvP5TN3krqK5sToPRQ"
+    },
+    {
+      "album": {
         "name": "A 120",
         "url": "https://open.spotify.com/album/1d7B2L3w06kkI7Y8WXNYkx"
       },
@@ -57,7 +83,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 233000,
       "name": "A 120",
       "url": "https://open.spotify.com/track/5UaxYPAJvLc5uuV9sbTZjP"
@@ -456,6 +482,28 @@
     },
     {
       "album": {
+        "name": "Colocados",
+        "url": "https://open.spotify.com/album/4taNe2QMypVpxlTmikrLmz"
+      },
+      "artists": [
+        {
+          "name": "Neto Reyno",
+          "url": "https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q"
+        },
+        {
+          "name": "Mc Luka",
+          "url": "https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275121,
+      "name": "Colocados",
+      "url": "https://open.spotify.com/track/2PNXAJsaHQQROOGAWv5Y8m"
+    },
+    {
+      "album": {
         "name": "Complicado",
         "url": "https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC"
       },
@@ -624,6 +672,32 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/5P6rDFKtvsQO8KsaviUVtq"
+      },
+      "artists": [
+        {
+          "name": "La Sinclair",
+          "url": "https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9"
+        },
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Adan Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/76cdJNuDt1dgoUAg3Zsmbq"
+    },
+    {
+      "album": {
         "name": "Luz & Sombra",
         "url": "https://open.spotify.com/album/4zfSMksNSvSWuwVWE0QmM8"
       },
@@ -771,7 +845,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 172126,
       "name": "Dios y La Muerte",
       "url": "https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B"
@@ -1231,7 +1305,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 213253,
       "name": "Juego",
       "url": "https://open.spotify.com/track/4L8UrMGwneCQc71x2fPZSf"
@@ -2427,7 +2501,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 189176,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/2Dldi4E3sf021OxN7tL40L"
@@ -2847,7 +2921,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 267796,
       "name": "Todo Va a Estar Bien",
       "url": "https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq"
@@ -2891,6 +2965,24 @@
       "duration_ms": 214094,
       "name": "Too Much Flow",
       "url": "https://open.spotify.com/track/2ZBlDOQlq043eg34LwW54c"
+    },
+    {
+      "album": {
+        "name": "Tumbando Avi\u00f3n",
+        "url": "https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tumbando Avi\u00f3n",
+      "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"
     },
     {
       "album": {
@@ -3079,6 +3171,28 @@
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
+    },
+    {
+      "album": {
+        "name": "\u00d3diame",
+        "url": "https://open.spotify.com/album/6JuCoRF5S6njhevPgdAkxe"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Macz Morales",
+          "url": "https://open.spotify.com/artist/7GKCmh5hkZHwNhiqDGogmT"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159412,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/0YgZt8MaC2t2vWEWeT6y6J"
     },
     {
       "album": {

@@ -686,6 +686,36 @@
     },
     {
       "album": {
+        "name": "Flow It\u00e1lia",
+        "url": "https://open.spotify.com/album/4HfKwBLgDIUuzhg2hn7jAE"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Salaga",
+          "url": "https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "DJ Gui JC",
+          "url": "https://open.spotify.com/artist/52sRoPRISSFCi3ptbDXOQA"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Flow It\u00e1lia",
+      "url": "https://open.spotify.com/track/2SvBhrgOLk2wY4ZWeX9JQ1"
+    },
+    {
+      "album": {
         "name": "Flow Smith",
         "url": "https://open.spotify.com/album/2qWIyPriHU5OQmG3M4YayG"
       },
@@ -1319,7 +1349,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 243548,
       "name": "Putaria e Crime",
       "url": "https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr"

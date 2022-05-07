@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "Bar\u00e1ttan vi\u00f0 Myrkri\u00f0",
+        "url": "https://open.spotify.com/album/5ZqYuoyzvEEoK8QiPSvTVL"
+      },
+      "artists": [
+        {
+          "name": "Fuimadane",
+          "url": "https://open.spotify.com/artist/0bvLGQcToNe2fbO2IIXpvN"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321449,
+      "name": "Bautarsteinn",
+      "url": "https://open.spotify.com/track/0HEsNDEwSuTLbLTpnOZjqt"
+    },
+    {
+      "album": {
         "name": "A Turn of Breath - Extended",
         "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },

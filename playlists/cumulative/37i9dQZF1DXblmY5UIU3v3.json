@@ -494,6 +494,28 @@
     },
     {
       "album": {
+        "name": "Ice",
+        "url": "https://open.spotify.com/album/46uVnl8Aua2qfUpTZMWOMW"
+      },
+      "artists": [
+        {
+          "name": "Soner Karaca",
+          "url": "https://open.spotify.com/artist/1sBt5pbb0tW8VjLpmKXyLj"
+        },
+        {
+          "name": "Onur Enfal",
+          "url": "https://open.spotify.com/artist/1kI91ce6uHcJZymFcavzZL"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141163,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/4LaVwTbIR8eFKge1xOgJBe"
+    },
+    {
+      "album": {
         "name": "In The Car",
         "url": "https://open.spotify.com/album/2fA3fXYgvhuFVmvKv0d5LA"
       },
@@ -527,7 +549,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 145333,
       "name": "Karma Karma",
       "url": "https://open.spotify.com/track/0ZI6UpMROX3ezmsvjGT5uM"
@@ -641,6 +663,24 @@
       "duration_ms": 165972,
       "name": "LTE",
       "url": "https://open.spotify.com/track/0wwgILP45gwfpQC8AWhhsq"
+    },
+    {
+      "album": {
+        "name": "Mama I`m A Criminal",
+        "url": "https://open.spotify.com/album/5nOu1y6ZdRDYhPQj7GBW3x"
+      },
+      "artists": [
+        {
+          "name": "Butch U",
+          "url": "https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Mama I`m A Criminal",
+      "url": "https://open.spotify.com/track/7fTp06COFtWGAypdljZpJR"
     },
     {
       "album": {
@@ -879,7 +919,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 185674,
       "name": "Put It Up",
       "url": "https://open.spotify.com/track/5b7j5T2o0PQDCwd75mDQBV"
@@ -919,7 +959,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 151069,
       "name": "Rambo",
       "url": "https://open.spotify.com/track/2cHYazDNcyspIfbWDG78fG"
@@ -945,6 +985,28 @@
       "duration_ms": 149052,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/3NA5PFmaV30v3LUyjMtiu9"
+    },
+    {
+      "album": {
+        "name": "RVBLE & DVST",
+        "url": "https://open.spotify.com/album/4nbbj2cKmY2aCY9IuvSEJG"
+      },
+      "artists": [
+        {
+          "name": "Unklfnkl",
+          "url": "https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW"
+        },
+        {
+          "name": "Robert Cristian",
+          "url": "https://open.spotify.com/artist/26ebqYqothrkkGHWEvJy4D"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "RVBLE & DVST",
+      "url": "https://open.spotify.com/track/2CiCGSQjwQS9dweknIs91G"
     },
     {
       "album": {
@@ -1076,6 +1138,32 @@
     },
     {
       "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/50d34aNHVpVQcLA5wkhkhJ"
+      },
+      "artists": [
+        {
+          "name": "EQRIC",
+          "url": "https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq"
+        },
+        {
+          "name": "RushLow",
+          "url": "https://open.spotify.com/artist/5YJHeia6l8NPQGPsLZS5Mf"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167506,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/3chP6qfr4ZKr9XYpkjw4FI"
+    },
+    {
+      "album": {
         "name": "Stupid Hoe",
         "url": "https://open.spotify.com/album/6IWJn9jORpgsD3MhXRj8MZ"
       },
@@ -1087,7 +1175,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 240020,
       "name": "Stupid Hoe",
       "url": "https://open.spotify.com/track/3IrukCwml897CXzlgDwZDB"

@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Desenrola Bate Joga de Ladin e os funks mais 🔑 do Brasil\. Foto: L7NNON, Os Hawaianos, DJ Biel do Furduncinho, DJ Bel da CDD
+> Kikando e Me Olhando e os funks mais 🔑 do Brasil\. Foto: Mc Braz, Mc Tairon, Dj Win
 
 81 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 

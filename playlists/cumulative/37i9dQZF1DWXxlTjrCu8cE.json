@@ -534,6 +534,24 @@
     },
     {
       "album": {
+        "name": "sad girls always finish first",
+        "url": "https://open.spotify.com/album/1FaBznYSUrobcSjQEmERFM"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "sad girls always finish first",
+      "url": "https://open.spotify.com/track/16mFtGFLstwAxII0hUknUk"
+    },
+    {
+      "album": {
         "name": "Songs For You",
         "url": "https://open.spotify.com/album/03mqFnIf0SxlMFVDO4a3YK"
       },

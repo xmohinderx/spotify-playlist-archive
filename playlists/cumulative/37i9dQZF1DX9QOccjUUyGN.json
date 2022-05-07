@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Kalli, Hbe, Dree",
+  "description": "tranquilo e calmo, no flow. Foto: Ally, Nicolas Walter",
   "name": "tamo flex",
   "published_playlist_ids": [
     "6q6haEaTDDjjQ2HQhKMkJt"
@@ -550,6 +550,24 @@
     },
     {
       "album": {
+        "name": "Costa Rica",
+        "url": "https://open.spotify.com/album/4de2UfVTb9cBH7W4Ov5RKl"
+      },
+      "artists": [
+        {
+          "name": "Pexande",
+          "url": "https://open.spotify.com/artist/2q0FHjgmI45xHxbdXkxYAK"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161342,
+      "name": "Costa Rica",
+      "url": "https://open.spotify.com/track/1Bot8EqmS3iRHdhPit3Sv4"
+    },
+    {
+      "album": {
         "name": "crazy",
         "url": "https://open.spotify.com/album/64F5xEtg6S83eBCStQWHZ7"
       },
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 199344,
       "name": "Ela Pula",
       "url": "https://open.spotify.com/track/2hzfGunUHr4hYGbSfjV6kY"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 145846,
       "name": "Ligeira",
       "url": "https://open.spotify.com/track/24LTTPtN6AK23w9CJoFOn5"
@@ -1666,6 +1684,32 @@
     },
     {
       "album": {
+        "name": "Post Malone",
+        "url": "https://open.spotify.com/album/5UlTpsUHgcwzGGJcf96d4w"
+      },
+      "artists": [
+        {
+          "name": "Ally",
+          "url": "https://open.spotify.com/artist/4xbyEoedyrmxC6tSvgQMAL"
+        },
+        {
+          "name": "N\u00edcolas Walter",
+          "url": "https://open.spotify.com/artist/4LP8P7vaRoN90tqtgVJAYa"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Post Malone",
+      "url": "https://open.spotify.com/track/1WVy38hc1bRg6Uy2LJq7rW"
+    },
+    {
+      "album": {
         "name": "F\u00fatil",
         "url": "https://open.spotify.com/album/1AhTSU8nfVwEI0OSHTIxjp"
       },
@@ -1733,6 +1777,28 @@
       "duration_ms": 196096,
       "name": "Quando Ela Vem",
       "url": "https://open.spotify.com/track/6hYxdh2fCFEGkAtJAk3Lfx"
+    },
+    {
+      "album": {
+        "name": "Quanta Riqueza",
+        "url": "https://open.spotify.com/album/5eiWGVE6tFQiv4HhusuxWM"
+      },
+      "artists": [
+        {
+          "name": "Igor Sales",
+          "url": "https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw"
+        },
+        {
+          "name": "Dj Juninho Mpc",
+          "url": "https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Quanta Riqueza",
+      "url": "https://open.spotify.com/track/5ducepktoljPO994NZQDGJ"
     },
     {
       "album": {
@@ -1943,7 +2009,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 164000,
       "name": "Se Chamar",
       "url": "https://open.spotify.com/track/1MHm9Z5si31OkWrPSX7cPI"

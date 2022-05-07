@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del Trap Latino. Foto: KHEA.",
+  "description": "\u00c9xitos del Trap Latino. Foto: Myke Towers, Sfera Ebbasta & Rvssian.",
   "name": "TRAPPERZ",
   "published_playlist_ids": [
     "0YPZzz15ohQLZmTK6LnsaM"
@@ -810,6 +810,46 @@
     },
     {
       "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Badguychapo",
+          "url": "https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Dinero Digital",
+      "url": "https://open.spotify.com/track/5nggFqmrxKwOpmTS7sS48F"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Dos Mil 16",
+      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
+    },
+    {
+      "album": {
         "name": "Retumban2",
         "url": "https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy"
       },
@@ -953,7 +993,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 251142,
       "name": "El Terre",
       "url": "https://open.spotify.com/track/1ZPQz619gClipJQFKCbreS"
@@ -1249,6 +1289,28 @@
       "duration_ms": 205187,
       "name": "Flow Prieto (feat. Jencko El Shinobi)",
       "url": "https://open.spotify.com/track/0G5Mq5YoX3DmgvQq2mbf6D"
+    },
+    {
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182086,
+      "name": "Gracias A Dios",
+      "url": "https://open.spotify.com/track/79cdKPrpDCOjiyKpAQwxOU"
     },
     {
       "album": {
@@ -1791,7 +1853,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 120831,
       "name": "Lealtad",
       "url": "https://open.spotify.com/track/7oepJEUX1cSLInUs68WQkS"
@@ -2113,7 +2175,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 176050,
       "name": "Muy Enfierrado",
       "url": "https://open.spotify.com/track/4fFa0g5UIuzVNRn3d78EPx"
@@ -2796,6 +2858,32 @@
     },
     {
       "album": {
+        "name": "Italiano",
+        "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177625,
+      "name": "Sola (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/5LK1zfpswTVPO588AAw6bq"
+    },
+    {
+      "album": {
         "name": "Atrapado en las Colinas",
         "url": "https://open.spotify.com/album/2Tuewq0PbKjIgUtIuCx1PL"
       },
@@ -2877,7 +2965,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 161311,
       "name": "Surfeando el Tsunami",
       "url": "https://open.spotify.com/track/5VxQlDyKX3gpdOXKTXUngX"
@@ -2933,6 +3021,24 @@
       "duration_ms": 264385,
       "name": "TATA - Remix",
       "url": "https://open.spotify.com/track/1hfufCKTZ0wIQwoW9tXoDR"
+    },
+    {
+      "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "Tay",
+      "url": "https://open.spotify.com/track/4tmdfH3f6KVx6I6LHkCgqg"
     },
     {
       "album": {
@@ -3309,7 +3415,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 176567,
       "name": "Zona Pistola",
       "url": "https://open.spotify.com/track/49B9zwKFTKtLf1FcbNVShf"

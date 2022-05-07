@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Effy",
+  "description": "Techno is a state of mind. Cover: Charlotte de Witte",
   "name": "Techno State",
   "published_playlist_ids": [
     "5s19c9YN7LAmpSImXIMXhT"
@@ -666,6 +666,24 @@
     },
     {
       "album": {
+        "name": "Lizard Den",
+        "url": "https://open.spotify.com/album/5SNEHRYenRSwt6a0dsJNxB"
+      },
+      "artists": [
+        {
+          "name": "Manami",
+          "url": "https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307635,
+      "name": "Lizard Den",
+      "url": "https://open.spotify.com/track/0gdS1Bf65Q9Rm8Ps92uWpv"
+    },
+    {
+      "album": {
         "name": "Maladaptive Daydreamer",
         "url": "https://open.spotify.com/album/0Zdz4k1rSM83jjR4CKflrl"
       },
@@ -735,6 +753,24 @@
       "duration_ms": 303446,
       "name": "Metaphysical",
       "url": "https://open.spotify.com/track/308mW3tmRmWG5K3g6HVyl3"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc"
     },
     {
       "album": {
@@ -1213,7 +1249,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 368823,
       "name": "The Age Of Ent",
       "url": "https://open.spotify.com/track/7imdBBUwjlvYwsHwE0YIsK"
@@ -1336,6 +1372,42 @@
     },
     {
       "album": {
+        "name": "Walk With Me - 1st Issue",
+        "url": "https://open.spotify.com/album/05lBFERfkGvrL0ilGwK1Jg"
+      },
+      "artists": [
+        {
+          "name": "CAIVA",
+          "url": "https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389419,
+      "name": "Under the Strobe",
+      "url": "https://open.spotify.com/track/48TJWuMRb9ZcKAPxu03b5j"
+    },
+    {
+      "album": {
+        "name": "Universal Consciousness EP",
+        "url": "https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400624,
+      "name": "Universal Consciousness",
+      "url": "https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08"
+    },
+    {
+      "album": {
         "name": "Vibe Catcher",
         "url": "https://open.spotify.com/album/1eyP4K1Oj4rT0wyBMXZjGI"
       },
@@ -1435,6 +1507,28 @@
       "duration_ms": 372238,
       "name": "Wait a Minute",
       "url": "https://open.spotify.com/track/5Inko76DSgc9Ls9sHFAfnl"
+    },
+    {
+      "album": {
+        "name": "Wildside",
+        "url": "https://open.spotify.com/album/3RRhOM6a9IzhKjrIKTHn0J"
+      },
+      "artists": [
+        {
+          "name": "Yousef",
+          "url": "https://open.spotify.com/artist/1HsWNPlqCBv9AwCFBDIEKF"
+        },
+        {
+          "name": "Penny F.",
+          "url": "https://open.spotify.com/artist/3Dh740vRUlju7vg98N3Rkd"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249448,
+      "name": "Wildside",
+      "url": "https://open.spotify.com/track/5q8imvnixEYjK2YVGOaKE2"
     },
     {
       "album": {

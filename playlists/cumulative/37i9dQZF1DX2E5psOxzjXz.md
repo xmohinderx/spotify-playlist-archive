@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Cover: Abdul Hannan
 
-113 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+114 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Pretty Lies](https://open.spotify.com/track/0pvlhF2kQRKGxKqsiUMJwI) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Pretty Lies](https://open.spotify.com/album/76TgmgMlZzqrMOckjo5eFV) | 2:43 | 2022-01-18 |  |
 | [Promises](https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:15 | 2021-12-06 |  |
 | [Pukaar](https://open.spotify.com/track/0R6PVr0THSFcyEqlNTJ9Bp) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [SHE](https://open.spotify.com/album/21Yinw1VwU6Ych11YSruxC) | 3:46 | 2021-12-06 |  |
+| [pyaar hai asli](https://open.spotify.com/track/1WUUDaIcbhfpT8zOSJSUq7) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [sakuna matata](https://open.spotify.com/album/1uTqbU7ucZyccnXtqtVsOc) | 3:58 | 2022-05-06 |  |
 | [Qadar](https://open.spotify.com/track/67TCZHztrcsuaF6dgEtpcv) | [Erazzy](https://open.spotify.com/artist/2WFDhtzpAkZWoklk5B7nIj), [Faisal](https://open.spotify.com/artist/6K18GFQKIkigncXm2BPdgP) | [Qadar](https://open.spotify.com/album/29C7RDkMTtZt8HyxSWZjj1) | 2:36 | 2021-12-06 |  |
 | [Risky](https://open.spotify.com/track/17ZXHiyOwcSBpzqK6w1yYP) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks) | [Risky](https://open.spotify.com/album/0RkRTVDy2rPJlvcRkllfvu) | 3:26 | 2021-12-06 |  |
 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 | 2021-12-06 |  |

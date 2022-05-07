@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: McKenna Grace",
+  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Mothica",
   "name": "SALT",
   "published_playlist_ids": [
     "6uOoVSA8DjAX2qeF3BOP8u"
@@ -1452,6 +1452,28 @@
     },
     {
       "album": {
+        "name": "LAST CIGARETTE (feat. Au/Ra)",
+        "url": "https://open.spotify.com/album/3dK2iIjUFadIeePyqL6zel"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133712,
+      "name": "LAST CIGARETTE (feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/2XvOZXnY0CKTRIo186QE9e"
+    },
+    {
+      "album": {
         "name": "lava",
         "url": "https://open.spotify.com/album/28svVdd3XPgkmtoy1UbL9j"
       },
@@ -1589,7 +1611,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 158918,
       "name": "Make A Wish",
       "url": "https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N"
@@ -1661,7 +1683,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 124566,
       "name": "Megan Fox",
       "url": "https://open.spotify.com/track/3qboOCxreAR56KwFV8Zc7S"
@@ -2023,6 +2045,24 @@
       "duration_ms": 171100,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/48SHHV3qxvboO8TFWrroC4"
+    },
+    {
+      "album": {
+        "name": "R\u00c9SUM\u00c9",
+        "url": "https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ"
+      },
+      "artists": [
+        {
+          "name": "jenny nuo",
+          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166086,
+      "name": "R\u00c9SUM\u00c9",
+      "url": "https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN"
     },
     {
       "album": {

@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 183870,
       "name": "According To You",
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Artichoke",
       "url": "https://open.spotify.com/track/4KLdyKhs8sFlDdQPMAzWif"
@@ -508,6 +508,24 @@
     },
     {
       "album": {
+        "name": "Been in Between",
+        "url": "https://open.spotify.com/album/3VXn1NGgVuD6TdKErh0qYM"
+      },
+      "artists": [
+        {
+          "name": "Footprint Project",
+          "url": "https://open.spotify.com/artist/4t7eLqngSabfN9Ip8X1Dto"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277666,
+      "name": "Been in Between",
+      "url": "https://open.spotify.com/track/0tV5enCGP261xTxW1Lhk80"
+    },
+    {
+      "album": {
         "name": "Bet On Me",
         "url": "https://open.spotify.com/album/1HIGB8Hl480Du1r7nP3ISx"
       },
@@ -519,7 +537,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 191693,
       "name": "Bet On Me",
       "url": "https://open.spotify.com/track/1rBtX2UbcSY9jizKtmnu6C"
@@ -810,6 +828,24 @@
     },
     {
       "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182574,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr"
+    },
+    {
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/3lwy2PkY9ySC5xj0teYHiH"
       },
@@ -821,7 +857,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 176680,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v"
@@ -941,7 +977,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 462479,
       "name": "Could Heaven Ever Be Like This",
       "url": "https://open.spotify.com/track/3Rh5lT5d0WSeO0kwJC7UeI"
@@ -1007,7 +1043,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 150545,
       "name": "Damage",
       "url": "https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60"
@@ -1227,6 +1263,24 @@
       "duration_ms": 247414,
       "name": "Don't Go Chasing",
       "url": "https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz"
+    },
+    {
+      "album": {
+        "name": "Don't Lose Sight",
+        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406186,
+      "name": "Don't Lose Sight (Acoustic)",
+      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
     },
     {
       "album": {
@@ -1485,7 +1539,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 218248,
       "name": "First Avenue",
       "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
@@ -1635,7 +1689,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 204946,
       "name": "Get Down! (Before You Lose Control)",
       "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
@@ -1687,7 +1741,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 168000,
       "name": "Girl",
       "url": "https://open.spotify.com/track/0pHCRRtOHbe94CaEAYGkGn"
@@ -2101,7 +2155,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 155867,
       "name": "I Won't Do U Like That",
       "url": "https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we"
@@ -2377,7 +2431,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 257020,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
@@ -2733,7 +2787,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 259174,
       "name": "Movin' Nowhere",
       "url": "https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73"
@@ -3177,7 +3231,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 152390,
       "name": "PINK FAMILY",
       "url": "https://open.spotify.com/track/0B2uxDcDlrhe2HU2vmdJST"
@@ -3203,7 +3257,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 252203,
       "name": "Pixelated - Nicolaas Remix",
       "url": "https://open.spotify.com/track/0WVYZueJD5wlU8Rm8oUYY5"
@@ -3293,7 +3347,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 195391,
       "name": "Puff Break (Believe That)",
       "url": "https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug"
@@ -3369,7 +3423,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 129230,
       "name": "Right There",
       "url": "https://open.spotify.com/track/02urcBVsMSr13r3iZZNwvX"
@@ -3421,7 +3475,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 184067,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
@@ -3763,7 +3817,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 190335,
       "name": "Someone's Gotta Do It",
       "url": "https://open.spotify.com/track/7JcvgejXVOux8USK59xL61"
@@ -4065,7 +4119,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 196722,
       "name": "Switch",
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
@@ -4083,7 +4137,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 304838,
       "name": "Tango",
       "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
@@ -4367,7 +4421,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
@@ -4385,7 +4439,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 261293,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7eKt06H4E9atyWYWmdo7x7"
@@ -4811,7 +4865,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 198792,
       "name": "Wildcard",
       "url": "https://open.spotify.com/track/7KyVAn4ID0fa8DMfujrMGY"
@@ -4833,7 +4887,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
@@ -4945,7 +4999,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 226033,
       "name": "Zoom Out",
       "url": "https://open.spotify.com/track/0z8zXnL09l88fElGOylr2o"

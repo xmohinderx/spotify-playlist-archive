@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Reno",
+        "url": "https://open.spotify.com/album/5iiEBI9SRW5JtljCEBR9pM"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/3VnFk87TXGjpfuStmK3mhu"
+    },
+    {
+      "album": {
         "name": "American Thread",
         "url": "https://open.spotify.com/album/7vpWpFDu2k7eEWNrstjPwO"
       },
@@ -167,7 +185,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 197267,
       "name": "American Thread",
       "url": "https://open.spotify.com/track/0d0wIqxnYcavcm5AQjvBlB"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 189066,
       "name": "Cars On Blocks",
       "url": "https://open.spotify.com/track/4byGXugy6UdulXHzqKMBMG"
@@ -795,7 +813,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 206000,
       "name": "Down to the Devil",
       "url": "https://open.spotify.com/track/1KqEnSyj7ZFUfN2HddUZMe"
@@ -964,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Go To Town",
+        "url": "https://open.spotify.com/album/5Hl88l5hDmr3O7RVQJBIlE"
+      },
+      "artists": [
+        {
+          "name": "Dusty Black",
+          "url": "https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Go To Town",
+      "url": "https://open.spotify.com/track/6e0yZu2RjDEMaTzjVizc4C"
+    },
+    {
+      "album": {
         "name": "Good Old Days",
         "url": "https://open.spotify.com/album/3Md0K3RwkIZTLek3vz0zOJ"
       },
@@ -979,6 +1015,24 @@
       "duration_ms": 195839,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/6Am1VgKxTIDabVMKMqDK8y"
+    },
+    {
+      "album": {
+        "name": "Halos and Horns",
+        "url": "https://open.spotify.com/album/2czEtw6zLzPGWppATFzdtQ"
+      },
+      "artists": [
+        {
+          "name": "Allie Colleen",
+          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197440,
+      "name": "Halos and Horns",
+      "url": "https://open.spotify.com/track/44Yx0jcGJtgez04gBTea8R"
     },
     {
       "album": {
@@ -1243,7 +1297,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 195296,
       "name": "In Me I Trust",
       "url": "https://open.spotify.com/track/5sdjnLfLl7Xe8UZZ0d0G5f"
@@ -1926,6 +1980,24 @@
     },
     {
       "album": {
+        "name": "Four Good Years",
+        "url": "https://open.spotify.com/album/3OFpU1aJJJzwEI7ixUZer1"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188239,
+      "name": "Still Somethin' - Bonus",
+      "url": "https://open.spotify.com/track/04zWejuIz7CTNxHVeEYe6E"
+    },
+    {
+      "album": {
         "name": "Long Shots",
         "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
       },
@@ -2063,7 +2135,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 142833,
       "name": "The Devil Is an Angel",
       "url": "https://open.spotify.com/track/1NrHorXOBOduKQ0QbLH5VS"
@@ -2425,7 +2497,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 189571,
       "name": "What I Believe",
       "url": "https://open.spotify.com/track/24XgPPXmXoloTUDmmpu7A0"

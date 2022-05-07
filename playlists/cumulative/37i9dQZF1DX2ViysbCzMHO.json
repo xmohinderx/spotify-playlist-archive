@@ -2052,6 +2052,24 @@
     },
     {
       "album": {
+        "name": "Somebody Will (Acoustic)",
+        "url": "https://open.spotify.com/album/58JPDqiqR0tQdoYr5jgrBt"
+      },
+      "artists": [
+        {
+          "name": "Christina Taylor",
+          "url": "https://open.spotify.com/artist/0ol2YEW9hEgLLF9UyDCB4d"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199401,
+      "name": "Somebody Will - Acoustic",
+      "url": "https://open.spotify.com/track/2QtOfeHiZpoHfYUCpMaMim"
+    },
+    {
+      "album": {
         "name": "Something Sexy (Stripped)",
         "url": "https://open.spotify.com/album/6tlU1uRC0bJBesIpAZakkv"
       },

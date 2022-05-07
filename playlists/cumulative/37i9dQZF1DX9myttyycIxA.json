@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 155933,
       "name": "Alien Blues",
       "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 209603,
       "name": "All Being Fine",
       "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 134000,
       "name": "Chipper",
       "url": "https://open.spotify.com/track/57OAkzgghbaakIX5ADAqzx"
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 208848,
       "name": "Choking on Flowers",
       "url": "https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 143482,
       "name": "Chorus Girl",
       "url": "https://open.spotify.com/track/7r60Ixrw40H484k3XwhWwy"
@@ -1935,7 +1935,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 86240,
       "name": "Defy",
       "url": "https://open.spotify.com/track/1rpLnmk3hlS4SKAD3sgUl2"
@@ -2050,6 +2050,24 @@
     },
     {
       "album": {
+        "name": "Autophobia",
+        "url": "https://open.spotify.com/album/4GJULEg4ykZYEt5lfq6Fdp"
+      },
+      "artists": [
+        {
+          "name": "Tennis System",
+          "url": "https://open.spotify.com/artist/2ChSBG1Njjt2SQ2Lt5dziF"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3z9BIZNLWWGlta78pY2kd2"
+    },
+    {
+      "album": {
         "name": "Do U Mind? (Leave the Light On)",
         "url": "https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi"
       },
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 205990,
       "name": "Driving to Hawaii - Juniper Version",
       "url": "https://open.spotify.com/track/0xXGklgPEKlLdXNEuucFPY"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 172235,
       "name": "Empty in My Mind",
       "url": "https://open.spotify.com/track/7oqpMyBrfVsk5QBjDMhqOZ"
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 233905,
       "name": "EYES ON THE ROAD",
       "url": "https://open.spotify.com/track/2oJE0PaKWxSkkFsbNnwIRO"
@@ -2511,7 +2529,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 193194,
       "name": "Far From A Mind",
       "url": "https://open.spotify.com/track/4A52zMKelEdFiL1AEie9Wn"
@@ -3239,7 +3257,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 158065,
       "name": "Head On",
       "url": "https://open.spotify.com/track/2tY0hj4JDKk74YRVTAj7oi"
@@ -3261,6 +3279,24 @@
       "duration_ms": 248433,
       "name": "Head Talk",
       "url": "https://open.spotify.com/track/2Mk3CiL20ZXRVM0Kky7adJ"
+    },
+    {
+      "album": {
+        "name": "Heaven in Your Head",
+        "url": "https://open.spotify.com/album/1ijAzqI3b0LJdS0fgWaDJ1"
+      },
+      "artists": [
+        {
+          "name": "Nuclear Daisies",
+          "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Heaven in Your Head",
+      "url": "https://open.spotify.com/track/4GBxHpWJ8kF8w1hX8pw4VL"
     },
     {
       "album": {
@@ -3755,7 +3791,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 159124,
       "name": "I Miss That",
       "url": "https://open.spotify.com/track/40yDp3u7EFOZvCNy0vgF6N"
@@ -3817,7 +3853,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 162005,
       "name": "I Should",
       "url": "https://open.spotify.com/track/7930Kiq8h1MRuzYJ7yu4Mo"
@@ -4069,7 +4105,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 283000,
       "name": "It's Only Sex",
       "url": "https://open.spotify.com/track/6dtPJwNdLuyVGPWyHOI6GP"
@@ -4275,7 +4311,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 192026,
       "name": "Kind of a Nice Time",
       "url": "https://open.spotify.com/track/1IyQVkQ5aZUg39cFPwQelq"
@@ -4509,7 +4545,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 187940,
       "name": "Let's Pretend We're Not in Love",
       "url": "https://open.spotify.com/track/5fPEnt8N9yXsRNGSVxycz4"
@@ -4599,7 +4635,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 201546,
       "name": "Lore",
       "url": "https://open.spotify.com/track/2xcLyLijuMGQ1GANkSQGQW"
@@ -4779,7 +4815,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 201133,
       "name": "Mind of Its Own",
       "url": "https://open.spotify.com/track/0frbJJp4kKMvrvDnv6YiUD"
@@ -5281,7 +5317,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 134080,
       "name": "Orpheus Under the Influence",
       "url": "https://open.spotify.com/track/7KwJrAQMoJyUEBes3evMLv"
@@ -5335,7 +5371,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 206354,
       "name": "Parking Lots",
       "url": "https://open.spotify.com/track/5PSplhA4PEZHqw0bOfelEp"
@@ -5483,7 +5519,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 138762,
       "name": "Poolside",
       "url": "https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL"
@@ -6371,7 +6407,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 212203,
       "name": "Spin",
       "url": "https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8"
@@ -6425,7 +6461,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 163670,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5jZBhZi5ZrE3EDOdEJdHrn"
@@ -6595,7 +6631,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Stress Relief",
       "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
@@ -6963,7 +6999,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 211593,
       "name": "The Knife",
       "url": "https://open.spotify.com/track/45ikoDZrTVZxfBQIJPCu0T"
@@ -6981,7 +7017,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 228360,
       "name": "The Link Is About to Die",
       "url": "https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU"
@@ -6999,7 +7035,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 196533,
       "name": "The Overload",
       "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
@@ -7569,7 +7605,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 286012,
       "name": "Unrequited Love (& other clich\u00e9s)",
       "url": "https://open.spotify.com/track/1K0AENxzuLi4M420wUlvPT"
@@ -7699,7 +7735,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 168149,
       "name": "Wasted Affairs",
       "url": "https://open.spotify.com/track/3CczWPmaz03mSTr6qnqXnc"
@@ -7721,7 +7757,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 208906,
       "name": "Watching Cartoons",
       "url": "https://open.spotify.com/track/3Gb1M4i5UlDauEnaLJF2HT"
@@ -7775,7 +7811,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 183022,
       "name": "What It's Like",
       "url": "https://open.spotify.com/track/0XWVa5zjDjpvkZZ2sgA3CT"
@@ -8067,7 +8103,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 169549,
       "name": "you were right",
       "url": "https://open.spotify.com/track/1z3y0dcgWonv5eZJmkN05r"

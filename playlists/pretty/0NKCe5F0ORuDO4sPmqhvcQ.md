@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,394 likes - 43 songs - 2 hr 36 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,390 likes - 43 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 14 | [With You](https://open.spotify.com/track/7xbO9ZKSXeos37wSnKPfSZ) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [infina ad nausea: the remixes \[miami rave pack\]](https://open.spotify.com/album/3AVo3rXPsQirTxXQKCHhmw) | 3:33 |
 | 15 | [Never Be Mine](https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Never Be Mine](https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF) | 2:34 |
 | 16 | [All Or Nothing](https://open.spotify.com/track/0t9RRa08BNjaNfnKlY6mIU) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Alter/Ego Volume II](https://open.spotify.com/album/0BCJXsvVkC7fpEPhFEBzhB) | 4:52 |
-| 17 | [About That](https://open.spotify.com/track/3aLikJG6Y9zm40fXtYAC6F) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j), [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [About That](https://open.spotify.com/album/4eljCmUcYWWL0LypuBXE4A) | 2:36 |
+| 17 | [About That](https://open.spotify.com/track/3aLikJG6Y9zm40fXtYAC6F) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [About That](https://open.spotify.com/album/4eljCmUcYWWL0LypuBXE4A) | 2:36 |
 | 18 | [Fire](https://open.spotify.com/track/76zmGyRffSW0aAThzbsZvi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Ethereal](https://open.spotify.com/album/4MVG42fEPbnV1Hm9kdDuzZ) | 3:41 |
 | 19 | [3AM IN CHELSEA \- Club Edit](https://open.spotify.com/track/1y907js7DgPzTwe2w7P2c1) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [3AM IN CHELSEA \(Club Edit\)](https://open.spotify.com/album/0Pjbs4N6KLan9GQ3gzaPnL) | 5:34 |
 | 20 | [Ethereal](https://open.spotify.com/track/5roi8Oveylqkssrp5fQ5hq) | [Audent](https://open.spotify.com/artist/16ZHzYuPyaRVjHGfZExJ60) | [Ethereal](https://open.spotify.com/album/7DP0YsFPjmjz6Es5cfLQyv) | 4:26 |

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 160441,
       "name": "A Dog Chasing Its Own Tail",
       "url": "https://open.spotify.com/track/4DfmnGTcqwD5C7VtNY9AtX"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 168586,
       "name": "A Shot of Alcohol",
       "url": "https://open.spotify.com/track/5RjOdVrGkXEo1hEaAlHgq4"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 288000,
       "name": "Castle In The Sky",
       "url": "https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 205078,
       "name": "dancing in the bedroom sky",
       "url": "https://open.spotify.com/track/6pszbuiSRAzNOUhKp2X8Fs"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 196755,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/669SiWtpzweozGGgO9bGVx"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 259632,
       "name": "Everything's Fine?",
       "url": "https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 181482,
       "name": "Have You Been Told",
       "url": "https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 243013,
       "name": "Horoscope",
       "url": "https://open.spotify.com/track/5aDF6F6LnLg27LMIUWVBqk"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 182400,
       "name": "I Saw You in a Dream",
       "url": "https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 346964,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/7LIAu8r9Zv92LF8ZpKq5Zn"
@@ -861,6 +861,24 @@
       "duration_ms": 270265,
       "name": "Je Suis La Pomme Rouge",
       "url": "https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P"
+    },
+    {
+      "album": {
+        "name": "Jukebox Of History",
+        "url": "https://open.spotify.com/album/00xX5TjEFY70OoI3Vo1mXv"
+      },
+      "artists": [
+        {
+          "name": "Hriday Gattani",
+          "url": "https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188904,
+      "name": "Jukebox Of History - Title Track",
+      "url": "https://open.spotify.com/track/5TckSQXTGcIBl17jE7yY0F"
     },
     {
       "album": {
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 154625,
       "name": "Permanent Food",
       "url": "https://open.spotify.com/track/2tt1Q2eYTrMl7fhfPqOGlG"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 222500,
       "name": "Rain",
       "url": "https://open.spotify.com/track/7smZOvVtWfWZv0sDvSsArS"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 134129,
       "name": "Should I Ghost You...",
       "url": "https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 186640,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8"
@@ -1565,6 +1583,24 @@
       "duration_ms": 239595,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/7IrCTxnRCyhLhTYEf729Ni"
+    },
+    {
+      "album": {
+        "name": "ill tapes, Vol. 1",
+        "url": "https://open.spotify.com/album/16UYyBhOMc8C6wCLagb1Vr"
+      },
+      "artists": [
+        {
+          "name": "Till Apes",
+          "url": "https://open.spotify.com/artist/7qzkGpR5qvkIVPXN5UwvVZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/4z2oHMR3XlJJyyME3ZOkPr"
     },
     {
       "album": {

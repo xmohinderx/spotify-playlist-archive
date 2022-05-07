@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-155 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+156 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [J'veux du soleil \(feat\. Au P'tit Bonheur\) \[Gramophonedzie Remix\]](https://open.spotify.com/track/75HOjGeq8N5q7lFoB4oUoE) | [Bart & Baker](https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN), [Au P'Tit Bonheur](https://open.spotify.com/artist/6aA4f67AL9W1VxtO78M06b), [Julie Gayet](https://open.spotify.com/artist/2XrdbEWWwN5PiI1VCHwFql), [Gramophonedzie](https://open.spotify.com/artist/7jHmmW2bBagmzr76ZJW8Bc) | [Greatest Hits Remixed](https://open.spotify.com/album/4eGWe7746nlrNFJioqvnYL) | 6:08 | 2020-10-30 |  |
 | [Jive Me Crazy](https://open.spotify.com/track/7EvfxMXGMlElnEG4ABnLis) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Jive Me Crazy](https://open.spotify.com/album/26wd5PEZZujm55Un2irkR3) | 2:41 | 2021-08-20 |  |
 | [Joe's Break](https://open.spotify.com/track/2peYxS4wKuwbOxcw8frdHb) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [Fin De Siecle](https://open.spotify.com/album/03I3VyuR6iUv6slsu8USlF) | 4:08 | 2020-10-30 |  |
+| [King of the Conga \- Glenn Gatsby Remix](https://open.spotify.com/track/10eFj73vJ4gZRrUSdjqOkJ) | [Swing'it](https://open.spotify.com/artist/2acptETX6n0IHKXyybYgWS), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [King of the Conga \(Glenn Gatsby Remix\)](https://open.spotify.com/album/1zTU5qrGjt7pxDhZk7FCy8) | 2:27 | 2022-05-06 |  |
 | [Kisse Misse](https://open.spotify.com/track/0aH8X88VkmMpDK6tGcwRd1) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Kisse Misse](https://open.spotify.com/album/4SJhQGeBNDF9Pugij6yhr2) | 2:57 | 2020-10-30 |  |
 | [Lady Bedford](https://open.spotify.com/track/78rRM78zyNFDMVsPDYfKdi) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [Lady Bedford](https://open.spotify.com/album/3Y3Q2asNftRaeDVmbVCen6) | 2:28 | 2020-10-30 |  |
 | [Let there be a swing](https://open.spotify.com/track/2vKvHPjvKeL4SrmnBA3kIk) | [$ashc.A.](https://open.spotify.com/artist/0XVq18PWsZQ9dpf550PAP1) | [Let there be a swing](https://open.spotify.com/album/6GO07EwUpAfQF2zpnEbeae) | 3:36 | 2020-12-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > music that's hard to define but easy to love feat\. daine
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,369 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,407 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 38 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 |
 | 39 | [Find Me](https://open.spotify.com/track/6MnwlWt1UUPTsaaULrv2Nl) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Find Me](https://open.spotify.com/album/4Ysup03MDl4uBhcdzWcKA4) | 3:00 |
 | 40 | [Daygo \(w/ gianni & kyle\)](https://open.spotify.com/track/1cXbG5cSc9jJMCyW2VnBBv) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [Daygo \(w/ gianni & kyle\)](https://open.spotify.com/album/0GGqUvHTZgiXPDnIsed3Gz) | 3:12 |
-| 41 | [bootleg jordans](https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX) | [bootleg jordans](https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS) | 3:09 |
+| 41 | [bootleg jordans](https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [bootleg jordans](https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS) | 3:09 |
 | 42 | [Rerun](https://open.spotify.com/track/4tZ1Orj5XbdeVEh0oXR3MA) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Rerun](https://open.spotify.com/album/48rLNLXpIHGFxVxf3Hrn2I) | 3:21 |
 | 43 | [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 |
 | 44 | [wrote me off.](https://open.spotify.com/track/06Ww8nIKhlRhviaMZMcSRD) | [Myles Cotton](https://open.spotify.com/artist/2w5jXRTaNmFZdkZCaPXS2o) | [wrote me off.](https://open.spotify.com/album/23UutRa5cD4JpvFzx05AQY) | 2:44 |

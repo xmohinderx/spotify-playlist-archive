@@ -4,7 +4,7 @@
 
 > Featuring today's dopest Desi MCs from across the globe\. Cover: Emiway Bantai
 
-82 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
+83 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [M.O.B](https://open.spotify.com/track/317XWxxun4h6VYGG4zRxf3) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js), [JJ Esko](https://open.spotify.com/artist/34UvVIz1pxvFOQZt3fHNSv) | [M.O.B](https://open.spotify.com/album/3HRQaVa1pPfPkQ4BH4EzVc) | 3:06 | 2021-12-03 |  |
 | [Maa Baap](https://open.spotify.com/track/5XyVceXJx8bnyeBeuQhMQ2) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 4:10 | 2022-02-21 | 2022-04-08 |
 | [Machayenge 3](https://open.spotify.com/track/7wxWgtJiYSJiwxGTXRixwV) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Machayenge 3](https://open.spotify.com/album/4x38fZ3nGq27YyJ20RfkQE) | 3:49 | 2021-12-03 |  |
+| [MADE IN INDIA](https://open.spotify.com/track/6r9mtK72sWx2p5qF1YpuWw) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [MADE IN INDIA](https://open.spotify.com/album/0jApdRdJodWz69l0qcWshr) | 2:21 | 2022-05-06 |  |
 | [Majha Side](https://open.spotify.com/track/5x3yI44ixUB6pFRRlH2g65) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Sanu Dekhda Zamana](https://open.spotify.com/album/4ihy8XTTd6I4o96Ux81sf8) | 2:59 | 2022-01-13 |  |
 | [Majhail](https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Majhail](https://open.spotify.com/album/3l9zX9nHVRjYLbx5ya77ha) | 2:55 | 2021-12-03 |  |
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-01-13 |  |

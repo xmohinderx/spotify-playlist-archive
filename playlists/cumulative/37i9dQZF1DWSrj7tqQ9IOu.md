@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> 🐸 The best French indie tracks right now\. Cover: Miki
+> 🐸 The best French indie tracks right now\. Cover: Miel de Montagne
 
-106 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
+109 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,11 @@
 | [Arrivera](https://open.spotify.com/track/29htxu76IzvAi8n4HY0fMG) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Arrivera](https://open.spotify.com/album/2mJxHIrImmrJOi9tYvTuku) | 3:03 | 2022-01-20 | 2022-01-28 |
 | [Avec toi](https://open.spotify.com/track/7Id3qONAw6sXE92FlfZEWI) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Lola Le Lann](https://open.spotify.com/artist/3xH7GdfxfMJyUIZESCKDuY) | [Avec toi](https://open.spotify.com/album/3prGiOjw38nyiOKV12uO4N) | 3:43 | 2021-12-16 | 2022-01-28 |
 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-02-24 | 2022-04-01 |
+| [best day ever](https://open.spotify.com/track/5Oj8fVzb2Ha8NutbI0x3P8) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [postcard from Amsterdam](https://open.spotify.com/album/4WVKByV0X2xO0G6BMR6RDL) | 3:00 | 2022-05-06 |  |
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 | 2022-04-08 |
 | [Boom Boom](https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Boom Boom](https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA) | 3:29 | 2021-12-16 | 2022-02-04 |
 | [By the Beach](https://open.spotify.com/track/6YTphVWLG14d3eUiQ5grmU) | [Degree](https://open.spotify.com/artist/1WsU8n1hX7sjHqGryYXp1w) | [By the Beach](https://open.spotify.com/album/7DchkXMv3PHncobatgHBzX) | 2:43 | 2021-12-16 | 2022-01-28 |
-| [Bye\-Bye Baby](https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt) | [PHILEMONE](https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4) | [Bye\-Bye Baby](https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD) | 2:57 | 2022-01-27 |  |
+| [Bye\-Bye Baby](https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt) | [PHILEMONE](https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4) | [Bye\-Bye Baby](https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD) | 2:57 | 2022-01-27 | 2022-05-07 |
 | [C'est Dur](https://open.spotify.com/track/0mmsXfF0UPFMtTNsvMDijb) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [C'est Dur](https://open.spotify.com/album/4PoqfZAe5hpS1fycD98ARO) | 3:44 | 2022-02-17 | 2022-03-11 |
 | [CAMISOLE](https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [CAMISOLE](https://open.spotify.com/album/1uTzVKDHKVJ91ahXU1lVPP) | 3:38 | 2021-12-16 | 2022-04-15 |
 | [castles](https://open.spotify.com/track/0arsSXwDYyMvG3U6RHU21y) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [postcard from Istanbul](https://open.spotify.com/album/44zcVOvyCXlw3hddxRebre) | 2:54 | 2022-04-07 |  |
@@ -60,6 +61,7 @@
 | [Last September](https://open.spotify.com/track/6yJKFbODJ05XHX9EwvtWYA) | [Tample](https://open.spotify.com/artist/0PL4oBFPdmDGLXFPaBpYcJ) | [Glory](https://open.spotify.com/album/6o2IPSHPg1wDU2o16ueD6E) | 3:10 | 2022-01-27 |  |
 | [Le coeur en panne](https://open.spotify.com/track/2dEd1mQEtgmzQRLM982Obg) | [Toboggan](https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG) | [Le coeur en panne](https://open.spotify.com/album/5e5eWVnGzi798swulTYPd2) | 3:24 | 2022-01-20 |  |
 | [le moment présent](https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [le moment présent](https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4) | 2:49 | 2022-01-20 |  |
+| [Le Tuto](https://open.spotify.com/track/7CQWOTljGv2tc9leEARsTa) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Le Tuto](https://open.spotify.com/album/6DMKItPu49cvlJmiKC0qdL) | 3:30 | 2022-05-06 |  |
 | [Les bonnes manières](https://open.spotify.com/track/1tmEnZhAhwUjzwJ7L0QFAh) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Les bonnes manières](https://open.spotify.com/album/3x9CnMbpz96ggiCQATfLQ4) | 2:58 | 2021-12-16 | 2022-01-14 |
 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 | 2021-12-16 |  |
 | [Les questions \- feat\. Papa](https://open.spotify.com/track/1GcLyTYF18YQi3fLuNYnwh) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Les questions \(feat\. Papa\)](https://open.spotify.com/album/61cuBA0xeIlmfmiazm6nxZ) | 3:25 | 2022-04-28 |  |
@@ -71,7 +73,7 @@
 | [Mauvaises habitudes](https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ) | [La Belle Vie](https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY) | [Mauvaises habitudes](https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv) | 2:25 | 2021-12-16 |  |
 | [Meguro](https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Meguro](https://open.spotify.com/album/1bI0XTLqwlY50uXcT9ZFJz) | 3:24 | 2021-12-16 | 2022-03-25 |
 | [minuit](https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L) | [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [minuit](https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89) | 3:45 | 2021-12-16 |  |
-| [Mirage](https://open.spotify.com/track/51xm7ThW7RFWFequh489x2) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Mirage](https://open.spotify.com/album/1yyd5eQ1MlUHP8kJNEuAtC) | 3:02 | 2022-01-06 |  |
+| [Mirage](https://open.spotify.com/track/51xm7ThW7RFWFequh489x2) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Mirage](https://open.spotify.com/album/1yyd5eQ1MlUHP8kJNEuAtC) | 3:02 | 2022-01-06 | 2022-05-07 |
 | [Misbehave](https://open.spotify.com/track/7wKs9pd54ChcpRCn0ZvMZy) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Sonic Poems](https://open.spotify.com/album/61LDldyfICKlRKjauyeWdn) | 3:29 | 2022-02-24 | 2022-04-08 |
 | [Misunderstood](https://open.spotify.com/track/4cd2bB36S1dcP88xNZnY3p) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Misunderstood](https://open.spotify.com/album/6ju1O90njqELb8iVbc2bOh) | 2:33 | 2022-04-28 |  |
 | [Mon cœur](https://open.spotify.com/track/1BxdizqeXJ9jRfMK0XStIL) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [Mon cœur](https://open.spotify.com/album/3FTUbM0nfkQqF0KWSIWhFf) | 3:18 | 2022-03-24 |  |
@@ -89,7 +91,7 @@
 | [Paris en août](https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW) | [Part\-Time Friends](https://open.spotify.com/artist/76mxGKWJzBzyHd6oX1t2yp) | [Paris en août](https://open.spotify.com/album/2F97r4tTBp5iGMgkMNT6rA) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2021-12-16 |  |
 | [Pesanteur](https://open.spotify.com/track/4tWdbD3IuTFxz8Sd4Nu6QH) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Pesanteur](https://open.spotify.com/album/1IUgA2qSFsB4GJOvgDVbrZ) | 2:36 | 2021-12-16 | 2022-04-15 |
-| [Petit Poucet](https://open.spotify.com/track/5n1uvSFB3AhKUrIPD61yAZ) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [Petit Poucet](https://open.spotify.com/album/3UaSpVvzrUAxEexaIVt7Ap) | 4:12 | 2022-01-27 |  |
+| [Petit Poucet](https://open.spotify.com/track/5n1uvSFB3AhKUrIPD61yAZ) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [Petit Poucet](https://open.spotify.com/album/3UaSpVvzrUAxEexaIVt7Ap) | 4:12 | 2022-01-27 | 2022-05-07 |
 | [Plus loin](https://open.spotify.com/track/2RizyXfCW91VVmgZDWi0oY) | [Kooking](https://open.spotify.com/artist/7rLc4atM9xcjhBpACb0aIS), [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Plus loin](https://open.spotify.com/album/3OUe4BCFUFo2CCTi0w0RhW) | 2:55 | 2022-04-07 | 2022-04-22 |
 | [Postcards & Letters](https://open.spotify.com/track/1ki4jngOmaHbmyHoSABAhR) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp) | [Postcards & Letters](https://open.spotify.com/album/3ss4bwz8F6bI47Ahvm5HCv) | 4:03 | 2021-12-16 | 2022-04-15 |
 | [Premier Incendie \- Edit](https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Premier Incendie \(Edit\)](https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv) | 3:01 | 2022-02-17 |  |
@@ -113,6 +115,7 @@
 | [Un coup de génie](https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Un coup de génie](https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte) | 3:12 | 2022-02-03 |  |
 | [United](https://open.spotify.com/track/7mYRC0kv4oI7ipqoPT8aXM) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN) | [United](https://open.spotify.com/album/3yJ1VIZjUuXHdkE7ECLcWz) | 3:48 | 2021-12-16 | 2022-01-21 |
 | [Virus X \- SAGE Rework \- radio edit](https://open.spotify.com/track/0Yr1TfeacyGFyDe0aWDla9) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Virus X](https://open.spotify.com/album/4KIibT2LzfY64VxJWWABJc) | 2:45 | 2021-12-16 | 2022-01-07 |
+| [Vitesse](https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Vitesse](https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz) | 2:48 | 2022-05-06 |  |
 | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6), [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/album/5VDE8rAYryH4lTbGDvSMVQ) | 3:05 | 2021-12-16 | 2022-01-14 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

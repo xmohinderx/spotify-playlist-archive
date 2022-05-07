@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: MI MI, Artwork: Isu Kim
 
-335 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
+336 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [TIS](https://open.spotify.com/track/4PNIqLc0NcG8Rek3XWNqXX) | [Aurelius](https://open.spotify.com/artist/2Sinzznmvm6x6UamDkSB2u) | [TIS](https://open.spotify.com/album/7vhXbNWW78775rKWL7scwt) | 3:57 | 2022-01-13 | 2022-02-25 |
 | [Today](https://open.spotify.com/track/5GDkQB4tRRkNTgJJ7FkdJu) | [Sunflower Station](https://open.spotify.com/artist/5sqGA9ELDpJqRt5DttkNE3) | [Today](https://open.spotify.com/album/2EAf0AR1kpZ6wUkBGMh11j) | 3:33 | 2022-01-27 | 2022-02-11 |
 | [TRIGGER](https://open.spotify.com/track/4plTi2YE7bXoOyGj19SF9z) | [gab](https://open.spotify.com/artist/4tLANANLwM1pBnb7csmCSc) | [TRIGGER](https://open.spotify.com/album/6U21dN332TxG8eEOCynbc7) | 3:40 | 2022-02-24 | 2022-03-04 |
+| [tumakbo sa ulan](https://open.spotify.com/track/11b2CnBhsQ6QbXAy3HdwJ4) | [Hezekiah Valle Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [tumakbo sa ulan](https://open.spotify.com/album/0HClSgJtu3VYcaWAaiymJT) | 4:59 | 2022-05-05 |  |
 | [Turn Back Time](https://open.spotify.com/track/3K6SPrVQHs9rr8dcha7h3K) | [Psalm Galope](https://open.spotify.com/artist/0MemJQtR163JH7Jdvgzlq1) | [Turn Back Time](https://open.spotify.com/album/7r7zojVpLo6RU7xvwTe9tQ) | 4:13 | 2022-05-05 |  |
 | [U ARE MINE!](https://open.spotify.com/track/5xrZ2LEPlPpc9POXgEdAJ6) | [ANIKA NICOLE](https://open.spotify.com/artist/1aZ7b1KMeuKJND0RtyjvGV) | [U ARE MINE!](https://open.spotify.com/album/6b33lNCA5ExJzyHtN5PGD7) | 3:16 | 2022-04-07 | 2022-04-22 |
 | [UGLY](https://open.spotify.com/track/3gcc9EmRCCExko0sGBUpqY) | [Hiraeth Ling](https://open.spotify.com/artist/3C8aOFWO192qP5aAfzlDiO) | [UGLY](https://open.spotify.com/album/0isbGtUmqbGVR2BgcdrI0Y) | 3:20 | 2022-05-05 |  |

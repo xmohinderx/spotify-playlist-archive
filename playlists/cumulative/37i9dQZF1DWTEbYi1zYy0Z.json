@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 182142,
       "name": "Answers",
       "url": "https://open.spotify.com/track/5m15Sb31QrakG1CYoWC5iY"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 321750,
       "name": "Coastline Drive",
       "url": "https://open.spotify.com/track/5j05IaaOCvj4AGfZmrp656"
@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 244093,
       "name": "Gift to the World",
       "url": "https://open.spotify.com/track/7dmEXRsuWBSi4gsbjA4f4S"
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 232751,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7"
@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 236013,
       "name": "Hear At Last",
       "url": "https://open.spotify.com/track/7nklnyVct8QNhGodPcjygu"
@@ -1831,7 +1831,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 208445,
       "name": "Hrs and Hrs",
       "url": "https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn"
@@ -1897,7 +1897,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 273478,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/1HvQ21aHUGiuW1TVuLZmhe"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 287040,
       "name": "Jazz Party",
       "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
@@ -2721,7 +2721,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 187818,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
@@ -3357,7 +3357,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 209727,
       "name": "Set Sail",
       "url": "https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS"
@@ -3593,7 +3593,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 160173,
       "name": "Soul Free",
       "url": "https://open.spotify.com/track/4biAeEqczaaw07TqaHZbe0"
@@ -3713,6 +3713,24 @@
       "duration_ms": 238640,
       "name": "Staycation",
       "url": "https://open.spotify.com/track/3Q5OzOo58pfmgTxKMC09yr"
+    },
+    {
+      "album": {
+        "name": "The Trilogy, Pt. 3: White",
+        "url": "https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308092,
+      "name": "Step into Love",
+      "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
     },
     {
       "album": {
@@ -4014,6 +4032,24 @@
     },
     {
       "album": {
+        "name": "Sweet Talk",
+        "url": "https://open.spotify.com/album/5EUUo76pUrle56LBRx17N2"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244440,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
+    },
+    {
+      "album": {
         "name": "Sweetness",
         "url": "https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW"
       },
@@ -4051,7 +4087,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 239293,
       "name": "T's Jam",
       "url": "https://open.spotify.com/track/4Ug2IMwc2VFW41l3fUB0kY"
@@ -4251,7 +4287,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 251076,
       "name": "Think Critically",
       "url": "https://open.spotify.com/track/7td9QhTIGCmNMP1UCNIWdp"
@@ -4521,6 +4557,28 @@
       "duration_ms": 209773,
       "name": "Wayman",
       "url": "https://open.spotify.com/track/5IbV5J5utEcAspeG0qzHxI"
+    },
+    {
+      "album": {
+        "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
+        "url": "https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a"
+      },
+      "artists": [
+        {
+          "name": "Jesse Thompson",
+          "url": "https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5"
+        },
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293280,
+      "name": "Weekend Groove",
+      "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
       "album": {

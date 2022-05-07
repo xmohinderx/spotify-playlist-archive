@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam (Acoustic)",
+        "url": "https://open.spotify.com/album/2BW6kuO4sejPFXAYDxXznj"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204067,
+      "name": "Amsterdam - Acoustic",
+      "url": "https://open.spotify.com/track/7duwk0wCezbso7J84vYIlh"
+    },
+    {
+      "album": {
         "name": "Anyone For You (Acoustic)",
         "url": "https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4"
       },

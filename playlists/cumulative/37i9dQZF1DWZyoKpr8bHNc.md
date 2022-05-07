@@ -57,7 +57,7 @@
 | [Zourouni Kouli Sanah Marah](https://open.spotify.com/track/5ZULv6JBpj8eS4T2Pa4UVE) | [Sayed Darwish](https://open.spotify.com/artist/71JpZH64gTrr2Wec59WvNr) | [Best of Sayed Darwish](https://open.spotify.com/album/3g8S82iCa6UjsiYDe8rDxw) | 2:21 | 2020-10-13 |  |
 | [حبينا حبينا](https://open.spotify.com/track/0y8xuNb76WLCH5BbSz0XNU) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [أغانى فيلم نغم فى حياتى](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 7:33 | 2020-10-13 |  |
 | [علي رمش عيونها](https://open.spotify.com/track/1oEVDEISjcVi6vfgoxRDKQ) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [احلي ما غني وديع الصافي](https://open.spotify.com/album/4VGKoa5R2usWUVP3H1OPkv) | 5:44 | 2020-10-13 |  |
-| [لكتب ع وراق الشجر](https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [أغانى فيلم حكايه العمر كله زمان ياحب](https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk) | 7:37 | 2020-10-13 | 2022-05-06 |
-| [يا حبايبى يا غايبين](https://open.spotify.com/track/1P1PnCp10v113ANU6WUfHa) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [أغانى فيلم نغم فى حياتى](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 8:25 | 2020-10-13 |  |
+| [لكتب ع وراق الشجر](https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [أغانى فيلم حكايه العمر كله زمان ياحب](https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk) | 7:37 | 2020-10-13 |  |
+| [يا حبايبى يا غايبين](https://open.spotify.com/track/1P1PnCp10v113ANU6WUfHa) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [أغانى فيلم نغم فى حياتى](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 8:25 | 2020-10-13 | 2022-05-07 |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

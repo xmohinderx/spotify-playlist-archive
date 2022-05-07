@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 196363,
       "name": "180 (Remix) (feat. Kemba)",
       "url": "https://open.spotify.com/track/1oF1tFOdqoM6I2Y4crbGRU"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 194604,
       "name": "Back At It",
       "url": "https://open.spotify.com/track/7CtseXl6vo5iKg4lJGdQfG"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 140613,
       "name": "Cliff Hanger",
       "url": "https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 227063,
       "name": "Dangerookipawaa Freestyle",
       "url": "https://open.spotify.com/track/0yL0He951vlMYygPzSEEJ0"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 162680,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/5UldJxuMst4yL1ONpNUylD"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 167693,
       "name": "Golden Eye",
       "url": "https://open.spotify.com/track/7AHZDaJM22hkQZ0xSOFsrT"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 229802,
       "name": "Heaven's Sky (feat. Rae Khalil)",
       "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
@@ -2603,7 +2603,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 166775,
       "name": "Lifestyle (with Bas feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/0URbdJpIV9B54W2d9yeMwt"
@@ -2811,7 +2811,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 195367,
       "name": "Moment of Truth",
       "url": "https://open.spotify.com/track/6TmQQEMF0KwpXYbmBgHpNU"
@@ -2983,7 +2983,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 172524,
       "name": "Myself (feat. DEVN)",
       "url": "https://open.spotify.com/track/7mlOsqmNcuZK9c43W1p2hD"
@@ -3089,7 +3089,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 182336,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/7bcOAQD3y9NpTQESuX5s5U"
@@ -3563,6 +3563,32 @@
       "duration_ms": 239106,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/1icmxr6OxT03H4dHGOiLFX"
+    },
+    {
+      "album": {
+        "name": "Ratchets",
+        "url": "https://open.spotify.com/album/2C321RLGFMQ7aexKEf4q9i"
+      },
+      "artists": [
+        {
+          "name": "KitschKrieg",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222786,
+      "name": "Ratchets",
+      "url": "https://open.spotify.com/track/51scKFIVavfzXbtxexkUgr"
     },
     {
       "album": {
@@ -4113,7 +4139,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 270044,
       "name": "Starting 5 (with Lute, Cozz & Omen)",
       "url": "https://open.spotify.com/track/2OSsmzINPSwQ1hLoMH70Rj"
@@ -4237,6 +4263,24 @@
       "duration_ms": 192790,
       "name": "Stone Killer",
       "url": "https://open.spotify.com/track/2vbvR95xACQ0HZ8F82aKHI"
+    },
+    {
+      "album": {
+        "name": "Street Gospel",
+        "url": "https://open.spotify.com/album/1g5JleG69nh119qA93GVhJ"
+      },
+      "artists": [
+        {
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145440,
+      "name": "Street Gospel",
+      "url": "https://open.spotify.com/track/2dMQctsm6JypuIZHUD9ipH"
     },
     {
       "album": {
@@ -4387,7 +4431,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 162528,
       "name": "Talkin' Back (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0Bj62CkpsaMZJwgqZ0UbPc"
@@ -4829,7 +4873,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 214137,
       "name": "Top of the Morning",
       "url": "https://open.spotify.com/track/7GDwVJttKCeqfeANTwe9y3"
@@ -4851,7 +4895,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 182940,
       "name": "Trap Gods",
       "url": "https://open.spotify.com/track/0rWAegGm4B4c5myyTNGi3k"
@@ -4873,7 +4917,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 134674,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/09AnQUhsPhrCKTAjaKowpR"

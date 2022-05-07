@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-761 songs - 1 day 16 hr 29 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+762 songs - 1 day 16 hr 31 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A.D.A.M](https://open.spotify.com/track/5fB85aNDsQIMLeoGgWHhEp) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [A.D.A.M](https://open.spotify.com/album/4p2G02jHNwbcyp6ctWVtzB) | 2:26 | 2021-07-13 | 2021-10-03 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-20 | 2022-05-04 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-05 |  |
+| [ABSOLUT](https://open.spotify.com/track/684ek6GMzzinfgalcgqsE5) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [LOLO](https://open.spotify.com/artist/30G2LsTs2NCXeCbjuZYvnf) | [ABSOLUT](https://open.spotify.com/album/0Sw98eJOGUqsivhjYink9d) | 2:14 | 2022-05-06 |  |
 | [ABTI](https://open.spotify.com/track/6pBgu7pLn3yq2fA6eZCoSk) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [MYROR I BRALLAN](https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt) | 2:46 | 2022-02-05 | 2022-02-13 |
 | [ABTI](https://open.spotify.com/track/7K5thlHoo7jAHoXj8cutYO) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [ABTI](https://open.spotify.com/album/2eJfXQe2OSLmOtmEhRI4EF) | 2:46 | 2022-01-08 | 2022-02-06 |
 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 | 2021-05-25 | 2021-05-26 |
@@ -415,7 +416,7 @@
 | [Look What You've Done](https://open.spotify.com/track/7jDtQkIxKFELTpQa27VWWR) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 3:01 | 2021-03-27\* | 2021-05-05 |
 | [Lord I Need You](https://open.spotify.com/track/5YRFttxjAEgm2nq5Z2tlqK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:42 | 2021-09-01 | 2021-09-02 |
 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 | 2021-04-18 | 2021-09-12 |
-| [Lose my mind](https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 2:53 | 2021-09-12 |  |
+| [Lose my mind](https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 2:53 | 2021-09-12 | 2022-05-07 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-06 | 2021-06-16 |
 | [Lotta & Sanna](https://open.spotify.com/track/1jiDCQUaa9LmWpQJRuOWRb) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Lotta & Sanna](https://open.spotify.com/album/4tAsGgc1Zs6vSzeVoKysgg) | 2:15 | 2021-12-08 | 2022-03-13 |
 | [Lotta & Sanna \- Remix](https://open.spotify.com/track/4JwyFcT6SWYirpZRSrnTn9) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Lotta & Sanna \(Remix\)](https://open.spotify.com/album/3TR9wVArlfPF9m4DDnP3d5) | 2:51 | 2022-03-12 | 2022-03-21 |

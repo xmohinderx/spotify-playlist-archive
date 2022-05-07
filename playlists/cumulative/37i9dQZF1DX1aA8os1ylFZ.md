@@ -4,7 +4,7 @@
 
 > Me and bae = love
 
-132 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
+133 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Third Degree Burns](https://open.spotify.com/track/7Fe3uYNGJ07iGVoAvHMqMa) | [Tommy Mayran](https://open.spotify.com/artist/44oO94qqpxd8E0YUhhfMiA) | [Third Degree Burns](https://open.spotify.com/album/0xqPPKPY9f1chhppy9pgSs) | 3:04 | 2021-12-16 |  |
 | [this is how you fall in love](https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [this is how you fall in love](https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW) | 2:54 | 2021-12-16 | 2022-03-26 |
 | [U & I](https://open.spotify.com/track/1QK9f16uAepfVJazNT8atB) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/0FklfQfN28uc7RDBNMTQiz) | 3:35 | 2021-12-16 |  |
+| [Uh Baby \- Sad Version](https://open.spotify.com/track/7nu2Wb4OPkH5ISWotOKSrb) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Uh Baby \(Sad Version\)](https://open.spotify.com/album/7AIChYb5phmJN3nOGFnjsT) | 2:43 | 2022-05-06 |  |
 | [Unloving You](https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Unloving You](https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j) | 2:33 | 2022-03-25 |  |
 | [Use Me](https://open.spotify.com/track/1lCuIWvYcXXxLheYI3wgyq) | [Ruben Anthony](https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF) | [Use Me](https://open.spotify.com/album/6JxNpOwdjprJWXSMJGJT5J) | 2:14 | 2022-02-10 |  |
 | [Vibe Doesn't Lie](https://open.spotify.com/track/5sQ8edicOdj8xHNP0bIfx2) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Vibe Doesn't Lie](https://open.spotify.com/album/0h5cShxWVXZL92q4IlDwP2) | 3:18 | 2022-03-10 |  |

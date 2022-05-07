@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 169154,
       "name": "Anything She Says",
       "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 149332,
       "name": "Better On Me",
       "url": "https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 150909,
       "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
       "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 225230,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/6wF6oModvfcuEKNdB0f0Er"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 223470,
       "name": "Don't Matter Now",
       "url": "https://open.spotify.com/track/11gbCX4RvpJjjwx4ZmitlD"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 174111,
       "name": "Good Beer",
       "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 187381,
       "name": "Heart's In Your Head",
       "url": "https://open.spotify.com/track/7ncr9iB2P4A2YZK46oNqmA"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 206653,
       "name": "Hello, You Up",
       "url": "https://open.spotify.com/track/1cYA668ipkqAbInNuhNXsy"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 209228,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/2Hc4t9N2nt37oO4sF9BynI"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 172720,
       "name": "Kiss Her",
       "url": "https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv"
@@ -1823,7 +1823,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 186520,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/3ksmU0DaEUMEVzx5V6cc3z"
@@ -1979,7 +1979,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/0O0wPMmw7d9RMsTkt9YiUq"
@@ -2015,7 +2015,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 200800,
       "name": "Say It First",
       "url": "https://open.spotify.com/track/1rIzZXLoXTMXif9IKAoqvc"
@@ -2474,6 +2474,24 @@
     },
     {
       "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
+    },
+    {
+      "album": {
         "name": "Born Here Live Here Die Here (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6"
       },
@@ -2525,7 +2543,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 191866,
       "name": "What If We Did (feat. Carly Pearce)",
       "url": "https://open.spotify.com/track/3CTYETGqt6N4IW5p99Ctlp"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 182106,
       "name": "When the Whiskey Runs Out",
       "url": "https://open.spotify.com/track/4KqsYfPTKNhRqbNgx0izdi"
@@ -2641,7 +2659,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 180481,
       "name": "Why Don't We",
       "url": "https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK"

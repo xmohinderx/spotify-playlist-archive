@@ -1,13 +1,49 @@
 {
-  "description": "The best in blues right now. Cover: Mavis Staples",
-  "num_followers": 36793,
+  "description": "The best in blues right now. Cover: Dr. John",
+  "num_followers": 36821,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDA0ODAwMDAwMTgwNzM3YjkzM2YwMDAwMDE4MDY3MTkyNDk1",
+  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDA0OTAwMDAwMTgwOTc4ODE3M2EwMDAwMDE4MDhiOWJlNmFm",
   "tracks": [
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "I Walk On Guilded Splinters",
+        "url": "https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        },
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "I Walk On Guilded Splinters",
+      "url": "https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Sitting on Top of the World / Love Will Never Say Goodbye",
+        "url": "https://open.spotify.com/album/5pDNlo70gsJgTs8YX1FTjp"
+      },
+      "artists": [
+        {
+          "name": "Eric Johnson",
+          "url": "https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/4UXEchrcvlBwJgXzlYf7Fr"
+    },
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {

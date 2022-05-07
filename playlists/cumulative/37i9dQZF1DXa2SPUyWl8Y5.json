@@ -461,7 +461,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 515666,
       "name": "Azamutha",
       "url": "https://open.spotify.com/track/5sKH7kVaLM58UjdGXMZjco"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 474679,
       "name": "Earth",
       "url": "https://open.spotify.com/track/5ZrT1f69ISeELuHAHdYste"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 382194,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3XI5xmqIiDqdHF7vLZUnfL"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 406000,
       "name": "Flight Into the Void",
       "url": "https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 411147,
       "name": "Introspection - Original Mix",
       "url": "https://open.spotify.com/track/38tlEBKdgSQYfsCII5AiT9"
@@ -2583,7 +2583,7 @@
       ],
       "date_added": "2019-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 515462,
       "name": "Lapislazuli",
       "url": "https://open.spotify.com/track/1eoCPqc4PZQfC8Li7DwoTE"
@@ -3445,7 +3445,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 354098,
       "name": "Ombre",
       "url": "https://open.spotify.com/track/5SW8SlaKiBYh4qBpomiL61"
@@ -3507,6 +3507,24 @@
       "duration_ms": 404962,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/4nNKKIOFWCYqjEs32XeErc"
+    },
+    {
+      "album": {
+        "name": "Owls (Edit)",
+        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226014,
+      "name": "Owls - Edit",
+      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
     },
     {
       "album": {
@@ -3688,6 +3706,24 @@
     },
     {
       "album": {
+        "name": "Planet F",
+        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241769,
+      "name": "Planet F",
+      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
+    },
+    {
+      "album": {
         "name": "Plastik",
         "url": "https://open.spotify.com/album/3RZrOeMhMQmw9DZm4Jkbtm"
       },
@@ -3743,7 +3779,7 @@
       ],
       "date_added": "2020-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 431879,
       "name": "Polymid",
       "url": "https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl"
@@ -3947,7 +3983,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 269153,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
@@ -4287,7 +4323,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-07",
       "duration_ms": 465483,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/71y1XeA2RIcAfYOht1CxGa"
@@ -4577,7 +4613,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 428160,
       "name": "Spacemodulation",
       "url": "https://open.spotify.com/track/6g8QDiZ1zAwucNXgKnVIrW"
@@ -5421,6 +5457,24 @@
       "duration_ms": 398429,
       "name": "When I Am Only a Dream",
       "url": "https://open.spotify.com/track/2spksuDM1a7wICynsNMwGX"
+    },
+    {
+      "album": {
+        "name": "Wormhole",
+        "url": "https://open.spotify.com/album/10PmsWsXc3P2jeHkyJjkpT"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437953,
+      "name": "Wormhole",
+      "url": "https://open.spotify.com/track/1ZE6ebWHUSp2v6JAPpp8eS"
     },
     {
       "album": {

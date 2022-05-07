@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Soulfly
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,406 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,612 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 16 | [The Cycle Of Violence: Chapter 1](https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [The Cycle Of Violence: Chapter 1](https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR) | 2:38 |
 | 17 | [I Will Return](https://open.spotify.com/track/0AQcFVw3RkS01iMfs24qUt) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW), [Misstiq](https://open.spotify.com/artist/2T56ZlaXC3o801bzHwzJg1) | [I Will Return](https://open.spotify.com/album/3fX3jDxRc6uDQbhjdoZ8wS) | 3:29 |
 | 18 | [A Cloak Woven of Stars](https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH) | [Lacrimas Profundere](https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz) | [A Cloak Woven of Stars](https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm) | 3:37 |
-| 19 | [Ragnarök \- Era Metallum](https://open.spotify.com/track/4qxtyxnidR3BR980jZHUht) | [Corvus Corax](https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z), [Sabina Classen](https://open.spotify.com/artist/0ZeNt6XxDIXOpr7PffJBVS), [SAMI YLI\-SIRNIO](https://open.spotify.com/artist/5OpE2VHSQsDY77cYQ6uueg) | [Ragnarök \(Era Metallum\)](https://open.spotify.com/album/3yjB8quQkW2WYlsk5p2R1h) | 7:36 |
+| 19 | [Ragnarök \- Era Metallum \- Bonus Track](https://open.spotify.com/track/4qxtyxnidR3BR980jZHUht) | [Corvus Corax](https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z), [Sabina Classen](https://open.spotify.com/artist/0ZeNt6XxDIXOpr7PffJBVS), [SAMI YLI\-SIRNIO](https://open.spotify.com/artist/5OpE2VHSQsDY77cYQ6uueg) | [Ragnarök \(Era Metallum \- Bonus Track\)](https://open.spotify.com/album/3yjB8quQkW2WYlsk5p2R1h) | 7:36 |
 | 20 | [The Heartbeat Of The Devil \- Single Version](https://open.spotify.com/track/58clSlAPrVcEVjuQOdCGFp) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [The Heartbeat Of The Devil](https://open.spotify.com/album/0YXXS9l06XZ3F1oERlJcMy) | 3:29 |
 | 21 | [Hangfire](https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Hangfire](https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC) | 3:15 |
 | 22 | [Venenosa](https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Venenosa](https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7) | 3:10 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 32 | [III](https://open.spotify.com/track/3ZdDBUhVms1TsoaB1FltXk) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [III](https://open.spotify.com/album/57SswxWv0xIHwwJNlQuF55) | 4:08 |
 | 33 | [Amnesty/Silver](https://open.spotify.com/track/4OsvkGo2tfuPywkdz3W3xK) | [Resilia](https://open.spotify.com/artist/5F5nhe5hMhJSGsULmNPeFW) | [Amnesty/Silver](https://open.spotify.com/album/3fZHaaKXm0PeQg3VhQyWWY) | 5:22 |
 | 34 | [Breathing Divinity](https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8) | [Jani Liimatainen](https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [My Father's Son](https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr) | 5:03 |
-| 35 | [Human Condition Above Human Opinion](https://open.spotify.com/track/1cmk1UlPbRIyrIThQudaLa) | [Candy](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Human Condition Above Human Opinion](https://open.spotify.com/album/7s4krYYgyLUIl6m4lxWI3t) | 2:39 |
+| 35 | [Human Condition Above Human Opinion](https://open.spotify.com/track/1cmk1UlPbRIyrIThQudaLa) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Human Condition Above Human Opinion](https://open.spotify.com/album/7s4krYYgyLUIl6m4lxWI3t) | 2:39 |
 | 36 | [Cremation \(feat\. PK of Prompts\)](https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH) | [NOCTURNAL BLOODLUST](https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N) | [ARGOS](https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC) | 6:12 |
 | 37 | [Veiled in Despair](https://open.spotify.com/track/4yHtEgZqyUgcClZD3AOX3l) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Heidi Parviainen](https://open.spotify.com/artist/5XjOHp3QWS7IC2mm4SNwTj) | [Veiled in Despair](https://open.spotify.com/album/2EznOag1XNIUnTNd5hRmFA) | 6:12 |
 | 38 | [Like Cyanide](https://open.spotify.com/track/6vt6GUn7EhpMn2i4tQmRtN) | [Veio](https://open.spotify.com/artist/3QY5DMEgg7H5EAttsSHSSg) | [Like Cyanide](https://open.spotify.com/album/3WopKs28iUn1YLK4Bnr8mo) | 3:38 |

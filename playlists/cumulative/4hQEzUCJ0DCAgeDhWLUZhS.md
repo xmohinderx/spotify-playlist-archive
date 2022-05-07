@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Red Hot Chilli Peppers
 
-290 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+291 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [End of Me \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/01CUo2gjV0mBB5EBHOfxTB) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [End of Me \(feat\. Rivers Cuomo\)](https://open.spotify.com/album/1Z86bvwiSPf1fyPxJP5wPu) | 3:45 | 2021-09-11 |  |
 | [Enough](https://open.spotify.com/track/2B9I0JIsy5ulty2Za35mSt) | [Moaning Lisa](https://open.spotify.com/artist/1WXcSHJO5BPd3oxAfsUDQo) | [Something Like This But Not This](https://open.spotify.com/album/2YNSmm557EkgTC3DWAVNCg) | 4:00 | 2021-10-08 |  |
 | [Error](https://open.spotify.com/track/5XQPlP8yHnXz5qTjIZ10gC) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:50 | 2020-10-10\* | 2022-03-18 |
+| [Every Song I Ever Wrote](https://open.spotify.com/track/3MGPk4icRXf24OL6RlYhDX) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Every Song I Ever Wrote](https://open.spotify.com/album/6iNsRB01wsep3c6sMESTLu) | 3:17 | 2022-05-06 |  |
 | [everyone blooms](https://open.spotify.com/track/4HfmEHdEJ52Y8XiL61h9SV) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [everyone blooms](https://open.spotify.com/album/26KAku0l1AFIgT65GehP34) | 4:06 | 2020-10-10\* | 2021-05-13 |
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 |  |
 | [Eyes](https://open.spotify.com/track/2Aynxq3QreZhoS58B7WU27) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Eyes](https://open.spotify.com/album/1W1uuyANBmfqBVQj9kbCIr) | 4:52 | 2022-04-08 |  |

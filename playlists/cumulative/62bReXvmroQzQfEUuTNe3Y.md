@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-279 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+280 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Don't Wait Up \- Chill Mix](https://open.spotify.com/track/4K8YAFs9Rfpy8zGFuPwGG0) | [Alyx Ander](https://open.spotify.com/artist/4gxmaAX3cWO9PUVmEYVAhd), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Don't Wait Up \(Chill Mix\)](https://open.spotify.com/album/5bBKlh5O9lr1TExIklpwo1) | 2:24 | 2021-10-23 | 2021-12-04 |
 | [Don't Wanna Know](https://open.spotify.com/track/24oxm9zL3c78hH9EuJyJh9) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo) | [Don't Wanna Know](https://open.spotify.com/album/2OkOKY0MBcxHKZHWKS9LIm) | 2:45 | 2021-03-06 | 2021-05-22 |
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/0KzCNeuMVGXbnMbjX6ilCU) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/album/6ViQtwjVgVNTTkEqn9YETq) | 3:36 | 2022-01-28 |  |
-| [Down](https://open.spotify.com/track/6qALKVVHrW0VU29ZGiA5uL) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Down](https://open.spotify.com/album/0Hs90o1lKIZe9PPPqjKyxo) | 2:47 | 2022-01-28 |  |
+| [Down](https://open.spotify.com/track/6qALKVVHrW0VU29ZGiA5uL) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Down](https://open.spotify.com/album/0Hs90o1lKIZe9PPPqjKyxo) | 2:47 | 2022-01-28 | 2022-05-07 |
 | [Dreaming](https://open.spotify.com/track/5SYHmSFd6XPK0dLYWML1vU) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt) | [Frost](https://open.spotify.com/album/5bjn5UoB5fAEY5n1bMhO2T) | 4:55 | 2020-09-13\* | 2021-03-06 |
 | [Dreams](https://open.spotify.com/track/3cC6Sx3Z0UTyr5gM2vHFdg) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Dreams](https://open.spotify.com/album/0A7mcxKjEulhu0P9ves8sT) | 2:37 | 2020-10-24 |  |
 | [Dreams \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6WNksTFvo7VSeiP0UfNpWf) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Dreams \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/4aRvJ1Tc1Qi1mNT30QYpjw) | 5:04 | 2021-08-21 | 2021-08-24 |
@@ -86,6 +86,7 @@
 | [go with u \- Louis La Roche Remix](https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Someone’s EP II X](https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR) | 4:26 | 2021-03-06 | 2021-08-14 |
 | [Gold Digger](https://open.spotify.com/track/3mYEmm1lwwDRmosviDHlYf) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pillows](https://open.spotify.com/artist/27GP9LCyNesCWiTi2S3bqc) | [Gold Digger](https://open.spotify.com/album/4imiC3EUY4vCkeYiPZiZXJ) | 2:40 | 2020-11-14 |  |
 | [Good Times](https://open.spotify.com/track/3j96Wizdhvo0CWaD51lYbP) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Times](https://open.spotify.com/album/6mnI3V3wRo7JkkpWs4NBDd) | 3:14 | 2021-10-02 | 2021-11-11 |
+| [HALLUCINATION \(feat\. LissA\)](https://open.spotify.com/track/6TFYkactQoCeDb7qRYR3Cd) | [Airmow](https://open.spotify.com/artist/6SfPAcR67ssVyMQWoizN7Q), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [HALLUCINATION \(feat\. LissA\)](https://open.spotify.com/album/34bH6U9z4aebG0cybq3HQy) | 2:49 | 2022-05-06 |  |
 | [Hands \(feat\. Denai Moore\) \- Samaran Remix](https://open.spotify.com/track/54bjvhHv2ThqFtK9PACFhf) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN), [Samaran](https://open.spotify.com/artist/2heZX3F8ubVQgQ7gyPx0qe) | [Hands \(Remixes\) \(feat\. Denai Moore\)](https://open.spotify.com/album/30tDURuli6ZpmK5ZF3YZDR) | 4:14 | 2021-03-06 | 2021-03-23 |
 | [Haunted](https://open.spotify.com/track/7qX8Vl5H5IxQiXGWXHa0kD) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Haunted](https://open.spotify.com/album/1OQQ2G0sQQd3pJa5cubSxz) | 3:25 | 2021-10-01 |  |
 | [Heal My Love](https://open.spotify.com/track/5E0gUkTKnFgJ7KmMMFEQrB) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [Dante](https://open.spotify.com/artist/1C7uc1Nw5y6ZHNhnuMpK5u) | [Heal My Love](https://open.spotify.com/album/3uR3QpSQvpwPqfm74gsigh) | 2:21 | 2021-07-02 |  |

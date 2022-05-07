@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,955 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,972 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 18 | [Lights Down Low](https://open.spotify.com/track/5brHijrNA7UAFw74p4f5v3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Lights Down Low](https://open.spotify.com/album/0KWtVo7Q9QIpXycrm9MuWI) | 3:43 |
 | 19 | [Saturday Sun](https://open.spotify.com/track/7sXTokBfIyPG7WOjjCLSJD) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/5zau80zbjOc2uEO5P1olK1) | 4:03 |
 | 20 | [I'll Hold On](https://open.spotify.com/track/0I5zRkBLsUQWnUfZad8vOA) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [I'll Hold On](https://open.spotify.com/album/0TB1v6bj2mto2rqiYZ6qa4) | 3:12 |
-| 21 | [Realize It All \- Acoustic Version](https://open.spotify.com/track/2LfXGIgvpDsJjU83SDhZA5) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \(Acoustic Version\)](https://open.spotify.com/album/2vW0T2b0VUmWg1qpa0EFfP) | 3:36 |
+| 21 | [Realize It All \- Acoustic](https://open.spotify.com/track/2LfXGIgvpDsJjU83SDhZA5) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \- Acoustic](https://open.spotify.com/album/2vW0T2b0VUmWg1qpa0EFfP) | 3:36 |
 | 22 | [Sacrifice](https://open.spotify.com/track/3XuIsQe0Z00LlyMLul6h8r) | [Gyo Kretz](https://open.spotify.com/artist/0JvKdVXySsrLWA3TO4uSnE) | [Sacrifice](https://open.spotify.com/album/7xkRFlCoYQe8bXgwFuFIqt) | 3:35 |
 | 23 | [Take Me Home](https://open.spotify.com/track/45j9PpkMtx7mQorNkJ1H60) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/5Z2wr4tZdJ0PbDabvwQjeh) | 3:01 |
 | 24 | [Joe](https://open.spotify.com/track/43Hd4eUPRzrramyZOQh0JG) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Joe](https://open.spotify.com/album/0cW3C8VF3sHOevQOvsTFr4) | 3:12 |

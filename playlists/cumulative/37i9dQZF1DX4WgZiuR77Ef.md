@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-130 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+132 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Gumbo](https://open.spotify.com/track/70UPa0pzNUMKcRcq8JZ0YZ) | [The Gold Magnolias](https://open.spotify.com/artist/52YDbdT312mNbnVxG52i1d) | [Ready to Run](https://open.spotify.com/album/51TDlrWxFYRtIvu49Bbm3Z) | 4:54 | 2020-10-30 |  |
 | [Hangin' with My Baby](https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 5:28 | 2020-10-30 | 2022-04-09 |
 | [Hard Up](https://open.spotify.com/track/2r5zwMQ5dKB04MqVfc0IeH) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/7BwuJqR6TBtothKdN6TY72) | 4:15 | 2020-10-30 |  |
+| [Hazel](https://open.spotify.com/track/25fq8Rq28dNyC4VWCFs8uN) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Hazel](https://open.spotify.com/album/2O5A8VHIlLf8OEQeNtquwU) | 4:01 | 2022-05-06 |  |
 | [He Said / She Said](https://open.spotify.com/track/5ANzbV4A2YA6EPP0e8asEi) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [He Said / She Said](https://open.spotify.com/album/0E50UttjUVA0HoQ02WYrRd) | 4:01 | 2020-10-30 |  |
 | [Heat](https://open.spotify.com/track/1TvQqcEiMkUqWXKwLpEEMy) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [Honey Larochelle](https://open.spotify.com/artist/5MximdP80OJjCsC3bfCkZc) | [TBNH](https://open.spotify.com/album/1D7sdhWa3jL1pgv3VS0aDD) | 3:50 | 2020-10-30 | 2022-04-09 |
 | [Hold It Down](https://open.spotify.com/track/57Gbsto4EnpOEUtklQQSSm) | [Happy Daggers](https://open.spotify.com/artist/1AjDEQ2pPDEuDAXgEyh4pH) | [Hold It Down](https://open.spotify.com/album/2weMcTG4ElQswQlqw724rQ) | 3:04 | 2020-10-30 | 2022-04-09 |
@@ -73,6 +74,7 @@
 | [Let's Get a Groove On](https://open.spotify.com/track/6nNHyyYKi90iRQbLuIdO8O) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let's Get a Groove On](https://open.spotify.com/album/0MKoTL2lYJ3hUVDYyhmyTi) | 2:54 | 2020-10-30 |  |
 | [Lie To Me](https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Lifted](https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh) | 4:10 | 2022-04-29 |  |
 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 | 2020-10-30 | 2022-04-09 |
+| [Little Orphan Boy](https://open.spotify.com/track/0gn6Qb2WC279QfiOIVZzhN) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU) | [Little Orphan Boy](https://open.spotify.com/album/4yhhKYu4vNtJVWeh9dneMo) | 3:25 | 2022-05-06 |  |
 | [Look in My Eyes](https://open.spotify.com/track/3xq9srnNN0LBvha15ZWpTU) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 3:44 | 2020-10-30 |  |
 | [Love Somebody](https://open.spotify.com/track/0R3eQDXzFLPdC9Q9Toj1ys) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Love Somebody](https://open.spotify.com/album/2VIaLN4IxLM3u7U7TInMGk) | 2:49 | 2021-09-03 |  |
 | [Make Way for the Funk Parade](https://open.spotify.com/track/3LtAdAaM6njXeGzmCdkXc9) | [Jordan John](https://open.spotify.com/artist/7GPNa53BeLP2ALe8eoueU0) | [Funk Parade](https://open.spotify.com/album/2gEOnDhIu7txjkJLUtUdFu) | 5:32 | 2020-10-30 | 2022-04-09 |

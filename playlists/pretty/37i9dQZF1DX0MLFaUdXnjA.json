@@ -1,13 +1,29 @@
 {
-  "description": "Keep it low-key with all of today's chill pop. Cover: Stephen Sanchez",
-  "num_followers": 1766147,
+  "description": "Keep it low-key with all of today's chill pop. Cover: Carly Rae Jepsen",
+  "num_followers": 1766192,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTUyMjAxMCwwMDAwMDEwNzAwMDAwMTgwODY2MWZkMjcwMDAwMDE4MDUyMDI3YmI4",
+  "snapshot_id": "MTY1MTgwOTU2OCwwMDAwMDEwODAwMDAwMTgwOTc4NWM3YjQwMDAwMDE4MDkwOGVhOGI4",
   "tracks": [
+    {
+      "added_at": "2022-05-06 03:59:28",
+      "album": {
+        "name": "Western Wind",
+        "url": "https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Western Wind",
+      "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
+    },
     {
       "added_at": "2022-05-02 20:06:50",
       "album": {
@@ -31,6 +47,22 @@
     {
       "added_at": "2022-05-02 20:06:50",
       "album": {
+        "name": "never knew a heart could break itself",
+        "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 155223,
+      "name": "never knew a heart could break itself",
+      "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
+    },
+    {
+      "added_at": "2022-05-02 20:06:50",
+      "album": {
         "name": "Lie Again",
         "url": "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO"
       },
@@ -45,20 +77,52 @@
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
     },
     {
-      "added_at": "2022-05-02 20:06:50",
+      "added_at": "2022-05-06 03:59:28",
       "album": {
-        "name": "never knew a heart could break itself",
-        "url": "https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6"
+        "name": "This Love (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
       },
       "artists": [
         {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 155223,
-      "name": "never knew a heart could break itself",
-      "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
+      "duration_ms": 250100,
+      "name": "This Love (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
+    },
+    {
+      "added_at": "2022-05-02 20:06:50",
+      "album": {
+        "name": "God Must Hate Me",
+        "url": "https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "duration_ms": 149802,
+      "name": "God Must Hate Me",
+      "url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK"
+    },
+    {
+      "added_at": "2022-05-02 20:06:50",
+      "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -87,22 +151,6 @@
     {
       "added_at": "2022-05-02 20:06:50",
       "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
         "name": "Fall in Love with You.",
         "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
       },
@@ -115,6 +163,42 @@
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
+    },
+    {
+      "added_at": "2022-05-06 03:59:28",
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
+    },
+    {
+      "added_at": "2022-05-02 20:06:50",
+      "album": {
+        "name": "sun and moon",
+        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 151507,
+      "name": "sun and moon",
+      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -131,6 +215,22 @@
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": "2022-05-06 03:59:28",
+      "album": {
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -183,22 +283,6 @@
     {
       "added_at": "2022-05-02 20:06:50",
       "album": {
-        "name": "God Must Hate Me",
-        "url": "https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 149802,
-      "name": "God Must Hate Me",
-      "url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
       },
@@ -211,6 +295,22 @@
       "duration_ms": 188323,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
+    },
+    {
+      "added_at": "2022-05-06 03:59:28",
+      "album": {
+        "name": "Based On A Feeling",
+        "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 206269,
+      "name": "Favorite Part",
+      "url": "https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -255,18 +355,18 @@
     {
       "added_at": "2022-05-02 20:06:50",
       "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
         }
       ],
-      "duration_ms": 191881,
-      "name": "California",
-      "url": "https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB"
+      "duration_ms": 208694,
+      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
+      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -303,6 +403,26 @@
     {
       "added_at": "2022-05-02 20:06:50",
       "album": {
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
+    },
+    {
+      "added_at": "2022-05-02 20:06:50",
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -315,22 +435,6 @@
       "duration_ms": 161829,
       "name": "All Night Parking (with Erroll Garner) Interlude",
       "url": "https://open.spotify.com/track/496vIKS2INz840xZaKncvR"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
-        "name": "sun and moon",
-        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 151507,
-      "name": "sun and moon",
-      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -353,6 +457,22 @@
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
+      "added_at": "2022-05-06 03:59:28",
+      "album": {
+        "name": "Baby Magic",
+        "url": "https://open.spotify.com/album/3FFPTfSqHeIfcndetAJht3"
+      },
+      "artists": [
+        {
+          "name": "Sofia Mills",
+          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
+        }
+      ],
+      "duration_ms": 285853,
+      "name": "Baby Magic",
+      "url": "https://open.spotify.com/track/1OTvZnxAQucT1ybiU4j4yw"
+    },
+    {
       "added_at": "2022-05-02 20:06:50",
       "album": {
         "name": "I Still Love You",
@@ -367,58 +487,6 @@
       "duration_ms": 175000,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
-        "name": "New Normal",
-        "url": "https://open.spotify.com/album/2Gpdm0FDnFWxvI9oB6emOB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "New Normal",
-      "url": "https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
-        "name": "THE SNAKE",
-        "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
-      },
-      "artists": [
-        {
-          "name": "Lana Lubany",
-          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
-        }
-      ],
-      "duration_ms": 176953,
-      "name": "THE SNAKE",
-      "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -439,6 +507,54 @@
     {
       "added_at": "2022-05-02 20:06:50",
       "album": {
+        "name": "New Normal",
+        "url": "https://open.spotify.com/album/2Gpdm0FDnFWxvI9oB6emOB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "New Normal",
+      "url": "https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07"
+    },
+    {
+      "added_at": "2022-05-02 20:06:50",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 191881,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB"
+    },
+    {
+      "added_at": "2022-05-02 20:06:50",
+      "album": {
+        "name": "THE SNAKE",
+        "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "duration_ms": 176953,
+      "name": "THE SNAKE",
+      "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
+    },
+    {
+      "added_at": "2022-05-02 20:06:50",
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn"
       },
@@ -451,6 +567,22 @@
       "duration_ms": 191375,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
+    },
+    {
+      "added_at": "2022-05-06 03:59:28",
+      "album": {
+        "name": "mothers",
+        "url": "https://open.spotify.com/album/6LZZFBF5mopquCMJZZ5mnb"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 174355,
+      "name": "mothers",
+      "url": "https://open.spotify.com/track/4AXlebMtXdaleomf845EEh"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -535,22 +667,6 @@
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 171019,
-      "name": "ANGOSTURA",
-      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -859,22 +975,6 @@
     {
       "added_at": "2022-05-02 20:06:50",
       "album": {
-        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
-        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 208694,
-      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
-      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
         "name": "Keep Dancing",
         "url": "https://open.spotify.com/album/2g1V6cI8hGRPXiyVEDnXYN"
       },
@@ -1003,22 +1103,6 @@
     {
       "added_at": "2022-05-02 20:06:50",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 159320,
-      "name": "camera roll",
-      "url": "https://open.spotify.com/track/58ITRjekhkYqHvuE71NUc0"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
@@ -1067,26 +1151,6 @@
       "duration_ms": 266219,
       "name": "london (with Cam)",
       "url": "https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
-        "name": "Let Somebody Go",
-        "url": "https://open.spotify.com/album/0vS8EETjc2cnCu5j32uxxq"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 212949,
-      "name": "Let Somebody Go - Single Version",
-      "url": "https://open.spotify.com/track/1d8Pn4akKfdadbavUjAGoS"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -1277,24 +1341,20 @@
       "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
     },
     {
-      "added_at": "2022-05-02 20:06:50",
+      "added_at": "2022-05-06 03:59:28",
       "album": {
-        "name": "suffocate (feat. Lauren Sanderson)",
-        "url": "https://open.spotify.com/album/5012v7N4uMq87PbJIh0xtx"
+        "name": "Breathing into Bloom",
+        "url": "https://open.spotify.com/album/5eockBcRNJDpmFtuLdzVDg"
       },
       "artists": [
         {
-          "name": "Miki Ratsula",
-          "url": "https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30"
-        },
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+          "name": "CLAY",
+          "url": "https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL"
         }
       ],
-      "duration_ms": 184588,
-      "name": "suffocate (feat. Lauren Sanderson)",
-      "url": "https://open.spotify.com/track/6iQpU4GaHXHXJ0PeCbPbRy"
+      "duration_ms": 167250,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/3TuT7FEUpGsgSWdol7LXPA"
     },
     {
       "added_at": "2022-05-02 20:06:50",
@@ -1443,54 +1503,6 @@
     {
       "added_at": "2022-05-02 20:06:50",
       "album": {
-        "name": "Nothing Feels Better",
-        "url": "https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 157779,
-      "name": "Nothing Feels Better",
-      "url": "https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
-        "name": "Vampire At The Swimming Pool",
-        "url": "https://open.spotify.com/album/4IBd99GncJCe9dTWbVDRue"
-      },
-      "artists": [
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 215388,
-      "name": "Vampire At The Swimming Pool",
-      "url": "https://open.spotify.com/track/0vHTSJYkN0U0Q6JR9fUV6I"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
-        "name": "MESS U MADE",
-        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 168542,
-      "name": "MESS U MADE",
-      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
         "name": "Oh shit\u2026are we in love?",
         "url": "https://open.spotify.com/album/48w4LOmCFBERYFr7QkT4VA"
       },
@@ -1503,22 +1515,6 @@
       "duration_ms": 155384,
       "name": "Oh shit\u2026are we in love?",
       "url": "https://open.spotify.com/track/4syyKlhOWbsZUsZ4DwmJxH"
-    },
-    {
-      "added_at": "2022-05-02 20:06:50",
-      "album": {
-        "name": "Devil On My Shoulder",
-        "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Devil On My Shoulder",
-      "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
     },
     {
       "added_at": "2022-05-02 20:06:50",
