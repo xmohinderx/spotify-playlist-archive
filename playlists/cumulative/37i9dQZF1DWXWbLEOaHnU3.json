@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 301714,
       "name": "Art & Melody",
       "url": "https://open.spotify.com/track/0jIvbSHnTGlXbryMYaxohh"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 144347,
       "name": "Braveheart",
       "url": "https://open.spotify.com/track/417FBXmll2tCYcXI6CLt9g"
@@ -510,6 +510,28 @@
     },
     {
       "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/44RNAyeyQ50omsKJQMoP6r"
+      },
+      "artists": [
+        {
+          "name": "One Function",
+          "url": "https://open.spotify.com/artist/2VdxcRZenJ5qgyMjZv5wOI"
+        },
+        {
+          "name": "Mindbenderz",
+          "url": "https://open.spotify.com/artist/1KEtCbyKRdK3yGj7t9EfB2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442816,
+      "name": "Counterpoint - Original Mix",
+      "url": "https://open.spotify.com/track/3hX0SqNgTAHfqlNOs4RELC"
+    },
+    {
+      "album": {
         "name": "Crash & Burn",
         "url": "https://open.spotify.com/album/1N1pSoFlNFVQUaxcfVVDN7"
       },
@@ -557,7 +579,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 450206,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/6HqR3zR0zfvMh7dUZypogW"
@@ -1035,7 +1057,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 439190,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5dFXMKwmElFkdBXEII2HpR"
@@ -1159,7 +1181,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 377058,
       "name": "High Pressure",
       "url": "https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7"
@@ -1657,7 +1679,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 452571,
       "name": "Overture",
       "url": "https://open.spotify.com/track/5dP9ZhH0NIMLyjpjFnAVcr"
@@ -1941,7 +1963,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 214400,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0Jz3sOalZAP80G290yYZZB"
@@ -1985,7 +2007,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 538539,
       "name": "Shores of The Subconscious",
       "url": "https://open.spotify.com/track/5H0qHxv8gIcMfpyDNis7iU"
@@ -2131,7 +2153,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 260571,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/5wtUmDnAhBZ79Po5eaQUW3"
@@ -2437,7 +2459,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 258260,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/2LLflcAjE262tLv9vK7Dqz"
@@ -2499,7 +2521,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 358285,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2hXlub5ZvPv7lUiQao52I5"
@@ -2561,7 +2583,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 390011,
       "name": "You Wanna Stay",
       "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
@@ -2579,7 +2601,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 406750,
       "name": "Yuma",
       "url": "https://open.spotify.com/track/45gdJm5UPBR1zQWVuK50eJ"

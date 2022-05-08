@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 213658,
       "name": "Alitissa",
       "url": "https://open.spotify.com/track/6pZIQW20GzrcxEUtn6dui3"
@@ -7865,7 +7865,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 120058,
       "name": "Mad Clip Forever",
       "url": "https://open.spotify.com/track/0B3sEl2578zaw5SqbdlNo8"
@@ -8587,7 +8587,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 246043,
       "name": "Metrita",
       "url": "https://open.spotify.com/track/5ZPhekpMLXFmewq8hc9GOA"
@@ -9661,6 +9661,32 @@
       "duration_ms": 143611,
       "name": "NINTENTO",
       "url": "https://open.spotify.com/track/4DKoLFTt98tbwRqPJE6D3a"
+    },
+    {
+      "album": {
+        "name": "Nisi",
+        "url": "https://open.spotify.com/album/1P9koamky66z8HlFHX5avf"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Mc Daddy",
+          "url": "https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT"
+        },
+        {
+          "name": "Display",
+          "url": "https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "Nisi",
+      "url": "https://open.spotify.com/track/2xdG3MPGdmb2u57RKwQF34"
     },
     {
       "album": {

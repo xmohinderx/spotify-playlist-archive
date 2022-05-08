@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: kelz Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,556 likes - 71 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,614 likes - 71 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 46 | [New Growth](https://open.spotify.com/track/2LUv1LSDFdxNpzRp2wR5yW) | [Carlos Truly](https://open.spotify.com/artist/1WxcTbg1M05H3uThDKXKs8) | [New Growth](https://open.spotify.com/album/4P7PO4dU4PTjGqjIZKz6sV) | 2:51 |
 | 47 | [Louis](https://open.spotify.com/track/5tbw09OvehQRMunOTJLdb6) | [Charlotte Rose Benjamin](https://open.spotify.com/artist/5NGaAzt758rEP9B9feiQIe) | [Dreamtina](https://open.spotify.com/album/4eqHsqsQkGrhY5qjK8CXMd) | 3:55 |
 | 48 | [My Friend](https://open.spotify.com/track/3EA40Yw2x2iyCvoLi3C2mN) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [My Friend](https://open.spotify.com/album/75z4yrptTNziP4iKQzzBQ9) | 5:27 |
-| 49 | [dead end](https://open.spotify.com/track/1lnjoZ0B7L2qNpqqt9O7DN) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [Dead End](https://open.spotify.com/album/0J5ZEh8YWFejDZISf9xeWY) | 3:06 |
+| 49 | [dead end](https://open.spotify.com/track/1lnjoZ0B7L2qNpqqt9O7DN) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [dead end](https://open.spotify.com/album/0J5ZEh8YWFejDZISf9xeWY) | 3:06 |
 | 50 | [Knee Jerk](https://open.spotify.com/track/3iDX1TuM0CBQSKxYLuMvmH) | [Tummyache](https://open.spotify.com/artist/2iGQR8gH9aKFtCxOsPGFYx) | [Knee Jerk](https://open.spotify.com/album/0Qv1aRIesBU792xX5LlT2J) | 3:44 |
 | 51 | [Dude In A Romantic Way](https://open.spotify.com/track/61V900hMxvHdpGdarlFbve) | [Callaway Martin](https://open.spotify.com/artist/32Om1pF9kloxRMFv1gUifZ) | [Dude In A Romantic Way](https://open.spotify.com/album/33qhi8y8l1LN1Ift6Ihc0V) | 3:01 |
 | 52 | [Attention! Shopkeeper](https://open.spotify.com/track/2jm5eKObeNILeRMtJaefyw) | [Pastel Blank](https://open.spotify.com/artist/4v8MCErhmubUGQhwRVbnlN) | [Attention! Shopkeeper](https://open.spotify.com/album/2I9MxXiaV1c02WaiAnZ6Gg) | 3:26 |

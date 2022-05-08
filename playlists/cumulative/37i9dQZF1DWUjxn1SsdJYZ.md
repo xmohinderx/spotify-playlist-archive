@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: Hooks
 
-134 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+135 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Magic \(feat\. Hooligan Hefs\)](https://open.spotify.com/track/6H5ZAvmXcBzTyAPRmtgdBJ) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Magic \(feat\. Hooligan Hefs\)](https://open.spotify.com/album/0bo5RiW2Kqlbu8zSge3cZD) | 2:46 | 2022-03-21 |  |
 | [MAKE IT DIP](https://open.spotify.com/track/0gtlSZCY8G6HJNqTRiVnDT) | [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U) | [MAKE IT DIP](https://open.spotify.com/album/2rxCJpUc6RhvjTFaFdCPCg) | 2:30 | 2022-03-21 |  |
 | [Make Money Not Friends](https://open.spotify.com/track/5F152wL6HnVIyr0UWvKh5v) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Make Money Not Friends](https://open.spotify.com/album/74vJth8gmNpP0eGJLYWiZX) | 2:56 | 2022-04-28 |  |
+| [Making it](https://open.spotify.com/track/1qNeeHV2WT7Ax4XiA1Qj5J) | [Izzy Est](https://open.spotify.com/artist/7r8FHhthMc6AykuuIvYjT8) | [Making it](https://open.spotify.com/album/5MKM5U3ibcIp6IIO25xxah) | 2:56 | 2022-05-07 |  |
 | [MHMM](https://open.spotify.com/track/53vnp4yNfgLRjT1jfcukkq) | [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK), [Vinny](https://open.spotify.com/artist/6WCaEpEZmlapvnhfIdTxMN) | [Stack or Starve](https://open.spotify.com/album/1EJAt0Q2dC719lyBugb3gv) | 3:17 | 2022-03-21 |  |
 | [Molly Meldrum](https://open.spotify.com/track/3jZaqu5nKGdJAbFPuNFG51) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats](https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL) | 2:31 | 2022-05-01 |  |
 | [Moppin](https://open.spotify.com/track/1nmHyC4nZmCwWkpgDC31n9) | [Yaz](https://open.spotify.com/artist/7zcoCcZ5ofhGbbdbl5jULg) | [Moppin](https://open.spotify.com/album/7gg2TgpdyK6Xz45qExCw6M) | 3:10 | 2022-05-05 |  |

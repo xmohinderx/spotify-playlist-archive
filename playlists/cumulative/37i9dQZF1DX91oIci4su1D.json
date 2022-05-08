@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 219688,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/6kgyuhLSBUB1LJVoACkPYV"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 206833,
       "name": "Anything",
       "url": "https://open.spotify.com/track/5WD7n1SmKkZN9OysKjU0QR"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 241892,
       "name": "Big Things Have Small Beginnings",
       "url": "https://open.spotify.com/track/2aAF1lrFqkQQJlY0Xp3iuM"
@@ -1286,6 +1286,32 @@
     },
     {
       "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/7340Y23yrYbYQ2E9QDQS3a"
+      },
+      "artists": [
+        {
+          "name": "GXD",
+          "url": "https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8"
+        },
+        {
+          "name": "James Christian",
+          "url": "https://open.spotify.com/artist/3yu4kkjn0ALOKUvhcBx4O1"
+        },
+        {
+          "name": "Scar",
+          "url": "https://open.spotify.com/artist/7HZbKBp2NNdcIu0fm6Qd6P"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201833,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/5fxLr471q7IQa6naTJeRT8"
+    },
+    {
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/7ftdQIAvvmrqDlvVGgp6Bm"
       },
@@ -1647,7 +1673,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 252173,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/41n2LjHSyjiBtc0wV6GPpn"
@@ -1785,7 +1811,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/1Xm26qAA8qJ1cYNZHgyoLs"
@@ -1929,7 +1955,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 232000,
       "name": "Exception",
       "url": "https://open.spotify.com/track/4dsPKYGvQny2AZDKky7XiB"
@@ -1991,7 +2017,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 224584,
       "name": "Eyepiece",
       "url": "https://open.spotify.com/track/1gMWFfgtpzVXP1PoGRKIob"
@@ -2189,7 +2215,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 232714,
       "name": "Free Souls - Ben van Gosh Radio Remix",
       "url": "https://open.spotify.com/track/5ZfnLl8eUqclVeeWEuVFKf"
@@ -2255,7 +2281,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 207541,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/3drSpTn8nzMV5ier8Szgqi"
@@ -2963,7 +2989,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 236363,
       "name": "I'm Different Now - Miami Mix",
       "url": "https://open.spotify.com/track/5JD5nGnXbqhCSCJwAEJLpl"
@@ -3187,7 +3213,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Kasia",
       "url": "https://open.spotify.com/track/2b3EEVMW4hMD2RnF8pPKf3"
@@ -4013,7 +4039,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 239805,
       "name": "Melodrama - Abstract Vision Remix",
       "url": "https://open.spotify.com/track/0lT9do5cYc8GFtDto2elSl"
@@ -4520,6 +4546,28 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/0Q111xnolEwzNORK2QWy6w"
+      },
+      "artists": [
+        {
+          "name": "Farius",
+          "url": "https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ"
+        },
+        {
+          "name": "Cristina Soto",
+          "url": "https://open.spotify.com/artist/5BKXCIdVnAwBQKUoGNqfZj"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298875,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/4fbqwJ0bZTMerQtLKdMK9v"
+    },
+    {
+      "album": {
         "name": "One Last Dance (Farius Remix)",
         "url": "https://open.spotify.com/album/4MTSJjAoJdaaPFUjtm6n9g"
       },
@@ -4639,6 +4687,28 @@
       "duration_ms": 191250,
       "name": "Out Of The Dark - Fatum Remix",
       "url": "https://open.spotify.com/track/2tKK8k86BeXx3n0tLzbcCN"
+    },
+    {
+      "album": {
+        "name": "Over You (The 90s Anthem)",
+        "url": "https://open.spotify.com/album/6X5bXIco4ReY8fKJJiguku"
+      },
+      "artists": [
+        {
+          "name": "Lost Witness",
+          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
+        },
+        {
+          "name": "SJ Johnson",
+          "url": "https://open.spotify.com/artist/7oBdM9x2MZh2gePdvOzHgd"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228695,
+      "name": "Over You (The 90s Anthem)",
+      "url": "https://open.spotify.com/track/3FcX3M85Pzrv7e1hAfDgWQ"
     },
     {
       "album": {
@@ -5066,6 +5136,32 @@
     },
     {
       "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/4hVK91vDuv2VakZKpTsUa7"
+      },
+      "artists": [
+        {
+          "name": "PITTARIUS CODE",
+          "url": "https://open.spotify.com/artist/5o9eLiSbwpPJOt0a6QMaIn"
+        },
+        {
+          "name": "Konnekted",
+          "url": "https://open.spotify.com/artist/25jK9kuPsRme0PR3j6nA2Y"
+        },
+        {
+          "name": "Tara Louise",
+          "url": "https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150054,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/626SBANr4fSncuVBD7dgYg"
+    },
+    {
+      "album": {
         "name": "Retrospection",
         "url": "https://open.spotify.com/album/5WivG5aBh4fXUB2ii0Wmfe"
       },
@@ -5197,7 +5293,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 198636,
       "name": "Run & Hide",
       "url": "https://open.spotify.com/track/4FiHdM1KtAJVE7CaZxnSK1"
@@ -5285,7 +5381,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 237423,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4zDU34T5mQk0xkxi1sWRmt"
@@ -5347,7 +5443,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 187826,
       "name": "Searching (For A Kinder Love)",
       "url": "https://open.spotify.com/track/7HsNq025c5crDgp3qvqhPn"
@@ -6015,7 +6111,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 221250,
       "name": "Switch Up",
       "url": "https://open.spotify.com/track/7xiDImB6EbVuYDgvp2iqKy"
@@ -6055,7 +6151,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 257142,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/4lC49uMbMLld4MFMRwgmX1"
@@ -6205,7 +6301,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 272250,
       "name": "The Embrace",
       "url": "https://open.spotify.com/track/3OllKKXmJ3G6m3btllU7kO"
@@ -6485,7 +6581,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 198043,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/3coUc3wYNcJiufDDoGKhBZ"
@@ -6577,7 +6673,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 204193,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/2pyvGOhJ78nGL1mSPWGmPD"
@@ -6705,7 +6801,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 247320,
       "name": "Walk Through Shadows",
       "url": "https://open.spotify.com/track/288OdSeiMaRQSx2XKoGbDr"
@@ -7039,7 +7135,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "You Can't Save Me",
       "url": "https://open.spotify.com/track/61dE4pgV3F1TKdrPm3ToCD"

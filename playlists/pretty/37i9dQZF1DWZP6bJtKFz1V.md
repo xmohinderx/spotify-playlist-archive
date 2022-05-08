@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: flor
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,970 likes - 124 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,989 likes - 124 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-428 songs - 1 day 1 hr 13 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+429 songs - 1 day 1 hr 17 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Chỉ Là Không Cùng Nhau \(Live Version\)](https://open.spotify.com/track/6iWPQ9xAYH3ZePu2Z209Y6) | [Tăng Phúc](https://open.spotify.com/artist/5TSjLaWHQ69GaALubAM7gR), [Truong Thao Nhi](https://open.spotify.com/artist/0MSThXXAv51swAKUOuZg8A) | [Chỉ Là Không Cùng Nhau \(Live Version\)](https://open.spotify.com/album/3dJBWbi179boalDdrI7oXD) | 3:46 | 2021-04-05 | 2021-06-24 |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-22 |
 | [Crystal Snow](https://open.spotify.com/track/6NbfFVZ01Ttvvqmcok8DxL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [FACE YOURSELF](https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t) | 5:23 | 2021-12-26 | 2021-12-27 |
-| [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 | 2022-03-23 |  |
+| [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 | 2022-03-23 | 2022-05-08 |
 | [CÓ CHẮC YÊU LÀ ĐÂY](https://open.spotify.com/track/2z9iLlNBt1aLZUCFgXby97) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [CÓ CHẮC YÊU LÀ ĐÂY](https://open.spotify.com/album/738A5dZVHTynH0sfeL87KV) | 3:22 | 2021-03-27\* | 2022-05-04 |
 | [Có em](https://open.spotify.com/track/2Lag4WL4j3AMXzqWbEzmV6) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/13En1VmJCW0kI9AMTywYQs) | 3:38 | 2022-04-26 |  |
 | [Có Em Đời Bỗng Vui](https://open.spotify.com/track/696w9BHmEY62myVCSDyrYW) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Có Em Đời Bỗng Vui](https://open.spotify.com/album/4c0kP5hJrKy9QrN6DgSWKJ) | 4:07 | 2021-03-27\* | 2021-04-04 |
@@ -379,6 +379,7 @@
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-12 | 2022-03-14 |
 | [The Playah \(feat\. SlimV\) \- Special Performance](https://open.spotify.com/track/63qZf6349d3ngku9hrzLac) | [Soobin Hoang Son](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [SlimV](https://open.spotify.com/artist/2m8Bk9or6quybzoQbM0zQt) | [The Playah \(feat\. SlimV\) \[Special Performance\]](https://open.spotify.com/album/4437psfF6TPngVcOkFT90M) | 7:29 | 2021-05-19 | 2021-09-26 |
 | [THERE'S NO ONE AT ALL](https://open.spotify.com/track/7rjtRM1AgmmraeTTX8tofW) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [THERE'S NO ONE AT ALL](https://open.spotify.com/album/1ZutY9YHq5MEPDTT0wy06u) | 2:52 | 2022-04-29 |  |
+| [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-07 |  |
 | [Tháng Mấy Em Nhớ Anh?](https://open.spotify.com/track/6Fbsn9471Xd0vVsMWwhePh) | [Ha Anh Tuan](https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG) | [Tháng Mấy Em Nhớ Anh?](https://open.spotify.com/album/2abWPWzlhV9ROpN6EggZPR) | 5:00 | 2021-04-04 | 2021-11-04 |
 | [Tháng Năm](https://open.spotify.com/track/0SmQ0UWeiHKQtxUej4Rem6) | [Soobin Hoang Son](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [The Playah](https://open.spotify.com/album/5xduxfrnEQpYdH54ilWMAN) | 3:45 | 2021-05-29 | 2021-10-31 |
 | [Thích Em Hơi Nhiều](https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Thích Em Hơi Nhiều](https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg) | 2:51 | 2021-06-23 |  |

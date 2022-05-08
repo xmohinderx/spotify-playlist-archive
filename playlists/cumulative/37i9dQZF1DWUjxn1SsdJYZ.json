@@ -1394,6 +1394,24 @@
     },
     {
       "album": {
+        "name": "Making it",
+        "url": "https://open.spotify.com/album/5MKM5U3ibcIp6IIO25xxah"
+      },
+      "artists": [
+        {
+          "name": "Izzy Est",
+          "url": "https://open.spotify.com/artist/7r8FHhthMc6AykuuIvYjT8"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176223,
+      "name": "Making it",
+      "url": "https://open.spotify.com/track/1qNeeHV2WT7Ax4XiA1Qj5J"
+    },
+    {
+      "album": {
         "name": "Stack or Starve",
         "url": "https://open.spotify.com/album/1EJAt0Q2dC719lyBugb3gv"
       },

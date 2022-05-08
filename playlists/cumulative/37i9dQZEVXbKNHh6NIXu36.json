@@ -3537,7 +3537,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -4744,6 +4744,24 @@
     },
     {
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
       },
@@ -4755,7 +4773,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
@@ -5723,7 +5741,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -6993,7 +7011,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
@@ -7509,6 +7527,28 @@
       "duration_ms": 288602,
       "name": "Kapuze im Club",
       "url": "https://open.spotify.com/track/5oYyn8FqSRuOjMB4OVXqWk"
+    },
+    {
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/7LBfRq5Zezgaeduw7Ftucl"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/61pZEdG7eSvdjGOdRGYyqu"
     },
     {
       "album": {
@@ -8656,6 +8696,28 @@
     },
     {
       "album": {
+        "name": "Machen Geld",
+        "url": "https://open.spotify.com/album/2Bpueq5aDoKyzQfZDARLPE"
+      },
+      "artists": [
+        {
+          "name": "Sa4",
+          "url": "https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137174,
+      "name": "Machen Geld",
+      "url": "https://open.spotify.com/track/30NOYXdrNtURakJTZQzVkb"
+    },
+    {
+      "album": {
         "name": "100 Pro",
         "url": "https://open.spotify.com/album/3KAtEV9jbwMKd1BPbN4XfV"
       },
@@ -8983,7 +9045,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 139580,
       "name": "Mein Planet",
       "url": "https://open.spotify.com/track/4DEH8oNdeXs4Lg72Lrkz87"
@@ -10461,6 +10523,28 @@
       "duration_ms": 152201,
       "name": "Nyokosuzi",
       "url": "https://open.spotify.com/track/3PtuYF4T12cJZFkXrV0pRX"
+    },
+    {
+      "album": {
+        "name": "OBSESSED (feat. RAF Camora)",
+        "url": "https://open.spotify.com/album/0l0PDgQIuNFT3pZnn25IHL"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "OBSESSED (feat. RAF Camora)",
+      "url": "https://open.spotify.com/track/5t8abSvRpCuaLyDpRor2gD"
     },
     {
       "album": {
@@ -16003,6 +16087,32 @@
       "duration_ms": 186173,
       "name": "You Right",
       "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+    },
+    {
+      "album": {
+        "name": "You're My Heart, You're My Soul",
+        "url": "https://open.spotify.com/album/1wcXpT3QHGtaMxi9AGxpFy"
+      },
+      "artists": [
+        {
+          "name": "Katja Krasavice",
+          "url": "https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK"
+        },
+        {
+          "name": "Dieter Bohlen",
+          "url": "https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx"
+        },
+        {
+          "name": "Pietro Lombardi",
+          "url": "https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "You're My Heart, You're My Soul",
+      "url": "https://open.spotify.com/track/3id8kxAfWtgSiKq2wuwPSu"
     },
     {
       "album": {

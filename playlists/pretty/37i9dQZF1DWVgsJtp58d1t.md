@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,019 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,121 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Fool In Love](https://open.spotify.com/track/20WDv1X4tp93CoTYA71eiB) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Fool In Love](https://open.spotify.com/album/5NGoaWPpVG2Q2LiAdoFoJN) | 3:20 |
 | 100 | [restless](https://open.spotify.com/track/4Rgf41ic8OWW0Ah19yQAVC) | [Finding Neo](https://open.spotify.com/artist/1cCSaRtUGbb4ox3zMhqfPh) | [no man is an island](https://open.spotify.com/album/3lVVg98XNvwy64Kz22i1Qq) | 4:08 |
 
-Snapshot ID: `MTY1MTkwNzE0MywwMDAwMDAwMDFkYjJiYjcwZmNmMzZjZmJlN2FlNGU0NjVlNWY5YmU1`
+Snapshot ID: `MTY1MTk3MTQzOSwwMDAwMDAwMDFkYjJiYjcwZmNmMzZjZmJlN2FlNGU0NjVlNWY5YmU1`

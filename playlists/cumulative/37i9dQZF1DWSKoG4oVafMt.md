@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-310 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+311 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Kudiyan Lahore Diyan](https://open.spotify.com/track/0NlIythdHcM4zFDP5dGLta) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kudiyan Lahore Diyan](https://open.spotify.com/album/4STyPN6DqIbBkkDlczowCn) | 3:42 | 2022-03-30 |  |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2021-12-02 | 2022-02-01 |
 | [LA](https://open.spotify.com/track/27G0kb3K0M6wTcRFEtAp8H) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [LA](https://open.spotify.com/album/4YDpYD0bKAcFD8t6BQS0rA) | 2:59 | 2022-04-20 |  |
+| [La La La](https://open.spotify.com/track/6dMm31vV30QYSLwpcTPznv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [La La La](https://open.spotify.com/album/4HLctn0Rgefl2sMIYF0XUU) | 2:41 | 2022-05-07 |  |
 | [Laid Back](https://open.spotify.com/track/3x7tOQG4O3xc71ojvukQOk) | [Noor Tung](https://open.spotify.com/artist/44SO7hG8JnPeibqOefhgMY), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Laid Back](https://open.spotify.com/album/7rsMotcs26SBQNVytHaUwU) | 2:52 | 2022-04-04 | 2022-04-29 |
 | [Lakh Lakh Vadhaiyaan](https://open.spotify.com/track/2a8NpQ2XWPzfTR1JH5Zw7j) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b) | [Lakh Lakh Vadhaiyaan](https://open.spotify.com/album/2Xdgv8cnKsvblGmv1h4mv5) | 4:16 | 2022-01-21 | 2022-01-28 |
 | [Lambo \(Version Snappy\)](https://open.spotify.com/track/3nQZULgmcDRUFTLrY7yw03) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:18 | 2022-01-17 | 2022-02-01 |

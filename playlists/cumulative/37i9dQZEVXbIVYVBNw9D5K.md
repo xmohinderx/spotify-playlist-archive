@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-424 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+425 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 |  |
 | [BİLDİRİMLER KAPALI](https://open.spotify.com/track/3Pyy3y16EesdzWOfVSQesl) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [BİLDİRİMLER KAPALI](https://open.spotify.com/album/77j2RhU8nPDGqfOzYxYVzA) | 2:32 | 2022-01-29 | 2022-01-31 |
 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 | 2021-05-20 | 2021-05-21 |
-| [Bonita](https://open.spotify.com/track/3Obq1XTegJy7ISrAA9VjQk) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Bonita](https://open.spotify.com/album/7LODVV9sx3SfkuISMoyQ13) | 2:18 | 2021-06-27 |  |
+| [Bonita](https://open.spotify.com/track/3Obq1XTegJy7ISrAA9VjQk) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Bonita](https://open.spotify.com/album/7LODVV9sx3SfkuISMoyQ13) | 2:18 | 2021-06-27 | 2022-05-08 |
 | [BOZGUN](https://open.spotify.com/track/5OmwljVFUGG5xpbwH0BS7A) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 2:36 | 2021-06-13 | 2021-06-14 |
 | [Bu Aşkta Zararım Var](https://open.spotify.com/track/1MsCY6QzxtZLZ7tsgRCfhX) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Bu Aşkta Zararım Var](https://open.spotify.com/album/4IcObM2kZAOPyrF1mUa3hw) | 3:17 | 2021-08-22 | 2021-08-27 |
 | [Bu da Geçer mi Sevgilim](https://open.spotify.com/track/4knoybQvMTZkuTI8dWx7ZA) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Bu da Geçer mi Sevgilim](https://open.spotify.com/album/1xCT8zKbhD3aur3tPjwuUq) | 3:20 | 2022-01-15 | 2022-01-21 |
@@ -314,6 +314,7 @@
 | [Pablo](https://open.spotify.com/track/4HWiQoV1HUI9o6FM1JbACh) | [Alper Eğri](https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX) | [Pablo](https://open.spotify.com/album/2UyNjwz3DvM2GhxsCdZcbM) | 3:42 | 2021-05-09 | 2021-05-13 |
 | [Papa Rose](https://open.spotify.com/track/38CwybVk0CqbTovp3aWtEZ) | [Clower](https://open.spotify.com/artist/0AnmijrLwTOeEp0DqafMr6) | [Papa Rose](https://open.spotify.com/album/1lHssSEP0HCgDZ4lYED9Wg) | 2:28 | 2022-01-30 | 2022-03-05 |
 | [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-11-21 |  |
+| [PARA](https://open.spotify.com/track/47zsnWIPoPSjJhZoKp5h21) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2) | [PARA](https://open.spotify.com/album/01HicloONqEUMNfzzQkMP8) | 2:56 | 2022-05-07 |  |
 | [Paranoya](https://open.spotify.com/track/4a0SQDAwphKijSWUXMUEWA) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Paranoya](https://open.spotify.com/album/4jm4N4jJ9NwzS15pfEpmpa) | 2:29 | 2022-02-19 | 2022-03-07 |
 | [Pare](https://open.spotify.com/track/1qv3dJD70eC9mnIZnofWwP) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Pare](https://open.spotify.com/album/1aK2P7TMEkl5P12tl2RujI) | 2:54 | 2021-11-14 | 2022-01-15 |
 | [Pembe Mezarlık](https://open.spotify.com/track/1cwth5tNynCfH2ZYCmShDc) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Diğer Masallar](https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL) | 4:15 | 2022-01-04 | 2022-01-06 |

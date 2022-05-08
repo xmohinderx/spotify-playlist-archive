@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Jack Harlow, Bad Bunny, Lady Gaga, Doja Cat, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,899,493 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,900,757 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 98 | [Parade](https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Parade](https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7) | 2:03 |
 | 99 | [The Chemist](https://open.spotify.com/track/0pE75Wp3Np1f8N5RcNE8wZ) | [Forts](https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE) | [The Chemist](https://open.spotify.com/album/5CrL4BHFdHLfLaqOmTHVfk) | 3:16 |
 
-Snapshot ID: `MTY1MTgwOTYxMiwwMDAwMDNhODAwMDAwMTgwOTc4NjczODkwMDAwMDE4MDk0ZTY4ODlj`
+Snapshot ID: `MTY1MTkzODU2NSwwMDAwMDNhOTAwMDAwMTgwOWYzNjFlYzYwMDAwMDE4MDk0ZTY4ODlj`

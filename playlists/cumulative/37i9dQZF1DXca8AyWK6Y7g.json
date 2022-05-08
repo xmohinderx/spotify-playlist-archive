@@ -1681,7 +1681,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 216555,
       "name": "Beabadoobee",
       "url": "https://open.spotify.com/track/7pC2Lj7slyihjXZABlvZKV"
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 140733,
       "name": "boomerang",
       "url": "https://open.spotify.com/track/4EHeLkvI4zxD0lcsM2s4b6"
@@ -3139,7 +3139,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 243874,
       "name": "Check Check",
       "url": "https://open.spotify.com/track/15ibpzLxaUqycubbAfPFpe"
@@ -5251,7 +5251,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 220408,
       "name": "Easier Said",
       "url": "https://open.spotify.com/track/4xtovOO8zN3TYmC8kcLcN1"
@@ -6649,7 +6649,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 227241,
       "name": "Get Him Away From Me",
       "url": "https://open.spotify.com/track/19V22p018Mt3sk6I95Xd5E"
@@ -6707,7 +6707,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 171317,
       "name": "Getting Used To",
       "url": "https://open.spotify.com/track/3bQFa2vK0P38iUrwYGc3Ul"
@@ -7115,7 +7115,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 158760,
       "name": "Good Side",
       "url": "https://open.spotify.com/track/6c2t3MFFsSKO7DviyCLYzJ"
@@ -9844,6 +9844,24 @@
     },
     {
       "album": {
+        "name": "Treat Me Right",
+        "url": "https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Kiss Me Right Now",
+      "url": "https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8"
+    },
+    {
+      "album": {
         "name": "Know This Love (feat. Litens)",
         "url": "https://open.spotify.com/album/1qMYj1vvj1qspuBqUmP33o"
       },
@@ -9917,7 +9935,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 150770,
       "name": "La La La",
       "url": "https://open.spotify.com/track/6WivhoU5qLcUtbYg2fo9Ay"
@@ -11195,7 +11213,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 192133,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs"
@@ -11916,6 +11934,24 @@
     },
     {
       "album": {
+        "name": "My Kink is Karma",
+        "url": "https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222578,
+      "name": "My Kink is Karma",
+      "url": "https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm"
+    },
+    {
+      "album": {
         "name": "Dream Girl",
         "url": "https://open.spotify.com/album/4pI2XhkcyVb6MJXfEDF67u"
       },
@@ -12007,6 +12043,24 @@
       "duration_ms": 154786,
       "name": "Napkins",
       "url": "https://open.spotify.com/track/077ULIWZuzfn7YWJl8s01U"
+    },
+    {
+      "album": {
+        "name": "Natural Wonder",
+        "url": "https://open.spotify.com/album/19u57TNFykOsltJ40HvjDC"
+      },
+      "artists": [
+        {
+          "name": "EVER",
+          "url": "https://open.spotify.com/artist/7f3i7KtcsMEyZO6jWYFPmI"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175318,
+      "name": "Natural Wonder",
+      "url": "https://open.spotify.com/track/3nQ26cKpg4PrPZGWBUhwoP"
     },
     {
       "album": {
@@ -12684,6 +12738,24 @@
     },
     {
       "album": {
+        "name": "Nothing's All The Time",
+        "url": "https://open.spotify.com/album/6mpySMwG3IZ7hSnqGF9Z2A"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162581,
+      "name": "Nothing's All The Time",
+      "url": "https://open.spotify.com/track/3m3bd62913zzUd48L53Lc1"
+    },
+    {
+      "album": {
         "name": "nownow",
         "url": "https://open.spotify.com/album/7qfjnlGz4ylUj4SHANZ5KM"
       },
@@ -13339,7 +13411,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 189520,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1FsxkwFz98EN7BufWfTemM"
@@ -14657,7 +14729,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 216000,
       "name": "Run to You",
       "url": "https://open.spotify.com/track/38LpvbIp9It4wkOYL9SVHM"
@@ -15893,7 +15965,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 143188,
       "name": "snakes",
       "url": "https://open.spotify.com/track/4CigTjRg2PZZKYAus45wOA"
@@ -16663,7 +16735,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 180488,
       "name": "Strangle You",
       "url": "https://open.spotify.com/track/33zu1yDgyBpdBYkbZdtaUK"
@@ -17285,7 +17357,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 214323,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7zvpy4zhp5594U635c3SFL"
@@ -18057,7 +18129,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 175950,
       "name": "The Way You Are",
       "url": "https://open.spotify.com/track/52GPw706N71AnEaa1oPBtU"
@@ -18303,7 +18375,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 228823,
       "name": "Time On",
       "url": "https://open.spotify.com/track/6hwlAQ9DSZlXOWqdIEtevQ"
@@ -19155,7 +19227,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 194332,
       "name": "Wake Me up When My 20's End",
       "url": "https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X"
@@ -20209,7 +20281,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 173195,
       "name": "YOUR GHOST",
       "url": "https://open.spotify.com/track/6X8NtXpTWAdHj01tn03LCz"

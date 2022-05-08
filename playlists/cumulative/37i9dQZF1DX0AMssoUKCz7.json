@@ -164,6 +164,28 @@
     },
     {
       "album": {
+        "name": "Again And Again",
+        "url": "https://open.spotify.com/album/6yRhQ6NNxn8p0eo7WyCBVN"
+      },
+      "artists": [
+        {
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+        },
+        {
+          "name": "Lauterborn",
+          "url": "https://open.spotify.com/artist/57Y7Fk9bQvmn0uyVyKAYxA"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176949,
+      "name": "Again And Again",
+      "url": "https://open.spotify.com/track/6FMoSgKLELUD20nhYbLrYm"
+    },
+    {
+      "album": {
         "name": "Ain't Nobody (Loves Me Better)",
         "url": "https://open.spotify.com/album/3NC0WEl19sJosOSW0812Iw"
       },
@@ -1171,7 +1193,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 164884,
       "name": "Chasing After You",
       "url": "https://open.spotify.com/track/67jtXlxQs82ATZhfdywYJa"
@@ -1637,7 +1659,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 166859,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/4rZPXoHjYAaKqxaWE43KFW"
@@ -2241,7 +2263,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 196389,
       "name": "Freak - Sam Feldt Remix Edit",
       "url": "https://open.spotify.com/track/5SNTUBSq1Qzi0URdB443h1"
@@ -2727,7 +2749,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 150243,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3fel2U4v2lLne5rE5bH9dc"
@@ -2778,6 +2800,28 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3uzNox4LBHyKCyN65VQdcX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Beats",
+          "url": "https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB"
+        },
+        {
+          "name": "Kerin Maguire",
+          "url": "https://open.spotify.com/artist/3sKkXqemxQk1VktbNyiyxF"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166918,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2PSuPIS5db6eBesTbRuikh"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5nNwjyGbAdUzY9QKiEciBH"
       },
@@ -2819,10 +2863,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 214032,
       "name": "Home (feat. Nico Santos) - Marcapasos Radio Remix",
       "url": "https://open.spotify.com/track/2NsWGd3UslepVF25pKw1sp"
+    },
+    {
+      "album": {
+        "name": "Home to You",
+        "url": "https://open.spotify.com/album/3egdeHka27IQYae3vCYqJo"
+      },
+      "artists": [
+        {
+          "name": "h\u00f8lm",
+          "url": "https://open.spotify.com/artist/1MWMXWxgatT3rhtAapTO8P"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160658,
+      "name": "Home to You",
+      "url": "https://open.spotify.com/track/2E68BgIXWdBymrDdW0H4ux"
     },
     {
       "album": {
@@ -3255,7 +3317,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 145500,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/4oTvXEf8ihEfGZjsi77QNh"
@@ -3689,7 +3751,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 189010,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/1XX4oZtcrjrzI4lK6CXMiZ"
@@ -4085,7 +4147,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 111982,
       "name": "Mine",
       "url": "https://open.spotify.com/track/5H1jO8SyOdNeueauLa6oHn"
@@ -5215,7 +5277,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 201600,
       "name": "Praise You (Chill Mix) - Extended Mix",
       "url": "https://open.spotify.com/track/4MQH3f29tWW0P0DE6SgOlb"
@@ -5871,7 +5933,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 185039,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/23OzWEhGGgu7RSqzKhsGhE"
@@ -5893,7 +5955,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 179069,
       "name": "Set The World (On Fire)",
       "url": "https://open.spotify.com/track/1UtjCEfOU9JaAMuGIhBPBx"
@@ -6565,6 +6627,32 @@
       "duration_ms": 199322,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5jUgFofZJCuSQjcYao0VMv"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/2pgRAlP4GDx78gQHiCW2ad"
+      },
+      "artists": [
+        {
+          "name": "Methner",
+          "url": "https://open.spotify.com/artist/1KVh2mDowk5csLQLpG4sln"
+        },
+        {
+          "name": "XO",
+          "url": "https://open.spotify.com/artist/7iYWcuAtM8cO4AFTJ5MHVl"
+        },
+        {
+          "name": "WLZN",
+          "url": "https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168991,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2Wf1AxNNsj3yPcLbvnW7TJ"
     },
     {
       "album": {
@@ -7255,7 +7343,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 154146,
       "name": "Wanna Know Me",
       "url": "https://open.spotify.com/track/6BOSo7VK5JteFaQ0X1CBAR"

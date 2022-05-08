@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 233537,
       "name": "24k",
       "url": "https://open.spotify.com/track/0lmzmht19LRBtsy8BusjHH"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 279339,
       "name": "anymore",
       "url": "https://open.spotify.com/track/7AJZthxqKgdpNmoeo0QSwV"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 131851,
       "name": "Buggin",
       "url": "https://open.spotify.com/track/1wjHKZGLuZarl2lY16CQ1H"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 214000,
       "name": "Can Someone Take Me Home?",
       "url": "https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 197485,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/7JYK47yZqheR1DeJCeygWX"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 250291,
       "name": "Faisal (Envelops Me)",
       "url": "https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 217245,
       "name": "Fiire",
       "url": "https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 121398,
       "name": "Grin On Me",
       "url": "https://open.spotify.com/track/3rnjpapU250ztdS4N2e3aS"
@@ -1411,6 +1411,28 @@
       "duration_ms": 183366,
       "name": "Immortalized",
       "url": "https://open.spotify.com/track/6Y2mmfzPHzI7DekT5iviyT"
+    },
+    {
+      "album": {
+        "name": "Closure & Campari: After Hours",
+        "url": "https://open.spotify.com/album/5dkGwwTDSKTiAq8Qp4yWn8"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos",
+          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        },
+        {
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/65TiEAGo8U7RFXQwlsjjxh"
     },
     {
       "album": {
@@ -1707,7 +1729,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 160243,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
@@ -2015,7 +2037,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 98025,
       "name": "pretending",
       "url": "https://open.spotify.com/track/6JdsPCckuimQaRQgDhTpB9"
@@ -2091,7 +2113,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0ixGQPZSCRllfWBNrG2E31"
@@ -2315,7 +2337,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 306000,
       "name": "Sneak Away With Me",
       "url": "https://open.spotify.com/track/0DnMu0Q9X3yCPMUD5PP3P9"
@@ -2387,7 +2409,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 216406,
       "name": "Something to Say",
       "url": "https://open.spotify.com/track/62M5gj2bau54bPysumOjXp"

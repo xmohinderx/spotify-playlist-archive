@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187599,
+      "name": "Amores de droga",
+      "url": "https://open.spotify.com/track/33jkxCQQNrwQrXuHhVdhjh"
+    },
+    {
+      "album": {
         "name": "Andr\u00f3meda",
         "url": "https://open.spotify.com/album/2oPtH9e4lcdfI7yh5Vslnw"
       },
@@ -161,7 +179,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 214477,
       "name": "Andr\u00f3meda",
       "url": "https://open.spotify.com/track/0QXXxijmUVmJB18nSjyHhn"
@@ -179,7 +197,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 149538,
       "name": "Antes",
       "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
@@ -233,7 +251,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 226500,
       "name": "Beso Picor",
       "url": "https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML"
@@ -363,7 +381,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 149318,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq"
@@ -443,7 +461,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 231111,
       "name": "Confusi\u00f3n",
       "url": "https://open.spotify.com/track/1fSkREDvtJw4pGkudpJzEF"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 185520,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/0q1qAGERR453ach2swvAza"
@@ -994,6 +1012,28 @@
     },
     {
       "album": {
+        "name": "Gotas",
+        "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215156,
+      "name": "Gotas",
+      "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "album": {
         "name": "Hablando De Love",
         "url": "https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5"
       },
@@ -1095,7 +1135,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 166733,
       "name": "IDGAD",
       "url": "https://open.spotify.com/track/2FF5m9pWgpneewxKLgZ2FY"
@@ -1149,7 +1189,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 200000,
       "name": "just friends",
       "url": "https://open.spotify.com/track/1qJxFxdCoxZJza3PgmeNvv"
@@ -1287,7 +1327,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 145179,
       "name": "Lo Que Vivimos",
       "url": "https://open.spotify.com/track/4vgsDg7bEQFr1VIxmqJzrI"
@@ -1305,7 +1345,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 178500,
       "name": "Mala",
       "url": "https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY"
@@ -1341,7 +1381,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 177500,
       "name": "MANIPULAXI\u00d3N",
       "url": "https://open.spotify.com/track/40jILS6cznYavIq5ZvlbYY"
@@ -1425,7 +1465,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 198260,
       "name": "Mi Cama",
       "url": "https://open.spotify.com/track/3aCuRkhwq3gTII6b3WWESK"
@@ -1465,6 +1505,28 @@
       "duration_ms": 200043,
       "name": "my future - spanish version",
       "url": "https://open.spotify.com/track/38m0prhs1ExF3q6dQHTMCm"
+    },
+    {
+      "album": {
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
     },
     {
       "album": {
@@ -1573,7 +1635,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 166578,
       "name": "No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/0yYxQhoJe1My3LhcIPIkXQ"
@@ -1773,7 +1835,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 243411,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa"
@@ -1839,7 +1901,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 201853,
       "name": "P\u00farpura",
       "url": "https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di"
@@ -1911,7 +1973,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 200963,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
@@ -1933,7 +1995,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 195572,
       "name": "Secreto",
       "url": "https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7"
@@ -1995,7 +2057,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 181787,
       "name": "Si Fuera Cierto",
       "url": "https://open.spotify.com/track/0rtiIgxtRlZtqcQmyFJdxr"
@@ -2013,7 +2075,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 169336,
       "name": "Si Tu Quieres",
       "url": "https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2"
@@ -2125,7 +2187,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 166305,
       "name": "Superheroina",
       "url": "https://open.spotify.com/track/6XpkDZFeB3yF3QiiM7GZWc"
@@ -2209,7 +2271,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 205301,
       "name": "tenemos que hablar",
       "url": "https://open.spotify.com/track/7k0yRWiVy5KiPRMX7hlVcI"
@@ -2285,7 +2347,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 219481,
       "name": "Track 11",
       "url": "https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40"
@@ -2321,7 +2383,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 183547,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/0WVk9ryyXfyTshKnLQ1EZ2"

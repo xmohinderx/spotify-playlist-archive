@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 156577,
       "name": "+98",
       "url": "https://open.spotify.com/track/3Ps7jPYr1iAiBoznHdaavu"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 165714,
       "name": "7ali Ya 7ali",
       "url": "https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo"
@@ -699,10 +699,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 240000,
       "name": "ACDC",
       "url": "https://open.spotify.com/track/2bqLj2lI1fEgiVuqrIF3Gd"
+    },
+    {
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174701,
+      "name": "Adams, Raid",
+      "url": "https://open.spotify.com/track/22kGpzO0EAdYy9yaPGvKGJ"
     },
     {
       "album": {
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 195973,
       "name": "ALOHA!",
       "url": "https://open.spotify.com/track/22YGEzwGJwqoFKJ0URX1cl"
@@ -1760,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143034,
+      "name": "Bouh !, Mobydick",
+      "url": "https://open.spotify.com/track/2hTvavZbSNLCUXFC4av6uR"
+    },
+    {
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/77vSi8E4SGlrWvPs6NFSLz"
       },
@@ -1917,7 +1953,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
@@ -2145,6 +2181,28 @@
       "duration_ms": 192740,
       "name": "Cartable",
       "url": "https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2"
+    },
+    {
+      "album": {
+        "name": "Mots crois\u00e9s",
+        "url": "https://open.spotify.com/album/7MKGYeEG0mGVL39JcNywKK"
+      },
+      "artists": [
+        {
+          "name": "Demi Portion",
+          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193657,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J"
     },
     {
       "album": {
@@ -2791,7 +2849,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 226000,
       "name": "Deghri Deghri",
       "url": "https://open.spotify.com/track/2DPkmFqCCEIJGjlVnsPU7A"
@@ -2831,6 +2889,28 @@
       "duration_ms": 57322,
       "name": "DFK - Inter'lol",
       "url": "https://open.spotify.com/track/0Ddjx5CNvX3yWnIYkPxk7L"
+    },
+    {
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/4TmNR3ZS70JdZCrCX6QyNr"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        },
+        {
+          "name": "Hamza15-3",
+          "url": "https://open.spotify.com/artist/4KakN50EORWP9ML1bXhyWF"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177307,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/5ZWTPl9SNP5HG7eZZxV8qK"
     },
     {
       "album": {
@@ -3317,7 +3397,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 255978,
       "name": "Enty Hayaty",
       "url": "https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m"
@@ -3628,6 +3708,24 @@
     },
     {
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
       },
@@ -3639,7 +3737,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
@@ -3824,6 +3922,36 @@
     },
     {
       "album": {
+        "name": "Fumig\u00e8ne",
+        "url": "https://open.spotify.com/album/5smRNpxX9VGSPz77CI6a2x"
+      },
+      "artists": [
+        {
+          "name": "Seven Binks",
+          "url": "https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Bol\u00e9mvn",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260346,
+      "name": "Fumig\u00e8ne",
+      "url": "https://open.spotify.com/track/6ZS84HuMEK5kHFNisgnZzs"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -3923,6 +4051,28 @@
       "duration_ms": 174520,
       "name": "Ghi Nsayeh",
       "url": "https://open.spotify.com/track/1ZMSqdM3JAJiDhBeLWljoB"
+    },
+    {
+      "album": {
+        "name": "Ghir Ntiya",
+        "url": "https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        },
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214015,
+      "name": "Ghir Ntiya",
+      "url": "https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX"
     },
     {
       "album": {
@@ -4425,7 +4575,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 211891,
       "name": "Houwa",
       "url": "https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk"
@@ -4491,6 +4641,24 @@
       "duration_ms": 281465,
       "name": "How Many",
       "url": "https://open.spotify.com/track/0RKpBNNsWc6tGiTBrS6vWQ"
+    },
+    {
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214296,
+      "name": "Huis Clos",
+      "url": "https://open.spotify.com/track/0OTjNxHIc5eQCVhvxue7XD"
     },
     {
       "album": {
@@ -5397,7 +5565,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 182566,
       "name": "Khalini",
       "url": "https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5"
@@ -8189,7 +8357,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 285560,
       "name": "Obscurit\u00e9 (feat. Hamza)",
       "url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
@@ -8704,6 +8872,24 @@
     },
     {
       "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151016,
+      "name": "Papillon",
+      "url": "https://open.spotify.com/track/2e6OAZn3kthKizIsGugLeR"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -9079,6 +9265,24 @@
       "duration_ms": 203946,
       "name": "Profesor",
       "url": "https://open.spotify.com/track/5rFGMNVHihuIRtfFWfeDUP"
+    },
+    {
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183002,
+      "name": "Python",
+      "url": "https://open.spotify.com/track/5kvEOhMHxxCeiEQlLSoEWZ"
     },
     {
       "album": {
@@ -9928,6 +10132,24 @@
     },
     {
       "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133886,
+      "name": "Sparadra",
+      "url": "https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX"
+    },
+    {
+      "album": {
         "name": "L'\u00c9trange Histoire de Mr.Anderson",
         "url": "https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz"
       },
@@ -10179,7 +10401,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 159357,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
@@ -10508,6 +10730,24 @@
     },
     {
       "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161007,
+      "name": "Tenet - Taha L'Kobra",
+      "url": "https://open.spotify.com/track/1RwFvifpaoBhlEdthQTyid"
+    },
+    {
+      "album": {
         "name": "Jenna",
         "url": "https://open.spotify.com/album/6LG7p8zCkqWALWyhpTvCMw"
       },
@@ -10545,7 +10785,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 174646,
       "name": "That That (prod. & feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
@@ -10633,6 +10873,24 @@
       "duration_ms": 226516,
       "name": "Th\u00e9rapie",
       "url": "https://open.spotify.com/track/1lgnopxGacKgo6iXL8AxGN"
+    },
+    {
+      "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/5cSD30sOzxNLGvgrzGs3nN"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124691,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/3ug3s13DQ6ZNkta9J0SbmY"
     },
     {
       "album": {
@@ -11062,6 +11320,24 @@
     },
     {
       "album": {
+        "name": "Veto",
+        "url": "https://open.spotify.com/album/2o1OuK1aOsjjRHG79pKMdm"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212938,
+      "name": "Veto",
+      "url": "https://open.spotify.com/track/5ABwojICrV4CA1aqregfRJ"
+    },
+    {
+      "album": {
         "name": "L'\u00c9trange Histoire de Mr.Anderson",
         "url": "https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz"
       },
@@ -11447,7 +11723,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 261084,
       "name": "Ya Ayouni",
       "url": "https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf"
@@ -11774,6 +12050,24 @@
     },
     {
       "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181603,
+      "name": "Zest",
+      "url": "https://open.spotify.com/track/2fx7NwHSBNHXTq4p2SVY0h"
+    },
+    {
+      "album": {
         "name": "Rap Khatr",
         "url": "https://open.spotify.com/album/5etSaVfiVKi4SGj55uwALP"
       },
@@ -12007,7 +12301,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 239253,
       "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn"

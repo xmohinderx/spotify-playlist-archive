@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-07",
+      "date_removed": null,
       "duration_ms": 153626,
       "name": "2step",
       "url": "https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 163449,
       "name": "2step (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt"
@@ -2514,6 +2514,24 @@
     },
     {
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -3059,7 +3077,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -3446,6 +3464,24 @@
     },
     {
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
       },
@@ -3457,7 +3493,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
@@ -9002,6 +9038,24 @@
     },
     {
       "album": {
+        "name": "Mun kulta",
+        "url": "https://open.spotify.com/album/5zWKU2KOp2K9bLZMnI0TMp"
+      },
+      "artists": [
+        {
+          "name": "Chisu",
+          "url": "https://open.spotify.com/artist/0Wo2rgrMZVYn0u0uxlDPJP"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232165,
+      "name": "Mun kulta",
+      "url": "https://open.spotify.com/track/4bCFx1oB7Zee9UWt2cgNbJ"
+    },
+    {
+      "album": {
         "name": "Munatoti",
         "url": "https://open.spotify.com/album/0va9fk9nlRddKX2IcoyLhI"
       },
@@ -9279,7 +9333,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 185827,
       "name": "Nallekarkit",
       "url": "https://open.spotify.com/track/51QtcsJ5xAoJTHxe1gXAaJ"
@@ -12077,7 +12131,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -12411,6 +12465,24 @@
       "duration_ms": 139348,
       "name": "suojelusenkeli - outro",
       "url": "https://open.spotify.com/track/1Aw97cg39NOMXXVGXwwoso"
+    },
+    {
+      "album": {
+        "name": "Suomen kes\u00e4",
+        "url": "https://open.spotify.com/album/0Tgya6Is5oYM2ZA7AZ1dWG"
+      },
+      "artists": [
+        {
+          "name": "Olli Halonen",
+          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171507,
+      "name": "Suomen kes\u00e4",
+      "url": "https://open.spotify.com/track/67A13FUQH1vp3jmjwJKsA5"
     },
     {
       "album": {
@@ -14418,6 +14490,24 @@
     },
     {
       "album": {
+        "name": "Vihaton",
+        "url": "https://open.spotify.com/album/48fyJ6Cm5ZYXNXy8JWE4R9"
+      },
+      "artists": [
+        {
+          "name": "Suvi Ter\u00e4sniska",
+          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214343,
+      "name": "Vihaton",
+      "url": "https://open.spotify.com/track/2LkKksK60ofXNd0hIDuQa3"
+    },
+    {
+      "album": {
         "name": "Vihje",
         "url": "https://open.spotify.com/album/3slrfEb9ioJLHKNWQTLomS"
       },
@@ -15387,7 +15477,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 321686,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/2KsHzM4L7ThhNJB6MHXkPx"

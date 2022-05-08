@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 796031,
+  "num_followers": 796246,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTkwNzM0NywwMDAwMDAwMGU1Mjk2ZDMwMWY3NzRjZTA1ODY2NDJjNzZlMDExN2Zl",
+  "snapshot_id": "MTY1MTk3MTYxNSwwMDAwMDAwMDI3M2JmYjA4ZmExZTgzMWJiMjczOTMzZjZjOWQxZWM1",
   "tracks": [
     {
       "added_at": "2022-02-28 09:52:13",
@@ -51,38 +51,6 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "Keep the Village Alive (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5S7SW1LDkaCz3zCJI3Cbhn"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 256853,
-      "name": "I Wanna Get Lost With You - Acoustic 2015",
-      "url": "https://open.spotify.com/track/4rhGVkQaa29ZtWy4M9cbRw"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -99,50 +67,18 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
       "artists": [
         {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
         }
       ],
-      "duration_ms": 230293,
-      "name": "Plush - Acoustic",
-      "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Summer Of '69 - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/1EKfyIWznKN5EeK2i6IV3n"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 330840,
-      "name": "Black - Live MTV Unplugged",
-      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2022-02-28 09:52:13",
@@ -163,6 +99,54 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
+        "name": "Keep the Village Alive (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5S7SW1LDkaCz3zCJI3Cbhn"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 256853,
+      "name": "I Wanna Get Lost With You - Acoustic 2015",
+      "url": "https://open.spotify.com/track/4rhGVkQaa29ZtWy4M9cbRw"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Summer Of '69 - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/1EKfyIWznKN5EeK2i6IV3n"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 230293,
+      "name": "Plush - Acoustic",
+      "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r"
       },
@@ -175,150 +159,6 @@
       "duration_ms": 241560,
       "name": "Zombie - Acoustic Version",
       "url": "https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "Wish You Were Here (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 334743,
-      "name": "Wish You Were Here - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "Aeroplane Flies High (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "1979 - Acoustic",
-      "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "Pardon Me",
-        "url": "https://open.spotify.com/album/0ki1gVexSfmfMxVYWMTB3A"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 227466,
-      "name": "Drive - Acoustic",
-      "url": "https://open.spotify.com/track/2Yzw1oQwuCJDglARieFOEY"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "This Is Acoustic",
-        "url": "https://open.spotify.com/album/6ivT2ATQqnTzLaUQM3Zjnv"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Radioactive - Live",
-      "url": "https://open.spotify.com/track/2YTdPCFxGx0t8Sw26dUKac"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "MTV Unplugged In New York",
-        "url": "https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "Are You Gonna Be My Girl",
-        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Are You Gonna Be My Girl - Acoustic",
-      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "The Southern Ground Sessions",
-        "url": "https://open.spotify.com/album/0Nubt1CyorptJLXrGibnnZ"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 267284,
-      "name": "Run Away from It All - Acoustic",
-      "url": "https://open.spotify.com/track/3bAzV8yxS2AcfSYk8NTzKJ"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "It's Been Awhile - Acoustic",
-      "url": "https://open.spotify.com/track/3QcDpzfdr3wSmap8SA14DJ"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "Shooting Stars (in the Woods)",
-        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 263088,
-      "name": "Shooting Stars - in the Woods",
-      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
     },
     {
       "added_at": "2022-02-28 09:52:13",
@@ -339,6 +179,54 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
+        "name": "Are You Gonna Be My Girl",
+        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Are You Gonna Be My Girl - Acoustic",
+      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "It's Been Awhile - Acoustic",
+      "url": "https://open.spotify.com/track/3QcDpzfdr3wSmap8SA14DJ"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
         "name": "Acoustic Back Porch Jam",
         "url": "https://open.spotify.com/album/7tIJ7aISjPuAcMLV7L4zGE"
       },
@@ -355,50 +243,18 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
       },
       "artists": [
         {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 200840,
-      "name": "Wherever You Will Go - Acoustic",
-      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "Acoustic at The Ryman (Live)",
-        "url": "https://open.spotify.com/album/6N3W6VPGBBxZcYajhZB75a"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 307760,
-      "name": "The Funeral - Live Acoustic",
-      "url": "https://open.spotify.com/track/1jKvrkkZxtQ7ZDiXdITOis"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "...Like Cologne",
-        "url": "https://open.spotify.com/album/4JYG2AVtZGSVKREL8REdzu"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 275571,
-      "name": "I Sat By The Ocean (Live Acoustic)",
-      "url": "https://open.spotify.com/track/2un2p1mSIu4Tvt8pSuO9kw"
+      "duration_ms": 330840,
+      "name": "Black - Live MTV Unplugged",
+      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
     },
     {
       "added_at": "2022-02-28 09:52:13",
@@ -419,50 +275,50 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "Space (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4pJRwy4zFSevnxOcYPTXxV"
+        "name": "Pardon Me",
+        "url": "https://open.spotify.com/album/0ki1gVexSfmfMxVYWMTB3A"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Space - Acoustic Version",
-      "url": "https://open.spotify.com/track/2QcsmywCAqaaBtPibf3QRb"
+      "duration_ms": 227466,
+      "name": "Drive - Acoustic",
+      "url": "https://open.spotify.com/track/2Yzw1oQwuCJDglARieFOEY"
     },
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "To Be Loved: The Best Of Papa Roach (Explicit Version)",
-        "url": "https://open.spotify.com/album/03n4EmWNweUARTWYtmlPqt"
+        "name": "Aeroplane Flies High (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 190973,
-      "name": "Scars - Acoustic Version",
-      "url": "https://open.spotify.com/track/1yroKBwU3gJEeGq1qnxYJO"
+      "duration_ms": 252986,
+      "name": "1979 - Acoustic",
+      "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
     },
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "The Best Of - Volume One",
-        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
+        "name": "This Is Acoustic",
+        "url": "https://open.spotify.com/album/6ivT2ATQqnTzLaUQM3Zjnv"
       },
       "artists": [
         {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 230666,
-      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
-      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
+      "duration_ms": 272000,
+      "name": "Radioactive - Live",
+      "url": "https://open.spotify.com/track/2YTdPCFxGx0t8Sw26dUKac"
     },
     {
       "added_at": "2022-02-28 09:52:13",
@@ -483,34 +339,50 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "The Reason (Acoustic) / Right Before Your Eyes",
-        "url": "https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36"
+        "name": "The Southern Ground Sessions",
+        "url": "https://open.spotify.com/album/0Nubt1CyorptJLXrGibnnZ"
       },
       "artists": [
         {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
         }
       ],
-      "duration_ms": 234187,
-      "name": "The Reason - Acoustic",
-      "url": "https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU"
+      "duration_ms": 267284,
+      "name": "Run Away from It All - Acoustic",
+      "url": "https://open.spotify.com/track/3bAzV8yxS2AcfSYk8NTzKJ"
     },
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+        "name": "Shooting Stars (in the Woods)",
+        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
         }
       ],
-      "duration_ms": 214413,
-      "name": "Sorry - Acoustic",
-      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
+      "duration_ms": 263088,
+      "name": "Shooting Stars - in the Woods",
+      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "To Be Loved: The Best Of Papa Roach (Explicit Version)",
+        "url": "https://open.spotify.com/album/03n4EmWNweUARTWYtmlPqt"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Scars - Acoustic Version",
+      "url": "https://open.spotify.com/track/1yroKBwU3gJEeGq1qnxYJO"
     },
     {
       "added_at": "2022-02-28 09:52:13",
@@ -531,18 +403,34 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
       },
       "artists": [
         {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
         }
       ],
-      "duration_ms": 160346,
-      "name": "Vagabond - Acoustic Version",
-      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
+      "duration_ms": 200840,
+      "name": "Wherever You Will Go - Acoustic",
+      "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "...Like Cologne",
+        "url": "https://open.spotify.com/album/4JYG2AVtZGSVKREL8REdzu"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 275571,
+      "name": "I Sat By The Ocean (Live Acoustic)",
+      "url": "https://open.spotify.com/track/2un2p1mSIu4Tvt8pSuO9kw"
     },
     {
       "added_at": "2022-02-28 09:52:13",
@@ -563,8 +451,8 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "Many of Horror (MTV Unplugged Live; Edit)",
-        "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
+        "name": "Space (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4pJRwy4zFSevnxOcYPTXxV"
       },
       "artists": [
         {
@@ -572,9 +460,41 @@
           "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
         }
       ],
-      "duration_ms": 254510,
-      "name": "Many of Horror - MTV Unplugged Live; Edit",
-      "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
+      "duration_ms": 245426,
+      "name": "Space - Acoustic Version",
+      "url": "https://open.spotify.com/track/2QcsmywCAqaaBtPibf3QRb"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "Wish You Were Here (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 334743,
+      "name": "Wish You Were Here - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "Acoustic at The Ryman (Live)",
+        "url": "https://open.spotify.com/album/6N3W6VPGBBxZcYajhZB75a"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 307760,
+      "name": "The Funeral - Live Acoustic",
+      "url": "https://open.spotify.com/track/1jKvrkkZxtQ7ZDiXdITOis"
     },
     {
       "added_at": "2022-02-28 09:52:13",
@@ -611,6 +531,70 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
+        "name": "Many of Horror (MTV Unplugged Live; Edit)",
+        "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 254510,
+      "name": "Many of Horror - MTV Unplugged Live; Edit",
+      "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214413,
+      "name": "Sorry - Acoustic",
+      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "SoCal Sessions",
+        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "Youth Of The Nation - Acoustic Version",
+      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "The Best Of - Volume One",
+        "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
+      "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
         "name": "Order In Decline B-Sides",
         "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
       },
@@ -623,6 +607,70 @@
       "duration_ms": 240019,
       "name": "Catching Fire (Acoustic)",
       "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/09LIRHoEUbWq9lTNTAPWgr"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Like Suicide - Acoustic Version",
+      "url": "https://open.spotify.com/track/7MmpOZoNldmCFKlvWAcFsd"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "The Reason (Acoustic) / Right Before Your Eyes",
+        "url": "https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 234187,
+      "name": "The Reason - Acoustic",
+      "url": "https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "Punk Goes Acoustic",
+        "url": "https://open.spotify.com/album/4zwLMQG4BcM0FpoAthwOa9"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/47rhzvn0ZOqmikVdebaWMe"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "Scumbag (Acoustic)",
+        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+      },
+      "artists": [
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        }
+      ],
+      "duration_ms": 209420,
+      "name": "Scumbag - Acoustic",
+      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     },
     {
       "added_at": "2022-02-28 09:52:13",
@@ -659,22 +707,6 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "SoCal Sessions",
-        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 262253,
-      "name": "Youth Of The Nation - Acoustic Version",
-      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
       },
@@ -691,34 +723,18 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+        "name": "All I Want (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZZhHEsfI4EZ1nSm7LA5Fm"
       },
       "artists": [
         {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "Punk Goes Acoustic",
-        "url": "https://open.spotify.com/album/4zwLMQG4BcM0FpoAthwOa9"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "Swing Life Away",
-      "url": "https://open.spotify.com/track/47rhzvn0ZOqmikVdebaWMe"
+      "duration_ms": 199893,
+      "name": "All I Want - Acoustic",
+      "url": "https://open.spotify.com/track/2BEZkzfIWNFSNjZMAKhyAR"
     },
     {
       "added_at": "2022-02-28 09:52:13",
@@ -739,50 +755,18 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/09LIRHoEUbWq9lTNTAPWgr"
+        "name": "Wolfmother (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
       },
       "artists": [
         {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
         }
       ],
-      "duration_ms": 372560,
-      "name": "Like Suicide - Acoustic Version",
-      "url": "https://open.spotify.com/track/7MmpOZoNldmCFKlvWAcFsd"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "Kill The Noise (Acoustic)",
-        "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 161010,
-      "name": "Kill The Noise - Acoustic",
-      "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
-    },
-    {
-      "added_at": "2022-02-28 09:52:13",
-      "album": {
-        "name": "The Best Damn Thing",
-        "url": "https://open.spotify.com/album/25fgjE5rdkaAcj2ZLbcEk8"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 237946,
-      "name": "When You're Gone - Acoustic Version",
-      "url": "https://open.spotify.com/track/2fYq0QnkfHuNSlZqc8qgv7"
+      "duration_ms": 160346,
+      "name": "Vagabond - Acoustic Version",
+      "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
     },
     {
       "added_at": "2022-02-28 09:52:13",
@@ -803,18 +787,34 @@
     {
       "added_at": "2022-02-28 09:52:13",
       "album": {
-        "name": "All I Want (Acoustic)",
-        "url": "https://open.spotify.com/album/2ZZhHEsfI4EZ1nSm7LA5Fm"
+        "name": "Yonaka Stripped Back",
+        "url": "https://open.spotify.com/album/235WSzEtSoaINo0N2QMUb7"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
         }
       ],
-      "duration_ms": 199893,
-      "name": "All I Want - Acoustic",
-      "url": "https://open.spotify.com/track/2BEZkzfIWNFSNjZMAKhyAR"
+      "duration_ms": 276106,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/35No5bL3i5Hcc0UpOr6MSc"
+    },
+    {
+      "added_at": "2022-02-28 09:52:13",
+      "album": {
+        "name": "The Best Damn Thing",
+        "url": "https://open.spotify.com/album/25fgjE5rdkaAcj2ZLbcEk8"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 237946,
+      "name": "When You're Gone - Acoustic Version",
+      "url": "https://open.spotify.com/track/2fYq0QnkfHuNSlZqc8qgv7"
     }
   ],
   "unique_name": "Acoustic Rock",

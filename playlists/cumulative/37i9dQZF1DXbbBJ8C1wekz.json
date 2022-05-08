@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 132024,
       "name": "212 Vip",
       "url": "https://open.spotify.com/track/5jRaYDCcftXSc4a0eXJaz6"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 164211,
       "name": "A 1 Passo",
       "url": "https://open.spotify.com/track/7N3Sd5mbHpk6KGPRAV5fAC"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 147440,
       "name": "Acima da M\u00e9dia",
       "url": "https://open.spotify.com/track/6M6PAlOMqHnQXnyrSe5c4k"
@@ -273,10 +273,36 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 134086,
       "name": "Ai Calica",
       "url": "https://open.spotify.com/track/2krYeohcAmuJxIwDrztwyT"
+    },
+    {
+      "album": {
+        "name": "Antigolpe",
+        "url": "https://open.spotify.com/album/32BpbaukPvEWLVnJQ7mp6a"
+      },
+      "artists": [
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214168,
+      "name": "Antigolpe",
+      "url": "https://open.spotify.com/track/4o9RbfyhanDFbT0vKc4h73"
     },
     {
       "album": {
@@ -291,7 +317,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 121288,
       "name": "Aquela",
       "url": "https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3"
@@ -337,7 +363,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 269998,
       "name": "Assault (Angra)",
       "url": "https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv"
@@ -371,7 +397,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 193600,
       "name": "Aulas e Palestras",
       "url": "https://open.spotify.com/track/00j6HYx9cIzZcgwpB72buK"
@@ -484,6 +510,32 @@
     },
     {
       "album": {
+        "name": "Bailean",
+        "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Andressinha",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Bailean",
+      "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
+    },
+    {
+      "album": {
         "name": "Bail\u00e3o",
         "url": "https://open.spotify.com/album/7sZwY31f8pBNa5KvlFfSYR"
       },
@@ -499,6 +551,28 @@
       "duration_ms": 210616,
       "name": "Bail\u00e3o",
       "url": "https://open.spotify.com/track/2hgfeYKzJIaUlrhk6oP3wc"
+    },
+    {
+      "album": {
+        "name": "Bal\u00e3ozada",
+        "url": "https://open.spotify.com/album/7biSOFeKED9q3JmirrpEIv"
+      },
+      "artists": [
+        {
+          "name": "MC Splash",
+          "url": "https://open.spotify.com/artist/0c0Nl7NXA0uen7PWAEUPII"
+        },
+        {
+          "name": "VaunaOficial",
+          "url": "https://open.spotify.com/artist/36GVP6EB6dYqxkFzI0YiBV"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200391,
+      "name": "Bal\u00e3ozada",
+      "url": "https://open.spotify.com/track/0h1utt8jlkJyCR9Y0NOsF2"
     },
     {
       "album": {
@@ -601,7 +675,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 188035,
       "name": "Bvlgari",
       "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
@@ -683,7 +757,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 144545,
       "name": "Calabasas",
       "url": "https://open.spotify.com/track/3PnpSZmqECVuu0L2NzvRDu"
@@ -739,7 +813,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 140000,
       "name": "Campo Minado",
       "url": "https://open.spotify.com/track/19ZHABf7sgrzyfsHjjLALd"
@@ -795,7 +869,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 224262,
       "name": "Ca\u00e7ando Tesouro",
       "url": "https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs"
@@ -1087,7 +1161,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 164397,
       "name": "Decola",
       "url": "https://open.spotify.com/track/5c6hgsw2erTPWlvdHSd5vN"
@@ -1145,7 +1219,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 206506,
       "name": "Digimon",
       "url": "https://open.spotify.com/track/72WZS9ljLLEWDdGzGmppPK"
@@ -1361,7 +1435,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 135258,
       "name": "Drip Roxo",
       "url": "https://open.spotify.com/track/3i9Y7vH7Xz16vglTa3VOev"
@@ -1387,7 +1461,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 170847,
       "name": "Egoista",
       "url": "https://open.spotify.com/track/5bIHPD77Tke3czSaUmlJEt"
@@ -1517,7 +1591,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 314032,
       "name": "Eu Pe\u00e7o Paz",
       "url": "https://open.spotify.com/track/57zgzNUat2Z3OPLQREeEOe"
@@ -1733,7 +1807,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 182608,
       "name": "Ferve\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4M5bJSANn5LUlQxwKnsqoV"
@@ -1759,7 +1833,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 147484,
       "name": "Fideliz C\u00ea \u00e9 Preto Carai",
       "url": "https://open.spotify.com/track/0f4Y5tlsYlYm1bvkqhP4OO"
@@ -1785,7 +1859,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 178356,
       "name": "Fio a Fio",
       "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
@@ -1867,7 +1941,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 180983,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/4aXXkXLNpFODfR2QDz7FvG"
@@ -1967,7 +2041,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 133090,
       "name": "F\u00e9 Pros Real",
       "url": "https://open.spotify.com/track/5ujyPj2JacvOyTunOQZbiW"
@@ -2089,7 +2163,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 121678,
       "name": "Glockada",
       "url": "https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god"
@@ -2495,7 +2569,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 262199,
       "name": "Lobo-Guar\u00e1",
       "url": "https://open.spotify.com/track/6pPPjzQCW3TauculUPjKDs"
@@ -2613,7 +2687,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 129836,
       "name": "Macetando Firme",
       "url": "https://open.spotify.com/track/69z4ODjyssEmX2GPsiXRBL"
@@ -2673,7 +2747,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 173076,
       "name": "Magia Preta",
       "url": "https://open.spotify.com/track/4doXTozijOz9ZnZIL6skvW"
@@ -2793,7 +2867,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 151048,
       "name": "Marte",
       "url": "https://open.spotify.com/track/0VbfDo7PDfHj4Lf1YOp47S"
@@ -2826,6 +2900,28 @@
     },
     {
       "album": {
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/0O8hfcK8NvQgha6dEpe70e"
+      },
+      "artists": [
+        {
+          "name": "MARIAH",
+          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188903,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/0MZXWS0ARbQxYfoM7olYr4"
+    },
+    {
+      "album": {
         "name": "Melhor",
         "url": "https://open.spotify.com/album/0cxMnwNU7ZOpQ92xcD4M88"
       },
@@ -2849,7 +2945,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 162449,
       "name": "Melhor",
       "url": "https://open.spotify.com/track/7G2DDAvcZHi0GIS7AopShi"
@@ -2871,7 +2967,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 185000,
       "name": "Mesmo Que N\u00e3o Queira Me Ouvir",
       "url": "https://open.spotify.com/track/7efuXjvCtdYqwWFsUGkSvF"
@@ -2897,7 +2993,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 170181,
       "name": "Meu Corre",
       "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
@@ -3205,7 +3301,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 164210,
       "name": "Ok Baby",
       "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
@@ -3291,7 +3387,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 269508,
       "name": "Online",
       "url": "https://open.spotify.com/track/590gaVFwtXwZoxzqFulv83"
@@ -3355,7 +3451,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 290000,
       "name": "Ouro Ros\u00e9",
       "url": "https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv"
@@ -3455,7 +3551,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 168298,
       "name": "Paris 6",
       "url": "https://open.spotify.com/track/6YNF9sgteqvAVzglcs0p9k"
@@ -3499,7 +3595,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 190113,
       "name": "Perfil #84 - Eu Vim de L\u00e1",
       "url": "https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9"
@@ -3521,7 +3617,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 124646,
       "name": "Pique Matrix",
       "url": "https://open.spotify.com/track/4vA1eZaH9Dlf7ZcdOL3eXK"
@@ -3577,7 +3673,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 176470,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/2e9MYORe3mXZaeEcxOpa3M"
@@ -3639,10 +3735,32 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 151417,
       "name": "PPTN TRAP SESSIONS #1: Compras",
       "url": "https://open.spotify.com/track/4ZQm3AECFQPafkearXM2MF"
+    },
+    {
+      "album": {
+        "name": "Pra Te Envolver",
+        "url": "https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135517,
+      "name": "Pra Te Envolver",
+      "url": "https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2"
     },
     {
       "album": {
@@ -3727,7 +3845,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 232571,
       "name": "Prj",
       "url": "https://open.spotify.com/track/0E1wHLqsaCHY8Zvj04bDlv"
@@ -3891,7 +4009,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 191694,
       "name": "Rajada",
       "url": "https://open.spotify.com/track/4TWLYFXkRW5QyBRy2NSJeA"
@@ -3967,7 +4085,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 449408,
       "name": "Refer\u00eancias",
       "url": "https://open.spotify.com/track/3LRCKDlZ4DwoXcfK8XVqeV"
@@ -4213,7 +4331,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Salute",
       "url": "https://open.spotify.com/track/0zZHG0SaRYxGPKMLlrYON9"
@@ -4479,7 +4597,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 206802,
       "name": "Traje de Ver\u00e3o (feat. P\u00e9ricles)",
       "url": "https://open.spotify.com/track/5yxGL733eJy4BAkBYs3pa3"
@@ -4515,7 +4633,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 151429,
       "name": "Tropa Da Fendi",
       "url": "https://open.spotify.com/track/6qbv4ZF2PcU4chi2M9PO7a"
@@ -4541,7 +4659,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 239999,
       "name": "Tudo ou Nada",
       "url": "https://open.spotify.com/track/5xBoF2Xo3is3KwbOmFMdOi"
@@ -4615,7 +4733,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 215210,
       "name": "Vidro",
       "url": "https://open.spotify.com/track/1MyyQmj8C453iHoQhdNNt8"
@@ -4715,7 +4833,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 272424,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/3nkc2rpg0Q12hKhDeCxFxU"
@@ -4763,7 +4881,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 171789,
       "name": "Xeque-Mate (feat. Paiva Prod)",
       "url": "https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6"

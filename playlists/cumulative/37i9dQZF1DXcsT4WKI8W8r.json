@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 204582,
       "name": "About You",
       "url": "https://open.spotify.com/track/2sLrhduqte62PRzJ5M1uW5"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 203094,
       "name": "Finally Free - From \"Smallfoot\"",
       "url": "https://open.spotify.com/track/7xQxjMokrYnY8n9w19FZqr"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 206209,
       "name": "Happier - Acoustic",
       "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
@@ -1537,7 +1537,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 166458,
       "name": "Honest",
       "url": "https://open.spotify.com/track/7pDrmxNf8LjnuNyYlpVKJW"
@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 217760,
       "name": "Hurts To Be Hurt",
       "url": "https://open.spotify.com/track/7FW5m5TX7Z0ql49YNgWiqk"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 159657,
       "name": "I Just Wanna (feat. Bow Anderson)",
       "url": "https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ"
@@ -1754,6 +1754,24 @@
     },
     {
       "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/6JDG7sbzX4uwQFFo1CHDLi"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2k1np6GRFvKjgjYfo2g39B"
+    },
+    {
+      "album": {
         "name": "I Wish You Were Here (Acoustic)",
         "url": "https://open.spotify.com/album/73NEA3N9onO77kK6ijm7aY"
       },
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 126680,
       "name": "I Wish You Were Here - Acoustic",
       "url": "https://open.spotify.com/track/7euc7dFM1czdBzqfqgDUHR"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "If It Was Me",
       "url": "https://open.spotify.com/track/0q0mlZUDIu8DJmNAcjicFC"
@@ -2621,7 +2639,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 153750,
       "name": "On A Prayer (feat. SHY Martin)",
       "url": "https://open.spotify.com/track/3kc9fFPBuP9DX9YCv0Gi0e"
@@ -3083,7 +3101,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 224720,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/5Zb6THrh1D6xUXkrrCYan4"
@@ -3297,7 +3315,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 212666,
       "name": "Somewhere in Ann Arbor",
       "url": "https://open.spotify.com/track/7EurJLsr9GPEp8Aq5LJvOK"

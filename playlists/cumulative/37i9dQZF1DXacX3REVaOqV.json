@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 219028,
       "name": "2001",
       "url": "https://open.spotify.com/track/2LvBuNhDu3SWaPudMo2zGq"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 211935,
       "name": "All I See - Radio Edit",
       "url": "https://open.spotify.com/track/5L464b2ggnhpHMB5GbPK7R"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 373720,
       "name": "Aquarius Swing",
       "url": "https://open.spotify.com/track/5DL059fT2EWGJsurcEGlQE"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 189677,
       "name": "Arms - Sidney Samson Remix",
       "url": "https://open.spotify.com/track/3kgVF7C4wllZ5WzcRiPK0t"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 476200,
       "name": "Back to the Raw - Vocal Rough Mix",
       "url": "https://open.spotify.com/track/6CmLQCBSjUdQRt2uqB0jx6"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 207105,
       "name": "Be Funky",
       "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 193820,
       "name": "Call Me - You Man Remix",
       "url": "https://open.spotify.com/track/632hTioEegQLCR2uOfVHlN"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 376721,
       "name": "Everything You Say",
       "url": "https://open.spotify.com/track/2Ps1fYFcUdqIbgJW5DqgHj"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 376721,
       "name": "Gently",
       "url": "https://open.spotify.com/track/5AvukMTsiC7b12MJW2wXwE"
@@ -1113,6 +1113,36 @@
       "duration_ms": 178911,
       "name": "Get On Out",
       "url": "https://open.spotify.com/track/5VCogJESrsrOsX2yejotIb"
+    },
+    {
+      "album": {
+        "name": "Gettin' Started",
+        "url": "https://open.spotify.com/album/76ycOB9AAFMv3qRhG4Xrvn"
+      },
+      "artists": [
+        {
+          "name": "MANIBA",
+          "url": "https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx"
+        },
+        {
+          "name": "Labi Ramaj",
+          "url": "https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB"
+        },
+        {
+          "name": "Arild Aas",
+          "url": "https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd"
+        },
+        {
+          "name": "Municipal",
+          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Gettin' Started",
+      "url": "https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP"
     },
     {
       "album": {
@@ -1205,7 +1235,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 379948,
       "name": "Heartbreak - Kerri Chandler Remix",
       "url": "https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT"
@@ -1249,7 +1279,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 152683,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0y4BhKDH3cGPWg8UbHGlHl"
@@ -1275,7 +1305,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 144761,
       "name": "Higher (feat. your friend polly)",
       "url": "https://open.spotify.com/track/7t6Q4FkHC53gXmLLP8OKNu"
@@ -1425,7 +1455,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 286476,
       "name": "I Can Boogie",
       "url": "https://open.spotify.com/track/2ozkaxd6uFj0dKhHJUxurx"
@@ -1641,7 +1671,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 221250,
       "name": "Jungle Trip - Edit",
       "url": "https://open.spotify.com/track/4LpjBeeKDhUQiFTyS87y8u"
@@ -1929,7 +1959,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 210000,
       "name": "Look Up At The Sky",
       "url": "https://open.spotify.com/track/3Ts73V8SnaXIcnLAxwt41W"
@@ -2129,7 +2159,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 453973,
       "name": "Momma's Groove - Jimpster's Hip Replacement Mix",
       "url": "https://open.spotify.com/track/6HjdHMNIFf6OLGE14LfqWW"
@@ -2495,7 +2525,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
@@ -2549,7 +2579,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 343911,
       "name": "Paris City Jazz",
       "url": "https://open.spotify.com/track/0dbqPssLj7KzNTH81tcsrZ"
@@ -2567,7 +2597,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 418899,
       "name": "Pasci\u00e0",
       "url": "https://open.spotify.com/track/3B9pguwtbemJQlVWkxrfeU"
@@ -2817,7 +2847,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 413745,
       "name": "Right On - Dario D'attis Remix",
       "url": "https://open.spotify.com/track/5ymor3b8Gs82TouTl7z7Yj"
@@ -2923,7 +2953,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 180937,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1u3AbZvelg9GqMrp5jbikq"
@@ -2949,7 +2979,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 364462,
       "name": "Show Me - Waajeed's Black Messiah Remix",
       "url": "https://open.spotify.com/track/5v1I1uIfemjG5Eq2Vnhuvq"
@@ -2967,7 +2997,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 191953,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB"
@@ -2997,7 +3027,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
@@ -3081,7 +3111,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 178546,
       "name": "Spells Of Yoruba - Jamie Jones Watertight Mix",
       "url": "https://open.spotify.com/track/6OEVWRWJ0ZkGFOFSp3cNOR"
@@ -3169,7 +3199,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 398598,
       "name": "Starry Night - Original Mix",
       "url": "https://open.spotify.com/track/3N56XgwOdeaZytLkQWyQ4A"
@@ -3483,7 +3513,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 161726,
       "name": "They Don't Know - Radio Edit",
       "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
@@ -3619,7 +3649,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 497521,
       "name": "Want You In My Soul",
       "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
@@ -3747,7 +3777,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 232500,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/5nIL1etglKhsfxRPcVhbjq"
@@ -3783,7 +3813,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 220952,
       "name": "Won't Explain",
       "url": "https://open.spotify.com/track/28sh8QxMveO01irLmUOjP5"
@@ -3839,7 +3869,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 445161,
       "name": "Would You Believe - Sebra Cruz Remix",
       "url": "https://open.spotify.com/track/2GDv0JkU43qIil7S6J26bH"

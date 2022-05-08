@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-151 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
+152 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,10 +46,10 @@
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2022-02-17 |  |
 | [El Neo Songo](https://open.spotify.com/track/66sBJ6wPujSHWh4ce0F00s) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [El Neo Songo](https://open.spotify.com/album/0s2ZyzyDljq9WXdwo1IgUR) | 3:07 | 2022-02-17 |  |
 | [EL\-JO](https://open.spotify.com/track/4aL0EnsQkY3DvzJ2ZjRIr5) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [EL\-JO](https://open.spotify.com/album/32Bv56MOZIWuknJR8mOIhA) | 3:53 | 2022-02-17 | 2022-02-22 |
-| [Electric Eclectic](https://open.spotify.com/track/4B2xWDcBUtyiifvBnXxOnE) | [Moralify](https://open.spotify.com/artist/4Ld9jKPphcNhjVH0LT2vQV) | [Electric Eclectic](https://open.spotify.com/album/6dZKFcUf0qHvfTERa5i7ZF) | 3:46 | 2022-03-03 | 2022-05-07 |
+| [Electric Eclectic](https://open.spotify.com/track/4B2xWDcBUtyiifvBnXxOnE) | [Moralify](https://open.spotify.com/artist/4Ld9jKPphcNhjVH0LT2vQV) | [Electric Eclectic](https://open.spotify.com/album/6dZKFcUf0qHvfTERa5i7ZF) | 3:46 | 2022-03-03 |  |
 | [Enlightened](https://open.spotify.com/track/26EckqdKwbnLgXPoiUgaEo) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:50 | 2022-04-22 |  |
 | [Floatin'](https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB) | [Charlie Calz Beats](https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp) | [Floatin'](https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j) | 1:52 | 2022-04-07 | 2022-04-21 |
-| [Floating](https://open.spotify.com/track/4KxKu2qHckBUhUWuXPNBNX) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Magic Manfred](https://open.spotify.com/artist/648yx5coGVscob95sgiSF9) | [Floating](https://open.spotify.com/album/0le3GyOXqCCCBOrhboRmhV) | 2:33 | 2022-03-24 |  |
+| [Floating](https://open.spotify.com/track/4KxKu2qHckBUhUWuXPNBNX) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Magic Manfred](https://open.spotify.com/artist/648yx5coGVscob95sgiSF9) | [Floating](https://open.spotify.com/album/0le3GyOXqCCCBOrhboRmhV) | 2:33 | 2022-03-24 | 2022-05-08 |
 | [Flower Rain](https://open.spotify.com/track/0SU43DECmSUO69rHLok0Nv) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Flower Rain](https://open.spotify.com/album/7AGOQzjucZUSYpaojAG0HY) | 3:37 | 2022-02-17 |  |
 | [For My Love](https://open.spotify.com/track/0tcjIkVN1nrs0uDluhygi0) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 4:45 | 2022-04-22 |  |
 | [Frank's Tune](https://open.spotify.com/track/0j5BDpqfAAzF4mtu4vE68P) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:37 | 2022-04-22 |  |
@@ -96,6 +96,7 @@
 | [P64 By My Side](https://open.spotify.com/track/2Fv3OV4gjNh5EhCJH8gbrO) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [P64 By My Side](https://open.spotify.com/album/7wMUCUUAuP9EY4QaeRNqBI) | 4:11 | 2022-02-17 | 2022-04-29 |
 | [Pan’s Dance](https://open.spotify.com/track/16s2buIEfxT0y8X4yMbebk) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Dance Ancestral](https://open.spotify.com/album/20BoLUZgIPSXtK4m5jE64n) | 4:34 | 2022-04-07 |  |
 | [Paradox](https://open.spotify.com/track/6XSQwisZPSsvumchd6u56q) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Paradox](https://open.spotify.com/album/5mbJr9jfnfqPN8Vf9OKsIY) | 2:37 | 2022-04-22 |  |
+| [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 | 2022-05-05 |  |
 | [Planet Caravan](https://open.spotify.com/track/0T6fOzhQyVLJuEZXDcsapd) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [THE ESSENCE OF SOIL](https://open.spotify.com/album/4Opp41fuz6nGHzGojaMImc) | 6:54 | 2022-04-22 | 2022-05-03 |
 | [prisner](https://open.spotify.com/track/1f5w6SKCFnvTf68De7JgMR) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [butterfly](https://open.spotify.com/album/0heal5aAbfR3Y81QhAijRW) | 4:38 | 2022-02-17 | 2022-04-23 |
 | [Psalmboksmusik](https://open.spotify.com/track/6Z05waDrF7G1h9IWvtrqI8) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Kosmos](https://open.spotify.com/album/4OKVsBryYDcqXPEy2nCkxd) | 5:06 | 2022-02-17 |  |
@@ -106,7 +107,7 @@
 | [Satori Ways](https://open.spotify.com/track/1l27GB8qsdLvDIaNjmS7qO) | [Web Web](https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF), [Max Herre](https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Satori Ways](https://open.spotify.com/album/2ddXqx3PYPz15XT9Np5ler) | 5:36 | 2022-02-17 | 2022-04-23 |
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2022-02-17 |  |
 | [Siren Call](https://open.spotify.com/track/41cDyLUieQjGRsw9ezlECk) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [GURU.FARM](https://open.spotify.com/artist/7MB2t9SLvpvvbf0NahGVZg) | [Guédé](https://open.spotify.com/album/5uprZ4VBkK8SVYReHykGvZ) | 4:59 | 2022-02-17 |  |
-| [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 | 2022-04-28 |  |
+| [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 | 2022-04-28 | 2022-05-08 |
 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 | 2022-03-11 |  |
 | [Somewhere Different](https://open.spotify.com/track/1YEgbaYU0j5H9QiiQ1kTf8) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 5:21 | 2022-02-17 |  |
 | [Son Of Emmerson](https://open.spotify.com/track/1rMV78kBNDG4vOE9IeokKh) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [Son Of Emmerson](https://open.spotify.com/album/0XkagDDZPT7ACptJdHWjhl) | 3:44 | 2022-02-17 |  |
