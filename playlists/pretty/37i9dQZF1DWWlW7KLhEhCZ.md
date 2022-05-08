@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Penedo, Caio Luccas
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,361 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,373 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 5 | [Filho do Dono](https://open.spotify.com/track/40TTpkt2jMUr9wDeZPcQD6) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [CalliCartel](https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq) | [É o Trem!](https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx) | 3:32 |
 | 6 | [Baile da Serra](https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Serra](https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu) | 3:25 |
 | 7 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
-| 8 | [VENCEDOR](https://open.spotify.com/track/5LxzuVetn1zmGDjeLI3DCR) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Junin MC](https://open.spotify.com/artist/2PbmmCTZF7azIxkHxGrOZ9) | [VENCEDOR](https://open.spotify.com/album/0tRztAAUxyLqfRxiZkKpJr) | 2:11 |
-| 9 | [Só Melhoria](https://open.spotify.com/track/0ThZimTDpDOcFeh7SbIUZU) | [YngLu.](https://open.spotify.com/artist/2PfM7oa1J4LuIEdTrwJ4ZH), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Só Melhoria](https://open.spotify.com/album/6wANtceggS1duh3n9Rn4D5) | 3:04 |
-| 10 | [Droga Dela](https://open.spotify.com/track/5Q43dVdnR2hb7BlF6I9eNv) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Droga Dela](https://open.spotify.com/album/3Al82OqKCSerMKoAJXsPJM) | 3:23 |
-| 11 | [LEGO](https://open.spotify.com/track/0w8qTS5ZNeB7kDOIyUyzNt) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC) | [LEGO](https://open.spotify.com/album/6WKEiUJP8w1DiGPioPV5tW) | 3:00 |
+| 8 | [Ô Mãe](https://open.spotify.com/track/37A1beEC95fCBRge23pSFT) | [Aleck Johnson](https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA) | [Ô Mãe](https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU) | 2:12 |
+| 9 | [VENCEDOR](https://open.spotify.com/track/5LxzuVetn1zmGDjeLI3DCR) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Junin MC](https://open.spotify.com/artist/2PbmmCTZF7azIxkHxGrOZ9) | [VENCEDOR](https://open.spotify.com/album/0tRztAAUxyLqfRxiZkKpJr) | 2:11 |
+| 10 | [Só Melhoria](https://open.spotify.com/track/0ThZimTDpDOcFeh7SbIUZU) | [YngLu.](https://open.spotify.com/artist/2PfM7oa1J4LuIEdTrwJ4ZH), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Só Melhoria](https://open.spotify.com/album/6wANtceggS1duh3n9Rn4D5) | 3:04 |
+| 11 | [Droga Dela](https://open.spotify.com/track/5Q43dVdnR2hb7BlF6I9eNv) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Droga Dela](https://open.spotify.com/album/3Al82OqKCSerMKoAJXsPJM) | 3:23 |
 | 12 | [Líder da Toman](https://open.spotify.com/track/0hWrY7fA7RspxmvmvWDhWv) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Líder da Toman](https://open.spotify.com/album/3JkvRrTqvDG4XGrGbPIQDX) | 2:24 |
 | 13 | [Hollywood](https://open.spotify.com/track/7ry1Fs1NsV1fuU3ma7Vdnh) | [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Hollywood](https://open.spotify.com/album/1bYitjUsmzAK5miDi6JuLl) | 1:28 |
 | 14 | [My Name](https://open.spotify.com/track/3rd0skaY4wSgic7VoIiUHp) | [31couto](https://open.spotify.com/artist/7cUn4j1gy5RABIg4KADSbl), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [My Name](https://open.spotify.com/album/3oV6T4vQlhIsx7d2lHIUgP) | 1:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 69 | [Gestão Perigosa](https://open.spotify.com/track/2EngGk2WRKQ1GJwkw6tYmm) | [Levi](https://open.spotify.com/artist/0XYQf3kQubzm7Ztvmnukka) | [Gestão Perigosa](https://open.spotify.com/album/6ZMM9cDOSqjuXtW7FXkLQI) | 2:37 |
 | 70 | [Solução](https://open.spotify.com/track/5SgfkZNUYEDXfd0F8WnIeE) | [Thoney](https://open.spotify.com/artist/5cfwt0fcJRn2cmp8TckzFu), [Browse](https://open.spotify.com/artist/7uts7M7Hb1i1cV1aiaAmDS) | [Solução](https://open.spotify.com/album/7ywmipI3xDBZEoKAzplFUU) | 2:26 |
 
-Snapshot ID: `MTY1MTgwNjA2MCwwMDAwMDBkYjAwMDAwMTgwOTc1MDNlNjIwMDAwMDE4MDk1ODExZjk0`
+Snapshot ID: `MTY1MjAyNzEwOSwwMDAwMDBkYzAwMDAwMTgwYTQ3ZDMwYzgwMDAwMDE4MDk1ODExZjk0`

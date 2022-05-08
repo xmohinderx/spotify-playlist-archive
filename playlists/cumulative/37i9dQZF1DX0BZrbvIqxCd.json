@@ -311,7 +311,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 253318,
       "name": "Blur",
       "url": "https://open.spotify.com/track/4laGwUyRucrLFv1P1eJ435"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 181453,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/6DCQ5i1MY0UiZSCZlcaaMi"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 187371,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/64kDGEpOWlkv2l6x4TVNOs"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 187360,
       "name": "Bullet for Your Sweetheart",
       "url": "https://open.spotify.com/track/4Z4EeEBGhvcoBwQmHIl0km"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 181386,
       "name": "Bullfrog",
       "url": "https://open.spotify.com/track/0jDGtdVh5TM69LxqaI1mp3"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 173421,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/03y1mDlbMHZ40TBnwPvbAs"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 164333,
       "name": "Christian Nationalist",
       "url": "https://open.spotify.com/track/65CdHKGQBBkktAKgciMcCX"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 238418,
       "name": "Complicit",
       "url": "https://open.spotify.com/track/6zhR8AfI991Tzin23wsalz"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 191253,
       "name": "Criminal Energy",
       "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 196464,
       "name": "Down To Hell",
       "url": "https://open.spotify.com/track/0bjBFEzs0cbvqNLfDMUSjH"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 210880,
       "name": "Everything Is Ordinary",
       "url": "https://open.spotify.com/track/1jZQKtmTYJS5P5Im07Yhce"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 201625,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/0jUb48UMAdHwmNeeg1ZpN0"
@@ -1050,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Wilt",
+        "url": "https://open.spotify.com/album/2LpqaU2jGg8erKdrPtGyt0"
+      },
+      "artists": [
+        {
+          "name": "Hungover",
+          "url": "https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197931,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0RymqEE6RxBGVbB13Cvahk"
+    },
+    {
+      "album": {
         "name": "Foolish Believer",
         "url": "https://open.spotify.com/album/78H9jH7T6uJfMEgOgHrTKk"
       },
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 256700,
       "name": "Fools Gold",
       "url": "https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 177037,
       "name": "Greatest Of All Time",
       "url": "https://open.spotify.com/track/6tJ8T00sdozc2ZSkPT8Qj1"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 206752,
       "name": "Here's To Us",
       "url": "https://open.spotify.com/track/5FPqsuveLITGgSFzJft2wn"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 239237,
       "name": "Hit Like A Girl",
       "url": "https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 172020,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 154971,
       "name": "Hotel Beds",
       "url": "https://open.spotify.com/track/7Leefj1rxiHwg9eblvVfLm"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 184840,
       "name": "I Don't Wanna Be An Asshole Anymore",
       "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 171417,
       "name": "Last, Last Words",
       "url": "https://open.spotify.com/track/5isbScmSRT5TIwZwApadZV"
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 216696,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/2x3h75zzl2IudkzFbG3UuV"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 193280,
       "name": "Me First",
       "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 195866,
       "name": "Moving Boxes",
       "url": "https://open.spotify.com/track/7lSqt09mk5hlzVWLzYIuWI"
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 169427,
       "name": "Never Looked Better",
       "url": "https://open.spotify.com/track/1j5ekdnaFOw9ZC2otQd3MU"
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 114219,
       "name": "Night of the Knuckleheads",
       "url": "https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 195386,
       "name": "Plus Ultra",
       "url": "https://open.spotify.com/track/5WLvGmjfyAEYCvFNsLon0i"
@@ -2823,7 +2841,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 191544,
       "name": "Stupid For You",
       "url": "https://open.spotify.com/track/48ocCWNlCS9kFS9Q6dCYj1"
@@ -2960,6 +2978,24 @@
     },
     {
       "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/7rgq4mAjZOPGVJCRF56FU4"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig"
+    },
+    {
+      "album": {
         "name": "Heartwork",
         "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
@@ -2975,7 +3011,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
@@ -3065,7 +3101,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 202533,
       "name": "Time-Bomb Ticking Away",
       "url": "https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU"
@@ -3191,7 +3227,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 173600,
       "name": "What Are We Standing For",
       "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
@@ -3245,7 +3281,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "When Your Heart Stops Beating",
       "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
@@ -3353,7 +3389,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 155733,
       "name": "Zero Remorse",
       "url": "https://open.spotify.com/track/3moomsVlUVM1oUEE5Wslsg"

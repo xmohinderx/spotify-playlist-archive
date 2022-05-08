@@ -4,7 +4,7 @@
 
 > Nothing but the best modern country music\. Cover: Kane Brown
 
-208 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+209 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [How To Talk To Girls](https://open.spotify.com/track/0TmtIEVQGDMYHWmgYw3Zlq) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [How To Talk To Girls](https://open.spotify.com/album/4G7ZM1XjOlhHBpiCh2QctX) | 3:20 | 2021-12-31 | 2022-03-19 |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-25 | 2022-04-29 |
 | [I Bet You Think About Me \(feat\. Chris Stapleton\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:45 | 2021-12-31 |  |
-| [I Don't Wanna Go To Heaven](https://open.spotify.com/track/6HknB8gsOZDaPkJbtuSLp5) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/4tlqBwe5F8ch75CtWhoqDp) | 3:25 | 2022-03-18 |  |
+| [I Don't Wanna Go To Heaven](https://open.spotify.com/track/6HknB8gsOZDaPkJbtuSLp5) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/4tlqBwe5F8ch75CtWhoqDp) | 3:25 | 2022-03-18 | 2022-05-08 |
 | [I Was On a Boat That Day](https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 2:58 | 2021-12-31 |  |
 | [I'd Go To Jail](https://open.spotify.com/track/6ySlQmThfJRUZtXY3sMLjI) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Boys](https://open.spotify.com/album/5PIxo7yWDMIxpVwxlBxhWS) | 3:02 | 2021-12-31 |  |
 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 | 2021-12-31 | 2022-03-19 |
@@ -207,6 +207,7 @@
 | [Where the Country Girls At](https://open.spotify.com/track/52z0VC0uhuxoKC3PvdUw1C) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Where the Country Girls At](https://open.spotify.com/album/6N7X7wSMPpqlo95DveXwWd) | 3:30 | 2021-12-31 |  |
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-01 |  |
 | [Whiskey Does](https://open.spotify.com/track/2bF19xlwpmPzrAv7Y8Ql5W) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Whiskey Does](https://open.spotify.com/album/4JKZvwBhJbbKQ38rsBTbA3) | 3:36 | 2022-02-25 |  |
+| [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 | 2022-05-08 |  |
 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-01-16 | 2022-02-19 |
 | [Whiskey Thinks I Am](https://open.spotify.com/track/693KChIw9Cpj6Jg423rDrv) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honkytonk Revival](https://open.spotify.com/album/3SEBw5oY1ovdxTKeblEwJC) | 3:28 | 2021-12-31 | 2022-02-19 |
 | [Wild As Her](https://open.spotify.com/track/6Fp8bcoejKxyg3D445llx1) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Wild As Her](https://open.spotify.com/album/3l7Xx5VzKP6Df3nbxOlDvo) | 3:01 | 2022-02-11 |  |

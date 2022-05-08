@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 182608,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/1AHqOMEetDV9sTnQk0mzRD"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 186005,
       "name": "Care",
       "url": "https://open.spotify.com/track/01WVhnWgcISq2mIimBywbV"
@@ -2445,7 +2445,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 201399,
       "name": "Get Wild",
       "url": "https://open.spotify.com/track/05vIJo5TbBbbYo7G5bB1Zy"
@@ -4757,7 +4757,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 213946,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/73jwOBEHGhnsXTXlePzfLF"
@@ -5831,7 +5831,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 252349,
       "name": "sugar free rush",
       "url": "https://open.spotify.com/track/7trA8o8CVShDf2u5oSrDnv"
@@ -5857,6 +5857,24 @@
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221350,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY"
     },
     {
       "album": {
@@ -6211,7 +6229,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
@@ -6579,7 +6597,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 188226,
       "name": "Treat Me Right",
       "url": "https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6"

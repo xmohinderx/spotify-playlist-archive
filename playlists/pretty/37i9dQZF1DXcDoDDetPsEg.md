@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,265 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,317 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 3 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 |
 | 4 | [Reasonable](https://open.spotify.com/track/5cDqRUZtDLktKVX5LcrToQ) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Reasonable](https://open.spotify.com/album/2xfgn7HrLEx3XSlWKS3vjO) | 3:22 |
 | 5 | [In The Club](https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [In The Club](https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs) | 2:52 |
-| 6 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
+| 6 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
 | 7 | [Just Coz](https://open.spotify.com/track/1vThiuxP3lAHp85Q9qO8E5) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Just Coz](https://open.spotify.com/album/1LZzgEgmuOh5fhpCb2oUWy) | 3:16 |
 | 8 | [Baby](https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Baby](https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r) | 2:57 |
 | 9 | [Roadblock](https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Roadblock](https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS) | 3:53 |

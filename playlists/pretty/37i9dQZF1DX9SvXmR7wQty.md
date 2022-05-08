@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Clay and Friends, Louis\-Jean Cormier
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,137 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,142 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 11 | [Allez allez](https://open.spotify.com/track/3gaZ3BKlQIKvEizVORXpC2) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [Allez allez](https://open.spotify.com/album/3TVdyJrtEa3HWcEhAdZtRe) | 3:10 |
 | 12 | [Moun fou](https://open.spotify.com/track/1bhIxTmt2VGki56njVOBRP) | [Leïla Lanova](https://open.spotify.com/artist/6vZaYrTbNPdkcxTBwfj9dI), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Moun fou](https://open.spotify.com/album/4J6bIc9ovtbiyIskO7jce8) | 3:19 |
 | 13 | [La tête électrique](https://open.spotify.com/track/7HO0gZKBpwW7fmtFHZOzq8) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Lécher le ciel](https://open.spotify.com/album/45F26Fpa8FKsAy2MJyzcHg) | 3:31 |
-| 14 | [Je pense à toi \(vu par Jean\-Phi Goncalves\) \- Remix](https://open.spotify.com/track/3nuMUozXZaRUIYtKQQrnnU) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Je pense à toi \(vu par Jean\-Phi Goncalves\) \[Remix\]](https://open.spotify.com/album/5dNupmHmcCfK8YgdmTBX8G) | 3:54 |
+| 14 | [Je pense à toi \(vue par Jean\-Phi Goncalves\) \- Remix](https://open.spotify.com/track/3nuMUozXZaRUIYtKQQrnnU) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Je pense à toi \(vue par Jean\-Phi Goncalves\) \[Remix\]](https://open.spotify.com/album/5dNupmHmcCfK8YgdmTBX8G) | 3:54 |
 | 15 | [Le Métèque](https://open.spotify.com/track/2efj0AL33odgMfU2qir4Su) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Métèque](https://open.spotify.com/album/5s65bKkfqSpvIGX8SLlQLQ) | 3:19 |
 | 16 | [Show Me Your Love](https://open.spotify.com/track/28FhvHsbYVt42ftSlJ15tA) | [Randy](https://open.spotify.com/artist/4lWRGWFZssgySjWbfXwv5g) | [Show Me Your Love](https://open.spotify.com/album/6QRZsooXS3WIkinpPbTQr5) | 2:24 |
 | 17 | [Désolée de vous déranger](https://open.spotify.com/track/61DbsM7z2tDRvQpS6al7fG) | [Melissa Ouimet](https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth) | [Sans tomber](https://open.spotify.com/album/74EiP9IkxZgQQzRBmlIX7f) | 2:55 |

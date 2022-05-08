@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-258 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
+259 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Sudah \- Story of Kale \- Original Motion Picture Soundtrack](https://open.spotify.com/track/5QGdWvXwXMK2Zx6eKagyue) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Sudah \(Story of Kale \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6PDnmCt2aYEQF3YHaCOVHI) | 3:26 | 2021-03-27\* | 2021-05-23 |
 | [Takbiran \- Version 1](https://open.spotify.com/track/6KDMvbS7HC1znTxEImTgYj) | [Ustad Jefri Al Buchori](https://open.spotify.com/artist/3Zp5ohlk0onRRpRLe0afzx), [H\. Aswan Faisal](https://open.spotify.com/artist/1mIbIeu7TYCr4VLKQIhEGP) | [Takbiran](https://open.spotify.com/album/3D5VqeyM9HoUglShCjlqpC) | 12:36 | 2021-05-14 | 2021-05-15 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-22 | 2021-09-02 |
-| [Takut](https://open.spotify.com/track/1qHddOZ7pwtmOsw0RmlKFx) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Takut](https://open.spotify.com/album/7EDGBbCqiZ8X9ecuGAnziL) | 5:19 | 2021-11-25 |  |
+| [Takut](https://open.spotify.com/track/1qHddOZ7pwtmOsw0RmlKFx) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Takut](https://open.spotify.com/album/7EDGBbCqiZ8X9ecuGAnziL) | 5:19 | 2021-11-25 | 2022-05-08 |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-04-16 | 2021-07-18 |
 | [Tenang](https://open.spotify.com/track/6ICTnGsaokIDEYobnwuCjZ) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tenang](https://open.spotify.com/album/3jBKuTZYLpu7x5fl6PEtEH) | 4:07 | 2021-04-23 | 2021-10-23 |
 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 | 2021-10-23 | 2021-10-28 |
@@ -254,6 +254,7 @@
 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 | 2022-03-09 |  |
 | [Unconditionally](https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:48 | 2022-01-16 | 2022-03-07 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-16 | 2021-12-18 |
+| [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-08 |  |
 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 | 2021-12-12 | 2022-04-29 |
 | [Walking in the Wind](https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:22 | 2021-06-18 | 2021-07-04 |
 | [Weak](https://open.spotify.com/track/07MW63ok3ptSKwaTWEN0o8) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Weak](https://open.spotify.com/album/5RzTetLXRT1w3Nbt0V0XLz) | 2:39 | 2021-03-27\* | 2021-07-11 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-405 songs - 1 day 0 hr 36 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
+406 songs - 1 day 0 hr 37 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [All Too Well \(Taylor's Version\)](https://open.spotify.com/track/1IBhYEvvi02tDVByxIiTh4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 5:29 | 2021-11-14 | 2021-11-14 |
 | [All Too Well \(Taylor's Version\)](https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 5:29 | 2021-11-14 | 2021-12-04 |
 | [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-23 | 2022-02-25 |
+| [Ang Presidente Bise Presidente](https://open.spotify.com/track/74cB0AlVMZEqN7h7MY6bK9) | [Gabriel Valenciano](https://open.spotify.com/artist/33rSKWwmnBGNLBipO7E7oM) | [Ang Presidente Bise Presidente](https://open.spotify.com/album/0cRkbvgGAGSs6CzHpVwQUc) | 1:21 | 2022-05-08 |  |
 | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n) | 5:04 | 2022-04-27 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-04-10 |  |
 | [Anti\-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:35 | 2021-06-02 | 2021-06-03 |
@@ -277,7 +278,7 @@
 | [Pasalubong \- feat\. Moira Dela Torre](https://open.spotify.com/track/2JEPz4bH3WNCvjz9rmZrpZ) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Pasalubong \(feat\. Moira Dela Torre\)](https://open.spotify.com/album/2UZpkRsvRjW36jNVkHss7q) | 4:01 | 2021-07-31 | 2021-08-31 |
 | [Pasalubong \- feat\. Moira Dela Torre](https://open.spotify.com/track/3HQirj18HMpG93YJBHGBl1) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Pebble House, Vol\. 1: Kuwaderno](https://open.spotify.com/album/0UeeygFdIo8k7PgxpLEGWI) | 4:03 | 2021-08-31 | 2021-12-31 |
 | [Paubaya](https://open.spotify.com/track/1NUw61RX4Wtmxw7CLiP4kP) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Patawad \(Deluxe Edition\)](https://open.spotify.com/album/0jIt32srcZv1X5ToMG3f8E) | 4:42 | 2021-03-27\* | 2021-07-10 |
-| [Payphone](https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:51 | 2022-04-14 |  |
+| [Payphone](https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:51 | 2022-04-14 | 2022-05-08 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-12-03 |
 | [Pelikula](https://open.spotify.com/track/5CHxZuUwZqeK7WU4fAQ0ub) | [Janine Teñoso](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pelikula](https://open.spotify.com/album/4NkcWiR6GiARbl7ANX9m4u) | 3:24 | 2021-08-20 | 2022-02-24 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-25 |

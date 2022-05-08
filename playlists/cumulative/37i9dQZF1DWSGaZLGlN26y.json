@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 259048,
       "name": "ABC 123 - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Jmx9HX7OEShTtmISj5MOS"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 95628,
       "name": "Feels - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3ZQ7nkVPz3DcFMpsp47e8m"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 262826,
       "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 307769,
       "name": "Love And Happiness - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1OgjvzxeljGaL4LrZmV1Qj"
@@ -1845,6 +1845,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S"
+      },
+      "artists": [
+        {
+          "name": "SHAED",
+          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155120,
+      "name": "Perfume - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1V3MFMHizPGXUd0ZS5k7ws"
       },
       "artists": [
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 205552,
       "name": "Queen Elizabeth - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2ZnNaxW8jsrCUcjf60aWR2"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 226957,
       "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
@@ -2183,7 +2201,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 212728,
       "name": "Strangers - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2OODSSTxWK2i6LQvQJD557"
@@ -2327,7 +2345,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 209840,
       "name": "Think About You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7"
@@ -2381,7 +2399,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 215237,
       "name": "Tonight I'll Be Staying Here With You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0CLtsfTgbVXORxfwqUbcVc"
@@ -2489,7 +2507,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 158501,
       "name": "Unforgettable - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 221493,
       "name": "Way Back - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2KsWIjEA3OntFTcnpKk6RG"

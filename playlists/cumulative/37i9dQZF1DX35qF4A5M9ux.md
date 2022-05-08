@@ -4,7 +4,7 @@
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-171 songs - 14 hr 9 min - [published](https://open.spotify.com/playlist/6Q7TpOrWNfwV0Hlu2l7meq)
+172 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/6Q7TpOrWNfwV0Hlu2l7meq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,9 +61,10 @@
 | [El Jardin Prohibido](https://open.spotify.com/track/1YjAt7R7nD1galaCxYAlGC) | [Alex Bueno y Su Orquesta](https://open.spotify.com/artist/7gOR79mmPL4F3MT1rxATVn) | [Los Anos Dorados](https://open.spotify.com/album/2bjw0GIfkBPBDHjOF8n8wh) | 5:30 | 2021-12-20 |  |
 | [Ella Feat\. Luis Enrique](https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 5:48 | 2021-12-20 |  |
 | [Entre La Espada y La Pared](https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 4:22 | 2021-12-20 | 2022-03-04 |
-| [Eres](https://open.spotify.com/track/0z4BiYZ95vmjSu3WDaEki8) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba de Fuego](https://open.spotify.com/album/0LdGE31TLcu8yrTh2m5l5l) | 4:28 | 2022-03-08 | 2022-05-08 |
+| [Eres](https://open.spotify.com/track/0z4BiYZ95vmjSu3WDaEki8) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba de Fuego](https://open.spotify.com/album/0LdGE31TLcu8yrTh2m5l5l) | 4:28 | 2022-03-08 |  |
 | [Esa Mujer](https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf) | 5:51 | 2021-12-20 | 2022-02-14 |
 | [Ese](https://open.spotify.com/track/23gGTtWSjeTx4HEnAfdCgW) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:31 | 2021-12-20 |  |
+| [Ese Hombre](https://open.spotify.com/track/0aT7slkUrMMGqe4ZVogNdy) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [40 Artistas Y Sus Super Exitos](https://open.spotify.com/album/40NLX6PJuMX9BU7WZkImIF) | 4:41 | 2022-03-08 |  |
 | [Este Amor](https://open.spotify.com/track/5PCYquODQL3Vf7YQPseGK7) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Amor y Sentimiento](https://open.spotify.com/album/3kQG5qmAlyznGH8yt3nSJJ) | 4:40 | 2021-12-20 | 2022-03-09 |
 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 | 2021-12-20 |  |
 | [Fabricando Fantasías](https://open.spotify.com/track/0EsDXIvOEJ7cpq6AfCFCTP) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Noches Latinas 3](https://open.spotify.com/album/3nCkiQTblZ190tnA8vwJc8) | 4:34 | 2021-12-20 |  |
@@ -84,7 +85,7 @@
 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 | 2021-12-20 | 2022-02-24 |
 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 | 2021-12-20 |  |
 | [La Magia De Tus Besos](https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 4:44 | 2021-12-20 |  |
-| [La Murga](https://open.spotify.com/track/23Vb5teQKNSNvPgUjLtI8j) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 5:33 | 2022-03-08 |  |
+| [La Murga](https://open.spotify.com/track/23Vb5teQKNSNvPgUjLtI8j) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 5:33 | 2022-03-08 | 2022-05-08 |
 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 | 2021-12-20 | 2022-02-09 |
 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-03-08 |  |
 | [Las Calaveras](https://open.spotify.com/track/7K8fx6p94CnofgKLVqifJC) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 4:46 | 2022-03-08 | 2022-03-11 |
@@ -112,7 +113,7 @@
 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 | 2021-12-20 | 2022-03-05 |
 | [Oiga, Mire, Vea \- Salsa](https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK) | 5:23 | 2022-03-08 |  |
 | [Pa Que Me Llames](https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Amor de Locos](https://open.spotify.com/album/21UeXvBlGC8gUjxRovFSsF) | 4:48 | 2022-03-08 |  |
-| [Pedro Navaja](https://open.spotify.com/track/09PGyODYYlVsL49N7TR914) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Anthology](https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU) | 7:23 | 2022-03-08 |  |
+| [Pedro Navaja](https://open.spotify.com/track/09PGyODYYlVsL49N7TR914) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Anthology](https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU) | 7:23 | 2022-03-08 | 2022-05-08 |
 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 | 2021-12-20 |  |
 | [Persona Ideal](https://open.spotify.com/track/0u2LbmKA70atp4J59QUnHW) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/7caeVU9hU1Jn0KPLXBlGeX) | 4:43 | 2021-12-20 | 2022-03-09 |
 | [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 | 2022-03-08 |  |

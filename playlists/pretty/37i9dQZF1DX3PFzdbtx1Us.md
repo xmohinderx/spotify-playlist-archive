@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Minimalism, electronica and modern classical to concentrate to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,651 likes - 90 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,647 likes - 90 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

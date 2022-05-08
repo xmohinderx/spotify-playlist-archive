@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Yazoo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,816 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,923 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 49 | [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 |
 | 50 | [Everything Counts \- 2006 Digital Remaster](https://open.spotify.com/track/5TQnwwwx5na4rCj6EVcdvV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best Of Depeche Mode \- Volume One](https://open.spotify.com/album/6gHRLG5Gbjk3vwtgmadx1g) | 4:01 |
 
-Snapshot ID: `MTY1MTk3MTM4NywwMDAwMDAwMGJmODhhNDA2MjgzYjA4Njc4YzZlZDExNzdlMDBlMjFk`
+Snapshot ID: `MTY1MjA0MDcyNiwwMDAwMDAwMGJmODhhNDA2MjgzYjA4Njc4YzZlZDExNzdlMDBlMjFk`

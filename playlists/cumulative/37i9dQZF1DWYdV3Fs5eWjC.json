@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2020-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "A BOY IS A GUN*",
+      "url": "https://open.spotify.com/track/1nXZnTALNXiPlvXotqHm66"
+    },
+    {
+      "album": {
         "name": "Back Together",
         "url": "https://open.spotify.com/album/5aW4rl6oNbpoL0LwteyYNH"
       },
@@ -85,7 +103,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 195005,
       "name": "Boys In The Ocean",
       "url": "https://open.spotify.com/track/1kQXCF4D2OZb7uflk6Q5Bz"
@@ -121,7 +139,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 202200,
       "name": "Cayendo (Side A - Acoustic)",
       "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
@@ -143,7 +161,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 191128,
       "name": "Change Your Life (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo"
@@ -161,7 +179,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 169251,
       "name": "Cowgirl (Creeping)",
       "url": "https://open.spotify.com/track/5dI0fDIw367KbZH5LUieJE"
@@ -241,7 +259,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 228839,
       "name": "Declare Independence - Spotify Singles",
       "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
@@ -267,7 +285,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 274223,
       "name": "Don't Leave Me (feat. Elheist & Kelsey Lu)",
       "url": "https://open.spotify.com/track/6XZ47QVJ2yvE9kq42bOuFh"
@@ -391,7 +409,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 105365,
       "name": "Free to Be",
       "url": "https://open.spotify.com/track/6vxbevT7BDCxxvsxcnAiZ6"
@@ -409,7 +427,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 198056,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/5bTaLbpRK8aJvqf2xHlwa7"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 196505,
       "name": "Getaway (feat. Tegan and Sara)",
       "url": "https://open.spotify.com/track/3GyyChTq6IZR8wtyTHh3eY"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 217600,
       "name": "Gold Digger (feat. Dess Dior)",
       "url": "https://open.spotify.com/track/18BZfOTpruzkVJhDN7pair"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/17e73veCznaiQNqhVfrFy6"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 237714,
       "name": "Horsewh!p",
       "url": "https://open.spotify.com/track/02LCf5tJcF6KszW2cKOySx"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 241196,
       "name": "jordan",
       "url": "https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 197794,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/7700T9tYeO5NdTBnLNlGEI"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 156909,
       "name": "One Time",
       "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 219849,
       "name": "Platinum",
       "url": "https://open.spotify.com/track/6IiMrJX8AvYCCt8Tcm9276"
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Pynk (feat. Grimes)",
       "url": "https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 184711,
       "name": "RE(a)D (with Bas)",
       "url": "https://open.spotify.com/track/3zkb4iEBArtWivbkhw4Jnd"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 218305,
       "name": "Save Myself",
       "url": "https://open.spotify.com/track/74DbiadhBhDwhyG9D863IS"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 126743,
       "name": "SICK! (with ILOVEMAKONNEN)",
       "url": "https://open.spotify.com/track/4ZOh05LdZe0vhTozXC0ohJ"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 233998,
       "name": "Symmetry",
       "url": "https://open.spotify.com/track/3pnAnbZa6UgkCJZcmVu2n7"

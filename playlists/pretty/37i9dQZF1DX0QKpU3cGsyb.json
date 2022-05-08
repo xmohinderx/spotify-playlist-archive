@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1539365,
+  "num_followers": 1539864,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTk3MTYwMywwMDAwMDAwMDcwNzk0OGIxNGM0NTA2ODRiYTRjNGEwMGZmZTkxNjM0",
+  "snapshot_id": "MTY1MjA0MDk4MiwwMDAwMDAwMGZmOTc1NTc4NWQwMTJhYTQ0ZmE2ZmJmN2VkOTA3Nzc0",
   "tracks": [
     {
       "added_at": "2022-05-06 04:00:00",
@@ -43,54 +43,26 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Wild Side (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL"
+        "name": "No Love (with SZA & Cardi B) [Extended Version]",
+        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
       },
       "artists": [
         {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         },
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 209476,
-      "name": "Wild Side (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279204,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Another",
-        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 152175,
-      "name": "Another",
-      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
+      "duration_ms": 276214,
+      "name": "No Love (with SZA & Cardi B) - Extended Version",
+      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -115,6 +87,22 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152175,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
       },
@@ -127,6 +115,26 @@
       "duration_ms": 226278,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Wild Side (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209476,
+      "name": "Wild Side (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -179,30 +187,18 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Good & Plenty (Remix)",
-        "url": "https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us"
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 204705,
-      "name": "Good & Plenty - Remix",
-      "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -239,26 +235,22 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "No Love (with SZA & Cardi B) [Extended Version]",
-        "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
+        "name": "FWM",
+        "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         },
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 276214,
-      "name": "No Love (with SZA & Cardi B) - Extended Version",
-      "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
+      "duration_ms": 199533,
+      "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -287,6 +279,34 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
+        "name": "Good & Plenty (Remix)",
+        "url": "https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Good & Plenty - Remix",
+      "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
         "name": "UNPREDICTABLE",
         "url": "https://open.spotify.com/album/4FlLFmeikHa7syfabGqL0k"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 189920,
       "name": "UNPREDICTABLE",
       "url": "https://open.spotify.com/track/37ahk4lY6MT9jibtVmvYAH"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "FWM",
-        "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 199533,
-      "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -347,18 +347,22 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Ease My Mind (Come Over)",
-        "url": "https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj"
+        "name": "Get Back (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX"
       },
       "artists": [
         {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 166293,
-      "name": "Ease My Mind (Come Over)",
-      "url": "https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB"
+      "duration_ms": 222168,
+      "name": "Get Back (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -383,6 +387,22 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
+        "name": "Ease My Mind (Come Over)",
+        "url": "https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Ease My Mind (Come Over)",
+      "url": "https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
         "name": "Slow Down (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF"
       },
@@ -403,22 +423,114 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Get Back (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX"
+        "name": "All Pride Aside with Summer Walker",
+        "url": "https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "Shelley FKA DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 222168,
-      "name": "Get Back (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
+      "duration_ms": 258417,
+      "name": "All Pride Aside with Summer Walker",
+      "url": "https://open.spotify.com/track/5xJqIMx7GZg4Lt1dRims0V"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "CHERRY SORBET (ft. SEVYN STREETER)",
+        "url": "https://open.spotify.com/album/3xRFXmzSh28yDeIlHVMruh"
+      },
+      "artists": [
+        {
+          "name": "DIXSON",
+          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "duration_ms": 186409,
+      "name": "CHERRY SORBET (feat. SEVYN)",
+      "url": "https://open.spotify.com/track/2uuGKdQMVCQIVrcLrybN7f"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Aura III",
+        "url": "https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 188234,
+      "name": "In My Corner",
+      "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 164565,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Red Lights (feat. Wale)",
+        "url": "https://open.spotify.com/album/1LaQ5Og0q3iP5UAKDJuMbE"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 219686,
+      "name": "Red Lights (feat. Wale)",
+      "url": "https://open.spotify.com/track/0nzqv2KS3q7SMA2s18RbAJ"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -447,58 +559,18 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "CHERRY SORBET (ft. SEVYN STREETER)",
-        "url": "https://open.spotify.com/album/3xRFXmzSh28yDeIlHVMruh"
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
       "artists": [
         {
-          "name": "DIXSON",
-          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
-        },
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 186409,
-      "name": "CHERRY SORBET (feat. SEVYN)",
-      "url": "https://open.spotify.com/track/2uuGKdQMVCQIVrcLrybN7f"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 164565,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "24hrs",
-        "url": "https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        }
-      ],
-      "duration_ms": 202551,
-      "name": "24hrs",
-      "url": "https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR"
+      "duration_ms": 246493,
+      "name": "Closer To Me",
+      "url": "https://open.spotify.com/track/0DdcFe5GpJ5CQpNJ5xskBi"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -519,6 +591,62 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
+        "name": "CYBAH (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 244138,
+      "name": "CYBAH (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Heat Of The Moment",
+        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 154634,
+      "name": "Rebel (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "24hrs",
+        "url": "https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "duration_ms": 202551,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
         "name": "R\u00e9sum\u00e9",
         "url": "https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n"
       },
@@ -531,58 +659,6 @@
       "duration_ms": 180357,
       "name": "R\u00e9sum\u00e9",
       "url": "https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Closer To Me",
-      "url": "https://open.spotify.com/track/0DdcFe5GpJ5CQpNJ5xskBi"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Red Lights (feat. Wale)",
-        "url": "https://open.spotify.com/album/1LaQ5Og0q3iP5UAKDJuMbE"
-      },
-      "artists": [
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 219686,
-      "name": "Red Lights (feat. Wale)",
-      "url": "https://open.spotify.com/track/0nzqv2KS3q7SMA2s18RbAJ"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -607,34 +683,34 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Aura III",
-        "url": "https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF"
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
       "artists": [
         {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 188234,
-      "name": "In My Corner",
-      "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
+      "duration_ms": 209493,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
     },
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Fast Car",
-        "url": "https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d"
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/0tgUE3W7ZNhpW7sypjvBkK"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "BARii",
+          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK"
+      "duration_ms": 165604,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/1snKYWnRhMsrpelhlAONGA"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -651,26 +727,6 @@
       "duration_ms": 220151,
       "name": "Try Peace...",
       "url": "https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/2D2BkKNfNhLHnBAz6kNlVN"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/3pxplvRVhnOXT7H7C4JkAH"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -711,22 +767,42 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Heat Of The Moment",
-        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
+        "name": "Fast Car",
+        "url": "https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 154634,
-      "name": "Rebel (feat. Jeremih)",
-      "url": "https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR"
+      "duration_ms": 210000,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "O.M.L. (feat. DESTIN CONRAD)",
+        "url": "https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 165132,
+      "name": "O.M.L. (feat. DESTIN CONRAD)",
+      "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -751,78 +827,6 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "All Pride Aside with Summer Walker",
-        "url": "https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v"
-      },
-      "artists": [
-        {
-          "name": "Shelley FKA DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 258417,
-      "name": "All Pride Aside with Summer Walker",
-      "url": "https://open.spotify.com/track/5xJqIMx7GZg4Lt1dRims0V"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "OMW",
-        "url": "https://open.spotify.com/album/1GxmqRRHpfU87ijFpDmLvh"
-      },
-      "artists": [
-        {
-          "name": "Asiahn",
-          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
-        }
-      ],
-      "duration_ms": 197074,
-      "name": "OMW",
-      "url": "https://open.spotify.com/track/0fSdTWC36g1Y44tpKzp7f2"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
         "name": "At Your Best (You Are Love) - Spotify Singles",
         "url": "https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn"
       },
@@ -839,18 +843,18 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Lost in You",
-        "url": "https://open.spotify.com/album/0ZjG5cqS0r0rWd3KOk4tw2"
+        "name": "PEAKING",
+        "url": "https://open.spotify.com/album/5MVJpvyBltzWLE7YY28N3u"
       },
       "artists": [
         {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 225680,
-      "name": "Lost in You",
-      "url": "https://open.spotify.com/track/0IMN5gKigig38WmRozfxr4"
+      "duration_ms": 193234,
+      "name": "PEAKING",
+      "url": "https://open.spotify.com/track/4AzN1noxlKZszMOXX8irpf"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -871,34 +875,22 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Demos For Ransom",
-        "url": "https://open.spotify.com/album/1UrDQ6U5nosuGFNilFAksU"
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
       "artists": [
         {
-          "name": "Kaien Cruz",
-          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
-        }
-      ],
-      "duration_ms": 168751,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/2ZS9p6DEd54quGRhUk4zaH"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "HEADLINE",
-        "url": "https://open.spotify.com/album/3FhtDmAzJe8t8RveMcmNJb"
-      },
-      "artists": [
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
         {
-          "name": "Bren Joy",
-          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 196596,
-      "name": "HEADLINE",
-      "url": "https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn"
+      "duration_ms": 210000,
+      "name": "FYE",
+      "url": "https://open.spotify.com/track/0nO4zZnJfxDXwTIwqLy5iL"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -915,6 +907,26 @@
       "duration_ms": 176640,
       "name": "Situationship",
       "url": "https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Last One",
+        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        },
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "Last One",
+      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
     }
   ],
   "unique_name": "Bedroom Jams",

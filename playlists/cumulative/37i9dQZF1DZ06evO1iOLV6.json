@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 246492,
       "name": "Bami Mujo (feat. Yung L & Patoranking)",
       "url": "https://open.spotify.com/track/7JB8DUFRFWhAPd1bhEZRuo"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 167940,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/4CXcqCKkhtsOoDyWDv2juY"
@@ -713,10 +713,36 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 194417,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
+    },
+    {
+      "album": {
+        "name": "Jah Eli Jah",
+        "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
+      },
+      "artists": [
+        {
+          "name": "Cobhams Asuquo",
+          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233764,
+      "name": "Jah Eli Jah",
+      "url": "https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF"
     },
     {
       "album": {

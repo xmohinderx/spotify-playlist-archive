@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 180500,
       "name": "LEGO",
       "url": "https://open.spotify.com/track/0w8qTS5ZNeB7kDOIyUyzNt"
@@ -3291,6 +3291,24 @@
       "duration_ms": 168750,
       "name": "Voc\u00ea N\u00e3o Me Engana",
       "url": "https://open.spotify.com/track/0l6kyN9OGEeItNfAG8fBcT"
+    },
+    {
+      "album": {
+        "name": "\u00d4 M\u00e3e",
+        "url": "https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU"
+      },
+      "artists": [
+        {
+          "name": "Aleck Johnson",
+          "url": "https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132283,
+      "name": "\u00d4 M\u00e3e",
+      "url": "https://open.spotify.com/track/37A1beEC95fCBRge23pSFT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWlW7KLhEhCZ"

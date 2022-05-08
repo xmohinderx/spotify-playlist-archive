@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 356346,
       "name": "Bande organis\u00e9e",
       "url": "https://open.spotify.com/track/717QGTmZdkemDaCo1vQHG0"
@@ -3641,7 +3641,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 247459,
       "name": "Deux fr\u00e8res",
       "url": "https://open.spotify.com/track/6hzi3AGB39FjxFqcjgbWs7"
@@ -4733,7 +4733,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
@@ -5197,7 +5197,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 153720,
       "name": "Gasolina (feat. Ninho)",
       "url": "https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8"
@@ -10074,6 +10074,24 @@
     },
     {
       "album": {
+        "name": "Original Vibe Machine",
+        "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "No Wahala",
+      "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "album": {
         "name": "Kekra",
         "url": "https://open.spotify.com/album/01BiXX7GWR0MKgrbCordRr"
       },
@@ -14825,6 +14843,24 @@
       "duration_ms": 198053,
       "name": "\u00c7a canarde",
       "url": "https://open.spotify.com/track/7r9KkTYiFYMuNcGR4aySxh"
+    },
+    {
+      "album": {
+        "name": "\u00c7a tourne dans ma t\u00eate",
+        "url": "https://open.spotify.com/album/5wsYTk1nS0qBR3qlby1Huw"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208560,
+      "name": "\u00c7a tourne dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/1ke8UEb9HtosHBmSlBnSRv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Jack Harlow\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,625 likes - 73 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,700 likes - 73 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 13 | [Love Like You](https://open.spotify.com/track/6fzcTivgSDZqKzkK1CKlKA) | [Strange Alias](https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj) | [Love Like You](https://open.spotify.com/album/1omPIAZK12fqM3qxcwdfQK) | 2:30 |
 | 14 | [Omarion](https://open.spotify.com/track/3o1sXTPmwxrsHUXgnbsdug) | [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa) | [Deltacron](https://open.spotify.com/album/3MWoKiMDYyehSuMn0spibu) | 2:43 |
 | 15 | [No Doubt](https://open.spotify.com/track/1JS6uJeYOerdx7U5y9Tbdc) | [Mirani](https://open.spotify.com/artist/2hf1ya5k9R4siHueVr7jNi), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [Drop The Bit Final Pt\. 1](https://open.spotify.com/album/1CXbpk3AaBor9rY0XRVZMn) | 3:28 |
-| 16 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
+| 16 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
 | 17 | [That's Just Tips](https://open.spotify.com/track/2cqHOnrzsE6JzBzkNADIA1) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [That's Just Tips](https://open.spotify.com/album/6o26foZmRZFOI13LhzNCZS) | 3:54 |
 | 18 | [Hear Me Clearly \(feat\. Nigo\)](https://open.spotify.com/track/0fOpKW6soqAbK8lvRXjhPg) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:21 |
 | 19 | [Goin Up](https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Goin Up](https://open.spotify.com/album/0UGVVwimB3lZDggXiOa932) | 2:20 |

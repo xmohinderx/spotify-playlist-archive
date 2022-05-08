@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Bardero$
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,997 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,093 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

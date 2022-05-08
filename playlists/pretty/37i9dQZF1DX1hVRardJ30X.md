@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Eslabon Armado
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,667 likes - 66 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,694 likes - 66 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 32 | [Cállame](https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Cállame](https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w) | 3:07 |
 | 33 | [Que Dios Me Libre](https://open.spotify.com/track/3uwtFVpCxVJI14ZVyzeSAI) | [Flowtiago](https://open.spotify.com/artist/51U0VfysnTpUUDwXgDjdfi) | [Que Dios Me Libre](https://open.spotify.com/album/2L9xpogN8c25dWjmJcL4So) | 3:08 |
 | 34 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 |
-| 35 | [Preguntas](https://open.spotify.com/track/3QtowQXS3suXN4YC3ECIQh) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas](https://open.spotify.com/album/08CNX9b0BY6l2YMvQ117bQ) | 2:47 |
+| 35 | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/track/3QtowQXS3suXN4YC3ECIQh) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/album/08CNX9b0BY6l2YMvQ117bQ) | 2:47 |
 | 36 | [Si Quieres](https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Si Quieres](https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl) | 2:47 |
 | 37 | [Bailaito](https://open.spotify.com/track/2VPViVkDETMH8MRBH0t4dj) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [Bailaito](https://open.spotify.com/album/16ja2Wgq1XaFUM45DLtGw8) | 2:38 |
 | 38 | [Paralizante](https://open.spotify.com/track/621WP2Q0x77iGqByyCo8Z7) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sopa De Letras](https://open.spotify.com/album/5WXmpP9ogw6zcRDTHeas9z) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > 🐸 The best French indie tracks right now\. Cover: Miel de Montagne
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,222 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,299 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 45 | [Soldat Boy](https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 3:35 |
 | 46 | [Toiles d'araignée](https://open.spotify.com/track/2ApBxa9rB2QrR6UTcj9Oo1) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj), [Camille Potte](https://open.spotify.com/artist/7qIpXe0TCeSJ8FHO25jgSj) | [Toiles d'araignée](https://open.spotify.com/album/12yuTpX2Ptq9bXaqtRm7fp) | 3:27 |
 | 47 | [Levitate](https://open.spotify.com/track/0U2tNdDsPJk8FOsmwNdmMT) | [My Dear](https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB) | [Levitate](https://open.spotify.com/album/701cjd2rHs91n8kog79dzm) | 3:00 |
-| 48 | [The Eyes](https://open.spotify.com/track/4dm5psUQAIcGdOFICZ2zO3) | [Sandór](https://open.spotify.com/artist/7zmwd6b5l9CriG4SrrugB8) | [The Eyes](https://open.spotify.com/album/5nSoESAt2L5B0bZuuWshJV) | 4:03 |
+| 48 | [The Eyes](https://open.spotify.com/track/4dm5psUQAIcGdOFICZ2zO3) | [Sandór Waïss](https://open.spotify.com/artist/7CEkLAfSHCRAohsAWypk8z) | [The Eyes](https://open.spotify.com/album/5nSoESAt2L5B0bZuuWshJV) | 4:03 |
 | 49 | [Störm](https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi) | [Black Lilys](https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH) | [Störm](https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8) | 4:24 |
 | 50 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 |
 

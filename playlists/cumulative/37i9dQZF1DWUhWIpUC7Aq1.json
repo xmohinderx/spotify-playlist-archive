@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 134373,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/31cI8gcEKRIMRjuGzPe4W1"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 216893,
       "name": "Emma's House",
       "url": "https://open.spotify.com/track/7IeinCxS7XtnmYKE1FBkRe"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 207880,
       "name": "Hotel Song",
       "url": "https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 224426,
       "name": "Lived In Bars",
       "url": "https://open.spotify.com/track/32mIImwxWx41xGa2ipEbfN"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 330773,
       "name": "Michigan",
       "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5WJvhSBtp1GJOjq8b7gY8C"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 191560,
       "name": "Nine in the Afternoon - Single Mix",
       "url": "https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41"
@@ -1388,6 +1388,24 @@
     },
     {
       "album": {
+        "name": "The Broken String",
+        "url": "https://open.spotify.com/album/2S6c6w0Q4ZVRtlfBwijtxh"
+      },
+      "artists": [
+        {
+          "name": "Bishop Allen",
+          "url": "https://open.spotify.com/artist/5rE9FxgMGmsZ8Cg4AeOavJ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215680,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0B54qwSQBsC4U8XtVVeoDj"
+    },
+    {
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
       },
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 184386,
       "name": "Scott Pilgrim",
       "url": "https://open.spotify.com/track/7L4AofQZoGr4mVrjB6MyfZ"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 261253,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 204840,
       "name": "Talulah Gosh",
       "url": "https://open.spotify.com/track/2KFV3XLXVNuIaHWdwQkVVD"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 195013,
       "name": "That Green Gentleman (Things Have Changed)",
       "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
@@ -1939,7 +1957,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 208853,
       "name": "Too Much Time",
       "url": "https://open.spotify.com/track/4FqmNnOVeGIMAESjdxCFMs"
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 245080,
       "name": "Very Loud",
       "url": "https://open.spotify.com/track/7selJ7EVnDpSxWhNETbE9s"
@@ -2047,7 +2065,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 122573,
       "name": "What's Important",
       "url": "https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3"

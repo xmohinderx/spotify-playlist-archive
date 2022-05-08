@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Penedo, Caio Luccas
 
-139 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/4OQp0dXIgEe6I8MlQwrCOG)
+140 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/4OQp0dXIgEe6I8MlQwrCOG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Kit da ORB](https://open.spotify.com/track/2qM4CuUfQv1sIKmklUPBMR) | [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8) | [Kit da ORB](https://open.spotify.com/album/7yppu7EzK4KAoMiGtaMFHc) | 2:43 | 2022-03-18 |  |
 | [Kush, Hash & Base](https://open.spotify.com/track/5aquzG1XgJPwd16QHWBbLi) | [TM](https://open.spotify.com/artist/6ZxBX1o4MP3v82Gt7eiCIA) | [Kush, Hash & Base](https://open.spotify.com/album/4eeUtuuUhaxfn1v8wsj9Np) | 1:42 | 2022-03-18 |  |
 | [Lambo](https://open.spotify.com/track/7EsBJOOyDURdHONdOr6f0w) | [Éo Kenny](https://open.spotify.com/artist/5PHltiN9B2xTiLs7Wx3BLW), [Only](https://open.spotify.com/artist/30uDJX6kWWopOA7Aq2HlJV), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Lambo](https://open.spotify.com/album/0PeDMcIH7ZmY9i2WVgc95S) | 2:44 | 2022-03-25 | 2022-04-29 |
-| [LEGO](https://open.spotify.com/track/0w8qTS5ZNeB7kDOIyUyzNt) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC) | [LEGO](https://open.spotify.com/album/6WKEiUJP8w1DiGPioPV5tW) | 3:00 | 2022-04-01 |  |
+| [LEGO](https://open.spotify.com/track/0w8qTS5ZNeB7kDOIyUyzNt) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC) | [LEGO](https://open.spotify.com/album/6WKEiUJP8w1DiGPioPV5tW) | 3:00 | 2022-04-01 | 2022-05-08 |
 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 | 2022-03-18 |  |
 | [Listerine](https://open.spotify.com/track/47IAJR8Jovtsdi8U417ASQ) | [Slow Gang](https://open.spotify.com/artist/7yeB6oM65lMbOBhPsu5fzq), [KARMORA](https://open.spotify.com/artist/3KhtubdrCHNLJ7qiH3k58a) | [Listerine](https://open.spotify.com/album/78TGa3iJu3XcBwgZp4hn3H) | 3:25 | 2022-03-18 | 2022-04-09 |
 | [Listra de Tigre](https://open.spotify.com/track/5XoZ8yU3f3JdLbQZqF4tIY) | [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX), [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T) | [Listra de tigre](https://open.spotify.com/album/6SGNUEsaf6yOq4rY9f10md) | 2:57 | 2022-03-18 |  |
@@ -147,5 +147,6 @@
 | [Vida de Monstrão](https://open.spotify.com/track/2RsjzV7yDdEsDSLoa1QZIP) | [Kuririn](https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Vida de Monstrão](https://open.spotify.com/album/26BZ117xBz1JYcK6q1HXLy) | 2:31 | 2022-04-22 |  |
 | [Vivências](https://open.spotify.com/track/7liUN8S1V8h5dTzcuLg69U) | [Lui\-V](https://open.spotify.com/artist/3UKGqszmYIFA8OCOg8vs4S), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Vivências](https://open.spotify.com/album/0oe8korKGIeW2u1waEZjhf) | 2:21 | 2022-04-01 | 2022-04-09 |
 | [Você Não Me Engana](https://open.spotify.com/track/0l6kyN9OGEeItNfAG8fBcT) | [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [JEFFRO](https://open.spotify.com/artist/5jkObTziesSFoINHI1ZVUi), [Kayzze](https://open.spotify.com/artist/6g8qnSLnS0JoejFF4ulUBy) | [Você Não Me Engana](https://open.spotify.com/album/0CpgmuuB9cSB1tQbkTmydY) | 2:48 | 2022-03-25 | 2022-04-29 |
+| [Ô Mãe](https://open.spotify.com/track/37A1beEC95fCBRge23pSFT) | [Aleck Johnson](https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA) | [Ô Mãe](https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU) | 2:12 | 2022-05-08 |  |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

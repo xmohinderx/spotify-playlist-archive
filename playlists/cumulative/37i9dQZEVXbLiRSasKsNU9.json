@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 204553,
       "name": "Birader",
       "url": "https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl"
@@ -3999,6 +3999,24 @@
       "duration_ms": 258786,
       "name": "Kafile",
       "url": "https://open.spotify.com/track/4PTjzk0gb6st9Lk5kKBnc6"
+    },
+    {
+      "album": {
+        "name": "Kagome",
+        "url": "https://open.spotify.com/album/4CIT1BsHQams5FP5RUSydD"
+      },
+      "artists": [
+        {
+          "name": "Lo ki",
+          "url": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "Kagome",
+      "url": "https://open.spotify.com/track/2BDrpeAnTxCurLt38yDSrE"
     },
     {
       "album": {
@@ -8106,6 +8124,24 @@
     },
     {
       "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258319,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -8487,7 +8523,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 146269,
       "name": "Z\u0142ote Tarasy",
       "url": "https://open.spotify.com/track/0dorKIz071s55Jy0zxb4aW"

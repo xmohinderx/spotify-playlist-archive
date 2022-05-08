@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 
 > Bollywood beats to keep you dancing all night\. Cover: Akshay Kumar & Katrina Kaif
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,021 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,171 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

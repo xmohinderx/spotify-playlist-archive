@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Ingrid Andress
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,838 likes - 105 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,040 likes - 105 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

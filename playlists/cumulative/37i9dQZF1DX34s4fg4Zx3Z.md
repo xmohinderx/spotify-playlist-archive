@@ -4,7 +4,7 @@
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Vang; thiết kế: Isu Kim
 
-290 songs - 16 hr 54 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
+291 songs - 16 hr 56 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Lời Cuối](https://open.spotify.com/track/4Nzujlo4oals3S6LT3HTC0) | [Nắng](https://open.spotify.com/artist/74VaNxyGwFhJPZDcQ9q3IO) | [Lời Cuối](https://open.spotify.com/album/2syolPVqhROidfAqplwejb) | 3:43 | 2022-04-14 |  |
 | [Lời Yêu](https://open.spotify.com/track/7bfQOoVOUfIvwezV9xJczb) | [Bàng Khánh Tùng Lâm](https://open.spotify.com/artist/6YPDCDSpf6aF6WXVAeEpVI) | [Lời Yêu](https://open.spotify.com/album/4NZlTh0eKMM8jrjQudKCFz) | 4:59 | 2022-01-06 | 2022-03-11 |
 | [Lựa Chọn Của Em](https://open.spotify.com/track/5H6DBJ0MLCrs6oURg4LNdI) | [Koushen](https://open.spotify.com/artist/7fTVzjXkTT7eZWnTYkorBI), [Karrot](https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST) | [Lựa Chọn Của Em](https://open.spotify.com/album/3ECvkeFUChJgRTywaGSEK0) | 2:54 | 2022-01-06 |  |
+| [MDLV \(Interlude\) \[feat\. Gxxfy\]](https://open.spotify.com/track/76OkspEN08SwVO2FlUZwNh) | [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Gxxfy](https://open.spotify.com/artist/1i9boYyWPAZZLSrDcIov6U) | [MDLV \(Interlude\) \[feat\. Gxxfy\]](https://open.spotify.com/album/0RlMty6KLe8z2MM9FIZKOg) | 2:18 | 2022-05-08 |  |
 | [Memento](https://open.spotify.com/track/7l4Z5kp4QcGDucsrQjOqML) | [GEN JI](https://open.spotify.com/artist/6V7FQsEghJubR2fGMEm0Kb), [RBA Club](https://open.spotify.com/artist/0nOXZL3vCPZ4tLng1o5YKd) | [Memento](https://open.spotify.com/album/2UlQj9OCL9vhQeG9JfUvqo) | 2:09 | 2022-01-06 | 2022-04-16 |
 | [MEYA](https://open.spotify.com/track/1lmhMawxa0MkikAjNvc1WQ) | [PAR SG](https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY), [Weedie](https://open.spotify.com/artist/1Lmfz5Yccktfwedhkpi1ny) | [MEYA](https://open.spotify.com/album/0I4kdBFPMAraeTkIMtyWlT) | 2:27 | 2022-05-04 |  |
 | [MISSING YOU](https://open.spotify.com/track/5JnYzzZH34K66CftX5223m) | [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [MISSING YOU](https://open.spotify.com/album/2kbQoFdim1FkDLtPOxUU1T) | 4:03 | 2022-03-17 | 2022-04-02 |
@@ -175,7 +176,7 @@
 | [Neva Chia Lia](https://open.spotify.com/track/2pAZhdD0dtk0bQyOV6g8gd) | [Minchu](https://open.spotify.com/artist/5BvG46pJjsubbOQpc83sUi), [BadBz](https://open.spotify.com/artist/24g2ZCgiC9b4RQ5UcFaDDG) | [Neva Chia Lia](https://open.spotify.com/album/68jOYrlMo9XTUI3sPWPJbR) | 3:20 | 2022-03-22 |  |
 | [Never Say Twice](https://open.spotify.com/track/2mfhGGi4PmBy3Ey8TIBLiv) | [WoogieBoi](https://open.spotify.com/artist/6e96L3MFFvaPscjxZeyHVP), [prettyXIX](https://open.spotify.com/artist/28XrDF0G35BpyybcGaQTzU) | [Never Say Twice](https://open.spotify.com/album/1BOgbzmod9UqGdPFWYNZsp) | 3:13 | 2022-03-29 | 2022-05-05 |
 | [Nguoi Choi So 1](https://open.spotify.com/track/6dEGRiYiiK1vKuczy89wCV) | [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7), [Hustlang Roki](https://open.spotify.com/artist/4W5YB1plCFQ3hxgLzwBjam), [Ccmk](https://open.spotify.com/artist/2rlOStil9gdIb581pA8WaS) | [Nguoi Choi So 1](https://open.spotify.com/album/6svUZ98m9i8AvUjH8ke8sa) | 4:34 | 2022-01-06 | 2022-02-16 |
-| [Ngày Xưa Có Một Chuyện Tình](https://open.spotify.com/track/6xCPE7PjKCrVFh7sFzZzxZ) | [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj), [Hương](https://open.spotify.com/artist/3VOsbl4jGG7L7NLeDluoFk), [Triển](https://open.spotify.com/artist/3S06ZYpLa0nJZLfOqk0Jwx) | [Ngày Xưa Có Một Chuyện Tình](https://open.spotify.com/album/0BINPNwdfyNI7iXg2BiXHr) | 5:19 | 2022-04-22 |  |
+| [Ngày Xưa Có Một Chuyện Tình](https://open.spotify.com/track/6xCPE7PjKCrVFh7sFzZzxZ) | [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj), [Hương](https://open.spotify.com/artist/3VOsbl4jGG7L7NLeDluoFk), [Triển](https://open.spotify.com/artist/3S06ZYpLa0nJZLfOqk0Jwx) | [Ngày Xưa Có Một Chuyện Tình](https://open.spotify.com/album/0BINPNwdfyNI7iXg2BiXHr) | 5:19 | 2022-04-22 | 2022-05-08 |
 | [Ngày Đơn Giản](https://open.spotify.com/track/3ndI0QxYn0BTMwQieWAiTb) | [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq) | [Ngày Đơn Giản](https://open.spotify.com/album/5VYBJ4ZA7t3DsTtm4UiBby) | 2:17 | 2022-03-17 | 2022-03-27 |
 | [Người Mình Thương Thành Người Từng Thương](https://open.spotify.com/track/343Evi2l3pQ48UnpA9REPK) | [Thái Tuyết Trâm](https://open.spotify.com/artist/6VaHKM9MMuOzRaZovKL8Bk) | [Người Mình Thương Thành Người Từng Thương](https://open.spotify.com/album/5mXUg02AvvrelVgQEOqFeT) | 4:40 | 2022-01-14 | 2022-05-05 |
 | [Ngắm Nhìn Đắm Chìm \(Watchin' U\)](https://open.spotify.com/track/2OrViE7PohcvaNH7EkJ7p3) | [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [Ngắm Nhìn Đắm Chìm \(Watchin' U\)](https://open.spotify.com/album/5h5rTsIbFbNAMx8RQrruDb) | 3:39 | 2022-01-06 | 2022-01-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > spotify hyperpop playlist Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,958 likes - 110 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,120 likes - 110 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

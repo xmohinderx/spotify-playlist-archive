@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Sharon Van Etten
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,853 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,912 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

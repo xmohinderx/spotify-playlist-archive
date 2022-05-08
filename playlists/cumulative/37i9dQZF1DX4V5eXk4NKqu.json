@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 187173,
       "name": "a lifetime with you",
       "url": "https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 206536,
       "name": "Another Observer",
       "url": "https://open.spotify.com/track/0OwQPTFWy8Xcvy4ViLvyF1"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 200520,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/3nkC0uQZyp5wY0zp8hIkBL"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 132545,
       "name": "Dead Leaves",
       "url": "https://open.spotify.com/track/6GoHJOvRcdEPmcjgylYg1b"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 163080,
       "name": "Este Viaje",
       "url": "https://open.spotify.com/track/2j9QmeOI4giuBYMTE1HTuT"
@@ -680,6 +680,24 @@
     },
     {
       "album": {
+        "name": "FRESH",
+        "url": "https://open.spotify.com/album/3395RngNLyEQ2jR6iChmqz"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151207,
+      "name": "FRESH",
+      "url": "https://open.spotify.com/track/73Q8I5wBGnUFXY9rjWXPzy"
+    },
+    {
+      "album": {
         "name": "Gallo Pinto",
         "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
       },
@@ -713,7 +731,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 223786,
       "name": "Girls Go Wild (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/53y2hHY9gPhOZzoEh7umgq"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 137961,
       "name": "Hear Me Out - Stripped",
       "url": "https://open.spotify.com/track/0EX3OCeGdjwz2P017sOEIk"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 178645,
       "name": "inigualable",
       "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 233696,
       "name": "Inutil",
       "url": "https://open.spotify.com/track/1jVfUFLizfiZYtp24Jmg0R"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 215613,
       "name": "Matando",
       "url": "https://open.spotify.com/track/7k7vlfNo7gD2tP6UxJrG47"
@@ -1266,6 +1284,28 @@
     },
     {
       "album": {
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
+    },
+    {
+      "album": {
         "name": "nadie me cae bien",
         "url": "https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea"
       },
@@ -1335,7 +1375,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 150461,
       "name": "No Te Vayas with Jane",
       "url": "https://open.spotify.com/track/6dkcbaRHCVqSeWG1cmbZC0"
@@ -1411,7 +1451,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 232160,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9"
@@ -1429,7 +1469,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 232160,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/7uOv9seTuAbjuGBcgGXHuJ"
@@ -1447,7 +1487,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 198573,
       "name": "PARIS",
       "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
@@ -1581,6 +1621,24 @@
       "duration_ms": 163013,
       "name": "Qu\u00edtame",
       "url": "https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa"
+    },
+    {
+      "album": {
+        "name": "Recuerdos Que Torturan",
+        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210425,
+      "name": "Recuerdos Que Torturan",
+      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
     },
     {
       "album": {
@@ -1829,7 +1887,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 206437,
       "name": "Sweet Honey",
       "url": "https://open.spotify.com/track/07xve2j2nU5nwELEhx8fx0"
@@ -1865,7 +1923,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 251520,
       "name": "Te Espero Aqu\u00ed",
       "url": "https://open.spotify.com/track/1xvQsgUbvz53trUe3xaIdm"
@@ -1901,7 +1959,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 196125,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/2iAXpWs8ZoP3VOS94pb5lH"
@@ -1937,7 +1995,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 127704,
       "name": "That's Playa",
       "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
@@ -1991,7 +2049,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 221387,
       "name": "Tired of Being Myself",
       "url": "https://open.spotify.com/track/4V3z59PaJcHZTKWRiUAJS6"
@@ -2009,7 +2067,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 320603,
       "name": "Toda Esta Ciudad",
       "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
@@ -2153,7 +2211,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 208329,
       "name": "V\u00e1mono",
       "url": "https://open.spotify.com/track/623mI2F1iCO4cqGbv6WUVn"
@@ -2171,7 +2229,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 310090,
       "name": "Week 4",
       "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
@@ -2225,7 +2283,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 171628,
       "name": "Yo Creo en el Amor",
       "url": "https://open.spotify.com/track/7dZ72UcLeePwDC56oMzEtz"

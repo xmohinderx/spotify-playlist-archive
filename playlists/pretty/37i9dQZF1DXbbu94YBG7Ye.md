@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 
 > Si la rompe está acá\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,718,842 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,719,199 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,506 likes - 106 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,513 likes - 106 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

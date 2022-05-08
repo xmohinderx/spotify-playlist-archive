@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Zach Brock
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,645 likes - 61 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,681 likes - 61 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

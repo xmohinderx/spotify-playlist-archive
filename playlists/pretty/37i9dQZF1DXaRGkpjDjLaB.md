@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRGkpjDjLaB.md) - [plain]
 
 > If you're going to be sad, at least let it be with Bad Bunny💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,581 likes - 32 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,187 likes - 32 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRGkpjDjLaB.md) - [plain]
 | 31 | [Solo de Mi](https://open.spotify.com/track/5YOkA7qd2983FtBQnP8sYx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Solo de Mi](https://open.spotify.com/album/4tpexvNazI77pndY3LdOLX) | 3:17 |
 | 32 | [TE DESEO LO MEJOR](https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:19 |
 
-Snapshot ID: `MTY1MTk3MTk0MSwwMDAwMDAwMDZkYTJjNGJlOWU1ZDNiZWRkODVjODU5NzAxYmFjYWMx`
+Snapshot ID: `MTY1MjA0MTM4NSwwMDAwMDAwMDZkYTJjNGJlOWU1ZDNiZWRkODVjODU5NzAxYmFjYWMx`

@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 235053,
       "name": "2016",
       "url": "https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 263120,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 162117,
       "name": "Drunk Too",
       "url": "https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 180053,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 284706,
       "name": "Just a Dream",
       "url": "https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L"
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "WildHorse",
+        "url": "https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4"
+      },
+      "artists": [
+        {
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225626,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu"
+    },
+    {
+      "album": {
         "name": "Life Changes",
         "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
@@ -711,7 +729,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 217120,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp"
@@ -841,7 +859,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 291533,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 191906,
       "name": "The Stranger",
       "url": "https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 228373,
       "name": "When Someone Stops Loving You",
       "url": "https://open.spotify.com/track/7A55QoGK0vf8lGNtaWZm45"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"

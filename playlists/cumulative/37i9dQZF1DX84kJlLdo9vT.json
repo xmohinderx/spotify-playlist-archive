@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 152613,
       "name": "Baby Now That I've Found You",
       "url": "https://open.spotify.com/track/3QU7LEmu0j98vtsZfRk22n"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 230693,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 180893,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/0PGwM5vdr5fMejx0IIAYXj"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 119933,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/2LW29dEaw4EWNkHNzRma2O"
@@ -866,6 +866,24 @@
     },
     {
       "album": {
+        "name": "Mony Mony",
+        "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
+    },
+    {
+      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 244026,
       "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
       "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 172186,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 215080,
       "name": "September",
       "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 152160,
       "name": "Sherry",
       "url": "https://open.spotify.com/track/0NpvdCO506uO58D4AbKzki"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 145173,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/78X60f17Lbn4zfN7gxQLSH"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 137933,
       "name": "Walk Like a Man",
       "url": "https://open.spotify.com/track/4C76SOnBa9eQDwOwe11hPz"

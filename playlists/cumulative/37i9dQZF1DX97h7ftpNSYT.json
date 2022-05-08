@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 284493,
       "name": "4:44",
       "url": "https://open.spotify.com/track/1gT5TGwbkkkUliNzHRIGi1"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 262693,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq"
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 162546,
       "name": "Blueberry Faygo",
       "url": "https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 222360,
       "name": "Bounce Back",
       "url": "https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF"
@@ -2253,7 +2253,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 212946,
       "name": "Come Get Her",
       "url": "https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP"
@@ -2969,7 +2969,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 208733,
       "name": "ELEMENT.",
       "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
@@ -3453,7 +3453,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 176674,
       "name": "Flex (Ooh, Ooh, Ooh)",
       "url": "https://open.spotify.com/track/2NVt7fxr5GsqTkGwYXcNTE"
@@ -4037,7 +4037,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 246386,
       "name": "Hard in Da Paint",
       "url": "https://open.spotify.com/track/3XQY8kDjI8LARMIC9xkxQk"
@@ -4307,7 +4307,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "HUMBLE.",
       "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
@@ -5115,7 +5115,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 195637,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/14mHfNsSHN0FbLftyjrV9g"
@@ -6109,7 +6109,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 279306,
       "name": "Moment 4 Life",
       "url": "https://open.spotify.com/track/0ConttVd0Ebk3dLNquOmh0"
@@ -6514,6 +6514,28 @@
     },
     {
       "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Monty",
+          "url": "https://open.spotify.com/artist/1Wnfj5qZsp8nPsGBBRRa4W"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "My Way (feat. Monty)",
+      "url": "https://open.spotify.com/track/1WoOzgvz6CgH4pX6a1RKGp"
+    },
+    {
+      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -6649,7 +6671,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 191937,
       "name": "New Freezer (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2EgB4n6XyBsuNUbuarr4eG"
@@ -6693,7 +6715,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 267211,
       "name": "New Level (feat. Future)",
       "url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h"
@@ -7707,7 +7729,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 205040,
       "name": "Praise The Lord (Da Shine) (feat. Skepta)",
       "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
@@ -8003,7 +8025,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 241440,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/2MJdgSby3DtSS7bUJx2cly"
@@ -8573,7 +8595,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 304041,
       "name": "Slippery (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/6p8NuHm8uCGnn2Dtbtf7zE"
@@ -8869,7 +8891,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 163320,
       "name": "Suge",
       "url": "https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB"
@@ -9675,7 +9697,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 194184,
       "name": "Uproar",
       "url": "https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk"
@@ -9957,7 +9979,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 272500,
       "name": "way back",
       "url": "https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl"
@@ -10187,7 +10209,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 196586,
       "name": "Why You Always Hatin?",
       "url": "https://open.spotify.com/track/4ezAjoV01phDz1SqO6SzEU"
@@ -10443,7 +10465,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 302004,
       "name": "Yamborghini High (feat. Juicy J)",
       "url": "https://open.spotify.com/track/2rqUblDWJKlMVwh9uJc0Vv"

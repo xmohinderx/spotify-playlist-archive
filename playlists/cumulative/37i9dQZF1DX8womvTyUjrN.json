@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 179616,
       "name": "After",
       "url": "https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 162387,
       "name": "Amor",
       "url": "https://open.spotify.com/track/0r9iiHyIEnnOYjK6kpGY9s"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 270832,
       "name": "Aqu\u00ed voy a estar",
       "url": "https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 193274,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
@@ -551,6 +551,28 @@
       "duration_ms": 182925,
       "name": "d Bien a MaL",
       "url": "https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A"
+    },
+    {
+      "album": {
+        "name": "De Cero",
+        "url": "https://open.spotify.com/album/4cf8d97ipj16xHc2vmK6jv"
+      },
+      "artists": [
+        {
+          "name": "Pastrana",
+          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
+        },
+        {
+          "name": "Yung Dupe",
+          "url": "https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "De Cero",
+      "url": "https://open.spotify.com/track/02APyozcjYXixWTVkOQS7q"
     },
     {
       "album": {
@@ -1223,7 +1245,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 154402,
       "name": "No vas a cambiar",
       "url": "https://open.spotify.com/track/2JyR4XomCbSv543H904cME"
@@ -1285,7 +1307,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 211807,
       "name": "Pecado Original",
       "url": "https://open.spotify.com/track/35gG1L1D4q3Vj4SqdpBqoP"
@@ -1415,7 +1437,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 147743,
       "name": "Pq Mientes",
       "url": "https://open.spotify.com/track/1axFfn3zrfGlpuIrFUPONT"
@@ -1713,7 +1735,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 223359,
       "name": "TARDE",
       "url": "https://open.spotify.com/track/1hdLVuDhaxfVdMZ13CHSar"
@@ -1735,7 +1757,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 206116,
       "name": "Te Pienso",
       "url": "https://open.spotify.com/track/3LCUFhel7bdHUoTtlksfGG"

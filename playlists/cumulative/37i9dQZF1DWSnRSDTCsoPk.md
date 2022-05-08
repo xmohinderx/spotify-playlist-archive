@@ -4,11 +4,11 @@
 
 > Need to get your energy level up? This will help!
 
-198 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/1TK59qZsnLJRldFeVRem4I)
+199 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/1TK59qZsnLJRldFeVRem4I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Out of 10](https://open.spotify.com/track/2oJumvALZrts4rOI3c5nGL) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Member's Selection](https://open.spotify.com/album/6b9ZAm9lzsF3aVBKAdrEf3) | 3:23 | 2021-04-27 |  |
+| [10 Out of 10](https://open.spotify.com/track/2oJumvALZrts4rOI3c5nGL) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Member's Selection](https://open.spotify.com/album/6b9ZAm9lzsF3aVBKAdrEf3) | 3:23 | 2021-04-27 | 2022-05-08 |
 | [90's Love](https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 3:33 | 2021-04-27 | 2022-02-24 |
 | [A](https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo) | [RAINBOW](https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y) | [A \(Digital Single\)](https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B) | 3:21 | 2021-04-27 | 2022-02-24 |
 | [Abracadabra](https://open.spotify.com/track/4q4iT3zXglsNjzFsArxBUv) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [Sound G.](https://open.spotify.com/album/2CEzjLWQOcGxkorwL99n6p) | 3:02 | 2021-04-27 | 2022-02-24 |
@@ -20,6 +20,7 @@
 | [Back](https://open.spotify.com/track/0uAsZrUZNHLg0JrnrSWuej) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [Be Back](https://open.spotify.com/album/11VsfJuRkz2A47xDgT203V) | 3:53 | 2022-02-23 |  |
 | [Back Door](https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:09 | 2021-04-27 |  |
 | [Bad](https://open.spotify.com/track/2N8gVC6b45879mbNo9IMZr) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [Reality](https://open.spotify.com/album/4rcCDHuUPZWtnQ380SXHaN) | 3:36 | 2022-02-23 | 2022-03-21 |
+| [Bad Girl](https://open.spotify.com/track/7gavFJaP2PmDAOhO5VXjHS) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Beast Is The B2ST](https://open.spotify.com/album/3Bcq6nkfF1qUlHTFK9v3Je) | 3:13 | 2022-02-23 |  |
 | [Bad Girl Good Girl](https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [A Class](https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X) | 3:37 | 2022-02-23 |  |
 | [bang](https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Afterschool 3rd Single BANG](https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h) | 3:18 | 2021-04-27 | 2022-05-06 |
 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 | 2022-02-23 |  |
@@ -47,7 +48,7 @@
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2022-02-23 |  |
 | [Crayon](https://open.spotify.com/track/1HMbjnCFGOWd8Sqou4maxM) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [One of a Kind](https://open.spotify.com/album/4EitCfNTOlnqtRrmBBuwGQ) | 3:16 | 2021-04-27 | 2022-02-24 |
 | [Crazy](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) | 3:12 | 2021-04-27 | 2022-02-24 |
-| [Crazy](https://open.spotify.com/track/7bayUG8A1EwRJRm6955F96) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [It’s](https://open.spotify.com/album/2yLpZZ6W01CqesccYaxEkL) | 3:07 | 2022-02-23 | 2022-05-06 |
+| [Crazy](https://open.spotify.com/track/7bayUG8A1EwRJRm6955F96) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [It’s](https://open.spotify.com/album/2yLpZZ6W01CqesccYaxEkL) | 3:07 | 2022-02-23 |  |
 | [CROOKED](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 3:44 | 2022-02-23 |  |
 | [D\-D\-DANCE](https://open.spotify.com/track/3U764c5XbUqjr408oTrjfy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [D\-D\-DANCE](https://open.spotify.com/album/1owCxA0CX66z6abjiZ3m6g) | 3:25 | 2021-04-27 | 2022-02-24 |
 | [Dance The Night Away](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:00 | 2021-11-19 | 2022-02-24 |
@@ -78,7 +79,7 @@
 | [FIRE](https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 3:45 | 2022-02-23 |  |
 | [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2022-02-23 |  |
 | [Flashback](https://open.spotify.com/track/1XX7qmxpxVj504Q6Iox4ac) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [AFTERSCHOOL 5th Maxi\-Single \(Korea Release\)](https://open.spotify.com/album/0EVENGRGK3M0TMi6mSv44q) | 3:15 | 2021-12-17 | 2022-02-24 |
-| [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 | 2022-02-23 |  |
+| [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 | 2022-02-23 | 2022-05-08 |
 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 | 2021-04-27 | 2022-02-24 |
 | [Gee](https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Oh! \- The Second Album](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) | 3:21 | 2021-04-27 | 2022-02-24 |
 | [God’s Menu](https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:47 | 2022-02-23 |  |
@@ -86,7 +87,7 @@
 | [Going Dumb \(with Stray Kids\)](https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:49 | 2021-10-08 |  |
 | [GOOD BOY](https://open.spotify.com/track/52mglSL6bdbrg9zig7nazP) | [GD X TAEYANG](https://open.spotify.com/artist/3HJVw8aEtFqoc3raJVE8am) | [GOOD BOY](https://open.spotify.com/album/2rhq834A24z7ucY39moYdb) | 4:05 | 2021-04-27 | 2022-03-01 |
 | [GOT MY NUMBER](https://open.spotify.com/track/2QI91Tq1F2Tl0slIaSegs1) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 2:51 | 2022-02-23 |  |
-| [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 | 2022-02-23 |  |
+| [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 | 2022-02-23 | 2022-05-08 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2022-02-23 |  |
 | [Haru Haru](https://open.spotify.com/track/0qQBuGsT79rKtmmfC0V38x) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0yz5ipZ8LshvZl1nxcUpBE) | 4:16 | 2021-04-27 |  |
 | [Heartbreaker](https://open.spotify.com/track/0jzNkPeK3W1g7G1MoqIfeZ) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Shine A Light](https://open.spotify.com/album/1VNgOZM0hpFdeivdpoD5k6) | 5:04 | 2022-02-23 | 2022-02-25 |
@@ -130,7 +131,7 @@
 | [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album \[MAVERICK\]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2022-02-23 |  |
 | [MOMMAE](https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:24 | 2022-02-23 |  |
 | [Mr.Mr.](https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Mr\. Mr\. \- The 4th Mini Album](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) | 3:55 | 2022-02-23 | 2022-05-03 |
-| [NalinA](https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Welcome to the BLOCK](https://open.spotify.com/album/6keoJJWt7AOZ3jvznOc5om) | 3:22 | 2022-02-23 | 2022-05-08 |
+| [NalinA](https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Welcome to the BLOCK](https://open.spotify.com/album/6keoJJWt7AOZ3jvznOc5om) | 3:22 | 2022-02-23 |  |
 | [Never Ever](https://open.spotify.com/track/4tzkSoh450XnimhNWVmBhg) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : ARRIVAL](https://open.spotify.com/album/4jMq9hcatjFMJlPb4IpoI5) | 3:14 | 2022-02-23 |  |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2022-02-23 |  |
 | [Nillili Mambo](https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [BLOCKBUSTER](https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6) | 3:25 | 2022-02-23 |  |

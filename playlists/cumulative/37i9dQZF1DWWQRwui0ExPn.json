@@ -6734,28 +6734,6 @@
     },
     {
       "album": {
-        "name": "Bu\u0301zios",
-        "url": "https://open.spotify.com/album/7m1xZUwz5SCkgTR7IBpmms"
-      },
-      "artists": [
-        {
-          "name": "Chancla",
-          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
-        },
-        {
-          "name": "Oaty.",
-          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
-        }
-      ],
-      "date_added": "2021-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 137787,
-      "name": "Bu\u0301zios",
-      "url": "https://open.spotify.com/track/1liZ2RBtGwOAvytITygxkJ"
-    },
-    {
-      "album": {
         "name": "By Myself",
         "url": "https://open.spotify.com/album/4kktqhDEgs6dlFUAIISf5A"
       },
@@ -6865,6 +6843,28 @@
       "duration_ms": 120000,
       "name": "Byrds",
       "url": "https://open.spotify.com/track/4j4XQzNbPRXTNi3CJdsT5g"
+    },
+    {
+      "album": {
+        "name": "B\u00fazios",
+        "url": "https://open.spotify.com/album/7m1xZUwz5SCkgTR7IBpmms"
+      },
+      "artists": [
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        },
+        {
+          "name": "Oaty.",
+          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137787,
+      "name": "B\u00fazios",
+      "url": "https://open.spotify.com/track/1liZ2RBtGwOAvytITygxkJ"
     },
     {
       "album": {

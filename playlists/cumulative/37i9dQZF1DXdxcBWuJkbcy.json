@@ -3061,7 +3061,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 146983,
       "name": "Friday",
       "url": "https://open.spotify.com/track/4t5DaUXvdAFahZJtXYGYpH"
@@ -4705,7 +4705,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 192088,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9"
@@ -4745,7 +4745,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 157647,
       "name": "Life Goes On - Alok Remix",
       "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
@@ -5837,7 +5837,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 153913,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/490LclNVKfdheKMqdyjzZN"
@@ -7248,6 +7248,28 @@
     },
     {
       "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
+    },
+    {
+      "album": {
         "name": "Save Me Now",
         "url": "https://open.spotify.com/album/7JzDX8kdV2D5AURTptTcWr"
       },
@@ -7791,7 +7813,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 137704,
       "name": "Sing It Back Again",
       "url": "https://open.spotify.com/track/3Q67uLNNnP3B2uYMe1uV5x"
@@ -8019,7 +8041,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 204435,
       "name": "Something Stupid (feat. AWA) - KC Lights Remix",
       "url": "https://open.spotify.com/track/6vChWkgv3K0ttMLpL822ZU"
@@ -8365,7 +8387,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 158728,
       "name": "Stupid Feelings - Jonasu Remix",
       "url": "https://open.spotify.com/track/0agrpW5vGvWNziZwzPHwQ7"
@@ -8571,7 +8593,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 135874,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/0z6AYlkxOeV39NsttefSm0"
@@ -9117,7 +9139,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 144457,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/7hdy8UqbRmEyOcsF1DcfhJ"

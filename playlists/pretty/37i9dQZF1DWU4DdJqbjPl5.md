@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover: <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=qhR12UGsSpOUFsjHzhaQhw" > Stonebwoy </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,147 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,255 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 69 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 70 | [Nike](https://open.spotify.com/track/3gUNco4uLKydiO0smv2EJR) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:57 |
 
-Snapshot ID: `MTY1MTk3MTM4OSwwMDAwMDAwMGVjMzMwYWQ5ZGMwNWMzZTU5OGMzYWRmNzQ2N2RlZmIz`
+Snapshot ID: `MTY1MjA0MDcyOCwwMDAwMDAwMGVjMzMwYWQ5ZGMwNWMzZTU5OGMzYWRmNzQ2N2RlZmIz`

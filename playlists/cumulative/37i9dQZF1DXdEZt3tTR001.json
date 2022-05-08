@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 210826,
       "name": "Balance In All",
       "url": "https://open.spotify.com/track/7u3J2oavkIdg5JqkVsyz55"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 234040,
       "name": "Body Party",
       "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 406733,
       "name": "Getting Late",
       "url": "https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 163725,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY"

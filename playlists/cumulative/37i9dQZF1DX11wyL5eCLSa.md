@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Bandalos Chinos en portada.
 
-95 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/1V1OHh2gBqHE70WTxIG68y)
+96 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/1V1OHh2gBqHE70WTxIG68y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,8 @@
 | [La Herida](https://open.spotify.com/track/1TmGgQDLKQHm2GzGDjsnFd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Herida](https://open.spotify.com/album/0rer1BBpahM8okGG9wZEBG) | 3:45 | 2022-04-20 |  |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2021-12-17 |  |
 | [La Magia](https://open.spotify.com/track/57Vhb1eZdgfknw62XCJ65F) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/5ooYAFLqUJiXfGzjVgG5N0) | 4:05 | 2021-12-17 |  |
-| [La Tregua](https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [La Tregua](https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE) | 3:52 | 2022-02-24 | 2022-05-08 |
-| [La Última Vez](https://open.spotify.com/track/521P7D3Rg0qIddJYHEtYrm) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [La Última Vez](https://open.spotify.com/album/0ChN0eEv5QQ312SZdNwLIz) | 3:37 | 2022-02-25 | 2022-05-08 |
+| [La Tregua](https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [La Tregua](https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE) | 3:52 | 2022-02-24 |  |
+| [La Última Vez](https://open.spotify.com/track/521P7D3Rg0qIddJYHEtYrm) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [La Última Vez](https://open.spotify.com/album/0ChN0eEv5QQ312SZdNwLIz) | 3:37 | 2022-02-25 |  |
 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 | 2021-12-17 | 2022-05-06 |
 | [Lluvia de Fuego](https://open.spotify.com/track/0xcGGpruM3gbxMtZjyWp1E) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Lluvia de Fuego](https://open.spotify.com/album/1Wp3tH8FxE60ofdJWAP106) | 3:27 | 2022-04-20 |  |
 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 | 2021-12-17 |  |
@@ -59,7 +59,7 @@
 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 | 2021-12-17 | 2022-04-23 |
 | [Mapa](https://open.spotify.com/track/0fRjGR7xRLVF2KmjZv4k2U) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mapa](https://open.spotify.com/album/6di6thiPTa8zxXTHTJRv6m) | 4:28 | 2021-12-17 |  |
 | [Me Sobra la Plata](https://open.spotify.com/track/3igxC0qw663Ip91fIwrU8q) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Me Sobra la Plata](https://open.spotify.com/album/3QeJmMXRGITqC7dARLP7Xy) | 3:44 | 2021-12-17 | 2022-04-30 |
-| [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 | 2022-04-20 |  |
+| [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 | 2022-04-20 | 2022-05-08 |
 | [Melodías Nublados](https://open.spotify.com/track/5ASuoktRXvWLWOjS9YHs6b) | [Build a Vista](https://open.spotify.com/artist/5Rd2pJnoEa82vN30QvIqvX) | [Melodías Nublados](https://open.spotify.com/album/5P10qJonXLknLPrtXbK5qB) | 3:02 | 2022-03-11 | 2022-04-25 |
 | [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 | 2022-03-19 | 2022-05-05 |
 | [Mi Canción](https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Mi Canción](https://open.spotify.com/album/1YcVrh4wME3hr6ZY7yk3d6) | 3:08 | 2022-04-20 | 2022-05-02 |
@@ -70,7 +70,7 @@
 | [No](https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [No](https://open.spotify.com/album/63zjSmsePSeevbbaSB80Ga) | 3:44 | 2021-12-17 |  |
 | [No Olvidamos](https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [No Olvidamos](https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76) | 4:34 | 2022-04-09 |  |
 | [No Te Reconozco](https://open.spotify.com/track/3lTjnw3XxJqKomdvoKU9Yi) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Te Reconozco](https://open.spotify.com/album/2dqyFFqLMcSC8pLnYrJFl2) | 3:48 | 2021-12-17 |  |
-| [Nube Fantasma](https://open.spotify.com/track/0n3GD03oX8uFTknufKX8SZ) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:44 | 2022-04-20 |  |
+| [Nube Fantasma](https://open.spotify.com/track/0n3GD03oX8uFTknufKX8SZ) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:44 | 2022-04-20 | 2022-05-08 |
 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 | 2021-12-17 |  |
 | [Nunca te amé](https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [El Eco de la Nada](https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ) | 3:04 | 2022-04-20 |  |
 | [Náufrago](https://open.spotify.com/track/2tDP8CLX7r9DhSYwGhVkRs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 4:10 | 2021-12-17 |  |
@@ -88,7 +88,7 @@
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2021-12-17 | 2022-04-28 |
 | [SKR](https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 5:11 | 2022-04-20 |  |
 | [Sol@](https://open.spotify.com/track/6VtARaI3I2MMINgcP7wuxJ) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 2:57 | 2022-04-20 |  |
-| [Solución](https://open.spotify.com/track/0Dw0cw0IlMcU93vBohfBQg) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Solución](https://open.spotify.com/album/6RggJpjEC3DQ454brcNJ31) | 3:46 | 2021-12-17 |  |
+| [Solución](https://open.spotify.com/track/0Dw0cw0IlMcU93vBohfBQg) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Solución](https://open.spotify.com/album/6RggJpjEC3DQ454brcNJ31) | 3:46 | 2021-12-17 | 2022-05-08 |
 | [Somos Ajenos](https://open.spotify.com/track/1Z6NUe88dVXBDpWiWpSpie) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:24 | 2021-12-17 |  |
 | [Soy El Diluvio](https://open.spotify.com/track/4vfVB1E2yewHintjHneZkB) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Soy El Diluvio](https://open.spotify.com/album/108rJ8HooRDGGsiPNMwQ3M) | 3:05 | 2022-04-22 |  |
 | [Suburbios](https://open.spotify.com/track/1EwMmSJe5rk0Nd0DiD8v6w) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 4:19 | 2022-04-01 |  |
@@ -103,5 +103,6 @@
 | [Venados Que Empujan el Sol](https://open.spotify.com/track/2rQ8b8VHjtPQYkSGkef4cL) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Venus](https://open.spotify.com/album/3a2JFR914ksbxF42fGzNs5) | 3:29 | 2022-04-29 |  |
 | [Veneno](https://open.spotify.com/track/10c6GaQyw1CoKvF2QGRqaO) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Veneno](https://open.spotify.com/album/6bBafJZObivPsQ2ocLS7oT) | 3:19 | 2021-12-17 |  |
 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2021-12-17 |  |
+| [vitaminas](https://open.spotify.com/track/1uQTZD3fC0WJJW9mogGS13) | [Diego Andlovin](https://open.spotify.com/artist/1chJuOnLfskX7vm5iIXZJ7), [Chavo Cherry](https://open.spotify.com/artist/7ekjgkRxIUo3QGSvcYaX63) | [vitaminas](https://open.spotify.com/album/6wsL8YTGACwO0A8owjdQEv) | 3:15 | 2022-05-08 |  |
 
 \*This playlist was first scraped on 2022-04-22. Prior content cannot be recovered.

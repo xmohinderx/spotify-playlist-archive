@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Amie Blu
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,960 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,977 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 4 | [Another Life](https://open.spotify.com/track/4e5w1dOHgWFSqXlQcPaGJ4) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Another Life](https://open.spotify.com/album/1oA1VlkDQmPW5ypRGWfWqx) | 1:53 |
 | 5 | [Bloodline](https://open.spotify.com/track/0Os4EP2gnCtMA9AYiAmSyZ) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry) | [Bloodline](https://open.spotify.com/album/4jeyvMABoKv55qkpczN80F) | 3:12 |
 | 6 | [Shock Horror](https://open.spotify.com/track/0ofWOCe44FjqlONC70Q96O) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Shock Horror](https://open.spotify.com/album/1Glz4N81uWXrA53rEoDpM9) | 2:26 |
-| 7 | [Hunter Schafer](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Hunter Schafer](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
+| 7 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
 | 8 | [Home To You](https://open.spotify.com/track/2L3d9zBy8Iq8mKIde7cwmJ) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Home To You](https://open.spotify.com/album/7d9uINjyNayVjn00b913Ah) | 3:23 |
 | 9 | [Disarm Me](https://open.spotify.com/track/5Cz82genflMN3SmktrZqqj) | [Blu Ernest](https://open.spotify.com/artist/668Oyt9RTyME7YS4VfrnqK) | [Disarm Me](https://open.spotify.com/album/6WHVlI90S8ir2a9sLFbeAi) | 3:13 |
 | 10 | [Love Me Better](https://open.spotify.com/track/7uUyiqEULRsk8zovqDLLHw) | [The Backup Plan](https://open.spotify.com/artist/2OHdFbFCCK7cuJS02RHbwh) | [Love Me Better](https://open.spotify.com/album/12XJVreIoihBllag1a4LLf) | 4:27 |

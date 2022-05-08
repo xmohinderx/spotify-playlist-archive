@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: kelz Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,614 likes - 71 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,665 likes - 71 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 32 | [Never Find Me Here Again](https://open.spotify.com/track/3F8wDFIkiUqXbuFbC2UZHi) | [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Never Find Me Here Again](https://open.spotify.com/album/7HKlwKYaD4Y5VWhSxO7a78) | 2:55 |
 | 33 | [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 |
 | 34 | [Cry Mfer](https://open.spotify.com/track/5FZc0K8y8Z2w1NJ8NIXKwc) | [My Idea](https://open.spotify.com/artist/7rfkR5Nc8l4eA34a7eazoW) | [CRY MFER](https://open.spotify.com/album/7g4M2kfMKd7bFJbYBPxWTD) | 4:14 |
-| 35 | [Hunter Schafer](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Hunter Schafer](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
+| 35 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
 | 36 | [Over & Again](https://open.spotify.com/track/1TdsZCfivSVDd5JkowqgYz) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Over & Again](https://open.spotify.com/album/1e1qAsUPSLlvBoqYMXkSbN) | 3:07 |
 | 37 | [Green as Ever](https://open.spotify.com/track/1fS0DjwXoyZvKbpm04IP8H) | [Aubrey Haddard](https://open.spotify.com/artist/381YSSMDhVoPemUuyQBJSV) | [Green As Ever](https://open.spotify.com/album/57XF5YCkndNgDxJL3i25e1) | 3:54 |
 | 38 | [Waves](https://open.spotify.com/track/70f04FcqkT4uZiXAy4mJlH) | [Wild Painting](https://open.spotify.com/artist/4XJBPKlKZKYlkgjxOPgo69) | [Emotions](https://open.spotify.com/album/2l44jK6Q5tnQjCUHwmnv28) | 3:53 |

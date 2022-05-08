@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -421,7 +439,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 206657,
       "name": "Come Over (feat. Anne-Marie & Tion Wayne)",
       "url": "https://open.spotify.com/track/4eVU4U063iMLFJFXb9kzkb"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 220173,
       "name": "Don't You Worry About Me",
       "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 204933,
       "name": "Get Out My Head",
       "url": "https://open.spotify.com/track/055Mme9ReKK99jRFA5UJ55"
@@ -2095,7 +2113,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
@@ -2551,7 +2569,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
@@ -3489,7 +3507,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
@@ -3881,7 +3899,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 220196,
       "name": "Take My Breath - Single Version",
       "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
@@ -3943,7 +3961,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
@@ -4489,7 +4507,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"

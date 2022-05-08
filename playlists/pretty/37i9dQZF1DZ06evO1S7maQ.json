@@ -1,15 +1,15 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 500074,
+  "num_followers": 500159,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc1MzIzNzIsMDAwMDAwMDA0YmJiOTNmYTMzM2I3YWE2NmI2N2VhMGI1ZTE4M2UxOA==",
+  "snapshot_id": "Mjc1MzM2MDYsMDAwMDAwMDBkNmU1Yzc1NGZjYmJlM2QzYmRmMzJjY2RiNTU2MTIyOQ==",
   "tracks": [
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
@@ -57,23 +73,7 @@
       "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 288720,
-      "name": "Thunder Road",
-      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -89,7 +89,23 @@
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Thunder Road",
+      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
@@ -121,23 +137,7 @@
       "url": "https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -153,7 +153,23 @@
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "The Rising",
         "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
@@ -185,23 +201,7 @@
       "url": "https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 242453,
-      "name": "Badlands",
-      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -217,7 +217,23 @@
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 242453,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Tracks",
         "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
@@ -249,23 +265,7 @@
       "url": "https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 199066,
-      "name": "Radio Nowhere",
-      "url": "https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -281,7 +281,23 @@
       "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Radio Nowhere",
+      "url": "https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Western Stars",
         "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
@@ -297,23 +313,7 @@
       "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "The Rising",
-      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "The Wild, the Innocent & The E Street Shuffle",
         "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -345,7 +345,39 @@
       "url": "https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "The Rising",
+      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 575653,
+      "name": "Jungleland",
+      "url": "https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Chinatown (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
@@ -365,55 +397,7 @@
       "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 575653,
-      "name": "Jungleland",
-      "url": "https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Atlantic City",
-      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 412973,
-      "name": "Racing in the Street",
-      "url": "https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Bruce Springsteen & The E Street Band Live 1975-85",
         "url": "https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD"
@@ -429,7 +413,23 @@
       "url": "https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
@@ -445,7 +445,23 @@
       "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 412973,
+      "name": "Racing in the Street",
+      "url": "https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
@@ -461,39 +477,7 @@
       "url": "https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Tunnel of Love",
-      "url": "https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 268453,
-      "name": "The Promised Land",
-      "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Greetings from Asbury Park, N.J.",
         "url": "https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C"
@@ -509,7 +493,7 @@
       "url": "https://open.spotify.com/track/1VyDQtfhX6gqhWTGU7Oe8X"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
@@ -525,7 +509,23 @@
       "url": "https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 268453,
+      "name": "The Promised Land",
+      "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/5JgS0FY22HtNpFAJTo507k"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Strictly A One-Eyed Jack",
         "url": "https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/0bsFL9VF0BQCIvF2cRn0Sk"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Western Stars",
         "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/0Tk2agqmwJajtoX6sCxngb"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Nebraska",
         "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
@@ -625,7 +625,23 @@
       "url": "https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Tunnel of Love",
+      "url": "https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
@@ -641,39 +657,7 @@
       "url": "https://open.spotify.com/track/1SlatjHQbN3SO0JERD4Mwk"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Tracks",
-        "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "When You Need Me - Studio Outtake - 1987",
-      "url": "https://open.spotify.com/track/34oYzILaNsdFPt48Yeb8aq"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "The Essential Bruce Springsteen (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/0ckFRgB1okAecdcOhdkrZL"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "Trapped - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",
-      "url": "https://open.spotify.com/track/5xYCSEP2FWHMkVun6GIyDk"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "The Ghost Of Tom Joad",
         "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
@@ -689,7 +673,39 @@
       "url": "https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Tracks",
+        "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "When You Need Me - Studio Outtake - 1987",
+      "url": "https://open.spotify.com/track/34oYzILaNsdFPt48Yeb8aq"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "The Essential Bruce Springsteen (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0ckFRgB1okAecdcOhdkrZL"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "Trapped - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",
+      "url": "https://open.spotify.com/track/5xYCSEP2FWHMkVun6GIyDk"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
@@ -700,28 +716,12 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 354813,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
+      "duration_ms": 295493,
+      "name": "Letter To You",
+      "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 272040,
-      "name": "Adam Raised a Cain",
-      "url": "https://open.spotify.com/track/39J5RXFJG6MCjHql3a0Hat"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
@@ -737,7 +737,23 @@
       "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 272040,
+      "name": "Adam Raised a Cain",
+      "url": "https://open.spotify.com/track/39J5RXFJG6MCjHql3a0Hat"
+    },
+    {
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Tracks",
         "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
@@ -753,10 +769,10 @@
       "url": "https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
       "artists": [
         {
@@ -764,12 +780,12 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Out In the Street",
-      "url": "https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG"
+      "duration_ms": 354813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "The Rising",
         "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/5aAfwNuKUeDuZd4wkUPlA2"
     },
     {
-      "added_at": "2022-05-07 16:52:26",
+      "added_at": "2022-05-08 13:26:48",
       "album": {
         "name": "Dustland (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG"
@@ -803,22 +819,6 @@
       "duration_ms": 264507,
       "name": "Dustland (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c"
-    },
-    {
-      "added_at": "2022-05-07 16:52:26",
-      "album": {
-        "name": "Letter To You",
-        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 295493,
-      "name": "Letter To You",
-      "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

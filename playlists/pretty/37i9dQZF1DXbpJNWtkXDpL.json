@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTk3MTk5MCwwMDAwMDAwMDc5MWUwODUxOTQxYWY4NWRjNDA4NTY3NjE1Y2FlMDRl",
+  "snapshot_id": "MTY1MjA0MTQ0MiwwMDAwMDAwMDk3NThlMTliMGIyNTVjYmFlZmJkNjU2MWExZTA5MWI4",
   "tracks": [
     {
       "added_at": "2021-11-10 05:08:01",
@@ -163,18 +163,42 @@
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/2izPga5hTYeQoST4IxzoEE"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
         }
       ],
-      "duration_ms": 196363,
-      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
+      "duration_ms": 168000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4f07s0huRslrHqfO36G8D1"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Gitana Kamp, Vol. I",
+        "url": "https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        },
+        {
+          "name": "Gitana Kamp",
+          "url": "https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Se Siente Bien",
+      "url": "https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ"
     },
     {
       "added_at": "2021-10-01 17:57:27",
@@ -199,22 +223,6 @@
       "duration_ms": 208868,
       "name": "Mitos",
       "url": "https://open.spotify.com/track/3dkXRCYTbrzq9MUInZovMR"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Qu\u00e9dame",
-        "url": "https://open.spotify.com/album/2suU0mvs2EMYre0h28MZ14"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 169991,
-      "name": "Qu\u00e9dame",
-      "url": "https://open.spotify.com/track/6vLpthP41nttqYeyhyBFNx"
     },
     {
       "added_at": "2021-10-01 17:57:27",
@@ -271,50 +279,50 @@
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
+      "duration_ms": 211746,
+      "name": "tarde",
+      "url": "https://open.spotify.com/track/2snboRLa5IkMkMAohyxEYN"
     },
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "No Voy A Llorar",
-        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
+        "name": "Maviri",
+        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
         }
       ],
-      "duration_ms": 197253,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
+      "duration_ms": 135797,
+      "name": "Maviri",
+      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
     },
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "Soy Un Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/2sYKhPMNMnZRlpxR64qE6K"
+        "name": "Del Corazon",
+        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 137833,
-      "name": "Soy Un Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/1xXXDSbb411DEeiRAsmmVg"
+      "duration_ms": 245201,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
     },
     {
       "added_at": "2021-10-01 17:57:27",
@@ -351,54 +359,34 @@
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "Gitana Kamp, Vol. I",
-        "url": "https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2"
+        "name": "Dueles Tan Bien",
+        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        },
-        {
-          "name": "Gitana Kamp",
-          "url": "https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 146840,
-      "name": "Se Siente Bien",
-      "url": "https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ"
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
     },
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "De Lao Remix",
-        "url": "https://open.spotify.com/album/3spAK93c7mgN7sbLIqR3cB"
+        "name": "Bala",
+        "url": "https://open.spotify.com/album/5DIt7H7sEewJM3UyJi7CtN"
       },
       "artists": [
         {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Fran Zata",
-          "url": "https://open.spotify.com/artist/38qrFBs12feiiLMMcLWekk"
-        },
-        {
-          "name": "Elvis de Yongol",
-          "url": "https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg"
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
         }
       ],
-      "duration_ms": 254526,
-      "name": "De Lao Remix",
-      "url": "https://open.spotify.com/track/0xvrNtfjeNn8Ueug6eXzrY"
+      "duration_ms": 196100,
+      "name": "Bala",
+      "url": "https://open.spotify.com/track/2SLmi9sJHUODT4QNDcpCZF"
     },
     {
       "added_at": "2021-10-01 17:57:27",
@@ -419,126 +407,86 @@
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "T\u00e1cto",
-        "url": "https://open.spotify.com/album/1IP1x69fYxKkWt7K64Rzia"
+        "name": "tuviste",
+        "url": "https://open.spotify.com/album/6MCEy8eBUXCoT7r2InLlxC"
       },
       "artists": [
         {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 187142,
-      "name": "T\u00e9nis Nuevos",
-      "url": "https://open.spotify.com/track/5QyRPUTB2OIXmQd9ovrrFV"
+      "duration_ms": 234613,
+      "name": "tuviste",
+      "url": "https://open.spotify.com/track/7GF3A4qaws52KBcxUB1Owl"
     },
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "Maviri",
-        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
+        "name": "Soy Un Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/2sYKhPMNMnZRlpxR64qE6K"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 135797,
-      "name": "Maviri",
-      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
+      "duration_ms": 137833,
+      "name": "Soy Un Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/1xXXDSbb411DEeiRAsmmVg"
     },
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "Alma Vac\u00eda",
-        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
+        "name": "WiFi",
+        "url": "https://open.spotify.com/album/7j9bryut6U7Qxc0Z4zHLFZ"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Nicole Gatti",
+          "url": "https://open.spotify.com/artist/4j0wOwaGxwpKs2xrtvXqHE"
         }
       ],
-      "duration_ms": 214148,
-      "name": "Est\u00e1 Da\u00f1ada",
-      "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
+      "duration_ms": 131162,
+      "name": "WiFi",
+      "url": "https://open.spotify.com/track/2EagRPSXniHG3HAzQd8HUb"
     },
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "Venus",
-        "url": "https://open.spotify.com/album/7B5wZ550fbqIhhB850XlML"
+        "name": "Naona",
+        "url": "https://open.spotify.com/album/0GVmPDtsGwp9YEg5DTLmb9"
       },
       "artists": [
         {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 149706,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/6WiiqABNefc4RZTVmjHZQm"
+      "duration_ms": 231634,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/18Lr7Xdiv9h6p0xaCo4eXk"
     },
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "Juego",
-        "url": "https://open.spotify.com/album/3fdbDPJG25YDPto5pWqEP0"
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
       },
       "artists": [
         {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         },
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
         }
       ],
-      "duration_ms": 213253,
-      "name": "Juego",
-      "url": "https://open.spotify.com/track/4L8UrMGwneCQc71x2fPZSf"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Braille EP",
-        "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Sopa de Letritas",
-      "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Todo Mal",
-        "url": "https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Todo Mal",
-      "url": "https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2"
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2021-10-01 17:57:27",
@@ -563,18 +511,34 @@
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+        "name": "Qu\u00e9dame",
+        "url": "https://open.spotify.com/album/2suU0mvs2EMYre0h28MZ14"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
         }
       ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+      "duration_ms": 169991,
+      "name": "Qu\u00e9dame",
+      "url": "https://open.spotify.com/track/6vLpthP41nttqYeyhyBFNx"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Bitches and Ceviches",
+        "url": "https://open.spotify.com/album/286q229FNIyWuqzpOanl35"
+      },
+      "artists": [
+        {
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Bitches and Ceviches",
+      "url": "https://open.spotify.com/track/3W9JZp5dMeW8XN69AhUg4I"
     },
     {
       "added_at": "2021-10-01 17:57:27",
@@ -595,18 +559,34 @@
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "tuviste",
-        "url": "https://open.spotify.com/album/6MCEy8eBUXCoT7r2InLlxC"
+        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 234613,
-      "name": "tuviste",
-      "url": "https://open.spotify.com/track/7GF3A4qaws52KBcxUB1Owl"
+      "duration_ms": 196363,
+      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2021-10-01 17:57:27",
@@ -623,6 +603,158 @@
       "duration_ms": 219760,
       "name": "Cohete",
       "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Todo Mal",
+        "url": "https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Todo Mal",
+      "url": "https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "mal h\u00e1bito",
+        "url": "https://open.spotify.com/album/1g97X142nn80EasWdLzSY0"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "duration_ms": 163703,
+      "name": "mal h\u00e1bito",
+      "url": "https://open.spotify.com/track/1AzlfoYVmdcbEVd3vrHeAm"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Lluvia Y Sol",
+        "url": "https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/5Vt0uiNvaZNPCqeoDSTavW"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Petite Amie",
+        "url": "https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 202791,
+      "name": "Sume\u0301rgete",
+      "url": "https://open.spotify.com/track/4e3DsTwu1VOzh0Su0OKp1A"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Me Vale",
+        "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Me Vale",
+      "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Ausente",
+        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Perd\u00f3n (Acabo de ver tu llamada)",
+      "url": "https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Vayay\u00f3",
+        "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Vayay\u00f3",
+      "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/6a9KLmmB85CuT8HTUbhbzf"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 200388,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/2XPbUr8BK8hfYdTWrBWT9g"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/13IbL92WpR5qUSkcATB6f9"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        },
+        {
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/3zJzmTv0WxHCXIT5GT84S3"
     },
     {
       "added_at": "2021-10-01 17:57:27",
@@ -647,152 +779,8 @@
     {
       "added_at": "2021-10-01 17:57:27",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/6a9KLmmB85CuT8HTUbhbzf"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 200388,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/2XPbUr8BK8hfYdTWrBWT9g"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "VAYU",
-        "url": "https://open.spotify.com/album/6u3eUX1lYrI7siwwc10d4p"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 156904,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6UdltNPsNpVXOjeyYiT9yH"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Ausente",
-        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Perd\u00f3n (Acabo de ver tu llamada)",
-      "url": "https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Me Vale",
-        "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Me Vale",
-      "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Lluvia Y Sol",
-        "url": "https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/5Vt0uiNvaZNPCqeoDSTavW"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Agarr\u00e9 Monte",
-        "url": "https://open.spotify.com/album/3Y6MtcgsnEMEzIiHlkd1al"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 244656,
-      "name": "Agarr\u00e9 Monte",
-      "url": "https://open.spotify.com/track/16pevCru1tA6pwRsxGwUDu"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "tarde",
-      "url": "https://open.spotify.com/track/2snboRLa5IkMkMAohyxEYN"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Naona",
-        "url": "https://open.spotify.com/album/0GVmPDtsGwp9YEg5DTLmb9"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 231634,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/18Lr7Xdiv9h6p0xaCo4eXk"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "mal h\u00e1bito",
-        "url": "https://open.spotify.com/album/1g97X142nn80EasWdLzSY0"
-      },
-      "artists": [
-        {
-          "name": "Salma",
-          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
-        }
-      ],
-      "duration_ms": 163703,
-      "name": "mal h\u00e1bito",
-      "url": "https://open.spotify.com/track/1AzlfoYVmdcbEVd3vrHeAm"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Bitches and Ceviches",
-        "url": "https://open.spotify.com/album/286q229FNIyWuqzpOanl35"
+        "name": "Calamidad",
+        "url": "https://open.spotify.com/album/6y1vBRKPKLwgKlVin1kvdO"
       },
       "artists": [
         {
@@ -800,57 +788,9 @@
           "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
         }
       ],
-      "duration_ms": 244500,
-      "name": "Bitches and Ceviches",
-      "url": "https://open.spotify.com/track/3W9JZp5dMeW8XN69AhUg4I"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Bla Bla Bla",
-        "url": "https://open.spotify.com/album/4Af6gTIXQsJBx6cvZuVcbX"
-      },
-      "artists": [
-        {
-          "name": "Nicole Gatti",
-          "url": "https://open.spotify.com/artist/4j0wOwaGxwpKs2xrtvXqHE"
-        }
-      ],
-      "duration_ms": 177341,
-      "name": "Bla Bla Bla",
-      "url": "https://open.spotify.com/track/5PumxyOcCU7vI3mseSg9fe"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Ausente",
-        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 202391,
-      "name": "Nunca me encontr\u00e9 ;(",
-      "url": "https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ"
-    },
-    {
-      "added_at": "2021-10-01 17:57:27",
-      "album": {
-        "name": "Vayay\u00f3",
-        "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Vayay\u00f3",
-      "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
+      "duration_ms": 195000,
+      "name": "Calamidad",
+      "url": "https://open.spotify.com/track/6053PBltVrWgwkTZAS0FF3"
     },
     {
       "added_at": "2021-10-01 17:57:27",
@@ -875,6 +815,58 @@
       "duration_ms": 219011,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/1ubAvhXZgD7MT5aKtvNKzQ"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Alma Vac\u00eda",
+        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 214148,
+      "name": "Est\u00e1 Da\u00f1ada",
+      "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "Braille EP",
+        "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Bien Dec\u00eda Mam\u00e1",
+      "url": "https://open.spotify.com/track/1Z0V0J7DHEIzUgb4kJ5boM"
+    },
+    {
+      "added_at": "2021-10-01 17:57:27",
+      "album": {
+        "name": "No Voy A Llorar",
+        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
     }
   ],
   "unique_name": "Radar M\u00e9xico",

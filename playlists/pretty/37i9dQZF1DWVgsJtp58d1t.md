@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,121 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,218 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 |
-| 2 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
+| 2 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
 | 3 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
 | 4 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 |
 | 5 | [UP](https://open.spotify.com/track/2yayJdN0THmDy3Cco1TZtI) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [UP](https://open.spotify.com/album/6bBIifv9VnIVRPKTKQjyBP) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Fool In Love](https://open.spotify.com/track/20WDv1X4tp93CoTYA71eiB) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Fool In Love](https://open.spotify.com/album/5NGoaWPpVG2Q2LiAdoFoJN) | 3:20 |
 | 100 | [restless](https://open.spotify.com/track/4Rgf41ic8OWW0Ah19yQAVC) | [Finding Neo](https://open.spotify.com/artist/1cCSaRtUGbb4ox3zMhqfPh) | [no man is an island](https://open.spotify.com/album/3lVVg98XNvwy64Kz22i1Qq) | 4:08 |
 
-Snapshot ID: `MTY1MTk3MTQzOSwwMDAwMDAwMDFkYjJiYjcwZmNmMzZjZmJlN2FlNGU0NjVlNWY5YmU1`
+Snapshot ID: `MTY1MjA0MDc4NywwMDAwMDAwMDFkYjJiYjcwZmNmMzZjZmJlN2FlNGU0NjVlNWY5YmU1`

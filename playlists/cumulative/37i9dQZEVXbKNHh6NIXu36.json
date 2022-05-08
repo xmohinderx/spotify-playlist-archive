@@ -915,7 +915,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 224801,
       "name": "Angst",
       "url": "https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg"
@@ -2571,7 +2571,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -3537,7 +3537,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -5156,6 +5156,28 @@
     },
     {
       "album": {
+        "name": "Gad",
+        "url": "https://open.spotify.com/album/6c5nd7pqMPv1fWFxPn0r9P"
+      },
+      "artists": [
+        {
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D"
+        },
+        {
+          "name": "Nucci",
+          "url": "https://open.spotify.com/artist/3YNm5MBjwq1QDeKQJq7wze"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161647,
+      "name": "Gad",
+      "url": "https://open.spotify.com/track/02eHtj2HTytLQLNkMZGDwp"
+    },
+    {
+      "album": {
         "name": "Sampler 5",
         "url": "https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG"
       },
@@ -5741,7 +5763,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -7301,7 +7323,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 139574,
       "name": "Je M'appelle",
       "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
@@ -16109,7 +16131,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 142000,
       "name": "You're My Heart, You're My Soul",
       "url": "https://open.spotify.com/track/3id8kxAfWtgSiKq2wuwPSu"
@@ -16247,7 +16269,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-08",
       "duration_ms": 244365,
       "name": "Zick Zack",
       "url": "https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N"

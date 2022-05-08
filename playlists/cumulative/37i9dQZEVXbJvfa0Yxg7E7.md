@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-623 songs - 1 day 8 hr 51 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+624 songs - 1 day 8 hr 54 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-03-25 | 2022-05-08 |
 | [BLI HER](https://open.spotify.com/track/6ZHBrqSMHTzK8s8bkDcshM) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [BLI HER](https://open.spotify.com/album/3Q5Lk8enCvr2FXqo65Y46j) | 3:02 | 2021-08-08 | 2021-08-09 |
 | [Bli Hos Meg](https://open.spotify.com/track/3bf30UMAYF7RhuTs9BJ3Ht) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bli Hos Meg](https://open.spotify.com/album/5r6poYKSPlGnknUSBxI83c) | 2:25 | 2022-01-31 | 2022-02-04 |
-| [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-07 |  |
+| [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-07 | 2022-05-08 |
 | [BlimE! – Dynamitt](https://open.spotify.com/track/3xuyh4bAIuN0oIWPMqoXog) | [Nicolay Ramm](https://open.spotify.com/artist/5VD5GCCQ2hh0m7ufVlmcue) | [BlimE! – Dynamitt](https://open.spotify.com/album/7d0pF7MVf4wBCpdmqtGBoL) | 2:49 | 2021-08-20 | 2021-11-30 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2022-01-08 |
 | [Blod & Tårer](https://open.spotify.com/track/2cwxcpFpwwxW3DZf7PUjv9) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Hank von Hell](https://open.spotify.com/artist/1Vjz6xbcJhHF5niFrLWpuX) | [Blod & Tårer](https://open.spotify.com/album/66lrtqecITvzQ29K9ctGgJ) | 2:41 | 2021-12-18 | 2021-12-19 |
@@ -108,6 +108,7 @@
 | [Cover Me In Sunshine](https://open.spotify.com/track/0UKUfxIkDAMZz7hMdiVX3m) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [All I Know So Far: Setlist](https://open.spotify.com/album/061vVdNVxwouz0INdQeOkn) | 2:18 | 2021-05-23 | 2021-10-23 |
 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 | 2021-04-20 | 2021-05-23 |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-04-09 | 2022-04-17 |
+| [Creem 2022](https://open.spotify.com/track/2Ah0Z0ZFAhmfyJAakATMCR) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Creem 2022](https://open.spotify.com/album/1kUJ01Nycm2oNLal6zayRj) | 3:32 | 2022-05-08 |  |
 | [Creme De La Creme](https://open.spotify.com/track/1beuDJXaekLPtvX1jQe0yx) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Creme De La Creme](https://open.spotify.com/album/3YXiOI3RPhaj41mMCjHl1y) | 2:39 | 2021-04-26 | 2022-02-01 |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-26 |
 | [Da det var oss](https://open.spotify.com/track/2mtC4zyp4Dn3GaoGonrWax) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Da det var oss](https://open.spotify.com/album/5ZNnY5Cmp6mycztZY5HLye) | 3:07 | 2022-01-22 | 2022-02-06 |
