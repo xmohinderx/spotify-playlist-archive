@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 274200,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/1JxNWpK9xTWKRPoYTIX4Qk"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 182906,
       "name": "Cacti For Clothes",
       "url": "https://open.spotify.com/track/4JlIPmUjRmw9fmkEoV1Tmm"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 263880,
       "name": "Caf\u00e9 Amarillo",
       "url": "https://open.spotify.com/track/13KkPgATUmUh4b1vWjkNTB"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 252960,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v"
@@ -1885,7 +1885,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 223438,
       "name": "Mr. Rodriguez",
       "url": "https://open.spotify.com/track/05D9VMb7x06OJHZV2TGUBX"
@@ -2426,6 +2426,24 @@
     },
     {
       "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195733,
+      "name": "Oxford Comma",
+      "url": "https://open.spotify.com/track/1CZw0Lymzi2Lvy1XZ6rXh5"
+    },
+    {
+      "album": {
         "name": "Packed Powder",
         "url": "https://open.spotify.com/album/7n5cBc4GxUh8ZAzzkWcNgS"
       },
@@ -2635,7 +2653,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 188410,
       "name": "Ruin Your Night",
       "url": "https://open.spotify.com/track/6WkUf2gOjccjhJOvFeHx57"
@@ -3511,7 +3529,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 201352,
       "name": "Under The Table",
       "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY"
@@ -3655,7 +3673,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 226026,
       "name": "Wheat",
       "url": "https://open.spotify.com/track/32llT8SkveTa0gbqMTi204"

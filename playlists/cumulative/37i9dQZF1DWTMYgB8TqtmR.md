@@ -4,12 +4,13 @@
 
 > It's Hits \- bästa och största hitsen just nu.
 
-149 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
+150 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [070\-xxxx xxx](https://open.spotify.com/track/4O3yim026F1AwaPevgl9xs) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Höghusdrömmar/070\-xxxx xxx](https://open.spotify.com/album/6LH0TF7elitnmWQ5n0znPb) | 4:00 | 2022-03-18 | 2022-04-01 |
 | [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2021-12-16 | 2022-02-11 |
+| [2step \(feat\. 1.Cuz\)](https://open.spotify.com/track/4lzEs26mJHbvj9TIIJZPRS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/album/57FHPyAprjWD6mXaY5gE1f) | 2:33 | 2022-05-08 |  |
 | [30 personer](https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [30 personer](https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1) | 2:49 | 2022-01-20 | 2022-03-25 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-16 | 2022-05-04 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-14 |  |
@@ -102,7 +103,7 @@
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-03 |  |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-12-16 | 2022-04-29 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-12-16 | 2022-02-25 |
-| [OSKYLDIG](https://open.spotify.com/track/0hskCfpMard3HRGvZbP0m7) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 3:09 | 2022-04-28 |  |
+| [OSKYLDIG](https://open.spotify.com/track/0hskCfpMard3HRGvZbP0m7) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 3:09 | 2022-04-28 | 2022-05-09 |
 | [Pengar Bänga](https://open.spotify.com/track/0wZjEtjXpkoO3PGjCsvF3Y) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:07 | 2022-05-03 |  |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-12-16 | 2022-05-07 |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2021-12-28 | 2022-03-03 |

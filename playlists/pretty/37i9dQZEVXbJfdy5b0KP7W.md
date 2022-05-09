@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJfdy5b0KP7W.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Peru.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,313 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,334 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "A dose of high energy, feel-good rock tunes. Press play and let the good vibes come your way.",
-  "num_followers": 611768,
+  "num_followers": 611777,
   "original_name": "Rock Me UP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA0MTAwMSwwMDAwMDAwMGI5YmI4NDg4MzU0YjI0MmZjMGY1ZjQ2YzczNTcyNmUy",
+  "snapshot_id": "MTY1MjA1ODI2NCwwMDAwMDAwMGVkZjI0ZDJiOWM0YzIxNjY1NzAyOTQ3MGFhOTc5Mjc3",
   "tracks": [
     {
       "added_at": "2022-04-08 18:45:59",
@@ -43,34 +43,46 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "Have You Heard",
-        "url": "https://open.spotify.com/album/6lu5Z4nCRAbJqz1DuccCKQ"
+        "name": "The Atlas Underground Flood",
+        "url": "https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6"
       },
       "artists": [
         {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Could Have Been Me",
-      "url": "https://open.spotify.com/track/7bjgoIjY4tl0KVexQVpANn"
+      "duration_ms": 184391,
+      "name": "Human (feat. Barns Courtney)",
+      "url": "https://open.spotify.com/track/5jPWuLGRcVDU50pyTCEjQL"
     },
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "Enemies",
-        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
+        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
       "artists": [
         {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 161592,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
+      "duration_ms": 207280,
+      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -111,22 +123,6 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
         "name": "So Called Life",
         "url": "https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW"
       },
@@ -139,66 +135,6 @@
       "duration_ms": 206276,
       "name": "So Called Life",
       "url": "https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
-        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        },
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
-      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "The Atlas Underground Flood",
-        "url": "https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 184391,
-      "name": "Human (feat. Barns Courtney)",
-      "url": "https://open.spotify.com/track/5jPWuLGRcVDU50pyTCEjQL"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -219,6 +155,38 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
+        "name": "Have You Heard",
+        "url": "https://open.spotify.com/album/6lu5Z4nCRAbJqz1DuccCKQ"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/7bjgoIjY4tl0KVexQVpANn"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
         "name": "Wild Child",
         "url": "https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb"
       },
@@ -231,6 +199,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -251,18 +235,18 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9"
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
       },
       "artists": [
         {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 163260,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy"
+      "duration_ms": 161592,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -287,54 +271,18 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 223173,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/07GYummphjTwkCjNfJvIca"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
-        "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Life's Coming in Slow - from GRAN TURISMO 7",
-      "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
+      "duration_ms": 239103,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/37FjxvMhMjt3YRecpx7HsC"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -363,90 +311,6 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "hollywood sucks//",
-        "url": "https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 153040,
-      "name": "hollywood sucks//",
-      "url": "https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Black Summer",
-        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Black Smoke Rising",
-        "url": "https://open.spotify.com/album/5EdoKUVmBOKefEmfzbpiOW"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 181213,
-      "name": "Highway Tune",
-      "url": "https://open.spotify.com/track/6LG5yHz0f1NfINREp1QsMI"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 239103,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/37FjxvMhMjt3YRecpx7HsC"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Monkey Wrench",
-      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
         "name": "bloody valentine",
         "url": "https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz"
       },
@@ -463,18 +327,34 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "Won\u2019t Stand Down",
-        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 209061,
-      "name": "Won\u2019t Stand Down",
-      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
+      "duration_ms": 223173,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -499,22 +379,90 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "debbie downer",
-        "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        },
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 159617,
-      "name": "debbie downer",
-      "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "hollywood sucks//",
+        "url": "https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 153040,
+      "name": "hollywood sucks//",
+      "url": "https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
+        "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Life's Coming in Slow - from GRAN TURISMO 7",
+      "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/07GYummphjTwkCjNfJvIca"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 163260,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -535,18 +483,18 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "Internet Killed The Rockstar",
-        "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
       "artists": [
         {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 159393,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d"
+      "duration_ms": 231480,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -567,66 +515,34 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "Everything's Electric",
-        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
       "artists": [
         {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
         }
       ],
-      "duration_ms": 216859,
-      "name": "Everything's Electric",
-      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+      "duration_ms": 280466,
+      "name": "Joker And The Thief",
+      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
     },
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
+        "name": "Black Smoke Rising",
+        "url": "https://open.spotify.com/album/5EdoKUVmBOKefEmfzbpiOW"
       },
       "artists": [
         {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
         }
       ],
-      "duration_ms": 169026,
-      "name": "My Own Worst Enemy",
-      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Prescription Kid",
-        "url": "https://open.spotify.com/album/1fR0QXuE9xmQwvQKkYcNpi"
-      },
-      "artists": [
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Prescription Kid",
-      "url": "https://open.spotify.com/track/043IjYujEo3sEDuaBtWzu0"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "THE DEATH OF PEACE OF MIND",
-        "url": "https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 210685,
-      "name": "Like A Villain",
-      "url": "https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E"
+      "duration_ms": 181213,
+      "name": "Highway Tune",
+      "url": "https://open.spotify.com/track/6LG5yHz0f1NfINREp1QsMI"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -647,50 +563,66 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
       "artists": [
         {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
         }
       ],
-      "duration_ms": 280466,
-      "name": "Joker And The Thief",
-      "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
+      "duration_ms": 169026,
+      "name": "My Own Worst Enemy",
+      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
     },
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "The Devil's Bleeding Crown",
-        "url": "https://open.spotify.com/album/1uIzWwjfdmYDHlM2hrZyak"
+        "name": "Internet Killed The Rockstar",
+        "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 238653,
-      "name": "The Devil's Bleeding Crown",
-      "url": "https://open.spotify.com/track/58q4ZkagWkDV16Sehqx6AF"
+      "duration_ms": 159393,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d"
     },
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "This Album Does Not Exist",
-        "url": "https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf"
+        "name": "Prescription Kid",
+        "url": "https://open.spotify.com/album/1fR0QXuE9xmQwvQKkYcNpi"
       },
       "artists": [
         {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
         }
       ],
-      "duration_ms": 202626,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/15BsrefgYpMgu1ZCIr8EJw"
+      "duration_ms": 208600,
+      "name": "Prescription Kid",
+      "url": "https://open.spotify.com/track/043IjYujEo3sEDuaBtWzu0"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Everything's Electric",
+        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Everything's Electric",
+      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -711,66 +643,38 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "Bury Me",
-        "url": "https://open.spotify.com/album/7FoQtty0uxiFSqH0DqYFxT"
+        "name": "debbie downer",
+        "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
       },
       "artists": [
         {
-          "name": "The Luka State",
-          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        },
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
         }
       ],
-      "duration_ms": 178718,
-      "name": "Bury Me",
-      "url": "https://open.spotify.com/track/62wJuHJ28SLRLem8XMUS8b"
+      "duration_ms": 159617,
+      "name": "debbie downer",
+      "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
     },
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+        "name": "This Album Does Not Exist",
+        "url": "https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
         }
       ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/72pwARfEPXxFN6UXEHcOfe"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 223320,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/4TIa51S5pZ7U9UdqHWqvsx"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Pop Evil",
-        "url": "https://open.spotify.com/album/2zrUlKeTyEhyYulj8Gu8T9"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Be Legendary",
-      "url": "https://open.spotify.com/track/2mVFo8BJ6ZPh82QAOpCUbT"
+      "duration_ms": 202626,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/15BsrefgYpMgu1ZCIr8EJw"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -791,50 +695,18 @@
     {
       "added_at": "2022-04-08 18:45:59",
       "album": {
-        "name": "Born For Greatness",
-        "url": "https://open.spotify.com/album/3GmdjyqCdD62n5JW8ZEfgZ"
+        "name": "The Devil's Bleeding Crown",
+        "url": "https://open.spotify.com/album/1uIzWwjfdmYDHlM2hrZyak"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
         }
       ],
-      "duration_ms": 227847,
-      "name": "Born For Greatness",
-      "url": "https://open.spotify.com/track/2VDdoBA24QICNHn5JkJwyE"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/0BfBwxymSFgSgHf9XH13AK"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "My Friends Over You",
-      "url": "https://open.spotify.com/track/12mF5rnbbT7jNqiBv8NBFt"
-    },
-    {
-      "added_at": "2022-04-08 18:45:59",
-      "album": {
-        "name": "Afraid of Heights",
-        "url": "https://open.spotify.com/album/4Qw31hg9NZ6dVITZb05TRN"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "Afraid of Heights",
-      "url": "https://open.spotify.com/track/0qlgfcFAsrlNCD4tBGVAY9"
+      "duration_ms": 238653,
+      "name": "The Devil's Bleeding Crown",
+      "url": "https://open.spotify.com/track/58q4ZkagWkDV16Sehqx6AF"
     },
     {
       "added_at": "2022-04-08 18:45:59",
@@ -851,6 +723,138 @@
       "duration_ms": 188573,
       "name": "My Songs Know What You Did In The Dark (Light Em Up)",
       "url": "https://open.spotify.com/track/2COhljkZObSdthS0NG5s3B"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Bloodfeather",
+      "url": "https://open.spotify.com/track/66Avcq6c51vcMGXLzHH5d7"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Nothing Left",
+        "url": "https://open.spotify.com/album/7Ga5rDDpZcRVkjTx4fVrm5"
+      },
+      "artists": [
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 122222,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/3PoiPLGqcvVnZUGAzaStv9"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Threat to Survival",
+        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 224596,
+      "name": "Cut the Cord",
+      "url": "https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Born For Greatness",
+        "url": "https://open.spotify.com/album/3GmdjyqCdD62n5JW8ZEfgZ"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 227847,
+      "name": "Born For Greatness",
+      "url": "https://open.spotify.com/track/2VDdoBA24QICNHn5JkJwyE"
+    },
+    {
+      "added_at": "2022-04-08 18:45:59",
+      "album": {
+        "name": "Bury Me",
+        "url": "https://open.spotify.com/album/7FoQtty0uxiFSqH0DqYFxT"
+      },
+      "artists": [
+        {
+          "name": "The Luka State",
+          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+        }
+      ],
+      "duration_ms": 178718,
+      "name": "Bury Me",
+      "url": "https://open.spotify.com/track/62wJuHJ28SLRLem8XMUS8b"
     }
   ],
   "unique_name": "Rock Me UP!",

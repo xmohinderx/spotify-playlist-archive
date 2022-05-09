@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,381 songs - 3 day 8 hr 35 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,382 songs - 3 day 8 hr 40 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1183,6 +1183,7 @@
 | [The Faithful](https://open.spotify.com/track/4EFW29QDYbpOZLYnH6H3GU) | [The Famillian](https://open.spotify.com/artist/0xxeA8tQmQtYpCe2IHmi2a), [Calixte](https://open.spotify.com/artist/5PYXKU2PUFplxNjbE3pYU5) | [The Faithful](https://open.spotify.com/album/7gxaL0UFrpUtHreIc01fyb) | 3:12 | 2020-11-23 | 2020-12-20 |
 | [The Garden](https://open.spotify.com/track/0Ytyiobf5mu8ZldfzLrveA) | [Jubilee](https://open.spotify.com/artist/7zKQ5oAIpVJVatbxtxcTBe) | [The Garden](https://open.spotify.com/album/389Rn5t0Dol8G5aMhTSgnS) | 3:23 | 2019-11-06 | 2019-11-24 |
 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 | 2020-07-28 | 2020-08-12 |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 |  |
 | [The Last Night \(Dancing With You\)](https://open.spotify.com/track/76ZAq6niFYnyC3ZawAeIR5) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [The Last Night \(Dancing With You\)](https://open.spotify.com/album/3mB5vvRnoJFXhaRDIIzwfu) | 3:13 | 2021-06-26 | 2021-07-11 |
 | [The Middle](https://open.spotify.com/track/1LhNYIwU73AoGtQqR0Na4u) | [Stone Jets](https://open.spotify.com/artist/1RqKaZtnoko0n8YpgLNZkx) | [The Middle](https://open.spotify.com/album/40yksFSu3zk5H4LKqv2ZUn) | 3:12 | 2022-01-28 | 2022-02-13 |
 | [The Night is Young \- Remix](https://open.spotify.com/track/2u2RyJu64geXfFL0YMXXPM) | [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt), [Zech Biship](https://open.spotify.com/artist/0rPAd3q71tIiLr8iS2ZHIx) | [With the Gang b/w The Night is Young \(Remix\)](https://open.spotify.com/album/46rZzXplrgOyPR0c8KNMqX) | 2:55 | 2022-01-14 | 2022-01-30 |

@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 373573,
       "name": "AG76",
       "url": "https://open.spotify.com/track/6GfJeNdiwxHAMJKpCm7XKR"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 179413,
       "name": "Ain't Misbehavin'",
       "url": "https://open.spotify.com/track/7yLb6yUwkC3bwms84drCBW"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 350325,
       "name": "Conspiracy Of Things - Live at Konzerthaus, Wien / 2020",
       "url": "https://open.spotify.com/track/1iJOwPfV7Iz5MFHzIjmQCh"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 124480,
       "name": "Mondsee Variations III",
       "url": "https://open.spotify.com/track/0ZsEjFtetgUCLcPoVSzAP7"
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 294565,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/5X2nPyxba3TGrYNsASyJFy"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 272160,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/6bZnoaHOrNF9J2aGcoIY9V"
@@ -1604,6 +1604,24 @@
     },
     {
       "album": {
+        "name": "What's Up?",
+        "url": "https://open.spotify.com/album/6SS2cgPEd6i4CDmFUqg8SB"
+      },
+      "artists": [
+        {
+          "name": "Michel Camilo",
+          "url": "https://open.spotify.com/artist/5FSlmspNfoVInmejanELTq"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305146,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/6WeQHMPW6GuDr7AAlj9QRa"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/0zQPhRfGLyu4cq8Che85vn"
       },
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 136306,
       "name": "the suspension",
       "url": "https://open.spotify.com/track/1k95HDTvVAFMAOOLyq8JgL"
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "Vallons",
       "url": "https://open.spotify.com/track/1vqwg9TlQlIQxZ1iMqiM8a"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 924240,
       "name": "Way Down South Suite - Live At Oslo Jazz Festival / 2008",
       "url": "https://open.spotify.com/track/7oAJeKrYb9QucIgrmfYlIj"

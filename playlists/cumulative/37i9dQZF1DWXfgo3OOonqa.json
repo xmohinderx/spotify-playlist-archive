@@ -102,6 +102,28 @@
     },
     {
       "album": {
+        "name": "2step (feat. 1.Cuz)",
+        "url": "https://open.spotify.com/album/57FHPyAprjWD6mXaY5gE1f"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "2step (feat. 1.Cuz)",
+      "url": "https://open.spotify.com/track/4lzEs26mJHbvj9TIIJZPRS"
+    },
+    {
+      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/79kUSiYCJXGgEvqQbLBZqU"
       },
@@ -3419,7 +3441,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 119028,
       "name": "Louvren",
       "url": "https://open.spotify.com/track/67pftWMvqE65ewl9bKY0C7"

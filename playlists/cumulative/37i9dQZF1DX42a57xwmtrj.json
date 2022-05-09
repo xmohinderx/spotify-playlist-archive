@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 294586,
       "name": "A.D.O.",
       "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 123386,
       "name": "Abuso de autoridad",
       "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 145217,
       "name": "Antes Me Gustabas",
       "url": "https://open.spotify.com/track/0FqtI5YKYauiW4HfBqPPBs"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 253653,
       "name": "El No Lo Mato",
       "url": "https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 252958,
       "name": "El No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/53jLJDQk8rk5GAHXDd0MrW"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 221320,
       "name": "Esta Vez",
       "url": "https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 264733,
       "name": "Jefe De Jefes",
       "url": "https://open.spotify.com/track/6ZVpMSjOgWVn8DYWnt4qTr"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 155852,
       "name": "Juan el Descuartizador",
       "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
@@ -1042,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282773,
+      "name": "La Maquina Del Tiempo",
+      "url": "https://open.spotify.com/track/5kS9UDQMhmoDXLdm2zFYQb"
+    },
+    {
+      "album": {
         "name": "40 A\u00f1os Vol. 1",
         "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
       },
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 194066,
       "name": "Laberinto de la Soledad",
       "url": "https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 199093,
       "name": "No Pinches Mames",
       "url": "https://open.spotify.com/track/6uKMEHRAyURvyleRykDMPg"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 169180,
       "name": "No Todo Es Oro",
       "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 162826,
       "name": "Oye Cantinero",
       "url": "https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129"
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 200388,
       "name": "Por Tu Amor",
       "url": "https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 291426,
       "name": "Que Ser\u00e1 de M\u00ed",
       "url": "https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb"
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 336200,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"

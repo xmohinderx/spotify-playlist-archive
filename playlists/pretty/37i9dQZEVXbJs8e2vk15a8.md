@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,251 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,248 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

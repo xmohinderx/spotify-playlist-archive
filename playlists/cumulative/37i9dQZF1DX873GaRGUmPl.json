@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/3XpXhVtZwqh2eM5d9ieXT5"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/5GAB1X0AJq2EZjxXP9zMFt"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 260573,
       "name": "Are You with Me Now?",
       "url": "https://open.spotify.com/track/04C6HjFwhRtEnh0MQt1DKe"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 202843,
       "name": "Bobbi's Second World",
       "url": "https://open.spotify.com/track/36jrkSaoMja4gKYTuZrpV4"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 300115,
       "name": "Boys In the Better Land",
       "url": "https://open.spotify.com/track/4a0db84JDqxU4bpWjVDKxn"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 223986,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/3dvvQrTIzBbPh5egjpSs1n"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 252818,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/6dux5viG3Ku3IefPx3gFNT"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/3xiMFRYBQL1zxdxbgUmBKI"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 244506,
       "name": "Fill in the Blank",
       "url": "https://open.spotify.com/track/6En18WkJJ7xjxfc2tm7ZrF"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-15",
+      "date_removed": null,
       "duration_ms": 229586,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/3GkIeUXutIw8XnW9ZC3hJ3"
@@ -1281,7 +1281,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 168493,
       "name": "It's Real",
       "url": "https://open.spotify.com/track/1K9YlxsaqEDqTaGHOdPVRJ"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/0Sl8C9oeS3b5Kv9bSvTPDr"
@@ -1742,6 +1742,24 @@
     },
     {
       "album": {
+        "name": "Tell Me How You Really Feel",
+        "url": "https://open.spotify.com/album/3jEJprNMZP5MhTkzPRMOGe"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Nameless, Faceless",
+      "url": "https://open.spotify.com/track/74T1h22lE7yxUyu2UH8MNa"
+    },
+    {
+      "album": {
         "name": "Multi-Love",
         "url": "https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC"
       },
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 251266,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2RtNSM8cPCAOZ5bvQbW6y3"
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 255893,
       "name": "Ready to Start",
       "url": "https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj"
@@ -2221,7 +2239,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 238373,
       "name": "Say Something Loving",
       "url": "https://open.spotify.com/track/728zbo72kOoYdGR3AhNsyF"
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 307697,
       "name": "Should Have Known Better",
       "url": "https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs"
@@ -2473,7 +2491,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 164044,
       "name": "Somewhere Somehow",
       "url": "https://open.spotify.com/track/07w28JF0iYZsJREgD3906I"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 166291,
       "name": "Super Sad Generation",
       "url": "https://open.spotify.com/track/2yWiiFMjGoNoOxLKbuTlsF"
@@ -2869,7 +2887,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 353226,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/4OkML1wIzej3XnT9GONnv5"
@@ -3103,7 +3121,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 212183,
       "name": "Your Best American Girl",
       "url": "https://open.spotify.com/track/7CfwMm7x2HLQ1bllMosD9k"
@@ -3139,7 +3157,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 161293,
       "name": "Your Girlfriend",
       "url": "https://open.spotify.com/track/1f36D2fxgU2Mk1TxS7WhjG"
@@ -3175,7 +3193,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "Youth",
       "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
@@ -3211,7 +3229,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 290720,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/2SNGR7tguWgIR7sWzn40bw"

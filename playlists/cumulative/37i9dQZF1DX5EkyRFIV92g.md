@@ -4,7 +4,7 @@
 
 > This is Kendrick Lamar\. Essential tracks all in one playlist.
 
-41 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/2gURM4VFY4GNBKA4eJjlmx)
+42 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/2gURM4VFY4GNBKA4eJjlmx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [She Needs Me \(Remix\)](https://open.spotify.com/track/6D5GoogBIBMUBlQ1CYTkOH) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Overly Dedicated](https://open.spotify.com/album/7MoLQ8vckhwBbQqEYQTYQC) | 3:15 | 2018-02-19 |  |
 | [Swimming Pools \(Drank\) \- Extended Version](https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:13 | 2018-02-19 |  |
 | [Tammy's Song \(Her Evils\)](https://open.spotify.com/track/3RPK9VQuTsiTySY48ldeqx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/13WjgUEEAQp0d9JqojlWp1) | 2:41 | 2018-02-19 |  |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 |  |
 | [The Law \(feat\. Mac Miller & Rapsody\)](https://open.spotify.com/track/17vQTNbvhpvi92qOnDOFHB) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Do What Thou Wilt.](https://open.spotify.com/album/1CEeqK9sKrE7LzUHeT3bfP) | 5:29 | 2018-02-19 |  |
 | [untitled 07 \| 2014 \- 2016](https://open.spotify.com/track/40IQooNkPRVtn4zlE3ZFpA) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [untitled unmastered.](https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud) | 8:16 | 2018-02-19 |  |
 | [Wat's Wrong \(feat\. Zacari & Kendrick Lamar\)](https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 5:30 | 2018-02-19 |  |

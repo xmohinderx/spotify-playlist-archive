@@ -155,7 +155,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 339360,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6eXViRiXJKufjfzY3Ntxhx"
@@ -292,6 +292,28 @@
     },
     {
       "album": {
+        "name": "Bold Courage",
+        "url": "https://open.spotify.com/album/4YsWa9b3mb4UdSmqEphUp5"
+      },
+      "artists": [
+        {
+          "name": "Waeys",
+          "url": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243448,
+      "name": "Bold Courage",
+      "url": "https://open.spotify.com/track/4GI3rZ9kWxD1h38r9cRz5l"
+    },
+    {
+      "album": {
         "name": "Cardboard Castle (Kev Sheridan Remix)",
         "url": "https://open.spotify.com/album/3er4xta0FEHX3FvGyQCCIf"
       },
@@ -343,7 +365,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 306678,
       "name": "Dahlia",
       "url": "https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz"
@@ -525,7 +547,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 220235,
       "name": "Evolving",
       "url": "https://open.spotify.com/track/0CSosCSVwHqhpxYmYfHExx"
@@ -617,7 +639,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 361579,
       "name": "Gifted Lover",
       "url": "https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N"
@@ -719,7 +741,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 296152,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/54oGAmxvCLF8oHhtynAz1E"
@@ -791,7 +813,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 275752,
       "name": "In Heaven",
       "url": "https://open.spotify.com/track/3pxw9ukOH4Q95Y6NDGg5Eu"
@@ -827,7 +849,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 323708,
       "name": "Just Words",
       "url": "https://open.spotify.com/track/4tPo56YuTnYEFOiuOyZWe5"
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 306453,
       "name": "Rest Assured",
       "url": "https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY"
@@ -1519,7 +1541,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 274003,
       "name": "The Ticket",
       "url": "https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2"
@@ -1607,7 +1629,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 311242,
       "name": "What I Said",
       "url": "https://open.spotify.com/track/1Bu2ICXvqpoCM1cmWTyvrJ"
@@ -1695,7 +1717,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 300011,
       "name": "Would You",
       "url": "https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv"

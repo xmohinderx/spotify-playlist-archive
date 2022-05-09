@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not not not pop\. Cover: Junior Varsity
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,081 likes - 125 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,088 likes - 125 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

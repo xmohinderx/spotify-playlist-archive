@@ -4,7 +4,7 @@
 
 > New joints of the week featuring Jack Harlow, Future, and more\. Cover: A$AP Rocky
 
-714 songs - 1 day 9 hr 34 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+715 songs - 1 day 9 hr 39 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [The Best](https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [The Best](https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj) | 2:32 | 2022-01-14 | 2022-01-22 |
 | [The God Hour](https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The God Hour](https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6) | 2:35 | 2022-04-01 | 2022-04-16 |
 | [The Happy](https://open.spotify.com/track/5e5Tc4ad1BUNHwclgAWMbH) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Happy](https://open.spotify.com/album/5mue8Vi6Sxw3vscmf1Nra1) | 2:33 | 2022-02-11 | 2022-02-19 |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 |  |
 | [The Mob](https://open.spotify.com/track/6NuGhdLQfrYvG5wBnaBnb1) | [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [YNW Bortlen](https://open.spotify.com/artist/5jx69PEwHeFm5MDZ695RIV) | [The Mob](https://open.spotify.com/album/2xrLka9kKRcFwFXCIfkC04) | 3:57 | 2022-03-04 | 2022-03-18 |
 | [The One](https://open.spotify.com/track/42p3DhJW9tC9YRvMsSd8VT) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [The One](https://open.spotify.com/album/53iPXTwxvv6iDhryLzjx3R) | 3:14 | 2022-03-11 | 2022-03-18 |
 | [THE REV3NGE](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [THE REV3NGE](https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1) | 2:27 | 2022-01-14 | 2022-01-29 |

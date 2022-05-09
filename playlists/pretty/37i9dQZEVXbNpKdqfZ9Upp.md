@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNpKdqfZ9Upp.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Honduras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,018 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,017 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

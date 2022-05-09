@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,491 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,509 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | [Rich](https://open.spotify.com/track/6MwfLRJcaqNQo8C215lT6k) | [Brian John Harwood](https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4), [Alli Walker](https://open.spotify.com/artist/0Nxzbyp5zDObdMurJZ7g5C), [Chris Labelle](https://open.spotify.com/artist/2gODSRZYGlEFhWNTfG5KJL) | [Rich](https://open.spotify.com/album/5Di3FdznilS153snIRehXk) | 3:14 |
 | 100 | ['Til I Found You](https://open.spotify.com/track/5F8fkq6eg0P2n51hWOwcVM) | [David Boyd Janes](https://open.spotify.com/artist/5GxnWuuTpzdnPb57PFxUHM) | [Drove Me Country](https://open.spotify.com/album/5C3a2kGzGVYlWgkWUsp6vD) | 3:19 |
 
-Snapshot ID: `MTY1MjA0MDY1NSwwMDAwMDAwMDEyMjVjMWMxZmIyYTY2NGEwZTQ0Y2U3ZmEwYWZjODI5`
+Snapshot ID: `MTY1MjA1Nzk3NywwMDAwMDAwMDEyMjVjMWMxZmIyYTY2NGEwZTQ0Y2U3ZmEwYWZjODI5`

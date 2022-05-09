@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 510710,
+  "num_followers": 510742,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA0MTQ5MywwMDAwMDAwMDFmYjFhZDQ3MzViNmUwYzNjN2M5NzE3ZmVhYWVkOWJh",
+  "snapshot_id": "MTY1MjA1ODY2OCwwMDAwMDAwMDRhN2UwOTllMzYzNDc3YzI5YTczOTRjMDNkNmZjMWZh",
   "tracks": [
     {
       "added_at": "2021-12-07 10:22:45",
@@ -107,38 +107,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "The Number of the Beast (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Run to the Hills - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Love At First Sting (Deluxe Edition)",
         "url": "https://open.spotify.com/album/14kTyafNZvlbn586zryGww"
       },
@@ -167,6 +135,22 @@
       "duration_ms": 166920,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Girls, Girls, Girls",
+        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/41wWrTueWew7qUU0Ru87Mp"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -203,34 +187,34 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Girls, Girls, Girls",
-        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
         }
       ],
-      "duration_ms": 281960,
-      "name": "Wild Side",
-      "url": "https://open.spotify.com/track/41wWrTueWew7qUU0Ru87Mp"
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 269800,
-      "name": "Fuel",
-      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ"
+      "duration_ms": 233506,
+      "name": "Run to the Hills - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -267,66 +251,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 310080,
-      "name": "You've Got Another Thing Coming",
-      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Four by Four",
-        "url": "https://open.spotify.com/album/14AFtH2Uz9inwnJpuJtdlK"
-      },
-      "artists": [
-        {
-          "name": "Backyard Babies",
-          "url": "https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Th1rt3en or Nothing",
-      "url": "https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Breakin' Outta Hell",
-        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 232425,
-      "name": "Breakin' Outta Hell",
-      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
+      "duration_ms": 269800,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -343,6 +279,22 @@
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -379,18 +331,66 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Sittin' Heavy",
-        "url": "https://open.spotify.com/album/22qWqtxxDXwLfv33xzXxAX"
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
       },
       "artists": [
         {
-          "name": "Monster Truck",
-          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 266093,
-      "name": "Don't Tell Me How To Live",
-      "url": "https://open.spotify.com/track/38km9hpN3FHdapBCLOQ1e4"
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 310080,
+      "name": "You've Got Another Thing Coming",
+      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 366136,
+      "name": "Highway Star - Remastered 2012",
+      "url": "https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -411,18 +411,130 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+        "name": "Sittin' Heavy",
+        "url": "https://open.spotify.com/album/22qWqtxxDXwLfv33xzXxAX"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "Monster Truck",
+          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
         }
       ],
-      "duration_ms": 366136,
-      "name": "Highway Star - Remastered 2012",
-      "url": "https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3"
+      "duration_ms": 266093,
+      "name": "Don't Tell Me How To Live",
+      "url": "https://open.spotify.com/track/38km9hpN3FHdapBCLOQ1e4"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Four by Four",
+        "url": "https://open.spotify.com/album/14AFtH2Uz9inwnJpuJtdlK"
+      },
+      "artists": [
+        {
+          "name": "Backyard Babies",
+          "url": "https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Th1rt3en or Nothing",
+      "url": "https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "From The Fires",
+        "url": "https://open.spotify.com/album/6CGAeo2AyBkblQpnD9Gj22"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Highway Tune",
+      "url": "https://open.spotify.com/track/27wbXcZKmqNV85Iz0SIJpI"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/6JffwrileDFTVE7P5lExy8"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 287721,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/1mBRN0eaAD1ht81z02hf69"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/5nFsS70swqj4YWP5t6vyWh"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 235672,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/71si6qnqug1pf2qHgRxMDV"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "Eat The Rich",
+      "url": "https://open.spotify.com/track/0CFtlafteObzOEuJdESQkb"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "The Rise of Chaos",
+        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 299720,
+      "name": "Koolaid",
+      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Master of Reality (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 314720,
+      "name": "Children of the Grave",
+      "url": "https://open.spotify.com/track/3ZuVfQriS93y6ofwbIf7lp"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -459,82 +571,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Superunknown (20th Anniversary)",
-        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
       "artists": [
         {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 246920,
-      "name": "Spoonman",
-      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "Eat The Rich",
-      "url": "https://open.spotify.com/track/0CFtlafteObzOEuJdESQkb"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Bird On A Chain",
-        "url": "https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu"
-      },
-      "artists": [
-        {
-          "name": "Florence Black",
-          "url": "https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4"
-        }
-      ],
-      "duration_ms": 172571,
-      "name": "Bird On A Chain",
-      "url": "https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/5nFsS70swqj4YWP5t6vyWh"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 235672,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/71si6qnqug1pf2qHgRxMDV"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -555,50 +603,34 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "The Rise of Chaos",
-        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
+        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
+        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
       },
       "artists": [
         {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 299720,
-      "name": "Koolaid",
-      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
     },
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/6JffwrileDFTVE7P5lExy8"
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh"
       },
       "artists": [
         {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
         }
       ],
-      "duration_ms": 287721,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/1mBRN0eaAD1ht81z02hf69"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "From The Fires",
-        "url": "https://open.spotify.com/album/6CGAeo2AyBkblQpnD9Gj22"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Highway Tune",
-      "url": "https://open.spotify.com/track/27wbXcZKmqNV85Iz0SIJpI"
+      "duration_ms": 246920,
+      "name": "Spoonman",
+      "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -619,66 +651,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+        "name": "Billy Balloon Head",
+        "url": "https://open.spotify.com/album/1aKStgyIGYDENPrer1bOeX"
       },
       "artists": [
         {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+          "name": "Massive Wagons",
+          "url": "https://open.spotify.com/artist/7xytG2E40s4GeukvZCGqGP"
         }
       ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "ONE WAY OUT",
-        "url": "https://open.spotify.com/album/4YlkjaCknVSErfHVodSlCM"
-      },
-      "artists": [
-        {
-          "name": "Florence Black",
-          "url": "https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4"
-        }
-      ],
-      "duration_ms": 201769,
-      "name": "One Way Out",
-      "url": "https://open.spotify.com/track/037Mpyr0SSSsiPxu8acXsp"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
-        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
+      "duration_ms": 277026,
+      "name": "Billy Balloon Head",
+      "url": "https://open.spotify.com/track/6N9I99DVC1fLWYao7ZEieI"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -707,66 +691,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Master of Reality (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 314720,
-      "name": "Children of the Grave",
-      "url": "https://open.spotify.com/track/3ZuVfQriS93y6ofwbIf7lp"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Balls To The Wall",
-        "url": "https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 342600,
-      "name": "Balls to the Wall",
-      "url": "https://open.spotify.com/track/28sMmBCmfHoy6NjZnovEYG"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Facelift",
-        "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "We Die Young",
-      "url": "https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Billy Balloon Head",
-        "url": "https://open.spotify.com/album/1aKStgyIGYDENPrer1bOeX"
-      },
-      "artists": [
-        {
-          "name": "Massive Wagons",
-          "url": "https://open.spotify.com/artist/7xytG2E40s4GeukvZCGqGP"
-        }
-      ],
-      "duration_ms": 277026,
-      "name": "Billy Balloon Head",
-      "url": "https://open.spotify.com/track/6N9I99DVC1fLWYao7ZEieI"
+      "duration_ms": 365826,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -787,66 +723,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
-        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
+        "name": "Balls To The Wall",
+        "url": "https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas"
       },
       "artists": [
         {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
         }
       ],
-      "duration_ms": 189133,
-      "name": "Blame It on the Boom Boom",
-      "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Bustle and Flow",
-        "url": "https://open.spotify.com/album/4kx7DTvbw8YgJ3NrHihy6u"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 220935,
-      "name": "Bustle and Flow",
-      "url": "https://open.spotify.com/track/5a9Nl10qT0mLOzNwc26OlD"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Metal Health",
-        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
-      },
-      "artists": [
-        {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
+      "duration_ms": 342600,
+      "name": "Balls to the Wall",
+      "url": "https://open.spotify.com/track/28sMmBCmfHoy6NjZnovEYG"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -867,82 +755,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Renegades",
-        "url": "https://open.spotify.com/album/6MGBUxrzvMzBm7fS7ytyPY"
+        "name": "Motherbrain",
+        "url": "https://open.spotify.com/album/5bS8kLirDX380TztuopXkH"
       },
       "artists": [
         {
-          "name": "L.A. Guns",
-          "url": "https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS"
+          "name": "Crobot",
+          "url": "https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi"
         }
       ],
-      "duration_ms": 220020,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/3RyH5KkHlzSC5g1Ddi30ew"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Below The Belt",
-        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
-      },
-      "artists": [
-        {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Had Enough",
-      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "Girls Got Rhythm",
-      "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+      "duration_ms": 214271,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/7gDi3mxcBa0QXRZ20uWXMb"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -963,98 +787,74 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Motherbrain",
-        "url": "https://open.spotify.com/album/5bS8kLirDX380TztuopXkH"
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
       "artists": [
         {
-          "name": "Crobot",
-          "url": "https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 214271,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/7gDi3mxcBa0QXRZ20uWXMb"
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Truth And Lies",
-        "url": "https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72"
+        "name": "Bird On A Chain",
+        "url": "https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu"
       },
       "artists": [
         {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+          "name": "Florence Black",
+          "url": "https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4"
         }
       ],
-      "duration_ms": 178786,
-      "name": "On To The Next",
-      "url": "https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw"
+      "duration_ms": 172571,
+      "name": "Bird On A Chain",
+      "url": "https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P"
     },
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Death by Rock and Roll",
-        "url": "https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX"
+        "name": "Black Eyes Blue / CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
+        "url": "https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
         }
       ],
-      "duration_ms": 234476,
-      "name": "Death by Rock and Roll",
-      "url": "https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe"
+      "duration_ms": 314446,
+      "name": "CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
+      "url": "https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7"
     },
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Flesh & Blood (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SZg95nceCBL5G2THZihSA"
+        "name": "Facelift",
+        "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
       },
       "artists": [
         {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 257065,
-      "name": "Trouble Is Your Middle Name",
-      "url": "https://open.spotify.com/track/0toYxUoM8HP6isTJsKNKqa"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Avatar Country",
-        "url": "https://open.spotify.com/album/4n3K2YQ2TYUppYdXN2xDFY"
-      },
-      "artists": [
-        {
-          "name": "Avatar",
-          "url": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs"
-        }
-      ],
-      "duration_ms": 336465,
-      "name": "The King Welcomes You to Avatar Country",
-      "url": "https://open.spotify.com/track/7rdz7pkwAfnl9M2X0ld2sr"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Rose Tattoo",
-        "url": "https://open.spotify.com/album/6PO5VhbU6vmw1OG3o9anff"
-      },
-      "artists": [
-        {
-          "name": "Rose Tattoo",
-          "url": "https://open.spotify.com/artist/1WsfEkSfrPIhy1lK7ZLRRH"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "Nice Boys",
-      "url": "https://open.spotify.com/track/10CL95IWr1AhnWxWvD3aDE"
+      "duration_ms": 152560,
+      "name": "We Die Young",
+      "url": "https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -1075,118 +875,150 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Shove It Down",
-        "url": "https://open.spotify.com/album/4Rx0Lc5NAT9gjKGORY0alz"
+        "name": "Thrash Metal Cassette",
+        "url": "https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY"
       },
       "artists": [
         {
-          "name": "Blended Brew",
-          "url": "https://open.spotify.com/artist/6ijLoNKx9Y6PKhPdmNeNlZ"
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 258306,
-      "name": "Electrified Loser",
-      "url": "https://open.spotify.com/track/2HWVQRoF34TqYpEdEo8Wx5"
+      "duration_ms": 219866,
+      "name": "Thrash Metal Cassette",
+      "url": "https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h"
     },
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/5mXXrL1rozwbCX8WGlbXip"
+        "name": "Evil (The Weathermaker Vault Series)",
+        "url": "https://open.spotify.com/album/12bk4bn6YqiY79X697JSb6"
       },
       "artists": [
         {
-          "name": "Small Town Titans",
-          "url": "https://open.spotify.com/artist/3aVd0CcXBa0rOlxMpUS6on"
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
         }
       ],
-      "duration_ms": 240986,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/2hpNPPYMIJ732VtiNrcivx"
+      "duration_ms": 193105,
+      "name": "Evil - The Weathermaker Vault Series",
+      "url": "https://open.spotify.com/track/2b76mwuhgTySol1s00AjqO"
     },
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
+        "name": "Bustle and Flow",
+        "url": "https://open.spotify.com/album/4kx7DTvbw8YgJ3NrHihy6u"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
         }
       ],
-      "duration_ms": 187146,
-      "name": "Go With The Flow",
-      "url": "https://open.spotify.com/track/0wzRcekWyVCSyPtlPOeJau"
+      "duration_ms": 220935,
+      "name": "Bustle and Flow",
+      "url": "https://open.spotify.com/track/5a9Nl10qT0mLOzNwc26OlD"
     },
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Sin on Skin",
-        "url": "https://open.spotify.com/album/7m5D1cM9LQH1wHXBsDWe3O"
+        "name": "ONE WAY OUT",
+        "url": "https://open.spotify.com/album/4YlkjaCknVSErfHVodSlCM"
       },
       "artists": [
         {
-          "name": "Those Damn Crows",
-          "url": "https://open.spotify.com/artist/3VdnwWd3i9OOT0CzbzRZj7"
+          "name": "Florence Black",
+          "url": "https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Sin on Skin",
-      "url": "https://open.spotify.com/track/4SzxBp2OeQ7DTlCPwVSnYk"
+      "duration_ms": 201769,
+      "name": "One Way Out",
+      "url": "https://open.spotify.com/track/037Mpyr0SSSsiPxu8acXsp"
     },
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "And So It Went",
-        "url": "https://open.spotify.com/album/3i32UJ5zr5ZEuGbiovsIY3"
+        "name": "Metal Health",
+        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Flesh & Blood (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SZg95nceCBL5G2THZihSA"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 257065,
+      "name": "Trouble Is Your Middle Name",
+      "url": "https://open.spotify.com/track/0toYxUoM8HP6isTJsKNKqa"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Driving Rain",
+        "url": "https://open.spotify.com/album/2JGp2Bv8Q5sMoaPQNtBRt0"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
         },
         {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+          "name": "Myles Kennedy And The Conspirators",
+          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
         }
       ],
-      "duration_ms": 270214,
-      "name": "And So It Went (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/03Szk0skbXqllHkNCVZI9p"
+      "duration_ms": 250080,
+      "name": "Driving Rain (feat. Myles Kennedy and The Conspirators)",
+      "url": "https://open.spotify.com/track/5Zj7ovvDDhalqPBSoC2EHI"
     },
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+        "name": "Flowers On A Grave",
+        "url": "https://open.spotify.com/album/2Kvbw8Jz6jTr6rqCsNottI"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 232640,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
-        "name": "Let The Chaos Reign",
-        "url": "https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 198552,
-      "name": "Let The Chaos Reign",
-      "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
+      "duration_ms": 225149,
+      "name": "Flowers On A Grave",
+      "url": "https://open.spotify.com/track/3oQYe7FdyIzyQXZtoO0TPc"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -1207,18 +1039,194 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Burn the Ships",
-        "url": "https://open.spotify.com/album/0FkzemXaWdS5R75QBjpBin"
+        "name": "Rose Tattoo",
+        "url": "https://open.spotify.com/album/6PO5VhbU6vmw1OG3o9anff"
       },
       "artists": [
         {
-          "name": "Blacktop Mojo",
-          "url": "https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2"
+          "name": "Rose Tattoo",
+          "url": "https://open.spotify.com/artist/1WsfEkSfrPIhy1lK7ZLRRH"
         }
       ],
-      "duration_ms": 265082,
-      "name": "Where the Wind Blows",
-      "url": "https://open.spotify.com/track/2UQWjFMCOWaENx8sf2n5SC"
+      "duration_ms": 170893,
+      "name": "Nice Boys",
+      "url": "https://open.spotify.com/track/10CL95IWr1AhnWxWvD3aDE"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "It\u2019s Electric",
+        "url": "https://open.spotify.com/album/1OkYZGeYAH4wbHRcTrkQrS"
+      },
+      "artists": [
+        {
+          "name": "Diamond Head",
+          "url": "https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "It\u2019s Electric",
+      "url": "https://open.spotify.com/track/7mvQXgyVwWr9fYMVDoCMkY"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Too Much Is Not Enough",
+        "url": "https://open.spotify.com/album/1qxSgjmBXFOk6iH9JvX7pv"
+      },
+      "artists": [
+        {
+          "name": "Shakra",
+          "url": "https://open.spotify.com/artist/3uDNdt0Zy8VcTK2vvFghyM"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Too Much Is Not Enough",
+      "url": "https://open.spotify.com/track/3qXKIZYG9VJaFlyTB8OsAl"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Truth And Lies",
+        "url": "https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "On To The Next",
+      "url": "https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Avatar Country",
+        "url": "https://open.spotify.com/album/4n3K2YQ2TYUppYdXN2xDFY"
+      },
+      "artists": [
+        {
+          "name": "Avatar",
+          "url": "https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs"
+        }
+      ],
+      "duration_ms": 336465,
+      "name": "The King Welcomes You to Avatar Country",
+      "url": "https://open.spotify.com/track/7rdz7pkwAfnl9M2X0ld2sr"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
+        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Blame It on the Boom Boom",
+      "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Kill the Lights",
+        "url": "https://open.spotify.com/album/7pZgEhCSZ4dMpZwze54tQW"
+      },
+      "artists": [
+        {
+          "name": "Righteous Vendetta",
+          "url": "https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5"
+        }
+      ],
+      "duration_ms": 172250,
+      "name": "Kill the Lights",
+      "url": "https://open.spotify.com/track/6dx5S8zTzRqYulcXGNy0oy"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/3HEHxmkHfQyuqatAyJWXXB"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/07YAkI4MUIBku8cSJQ2Iz5"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Death by Rock and Roll",
+        "url": "https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 234476,
+      "name": "Death by Rock and Roll",
+      "url": "https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 203293,
+      "name": "Girls Got Rhythm",
+      "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "House of Noise",
+        "url": "https://open.spotify.com/album/3FtI6RyF5d1YmPZNwrj3KD"
+      },
+      "artists": [
+        {
+          "name": "Massive Wagons",
+          "url": "https://open.spotify.com/artist/7xytG2E40s4GeukvZCGqGP"
+        }
+      ],
+      "duration_ms": 216785,
+      "name": "House of Noise",
+      "url": "https://open.spotify.com/track/42hBWleQQWxON7SnO2ZE90"
     }
   ],
   "unique_name": "Highway to Yell",

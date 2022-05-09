@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 95960,
       "name": "Be Forgotten",
       "url": "https://open.spotify.com/track/0fDflCdnV8tMYMDmGqr28V"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 321418,
       "name": "Birds & Flutes",
       "url": "https://open.spotify.com/track/7usiMIQ4471lFXmVsUworT"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 366665,
       "name": "Fabric",
       "url": "https://open.spotify.com/track/4WfJ9UMh4HBaQzzHbZyTKs"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 264683,
       "name": "Fog",
       "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 1254000,
       "name": "Intorno allo schermo",
       "url": "https://open.spotify.com/track/6VzQf50Dq4klOk2JLvggSH"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 266057,
       "name": "Light in Phases",
       "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 258570,
       "name": "Moon Valley (Ambient Introspection)",
       "url": "https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 235717,
       "name": "On Plateau",
       "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 189470,
       "name": "Resolve",
       "url": "https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 235133,
       "name": "Slipping the Mooring/Pond",
       "url": "https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt"
@@ -1467,7 +1467,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 234132,
       "name": "Vanir - Endless Melancholy Rework",
       "url": "https://open.spotify.com/track/2V4D7nvTxdd0LGW58sVp18"
@@ -1744,6 +1744,24 @@
     },
     {
       "album": {
+        "name": "Grow Slow, Grow Deep",
+        "url": "https://open.spotify.com/album/73ztsZPcbmcb1NxpqhRy4I"
+      },
+      "artists": [
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203389,
+      "name": "Wellspring",
+      "url": "https://open.spotify.com/track/24VUp1TcA8U27YfwlNenlQ"
+    },
+    {
+      "album": {
         "name": "Behold Killers",
         "url": "https://open.spotify.com/album/5CCHGN6Hr0YvYWo2l0JyXI"
       },
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 159818,
       "name": "Zero Gravity",
       "url": "https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX"

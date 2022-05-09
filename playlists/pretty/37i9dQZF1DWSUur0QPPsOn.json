@@ -1,13 +1,29 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/user/123339390?si=badbdede72984640\">Quinta Brunson</a>",
-  "num_followers": 191438,
+  "num_followers": 191485,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA0MDY2NCwwMDAwMDAwMDJlYjE5ODZhOGQ4NWQxMmE5NTE1NGRkOTIyNDY5ZmRm",
+  "snapshot_id": "MTY1MjA1Nzk4NCwwMDAwMDAwMGEyMDE0N2Q2MDNiZTJlNWY3OWMyY2UwOWNlYWVmM2Vi",
   "tracks": [
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 193279,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
+    },
     {
       "added_at": "2022-05-02 07:00:00",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 244138,
       "name": "CYBAH (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/50wpwXmMyYWMEhuATNxLEt"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 193279,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
     },
     {
       "added_at": "2022-05-02 07:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-05-02 07:00:00",
       "album": {
+        "name": "Moodring",
+        "url": "https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
@@ -159,38 +175,6 @@
     {
       "added_at": "2022-05-02 07:00:00",
       "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM"
-      },
-      "artists": [
-        {
-          "name": "Lynda Dawn",
-          "url": "https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM"
-        }
-      ],
-      "duration_ms": 217089,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
-        "name": "Moodring",
-        "url": "https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H"
-      },
-      "artists": [
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 176186,
       "name": "Special Affair",
       "url": "https://open.spotify.com/track/3NWTRZ0A8xKlBP1qgNftql"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM"
+      },
+      "artists": [
+        {
+          "name": "Lynda Dawn",
+          "url": "https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM"
+        }
+      ],
+      "duration_ms": 217089,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08"
     },
     {
       "added_at": "2022-05-02 07:00:00",
@@ -235,54 +235,6 @@
       "duration_ms": 182106,
       "name": "Jerrod",
       "url": "https://open.spotify.com/track/6ZDQdAeTYt13V67K7LJXDv"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249667,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 255880,
-      "name": "If",
-      "url": "https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m"
     },
     {
       "added_at": "2022-05-02 07:00:00",
@@ -323,6 +275,54 @@
       "duration_ms": 284800,
       "name": "Cross My Mind",
       "url": "https://open.spotify.com/track/58wz6SXvLA7JjKtX5Ydq06"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 255880,
+      "name": "If",
+      "url": "https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 369173,
+      "name": "Just Like Water - Live",
+      "url": "https://open.spotify.com/track/4GedwOz9QDga5UI6n1wUPW"
     },
     {
       "added_at": "2022-05-02 07:00:00",
@@ -375,18 +375,34 @@
     {
       "added_at": "2022-05-02 07:00:00",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+      "duration_ms": 249667,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb"
     },
     {
       "added_at": "2022-05-02 07:00:00",
@@ -407,38 +423,6 @@
     {
       "added_at": "2022-05-02 07:00:00",
       "album": {
-        "name": "MTV Unplugged No. 2.0",
-        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 369173,
-      "name": "Just Like Water - Live",
-      "url": "https://open.spotify.com/track/4GedwOz9QDga5UI6n1wUPW"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "He Loves Me (Lyzel in E Flat)",
-      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
@@ -451,54 +435,6 @@
       "duration_ms": 211893,
       "name": "Get It Over With",
       "url": "https://open.spotify.com/track/3NsVe4VhqzB2M0R282HJJB"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
-        "name": "Table for One",
-        "url": "https://open.spotify.com/album/4becwqhy3EirbJwxjDYjwq"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 394694,
-      "name": "Table for One",
-      "url": "https://open.spotify.com/track/6claa4I908IodZZkvZMvuf"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 427693,
-      "name": "A House Is Not a Home",
-      "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 261800,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
     },
     {
       "added_at": "2022-05-02 07:00:00",
@@ -531,6 +467,38 @@
     {
       "added_at": "2022-05-02 07:00:00",
       "album": {
+        "name": "Table for One",
+        "url": "https://open.spotify.com/album/4becwqhy3EirbJwxjDYjwq"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 394694,
+      "name": "Table for One",
+      "url": "https://open.spotify.com/track/6claa4I908IodZZkvZMvuf"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 261800,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
         "name": "Blaque",
         "url": "https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp"
       },
@@ -547,6 +515,38 @@
       "duration_ms": 218186,
       "name": "Bring It All to Me (feat. *NSYNC)",
       "url": "https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 427693,
+      "name": "A House Is Not a Home",
+      "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "He Loves Me (Lyzel in E Flat)",
+      "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
     },
     {
       "added_at": "2022-05-02 07:00:00",
@@ -631,22 +631,18 @@
     {
       "added_at": "2022-05-02 07:00:00",
       "album": {
-        "name": "The Breakthrough",
-        "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 323066,
-      "name": "I Found My Everything",
-      "url": "https://open.spotify.com/track/62b0pIcQLOEOUTmDODakPD"
+      "duration_ms": 201400,
+      "name": "Water Runs Dry",
+      "url": "https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc"
     },
     {
       "added_at": "2022-05-02 07:00:00",
@@ -667,18 +663,22 @@
     {
       "added_at": "2022-05-02 07:00:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+        "name": "The Breakthrough",
+        "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Water Runs Dry",
-      "url": "https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc"
+      "duration_ms": 323066,
+      "name": "I Found My Everything",
+      "url": "https://open.spotify.com/track/62b0pIcQLOEOUTmDODakPD"
     },
     {
       "added_at": "2022-05-02 07:00:00",
@@ -699,18 +699,22 @@
     {
       "added_at": "2022-05-02 07:00:00",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+      "duration_ms": 296266,
+      "name": "Every Time I Close My Eyes (with Kenny G)",
+      "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
     },
     {
       "added_at": "2022-05-02 07:00:00",
@@ -731,6 +735,22 @@
     {
       "added_at": "2022-05-02 07:00:00",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2022-05-02 07:00:00",
+      "album": {
         "name": "Diana Ross & The Supremes Join The Temptations",
         "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 136466,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/4nop5UmWUqnlxkQ4kvG3Rp"
-    },
-    {
-      "added_at": "2022-05-02 07:00:00",
-      "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 296266,
-      "name": "Every Time I Close My Eyes (with Kenny G)",
-      "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
     },
     {
       "added_at": "2022-05-02 07:00:00",

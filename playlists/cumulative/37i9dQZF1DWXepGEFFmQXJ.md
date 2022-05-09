@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: James Johnston
 
-129 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+130 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [If I Were Rock & Roll](https://open.spotify.com/track/7GMXESVLghURYtnMXl7Ngn) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [If I Were Rock & Roll](https://open.spotify.com/album/5th0dWTiQ0WkGINantPzEC) | 3:14 | 2022-01-21 |  |
 | [Just Drive](https://open.spotify.com/track/1puprgnIxARMj8gR3Jj4B2) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/5Pi5rw478LMuMAOFzecWt4) | 2:27 | 2021-12-30 | 2022-03-18 |
 | [Just the Way \(feat\. Bryce Vine\)](https://open.spotify.com/track/4K3yNCPmLL8pRffpLBJkLR) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Just the Way \(feat\. Bryce Vine\)](https://open.spotify.com/album/1dVViRBF5dPVKNeCuicN4T) | 3:13 | 2021-12-30 | 2022-03-05 |
-| [KEITH \- Pop Remix](https://open.spotify.com/track/5P9CxTCFWzaom9YM2dnVDN) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [KEITH \(Pop Remix\)](https://open.spotify.com/album/7iI58yZEmaNGVhGGMq6v8m) | 2:52 | 2022-03-31 |  |
+| [Keith](https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/5vhfSn7rFEfy8jxuoI1PGE) | 2:51 | 2022-05-08 |  |
+| [KEITH \- Pop Remix](https://open.spotify.com/track/5P9CxTCFWzaom9YM2dnVDN) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [KEITH \(Pop Remix\)](https://open.spotify.com/album/7iI58yZEmaNGVhGGMq6v8m) | 2:52 | 2022-03-31 | 2022-05-09 |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-01-21 |  |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-17 |  |
 | [Let It Go](https://open.spotify.com/track/4KM1P14d6Svovepg4UEitL) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Let It Go](https://open.spotify.com/album/1DSIDbiZQGXHTrftbKArNv) | 3:26 | 2022-03-31 |  |

@@ -1,13 +1,29 @@
 {
   "description": "New music from Jack Harlow and A$AP Rocky.",
-  "num_followers": 14454423,
+  "num_followers": 14454648,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgxMDAyMCwwMDAwMDY1YzAwMDAwMTgwOTc4Y2FiNTMwMDAwMDE4MDkwMzE5Y2Yy",
+  "snapshot_id": "MTY1MjA1NDUwMSwwMDAwMDY1ZDAwMDAwMTgwYTYxZjI2ZjkwMDAwMDE4MDkwMzE5Y2Yy",
   "tracks": [
+    {
+      "added_at": "2022-05-09 00:01:41",
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
@@ -939,26 +955,6 @@
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "No Handoutz (feat. Yeat)",
-        "url": "https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 150491,
-      "name": "No Handoutz (feat. Yeat)",
-      "url": "https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH"
     },
     {
       "added_at": "2022-04-08 04:03:17",

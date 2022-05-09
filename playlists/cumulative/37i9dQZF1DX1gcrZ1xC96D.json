@@ -115,7 +115,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 187518,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/0tEgUXpEwJz7Hby3TCUD6x"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 150039,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/13eU3d6Xx9dv8VyUQawPKj"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 182612,
       "name": "Crystallise",
       "url": "https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 238080,
       "name": "I'm Just Sayin' - Radio Edit",
       "url": "https://open.spotify.com/track/4YviPw2SBoQbGklWcFy014"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 201176,
       "name": "Promises",
       "url": "https://open.spotify.com/track/50YQaQXog18lS11wGCl77u"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 151436,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 222720,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6VKpDRWz9HAUOEpElNvjSi"
@@ -1463,7 +1463,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 241889,
       "name": "WANT NEED LOVE",
       "url": "https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu"
@@ -1551,6 +1551,24 @@
       "duration_ms": 177689,
       "name": "Where Did You Go?",
       "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
+    },
+    {
+      "album": {
+        "name": "Yes!",
+        "url": "https://open.spotify.com/album/1mO9BuJINy0FTRPMUazpUC"
+      },
+      "artists": [
+        {
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "Yes!",
+      "url": "https://open.spotify.com/track/1btu0d80Q8qkkqUCkud15r"
     },
     {
       "album": {

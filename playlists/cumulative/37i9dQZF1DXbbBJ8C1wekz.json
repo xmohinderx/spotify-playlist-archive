@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 132024,
       "name": "212 Vip",
       "url": "https://open.spotify.com/track/5jRaYDCcftXSc4a0eXJaz6"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 129062,
       "name": "660",
       "url": "https://open.spotify.com/track/7yRRbZzHH0ppfPbiI3ewvF"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 219196,
       "name": "Abra Kadabra",
       "url": "https://open.spotify.com/track/5QUh3eYVWW3iI3DQl8rCX5"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 180609,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/0rCmmcIwLKtlEyymTFpqcM"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 200391,
       "name": "Bal\u00e3ozada",
       "url": "https://open.spotify.com/track/0h1utt8jlkJyCR9Y0NOsF2"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Campo Minado",
       "url": "https://open.spotify.com/track/19ZHABf7sgrzyfsHjjLALd"
@@ -902,6 +902,32 @@
     },
     {
       "album": {
+        "name": "Chefin",
+        "url": "https://open.spotify.com/album/6z7TV8IZMGmMkVzg2c6dVt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186674,
+      "name": "Chefin",
+      "url": "https://open.spotify.com/track/30g0zKIzhdwdJBSgiBA9gg"
+    },
+    {
+      "album": {
         "name": "Chega de Falar de Ice",
         "url": "https://open.spotify.com/album/78vJnYpYN6IbjlGZ0B8H8p"
       },
@@ -979,7 +1005,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Clima Diferente",
       "url": "https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517"
@@ -1183,7 +1209,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 192396,
       "name": "Dedo de Gorila",
       "url": "https://open.spotify.com/track/1DbhYxlBAeI44B0DcGxU3E"
@@ -1201,7 +1227,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 146165,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
@@ -1263,7 +1289,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 176000,
       "name": "Disfarce",
       "url": "https://open.spotify.com/track/0trI4oy0dayuYLeZioJHQg"
@@ -1461,7 +1487,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 170847,
       "name": "Egoista",
       "url": "https://open.spotify.com/track/5bIHPD77Tke3czSaUmlJEt"
@@ -1557,7 +1583,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 191230,
       "name": "Eterna",
       "url": "https://open.spotify.com/track/3GeHTyErJmG2QUnhQYzRRa"
@@ -2163,7 +2189,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 121678,
       "name": "Glockada",
       "url": "https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god"
@@ -2437,6 +2463,24 @@
       "duration_ms": 248000,
       "name": "Jovens Pretos Milion\u00e1rios",
       "url": "https://open.spotify.com/track/42gMZ7qULL8tn5iKZ9HVxn"
+    },
+    {
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/5r1eWSNiQF36yf09HRAGxJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Monge",
+          "url": "https://open.spotify.com/artist/31VV1reKgGvuBlTzPchxhq"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150031,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/4h2FUORBrlwsCfnGT9qkrZ"
     },
     {
       "album": {
@@ -2867,7 +2911,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 160124,
       "name": "Marlboro",
       "url": "https://open.spotify.com/track/05Vt6sSQyEjhnihRdVojqc"
@@ -2911,7 +2955,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 125142,
       "name": "Mds",
       "url": "https://open.spotify.com/track/0QglpM23kl9ldvVdoYNZwF"
@@ -3011,7 +3055,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 170181,
       "name": "Meu Corre",
       "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
@@ -3139,7 +3183,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 259672,
       "name": "Nintendo Switch",
       "url": "https://open.spotify.com/track/2yESwIR0YXuAmH8vhKd0RO"
@@ -3209,7 +3253,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 169655,
       "name": "O Mesmo",
       "url": "https://open.spotify.com/track/1ydwrCQoYiEkpgylv4Bfqi"
@@ -3283,7 +3327,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 232311,
       "name": "Oh Shit",
       "url": "https://open.spotify.com/track/58RYmMg7AdRMJIGkLZQEx9"
@@ -4103,7 +4147,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 449408,
       "name": "Refer\u00eancias",
       "url": "https://open.spotify.com/track/3LRCKDlZ4DwoXcfK8XVqeV"
@@ -4143,7 +4187,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 157142,
       "name": "Rem\u00e9dio e Soda",
       "url": "https://open.spotify.com/track/47ecSPAKNzGrQpjjmycHb6"
@@ -4903,6 +4947,40 @@
       "duration_ms": 171789,
       "name": "Xeque-Mate (feat. Paiva Prod)",
       "url": "https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6"
+    },
+    {
+      "album": {
+        "name": "Xrl8",
+        "url": "https://open.spotify.com/album/69kqq0zQo6kqIwpbYowFdS"
+      },
+      "artists": [
+        {
+          "name": "Phantom Mob",
+          "url": "https://open.spotify.com/artist/5uIQliKMyGkfEwn9JA9S8T"
+        },
+        {
+          "name": "B.I.G Carter",
+          "url": "https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70"
+        },
+        {
+          "name": "Murillo Zenki",
+          "url": "https://open.spotify.com/artist/4sn4agFKcZRLswKocRvpI3"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "T.D.L Music",
+          "url": "https://open.spotify.com/artist/4ZpCGXNbBVYbVht0txq54g"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191219,
+      "name": "Xrl8",
+      "url": "https://open.spotify.com/track/1oGLy1RrGjDHDKDKfxiEth"
     },
     {
       "album": {

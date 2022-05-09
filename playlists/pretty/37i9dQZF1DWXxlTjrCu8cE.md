@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Cuidar de si todos os dias com a melhor trilha sonora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,170 likes - 37 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,169 likes - 37 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

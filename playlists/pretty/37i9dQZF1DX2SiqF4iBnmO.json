@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 27560,
+  "num_followers": 27592,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA0MTA2NSwwMDAwMDAwMGJkZjJhZGQxYmJmMzZlYmE4ZGM3ZGE0MzA3MDJkYWQx",
+  "snapshot_id": "MTY1MjA1ODMxNSwwMDAwMDAwMDg2ZmRiNGJiNWI5NDRhMWMyMWQ3YTQzYTk5MzUwODQ3",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 236600,
       "name": "Stay Fly",
       "url": "https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Walking With A Panther",
-        "url": "https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA"
-      },
-      "artists": [
-        {
-          "name": "LL Cool J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Going Back To Cali",
-      "url": "https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -63,26 +47,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "The Best of 2Pac",
-        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Talent",
-          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
-        }
-      ],
-      "duration_ms": 268960,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
       },
@@ -95,6 +59,22 @@
       "duration_ms": 309000,
       "name": "Let The Beat Build",
       "url": "https://open.spotify.com/track/6Az6jpQiP5m8U3yA6bLSGb"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Walking With A Panther",
+        "url": "https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA"
+      },
+      "artists": [
+        {
+          "name": "LL Cool J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "Going Back To Cali",
+      "url": "https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -119,26 +99,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "You Might Be Surprised (Expanded Edition)",
-        "url": "https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Andy Wallace",
-          "url": "https://open.spotify.com/artist/2WhBMr0aFMTJVXc5TYvu27"
-        }
-      ],
-      "duration_ms": 340213,
-      "name": "Programmed for Love",
-      "url": "https://open.spotify.com/track/4hh98lPI8eofSZwtD1RRR7"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Mista Don't Play: Everythangs Workin'",
         "url": "https://open.spotify.com/album/4QzaueQPQa0lqrMmQoh4v0"
       },
@@ -159,6 +119,74 @@
       "duration_ms": 255360,
       "name": "Chickenhead (feat. La Chat & Three 6 Mafia)",
       "url": "https://open.spotify.com/track/4k5xJOxoJbMW5sdkZGOezj"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "The Best of 2Pac",
+        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Talent",
+          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "56 Nights",
+        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 244511,
+      "name": "March Madness",
+      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Paul Revere",
+      "url": "https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -199,18 +227,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 204133,
-      "name": "Peter Piper",
-      "url": "https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA"
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -247,50 +275,22 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "When Disaster Strikes...",
-        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
+        "name": "You Might Be Surprised (Expanded Edition)",
+        "url": "https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Andy Wallace",
+          "url": "https://open.spotify.com/artist/2WhBMr0aFMTJVXc5TYvu27"
         }
       ],
-      "duration_ms": 302800,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Paul Revere",
-      "url": "https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc"
+      "duration_ms": 340213,
+      "name": "Programmed for Love",
+      "url": "https://open.spotify.com/track/4hh98lPI8eofSZwtD1RRR7"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -311,70 +311,34 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "808s & Heartbreak",
-        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+        "name": "When Disaster Strikes...",
+        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+      "duration_ms": 217640,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g"
     },
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Dream Of A Lifetime",
-        "url": "https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf"
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
         }
       ],
-      "duration_ms": 325226,
-      "name": "Sanctified Lady",
-      "url": "https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Me & My Brother",
-        "url": "https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95"
-      },
-      "artists": [
-        {
-          "name": "Ying Yang Twins",
-          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
-        },
-        {
-          "name": "Lil Jon & The East Side Boyz",
-          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Salt Shaker",
-      "url": "https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"
+      "duration_ms": 204133,
+      "name": "Peter Piper",
+      "url": "https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -399,70 +363,38 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "56 Nights",
-        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
+        "name": "Me & My Brother",
+        "url": "https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 244511,
-      "name": "March Madness",
-      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Mr. Davis",
-        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Ying Yang Twins",
+          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
         },
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
         }
       ],
-      "duration_ms": 233087,
-      "name": "I Get the Bag (feat. Migos)",
-      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
+      "duration_ms": 252440,
+      "name": "Salt Shaker",
+      "url": "https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"
     },
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Pretty Hate Machine",
-        "url": "https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN"
+        "name": "The Good Times",
+        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Afroman",
+          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Down In It",
-      "url": "https://open.spotify.com/track/06UVb2bREPv8hvioVkaMvC"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "How Much Can You Take",
-        "url": "https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu"
-      },
-      "artists": [
-        {
-          "name": "M.C. A.D.E.",
-          "url": "https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "How Much Can You Take?",
-      "url": "https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT"
+      "duration_ms": 197760,
+      "name": "Because I Got High",
+      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -479,6 +411,38 @@
       "duration_ms": 276840,
       "name": "Funky Little Beat",
       "url": "https://open.spotify.com/track/4pf3zH0mVt3UdZfa0Veoyx"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Neptunes Lair",
+        "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
+      },
+      "artists": [
+        {
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
+        }
+      ],
+      "duration_ms": 376680,
+      "name": "Andreaen Sand Dunes",
+      "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 302800,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -507,70 +471,54 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "The Good Times",
-        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
+        "name": "Dream Of A Lifetime",
+        "url": "https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf"
       },
       "artists": [
         {
-          "name": "Afroman",
-          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 197760,
-      "name": "Because I Got High",
-      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
+      "duration_ms": 325226,
+      "name": "Sanctified Lady",
+      "url": "https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo"
     },
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Sweet And Short",
-        "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
+        "name": "How Much Can You Take",
+        "url": "https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu"
       },
       "artists": [
         {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+          "name": "M.C. A.D.E.",
+          "url": "https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "How Much Can You Take?",
+      "url": "https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Mr. Davis",
+        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "DJ Sumbody",
-          "url": "https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 303440,
-      "name": "Remote Control",
-      "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Clear",
-      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Neptunes Lair",
-        "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
-      },
-      "artists": [
-        {
-          "name": "Drexciya",
-          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
-        }
-      ],
-      "duration_ms": 376680,
-      "name": "Andreaen Sand Dunes",
-      "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
+      "duration_ms": 233087,
+      "name": "I Get the Bag (feat. Migos)",
+      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -587,54 +535,6 @@
       "duration_ms": 182533,
       "name": "The Way You Do The Things You Do",
       "url": "https://open.spotify.com/track/04PydaEH97XN7YohGteKpK"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Rhyme Pays (Explicit Version)",
-        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
-      },
-      "artists": [
-        {
-          "name": "ICE-T",
-          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "6 'N the Mornin'",
-      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "On the Nile",
-        "url": "https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i"
-      },
-      "artists": [
-        {
-          "name": "The Egyptian Lover",
-          "url": "https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP"
-        }
-      ],
-      "duration_ms": 319413,
-      "name": "Egypt Egypt",
-      "url": "https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
-      },
-      "artists": [
-        {
-          "name": "Mantronix",
-          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Needle to the Groove",
-      "url": "https://open.spotify.com/track/1K73A7cn70zjKqmdAR8PSl"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -659,18 +559,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Don't Stop the Rock",
-        "url": "https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z"
+        "name": "Rhyme Pays (Explicit Version)",
+        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
       },
       "artists": [
         {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg"
+          "name": "ICE-T",
+          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
         }
       ],
-      "duration_ms": 328515,
-      "name": "Don't Stop the Rock",
-      "url": "https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q"
+      "duration_ms": 224866,
+      "name": "6 'N the Mornin'",
+      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -691,6 +591,142 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
+        "name": "Pretty Hate Machine",
+        "url": "https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Down In It",
+      "url": "https://open.spotify.com/track/06UVb2bREPv8hvioVkaMvC"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Sweet And Short",
+        "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "DJ Sumbody",
+          "url": "https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "On the Nile",
+        "url": "https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i"
+      },
+      "artists": [
+        {
+          "name": "The Egyptian Lover",
+          "url": "https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP"
+        }
+      ],
+      "duration_ms": 319413,
+      "name": "Egypt Egypt",
+      "url": "https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Don't Stop the Rock",
+        "url": "https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z"
+      },
+      "artists": [
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg"
+        }
+      ],
+      "duration_ms": 328515,
+      "name": "Don't Stop the Rock",
+      "url": "https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
+      },
+      "artists": [
+        {
+          "name": "Mantronix",
+          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Needle to the Groove",
+      "url": "https://open.spotify.com/track/1K73A7cn70zjKqmdAR8PSl"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 293751,
+      "name": "Xtal",
+      "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
         "name": "Port Of Miami",
         "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
       },
@@ -703,6 +739,22 @@
       "duration_ms": 208600,
       "name": "Push It",
       "url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Abacab",
+        "url": "https://open.spotify.com/album/1meDXzOLASv06BT60e9yYD"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "Man On The Corner - Remaster 2007",
+      "url": "https://open.spotify.com/track/2RT4AjOSaDNCApCaphsJRo"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -731,54 +783,38 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "Quiero Bailar Contigo",
+        "url": "https://open.spotify.com/album/1ao7o8wrtgNQ19Jc595n6M"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/3510DsTIfnfwEQeCqZ9F9T"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Bailar Contigo En La Oscuridad",
+      "url": "https://open.spotify.com/track/0mPvl85Cym8Fx1qn4eEQXi"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Selected Ambient Works 85-92",
-        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 293751,
-      "name": "Xtal",
-      "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+      "duration_ms": 251293,
+      "name": "Doin' it Right (feat. Panda Bear)",
+      "url": "https://open.spotify.com/track/36c4JohayB9qd64eidQMBi"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -799,18 +835,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Abacab",
-        "url": "https://open.spotify.com/album/1meDXzOLASv06BT60e9yYD"
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
       "artists": [
         {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 267400,
-      "name": "Man On The Corner - Remaster 2007",
-      "url": "https://open.spotify.com/track/2RT4AjOSaDNCApCaphsJRo"
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -831,38 +867,6 @@
       "duration_ms": 323480,
       "name": "Drunk in Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Jack Your Body (S&S Reloaded)",
-        "url": "https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT"
-      },
-      "artists": [
-        {
-          "name": "Steve \"Silk\" Hurley",
-          "url": "https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP"
-        }
-      ],
-      "duration_ms": 306231,
-      "name": "Jack Your Body - 1986 Club Mix",
-      "url": "https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "The Sound of Sexploitation (Mojo Jazz)",
-        "url": "https://open.spotify.com/album/5IIMUc14C1vcZB0hMkSA3T"
-      },
-      "artists": [
-        {
-          "name": "Lil' Louis",
-          "url": "https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs"
-        }
-      ],
-      "duration_ms": 617160,
-      "name": "French Kiss",
-      "url": "https://open.spotify.com/track/7k60waMcIWW5pYOWHErO8j"
     },
     {
       "added_at": "2021-10-20 15:00:00",

@@ -4,7 +4,7 @@
 
 > The hottest tracks of today...featuring  Jack Harlow, Future, and Lil Tjay.
 
-641 songs - 1 day 8 hr 59 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
+642 songs - 1 day 9 hr 4 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [The Best Part of Life](https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [The Best Part of Life](https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq) | 3:16 | 2021-12-17 |  |
 | [The Biggest](https://open.spotify.com/track/2b3mMAnExnoWf9UM2VnTYt) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Biggest](https://open.spotify.com/album/1uEXYHpsTQBHG5c6lRVaSE) | 2:23 | 2021-05-22 | 2021-06-05 |
 | [The Business, Pt\. II](https://open.spotify.com/track/0SZPXD0uEl72YjUVY2K3E9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Business, Pt\. II](https://open.spotify.com/album/2E5YkarkawdVYhDaoygvih) | 2:44 | 2021-02-26 | 2021-05-22 |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 |  |
 | [The Jackie \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [The Jackie \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/album/6xiJPpCpSaM5l4Fz8IYjyU) | 3:24 | 2021-07-17 | 2021-12-18 |
 | [Therapy Music \(feat\. Russ\)](https://open.spotify.com/track/3WRT8uD7wYPzIJagtFRVjF) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Therapy Music](https://open.spotify.com/album/0umXnJRqobrCwHOlWlHZc9) | 4:22 | 2022-05-06 |  |
 | [There She Go \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/7i2xVGqiF5FBPvLg6PLHX3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:35 | 2021-03-26 | 2021-05-15 |

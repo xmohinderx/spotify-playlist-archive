@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Rae Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,338 likes - 84 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,347 likes - 84 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

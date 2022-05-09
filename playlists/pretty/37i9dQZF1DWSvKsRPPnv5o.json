@@ -1,13 +1,29 @@
 {
   "description": "Holdin' it down for the westside. Cover: Blxst",
-  "num_followers": 687748,
+  "num_followers": 687757,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDUxYTAwMDAwMTgwOTc4NjQyY2UwMDAwMDE4MDczNTBiODk3",
+  "snapshot_id": "MTY1MjA1NDQwMCwwMDAwMDUxYjAwMDAwMTgwYTYxZDljNWMwMDAwMDE4MDczNTBiODk3",
   "tracks": [
+    {
+      "added_at": "2022-05-09 00:00:00",
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {

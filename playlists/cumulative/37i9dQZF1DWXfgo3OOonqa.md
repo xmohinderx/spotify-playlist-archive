@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-313 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+314 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [20 talet](https://open.spotify.com/track/3RZ9e3e7Rrmd9Se8dFOV46) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [20 talet](https://open.spotify.com/album/5uzEiC1slSQj9L8mWVdNp8) | 2:36 | 2022-02-10 | 2022-03-26 |
 | [2022](https://open.spotify.com/track/5zgU6yN5KwEeNNobhnYZq5) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2022](https://open.spotify.com/album/4b50TZmLWKcvuMCr2FcxKp) | 2:05 | 2022-01-04 | 2022-04-08 |
 | [24](https://open.spotify.com/track/5359wDL2O1rzwRPVRqwoxW) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [24](https://open.spotify.com/album/5EifQxLUTYEksUteR7M0eP) | 2:22 | 2022-01-27 | 2022-02-18 |
+| [2step \(feat\. 1.Cuz\)](https://open.spotify.com/track/4lzEs26mJHbvj9TIIJZPRS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/album/57FHPyAprjWD6mXaY5gE1f) | 2:33 | 2022-05-08 |  |
 | [365](https://open.spotify.com/track/4eg76scNMw3k8nX6ySnF51) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [365](https://open.spotify.com/album/79kUSiYCJXGgEvqQbLBZqU) | 2:12 | 2021-12-30 | 2022-02-11 |
 | [38 SPECIAL](https://open.spotify.com/track/3SyNvVRtqdbnfSoaa9itX2) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [38 SPECIAL](https://open.spotify.com/album/2lOXTwEp6ZGzgAdbpgPqOG) | 2:59 | 2022-03-18 |  |
 | [456](https://open.spotify.com/track/47VpgMBALlZSyHoyc7BfJV) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Stanna Likadan / 456](https://open.spotify.com/album/5GQz1UCcw6GcgquP6LZ1Oj) | 2:17 | 2021-12-16 | 2022-01-20 |
@@ -176,7 +177,7 @@
 | [Ljuset I Tunneln](https://open.spotify.com/track/5sMrEVS5GCB8QnmgoBfxYm) | [Abbadi](https://open.spotify.com/artist/30evSY1KEZxqkjWB3aphyn) | [Ljuset I Tunneln](https://open.spotify.com/album/3rDfQU2FB4xSrK8Zl3ECMv) | 2:51 | 2022-02-25 | 2022-03-05 |
 | [Lotta & Sanna](https://open.spotify.com/track/1jiDCQUaa9LmWpQJRuOWRb) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Lotta & Sanna](https://open.spotify.com/album/4tAsGgc1Zs6vSzeVoKysgg) | 2:15 | 2021-12-16 | 2022-03-11 |
 | [Lotta & Sanna \- Remix](https://open.spotify.com/track/4JwyFcT6SWYirpZRSrnTn9) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Lotta & Sanna \(Remix\)](https://open.spotify.com/album/3TR9wVArlfPF9m4DDnP3d5) | 2:51 | 2022-03-10 |  |
-| [Louvren](https://open.spotify.com/track/67pftWMvqE65ewl9bKY0C7) | [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [Gemini](https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU) | 1:59 | 2022-03-10 |  |
+| [Louvren](https://open.spotify.com/track/67pftWMvqE65ewl9bKY0C7) | [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h) | [Gemini](https://open.spotify.com/album/0lalDWNxyKDSBrWcoA5uhU) | 1:59 | 2022-03-10 | 2022-05-09 |
 | [Love Me](https://open.spotify.com/track/6EAJ2CD93KYEbEeC3XrKOy) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:33 | 2022-04-28 |  |
 | [Love N Affection](https://open.spotify.com/track/4BEjyZGERmOFkZOSIgdoAn) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Love N Affection](https://open.spotify.com/album/1apurOf1HMNvY3kzGb3OgH) | 2:59 | 2022-04-28 |  |
 | [Lowkey](https://open.spotify.com/track/2DyO7Q6rKLXhEdvYeMRtZH) | [Emma Hernandez](https://open.spotify.com/artist/2qBEvdTfmW2yuAibpR9XEk) | [In My Feels](https://open.spotify.com/album/7tDIPsuFbEXURPn6Fih6HQ) | 2:48 | 2022-04-07 | 2022-04-29 |

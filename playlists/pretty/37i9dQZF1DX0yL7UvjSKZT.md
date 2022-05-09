@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: <a href="spotify:artist:4LX0KCPnH7gvxEbVXqXmAE">Molly Tuttle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,377 likes - 108 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,383 likes - 108 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

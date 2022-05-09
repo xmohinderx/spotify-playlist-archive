@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Alison Wonderland, Robin Schulz & David Guetta, Tove Lo, Endless Summer \(Jonas Blue & Sam Feldt\) and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,911,273 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,911,313 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO3qyFxbkOE1.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,634 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,744 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

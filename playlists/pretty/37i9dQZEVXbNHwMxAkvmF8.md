@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNHwMxAkvmF8.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,242 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,245 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

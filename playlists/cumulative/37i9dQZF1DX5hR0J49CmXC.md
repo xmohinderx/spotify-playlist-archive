@@ -4,7 +4,7 @@
 
 > The Real hip\-hop\. Cover: Westside Boogie
 
-123 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
+124 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/3aBEPaCmxnNZhkIPP42r3z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,11 +111,12 @@
 | [STUCK](https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [STUCK](https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065) | 3:37 | 2022-05-06 |  |
 | [Subzero](https://open.spotify.com/track/1OmGrbjzEZXeC4HAiYWwmN) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Subzero](https://open.spotify.com/album/1AQMJbIC1RrLaKbM47DvYi) | 3:00 | 2022-04-08 | 2022-04-23 |
 | [Survivor's Vow](https://open.spotify.com/track/27nLL3DxE5ABpRkeXeSrWf) | [Bronze Nazareth](https://open.spotify.com/artist/4VhYUWpDsLraUG6Sd8g9TF), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Ekphrasis](https://open.spotify.com/album/7sr0ZzT6GVG5gEickXpxvq) | 3:30 | 2021-10-08 | 2022-01-15 |
-| [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/album/4UvC1cEP1VmZeFMvbCtHkw) | 4:11 | 2022-01-14 |  |
+| [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/album/4UvC1cEP1VmZeFMvbCtHkw) | 4:11 | 2022-01-14 | 2022-05-09 |
 | [Tear Gas \(feat\. Rick Ross & Lil Wayne\)](https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 4:13 | 2022-02-25 |  |
 | [Tetris](https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Tetris](https://open.spotify.com/album/3ybxNYXKxSUKMuZOuwJPc5) | 2:04 | 2022-04-22 |  |
 | [The Code \(feat\. Mike Dimes\)](https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:24 | 2022-05-06 |  |
 | [The Happy](https://open.spotify.com/track/5e5Tc4ad1BUNHwclgAWMbH) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Happy](https://open.spotify.com/album/5mue8Vi6Sxw3vscmf1Nra1) | 2:33 | 2022-02-11 |  |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 |  |
 | [The Ills](https://open.spotify.com/track/3xYvDtt9IxWn6xJNapCv9u) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 3:22 | 2022-03-25 | 2022-04-23 |
 | [THE LOOP](https://open.spotify.com/track/1dSQTFRuAAQSGbFlLukmD5) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [HOMECOURT ADVANTAGE, Vol\. 1](https://open.spotify.com/album/0m4BEvjxcYfa78HlscT2g7) | 1:57 | 2021-09-24 | 2022-02-05 |
 | [Titanic](https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Titanic](https://open.spotify.com/album/5lerjk0bthUa3F5g2K3GrU) | 1:52 | 2022-01-07 | 2022-01-15 |

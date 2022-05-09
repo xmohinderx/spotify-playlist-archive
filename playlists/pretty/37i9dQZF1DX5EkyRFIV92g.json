@@ -1,13 +1,29 @@
 {
   "description": "This is Kendrick Lamar. Essential tracks all in one playlist. ",
-  "num_followers": 1052775,
+  "num_followers": 1053512,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTgxMzM2OSwwMDAwMDAyZDAwMDAwMTdiZWZhN2ZlYmUwMDAwMDE2ZDE1MTEzNmY2",
+  "snapshot_id": "MTY1MjA1NDQwMCwwMDAwMDAyZTAwMDAwMTgwYTYxZDljNTkwMDAwMDE4MDkwMzVhZjk2",
   "tracks": [
+    {
+      "added_at": "2022-05-09 00:00:00",
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
     {
       "added_at": "2021-09-08 23:32:57",
       "album": {

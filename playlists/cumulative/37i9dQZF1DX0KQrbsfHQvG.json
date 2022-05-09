@@ -201,7 +201,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 227986,
       "name": "Berkeley's On Fire",
       "url": "https://open.spotify.com/track/0qQdqHBetnQZprhYBgJ9yh"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 178592,
       "name": "Bodied",
       "url": "https://open.spotify.com/track/3C7fssc2tiauEx2Z82evXo"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 208949,
       "name": "Give In",
       "url": "https://open.spotify.com/track/1PnpENYXi7nYMRsJq6nU3k"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 193371,
       "name": "Machine Gun (F**k The NRA)",
       "url": "https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 175305,
       "name": "Marching on Ferguson",
       "url": "https://open.spotify.com/track/024ehhkqgITV2tDnIU0Teb"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 214170,
       "name": "None Of The Above",
       "url": "https://open.spotify.com/track/0qochh4sUrYpilQZKTtutC"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 237133,
       "name": "Party Political",
       "url": "https://open.spotify.com/track/4JbN4v3db2tYlX7kwRnPj2"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 202666,
       "name": "Pirates, Punks & Politics (feat. Perry Farrell)",
       "url": "https://open.spotify.com/track/2yaxqzBs3ayn3wfWxUzAkK"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 158680,
       "name": "Point the Finger (feat. Riley Gale)",
       "url": "https://open.spotify.com/track/0qBAJcRGUwjEw2dAmGi4vG"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 154961,
       "name": "Revolt",
       "url": "https://open.spotify.com/track/6OpJmZltXIDFtdAroRWr0g"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 233586,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
@@ -1436,6 +1436,24 @@
     },
     {
       "album": {
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336440,
+      "name": "Take The Power Back",
+      "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
+    },
+    {
+      "album": {
         "name": "The Culling",
         "url": "https://open.spotify.com/album/0ivE5xssJONtVg91oLWQGO"
       },
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 281780,
       "name": "The Doomed",
       "url": "https://open.spotify.com/track/54RaEDwHbCJKMdDq68EyKE"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 164751,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/4dHNWm43HrElSRtwvRRbtg"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 195893,
       "name": "Wastelands",
       "url": "https://open.spotify.com/track/3S8MFB68isPbRVgaU0MaIW"

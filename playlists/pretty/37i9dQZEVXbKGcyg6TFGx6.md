@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKGcyg6TFGx6.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Luxembourg.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,996 likes - 38 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,995 likes - 38 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

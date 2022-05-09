@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNFJfN1Vw8d9.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Spain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439,179 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,439,219 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

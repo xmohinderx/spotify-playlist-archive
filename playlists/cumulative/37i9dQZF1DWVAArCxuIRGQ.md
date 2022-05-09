@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 | 2020-07-03 | 2022-04-30 |
-| [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 | 2020-07-03 |  |
+| [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 | 2020-07-03 | 2022-05-09 |
 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4l2hnfUx0esSbITQa7iJt0) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis 75 \- Good Rockin' Tonight](https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea) | 3:31 | 2020-07-03 |  |
 | [A Message to You Rudy \- 2002 Remaster](https://open.spotify.com/track/5dRfBz5ZXJc5gZJsNM04nn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(2002 Remaster\)](https://open.spotify.com/album/7kHtInr7Es2tPk5QJO6y6c) | 2:52 | 2020-07-03 |  |
 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 | 2020-07-03 |  |
@@ -95,7 +95,7 @@
 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/0iH2q2PiyKpSvgOCSUZq5X) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Universal Masters Collection](https://open.spotify.com/album/47E8XMszHalHIxLdk7D49n) | 3:14 | 2020-07-03 |  |
 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 | 2020-07-03 |  |
 | [You Can Get It If You Really Want](https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Greats](https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0) | 2:39 | 2020-07-03 |  |
-| [You Never Can Tell](https://open.spotify.com/track/3WBkjGPK5489TmmR0GoU8W) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis to Liverpool](https://open.spotify.com/album/4MvciiTDtx2agb74BbdhVw) | 2:41 | 2020-07-03 | 2022-05-08 |
+| [You Never Can Tell](https://open.spotify.com/track/3WBkjGPK5489TmmR0GoU8W) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis to Liverpool](https://open.spotify.com/album/4MvciiTDtx2agb74BbdhVw) | 2:41 | 2020-07-03 |  |
 | [Your Love Gets Sweeter](https://open.spotify.com/track/1SfQCY234gf6C2dlyUUMn9) | [Finley Quaye](https://open.spotify.com/artist/1pf3joSSGlPRxmUoWSsh1W) | [Maverick A Strike](https://open.spotify.com/album/7wvOewuyOTcqyE5Xog0dp8) | 3:12 | 2020-07-03 |  |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

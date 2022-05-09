@@ -1,28 +1,32 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: J Dilla",
-  "num_followers": 273887,
+  "num_followers": 273940,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA0MTUwMywwMDAwMDAwMDg0Y2VhODY1Yjk2NjBjYTM3N2MzY2FmNTIxZGIyYzg1",
+  "snapshot_id": "MTY1MjA1ODY3NiwwMDAwMDAwMDJiZmRmOTAyYzFkZWE2MjRmN2EwNDYzMTE5MzdmYmY2",
   "tracks": [
     {
-      "added_at": "2021-02-01 17:08:11",
+      "added_at": "2022-02-08 01:52:28",
       "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho"
+        "name": "Travellin' Man (Remastered)",
+        "url": "https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34"
       },
       "artists": [
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "dj honda",
+          "url": "https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
         }
       ],
-      "duration_ms": 177120,
-      "name": "Workinonit",
-      "url": "https://open.spotify.com/track/6qK7s9JlNBfYLWPb1nwQAG"
+      "duration_ms": 318573,
+      "name": "Travellin' Man - Remastered",
+      "url": "https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG"
     },
     {
       "added_at": "2021-01-11 18:08:05",
@@ -77,24 +81,20 @@
       "url": "https://open.spotify.com/track/7lT1dCz96jANsLAAADlfIg"
     },
     {
-      "added_at": "2022-02-08 01:52:28",
+      "added_at": "2021-03-26 15:50:36",
       "album": {
-        "name": "Travellin' Man (Remastered)",
-        "url": "https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34"
+        "name": "Re:Release",
+        "url": "https://open.spotify.com/album/5Xm5v4DQ9d9y02eK0jO6zG"
       },
       "artists": [
         {
-          "name": "dj honda",
-          "url": "https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day"
-        },
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+          "name": "Juggaknots",
+          "url": "https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5"
         }
       ],
-      "duration_ms": 318573,
-      "name": "Travellin' Man - Remastered",
-      "url": "https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG"
+      "duration_ms": 235171,
+      "name": "Clear Blue Skies",
+      "url": "https://open.spotify.com/track/1zA1vA6xf8VyzHCSu8wAve"
     },
     {
       "added_at": "2021-01-11 18:08:05",
@@ -165,20 +165,24 @@
       "url": "https://open.spotify.com/track/42Bczh6IIyTYJduQnfS92p"
     },
     {
-      "added_at": "2021-03-26 15:50:36",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Re:Release",
-        "url": "https://open.spotify.com/album/5Xm5v4DQ9d9y02eK0jO6zG"
+        "name": "The Grind Date",
+        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
       },
       "artists": [
         {
-          "name": "Juggaknots",
-          "url": "https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
         }
       ],
-      "duration_ms": 235171,
-      "name": "Clear Blue Skies",
-      "url": "https://open.spotify.com/track/1zA1vA6xf8VyzHCSu8wAve"
+      "duration_ms": 185266,
+      "name": "Rock Co.Kane Flow (feat. MF Doom)",
+      "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
     },
     {
       "added_at": "2022-02-08 01:52:28",
@@ -203,26 +207,6 @@
       "duration_ms": 336813,
       "name": "So Far to Go",
       "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
-    },
-    {
-      "added_at": "2022-02-08 01:52:28",
-      "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "DJ Cucumber Slice",
-          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
-        }
-      ],
-      "duration_ms": 258613,
-      "name": "Rhymes Like Dimes",
-      "url": "https://open.spotify.com/track/12OkZyDWNBLUqoReoseGrc"
     },
     {
       "added_at": "2022-02-08 01:52:28",
@@ -257,26 +241,6 @@
       "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
     },
     {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "The Grind Date",
-        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Rock Co.Kane Flow (feat. MF Doom)",
-      "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
-    },
-    {
       "added_at": "2022-02-08 01:52:28",
       "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
@@ -291,6 +255,42 @@
       "duration_ms": 146279,
       "name": "Players",
       "url": "https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI"
+    },
+    {
+      "added_at": "2022-02-08 01:52:28",
+      "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/4UG3kz6qoHtNI1glQ2wdon"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "DJ Cucumber Slice",
+          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
+        }
+      ],
+      "duration_ms": 258613,
+      "name": "Rhymes Like Dimes",
+      "url": "https://open.spotify.com/track/12OkZyDWNBLUqoReoseGrc"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "The Best Part",
+        "url": "https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG"
+      },
+      "artists": [
+        {
+          "name": "J-Live",
+          "url": "https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT"
     },
     {
       "added_at": "2021-03-26 15:50:36",
@@ -311,34 +311,22 @@
     {
       "added_at": "2022-02-08 01:52:28",
       "album": {
-        "name": "The Cold Vein (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4iyCxURICjYcIERJt85C5W"
+        "name": "The Grind Date",
+        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
       },
       "artists": [
         {
-          "name": "Cannibal Ox",
-          "url": "https://open.spotify.com/artist/3FjTqZ6SZYSYQMzY03O4RG"
-        }
-      ],
-      "duration_ms": 356800,
-      "name": "Iron Galaxy",
-      "url": "https://open.spotify.com/track/4NKdG9lTVjK8R9HfZQkTmk"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "The Best Part",
-        "url": "https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG"
-      },
-      "artists": [
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
         {
-          "name": "J-Live",
-          "url": "https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE"
+          "name": "Ghostface",
+          "url": "https://open.spotify.com/artist/3t5QLYg3fqvohxXt7q1niX"
         }
       ],
-      "duration_ms": 304880,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT"
+      "duration_ms": 224426,
+      "name": "He Comes (feat. Ghostface)",
+      "url": "https://open.spotify.com/track/4l6SxtkpHebFGpKH2xPnAU"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -363,6 +351,22 @@
       "duration_ms": 118853,
       "name": "Accordion",
       "url": "https://open.spotify.com/track/5jAvbp8kEnRPToi4Bzcvzt"
+    },
+    {
+      "added_at": "2022-02-08 01:52:28",
+      "album": {
+        "name": "The Cold Vein (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4iyCxURICjYcIERJt85C5W"
+      },
+      "artists": [
+        {
+          "name": "Cannibal Ox",
+          "url": "https://open.spotify.com/artist/3FjTqZ6SZYSYQMzY03O4RG"
+        }
+      ],
+      "duration_ms": 356800,
+      "name": "Iron Galaxy",
+      "url": "https://open.spotify.com/track/4NKdG9lTVjK8R9HfZQkTmk"
     },
     {
       "added_at": "2020-09-25 14:36:39",
@@ -397,24 +401,36 @@
       "url": "https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ"
     },
     {
-      "added_at": "2022-02-08 01:52:28",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "The Grind Date",
-        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
+        "name": "Body Of The Life Force",
+        "url": "https://open.spotify.com/album/6HB0hHlIIn3jngBqILTA96"
       },
       "artists": [
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Ghostface",
-          "url": "https://open.spotify.com/artist/3t5QLYg3fqvohxXt7q1niX"
+          "name": "Afu-Ra",
+          "url": "https://open.spotify.com/artist/6SWohEYYTym0RIBxvoh6wt"
         }
       ],
-      "duration_ms": 224426,
-      "name": "He Comes (feat. Ghostface)",
-      "url": "https://open.spotify.com/track/4l6SxtkpHebFGpKH2xPnAU"
+      "duration_ms": 239413,
+      "name": "Whirlwind Thru Cities",
+      "url": "https://open.spotify.com/track/7EZOcCGTHCXTLFtax2VUsU"
+    },
+    {
+      "added_at": "2021-06-10 04:28:06",
+      "album": {
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+      },
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Uknowhowwedu",
+      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -443,18 +459,18 @@
     {
       "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Body Of The Life Force",
-        "url": "https://open.spotify.com/album/6HB0hHlIIn3jngBqILTA96"
+        "name": "Won",
+        "url": "https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH"
       },
       "artists": [
         {
-          "name": "Afu-Ra",
-          "url": "https://open.spotify.com/artist/6SWohEYYTym0RIBxvoh6wt"
+          "name": "Pacewon",
+          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
         }
       ],
-      "duration_ms": 239413,
-      "name": "Whirlwind Thru Cities",
-      "url": "https://open.spotify.com/track/7EZOcCGTHCXTLFtax2VUsU"
+      "duration_ms": 157426,
+      "name": "I Declare War",
+      "url": "https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V"
     },
     {
       "added_at": "2021-01-06 03:25:12",
@@ -479,54 +495,6 @@
       "duration_ms": 131866,
       "name": "Meat Grinder",
       "url": "https://open.spotify.com/track/60PZUWKsJC52uXaPlPcEVf"
-    },
-    {
-      "added_at": "2021-06-10 04:28:06",
-      "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
-      },
-      "artists": [
-        {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Uknowhowwedu",
-      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
-    },
-    {
-      "added_at": "2022-02-08 01:52:28",
-      "album": {
-        "name": "Fantastic Damage",
-        "url": "https://open.spotify.com/album/3nYpH1H9zjeeANZv47LDap"
-      },
-      "artists": [
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        }
-      ],
-      "duration_ms": 227133,
-      "name": "Deep Space 9mm",
-      "url": "https://open.spotify.com/track/4E16oyd1iGXunYZxMj6YNy"
-    },
-    {
-      "added_at": "2022-02-08 01:52:28",
-      "album": {
-        "name": "MM...FOOD",
-        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "One Beer",
-      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
     },
     {
       "added_at": "2021-03-26 15:50:36",
@@ -569,104 +537,36 @@
       "url": "https://open.spotify.com/track/1G8jOp5DjW83kJdz00acel"
     },
     {
-      "added_at": "2020-09-25 04:39:22",
+      "added_at": "2022-02-08 01:52:28",
       "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+        "name": "Fantastic Damage",
+        "url": "https://open.spotify.com/album/3nYpH1H9zjeeANZv47LDap"
       },
       "artists": [
         {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+      "duration_ms": 227133,
+      "name": "Deep Space 9mm",
+      "url": "https://open.spotify.com/track/4E16oyd1iGXunYZxMj6YNy"
     },
     {
       "added_at": "2022-02-08 01:52:28",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+        "name": "MM...FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
       },
       "artists": [
         {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
         }
       ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
-    },
-    {
-      "added_at": "2021-08-13 21:56:13",
-      "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
-      },
-      "artists": [
-        {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
-        },
-        {
-          "name": "Vinia Mojica",
-          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Blast",
-      "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Won",
-        "url": "https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH"
-      },
-      "artists": [
-        {
-          "name": "Pacewon",
-          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "I Declare War",
-      "url": "https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Hip Hop",
-        "url": "https://open.spotify.com/album/6hZXDOin1UHV5lzNO87sBO"
-      },
-      "artists": [
-        {
-          "name": "Lone Catalysts Featuring Talib Kweli And Rubix",
-          "url": "https://open.spotify.com/artist/3rxSIgM6cEj77bIuwYX2Jo"
-        }
-      ],
-      "duration_ms": 313106,
-      "name": "Due Process",
-      "url": "https://open.spotify.com/track/5KiDI9YhptlZWNABPuSmnL"
-    },
-    {
-      "added_at": "2021-08-13 21:56:13",
-      "album": {
-        "name": "Expansion Team",
-        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Worst Comes To Worst - Edited",
-      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
+      "duration_ms": 258586,
+      "name": "One Beer",
+      "url": "https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -697,40 +597,20 @@
       "url": "https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz"
     },
     {
-      "added_at": "2020-09-25 04:39:22",
+      "added_at": "2022-02-08 01:52:28",
       "album": {
-        "name": "The Future Is Now",
-        "url": "https://open.spotify.com/album/553dWgdmE89xioa8E7ftjD"
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
       "artists": [
         {
-          "name": "Non Phixion",
-          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
-        },
-        {
-          "name": "ILL Bill",
-          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
         }
       ],
-      "duration_ms": 239973,
-      "name": "Rock Stars",
-      "url": "https://open.spotify.com/track/2WYZfrZJX2YSFXW29tpHrV"
-    },
-    {
-      "added_at": "2021-03-26 15:50:36",
-      "album": {
-        "name": "Soundpieces: Da Antidote",
-        "url": "https://open.spotify.com/album/5bmfN1bdJb9vQzb07mCy9A"
-      },
-      "artists": [
-        {
-          "name": "Lootpack",
-          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Whenimondamic",
-      "url": "https://open.spotify.com/track/5v9isbe4BHsWc9N25MmWfj"
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2021-03-26 15:50:36",
@@ -757,52 +637,56 @@
       "url": "https://open.spotify.com/track/5JUEfEsVmgEGI6SMbFH3gq"
     },
     {
+      "added_at": "2021-08-13 21:56:13",
+      "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+      },
+      "artists": [
+        {
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+        },
+        {
+          "name": "Vinia Mojica",
+          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Blast",
+      "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
+    },
+    {
       "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Krumbsnatcha Classics",
-        "url": "https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx"
+        "name": "Hip Hop",
+        "url": "https://open.spotify.com/album/6hZXDOin1UHV5lzNO87sBO"
       },
       "artists": [
         {
-          "name": "Krumbsnatcha",
-          "url": "https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx"
+          "name": "Lone Catalysts Featuring Talib Kweli And Rubix",
+          "url": "https://open.spotify.com/artist/3rxSIgM6cEj77bIuwYX2Jo"
         }
       ],
-      "duration_ms": 276960,
-      "name": "Gettin' Closer to God",
-      "url": "https://open.spotify.com/track/0sdgkO6TP624IIDEbiajsx"
+      "duration_ms": 313106,
+      "name": "Due Process",
+      "url": "https://open.spotify.com/track/5KiDI9YhptlZWNABPuSmnL"
     },
     {
-      "added_at": "2021-07-29 22:51:03",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "A Long Hot Summer",
-        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
+        "name": "The Bootleg of the Bootleg (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Q7MFryZW2OPuwQh4EW6Yh"
       },
       "artists": [
         {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+          "name": "Jean Grae",
+          "url": "https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Good Ol Love",
-      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
-    },
-    {
-      "added_at": "2022-02-08 01:52:28",
-      "album": {
-        "name": "The Chittlin' Circuit Circuit 1.5 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1amoRIjOnIdjpdCNYJsOwA"
-      },
-      "artists": [
-        {
-          "name": "Little Brother",
-          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "War",
-      "url": "https://open.spotify.com/track/3VA6w5mesmwXiGgZFHGjrY"
+      "duration_ms": 313666,
+      "name": "Hater's Anthem",
+      "url": "https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh"
     },
     {
       "added_at": "2022-02-08 01:52:28",
@@ -831,62 +715,38 @@
     {
       "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "D.I.T.C.",
-        "url": "https://open.spotify.com/album/7Kw28Qg3OeGQiGso0qyONJ"
+        "name": "Extra, Extra!!",
+        "url": "https://open.spotify.com/album/4rt0clhNxkbiDENypsPwh3"
       },
       "artists": [
         {
-          "name": "D.I.T.C.",
-          "url": "https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS"
-        },
-        {
-          "name": "A.G.",
-          "url": "https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE"
-        },
-        {
-          "name": "Big L",
-          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
-        },
-        {
-          "name": "O.C.",
-          "url": "https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q"
+          "name": "Paula Perry",
+          "url": "https://open.spotify.com/artist/1DsdaqNe4oqDiq0zA0EjwD"
         }
       ],
-      "duration_ms": 222440,
-      "name": "Thick",
-      "url": "https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg"
+      "duration_ms": 250360,
+      "name": "Extra, Extra!! - Radio Edit",
+      "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
     },
     {
-      "added_at": "2022-02-08 01:52:28",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Shadows On The Sun",
-        "url": "https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K"
+        "name": "The Future Is Now",
+        "url": "https://open.spotify.com/album/553dWgdmE89xioa8E7ftjD"
       },
       "artists": [
         {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Forest Whitiker",
-      "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
-    },
-    {
-      "added_at": "2022-02-08 01:52:28",
-      "album": {
-        "name": "Dr. Octagonecologyst",
-        "url": "https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW"
-      },
-      "artists": [
+          "name": "Non Phixion",
+          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
+        },
         {
-          "name": "Dr. Octagon",
-          "url": "https://open.spotify.com/artist/7dr3cSEOIZ6tBrm4y1wsnr"
+          "name": "ILL Bill",
+          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Blue Flowers",
-      "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
+      "duration_ms": 239973,
+      "name": "Rock Stars",
+      "url": "https://open.spotify.com/track/2WYZfrZJX2YSFXW29tpHrV"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -905,6 +765,70 @@
       "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
     },
     {
+      "added_at": "2021-08-13 21:56:13",
+      "album": {
+        "name": "Expansion Team",
+        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Worst Comes To Worst - Edited",
+      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
+    },
+    {
+      "added_at": "2022-02-08 01:52:28",
+      "album": {
+        "name": "The Chittlin' Circuit Circuit 1.5 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1amoRIjOnIdjpdCNYJsOwA"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "War",
+      "url": "https://open.spotify.com/track/3VA6w5mesmwXiGgZFHGjrY"
+    },
+    {
+      "added_at": "2021-06-10 04:28:06",
+      "album": {
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+      },
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "True Honey Buns (Dat Freak Shit)",
+      "url": "https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT"
+    },
+    {
+      "added_at": "2021-07-29 22:51:03",
+      "album": {
+        "name": "A Long Hot Summer",
+        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Good Ol Love",
+      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
+    },
+    {
       "added_at": "2020-09-25 04:39:22",
       "album": {
         "name": "J 5 (Deluxe Edition)",
@@ -921,20 +845,84 @@
       "url": "https://open.spotify.com/track/0dtVSZDRv6PorrnX0cbFT7"
     },
     {
-      "added_at": "2020-09-25 04:39:22",
+      "added_at": "2022-02-08 01:52:28",
       "album": {
-        "name": "Extra, Extra!!",
-        "url": "https://open.spotify.com/album/4rt0clhNxkbiDENypsPwh3"
+        "name": "Dr. Octagonecologyst",
+        "url": "https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW"
       },
       "artists": [
         {
-          "name": "Paula Perry",
-          "url": "https://open.spotify.com/artist/1DsdaqNe4oqDiq0zA0EjwD"
+          "name": "Dr. Octagon",
+          "url": "https://open.spotify.com/artist/7dr3cSEOIZ6tBrm4y1wsnr"
         }
       ],
-      "duration_ms": 250360,
-      "name": "Extra, Extra!! - Radio Edit",
-      "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
+      "duration_ms": 197400,
+      "name": "Blue Flowers",
+      "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
+    },
+    {
+      "added_at": "2022-02-08 01:52:28",
+      "album": {
+        "name": "The Minstrel Show (Explicit Version)",
+        "url": "https://open.spotify.com/album/4sk7zSzYdcIetF6t6vO8Rx"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "duration_ms": 259320,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/2CDnjjOWh18YG3LXsgvSLG"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "Carte Blanche (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/02Z1j5amKUKolUtSCxYR03"
+      },
+      "artists": [
+        {
+          "name": "Phat Kat",
+          "url": "https://open.spotify.com/artist/31ovhtZf0B1CTJXPNhchvF"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Don't Nobody Care About Us",
+      "url": "https://open.spotify.com/track/56V2atr3UiIjDJVIGNN4HY"
+    },
+    {
+      "added_at": "2021-03-26 15:50:36",
+      "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/5bmfN1bdJb9vQzb07mCy9A"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Whenimondamic",
+      "url": "https://open.spotify.com/track/5v9isbe4BHsWc9N25MmWfj"
     }
   ],
   "unique_name": "I Love My Underground Classics",

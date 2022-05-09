@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lozeak
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,925 likes - 74 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,954 likes - 74 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,32 +1,28 @@
 {
   "description": "cry just a little",
-  "num_followers": 3098,
+  "num_followers": 3126,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA0MDcyOSwwMDAwMDAwMDFlZDVjMTAyNmUwYTQ0ZmZkMjg4MDBkYjQxM2ZiZGIy",
+  "snapshot_id": "MTY1MjA1ODAzOCwwMDAwMDAwMDMzM2IwOGYwNjliN2NkNTlkOGM3MzE2NzgxM2Q3Yjg2",
   "tracks": [
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "I Quit Drinking",
-        "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 171200,
-      "name": "I Quit Drinking",
-      "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+      "duration_ms": 172586,
+      "name": "Want It Again",
+      "url": "https://open.spotify.com/track/7KRcMPOGQA0WOw0T8qeXD7"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -43,58 +39,6 @@
       "duration_ms": 235293,
       "name": "Fine",
       "url": "https://open.spotify.com/track/4j5oomn30u4WLBPIqBqBg9"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "Just About Over You",
-        "url": "https://open.spotify.com/album/22riN0U2QIHFdqKv9uzBK0"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Just About Over You",
-      "url": "https://open.spotify.com/track/6VzJCMOzVbvb25LPYQviM5"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "More Hearts Than Mine",
-      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "29: Written In Stone",
-        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 214416,
-      "name": "Never Wanted To Be That Girl",
-      "url": "https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -119,6 +63,62 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
+        "name": "Just About Over You",
+        "url": "https://open.spotify.com/album/22riN0U2QIHFdqKv9uzBK0"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Just About Over You",
+      "url": "https://open.spotify.com/track/6VzJCMOzVbvb25LPYQviM5"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 214416,
+      "name": "Never Wanted To Be That Girl",
+      "url": "https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "I Quit Drinking",
+        "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "I Quit Drinking",
+      "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
         "name": "The Way It Feels",
         "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
       },
@@ -135,150 +135,18 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Love, Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "I Hate This",
-      "url": "https://open.spotify.com/track/0VsDzurvIUoRNT4fIactL3"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Want It Again",
-      "url": "https://open.spotify.com/track/7KRcMPOGQA0WOw0T8qeXD7"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "thirty one",
-        "url": "https://open.spotify.com/album/7zD1Xp405071FTXmxySeD9"
-      },
-      "artists": [
-        {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "I Got the Boy",
-      "url": "https://open.spotify.com/track/6tbNaE7kvGNqS7FvJ0dzLB"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "Wishful Drinking (with Sam Hunt)",
-        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
       "artists": [
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 194544,
-      "name": "Wishful Drinking (with Sam Hunt)",
-      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "Dangerous: The Double Album (Bonus)",
-        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Sand In My Boots",
-      "url": "https://open.spotify.com/track/0DBb4vItW595Mljc7vXaVu"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "Frame By Frame",
-        "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
-      },
-      "artists": [
-        {
-          "name": "Cassadee Pope",
-          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Wasting All These Tears",
-      "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 234515,
-      "name": "White Horse (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Vice",
-      "url": "https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "EOM - EP",
-        "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "What If I Never Get Over You",
-      "url": "https://open.spotify.com/track/5NiH8PyzL2GLansUWKDUkS"
+      "duration_ms": 214786,
+      "name": "More Hearts Than Mine",
+      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -303,24 +171,24 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "If You Have To",
-        "url": "https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL"
+        "name": "thirty one",
+        "url": "https://open.spotify.com/album/7zD1Xp405071FTXmxySeD9"
       },
       "artists": [
         {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
         }
       ],
-      "duration_ms": 199493,
-      "name": "If You Have To",
-      "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
+      "duration_ms": 201013,
+      "name": "I Got the Boy",
+      "url": "https://open.spotify.com/track/6tbNaE7kvGNqS7FvJ0dzLB"
     },
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+        "name": "Dangerous: The Double Album (Bonus)",
+        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
       },
       "artists": [
         {
@@ -328,25 +196,73 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 205453,
-      "name": "Chasin' You",
-      "url": "https://open.spotify.com/track/5MwynWK9s4hlyKHqhkNn4A"
+      "duration_ms": 202133,
+      "name": "Sand In My Boots",
+      "url": "https://open.spotify.com/track/0DBb4vItW595Mljc7vXaVu"
     },
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "All of It",
-        "url": "https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm"
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 199693,
-      "name": "Break Up in the End",
-      "url": "https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj"
+      "duration_ms": 234515,
+      "name": "White Horse (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "Frame By Frame",
+        "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Wasting All These Tears",
+      "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "Love, Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "I Hate This",
+      "url": "https://open.spotify.com/track/0VsDzurvIUoRNT4fIactL3"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Vice",
+      "url": "https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -367,50 +283,134 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Break My Heart Again",
-        "url": "https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
       "artists": [
         {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 201256,
-      "name": "Break My Heart Again",
-      "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
+      "duration_ms": 205453,
+      "name": "Chasin' You",
+      "url": "https://open.spotify.com/track/5MwynWK9s4hlyKHqhkNn4A"
     },
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "The Breaker",
-        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
+        "name": "If You Have To",
+        "url": "https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 263120,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
+      "duration_ms": 199493,
+      "name": "If You Have To",
+      "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
     },
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/3tzlw58Anr8ZfQHqMn5lAt"
+        "name": "Wishful Drinking (with Sam Hunt)",
+        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
       "artists": [
         {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 203089,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO"
+      "duration_ms": 194544,
+      "name": "Wishful Drinking (with Sam Hunt)",
+      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "All of It",
+        "url": "https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Break Up in the End",
+      "url": "https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Back To December",
+      "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "EOM - EP",
+        "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "What If I Never Get Over You",
+      "url": "https://open.spotify.com/track/5NiH8PyzL2GLansUWKDUkS"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "Hair Salon",
+        "url": "https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 224581,
+      "name": "Hair Salon",
+      "url": "https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "Giving You Up (Acoustic)",
+        "url": "https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 232039,
+      "name": "Giving You Up - Acoustic",
+      "url": "https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -463,34 +463,34 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Whiskey Sour",
-        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
+        "name": "Break My Heart Again",
+        "url": "https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 209740,
-      "name": "Whiskey Sour",
-      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
+      "duration_ms": 201256,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
     },
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF"
+        "name": "The Breaker",
+        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 195986,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI"
+      "duration_ms": 263120,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -511,34 +511,34 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Speak Now",
-        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 293026,
-      "name": "Back To December",
-      "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
+      "duration_ms": 214106,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
     },
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+        "name": "Whiskey Sour",
+        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 236626,
-      "name": "The House That Built Me",
-      "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
+      "duration_ms": 209740,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Hair Salon",
-        "url": "https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/3tzlw58Anr8ZfQHqMn5lAt"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
         }
       ],
-      "duration_ms": 224581,
-      "name": "Hair Salon",
-      "url": "https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG"
+      "duration_ms": 203089,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -591,50 +591,18 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Giving You Up (Acoustic)",
-        "url": "https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD"
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 232039,
-      "name": "Giving You Up - Acoustic",
-      "url": "https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
-    },
-    {
-      "added_at": "2022-05-05 01:25:04",
-      "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+      "duration_ms": 195986,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -655,6 +623,38 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
+    },
+    {
+      "added_at": "2022-05-05 01:25:04",
+      "album": {
         "name": "Greener Pasture",
         "url": "https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3"
       },
@@ -671,34 +671,34 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "You Get What You Give (Deluxe)",
-        "url": "https://open.spotify.com/album/62XZju4HxxXF6CBIqqG2ei"
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
         }
       ],
-      "duration_ms": 273893,
-      "name": "Colder Weather",
-      "url": "https://open.spotify.com/track/23hDnIFoFlVTDA6y8YrJoR"
+      "duration_ms": 301986,
+      "name": "A Little Bit Stronger",
+      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
     },
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "WildHorse",
-        "url": "https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4"
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
       "artists": [
         {
-          "name": "RaeLynn",
-          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 225626,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu"
+      "duration_ms": 201493,
+      "name": "hookup scene",
+      "url": "https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
+        "name": "You Get What You Give (Deluxe)",
+        "url": "https://open.spotify.com/album/62XZju4HxxXF6CBIqqG2ei"
       },
       "artists": [
         {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 301986,
-      "name": "A Little Bit Stronger",
-      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
+      "duration_ms": 273893,
+      "name": "Colder Weather",
+      "url": "https://open.spotify.com/track/23hDnIFoFlVTDA6y8YrJoR"
     },
     {
       "added_at": "2022-05-05 01:25:04",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-05-05 01:25:04",
       "album": {
-        "name": "Every Little Thing",
-        "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 180053,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
+      "duration_ms": 236626,
+      "name": "The House That Built Me",
+      "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
     },
     {
       "added_at": "2022-05-05 01:25:04",

@@ -1,29 +1,13 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 105375,
+  "num_followers": 105393,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA0MTE1MCwwMDAwMDAwMDgzZGMxNWE3MjNjNjE4NTBhNzVlMTRmZDllYjFhN2Jm",
+  "snapshot_id": "MTY1MjA1ODM4NiwwMDAwMDAwMDQ3Yjc1ZTc0MWU0ZmMwZWUwMTg5MmRjMjA2OTEwYzQw",
   "tracks": [
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
-      },
-      "artists": [
-        {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
-        }
-      ],
-      "duration_ms": 260933,
-      "name": "Amie",
-      "url": "https://open.spotify.com/track/1mqydO6xMtyTPa8yo1SdVr"
-    },
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "Amie",
+      "url": "https://open.spotify.com/track/1mqydO6xMtyTPa8yo1SdVr"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -79,6 +79,38 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 444053,
+      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Running on Empty",
+        "url": "https://open.spotify.com/album/4VqLII6oqVpCj5HjwKKwX9"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 298093,
+      "name": "Running on Empty",
+      "url": "https://open.spotify.com/track/4MZEZz8MqVgvIMXU6AVP22"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -111,18 +143,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Running on Empty",
-        "url": "https://open.spotify.com/album/4VqLII6oqVpCj5HjwKKwX9"
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 298093,
-      "name": "Running on Empty",
-      "url": "https://open.spotify.com/track/4MZEZz8MqVgvIMXU6AVP22"
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -159,54 +191,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 444053,
-      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "The Adventures Of Panama Red",
-        "url": "https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY"
-      },
-      "artists": [
-        {
-          "name": "New Riders of the Purple Sage",
-          "url": "https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Lonesome L.A. Cowboy",
-      "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1"
       },
@@ -219,22 +203,6 @@
       "duration_ms": 295053,
       "name": "Shame On The Moon",
       "url": "https://open.spotify.com/track/1Gxaks4MTbjMCAQ20rx4Iy"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Elite Hotel (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/312OEZO2boUMqdNMuuip6h"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 146986,
-      "name": "Feelin' Single - Seein' Double - 2003 Remaster",
-      "url": "https://open.spotify.com/track/65J216Pxb4JOdiYVFIpLx7"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -255,6 +223,42 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "The Adventures Of Panama Red",
+        "url": "https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY"
+      },
+      "artists": [
+        {
+          "name": "New Riders of the Purple Sage",
+          "url": "https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Lonesome L.A. Cowboy",
+      "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        },
+        {
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Make A Little Magic - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "The Flying Burrito Brothers",
         "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
       },
@@ -271,34 +275,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+        "name": "Hotel California (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
       },
       "artists": [
         {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 246693,
-      "name": "Two Lane Highway",
-      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Commander Cody & His Lost Planet Airmen",
-        "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
-      },
-      "artists": [
-        {
-          "name": "Commander Cody and His Lost Planet Airmen",
-          "url": "https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Willin'",
-      "url": "https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K"
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -323,18 +311,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Hotel California (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
         }
       ],
-      "duration_ms": 304925,
-      "name": "New Kid in Town - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
+      "duration_ms": 246693,
+      "name": "Two Lane Highway",
+      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -371,6 +359,38 @@
       "duration_ms": 159133,
       "name": "Mama Nantucket",
       "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Commander Cody & His Lost Planet Airmen",
+        "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
+      },
+      "artists": [
+        {
+          "name": "Commander Cody and His Lost Planet Airmen",
+          "url": "https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Willin'",
+      "url": "https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Elite Hotel (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/312OEZO2boUMqdNMuuip6h"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 146986,
+      "name": "Feelin' Single - Seein' Double - 2003 Remaster",
+      "url": "https://open.spotify.com/track/65J216Pxb4JOdiYVFIpLx7"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -487,22 +507,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "High Country Snows",
-        "url": "https://open.spotify.com/album/04iFpIf2KbXuxpy6uRlTfO"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 391000,
-      "name": "Sutter's Mill",
-      "url": "https://open.spotify.com/track/3fRwEtPmL2hFClf6Ph6l4O"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Ton-Ton Macoute!",
         "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
       },
@@ -515,54 +519,6 @@
       "duration_ms": 205093,
       "name": "Down Along The Cove",
       "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Sweetheart Of The Rodeo",
-        "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "One Hundred Years from Now",
-      "url": "https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Almost Blue",
-        "url": "https://open.spotify.com/album/6Y234kkXewBp0CjanUQW3w"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "Good Year For The Roses",
-      "url": "https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "The Desert Rose Band",
-        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
-      },
-      "artists": [
-        {
-          "name": "The Desert Rose Band",
-          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Love Reunited",
-      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -583,6 +539,70 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Sweetheart Of The Rodeo",
+        "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "One Hundred Years from Now",
+      "url": "https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "High Country Snows",
+        "url": "https://open.spotify.com/album/04iFpIf2KbXuxpy6uRlTfO"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "duration_ms": 391000,
+      "name": "Sutter's Mill",
+      "url": "https://open.spotify.com/track/3fRwEtPmL2hFClf6Ph6l4O"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Desert Rose Band",
+        "url": "https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih"
+      },
+      "artists": [
+        {
+          "name": "The Desert Rose Band",
+          "url": "https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Love Reunited",
+      "url": "https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Almost Blue",
+        "url": "https://open.spotify.com/album/6Y234kkXewBp0CjanUQW3w"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "Good Year For The Roses",
+      "url": "https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Sittin' In",
         "url": "https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco"
       },
@@ -595,86 +615,6 @@
       "duration_ms": 169306,
       "name": "Listen to a Country Song",
       "url": "https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Morning Sky",
-      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Trouble In Paradise",
-        "url": "https://open.spotify.com/album/2B7aFxei2UhSAHbPWLXJRr"
-      },
-      "artists": [
-        {
-          "name": "The Souther-Hillman-Furay Band",
-          "url": "https://open.spotify.com/artist/7hbzXJ5K6AqdPnbUcCL1hL"
-        }
-      ],
-      "duration_ms": 291986,
-      "name": "Prisoner in Disguise",
-      "url": "https://open.spotify.com/track/5Ms8PC4YEHInOWrhj2QLw0"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Black & White",
-        "url": "https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Ten More Miles to Louisiana",
-      "url": "https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Dance A Little Light",
-        "url": "https://open.spotify.com/album/0TuDxWKVA21dJJtM14Ghfs"
-      },
-      "artists": [
-        {
-          "name": "Richie Furay",
-          "url": "https://open.spotify.com/artist/2KpCZazKx8c2qBDtNXvmvf"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "Someone Who Cares",
-      "url": "https://open.spotify.com/track/2eSySlmf3c5114MaxAVaAS"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Longbranch/Pennywhistle (Remastered)",
-        "url": "https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp"
-      },
-      "artists": [
-        {
-          "name": "Longbranch/Pennywhistle",
-          "url": "https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "Rebecca - Remastered",
-      "url": "https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -695,24 +635,8 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Make A Little Magic",
-        "url": "https://open.spotify.com/album/7hd0MbxF0wWBjiOdxEmrmu"
-      },
-      "artists": [
-        {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Make A Little Magic",
-      "url": "https://open.spotify.com/track/728MAA4aiTVtTxn0Z2k1cu"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "The Souther-Hillman-Furay Band",
-        "url": "https://open.spotify.com/album/3Yub0dxn8MQ8ZJjXiAJt8c"
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/2B7aFxei2UhSAHbPWLXJRr"
       },
       "artists": [
         {
@@ -720,9 +644,73 @@
           "url": "https://open.spotify.com/artist/7hbzXJ5K6AqdPnbUcCL1hL"
         }
       ],
-      "duration_ms": 226013,
-      "name": "Heavenly Fire",
-      "url": "https://open.spotify.com/track/0y9TcqNyeAQQjo7fVAMEXl"
+      "duration_ms": 291986,
+      "name": "Prisoner in Disguise",
+      "url": "https://open.spotify.com/track/5Ms8PC4YEHInOWrhj2QLw0"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Dance A Little Light",
+        "url": "https://open.spotify.com/album/0TuDxWKVA21dJJtM14Ghfs"
+      },
+      "artists": [
+        {
+          "name": "Richie Furay",
+          "url": "https://open.spotify.com/artist/2KpCZazKx8c2qBDtNXvmvf"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Someone Who Cares",
+      "url": "https://open.spotify.com/track/2eSySlmf3c5114MaxAVaAS"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Black & White",
+        "url": "https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Ten More Miles to Louisiana",
+      "url": "https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Longbranch/Pennywhistle (Remastered)",
+        "url": "https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp"
+      },
+      "artists": [
+        {
+          "name": "Longbranch/Pennywhistle",
+          "url": "https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "Rebecca - Remastered",
+      "url": "https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "Morning Sky",
+      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -787,6 +775,22 @@
       "duration_ms": 172533,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Souther-Hillman-Furay Band",
+        "url": "https://open.spotify.com/album/3Yub0dxn8MQ8ZJjXiAJt8c"
+      },
+      "artists": [
+        {
+          "name": "The Souther-Hillman-Furay Band",
+          "url": "https://open.spotify.com/artist/7hbzXJ5K6AqdPnbUcCL1hL"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "Heavenly Fire",
+      "url": "https://open.spotify.com/track/0y9TcqNyeAQQjo7fVAMEXl"
     }
   ],
   "unique_name": "Country Rock Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKM896FDX8L1.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,703 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,702 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

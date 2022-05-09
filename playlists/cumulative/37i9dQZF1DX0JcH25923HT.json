@@ -142,6 +142,52 @@
     },
     {
       "album": {
+        "name": "47 (Remix)",
+        "url": "https://open.spotify.com/album/0uwIB5LyXa2riRyWUwKiJA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Sinfonico",
+          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517809,
+      "name": "47 - Remix",
+      "url": "https://open.spotify.com/track/6IoKSUyNOOheJRjiuGb1ew"
+    },
+    {
+      "album": {
         "name": "A Correr los Lakers (Remix)",
         "url": "https://open.spotify.com/album/7Acd73tdwlxK04hIx8obfa"
       },
@@ -265,7 +311,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 285585,
       "name": "Abuso",
       "url": "https://open.spotify.com/track/1SRkUC6I28rxLS3XX5DDqE"
@@ -651,7 +697,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 223500,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/6yllTYSMEmOagRltq1VlsP"
@@ -695,7 +741,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 219880,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux"
@@ -1097,7 +1143,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 248373,
       "name": "Caviar",
       "url": "https://open.spotify.com/track/2qEugvU0hYkAkf3IPWlUps"
@@ -1431,7 +1477,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 297000,
       "name": "C\u00e1llese",
       "url": "https://open.spotify.com/track/360mOrU0yolwXKY8z2uEaE"
@@ -1761,7 +1807,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 194760,
       "name": "Euromill\u00f3n",
       "url": "https://open.spotify.com/track/3PkLiVZFchdmUluS9QL8fv"
@@ -1875,7 +1921,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 201290,
       "name": "Fresko",
       "url": "https://open.spotify.com/track/2Zbw0nOYZoKU27sOYbrsv7"
@@ -2027,7 +2073,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 196435,
       "name": "H.I.E.L.O.",
       "url": "https://open.spotify.com/track/6itjKRbqPMmx9fo4PDlLhm"
@@ -2053,7 +2099,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 240253,
       "name": "Hablamos Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
@@ -2181,7 +2227,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 234271,
       "name": "Hoy (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/1BssJgelMGDNOeIy7ZqgOW"
@@ -2881,7 +2927,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 263288,
       "name": "Me Acostumbre (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
@@ -2925,7 +2971,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 158267,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
@@ -3019,7 +3065,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 266966,
       "name": "Me Rolie",
       "url": "https://open.spotify.com/track/72djXv6IXNcNGm7wmkVCLg"
@@ -3461,7 +3507,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 263706,
       "name": "No Vendo Trap - Bizarrap Remix",
       "url": "https://open.spotify.com/track/7H7X5PDvujpoUwPMzHwFCg"
@@ -3669,7 +3715,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 192000,
       "name": "Perdoname Si Llego Tarde",
       "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
@@ -3895,7 +3941,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 194181,
       "name": "PURPURA",
       "url": "https://open.spotify.com/track/0RHazYjaRGLIYPvn6mtRWY"
@@ -3921,7 +3967,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 237428,
       "name": "Quavo #Mododiablo",
       "url": "https://open.spotify.com/track/7HLHYxRkEAWr90BGYxk15F"
@@ -4003,7 +4049,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-23",
+      "date_removed": null,
       "duration_ms": 258146,
       "name": "Quieres Enamorarme (feat. Bryant Myers, Juhn & Baby Rasta)",
       "url": "https://open.spotify.com/track/4zbok3tDaKsnL76CQ07L4L"
@@ -5025,7 +5071,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-09",
       "duration_ms": 283001,
       "name": "Un Ratito Mas",
       "url": "https://open.spotify.com/track/21lnmphofXWWeSSx0PEMjc"

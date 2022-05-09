@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKXQ4mDTEBXq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,552 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,633 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
