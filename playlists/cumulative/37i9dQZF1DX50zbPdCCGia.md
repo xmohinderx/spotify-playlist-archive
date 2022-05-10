@@ -4,10 +4,11 @@
 
 > The best soft rock from the 1970s.
 
-120 songs - 8 hr 24 min - not published yet
+121 songs - 8 hr 28 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Wish I Could\) Hideaway](https://open.spotify.com/track/4PEtvlNGnQIU9gJgURUvzR) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(40th Anniversary Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 3:43 | 2021-11-23 |  |
 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2021-11-23 |  |
 | [All Things Must Pass \- 2020 Mix](https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2020 Mix\)](https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8) | 3:46 | 2021-11-23 |  |
 | [And It Stoned Me \- 2013 Remaster](https://open.spotify.com/track/3n5iUh2Z6P7cnWins22W0F) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:32 | 2021-11-23 |  |
@@ -48,7 +49,7 @@
 | [I Am...I Said \- Single Version](https://open.spotify.com/track/4wOKTOwGVrie2GIbCMEe7U) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Stones](https://open.spotify.com/album/2C5nK3wCqucTJ6QLdb1OVh) | 3:33 | 2021-11-23 |  |
 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 | 2021-11-23 |  |
 | [I Don't Want to Talk About It \- 2008 Remaster](https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:48 | 2021-11-23 |  |
-| [I Found a Reason \- 2015 Remaster](https://open.spotify.com/track/3AFImoxgt7EmXHgpaGLbLt) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:15 | 2021-11-23 |  |
+| [I Found a Reason \- 2015 Remaster](https://open.spotify.com/track/3AFImoxgt7EmXHgpaGLbLt) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:15 | 2021-11-23 | 2022-05-10 |
 | [I'd Have You Anytime \- Remastered 2014](https://open.spotify.com/track/0wZuvGn7nZbKoyKOlwZQMF) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 2:57 | 2021-11-23 |  |
 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 | 2021-11-23 |  |
 | [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj) | 6:06 | 2021-11-23 |  |

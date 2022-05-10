@@ -1,35 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
-  "num_followers": 17996,
+  "num_followers": 17999,
   "original_name": "Viral 50 - Costa Rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA1MzI0MjIzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA1NDEyNzA2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Sufriendo",
-        "url": "https://open.spotify.com/album/3N1bcRqm5JIAzST7cejp0g"
-      },
-      "artists": [
-        {
-          "name": "MYL\u00d8",
-          "url": "https://open.spotify.com/artist/5TpsDaHB9KPoIzkWpub8Zh"
-        },
-        {
-          "name": "Zafra Negra",
-          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "Sufriendo",
-      "url": "https://open.spotify.com/track/3afAUVkCzAtkjiDxrtq6K1"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
@@ -49,7 +29,27 @@
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Sufriendo",
+        "url": "https://open.spotify.com/album/3N1bcRqm5JIAzST7cejp0g"
+      },
+      "artists": [
+        {
+          "name": "MYL\u00d8",
+          "url": "https://open.spotify.com/artist/5TpsDaHB9KPoIzkWpub8Zh"
+        },
+        {
+          "name": "Zafra Negra",
+          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "Sufriendo",
+      "url": "https://open.spotify.com/track/3afAUVkCzAtkjiDxrtq6K1"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
@@ -81,7 +81,23 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "A Man Without Love",
+        "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
+      },
+      "artists": [
+        {
+          "name": "Engelbert Humperdinck",
+          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "A Man Without Love",
+      "url": "https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/58kFj4Po9Ml6IsaptlHM9K"
@@ -105,39 +121,7 @@
       "url": "https://open.spotify.com/track/54ddFMbGCrLfS7nJOE0xbO"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "A Man Without Love",
-        "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
-      },
-      "artists": [
-        {
-          "name": "Engelbert Humperdinck",
-          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "A Man Without Love",
-      "url": "https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Cas Con Sal",
-        "url": "https://open.spotify.com/album/476F4oCLcyTbtDkxXfF98u"
-      },
-      "artists": [
-        {
-          "name": "Canina",
-          "url": "https://open.spotify.com/artist/2qUVhNtHcm4EPbQe2VzrOz"
-        }
-      ],
-      "duration_ms": 178105,
-      "name": "Cas Con Sal",
-      "url": "https://open.spotify.com/track/3NyjT5iayyRhKt2aMPxx3A"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Un Viaje",
         "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
@@ -165,7 +149,7 @@
       "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "RAVE",
         "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
@@ -181,43 +165,7 @@
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "ARRANCARMELO",
-        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 183547,
-      "name": "ARRANCARMELO",
-      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "LA INOCENTE",
-      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Cnv Sound Volums (Kion Studio One Shots)",
         "url": "https://open.spotify.com/album/6sgKeauEUQCd6fJLCHcgs7"
@@ -237,7 +185,43 @@
       "url": "https://open.spotify.com/track/6ioupaJ387IxHQC9RSHMar"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Cas Con Sal",
+        "url": "https://open.spotify.com/album/476F4oCLcyTbtDkxXfF98u"
+      },
+      "artists": [
+        {
+          "name": "Canina",
+          "url": "https://open.spotify.com/artist/2qUVhNtHcm4EPbQe2VzrOz"
+        }
+      ],
+      "duration_ms": 178105,
+      "name": "Cas Con Sal",
+      "url": "https://open.spotify.com/track/3NyjT5iayyRhKt2aMPxx3A"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "LA INOCENTE",
+      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -253,7 +237,23 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "ARRANCARMELO",
+        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 183547,
+      "name": "ARRANCARMELO",
+      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
@@ -273,7 +273,23 @@
       "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Why Am I Like This?",
+        "url": "https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 212713,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
@@ -297,23 +313,7 @@
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Why Am I Like This?",
-        "url": "https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 212713,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
@@ -329,23 +329,7 @@
       "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Versos de un Card\u00edaco",
-        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        }
-      ],
-      "duration_ms": 169536,
-      "name": "Desde Mis Ojos",
-      "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Glizzy Walk 2.5",
         "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
@@ -369,7 +353,71 @@
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "duration_ms": 169536,
+      "name": "Desde Mis Ojos",
+      "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo"
@@ -389,59 +437,7 @@
       "url": "https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Numero 1",
-        "url": "https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6"
-      },
-      "artists": [
-        {
-          "name": "Oscu",
-          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
-        },
-        {
-          "name": "Nobeat",
-          "url": "https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Numero 1",
-      "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
@@ -461,55 +457,27 @@
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Numero 1",
+        "url": "https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Nos Da Igual",
-        "url": "https://open.spotify.com/album/3RQzEGZ1F64jVRUA2MTncJ"
-      },
-      "artists": [
+          "name": "Oscu",
+          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+        },
         {
-          "name": "KG970",
-          "url": "https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb"
+          "name": "Nobeat",
+          "url": "https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Nos Da Igual",
-      "url": "https://open.spotify.com/track/3dyQfqPEASyhbdCnIteJQY"
+      "duration_ms": 164000,
+      "name": "Numero 1",
+      "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
@@ -525,7 +493,23 @@
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Hala Madrid ...y nada m\u00e1s",
         "url": "https://open.spotify.com/album/3P5MjGvpfwLCz0VBciW86q"
@@ -545,7 +529,39 @@
       "url": "https://open.spotify.com/track/1lL7OcPk6lINpeupzqTjSC"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 235470,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Nos Da Igual",
+        "url": "https://open.spotify.com/album/3RQzEGZ1F64jVRUA2MTncJ"
+      },
+      "artists": [
+        {
+          "name": "KG970",
+          "url": "https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Nos Da Igual",
+      "url": "https://open.spotify.com/track/3dyQfqPEASyhbdCnIteJQY"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Si Quieren Frontear",
         "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
@@ -569,23 +585,7 @@
       "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
@@ -601,39 +601,7 @@
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 235470,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Only Love Can Hurt Like This",
-      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Duro 2 Horas",
         "url": "https://open.spotify.com/album/1Gtu3w8lsEZfkxPmu1Y1uF"
@@ -649,7 +617,23 @@
       "url": "https://open.spotify.com/track/1tXPHKD791iwGJxvSKo8oc"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "No tienes motivacion",
         "url": "https://open.spotify.com/album/2XpoTJyZMAlnLlG5wIo82X"
@@ -665,7 +649,7 @@
       "url": "https://open.spotify.com/track/4ON0wg71I7dOCIunXi7sFd"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Mar y Tierra",
         "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
@@ -681,7 +665,39 @@
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Only Love Can Hurt Like This",
+      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
@@ -701,91 +717,7 @@
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/160zbysYKia7DpELpVS0DW"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Soy El Unico",
-        "url": "https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "sun and moon",
-        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 151507,
-      "name": "sun and moon",
-      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Nastinasti",
-        "url": "https://open.spotify.com/album/4qNtILBi5FDS2q5Xeqh87u"
-      },
-      "artists": [
-        {
-          "name": "Underaiki",
-          "url": "https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo"
-        },
-        {
-          "name": "Skisia2",
-          "url": "https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor"
-        }
-      ],
-      "duration_ms": 104120,
-      "name": "Nastinasti",
-      "url": "https://open.spotify.com/track/7GJ12dEAJKEiO4TblfOFGo"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
@@ -801,39 +733,23 @@
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
         }
       ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+      "duration_ms": 155714,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/160zbysYKia7DpELpVS0DW"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
-      "album": {
-        "name": "Sabiduria",
-        "url": "https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 173389,
-      "name": "Gogo Dance",
-      "url": "https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv"
-    },
-    {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Take It Or Squeeze It",
         "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
@@ -853,23 +769,59 @@
       "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
       "album": {
-        "name": "Zeit",
-        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 244365,
-      "name": "Zick Zack",
-      "url": "https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N"
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Nastinasti",
+        "url": "https://open.spotify.com/album/4qNtILBi5FDS2q5Xeqh87u"
+      },
+      "artists": [
+        {
+          "name": "Underaiki",
+          "url": "https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo"
+        },
+        {
+          "name": "Skisia2",
+          "url": "https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor"
+        }
+      ],
+      "duration_ms": 104120,
+      "name": "Nastinasti",
+      "url": "https://open.spotify.com/track/7GJ12dEAJKEiO4TblfOFGo"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Sabiduria",
+        "url": "https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 173389,
+      "name": "Gogo Dance",
+      "url": "https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "To Hell With The Devil",
         "url": "https://open.spotify.com/album/4LAVjeUmJl3h3U44sMRrfm"
@@ -885,7 +837,23 @@
       "url": "https://open.spotify.com/track/4t8OmZERfkdkRr4aoYa2h1"
     },
     {
-      "added_at": "2022-05-08 11:23:43",
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
       "album": {
         "name": "Ya No Somos Ni Seremos",
         "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
@@ -899,6 +867,38 @@
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "Soy El Unico",
+        "url": "https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN"
+    },
+    {
+      "added_at": "2022-05-09 11:58:26",
+      "album": {
+        "name": "sun and moon",
+        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 151507,
+      "name": "sun and moon",
+      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",

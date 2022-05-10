@@ -4,11 +4,12 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-46 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
+47 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Boliyan\) Geetan Da Guldasta](https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [The King \(Greatest Hits\)](https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH) | 4:58 | 2021-11-03 |  |
+| [Akhiyan](https://open.spotify.com/track/6nWQzsV1tlApW5oVkqkXUu) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Akhiyan](https://open.spotify.com/album/6dK7TsanTfxj28TaFiQyPC) | 2:36 | 2022-05-09 |  |
 | [Akhiyan Ch Tu Vasda](https://open.spotify.com/track/6sPPCGilVdL9L3R3YCVjDX) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 4:00 | 2021-11-03 |  |
 | [Babul \(Live\)](https://open.spotify.com/track/0kwvNhB7n6og4rAM9DrQA4) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\) \- Single](https://open.spotify.com/album/1q77LT1cF0ZNMDsnYpeRTi) | 4:01 | 2021-11-03 |  |
 | [Bati Baal Ke](https://open.spotify.com/track/2RQj3BktqBSCYlvns7lM9Z) | [Maanya Arora](https://open.spotify.com/artist/2yis41rltks0pQr6nCBAD6) | [Bati Baal Ke](https://open.spotify.com/album/3LkK5f4Jub3h8HdvzHqIyq) | 3:44 | 2021-11-03 |  |

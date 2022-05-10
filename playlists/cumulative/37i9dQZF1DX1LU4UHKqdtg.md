@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: LE SSERAFIM
 
-183 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+184 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-23 | 2022-02-05 |
 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-04 |  |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-29 |  |
+| [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 |  |
 | [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-04 |  |
 | [GUNS](https://open.spotify.com/track/6AGVVXBzy9h5nnroeAc0hN) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:15 | 2022-02-08 | 2022-03-09 |
 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 | 2022-03-18 |  |

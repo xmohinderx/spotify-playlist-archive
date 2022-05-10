@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=9z4kSvcQT1mcUPt2daKp5Q" > Victony</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,847 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,561 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

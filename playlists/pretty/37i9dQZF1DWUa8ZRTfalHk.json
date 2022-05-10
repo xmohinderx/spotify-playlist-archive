@@ -1,28 +1,28 @@
 {
   "description": "The hits of tomorrow are on Spotify today. Cover: Dermot Kennedy",
-  "num_followers": 2504050,
+  "num_followers": 2504767,
   "original_name": "Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDVjODAwMDAwMTgwOTc4NjQzMDMwMDAwMDE4MDk2NzJiYmIz",
+  "snapshot_id": "MTY1MjEyMzE4MCwwMDAwMDVjOTAwMDAwMTgwYWEzNzFmODgwMDAwMDE4MDk2NzJiYmIz",
   "tracks": [
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Something to Someone",
-        "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Something to Someone",
-      "url": "https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X"
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -43,18 +43,34 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+        "name": "Something to Someone",
+        "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+      "duration_ms": 198106,
+      "name": "Something to Someone",
+      "url": "https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -87,22 +103,6 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -155,18 +155,22 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
       },
       "artists": [
         {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 171946,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
+      "duration_ms": 193322,
+      "name": "Honest (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -223,6 +227,54 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
+        "name": "MEAN!",
+        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "duration_ms": 143957,
+      "name": "MEAN!",
+      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -255,58 +307,6 @@
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 193322,
-      "name": "Honest (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Thousand Miles",
-        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 164781,
-      "name": "Thousand Miles",
-      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "MEAN!",
-        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 143957,
-      "name": "MEAN!",
-      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
       "added_at": "2022-05-06 04:00:00",

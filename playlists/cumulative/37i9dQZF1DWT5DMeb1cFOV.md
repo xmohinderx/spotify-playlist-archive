@@ -4,7 +4,7 @@
 
 > Per trovare il buonumore, anche a lavoro!
 
-60 songs - 3 hr 12 min - not published yet
+62 songs - 3 hr 19 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Lalalalalalalalalala](https://open.spotify.com/track/50lGACkcuNaEdJQt6OXbjT) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Lalalalalalalalalala](https://open.spotify.com/album/3ngmPYzT40f1OXyRv7ONLD) | 2:41 | 2022-04-13 |  |
 | [Lean On Me](https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Lean On Me](https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs) | 3:02 | 2022-04-13 |  |
 | [Lease On Life](https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Lease On Life](https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK) | 2:48 | 2022-04-13 |  |
-| [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 | 2022-04-13 |  |
+| [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 | 2022-04-13 | 2022-05-10 |
 | [Life](https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i) | 3:36 | 2022-04-13 |  |
 | [Like I Can](https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:47 | 2022-04-13 |  |
 | [Lion \- Acoustic](https://open.spotify.com/track/3RjnoBsOWcyUV5Et0Pow16) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lion \- Acoustic](https://open.spotify.com/album/2v0PW8pRzzR3nhsxyZgXHn) | 2:47 | 2022-04-13 |  |
@@ -56,10 +56,11 @@
 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 | 2022-04-13 |  |
 | [Sitting Down Here](https://open.spotify.com/track/2NwXOuYLEbyhlQzDtoANul) | [Lene Marlin](https://open.spotify.com/artist/5TrH0BhpRgs2gkOb992bGC) | [Playing My Game](https://open.spotify.com/album/2uOhhD5z1ANhNgEmnROk0N) | 3:54 | 2022-04-13 |  |
 | [Someone To You](https://open.spotify.com/track/6cufDC8WB5AZNSL3ZH2mgV) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Someone To You](https://open.spotify.com/album/2fll9e8DLt71PNZ27UQNqm) | 3:39 | 2022-04-13 |  |
+| [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2022-04-13 |  |
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2022-04-13 |  |
 | [Sunday Best \- Acoustic Version](https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best \(Acoustic Version\)](https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu) | 2:30 | 2022-04-13 |  |
 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/4SPLWgCPoKwULz2UTM8TKg) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:34 | 2022-04-13 |  |
-| [That’s What She Said](https://open.spotify.com/track/5INngKcgBFREX6nuPQLnNk) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Getaway \(Into My Imagination\)](https://open.spotify.com/album/23uy4Kkz1wiCRKLXNb3C0Q) | 2:55 | 2022-04-13 |  |
+| [That’s What She Said](https://open.spotify.com/track/5INngKcgBFREX6nuPQLnNk) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Getaway \(Into My Imagination\)](https://open.spotify.com/album/23uy4Kkz1wiCRKLXNb3C0Q) | 2:55 | 2022-04-13 | 2022-05-10 |
 | [Thousand Faces](https://open.spotify.com/track/4m4dmiW49WkRkSWliJ5Zoj) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Thousand Faces](https://open.spotify.com/album/4vDUyNCzRKIBSHTSnAUwbb) | 2:58 | 2022-04-13 |  |
 | [Wasted](https://open.spotify.com/track/5HUfKHpYUG2Q5qtuVJ9IE3) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Wasted](https://open.spotify.com/album/6kdwiQJEmAhrNPo9mvhD8m) | 2:45 | 2022-04-13 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-04-13 |  |
@@ -68,5 +69,6 @@
 | [Who's Laughing Now](https://open.spotify.com/track/73h4oe03sZy8bXfQLfnqMv) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Who's Laughing Now](https://open.spotify.com/album/4mxU9BZA47n0hZbQ220Q5B) | 3:00 | 2022-04-13 |  |
 | [Why So Serious](https://open.spotify.com/track/50tGR9MkWXug4dCvshHo8s) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Why So Serious](https://open.spotify.com/album/11hecjvc4fhgngamOIxdXW) | 3:43 | 2022-04-13 |  |
 | [Wild Ones \- Nightcall Remix](https://open.spotify.com/track/5rUTxVxfvEA4wdEecWm7el) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn) | [Wild Ones \(Nightcall Remix\)](https://open.spotify.com/album/1OczM3udGYiO41hJtwFIwB) | 2:57 | 2022-04-13 |  |
+| [Wonderful Life](https://open.spotify.com/track/1C0bWhNWIF3yBdjNh4GlCT) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Ultimate Collection](https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u) | 4:04 | 2022-04-13 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

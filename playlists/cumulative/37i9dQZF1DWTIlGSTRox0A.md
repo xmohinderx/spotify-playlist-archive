@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2007! Cover: Amy Winehouse
 
-100 songs - 6 hr 32 min - not published yet
+101 songs - 6 hr 36 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2020-11-04 |  |
 | [I Wanna Love You](https://open.spotify.com/track/6NncjnSD7JLEetWb9KqMRY) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 4:07 | 2020-11-04 |  |
 | [Irreplaceable](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:47 | 2020-11-04 |  |
-| [Keep Holding On](https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:59 | 2020-11-04 |  |
+| [Keep Holding On](https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:59 | 2020-11-04 | 2022-05-10 |
 | [La paranza](https://open.spotify.com/track/2m3BCcthxDo4o4JTJ3CejS) | [Daniele Silvestri](https://open.spotify.com/artist/6q8f3fxaWqkXzkbxtKOzYF) | [Il Latitante](https://open.spotify.com/album/6aUsZJcJCteTsxfl1j48cS) | 4:08 | 2020-11-04 |  |
 | [Last Night](https://open.spotify.com/track/24NPziq3dayIMKppeI94Um) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Just Like You](https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD) | 4:15 | 2020-11-04 |  |
 | [Let Me Think About It](https://open.spotify.com/track/0QrfZiv1ARuht0oPwWeyJ2) | [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Singled Out](https://open.spotify.com/album/6QdawmGdfoAHiHITJ7Bj0B) | 2:31 | 2020-11-04 |  |
@@ -96,6 +96,7 @@
 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 | 2020-11-04 |  |
 | [The Sweet Escape](https://open.spotify.com/track/07K4GcCDSTiXUF5ssyTRUM) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU) | 4:06 | 2020-11-04 |  |
 | [The Way I Are](https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww) | [Shock Value](https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z) | 2:59 | 2020-11-04 |  |
+| [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 | 2020-11-04 |  |
 | [Ti regalerò una rosa](https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz) | [Dall'altra parte del cancello](https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw) | 3:48 | 2020-11-04 |  |
 | [Ti scatterò una foto](https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Nessuno è solo](https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi) | 4:32 | 2020-11-04 |  |
 | [Torno subito](https://open.spotify.com/track/0TfP94FD2AYBxysnkEo5AE) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [Time out](https://open.spotify.com/album/2R3yrsJcYw89q5yrBpacbm) | 4:01 | 2020-11-04 |  |

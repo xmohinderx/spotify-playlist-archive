@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309 likes - 155 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310 likes - 155 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 98 | [Hurting on Purpose \(feat\. K.Flay\)](https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 2:09 |
 | 99 | [Better](https://open.spotify.com/track/7mu0nb8PR5mpquEbwbMe6j) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:11 |
 | 100 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 |
-| 101 | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/track/0l9Iw63br78PdwmjNzwmOj) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Victoria Zaro](https://open.spotify.com/artist/3QLQxutu868fKgeEkEgXW0) | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/album/76jSo7nMbW3o3lYBryCTyV) | 2:51 |
-| 102 | [Talk You Down](https://open.spotify.com/track/5y41zHFubnN6T5TpU8wHOx) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 2:36 |
+| 101 | [Talk You Down](https://open.spotify.com/track/5y41zHFubnN6T5TpU8wHOx) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 2:36 |
+| 102 | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/track/0l9Iw63br78PdwmjNzwmOj) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Victoria Zaro](https://open.spotify.com/artist/3QLQxutu868fKgeEkEgXW0) | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/album/76jSo7nMbW3o3lYBryCTyV) | 2:51 |
 | 103 | [Rule The World](https://open.spotify.com/track/44sjRqAOKmsUkUiVdAjUWA) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Most Wanted: The Greatest Hits \(Deluxe\)](https://open.spotify.com/album/7JrRph3NlBQciLSN1WBRfQ) | 3:18 |
 | 104 | [Didn't I](https://open.spotify.com/track/7jhCqJlmx37u8o0xo2bjaj) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:38 |
 | 105 | [See You Later](https://open.spotify.com/track/4Fn3jsImMdfQzsvtU3o8CW) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I'm Sorry I Love You \- EP](https://open.spotify.com/album/5DplyhOUuIy3xuAdS7rfqL) | 2:42 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 154 | [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 |
 | 155 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 
-Snapshot ID: `Mjc1MzQzMDQsMDAwMDAwMDBiYjkyYWNkZTU2NjllMzgzYjRjZmY4NDQ2N2FmNjVkYQ==`
+Snapshot ID: `Mjc1MzU3NDQsMDAwMDAwMDBmOGJlY2E5YThlNzUzNzkyYzljNDdhZTEzOWYwMjc5NQ==`

@@ -6,6 +6,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2step (feat. Ultimo)",
+        "url": "https://open.spotify.com/album/3TDdlYSrE5WuOTiuyr9tTl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "2step (feat. Ultimo)",
+      "url": "https://open.spotify.com/track/7mxEWcW3A0jULs64ckyq9k"
+    },
+    {
+      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -57,7 +79,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 198368,
       "name": "All For You",
       "url": "https://open.spotify.com/track/7DMbkEORs1vmAevc4TD8KC"
@@ -75,7 +97,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
@@ -199,7 +221,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU"
@@ -257,7 +279,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 221748,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/7HcaM7gc9YB2JAwxq1sfjT"
@@ -341,6 +363,28 @@
       "duration_ms": 163000,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/1pvUilXlvXaburqYE4A8hE"
+    },
+    {
+      "album": {
+        "name": "Chucks",
+        "url": "https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169538,
+      "name": "Chucks",
+      "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
     },
     {
       "album": {
@@ -1230,6 +1274,28 @@
     },
     {
       "album": {
+        "name": "Nights Like That / Unbreakable",
+        "url": "https://open.spotify.com/album/4XSDaXO8X1WknHiR2jJzT0"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192181,
+      "name": "Nights Like That (feat. Georgia Ku)",
+      "url": "https://open.spotify.com/track/1FHZyJ35kZ8DaLVOlhOIYK"
+    },
+    {
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR"
       },
@@ -1499,7 +1565,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 182564,
       "name": "Run Into Trouble",
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
@@ -1591,6 +1657,42 @@
       "duration_ms": 192920,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3OUlwrGsM6xGuA66YVpeGT"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/1w197Eogn2NRkSmZQFNcKi"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/6pU7kdmhRvhc8twYRl14bD"
+    },
+    {
+      "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/4dNB3Gat1KKAIzIaFKNRM1"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152744,
+      "name": "Somebody You Like",
+      "url": "https://open.spotify.com/track/43IcAhi0JNBOSqMuHonWQx"
     },
     {
       "album": {

@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 234540,
       "name": "Bookoo Bucks",
       "url": "https://open.spotify.com/track/6zdVd206eHcQ5GuDvCSGcZ"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 177919,
       "name": "Fear of God (feat. DeJ Loaf)",
       "url": "https://open.spotify.com/track/7rCFv0g9WBpE7tA0MQENds"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 568129,
       "name": "Friday Night Cypher (feat. Tee Grizzley, Kash Doll, Cash Kidd, Payroll, 42 Dugg, Boldy James, Drego, Sada Baby, Royce Da 5'9\", and Eminem)",
       "url": "https://open.spotify.com/track/2kY2ROHIGdp3aA6ahqaUKm"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 158684,
       "name": "From The D To The A (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2NyrXRn4tancYPW6JwtTl2"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-18",
+      "date_removed": null,
       "duration_ms": 143181,
       "name": "Kobe Bryant",
       "url": "https://open.spotify.com/track/7sYtgBHnF2D1mgA7vNXig1"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 202183,
       "name": "Prove It (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6z7jvqBQtyNLxaKALqT67c"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 339506,
       "name": "Seeing Green (with Drake & Lil Wayne)",
       "url": "https://open.spotify.com/track/1TZv3bujNaYz646eezRE91"
@@ -1509,6 +1509,24 @@
       "duration_ms": 232443,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/5s5uXmeBIDEX7OKLlNjeI6"
+    },
+    {
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
     },
     {
       "album": {
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 143152,
       "name": "Woodlawn",
       "url": "https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 138000,
       "name": "Worked Hard",
       "url": "https://open.spotify.com/track/00V76gpjbXHTGQJKa2l6yC"

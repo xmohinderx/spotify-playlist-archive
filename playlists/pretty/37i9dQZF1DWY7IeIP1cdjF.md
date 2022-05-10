@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Cris Mj, Bad Bunny, Karol G, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,454,750 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,455,450 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

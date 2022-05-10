@@ -1452,6 +1452,28 @@
     },
     {
       "album": {
+        "name": "Disney Ukulele: Soothing",
+        "url": "https://open.spotify.com/album/4s0t0BbmkfB9iESE8FGRaa"
+      },
+      "artists": [
+        {
+          "name": "Disney Ukulele",
+          "url": "https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155909,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/3Ak0AtnSK0QECEPKHupxkC"
+    },
+    {
+      "album": {
         "name": "Disney Baby Sweet Dreams and Lullabies",
         "url": "https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg"
       },

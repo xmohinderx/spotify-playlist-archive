@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2003! Cover: Tiziano Ferro
 
-100 songs - 6 hr 34 min - not published yet
+101 songs - 6 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Prima di partire per un lungo viaggio](https://open.spotify.com/track/7EURXaCUASIJgd2wxFD1pk) | [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H) | [Prima di partire](https://open.spotify.com/album/3RVCKhgHWueJJOXSAzI7Na) | 3:52 | 2020-11-04 |  |
 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 | 2020-11-04 |  |
 | [Ragazze Acidelle](https://open.spotify.com/track/6lS8dyBRGPlhvZqDKzPkpx) | [Flaminio Maphia](https://open.spotify.com/artist/2eOUhfCFmHm4zqfKaLNSBH) | [Er Mejo 1997\-2010](https://open.spotify.com/album/7qjBn18akikFpNjN3MdZKw) | 3:43 | 2020-11-04 |  |
+| [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 | 2020-11-04 |  |
 | [Rise & Fall \(feat\. Sting\)](https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 4:47 | 2020-11-04 |  |
 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 | 2020-11-04 |  |
 | [Satisfaction \(Isak Original Extended\) \- Benny Benassi Presents The Biz](https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER) | 4:45 | 2020-11-04 |  |
@@ -106,7 +107,7 @@
 | [Voglio vederti danzare \- Radio Version](https://open.spotify.com/track/1AUQYchnMNYfNu15W6OQqv) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Marvin](https://open.spotify.com/artist/0MQjWOlXYUAlvDpF2PaJ8f), [Andrea Prezioso](https://open.spotify.com/artist/7eLZWdDUVeVmwQMf86njuc) | [Voglio vederti danzare](https://open.spotify.com/album/343nTm6FMkXp3xYLl9R4FD) | 3:45 | 2020-11-04 |  |
 | [Where Is The Love?](https://open.spotify.com/track/1FreAz1lmnDi5aKLB6GdFM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/4jOESXHbPsfy1IYdyvwjYI) | 4:32 | 2020-11-04 |  |
 | [White Flag](https://open.spotify.com/track/5ht9FVBi07F48ZAfIf7WdC) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/5N4Ruwnt4hgFjuVFjCekGW) | 4:00 | 2020-11-04 |  |
-| [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2020-11-04 |  |
+| [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2020-11-04 | 2022-05-10 |
 | [Xverso](https://open.spotify.com/track/60zS0V5Qdh9eaQ9TV1MpTK) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 3:51 | 2020-11-04 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

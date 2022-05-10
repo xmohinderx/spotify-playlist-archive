@@ -4,7 +4,7 @@
 
 > Soft and moody jazz for a rainy day.
 
-118 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
+119 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Some Other Time](https://open.spotify.com/track/4PWfrnO8uHHaym7JmlPeB3) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Some Other Time](https://open.spotify.com/album/3gfJkuMpRxheBsyQf5Sbc1) | 5:16 | 2021-12-14 |  |
 | [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 | 2022-01-26 |  |
 | [Sometimes](https://open.spotify.com/track/5cSBt7nIxZ8oRhUmn5YbT0) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Sometimes](https://open.spotify.com/album/26YUzNz77yd2ca8gLBSqXT) | 3:03 | 2022-04-01 |  |
+| [Somewhat Melancholy](https://open.spotify.com/track/3uMnKzPcOo1Hz1MUhjSX8o) | [The Greenview](https://open.spotify.com/artist/6YZKrUAZXUSmE4d74re04P) | [One Day I Wrote Her Name](https://open.spotify.com/album/20wkflrP7lt5uZxdJFLBHn) | 3:17 | 2022-05-09 |  |
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/3I9jByU1f1o45YfxPrsCWI) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Somewhere Over the Rainbow](https://open.spotify.com/album/2zTKHtbXJclLO5YKvLTITF) | 2:57 | 2021-12-14 |  |
 | [Soul Eyes](https://open.spotify.com/track/2WwFItAZw5RcYv3rECNFIZ) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:43 | 2021-12-14 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/0vVCgSoFIlPrLKzPgZ9sUN) | [Dave Peck](https://open.spotify.com/artist/2KzrnvIOUq0N3w0fEcJlES) | [Trio](https://open.spotify.com/album/09gOqXkme0kvY0n32naCqY) | 6:38 | 2022-01-27 |  |

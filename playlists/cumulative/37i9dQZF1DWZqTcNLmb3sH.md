@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-218 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+219 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Kutti Thatti](https://open.spotify.com/track/1UZKKk6eyEqa1YO3CocCAZ) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Apoorva Shridhar](https://open.spotify.com/artist/40xdWaWd34I26eL49yATc1) | [Garudaksha](https://open.spotify.com/album/6EuGzfzsQi8wMcNkZ3tgXn) | 4:21 | 2022-01-07 | 2022-01-12 |
 | [Laddoo Song \(From "Avatar Purusha"\)](https://open.spotify.com/track/6gAtWyjrZ76MNk7E7oHsQi) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF) | [Laddoo Song \(From "Avatar Purusha"\)](https://open.spotify.com/album/7wIYs66yAHvM6fioO6IdJB) | 3:25 | 2021-12-06 | 2022-03-18 |
 | [Life Of Charlie \(From "777 Charlie"\)](https://open.spotify.com/track/2OoPe054zjYm6v4FjKsikz) | [Nobin Paul](https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf), [Shubham Roy](https://open.spotify.com/artist/6yon1QQ3G3GGhK8g67F7Io) | [Life Of Charlie \(From "777 Charlie"\)](https://open.spotify.com/album/2TJXTtR3GukhFdrGy2urqe) | 1:27 | 2021-12-06 | 2022-03-18 |
+| [Liger Hunt Teaser \(Kannada\) \[From "Liger \(Kannada\)"\]](https://open.spotify.com/track/0SAbUJwbMYO5IxQ4sjL6dN) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [Liger Hunt Teaser \(Kannada\) \[From "Liger \(Kannada\)"\]](https://open.spotify.com/album/4nLEm0tXRRYjgQFiZGIMDH) | 1:31 | 2022-05-09 |  |
 | [Mad For You Dear](https://open.spotify.com/track/2h8hBq8cx60Yp4evvgEHWx) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Garuda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5H8DLlxxjTJ0X7S4059yN8) | 3:38 | 2022-01-03 | 2022-01-12 |
 | [Madhagaja Title Track](https://open.spotify.com/track/4OJGNceQFjm2Obedak2mN2) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [Madhagaja](https://open.spotify.com/album/4q1pWU4OKvEW5mcRt419VI) | 3:38 | 2021-12-06 |  |
 | [Magale Muddu Magale \(From "Savitri"\)](https://open.spotify.com/track/1ztbc43uWxxHLmhmQqspQH) | [Hridaya Shiva](https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn), [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA) | [Magale Muddu Magale \(From "Savitri"\)](https://open.spotify.com/album/64oIKwBHzRKJFqPNej4wGl) | 5:05 | 2022-01-24 | 2022-02-16 |

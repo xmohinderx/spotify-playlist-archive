@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring  Jack Harlow, Future, and Lil Tjay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,089,930 likes - 86 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,090,192 likes - 86 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

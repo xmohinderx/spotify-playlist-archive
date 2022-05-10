@@ -142,6 +142,28 @@
     },
     {
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339611,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed seguimos",
         "url": "https://open.spotify.com/album/5uclJItFnUVNvdMKqxx2af"
       },
@@ -585,7 +607,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 219960,
       "name": "diamantes \u2727\u2727",
       "url": "https://open.spotify.com/track/02uy9ONTBAMXMisKRUeaoD"
@@ -1562,6 +1584,50 @@
     },
     {
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244444,
+      "name": "Otro Atardecer",
+      "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
+    },
+    {
+      "album": {
         "name": "Curandero",
         "url": "https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW"
       },
@@ -1903,7 +1969,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 206826,
       "name": "SATURN",
       "url": "https://open.spotify.com/track/6aNfreVnFvPTHfziRmLsFW"
@@ -2121,7 +2187,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 239546,
       "name": "To My Love",
       "url": "https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp"

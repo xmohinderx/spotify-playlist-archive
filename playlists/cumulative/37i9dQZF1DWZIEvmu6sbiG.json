@@ -82,6 +82,24 @@
     },
     {
       "album": {
+        "name": "Razorlight",
+        "url": "https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249760,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6bS7DqTuzrpkluB7boWmw2"
+    },
+    {
+      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -190,6 +208,42 @@
     },
     {
       "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
+    },
+    {
+      "album": {
+        "name": "Daniel Powter (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4JWtkO5RBU3Z3o40112pbh"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233919,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/2Pwm2YtneLSWi7vyUpT5fs"
+    },
+    {
+      "album": {
         "name": "Welcome to Wherever You Are",
         "url": "https://open.spotify.com/album/66ocxSzZ98wk1rWNfrvU8u"
       },
@@ -208,6 +262,24 @@
     },
     {
       "album": {
+        "name": "Urban Hymns",
+        "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358426,
+      "name": "Bitter Sweet Symphony",
+      "url": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
+    },
+    {
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/7K77V3y6amFewbD01gZhby"
       },
@@ -223,6 +295,24 @@
       "duration_ms": 217935,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
+    },
+    {
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269920,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "album": {
@@ -295,7 +385,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 266346,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/0rpIH5otu7ykvZPdcQuRPh"
@@ -317,6 +407,24 @@
       "duration_ms": 203266,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z"
+    },
+    {
+      "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351626,
+      "name": "Common People",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
     },
     {
       "album": {
@@ -429,7 +537,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
@@ -483,10 +591,28 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 193200,
       "name": "Faith - Remastered",
       "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
+    {
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "album": {
@@ -541,7 +667,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 195000,
       "name": "Flames",
       "url": "https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV"
@@ -757,7 +883,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 230000,
       "name": "Ironic - 2015 Remaster",
       "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
@@ -797,6 +923,24 @@
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
     },
     {
       "album": {
@@ -1013,6 +1157,24 @@
       "duration_ms": 213266,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+    },
+    {
+      "album": {
+        "name": "You Gotta Go There To Come Back",
+        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272946,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
     },
     {
       "album": {
@@ -1236,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "Honky Chateau (Remastered)",
+        "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
+    },
+    {
+      "album": {
         "name": "Making Movies",
         "url": "https://open.spotify.com/album/3wvclpO3LJmpSQGQ9gBa2a"
       },
@@ -1265,7 +1445,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 242733,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj"
@@ -1301,7 +1481,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 241693,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/3CKCZ9pfwAfoMZlMncA1Nc"
@@ -1503,7 +1683,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 279440,
       "name": "Sunday Bloody Sunday - Remastered 2008",
       "url": "https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW"
@@ -1528,6 +1708,24 @@
     },
     {
       "album": {
+        "name": "Lessons To Be Learned",
+        "url": "https://open.spotify.com/album/4Bc2LrXbkvNCH99ZSFzhhD"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Cilmi",
+          "url": "https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "Sweet About Me",
+      "url": "https://open.spotify.com/track/5wznxkB792LjSRdbZ1J1zo"
+    },
+    {
+      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/1HpFYNRbT6bSc29yt1njK9"
       },
@@ -1543,6 +1741,24 @@
       "duration_ms": 332125,
       "name": "Tea For Two",
       "url": "https://open.spotify.com/track/6cvFaPELAkWOJsypOptzZ6"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7ynKEunH8LSit4TR3foMVC"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/3yP0cohcr97BUNJcgvmSVg"
     },
     {
       "album": {
@@ -1593,7 +1809,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 267066,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/5q965S5loVSO7PcGkPRGUx"
@@ -1647,7 +1863,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 269600,
       "name": "What About Us",
       "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
@@ -1759,7 +1975,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 312360,
       "name": "Wind Of Change",
       "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
@@ -1795,7 +2011,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 258906,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/3UNAMgNHKl0fWzbZaU0fDM"

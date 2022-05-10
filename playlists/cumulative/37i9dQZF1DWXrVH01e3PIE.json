@@ -466,6 +466,28 @@
     },
     {
       "album": {
+        "name": "POST MORTEM",
+        "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
+      },
+      "artists": [
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        },
+        {
+          "name": "Muerejoven",
+          "url": "https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177575,
+      "name": "COACH",
+      "url": "https://open.spotify.com/track/6YbzhSDVIz6zG9Hf7CoNUc"
+    },
+    {
+      "album": {
         "name": "CON OTRA",
         "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
       },
@@ -2379,7 +2401,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 120944,
       "name": "TRYHARD",
       "url": "https://open.spotify.com/track/7vUpvwHlTdb7lrE3WwfVgS"

@@ -1,29 +1,13 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 68612,
+  "num_followers": 68708,
   "original_name": "Enganchados: Lentos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA1Nzk5NSwwMDAwMDAwMGNjOGM5Y2MxNWEwYzhjMTEwZDEzNGEwNTYyN2Y4ZjZh",
+  "snapshot_id": "MTY1MjE0NDE2MCwwMDAwMDAwMDc4NWQ4NGY0M2QxYmFlMjdlZjI5ZjhhZjQ0ZWYxNzA1",
   "tracks": [
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Sleeping With The Past (Remastered with bonus tracks)",
-        "url": "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 304133,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
-    },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 293573,
       "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\"",
       "url": "https://open.spotify.com/track/2niWeDbz2OMvOwH57tbCm4"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Sleeping With The Past (Remastered with bonus tracks)",
+        "url": "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 304133,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -75,34 +75,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "All Out Of Love",
-        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
+        "name": "Chicago 16 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 341746,
-      "name": "Making Love Out of Nothing at All",
-      "url": "https://open.spotify.com/track/01MXkFA8sL7at6txavDErt"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+      "duration_ms": 221826,
+      "name": "Hard to Say I'm Sorry - 2009 Remaster",
+      "url": "https://open.spotify.com/track/5nDSJO4909uNzMcZH3CggS"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -123,34 +107,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Chicago 16 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
+        "name": "All Out Of Love",
+        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
       },
       "artists": [
         {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 221826,
-      "name": "Hard to Say I'm Sorry - 2009 Remaster",
-      "url": "https://open.spotify.com/track/5nDSJO4909uNzMcZH3CggS"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Joyride (2009 Version)",
-        "url": "https://open.spotify.com/album/5Q4kTNheoI86WVk1YQKt4x"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 275666,
-      "name": "Spending My Time",
-      "url": "https://open.spotify.com/track/18eqtLHIuDSnx54o0IRUy0"
+      "duration_ms": 341746,
+      "name": "Making Love Out of Nothing at All",
+      "url": "https://open.spotify.com/track/01MXkFA8sL7at6txavDErt"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -187,130 +155,34 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
-        "url": "https://open.spotify.com/album/565HTqHjIx6LIELWCWjt8F"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
       "artists": [
         {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 249249,
-      "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
-      "url": "https://open.spotify.com/track/28ZCSdsVrt0BCaBhRI0HXq"
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
     },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "The Earth Is...",
-        "url": "https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3"
+        "name": "Joyride (2009 Version)",
+        "url": "https://open.spotify.com/album/5Q4kTNheoI86WVk1YQKt4x"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 272626,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "The Greatest Hits 1970-2002",
-        "url": "https://open.spotify.com/album/6nvd1pwRgLrMez7fIiDq8z"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 351386,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3YpkVhRNeKVaSXUaG2TKs9"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 243693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 289106,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 242453,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/1Ih6wTuQems9OkYTzcZdhM"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "I Don't Want To Miss A Thing EP",
-        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 299760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+      "duration_ms": 275666,
+      "name": "Spending My Time",
+      "url": "https://open.spotify.com/track/18eqtLHIuDSnx54o0IRUy0"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -331,34 +203,98 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "A Night At The Opera",
-        "url": "https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L"
+        "name": "The Greatest Hits 1970-2002",
+        "url": "https://open.spotify.com/album/6nvd1pwRgLrMez7fIiDq8z"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 217386,
-      "name": "Love Of My Life",
-      "url": "https://open.spotify.com/track/29YPctSVbfAND4qhT15lUO"
+      "duration_ms": 351386,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3YpkVhRNeKVaSXUaG2TKs9"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "The Earth Is...",
+        "url": "https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 289106,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
+        "url": "https://open.spotify.com/album/565HTqHjIx6LIELWCWjt8F"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 249249,
+      "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
+      "url": "https://open.spotify.com/track/28ZCSdsVrt0BCaBhRI0HXq"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "I Don't Want To Miss A Thing EP",
+        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 299760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -379,82 +315,66 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96"
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 313226,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw"
+      "duration_ms": 243693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9"
     },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+      "duration_ms": 242453,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/1Ih6wTuQems9OkYTzcZdhM"
     },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7mpaRCyqIZ5Tj5wTB5612U"
+        "name": "A Night At The Opera",
+        "url": "https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L"
       },
       "artists": [
         {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 235666,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/5g3ZD7PmrEQlQZKDW91yGG"
+      "duration_ms": 217386,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/29YPctSVbfAND4qhT15lUO"
     },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 312306,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Automatic For The People (U.S. Version)",
-        "url": "https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 318240,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW"
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -475,50 +395,34 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Soul Provider",
-        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7mpaRCyqIZ5Tj5wTB5612U"
       },
       "artists": [
         {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
         }
       ],
-      "duration_ms": 255666,
-      "name": "How Am I Supposed to Live Without You",
-      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
+      "duration_ms": 235666,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/5g3ZD7PmrEQlQZKDW91yGG"
     },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -539,18 +443,86 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "...But Seriously",
-        "url": "https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9"
+        "name": "Automatic For The People (U.S. Version)",
+        "url": "https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 327826,
-      "name": "I Wish It Would Rain Down",
-      "url": "https://open.spotify.com/track/7pJLv39T2zogTmKRJbx2lf"
+      "duration_ms": 318240,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "The Colour Of My Love",
+        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "All The Best (UK Version)",
+        "url": "https://open.spotify.com/album/5KmV008tb0n0xusPf75Kd7"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5QN44mkwFWRhJ0H1VuGoho"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Last of the Independents",
+        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -571,24 +543,40 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 229880,
-      "name": "I'll Be Over You",
-      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+      "duration_ms": 313226,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw"
     },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "The Colour Of My Love",
-        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+        "name": "Soul Provider",
+        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "How Am I Supposed to Live Without You",
+      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
       "artists": [
         {
@@ -596,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 342400,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+      "duration_ms": 312306,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -635,50 +623,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -699,34 +655,34 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Ladies & Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/5MRiPO4wmZXzSo8ybow8UP"
+        "name": "20th Century Masters: The Millennium Collection: Best Of 10CC",
+        "url": "https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 300106,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/5DAeqwfoRbp5u6oUBtNYec"
+      "duration_ms": 368226,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM"
     },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Ultimate Manilow",
-        "url": "https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG"
+        "name": "...But Seriously",
+        "url": "https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9"
       },
       "artists": [
         {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Mandy",
-      "url": "https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8"
+      "duration_ms": 327826,
+      "name": "I Wish It Would Rain Down",
+      "url": "https://open.spotify.com/track/7pJLv39T2zogTmKRJbx2lf"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -747,54 +703,82 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+        "name": "Ultimate Manilow",
+        "url": "https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
         }
       ],
-      "duration_ms": 273666,
-      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
-      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
+      "duration_ms": 197733,
+      "name": "Mandy",
+      "url": "https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8"
     },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "All The Best (UK Version)",
-        "url": "https://open.spotify.com/album/5KmV008tb0n0xusPf75Kd7"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 248066,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5QN44mkwFWRhJ0H1VuGoho"
+      "duration_ms": 246933,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa"
     },
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of 10CC",
-        "url": "https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl"
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
       },
       "artists": [
         {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 368226,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM"
+      "duration_ms": 229880,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Ladies & Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/5MRiPO4wmZXzSo8ybow8UP"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/5DAeqwfoRbp5u6oUBtNYec"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -831,22 +815,6 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
         "name": "21' Sampler",
         "url": "https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW"
       },
@@ -863,18 +831,34 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 242678,
-      "name": "Nothing's Gonna Change My Love for You",
-      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
+      "duration_ms": 273666,
+      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -891,6 +875,22 @@
       "duration_ms": 186146,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 242678,
+      "name": "Nothing's Gonna Change My Love for You",
+      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
     }
   ],
   "unique_name": "Enganchados: Lentos",

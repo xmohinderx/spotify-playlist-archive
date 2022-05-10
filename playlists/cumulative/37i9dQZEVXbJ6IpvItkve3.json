@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231013,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
+    },
+    {
+      "album": {
         "name": "Anxious",
         "url": "https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0"
       },
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -2386,6 +2404,24 @@
     },
     {
       "album": {
+        "name": "Overexposed Track By Track",
+        "url": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219546,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6cpk00i5TxCqSeqNi2HuIe"
+    },
+    {
+      "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
       },
@@ -2858,6 +2894,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -3277,7 +3331,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
@@ -4151,7 +4205,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 169848,
       "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
       "url": "https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT"
@@ -6693,7 +6747,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 201190,
       "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
       "url": "https://open.spotify.com/track/71h6sV5KytTmPARarI28wI"
@@ -6733,7 +6787,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 151442,
       "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"

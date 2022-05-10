@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-90 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
+92 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/35PeRJtM8vZWEeAUhuM5S9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Flora & Fauna](https://open.spotify.com/track/3UCQg1vf06upgr2VhPU94q) | [Chatterjee](https://open.spotify.com/artist/1wwTCciWlDFTdqe19mRY2G) | [Flora & Fauna](https://open.spotify.com/album/5RA2DiWNVd07dyOz5arrhr) | 4:14 | 2022-04-04 |  |
 | [Ganges](https://open.spotify.com/track/4ylEqMHuE7pk8dVMA9lGHC) | [Marcelo Gallo](https://open.spotify.com/artist/23hEk8vrcbLUWr8FWWP1ju) | [Spirit of India](https://open.spotify.com/album/5hXBirtgrzQucltfTA3RHp) | 6:50 | 2022-04-04 |  |
 | [Ganges](https://open.spotify.com/track/4RZB877JhzYTNzzFdixZPD) | [Morgentau](https://open.spotify.com/artist/5z2Z0tyyjq1lSTqci3Yejo) | [Ganges](https://open.spotify.com/album/2Lm2ZsJm7htVuUtiD0j08z) | 4:28 | 2022-04-04 |  |
+| [Haathee](https://open.spotify.com/track/2iIEvKccENdTBtmLElhqOp) | [Kshitij Lata](https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0) | [Amarujala](https://open.spotify.com/album/15cPIQVlhbw9pPuqfOJbfX) | 2:27 | 2022-05-09 |  |
 | [Heartbreak \(From "White Note"\)](https://open.spotify.com/track/5qXNfo9GL49GtJfhAVAzpK) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [In The Lounge](https://open.spotify.com/album/0s3INweVmhtbCmBzDcK3Qg) | 6:25 | 2022-04-04 |  |
 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 | 2022-04-04 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-04-04 |  |
@@ -76,6 +77,7 @@
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/2SxQ32cI3A8XBH4535QnwJ) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB) | 5:59 | 2022-04-04 |  |
 | [Santosa \(Contentment\)](https://open.spotify.com/track/2oa9m04tRuNocGalPvAv4R) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 8:36 | 2022-04-04 |  |
 | [Sapphire Dreams](https://open.spotify.com/track/26jg6XR2GmKTomzljp9aTC) | [Ledd Blue](https://open.spotify.com/artist/1YGWpdwoILEnUbvEZx3xnE) | [Sapphire Dreams](https://open.spotify.com/album/6rbIV6wLOZVpHkyThEFsE5) | 3:22 | 2022-04-04 |  |
+| [Shaantipoorn Sardee](https://open.spotify.com/track/32J8PZ2TsVXaylMujwAfQs) | [Kanti Kata](https://open.spotify.com/artist/2YKTWzjZkpGVHMdbAP0df5) | [Shaant Garmee](https://open.spotify.com/album/1OUUILFcARqONfzoxVxTlf) | 3:47 | 2022-05-09 |  |
 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 | 2022-04-04 |  |
 | [Sights in Sound \(Shiva\)](https://open.spotify.com/track/7CatPZZMG9tx1Crhy5oTgL) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [The Magnificent Hum](https://open.spotify.com/album/3UTW7AeSNDdZVKQBi8MjDM) | 4:22 | 2022-04-04 |  |
 | [Silver Keys](https://open.spotify.com/track/0dTYfQD9vR39dLLv0TfXVl) | [Simon Shavi](https://open.spotify.com/artist/3bU7LIIa7VaEkMwmcqbZOK) | [Silver Keys](https://open.spotify.com/album/4GiYY8khJkt4Csn1I7NcID) | 3:40 | 2022-04-04 |  |

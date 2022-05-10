@@ -2,7 +2,7 @@
 
 ### [The Newness](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> Make room for these R&B/Soul artists on the rise! Photo: Kaash Paige
+> Make room for these R&B/Soul artists on the rise! Photo: Kenyon Dixon
 
 169 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 

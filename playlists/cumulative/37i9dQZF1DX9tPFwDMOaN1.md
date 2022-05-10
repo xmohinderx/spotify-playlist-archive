@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: iKON
+> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: TOMORROW X TOGETHER
 
-122 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
+123 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [GLASSY](https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [GLASSY](https://open.spotify.com/album/2WCMmZ8vXBnkVp97PzLeoA) | 3:09 | 2021-12-13 | 2022-01-06 |
 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-08 |  |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-28 |  |
+| [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 |  |
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-03-28 |  |
 | [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-07 |  |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-13 | 2022-03-01 |
@@ -56,7 +57,7 @@
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-03-21 |  |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-13 | 2022-01-11 |
 | [Hot Sauce](https://open.spotify.com/track/6TnmKnDtpu47ENJk6urK6y) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:15 | 2022-03-09 | 2022-03-30 |
-| [How You Like That](https://open.spotify.com/track/6bvZRLLkBKkmgpBJTTj3QK) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX) | 3:00 | 2022-03-08 |  |
+| [How You Like That](https://open.spotify.com/track/6bvZRLLkBKkmgpBJTTj3QK) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX) | 3:00 | 2022-03-08 | 2022-05-10 |
 | [I\`m a B](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Guilty Pleasure](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) | 2:47 | 2021-12-13 | 2022-02-17 |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-12-13 | 2022-02-17 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 |  |
@@ -102,7 +103,7 @@
 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 | 2021-12-13 | 2022-03-30 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-04 |  |
 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-12-13 | 2021-12-24 |
-| [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-21 |  |
+| [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-21 | 2022-05-10 |
 | [Take You Down \(Feat\. Coogie\)](https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 3:27 | 2022-04-08 | 2022-04-29 |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-12-13 | 2022-03-01 |
 | [TANG!♡](https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 2:58 | 2021-12-13 | 2022-01-04 |

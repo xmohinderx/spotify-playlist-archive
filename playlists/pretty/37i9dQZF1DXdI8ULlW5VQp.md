@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. En portada: Jorge Drexler.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,221 likes - 76 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,249 likes - 76 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

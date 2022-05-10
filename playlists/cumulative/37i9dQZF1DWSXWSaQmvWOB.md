@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Jon Batiste
 
-468 songs - 1 day 4 hr 48 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+469 songs - 1 day 4 hr 51 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Forever Yours](https://open.spotify.com/track/228SCNyICAP1THsuLdzLW4) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Forever Yours](https://open.spotify.com/album/6uHQ0lm7VJwSqp7frFaSMk) | 3:02 | 2020-11-03 | 2021-06-11 |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2021-03-26 | 2022-01-28 |
 | [Frail Moments, Same Page](https://open.spotify.com/track/7fbyAOxgJJUeFL9p0M2AvZ) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Frail Moments, Same Page](https://open.spotify.com/album/2k2rgwK0WgzWFJDck4ixeS) | 3:44 | 2021-12-10 |  |
+| [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 | 2022-05-09 |  |
 | [Free Fall](https://open.spotify.com/track/6VV2DOdeWTiDyRoweNhwZk) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Free Fall](https://open.spotify.com/album/5aS3e9Hpuj8tEEaZKsci1K) | 3:06 | 2021-06-25 | 2022-01-28 |
 | [FREEDOM](https://open.spotify.com/track/2JHHXGSC6Ra3IJOBNLbhS6) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/7MmdRxtcFnN33C6MQLE61u) | 2:58 | 2021-11-26 |  |
 | [Freedom & Fireworks](https://open.spotify.com/track/3MThD7whZTtnIzx1Vq1GZi) | [Bastian Steven](https://open.spotify.com/artist/1WjUPqHiUz3DrX0l1PLsC5) | [Freedom & Fireworks](https://open.spotify.com/album/3RtK1Z9SYRCX6e3wgXJ9Mq) | 4:29 | 2020-03-25\* | 2020-07-03 |

@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Rock en Espa\u00f1ol - Lo Mejor de Santa Sabina",
+        "url": "https://open.spotify.com/album/2LddSTGHKllDX9vLwc9PGH"
+      },
+      "artists": [
+        {
+          "name": "Santa Sabina",
+          "url": "https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256653,
+      "name": "Azul Casi Morado",
+      "url": "https://open.spotify.com/track/53WX4UMylwqJgD2gBEfzpV"
+    },
+    {
+      "album": {
         "name": "Noche y D\u00eda",
         "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
       },
@@ -469,7 +487,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 210893,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/1N1QL28bnJWt7u0dbJHyR0"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 211600,
       "name": "Piel Fiel",
       "url": "https://open.spotify.com/track/1C6Iqc0Md4Wi1lT4BmXh1C"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 181600,
       "name": "Por Qu\u00e9 No Se Van",
       "url": "https://open.spotify.com/track/0FRpkVdaghjib91eaXOA97"

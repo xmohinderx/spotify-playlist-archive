@@ -1,12 +1,12 @@
 {
   "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico, con Bad Bunny.",
-  "num_followers": 4308583,
+  "num_followers": 4309709,
   "original_name": "\u00c9xitos M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDFmODAwMDAwMTgwOTc4ODE3MjYwMDAwMDE4MDk0OWMzMTc3",
+  "snapshot_id": "MTY1MjEwNjM4NCwwMDAwMDFmOTAwMDAwMTgwYTkzNmQyYjAwMDAwMDE4MDk0OWMzMTc3",
   "tracks": [
     {
       "added_at": "2022-05-06 04:02:00",
@@ -87,6 +87,26 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "added_at": "2022-05-09 14:26:24",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -177,6 +197,26 @@
       "url": "https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM"
     },
     {
+      "added_at": "2022-05-09 14:26:24",
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 227814,
+      "name": "SI SUPIERAS",
+      "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
+    },
+    {
       "added_at": "2022-04-18 19:12:56",
       "album": {
         "name": "NataKong",
@@ -195,6 +235,26 @@
       "duration_ms": 150000,
       "name": "Nataaoki",
       "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
+    },
+    {
+      "added_at": "2022-05-09 14:26:24",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -397,6 +457,26 @@
       "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
     },
     {
+      "added_at": "2022-05-09 14:26:24",
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "DOS MORRITAS",
+      "url": "https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8"
+    },
+    {
       "added_at": "2022-03-22 21:17:44",
       "album": {
         "name": "Ya No Somos Ni Seremos",
@@ -559,30 +639,6 @@
     {
       "added_at": "2022-03-22 21:17:44",
       "album": {
-        "name": "Cosas Del Diablo",
-        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "La Cotorrisa",
-          "url": "https://open.spotify.com/artist/72j1bOj19ZViXuyppnx5tJ"
-        },
-        {
-          "name": "Strecci",
-          "url": "https://open.spotify.com/artist/7p1l2K7lVH2v4hrT3Y3tOv"
-        }
-      ],
-      "duration_ms": 169986,
-      "name": "Contigo No Fue",
-      "url": "https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7"
-    },
-    {
-      "added_at": "2022-03-22 21:17:44",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -611,22 +667,6 @@
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
-    },
-    {
-      "added_at": "2022-03-22 21:17:44",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2022-03-25 00:00:00",
@@ -739,22 +779,6 @@
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2022-03-28 18:51:07",
-      "album": {
-        "name": "Soy El Unico",
-        "url": "https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN"
     },
     {
       "added_at": "2022-03-22 21:17:44",
@@ -911,22 +935,6 @@
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
-    },
-    {
-      "added_at": "2022-04-14 17:00:00",
-      "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 143753,
-      "name": "Ll\u00e9vatelo",
-      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
     }
   ],
   "unique_name": "\u00c9xitos M\u00e9xico",

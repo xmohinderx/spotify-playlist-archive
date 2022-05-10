@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,299 likes - 56 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,325 likes - 56 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

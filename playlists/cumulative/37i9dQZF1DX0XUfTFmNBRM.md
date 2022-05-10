@@ -2,9 +2,9 @@
 
 ### [Top Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here\. Cover\- Sidhant Chaturvedi & Deepika Padukone
+> Hottest Hindi music served here\. Cover\- Kartik Aaryan
 
-177 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
+178 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Haan Maine Chukar Dekha Hai](https://open.spotify.com/track/7Gl5WYRBNMtVEO4AhDgPXj) | [Monty](https://open.spotify.com/artist/1eyehG6qD18prgtCvvbDnc), [Gayatri Iyer](https://open.spotify.com/artist/6dgPKPKtpOXxPpMe8STn1N), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Black](https://open.spotify.com/album/76PYEOSzvNReBxU8JoxDZ0) | 6:43 | 2021-04-06 | 2021-04-12 |
 | [Heer Raanjhana \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/4lmtILzOIIvOzMBPMUzvKx) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heer Raanjhana \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/5y3SQgGGSM3nwRiIsdllq2) | 4:00 | 2022-03-17 |  |
 | [Hui Malang \(From "Malang \- Unleash The Madness"\)](https://open.spotify.com/track/5bAed2aRbQbjDZF9qkNSA2) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Ved Sharma](https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z) | [Hui Malang \(From "Malang \- Unleash The Madness"\)](https://open.spotify.com/album/47nwWChrpvZ7T6lGRdbi97) | 3:12 | 2021-01-25\* | 2021-08-17 |
+| [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/3i3rwvDDpdY1BZmIW2pAvT) | 3:58 | 2022-05-09 |  |
 | [Humraah \(From "Malang \- Unleash The Madness"\)](https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [The Fusion Project](https://open.spotify.com/artist/6kNlPxUqmZMUyeGRMrWnuQ) | [Humraah \(From "Malang \- Unleash The Madness"\)](https://open.spotify.com/album/1R72FwrqoofsuAM2xil26G) | 4:59 | 2021-01-25\* | 2021-12-08 |
 | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl) | 3:08 | 2021-01-25\* | 2022-05-03 |
 | [Is Qadar](https://open.spotify.com/track/3Rvdqwgbr3rryZkNRrItt3) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Is Qadar](https://open.spotify.com/album/7t2pQVJ3tCbrEBg9uDz0qb) | 3:46 | 2021-05-26 | 2022-04-29 |

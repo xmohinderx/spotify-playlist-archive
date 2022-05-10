@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,681,262 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,681,651 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
 | 2 | [SEXTIME](https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SEXTIME](https://open.spotify.com/album/1fZB1jZPTn90TzYDZv42kI) | 3:17 |
 | 3 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 |
-| 4 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
+| 4 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
 | 5 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 |
 | 6 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 |
 | 7 | [Dime Tú](https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Dime Tú](https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx) | 3:45 |
 | 8 | [Par de Veces](https://open.spotify.com/track/2vZS65RIoFXGF4FpWqpMIR) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [El Casti](https://open.spotify.com/artist/2Dwsrv9EwfgB2tEFhUG7CA) | [Par de Veces](https://open.spotify.com/album/4zz7Q2jwt3I3PMd99K5XwL) | 3:57 |
-| 9 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
+| 9 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
 | 10 | [En El Jacuzzi](https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [En El Jacuzzi](https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z) | 2:44 |
 | 11 | [Bailando](https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailando](https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI) | 3:44 |
 | 12 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [COMPLICES](https://open.spotify.com/track/6s980QxDECNvU8pp1SoSwP) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [COMPLICES](https://open.spotify.com/album/35YJilctgWruJnQTGpvi3k) | 4:06 |
 | 50 | [Los Malvekes](https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7) | 3:38 |
 
-Snapshot ID: `MTY1MTgwOTY2MCwwMDAwMDE5MDAwMDAwMTgwOTc4NzJjZmIwMDAwMDE4MDk1ZDBhNTgz`
+Snapshot ID: `MTY1MjExMzk5NSwwMDAwMDE5MTAwMDAwMTgwYTlhYWY4MDcwMDAwMDE4MDk1ZDBhNTgz`

@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 92464,
+  "num_followers": 92620,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA1ODE4MiwwMDAwMDAwMGMxOTQ0MWYwMmQ3ZjM3ZTQ0OGZiMzdkODc2MGU0MzY1",
+  "snapshot_id": "MTY1MjE0NDM2NSwwMDAwMDAwMDRkNTliNTFmNjY5Njk3Y2IzMDBmZjg2MGU1Njc2ZGQy",
   "tracks": [
     {
       "added_at": "2021-12-14 12:16:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
         "name": "The Papas & The Mamas",
         "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
       },
@@ -75,34 +91,18 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+        "name": "You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/2709noR52E7iVM5zNTsfXL"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
         }
       ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
+      "duration_ms": 224000,
+      "name": "You've Lost That Lovin' Feelin' - Single Version",
+      "url": "https://open.spotify.com/track/3no0tiiQldD3LnsxwVtnnk"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "The Sound Of Love: The Very Best Of Darlene Love",
-        "url": "https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU"
-      },
-      "artists": [
-        {
-          "name": "Darlene Love",
-          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "(Today I Met) The Boy I'm Gonna Marry",
-      "url": "https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -151,54 +135,6 @@
       "duration_ms": 143333,
       "name": "All I Have to Do Is Dream",
       "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "You've Lost That Lovin' Feelin'",
-        "url": "https://open.spotify.com/album/2709noR52E7iVM5zNTsfXL"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "You've Lost That Lovin' Feelin' - Single Version",
-      "url": "https://open.spotify.com/track/3no0tiiQldD3LnsxwVtnnk"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -219,54 +155,6 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "Cream Of The Crop",
-        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Someday We'll Be Together",
-      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -279,6 +167,22 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "The Sound Of Love: The Very Best Of Darlene Love",
+        "url": "https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU"
+      },
+      "artists": [
+        {
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "(Today I Met) The Boy I'm Gonna Marry",
+      "url": "https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -299,6 +203,54 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
         "name": "Just Once In My Life",
         "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
       },
@@ -311,54 +263,6 @@
       "duration_ms": 218013,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "How Sweet It Is To Be Loved By You",
-        "url": "https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "Chapel of Love",
-        "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 170874,
-      "name": "Chapel of Love",
-      "url": "https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -379,6 +283,54 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "Chapel of Love",
+        "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 170874,
+      "name": "Chapel of Love",
+      "url": "https://open.spotify.com/track/4JchWgAG3RZmCLHcEGf9DZ"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -391,6 +343,54 @@
       "duration_ms": 149626,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "Cream Of The Crop",
+        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Someday We'll Be Together",
+      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "How Sweet It Is To Be Loved By You",
+        "url": "https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -427,38 +427,6 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 171400,
-      "name": "My Guy - Single Version",
-      "url": "https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
         "name": "The Ultimate Jackie Wilson",
         "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
@@ -475,190 +443,18 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/56uffc8tCkLwRQ8HuhAfeL"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/5eZ6igEpm6n3h2ygKP3Vq4"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "Latin Ala Lee",
-        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Till There Was You - Remastered",
-      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "Diana Ross & The Supremes Join The Temptations",
-        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        },
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "I'm Gonna Make You Love Me",
-      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "Lo Mejor de los A\u00f1os 60, Vol. 3 Pop",
-        "url": "https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK"
-      },
-      "artists": [
-        {
-          "name": "Paul & Paula",
-          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
-        }
-      ],
-      "duration_ms": 152453,
-      "name": "Hey Paula",
-      "url": "https://open.spotify.com/track/50tTePJn69dlpGxVfWWHWM"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "The Very Best Of \"The Archies\"",
-        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "For Your Sweet Love",
-        "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "I Will Follow You",
-      "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
-        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
-      },
-      "artists": [
-        {
-          "name": "Erma Franklin",
-          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kim Weston",
-          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "The Extraordinary",
-        "url": "https://open.spotify.com/album/02uBH1eZ0GQRYw9GoE9Oiu"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 153040,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/2duPMDrCtI7XmFK8P3bILq"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+      "duration_ms": 171400,
+      "name": "My Guy - Single Version",
+      "url": "https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl"
     },
     {
       "added_at": "2022-01-10 11:47:48",
@@ -695,6 +491,74 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/56uffc8tCkLwRQ8HuhAfeL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/5eZ6igEpm6n3h2ygKP3Vq4"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "The Extraordinary",
+        "url": "https://open.spotify.com/album/02uBH1eZ0GQRYw9GoE9Oiu"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 153040,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/2duPMDrCtI7XmFK8P3bILq"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "Latin Ala Lee",
+        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Till There Was You - Remastered",
+      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS"
       },
@@ -711,18 +575,22 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "Mr. Soul",
-        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
+        "name": "Diana Ross & The Supremes Join The Temptations",
+        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        },
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 158680,
-      "name": "Nothing Can Change This Love",
-      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
+      "duration_ms": 187333,
+      "name": "I'm Gonna Make You Love Me",
+      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -743,6 +611,22 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
+        "name": "The Very Best Of \"The Archies\"",
+        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
         "name": "No Place To Hide",
         "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
       },
@@ -759,34 +643,102 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "Complete A And B Sides 1963 - 1970",
-        "url": "https://open.spotify.com/album/1nqFVeqOlIVan8xkKX0O6j"
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
       "artists": [
         {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 211026,
-      "name": "The Look Of Love - Mono Version",
-      "url": "https://open.spotify.com/track/0j4nxNMlaLybQ2sLA1Nxpr"
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Kim Weston",
+          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
         }
       ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+      "duration_ms": 177666,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "Lo Mejor de los A\u00f1os 60, Vol. 3 Pop",
+        "url": "https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK"
+      },
+      "artists": [
+        {
+          "name": "Paul & Paula",
+          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
+        }
+      ],
+      "duration_ms": 152453,
+      "name": "Hey Paula",
+      "url": "https://open.spotify.com/track/50tTePJn69dlpGxVfWWHWM"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "The Good Life With the Drifters",
+        "url": "https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Saturday Night at the Movies",
+      "url": "https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -827,50 +779,66 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "The Good Life With the Drifters",
-        "url": "https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5"
+        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
+        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
       },
       "artists": [
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "Erma Franklin",
+          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
         }
       ],
-      "duration_ms": 153626,
-      "name": "Saturday Night at the Movies",
-      "url": "https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh"
+      "duration_ms": 157266,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
+    },
+    {
+      "added_at": "2022-01-03 12:21:23",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
+      },
+      "artists": [
+        {
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "Lady Willpower",
+      "url": "https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9"
     },
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+        "name": "Mr. Soul",
+        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
       },
       "artists": [
         {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 158680,
+      "name": "Nothing Can Change This Love",
+      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
     },
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9"
+        "name": "Complete A And B Sides 1963 - 1970",
+        "url": "https://open.spotify.com/album/1nqFVeqOlIVan8xkKX0O6j"
       },
       "artists": [
         {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 147527,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa"
+      "duration_ms": 211026,
+      "name": "The Look Of Love - Mono Version",
+      "url": "https://open.spotify.com/track/0j4nxNMlaLybQ2sLA1Nxpr"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -891,34 +859,18 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "Maurice Williams and The Zodiacs",
-        "url": "https://open.spotify.com/album/2TGFqDERcMklYUZiURnvll"
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
       "artists": [
         {
-          "name": "Maurice Williams & The Zodiacs",
-          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 99213,
-      "name": "Stay - Rerecorded",
-      "url": "https://open.spotify.com/track/4jtxk24eyUY3F9y3ucjxe0"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 168093,
-      "name": "Blue Velvet",
-      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -939,18 +891,50 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "Heart & Soul: A Retrospective",
-        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
+        "name": "25 All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/62N9znca7VeEvahgwKaEbs"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 169746,
-      "name": "Something's Got A Hold On Me",
-      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
+      "duration_ms": 154466,
+      "name": "Poetry In Motion",
+      "url": "https://open.spotify.com/track/47NBXLVNoAP6nzPOICYfid"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "Maurice Williams and The Zodiacs",
+        "url": "https://open.spotify.com/album/2TGFqDERcMklYUZiURnvll"
+      },
+      "artists": [
+        {
+          "name": "Maurice Williams & The Zodiacs",
+          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
+        }
+      ],
+      "duration_ms": 99213,
+      "name": "Stay - Rerecorded",
+      "url": "https://open.spotify.com/track/4jtxk24eyUY3F9y3ucjxe0"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -971,34 +955,18 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "25 All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/62N9znca7VeEvahgwKaEbs"
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/3zkN3vlMLeR2Hmvh7LSgJ9"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion",
-      "url": "https://open.spotify.com/track/47NBXLVNoAP6nzPOICYfid"
-    },
-    {
-      "added_at": "2022-01-03 12:21:23",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
-      },
-      "artists": [
-        {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "Lady Willpower",
-      "url": "https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9"
+      "duration_ms": 147527,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/48VbR0NaVDvJ4ZguFdS0xa"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -1035,40 +1003,8 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 141746,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
-    },
-    {
-      "added_at": "2021-12-14 12:16:00",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
       "artists": [
         {
@@ -1076,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+      "duration_ms": 169746,
+      "name": "Something's Got A Hold On Me",
+      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -1099,18 +1035,50 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "Spanish Harlem",
-        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
+        "name": "For Your Sweet Love",
+        "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
       },
       "artists": [
         {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 155733,
-      "name": "Come Closer to Me",
-      "url": "https://open.spotify.com/track/4vH7AAArSCrfS9HwM7t6yb"
+      "duration_ms": 146133,
+      "name": "I Will Follow You",
+      "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 141746,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
     },
     {
       "added_at": "2022-04-26 05:09:45",
@@ -1131,18 +1099,18 @@
     {
       "added_at": "2021-12-14 12:16:00",
       "album": {
-        "name": "The Marvelettes",
-        "url": "https://open.spotify.com/album/10PshaiGlvqUfdADKJXbTV"
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
       },
       "artists": [
         {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 159533,
-      "name": "When You're Young And In Love",
-      "url": "https://open.spotify.com/track/3URfKi5DOvUaJMuTuT8osm"
+      "duration_ms": 155733,
+      "name": "Come Closer to Me",
+      "url": "https://open.spotify.com/track/4vH7AAArSCrfS9HwM7t6yb"
     },
     {
       "added_at": "2021-12-14 12:16:00",
@@ -1159,6 +1127,38 @@
       "duration_ms": 194106,
       "name": "When Something Is Wrong with My Baby",
       "url": "https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "added_at": "2021-12-14 12:16:00",
+      "album": {
+        "name": "The Marvelettes",
+        "url": "https://open.spotify.com/album/10PshaiGlvqUfdADKJXbTV"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 159533,
+      "name": "When You're Young And In Love",
+      "url": "https://open.spotify.com/track/3URfKi5DOvUaJMuTuT8osm"
     }
   ],
   "unique_name": "60s Love Songs",

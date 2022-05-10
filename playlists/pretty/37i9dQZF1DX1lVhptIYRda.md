@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits of the week, worldwide! Cover: Midland
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,783,536 likes - 53 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,784,369 likes - 53 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: NoBeat, Oscu
 
-104 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/32kFCfM5TRdCpbu16LS7N2)
+105 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/32kFCfM5TRdCpbu16LS7N2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 | 2022-03-29 | 2022-05-07 |
 | [Bandidos](https://open.spotify.com/track/1dZkAYdCvUA4u5cMzGhRJh) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Bandidos](https://open.spotify.com/album/0EC8Sa1jYekLosZIYDlWvw) | 2:57 | 2022-05-06 |  |
 | [Bendecidos](https://open.spotify.com/track/7pk0dEO7AArCL34gHSpXxK) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Bendecidos](https://open.spotify.com/album/0xng3U8wYOaDWidTkmPwWv) | 3:10 | 2022-03-21 | 2022-05-07 |
+| [Bruce Wayne](https://open.spotify.com/track/0ZYAfmr7TAv6YzZBNUNO8I) | [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [Bruce Wayne](https://open.spotify.com/album/3j9SSmGUs12kXtqAAOJgFF) | 2:48 | 2022-05-09 |  |
 | [BYAK](https://open.spotify.com/track/6mPzI9mXSv4HbjtsuluEen) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [BYAK](https://open.spotify.com/album/6jsKmnNS6eZ13rLiwb8XrC) | 2:28 | 2022-03-21 | 2022-04-16 |
 | [C100EN](https://open.spotify.com/track/5XnCXhCrTlj90KVaugYMkI) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [C100EN](https://open.spotify.com/album/1xeViFk5ypfynAdOcfqkFP) | 3:05 | 2022-05-06 |  |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-03-21 | 2022-03-30 |
@@ -64,7 +65,7 @@
 | [Melodrama](https://open.spotify.com/track/4ffdk7DakcW71stgcXT1wA) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Melodrama](https://open.spotify.com/album/2KWMkUj6RlXdjFxWqyVOx5) | 3:05 | 2022-03-21 | 2022-03-30 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-03-29 |  |
 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 | 2022-03-21 |  |
-| [MOOD](https://open.spotify.com/track/5nRloY6Bqe7k0Ay5gm1ErY) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [MOOD](https://open.spotify.com/album/3D5MV1TC8L4HQvnZ4edTqq) | 3:10 | 2022-03-21 |  |
+| [MOOD](https://open.spotify.com/track/5nRloY6Bqe7k0Ay5gm1ErY) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [MOOD](https://open.spotify.com/album/3D5MV1TC8L4HQvnZ4edTqq) | 3:10 | 2022-03-21 | 2022-05-10 |
 | [Munchisito y Chao](https://open.spotify.com/track/4O3jVlC5g6crPM0TOsoUjA) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [Munchisito y Chao](https://open.spotify.com/album/3p38C0gN42NetsZA02LiX9) | 2:18 | 2022-03-29 |  |
 | [Mutuo Acuerdo](https://open.spotify.com/track/20wlK9lI8cq4tE5wJPK2WW) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Mutuo Acuerdo](https://open.spotify.com/album/4iQ8MdNuhc9N5B1PMbEa3T) | 2:38 | 2022-03-21 | 2022-03-30 |
 | [Nadie](https://open.spotify.com/track/5idykJt11B56B8XdeDg3Tj) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Nadie](https://open.spotify.com/album/3X4XwTnwuaxVKs0T2ZHi9D) | 3:32 | 2022-04-01 |  |
@@ -106,7 +107,7 @@
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-01 |  |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-06 |  |
 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 | 2022-04-19 |  |
-| [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-03-21 |  |
+| [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-03-21 | 2022-05-10 |
 | [Uno Pal Otro](https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Uno Pal Otro](https://open.spotify.com/album/6GcnRKDXwkH1oCeCA2BnJp) | 3:37 | 2022-04-15 |  |
 | [Vuela](https://open.spotify.com/track/5atvVaX7LAya8JS7acZJz6) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vuela](https://open.spotify.com/album/56lXsTpyHxdhdmEF09AGT4) | 3:18 | 2022-03-21 | 2022-04-02 |
 | [Whattsup](https://open.spotify.com/track/3oubh64l6xElX8En3SomTM) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Whattsup](https://open.spotify.com/album/0dJwLgqTP4rx62KehuPAF0) | 4:10 | 2022-03-21 | 2022-04-02 |

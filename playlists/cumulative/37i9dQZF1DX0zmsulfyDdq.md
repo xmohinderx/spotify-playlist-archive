@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-157 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
+158 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Kiss the Girl](https://open.spotify.com/track/2huXICYr99NnodThC8me1m) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 2:53 | 2022-04-15 |  |
 | [Kiss the Girl](https://open.spotify.com/track/5WQaJnGiwJYHvRkfmWtDde) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Love](https://open.spotify.com/album/2H671Hg8bphx28BBFEP2pI) | 2:10 | 2022-04-29 |  |
 | [Know Who You Are](https://open.spotify.com/track/2gPZknA95eTef8yib3bXA8) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Self\-Care Day](https://open.spotify.com/album/2crUCxYkIcOdS25kaR5GgM) | 1:57 | 2022-04-15 |  |
+| [Lava](https://open.spotify.com/track/3Ak0AtnSK0QECEPKHupxkC) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Soothing](https://open.spotify.com/album/4s0t0BbmkfB9iESE8FGRaa) | 2:35 | 2022-05-09 |  |
 | [Lavender Blue \(Dilly Dilly\) \- Instrumental](https://open.spotify.com/track/41xfXGP8qwohCKMIv61DmF) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Baby Sweet Dreams and Lullabies](https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg) | 1:31 | 2022-04-15 |  |
 | [Let It Go](https://open.spotify.com/track/1NgkiQCZtk0Hnb5ocnUe04) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Blissful](https://open.spotify.com/album/7kFYl7LzfMz29lwsDyh2bf) | 3:40 | 2022-04-15 |  |
 | [Little Black Rain Cloud](https://open.spotify.com/track/7wg7dmX824pIbY8ONfbgAz) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Dream](https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C) | 2:03 | 2022-04-15 |  |

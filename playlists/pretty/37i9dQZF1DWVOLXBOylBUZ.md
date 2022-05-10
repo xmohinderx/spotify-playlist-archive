@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > KAROL G tiene el ritmo que mueve Latinoamérica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,580 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,524 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
-| 2 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
+| 2 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
 | 3 | [Casino](https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:01 |
 | 4 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 |
 | 5 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0VWYVoOxUQptaILUkwC4is) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7G2kdR2j7OTHgnZFiKtvGG) | 3:43 |
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 7 | [3 Deseos Remix \(with Dalex & Eix, feat\. Alejo\)](https://open.spotify.com/track/7ygbhCP2yANDe8Z4xXpvKk) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [3 Deseos Remix \(with Dalex & Eix, feat\. Alejo\)](https://open.spotify.com/album/0TYwoAMqtjVpAsCFXQBgFK) | 4:49 |
 | 8 | [Agosto](https://open.spotify.com/track/0wihfILRNOwE2156Shezc8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:19 |
 | 9 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
-| 10 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 |
-| 11 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
-| 12 | [Mi Momento Favorito](https://open.spotify.com/track/68OpadfcNyC3iMIPaKrikB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [El Cambio](https://open.spotify.com/album/5js6CdkxePKw4aOD3Brnj1) | 3:28 |
+| 10 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
+| 11 | [Mi Momento Favorito](https://open.spotify.com/track/68OpadfcNyC3iMIPaKrikB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [El Cambio](https://open.spotify.com/album/5js6CdkxePKw4aOD3Brnj1) | 3:28 |
+| 12 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
 | 13 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
 | 14 | [Soy Yo](https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp) | 3:38 |
 | 15 | [2010](https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 |
 | 100 | [Sabe](https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sabe](https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0) | 2:57 |
 
-Snapshot ID: `MTY1MTgxMzIwMCwwMDAwMDE3YzAwMDAwMTgwOTdiZDMzYWEwMDAwMDE4MDRkY2NkYWJm`
+Snapshot ID: `MTY1MjExNTg2MiwwMDAwMDE3ZDAwMDAwMTgwYTljNzc1YWQwMDAwMDE4MDRkY2NkYWJm`

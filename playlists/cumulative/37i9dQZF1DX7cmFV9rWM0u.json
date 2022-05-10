@@ -136,6 +136,28 @@
     },
     {
       "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
+    },
+    {
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/4e3sDmUtcERCPW565nBhwt"
       },
@@ -269,7 +291,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 207090,
       "name": "Conga",
       "url": "https://open.spotify.com/track/0GF9zxH5xAhKiRQQJTb9VZ"
@@ -681,7 +703,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 230480,
       "name": "GOTA GOTA",
       "url": "https://open.spotify.com/track/1oBbet1xcWpWgOw2Ddzsaj"
@@ -873,7 +895,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
@@ -1251,7 +1273,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
@@ -1509,7 +1531,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 165176,
       "name": "QueLoQue",
       "url": "https://open.spotify.com/track/0v2wlFNQNaA5O1Q5avy9MA"
@@ -1655,7 +1677,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 216510,
       "name": "Sal y Perrea",
       "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
@@ -1795,7 +1817,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 232421,
       "name": "Te Mueves",
       "url": "https://open.spotify.com/track/23MEeQTkSmsDS6NjL8k6I8"

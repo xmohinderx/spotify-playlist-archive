@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: Dreamville
 
-107 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
+108 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 | 2022-04-29 |  |
 | [High On Life](https://open.spotify.com/track/2aYki8TvDMsv8A1VSir3WU) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [High On Life](https://open.spotify.com/album/6kEW5m9esKgaq0uakUUy47) | 2:39 | 2022-04-29 |  |
 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 | 2022-04-29 |  |
-| [Hoochie Mama](https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:15 | 2022-04-29 |  |
+| [Hoochie Mama](https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:15 | 2022-04-29 | 2022-05-10 |
 | [Hustler Musik](https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 5:03 | 2022-04-29 |  |
 | [Hustler's Ambition](https://open.spotify.com/track/7t67S1XHT4jU0GCkruG34R) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack](https://open.spotify.com/album/5D2CHiTlb8MXWJsZWXjkZf) | 3:57 | 2022-04-29 |  |
 | [Imagine That \(feat\. Shad\)](https://open.spotify.com/track/18pEhwBhFr9ToeHPjHD0r5) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Imagine That \(feat\. Shad\)](https://open.spotify.com/album/48BZKvdpHdpazl58gmIq7h) | 4:24 | 2022-04-29 |  |
@@ -100,6 +100,7 @@
 | [The Art of Peer Pressure](https://open.spotify.com/track/0d0jsoba88SpOoFxCxA2rZ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:24 | 2022-04-29 |  |
 | [The Format](https://open.spotify.com/track/4TvxDMTOkbK2yt7IfHWqZQ) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [The Format \(Special Edition\)](https://open.spotify.com/album/7izVYE6Opop1GmEuRNpJfF) | 3:03 | 2022-04-29 |  |
 | [The God Hour](https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The God Hour](https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6) | 2:35 | 2022-04-29 |  |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 |  |
 | [The I.N.C\. Ride](https://open.spotify.com/track/37iYAAUVZezZRmgTGnWbhY) | [Masta Ace Incorporated](https://open.spotify.com/artist/2tcM9c26zzqpFdijVdVwuB) | [Sittin' On Chrome](https://open.spotify.com/album/2q1spdp27utA1XbwK9Eb7q) | 4:10 | 2022-04-29 |  |
 | [The Way I Am](https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:50 | 2022-04-29 |  |
 | [Therapy Music \(feat\. Russ\)](https://open.spotify.com/track/3WRT8uD7wYPzIJagtFRVjF) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Therapy Music](https://open.spotify.com/album/0umXnJRqobrCwHOlWlHZc9) | 4:22 | 2022-05-06 |  |

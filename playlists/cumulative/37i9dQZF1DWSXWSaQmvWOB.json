@@ -2452,6 +2452,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
+    },
+    {
+      "album": {
         "name": "Free Fall",
         "url": "https://open.spotify.com/album/5aS3e9Hpuj8tEEaZKsci1K"
       },

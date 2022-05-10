@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-356 songs - 20 hr 35 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
+357 songs - 20 hr 39 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-05-08 |  |
 | [Goldigger](https://open.spotify.com/track/10YoUoKIx96ZJM0NDSkTlV) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Goldigger](https://open.spotify.com/album/74nY3gOym1UPSlrNVga9DZ) | 3:39 | 2022-05-01 | 2022-05-05 |
 | [Gonna Be Okay](https://open.spotify.com/track/2zZuQRgs9xNBXwdZUFEGE6) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Gonna Be Okay](https://open.spotify.com/album/3zUtl4EgwZCX84UD4O1FHb) | 3:30 | 2022-02-22 | 2022-05-03 |
+| [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-09 |  |
 | [Goofy](https://open.spotify.com/track/32zrJNyJdpoMOqW7u3PEgo) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Goofy](https://open.spotify.com/album/24nYE4mejdQmCpgQsvJZrb) | 3:20 | 2022-02-27 | 2022-04-06 |
 | [Gravity](https://open.spotify.com/track/44LVgFZvUcBYo98vy71tvd) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Talk](https://open.spotify.com/album/5PqZvEQFscV66LOl52oGBS) | 6:20 | 2022-04-01 | 2022-04-05 |
 | [Hala Madrid ...y nada más](https://open.spotify.com/track/1lL7OcPk6lINpeupzqTjSC) | [Real Madrid](https://open.spotify.com/artist/52tiVHeB0x2XvFAyajG1BZ), [Red'One](https://open.spotify.com/artist/26quetZGT3Ru0s5nJNSbCB) | [Hala Madrid ...y nada más](https://open.spotify.com/album/3P5MjGvpfwLCz0VBciW86q) | 2:57 | 2022-05-06 |  |
@@ -360,7 +361,7 @@
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-03-15 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-03-18 | 2022-03-30 |
 | [Yo Más Te Adoro](https://open.spotify.com/track/5Z78fWnyrN8h80VTlyF0kH) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 3:22 | 2022-04-06 | 2022-04-13 |
-| [Zick Zack](https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:04 | 2022-05-03 |  |
+| [Zick Zack](https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:04 | 2022-05-03 | 2022-05-10 |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-18 | 2022-02-18 |
 | [悪魔の子](https://open.spotify.com/track/0JsxTs1lZfKkDWxLZdJOmv) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [最悪最愛](https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv) | 3:49 | 2022-03-03 | 2022-03-07 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-01-12 | 2022-03-10 |

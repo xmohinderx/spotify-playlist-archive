@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Jack Harlow, Bad Bunny, Lady Gaga, Doja Cat, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,901,315 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,901,543 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

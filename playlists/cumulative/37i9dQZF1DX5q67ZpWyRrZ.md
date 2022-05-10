@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> 'Chaand Baaliyan' and other popular Indie hits\. Cover: Aditya A
+> 'Chaand Baaliyan' and other popular Indie hits\. Cover: Anumita Nadesan
 
 131 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Doc McStuffins in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,152 likes - 144 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,172 likes - 144 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

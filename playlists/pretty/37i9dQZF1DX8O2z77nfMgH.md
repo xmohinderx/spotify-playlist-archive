@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados con Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,048 likes - 53 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,081 likes - 53 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

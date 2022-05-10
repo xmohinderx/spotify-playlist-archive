@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-454 songs - 1 day 2 hr 21 min - [published](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
+455 songs - 1 day 2 hr 24 min - [published](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-01-11 |  |
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2021-03-27\* | 2021-05-23 |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-09-01 | 2021-09-02 |
-| [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-02-28 |  |
+| [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-02-28 | 2022-05-10 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-18 | 2021-09-19 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-16 | 2021-05-14 |
 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 | 2021-06-21 | 2021-07-04 |
@@ -406,6 +406,7 @@
 | [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 | 2021-03-27 | 2021-03-29 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-06 |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-13 | 2021-12-29 |
+| [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-09 |  |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-04-30 |
 | [up to me](https://open.spotify.com/track/5pbQaprwbDRlzXBo8xVnCo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [up to me / dna \[demo\]](https://open.spotify.com/album/0GrGh2x8KprTal72UkxnBP) | 2:47 | 2021-07-23 | 2021-07-31 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-09-13 |

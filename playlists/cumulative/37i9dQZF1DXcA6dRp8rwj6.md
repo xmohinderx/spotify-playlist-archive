@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Jack Harlow\)
 
-396 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+397 songs - 20 hr 0 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [The Best](https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [The Best](https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj) | 2:32 | 2022-01-20 | 2022-02-11 |
 | [The Best Part of Life](https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [The Best Part of Life](https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq) | 3:16 | 2022-01-20 | 2022-01-28 |
 | [The God Hour](https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The God Hour](https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6) | 2:35 | 2022-03-31 |  |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 |  |
 | [The Light](https://open.spotify.com/track/1EQ7vPDKs6HNWr7vpkLbI1) | [Mortal Rhyme](https://open.spotify.com/artist/0wYoj5MUAUp70cB0IlU9za) | [The Light](https://open.spotify.com/album/4fDK3xEY8lpUUi3wm3dKuh) | 2:16 | 2022-01-20 | 2022-02-11 |
 | [The Mob](https://open.spotify.com/track/6NuGhdLQfrYvG5wBnaBnb1) | [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [YNW Bortlen](https://open.spotify.com/artist/5jx69PEwHeFm5MDZ695RIV) | [The Mob](https://open.spotify.com/album/2xrLka9kKRcFwFXCIfkC04) | 3:57 | 2022-03-03 | 2022-04-01 |
 | [THE REV3NGE](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [THE REV3NGE](https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1) | 2:27 | 2022-01-20 | 2022-02-25 |

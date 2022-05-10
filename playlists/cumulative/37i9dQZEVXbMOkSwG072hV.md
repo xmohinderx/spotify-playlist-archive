@@ -4,14 +4,15 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-318 songs - 16 hr 28 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+319 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-04-27 | 2022-05-02 |
 | [17 de janeiro](https://open.spotify.com/track/6JhK1r09ZViJy723xux4Ty) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Mais](https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y) | 4:31 | 2022-01-19 | 2022-01-26 |
-| [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 | 2022-02-22 |  |
+| [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 | 2022-02-22 | 2022-05-10 |
 | [212](https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [212](https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN) | 2:30 | 2022-02-08 | 2022-03-09 |
+| [A Coleção](https://open.spotify.com/track/5Ezk6ZDIQ5BguYF8kzZmdi) | [OUHBOY JUA](https://open.spotify.com/artist/7evJI9jaJ082JPpu7arMaZ) | [A Coleção](https://open.spotify.com/album/4jaJYOs7gzbsUoucGZJb0e) | 1:51 | 2022-05-09 |  |
 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 | 2022-04-24 |  |
 | [ABALO EMOCIONAL \- Ao Vivo](https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY AVENIDA AMARILDO SANTANA \(Ao Vivo\)](https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF) | 2:33 | 2022-03-01 | 2022-04-13 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-01-17 | 2022-01-19 |

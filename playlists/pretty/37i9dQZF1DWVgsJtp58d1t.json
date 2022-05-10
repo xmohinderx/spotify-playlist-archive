@@ -1,13 +1,29 @@
 {
   "description": "New releases, driving the current. Cover: A$AP Rocky ",
-  "num_followers": 30241,
+  "num_followers": 30424,
   "original_name": "This is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA1ODA4NywwMDAwMDAwMDFkYjJiYjcwZmNmMzZjZmJlN2FlNGU0NjVlNWY5YmU1",
+  "snapshot_id": "MTY1MjE0NDI2MCwwMDAwMDAwMDNlYjgwOGRhNDMwZTYwNWU4ZDJhNDEwZTUyZjMxYTRl",
   "tracks": [
+    {
+      "added_at": "2022-05-09 14:43:35",
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
     {
       "added_at": "2022-05-06 04:06:07",
       "album": {

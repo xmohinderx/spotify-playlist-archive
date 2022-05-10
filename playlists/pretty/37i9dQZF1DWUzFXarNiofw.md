@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Mary J\. Blidge
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,678 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,858 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 |
-| 2 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 |
-| 3 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 |
-| 4 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 |
-| 5 | [About You](https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [About You](https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC) | 2:50 |
-| 6 | [Cater](https://open.spotify.com/track/6itJR6bgCqET35rCJFnULf) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Cater](https://open.spotify.com/album/0BqROYpPqEkIGAerniqZNW) | 2:44 |
-| 7 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |
-| 8 | [Hennessy Tears](https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 4:03 |
+| 1 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 |
+| 2 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 |
+| 3 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 |
+| 4 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 |
+| 5 | [Cater](https://open.spotify.com/track/6itJR6bgCqET35rCJFnULf) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Cater](https://open.spotify.com/album/0BqROYpPqEkIGAerniqZNW) | 2:44 |
+| 6 | [About You](https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [About You](https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC) | 2:50 |
+| 7 | [Hennessy Tears](https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 4:03 |
+| 8 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |
 | 9 | [ISLY](https://open.spotify.com/track/7tjinNOtfRQydDmXFPzfbL) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer](https://open.spotify.com/album/5qvBGoEtTh1P8abEJ99D91) | 3:05 |
 | 10 | [In The Club](https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [In The Club](https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs) | 2:52 |
 | 11 | [Insecure](https://open.spotify.com/track/5ChrCVSERccPyn3p2Clsum) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Insecure](https://open.spotify.com/album/6x4dhOka4HVr9hmXgQhWA9) | 3:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 54 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
 | 55 | [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 |
 
-Snapshot ID: `MTY1MTgwOTYwMCwwMDAwMDU1ZTAwMDAwMTgwOTc4NjQyYzUwMDAwMDE4MDk3NzVmMzU1`
+Snapshot ID: `MTY1MjExNDczMSwwMDAwMDU1ZjAwMDAwMTgwYTliNjMxYjMwMDAwMDE4MDk3NzVmMzU1`

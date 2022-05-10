@@ -1,12 +1,12 @@
 {
   "description": "KAROL G tiene el ritmo que mueve Latinoam\u00e9rica.",
-  "num_followers": 428580,
+  "num_followers": 429524,
   "original_name": "El Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgxMzIwMCwwMDAwMDE3YzAwMDAwMTgwOTdiZDMzYWEwMDAwMDE4MDRkY2NkYWJm",
+  "snapshot_id": "MTY1MjExNTg2MiwwMDAwMDE3ZDAwMDAwMTgwYTljNzc1YWQwMDAwMDE4MDRkY2NkYWJm",
   "tracks": [
     {
       "added_at": "2022-05-06 05:00:00",
@@ -36,13 +36,13 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 237894,
-      "name": "Tarot",
-      "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
       "added_at": "2022-05-06 05:00:00",
@@ -187,26 +187,6 @@
     {
       "added_at": "2022-05-06 05:00:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 258298,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
-    },
-    {
-      "added_at": "2022-05-06 05:00:00",
-      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 208746,
       "name": "Mi Momento Favorito",
       "url": "https://open.spotify.com/track/68OpadfcNyC3iMIPaKrikB"
+    },
+    {
+      "added_at": "2022-05-06 05:00:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 237894,
+      "name": "Tarot",
+      "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
     },
     {
       "added_at": "2022-05-06 05:00:00",

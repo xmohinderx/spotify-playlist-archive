@@ -4,14 +4,15 @@
 
 > Music for all your adventures on Roblox\. Check out <a href="https://www.roblox.com/spotify">Spotify Island on Roblox</a> today.
 
-50 songs - 2 hr 24 min - not published yet
+51 songs - 2 hr 28 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [As If It's Your Last](https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [As If It's Your Last](https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv) | 3:33 | 2022-05-03 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-05-03 |  |
 | [Bad Idea](https://open.spotify.com/track/1D5q7cBDHLBDbzQDVrS6E3) | [pxzvc](https://open.spotify.com/artist/4zFUPBeN9jhNn8qkgxEpW9), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Bad Idea](https://open.spotify.com/album/6kaMlPk6aIhI0HmSAQThzi) | 1:54 | 2022-05-03 |  |
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2022-05-03 |  |
-| [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2022-05-03 |  |
+| [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2022-05-03 | 2022-05-10 |
 | [Blood // Water](https://open.spotify.com/track/0AUyNF6iFxMNQsNx2nhtrw) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Blood // Water](https://open.spotify.com/album/2ih65NyzXsPwEsI1sMdyIy) | 3:36 | 2022-05-03 |  |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-05-03 |  |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2022-05-03 |  |

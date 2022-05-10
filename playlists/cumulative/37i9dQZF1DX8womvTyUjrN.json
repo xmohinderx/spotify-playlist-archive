@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 179616,
       "name": "After",
       "url": "https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 270832,
       "name": "Aqu\u00ed voy a estar",
       "url": "https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 125000,
       "name": "Chill Ish",
       "url": "https://open.spotify.com/track/1GzqJgkd2brZEoXtf1ctVV"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 214000,
       "name": "De Cero",
       "url": "https://open.spotify.com/track/02APyozcjYXixWTVkOQS7q"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 197706,
       "name": "Guay",
       "url": "https://open.spotify.com/track/3voNGqzixtoyzTBQd3tKXl"
@@ -913,6 +913,28 @@
       "duration_ms": 159440,
       "name": "Juro Que",
       "url": "https://open.spotify.com/track/0XQr7djQbD7KWO5u4T2OkD"
+    },
+    {
+      "album": {
+        "name": "Kokeo",
+        "url": "https://open.spotify.com/album/5Zsf7H9Z5QMKV8GcXjQ3wC"
+      },
+      "artists": [
+        {
+          "name": "Erubey",
+          "url": "https://open.spotify.com/artist/2TXfinCMGjuBZuWsJI8YAd"
+        },
+        {
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206181,
+      "name": "Kokeo",
+      "url": "https://open.spotify.com/track/3ae5wSGD2kCCnUdPb0TmoS"
     },
     {
       "album": {
@@ -1021,7 +1043,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 171089,
       "name": "Me Conoces",
       "url": "https://open.spotify.com/track/3VZTeLP44cx4TIsMxVpi6W"
@@ -1245,7 +1267,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 154402,
       "name": "No vas a cambiar",
       "url": "https://open.spotify.com/track/2JyR4XomCbSv543H904cME"
@@ -1365,7 +1387,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 157647,
       "name": "PLAYA PRIVADA",
       "url": "https://open.spotify.com/track/2OF2V1JvNjOCOjhnIdfh3L"
@@ -1481,7 +1503,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 230061,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/2xf1olq5Un8S9SqwU4IO6c"
@@ -1757,7 +1779,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 206116,
       "name": "Te Pienso",
       "url": "https://open.spotify.com/track/3LCUFhel7bdHUoTtlksfGG"
@@ -1837,6 +1859,24 @@
       "duration_ms": 179912,
       "name": "Toy Story",
       "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+    },
+    {
+      "album": {
+        "name": "Tu Boca",
+        "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
+      },
+      "artists": [
+        {
+          "name": "HAL\u00c9",
+          "url": "https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182281,
+      "name": "Tu Boca",
+      "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
     },
     {
       "album": {

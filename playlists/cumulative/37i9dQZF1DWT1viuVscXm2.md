@@ -4,10 +4,11 @@
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Los Palmeras & Neo Pistea.
 
-117 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+118 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Dios Le Pìdo / Hielo y Fuego \- En Vivo](https://open.spotify.com/track/2RpU62wIMTwZKNc5PboVI9) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Karavana Quartetera](https://open.spotify.com/artist/6fJEIea2BOriiJ2G6W0rAB) | [A Dios Le Pido / Hielo y Fuego \(En Vivo\)](https://open.spotify.com/album/0x4xEO6qKrZ1Cy7byzFaot) | 3:41 | 2022-05-09 |  |
 | [Ahora Se](https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [La Reina](https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO) | 3:54 | 2021-12-24 |  |
 | [Algún Día Volveras](https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volveras](https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC) | 4:13 | 2021-12-24 |  |
 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 | 2021-12-24 |  |
@@ -26,7 +27,7 @@
 | [Como Olvidarla](https://open.spotify.com/track/1hJVwecirYRcWvIqXtKq7u) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como Olvidarla](https://open.spotify.com/album/6IDAEHuhGbPr7r4seDjhk3) | 3:49 | 2021-12-24 |  |
 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2021-12-24 |  |
 | [Curame el Corazón](https://open.spotify.com/track/3QDnzNNZKMdfVbuwqXAC42) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Letras al Corazón](https://open.spotify.com/album/5GIM2zhvWzyjkx1SO6UMMs) | 4:07 | 2021-12-24 | 2022-01-08 |
-| [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 | 2021-12-24 |  |
+| [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 | 2021-12-24 | 2022-05-10 |
 | [De Amor Voy a Morirme](https://open.spotify.com/track/4E6Exumf6rVckB5Wz7dRgf) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [De Amor Voy a Morirme](https://open.spotify.com/album/0tXY3rHWyKS2VD3hpEbXOK) | 3:07 | 2021-12-24 |  |
 | [De un Tiempo a Esta Parte](https://open.spotify.com/track/5Iyp4ikp4LdVXDnb45lstv) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Javier Ortega](https://open.spotify.com/artist/6jGIY0FDKLEWixfXTgh8wI) | [De un Tiempo a Esta Parte](https://open.spotify.com/album/62t8oGmohX5zc3gzgDZN2R) | 4:44 | 2021-12-24 |  |
 | [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 | 2021-12-24 |  |

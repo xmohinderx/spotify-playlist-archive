@@ -4,7 +4,7 @@
 
 > Let these jazz tracks lull you to sleep.
 
-136 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+137 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2021-12-07 |  |
 | [Caramelle](https://open.spotify.com/track/3aursaVkHsjlf72cAuhl41) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Caramelle](https://open.spotify.com/album/3Uv2i6LlSDo65sr76fdpHF) | 3:54 | 2022-01-04 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-25 |  |
+| [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-09 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2021-12-07 |  |
 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 | 2021-12-07 |  |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-03-16 |  |
@@ -38,7 +39,7 @@
 | [Everything Happens To Me](https://open.spotify.com/track/0ElOE6iF6PcHKGafYHkr2T) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [Everything Happens To Me](https://open.spotify.com/album/74XVN1rhFaVY7khDoALBNI) | 4:40 | 2022-01-18 |  |
 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 | 2021-12-07 | 2022-02-12 |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-01-04 |  |
-| [For Heaven's Sake](https://open.spotify.com/track/1Awk77fTG0Vf17KlekKECz) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [For Heaven's Sake](https://open.spotify.com/album/1QBGjJQnNFwrGxdyUuFsml) | 4:32 | 2021-12-07 |  |
+| [For Heaven's Sake](https://open.spotify.com/track/1Awk77fTG0Vf17KlekKECz) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [For Heaven's Sake](https://open.spotify.com/album/1QBGjJQnNFwrGxdyUuFsml) | 4:32 | 2021-12-07 | 2022-05-10 |
 | [Forever in your arms](https://open.spotify.com/track/5dbsWC1EVqbhHcRbJr4vjF) | [Sophie Nichols](https://open.spotify.com/artist/2Vud9HNRfM5SLNkqdmPUa3) | [Forever in your arms](https://open.spotify.com/album/55HHyCZLRi0RCo1qoBoJZV) | 2:46 | 2021-12-07 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2021-12-07 |  |
 | [Giant Steps](https://open.spotify.com/track/0DZTgBMJcZhfGi5WAhlaLM) | [Cato Connor](https://open.spotify.com/artist/0ScVxBaBLUG41oCsXpyhwJ) | [Giant Steps](https://open.spotify.com/album/3rfsMsMmXGie8emynmy2XA) | 2:50 | 2021-12-07 | 2022-04-12 |
@@ -129,7 +130,7 @@
 | [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2021-12-07 |  |
 | [They Say It's Wonderful](https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [They Say It's Wonderful](https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198) | 3:19 | 2022-03-01 |  |
 | [This Is The Time](https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [This Is The Time](https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU) | 2:39 | 2021-12-07 |  |
-| [Time for Eiroa](https://open.spotify.com/track/71CxH5ixNJzdh4XNLLgIkq) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Small Hours](https://open.spotify.com/album/4S4F8NWyDMw2yYSAfRT2qh) | 3:25 | 2021-12-07 |  |
+| [Time for Eiroa](https://open.spotify.com/track/71CxH5ixNJzdh4XNLLgIkq) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Small Hours](https://open.spotify.com/album/4S4F8NWyDMw2yYSAfRT2qh) | 3:25 | 2021-12-07 | 2022-05-10 |
 | [time remembered](https://open.spotify.com/track/7vglqLr2HwKFWXMjZ1DN4c) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 2:55 | 2021-12-07 |  |
 | [Time Will Tell](https://open.spotify.com/track/5iLOx5BMblSA9Ge2goijPf) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Time Will Tell](https://open.spotify.com/album/1DR3K7na2wR32dBL2wNWdg) | 2:39 | 2022-04-11 |  |
 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 | 2021-12-07 |  |

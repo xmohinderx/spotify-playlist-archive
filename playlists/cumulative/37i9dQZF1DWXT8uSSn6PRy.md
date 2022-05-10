@@ -4,7 +4,7 @@
 
 > Chart toppers and fresh hits in Canada this week\. Cover: Carly Rae Jepsen
 
-236 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/6h6yvKmgSMonH6murTjQzd)
+237 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/6h6yvKmgSMonH6murTjQzd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Tell Somebody](https://open.spotify.com/track/1ClHCOX8C1aB9RNtXJrQKO) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Tell Somebody](https://open.spotify.com/album/4bdbkfQjyuRdCsWR3UAj9C) | 3:19 | 2022-01-28 | 2022-02-26 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-12-31 |  |
 | [The Antidote](https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Antidote](https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl) | 3:15 | 2021-12-31 | 2022-01-22 |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 |  |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 | 2022-03-05 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-12-31 |  |
 | [The Old Me](https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Therapy](https://open.spotify.com/album/6mzxiA4wsf2FEDjWaIUjuo) | 2:56 | 2022-03-18 | 2022-04-23 |

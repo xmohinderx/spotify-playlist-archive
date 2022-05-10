@@ -4,7 +4,7 @@
 
 > No sleep, bus, club, another club\. Like this? You'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover: Tove Lo
 
-120 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+121 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [FCKN IN LOVE](https://open.spotify.com/track/509rrXeQLsxcBC8VPBV5Pn) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6UEK6qZZvECvMVaKk6DHtk) | 3:14 | 2022-02-25 |  |
 | [Follow Me](https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V) | 2:57 | 2022-04-01 |  |
 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 | 2022-04-15 |  |
+| [Girls In Bikinis](https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:25 | 2022-05-09 |  |
 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 | 2022-02-15 |  |
 | [GOOD PUSS](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn) | 3:40 | 2022-03-18 |  |
 | [Good Time](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Good Time](https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy) | 2:41 | 2022-03-18 |  |
@@ -88,7 +89,7 @@
 | [New Moon](https://open.spotify.com/track/3EVAefu8mmvsEEIrodOntQ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [New Moon](https://open.spotify.com/album/6Py9Dv51tZJmEdL2rFF9yt) | 3:14 | 2022-04-15 |  |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-06 |  |
 | [Nobody](https://open.spotify.com/track/4wggHEIX8cZxWy3ktLdj5m) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Drunken Wordz Sober Thoughtz \(Deluxe Edition\)](https://open.spotify.com/album/4ue2Bx2IiCQ7LoQQJ2gmaM) | 2:34 | 2022-02-15 |  |
-| [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-18 |  |
+| [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-18 | 2022-05-10 |
 | [out of the blue](https://open.spotify.com/track/3BoHfjuu9WBbQZ6dCd0CY7) | [Courtney Govan](https://open.spotify.com/artist/2kG6IPsHwVJ1fR3txhSpKq) | [out of the blue](https://open.spotify.com/album/6VLrTNSKuqzfcmvr53ABh6) | 2:29 | 2022-04-29 |  |
 | [Please \- David Jackson Remix](https://open.spotify.com/track/6ll7bSskQYvJfh0qyYZQ8o) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Please \(David Jackson Remix\)](https://open.spotify.com/album/4skBc1vOjD3USDtF7sozVp) | 3:48 | 2022-02-15 |  |
 | [PRE MADONNA](https://open.spotify.com/track/7HEVw1CmTyeCvB1RjpVf1i) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [PRE MADONNA](https://open.spotify.com/album/6QhCqLrj6v9BAMkTJ2mGLt) | 3:08 | 2022-04-29 |  |

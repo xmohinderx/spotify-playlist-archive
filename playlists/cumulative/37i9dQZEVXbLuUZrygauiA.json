@@ -730,6 +730,24 @@
     },
     {
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
       },
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 169536,
       "name": "Desde Mis Ojos",
       "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
@@ -2963,7 +2981,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 84374,
       "name": "My Name Is",
       "url": "https://open.spotify.com/track/0L9oPr8kJBxupBSKts8A9l"
@@ -3585,6 +3603,24 @@
       "duration_ms": 205700,
       "name": "P\u00fablico",
       "url": "https://open.spotify.com/track/1PzvsHLUbLRsXuKTDvgJPW"
+    },
+    {
+      "album": {
+        "name": "Que Pasa - Single",
+        "url": "https://open.spotify.com/album/4LBwRnbf3lVtw9ysJFLNh1"
+      },
+      "artists": [
+        {
+          "name": "Haus-A-Holics",
+          "url": "https://open.spotify.com/artist/6Bwa8h6qDz2i4piWFBhl7V"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235181,
+      "name": "Que Pasa",
+      "url": "https://open.spotify.com/track/53uQ89TNuxZSSYHhTGieMx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New releases, driving the current\. Cover: A$AP Rocky
 
-428 songs - 21 hr 35 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
+429 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [The Floor Is Ours](https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [The Floor Is Ours](https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1) | 3:29 | 2022-04-15 | 2022-04-29 |
 | [The Floor Is Ours \- SDOT MUSIC Remix](https://open.spotify.com/track/5of2Du7U7aYWVFRI3geCgl) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv), [SDOT MUSIC](https://open.spotify.com/artist/5ruvWpLs2aMVuibVXpsJwL) | [The Floor Is Ours \(SDOT MUSIC Remix\)](https://open.spotify.com/album/2jkrgHmtQjoVCRWZFka7PW) | 2:53 | 2022-04-29 |  |
 | [The God Hour](https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The God Hour](https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6) | 2:35 | 2022-04-01 | 2022-05-07 |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 |  |
 | [The One](https://open.spotify.com/track/42p3DhJW9tC9YRvMsSd8VT) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [The One](https://open.spotify.com/album/53iPXTwxvv6iDhryLzjx3R) | 3:14 | 2022-03-11 | 2022-04-02 |
 | [The Sign Reads](https://open.spotify.com/track/6H7o3P7ipm1dDakdX9Dul2) | [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [The Sign Reads](https://open.spotify.com/album/4kMr7YVY5xZ8ELUCPnXd8c) | 3:34 | 2022-03-04 | 2022-03-26 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-22 | 2022-04-29 |

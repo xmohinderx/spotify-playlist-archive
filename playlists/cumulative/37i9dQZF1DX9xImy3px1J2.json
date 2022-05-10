@@ -32,6 +32,28 @@
     },
     {
       "album": {
+        "name": "Abbronzatissima",
+        "url": "https://open.spotify.com/album/3Nf1HVgH1W2IADJgsEhbE1"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "Abbronzatissima",
+      "url": "https://open.spotify.com/track/1B16phTugYxoIjxg77IG7u"
+    },
+    {
+      "album": {
         "name": "abc (The Wild Remix)",
         "url": "https://open.spotify.com/album/0Zq00ywbUyDLVD8jN7XsOC"
       },
@@ -139,7 +161,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
@@ -165,6 +187,24 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "album": {
+        "name": "Bongo Cha Cha Cha",
+        "url": "https://open.spotify.com/album/0goSLvh4vqvDLQHmee3Bk1"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113127,
+      "name": "Bongo Cha Cha Cha",
+      "url": "https://open.spotify.com/track/7J4zszAZxAyowZp7gNUIUI"
     },
     {
       "album": {
@@ -363,10 +403,32 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "album": {
@@ -415,6 +477,32 @@
       "duration_ms": 176190,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4"
+    },
+    {
+      "album": {
+        "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG"
     },
     {
       "album": {
@@ -579,7 +667,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 168000,
       "name": "Mi Luz (ft. Rels B)",
       "url": "https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq"
@@ -700,6 +788,54 @@
     },
     {
       "album": {
+        "name": "Pepas (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "Pepas - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6"
+    },
+    {
+      "album": {
+        "name": "Rampampam (VIZE, Averro Remix)",
+        "url": "https://open.spotify.com/album/537txlvnWi2YULdLHZgGCf"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "Averro",
+          "url": "https://open.spotify.com/artist/3PTNHymcsvmbSrlF7tTK74"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Rampampam (VIZE, Averro Remix)",
+      "url": "https://open.spotify.com/track/7nmn3LVOIrP720GETdfyqP"
+    },
+    {
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -813,7 +949,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 216137,
       "name": "The Crowd Song - Original Italian Radio Cut",
       "url": "https://open.spotify.com/track/1kI05YjtiFeuy3RIwgzNmu"
@@ -843,6 +979,24 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/4lzGdshpfZVD1TAsRCr1eT"
+    },
+    {
+      "album": {
+        "name": "Ti raggiunger\u00f2",
+        "url": "https://open.spotify.com/album/2Llm7n46UG6egltcs19BMY"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164160,
+      "name": "Ti raggiunger\u00f2",
+      "url": "https://open.spotify.com/track/3Ks12KDKwrT1anFMW0tevG"
     },
     {
       "album": {
@@ -927,7 +1081,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
@@ -953,7 +1107,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 136839,
       "name": "UP (Arem Ozguc & Arman Aydin Remix)",
       "url": "https://open.spotify.com/track/5JH7BjD9Yp1NrXBaLVBkUe"
@@ -997,7 +1151,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 170022,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"

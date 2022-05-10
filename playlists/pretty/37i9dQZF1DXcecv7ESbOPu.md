@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,971 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,976 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 100 | [The Garden/Against The World](https://open.spotify.com/track/5HGYMmAIUJgfDGPLtxCAyg) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [The Garden/Against The World](https://open.spotify.com/album/5xp76jKKRtkZ4XkEXErXEJ) | 2:24 |
 | 101 | [Win Lose or Draw](https://open.spotify.com/track/2ViWvkkXh7MFw1EdP8TDZe) | [Prop Dylan](https://open.spotify.com/artist/6oVl1muvHp8VLrJ5lv6lBh), [Termanology](https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl), [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [Bushido Code](https://open.spotify.com/album/2KKSejEaQ6KgE38pdfYaiA) | 3:21 |
 
-Snapshot ID: `MTY1MTc4ODAwMCwwMDAwMDM4NzAwMDAwMTgwOTYzY2FiYzUwMDAwMDE4MDkzNzkzNTJh`
+Snapshot ID: `MTY1MjA4NDIyNCwwMDAwMDM4ODAwMDAwMTgwYTdlNGIwYTEwMDAwMDE4MDkzNzkzNTJh`

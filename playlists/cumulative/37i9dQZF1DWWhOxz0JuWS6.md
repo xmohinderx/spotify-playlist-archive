@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-462 songs - 1 day 9 hr 32 min - not published yet
+465 songs - 1 day 9 hr 41 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Biko \- Remastered 2002](https://open.spotify.com/track/4rd4ozDHiVXxymvmYkG5bk) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Street Fighting Years](https://open.spotify.com/album/17U68dqp73T4E3Kte15ben) | 7:34 | 2020-12-08 |  |
 | [Blackout \- 2015 Remaster](https://open.spotify.com/track/288cy2QRIj1CA7s1Ifu0ip) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 3:50 | 2020-12-08 |  |
 | [Blue Hotel \- Remastered](https://open.spotify.com/track/1ZWRftKlf5bFBhsUUulMgE) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 3:12 | 2020-12-08 |  |
-| [Bone Machine \- Remastered](https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:03 | 2022-03-28 |  |
+| [Bone Machine](https://open.spotify.com/track/58BsYHaWdK78SIZMWztmC3) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(Remastered\)](https://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI) | 3:05 | 2020-12-08 |  |
+| [Bone Machine \- Remastered](https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:03 | 2022-03-28 | 2022-05-10 |
 | [Born Under Punches \(The Heat Goes On\) \- 2005 Remaster](https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 5:49 | 2020-12-08 |  |
 | [Bow River \- 2011 Remastered](https://open.spotify.com/track/0zYKkOvUgOL8gceY8Eh1Wh) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [Circus Animals](https://open.spotify.com/album/0wvs4l6G2raakk5yuUMJBc) | 4:23 | 2020-12-08 |  |
 | [Breaking All The Rules](https://open.spotify.com/track/6ItRcZaLxV5oSSJyhbwFkj) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Breaking All The Rules](https://open.spotify.com/album/0eoiL2myrVme6wUkuKiAhs) | 7:05 | 2020-12-08 |  |
@@ -223,7 +224,7 @@
 | [Like A Song..\. \- Remastered 2008](https://open.spotify.com/track/6hYqSE49Myq65J6i9eRq8c) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Remastered\)](https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2) | 4:47 | 2020-12-08 |  |
 | [Lil' Devil](https://open.spotify.com/track/2eCMo4mGYHqa9KbIZH2UJZ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/2Ah76CkWPKnhhuwQT8DcHQ) | 2:44 | 2020-12-08 |  |
 | [Listen Like Thieves](https://open.spotify.com/track/4CXPPtJaJf5uZRmFLEarAK) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves](https://open.spotify.com/album/1U6tgUieq2uuKip6DVxM31) | 3:45 | 2022-03-28 |  |
-| [Listen Like Thieves](https://open.spotify.com/track/2NnwJBDPTeqBoIn2G707aZ) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves \(Remastered\)](https://open.spotify.com/album/7xYuZehiCGjWOb0pIZoNCS) | 3:46 | 2020-12-08 |  |
+| [Listen Like Thieves](https://open.spotify.com/track/2NnwJBDPTeqBoIn2G707aZ) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves \(Remastered\)](https://open.spotify.com/album/7xYuZehiCGjWOb0pIZoNCS) | 3:46 | 2020-12-08 | 2022-05-10 |
 | [Little T&A \- Remastered](https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:23 | 2020-12-08 |  |
 | [Living in Another World \- 1997 Remaster](https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Colour of Spring](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE) | 6:58 | 2020-12-08 |  |
 | [Long Gone](https://open.spotify.com/track/64OczLYckthEjRiCCZDeAF) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:58 | 2020-12-08 |  |
@@ -412,6 +413,7 @@
 | [Tops \- Remastered](https://open.spotify.com/track/0kesmP5jKuavoUDwuoMG3l) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Bob Clearmountain](https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:46 | 2020-12-08 |  |
 | [Tougher Than the Rest](https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:33 | 2020-12-08 |  |
 | [Travelling Riverside Blues \(BBC Session\) \- Remastered](https://open.spotify.com/track/3dCarMp6T3GsKCspJgeD0a) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 5:11 | 2020-12-08 |  |
+| [Trip Through Your Wires \- Remastered 2007](https://open.spotify.com/track/6w9BH6tSPMgl6KRz1YuONG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 3:31 | 2020-12-08 |  |
 | [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 | 2022-01-05 |  |
 | [Turn Me Loose](https://open.spotify.com/track/2Z81PDDYNMTxZKiU2XIuFx) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Loverboy](https://open.spotify.com/album/3dDzAVWr5gjvJIOTEuS309) | 5:37 | 2020-12-08 |  |
 | [Turn You Inside\-Out \- Remastered](https://open.spotify.com/track/5cHJkKqz6USfa7U5xT4j8o) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K) | 4:17 | 2020-12-08 |  |
@@ -433,7 +435,8 @@
 | [Was It All Worth It \- Remastered 2011](https://open.spotify.com/track/5YAXhS6lCmoQD4HJvi6YwW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(2011 Remaster\)](https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V) | 5:47 | 2020-12-08 |  |
 | [Watch Me Bleed](https://open.spotify.com/track/1kChx0uGraDIIyOVtBVawU) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 4:15 | 2021-12-22 |  |
 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 | 2022-03-28 |  |
-| [Wave of Mutilation](https://open.spotify.com/track/1yJiE307EBIzOB9kqH1deb) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:04 | 2020-12-08 |  |
+| [Wave Of Mutilation](https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:03 | 2022-03-28 |  |
+| [Wave of Mutilation](https://open.spotify.com/track/1yJiE307EBIzOB9kqH1deb) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:04 | 2020-12-08 | 2022-05-10 |
 | [We Are The People](https://open.spotify.com/track/68MFuyXBNVdgJ86sfIR9hr) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [The Lonesome Jubilee](https://open.spotify.com/album/1UiIinWX5c5fxGSpRCvjNR) | 4:17 | 2020-12-08 |  |
 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:47 | 2020-12-08 |  |
 | [We're Ready](https://open.spotify.com/track/33lj1WVboFiKGLBdxOzSAl) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Third Stage](https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv) | 3:57 | 2020-12-08 |  |

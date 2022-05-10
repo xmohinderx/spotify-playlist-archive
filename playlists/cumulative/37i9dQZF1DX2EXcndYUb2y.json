@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 373573,
       "name": "AG76",
       "url": "https://open.spotify.com/track/6GfJeNdiwxHAMJKpCm7XKR"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 201400,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/2J9TvjcZP1UA9mAsxefhtQ"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 195560,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/3autYnQ3r3EfYbVbKF7bft"
@@ -225,6 +225,24 @@
       "duration_ms": 334200,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/2vY102yJhMNuo8WyP9IifQ"
+    },
+    {
+      "album": {
+        "name": "Solos: The Jazz Sessions (Andrew Hill)",
+        "url": "https://open.spotify.com/album/3Ph7PTdYLSmwIKU8wHNAi7"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427786,
+      "name": "Bent Forward",
+      "url": "https://open.spotify.com/track/4SwJU0SJZqlVqKntOs1TO6"
     },
     {
       "album": {
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 350325,
       "name": "Conspiracy Of Things - Live at Konzerthaus, Wien / 2020",
       "url": "https://open.spotify.com/track/1iJOwPfV7Iz5MFHzIjmQCh"
@@ -470,6 +488,24 @@
     },
     {
       "album": {
+        "name": "Spontaneous Explorations",
+        "url": "https://open.spotify.com/album/7GJTm1dcFHxvTcnh5EH6BF"
+      },
+      "artists": [
+        {
+          "name": "Earl Hines",
+          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311960,
+      "name": "Fatha's Blues",
+      "url": "https://open.spotify.com/track/4yp5YTciprMPPcFU9tmDWL"
+    },
+    {
+      "album": {
         "name": "John",
         "url": "https://open.spotify.com/album/20IfKYQxyBHdYEF0auw1Hi"
       },
@@ -499,7 +535,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 204773,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/3bIW46Go72C43usLCm2ADr"
@@ -643,7 +679,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 270600,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/7oVVDSFQKF7H0H2YGmiLF3"
@@ -697,7 +733,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 195200,
       "name": "It Could Happen To You - 1994 Remaster",
       "url": "https://open.spotify.com/track/0zu7moqmgAyuOzUBvHpYoW"
@@ -733,7 +769,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 395720,
       "name": "Juvenile",
       "url": "https://open.spotify.com/track/6RdP9Vv4KNAl8TvkmE6m4E"
@@ -859,7 +895,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 160200,
       "name": "Lonely Town",
       "url": "https://open.spotify.com/track/44sVmdouhNbt1njQnW2fHr"
@@ -877,7 +913,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 286253,
       "name": "Lonely Woman - Rambling",
       "url": "https://open.spotify.com/track/0SXdPqNNRmTzXkGIufCBv2"
@@ -895,7 +931,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 362990,
       "name": "Longing For",
       "url": "https://open.spotify.com/track/02O9KWqKymSOIFq890qwBU"
@@ -931,7 +967,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 201200,
       "name": "Love Me Tender",
       "url": "https://open.spotify.com/track/2hJeHRdZva1K8L7qMGAVaf"
@@ -985,7 +1021,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 149093,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/6E81pDQAoxgGEAGqVbPgYr"
@@ -1028,6 +1064,24 @@
     },
     {
       "album": {
+        "name": "Mondenkind",
+        "url": "https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280119,
+      "name": "Mondenkind",
+      "url": "https://open.spotify.com/track/1BksChQpMJkUQW2wFkFeO9"
+    },
+    {
+      "album": {
         "name": "Solo in Mondsee",
         "url": "https://open.spotify.com/album/2MlCXGhzxJueTBpwENn2PE"
       },
@@ -1039,7 +1093,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 124480,
       "name": "Mondsee Variations III",
       "url": "https://open.spotify.com/track/0ZsEjFtetgUCLcPoVSzAP7"
@@ -1154,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "Avenging Angel",
+        "url": "https://open.spotify.com/album/59tqiI8OnbxsXlDp6dHeQ8"
+      },
+      "artists": [
+        {
+          "name": "Craig Taborn",
+          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/2F2lt7X2Fdof4mhRzPPsrC"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/7MGMCePGXmLvabODZSCUST"
       },
@@ -1183,7 +1255,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 294565,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/5X2nPyxba3TGrYNsASyJFy"
@@ -1363,7 +1435,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 369760,
       "name": "Promise",
       "url": "https://open.spotify.com/track/6xSalKe5cf3f4RkIbJmKQv"
@@ -1399,7 +1471,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 324040,
       "name": "Psalm 8",
       "url": "https://open.spotify.com/track/2S7YKI3lqIgcbkgkIQEEAz"
@@ -1615,7 +1687,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 305146,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/6WeQHMPW6GuDr7AAlj9QRa"
@@ -1651,7 +1723,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 302440,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/54mSY6clTRHjeSj5NJcAAC"
@@ -1669,7 +1741,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 136306,
       "name": "the suspension",
       "url": "https://open.spotify.com/track/1k95HDTvVAFMAOOLyq8JgL"
@@ -1947,7 +2019,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 373120,
       "name": "Waltz For Debby",
       "url": "https://open.spotify.com/track/7hhgHxnqF1amrV9cWHZj3c"
@@ -2019,7 +2091,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 259413,
       "name": "Well You Needn't",
       "url": "https://open.spotify.com/track/2iCu0G3rxSvF7pJ9e81QjU"
@@ -2055,7 +2127,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 320693,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/7yUvnJ5joloXvvMOlS4mgB"
@@ -2091,7 +2163,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 338732,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/3VGLvERot92rlDo3tbUSHH"

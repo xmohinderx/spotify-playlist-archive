@@ -239,10 +239,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 192648,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo"
+    },
+    {
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Bubblegum Bitch",
+      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
     },
     {
       "album": {
@@ -286,6 +304,24 @@
     },
     {
       "album": {
+        "name": "Profondo Rosa",
+        "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
+      },
+      "artists": [
+        {
+          "name": "Simone Panetti",
+          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150085,
+      "name": "Cerotti (intermezzo)",
+      "url": "https://open.spotify.com/track/6SlOSbRUdlhcyXEmODnM2C"
+    },
+    {
+      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/0VG6QgJlk6saDf0KoZbIML"
       },
@@ -297,7 +333,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 163000,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/1pvUilXlvXaburqYE4A8hE"
@@ -352,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208760,
+      "name": "Cigarette Daydreams",
+      "url": "https://open.spotify.com/track/6jHvX8ZnHKC1PnrPMJ0Emt"
+    },
+    {
+      "album": {
         "name": "Orange County California",
         "url": "https://open.spotify.com/album/7GWVPJPcu8o1LCw94e5Rew"
       },
@@ -367,7 +421,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 150626,
       "name": "Circonvalley",
       "url": "https://open.spotify.com/track/22hwy86Bxy2wnhCrvmanN3"
@@ -501,7 +555,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 171906,
       "name": "Dove Gli Occhi Non Arrivano",
       "url": "https://open.spotify.com/track/5sMechyaVyijGsbp01E9x2"
@@ -613,7 +667,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 181732,
       "name": "For Real",
       "url": "https://open.spotify.com/track/0BKzMLvouXW9khQeFiOOTz"
@@ -769,10 +823,46 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 197266,
       "name": "I Blame The World",
       "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
+    },
+    {
+      "album": {
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
+    },
+    {
+      "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
       "album": {
@@ -939,7 +1029,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 173253,
       "name": "La vie de tous les jours",
       "url": "https://open.spotify.com/track/5smfgFsXaD4F510jOD0wLa"
@@ -1047,10 +1137,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 185454,
       "name": "Magical",
       "url": "https://open.spotify.com/track/1sjfs3R0GGD0oVD3nr9qnu"
+    },
+    {
+      "album": {
+        "name": "Memories (with WILLOW)",
+        "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155919,
+      "name": "Memories (with WILLOW)",
+      "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
     },
     {
       "album": {
@@ -1130,6 +1242,28 @@
     },
     {
       "album": {
+        "name": "Quando tu mi baci",
+        "url": "https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        },
+        {
+          "name": "Powv_fsk",
+          "url": "https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Quando tu mi baci",
+      "url": "https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf"
+    },
+    {
+      "album": {
         "name": "OCEANO PARADISO",
         "url": "https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m"
       },
@@ -1149,6 +1283,24 @@
       "duration_ms": 180342,
       "name": "Quanto ti vorrei",
       "url": "https://open.spotify.com/track/2KdcUxAJWAARnGTWmSWxwu"
+    },
+    {
+      "album": {
+        "name": "ROOM FOR 2",
+        "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "ROOM FOR 2",
+      "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
     },
     {
       "album": {
@@ -1304,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "Title (Deluxe)",
+        "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174733,
+      "name": "Title",
+      "url": "https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI"
+    },
+    {
+      "album": {
         "name": "La Vita Veramente",
         "url": "https://open.spotify.com/album/7fMZplj26uJA05g0wETUVf"
       },
@@ -1373,7 +1543,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 203466,
       "name": "Trouble - from \u2018Three Months\u2019",
       "url": "https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS"

@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del Trap chileno\. Foto: AKRIILA.
+> La casa del Trap chileno\. Foto: Aqua VS, Marcianeke & Tunechikidd.
 
-108 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
+109 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Favo](https://open.spotify.com/track/7z5iQNr1rwjY0SXc883vZd) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [xsickboi](https://open.spotify.com/artist/1CSAOVFE6aJkH9RgbNZCvC) | [Favo](https://open.spotify.com/album/1Rn0mFGhcj0fLHKw4xy4vN) | 2:36 | 2022-01-20 |  |
 | [Fifty Fifty](https://open.spotify.com/track/5B84PuLYzNjHvfy5EpgsfW) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 4:40 | 2022-01-20 |  |
 | [Flow Pe$ado](https://open.spotify.com/track/0OmcEs8jVVRaPB2U4KR1OZ) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Flow Pe$ado](https://open.spotify.com/album/4DAvoNoPJEZkZjljj8G8PX) | 2:53 | 2022-01-20 |  |
+| [Fondo de Bikini](https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Vishoko](https://open.spotify.com/artist/2VoIm519FXqOTdQciVXLMe), [Ov Black](https://open.spotify.com/artist/7ulWyRMgAVwTZbDBTd6e35) | [Fondo de Bikini](https://open.spotify.com/album/2MDf7f36XF0Tm6r3ZWLIzl) | 4:07 | 2022-05-09 |  |
 | [Freestyle Session](https://open.spotify.com/track/6j0G8UFVuGmstwMbzATyOn) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Freestyle Session](https://open.spotify.com/album/1YDdNdnOQ0BrUGtOWgEo17) | 2:39 | 2022-01-20 |  |
 | [Generaciones \(feat\. OldPurp & Left Behind\)](https://open.spotify.com/track/1T4DYB11yGiuco0hAD6k9h) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ALEX FATT](https://open.spotify.com/artist/662AsYFCIZoKBTgrMvdSGy), [OldPurp](https://open.spotify.com/artist/1h0hHYHR3rv8Ol5yudY5Vi), [Left Behind](https://open.spotify.com/artist/3oPnhTiVCK16n4lh2BDFVd) | [Shishi Plugg](https://open.spotify.com/album/0EDzLjsolQn2ON3Zn9IJ20) | 3:34 | 2022-01-20 |  |
 | [Gracias a Dios](https://open.spotify.com/track/1QobAhxWT2U8jjHrLneOPw) | [Nico Baby](https://open.spotify.com/artist/523Q3hgqV3zr00ephVSfKX), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo) | [Gracias a Dios](https://open.spotify.com/album/7BmXSMey61Y2vqoQx74hXf) | 3:11 | 2022-01-20 |  |

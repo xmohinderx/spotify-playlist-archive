@@ -50,6 +50,42 @@
     },
     {
       "album": {
+        "name": "The Niro",
+        "url": "https://open.spotify.com/album/33BmbA185TWUskqKz5pMRP"
+      },
+      "artists": [
+        {
+          "name": "The Niro",
+          "url": "https://open.spotify.com/artist/0dJ7hcYlBThhyFqcaIn9sB"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "About Love And Indifference",
+      "url": "https://open.spotify.com/track/5j9FtAByuQVvdc30ZSLRbs"
+    },
+    {
+      "album": {
+        "name": "Now You're Gone - The Album",
+        "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
+      },
+      "artists": [
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "All I Ever Wanted - Radio Edit",
+      "url": "https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8"
+    },
+    {
+      "album": {
         "name": "Rock n Roll Jesus",
         "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
@@ -195,7 +231,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 227706,
       "name": "Basta!",
       "url": "https://open.spotify.com/track/2hH7xnynhvoIjwOtAluNYN"
@@ -383,7 +419,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 210506,
       "name": "Chasing Pavements",
       "url": "https://open.spotify.com/track/2OuNgtXKeCSORKqdl0MxKk"
@@ -513,7 +549,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 273416,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3I4LxxxxwKUJnZx6aDIhRS"
@@ -697,7 +733,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 199240,
       "name": "Fermo immagine",
       "url": "https://open.spotify.com/track/2Y9vplkJSNeaURJgDQCwkg"
@@ -831,10 +867,28 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 245586,
       "name": "Helpless When She Smiles - Radio Version",
       "url": "https://open.spotify.com/track/0bCWyxvqNIq7jZjW9LY86G"
+    },
+    {
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/7i3VnuGAGi7howNQLPRhgJ"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235306,
+      "name": "Hold It Don't Drop It",
+      "url": "https://open.spotify.com/track/6vn0gb6XQOY2dYL9CNXSSl"
     },
     {
       "album": {
@@ -1163,7 +1217,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
@@ -1300,6 +1354,24 @@
     },
     {
       "album": {
+        "name": "Year Of The Gentleman",
+        "url": "https://open.spotify.com/album/6dC6J5qkPcJ1iGshEN5MpX"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/1yJ5fyqBusR7Verj8JGsKV"
+    },
+    {
+      "album": {
         "name": "Scream",
         "url": "https://open.spotify.com/album/1LzQ8k1PDyXvy5pjCcfaZT"
       },
@@ -1315,6 +1387,24 @@
       "duration_ms": 241426,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/32Ky5QCRtwYJJXuLwoGufj"
+    },
+    {
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201146,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/7ID1obCK75QsDQuf9pEVxK"
     },
     {
       "album": {
@@ -1408,6 +1498,28 @@
     },
     {
       "album": {
+        "name": "Now You're Gone - The Album",
+        "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
+      },
+      "artists": [
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        },
+        {
+          "name": "DJ Mental Theos Bazzheadz",
+          "url": "https://open.spotify.com/artist/0zVBfaGL0d4vtZZuZWv9lt"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148186,
+      "name": "Now You're Gone - Video Edit",
+      "url": "https://open.spotify.com/track/5Nr1ZcH9PGTiQdGl9HCCS1"
+    },
+    {
+      "album": {
         "name": "Spirito Libero",
         "url": "https://open.spotify.com/album/2Z9l7x2Q5kzRZOcY3Ak3oS"
       },
@@ -1459,6 +1571,24 @@
       "duration_ms": 197213,
       "name": "Pop porno",
       "url": "https://open.spotify.com/track/2CWfkhYbrrwGhuT4ABAjPO"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240746,
+      "name": "Right Now (Na Na Na)",
+      "url": "https://open.spotify.com/track/2VqAEP1yY5T523K7bZtL8a"
     },
     {
       "album": {
@@ -1531,7 +1661,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 290360,
       "name": "Shadow of the Day",
       "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
@@ -1672,6 +1802,24 @@
     },
     {
       "album": {
+        "name": "4:13 Dream",
+        "url": "https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "The Perfect Boy",
+      "url": "https://open.spotify.com/track/3Z9f8WV7MRo8wRwPZJGqLt"
+    },
+    {
+      "album": {
         "name": "Pi\u00f9 Uno",
         "url": "https://open.spotify.com/album/2PCI8iGGXUglnlfGaJg6Ko"
       },
@@ -1683,7 +1831,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 232413,
       "name": "Tu Lo Sai",
       "url": "https://open.spotify.com/track/6J67tgQG5PHzXmIkr0I0ek"

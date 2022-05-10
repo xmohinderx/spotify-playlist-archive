@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> 'Chaand Baaliyan' and other popular Indie hits\. Cover: Aditya A
+> 'Chaand Baaliyan' and other popular Indie hits\. Cover: Anumita Nadesan
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,819 likes - 85 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,567 likes - 85 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
-| 2 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
+| 1 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
+| 2 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
 | 3 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
-| 4 | [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 |
-| 5 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 |
-| 6 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 |
-| 7 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
-| 8 | [Baaraat](https://open.spotify.com/track/2ntHbBDXOy9kiC0p8liLiU) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/4quoXN797O4DI17FeOQRr5) | 3:42 |
-| 9 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 |
+| 4 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
+| 5 | [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 |
+| 6 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 |
+| 7 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 |
+| 8 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 |
+| 9 | [Baaraat](https://open.spotify.com/track/2ntHbBDXOy9kiC0p8liLiU) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/4quoXN797O4DI17FeOQRr5) | 3:42 |
 | 10 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 |
 | 11 | [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 |
 | 12 | [Meri Baaton Mein Tu](https://open.spotify.com/track/5nTbPFqLKmQdIg1SD8KgG4) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Meri Baaton Mein Tu](https://open.spotify.com/album/4L79tNWi1gfRrbuzW0Vwfn) | 3:33 |
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 17 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 |
 | 18 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
 | 19 | [Dil Mere](https://open.spotify.com/track/6ZmtxXUXRVjxOhugKkmerC) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:31 |
-| 20 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 |
-| 21 | [Mishri](https://open.spotify.com/track/1xtkLqZcGPQZP9549WlmfH) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mishri](https://open.spotify.com/album/0xAwBbCJPemAmPVOIe5UXw) | 3:20 |
-| 22 | [Waqt Ki Baatein](https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein \- Single](https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba) | 4:03 |
-| 23 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 |
+| 20 | [Waqt Ki Baatein](https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein \- Single](https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba) | 4:03 |
+| 21 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 |
+| 22 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 |
+| 23 | [Mishri](https://open.spotify.com/track/1xtkLqZcGPQZP9549WlmfH) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mishri](https://open.spotify.com/album/0xAwBbCJPemAmPVOIe5UXw) | 3:20 |
 | 24 | [Khamoshi](https://open.spotify.com/track/3t07ms95QIBxBzcdF3P4CA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Khamoshi](https://open.spotify.com/album/7lWycnEMRXAuuNs7t9dQxy) | 3:09 |
 | 25 | [Jab Tum Miley](https://open.spotify.com/track/1JelKGBph8gon106Wqjwu2) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Jab Tum Miley](https://open.spotify.com/album/5cp5qCU35snnBanBl5khvN) | 4:06 |
 | 26 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 84 | [Khaali Si Rooh](https://open.spotify.com/track/1QUZRkSFhpdYDWiD5cyu20) | [Athul Prabhu](https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6) | [Khaali Si Rooh](https://open.spotify.com/album/4KMgvwY6zwqErkUNGBB1P3) | 3:02 |
 | 85 | [Noor](https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Noor](https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R) | 2:38 |
 
-Snapshot ID: `MTY1MTYzOTY0NywwMDAwMDE0NzAwMDAwMTgwOGQ2NGZkMzcwMDAwMDE4MDczZjE0MDVi`
+Snapshot ID: `MTY1MjA3OTY4OCwwMDAwMDE0OTAwMDAwMTgwYTc5ZjdiMTYwMDAwMDE4MGE3OWYzNTNi`

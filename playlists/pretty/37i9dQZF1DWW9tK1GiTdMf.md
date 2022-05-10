@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare e in copertina c'è WILLOW <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,425 likes - 89 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,437 likes - 89 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

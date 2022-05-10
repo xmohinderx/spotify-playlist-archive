@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: Hooks
 
-135 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+136 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [MY CITY](https://open.spotify.com/track/62bsIzKQuiTnskD0DV3qku) | [88YAMI](https://open.spotify.com/artist/3H9X7CGiBMJTlz4ldD5SuF), [Yourboymars](https://open.spotify.com/artist/5ouiVfEBsyRSAGOZiJHYQD) | [MY CITY](https://open.spotify.com/album/6LPf2adSPT7Ne8FlpCPOrC) | 2:44 | 2022-03-21 | 2022-03-25 |
 | [Need it](https://open.spotify.com/track/5xi9havTvE7ELg0U5O5GsQ) | [Mistah Mez](https://open.spotify.com/artist/7FUiHb15jNoad8VZDsD44i), [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Need it](https://open.spotify.com/album/3esciVJufbBSnNYs5YiZ2O) | 2:42 | 2022-03-21 |  |
 | [Next Up](https://open.spotify.com/track/0d9N7mRZAQDJ8hBfEYXz03) | [KIDLOCK](https://open.spotify.com/artist/3l9ICymWAwODq7mFWBut8s) | [Next Up](https://open.spotify.com/album/35qjoImSiIkhKNXRWYrvMM) | 2:29 | 2022-03-21 |  |
+| [Night Riders \(feat\. Hooks, Hooligan Skinny, ENZO & NASA NOVA\)](https://open.spotify.com/track/7mq35SUsRC8EL1TZUN9ZUW) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh) | [Night Riders \(feat\. Hooks, Hooligan Skinny, ENZO & NASA NOVA\)](https://open.spotify.com/album/5k60dt8jcSdr9xiDqn0JDi) | 2:56 | 2022-05-09 |  |
 | [NINE TO FIVE](https://open.spotify.com/track/7C9jyySCogo2X5zJsS4RFd) | [The GP](https://open.spotify.com/artist/0gTh7DXw0XXoq067gagX3l) | [NINE TO FIVE](https://open.spotify.com/album/5Vo1AiGbU7kV1QjDE2iVL2) | 2:54 | 2022-03-24 |  |
 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 | 2022-03-21 |  |
 | [No Gang](https://open.spotify.com/track/0ZXsjdga92OfHtqQHdOcNX) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [No Gang](https://open.spotify.com/album/6NWqkkaDMh3ynqgkz9tASS) | 3:04 | 2022-03-21 |  |

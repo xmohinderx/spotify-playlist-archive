@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> whats ur name girl whats ur sign ft UMI
+> Join <a href="https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d">Lorem Life w/ Max & Dev</a> w/ guests Devon Again & KiNG MALA this Weds @ 5pm PST
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,575 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,520 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 100 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 |
 | 101 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
 
-Snapshot ID: `MTY1MTg1NjU2MSwwMDAwMDM3NDAwMDAwMTgwOWE1MmQ2ZGYwMDAwMDE4MDk3NjgwZGUz`
+Snapshot ID: `MTY1MjEzNjM0NSwwMDAwMDM3NTAwMDAwMTgwYWIwMDAwMjcwMDAwMDE4MDk3NjgwZGUz`

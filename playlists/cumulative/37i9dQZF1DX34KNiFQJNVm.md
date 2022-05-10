@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem João Gomes, Bad Bunny, Jorge & Mateus e mais!
 
-1,554 songs - 3 day 8 hr 7 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
+1,555 songs - 3 day 8 hr 11 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1200,6 +1200,7 @@
 | [Saiu da Vida Torta](https://open.spotify.com/track/61hglzgqMAKH7xNbtikFxX) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Saiu da Vida Torta](https://open.spotify.com/album/6lVorWNessVIj5MkBC6qc3) | 2:51 | 2022-04-29 | 2022-05-07 |
 | [Salserin \#2 \- Mó Paz \(feat\. Neo Beats\)](https://open.spotify.com/track/0euZp7Kag7ILU71jGkY3f3) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Salserin \#2 \- Mó Paz \(feat\. Neo Beats\)](https://open.spotify.com/album/2myxArGBUfEXfL0D77aJ8Z) | 4:43 | 2022-01-14 | 2022-01-22 |
 | [Salve Baby / Citação: Vamos Fugir](https://open.spotify.com/track/2xh1dqyZ5uxz3dREAREJaR) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Salve Baby / Citação: Vamos Fugir](https://open.spotify.com/album/5QujY89eTMjDncsm8e62zu) | 3:51 | 2022-02-18 | 2022-02-26 |
+| [Salário Digno](https://open.spotify.com/track/1d6y5I0zomDNMDuGsc9Dks) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Pacto Global](https://open.spotify.com/artist/2bEn2vNBOph9vdufxwBXct), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Salário Digno](https://open.spotify.com/album/7s4CzkkLBItJW60WtKCvvC) | 3:22 | 2022-05-08 |  |
 | [Samba Afro Caboclo Jazz](https://open.spotify.com/track/6822nP8nVRb0pGFxOKynQA) | [Tunico](https://open.spotify.com/artist/2t5uKP8Pn8srdTfKFGPWNn), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Ilê Ayiê da Bahia](https://open.spotify.com/artist/0TTjH9LLfL758qKzWb23JE) | [Samba Afro Caboclo Jazz](https://open.spotify.com/album/7iKI7xwM5LfhDs4Ew5R0dV) | 6:46 | 2022-01-21 | 2022-01-29 |
 | [Samba Bombom \- Ao Vivo](https://open.spotify.com/track/6U5dknLPsIA4uxNgQNDbgg) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Samba Bombom \(Ao Vivo\)](https://open.spotify.com/album/1LHNImD01VywlAhyfMx4e9) | 4:06 | 2022-01-21 | 2022-01-29 |
 | [Same Team](https://open.spotify.com/track/3kL40teEoVA3IBmYkKslSV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Same Team](https://open.spotify.com/album/26HH6ki6j4Z7MtVbAFSn8i) | 3:31 | 2022-03-04 | 2022-03-12 |

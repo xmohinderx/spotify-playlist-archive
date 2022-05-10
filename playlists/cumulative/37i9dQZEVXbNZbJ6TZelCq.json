@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "album": {
         "name": "Abu Dhabi",
         "url": "https://open.spotify.com/album/1AX2IgsU9Hau9iili97z34"
       },
@@ -5455,7 +5473,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
@@ -6215,7 +6233,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 202001,
       "name": "Janes Romanes",
       "url": "https://open.spotify.com/track/46DsHSqrMxCtIe7bQFrid3"
@@ -7363,7 +7381,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 194068,
       "name": "LUPII (Au Au Au)",
       "url": "https://open.spotify.com/track/0QW8eVJL5v1y2ZYJIbJwJt"
@@ -8583,7 +8601,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 163076,
       "name": "O vreau pe mama fericita",
       "url": "https://open.spotify.com/track/3lJOwdQ4BGQbsT8mvitzGM"
@@ -9149,7 +9167,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"

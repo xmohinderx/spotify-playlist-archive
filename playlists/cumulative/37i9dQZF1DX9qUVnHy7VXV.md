@@ -4,7 +4,7 @@
 
 > Hit del passato e nuovi brani per la tua giornata perfetta!
 
-75 songs - 4 hr 28 min - not published yet
+77 songs - 4 hr 38 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,14 +45,14 @@
 | [Marvin Gaye \(feat\. Meghan Trainor\)](https://open.spotify.com/track/3rKYiySCDMUKTw5kGVVhaa) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:10 | 2022-05-03 |  |
 | [Mercy](https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:39 | 2022-05-03 |  |
 | [Moves Like Jagger](https://open.spotify.com/track/1r299qCKBLgUS9XJ9m1kEx) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Singles](https://open.spotify.com/album/5NdkVAsSvgUfe3cD8LwSTD) | 3:22 | 2022-05-03 |  |
-| [Next To Me](https://open.spotify.com/track/3vjQt1znaFEnX3PBXsgtVc) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 3:16 | 2022-05-03 |  |
+| [Next To Me](https://open.spotify.com/track/3vjQt1znaFEnX3PBXsgtVc) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ) | 3:16 | 2022-05-03 | 2022-05-10 |
 | [On Top Of The World](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 3:12 | 2022-05-03 |  |
 | [Only The Horses](https://open.spotify.com/track/7BxOczly5v4jRd1Pe3EykU) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour](https://open.spotify.com/album/2Uv5xoWfFbl2o7KdcCglOD) | 3:38 | 2022-05-03 |  |
 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 | 2022-05-03 |  |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2022-05-03 |  |
 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 | 2022-05-03 |  |
 | [Price Tag](https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:43 | 2022-05-03 |  |
-| [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 | 2022-05-03 |  |
+| [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 | 2022-05-03 | 2022-05-10 |
 | [Renegades](https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:15 | 2022-05-03 |  |
 | [Rescue Me](https://open.spotify.com/track/37LNNQNbL1YLyutBG6aWRx) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:39 | 2022-05-03 |  |
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2022-05-03 |  |
@@ -67,6 +67,7 @@
 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 | 2022-05-03 |  |
 | [Spirits](https://open.spotify.com/track/6yDXmurL5FA9Rjn94cRp2g) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3dK4m8ozvewgKyyYVQHWLY) | 3:23 | 2022-05-03 |  |
 | [Stitches](https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m) | 3:26 | 2022-05-03 |  |
+| [Stolen Dance](https://open.spotify.com/track/7398yjipWAaoCGIl7ukaeX) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5jYuoL8huNF3OcrpH9YYHb) | 5:15 | 2022-05-03 |  |
 | [survivin'](https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [survivin'](https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC) | 2:53 | 2022-05-03 |  |
 | [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho \(Acoustic\)](https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon) | 2:59 | 2022-05-03 |  |
 | [Sweet Goodbyes](https://open.spotify.com/track/4NH0G33zApUnRNsSK0CwuN) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Sweet Goodbyes](https://open.spotify.com/album/01jUXWDoLYVABwZccg1RbO) | 3:12 | 2022-05-03 |  |
@@ -78,6 +79,7 @@
 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 | 2022-05-03 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2022-05-03 |  |
 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:10 | 2022-05-03 |  |
+| [What's Up?](https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 4:55 | 2022-05-03 |  |
 | [When The Beat Drops Out](https://open.spotify.com/track/5aJhuze13LOoLthmiG8YIA) | [Marlon Roudette](https://open.spotify.com/artist/2R1QrQqWuw3IjoP5dXRFjt) | [Electric Soul](https://open.spotify.com/album/3qwSJHTzdeESSXjKnrBjGb) | 3:24 | 2022-05-03 |  |
 | [When You Say Nothing At All](https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 4:16 | 2022-05-03 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 | 2022-05-03 |  |

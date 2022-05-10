@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > The sweet sounds of Morocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,919 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,997 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 32 | [Warda](https://open.spotify.com/track/2QLNQhYYJCSlxiErVS40H4) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Warda](https://open.spotify.com/album/3ZnpCRoUy8950vnQSWmDhx) | 3:25 |
 | 33 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 |
 | 34 | [Li fate](https://open.spotify.com/track/1J2zExGwx6NLQVG47KExDK) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Li fate](https://open.spotify.com/album/6buA2U8XHPKRsut3IDiBki) | 3:50 |
-| 35 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 |
-| 36 | [La Vie](https://open.spotify.com/track/13UrWaFgpqfFBSodEvWC0X) | [LIMIT\-LESS](https://open.spotify.com/artist/4luLWQQk00Om8mJUKGjISW), [Ninja](https://open.spotify.com/artist/1MpTRWf8JWazWgL4zDlWsE) | [La Vie](https://open.spotify.com/album/4eDWdMdsRcu0p0L5wE8fld) | 2:39 |
-| 37 | [Mahmouma](https://open.spotify.com/track/6ihD584TA3v6QFUywtf6UP) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Mahmouma](https://open.spotify.com/album/1sQ0PkcBKrbrr1NdmQwNiG) | 3:03 |
-| 38 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 |
-| 39 | [كيفاش نخليك](https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W), [Hind Sdassi](https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm) | [كيفاش نخليك](https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA) | 3:59 |
-| 40 | [Kouni Liya](https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Kouni Liya](https://open.spotify.com/album/5dtPSOpA9sTUGxOvhXneLb) | 3:42 |
-| 41 | [منامي](https://open.spotify.com/track/021nYBkotM08srtM5wfXKo) | [othmanouilki](https://open.spotify.com/artist/5tA7M2xqrIPJ0ax87b19w5) | [منامي](https://open.spotify.com/album/3Jol7FGrreOlSXzQp7sFo3) | 3:16 |
-| 42 | [Lafin](https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [Lafin](https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf) | 3:06 |
-| 43 | [Dowara](https://open.spotify.com/track/7f5S0zYuv6Ou0xEPwLXUDU) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Dowara](https://open.spotify.com/album/12ZhO91Amzo0mYJOP1eP1t) | 3:15 |
-| 44 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 |
-| 45 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 |
-| 46 | [YA DENIA](https://open.spotify.com/track/0hIi9hpHl4P9wJmVRYeVaN) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [YA DENIA](https://open.spotify.com/album/74PxzvwyTg2wdXEIse476z) | 2:57 |
-| 47 | [Khalass](https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalass](https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7) | 3:20 |
-| 48 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 |
-| 49 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 |
-| 50 | [Vamos](https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:49 |
+| 35 | [La Vie](https://open.spotify.com/track/13UrWaFgpqfFBSodEvWC0X) | [LIMIT\-LESS](https://open.spotify.com/artist/4luLWQQk00Om8mJUKGjISW), [Ninja](https://open.spotify.com/artist/1MpTRWf8JWazWgL4zDlWsE) | [La Vie](https://open.spotify.com/album/4eDWdMdsRcu0p0L5wE8fld) | 2:39 |
+| 36 | [Mahmouma](https://open.spotify.com/track/6ihD584TA3v6QFUywtf6UP) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Mahmouma](https://open.spotify.com/album/1sQ0PkcBKrbrr1NdmQwNiG) | 3:03 |
+| 37 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 |
+| 38 | [كيفاش نخليك](https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn) | [Mohamed Rifai](https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W), [Hind Sdassi](https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm) | [كيفاش نخليك](https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA) | 3:59 |
+| 39 | [Kouni Liya](https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Kouni Liya](https://open.spotify.com/album/5dtPSOpA9sTUGxOvhXneLb) | 3:42 |
+| 40 | [منامي](https://open.spotify.com/track/021nYBkotM08srtM5wfXKo) | [othmanouilki](https://open.spotify.com/artist/5tA7M2xqrIPJ0ax87b19w5) | [منامي](https://open.spotify.com/album/3Jol7FGrreOlSXzQp7sFo3) | 3:16 |
+| 41 | [Lafin](https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [Lafin](https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf) | 3:06 |
+| 42 | [Dowara](https://open.spotify.com/track/7f5S0zYuv6Ou0xEPwLXUDU) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Dowara](https://open.spotify.com/album/12ZhO91Amzo0mYJOP1eP1t) | 3:15 |
+| 43 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 |
+| 44 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 |
+| 45 | [YA DENIA](https://open.spotify.com/track/0hIi9hpHl4P9wJmVRYeVaN) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [YA DENIA](https://open.spotify.com/album/74PxzvwyTg2wdXEIse476z) | 2:57 |
+| 46 | [Khalass](https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalass](https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7) | 3:20 |
+| 47 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 |
+| 48 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 |
+| 49 | [Vamos](https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:49 |
 
-Snapshot ID: `MTY1MTc5NzE2MywwMDAwMDIwOTAwMDAwMTgwOTZjODdkMjIwMDAwMDE3MGE0ZjQyMDMw`
+Snapshot ID: `MTY1MjA5NDIwNywwMDAwMDIwYTAwMDAwMTgwYTg3ZDA0OTkwMDAwMDE3MGE0ZjQyMDMw`

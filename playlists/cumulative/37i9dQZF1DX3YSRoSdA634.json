@@ -571,7 +571,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 277280,
       "name": "BRAVE",
       "url": "https://open.spotify.com/track/1LiEAia09qw722mpzqfROY"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 155841,
       "name": "Called You Out",
       "url": "https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 209061,
       "name": "Caves",
       "url": "https://open.spotify.com/track/7h5z7yXzxzJ7rKeZdxF6jU"
@@ -1118,6 +1118,24 @@
     },
     {
       "album": {
+        "name": "Deeper Meaning",
+        "url": "https://open.spotify.com/album/0e8jEms3WUtEbS48ongYAR"
+      },
+      "artists": [
+        {
+          "name": "Zach Heckendorf",
+          "url": "https://open.spotify.com/artist/6ByG3e9FrWcM1eOJcIuOSR"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Deeper Meaning",
+      "url": "https://open.spotify.com/track/2K7NWakXsWXtGBHKGZTMec"
+    },
+    {
+      "album": {
         "name": "XIII",
         "url": "https://open.spotify.com/album/0VL0YxxKMUyizBR0SMveRA"
       },
@@ -1169,6 +1187,24 @@
       "duration_ms": 194680,
       "name": "down",
       "url": "https://open.spotify.com/track/7pV0Yzu2NWogAAVHc9uSIt"
+    },
+    {
+      "album": {
+        "name": "Down to My Grave",
+        "url": "https://open.spotify.com/album/7LiaBqzeWrH0RJRd4HwHOy"
+      },
+      "artists": [
+        {
+          "name": "Hueston",
+          "url": "https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248476,
+      "name": "Down to My Grave",
+      "url": "https://open.spotify.com/track/2U7BKUJfq3uewvHxYNnXO2"
     },
     {
       "album": {
@@ -1403,7 +1439,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 240000,
       "name": "feelings fade",
       "url": "https://open.spotify.com/track/4jnO4ztskhv3YkqgFnewtD"
@@ -1529,7 +1565,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 232373,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/0xF4pgg7PrOG1HccKenJYz"
@@ -1637,7 +1673,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 222598,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/4WrTZMTw20I1N6oH0xdUXm"
@@ -2531,7 +2567,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 246587,
       "name": "Jar of Hearts",
       "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
@@ -3393,7 +3429,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 236786,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/48lVHYfNO1TvL54zMNwVnX"
@@ -3855,7 +3891,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 239493,
       "name": "Reason To Hate You",
       "url": "https://open.spotify.com/track/7howNTHKLqLHBjlxXv7h60"
@@ -4677,7 +4713,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 251960,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/57l9l0BtYWoFCDyZE1ug6Z"
@@ -5613,7 +5649,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 202346,
       "name": "Worst In Me",
       "url": "https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce"
@@ -5667,7 +5703,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 211764,
       "name": "Wrong Love",
       "url": "https://open.spotify.com/track/2U09Gezu5PFkfoDiFJGKwm"

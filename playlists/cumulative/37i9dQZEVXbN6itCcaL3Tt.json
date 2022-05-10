@@ -2739,7 +2739,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 137992,
       "name": "COCO",
       "url": "https://open.spotify.com/track/4huKZSBZ0UJt2RWwB8PEWU"
@@ -4637,7 +4637,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 176350,
       "name": "Harna\u015b ice tea",
       "url": "https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35"
@@ -7101,7 +7101,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 180033,
       "name": "Mamo ty\u015b p\u0142aka\u0142a",
       "url": "https://open.spotify.com/track/4jj5GdqQwsGu3qJQokLG9L"
@@ -13933,6 +13933,24 @@
       "duration_ms": 211146,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3kTbV66UqiZZ9xcTQuadjU"
+    },
+    {
+      "album": {
+        "name": "Zosia",
+        "url": "https://open.spotify.com/album/2l4qvKEMnWj4gS1xeAeRJD"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141663,
+      "name": "Zosia",
+      "url": "https://open.spotify.com/track/785dMrfsQWxg1hcPWXnyli"
     },
     {
       "album": {

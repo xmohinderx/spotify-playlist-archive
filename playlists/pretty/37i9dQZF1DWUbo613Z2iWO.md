@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 ### [The Newness](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> Make room for these R&B/Soul artists on the rise! Photo: Kaash Paige
+> Make room for these R&B/Soul artists on the rise! Photo: Kenyon Dixon
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,323 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,364 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 49 | [HOLY](https://open.spotify.com/track/03reiJNuSFum7GhLNmtjZr) | [Jay Wile](https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU) | [BETTER TIMES \(REDUX VERSION\)](https://open.spotify.com/album/7kgfo2dcVQj1nk2oMaNxzi) | 2:54 |
 | 50 | [i need you more \(feat\. Suyo\)](https://open.spotify.com/track/2DJuXgQmaGUvneCMnfFtiM) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq), [Suyo](https://open.spotify.com/artist/6gKKbq1sXZsj3CumLq7v6A) | [i need you more \(feat\. Suyo\)](https://open.spotify.com/album/6e28WnTmG874KtLEkpUlWm) | 3:04 |
 
-Snapshot ID: `MTY1MTgxMTU3OCwwMDAwMDAyYjAwMDAwMTgwOTdhNDcyNzIwMDAwMDE4MDcyNTViMGVl`
+Snapshot ID: `MTY1MjEwNjM1MiwwMDAwMDAyYzAwMDAwMTgwYTkzNjU3MzcwMDAwMDE4MGE5MzFlNDVm`

@@ -24,6 +24,36 @@
     },
     {
       "album": {
+        "name": "#FREEBOSSETTI",
+        "url": "https://open.spotify.com/album/1WoSgfBjKazZcFytEXH0Tq"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        },
+        {
+          "name": "Narcolessia",
+          "url": "https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS"
+        },
+        {
+          "name": "Liltagliagole",
+          "url": "https://open.spotify.com/artist/5RSEIIcnYL0ZwWG3hTYu9G"
+        },
+        {
+          "name": "natimernero!",
+          "url": "https://open.spotify.com/artist/6WVxJVBY4poIPr4JJC964i"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "#FREEBOSSETTI",
+      "url": "https://open.spotify.com/track/7MKamJApRrgGFeWXsn5Gd7"
+    },
+    {
+      "album": {
         "name": "6 un caxxo di rave",
         "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
       },
@@ -39,7 +69,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 151500,
       "name": "6 un caxxo di rave",
       "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
@@ -173,7 +203,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 156650,
       "name": "BABYDOLL (Speed)",
       "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
@@ -246,6 +276,24 @@
     },
     {
       "album": {
+        "name": "Break It Off",
+        "url": "https://open.spotify.com/album/5q84FQfWp3Q7XnoMlzLRD3"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95317,
+      "name": "Break It Off",
+      "url": "https://open.spotify.com/track/0DwVfCYLrVXgvejYbWwZAd"
+    },
+    {
+      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
       },
@@ -315,10 +363,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 196000,
       "name": "Cattolica",
       "url": "https://open.spotify.com/track/7JS2L1mswwPlfalEdVBDsg"
+    },
+    {
+      "album": {
+        "name": "CHICKEN TERIYAKI",
+        "url": "https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122226,
+      "name": "CHICKEN TERIYAKI",
+      "url": "https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60"
     },
     {
       "album": {
@@ -384,6 +450,24 @@
     },
     {
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146523,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk"
+    },
+    {
+      "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
       },
@@ -413,10 +497,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 100517,
       "name": "DIVE IN!",
       "url": "https://open.spotify.com/track/2I8EDARURigigunOxtg7oi"
+    },
+    {
+      "album": {
+        "name": "Donna criminale",
+        "url": "https://open.spotify.com/album/5QECAnlWcqut68czsakE2A"
+      },
+      "artists": [
+        {
+          "name": "Elmatadormc7",
+          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
+        },
+        {
+          "name": "Lil Dig",
+          "url": "https://open.spotify.com/artist/0Kp2zzn2qY1yOJw0xup1i7"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138823,
+      "name": "Donna criminale",
+      "url": "https://open.spotify.com/track/204uL8oYWauMhDbujw7wrW"
     },
     {
       "album": {
@@ -504,6 +610,24 @@
     },
     {
       "album": {
+        "name": "IL CIELO NON \u00c8 UN LIMITE",
+        "url": "https://open.spotify.com/album/4can9KYB8xVGw5y77OyZMX"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186190,
+      "name": "GIOVANNA HARDCORE",
+      "url": "https://open.spotify.com/track/1Pq4fhffDugNRDMBNj0F5q"
+    },
+    {
+      "album": {
         "name": "Rotten",
         "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
       },
@@ -584,6 +708,24 @@
     },
     {
       "album": {
+        "name": "Le politiche del prato",
+        "url": "https://open.spotify.com/album/141LmYjk5WtxVEcGr56N9s"
+      },
+      "artists": [
+        {
+          "name": "I Camillas",
+          "url": "https://open.spotify.com/artist/2qRou3tRPqy2p59UBDkQVC"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254374,
+      "name": "La canzone del pane",
+      "url": "https://open.spotify.com/track/4zIDZLcm7EkydNvVvpU0lj"
+    },
+    {
+      "album": {
         "name": "Buone Maniere Per Giovani Predatori",
         "url": "https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp"
       },
@@ -595,7 +737,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 233503,
       "name": "Lasciami Qui",
       "url": "https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr"
@@ -809,10 +951,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 193533,
       "name": "Non Succeder\u00e0 Pi\u00f9 (feat. M\u00a5SS KETA)",
       "url": "https://open.spotify.com/track/0K0V1bTu8UeFpmKyxtMpvi"
+    },
+    {
+      "album": {
+        "name": "A\u0160",
+        "url": "https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE"
+      },
+      "artists": [
+        {
+          "name": "Selene Ice",
+          "url": "https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118210,
+      "name": "Normale",
+      "url": "https://open.spotify.com/track/6dy9z9gihX2vTErxPBwb5f"
     },
     {
       "album": {
@@ -889,10 +1049,50 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 136271,
       "name": "Perros",
       "url": "https://open.spotify.com/track/7tTY5P7VCYjbLrzz4a2Ec4"
+    },
+    {
+      "album": {
+        "name": "PHONKY TOWN",
+        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
+      },
+      "artists": [
+        {
+          "name": "PlayaPhonk",
+          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141373,
+      "name": "PHONKY TOWN",
+      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
+    },
+    {
+      "album": {
+        "name": "Play with Fire (feat. Yacht Money)",
+        "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
+      },
+      "artists": [
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        },
+        {
+          "name": "Yacht Money",
+          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180690,
+      "name": "Play with Fire (feat. Yacht Money)",
+      "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
     },
     {
       "album": {
@@ -1097,7 +1297,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 244590,
       "name": "Se loro",
       "url": "https://open.spotify.com/track/7iVSc4hYh8pdeYYTdfA6ti"
@@ -1264,6 +1464,28 @@
     },
     {
       "album": {
+        "name": "TauroTape3",
+        "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
+      },
+      "artists": [
+        {
+          "name": "Tauro Boys",
+          "url": "https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM"
+        },
+        {
+          "name": "Tutti Fenomeni",
+          "url": "https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156992,
+      "name": "Suono Roma Dimensione (feat. Tutti Fenomeni)",
+      "url": "https://open.spotify.com/track/3H8lIh5uPWPm0HjXVcET21"
+    },
+    {
+      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -1301,7 +1523,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 147386,
       "name": "Todo Va A Cambiar",
       "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
@@ -1349,7 +1571,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 201901,
       "name": "TOO EASY",
       "url": "https://open.spotify.com/track/1Q2UkGQukIQeUnG93LD3WM"
@@ -1367,7 +1589,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 211666,
       "name": "Toto et Ninetta",
       "url": "https://open.spotify.com/track/4DMSNaJcSirQN31BSf2BeZ"

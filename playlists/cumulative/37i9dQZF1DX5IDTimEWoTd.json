@@ -1543,7 +1543,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 260440,
       "name": "ivy",
       "url": "https://open.spotify.com/track/19CSr8rwW05VJL2F91KFNK"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 178573,
       "name": "London's Song",
       "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
@@ -2631,7 +2631,7 @@
       ],
       "date_added": "2021-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 183103,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
@@ -2942,6 +2942,28 @@
     },
     {
       "album": {
+        "name": "Till Forever Falls Apart",
+        "url": "https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222860,
+      "name": "Till Forever Falls Apart",
+      "url": "https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp"
+    },
+    {
+      "album": {
         "name": "Till There Was You",
         "url": "https://open.spotify.com/album/7FITiZDCIMCG0ISWBV9Gho"
       },
@@ -3069,7 +3091,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 222643,
       "name": "Up In Flames (Single from \u201cTime Is Up\u201d Soundtrack)",
       "url": "https://open.spotify.com/track/3nd9LYwkRmQXON3a96B8Lk"
@@ -3123,7 +3145,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"

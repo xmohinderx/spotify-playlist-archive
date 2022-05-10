@@ -4,7 +4,7 @@
 
 > Every song with over 1 billion streams on Spotify\. Cover: Ariana Grande
 
-252 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/0C0sQRzxdwWHDf74RbiLwr)
+253 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/0C0sQRzxdwWHDf74RbiLwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 | 2021-07-21 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2021-11-30 |  |
 | [Young Dumb & Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:22 | 2021-07-21 |  |
+| [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/album/11Bkx3E99vf0IlYPND61LJ) | 3:27 | 2022-05-09 |  |
 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 | 2021-07-21 |  |
 
 \*This playlist was first scraped on 2022-02-06. Prior content cannot be recovered.

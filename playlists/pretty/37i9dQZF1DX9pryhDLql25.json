@@ -1,12 +1,12 @@
 {
   "description": "Gather your friends for the cherished ritual that is brunch. If not for the pomo irony, then for the endless hibiscus lavender mimosas.",
-  "num_followers": 193144,
+  "num_followers": 193427,
   "original_name": "Boozy Brunch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA1ODU1NywwMDAwMDAwMGIzZDUwNzNiOTdmZmQ4YjhlNTA0OTYzOGIwM2UxZGQ4",
+  "snapshot_id": "MTY1MjE0NDc3MCwwMDAwMDAwMGJmMDE3MmQyYzdkZmFmN2NlMDE0OWNlNTIwMjQzNTAz",
   "tracks": [
     {
       "added_at": "2019-06-07 14:12:51",
@@ -43,22 +43,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/6Nk8Q2py4XcHpOGtwlADXE"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 277293,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2CaLpacfbqCPvcLmX4ZN8e"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -107,22 +107,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Southeastern",
         "url": "https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4"
       },
@@ -139,22 +123,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 293293,
-      "name": "Tennessee Whiskey",
-      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
       },
@@ -167,6 +135,38 @@
       "duration_ms": 240586,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -215,38 +215,6 @@
       "duration_ms": 303200,
       "name": "Home",
       "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Rivers and Roads",
-      "url": "https://open.spotify.com/track/4Q6Kuze3wNMQRjamyBjHUR"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -303,6 +271,22 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/4Q6Kuze3wNMQRjamyBjHUR"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH"
       },
@@ -315,38 +299,6 @@
       "duration_ms": 170840,
       "name": "Chateau Lobby #4 (in C for Two Virgins)",
       "url": "https://open.spotify.com/track/4KmylOc7EVRfTfy6OImJPX"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 240253,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/5bAJhDTVCWVScr5Ev4LnB2"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -383,22 +335,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Men Amongst Mountains",
-        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 274093,
-      "name": "Wish I Knew You",
-      "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Latigo",
         "url": "https://open.spotify.com/album/1i3BxSvctee1L1zbPSOUBQ"
       },
@@ -415,18 +351,66 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "You Worry Me",
-        "url": "https://open.spotify.com/album/3h1J3GyGX1dG9NQVY0xaIS"
+        "name": "This Side Of Jordan",
+        "url": "https://open.spotify.com/album/3A6DYcbcB9vrZr7134jFQ7"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 214160,
-      "name": "You Worry Me",
-      "url": "https://open.spotify.com/track/0gqxf8wrEkewjmZB7OT4mL"
+      "duration_ms": 226826,
+      "name": "Waltz About Whiskey",
+      "url": "https://open.spotify.com/track/5bZFTRq6V7NXOJ4evYpKS6"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 240253,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/5bAJhDTVCWVScr5Ev4LnB2"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -447,6 +431,22 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "Men Amongst Mountains",
+        "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 274093,
+      "name": "Wish I Knew You",
+      "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "We're All Gonna Die",
         "url": "https://open.spotify.com/album/6bSJPJU1SRxm9RQ4Ox5sRe"
       },
@@ -459,6 +459,54 @@
       "duration_ms": 284720,
       "name": "When The Tequila Runs Out",
       "url": "https://open.spotify.com/track/23Q4sMxgEKRXDMi62xPP5R"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "You Worry Me",
+        "url": "https://open.spotify.com/album/3h1J3GyGX1dG9NQVY0xaIS"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "You Worry Me",
+      "url": "https://open.spotify.com/track/0gqxf8wrEkewjmZB7OT4mL"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Songs from a Ghost Town",
+        "url": "https://open.spotify.com/album/10UpXfQVWUPHCiAhYLHOaW"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/5WsxLkPL1QRKRfCed6qTTn"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Good Grief (Extended Edition)",
+        "url": "https://open.spotify.com/album/146n8mcnFHkEnLML0wgIvZ"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 264038,
+      "name": "Dusty Trails",
+      "url": "https://open.spotify.com/track/4U9aINkQtATpGe9sDUfGx0"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -487,6 +535,22 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "Angela (Single Version)",
         "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
       },
@@ -499,6 +563,102 @@
       "duration_ms": 178840,
       "name": "Angela (Single Version)",
       "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Easy Rider",
+        "url": "https://open.spotify.com/album/0ttq5m5vbcZNkRm85wDXh7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/12AZ6nSJdq3bYgVeza8nSE"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Call Me In The Afternoon",
+      "url": "https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 258640,
+      "name": "Goodbye Earl",
+      "url": "https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 313296,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/3Jm9xunslITwDjh7Kn7TwQ"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "Won't Be Long",
+      "url": "https://open.spotify.com/track/4oe1xMMvznxdsrSKx2jL6w"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Heigh Ho",
+        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Don't Tell Our Friends About Me",
+      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -535,66 +695,50 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+        "name": "Coming Down the Mountain",
+        "url": "https://open.spotify.com/album/0bDioLSH5nZjXpJLE9ZaUU"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
+      "duration_ms": 273959,
+      "name": "Coming Down the Mountain",
+      "url": "https://open.spotify.com/track/43bkejyRlzXjVGKvXYLHzg"
     },
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+        "name": "Hazard & Fate",
+        "url": "https://open.spotify.com/album/1A43T5C9vFdOXecyJAE1We"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
         }
       ],
-      "duration_ms": 258640,
-      "name": "Goodbye Earl",
-      "url": "https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM"
+      "duration_ms": 213360,
+      "name": "Blind in the Fray",
+      "url": "https://open.spotify.com/track/25hEexChI4sq7CH1K4hqh8"
     },
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
       "artists": [
         {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Easy Rider",
-        "url": "https://open.spotify.com/album/0ttq5m5vbcZNkRm85wDXh7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "Easy Rider",
-      "url": "https://open.spotify.com/track/12AZ6nSJdq3bYgVeza8nSE"
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -619,38 +763,6 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "This Side Of Jordan",
-        "url": "https://open.spotify.com/album/3A6DYcbcB9vrZr7134jFQ7"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "Waltz About Whiskey",
-      "url": "https://open.spotify.com/track/5bZFTRq6V7NXOJ4evYpKS6"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG"
       },
@@ -667,66 +779,34 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Coming Down the Mountain",
-        "url": "https://open.spotify.com/album/0bDioLSH5nZjXpJLE9ZaUU"
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 273959,
-      "name": "Coming Down the Mountain",
-      "url": "https://open.spotify.com/track/43bkejyRlzXjVGKvXYLHzg"
+      "duration_ms": 231813,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
     },
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
+        "name": "Cautionary Tale",
+        "url": "https://open.spotify.com/album/7iXMplFdSUSWPl5ALrREZT"
       },
       "artists": [
         {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
         }
       ],
-      "duration_ms": 313296,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Songs from a Ghost Town",
-        "url": "https://open.spotify.com/album/10UpXfQVWUPHCiAhYLHOaW"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/5WsxLkPL1QRKRfCed6qTTn"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "The Rains",
-        "url": "https://open.spotify.com/album/2yYjpXzVcJhQ2D0e9dkwjX"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 211794,
-      "name": "The Rains",
-      "url": "https://open.spotify.com/track/5Wvf91821sBE8aErRtpfRN"
+      "duration_ms": 279000,
+      "name": "Easy Way Out",
+      "url": "https://open.spotify.com/track/2V6DAmBQMKUkXFw5rcbRF2"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -751,34 +831,18 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd"
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 262520,
-      "name": "Every Time the Sun Comes Up",
-      "url": "https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Hazard & Fate",
-        "url": "https://open.spotify.com/album/1A43T5C9vFdOXecyJAE1We"
-      },
-      "artists": [
-        {
-          "name": "The Last Revel",
-          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Blind in the Fray",
-      "url": "https://open.spotify.com/track/25hEexChI4sq7CH1K4hqh8"
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -799,82 +863,18 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+        "name": "The Rains",
+        "url": "https://open.spotify.com/album/2yYjpXzVcJhQ2D0e9dkwjX"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Too Stoned to Cry (2019 Recut)",
-        "url": "https://open.spotify.com/album/3pZEauzYqnIEgXKxPiZlx7"
-      },
-      "artists": [
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        }
-      ],
-      "duration_ms": 204288,
-      "name": "Too Stoned to Cry - 2019 Recut",
-      "url": "https://open.spotify.com/track/69JVdNLDcV6YS5SJBIB3bD"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/3Jm9xunslITwDjh7Kn7TwQ"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "Won't Be Long",
-      "url": "https://open.spotify.com/track/4oe1xMMvznxdsrSKx2jL6w"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/1ltdOb1CJGjzMW52gq2U9t"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Hurtin' (On the Bottle)",
-      "url": "https://open.spotify.com/track/5cTjO1vlSiN9Xs6xDxWOrI"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Heart Like a Levee",
-        "url": "https://open.spotify.com/album/4rEEkztpEU1GBmy5uBYHUS"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Biloxi",
-      "url": "https://open.spotify.com/track/0usEptA5JIPH91TzfJgwuS"
+      "duration_ms": 211794,
+      "name": "The Rains",
+      "url": "https://open.spotify.com/track/5Wvf91821sBE8aErRtpfRN"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -911,162 +911,66 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/4sRUr5XaJYlc17t4jUrqYB"
+        "name": "Heart Like a Levee",
+        "url": "https://open.spotify.com/album/4rEEkztpEU1GBmy5uBYHUS"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
         }
       ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/77hI6DJ12C9WohWk8XUhto"
+      "duration_ms": 171493,
+      "name": "Biloxi",
+      "url": "https://open.spotify.com/track/0usEptA5JIPH91TzfJgwuS"
     },
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Sparrow",
-        "url": "https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu"
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
       "artists": [
         {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 232186,
-      "name": "Hands on You",
-      "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
+      "duration_ms": 290728,
+      "name": "Love Ain't Enough",
+      "url": "https://open.spotify.com/track/2sgbm2X8Ye9YIzvEUFGoar"
     },
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Cautionary Tale",
-        "url": "https://open.spotify.com/album/7iXMplFdSUSWPl5ALrREZT"
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd"
       },
       "artists": [
         {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Easy Way Out",
-      "url": "https://open.spotify.com/track/2V6DAmBQMKUkXFw5rcbRF2"
+      "duration_ms": 262520,
+      "name": "Every Time the Sun Comes Up",
+      "url": "https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT"
     },
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Only Lonely",
-        "url": "https://open.spotify.com/album/5scmOTsoWe6xJyG5otiiZU"
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/1ltdOb1CJGjzMW52gq2U9t"
       },
       "artists": [
         {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 217556,
-      "name": "Only Lonely",
-      "url": "https://open.spotify.com/track/2BzYOfztRMaIVKTfYOGQgR"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Just One of the Guys",
-        "url": "https://open.spotify.com/album/7E8KQTfLUnl1NRv515nliJ"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Just One of the Guys",
-      "url": "https://open.spotify.com/track/2tmL6BDmK6SwOt2ETIgmfo"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "b'lieve i'm goin down...",
-        "url": "https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Pretty Pimpin",
-      "url": "https://open.spotify.com/track/3l9eg9RtisizG12a1D6nZl"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
-        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Two More Bottles of Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3apWrinpISM6eNf9CjzfID"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Make Way for Love",
-        "url": "https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 161690,
-      "name": "What's Chasing You",
-      "url": "https://open.spotify.com/track/0R3gqx7lNCJqR85aAIVRO5"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Swimmin' Time",
-        "url": "https://open.spotify.com/album/1mcKhLfGNvsvr2dNwIUez9"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        }
-      ],
-      "duration_ms": 242137,
-      "name": "The Devil Is All Around",
-      "url": "https://open.spotify.com/track/5zILnyMhgATe9WMFDMhTMe"
+      "duration_ms": 252506,
+      "name": "Hurtin' (On the Bottle)",
+      "url": "https://open.spotify.com/track/5cTjO1vlSiN9Xs6xDxWOrI"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1087,6 +991,70 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
+        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
+        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Two More Bottles of Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3apWrinpISM6eNf9CjzfID"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/490NgrGvR5PX8hWK6bUNsy"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost In My Mind",
+      "url": "https://open.spotify.com/track/6AQGlm2uDrOVXPVJE4hrNu"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Too Stoned to Cry (2019 Recut)",
+        "url": "https://open.spotify.com/album/3pZEauzYqnIEgXKxPiZlx7"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 204288,
+      "name": "Too Stoned to Cry - 2019 Recut",
+      "url": "https://open.spotify.com/track/69JVdNLDcV6YS5SJBIB3bD"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Only Lonely",
+        "url": "https://open.spotify.com/album/5scmOTsoWe6xJyG5otiiZU"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 217556,
+      "name": "Only Lonely",
+      "url": "https://open.spotify.com/track/2BzYOfztRMaIVKTfYOGQgR"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
         "name": "Metamodern Sounds in Country Music",
         "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
@@ -1103,18 +1071,66 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Up From Below",
-        "url": "https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio"
+        "name": "Sparrow",
+        "url": "https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu"
       },
       "artists": [
         {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Janglin",
-      "url": "https://open.spotify.com/track/62RIzPoxJjgEvze5GCrmzX"
+      "duration_ms": 232186,
+      "name": "Hands on You",
+      "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "First Collection 2006-2009",
+        "url": "https://open.spotify.com/album/62miIQWlOO88YmupzmUNGJ"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "Mykonos",
+      "url": "https://open.spotify.com/track/4iaGeV4WFvP2ynbqCIyTpS"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Make Way for Love",
+        "url": "https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 161690,
+      "name": "What's Chasing You",
+      "url": "https://open.spotify.com/track/0R3gqx7lNCJqR85aAIVRO5"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "Bottomless Mimosas",
+        "url": "https://open.spotify.com/album/15c9x5IQtj60N8MQl70HFB"
+      },
+      "artists": [
+        {
+          "name": "Sam Outlaw",
+          "url": "https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r"
+        }
+      ],
+      "duration_ms": 226101,
+      "name": "Bottomless Mimosas",
+      "url": "https://open.spotify.com/track/1iUrILDOtKAunjb2cWjUFl"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1135,34 +1151,50 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Trinity Lane",
-        "url": "https://open.spotify.com/album/1r27NAhNdnPF1Ud6UOf7MR"
+        "name": "Swimmin' Time",
+        "url": "https://open.spotify.com/album/1mcKhLfGNvsvr2dNwIUez9"
       },
       "artists": [
         {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
         }
       ],
-      "duration_ms": 233921,
-      "name": "Trinity Lane",
-      "url": "https://open.spotify.com/track/3Q7dM70nAfpK7TWkdZnNE4"
+      "duration_ms": 242137,
+      "name": "The Devil Is All Around",
+      "url": "https://open.spotify.com/track/5zILnyMhgATe9WMFDMhTMe"
     },
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "Chef'Special",
-        "url": "https://open.spotify.com/album/5JBdHdzB57cBTMHM4tKmvz"
+        "name": "Up From Below",
+        "url": "https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio"
       },
       "artists": [
         {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
         }
       ],
-      "duration_ms": 215237,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/7fKF4HdftIEt3lLAy3rDG6"
+      "duration_ms": 229600,
+      "name": "Janglin",
+      "url": "https://open.spotify.com/track/62RIzPoxJjgEvze5GCrmzX"
+    },
+    {
+      "added_at": "2019-06-07 14:12:51",
+      "album": {
+        "name": "b'lieve i'm goin down...",
+        "url": "https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Pretty Pimpin",
+      "url": "https://open.spotify.com/track/3l9eg9RtisizG12a1D6nZl"
     },
     {
       "added_at": "2019-06-07 14:12:51",
@@ -1183,50 +1215,18 @@
     {
       "added_at": "2019-06-07 14:12:51",
       "album": {
-        "name": "All Or Nothin'",
-        "url": "https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s"
+        "name": "Chef'Special",
+        "url": "https://open.spotify.com/album/5JBdHdzB57cBTMHM4tKmvz"
       },
       "artists": [
         {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5PI71sEmCdBM238mbnFQjq"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 193244,
-      "name": "Call Me In The Afternoon",
-      "url": "https://open.spotify.com/track/5vVHhJr6OpVuHMt1TuHT35"
-    },
-    {
-      "added_at": "2019-06-07 14:12:51",
-      "album": {
-        "name": "Down The Way",
-        "url": "https://open.spotify.com/album/1Ib6a1XRZ0vOzFSr2BPiWe"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/5Z1U0knfYnsfvZycgDeOiC"
+      "duration_ms": 215237,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/7fKF4HdftIEt3lLAy3rDG6"
     }
   ],
   "unique_name": "Boozy Brunch",

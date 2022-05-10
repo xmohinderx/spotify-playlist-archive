@@ -80,6 +80,28 @@
     },
     {
       "album": {
+        "name": "A Bit Of Both (From \u201cAmerican Song Contest\u201d)",
+        "url": "https://open.spotify.com/album/6FvEnZ2yWbyT8G9zcC125K"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        },
+        {
+          "name": "American Song Contest",
+          "url": "https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202799,
+      "name": "A Bit Of Both (From \u201cAmerican Song Contest\u201d)",
+      "url": "https://open.spotify.com/track/2AvjSaPdc7yhxaDVB6ySCR"
+    },
+    {
+      "album": {
         "name": "a little sound",
         "url": "https://open.spotify.com/album/3xkaAltfAJQBjHlsP84QUf"
       },
@@ -819,7 +841,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 163516,
       "name": "Changes (feat. Joe P)",
       "url": "https://open.spotify.com/track/0OZzcGFKrco8AwYD3QWIsW"
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 184952,
       "name": "Consider Me",
       "url": "https://open.spotify.com/track/6p0xVnT5K3UdxKqQ0Fgytw"
@@ -1393,7 +1415,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 216866,
       "name": "Face The River",
       "url": "https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF"
@@ -2061,7 +2083,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 150156,
       "name": "Home",
       "url": "https://open.spotify.com/track/7smPGXPTC7rfvvYBs624hl"
@@ -2927,7 +2949,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 241116,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/4VeTqMj8t14gF7UcBaAkzC"
@@ -3259,7 +3281,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 182667,
       "name": "Nostalgic",
       "url": "https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4"
@@ -3623,7 +3645,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/6YDf6QV7QfCEo8O2dbWalK"
@@ -3739,7 +3761,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 210777,
       "name": "Room",
       "url": "https://open.spotify.com/track/0qyIfrncrrZQlx2jaffhYm"
@@ -3775,7 +3797,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 236250,
       "name": "Same Side",
       "url": "https://open.spotify.com/track/0DJOsMUTqsgocrs25hGY8u"
@@ -3829,7 +3851,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 220891,
       "name": "September",
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
@@ -4049,7 +4071,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 188199,
       "name": "Soon Come",
       "url": "https://open.spotify.com/track/0axpkcx0olVmVJdR4vlBhk"
@@ -4103,7 +4125,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 171270,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3koEQCObszK1d8rn2la7O3"
@@ -4461,7 +4483,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 171000,
       "name": "These Fires",
       "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
@@ -4609,7 +4631,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 257015,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/0kq0Y8usfSocdx1EumUklz"
@@ -5039,7 +5061,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 194231,
       "name": "You Better Run",
       "url": "https://open.spotify.com/track/7BX7n5ZRHCM8Ao4dN70qnC"

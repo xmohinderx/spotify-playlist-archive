@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Dermot Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,022 likes - 105 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,019 likes - 105 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

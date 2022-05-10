@@ -1,13 +1,29 @@
 {
   "description": "Let these cozy songs comfort you like a warm blanket.",
-  "num_followers": 45159,
+  "num_followers": 45178,
   "original_name": "Sunday Scaries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA1ODU0OCwwMDAwMDAwMGY0YmM4NTEyMjQ2ZWViMTNiZWUyM2EwMmYyNzhmMDIz",
+  "snapshot_id": "MTY1MjE0NDc2MSwwMDAwMDAwMDA0MmIxZjQxZTE3ZmUyZWE3ZDhjNmE2MTJkNjNjOGNj",
   "tracks": [
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Nico's Red Truck",
-        "url": "https://open.spotify.com/album/78GSLFGpqG8ra9QXiRsqpd"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 248853,
-      "name": "Nico's Red Truck",
-      "url": "https://open.spotify.com/track/4zHC1zzSAV2xR7OlUqo2Oz"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt"
       },
@@ -75,34 +75,34 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "FEELS",
-        "url": "https://open.spotify.com/album/4FKCroUOb0VCWrU7ClYtWR"
+        "name": "UP",
+        "url": "https://open.spotify.com/album/1hpu0mW7TuPlw636v2oMkH"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Max Pope",
+          "url": "https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i"
         }
       ],
-      "duration_ms": 194303,
-      "name": "Fool For You",
-      "url": "https://open.spotify.com/track/2TRnVXGSK4aBtfEOaB460m"
+      "duration_ms": 244766,
+      "name": "Man On The Wire",
+      "url": "https://open.spotify.com/track/7jZYksBm8gohw34n6wm9Ae"
     },
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "Nico's Red Truck",
+        "url": "https://open.spotify.com/album/78GSLFGpqG8ra9QXiRsqpd"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+      "duration_ms": 248853,
+      "name": "Nico's Red Truck",
+      "url": "https://open.spotify.com/track/4zHC1zzSAV2xR7OlUqo2Oz"
     },
     {
       "added_at": "2020-08-18 17:48:46",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
+        "name": "Plays Count Basie",
+        "url": "https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "Blue And Sentimental",
+      "url": "https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
         "name": "Demos",
         "url": "https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp"
       },
@@ -139,102 +155,50 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+        "name": "Above All Else, Be Kind",
+        "url": "https://open.spotify.com/album/70TxrZBn8JLp8WwMjXmU8U"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "AJIMAL",
+          "url": "https://open.spotify.com/artist/3j4ew45VN7knFiJvjqBobA"
         }
       ],
-      "duration_ms": 204426,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
+      "duration_ms": 286743,
+      "name": "Above All Else, Be Kind",
+      "url": "https://open.spotify.com/track/1F0WmzKJt8ylEAfjeXAiTc"
     },
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
         }
       ],
-      "duration_ms": 319560,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp"
+      "duration_ms": 100746,
+      "name": "Bless the Telephone",
+      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
     },
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "Plastic Ono Band",
+        "url": "https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 213400,
-      "name": "LOVE. FEAT. ZACARI.",
-      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Factor In",
-        "url": "https://open.spotify.com/album/0YMEgUXRjLiiEb2EYeRwni"
-      },
-      "artists": [
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 207026,
-      "name": "Factor In",
-      "url": "https://open.spotify.com/track/1jSsZv7ln3hhPhSoFTkV2R"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/25YvGDl2zSE0pH8jrMZ6aY"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "UP",
-        "url": "https://open.spotify.com/album/1hpu0mW7TuPlw636v2oMkH"
-      },
-      "artists": [
-        {
-          "name": "Max Pope",
-          "url": "https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i"
-        }
-      ],
-      "duration_ms": 244766,
-      "name": "Man On The Wire",
-      "url": "https://open.spotify.com/track/7jZYksBm8gohw34n6wm9Ae"
+      "duration_ms": 112040,
+      "name": "Hold On - Remastered 2010",
+      "url": "https://open.spotify.com/track/4bN43jYf41eIjJZ3UXQpuA"
     },
     {
       "added_at": "2020-08-18 17:48:46",
@@ -279,6 +243,22 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
+        "name": "FEELS",
+        "url": "https://open.spotify.com/album/4FKCroUOb0VCWrU7ClYtWR"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 194303,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/2TRnVXGSK4aBtfEOaB460m"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
       },
@@ -295,34 +275,66 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Above All Else, Be Kind",
-        "url": "https://open.spotify.com/album/70TxrZBn8JLp8WwMjXmU8U"
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
       },
       "artists": [
         {
-          "name": "AJIMAL",
-          "url": "https://open.spotify.com/artist/3j4ew45VN7knFiJvjqBobA"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 286743,
-      "name": "Above All Else, Be Kind",
-      "url": "https://open.spotify.com/track/1F0WmzKJt8ylEAfjeXAiTc"
+      "duration_ms": 146333,
+      "name": "In My Life - Remastered",
+      "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
     },
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Warm on a Cold Night (Deluxe)",
-        "url": "https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA"
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
       },
       "artists": [
         {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 261594,
-      "name": "Warm on a Cold Night",
-      "url": "https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp"
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "The Anthology: 1931 - 1968",
+        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "duration_ms": 189453,
+      "name": "You Always Hurt The One You Love",
+      "url": "https://open.spotify.com/track/42og107RMzQPsQUIJBSUbD"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
     },
     {
       "added_at": "2020-08-18 17:48:46",
@@ -343,6 +355,38 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "Flamingo Serenade",
+        "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
+      },
+      "artists": [
+        {
+          "name": "The Flamingos",
+          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "I Only Have Eyes for You",
+      "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
         "name": "Sound & Color",
         "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
       },
@@ -355,6 +399,38 @@
       "duration_ms": 268853,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/3IBhpCAFOJxynTfrw0t2LN"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 319560,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp"
     },
     {
       "added_at": "2020-08-18 17:48:46",
@@ -375,66 +451,18 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "River",
-      "url": "https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "You Forgot it in People",
-        "url": "https://open.spotify.com/album/4Awy6Aaczv4aecYZYDSQXu"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 382240,
-      "name": "Lover's Spit",
-      "url": "https://open.spotify.com/track/05J5tBOGYj2lbEbm68f7z6"
+      "duration_ms": 200440,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
     },
     {
       "added_at": "2020-08-18 17:48:46",
@@ -451,6 +479,54 @@
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/5mphdlILgAq3vh1MSvAJTS"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "Warm on a Cold Night (Deluxe)",
+        "url": "https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 261594,
+      "name": "Warm on a Cold Night",
+      "url": "https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Strawberry Swing",
+      "url": "https://open.spotify.com/track/2dphvmoLEXdk8hOYxmHlI3"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "Como Te Llama?",
+        "url": "https://open.spotify.com/album/5VdOzZmXRZtDbzIW2wg8XK"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+        }
+      ],
+      "duration_ms": 438906,
+      "name": "Spooky Couch",
+      "url": "https://open.spotify.com/track/1wRCg1JyRmbJEg9ESOMlVp"
     },
     {
       "added_at": "2020-08-18 17:48:46",
@@ -475,130 +551,34 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+        "name": "You Forgot it in People",
+        "url": "https://open.spotify.com/album/4Awy6Aaczv4aecYZYDSQXu"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
         }
       ],
-      "duration_ms": 243131,
-      "name": "No. 1 Party Anthem",
-      "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
+      "duration_ms": 382240,
+      "name": "Lover's Spit",
+      "url": "https://open.spotify.com/track/05J5tBOGYj2lbEbm68f7z6"
     },
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Homesick Remedy",
-        "url": "https://open.spotify.com/album/3dubEbN2Xtc0zbJVszON1d"
+        "name": "The Moon Rang Like a Bell",
+        "url": "https://open.spotify.com/album/5TclsFNhJ3vy0rfDrGnn8r"
       },
       "artists": [
         {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+          "name": "Hundred Waters",
+          "url": "https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO"
         }
       ],
-      "duration_ms": 144929,
-      "name": "Homesick Remedy",
-      "url": "https://open.spotify.com/track/2Sn2XxPVmOgoZbdxckimxP"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Would You",
-        "url": "https://open.spotify.com/album/5juwwPDAXjR7HPuydxHP3Y"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Honesty",
-      "url": "https://open.spotify.com/track/5Bsyin9f7eK4aLH59jGwGy"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "The Anthology: 1931 - 1968",
-        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
-      },
-      "artists": [
-        {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
-        }
-      ],
-      "duration_ms": 189453,
-      "name": "You Always Hurt The One You Love",
-      "url": "https://open.spotify.com/track/42og107RMzQPsQUIJBSUbD"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Flamingo Serenade",
-        "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
-      },
-      "artists": [
-        {
-          "name": "The Flamingos",
-          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
-        }
-      ],
-      "duration_ms": 202773,
-      "name": "I Only Have Eyes for You",
-      "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "The Singer & The Song",
-        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 100746,
-      "name": "Bless the Telephone",
-      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Free Spirit",
-        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/12VqHHz4wvVcnEdSivjLeQ"
+      "duration_ms": 75671,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/07KMQNsSXfWJjOzFzwNWoE"
     },
     {
       "added_at": "2020-08-18 17:48:46",
@@ -619,70 +599,86 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Como Te Llama?",
-        "url": "https://open.spotify.com/album/5VdOzZmXRZtDbzIW2wg8XK"
+        "name": "HEAVN",
+        "url": "https://open.spotify.com/album/2ha1TUv0o6VnQddOci7GIb"
       },
       "artists": [
         {
-          "name": "Albert Hammond Jr",
-          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
-        }
-      ],
-      "duration_ms": 438906,
-      "name": "Spooky Couch",
-      "url": "https://open.spotify.com/track/1wRCg1JyRmbJEg9ESOMlVp"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "OKAY OKAY",
-        "url": "https://open.spotify.com/album/6kQdXSgxiz2zB105BSX6SA"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "OKAY OKAY",
-      "url": "https://open.spotify.com/track/1Wds4TjXgP26AW9H8LALtQ"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Begin (feat. Wales)",
-        "url": "https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         },
         {
-          "name": "Wales",
-          "url": "https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ"
+          "name": "Lorine Chia",
+          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
         }
       ],
-      "duration_ms": 242859,
-      "name": "Begin (feat. Wales)",
-      "url": "https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz"
+      "duration_ms": 205595,
+      "name": "Lonely (feat. Lorine Chia)",
+      "url": "https://open.spotify.com/track/31c86U35gJEV813lIaQzZe"
     },
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Plastic Ono Band",
-        "url": "https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K"
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 112040,
-      "name": "Hold On - Remastered 2010",
-      "url": "https://open.spotify.com/track/4bN43jYf41eIjJZ3UXQpuA"
+      "duration_ms": 204426,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 109386,
+      "name": "April Come She Will",
+      "url": "https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "River",
+      "url": "https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
     },
     {
       "added_at": "2020-08-18 17:48:46",
@@ -715,18 +711,18 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+        "name": "Would You",
+        "url": "https://open.spotify.com/album/5juwwPDAXjR7HPuydxHP3Y"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 211533,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
+      "duration_ms": 191000,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/5Bsyin9f7eK4aLH59jGwGy"
     },
     {
       "added_at": "2020-08-18 17:48:46",
@@ -763,86 +759,86 @@
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
+        "name": "Small Town Girl",
+        "url": "https://open.spotify.com/album/5QInMFkx5Oqal1NKZI9c2P"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 146333,
-      "name": "In My Life - Remastered",
-      "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
+      "duration_ms": 185076,
+      "name": "Small Town Girl",
+      "url": "https://open.spotify.com/track/7tbpHQMGcySPP07HlhWcBQ"
     },
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/5TdnjKBwbAYMZ3ZF3cGMgL"
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
       "artists": [
         {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 459506,
-      "name": "Desire Lines",
-      "url": "https://open.spotify.com/track/63JP68VirmCXtWRoMTX8Xi"
+      "duration_ms": 257959,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/25YvGDl2zSE0pH8jrMZ6aY"
     },
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "The Moon Rang Like a Bell",
-        "url": "https://open.spotify.com/album/5TclsFNhJ3vy0rfDrGnn8r"
+        "name": "Submarine - Original Songs From The Film By Alex Turner",
+        "url": "https://open.spotify.com/album/2nrjrRYf2ANHE3jsUrs0gJ"
       },
       "artists": [
         {
-          "name": "Hundred Waters",
-          "url": "https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO"
+          "name": "Alex Turner",
+          "url": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
         }
       ],
-      "duration_ms": 75671,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/07KMQNsSXfWJjOzFzwNWoE"
+      "duration_ms": 186720,
+      "name": "Hiding tonight",
+      "url": "https://open.spotify.com/track/0x47zt71IYykbt1ET933pJ"
     },
     {
       "added_at": "2020-08-18 17:48:46",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Green Lights",
-      "url": "https://open.spotify.com/track/1y16qMm3FofXQICk50Y7Gc"
-    },
-    {
-      "added_at": "2020-08-18 17:48:46",
-      "album": {
-        "name": "Yesterday's Gone",
-        "url": "https://open.spotify.com/album/0tgsACxUMuBElueq2YRe1K"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
         }
       ],
-      "duration_ms": 172653,
-      "name": "Damselfly",
-      "url": "https://open.spotify.com/track/2QMihQt7YoEPkPNcDsAJf5"
+      "duration_ms": 213400,
+      "name": "LOVE. FEAT. ZACARI.",
+      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+    },
+    {
+      "added_at": "2020-08-18 17:48:46",
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 130427,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk"
     }
   ],
   "unique_name": "Sunday Scaries",

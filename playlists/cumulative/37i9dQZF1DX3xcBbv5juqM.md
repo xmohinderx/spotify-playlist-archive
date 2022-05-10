@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2001! Cover: Destiny's Child
 
-100 songs - 6 hr 42 min - not published yet
+101 songs - 6 hr 46 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 | 2020-11-04 |  |
 | [It's Raining Men](https://open.spotify.com/track/7q3qX7Ees3FZtRFJXWgPZs) | [Geri Halliwell](https://open.spotify.com/artist/5orH1OWgjAYUX8sZ5gihTv) | [Scream If You Wanna Go Faster](https://open.spotify.com/album/2sgOJkKcXuxEqXW26W3sQf) | 4:14 | 2020-11-04 |  |
 | [It's the Way You Make Me Feel](https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Buzz](https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na) | 3:17 | 2020-11-04 |  |
+| [Izzo \(H.O.V.A.\)](https://open.spotify.com/track/4h5KBcltGefua73AUPYps7) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 4:00 | 2020-11-04 |  |
 | [Jaded](https://open.spotify.com/track/4iihDHIoKZdOeOW1kFDUtR) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 3:34 | 2020-11-04 |  |
 | [La Canzone Che Scrivo Per Te](https://open.spotify.com/track/6y2KY53j3cShdUYFoPwGAP) | [Marlene Kuntz](https://open.spotify.com/artist/1koU3PYin1x0g79oU9VB4A) | [Che Cosa Vedi](https://open.spotify.com/album/1eTjdBsLWkDp5CevanHhZ8) | 4:07 | 2020-11-04 |  |
 | [La Mia Signorina](https://open.spotify.com/track/0kM3bPNUPgxaeOf7VzRQer) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Arrivi E Partenze](https://open.spotify.com/album/5LLCjSd4oMxDpHm5Jd2NY8) | 3:22 | 2020-11-04 |  |
@@ -60,7 +61,7 @@
 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 | 2020-11-04 |  |
 | [Let's Dance \- Radio Edit](https://open.spotify.com/track/595JwfRS0iFbdZyhlBxokI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:38 | 2020-11-04 |  |
 | [Little L](https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A funk odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 4:55 | 2020-11-04 |  |
-| [Livin' It Up](https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:17 | 2020-11-04 |  |
+| [Livin' It Up](https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:17 | 2020-11-04 | 2022-05-10 |
 | [Love Don't Cost a Thing](https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 3:41 | 2020-11-04 |  |
 | [Loverboy](https://open.spotify.com/track/75b9JVzc4QFvPBO7jDRIVe) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:49 | 2020-11-04 |  |
 | [Lovin' Each Day](https://open.spotify.com/track/61fUmn6wYvU7qS62wNvQFN) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 3:32 | 2020-11-04 |  |

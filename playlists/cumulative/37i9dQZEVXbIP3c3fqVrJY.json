@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2189,6 +2189,24 @@
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257266,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
     },
     {
       "album": {
@@ -3281,7 +3299,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 140624,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua"
@@ -5703,7 +5721,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 204506,
       "name": "Mala dama",
       "url": "https://open.spotify.com/track/0nVCQoIiDjnZWXHMRCD2Ko"
@@ -7451,7 +7469,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 163706,
       "name": "Plakala",
       "url": "https://open.spotify.com/track/3h9EMra1EG4oncHLPiEJce"
@@ -7843,7 +7861,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 134237,
       "name": "P\u0159\u00edb\u011bhy, sny",
       "url": "https://open.spotify.com/track/2LuBVfML3jK93lgUVF6ZjO"
@@ -9183,7 +9201,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 181192,
       "name": "S\u00e9rum",
       "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
@@ -9671,7 +9689,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 168066,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"

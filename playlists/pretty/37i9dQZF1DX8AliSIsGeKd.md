@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Niconé
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,948 likes - 74 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,072 likes - 74 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

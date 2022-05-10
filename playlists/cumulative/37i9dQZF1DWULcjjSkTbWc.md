@@ -4,7 +4,7 @@
 
 > Unos buenos riffs de guitarra para acompañarte en el camino.
 
-82 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/3dNlFSKAMmmQ2dlm3T7kwR)
+83 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3dNlFSKAMmmQ2dlm3T7kwR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Dirty Harry](https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:50 | 2021-11-26 | 2022-04-27 |
 | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P) | 3:35 | 2021-11-26 |  |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2021-11-26 |  |
-| [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 | 2021-11-26 |  |
+| [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 | 2021-11-26 | 2022-05-10 |
 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 | 2021-11-26 |  |
 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 | 2021-11-26 |  |
 | [Fluorescent Adolescent](https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:03 | 2021-11-26 |  |
@@ -60,7 +60,7 @@
 | [One Way Or Another \- Remastered](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 | 2021-11-26 |  |
 | [Oye Como Va](https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:16 | 2021-11-26 |  |
 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 | 2021-11-26 |  |
-| [Peace, Love, Rock N Roll](https://open.spotify.com/track/32LKFnGmhSqDDHBlsqqaB4) | [Mrs\. Henry](https://open.spotify.com/artist/2eHOlyX9GEmBZw0X7uBiI0) | [Peace, Love, Rock N Roll](https://open.spotify.com/album/1DJVdxZ0XtHtpFTAIdvtam) | 2:53 | 2022-02-16 |  |
+| [Peace, Love, Rock N Roll](https://open.spotify.com/track/32LKFnGmhSqDDHBlsqqaB4) | [Mrs\. Henry](https://open.spotify.com/artist/2eHOlyX9GEmBZw0X7uBiI0) | [Peace, Love, Rock N Roll](https://open.spotify.com/album/1DJVdxZ0XtHtpFTAIdvtam) | 2:53 | 2022-02-16 | 2022-05-10 |
 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 | 2021-11-26 |  |
 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 | 2021-11-26 | 2022-05-08 |
 | [Pijamas](https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 3:29 | 2021-11-26 |  |
@@ -70,6 +70,7 @@
 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 | 2021-11-26 |  |
 | [Razón](https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 3:15 | 2021-11-26 |  |
 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 | 2021-11-26 |  |
+| [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 | 2021-11-26 |  |
 | [Rockstar](https://open.spotify.com/track/5ZxtWh3TMslzFMVOmU2mGG) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 3:19 | 2021-11-26 |  |
 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 | 2021-11-26 |  |
 | [Ruby](https://open.spotify.com/track/0VhhaYztcRWc7PEjJCjr1g) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3Hrcrl4FUmt262YeNQJaTM) | 3:22 | 2021-11-26 | 2022-05-03 |
@@ -84,7 +85,7 @@
 | [Vendaval De Cristal](https://open.spotify.com/track/1aSt45gruUPowYTAnmTHcw) | [GENTE IMPROBABLE](https://open.spotify.com/artist/3hYNnh9hNnCKiQK4onMEJr) | [Vendaval De Cristal](https://open.spotify.com/album/7wQAo1qIV4da91vQkOIid8) | 4:06 | 2022-04-01 |  |
 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 | 2021-11-26 |  |
 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2021-11-26 |  |
-| [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2021-11-26 | 2022-05-06 |
+| [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2021-11-26 |  |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2021-11-26 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-04-06 |  |
 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/6jvCkDnEIqIi6NWDejE4dj) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Jaibol](https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM) | 3:35 | 2021-11-26 |  |

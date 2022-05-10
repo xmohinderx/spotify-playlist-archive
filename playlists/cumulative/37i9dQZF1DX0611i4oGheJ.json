@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 295075,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 212586,
       "name": "Breakers Roar",
       "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Desert Wine (Acoustic)",
       "url": "https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 239480,
       "name": "Easier",
       "url": "https://open.spotify.com/track/51ly3W8LifaVReT1NAgaH2"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 221720,
       "name": "Faceplant",
       "url": "https://open.spotify.com/track/2VeHykq7LnldFv0ugSUN57"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 243773,
       "name": "First Defeat",
       "url": "https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 289306,
       "name": "Forever and Then Some",
       "url": "https://open.spotify.com/track/16HWvmhWwk53FLOSvgiL1w"
@@ -1098,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "Heart Swell",
+        "url": "https://open.spotify.com/album/1MxHShulhqcUsMq6Iddlk7"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249548,
+      "name": "Heart Swell",
+      "url": "https://open.spotify.com/track/2mML5QnqL781rheJbrmJuW"
+    },
+    {
+      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
       },
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 379333,
       "name": "Learning to Lose (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0Pr7l3Zvr9F4upwYZFpkS7"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 147346,
       "name": "Love Flew Away",
       "url": "https://open.spotify.com/track/5uAtnvrLOUDcTp9sfpxaQt"
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 277676,
       "name": "Moon Song",
       "url": "https://open.spotify.com/track/6sALLrBPX30ptG1HWH6vmW"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
@@ -2103,7 +2121,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 264000,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o"
@@ -2489,7 +2507,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 117287,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/5NdJBQ5wjng2UTE3NYLzsv"
@@ -2723,7 +2741,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 212720,
       "name": "Strange Country",
       "url": "https://open.spotify.com/track/5FKe8dFIw1CAbFocbGpG7Y"
@@ -2795,7 +2813,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 239600,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 149970,
       "name": "The Best (On the Back Porch)",
       "url": "https://open.spotify.com/track/0K0RGnqg8FYIo2zKJdNUvm"
@@ -2867,7 +2885,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 246053,
       "name": "The Cherries Are Speaking",
       "url": "https://open.spotify.com/track/2Tyd4ibj4J5RSrTZoFowfg"
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 205948,
       "name": "The Long Way Home",
       "url": "https://open.spotify.com/track/1WyEIbcYvdHkovLGTGEQu7"
@@ -3047,7 +3065,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 292493,
       "name": "The Question",
       "url": "https://open.spotify.com/track/6IfxNYJWYBaaDxCN8FWehD"
@@ -3137,7 +3155,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
@@ -3379,7 +3397,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 182374,
       "name": "Try to Make a Fire Burn Again",
       "url": "https://open.spotify.com/track/6rKfnpSyHhdVrukCPZT3hK"
@@ -3469,7 +3487,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 331111,
       "name": "Wake Me",
       "url": "https://open.spotify.com/track/6pOiBHK2mMiSNnPsYNGsEc"
@@ -3527,7 +3545,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 287417,
       "name": "Wayfaring Stranger (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6fVWRVu15YqA9yhd5hy9Bj"

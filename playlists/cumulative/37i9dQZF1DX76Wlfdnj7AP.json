@@ -2345,7 +2345,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 203476,
       "name": "Body - Joel Corry Remix",
       "url": "https://open.spotify.com/track/4Lm3Eh62HxFtOeY7Ra1CaI"
@@ -8815,7 +8815,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 190534,
       "name": "Hello (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
@@ -10306,6 +10306,28 @@
     },
     {
       "album": {
+        "name": "In My Head (feat. Travis Barker)",
+        "url": "https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130117,
+      "name": "In My Head (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L"
+    },
+    {
+      "album": {
         "name": "In My Mind (feat. Georgi Kay)",
         "url": "https://open.spotify.com/album/7itE3cK3ye649qjIcsgGNu"
       },
@@ -11509,7 +11531,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 261492,
       "name": "Laugh Now Cry Later (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
@@ -14371,7 +14393,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 168728,
       "name": "No Return (with The Kid LAROI & Lil Durk)",
       "url": "https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1"
@@ -16811,7 +16833,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 242904,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs"
@@ -17177,7 +17199,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
@@ -17261,7 +17283,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 201940,
       "name": "Rotate",
       "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"

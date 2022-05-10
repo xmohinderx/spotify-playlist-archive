@@ -6,6 +6,42 @@
   "tracks": [
     {
       "album": {
+        "name": "99 Red Balloons",
+        "url": "https://open.spotify.com/album/6nKfSKhYkhtUz3tSWlkPKf"
+      },
+      "artists": [
+        {
+          "name": "Zonoma",
+          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190820,
+      "name": "99 Red Balloons",
+      "url": "https://open.spotify.com/track/56tirIo28bF0MY5oMpiDah"
+    },
+    {
+      "album": {
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+      },
+      "artists": [
+        {
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
+    },
+    {
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/0v9ZyMMizXT9KV6vbaRg2H"
       },
@@ -93,6 +129,28 @@
       "duration_ms": 186507,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2wrwZ2h3WoVPYnWOYq6JLI"
+    },
+    {
+      "album": {
+        "name": "Baxter (These Are My Friends)",
+        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baxter Dury",
+          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244034,
+      "name": "Baxter (These Are My Friends)",
+      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
     },
     {
       "album": {
@@ -259,7 +317,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 222590,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/1Bt0UAApn7Oxdam3lQs1vo"
@@ -505,10 +563,28 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 164078,
       "name": "Love Me - GAMPER & DADONI Remix",
       "url": "https://open.spotify.com/track/3EbedhPLDbDyRbdI0UoOh6"
+    },
+    {
+      "album": {
+        "name": "Love You Tonight",
+        "url": "https://open.spotify.com/album/4oFF7Oh66kN9JT0DyjUW46"
+      },
+      "artists": [
+        {
+          "name": "Martin Zandt",
+          "url": "https://open.spotify.com/artist/3HVIhaXyOOKizvzcO9C1Mk"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186771,
+      "name": "Love You Tonight",
+      "url": "https://open.spotify.com/track/5BbMKYskxFCCp7kacFBdRw"
     },
     {
       "album": {
@@ -617,10 +693,32 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 227681,
       "name": "On The Rhode",
       "url": "https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn"
+    },
+    {
+      "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/1u718NqKyS7ahIrLbGTnWu"
+      },
+      "artists": [
+        {
+          "name": "Tullio",
+          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
+        },
+        {
+          "name": "Lola Rhodes",
+          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177284,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/1F0DPRmTffMqDkCbQ51vik"
     },
     {
       "album": {
@@ -704,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Risin' to the Top",
+        "url": "https://open.spotify.com/album/5PSzn7T2vQMDGGu14bn2mt"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186641,
+      "name": "Risin' to the Top - Radio Mix",
+      "url": "https://open.spotify.com/track/5bt6R4mH4qDp5zL5JJ3ll3"
+    },
+    {
+      "album": {
         "name": "Save Tonight",
         "url": "https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0"
       },
@@ -751,7 +867,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 277254,
       "name": "Slow Move",
       "url": "https://open.spotify.com/track/2q49xqQnNrm5pX9VOWGyaX"
@@ -823,7 +939,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 184000,
       "name": "Sunset Memories",
       "url": "https://open.spotify.com/track/3FrGR9l2csCODAIlgBkXbt"
@@ -841,7 +957,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 240251,
       "name": "Sunspots",
       "url": "https://open.spotify.com/track/3sZIa6qr507qnqGkowmzk9"
@@ -859,7 +975,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 211639,
       "name": "The Blaze",
       "url": "https://open.spotify.com/track/090rxvqKAGpTryUgXOZgsj"
@@ -978,6 +1094,24 @@
     },
     {
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5tN8Lg9AXBSO4Q5ELOM4Fs"
+      },
+      "artists": [
+        {
+          "name": "Duckmaw",
+          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259499,
+      "name": "Tropicae",
+      "url": "https://open.spotify.com/track/0rexhQFkP4bgMSLeSyZjpH"
+    },
+    {
+      "album": {
         "name": "Une Beat Encore",
         "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
       },
@@ -1029,6 +1163,24 @@
       "duration_ms": 189880,
       "name": "Violet Breeze",
       "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
+    },
+    {
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/3r90h4IKPw9pXl4NPtrhus"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282567,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/1Qe42XGSUtjDgJJgCsYwkh"
     },
     {
       "album": {
@@ -1123,7 +1275,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 208533,
       "name": "Wonder Where You Are",
       "url": "https://open.spotify.com/track/092TeHd8EpuYrzhx4qNWnn"

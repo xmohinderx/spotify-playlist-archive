@@ -4,7 +4,7 @@
 
 > The soundtrack to the Internet\. Cover: Autumn!
 
-261 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+262 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 | 2021-12-10 | 2022-01-22 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-15 |  |
 | [first order of business](https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:48 | 2021-11-16 | 2022-02-26 |
+| [Flex](https://open.spotify.com/track/5cD0SQXZshc0DLmfVFaT8v) | [Piff Marti](https://open.spotify.com/artist/4yJPiziKjwvjKUnsnsOixM) | [Flex](https://open.spotify.com/album/7kyn9TqffJenfvItf0KqUY) | 2:27 | 2022-05-09 |  |
 | [Flights](https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc) | [BandoPop](https://open.spotify.com/artist/3OMeFBBc6FX5Q55CxKVFjW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Flights](https://open.spotify.com/album/1Fa22nkjCibBCB6PDNzojd) | 3:26 | 2022-01-28 | 2022-02-23 |
 | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb) | 2:48 | 2022-01-21 | 2022-02-05 |
 | [Forever Known](https://open.spotify.com/track/5a8UxWWXVhCs9vZRsfk6XD) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [TTB: STREETS CHOSE ME](https://open.spotify.com/album/6Q4v67qp7kf3J8g5uey5MT) | 3:12 | 2021-10-01 | 2022-02-26 |
@@ -115,7 +116,7 @@
 | [Hit](https://open.spotify.com/track/7psU3b7h7khOUeXznJxxiL) | [Kblast](https://open.spotify.com/artist/3WyzXUbSj6GlWl379WjHOU) | [Hit](https://open.spotify.com/album/0m32d8XkRUYD1xSpVwTpmu) | 1:37 | 2022-02-21 |  |
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-03-01 |  |
 | [HOME IMPROVEMENT](https://open.spotify.com/track/50CjMb1ApJHu9hbKXLbohR) | [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV), [Sir Michael Rocks](https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx) | [BABY OIL STAIRCASE / CHILLOUT](https://open.spotify.com/album/5JpFMxX1pLRc75dGao7RW1) | 2:23 | 2022-04-13 |  |
-| [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 | 2021-11-10 |  |
+| [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 | 2021-11-10 | 2022-05-10 |
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2021-10-28 | 2022-01-13 |
 | [How Much Cash](https://open.spotify.com/track/7MqhkWnXD53EK4XreeK2F1) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [How Much Cash](https://open.spotify.com/album/3h1vVs84r2jOB5BgEnCQh0) | 2:08 | 2022-02-11 | 2022-02-19 |
 | [I Chose Violence](https://open.spotify.com/track/7l5GAw0cglUUnN7bKAz5ab) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [I Chose Violence](https://open.spotify.com/album/0VGDZJXfVVi3vEgbJTRXQ8) | 2:19 | 2021-10-28 | 2022-04-29 |

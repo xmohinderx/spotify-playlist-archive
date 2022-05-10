@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Jay305
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,803 likes - 58 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,844 likes - 58 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

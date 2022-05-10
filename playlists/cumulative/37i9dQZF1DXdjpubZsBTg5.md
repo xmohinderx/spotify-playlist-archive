@@ -4,7 +4,7 @@
 
 > Revive a la generación que transformó el rock en español para siempre\. En portada: Soda Stereo
 
-69 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/7sQIHN2Vqyt3FA4Krnqe3i)
+70 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/7sQIHN2Vqyt3FA4Krnqe3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 | 2021-02-24 |  |
 | [Abre Tú Corazón](https://open.spotify.com/track/4j8B4DACwTsVyhK1JfwXPb) | [Rostros Ocultos](https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib) | [Singles](https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV) | 3:06 | 2021-02-24 | 2022-05-03 |
 | [Aun](https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u) | [Coda](https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy) | [Veinte Para Las Doce](https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI) | 4:54 | 2021-02-24 |  |
+| [Azul Casi Morado](https://open.spotify.com/track/53WX4UMylwqJgD2gBEfzpV) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [Rock en Español \- Lo Mejor de Santa Sabina](https://open.spotify.com/album/2LddSTGHKllDX9vLwc9PGH) | 4:16 | 2021-02-24 |  |
 | [Bailando en las Veredas](https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 4:16 | 2021-02-24 |  |
 | [Beber de Tu Sangre](https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 4:36 | 2021-02-24 |  |
 | [Bye Bye](https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:49 | 2021-02-24 |  |
@@ -33,7 +34,7 @@
 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 | 2021-02-24 |  |
 | [Es Por Amor](https://open.spotify.com/track/3qoszL1tH1tYkdJIVisYIZ) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Aire De Todos \- Antología 1984 \- 1986](https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV) | 5:10 | 2021-02-24 |  |
 | [Es Tan Fácil Romper un Corazón](https://open.spotify.com/track/0n2IudFRHDBfn64pNFGShg) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:54 | 2021-02-24 |  |
-| [Escuela de Calor](https://open.spotify.com/track/1N1QL28bnJWt7u0dbJHyR0) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 3:30 | 2021-02-24 | 2022-05-08 |
+| [Escuela de Calor](https://open.spotify.com/track/1N1QL28bnJWt7u0dbJHyR0) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 3:30 | 2021-02-24 |  |
 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 | 2021-02-24 |  |
 | [Guitarras Blancas](https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Carrousel](https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT) | 4:26 | 2021-02-24 |  |
 | [Juegos de Amor](https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl) | [Neón](https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC) | [Rock En Español \- Lo Mejor De Neon](https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8) | 4:19 | 2021-02-24 |  |
@@ -61,9 +62,9 @@
 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 | 2021-02-24 |  |
 | [Perdí Mi Ojo de Venado](https://open.spotify.com/track/4YKBYzHTtBZA2P12N5VomO) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 4:31 | 2021-02-24 |  |
 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 | 2021-02-24 |  |
-| [Piel Fiel](https://open.spotify.com/track/1C6Iqc0Md4Wi1lT4BmXh1C) | [Jose Fors](https://open.spotify.com/artist/2z5bVeBVYhXPLpFwfhMvQY) | [Bebe Mod\. 01 de José Fors](https://open.spotify.com/album/6F5zVCmlt4ddmOBvqpm2G8) | 3:31 | 2021-02-24 |  |
+| [Piel Fiel](https://open.spotify.com/track/1C6Iqc0Md4Wi1lT4BmXh1C) | [Jose Fors](https://open.spotify.com/artist/2z5bVeBVYhXPLpFwfhMvQY) | [Bebe Mod\. 01 de José Fors](https://open.spotify.com/album/6F5zVCmlt4ddmOBvqpm2G8) | 3:31 | 2021-02-24 | 2022-05-10 |
 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 | 2021-02-24 |  |
-| [Por Qué No Se Van](https://open.spotify.com/track/0FRpkVdaghjib91eaXOA97) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Pateando Piedras](https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo) | 3:01 | 2021-02-24 |  |
+| [Por Qué No Se Van](https://open.spotify.com/track/0FRpkVdaghjib91eaXOA97) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Pateando Piedras](https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo) | 3:01 | 2021-02-24 | 2022-05-10 |
 | [Quiero una Novia Pechugona](https://open.spotify.com/track/6oavEIjEweN4U1iUGSzRKv) | [La Trinca](https://open.spotify.com/artist/54Toa4i5KlxdbgaEUbz7Tj) | [Trinca, Sexo y Rocanrool](https://open.spotify.com/album/2XJuzboVRYEqOneh4ayrTT) | 3:54 | 2021-02-24 |  |
 | [Santa Lucia \- Remastered 2005](https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Rocanrol Bumerang](https://open.spotify.com/album/1YIw799VStxgysT27cUGwp) | 3:44 | 2021-02-24 |  |
 | [Si Yo Fuera Mujer \- Remasterizado](https://open.spotify.com/track/1V1nNq3WHyz18VtU4kT6hK) | [Patxi Andion](https://open.spotify.com/artist/2Aj63SGDR3lgZ7GVVuK5wU) | [El Balcón Abierto \(Remasterizado\)](https://open.spotify.com/album/1CteV3zGoHhogGkk35cC5P) | 4:42 | 2021-02-24 |  |

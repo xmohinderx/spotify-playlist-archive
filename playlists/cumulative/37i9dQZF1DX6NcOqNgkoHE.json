@@ -402,6 +402,24 @@
     },
     {
       "album": {
+        "name": "Talking Dreams (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237626,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9"
+    },
+    {
+      "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
       },
@@ -594,6 +612,28 @@
     },
     {
       "album": {
+        "name": "The Wanderings Of The Avener",
+        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        },
+        {
+          "name": "Phoebe Killdeer",
+          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276600,
+      "name": "Fade Out Lines - The Avener Rework",
+      "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
+    },
+    {
+      "album": {
         "name": "Spirit Bird",
         "url": "https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO"
       },
@@ -663,6 +703,24 @@
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "album": {
+        "name": "Hard out Here",
+        "url": "https://open.spotify.com/album/1fby4GbTbNwhaWosafXOmH"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211377,
+      "name": "Hard out Here",
+      "url": "https://open.spotify.com/track/3U3BXlwNTkCx7lW9m1H9RY"
     },
     {
       "album": {
@@ -789,7 +847,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
@@ -861,7 +919,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 204026,
       "name": "Io fra tanti",
       "url": "https://open.spotify.com/track/1V7WemQ5uIEgtzQmhJyZOg"
@@ -933,7 +991,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 213818,
       "name": "Liar Liar",
       "url": "https://open.spotify.com/track/7c0tqRk43Y0QXTOYZ5lnkA"
@@ -1067,7 +1125,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 285014,
       "name": "Magic",
       "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
@@ -1418,6 +1476,24 @@
     },
     {
       "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
+    },
+    {
+      "album": {
         "name": "Synesthesia",
         "url": "https://open.spotify.com/album/4aJZ9Dc6SRtaGYOz4d5PGd"
       },
@@ -1433,7 +1509,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 197346,
       "name": "She Moves",
       "url": "https://open.spotify.com/track/6ggAYREO7PlFwI2vbOG3dp"
@@ -1495,6 +1571,42 @@
       "duration_ms": 204308,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/7vv2RWfZOnULOIDasMk3BJ"
+    },
+    {
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "album": {
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228133,
+      "name": "Steal My Girl",
+      "url": "https://open.spotify.com/track/2Bs4jQEGMycglOfWPBqrVG"
     },
     {
       "album": {
@@ -1901,7 +2013,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 193295,
       "name": "Wiggle (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/4B4zDmbHdkXZ1wUJv1yKFy"

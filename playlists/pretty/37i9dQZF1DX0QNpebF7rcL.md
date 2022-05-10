@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Dr\. John
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,857 likes - 88 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,881 likes - 88 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

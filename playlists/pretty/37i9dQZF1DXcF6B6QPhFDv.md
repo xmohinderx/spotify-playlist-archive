@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Stand Atlantic along with the top Rock songs you need to know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,621,685 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,621,798 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Blxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,757 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,815 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

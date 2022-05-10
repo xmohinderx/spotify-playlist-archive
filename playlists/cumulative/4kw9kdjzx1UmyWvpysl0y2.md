@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-153 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+154 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2021-11-19 | 2022-02-03 |
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |
 | [More To Give \- VIP](https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Rise & Fall \(VIPs\)](https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx) | 3:03 | 2022-01-25 | 2022-04-05 |
-| [Multiverse](https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Multiverse](https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb) | 3:20 | 2022-02-25 |  |
+| [Multiverse](https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Multiverse](https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb) | 3:20 | 2022-02-25 | 2022-05-10 |
 | [Murda](https://open.spotify.com/track/2FZgVtcQhxPTeWJw7TZy3q) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Murda](https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1) | 3:00 | 2021-11-19 | 2022-02-09 |
 | [My Wicked](https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [My Wicked](https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq) | 3:53 | 2022-02-17 | 2022-04-29 |
 | [Nevada \- Vicetone Lofi Mix](https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Vicetone Lofi Mix\)](https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA) | 2:27 | 2022-02-18 | 2022-04-29 |
@@ -132,6 +132,7 @@
 | [Sunlight](https://open.spotify.com/track/4ii7MVY3GCm4vQZM6uMDDx) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Sunlight](https://open.spotify.com/album/7qPdbWFcEIHUkVMdRdP6kJ) | 3:50 | 2022-02-23 | 2022-05-06 |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-05 |  |
 | [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 |  |
+| [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-09 |  |
 | [The Intimate Space](https://open.spotify.com/track/1pJW9CkfDyV7wc1YJpK4g9) | [Not Now Please](https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84) | [The Intimate Space](https://open.spotify.com/album/5AzkYIG5sDlEChKq7n93Kv) | 5:01 | 2022-04-29 |  |
 | [The Moment](https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Martin Graff](https://open.spotify.com/artist/6SR5c2LXuUrSqhqkj3MTz9) | [The Moment](https://open.spotify.com/album/0ASBkV3dhCp5dvCNpHwzEb) | 3:30 | 2022-02-18 | 2022-04-29 |
 | [The Power](https://open.spotify.com/track/6j8TuycHw2DqHyb05WsjQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [The Power](https://open.spotify.com/album/4cTaCAXGdmSUruJNQzwVjm) | 4:15 | 2022-01-06 | 2022-03-15 |

@@ -4,13 +4,13 @@
 
 > Riscopri le più grandi hit del 2005! Cover: Jovanotti
 
-100 songs - 6 hr 24 min - not published yet
+102 songs - 6 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Tanto\)3](https://open.spotify.com/track/2Z8Lqb34tbK3iuEPB6MzB8) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Soleluna NY Lab](https://open.spotify.com/artist/09AVI1X5aWYM2CSPzO2ZBY) | [Buon Sangue](https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq) | 3:31 | 2020-11-04 |  |
-| [1 Thing](https://open.spotify.com/track/6ZyNjT2hYvfV5PuW84dp1E) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Playlist: The Very Best Of Amerie](https://open.spotify.com/album/7w2MdUz4qr0477ZtEY10pl) | 3:58 | 2020-11-04 |  |
-| [1, 2 Step \(feat\. Missy Elliott\) \- Main](https://open.spotify.com/track/72vWmeqYcT1irKClpbenQm) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/7H6YocXhKJ46aWF0XoLCSS) | 3:22 | 2020-11-04 |  |
+| [1 Thing](https://open.spotify.com/track/6ZyNjT2hYvfV5PuW84dp1E) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Playlist: The Very Best Of Amerie](https://open.spotify.com/album/7w2MdUz4qr0477ZtEY10pl) | 3:58 | 2020-11-04 | 2022-05-10 |
+| [1, 2 Step \(feat\. Missy Elliott\) \- Main](https://open.spotify.com/track/72vWmeqYcT1irKClpbenQm) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/7H6YocXhKJ46aWF0XoLCSS) | 3:22 | 2020-11-04 | 2022-05-10 |
 | [All About Us](https://open.spotify.com/track/3PRGcLvFKBGcG5LMer7rn7) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [Dangerous and Moving](https://open.spotify.com/album/1IzFFToDvhT3gnZ2ZpyXUi) | 3:00 | 2020-11-04 |  |
 | [All About You](https://open.spotify.com/track/0ElmwRAsaxaUZXnMbaSllH) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Wonderland](https://open.spotify.com/album/4P2zvXqsnB2YBPKmscYM5c) | 3:06 | 2020-11-04 |  |
 | [Angelo](https://open.spotify.com/track/1PknFWeSYaeCiHHUShL5ZJ) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Orchestra E Voce](https://open.spotify.com/album/2Yc6MHP7z6Mb60wLjXd4Rt) | 3:30 | 2020-11-04 |  |
@@ -27,6 +27,7 @@
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 | 2020-11-04 |  |
 | [Breakaway](https://open.spotify.com/track/4PFAm88FBkY7IFtvCaGctZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:57 | 2020-11-04 |  |
 | [Candy Shop](https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:29 | 2020-11-04 |  |
+| [Caught Up](https://open.spotify.com/track/5zdUc1JRCImBYcDWgvFNpE) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:44 | 2020-11-04 |  |
 | [Chariot](https://open.spotify.com/track/08kTO4EW0jb07zNsCNM83w) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:59 | 2020-11-04 |  |
 | [Cleptomania](https://open.spotify.com/track/5zo7EkNUkhM7nDYpQG8p4C) | [Sugarfree](https://open.spotify.com/artist/1i0JYcD91Cc6C22ewtj0Ma) | [Clepto\-manie](https://open.spotify.com/album/3o879OJT2Le1nlQNsCU6Nz) | 3:57 | 2020-11-04 |  |
 | [Dakota](https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Language.Sex.Violence.Other?](https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP) | 4:57 | 2020-11-04 |  |
@@ -99,6 +100,7 @@
 | [Streets Of Love](https://open.spotify.com/track/4JUEYZ2yBfHsB1W9yhJmDF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Honk \(Deluxe\)](https://open.spotify.com/album/6GMdkihFQDTjdxCPvv0Xiw) | 5:09 | 2020-11-04 |  |
 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 | 2020-11-04 |  |
 | [Switch](https://open.spotify.com/track/1N7b4evSBcshS6WUbWhZIr) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Spinning music 2020](https://open.spotify.com/album/1fEeqgu6gzIP1cPZS0uP4W) | 3:17 | 2020-11-04 |  |
+| [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 | 2020-11-04 |  |
 | [Tripping](https://open.spotify.com/track/7MTdv6v3vsmQcVfh7eIaks) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Intensive Care](https://open.spotify.com/album/14cUCy4aMykhZbIFTw7dtW) | 4:36 | 2020-11-04 |  |
 | [Una poesia anche per te \(Life Goes on\)](https://open.spotify.com/track/7KoJ87QJIg7zSdIEAjHVEM) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Pearl Days](https://open.spotify.com/album/2ok2qFudOMD8qmKQkpu02E) | 5:15 | 2020-11-04 |  |
 | [Vieni con me \- Italian spot version](https://open.spotify.com/track/7JK106w8sDHp0MqSLGGw1E) | [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Vieni con me](https://open.spotify.com/album/7j4ChVcbV8ikDAUyQ9mdpz) | 3:04 | 2020-11-04 |  |

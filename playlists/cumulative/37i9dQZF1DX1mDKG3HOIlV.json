@@ -39,7 +39,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 238746,
       "name": "1 Thing",
       "url": "https://open.spotify.com/track/6ZyNjT2hYvfV5PuW84dp1E"
@@ -61,7 +61,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 202213,
       "name": "1, 2 Step (feat. Missy Elliott) - Main",
       "url": "https://open.spotify.com/track/72vWmeqYcT1irKClpbenQm"
@@ -357,6 +357,24 @@
       "duration_ms": 209106,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+    },
+    {
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/5zdUc1JRCImBYcDWgvFNpE"
     },
     {
       "album": {
@@ -1725,6 +1743,24 @@
       "duration_ms": 197666,
       "name": "Switch",
       "url": "https://open.spotify.com/track/1N7b4evSBcshS6WUbWhZIr"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Lie",
+        "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
     },
     {
       "album": {

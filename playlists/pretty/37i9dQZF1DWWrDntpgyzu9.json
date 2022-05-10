@@ -1,13 +1,45 @@
 {
   "description": "Solte a voz no chuveiro e liberte o cantor dentro de voc\u00ea!",
-  "num_followers": 834626,
+  "num_followers": 834667,
   "original_name": "Cantando no Chuveiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA1ODEzMSwwMDAwMDAwMDA0ZmNmYjljNWNmZjJjYzdmYzZhMzQxYWM4YmRkZTc1",
+  "snapshot_id": "MTY1MjE0NDMwOSwwMDAwMDAwMDMzMmYzNDE2ODFiMmQ5ZWQ1YTU2MGUxODJhNmZmN2M0",
   "tracks": [
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Veja Alto, Ou\u00e7a Colorido - Ao Vivo",
+        "url": "https://open.spotify.com/album/7HgmTHML524SH1s0KcGuoq"
+      },
+      "artists": [
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "Eva - Ao Vivo",
+      "url": "https://open.spotify.com/track/528Uf7tx2EzTx48bcStZeo"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 210889,
+      "name": "Ouvi Dizer",
+      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
+    },
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
@@ -27,18 +59,34 @@
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "Veja Alto, Ou\u00e7a Colorido - Ao Vivo",
-        "url": "https://open.spotify.com/album/7HgmTHML524SH1s0KcGuoq"
+        "name": "Graveto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
       },
       "artists": [
         {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 257466,
-      "name": "Eva - Ao Vivo",
-      "url": "https://open.spotify.com/track/528Uf7tx2EzTx48bcStZeo"
+      "duration_ms": 170877,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn"
+      },
+      "artists": [
+        {
+          "name": "Legi\u00e3o Urbana",
+          "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
+        }
+      ],
+      "duration_ms": 302200,
+      "name": "Tempo Perdido",
+      "url": "https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB"
     },
     {
       "added_at": "2021-09-22 16:37:52",
@@ -63,6 +111,42 @@
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Dona de mim",
+      "url": "https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
         "name": "Todos Os Cantos, Vol. 3 (ao Vivo)",
         "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
       },
@@ -79,18 +163,82 @@
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "Meu talism\u00e3",
-        "url": "https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO"
+        "name": "A Melhor Banda De Todos Os Tempos Da \u00daltima Semana",
+        "url": "https://open.spotify.com/album/71XhBGySJjyGOSHGVelZ4K"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
         }
       ],
-      "duration_ms": 165176,
-      "name": "Meu talism\u00e3",
-      "url": "https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX"
+      "duration_ms": 175373,
+      "name": "Epit\u00e1fio",
+      "url": "https://open.spotify.com/track/35J9vakuC3f18QTolNAQ6E"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "menina solta",
+        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "menina solta",
+      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2S8PlWQxqVfAnWXY9jrcym"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "O Nosso Santo Bateu - Na Praia / Ao Vivo",
+      "url": "https://open.spotify.com/track/6SwI4OplF8m5NH8wHKIps8"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "As Quatro Esta\u00e7\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6TtQt38vkUQkbIljv80oB2"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "A Lenda",
+      "url": "https://open.spotify.com/track/1mBaOJ4OPDqJBMp0luG7Ej"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Do Tamanho do Nosso Amor",
+        "url": "https://open.spotify.com/album/6dLip1k4dsDn2xdoi1T077"
+      },
+      "artists": [
+        {
+          "name": "Chit\u00e3ozinho & Xoror\u00f3",
+          "url": "https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr"
+        }
+      ],
+      "duration_ms": 279293,
+      "name": "Evid\u00eancias",
+      "url": "https://open.spotify.com/track/1X95pCQG939KCbJL6yVQgw"
     },
     {
       "added_at": "2021-09-22 16:37:52",
@@ -115,104 +263,8 @@
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 210889,
-      "name": "Ouvi Dizer",
-      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "A Melhor Banda De Todos Os Tempos Da \u00daltima Semana",
-        "url": "https://open.spotify.com/album/71XhBGySJjyGOSHGVelZ4K"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 175373,
-      "name": "Epit\u00e1fio",
-      "url": "https://open.spotify.com/track/35J9vakuC3f18QTolNAQ6E"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Graveto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 170877,
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Do Tamanho do Nosso Amor",
-        "url": "https://open.spotify.com/album/6dLip1k4dsDn2xdoi1T077"
-      },
-      "artists": [
-        {
-          "name": "Chit\u00e3ozinho & Xoror\u00f3",
-          "url": "https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr"
-        }
-      ],
-      "duration_ms": 279293,
-      "name": "Evid\u00eancias",
-      "url": "https://open.spotify.com/track/1X95pCQG939KCbJL6yVQgw"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Dois",
-        "url": "https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn"
-      },
-      "artists": [
-        {
-          "name": "Legi\u00e3o Urbana",
-          "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
-        }
-      ],
-      "duration_ms": 302200,
-      "name": "Tempo Perdido",
-      "url": "https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "menina solta",
-        "url": "https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "menina solta",
-      "url": "https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+        "name": "Meu talism\u00e3",
+        "url": "https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO"
       },
       "artists": [
         {
@@ -220,45 +272,9 @@
           "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         }
       ],
-      "duration_ms": 208941,
-      "name": "Dona de mim",
-      "url": "https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "100% Grupo Revela\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a"
-      },
-      "artists": [
-        {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Deixa Acontecer",
-      "url": "https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184267,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV"
+      "duration_ms": 165176,
+      "name": "Meu talism\u00e3",
+      "url": "https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX"
     },
     {
       "added_at": "2021-09-22 16:37:52",
@@ -283,38 +299,66 @@
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
+        "name": "Piseiro Sofr\u00eancia",
+        "url": "https://open.spotify.com/album/5rNhX35Cmsq568dSUTDPO5"
       },
       "artists": [
         {
-          "name": "Priscilla Alcantara",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
-        {
-          "name": "Whindersson Nunes",
-          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         }
       ],
-      "duration_ms": 224725,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
+      "duration_ms": 173037,
+      "name": "N\u00e3o, N\u00e3o Vou",
+      "url": "https://open.spotify.com/track/0xBQvhJAm6f7J142ympKOn"
     },
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "O Sol",
-        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+        "name": "Jammil de Todas As Praias - Ao Vivo",
+        "url": "https://open.spotify.com/album/3MoZhMldIHBVV15xHBgMba"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Jammil E Uma Noites",
+          "url": "https://open.spotify.com/artist/0drNUQoEie9lmZKhCdIE6n"
         }
       ],
-      "duration_ms": 209000,
-      "name": "O Sol",
-      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+      "duration_ms": 229693,
+      "name": "Praieiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/7iK8Osp7BFdJ6EDqb05s9W"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Ra\u00e7a Negra - Vol. 3",
+        "url": "https://open.spotify.com/album/57v2s5PkNuYDYvVB0cSZg3"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Cheia de Manias",
+      "url": "https://open.spotify.com/track/4i9uK1cMwP1Pc5zHhtMEde"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "15 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Inseguran\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm"
     },
     {
       "added_at": "2021-09-22 16:37:52",
@@ -335,118 +379,18 @@
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
-        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
+        "name": "Maxximum - S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
         }
       ],
-      "duration_ms": 154661,
-      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
-      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Pesad\u00e3o",
-        "url": "https://open.spotify.com/album/1lTqQFgYroGTUZp1e7BoSp"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Pesad\u00e3o",
-      "url": "https://open.spotify.com/track/1BkyiAw1L0BOHYckwpRX4V"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Piseiro Sofr\u00eancia",
-        "url": "https://open.spotify.com/album/5rNhX35Cmsq568dSUTDPO5"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 173037,
-      "name": "N\u00e3o, N\u00e3o Vou",
-      "url": "https://open.spotify.com/track/0xBQvhJAm6f7J142ympKOn"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2S8PlWQxqVfAnWXY9jrcym"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "O Nosso Santo Bateu - Na Praia / Ao Vivo",
-      "url": "https://open.spotify.com/track/6SwI4OplF8m5NH8wHKIps8"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 186121,
-      "name": "penhasco.",
-      "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Sou Chicleteiro",
-        "url": "https://open.spotify.com/album/6Zk5747wyErfiINmWALlO4"
-      },
-      "artists": [
-        {
-          "name": "Chiclete Com Banana",
-          "url": "https://open.spotify.com/artist/1bhqpMFFgoa0NTz82BprgL"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "100% Voc\u00ea",
-      "url": "https://open.spotify.com/track/2msjqUjA6Eg5TI2M5EwJ8A"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "2 \u00e9 Demais",
-        "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
-      },
-      "artists": [
-        {
-          "name": "Kid Abelha",
-          "url": "https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Pintura \u00edntima - Compacto",
-      "url": "https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru"
+      "duration_ms": 240533,
+      "name": "Que Se Chama Amor",
+      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
     },
     {
       "added_at": "2021-09-22 16:37:52",
@@ -471,274 +415,38 @@
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "Tijol\u00e3o (ao Vivo)",
-        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
+        "name": "Pesad\u00e3o",
+        "url": "https://open.spotify.com/album/1lTqQFgYroGTUZp1e7BoSp"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 175219,
-      "name": "Tijol\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
+      "duration_ms": 199200,
+      "name": "Pesad\u00e3o",
+      "url": "https://open.spotify.com/track/1BkyiAw1L0BOHYckwpRX4V"
     },
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "15 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n"
+        "name": "100% Grupo Revela\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a"
       },
       "artists": [
         {
-          "name": "Pixote",
-          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
         }
       ],
-      "duration_ms": 180853,
-      "name": "Inseguran\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 179722,
-      "name": "quando a bad bater - ao vivo",
-      "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Exagerado",
-        "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Exagerado",
-      "url": "https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Jammil de Todas As Praias - Ao Vivo",
-        "url": "https://open.spotify.com/album/3MoZhMldIHBVV15xHBgMba"
-      },
-      "artists": [
-        {
-          "name": "Jammil E Uma Noites",
-          "url": "https://open.spotify.com/artist/0drNUQoEie9lmZKhCdIE6n"
-        }
-      ],
-      "duration_ms": 229693,
-      "name": "Praieiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/7iK8Osp7BFdJ6EDqb05s9W"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "As Quatro Esta\u00e7\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6TtQt38vkUQkbIljv80oB2"
-      },
-      "artists": [
-        {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "A Lenda",
-      "url": "https://open.spotify.com/track/1mBaOJ4OPDqJBMp0luG7Ej"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Eu e Voc\u00ea Sempre",
-        "url": "https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF"
-      },
-      "artists": [
-        {
-          "name": "Exaltasamba",
-          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "Me Apaixonei Pela Pessoa Errada",
-      "url": "https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Rude (Acoustic)",
-        "url": "https://open.spotify.com/album/6mSh4sedBU4vvHLYPd2Seb"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 223854,
-      "name": "Rude (Acoustic)",
-      "url": "https://open.spotify.com/track/7IQ7Tk8D6fFAgl6aL7u5ia"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Vit\u00e3o",
-        "url": "https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 190434,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/6i9ToXS6CAfjpp8veBklg1"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "iCollection - Bar\u00e3o Vermelho",
-        "url": "https://open.spotify.com/album/5CtS9j4kbLFsj53rbcphZ8"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
-        }
-      ],
-      "duration_ms": 318520,
-      "name": "Pro dia nascer feliz",
-      "url": "https://open.spotify.com/track/6x0NewpWTe59t5YUDE6Imc"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "se essa vida fosse um filme",
-        "url": "https://open.spotify.com/album/1Ekb2K13vBO6VkILvBV6LI"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 125097,
-      "name": "se essa vida fosse um filme",
-      "url": "https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Z\u00e9 Neto & Cristiano - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "Largado As Tra\u00e7as - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/74gguwbBvfBTurNJUWFOsC"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Ra\u00e7a Negra - Vol. 3",
-        "url": "https://open.spotify.com/album/57v2s5PkNuYDYvVB0cSZg3"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00e7a Negra",
-          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Cheia de Manias",
-      "url": "https://open.spotify.com/track/4i9uK1cMwP1Pc5zHhtMEde"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "S\u00f3 Pra Contrariar",
-        "url": "https://open.spotify.com/album/4tV1Azuq28wckbq005s9aa"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3 Pra Contrariar",
-          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Essa Tal Liberdade",
-      "url": "https://open.spotify.com/track/3EjxAbEOH28icEK1ZFOUSh"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Amor Da Sua Cama",
-        "url": "https://open.spotify.com/album/53tp3z7z5S8g03ihD8Lxdo"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        }
-      ],
-      "duration_ms": 188309,
-      "name": "Amor Da Sua Cama",
-      "url": "https://open.spotify.com/track/2cwFhwT6L2D4Olc25nhyZo"
-    },
-    {
-      "added_at": "2021-09-22 16:37:52",
-      "album": {
-        "name": "Netinho Ao Vivo",
-        "url": "https://open.spotify.com/album/1Fl9ili8vn7fIW9oxiCvOh"
-      },
-      "artists": [
-        {
-          "name": "Netinho",
-          "url": "https://open.spotify.com/artist/3Qyjq5eQNKo5tHVmXyhvtB"
-        }
-      ],
-      "duration_ms": 293333,
-      "name": "Milla - Ao Vivo Em Aracaju / 1996",
-      "url": "https://open.spotify.com/track/22Ekdb1dJdXVDckNpZGZLG"
+      "duration_ms": 246226,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr"
     },
     {
       "added_at": "2021-09-22 16:37:52",
@@ -759,50 +467,282 @@
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "Fuleragem",
-        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
+        "name": "2 \u00e9 Demais",
+        "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
       },
       "artists": [
         {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+          "name": "Kid Abelha",
+          "url": "https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H"
         }
       ],
-      "duration_ms": 141473,
-      "name": "Fuleragem",
-      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
+      "duration_ms": 267960,
+      "name": "Pintura \u00edntima - Compacto",
+      "url": "https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru"
     },
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
-        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
+        "name": "se essa vida fosse um filme",
+        "url": "https://open.spotify.com/album/1Ekb2K13vBO6VkILvBV6LI"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
         }
       ],
-      "duration_ms": 170197,
-      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
-      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
+      "duration_ms": 125097,
+      "name": "se essa vida fosse um filme",
+      "url": "https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0"
     },
     {
       "added_at": "2021-09-22 16:37:52",
       "album": {
-        "name": "Simplicidade",
-        "url": "https://open.spotify.com/album/4FVVQZdNGuNmElF28Pvn0g"
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
       },
       "artists": [
         {
-          "name": "Grupo Fundo De Quintal",
-          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
       "duration_ms": 209000,
-      "name": "O Show Tem Que Continuar",
-      "url": "https://open.spotify.com/track/1AeZGZtgWxgd5ye9h7rzWx"
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 186121,
+      "name": "penhasco.",
+      "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "iCollection - Bar\u00e3o Vermelho",
+        "url": "https://open.spotify.com/album/5CtS9j4kbLFsj53rbcphZ8"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        }
+      ],
+      "duration_ms": 318520,
+      "name": "Pro dia nascer feliz",
+      "url": "https://open.spotify.com/track/6x0NewpWTe59t5YUDE6Imc"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "Whindersson Nunes",
+          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 154661,
+      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Rude (Acoustic)",
+        "url": "https://open.spotify.com/album/6mSh4sedBU4vvHLYPd2Seb"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 223854,
+      "name": "Rude (Acoustic)",
+      "url": "https://open.spotify.com/track/7IQ7Tk8D6fFAgl6aL7u5ia"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 167502,
+      "name": "Zap Zum",
+      "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Exagerado",
+        "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "In Miami Beach (Ao Vivo)",
+        "url": "https://open.spotify.com/album/508PwdK7nipXn6CL20PWkb"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Ar-Condicionado No 15 - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ac0YTpOaDX9wEYYyGCglL"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 179722,
+      "name": "quando a bad bater - ao vivo",
+      "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 234592,
+      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/4tV1Azuq28wckbq005s9aa"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Essa Tal Liberdade",
+      "url": "https://open.spotify.com/track/3EjxAbEOH28icEK1ZFOUSh"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Amor Da Sua Cama",
+        "url": "https://open.spotify.com/album/53tp3z7z5S8g03ihD8Lxdo"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "duration_ms": 188309,
+      "name": "Amor Da Sua Cama",
+      "url": "https://open.spotify.com/track/2cwFhwT6L2D4Olc25nhyZo"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Vit\u00e3o",
+        "url": "https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 190434,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/6i9ToXS6CAfjpp8veBklg1"
     },
     {
       "added_at": "2021-09-22 16:37:52",
@@ -819,6 +759,74 @@
       "duration_ms": 201904,
       "name": "Infiel - Ao Vivo",
       "url": "https://open.spotify.com/track/38MpAndIjGAyVdcC6npX95"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "T\u00f4 Com Moral No C\u00e9u! (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5mdqbkZxjyQY2mcYdwXhIE"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170075,
+      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ys0kXJnE7wBQKvGrTg0VQ"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Tijol\u00e3o (ao Vivo)",
+        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 175219,
+      "name": "Tijol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Loka",
+        "url": "https://open.spotify.com/album/2Z00ZTcD2GLiloQQyzf5m5"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 215169,
+      "name": "Loka",
+      "url": "https://open.spotify.com/track/257tme6AhneIKAqVF1HTH4"
+    },
+    {
+      "added_at": "2021-09-22 16:37:52",
+      "album": {
+        "name": "Nossa Dan\u00e7a",
+        "url": "https://open.spotify.com/album/1q1YikfGe5sRLyppHKx0Rw"
+      },
+      "artists": [
+        {
+          "name": "Os Travessos",
+          "url": "https://open.spotify.com/artist/3RpJ23sQA3B70ZgSnT2Vxr"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Maravilha Te Amar",
+      "url": "https://open.spotify.com/track/45PD1shJcUVckmslQycpEL"
     },
     {
       "added_at": "2021-09-22 16:37:52",

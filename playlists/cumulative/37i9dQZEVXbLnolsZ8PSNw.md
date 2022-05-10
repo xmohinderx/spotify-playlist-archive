@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- United Kingdom.
 
-713 songs - 1 day 17 hr 5 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
+714 songs - 1 day 17 hr 9 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-25 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 |  |
 | [Intro](https://open.spotify.com/track/0UQT8GoNK06QGk9PlWlSu3) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 2:13 | 2021-11-21 | 2021-11-22 |
+| [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2022-05-09 |  |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-11-23 | 2021-12-30 |
 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:35 | 2021-12-25 | 2021-12-27 |
@@ -625,7 +626,7 @@
 | [The Way I Loved You \(Taylor’s Version\)](https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:03 | 2021-04-11 | 2021-04-13 |
 | [Thiago Silva](https://open.spotify.com/track/3DKCTIiJ97bS9TGiqcABjo) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Thiago Silva](https://open.spotify.com/album/6JYMpRz7M9T2JlkjKHmsdc) | 3:21 | 2022-03-05 | 2022-04-09 |
 | [This Is Halloween](https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI) | [Disney Characters](https://open.spotify.com/artist/6utdPEv71mR0DnGp74cJIz) | [Nightmare Before Christmas](https://open.spotify.com/album/2qmppQg4IgJRMFbWuwQLw7) | 3:16 | 2021-11-02 | 2021-11-03 |
-| [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-07 |  |
+| [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-07 | 2022-05-10 |
 | [thought i was playing](https://open.spotify.com/track/3XLbDUB5BX2WqL2qoAsvtb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:47 | 2022-01-08 | 2022-01-10 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-23 |  |
 | [Three Lions](https://open.spotify.com/track/0Ai6qtPfiEYGCqBGJYWD1W) | [Baddiel, Skinner & Lightning Seeds](https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h) | [Three Lions](https://open.spotify.com/album/6vOxOnQHYrXocGtFkbEx57) | 3:48 | 2021-06-13 | 2021-07-15 |

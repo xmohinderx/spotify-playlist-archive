@@ -17,10 +17,28 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 158220,
       "name": "24/5",
       "url": "https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7"
+    },
+    {
+      "album": {
+        "name": "A Concert Six Months From Now",
+        "url": "https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205286,
+      "name": "A Concert Six Months From Now",
+      "url": "https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh"
     },
     {
       "album": {
@@ -57,6 +75,24 @@
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
+    },
+    {
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/5aAtCBfLrQtLaIrEGSn524"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245262,
+      "name": "America",
+      "url": "https://open.spotify.com/track/0O9iSYd5NrLQ5sHVsgoIEC"
     },
     {
       "album": {
@@ -201,7 +237,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 211837,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
@@ -223,6 +259,24 @@
       "duration_ms": 186732,
       "name": "Black Converse",
       "url": "https://open.spotify.com/track/0NbDnRbBxUaT27CTgmraSG"
+    },
+    {
+      "album": {
+        "name": "Breathe It In",
+        "url": "https://open.spotify.com/album/0lh6s8UCxkpCMULEIQZycO"
+      },
+      "artists": [
+        {
+          "name": "Strandels",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185893,
+      "name": "Breathe It In",
+      "url": "https://open.spotify.com/track/4zImPL4a69TWpEPfvWfbCm"
     },
     {
       "album": {
@@ -255,7 +309,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 273106,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
@@ -273,7 +327,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 206193,
       "name": "Darling",
       "url": "https://open.spotify.com/track/1GHNApC7kgkG6mEDI0f2Y5"
@@ -443,7 +497,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
@@ -670,6 +724,46 @@
     },
     {
       "album": {
+        "name": "leave a light on",
+        "url": "https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU"
+      },
+      "artists": [
+        {
+          "name": "Keir",
+          "url": "https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74"
+        },
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230568,
+      "name": "leave a light on",
+      "url": "https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8"
+    },
+    {
+      "album": {
+        "name": "Let Me Love You Like A Woman",
+        "url": "https://open.spotify.com/album/6yEZH1HexM9sqOX34qUE4u"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200661,
+      "name": "Let Me Love You Like A Woman",
+      "url": "https://open.spotify.com/track/4HvE2E9rXJDcQhE4YfeNuG"
+    },
+    {
+      "album": {
         "name": "Letting Go for a Little While",
         "url": "https://open.spotify.com/album/7EjuPfeLntyOIsZjXwz3mY"
       },
@@ -721,7 +815,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 196253,
       "name": "Little Did I Know",
       "url": "https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4"
@@ -829,7 +923,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 226413,
       "name": "Lost Sparks",
       "url": "https://open.spotify.com/track/7fZ2GktS3lfZuI6BbDamrS"
@@ -984,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4qPXoglRIJpkVUnimnoi67"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238777,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1qrwyosPepnypQHHh0Qm78"
+    },
+    {
+      "album": {
         "name": "One More Second",
         "url": "https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN"
       },
@@ -1078,6 +1190,46 @@
     },
     {
       "album": {
+        "name": "Rocky Trail",
+        "url": "https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210377,
+      "name": "Rocky Trail",
+      "url": "https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3"
+    },
+    {
+      "album": {
+        "name": "Pressure Machine (Abridged)",
+        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204466,
+      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
+      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "album": {
         "name": "Saturday Nights",
         "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
       },
@@ -1168,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/7l7YQs9TuL0daRasgl46r8"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171295,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/6tmvxHYeUUEsVFkHZlwoeD"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
       },
@@ -1179,7 +1349,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 177152,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
@@ -1237,6 +1407,24 @@
       "duration_ms": 193108,
       "name": "Take Care of You - Acoustic",
       "url": "https://open.spotify.com/track/5D8DzsfStGm68YZxWnHqrK"
+    },
+    {
+      "album": {
+        "name": "Tears Will Set You Free",
+        "url": "https://open.spotify.com/album/06xZP4Woba8PCAmtypQWhi"
+      },
+      "artists": [
+        {
+          "name": "Alice Pisano",
+          "url": "https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168814,
+      "name": "Tears Will Set You Free",
+      "url": "https://open.spotify.com/track/6DByHvipYGhe0k8Rc3FTq2"
     },
     {
       "album": {
@@ -1349,7 +1537,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 262960,
       "name": "we'll be fine",
       "url": "https://open.spotify.com/track/4TRL1Y8sOR54I3AvRzUZHk"
@@ -1367,7 +1555,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-10",
       "duration_ms": 187601,
       "name": "What They'll Say About Us",
       "url": "https://open.spotify.com/track/27Y1N4Q4U3EfDU5Ubw8ws2"
