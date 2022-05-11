@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Dance, Bass, EDM, Trap: the perfect gaming mix.",
   "name": "Ultra Gaming",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "16xYNZ4hiN1QTOpWJCjD89"
+  ],
   "tracks": [
     {
       "album": {
@@ -115,7 +117,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 265465,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/0YLqnkxAp7Bwbi9V1X93xL"
@@ -195,7 +197,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 258678,
       "name": "Control",
       "url": "https://open.spotify.com/track/6lYZ5UWuPbXLX357pPONa7"
@@ -333,7 +335,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 146000,
       "name": "Do It To It - Andrew Rayel Remix",
       "url": "https://open.spotify.com/track/47FkgO7LWJD8rBovCn41oI"
@@ -351,7 +353,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/5ieyP4fDwxueOeQ6kwUnwm"
@@ -413,7 +415,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/7K0tKZGP9mi4oqJSOJj29Q"
@@ -453,6 +455,24 @@
       "duration_ms": 240000,
       "name": "Drive Away",
       "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
+    },
+    {
+      "album": {
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/6xBWHbwZqgSmURjAbEdIIy"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249364,
+      "name": "Empires",
+      "url": "https://open.spotify.com/track/19wt47erWf03RJaFe1lbLW"
     },
     {
       "album": {
@@ -515,7 +535,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 212589,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/3Wj6N3ErZ34ditWlB7ETZV"
@@ -665,7 +685,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 195463,
       "name": "Giving Up On U",
       "url": "https://open.spotify.com/track/1tG4l4iUvZC6M1Y8MVBacK"
@@ -683,7 +703,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 260800,
       "name": "Gold",
       "url": "https://open.spotify.com/track/2sm2f0mbOnfCi1MOLIegdV"
@@ -731,7 +751,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "Hear My Call (feat. Tyler Graves)",
       "url": "https://open.spotify.com/track/2p1taQKLDOA4tIsLTlLSoj"
@@ -867,7 +887,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 232968,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2ywx0zy4Nj7aQ9jXZL3Mlh"
@@ -889,7 +909,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/5PEc50zuLdBpkC9bOQTG2D"
@@ -907,7 +927,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 189749,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/4kTliHBy7w2SOMtm8qMmOW"
@@ -1021,7 +1041,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/7Ji2sHw2oScKQ14W956LUL"
@@ -1065,7 +1085,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 264568,
       "name": "Irish Waterfall",
       "url": "https://open.spotify.com/track/6cX3NRnRQaA1FNPMkTwEVy"
@@ -1109,7 +1129,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 208636,
       "name": "KINGS - 2Whales Remix",
       "url": "https://open.spotify.com/track/6s79bZW6YKYZyK7TbVTMmb"
@@ -1223,7 +1243,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 228275,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/5HSRz2SISlCFnP63QqBvYj"
@@ -1569,7 +1589,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 179047,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6oS9qKdkN1VMRR2e8BbKvM"
@@ -1591,7 +1611,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 221757,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ihpDP7D2ZK769grmaGjlO"
@@ -1671,7 +1691,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 189285,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/7vZ4hhtin95EJQww9ChelB"
@@ -1711,7 +1731,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 245793,
       "name": "Rainbow Tears",
       "url": "https://open.spotify.com/track/61cuhk02W7Nd72FhAvBmJI"
@@ -1903,6 +1923,32 @@
       "duration_ms": 163389,
       "name": "Run It (feat. Rick Ross & Rich Brian)",
       "url": "https://open.spotify.com/track/282R6Lvm9nLtpx8AzUwJe0"
+    },
+    {
+      "album": {
+        "name": "Running To The Edge",
+        "url": "https://open.spotify.com/album/4QofGddgttTAAgy2GHx9IQ"
+      },
+      "artists": [
+        {
+          "name": "Arize",
+          "url": "https://open.spotify.com/artist/6eq90a47vMudnFCHfKCHV9"
+        },
+        {
+          "name": "Veso",
+          "url": "https://open.spotify.com/artist/1fb9DwFSiBuHksqdCrRUHO"
+        },
+        {
+          "name": "Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6gnurcY2w2zI5PEv5aYq7k"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Running To The Edge",
+      "url": "https://open.spotify.com/track/0jmeBmNDOJ0XMWxvmvxzrD"
     },
     {
       "album": {
@@ -2100,6 +2146,58 @@
     },
     {
       "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/2TKC9e7mRbxOVx1HbgKHR0"
+      },
+      "artists": [
+        {
+          "name": "Unknown Brain",
+          "url": "https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I"
+        },
+        {
+          "name": "Chris Linton",
+          "url": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179224,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/7EYv3adMrIC5mqurz7fHhD"
+    },
+    {
+      "album": {
+        "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
+        "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Noisia",
+          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+        },
+        {
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167253,
+      "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
+      "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
+    },
+    {
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
       },
@@ -2253,7 +2351,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 151475,
       "name": "The Ride - The FifthGuys Remix",
       "url": "https://open.spotify.com/track/4092jNui2iVNHGIELwv9CD"
@@ -2279,7 +2377,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 282514,
       "name": "The Warehouse",
       "url": "https://open.spotify.com/track/5p3NCS0PiNSqXapxAcuQqi"
@@ -2341,7 +2439,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 286000,
       "name": "This Is 2020",
       "url": "https://open.spotify.com/track/1SGAKhk4L8XbHCp8oAtzVt"
@@ -2393,7 +2491,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 267433,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln"
@@ -2411,7 +2509,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 124033,
       "name": "TOKYO DRIFT",
       "url": "https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy"
@@ -2557,7 +2655,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 178666,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/3Bi5Rw7VoxyfXPBDGQKObV"
@@ -2579,7 +2677,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 194516,
       "name": "What If",
       "url": "https://open.spotify.com/track/0yPVQddK8S6ocwHyZv43Nf"
@@ -2623,6 +2721,32 @@
       "duration_ms": 197485,
       "name": "Why We Lose",
       "url": "https://open.spotify.com/track/5NmENli4oodYuWrI0vSGK4"
+    },
+    {
+      "album": {
+        "name": "Willow Tree",
+        "url": "https://open.spotify.com/album/0z24XzwOR8RobYQxacyDpS"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "Cadmium",
+          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "name": "Rosendale",
+          "url": "https://open.spotify.com/artist/3ZVW9s2Xb8NQDzwEqElbNq"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Willow Tree",
+      "url": "https://open.spotify.com/track/6J9OBBRpR4JZqUkewgDjsS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYN9NBqvY7Tx"

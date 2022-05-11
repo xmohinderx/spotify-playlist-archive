@@ -4,7 +4,7 @@
 
 > Welcome, you belong here.
 
-100 songs - 6 hr 56 min - not published yet
+100 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/187ScON8KrrWo7kYQuCuMH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

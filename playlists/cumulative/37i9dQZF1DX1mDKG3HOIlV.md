@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2005! Cover: Jovanotti
 
-102 songs - 6 hr 32 min - not published yet
+104 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/75ABHhqNogBmtoj85XgNU0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Axel F](https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc) | [Crazy Frog](https://open.spotify.com/artist/4J3wzDMI97AlGimdiVcaLb) | [Crazy Frog presents Crazy Hits](https://open.spotify.com/album/6dhqlbbOqTKD5xbN3iRqlY) | 2:48 | 2020-11-04 |  |
 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 | 2020-11-04 |  |
 | [Bambina Dallo Spazio](https://open.spotify.com/track/2piUCAvtuU8oi3LgtRqWEY) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Il Re Del Niente](https://open.spotify.com/album/2FUDrvSlkcwHO5kIxCBY7U) | 3:55 | 2020-11-04 |  |
-| [Beautiful Soul](https://open.spotify.com/track/6T7tyXfvNZwAR3XDktNCBi) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2Gz4FgD0ei17tCkORhpfCf) | 3:35 | 2020-11-04 |  |
+| [Beautiful Soul](https://open.spotify.com/track/6T7tyXfvNZwAR3XDktNCBi) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2Gz4FgD0ei17tCkORhpfCf) | 3:35 | 2020-11-04 | 2022-05-11 |
 | [Because of You](https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:39 | 2020-11-04 |  |
 | [Behind These Hazel Eyes](https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:18 | 2020-11-04 |  |
 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 | 2020-11-04 |  |
@@ -31,7 +31,7 @@
 | [Chariot](https://open.spotify.com/track/08kTO4EW0jb07zNsCNM83w) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:59 | 2020-11-04 |  |
 | [Cleptomania](https://open.spotify.com/track/5zo7EkNUkhM7nDYpQG8p4C) | [Sugarfree](https://open.spotify.com/artist/1i0JYcD91Cc6C22ewtj0Ma) | [Clepto\-manie](https://open.spotify.com/album/3o879OJT2Le1nlQNsCU6Nz) | 3:57 | 2020-11-04 |  |
 | [Dakota](https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Language.Sex.Violence.Other?](https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP) | 4:57 | 2020-11-04 |  |
-| [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 | 2020-11-04 |  |
+| [DARE](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 | 2020-11-04 | 2022-05-11 |
 | [Disco Inferno](https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:34 | 2020-11-04 |  |
 | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P) | 3:35 | 2020-11-04 |  |
 | [Don't Cha](https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 4:32 | 2020-11-04 |  |
@@ -68,6 +68,7 @@
 | [La Tortura \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:32 | 2020-11-04 |  |
 | [Lascia che io sia \- Radio Edit](https://open.spotify.com/track/5bhDnWdKWLVFppOpQvNNox) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Una parte di me](https://open.spotify.com/album/6Zmo4prR7JpMCMbH9ppY5U) | 3:32 | 2020-11-04 |  |
 | [Lasciala andare](https://open.spotify.com/track/4C2QjWp9Z2ybWqGqvKMUrT) | [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H) | [Indelebile](https://open.spotify.com/album/0pLFtRAGkMgjm6qzPB9hQp) | 3:58 | 2020-11-04 |  |
+| [Let Me Go](https://open.spotify.com/track/6A1yZW5SLd9hpLZsG29hCQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9), [Jack Joseph Puig](https://open.spotify.com/artist/30I8GIK3UqVyAg58557mdJ) | [The Greatest Hits](https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR) | 4:03 | 2020-11-04 |  |
 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 | 2020-11-04 |  |
 | [Lift Me Up](https://open.spotify.com/track/1mBmd558ZnPKZx7Xk51oEa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Hotel](https://open.spotify.com/album/6WFEwAQBtmRaZZLRRC2s46) | 3:19 | 2020-11-04 |  |
 | [Like Toy Soldiers](https://open.spotify.com/track/6CN3e26iQSj1N5lomh0mfO) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:56 | 2020-11-04 |  |
@@ -100,6 +101,7 @@
 | [Streets Of Love](https://open.spotify.com/track/4JUEYZ2yBfHsB1W9yhJmDF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Honk \(Deluxe\)](https://open.spotify.com/album/6GMdkihFQDTjdxCPvv0Xiw) | 5:09 | 2020-11-04 |  |
 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 | 2020-11-04 |  |
 | [Switch](https://open.spotify.com/track/1N7b4evSBcshS6WUbWhZIr) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Spinning music 2020](https://open.spotify.com/album/1fEeqgu6gzIP1cPZS0uP4W) | 3:17 | 2020-11-04 |  |
+| [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 | 2020-11-04 |  |
 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 | 2020-11-04 |  |
 | [Tripping](https://open.spotify.com/track/7MTdv6v3vsmQcVfh7eIaks) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Intensive Care](https://open.spotify.com/album/14cUCy4aMykhZbIFTw7dtW) | 4:36 | 2020-11-04 |  |
 | [Una poesia anche per te \(Life Goes on\)](https://open.spotify.com/track/7KoJ87QJIg7zSdIEAjHVEM) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Pearl Days](https://open.spotify.com/album/2ok2qFudOMD8qmKQkpu02E) | 5:15 | 2020-11-04 |  |

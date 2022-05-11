@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Fanfarrias y ritmos clown para gozar las tragicomedias de la vida",
   "name": "Circo Gitano",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1ClIe19M3uxxR397slRi95"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 372893,
       "name": "Asfalt Tango",
       "url": "https://open.spotify.com/track/0ZclAswj5Er6ndwzUeJ54p"
@@ -101,10 +103,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 288435,
       "name": "Barbes",
       "url": "https://open.spotify.com/track/2KFrLvCkUZVfk7bp4SySf8"
+    },
+    {
+      "album": {
+        "name": "Welcome To Goran Bregovic",
+        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
+      },
+      "artists": [
+        {
+          "name": "Goran Bregovi\u0107",
+          "url": "https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Bella ciao - Live, Rome / 2016",
+      "url": "https://open.spotify.com/track/64ATEI3hHvVfzTES9d4sgt"
     },
     {
       "album": {
@@ -155,7 +175,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 156312,
       "name": "Cherry's World",
       "url": "https://open.spotify.com/track/5YemLTqNZ0o2Oiyd02cxdw"
@@ -216,6 +236,24 @@
     },
     {
       "album": {
+        "name": "Crimen en el Para\u00edso",
+        "url": "https://open.spotify.com/album/6hbngLUDo5Duzx1Yecsou3"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212766,
+      "name": "Crimen en el Para\u00edso",
+      "url": "https://open.spotify.com/track/1vevBksiqjLNvrCCaVeSAq"
+    },
+    {
+      "album": {
         "name": "Cruzando el Campo",
         "url": "https://open.spotify.com/album/0j515BtyhDDr3KKqvWNDjx"
       },
@@ -227,7 +265,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 142746,
       "name": "Cruzando el Campo",
       "url": "https://open.spotify.com/track/7IEMXZrmEJXgZSfKaZMOJK"
@@ -310,6 +348,24 @@
     },
     {
       "album": {
+        "name": "El \u00daltimo Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/6hiFH7uKArXxAXHLKuWmW1"
+      },
+      "artists": [
+        {
+          "name": "L\u00edber Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210203,
+      "name": "El \u00daltimo Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/1LBrzV3h4gwtQTxUYpGZz8"
+    },
+    {
+      "album": {
         "name": "Estos Celos",
         "url": "https://open.spotify.com/album/2E1f852SuXQRCGGh9ml4Hf"
       },
@@ -321,7 +377,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 209402,
       "name": "Estos Celos",
       "url": "https://open.spotify.com/track/4d51QRhki1EM2qaNYYjfvK"
@@ -339,7 +395,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 195832,
       "name": "Fight Back Sisters",
       "url": "https://open.spotify.com/track/3QbYl04MfAbhQCNOBqeiqh"
@@ -361,6 +417,24 @@
       "duration_ms": 157000,
       "name": "Flor de Cumbi\u00f3n",
       "url": "https://open.spotify.com/track/7onER4nMDWvYcGiKhBxqEl"
+    },
+    {
+      "album": {
+        "name": "Casa D\u00f3nde",
+        "url": "https://open.spotify.com/album/7kfblvYGIlfBbetr0aZYFA"
+      },
+      "artists": [
+        {
+          "name": "Polka Madre",
+          "url": "https://open.spotify.com/artist/0mQaCZUXORP5789FFfzDP8"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174413,
+      "name": "Gitanas Mojadas",
+      "url": "https://open.spotify.com/track/1UNkCY2v2hOUeoiJZMtX6C"
     },
     {
       "album": {
@@ -415,7 +489,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 295519,
       "name": "Hasta el Amanecer (feat. Gina Bustamante)",
       "url": "https://open.spotify.com/track/733JqA2OMB1g4rmCMlqfXn"
@@ -469,7 +543,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 176778,
       "name": "Just the Two of Us - Borat Version",
       "url": "https://open.spotify.com/track/3vlX8DYLjmo7tzGeNBSVoG"
@@ -491,10 +565,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 262926,
       "name": "Karnaval",
       "url": "https://open.spotify.com/track/0QoKi5HQm7srBiovlTpTws"
+    },
+    {
+      "album": {
+        "name": "Inner Fire",
+        "url": "https://open.spotify.com/album/6A7uB5OoxomiuSO4TvOXDB"
+      },
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252080,
+      "name": "Kingdom Come",
+      "url": "https://open.spotify.com/track/5jiJYFm6YBqRJ0sLbwmezm"
     },
     {
       "album": {
@@ -585,7 +677,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 190120,
       "name": "La Violencia",
       "url": "https://open.spotify.com/track/3HE5z7Dkgz37zqnKku6tzA"
@@ -643,6 +735,24 @@
       "duration_ms": 223320,
       "name": "Love Theme From ''the Godfather''",
       "url": "https://open.spotify.com/track/6kGuBfdelOjChMdvfQj5o0"
+    },
+    {
+      "album": {
+        "name": "Malinalli",
+        "url": "https://open.spotify.com/album/4BrDp9xZrnfvoZwasH3iLP"
+      },
+      "artists": [
+        {
+          "name": "Diablocalavera",
+          "url": "https://open.spotify.com/artist/3BCryyGZjvAmv20TUlNLfW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Malinalli",
+      "url": "https://open.spotify.com/track/2BEXRY7Vefd38vrqjxo2kC"
     },
     {
       "album": {
@@ -715,10 +825,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 200253,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/542SyraZb4vO9lhREhpK2j"
+    },
+    {
+      "album": {
+        "name": "Ederlezi",
+        "url": "https://open.spotify.com/album/6BNg66d4xjCQwMFx5vZfxQ"
+      },
+      "artists": [
+        {
+          "name": "Slobodan Salijevic",
+          "url": "https://open.spotify.com/artist/2qAYOCvQeh0CluLvtMBQZL"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "Mesecina / Moonlight",
+      "url": "https://open.spotify.com/track/2q51QjRBGwTtlgGRxDWm2s"
     },
     {
       "album": {
@@ -740,6 +868,24 @@
     },
     {
       "album": {
+        "name": "No Corro, No Grito, No Empujo",
+        "url": "https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "No Corro, No Grito, No Empujo",
+      "url": "https://open.spotify.com/track/2zMauuBuWdlJxv3EFkEGLv"
+    },
+    {
+      "album": {
         "name": "Nobody Knows You When You\u2019re Down And Out",
         "url": "https://open.spotify.com/album/6FZlcVWmvyIVYfXCbsiNZf"
       },
@@ -755,7 +901,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 271093,
       "name": "Nobody Knows You When You\u2019re Down And Out",
       "url": "https://open.spotify.com/track/5B5SveoNqr6Snjw6eqPTRn"
@@ -813,7 +959,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 179533,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/4LMjiB1lKCOwVMwMw9ecXe"
@@ -915,7 +1061,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 207093,
       "name": "Pharoah's Dreams",
       "url": "https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY"
@@ -969,7 +1115,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 190820,
       "name": "Sabidur\u00eda de los Gatos",
       "url": "https://open.spotify.com/track/5FHJjoj9OyLoquoqJRgP3A"
@@ -1009,10 +1155,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 234293,
       "name": "Siki, Siki Baba - Gaetano Fabri Remix",
       "url": "https://open.spotify.com/track/1FE9dxq3wj5NDXDJzLI8df"
+    },
+    {
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/1nMVeppV67Pys7MZEoLj3T"
+      },
+      "artists": [
+        {
+          "name": "Swing Original Monks",
+          "url": "https://open.spotify.com/artist/1nV4bRtpwOUY2BAoxsLcpq"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225556,
+      "name": "Suerte o Muerte",
+      "url": "https://open.spotify.com/track/4e9gHUG1iyszheEkpH3oni"
     },
     {
       "album": {
@@ -1031,7 +1195,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 251266,
       "name": "Te Quiero con Bugal\u00fa",
       "url": "https://open.spotify.com/track/19AG2FmshFkNm5FVTDZj0E"
@@ -1111,7 +1275,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 162325,
       "name": "Venta de Garage",
       "url": "https://open.spotify.com/track/7Me7yGFf1KinwnV6tcBUf0"
@@ -1147,7 +1311,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 131213,
       "name": "Zundoko",
       "url": "https://open.spotify.com/track/2MiU0WMe855DowQNML8NCN"

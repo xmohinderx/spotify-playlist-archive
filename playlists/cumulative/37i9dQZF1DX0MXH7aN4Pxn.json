@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Turn the energy levels up and join the party wherever you are!",
   "name": "PARTY MODE",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1PuNlNfn3dc6Go7OukEidr"
+  ],
   "tracks": [
     {
       "album": {
@@ -83,7 +85,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 193400,
       "name": "All for You",
       "url": "https://open.spotify.com/track/64aNdC3hF7DMptxVnf3LD7"
@@ -105,7 +107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 254130,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/2zJ5nuyOQi4jBvToG3HHys"
@@ -127,10 +129,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 150704,
       "name": "Baby Boy - Star.One Remix",
       "url": "https://open.spotify.com/track/5bHdPYsiDhc8poXiUVWVbh"
+    },
+    {
+      "album": {
+        "name": "Bad Habits (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194331,
+      "name": "Bad Habits - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
     },
     {
       "album": {
@@ -321,7 +345,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 220490,
       "name": "Calling",
       "url": "https://open.spotify.com/track/7IxrpgNvMEtRt5SO4UA4Bv"
@@ -357,7 +381,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 202407,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/0sIWHEb9PH9J5n2ZZEMuGQ"
@@ -401,10 +425,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "album": {
+        "name": "Coming Home (feat. Anabel Englund)",
+        "url": "https://open.spotify.com/album/3uOhFuyYOALAPA8Phtpqkw"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Coming Home (feat. Anabel Englund)",
+      "url": "https://open.spotify.com/track/6V59f06aj9W103sjzIwIGE"
     },
     {
       "album": {
@@ -445,7 +495,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 161311,
       "name": "Do Me Right",
       "url": "https://open.spotify.com/track/0WrDaPRMVmJbvds5YeHxKF"
@@ -547,7 +597,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 202258,
       "name": "Duffles",
       "url": "https://open.spotify.com/track/1onxwBZxnwONLP81Yll3xj"
@@ -599,7 +649,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 167102,
       "name": "Every Single Time (with Silky)",
       "url": "https://open.spotify.com/track/61drLfij7yoXMTYIY8088V"
@@ -753,7 +803,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 197209,
       "name": "Flowers (feat. Jaykae and MALIKA)",
       "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
@@ -823,7 +873,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 156795,
       "name": "Freak Like Me (feat. Kate Wild)",
       "url": "https://open.spotify.com/track/1QkIc6EzKTpPLCX759W497"
@@ -845,7 +895,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 244528,
       "name": "Free (feat. Chris Nichols)",
       "url": "https://open.spotify.com/track/5qaj5FBz1l4Lck3KpK69pK"
@@ -927,6 +977,24 @@
       "duration_ms": 204927,
       "name": "Get Out My Head",
       "url": "https://open.spotify.com/track/470Uj67VjI7OtCFxdFr64Y"
+    },
+    {
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/5KiHyAFVEs96vCqcRjnoX2"
+      },
+      "artists": [
+        {
+          "name": "Blaise",
+          "url": "https://open.spotify.com/artist/2exyj5YMPkuwcA2sZP45OA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161372,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/1rY5w6MvaNTpa6ZkXwCJgP"
     },
     {
       "album": {
@@ -1055,10 +1123,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 167034,
       "name": "Hate Love (feat. S.E.N)",
       "url": "https://open.spotify.com/track/34sk8sbh2rQw6o2DbAQ3Ee"
+    },
+    {
+      "album": {
+        "name": "High (feat. S. MICHAUD)",
+        "url": "https://open.spotify.com/album/7Fbto4qZVJBoOwEw4KNi59"
+      },
+      "artists": [
+        {
+          "name": "HRRTZ",
+          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
+        },
+        {
+          "name": "S. MICHAUD",
+          "url": "https://open.spotify.com/artist/46XRr1o7wT8PkNo4zlpjjO"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174677,
+      "name": "High (feat. S. MICHAUD)",
+      "url": "https://open.spotify.com/track/63FsjVcPq3chbqv2Eih374"
     },
     {
       "album": {
@@ -1077,7 +1167,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 219047,
       "name": "Human (feat. Echoes)",
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
@@ -1117,7 +1207,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 144193,
       "name": "Is This Love?",
       "url": "https://open.spotify.com/track/2r2ZvX5PNP0MUfUN2HjEjl"
@@ -1135,7 +1225,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 158709,
       "name": "I\u2019m Falling",
       "url": "https://open.spotify.com/track/3CKMVeZCq6HUxEk3DsdymZ"
@@ -1197,7 +1287,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 172825,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/5eV4sUsCLKTkrjtNc3eWWV"
@@ -1215,7 +1305,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 190955,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV"
@@ -1285,7 +1375,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 116554,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
@@ -1337,7 +1427,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 158098,
       "name": "Love With You - Nathan Dawe & MORGAN Vocal Edit",
       "url": "https://open.spotify.com/track/7mbwZ42uMZHRpwcbXDFur6"
@@ -1465,10 +1555,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 175413,
       "name": "My House",
       "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
+    },
+    {
+      "album": {
+        "name": "My Night",
+        "url": "https://open.spotify.com/album/1RsIiyCqGoHD8mflYYzdrb"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "APRE",
+          "url": "https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135546,
+      "name": "My Night",
+      "url": "https://open.spotify.com/track/5bgeFf7dJArqJVi4PeD3Tp"
     },
     {
       "album": {
@@ -1487,7 +1599,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 256288,
       "name": "Natalie Don't - Punctual Remix",
       "url": "https://open.spotify.com/track/1YtunxXssdmetIJ9vt8396"
@@ -1531,7 +1643,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 176626,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/6rWQnz8mMm8iEr8xq1WoAR"
@@ -1601,7 +1713,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 155808,
       "name": "New Levels (feat. Mila Falls)",
       "url": "https://open.spotify.com/track/59RehGuw90cshXlt5mPWI9"
@@ -1670,6 +1782,28 @@
     },
     {
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/0ezmC8VHRQijLPVBPIri2S"
+      },
+      "artists": [
+        {
+          "name": "Mike Mago",
+          "url": "https://open.spotify.com/artist/5lwT6gFdwV3Wcol07KUiJx"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183727,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/560XM9FI9xl5H6RK8S1LqH"
+    },
+    {
+      "album": {
         "name": "One Drink",
         "url": "https://open.spotify.com/album/2cIFOS0yrWsrjRGo7ShuDo"
       },
@@ -1689,6 +1823,42 @@
       "duration_ms": 149268,
       "name": "One Drink",
       "url": "https://open.spotify.com/track/5jNybMulXPmjstztzLe6bW"
+    },
+    {
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/0qusXE8mnO8a1ihv7NcoWE"
+      },
+      "artists": [
+        {
+          "name": "Like Son",
+          "url": "https://open.spotify.com/artist/7JtqbsX8jQcZIoAUyG6Gi4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160996,
+      "name": "One Night Only",
+      "url": "https://open.spotify.com/track/0B9jWxiiY6RJyQKKppKzM2"
+    },
+    {
+      "album": {
+        "name": "Out My Mind",
+        "url": "https://open.spotify.com/album/0WE5uN6u7HSF1tAS29gmP3"
+      },
+      "artists": [
+        {
+          "name": "GW Harrison",
+          "url": "https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "Out My Mind",
+      "url": "https://open.spotify.com/track/67x9A5uxv2QH7xnjUbIoCM"
     },
     {
       "album": {
@@ -1715,7 +1885,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
@@ -1741,6 +1911,24 @@
       "duration_ms": 276295,
       "name": "Overpass Graffiti - TCTS Remix",
       "url": "https://open.spotify.com/track/7aJipE69xCCq3Upw8w9JOf"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0PX69mVcjK2diUjMw6S3fW"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228387,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/15w5T3xUU5hWsAJ07ibn5B"
     },
     {
       "album": {
@@ -1832,6 +2020,46 @@
     },
     {
       "album": {
+        "name": "Riser",
+        "url": "https://open.spotify.com/album/2Fph6wTWraY6XkhX3IZtrk"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202023,
+      "name": "Riser",
+      "url": "https://open.spotify.com/track/73Szmmh8dQduG1jPY12zK8"
+    },
+    {
+      "album": {
+        "name": "Sad Songs (feat. L Devine)",
+        "url": "https://open.spotify.com/album/1WvYz2Mzs8j8cAFmSynXX5"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "Sad Songs (feat. L Devine)",
+      "url": "https://open.spotify.com/track/3JsmrruMp8AWcbEZ4342JY"
+    },
+    {
+      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/37XytyRpTW38vQ6BI9qER3"
       },
@@ -1879,7 +2107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 168761,
       "name": "Searching",
       "url": "https://open.spotify.com/track/18NWFWxhITcw2s6SNfbRlJ"
@@ -2069,7 +2297,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 213159,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0TpqFdNKCFw5QIrtCZyPJ3"
@@ -2273,7 +2501,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 188180,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO"
@@ -2361,7 +2589,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 188636,
       "name": "Too Many Nights",
       "url": "https://open.spotify.com/track/6xB0rPxU3ncmMPgGDaD24M"
@@ -2401,10 +2629,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 186794,
       "name": "Visions",
       "url": "https://open.spotify.com/track/2u1yvW3lL5tflC0isyIFKF"
+    },
+    {
+      "album": {
+        "name": "Waiting (feat. Pablo Bravas)",
+        "url": "https://open.spotify.com/album/1b6HpGj2vIApDK5jnQFg3o"
+      },
+      "artists": [
+        {
+          "name": "Crvvcks",
+          "url": "https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98"
+        },
+        {
+          "name": "Pablo Bravas",
+          "url": "https://open.spotify.com/artist/792OYnsrG3nrC4HDDSEwpq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144579,
+      "name": "Waiting (feat. Pablo Bravas)",
+      "url": "https://open.spotify.com/track/6R0y6rfttQZqKmbKI9A2VG"
     },
     {
       "album": {
@@ -2481,7 +2731,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 216984,
       "name": "We Can Come Together",
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
@@ -2543,7 +2793,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 181944,
       "name": "When Friday Comes",
       "url": "https://open.spotify.com/track/3yDbJlEJuWjTMPUrM9z9TH"
@@ -2565,10 +2815,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 169760,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/5IEJIouVka71hYZYpC2NZT"
+    },
+    {
+      "album": {
+        "name": "Who Let The Dogs Out (feat. EVALINA)",
+        "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
+      },
+      "artists": [
+        {
+          "name": "ABOUT THAT",
+          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
+        },
+        {
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136120,
+      "name": "Who Let The Dogs Out (feat. EVALINA)",
+      "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
     },
     {
       "album": {
@@ -2605,7 +2877,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 172109,
       "name": "Won\u2019t Hold Back",
       "url": "https://open.spotify.com/track/3kmwh4EFTMTuDYlVkvm4MB"
@@ -2711,7 +2983,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 176718,
       "name": "You Stole My Eyes",
       "url": "https://open.spotify.com/track/3EvWvgZLOZp5tZ3uojSChg"

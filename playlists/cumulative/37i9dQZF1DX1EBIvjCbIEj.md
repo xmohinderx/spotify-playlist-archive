@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2003! Cover: Tiziano Ferro
 
-101 songs - 6 hr 37 min - not published yet
+103 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/7GnqBpRMHaDzTd4896TSz8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Make Luv](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH) | [Room 5](https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq), [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Music & You](https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH) | 3:32 | 2020-11-04 |  |
 | [Mandy](https://open.spotify.com/track/48jd71gnyIlLdXOYX2qJ6p) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:19 | 2020-11-04 |  |
 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 | 2020-11-04 |  |
-| [Miss Independent](https://open.spotify.com/track/3v4yDypfo94dachEvmjQdj) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Thankful](https://open.spotify.com/album/4txPGNHsUtjgBickDa5mOe) | 3:34 | 2020-11-04 |  |
+| [Miss Independent](https://open.spotify.com/track/3v4yDypfo94dachEvmjQdj) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Thankful](https://open.spotify.com/album/4txPGNHsUtjgBickDa5mOe) | 3:34 | 2020-11-04 | 2022-05-11 |
 | [Miss You \- Main](https://open.spotify.com/track/6ua9DDqa1wW8C2H1wztr4J) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s) | 4:05 | 2020-11-04 |  |
 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 | 2020-11-04 |  |
 | [Mundian to Bach Ke](https://open.spotify.com/track/6wFq4QVUy4OlLhGwhKhA3Y) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [Mundian to Bach Ke](https://open.spotify.com/album/167yvOssRe21XxxVEFDpY9) | 4:04 | 2020-11-04 |  |
@@ -96,7 +96,7 @@
 | [Sunrise](https://open.spotify.com/track/37mk7t1x4VmKmmqgRU8E2w) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [The Greatest Hits](https://open.spotify.com/album/2c6noDMQYGkc2gMkg3F0gI) | 3:19 | 2020-11-04 |  |
 | [Sweet Dreams My LA Ex \- Radio Edit](https://open.spotify.com/track/4D0Vgh0c6zZas2yEN9ENuE) | [Rachel Stevens](https://open.spotify.com/artist/7LP4hiTAVkw3Rtc1hqtLi4) | [Funky Dory](https://open.spotify.com/album/6t5DQKjzFopipWfFzkUoUi) | 3:28 | 2020-11-04 |  |
 | [The Game of Love \(feat\. Michelle Branch\) \- Main / Radio Mix](https://open.spotify.com/track/41IShViF79gmulEkIHAjcb) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:14 | 2020-11-04 |  |
-| [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 | 2020-11-04 |  |
+| [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 | 2020-11-04 | 2022-05-11 |
 | [Time is Running Out](https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:57 | 2020-11-04 |  |
 | [Too Lost In You](https://open.spotify.com/track/0tRQ7UZtDQtKUkFFRtyTyM) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Three](https://open.spotify.com/album/2hBj2SLHPGubIkbgNE2p8T) | 3:57 | 2020-11-04 |  |
 | [Un attimo di pace](https://open.spotify.com/track/794UTL4DvaM3WObQmoCdoM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 4:34 | 2020-11-04 |  |
@@ -107,7 +107,9 @@
 | [Voglio vederti danzare \- Radio Version](https://open.spotify.com/track/1AUQYchnMNYfNu15W6OQqv) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Marvin](https://open.spotify.com/artist/0MQjWOlXYUAlvDpF2PaJ8f), [Andrea Prezioso](https://open.spotify.com/artist/7eLZWdDUVeVmwQMf86njuc) | [Voglio vederti danzare](https://open.spotify.com/album/343nTm6FMkXp3xYLl9R4FD) | 3:45 | 2020-11-04 |  |
 | [Where Is The Love?](https://open.spotify.com/track/1FreAz1lmnDi5aKLB6GdFM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/4jOESXHbPsfy1IYdyvwjYI) | 4:32 | 2020-11-04 |  |
 | [White Flag](https://open.spotify.com/track/5ht9FVBi07F48ZAfIf7WdC) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/5N4Ruwnt4hgFjuVFjCekGW) | 4:00 | 2020-11-04 |  |
+| [Why Don't You & I \(feat\. Chad Kroeger\)](https://open.spotify.com/track/43LdgobPlcCc5g9Kmactvy) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:34 | 2020-11-04 |  |
 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2020-11-04 | 2022-05-10 |
 | [Xverso](https://open.spotify.com/track/60zS0V5Qdh9eaQ9TV1MpTK) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 3:51 | 2020-11-04 |  |
+| [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2020-11-04 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-465 songs - 1 day 9 hr 41 min - not published yet
+465 songs - 1 day 9 hr 41 min - [published](https://open.spotify.com/playlist/5Hsskn5n9BE0Rj9yfUKAoG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 | 2020-12-08 |  |
 | [Errol \- Remastered](https://open.spotify.com/track/1kxPRJGVKGqjJM7BB44p0p) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [Sirocco \(Remastered\)](https://open.spotify.com/album/5FCC3e09sFPqZrXfozCXhF) | 3:30 | 2020-12-08 |  |
 | [Everybody Wants You](https://open.spotify.com/track/1BUTAQyk9QsdvRDghyMTC9) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Emotions In Motion](https://open.spotify.com/album/6BTnMApVGPP5qQ2TUteXjg) | 3:46 | 2020-12-08 |  |
-| [Evil Walks](https://open.spotify.com/track/5ahPl557niKxia8Kquw1yh) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 4:23 | 2020-12-08 |  |
+| [Evil Walks](https://open.spotify.com/track/5ahPl557niKxia8Kquw1yh) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 4:23 | 2020-12-08 | 2022-05-11 |
 | [Exciter](https://open.spotify.com/track/1SLlMQb4vdly9ZtRCV95Ry) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:12 | 2020-12-08 |  |
 | [Exhuming McCarthy](https://open.spotify.com/track/7MkDvEslqFKLL0NubyaPNj) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 3:21 | 2020-12-08 |  |
 | [Fallen Angel \- Remastered](https://open.spotify.com/track/27kMqdX3aoN3gBndVKlTfR) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:58 | 2020-12-08 |  |
@@ -224,7 +224,7 @@
 | [Like A Song..\. \- Remastered 2008](https://open.spotify.com/track/6hYqSE49Myq65J6i9eRq8c) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Remastered\)](https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2) | 4:47 | 2020-12-08 |  |
 | [Lil' Devil](https://open.spotify.com/track/2eCMo4mGYHqa9KbIZH2UJZ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/2Ah76CkWPKnhhuwQT8DcHQ) | 2:44 | 2020-12-08 |  |
 | [Listen Like Thieves](https://open.spotify.com/track/4CXPPtJaJf5uZRmFLEarAK) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves](https://open.spotify.com/album/1U6tgUieq2uuKip6DVxM31) | 3:45 | 2022-03-28 |  |
-| [Listen Like Thieves](https://open.spotify.com/track/2NnwJBDPTeqBoIn2G707aZ) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves \(Remastered\)](https://open.spotify.com/album/7xYuZehiCGjWOb0pIZoNCS) | 3:46 | 2020-12-08 | 2022-05-10 |
+| [Listen Like Thieves](https://open.spotify.com/track/2NnwJBDPTeqBoIn2G707aZ) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves \(Remastered\)](https://open.spotify.com/album/7xYuZehiCGjWOb0pIZoNCS) | 3:46 | 2020-12-08 |  |
 | [Little T&A \- Remastered](https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:23 | 2020-12-08 |  |
 | [Living in Another World \- 1997 Remaster](https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Colour of Spring](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE) | 6:58 | 2020-12-08 |  |
 | [Long Gone](https://open.spotify.com/track/64OczLYckthEjRiCCZDeAF) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:58 | 2020-12-08 |  |
@@ -435,8 +435,8 @@
 | [Was It All Worth It \- Remastered 2011](https://open.spotify.com/track/5YAXhS6lCmoQD4HJvi6YwW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(2011 Remaster\)](https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V) | 5:47 | 2020-12-08 |  |
 | [Watch Me Bleed](https://open.spotify.com/track/1kChx0uGraDIIyOVtBVawU) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 4:15 | 2021-12-22 |  |
 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 | 2022-03-28 |  |
-| [Wave Of Mutilation](https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:03 | 2022-03-28 |  |
-| [Wave of Mutilation](https://open.spotify.com/track/1yJiE307EBIzOB9kqH1deb) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:04 | 2020-12-08 | 2022-05-10 |
+| [Wave Of Mutilation](https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:03 | 2022-03-28 | 2022-05-11 |
+| [Wave of Mutilation](https://open.spotify.com/track/1yJiE307EBIzOB9kqH1deb) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:04 | 2020-12-08 |  |
 | [We Are The People](https://open.spotify.com/track/68MFuyXBNVdgJ86sfIR9hr) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [The Lonesome Jubilee](https://open.spotify.com/album/1UiIinWX5c5fxGSpRCvjNR) | 4:17 | 2020-12-08 |  |
 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:47 | 2020-12-08 |  |
 | [We're Ready](https://open.spotify.com/track/33lj1WVboFiKGLBdxOzSAl) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Third Stage](https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv) | 3:57 | 2020-12-08 |  |

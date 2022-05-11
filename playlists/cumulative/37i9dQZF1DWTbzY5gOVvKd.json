@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 348740,
       "name": "A New Path",
       "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
@@ -2247,6 +2247,24 @@
       "duration_ms": 285866,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
+    },
+    {
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227306,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/7DbqsBxxj4bUcEGiVUpk6m"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-50 songs - 3 hr 29 min - not published yet
+50 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/4ztLVpYM0zp9t21HvM8c7j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

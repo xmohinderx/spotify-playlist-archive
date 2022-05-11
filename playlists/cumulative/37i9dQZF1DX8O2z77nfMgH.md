@@ -4,7 +4,7 @@
 
 > Los lanzamientos latinos más destacados con Bad Bunny.
 
-1,131 songs - 2 day 13 hr 59 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
+1,132 songs - 2 day 14 hr 2 min - [published](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Ley De Gravedad](https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ley De Gravedad](https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg) | 2:22 | 2022-02-11 | 2022-02-19 |
 | [Lil Tecca](https://open.spotify.com/track/7cZZTq4MjZ5Kz1zmTQGJ4G) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [M A R L K U](https://open.spotify.com/artist/0nUJZ0KwKaJVlxV77jsPwY) | [Lil Tecca](https://open.spotify.com/album/5D89k9Xb7ezT3CSUTAbca9) | 2:44 | 2022-04-15 | 2022-04-23 |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2022-02-18 | 2022-02-26 |
+| [Llanogrande](https://open.spotify.com/track/19j1aiX1XtvV1rjQiB0xnI) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Llanogrande](https://open.spotify.com/album/4erHmgwHrYipv67oz7EEhz) | 3:16 | 2022-05-06 |  |
 | [Llegamos Pal Party](https://open.spotify.com/track/0wnCf5NlkmUUoAD7ZmDjij) | [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Llegamos Pal Party](https://open.spotify.com/album/5j8JaGaCaHfCW1hrzf8L3a) | 2:48 | 2022-04-15 | 2022-04-23 |
 | [Llegue Pa Hacer Billetes](https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Oregel](https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO) | [Llegue Pa Hacer Billetes](https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt) | 3:31 | 2022-03-04 | 2022-03-12 |
 | [Lo Cura](https://open.spotify.com/track/3ilKo71h84ybq78up74ho0) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Lo Cura](https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba) | 3:30 | 2022-02-18 | 2022-02-26 |

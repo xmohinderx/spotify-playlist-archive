@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Dolly Parton and Destructo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,193 likes - 110 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,197 likes - 110 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 103 | [Dark Horse \- Attom Remix](https://open.spotify.com/track/1NZAaaimzWonDpqcK0Ls88) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu), [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Dark Horse \(Attom Remix\)](https://open.spotify.com/album/5USn3Wjh3KsfuTlomPQnNg) | 3:39 |
 | 104 | [You Broke Up with Me \- Remix](https://open.spotify.com/track/6oWjS5jBcEEr3GedlcfwfI) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [remixed](https://open.spotify.com/album/5RDzXCt8pM1p7qJ0DViwXj) | 3:08 |
 | 105 | [Both Still Young \(feat\. Keith Urban\)](https://open.spotify.com/track/23GADqMc230MGEOTewOg06) | [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Both Still Young](https://open.spotify.com/album/5vlZ9FpvZqIkOkXuqTHnLJ) | 2:53 |
-| 106 | [Jolene \- Dumplin' Remix](https://open.spotify.com/track/0HtY7ILTZVSd4i44FuOrur) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [DJ Ricky Luna](https://open.spotify.com/artist/41EN0ZREKu3QnW9N0kre0K) | [Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO) | 3:24 |
+| 106 | [Jolene \- Dumplin' Remix](https://open.spotify.com/track/0HtY7ILTZVSd4i44FuOrur) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ricky Luna](https://open.spotify.com/artist/12WRzRFga1tFlx0OAmFsFM) | [Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO) | 3:24 |
 | 107 | [Do Si Do \(with Bryce Vine & KyleYouMadeThat\)](https://open.spotify.com/track/0ABnHy15aivr6NTO7fvEUp) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [Do Si Do](https://open.spotify.com/album/3mtMpBdey5aCvwcGxZXJ87) | 3:03 |
 | 108 | [Miss Me More \- Cutmore & Wilson Remix](https://open.spotify.com/track/41zI4ifxx2YVQojsKoBeJZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Cutmore](https://open.spotify.com/artist/19Nvb77ZQIw8gff2ZYg3cS), [Wilson](https://open.spotify.com/artist/5jHgwbuuTlQe69rYvxCXw1) | [Miss Me More \(Remixes\)](https://open.spotify.com/album/3xTyofBzPxqMh4r2INf9KS) | 3:02 |
 | 109 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 |

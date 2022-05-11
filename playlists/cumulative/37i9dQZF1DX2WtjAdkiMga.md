@@ -4,13 +4,14 @@
 
 > Soft piano versions of jazz classics to lull your baby to sleep.
 
-71 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
+72 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/3lfP3rLqd7IKI2XgczwAsS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Flower Is A Lonesome Thing](https://open.spotify.com/track/6VvWYVzG8F16Q1lGrBE22Q) | [Jonny Lockley](https://open.spotify.com/artist/09VHG7HRDUHBwGjvRRB3Xj) | [A Flower Is a Lonesome Thing](https://open.spotify.com/album/5yyEbOdcKmTWyYraAagFSk) | 4:03 | 2022-04-12 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2022-04-12 |  |
 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2022-04-12 |  |
+| [Alice In Wonderland](https://open.spotify.com/track/3KvvR3y5CZTt7Zef7y2Yc5) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Alice In Wonderland](https://open.spotify.com/album/7x5H2e51cujnBxayPva0C3) | 3:00 | 2022-05-10 |  |
 | [Autumn Leaves](https://open.spotify.com/track/4Rvzz7UMj2niJe83HgZx3Y) | [Jazz for Babies](https://open.spotify.com/artist/6HTqDlK6LS0Ju7P58XXW2T) | [The Piano Album](https://open.spotify.com/album/0eBs49NdPsqdca0VztAB4K) | 2:13 | 2022-04-12 | 2022-04-27 |
 | [Autumn Leaves](https://open.spotify.com/track/5sqvQARdZgWBHQbUmo1RCQ) | [Leo Doyle](https://open.spotify.com/artist/0iHePaUxXFl3dyJaCfbwbg) | [Moon River](https://open.spotify.com/album/42sPSx5wz9umkfdMf4XVCJ) | 2:07 | 2022-04-26 |  |
 | [Brahms Lullaby \- Reprise](https://open.spotify.com/track/2WzSx8Ns1IoGiGy9WHDACI) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Lullabies](https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ) | 1:03 | 2022-04-12 |  |
@@ -33,7 +34,7 @@
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4UJTsC3tnszd4RnwKFtBkh) | [Jessica Albert](https://open.spotify.com/artist/7lI5xu3g1pfJ3zSkQjPflN) | [Stars Fell on Alabama](https://open.spotify.com/album/4udI8I069Mwb3lbzTBacpH) | 3:37 | 2022-04-12 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/53BeSVY0mpmucCIr0pDkPp) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [If You Could See Me Now](https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk) | 3:20 | 2022-04-12 |  |
 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 | 2022-04-12 |  |
-| [In Her Eyes](https://open.spotify.com/track/0PjTLWBueZwMxxEnGl9WAc) | [Gilbert Cox](https://open.spotify.com/artist/5k72AHmEdjc1CkZXnjfk1k) | [In Her Eyes](https://open.spotify.com/album/0pt2ss1BhksqkmuK0yagok) | 2:30 | 2022-04-12 |  |
+| [In Her Eyes](https://open.spotify.com/track/0PjTLWBueZwMxxEnGl9WAc) | [Gilbert Cox](https://open.spotify.com/artist/5k72AHmEdjc1CkZXnjfk1k) | [In Her Eyes](https://open.spotify.com/album/0pt2ss1BhksqkmuK0yagok) | 2:30 | 2022-04-12 | 2022-05-11 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2022-04-12 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2022-04-12 |  |
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2022-04-12 |  |

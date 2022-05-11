@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
   "name": "00s Pop Rock",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5K5umzcf3NGv3wuRSs39y0"
+  ],
   "tracks": [
     {
       "album": {
@@ -89,7 +91,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 269973,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
@@ -241,6 +243,24 @@
       "duration_ms": 267960,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+    },
+    {
+      "album": {
+        "name": "All About Chemistry",
+        "url": "https://open.spotify.com/album/76cYzaSTDXhd0UTipRCVZF"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "date_added": "2020-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/6JZYxCV6Fu5edOZYeptlck"
     },
     {
       "album": {
@@ -799,7 +819,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 306546,
       "name": "I Thought I'd Seen Everything",
       "url": "https://open.spotify.com/track/0sx4smMhPl7RY0a2FAenEj"
@@ -817,7 +837,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 226173,
       "name": "I'll Keep Your Memory Vague",
       "url": "https://open.spotify.com/track/1RYy00jUPPA8Dr8nTuRb05"
@@ -1199,7 +1219,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 201933,
       "name": "Real Gone",
       "url": "https://open.spotify.com/track/0JUaqijY6i3hBzOdHGMP9j"
@@ -1217,7 +1237,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 258706,
       "name": "Sailed Away",
       "url": "https://open.spotify.com/track/7yj0jM8Q5Ylbtu4alGUqMN"
@@ -1415,7 +1435,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 253066,
       "name": "Somewhere In Between",
       "url": "https://open.spotify.com/track/3VFO6bwk914T8esF1zAr4Q"
@@ -1559,7 +1579,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 311291,
       "name": "Talk",
       "url": "https://open.spotify.com/track/4wzt5Rrk3W98pHXAqutuJw"
@@ -1779,7 +1799,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 217853,
       "name": "When It's Over - David Kahne Main",
       "url": "https://open.spotify.com/track/5ZsPy9wHH733NlU6c4v2Hi"
@@ -1815,7 +1835,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 302666,
       "name": "Won't Stop",
       "url": "https://open.spotify.com/track/4d3i3FmlzftJvrRt3zv7Q1"

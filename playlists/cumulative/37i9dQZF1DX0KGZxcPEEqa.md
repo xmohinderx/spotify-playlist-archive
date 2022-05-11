@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop.
 
-400 songs - 23 hr 59 min - not published yet
+400 songs - 23 hr 59 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

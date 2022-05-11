@@ -4,7 +4,7 @@
 
 > Sunny jazz for sunny days.
 
-115 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
+117 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-02-16 |  |
 | [East of the Sun and West of the Moon](https://open.spotify.com/track/5IDJblB7FvYCYtfQ6nRqIs) | [Ian Leigh Quartet](https://open.spotify.com/artist/6l2sXu9fomefiQlaiFfUP8) | [I'm Glad There Is You](https://open.spotify.com/album/5U3jWmjryYKBWGU2vSovM2) | 6:02 | 2022-02-16 |  |
 | [Easy](https://open.spotify.com/track/6IP328KWUVyrLfKLtx6kA0) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Easy](https://open.spotify.com/album/6GbLOzfl3k3hHOhOsm42m9) | 2:19 | 2022-02-16 |  |
+| [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-05-10 |  |
 | [Elsa](https://open.spotify.com/track/2SrSFdeg5MHpsChGZ6mRmy) | [Fast Train Jazz Band](https://open.spotify.com/artist/5oKq1aCcKeI3ZAlstJxDsc) | [Elsa](https://open.spotify.com/album/2UPSIVtkDVSdZgGaJaG1MG) | 4:08 | 2022-02-16 |  |
 | [Embraceable You](https://open.spotify.com/track/24pfsJ5fFppdTxjgmqNlSN) | [Martin Harding Quartet](https://open.spotify.com/artist/1ETjP5CHsWKioJfH0n4FEB) | [Embraceable You](https://open.spotify.com/album/0dTFv8W09ohDBCXrlT0nJK) | 4:01 | 2022-02-16 |  |
 | [Escapade](https://open.spotify.com/track/3Cdi6dbEiH09TW4rJFAb4Z) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 2:48 | 2022-02-16 |  |
@@ -62,6 +63,7 @@
 | [LÄTT](https://open.spotify.com/track/1n14U1Pxf9SHlIKqW5WJj7) | [Jerry McHoy](https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf) | [SEGLA](https://open.spotify.com/album/11vr5CE1FemfV0Qe1ZaRhE) | 3:23 | 2022-02-16 |  |
 | [Maybe We'll Meet Again](https://open.spotify.com/track/2ghcpXt1t7oQfHcF5hUBP2) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Maybe We'll Meet Again](https://open.spotify.com/album/5jlgTkBJTWhoO3BdPsThlW) | 3:37 | 2022-02-16 |  |
 | [Mercy, Mercy, Mercy](https://open.spotify.com/track/2G9r3EX4EgIh4qjLrCepoi) | [Tim Donnelly Band](https://open.spotify.com/artist/2kCXMeRGZyhizaH79rvDd8) | [Sunny](https://open.spotify.com/album/1Bz1c2Imdi7aQ3tf8y2ZGe) | 2:31 | 2022-02-16 |  |
+| [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-05-10 |  |
 | [Mo' Better Blues](https://open.spotify.com/track/3CGqAtOKUe4pn3j9kOKp4J) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Mo' Better Blues](https://open.spotify.com/album/0hxR5dlIVm8EwblNwNGzM4) | 3:50 | 2022-02-16 |  |
 | [Moving Along](https://open.spotify.com/track/5FCu0Dq8UHHEHmbvA3zsxv) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Moving Along](https://open.spotify.com/album/7gjJCIRtJ6waFgxtqYcb2T) | 3:36 | 2022-02-16 |  |
 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 | 2022-02-16 |  |

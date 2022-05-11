@@ -4,7 +4,7 @@
 
 > Desi music across borders and genres\. Cover: Twinjabi
 
-88 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
+89 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/4KvGVxCqKJ3562UipuWVPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bombay](https://open.spotify.com/track/1FmVug8uLd7pdFDTE569wn) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Bombay](https://open.spotify.com/album/0s0tv81NR9SFBZeG67iZLd) | 3:32 | 2021-11-11 |  |
 | [Changes](https://open.spotify.com/track/1vu9t6ctWcJyp05cyYSPzC) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Arrival](https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD) | 3:19 | 2021-11-11 |  |
 | [Chemistry](https://open.spotify.com/track/3Owi1WFOGSbb8rqspfVEO4) | [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK) | [Chemistry](https://open.spotify.com/album/3cx7Q9tJE4JZVWF9pghpAn) | 2:47 | 2021-11-11 |  |
+| [Daily](https://open.spotify.com/track/1YHQk3mvPu3CJediWgaiNa) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Daily](https://open.spotify.com/album/19ENjuaSWREwNmdVuP7ddA) | 2:58 | 2022-05-10 |  |
 | [Dance](https://open.spotify.com/track/7fWMvmH2YLxabiHfxH03CO) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK), [Juggy D](https://open.spotify.com/artist/5Lt1YtQ7PK7ANlfAM9vqVj) | [Dance](https://open.spotify.com/album/4iVZa6nsYDb5XYA3gwBg1v) | 3:29 | 2021-11-11 |  |
 | [Dark Knight](https://open.spotify.com/track/5flPNCDnZuil33Bpav6iFl) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Dark Knight](https://open.spotify.com/album/3VuCQ8Yj7HjGODQTePfvQq) | 2:21 | 2021-11-11 |  |
 | [Divas](https://open.spotify.com/track/4qwOtfS2I6pPSt3CKq9TSz) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Divas](https://open.spotify.com/album/4ji38NmCuB2K32ZV3V7N6B) | 3:07 | 2021-11-11 |  |

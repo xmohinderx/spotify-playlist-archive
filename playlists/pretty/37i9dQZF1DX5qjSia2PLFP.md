@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Jay305
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,844 likes - 58 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,875 likes - 58 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [HitKidd](https://open.spotify.com/artist/6fD4Wp0ohNtBZNB5mvS4PK), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
+| 1 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
 | 2 | [The God Hour](https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The God Hour](https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6) | 2:35 |
 | 3 | [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 |
 | 4 | [BUDDAH ARMS](https://open.spotify.com/track/7AuogiLJdOZop0gEhqD1gT) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [FOREVER FIGUEROA 2](https://open.spotify.com/album/0DVvePo3RyEeGE6BArKnsc) | 1:57 |

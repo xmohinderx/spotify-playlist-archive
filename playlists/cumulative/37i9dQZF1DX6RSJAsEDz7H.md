@@ -4,7 +4,7 @@
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-138 songs - 9 hr 45 min - not published yet
+138 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/07zQ9oB93lOCDNyT1Xbj2x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

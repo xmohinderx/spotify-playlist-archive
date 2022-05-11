@@ -4,7 +4,7 @@
 
 > it's ok not to be ok :'\(
 
-60 songs - 3 hr 33 min - not published yet
+60 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/4i5FXlRk9sr7URN323tM7O)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

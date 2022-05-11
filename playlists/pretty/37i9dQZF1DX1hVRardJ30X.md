@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Eslabon Armado
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,739 likes - 66 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,769 likes - 66 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

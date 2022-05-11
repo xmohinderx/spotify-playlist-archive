@@ -152,6 +152,42 @@
     },
     {
       "album": {
+        "name": "Proto/Emotions",
+        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319743,
+      "name": "Ballo Da Solo",
+      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
+    },
+    {
+      "album": {
+        "name": "Bansuri Whistle",
+        "url": "https://open.spotify.com/album/1NDHHw6G5lhTpr2y6qBfun"
+      },
+      "artists": [
+        {
+          "name": "Sasupt",
+          "url": "https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342857,
+      "name": "Bansuri Whistle",
+      "url": "https://open.spotify.com/track/6jwotT3mYVp7DPE8LQacEn"
+    },
+    {
+      "album": {
         "name": "Barracudas EP",
         "url": "https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ"
       },
@@ -181,7 +217,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 128800,
       "name": "Beach Dreams",
       "url": "https://open.spotify.com/track/7ENbMrxiwYrjJxElH7E7PE"
@@ -253,7 +289,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 164745,
       "name": "Beleza",
       "url": "https://open.spotify.com/track/2kpPKUKlX5W4yZjcAHeySG"
@@ -361,7 +397,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 198275,
       "name": "Blueprint",
       "url": "https://open.spotify.com/track/7uNrNo3FwnPZm9aiu64oIN"
@@ -487,7 +523,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 170727,
       "name": "Chapterhouse",
       "url": "https://open.spotify.com/track/4PyHOh7vsuyus2Wbs6YPiv"
@@ -541,7 +577,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 158102,
       "name": "Clarity Theory",
       "url": "https://open.spotify.com/track/77o9BHh69uAY6pPy51kmPi"
@@ -1088,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "Open Hat",
+        "url": "https://open.spotify.com/album/0gh9B5L7AQPvW3W7LlUiEk"
+      },
+      "artists": [
+        {
+          "name": "Bishop Beckett",
+          "url": "https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "Genuine Foggy",
+      "url": "https://open.spotify.com/track/66kHf2V2TLThuiqqSR9sYv"
+    },
+    {
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/3PcVhPxZ7f1x6eAznLGgoj"
       },
@@ -1225,7 +1279,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 187909,
       "name": "Head Start",
       "url": "https://open.spotify.com/track/0KKgRBtM1I3TxDoFmdjKAU"
@@ -1351,7 +1405,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 169397,
       "name": "In This Together",
       "url": "https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW"
@@ -1988,6 +2042,24 @@
     },
     {
       "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/5PHIya5MLyIZBhfYVNfgGx"
+      },
+      "artists": [
+        {
+          "name": "Chigali",
+          "url": "https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203509,
+      "name": "Oxyg\u00e8ne",
+      "url": "https://open.spotify.com/track/5kTovHt4kVbc0zbBTnH0Eb"
+    },
+    {
+      "album": {
         "name": "Oya",
         "url": "https://open.spotify.com/album/3Mxth3OuHNMUePF10mE6sp"
       },
@@ -2179,7 +2251,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 110666,
       "name": "Resume",
       "url": "https://open.spotify.com/track/4OKFg2NTbnszvbvl99h2zG"
@@ -2269,7 +2341,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 153230,
       "name": "Screen Time",
       "url": "https://open.spotify.com/track/0lJkobiOBH14Vw9Jznljz2"
@@ -2449,7 +2521,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 153015,
       "name": "Spectra",
       "url": "https://open.spotify.com/track/2MFkg5GzZyRZKnVi3CciBw"
@@ -2615,6 +2687,24 @@
       "duration_ms": 188293,
       "name": "sunique",
       "url": "https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb"
+    },
+    {
+      "album": {
+        "name": "Sunny Daze",
+        "url": "https://open.spotify.com/album/5Vv2TvD0O34d2nOlEAYaUI"
+      },
+      "artists": [
+        {
+          "name": "Snazzy",
+          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117142,
+      "name": "Sunny Daze",
+      "url": "https://open.spotify.com/track/0rxLmjvHUHHxqNLolAidC8"
     },
     {
       "album": {

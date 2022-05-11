@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 197767,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/5VQ1j0nlkUpXMNdnY5cDH0"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 204285,
       "name": "Django",
       "url": "https://open.spotify.com/track/7n8oAD5lFVciTlfPAChrCr"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 240000,
       "name": "feelings fade",
       "url": "https://open.spotify.com/track/4jnO4ztskhv3YkqgFnewtD"
@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 281066,
       "name": "I'll Never Love Again - Film Version",
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
@@ -1993,7 +1993,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "Keep Holding On",
       "url": "https://open.spotify.com/track/58Mmq9tDlN7jiUqmvugggD"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 217049,
       "name": "Lonely - Mahogany Sessions",
       "url": "https://open.spotify.com/track/1WVpCn4WGCrgGXhhtyUzyM"
@@ -2293,7 +2293,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 207157,
       "name": "Losing It Over You (feat. Ayme)",
       "url": "https://open.spotify.com/track/6TfbZ9vy5zqBEDLmqwH9sp"
@@ -2603,7 +2603,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
@@ -3105,7 +3105,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 207272,
       "name": "Seen",
       "url": "https://open.spotify.com/track/56ybiNUE5Gim5BtlWRD40o"
@@ -3589,6 +3589,24 @@
       "duration_ms": 231995,
       "name": "Thank You for the Broken Heart",
       "url": "https://open.spotify.com/track/1aBO5KPwxqLESNTTJBR6VP"
+    },
+    {
+      "album": {
+        "name": "Strange Foreign Beauty",
+        "url": "https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO"
+      },
+      "artists": [
+        {
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253093,
+      "name": "That's Why You Go Away",
+      "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
     },
     {
       "album": {

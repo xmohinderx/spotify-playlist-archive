@@ -2,9 +2,9 @@
 
 ### [Radar India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover : Last Minute India
+> Most exciting artists from the Indian Indie scene\. Cover : Vismay Patel
 
-145 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+146 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,13 +90,14 @@
 | [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2021-12-06 | 2022-01-11 |
 | [Kya Dekhu](https://open.spotify.com/track/2jhl4HxYbNC5OPvqxiodUG) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 3:05 | 2022-01-10 | 2022-03-23 |
 | [Kyun Ho Jaate Ho Door](https://open.spotify.com/track/2boHTy8wRvOsr0xbf2uyBS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Kyun Ho Jaate Ho Door](https://open.spotify.com/album/1EM3mEUMGkA46gTbmpJ2lN) | 2:50 | 2022-01-10 | 2022-02-01 |
+| [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 | 2022-05-10 |  |
 | [Last December](https://open.spotify.com/track/4BV7aMOMZYc9PfV5jW3R7j) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Hades.](https://open.spotify.com/artist/0Wt5CU3KrmoSgQbzHjioNQ) | [Last December](https://open.spotify.com/album/7B7QS4DmYKplXtK6EJhoEg) | 3:19 | 2021-12-06 | 2022-03-22 |
 | [Le Chal](https://open.spotify.com/track/5fehqyMcmFL86IkoPtntbz) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Le Chal](https://open.spotify.com/album/13T9R562F4d4Xmd2SI9c7J) | 4:07 | 2022-01-10 |  |
 | [Love Drunk](https://open.spotify.com/track/7Lek6TgDH6aEi6jdDuEeaC) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO) | 2:30 | 2022-01-10 |  |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2021-12-06 | 2022-03-16 |
 | [Martbaan](https://open.spotify.com/track/3NyVaRd7ei6erCESpTQzDL) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN), [June](https://open.spotify.com/artist/0WSJQxpWnYJswHWehTfJnP), [Sarah Mehdi](https://open.spotify.com/artist/5hj5wOlAgSI6WM3YP1LOd4) | [Martbaan](https://open.spotify.com/album/4rhWPluu9U2NusNDQVdogO) | 5:30 | 2022-01-10 | 2022-03-26 |
 | [Miracle](https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Miracle](https://open.spotify.com/album/2OPof019rnmR6xThgEF71j) | 3:49 | 2022-01-27 |  |
-| [Motoliya 2.0](https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC) | [Sannidhya Bhuyan](https://open.spotify.com/artist/3up6Gqw9IAsQ9KqLzVkyTN), [Aarxslan](https://open.spotify.com/artist/67137rl2C1Z9kPUiLGqNXr) | [Motoliya 2.0](https://open.spotify.com/album/4aJmymmOUvOo1gZGz3TVvY) | 3:56 | 2022-01-10 |  |
+| [Motoliya 2.0](https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC) | [Sannidhya Bhuyan](https://open.spotify.com/artist/3up6Gqw9IAsQ9KqLzVkyTN), [Aarxslan](https://open.spotify.com/artist/67137rl2C1Z9kPUiLGqNXr) | [Motoliya 2.0](https://open.spotify.com/album/4aJmymmOUvOo1gZGz3TVvY) | 3:56 | 2022-01-10 | 2022-05-11 |
 | [Na Tum Saamne](https://open.spotify.com/track/1oCkc96iBiOiyydlbiHRGE) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Na Tum Saamne](https://open.spotify.com/album/5TACPWAxlXxjGPIKbHOYA9) | 3:00 | 2021-12-06 | 2022-01-11 |
 | [Nowhere to Stand](https://open.spotify.com/track/1pikKqZnF7anajMEEYn4Hf) | [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Nowhere to Stand](https://open.spotify.com/album/13jDAstKcOUTGO7YTYHtXT) | 3:52 | 2021-12-06 | 2022-01-11 |
 | [Obituary](https://open.spotify.com/track/3CWra93RrBwL4NIesLZ2yC) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Book of I](https://open.spotify.com/album/2Yz0NqYcoPvEcFPf7jwx1Z) | 3:36 | 2021-12-06 | 2022-02-09 |

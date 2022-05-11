@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Bardero$.
 
-131 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
+132 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Caro](https://open.spotify.com/track/0LkuHRZJxg8lDqOqeMgi7i) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX), [Eney](https://open.spotify.com/artist/0k5fct6YYlVUwSHkuxKvre) | [Caro](https://open.spotify.com/album/2terVtDIynq8ZwCpSZqWVa) | 2:45 | 2021-11-26 | 2022-02-19 |
 | [Cual Hay](https://open.spotify.com/track/3rXGHdUlh8bvDMvkuI3qdB) | [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Cual Hay](https://open.spotify.com/album/4Gq43yGuKPNHuxb3Dlx9E1) | 3:20 | 2021-11-26 |  |
 | [Cuando Entramos en Acción](https://open.spotify.com/track/1wNN9AHg48S1Ye1KNfgm2J) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Cuando Entramos en Acción](https://open.spotify.com/album/42n7d8yfCOFcXdlD8BFBkg) | 3:02 | 2021-11-26 |  |
-| [Cyfresh, Vol\. 1](https://open.spotify.com/track/26FCGP512gg6o0EOkvLUYq) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Cyfresh, Vol\. 1](https://open.spotify.com/album/4b0k7FweKXBlwQmUPn68xH) | 2:38 | 2021-11-26 |  |
+| [Cyfresh, Vol\. 1](https://open.spotify.com/track/26FCGP512gg6o0EOkvLUYq) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Cyfresh, Vol\. 1](https://open.spotify.com/album/4b0k7FweKXBlwQmUPn68xH) | 2:38 | 2021-11-26 | 2022-05-11 |
 | [D1SPARO](https://open.spotify.com/track/6tZm9vnnt0nSZJIRRZFtan) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [D1SPARO](https://open.spotify.com/album/5HoVqzZkQiRchJSoST2Epi) | 3:15 | 2021-11-26 | 2022-04-12 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-11-26 |  |
 | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/track/6TNuRFdNazLbbVQTRE8pZg) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/album/6tKzkBXT4H4991ZHErDdbB) | 2:53 | 2021-11-26 |  |
@@ -113,6 +113,7 @@
 | [Real Shit](https://open.spotify.com/track/3QgeHmKgZyVDB3JKchCNaW) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [Libres](https://open.spotify.com/album/0Wq9RaiQE9MbdSmHY0YE1r) | 3:16 | 2021-11-26 |  |
 | [REPRESENA](https://open.spotify.com/track/7b3gQL4a0Zf7rErbM0xcgv) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [REPRESENA](https://open.spotify.com/album/3NU76dVD7TjFVDzXuq3lA9) | 2:44 | 2021-11-26 |  |
 | [REQUIEM](https://open.spotify.com/track/1SKytz4jM5DELEFWSo7yoi) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [REQUIEM](https://open.spotify.com/album/3rzin0QPEuq4EZXmSQd4nK) | 3:35 | 2021-11-26 |  |
+| [RILI RILI](https://open.spotify.com/track/1J48l5Y8USDVLR5uBfFZ5l) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:19 | 2022-05-10 |  |
 | [Román](https://open.spotify.com/track/3dZgq59mteQDkpsj9rFF7O) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Román](https://open.spotify.com/album/3xfN6Yf5GGJsn3yEaoNnWh) | 3:58 | 2022-04-11 |  |
 | [Rubíes Rubios Vol\. 02](https://open.spotify.com/track/36csr9jNjoqz53hwAvTCVZ) | [RepliK](https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch) | [Rubíes Rubios Vol\. 02](https://open.spotify.com/album/7s1QehRZl7zWNKl5J84fcv) | 1:41 | 2021-11-26 |  |
 | [Runaway](https://open.spotify.com/track/1W7z3gxk8bWS4p1GAkFnVL) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Runaway](https://open.spotify.com/album/79hULYKlcPDuCB7O3GLjs4) | 2:31 | 2021-11-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > Thom Yorke, Jonny Greenwood, and Tom Skinner are <a href="spotify:artist:6styCzc1Ej4NxISL0LiigM">The Smile</a>\. Here, Tom Skinner shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,942 likes - 53 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,328 likes - 53 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

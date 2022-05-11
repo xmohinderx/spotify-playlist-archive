@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 202683,
       "name": "1, 2",
       "url": "https://open.spotify.com/track/5L2dStRrWW1jXst2aBPSa5"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 204613,
       "name": "Beautiful Mint Life",
       "url": "https://open.spotify.com/track/7qKkB9oyLR3af8C17eFkqP"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 238250,
       "name": "For Some Reason \uc660\uc9c0 \uadf8\ub0e5",
       "url": "https://open.spotify.com/track/4b4pXJlphTv6xkOAhnSCgY"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 217129,
       "name": "Friday (feat.Jang Yi-jeong)",
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 192500,
       "name": "I See You",
       "url": "https://open.spotify.com/track/3ykkBOfFlZrIqgxn6aoLya"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 228226,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6aULghOfvWw67SrLrpgCDG"
@@ -1467,7 +1467,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 244451,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 210133,
       "name": "Love Encore (with Lee Sora)",
       "url": "https://open.spotify.com/track/3aOfUJ7IUbVDa3X5pAshOv"
@@ -2101,7 +2101,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 270986,
       "name": "Seperation in the daytime",
       "url": "https://open.spotify.com/track/4R06C6ucEHnDv1MvVdc5ql"
@@ -2511,7 +2511,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 178966,
       "name": "Tea time (Feat. 10CM)",
       "url": "https://open.spotify.com/track/3JISGU3qHjPaBdWSh6ZJdq"
@@ -2599,7 +2599,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 266266,
       "name": "The night I drew you",
       "url": "https://open.spotify.com/track/27eU3lE6mbGK0GKqhypHH0"
@@ -2797,7 +2797,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 189920,
       "name": "Troll (Feat. DEAN)",
       "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
@@ -3003,7 +3003,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 242837,
       "name": "When You Fall",
       "url": "https://open.spotify.com/track/615AGw524AbNzTWUjHwXpO"
@@ -3160,6 +3160,28 @@
     },
     {
       "album": {
+        "name": "You, Who?",
+        "url": "https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219330,
+      "name": "You, Who?",
+      "url": "https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1"
+    },
+    {
+      "album": {
         "name": "Your Scent (feat. Kim Min Ki)",
         "url": "https://open.spotify.com/album/2BCQe1hxo8uwyOpjdl1FdM"
       },
@@ -3307,7 +3329,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 219106,
       "name": "\uc78a\uc5b4\ubc84\ub9ac\uc9c0\ub9c8 Don't Forget (feat. \ud0dc\uc5f0 Taeyeon)",
       "url": "https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB"
@@ -3325,7 +3347,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 228773,
       "name": "\ucee4\ud53c\ub97c \ub9c8\uc2dc\uace0 Coffee - Reprise",
       "url": "https://open.spotify.com/track/3PX5Hkkhh4da6Sntk3LwYo"

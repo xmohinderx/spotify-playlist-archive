@@ -4,7 +4,7 @@
 
 > Set the tone for your date night with cozy jazz.
 
-116 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
+118 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2021-12-14 |  |
 | [As Long as He Needs Me](https://open.spotify.com/track/7Exg33sywNNAv8XgFt6oUj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:55 | 2022-04-07 |  |
 | [Asleep in Your Arms](https://open.spotify.com/track/5bEppYZOTIQJdaMzlj22oD) | [Nicole Liszt](https://open.spotify.com/artist/0QVlsTqltexiZ9srOHCPpy) | [Asleep in Your Arms](https://open.spotify.com/album/46MSWf8DryzZIMsAYHPD4h) | 3:51 | 2021-12-14 |  |
+| [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-10 |  |
 | [Beneath The Pale Moonlight](https://open.spotify.com/track/0Cw4AgG0dPKJKO0oT6xOr9) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Beneath The Pale Moonlight](https://open.spotify.com/album/1I3u82aRiglXALaR2FmcGP) | 4:11 | 2021-12-14 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2aROA14wjchRPpxJMrhzKm) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 5:58 | 2021-12-14 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/2H2rKP4bEBgT5Y7LMuIF3w) | [David Clough Quartet](https://open.spotify.com/artist/7sBV16McZ6qZy9O78hGbNG) | [My Favorite Things](https://open.spotify.com/album/28283G5mmwjrwg9RKnukIK) | 5:58 | 2021-12-14 |  |
@@ -70,10 +71,11 @@
 | [Make It Last](https://open.spotify.com/track/4c1ZinOfQQeWkkDgAb9Jh3) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Make It Last](https://open.spotify.com/album/0SLUNa64lFa7Bb5SN76jRX) | 4:41 | 2022-04-07 |  |
 | [Maybe We'll Meet Again](https://open.spotify.com/track/2ghcpXt1t7oQfHcF5hUBP2) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Maybe We'll Meet Again](https://open.spotify.com/album/5jlgTkBJTWhoO3BdPsThlW) | 3:37 | 2021-12-14 |  |
 | [Midnight Sun](https://open.spotify.com/track/0cGfdxEwfJIcpcDgG5EEGM) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Like Someone In Love](https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP) | 3:58 | 2022-02-10 |  |
+| [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-05-10 |  |
 | [Moon River \- Live](https://open.spotify.com/track/6SP8PT3BiZnnkv4zrxvD13) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 2: Live at the Village Vanguard](https://open.spotify.com/album/3gAmnTrafv3RJ8UcIvTKfe) | 10:51 | 2021-12-14 |  |
 | [Moon Song](https://open.spotify.com/track/6iaE1tdPPx5KILayeCMOBl) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 3:04 | 2022-04-07 |  |
 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 | 2021-12-14 |  |
-| [My One And Only Love](https://open.spotify.com/track/1n2TLZb9zziMtg7loNQO7P) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Gently With Nelson](https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG) | 3:15 | 2022-01-26 |  |
+| [My One And Only Love](https://open.spotify.com/track/1n2TLZb9zziMtg7loNQO7P) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Gently With Nelson](https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG) | 3:15 | 2022-01-26 | 2022-05-11 |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2021-12-14 |  |
 | [My Simple Thing](https://open.spotify.com/track/4uP9aFwUv5lMNOlh6mKuNM) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:01 | 2021-12-14 | 2022-03-18 |
 | [My Sin](https://open.spotify.com/track/0koDMs8UdD2MbXoDhIeQiv) | [Hank Mobley Quartet](https://open.spotify.com/artist/2mj87Vh1LRzlJ9NeEZ6jkQ) | [Hank Mobley Quartet](https://open.spotify.com/album/4RyagozbMjdxY3OYsQFkC7) | 3:47 | 2021-12-14 |  |
@@ -115,7 +117,7 @@
 | [What The Heart Wants](https://open.spotify.com/track/3REyVyWHPHPKQueGFnCYay) | [Vincent Hall Trio](https://open.spotify.com/artist/0INrFdPtyCkB0oyaxbvKLb) | [What The Heart Wants](https://open.spotify.com/album/4kiOZP3cb4a3mg6ZxhJA3R) | 2:01 | 2021-12-14 |  |
 | [When I Fall In Love](https://open.spotify.com/track/3BE04lCBfY9gJuBNmsxNvg) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 4:59 | 2022-04-28 |  |
 | [When I Fall In Love](https://open.spotify.com/track/0w7mhiHnM0rhdu3l5mDDYl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:57 | 2021-12-14 | 2022-04-29 |
-| [When Sunny Gets Blue](https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Before You Leave](https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf) | 3:59 | 2021-12-14 |  |
+| [When Sunny Gets Blue](https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Before You Leave](https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf) | 3:59 | 2021-12-14 | 2022-05-11 |
 | [Where Are You? \- Rudy Van Gelder Edition](https://open.spotify.com/track/5OiS6Qse8ZY9jJ5CTwO9Yx) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:21 | 2021-12-14 |  |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2021-12-14 |  |
 | [Windless Days](https://open.spotify.com/track/0Bybo3KobzGTREyK3gndqc) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Straight Forward](https://open.spotify.com/album/6KR1QN0SNpmZZ0swzHR8ZZ) | 2:48 | 2021-12-14 | 2022-01-06 |

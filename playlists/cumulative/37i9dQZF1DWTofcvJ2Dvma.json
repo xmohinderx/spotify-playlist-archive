@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/0ZF8X8SXSopzTZ6OQiEpWf"
+      },
+      "artists": [
+        {
+          "name": "Lightbulb Tree",
+          "url": "https://open.spotify.com/artist/4LMsGOs4gFjRWq8cWbKMkr"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/7stXnc2bWzjvU7yQR42frD"
+    },
+    {
+      "album": {
         "name": "Banana Boat",
         "url": "https://open.spotify.com/album/3rp44tCPnWNyeIOVY8lI8W"
       },
@@ -556,6 +574,42 @@
     },
     {
       "album": {
+        "name": "Derivatives",
+        "url": "https://open.spotify.com/album/2n76Xn4O2yRFQT9Lmm4Nsx"
+      },
+      "artists": [
+        {
+          "name": "Random Dinu",
+          "url": "https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140714,
+      "name": "Derivatives",
+      "url": "https://open.spotify.com/track/5BNPTeFntNBWhwchJkrMwi"
+    },
+    {
+      "album": {
+        "name": "Despertar al Sol",
+        "url": "https://open.spotify.com/album/1X499n1XH8hjUAN4L7H7cm"
+      },
+      "artists": [
+        {
+          "name": "Ralf",
+          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115862,
+      "name": "Despertar al Sol",
+      "url": "https://open.spotify.com/track/3NFL1h0KgrVb67DtM8dKFv"
+    },
+    {
+      "album": {
         "name": "Disambiguation",
         "url": "https://open.spotify.com/album/7ynyq1hgQwmywvJNVFJdhx"
       },
@@ -747,7 +801,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 185454,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6bWohy0oM550MR6phDoSAc"
@@ -1269,7 +1323,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 208000,
       "name": "Kusanagi",
       "url": "https://open.spotify.com/track/3i2Q3cFdFzJ39nV9sAt3Pc"
@@ -2037,7 +2091,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 236249,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/7jybpMVEBsO0onHoe6FVHq"
@@ -2585,7 +2639,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 200811,
       "name": "The Californias",
       "url": "https://open.spotify.com/track/7B7uZ7qiReJ8XoykEcKFk6"

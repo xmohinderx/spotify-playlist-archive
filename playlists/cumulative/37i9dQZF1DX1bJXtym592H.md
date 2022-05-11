@@ -4,7 +4,7 @@
 
 > n3xt l3v3l beats.
 
-123 songs - 5 hr 5 min - not published yet
+123 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

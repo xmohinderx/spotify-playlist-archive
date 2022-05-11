@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 613026,
       "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 81732,
       "name": "Ang Presidente Bise Presidente",
       "url": "https://open.spotify.com/track/74cB0AlVMZEqN7h7MY6bK9"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -3640,6 +3640,32 @@
     },
     {
       "album": {
+        "name": "Kay Leni Tayo",
+        "url": "https://open.spotify.com/album/1nFUv6qsIezDnBzWumZ2ER"
+      },
+      "artists": [
+        {
+          "name": "Nica del Rosario",
+          "url": "https://open.spotify.com/artist/2zgF783l4A3tMjr081z1wt"
+        },
+        {
+          "name": "Jeli Mateo",
+          "url": "https://open.spotify.com/artist/1utUsJuiFDlsS8p7rROXaw"
+        },
+        {
+          "name": "Justine Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/1FoK14ZJHe7ltFQy1iCaSS"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Kay Leni Tayo",
+      "url": "https://open.spotify.com/track/2HWV9j2xDQ0hXgzyvildem"
+    },
+    {
+      "album": {
         "name": "Thyro & Yumi",
         "url": "https://open.spotify.com/album/2LYmVp9WBKnBIgStuk99cr"
       },
@@ -4065,6 +4091,24 @@
       "duration_ms": 249586,
       "name": "Line Without a Hook",
       "url": "https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv"
+    },
+    {
+      "album": {
+        "name": "Liwanag sa Dilim",
+        "url": "https://open.spotify.com/album/2pWBJtKyB6dNN4hm0F9mtT"
+      },
+      "artists": [
+        {
+          "name": "Yeng Constantino",
+          "url": "https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Liwanag sa Dilim",
+      "url": "https://open.spotify.com/track/6XtbVPD5xRi6qydSh4ovej"
     },
     {
       "album": {
@@ -4879,6 +4923,24 @@
       "duration_ms": 240906,
       "name": "ONLY",
       "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
+    },
+    {
+      "album": {
+        "name": "Only The Young (Featured in Miss Americana)",
+        "url": "https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157507,
+      "name": "Only The Young - Featured in Miss Americana",
+      "url": "https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC"
     },
     {
       "album": {
@@ -7489,7 +7551,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 220433,
       "name": "Wildest Dreams (Taylor's Version)",
       "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"

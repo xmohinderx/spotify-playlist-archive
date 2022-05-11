@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 70s rock!",
   "name": "Deep Dive: 70s Rock",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0MQTjD16oHAcLkC8Pt5QWL"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 250506,
       "name": "(Find A) Reason To Believe",
       "url": "https://open.spotify.com/track/3rGuoVKM5CwEo7eHyeXYIB"
@@ -42,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "100 Years Ago - Remastered",
+      "url": "https://open.spotify.com/track/58TvHfaC4Hvf8IfkxT9BFq"
+    },
+    {
+      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
       },
@@ -53,7 +73,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 202266,
       "name": "100,000 Years",
       "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
@@ -107,7 +127,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 233413,
       "name": "48 Crash",
       "url": "https://open.spotify.com/track/5DPVU9xTKDC2CizYp5WXT2"
@@ -143,7 +163,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 316053,
       "name": "99",
       "url": "https://open.spotify.com/track/2R3E4xKmy7lyieBKONkIMT"
@@ -204,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137066,
+      "name": "Accuracy",
+      "url": "https://open.spotify.com/track/2hqRpEdHuGlnTpJyfHZEAF"
+    },
+    {
+      "album": {
         "name": "Action! The Ultimate Story",
         "url": "https://open.spotify.com/album/1jEk0k3VNGLcezveTCUFfU"
       },
@@ -233,7 +271,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 396360,
       "name": "Ain't It Strange",
       "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ"
@@ -269,7 +307,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 278933,
       "name": "Airport",
       "url": "https://open.spotify.com/track/6F0CQMioZrqgkp3oHx4hpY"
@@ -291,6 +329,24 @@
       "duration_ms": 256533,
       "name": "All I Can Do Is Write About It",
       "url": "https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc"
+    },
+    {
+      "album": {
+        "name": "Suzi Quatro",
+        "url": "https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/0we3Dc7RJzORAX1U4E5sF0"
     },
     {
       "album": {
@@ -341,7 +397,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 297520,
       "name": "Always Somewhere - 2015 Remaster",
       "url": "https://open.spotify.com/track/3EYLxYSyCO4fsIIz79rW9z"
@@ -384,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Heroes Are Hard to Find",
+        "url": "https://open.spotify.com/album/2ISNpwmh12Nf2420YUQcNE"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234560,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7bmHC8ddqtVnPOM5vyFBGw"
+    },
+    {
+      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -413,7 +487,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 184186,
       "name": "Angel From The Coast",
       "url": "https://open.spotify.com/track/7elItf8OyvfFHt6tfDjy1a"
@@ -557,7 +631,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 210826,
       "name": "Baby Hold On",
       "url": "https://open.spotify.com/track/5ZYvcJ04ccUw2Matbnmu0U"
@@ -593,7 +667,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 155186,
       "name": "Babylon's Burning",
       "url": "https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa"
@@ -647,7 +721,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 218167,
       "name": "Backstreet Luv",
       "url": "https://open.spotify.com/track/3KHAmvnxOlkVOiELYW4KG9"
@@ -665,7 +739,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 238146,
       "name": "Bad Bad Boy",
       "url": "https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD"
@@ -719,7 +793,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 228373,
       "name": "Ballad Of Sir Frankie Crisp (Let It Roll) - Remastered 2014",
       "url": "https://open.spotify.com/track/0sX4OzAtIubFc4s9y5KrB7"
@@ -791,7 +865,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 200960,
       "name": "Barrytown",
       "url": "https://open.spotify.com/track/53GpNOI1Qe1tx0p6CROgwx"
@@ -906,6 +980,24 @@
     },
     {
       "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553653,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/4UcCvuacrweynfWohap8NR"
+    },
+    {
+      "album": {
         "name": "Sticky Fingers (Deluxe)",
         "url": "https://open.spotify.com/album/5t59EkgjG0CEwuiCCQRkOj"
       },
@@ -989,7 +1081,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 273066,
       "name": "Blackmail",
       "url": "https://open.spotify.com/track/5J82Xmm1hLcoEhm3volpKr"
@@ -1169,7 +1261,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 183373,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/4kU7cIlf4FDrWrs99AcaWS"
@@ -1295,7 +1387,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 330520,
       "name": "Buffalo Gal",
       "url": "https://open.spotify.com/track/7KeNBviLxyKCE63bGFUOUL"
@@ -1313,7 +1405,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 210333,
       "name": "Burning Bridges - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/5PZ6xy3VXUYW4UNGT6JG61"
@@ -1511,7 +1603,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 218466,
       "name": "Change Of The Guard",
       "url": "https://open.spotify.com/track/4nXetPzsp0cG4HAgBW7dXW"
@@ -1587,7 +1679,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 308927,
       "name": "China Girl",
       "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
@@ -1641,7 +1733,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 189665,
       "name": "Come To Poppa",
       "url": "https://open.spotify.com/track/0IHpdWuBRfCMgQxEF2EnDF"
@@ -1713,7 +1805,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 176800,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey"
@@ -1803,7 +1895,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 311053,
       "name": "Crystal - 2017 Remaster",
       "url": "https://open.spotify.com/track/4mPHXe0GwQM24wpLa64mjY"
@@ -1857,7 +1949,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 137400,
       "name": "Dance, Dance, Dance",
       "url": "https://open.spotify.com/track/3Cje5qSSw9R70tzjIW9H7L"
@@ -1911,7 +2003,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 292360,
       "name": "Dancing With Mr. D",
       "url": "https://open.spotify.com/track/1o1pQLvKMNqkeLYWGrlA4d"
@@ -1947,7 +2039,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 354933,
       "name": "Davy's on the Road Again",
       "url": "https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU"
@@ -2001,10 +2093,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 160906,
       "name": "Dear Angie - Remastered 2010",
       "url": "https://open.spotify.com/track/54qG9hpUjLgkgTJQ9qvB1P"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251960,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/4i3SC58kB65zfKo1oOW1q9"
     },
     {
       "album": {
@@ -2091,7 +2201,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 229640,
       "name": "Dirty Water",
       "url": "https://open.spotify.com/track/38li6mdTZikCk7OYglPaZS"
@@ -2163,7 +2273,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 249213,
       "name": "Doing Alright - Remastered 2011",
       "url": "https://open.spotify.com/track/6PT7wUJefYPEU1lX1lcLRJ"
@@ -2361,7 +2471,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 384906,
       "name": "Dream Baby Dream",
       "url": "https://open.spotify.com/track/3MmogIpfk1GVXRMmRjKLGI"
@@ -2379,7 +2489,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 188426,
       "name": "Dreaming - Remastered",
       "url": "https://open.spotify.com/track/3W0xbvrZqaao3ZZEDhVQ0r"
@@ -2451,7 +2561,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 248040,
       "name": "Elected",
       "url": "https://open.spotify.com/track/6avV0X27a8FKFbX8JOdHbc"
@@ -2487,7 +2597,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 214973,
       "name": "Emerald Eyes",
       "url": "https://open.spotify.com/track/4GspmdJjNjZKCHtjJ0fWxb"
@@ -2577,7 +2687,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 190493,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/5qgGXHf4yXNk2Z1LzMQDCh"
@@ -2631,7 +2741,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 242440,
       "name": "Fade Away And Radiate - Remastered",
       "url": "https://open.spotify.com/track/22zuU1mdLQPx6N69jUS0NT"
@@ -2685,7 +2795,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 224706,
       "name": "Feel Like A Number",
       "url": "https://open.spotify.com/track/2QhqWCo5oODaEJUs2iwysz"
@@ -2973,7 +3083,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 232040,
       "name": "Free Money",
       "url": "https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La"
@@ -3279,7 +3389,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 229253,
       "name": "Glycerine Queen",
       "url": "https://open.spotify.com/track/4afiT3hIHlKOb7HvPs6qIu"
@@ -3297,7 +3407,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 216733,
       "name": "Goin' Blind",
       "url": "https://open.spotify.com/track/2Kgabuiyu24mw1tVcFjHh3"
@@ -3351,7 +3461,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 295626,
       "name": "Gold Dust Woman - 2004 Remaster",
       "url": "https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx"
@@ -3405,7 +3515,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 342880,
       "name": "Great King Rat - Remastered 2011",
       "url": "https://open.spotify.com/track/385Urz8Qa8CIcK9tl3SA8g"
@@ -3657,7 +3767,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 144938,
       "name": "Hey Julia",
       "url": "https://open.spotify.com/track/4qgKRG22UoHNq7S85wFwfy"
@@ -3765,7 +3875,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 192261,
       "name": "Hocus Pocus - Original Single Version",
       "url": "https://open.spotify.com/track/1IuUe3A7EfJmvZH3EljtwR"
@@ -3862,6 +3972,24 @@
     },
     {
       "album": {
+        "name": "Suzi\u2026 and Other Four Letter Words (2017 Remaster)",
+        "url": "https://open.spotify.com/album/6ThmBI6KgEM3KyvcLRJL0t"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180142,
+      "name": "Hollywood - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2EABza7IILW2FaK91vP7Yf"
+    },
+    {
+      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -3916,6 +4044,24 @@
     },
     {
       "album": {
+        "name": "Hotter Than Hell",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Hotter Than Hell",
+      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
+    },
+    {
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -3927,7 +4073,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 226280,
       "name": "How? - Remastered 2010",
       "url": "https://open.spotify.com/track/4k9pqSKBHYdTGjzNeRyQ0o"
@@ -3981,7 +4127,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 226224,
       "name": "I Bit off More Than I Could Chew - 2017 Remaster",
       "url": "https://open.spotify.com/track/6w6Dqgv6zFPzlRPR8tIveN"
@@ -3999,7 +4145,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 196106,
       "name": "I Get By",
       "url": "https://open.spotify.com/track/16Y9fKPEa7SQ5lZojVuNcO"
@@ -4143,7 +4289,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 224600,
       "name": "I Never Cry",
       "url": "https://open.spotify.com/track/7y5mfSJLUmPYmrI5hcCWnT"
@@ -4161,7 +4307,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "I Think I'm Going To Kill Myself",
       "url": "https://open.spotify.com/track/4q7tMaar2kUMweKu6N5bZz"
@@ -4298,6 +4444,24 @@
     },
     {
       "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288066,
+      "name": "I've Seen The Saucers",
+      "url": "https://open.spotify.com/track/15FemTRww0eSTvhcAH2Lu3"
+    },
+    {
+      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -4327,7 +4491,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 245844,
       "name": "If Everyone Was Listening - Remastered 2010",
       "url": "https://open.spotify.com/track/5Ps2MwjlktaXJ49KrY7L5y"
@@ -4345,7 +4509,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 232994,
       "name": "If You Can't Give Me Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/59mUgn4E4DWcB2lh5oRG2I"
@@ -4551,7 +4715,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 165240,
       "name": "Is It Day Or Night?",
       "url": "https://open.spotify.com/track/1KlGMvdrwAks29kzrqMZd3"
@@ -4821,7 +4985,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 187600,
       "name": "Jungle Love",
       "url": "https://open.spotify.com/track/1EuqRlDP9RuzeCRVcjr1PY"
@@ -4983,7 +5147,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 177680,
       "name": "Lady",
       "url": "https://open.spotify.com/track/1wpRglLhQ092N1rftlDMD3"
@@ -5037,7 +5201,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 196453,
       "name": "Late Again",
       "url": "https://open.spotify.com/track/3OXpLyn8M0fbUBvnyhxF6I"
@@ -5091,7 +5255,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 179333,
       "name": "Lean Woman Blues",
       "url": "https://open.spotify.com/track/3UXdsBvMjXNNlugyTSz3IJ"
@@ -5181,7 +5345,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 183413,
       "name": "Liar",
       "url": "https://open.spotify.com/track/40dA0KKRhOQW6zrvqueog0"
@@ -5217,7 +5381,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 284466,
       "name": "Life Is A Minestrone",
       "url": "https://open.spotify.com/track/7zOA2G5QfADpx83SfYGsKd"
@@ -5242,6 +5406,24 @@
     },
     {
       "album": {
+        "name": "Bolan's Zip Gun",
+        "url": "https://open.spotify.com/album/36bAQQ2JzghzefFIREDFBy"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Light Of Love",
+      "url": "https://open.spotify.com/track/4hoJkNs20zi3rvUkYmY57m"
+    },
+    {
+      "album": {
         "name": "A Tonic For The Troops",
         "url": "https://open.spotify.com/album/2meIZ6h6faEEjkN9vw9HnV"
       },
@@ -5253,7 +5435,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 223186,
       "name": "Like Clockwork",
       "url": "https://open.spotify.com/track/64hsFEXIjs8489ukHxN1OE"
@@ -5289,7 +5471,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 241400,
       "name": "Listen To What The Man Said - 1993 Digital Remaster",
       "url": "https://open.spotify.com/track/2Ri2AwoGX3yllyllN5gy9g"
@@ -5307,7 +5489,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 154599,
       "name": "Little Bit Of Love",
       "url": "https://open.spotify.com/track/3BmK7l5cxeBR1s8OjNWweO"
@@ -5325,7 +5507,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 383826,
       "name": "Little Lamb Dragonfly - 2018 Remaster",
       "url": "https://open.spotify.com/track/6i8HbwoCqcH3GtUvL3YyuE"
@@ -5361,7 +5543,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 191733,
       "name": "Little Willy",
       "url": "https://open.spotify.com/track/0LeD6QVRuG43ruqfT6y7NJ"
@@ -5415,7 +5597,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 175573,
       "name": "Look Good In Blue - Remastered",
       "url": "https://open.spotify.com/track/7DQ8V8n88n3f48BxJvG4I8"
@@ -5541,7 +5723,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 257173,
       "name": "Love Hungry Man",
       "url": "https://open.spotify.com/track/1Kbc8nH6BhsWnTuM22qypl"
@@ -5656,6 +5838,24 @@
     },
     {
       "album": {
+        "name": "The Grand Illusion",
+        "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350866,
+      "name": "Man In The Wilderness",
+      "url": "https://open.spotify.com/track/0hxHatHRsTDFNZ2Ruw47n3"
+    },
+    {
+      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -5728,6 +5928,24 @@
     },
     {
       "album": {
+        "name": "Thirds",
+        "url": "https://open.spotify.com/album/0QoD6z28TltvI4pVY4bEGl"
+      },
+      "artists": [
+        {
+          "name": "James Gang",
+          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209093,
+      "name": "Midnight Man",
+      "url": "https://open.spotify.com/track/3jWeD82HOwB25ub77Qguvv"
+    },
+    {
+      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
       },
@@ -5761,6 +5979,24 @@
       "duration_ms": 280466,
       "name": "Might Just Take Your Life - Remastered 2004",
       "url": "https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8"
+    },
+    {
+      "album": {
+        "name": "The Grand Illusion",
+        "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302160,
+      "name": "Miss America",
+      "url": "https://open.spotify.com/track/2UpMxlf6h57UsAU77G172s"
     },
     {
       "album": {
@@ -5829,7 +6065,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 168520,
       "name": "Monday Morning - 2017 Remaster",
       "url": "https://open.spotify.com/track/5tHe4P0tNgFLG4xoEWucUq"
@@ -5905,6 +6141,24 @@
       "duration_ms": 357200,
       "name": "Moonlight Mile - 2009 Mix",
       "url": "https://open.spotify.com/track/0EUuG4wkH0vykpWQJxbDtl"
+    },
+    {
+      "album": {
+        "name": "15 Classic Tracks: Mud",
+        "url": "https://open.spotify.com/album/3LLikLI6t1Wh8zXiQ56OvU"
+      },
+      "artists": [
+        {
+          "name": "Mud",
+          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201560,
+      "name": "Moonshine Sally",
+      "url": "https://open.spotify.com/track/68AHScwgPtIxHOZnljOTZ3"
     },
     {
       "album": {
@@ -6071,7 +6325,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 321160,
       "name": "Name Of The Game - Remastered 2010",
       "url": "https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw"
@@ -6161,7 +6415,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 171973,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/7HjipY3Vy2HAN11D2juKHT"
@@ -6305,7 +6559,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 275173,
       "name": "No You Don't",
       "url": "https://open.spotify.com/track/0pNbyM1U5aP3HaeeDSc4h2"
@@ -6395,7 +6649,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 179613,
       "name": "Oliver's Army",
       "url": "https://open.spotify.com/track/1GIV1YzfuFzYAoUjwx3r7W"
@@ -6438,6 +6692,24 @@
     },
     {
       "album": {
+        "name": "Just A Boy",
+        "url": "https://open.spotify.com/album/4vXVoCh0BDXrOLNdYUusPL"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "One Man Band",
+      "url": "https://open.spotify.com/track/7K7ZIvwUpMZ2H6eOVpWhwq"
+    },
+    {
+      "album": {
         "name": "Street Survivors",
         "url": "https://open.spotify.com/album/5sG6jJxaUEt2sAjP4HzELy"
       },
@@ -6449,7 +6721,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 303626,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/2YvsGKyrVEroDZevEMIWKH"
@@ -6557,7 +6829,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 182093,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz"
@@ -6683,7 +6955,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 303894,
       "name": "Pictures Of Home - Remastered 2012",
       "url": "https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp"
@@ -6723,6 +6995,24 @@
       "duration_ms": 292666,
       "name": "Pissing In a River",
       "url": "https://open.spotify.com/track/5UYo2NoLUzBlP09NGJRGsc"
+    },
+    {
+      "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Planet Queen",
+      "url": "https://open.spotify.com/track/2aVrHU8xjnz6twRNPf7zpS"
     },
     {
       "album": {
@@ -6863,7 +7153,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 238440,
       "name": "Prove Your Love",
       "url": "https://open.spotify.com/track/3pBhwoTMCPIsS0q7v1BPRe"
@@ -6899,7 +7189,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Radancer",
       "url": "https://open.spotify.com/track/0CpP2VQHK5HcxXtUzzOjiB"
@@ -6921,7 +7211,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 255266,
       "name": "Railroad Song",
       "url": "https://open.spotify.com/track/5tTVQLUw5HJJHt58MifwQS"
@@ -7101,7 +7391,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 303666,
       "name": "Rock 'N' Roll Singer",
       "url": "https://open.spotify.com/track/65Wa8Fu1ASV3B0dz2vwKNQ"
@@ -7159,6 +7449,24 @@
       "duration_ms": 303266,
       "name": "Rock Is My Life, And This Is My Song",
       "url": "https://open.spotify.com/track/5yuYuUrB6x4cWMfcyfU1hG"
+    },
+    {
+      "album": {
+        "name": "The Runaways",
+        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
+      },
+      "artists": [
+        {
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196826,
+      "name": "Rock N Roll",
+      "url": "https://open.spotify.com/track/5dfDYizNZT5aL99pOxkRDC"
     },
     {
       "album": {
@@ -7227,7 +7535,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 241226,
       "name": "Rockin' Into The Night",
       "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
@@ -7263,7 +7571,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 237800,
       "name": "Roll On Down The Highway",
       "url": "https://open.spotify.com/track/05mzctclS0ZqqTLEiDIGkt"
@@ -7281,7 +7589,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 234920,
       "name": "Romeo And The Lonely Girl",
       "url": "https://open.spotify.com/track/6KqIjAkxFmCCMrjFJJJFve"
@@ -7299,7 +7607,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 181333,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/1wefTHpKzebYTQXUtZhSKD"
@@ -7321,6 +7629,24 @@
       "duration_ms": 176600,
       "name": "Rosalie",
       "url": "https://open.spotify.com/track/09xbhnZy04ek1kpq3SgHYi"
+    },
+    {
+      "album": {
+        "name": "Katy Lied",
+        "url": "https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184066,
+      "name": "Rose Darling",
+      "url": "https://open.spotify.com/track/1lTtGfA7i6Ky3ABHj4Z5xK"
     },
     {
       "album": {
@@ -7533,7 +7859,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 177574,
       "name": "Searching for a Place to Hide",
       "url": "https://open.spotify.com/track/3PCnZAnZ4bqbGVxyRqX5w7"
@@ -7749,7 +8075,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 203279,
       "name": "Ship Of Fools",
       "url": "https://open.spotify.com/track/5eyQT4AgA02K3ciYxjKZZV"
@@ -7771,6 +8097,24 @@
       "duration_ms": 226773,
       "name": "Shock Me",
       "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "Shot Down in Flames",
+      "url": "https://open.spotify.com/track/6pivm7pNF4GyBkHNGseHCS"
     },
     {
       "album": {
@@ -7821,7 +8165,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 331626,
       "name": "Sister Morphine - 2009 Mix",
       "url": "https://open.spotify.com/track/1XaL1OWGibGlPqLUW9MnCX"
@@ -7965,7 +8309,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 140066,
       "name": "Solid Gold Easy Action",
       "url": "https://open.spotify.com/track/5yxYokipsWlpDCt4Th4VVc"
@@ -7983,7 +8327,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 276933,
       "name": "Some Girls - Remastered",
       "url": "https://open.spotify.com/track/3pQXptTkIkOQsK3pyYlRbJ"
@@ -8163,7 +8507,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 227413,
       "name": "Spare Me a Little of Your Love",
       "url": "https://open.spotify.com/track/7dA6rEo6vRO9SfXxE9xk5S"
@@ -8379,7 +8723,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 247169,
       "name": "Suicide - 2017 Remaster",
       "url": "https://open.spotify.com/track/7fmotnvM11sRgT51enbfqG"
@@ -8455,7 +8799,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 211093,
       "name": "Swamp Music",
       "url": "https://open.spotify.com/track/17jdqGUsxfqm9n2HnbWSYq"
@@ -8480,6 +8824,24 @@
     },
     {
       "album": {
+        "name": "Rewind the 70s - Volume 2",
+        "url": "https://open.spotify.com/album/1zIYkabmjvLqvayckAYBfC"
+      },
+      "artists": [
+        {
+          "name": "Wadsworth Mansion",
+          "url": "https://open.spotify.com/artist/7Ms7NbAd3ltqXbU11HiRMH"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171533,
+      "name": "Sweet Mary",
+      "url": "https://open.spotify.com/track/2MtvFTVy5qjzKe6ytzfcBv"
+    },
+    {
+      "album": {
         "name": "Exile On Main Street (2010 Re-Mastered)",
         "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
       },
@@ -8498,6 +8860,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits 1974-78",
+        "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Swingtown",
+      "url": "https://open.spotify.com/track/4F01HOLdVKrIfH6LwOi07f"
+    },
+    {
+      "album": {
         "name": "Straight Up (Remastered 2010 / Deluxe Edition)",
         "url": "https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc"
       },
@@ -8509,7 +8889,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 267720,
       "name": "Take It All - Remastered 2010",
       "url": "https://open.spotify.com/track/0y6mhgH8GPKn7cb2xYFuE3"
@@ -8527,7 +8907,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 287090,
       "name": "Take It to the Limit - 2013 Remaster",
       "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
@@ -8635,7 +9015,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 339693,
       "name": "Tend My Garden",
       "url": "https://open.spotify.com/track/68IuBqyVzRWKEfXf1twJl0"
@@ -8779,7 +9159,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 237560,
       "name": "The Eton Rifles",
       "url": "https://open.spotify.com/track/39PU2z9LesM4HRvD6zY1Tg"
@@ -8873,7 +9253,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 277133,
       "name": "The Grand Illusion",
       "url": "https://open.spotify.com/track/0FFdCFGfmtqVaHTBYXybkx"
@@ -9003,7 +9383,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 295333,
       "name": "The Millionaire Waltz - Remastered 2011",
       "url": "https://open.spotify.com/track/4byYaWrhnyZO5hujb3Qx53"
@@ -9021,7 +9401,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 236533,
       "name": "The Motivator",
       "url": "https://open.spotify.com/track/2x2IVCB3DeD9ZqpktAHWDV"
@@ -9237,10 +9617,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 253973,
       "name": "The WASP (Texas Radio and the Big Beat)",
       "url": "https://open.spotify.com/track/6ieXnWm8uineF8k9Ugn5DG"
+    },
+    {
+      "album": {
+        "name": "Quatro",
+        "url": "https://open.spotify.com/album/7fYxOhT8bTHJ2AE8Om4kTy"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171826,
+      "name": "The Wild One - Single Version",
+      "url": "https://open.spotify.com/track/4upv1CF2L81mccpBlHB7KZ"
     },
     {
       "album": {
@@ -9309,7 +9707,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 258626,
       "name": "Things I Could Be",
       "url": "https://open.spotify.com/track/3PC3bIYidHlGiNblUzwpyp"
@@ -9388,6 +9786,24 @@
     },
     {
       "album": {
+        "name": "A's, B's And Rarities",
+        "url": "https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW"
+      },
+      "artists": [
+        {
+          "name": "Mud",
+          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230413,
+      "name": "Tiger Feet",
+      "url": "https://open.spotify.com/track/0JTexNTWFuNLw4U5TDnUYj"
+    },
+    {
+      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -9435,7 +9851,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 212249,
       "name": "Tired of Waiting - 2017 Remaster",
       "url": "https://open.spotify.com/track/6BKjWm5r1TvRVFV5eFdBAD"
@@ -9489,7 +9905,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 216693,
       "name": "Train, Train",
       "url": "https://open.spotify.com/track/5bSpsKGoGKXOOfg7F3ZtKz"
@@ -9525,7 +9941,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 287706,
       "name": "Trick Of The Light",
       "url": "https://open.spotify.com/track/5dqvDn65QLD18Q99LZ11hN"
@@ -9669,7 +10085,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 229026,
       "name": "Venus",
       "url": "https://open.spotify.com/track/3x0iCzjgf0v9lnwvAhU9P2"
@@ -9759,7 +10175,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 310000,
       "name": "Walk All Over You",
       "url": "https://open.spotify.com/track/5xquYn2sr3uEcyuKU9BmCJ"
@@ -9889,7 +10305,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 255333,
       "name": "Whiskey Rock-A-Roller",
       "url": "https://open.spotify.com/track/1QoKN0d8DqFvPLp8FaBp0I"
@@ -9943,7 +10359,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 116440,
       "name": "White Riot - Remastered",
       "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
@@ -9961,7 +10377,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 186853,
       "name": "Who Needs You - Remastered 2011",
       "url": "https://open.spotify.com/track/02lvTeAFIIsOd0wVNoRkQ5"
@@ -10033,7 +10449,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 289973,
       "name": "Wild Mountain Honey",
       "url": "https://open.spotify.com/track/6lELCr5OEudkNijuNqm14G"
@@ -10069,7 +10485,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 280746,
       "name": "Wild West Hero",
       "url": "https://open.spotify.com/track/5kVqD0FKIMuhqoZBop0uIq"
@@ -10087,7 +10503,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 209853,
       "name": "Willie And The Hand Jive",
       "url": "https://open.spotify.com/track/7aDdRtuCpHGdz7OZFvgbHJ"
@@ -10141,7 +10557,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 136933,
       "name": "With A Gun",
       "url": "https://open.spotify.com/track/6hCZTtQ84zVg3gGXQaIGZv"
@@ -10159,7 +10575,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 344773,
       "name": "With A Little Luck - Remastered 1993",
       "url": "https://open.spotify.com/track/73JqQIGZUZxCVfY54RSpCH"
@@ -10177,7 +10593,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 278400,
       "name": "Woman",
       "url": "https://open.spotify.com/track/0OgWuPs6lyCnnLUw1INrdQ"
@@ -10285,7 +10701,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 206146,
       "name": "You And I - Remastered 2011",
       "url": "https://open.spotify.com/track/4QxuI0R23qSGf4nipuOV6h"
@@ -10307,6 +10723,24 @@
       "duration_ms": 242226,
       "name": "You Angel You",
       "url": "https://open.spotify.com/track/06fLf0fUQpPn3GGcYkXIht"
+    },
+    {
+      "album": {
+        "name": "Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/4D5tTcz72CXGPtzTabLTDY"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293893,
+      "name": "You Can't Catch Me - Remastered 2010",
+      "url": "https://open.spotify.com/track/1xMyiK7PWLyGSumPizoYkK"
     },
     {
       "album": {

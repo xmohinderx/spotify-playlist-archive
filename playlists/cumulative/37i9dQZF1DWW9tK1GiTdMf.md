@@ -4,7 +4,7 @@
 
 > canzoni da gridare e in copertina c'è WILLOW <3
 
-89 songs - 4 hr 2 min - not published yet
+89 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Pretty Girl](https://open.spotify.com/track/1x7CaR5PCCsZjpCxDRVhO4) | [Yungdobro](https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI) | [Pretty Girl](https://open.spotify.com/album/5E5lWpGDtflLLulnBE58Q8) | 2:45 | 2022-05-06 |  |
 | [PROBLEMA \(feat\. PSICOLOGI\)](https://open.spotify.com/track/6JFTyWknOKvwEjPSemGD6v) | [Novelo](https://open.spotify.com/artist/1RHfl90nY7Ut10DMRcKjDa), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [CARO MOSTRO](https://open.spotify.com/album/4zXlJMn3ZaaUIwR5VDArCx) | 3:00 | 2022-05-06 |  |
 | [Quanto ti vorrei](https://open.spotify.com/track/1AC9rHDPQC3QoC3iYPeSEI) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Quanto ti vorrei](https://open.spotify.com/album/7euSTXADo7aG1X9FbgMBKN) | 3:00 | 2022-05-06 |  |
-| [ROCKSTAR](https://open.spotify.com/track/5cc4c8Hcv1Km8GIdolGLuq) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [ROCKSTAR](https://open.spotify.com/album/1lDFJJvv6IaSyO1F3kqs3q) | 3:25 | 2022-05-06 |  |
+| [ROCKSTAR](https://open.spotify.com/track/5cc4c8Hcv1Km8GIdolGLuq) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [ROCKSTAR](https://open.spotify.com/album/1lDFJJvv6IaSyO1F3kqs3q) | 3:25 | 2022-05-06 | 2022-05-11 |
 | [ROMA TUTTA](https://open.spotify.com/track/6S8LFWzphG21Hr5omHm2qV) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [CITRIESTE](https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2) | [ROMA TUTTA](https://open.spotify.com/album/18UaFxs5g5MTSDsImNy4h5) | 2:43 | 2022-05-06 |  |
 | [SABBIE MOBILI](https://open.spotify.com/track/6SOtdbnV35PwIVLpFhMfnu) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [SABBIE MOBILI](https://open.spotify.com/album/17d7difDoVQ3pjgbURerM0) | 2:21 | 2022-05-06 |  |
 | [SEI UNA BAMBINA](https://open.spotify.com/track/6uatLMSzOTAV1FgI0xwvsf) | [NOCTA](https://open.spotify.com/artist/3bEJuQhX9UWutAXeOhojFE) | [SEI UNA BAMBINA](https://open.spotify.com/album/6jbws4e3lWW3yTolMwMrjG) | 2:38 | 2022-05-06 |  |

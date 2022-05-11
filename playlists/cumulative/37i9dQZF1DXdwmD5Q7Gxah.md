@@ -4,7 +4,7 @@
 
 > Join <a href="https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d">Lorem Life w/ Max & Dev</a> w/ guests Devon Again & KiNG MALA this Weds @ 5pm PST
 
-1,586 songs - 3 day 12 hr 49 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,587 songs - 3 day 12 hr 53 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2019-09-20 | 2020-02-05 |
 | [BRITNEY BITCH](https://open.spotify.com/track/0y36K56bxbBUl2kjrBJdco) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [BRITNEY BITCH](https://open.spotify.com/album/54zDMqhMl0zzIZEQBWIks0) | 2:37 | 2020-08-30 | 2020-09-30 |
 | [Broke Mine](https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Broke Mine](https://open.spotify.com/album/7a4GgADrERVlml8GnNZWvd) | 3:31 | 2022-03-11 |  |
-| [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-04 |  |
+| [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-04 | 2022-05-11 |
 | [Brother](https://open.spotify.com/track/4e8Eqj6ynTG5HjewvBaVH3) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [Sand Radio / Brother](https://open.spotify.com/album/4nYcuk8KMLHgeRgjhLCY57) | 3:23 | 2022-04-09 | 2022-04-23 |
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-01-21 | 2022-04-09 |
 | [Bruise](https://open.spotify.com/track/0aeIg30ygRdW6zUCmAdgzO) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:57 | 2020-05-12 | 2020-07-01 |
@@ -533,7 +533,7 @@
 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 | 2021-05-15 | 2022-02-12 |
 | [Frío](https://open.spotify.com/track/2R7ZNlng7Kjdo0Pp4TWNXa) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Frío](https://open.spotify.com/album/7oHG4YB2YjfpnfEPeUtS72) | 2:05 | 2019-10-31 | 2019-11-14 |
 | [fuck, i luv my friends](https://open.spotify.com/track/4hk4plGoAmg3naYTq8EUul) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [fuck, i luv my friends](https://open.spotify.com/album/4r4S1Vthv9l5CSJdTee4S6) | 2:43 | 2020-07-18 | 2020-08-20 |
-| [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 | 2022-05-04 |  |
+| [Funeral](https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:52 | 2022-05-04 | 2022-05-11 |
 | [Funky](https://open.spotify.com/track/1Sov7OQevNqkPxNNEpjt6z) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Funky](https://open.spotify.com/album/58p2sAkz9RGgnpDXiJqO7I) | 3:34 | 2021-09-09 | 2022-03-05 |
 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2021-01-27 | 2021-03-26 |
 | [FYO \(feat\. CHAI\)](https://open.spotify.com/track/1bjnEXR0EqtaQsiAQ8crmB) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [FYO \(feat\. CHAI\)](https://open.spotify.com/album/3Tfl2WgX2XJFXs7577YmDM) | 2:52 | 2021-04-10 | 2021-06-24 |
@@ -1046,6 +1046,7 @@
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-09 | 2022-04-21 |
 | [orange juice](https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [orange juice](https://open.spotify.com/album/4bmluZugh54DkReHoghYGu) | 2:43 | 2022-04-15 |  |
 | [Ordinary](https://open.spotify.com/track/5Xhsf1DLA9j2pVyCbqjkLh) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Balance](https://open.spotify.com/album/71Q44PCgBGD6QyxI12jJNy) | 2:39 | 2019-07-30\* | 2019-10-26 |
+| [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-10 |  |
 | [Oui ou non](https://open.spotify.com/track/7rBP4bLjMLNkix1nGHjheP) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol La Suite](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu) | 3:16 | 2019-11-08 | 2020-03-13 |
 | [Out of Love](https://open.spotify.com/track/0ITjwjywJdyBk5jDCu8Zk5) | [Whose Rules](https://open.spotify.com/artist/3GAycRSOI4PRxEe6e1Ci8j) | [Out of Love](https://open.spotify.com/album/05LewJJSoCiOqJGv9NtH2H) | 2:39 | 2021-06-11 | 2021-08-14 |
 | [Outside](https://open.spotify.com/track/0YCCXfwkqezFE8sjRoaKmi) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Outside](https://open.spotify.com/album/7bNmKoKLrqqhAg3e021cVG) | 2:18 | 2020-11-20 | 2020-12-23 |

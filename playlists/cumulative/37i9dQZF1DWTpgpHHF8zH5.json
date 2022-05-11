@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Musica per sorridere, darti la carica e affrontare la giornata!",
   "name": "Operazione Buonumore!",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5moqmy6VQIRDUxQYNZv0lg"
+  ],
   "tracks": [
     {
       "album": {
@@ -79,7 +81,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 198368,
       "name": "All For You",
       "url": "https://open.spotify.com/track/7DMbkEORs1vmAevc4TD8KC"
@@ -97,7 +99,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
@@ -177,7 +179,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 170613,
       "name": "At Least I Had Fun",
       "url": "https://open.spotify.com/track/7jqXDgGWkV4w2ctdb2g59o"
@@ -221,7 +223,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU"
@@ -279,7 +281,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 221748,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/7HcaM7gc9YB2JAwxq1sfjT"
@@ -381,7 +383,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 169538,
       "name": "Chucks",
       "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
@@ -1216,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "My 100",
+        "url": "https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm"
+      },
+      "artists": [
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "My 100",
+      "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
+    },
+    {
+      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -1289,7 +1309,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 192181,
       "name": "Nights Like That (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/1FHZyJ35kZ8DaLVOlhOIYK"
@@ -1671,7 +1691,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 194373,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/6pU7kdmhRvhc8twYRl14bD"
@@ -1729,10 +1749,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "album": {
+        "name": "Stronger (feat. Kesha)",
+        "url": "https://open.spotify.com/album/683szPAVY9vdNhI45ybBbP"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Stronger (feat. Kesha)",
+      "url": "https://open.spotify.com/track/4NctFqJyGAqurHFEUQvWgR"
     },
     {
       "album": {
@@ -2111,7 +2153,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 183536,
       "name": "Who's In Your Head",
       "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"

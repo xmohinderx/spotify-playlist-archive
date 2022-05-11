@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-568 songs - 1 day 6 hr 40 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+569 songs - 1 day 6 hr 42 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [100 Degrees](https://open.spotify.com/track/2ZDpSQfBdgkooeXw6oj3Uz) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d) | 2:46 | 2019-08-27\* | 2020-02-12 |
 | [17](https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17](https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq) | 2:40 | 2020-02-28 | 2021-05-12 |
 | [180 \(feat\. Lil Spacely\)](https://open.spotify.com/track/2Eph6fuQSCCihTTvhptxfC) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [180 \(feat\. Lil Spacely\)](https://open.spotify.com/album/0clsV6sGN7Qrwt4wbv95xx) | 3:14 | 2019-09-20 |  |
+| [2step \(feat\. Budjerah\)](https://open.spotify.com/track/5viJfHHj5qnP55zoEWMh97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [2step \(feat\. Budjerah\)](https://open.spotify.com/album/3wd91jE2MWmMsHjAP4TA7v) | 2:33 | 2022-05-10 |  |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-04-22 |  |
 | [9 Feet Tall](https://open.spotify.com/track/5QbifeQkWWPvn6lvT3lXpl) | [Alex Frew](https://open.spotify.com/artist/6MAkYH7Pz4yusy6J11baeE) | [Cobalt](https://open.spotify.com/album/6u71sqyPz80VM8K8CCOgZf) | 3:30 | 2021-02-26 |  |
 | [a little bit bored \(feat\. ruuth\)](https://open.spotify.com/track/1qD8IFhhATn4f02ncWKZRE) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [a little bit bored \(feat\. ruuth\)](https://open.spotify.com/album/6hgLbcVaekLnvGdj4BHDTL) | 2:59 | 2021-02-19 |  |

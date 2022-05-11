@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Luna Li
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,167 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,173 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 42 | [Warning Signs](https://open.spotify.com/track/4zRcmMBLYd5nYpk5Jy1Gq7) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Warning Signs](https://open.spotify.com/album/3oy0O4DrNBpqfY54WCayI6) | 3:29 |
 | 43 | [Counterfeit Love](https://open.spotify.com/track/0Mqt5UD2SCi8Qd6pvaJupU) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [Counterfeit Love](https://open.spotify.com/album/6EjWmcLTiMjVa57CxfyIBa) | 3:04 |
 | 44 | [Resist](https://open.spotify.com/track/4fZIIyvsVjges8sgivPak2) | [Kitt](https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy) | [Resist](https://open.spotify.com/album/1tiuEwjh0mTlDn9f3zMKo0) | 4:10 |
-| 45 | [We Getting Rich](https://open.spotify.com/track/7A3dMjedhNKQmMossWQUpC) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [We Getting Rich](https://open.spotify.com/album/3ij4Gfms0GhTkssiKIcjBG) | 2:33 |
-| 46 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 |
-| 47 | [Que Oso](https://open.spotify.com/track/2kZJlpvdBiF40opT7AzFky) | [Amiccella](https://open.spotify.com/artist/4q0Qd38NLcWypTIFEHM535) | [Que Oso](https://open.spotify.com/album/53etMC6dZQ6yag04Yz30w2) | 1:48 |
-| 48 | [Princess Diana](https://open.spotify.com/track/0ksxpimZxylZV6zpnVLwHG) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [Princess Diana](https://open.spotify.com/album/16NCb8PZS2tAbop2FbWYsl) | 3:10 |
-| 49 | [repeat after me](https://open.spotify.com/track/0gvVLIViL9Bm4RiMYpe1Zb) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [repeat after me](https://open.spotify.com/album/6D7fw4Yzw3rVgu6zjDnZGe) | 2:22 |
-| 50 | [Bravo](https://open.spotify.com/track/19JHmvMUhb5dGLZPufqEUh) | [Jerusha](https://open.spotify.com/artist/3Cq9dfQDBiFja0j9m717cW) | [Bravo](https://open.spotify.com/album/4P88Chg12Vuuwo8fbuqPDZ) | 2:10 |
+| 45 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 |
+| 46 | [Que Oso](https://open.spotify.com/track/2kZJlpvdBiF40opT7AzFky) | [Amiccella](https://open.spotify.com/artist/4q0Qd38NLcWypTIFEHM535) | [Que Oso](https://open.spotify.com/album/53etMC6dZQ6yag04Yz30w2) | 1:48 |
+| 47 | [Princess Diana](https://open.spotify.com/track/0ksxpimZxylZV6zpnVLwHG) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [Princess Diana](https://open.spotify.com/album/16NCb8PZS2tAbop2FbWYsl) | 3:10 |
+| 48 | [repeat after me](https://open.spotify.com/track/0gvVLIViL9Bm4RiMYpe1Zb) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [repeat after me](https://open.spotify.com/album/6D7fw4Yzw3rVgu6zjDnZGe) | 2:22 |
+| 49 | [Bravo](https://open.spotify.com/track/19JHmvMUhb5dGLZPufqEUh) | [Jerusha](https://open.spotify.com/artist/3Cq9dfQDBiFja0j9m717cW) | [Bravo](https://open.spotify.com/album/4P88Chg12Vuuwo8fbuqPDZ) | 2:10 |
 
-Snapshot ID: `MTY1MTYyMjQwMCwwMDAwMDAxZTAwMDAwMTgwOGM1ZGQwNjQwMDAwMDE4MDhhYzk4MjY1`
+Snapshot ID: `MTY1MjE5MTQ2MSwwMDAwMDAxZjAwMDAwMTgwYWU0OGZmYzUwMDAwMDE4MDhhYzk4MjY1`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-690 songs - 1 day 13 hr 45 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+691 songs - 1 day 13 hr 51 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [KESH](https://open.spotify.com/track/0XifeTMPcqOp43c5xVe9c1) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX), [Hatemost](https://open.spotify.com/artist/39MSMcTSVkk9Wy5X1Dozwp) | [KESH](https://open.spotify.com/album/4lWhGprAjWDZeB9nkNQv86) | 4:49 | 2021-08-15 | 2021-08-16 |
 | [KHFISOS](https://open.spotify.com/track/6m9mAgw4rMkGUkHuSAFdDB) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [KHFISOS](https://open.spotify.com/album/2tldLLaOIfgj8wiUZLAKgV) | 3:17 | 2021-03-27\* | 2021-05-21 |
 | [Kilo](https://open.spotify.com/track/7xhP7fa8BHHoA26IIyYKjQ) | [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Kilo](https://open.spotify.com/album/1kijBe1jER0mwzk4H8LDXm) | 3:31 | 2021-04-30 | 2021-05-11 |
-| [King Kong](https://open.spotify.com/track/0HUabBApCqvyOWksm6Rk8N) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [King Kong](https://open.spotify.com/album/4eprABWusdNM8O5QazmH1i) | 4:42 | 2021-11-27 |  |
+| [King Kong](https://open.spotify.com/track/0HUabBApCqvyOWksm6Rk8N) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [King Kong](https://open.spotify.com/album/4eprABWusdNM8O5QazmH1i) | 4:42 | 2021-11-27 | 2022-05-11 |
 | [King Lo](https://open.spotify.com/track/7bI9UbDmWHZmNl6JxAg6So) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Nuki](https://open.spotify.com/artist/5VyuxeMadrk0YwzaSplggN) | [King Lo](https://open.spotify.com/album/1ZT7sG71w2suGTXoBWH0Nn) | 2:56 | 2022-01-22 | 2022-04-22 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-08-21 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-05 |
@@ -615,6 +615,7 @@
 | [Texni Polemou](https://open.spotify.com/track/2kMV3BSPU5FkTDJ8pahuw5) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Asarkos](https://open.spotify.com/artist/7xcCzebc8y398BHJ5QdK1B), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Prometheus](https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W) | 3:50 | 2021-10-31 | 2021-11-06 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-09-26 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2021-08-21 |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 |  |
 | [The Kid \(Egglemon\)](https://open.spotify.com/track/0BJleoyJwNpcZquJ8IoVtN) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Prometheus](https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W) | 3:40 | 2021-10-31 | 2021-11-08 |
 | [The Town](https://open.spotify.com/track/2uKFLI80dpZWqU4AoFp4iC) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [GoldenChild](https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0) | [Made in Athens](https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0) | 2:47 | 2022-01-22 | 2022-01-27 |
 | [Thelei Tattoo](https://open.spotify.com/track/5H9XGo7LFHgTy0vbnOlwaf) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Rackattack](https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3) | 2:21 | 2021-05-21 | 2022-01-01 |

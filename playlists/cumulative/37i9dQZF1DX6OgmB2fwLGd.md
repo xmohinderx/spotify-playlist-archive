@@ -2,9 +2,9 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> The soundtrack to the Internet\. Cover: Autumn!
+> The soundtrack to the Internet\. Check out <a href="spotify:show:3oTlNRRUyazgdUpWZYdvd5">Internet People Live</a> on Tuesdays at 8pm EST\. Cover: Autumn!
 
-262 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+263 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Everything!](https://open.spotify.com/track/31NiKq79oMhpyjc2R9Ggbg) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Everything!](https://open.spotify.com/album/6NMTe06b37vGpok8LGT0Rd) | 2:24 | 2022-04-29 |  |
 | [Everywhereigo](https://open.spotify.com/track/3DICBZOMaEWbCxwUfPGcE5) | [Babyxsosa](https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ) | [Everywhereigo](https://open.spotify.com/album/5W150vEDIbzQt4BMWaxNbY) | 2:15 | 2022-03-01 |  |
 | [EXTRAVAGANT](https://open.spotify.com/track/1OqRZUOy9RlJ4688w6m8rd) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [EXTRAVAGANT](https://open.spotify.com/album/3pzuz8GN7Ee50O0leQLkUw) | 1:15 | 2021-12-17 | 2022-02-23 |
-| [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [HitKidd](https://open.spotify.com/artist/6fD4Wp0ohNtBZNB5mvS4PK), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-05-06 |  |
+| [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-05-06 |  |
 | [fafo](https://open.spotify.com/track/2R711v6UpsgYvDuzCJ1iSl) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [fafo](https://open.spotify.com/album/0Q7DWii4IDrNrz9l4F6GPl) | 2:39 | 2021-10-01 |  |
 | [Falling Off \(feat\. Rico Nasty\)](https://open.spotify.com/track/5UVmvehbEDP74A8i6VP381) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Falling Off](https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og) | 4:24 | 2022-02-11 | 2022-03-02 |
 | [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 | 2021-11-27 | 2022-03-26 |
@@ -152,6 +152,7 @@
 | [lost souls \(with Brent Faiyaz\)](https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:29 | 2022-01-04 | 2022-04-14 |
 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 | 2021-09-24 | 2022-04-03 |
 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 | 2022-03-17 | 2022-04-26 |
+| [Makeda](https://open.spotify.com/track/0oPujI3egA7QltnWHRfRzN) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Makeda](https://open.spotify.com/album/6j3zmceONaa7BpjGYjZFIu) | 1:36 | 2022-05-10 |  |
 | [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 | 2022-04-29 |  |
 | [masquerade II \(dante’s inferno\)](https://open.spotify.com/track/7G7jd3o9p7KH9jMRhefwiQ) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade II \(dante’s inferno\)](https://open.spotify.com/album/75pEi3CTFA4uFOrKqPgkep) | 2:10 | 2021-12-10 | 2022-02-23 |
 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 | 2021-12-10 | 2022-02-05 |
@@ -261,7 +262,7 @@
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X) | 4:39 | 2022-01-05 |  |
 | [WISS](https://open.spotify.com/track/2GDdasGKNUvjF0qZwzNrPv) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [WISS](https://open.spotify.com/album/3TmfcZxW73xt38JNA7dKnW) | 2:39 | 2021-10-21 | 2022-02-26 |
 | [Wokeup](https://open.spotify.com/track/7elpLTR2QnjyL6gtsj2I7R) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Wokeup](https://open.spotify.com/album/1n9NQI2R10g4jQHmLdWKSl) | 1:55 | 2022-01-10 |  |
-| [WTF](https://open.spotify.com/track/4aPn8qfGNZW7UmyJ7iwEwR) | [Xlovclo](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si) | [WTF](https://open.spotify.com/album/4Nvbq6zC8Yflyd1cAQETU1) | 1:29 | 2022-03-25 |  |
+| [WTF](https://open.spotify.com/track/4aPn8qfGNZW7UmyJ7iwEwR) | [Xlovclo](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si) | [WTF](https://open.spotify.com/album/4Nvbq6zC8Yflyd1cAQETU1) | 1:29 | 2022-03-25 | 2022-05-11 |
 | [WTF!](https://open.spotify.com/track/7AzW2VGmPNkc1Q84yQCcZs) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [WTF!](https://open.spotify.com/album/2hU6gJKJnZYqK9sX2pqd2n) | 4:04 | 2021-10-12 | 2022-02-26 |
 | [WYM](https://open.spotify.com/track/3te3tOWUQigAnYO2joSWJi) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [WYM](https://open.spotify.com/album/61rWUSssFFgk5jYSAhydOk) | 1:56 | 2021-09-10 | 2022-03-25 |
 | [X\-Wing](https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:56 | 2022-04-19 |  |

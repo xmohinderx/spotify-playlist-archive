@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "canzoni da gridare e in copertina c'\u00e8 WILLOW <3",
   "name": "sanguegiovane",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2BZ03rNM0vrjFSXCBigadZ"
+  ],
   "tracks": [
     {
       "album": {
@@ -1335,7 +1337,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 205821,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/5cc4c8Hcv1Km8GIdolGLuq"

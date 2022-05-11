@@ -912,6 +912,24 @@
     },
     {
       "album": {
+        "name": "Neon Tapestries",
+        "url": "https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165928,
+      "name": "Ditty",
+      "url": "https://open.spotify.com/track/71WxHp7zJA2MEmc2sqDTpI"
+    },
+    {
+      "album": {
         "name": "Diurnal Nocturnal EP",
         "url": "https://open.spotify.com/album/2nRoWqbNltEd83DD9a7tWl"
       },
@@ -1017,6 +1035,24 @@
       "duration_ms": 134117,
       "name": "dripp",
       "url": "https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x"
+    },
+    {
+      "album": {
+        "name": "Drive So Well",
+        "url": "https://open.spotify.com/album/5Rfo2PeHtIHzVs8eP9v5RX"
+      },
+      "artists": [
+        {
+          "name": "Kirsi Aim\u00e9e",
+          "url": "https://open.spotify.com/artist/74RWlGT8fQPqVvXSLuxL4j"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158198,
+      "name": "Drive So Well",
+      "url": "https://open.spotify.com/track/2vde9odrAwABY7w6IAzCFB"
     },
     {
       "album": {
@@ -1211,7 +1247,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 152121,
       "name": "Extramundane",
       "url": "https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s"
@@ -1254,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0wfWEejlAeco0LVkpjt4fR"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173164,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1QrcomVagx1mGbtibRpiGt"
+    },
+    {
+      "album": {
         "name": "Feel Di Pulse",
         "url": "https://open.spotify.com/album/34vjADdXvNHFi71V0j6fPr"
       },
@@ -1269,6 +1323,24 @@
       "duration_ms": 127396,
       "name": "Feel Di Pulse",
       "url": "https://open.spotify.com/track/62cI9iC267K3nx3yYr7oCG"
+    },
+    {
+      "album": {
+        "name": "Feel Free",
+        "url": "https://open.spotify.com/album/2rMoeNbx0m4q9dhVDfxgBF"
+      },
+      "artists": [
+        {
+          "name": "Lichtboje",
+          "url": "https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139259,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/6L8gNflQsaNQv7uY8IVjE4"
     },
     {
       "album": {
@@ -1535,7 +1607,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 155300,
       "name": "gather around",
       "url": "https://open.spotify.com/track/3FrRr3UM1bdurTy0bxdU3f"
@@ -1553,10 +1625,32 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 175714,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud"
+    },
+    {
+      "album": {
+        "name": "Golden Route",
+        "url": "https://open.spotify.com/album/2rRVx1Ujfr2HwYipoJwO5a"
+      },
+      "artists": [
+        {
+          "name": "Schmiddunsk",
+          "url": "https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118177,
+      "name": "Golden Route",
+      "url": "https://open.spotify.com/track/5sdRMVfel2Bc5pTpkhjsbv"
     },
     {
       "album": {
@@ -1643,7 +1737,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 96023,
       "name": "Horizontals",
       "url": "https://open.spotify.com/track/1VCBFdbmTukL4kdG8zYvPl"
@@ -2144,6 +2238,24 @@
     },
     {
       "album": {
+        "name": "Love Is Blind",
+        "url": "https://open.spotify.com/album/4juVHLFB6vng4oqDP0y24e"
+      },
+      "artists": [
+        {
+          "name": "Mad Q",
+          "url": "https://open.spotify.com/artist/0yZLorpKt2NmXzVuaix3x4"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Love Is Blind",
+      "url": "https://open.spotify.com/track/2RQAWyB9xieQQjJgTfr0h1"
+    },
+    {
+      "album": {
         "name": "love triangles",
         "url": "https://open.spotify.com/album/1dIrPgFSe5PM08NJrWDpZD"
       },
@@ -2173,7 +2285,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 174568,
       "name": "Luc Et Jean",
       "url": "https://open.spotify.com/track/6QCDeEAy58PKoRwmqscuZ9"
@@ -2307,6 +2419,24 @@
       "duration_ms": 183214,
       "name": "Make It Count",
       "url": "https://open.spotify.com/track/70EPJbHlSO1Dkkmil1IP6b"
+    },
+    {
+      "album": {
+        "name": "making mixtapes",
+        "url": "https://open.spotify.com/album/78d1kuIGISTSexice5zMFV"
+      },
+      "artists": [
+        {
+          "name": "Tokoyo",
+          "url": "https://open.spotify.com/artist/1uRrPMRitqSxmERD5N5NWF"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109891,
+      "name": "making mixtapes",
+      "url": "https://open.spotify.com/track/3zFvlfTZuoM8yYpDGqBQWm"
     },
     {
       "album": {
@@ -2537,7 +2667,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 119229,
       "name": "Milano",
       "url": "https://open.spotify.com/track/23LxW8Ssmlpn4GjFrnDTFs"
@@ -2649,6 +2779,24 @@
       "duration_ms": 193194,
       "name": "Nanimoshinai",
       "url": "https://open.spotify.com/track/2Tn9t0J8lcoWoqFt3salVA"
+    },
+    {
+      "album": {
+        "name": "Natalia Natalia",
+        "url": "https://open.spotify.com/album/7ars0X7ALrkok1lG79TKcJ"
+      },
+      "artists": [
+        {
+          "name": "Pausa Psi",
+          "url": "https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142182,
+      "name": "Natalia Natalia",
+      "url": "https://open.spotify.com/track/2YDhfLYLLDt4VWhWB2213W"
     },
     {
       "album": {
@@ -3095,7 +3243,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 137142,
       "name": "Rainy Scent",
       "url": "https://open.spotify.com/track/5eDRDh6NIH7nfrEHFPLH4k"
@@ -3538,6 +3686,28 @@
     },
     {
       "album": {
+        "name": "sleeping bird",
+        "url": "https://open.spotify.com/album/3DbVYCIBprAMxZAXQ3HPB5"
+      },
+      "artists": [
+        {
+          "name": "Whatevr.",
+          "url": "https://open.spotify.com/artist/2GwB8DnTnNMofcrjLo2Fd7"
+        },
+        {
+          "name": "Funcc.",
+          "url": "https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105205,
+      "name": "sleeping bird",
+      "url": "https://open.spotify.com/track/4zH9TP3m7xkfltbL3Vlaix"
+    },
+    {
+      "album": {
         "name": "Night Sky",
         "url": "https://open.spotify.com/album/63ysIA8671nsKzVD90fFwa"
       },
@@ -3603,7 +3773,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 142291,
       "name": "Snow",
       "url": "https://open.spotify.com/track/7Lr18ZoFCnzoR0MS5Gwd4D"
@@ -4151,6 +4321,24 @@
       "duration_ms": 202302,
       "name": "Tryin' - Chill House",
       "url": "https://open.spotify.com/track/22epPcE6Y7GwJGmPQbtOtC"
+    },
+    {
+      "album": {
+        "name": "Turn Around",
+        "url": "https://open.spotify.com/album/3uJwBAA2N0m67HsWPMQVIS"
+      },
+      "artists": [
+        {
+          "name": "dreams of saola",
+          "url": "https://open.spotify.com/artist/1GT8FB8O4CQEgEKKZ4TUvA"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156888,
+      "name": "Turn Around",
+      "url": "https://open.spotify.com/track/5Ve1NjjsG20hqnxfPzzyP0"
     },
     {
       "album": {

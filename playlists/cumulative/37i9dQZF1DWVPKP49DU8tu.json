@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
   "name": "Canta Sotto La Doccia",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7vwlozfPhrdqcQCIU8qvES"
+  ],
   "tracks": [
     {
       "album": {
@@ -79,7 +81,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 282360,
       "name": "Acqua e Sale",
       "url": "https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr"
@@ -97,7 +99,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 166254,
       "name": "Allora ciao",
       "url": "https://open.spotify.com/track/5mtMuoCiBExgzH8SOdXyNB"
@@ -205,7 +207,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 152764,
       "name": "BABY",
       "url": "https://open.spotify.com/track/4rAXvF3Bh1MZlHAVsmI890"
@@ -249,10 +251,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 276066,
       "name": "Bella",
       "url": "https://open.spotify.com/track/525vzYkgrT8uerIzDe5Apx"
+    },
+    {
+      "album": {
+        "name": "Giovani",
+        "url": "https://open.spotify.com/album/59i6L1OigHny6mYy0vGttB"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Bella e rovinata",
+      "url": "https://open.spotify.com/track/5uPQRVuGquShCnqzuOTq4B"
     },
     {
       "album": {
@@ -285,7 +305,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 200214,
       "name": "BRAVI A CADERE - I polmoni",
       "url": "https://open.spotify.com/track/4SpV49wwekArulAVjEez3i"
@@ -303,7 +323,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 188181,
       "name": "Che Poi",
       "url": "https://open.spotify.com/track/55BfNKdOeu77gxPB0UGnAw"
@@ -570,6 +590,24 @@
     },
     {
       "album": {
+        "name": "Destinazione Paradiso",
+        "url": "https://open.spotify.com/album/7b8jLhjj3eP3BEbQAs3X17"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Grignani",
+          "url": "https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228933,
+      "name": "Destinazione Paradiso",
+      "url": "https://open.spotify.com/track/1ZUPJRUhLkGeHskESza15r"
+    },
+    {
+      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/3Y4qJnPihpHfdK3rre9GFA"
       },
@@ -617,7 +655,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 201546,
       "name": "Domenica",
       "url": "https://open.spotify.com/track/2tVNMtgZ2CQpTx7vgcuTkL"
@@ -722,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Fiamme negli occhi",
+        "url": "https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK"
+      },
+      "artists": [
+        {
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206001,
+      "name": "Fiamme negli occhi",
+      "url": "https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00"
+    },
+    {
+      "album": {
         "name": "Nostralgia",
         "url": "https://open.spotify.com/album/4PVi4qfN8fUIdE6sZXXQ0b"
       },
@@ -733,7 +789,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 206253,
       "name": "Fiamme negli occhi",
       "url": "https://open.spotify.com/track/60nw7bwqYjVsrccNjF6TMO"
@@ -1187,7 +1243,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 204978,
       "name": "Magnifico difetto",
       "url": "https://open.spotify.com/track/0IKfkRzt3d1FoNla2dKi1J"
@@ -1227,7 +1283,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 155413,
       "name": "Mambo Salentino",
       "url": "https://open.spotify.com/track/7piIo15vVy3ULGXSpFs5xc"
@@ -1387,7 +1443,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 194606,
       "name": "Musica (E Il Resto Scompare)",
       "url": "https://open.spotify.com/track/3Nc7IorgrSffzaQrQWVw4L"
@@ -1565,7 +1621,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 238893,
       "name": "Piccola stella senza cielo",
       "url": "https://open.spotify.com/track/0HpKuz1HfXxRzNnUqfwzgF"
@@ -1601,7 +1657,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Playa",
       "url": "https://open.spotify.com/track/7bBIBrSmHvdMlTC7b9p8Vq"
@@ -1716,6 +1772,28 @@
     },
     {
       "album": {
+        "name": "Senza farlo apposta",
+        "url": "https://open.spotify.com/album/20wgQyzYFfr0OS9CCqmvbz"
+      },
+      "artists": [
+        {
+          "name": "Shade",
+          "url": "https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt"
+        },
+        {
+          "name": "Federica Carta",
+          "url": "https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215156,
+      "name": "Senza farlo apposta",
+      "url": "https://open.spotify.com/track/4rwKn954sAK61ojiPVIxuP"
+    },
+    {
+      "album": {
         "name": "RossoNoemi 2012 Edition",
         "url": "https://open.spotify.com/album/0pYNUeFVkFgAemaKmtKcuL"
       },
@@ -1785,6 +1863,32 @@
       "duration_ms": 206695,
       "name": "Sorriso Grande",
       "url": "https://open.spotify.com/track/7um5BZo08PrrB87Itmml9V"
+    },
+    {
+      "album": {
+        "name": "Coraggio",
+        "url": "https://open.spotify.com/album/30AKCCfiGrDNxsuOP6jq6X"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        },
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        },
+        {
+          "name": "tha Supreme",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256786,
+      "name": "Spigoli (feat. Mara Sattei & tha Supreme)",
+      "url": "https://open.spotify.com/track/5YPKiDLejR1JhnX6w2lhro"
     },
     {
       "album": {
@@ -1861,7 +1965,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 203133,
       "name": "Tikibombom",
       "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
@@ -2101,7 +2205,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 179895,
       "name": "We Can Do Better",
       "url": "https://open.spotify.com/track/1hLjLWrzO18acdCFcccFWk"

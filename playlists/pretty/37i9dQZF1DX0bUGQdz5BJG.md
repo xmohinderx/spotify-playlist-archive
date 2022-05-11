@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,467 likes - 180 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,561 likes - 180 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/1xZ87c95aRIeyvqVoKCtdM.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sugar, Sugar](https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [Sugar, Sugar](https://open.spotify.com/album/1tjurhbCd70ZjsXhN8fGUC) | 2:49 |
-| 2 | [Aquarius/Let The Sunshine In \(The Flesh Failures\) \- From the Musical Hair](https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 4:49 |
+| 2 | [Aquarius/Let The Sunshine In \(The Flesh Failures\) \- From the Musical "Hair"](https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 4:49 |
 | 3 | [I Can't Get Next To You \- Single Version/Mono](https://open.spotify.com/track/5cS39Jh4zJeTTqwjtAcLfc) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Definitive Collection](https://open.spotify.com/album/5Tyak5Sjr8gxSDOE2ZDGQx) | 2:51 |
 | 4 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 2:59 |
 | 5 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |

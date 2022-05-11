@@ -304,6 +304,28 @@
     },
     {
       "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/19ENjuaSWREwNmdVuP7ddA"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Khan",
+          "url": "https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp"
+        },
+        {
+          "name": "Arjun",
+          "url": "https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/1YHQk3mvPu3CJediWgaiNa"
+    },
+    {
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/4iVZa6nsYDb5XYA3gwBg1v"
       },

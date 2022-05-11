@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Arcade Fire
 
-396 songs - 23 hr 52 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+397 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-01-31 | 2022-02-19 |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-01-07 | 2022-02-12 |
 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 | 2022-01-28 | 2022-03-12 |
+| [Dans la foule](https://open.spotify.com/track/4aHcCqmJMCpoak538zShNa) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie d'ange](https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH) | 2:34 | 2022-05-10 |  |
 | [Days Like Lost Dogs](https://open.spotify.com/track/6oSEQDTq66SDlyNTrwvzbN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Days Like Lost Dogs](https://open.spotify.com/album/35gZjxY7yjWmqXvwJygKSP) | 3:45 | 2021-12-31 | 2022-01-29 |
 | [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-02-04 | 2022-04-23 |
 | [Dear Boy](https://open.spotify.com/track/0LivNVRgzrqT5Fnicg2e3Q) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Dear Boy](https://open.spotify.com/album/44Bmf0xSlLy5REkiXLVQ6N) | 3:03 | 2022-05-06 |  |
@@ -335,7 +336,7 @@
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-07 | 2022-02-12 |
 | [So Slowly](https://open.spotify.com/track/3svVB5h2BhRyvDqTDKYAFk) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Slowly](https://open.spotify.com/album/7elFANugWUFErlAs8V6vBW) | 3:00 | 2021-12-31 | 2022-01-08 |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-04 | 2022-04-29 |
-| [Someplace Else](https://open.spotify.com/track/4LEkzIefEXT8E5rU8g84af) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [Someplace Else](https://open.spotify.com/album/1hiTcMQqoLD2uqT4gSgrLF) | 3:45 | 2022-04-01 |  |
+| [Someplace Else](https://open.spotify.com/track/4LEkzIefEXT8E5rU8g84af) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [Someplace Else](https://open.spotify.com/album/1hiTcMQqoLD2uqT4gSgrLF) | 3:45 | 2022-04-01 | 2022-05-11 |
 | [STAR](https://open.spotify.com/track/3P1yQdXdACzk5HZySceBNc) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [The Words You Spoke Still Move Me](https://open.spotify.com/album/5gxCaZ2KFlYfBWSmTMGi2g) | 3:47 | 2022-05-06 |  |
 | [Starstruck](https://open.spotify.com/track/1J3aj2c8KMR5lgc3l46gXV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 2:50 | 2022-04-29 |  |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD) | 3:38 | 2021-12-31 | 2022-01-10 |

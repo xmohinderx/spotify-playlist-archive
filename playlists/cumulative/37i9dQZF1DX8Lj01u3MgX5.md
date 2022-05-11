@@ -4,7 +4,7 @@
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-69 songs - 5 hr 54 min - not published yet
+69 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/50QR79j8k5LtNRr6rof7wE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

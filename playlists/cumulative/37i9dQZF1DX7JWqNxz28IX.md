@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, doxx\)
 
-71 songs - 3 hr 13 min - not published yet
+71 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

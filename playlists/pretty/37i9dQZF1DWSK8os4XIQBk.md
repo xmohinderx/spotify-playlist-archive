@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,557 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,640 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 96 | [Wilder Days](https://open.spotify.com/track/0uh9R0s1I3HIZGiA25QReI) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless \(Deluxe Edition\)](https://open.spotify.com/album/2ptlvk4iUKk88X0DfEzBm7) | 4:11 |
 | 97 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 |
 | 98 | [Flirtin'](https://open.spotify.com/track/1LDTXLs9xiPVNDRNGHfAdU) | [Petric](https://open.spotify.com/artist/7afffqSIWfxozaDGWAqSjh), [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [Flirtin'](https://open.spotify.com/album/0eVcx6oAlchIi1vFRgi9I4) | 3:42 |
-| 99 | [Rich](https://open.spotify.com/track/6MwfLRJcaqNQo8C215lT6k) | [Brian John Harwood](https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4), [Alli Walker](https://open.spotify.com/artist/0Nxzbyp5zDObdMurJZ7g5C), [Chris Labelle](https://open.spotify.com/artist/2gODSRZYGlEFhWNTfG5KJL) | [Rich](https://open.spotify.com/album/5Di3FdznilS153snIRehXk) | 3:14 |
-| 100 | ['Til I Found You](https://open.spotify.com/track/5F8fkq6eg0P2n51hWOwcVM) | [David Boyd Janes](https://open.spotify.com/artist/5GxnWuuTpzdnPb57PFxUHM) | [Drove Me Country](https://open.spotify.com/album/5C3a2kGzGVYlWgkWUsp6vD) | 3:19 |
+| 99 | ['Til I Found You](https://open.spotify.com/track/5F8fkq6eg0P2n51hWOwcVM) | [David Boyd Janes](https://open.spotify.com/artist/5GxnWuuTpzdnPb57PFxUHM) | [Drove Me Country](https://open.spotify.com/album/5C3a2kGzGVYlWgkWUsp6vD) | 3:19 |
 
-Snapshot ID: `MTY1MjE0NDE0MSwwMDAwMDAwMDEyMjVjMWMxZmIyYTY2NGEwZTQ0Y2U3ZmEwYWZjODI5`
+Snapshot ID: `MTY1MjIzMTA0OSwwMDAwMDAwMDhjOTBkOTBjMWM2MDBiZTkyYWMwNmQ3ZGNjN2I5ZTAy`

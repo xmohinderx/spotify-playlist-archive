@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,790 likes - 261 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,958 likes - 261 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 23 | [Discovery Channel](https://open.spotify.com/track/1yKoZULYTinUhojFeatKQc) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Robin Novaku](https://open.spotify.com/artist/2qKm6UtxKTF2zh9RNK5QOc), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Discovery Channel](https://open.spotify.com/album/4ya77jLzOQ5wX4Y3vnJfui) | 2:09 |
 | 24 | [Riptide](https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Riptide](https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P) | 2:34 |
 | 25 | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk) | 2:26 |
-| 26 | [Ready To Let Go](https://open.spotify.com/track/281Ohr3epWom0NgYyTXshi) | [John Wolfcub](https://open.spotify.com/artist/5V8x1ZKfWI0eqZ5ejRBD9G), [Unklfnkl](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Bentez](https://open.spotify.com/artist/6n8UAGYmHAkqnQhBXZrSPC) | [Ready To Let Go](https://open.spotify.com/album/41G6NVgFdSr0ayTJCVJart) | 2:32 |
+| 26 | [Ready To Let Go](https://open.spotify.com/track/281Ohr3epWom0NgYyTXshi) | [John Wolfcub](https://open.spotify.com/artist/5V8x1ZKfWI0eqZ5ejRBD9G), [Unklfnkl](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [Ready To Let Go](https://open.spotify.com/album/41G6NVgFdSr0ayTJCVJart) | 2:32 |
 | 27 | [Bette Davis Eyes](https://open.spotify.com/track/3EvFpQWu8rHgcVj07IgIVU) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Chris Deelay](https://open.spotify.com/artist/5tM2ADPVos6RHQgEYWvgs5) | [Bette Davis Eyes](https://open.spotify.com/album/013qC49DCJHQsEIHGEHdM3) | 2:30 |
 | 28 | [Killing Me Softly](https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Killing Me Softly](https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk) | 2:39 |
 | 29 | [My Pony](https://open.spotify.com/track/1UaaVPtlo795n1hWqHpOYS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/3DTLDnxeGFdJZSME6WYgE1) | 2:33 |

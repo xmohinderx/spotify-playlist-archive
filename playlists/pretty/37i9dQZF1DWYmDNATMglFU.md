@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. yungblud + willow
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,288 likes - 62 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,320 likes - 62 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Asgard",
       "url": "https://open.spotify.com/track/422I38B6wM8mWDUVwCn28f"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "A\u017e na m\u011bs\u00edc",
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 136000,
       "name": "Better Answer",
       "url": "https://open.spotify.com/track/0anxfgwu11pR53ZT5nUw5W"
@@ -1891,7 +1891,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 230341,
       "name": "c h c e l . s o m . i b a",
       "url": "https://open.spotify.com/track/4OnKI9IL9qZy9NXQEj8U3P"
@@ -2187,7 +2187,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-21",
+      "date_removed": null,
       "duration_ms": 214480,
       "name": "CHROME HEARTS FREESTYLE",
       "url": "https://open.spotify.com/track/4fnNRt3b36mTZK1o9QSWHK"
@@ -2717,7 +2717,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 178211,
       "name": "Do Everything - Original Mix",
       "url": "https://open.spotify.com/track/2U8fnZ8pU7Y9Fr1GORYVXo"
@@ -4629,7 +4629,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Hot Dropout",
       "url": "https://open.spotify.com/track/7fvEeoOaFOBiPafnfaRnG0"
@@ -6525,7 +6525,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 122517,
       "name": "Living Life, In The Night",
       "url": "https://open.spotify.com/track/6ChnGkBwnq2HUJD24YhMhW"
@@ -8877,7 +8877,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 144960,
       "name": "Papapa",
       "url": "https://open.spotify.com/track/7iYESRghFquAvJGcQNi1mP"
@@ -9843,7 +9843,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 179649,
       "name": "Ri\u0165",
       "url": "https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h"
@@ -10671,7 +10671,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -10729,7 +10729,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 181384,
       "name": "Space Between",
       "url": "https://open.spotify.com/track/4t9FYAYXUEMt1bf5qZH0Qt"
@@ -11716,6 +11716,24 @@
     },
     {
       "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -12189,7 +12207,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 188980,
       "name": "V Meste Snov - Mairee Remix",
       "url": "https://open.spotify.com/track/3FxylSc5ExaNur8xTbAEGv"

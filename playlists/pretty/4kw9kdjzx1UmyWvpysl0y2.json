@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128387,
+  "num_followers": 128386,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM5NywyNjE0NWU3YjI3NTJhYjU2MTA0YjI3Y2NkYzNmMGVkZWIxMTJlNTFj",
+  "snapshot_id": "MzM5OSxjNzZhZjk0MzUyYWE2OTYxMDUyYWFiMjYwZjBmNmJlODVmYTY4YzE5",
   "tracks": [
+    {
+      "added_at": "2022-05-10 16:21:04",
+      "album": {
+        "name": "Where U Are (Deluxe)",
+        "url": "https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3"
+      },
+      "artists": [
+        {
+          "name": "Throttle",
+          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "For Me - VIP",
+      "url": "https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM"
+    },
     {
       "added_at": "2022-05-09 16:29:08",
       "album": {
@@ -1063,22 +1079,6 @@
       "duration_ms": 148800,
       "name": "WYGD",
       "url": "https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Rainbow Rave Parade",
-        "url": "https://open.spotify.com/album/7D4xvOL1vzaKhLM2JIRkWz"
-      },
-      "artists": [
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Rainbow Rave Parade",
-      "url": "https://open.spotify.com/track/0hsD0hitwYa7SbFrpniYuS"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

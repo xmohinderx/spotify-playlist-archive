@@ -4,7 +4,7 @@
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Dylan Sinclair
 
-558 songs - 1 day 4 hr 20 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+560 songs - 1 day 4 hr 25 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Lady Luck](https://open.spotify.com/track/0eTPzuJHhd9XLgdzPNUY4c) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Lady Luck](https://open.spotify.com/album/4pWo8rRwgDEOXnrmvJXadY) | 2:52 | 2022-03-04 | 2022-04-02 |
 | [Lajan](https://open.spotify.com/track/1xH4bzkXRMsLJ3OyYflr0w) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [Lajan](https://open.spotify.com/album/3LThUsrUigKPQuUsgdnCcl) | 2:39 | 2022-03-04 | 2022-04-02 |
 | [lakeshore 7am](https://open.spotify.com/track/6gQrLzQVxpeIa3ZZYx5I2h) | [ghosthands](https://open.spotify.com/artist/1wNZGB5JKkcCu4EYNws9rL) | [wherever nowhere is](https://open.spotify.com/album/5kVJlxLZxujkl1U0y62SwA) | 2:44 | 2021-12-06 | 2022-01-08 |
+| [Lately](https://open.spotify.com/track/2Q6KT9dtkAPbT5uOltm6Tg) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Lately](https://open.spotify.com/album/0XSvrTwDa3fNbgaVm30XHO) | 3:14 | 2022-05-10 |  |
 | [Leave Me Alone](https://open.spotify.com/track/4KOYqYQEEPi5wix6DguxeY) | [Cassidy Mackenzie](https://open.spotify.com/artist/14JXusVq6FDp6vumZJWxd9) | [Leave Me Alone](https://open.spotify.com/album/7mT2ODwYvg7XJx4QZfTlVL) | 2:24 | 2022-04-01 | 2022-04-06 |
 | [Leaving](https://open.spotify.com/track/1goWGSN0d73rOVh3HMjbsM) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Leaving / Debonair](https://open.spotify.com/album/5WleeZXWPcPcDZcfNNKbli) | 3:25 | 2022-02-04 | 2022-03-05 |
 | [Leaving Tomorrow \- Figure It Out](https://open.spotify.com/track/10yqlnrWqzPxDGHVbCy9wi) | [jackie](https://open.spotify.com/artist/3NzCozHmvMqMMLDeTnCYwA) | [Leaving Tomorrow \(Figure It Out\)](https://open.spotify.com/album/0yTepgdP1HzSsI97ciQ4I6) | 3:38 | 2021-12-06 | 2022-01-08 |
@@ -433,7 +434,7 @@
 | [Respect](https://open.spotify.com/track/0PeScdUkFEeFRsIqMdr8tj) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [Respect](https://open.spotify.com/album/5JNQCu3nV5lWee8INFmUU9) | 4:07 | 2022-03-04 | 2022-04-02 |
 | [Respectfully](https://open.spotify.com/track/59ezMUPbbZ5xR8HAtGr24s) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Respectfully](https://open.spotify.com/album/1diIxbKoyP2QdHGU0cKKTs) | 2:30 | 2022-01-07 | 2022-03-05 |
 | [Rhythm of You](https://open.spotify.com/track/00cThe80WMLCYyXsjytrOq) | [Jenna Bennett](https://open.spotify.com/artist/01F4laId5DDuQ2UdV9ihcC) | [Rhythm of You](https://open.spotify.com/album/1quh5KBdh5voOJCYqnRgNx) | 2:16 | 2022-01-07 | 2022-02-05 |
-| [Rich](https://open.spotify.com/track/6MwfLRJcaqNQo8C215lT6k) | [Brian John Harwood](https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4), [Alli Walker](https://open.spotify.com/artist/0Nxzbyp5zDObdMurJZ7g5C), [Chris Labelle](https://open.spotify.com/artist/2gODSRZYGlEFhWNTfG5KJL) | [Rich](https://open.spotify.com/album/5Di3FdznilS153snIRehXk) | 3:14 | 2022-05-06 |  |
+| [Rich](https://open.spotify.com/track/6MwfLRJcaqNQo8C215lT6k) | [Brian John Harwood](https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4), [Alli Walker](https://open.spotify.com/artist/0Nxzbyp5zDObdMurJZ7g5C), [Chris Labelle](https://open.spotify.com/artist/2gODSRZYGlEFhWNTfG5KJL) | [Rich](https://open.spotify.com/album/5Di3FdznilS153snIRehXk) | 3:14 | 2022-05-06 | 2022-05-11 |
 | [Rich](https://open.spotify.com/track/69Fxo98uVzdxZn9ACnmyYZ) | [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Just for Now](https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy) | 1:47 | 2022-04-01 | 2022-05-07 |
 | [Right Here](https://open.spotify.com/track/0G6I0dl2cIditsaqLt608y) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [The Pilot](https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl) | 2:55 | 2022-03-04 | 2022-04-02 |
 | [Right Thing](https://open.spotify.com/track/7Md1PKQAKLS13OG5uomx7L) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s), [Piques](https://open.spotify.com/artist/1ELhwVuttnZmGrSCTYHTfH), [Rachel West](https://open.spotify.com/artist/41tTX9ryiiWbXaBN94eRiP) | [Right Thing](https://open.spotify.com/album/4OOIWeXHnVOODhkdSGYGZJ) | 3:00 | 2022-04-01 | 2022-05-07 |
@@ -485,6 +486,7 @@
 | [Stop A Heart](https://open.spotify.com/track/5WPMwhD9u8THuItYQFhggn) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Stop A Heart](https://open.spotify.com/album/5Q5MxnYdlBCOhJWstXFyGJ) | 2:53 | 2022-01-07 | 2022-02-05 |
 | [Strangers](https://open.spotify.com/track/1lyZzZ1EP9vscUbBXNQYrx) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [Strangers](https://open.spotify.com/album/0USiFav7oOkHJXQFApIX47) | 3:33 | 2022-04-01 | 2022-05-07 |
 | [Struggling](https://open.spotify.com/track/1BNw6qj11GrixmBUfFshVn) | [Liya Bombardier](https://open.spotify.com/artist/5Mpu0Q3NtAKnagP9pUJrxk) | [Struggling](https://open.spotify.com/album/7rwx5F4Q7MraUYAJSkSmDy) | 3:39 | 2021-12-06 | 2022-01-08 |
+| [Stuck in the Middle](https://open.spotify.com/track/0kJkiYAvGPwxcMgVznuS8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:21 | 2022-05-10 |  |
 | [Stumble My Words](https://open.spotify.com/track/51xGqrMU9CdhPGgDsJRgdF) | [Elijah Blond](https://open.spotify.com/artist/2VXLfW2EYO5KtZHCFQolnt) | [Stumble My Words](https://open.spotify.com/album/3gS8UA2zFny6qbVNW68jHJ) | 2:35 | 2022-03-04 | 2022-04-02 |
 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 | 2022-02-04 | 2022-03-05 |
 | [Suppress](https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Suppress \(Original\)](https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb) | 3:12 | 2022-03-04 | 2022-04-02 |
@@ -553,7 +555,7 @@
 | [we](https://open.spotify.com/track/2FgcBcHlIx5IREA4Iro6jt) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl) | [we](https://open.spotify.com/album/2mgBmbhjzXnh2YnWAfxJkz) | 3:03 | 2022-05-06 |  |
 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 | 2022-02-04 |  |
 | [we don't talk now](https://open.spotify.com/track/6mSH4YFZAI1y5uIXOtnVPe) | [Cindë](https://open.spotify.com/artist/6UmkItoyk0QIRoEQGMhEYz) | [we don't talk now](https://open.spotify.com/album/4kenw7b36JYba2IMdhxphq) | 2:30 | 2022-01-07 | 2022-02-05 |
-| [We Getting Rich](https://open.spotify.com/track/7A3dMjedhNKQmMossWQUpC) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [We Getting Rich](https://open.spotify.com/album/3ij4Gfms0GhTkssiKIcjBG) | 2:33 | 2022-05-06 |  |
+| [We Getting Rich](https://open.spotify.com/track/7A3dMjedhNKQmMossWQUpC) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [We Getting Rich](https://open.spotify.com/album/3ij4Gfms0GhTkssiKIcjBG) | 2:33 | 2022-05-06 | 2022-05-11 |
 | [We're All Gonna Die](https://open.spotify.com/track/0vQ6sPAB5lR3VhiOUAhQ9n) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [We're All Gonna Die](https://open.spotify.com/album/0YKNaAwk4NPSqJ8vS2dwyy) | 2:48 | 2022-05-06 |  |
 | [What Does That Make Me](https://open.spotify.com/track/3Gkz6glSbXuVkdNgIgzTXM) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [What Does That Make Me](https://open.spotify.com/album/46YDvX9MEU4pXNN7fJnB7Q) | 2:37 | 2022-03-04 |  |
 | [what u need](https://open.spotify.com/track/7mXNYo4eXnKNBx2yicz5MD) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [what u need](https://open.spotify.com/album/1u5HgNFQPwFaniRb3jx69G) | 3:14 | 2022-03-04 | 2022-04-02 |

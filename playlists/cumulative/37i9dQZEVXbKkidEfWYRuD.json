@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -5431,6 +5431,28 @@
       "duration_ms": 140029,
       "name": "Stick Out",
       "url": "https://open.spotify.com/track/53iGzPusAzNm0NaNrlWv8h"
+    },
+    {
+      "album": {
+        "name": "stockholm",
+        "url": "https://open.spotify.com/album/1YN6zv1vNao3vSsYkUTR7F"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        },
+        {
+          "name": "shinra",
+          "url": "https://open.spotify.com/artist/62FHJtmMEmNvNGu16VHbUp"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148494,
+      "name": "stockholm",
+      "url": "https://open.spotify.com/track/2ChVq8CrBPd0Ubxr6f2N8u"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-50 songs - 2 hr 34 min - not published yet
+50 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/0CtjBqW6TLNyPBdTIErUur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "For those that like it hard and heavy. Cover: BMTH",
   "name": "Heavy Gamers",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0CXUKaVOYdtwBBmW5qBSmh"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,10 +19,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 206571,
       "name": "A Mannequin Idol (Lullaby)",
       "url": "https://open.spotify.com/track/6dt9QPbM1cJcPd6r9n1XuK"
+    },
+    {
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "album": {
@@ -35,7 +55,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 298825,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/0UL668NCJKvzQuIgkwTQtz"
@@ -53,7 +73,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 207398,
       "name": "All Pride No Pain",
       "url": "https://open.spotify.com/track/2jwkM797DoehZMTIqB1BHI"
@@ -71,7 +91,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 318333,
       "name": "Alphawolves",
       "url": "https://open.spotify.com/track/7FW7tHO24Ud40rvvimmwtN"
@@ -197,7 +217,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 191440,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/4GOQLGfeCednzst9gy1M7S"
@@ -215,7 +235,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 328461,
       "name": "Black Veins",
       "url": "https://open.spotify.com/track/05SIf43ERRTKeJYrxyZCSB"
@@ -237,7 +257,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
@@ -309,7 +329,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 255693,
       "name": "Bones Exposed",
       "url": "https://open.spotify.com/track/0TbbFwClRBAyURSBynegzo"
@@ -331,6 +351,24 @@
       "duration_ms": 214211,
       "name": "Breaking the Mirror",
       "url": "https://open.spotify.com/track/3Ho0uOyCz245GWUqlWrkf5"
+    },
+    {
+      "album": {
+        "name": "Vultures Above, Lions Below",
+        "url": "https://open.spotify.com/album/6oZ1QfrRz8TfhVx6kbEO6u"
+      },
+      "artists": [
+        {
+          "name": "Buried In Verona",
+          "url": "https://open.spotify.com/artist/28lNAwWyDlBlBTIbW5tjAO"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277601,
+      "name": "Can't Be Unsaid",
+      "url": "https://open.spotify.com/track/4dberdtzKxdfwfcVjUKU2B"
     },
     {
       "album": {
@@ -429,7 +467,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 186066,
       "name": "Die MF Die",
       "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
@@ -537,7 +575,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 211430,
       "name": "Hated",
       "url": "https://open.spotify.com/track/4UTqFV199YTfDpGr5A99dJ"
@@ -591,7 +629,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 257836,
       "name": "Immortalized",
       "url": "https://open.spotify.com/track/2BqDbaNNOMdxKc6jfJ8O0e"
@@ -645,7 +683,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 237003,
       "name": "Into The Fire",
       "url": "https://open.spotify.com/track/7zWPlO8Mcjc5mQGf7v8dlE"
@@ -771,7 +809,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 161626,
       "name": "Looking Down The Barrel Of Today",
       "url": "https://open.spotify.com/track/2ZQo43TnA0XBUvPHSUfe2F"
@@ -915,7 +953,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/7gYL9E5WN7Nd8l2ZQ1rkKI"
@@ -1059,7 +1097,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 219184,
       "name": "Seasick Sailor",
       "url": "https://open.spotify.com/track/3I1VLSWBv6R9gMGbrESodh"
@@ -1113,10 +1151,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
+    },
+    {
+      "album": {
+        "name": "Ten Thousand Fists",
+        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "Stricken",
+      "url": "https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV"
     },
     {
       "album": {
@@ -1167,7 +1223,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 281332,
       "name": "The Black",
       "url": "https://open.spotify.com/track/4hiOIqf9nVmGVNI6LS5JPd"
@@ -1203,7 +1259,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 243853,
       "name": "The Heart from Your Hate",
       "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
@@ -1225,7 +1281,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 223357,
       "name": "The Hunted (feat. Sully Erna)",
       "url": "https://open.spotify.com/track/08vJxMYhmZu6YTWqVmLgrA"
@@ -1247,7 +1303,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
@@ -1319,7 +1375,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 236377,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/0COnTxJkjs9DkiIKYTXmqv"
@@ -1341,6 +1397,24 @@
       "duration_ms": 211957,
       "name": "Uber",
       "url": "https://open.spotify.com/track/04iX6F51I3EVfTn3QX4Qka"
+    },
+    {
+      "album": {
+        "name": "Eighteen Visions",
+        "url": "https://open.spotify.com/album/2DZCKhA1FdFJwRSKL2cPYM"
+      },
+      "artists": [
+        {
+          "name": "Eighteen Visions",
+          "url": "https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/38RTTDR84odCz5gQrLuZQR"
     },
     {
       "album": {
@@ -1435,6 +1509,24 @@
       "duration_ms": 254613,
       "name": "You Want a Battle? (Here's a War)",
       "url": "https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk"
+    },
+    {
+      "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220880,
+      "name": "You'll Never Find Me",
+      "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcOYQJYGaYjk"

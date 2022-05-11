@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53625,
+  "num_followers": 53626,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjE0NDM2OSwwMDAwMDAwMDVhMTU5Yjc2YjJlZWZhMDUxOGQ1ZGI4NmNkNzFjZWM1",
+  "snapshot_id": "MTY1MjIzMTI4MSwwMDAwMDAwMGUwZjA0OTJmZTI0Y2Q4ZDBjY2NkZDY2OTc0ZWZmZTdh",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -27,70 +27,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "A Boot and a Shoe",
-        "url": "https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS"
-      },
-      "artists": [
-        {
-          "name": "Sam Phillips",
-          "url": "https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "If I Could Write",
-      "url": "https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Literature Lovers",
-        "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
-      },
-      "artists": [
-        {
-          "name": "Jose Vanders",
-          "url": "https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "Literature Lovers",
-      "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Underachievers Please Try Harder",
-        "url": "https://open.spotify.com/album/1eF3PP2snssRgdHetawOMu"
-      },
-      "artists": [
-        {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
-        }
-      ],
-      "duration_ms": 313666,
-      "name": "Books Written for Girls",
-      "url": "https://open.spotify.com/track/2XaSDiVqxy1nvjs4LgNgRq"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/2js3lkzAjWpD656NK7ZaJX"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/6UGpcXcENaUqQKPc6oqOe4"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Parma Violets",
         "url": "https://open.spotify.com/album/0GzuW3EO2SQAsPKSUfl0zQ"
       },
@@ -103,134 +39,6 @@
       "duration_ms": 189106,
       "name": "Tonight I Feel Like Kafka",
       "url": "https://open.spotify.com/track/0un6V0wfo3eTYOfYeMF8cC"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 358520,
-      "name": "Annabel Lee",
-      "url": "https://open.spotify.com/track/4tXWVLyuoifdkM1ZQNwNVM"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Man Is Born for Trouble",
-        "url": "https://open.spotify.com/album/2GJUd7Bm5EytHCA5zONomU"
-      },
-      "artists": [
-        {
-          "name": "Joshua Powell & the Great Train Robbery",
-          "url": "https://open.spotify.com/artist/2Bg3YWw8JoE93lhqBPSEwx"
-        }
-      ],
-      "duration_ms": 263801,
-      "name": "Jack Kerouac",
-      "url": "https://open.spotify.com/track/5PNtTv39XP3MZsUwxzSv4S"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Sweet Ophelia",
-        "url": "https://open.spotify.com/album/1Ku2j8kIWfgAH1Z1g5rz6W"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 188758,
-      "name": "Sweet Ophelia",
-      "url": "https://open.spotify.com/track/3hMVNsHKnApzCa6Lw6vlVj"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Transatlanticism",
-        "url": "https://open.spotify.com/album/5XGQ4L4XsTI3uIZiAfeAum"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 475093,
-      "name": "Transatlanticism",
-      "url": "https://open.spotify.com/track/3PJikMV2xGNCooQttQrAw5"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4EnpeGmIkEf8nAaBLLTBZn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "White Blank Page",
-      "url": "https://open.spotify.com/track/5icXpqn5f2lukunvG7uA70"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Knives Don't Have Your Back",
-        "url": "https://open.spotify.com/album/5V8uC7hDWNdLdU2Gp6Cg9L"
-      },
-      "artists": [
-        {
-          "name": "Emily Haines & The Soft Skeleton",
-          "url": "https://open.spotify.com/artist/1b2U0VT1Z4ACqOihBL1fgw"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Reading in Bed",
-      "url": "https://open.spotify.com/track/2CX1ouDBKRTvkm8gNcT9IA"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "Oxford Comma",
-      "url": "https://open.spotify.com/track/2Ml0l8YWJLQhPrRDLpQaDM"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Great American Novel",
-        "url": "https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 234450,
-      "name": "Great American Novel",
-      "url": "https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -251,242 +59,82 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Break It Yourself / Hands of Glory (Deluxe)",
-        "url": "https://open.spotify.com/album/1TkDZ3ebL9ilggycoLazyl"
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 295413,
-      "name": "Orpheo Looks Back",
-      "url": "https://open.spotify.com/track/33NsXvwapmDA93cHM73G6L"
+      "duration_ms": 358520,
+      "name": "Annabel Lee",
+      "url": "https://open.spotify.com/track/4tXWVLyuoifdkM1ZQNwNVM"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Oh, Inverted World",
-        "url": "https://open.spotify.com/album/5OHMaK4q0XOFg1cAXYgeLw"
+        "name": "Knives Don't Have Your Back",
+        "url": "https://open.spotify.com/album/5V8uC7hDWNdLdU2Gp6Cg9L"
       },
       "artists": [
         {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+          "name": "Emily Haines & The Soft Skeleton",
+          "url": "https://open.spotify.com/artist/1b2U0VT1Z4ACqOihBL1fgw"
         }
       ],
-      "duration_ms": 231173,
-      "name": "New Slang",
-      "url": "https://open.spotify.com/track/5IXopLipnMznYNwLB9MzYi"
+      "duration_ms": 168960,
+      "name": "Reading in Bed",
+      "url": "https://open.spotify.com/track/2CX1ouDBKRTvkm8gNcT9IA"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/6r82tRlbx3BtoAJA17R1jy"
+        "name": "Literature Lovers",
+        "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
       },
       "artists": [
         {
-          "name": "The Divine Comedy",
-          "url": "https://open.spotify.com/artist/7EV6jW6dotBdvsHj6xPixi"
+          "name": "Jose Vanders",
+          "url": "https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Bernice Bobs Her Hair",
-      "url": "https://open.spotify.com/track/3gsvu1V2VXGxgHxtmhkjG6"
+      "duration_ms": 280933,
+      "name": "Literature Lovers",
+      "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "name": "Great American Novel",
+        "url": "https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu"
       },
       "artists": [
         {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Sylvia Plath",
-      "url": "https://open.spotify.com/track/0Vof9g11F4cbctYIR5UXTk"
+      "duration_ms": 234450,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Milton At Midnight",
-        "url": "https://open.spotify.com/album/1t4MIGZFUAF7HofsaSWIpk"
+        "name": "Underachievers Please Try Harder",
+        "url": "https://open.spotify.com/album/1eF3PP2snssRgdHetawOMu"
       },
       "artists": [
         {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
         }
       ],
-      "duration_ms": 346386,
-      "name": "Milton At Midnight",
-      "url": "https://open.spotify.com/track/40fH8V7f8zQht6dz2wYuLC"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "The Book I Read - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "And Don't The Kids Just Love It",
-        "url": "https://open.spotify.com/album/5cBqLcKAjmqFqoSE2sRqoV"
-      },
-      "artists": [
-        {
-          "name": "Television Personalities",
-          "url": "https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "A Picture Of Dorian Gray",
-      "url": "https://open.spotify.com/track/7cIqQuICcPHoOqm9HD5lfY"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "The Best Of The First 10 Years",
-        "url": "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 234853,
-      "name": "Everyday I Write The Book",
-      "url": "https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Tape Deck Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6CEOMDFTAWceOUHBux3YS2"
-      },
-      "artists": [
-        {
-          "name": "Frank Turner",
-          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
-        }
-      ],
-      "duration_ms": 299386,
-      "name": "The Fisher King Blues",
-      "url": "https://open.spotify.com/track/1zQY0eYND0ZPSFxw3gGupB"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Modern Times",
-        "url": "https://open.spotify.com/album/0rQNbh30FGToVpqoWmGfl5"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Sirens of Titan",
-      "url": "https://open.spotify.com/track/395ZYCrLELWM3MtMzGskaF"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Sailing to Philadelphia",
-        "url": "https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 329866,
-      "name": "Sailing to Philadelphia",
-      "url": "https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "The Writer",
-      "url": "https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Red Dirt Girl",
-        "url": "https://open.spotify.com/album/5C7B6Wi35TyMOQVtt2eRAV"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "My Antonia",
-      "url": "https://open.spotify.com/track/6yCwfs5qUdG8ySrLl2lgOh"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Thought for Food (Remastered)",
-        "url": "https://open.spotify.com/album/48a3f6QKcnP6Wuo4P96Uvj"
-      },
-      "artists": [
-        {
-          "name": "The Books",
-          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Read, Eat, Sleep",
-      "url": "https://open.spotify.com/track/1EUUhXljq9QUJONkKkYGlT"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Spotify Sessions - Curated by Jim Eno",
-        "url": "https://open.spotify.com/album/42Fu7ZldhKPIis5xdHtbro"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 255756,
-      "name": "I'm Writing A Novel - Spotify Sessions Curated by Jim Eno",
-      "url": "https://open.spotify.com/track/1QIOQ3XARduygQqRIif0f7"
+      "duration_ms": 313666,
+      "name": "Books Written for Girls",
+      "url": "https://open.spotify.com/track/2XaSDiVqxy1nvjs4LgNgRq"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -507,178 +155,98 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/0rQNbh30FGToVpqoWmGfl5"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
         }
       ],
-      "duration_ms": 153840,
-      "name": "Soma",
-      "url": "https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp"
+      "duration_ms": 169706,
+      "name": "Sirens of Titan",
+      "url": "https://open.spotify.com/track/395ZYCrLELWM3MtMzGskaF"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Hold My Home",
-        "url": "https://open.spotify.com/album/01x41UlgUnQ3QX5OLcIKFo"
+        "name": "A Boot and a Shoe",
+        "url": "https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS"
       },
       "artists": [
         {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+          "name": "Sam Phillips",
+          "url": "https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa"
         }
       ],
-      "duration_ms": 252026,
-      "name": "Harold Bloom",
-      "url": "https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0"
+      "duration_ms": 138066,
+      "name": "If I Could Write",
+      "url": "https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Opheliac - The Deluxe Edition",
-        "url": "https://open.spotify.com/album/2xjmTbsluAW5Y2WHqVwgqA"
+        "name": "Thought for Food (Remastered)",
+        "url": "https://open.spotify.com/album/48a3f6QKcnP6Wuo4P96Uvj"
       },
       "artists": [
         {
-          "name": "Emilie Autumn",
-          "url": "https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC"
+          "name": "The Books",
+          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
         }
       ],
-      "duration_ms": 244373,
-      "name": "Shalott",
-      "url": "https://open.spotify.com/track/3zqqk1rqSOX5P30blEoShn"
+      "duration_ms": 229226,
+      "name": "Read, Eat, Sleep",
+      "url": "https://open.spotify.com/track/1EUUhXljq9QUJONkKkYGlT"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Billy Breathes",
-        "url": "https://open.spotify.com/album/4Gesl7yxQQF2taqnoEy3NN"
+        "name": "Oh, Inverted World",
+        "url": "https://open.spotify.com/album/5OHMaK4q0XOFg1cAXYgeLw"
       },
       "artists": [
         {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
         }
       ],
-      "duration_ms": 319293,
-      "name": "Prince Caspian",
-      "url": "https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs"
+      "duration_ms": 231173,
+      "name": "New Slang",
+      "url": "https://open.spotify.com/track/5IXopLipnMznYNwLB9MzYi"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Kning Disk 2005-2012 Box Set",
-        "url": "https://open.spotify.com/album/2ArS0SJEyL8GAuV8lACeUu"
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4EnpeGmIkEf8nAaBLLTBZn"
       },
       "artists": [
         {
-          "name": "Erik Enocksson",
-          "url": "https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 244312,
-      "name": "The Joy of D.H. Lawrence",
-      "url": "https://open.spotify.com/track/32NuTwiZpdX9ZrC7TNvn3w"
+      "duration_ms": 253106,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/5icXpqn5f2lukunvG7uA70"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
         }
       ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "The Bends (Collector's Edition)",
-        "url": "https://open.spotify.com/album/1P1LYaTMV1LnDiHA3LOows"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 141680,
-      "name": "Banana Co.",
-      "url": "https://open.spotify.com/track/0PNFruXOgV5Vsf3OjsiDYW"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "We All Raise Our Voices to the Air",
-        "url": "https://open.spotify.com/album/6r2xiR4Cbu6y22VEKIIITH"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        }
-      ],
-      "duration_ms": 401101,
-      "name": "Billy Liar - Live",
-      "url": "https://open.spotify.com/track/5H84IgNRpdyqgCMLteZFfs"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 973173,
-      "name": "Goodbye Sky Harbor",
-      "url": "https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "Lolita",
-      "url": "https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Chainmail and Cello",
-        "url": "https://open.spotify.com/album/19q5b0ZqgnNgSO5hEcHhKa"
-      },
-      "artists": [
-        {
-          "name": "The Doubleclicks",
-          "url": "https://open.spotify.com/artist/5ArdcVqH6mTD6zNNuuMNaJ"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Oh, Mr. Darcy",
-      "url": "https://open.spotify.com/track/5TJRMmxQW1WbLh5ZUMfYe0"
+      "duration_ms": 169293,
+      "name": "Jocasta",
+      "url": "https://open.spotify.com/track/5R3JnfxKQYSH4Njj9ZtXqq"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -699,66 +267,34 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+        "name": "Break It Yourself / Hands of Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/1TkDZ3ebL9ilggycoLazyl"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         }
       ],
-      "duration_ms": 237400,
-      "name": "42",
-      "url": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
+      "duration_ms": 295413,
+      "name": "Orpheo Looks Back",
+      "url": "https://open.spotify.com/track/33NsXvwapmDA93cHM73G6L"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "After Bathing At Baxters",
-        "url": "https://open.spotify.com/album/4YYeywv0sLkLAGbJuKJIdi"
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
       "artists": [
         {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Rejoyce",
-      "url": "https://open.spotify.com/track/2XClue0OiR8tBFuObNCvZ0"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Hate the Villanelle",
-        "url": "https://open.spotify.com/album/4HzeliPMG1yywJ4Jw4kJRx"
-      },
-      "artists": [
-        {
-          "name": "They Might Be Giants",
-          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
-        }
-      ],
-      "duration_ms": 112386,
-      "name": "Hate the Villanelle",
-      "url": "https://open.spotify.com/track/3fPSVnmmq2nOWM4VOmiKww"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Hard Believer",
-        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 378239,
-      "name": "Shakespeare",
-      "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
+      "duration_ms": 973173,
+      "name": "Goodbye Sky Harbor",
+      "url": "https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -779,6 +315,118 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Hate the Villanelle",
+        "url": "https://open.spotify.com/album/4HzeliPMG1yywJ4Jw4kJRx"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        }
+      ],
+      "duration_ms": 112386,
+      "name": "Hate the Villanelle",
+      "url": "https://open.spotify.com/track/3fPSVnmmq2nOWM4VOmiKww"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2js3lkzAjWpD656NK7ZaJX"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/6UGpcXcENaUqQKPc6oqOe4"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/6r82tRlbx3BtoAJA17R1jy"
+      },
+      "artists": [
+        {
+          "name": "The Divine Comedy",
+          "url": "https://open.spotify.com/artist/7EV6jW6dotBdvsHj6xPixi"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Bernice Bobs Her Hair",
+      "url": "https://open.spotify.com/track/3gsvu1V2VXGxgHxtmhkjG6"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Transatlanticism",
+        "url": "https://open.spotify.com/album/5XGQ4L4XsTI3uIZiAfeAum"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 475093,
+      "name": "Transatlanticism",
+      "url": "https://open.spotify.com/track/3PJikMV2xGNCooQttQrAw5"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "The Writer",
+      "url": "https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "The Best Of The First 10 Years",
+        "url": "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 234853,
+      "name": "Everyday I Write The Book",
+      "url": "https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Actually Not",
+        "url": "https://open.spotify.com/album/1JzoeSNKgijDPegyr1gvuV"
+      },
+      "artists": [
+        {
+          "name": "Eddie From Ohio",
+          "url": "https://open.spotify.com/artist/2DVqRDtPOOCl9gbzlhJkZg"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/6BxZ0Pio6d1OOaFATHVj7J"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "No Line On The Horizon",
         "url": "https://open.spotify.com/album/2cVfcuckyfRP6KVAHsRPHC"
       },
@@ -795,6 +443,214 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Oxford Comma",
+      "url": "https://open.spotify.com/track/2Ml0l8YWJLQhPrRDLpQaDM"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "The Bends (Collector's Edition)",
+        "url": "https://open.spotify.com/album/1P1LYaTMV1LnDiHA3LOows"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 141680,
+      "name": "Banana Co.",
+      "url": "https://open.spotify.com/track/0PNFruXOgV5Vsf3OjsiDYW"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Sylvia Plath",
+      "url": "https://open.spotify.com/track/0Vof9g11F4cbctYIR5UXTk"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "The Way We Are",
+        "url": "https://open.spotify.com/album/2K7H7PhclTb5jzUUd3vJ84"
+      },
+      "artists": [
+        {
+          "name": "Fleming & John",
+          "url": "https://open.spotify.com/artist/5hpLRSi6V5nzmk8YRKKqLC"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "The Pearl",
+      "url": "https://open.spotify.com/track/1zBCwvQhBJ8apOFRnR9xss"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Billy Breathes",
+        "url": "https://open.spotify.com/album/4Gesl7yxQQF2taqnoEy3NN"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 319293,
+      "name": "Prince Caspian",
+      "url": "https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Sailing to Philadelphia",
+        "url": "https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 329866,
+      "name": "Sailing to Philadelphia",
+      "url": "https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Milton At Midnight",
+        "url": "https://open.spotify.com/album/1t4MIGZFUAF7HofsaSWIpk"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "duration_ms": 346386,
+      "name": "Milton At Midnight",
+      "url": "https://open.spotify.com/track/40fH8V7f8zQht6dz2wYuLC"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Tape Deck Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6CEOMDFTAWceOUHBux3YS2"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "duration_ms": 299386,
+      "name": "The Fisher King Blues",
+      "url": "https://open.spotify.com/track/1zQY0eYND0ZPSFxw3gGupB"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "The Book I Read - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "The End Of History",
+        "url": "https://open.spotify.com/album/3AiBzMGzdk5QQWLWRhXUTz"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "The Underwood Typewriter",
+      "url": "https://open.spotify.com/track/4ccugwlZ3EWVmPgfsYjCSk"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Man Is Born for Trouble",
+        "url": "https://open.spotify.com/album/2GJUd7Bm5EytHCA5zONomU"
+      },
+      "artists": [
+        {
+          "name": "Joshua Powell & the Great Train Robbery",
+          "url": "https://open.spotify.com/artist/2Bg3YWw8JoE93lhqBPSEwx"
+        }
+      ],
+      "duration_ms": 263801,
+      "name": "Jack Kerouac",
+      "url": "https://open.spotify.com/track/5PNtTv39XP3MZsUwxzSv4S"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "And Don't The Kids Just Love It",
+        "url": "https://open.spotify.com/album/5cBqLcKAjmqFqoSE2sRqoV"
+      },
+      "artists": [
+        {
+          "name": "Television Personalities",
+          "url": "https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "A Picture Of Dorian Gray",
+      "url": "https://open.spotify.com/track/7cIqQuICcPHoOqm9HD5lfY"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "Under The Piccadilly Clock",
         "url": "https://open.spotify.com/album/24KEGikQvg3S45VSwKTwUP"
       },
@@ -807,6 +663,150 @@
       "duration_ms": 283681,
       "name": "Dear Seamus Heaney",
       "url": "https://open.spotify.com/track/28qRYCVGXVsm5UfheQ2DRi"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4X6YC6PgSMt5s7ARwGpLJ7"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "Love and Destroy - Live",
+      "url": "https://open.spotify.com/track/3ml0GdsJ9DvDESGbzXoAO3"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Fashion Nugget",
+        "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Open Book",
+      "url": "https://open.spotify.com/track/3vmgOwQdZTbdT1W54eeEy0"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Chainmail and Cello",
+        "url": "https://open.spotify.com/album/19q5b0ZqgnNgSO5hEcHhKa"
+      },
+      "artists": [
+        {
+          "name": "The Doubleclicks",
+          "url": "https://open.spotify.com/artist/5ArdcVqH6mTD6zNNuuMNaJ"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Oh, Mr. Darcy",
+      "url": "https://open.spotify.com/track/5TJRMmxQW1WbLh5ZUMfYe0"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Hold My Home",
+        "url": "https://open.spotify.com/album/01x41UlgUnQ3QX5OLcIKFo"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "Harold Bloom",
+      "url": "https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/0mDWJb8omHOpMdayXdLiBG"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Harper Lee",
+      "url": "https://open.spotify.com/track/4MfmlkRKhlREunOHnasUhm"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Black and White",
+        "url": "https://open.spotify.com/album/5PfI1x0Rub41UUeLEksUCU"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 135533,
+      "name": "Hey! (Rise of the Robots)",
+      "url": "https://open.spotify.com/track/4ipaeAKjSDIajzALCDfo2h"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Postdoc Blues",
+        "url": "https://open.spotify.com/album/6gohVbR0EIu7cQ4joT4ELg"
+      },
+      "artists": [
+        {
+          "name": "John K. Samson",
+          "url": "https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ"
+        }
+      ],
+      "duration_ms": 203091,
+      "name": "Postdoc Blues",
+      "url": "https://open.spotify.com/track/7EwsFukgOtMzcXjL6BZVJD"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Hard Believer",
+        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 378239,
+      "name": "Shakespeare",
+      "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Opheliac - The Deluxe Edition",
+        "url": "https://open.spotify.com/album/2xjmTbsluAW5Y2WHqVwgqA"
+      },
+      "artists": [
+        {
+          "name": "Emilie Autumn",
+          "url": "https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC"
+        }
+      ],
+      "duration_ms": 244373,
+      "name": "Shalott",
+      "url": "https://open.spotify.com/track/3zqqk1rqSOX5P30blEoShn"
     }
   ],
   "unique_name": "The Writer's Playlist",

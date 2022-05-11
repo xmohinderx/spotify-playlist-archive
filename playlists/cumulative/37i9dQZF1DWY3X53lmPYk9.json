@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
+    },
+    {
+      "album": {
         "name": "Past Closing Time",
         "url": "https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z"
       },
@@ -495,7 +513,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 272250,
       "name": "For Heaven's Sake",
       "url": "https://open.spotify.com/track/1Awk77fTG0Vf17KlekKECz"
@@ -1417,6 +1435,24 @@
       "duration_ms": 210933,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/4Ws7Bm2Nhbm83Tz4gRxpIx"
+    },
+    {
+      "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/4viivNC5h64WwbgUg8UAFe"
+      },
+      "artists": [
+        {
+          "name": "Penford Giles",
+          "url": "https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Soul Eyes",
+      "url": "https://open.spotify.com/track/26Wo7WEQKKuGg4JeouLnfk"
     },
     {
       "album": {

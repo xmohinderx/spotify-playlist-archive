@@ -4,13 +4,13 @@
 
 > Riscopri le più grandi hit del 2013! Cover: Avicii
 
-102 songs - 6 hr 27 min - not published yet
+102 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/34En1MSOiDJz5Riv1ykLOu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#thatPOWER](https://open.spotify.com/track/01TuObJVd7owWchVRuQbQw) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [\#willpower \(Deluxe\)](https://open.spotify.com/album/0VWYRbEcvJcPrqMGJirO6q) | 4:39 | 2020-11-04 |  |
 | [A Thousand Years](https://open.spotify.com/track/1qU8pLmJNC0V2aSOStjWcX) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Autumn Acoustic](https://open.spotify.com/album/1kYHHpDcM4smMMDQPU46EB) | 4:45 | 2020-11-04 |  |
-| [Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al) | 3:24 | 2020-11-04 | 2022-05-10 |
+| [Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al) | 3:24 | 2020-11-04 |  |
 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 | 2020-11-04 |  |
 | [Amami](https://open.spotify.com/track/2phTOGr8mQVX3iqIZ4gAmO) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:49 | 2020-11-04 |  |
 | [Amore puro](https://open.spotify.com/track/3BjBVIULBQDN6JxaKsWWYZ) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Amore Puro](https://open.spotify.com/album/4k9wqPruX6HaTZ7FEsI0qe) | 4:28 | 2020-11-04 |  |
@@ -47,7 +47,7 @@
 | [I Love You](https://open.spotify.com/track/3Z3TQEwsPHL5xQc5J3Mx6F) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [La Teoria Dei Colori](https://open.spotify.com/album/3OpmNTT7hIZMoO9NNcKnmz) | 4:49 | 2020-11-04 |  |
 | [I Need Your Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:54 | 2020-11-04 |  |
 | [I See You](https://open.spotify.com/track/6WGvIhK54ajmod6oLgQ8oJ) | [Jutty Ranx](https://open.spotify.com/artist/657VANLTRgTFElFKbqzhXs) | [Jutty Ranx](https://open.spotify.com/album/6bFbAx1T6f5LilPH14iCST) | 3:39 | 2020-11-04 |  |
-| [I Will Wait](https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 4:36 | 2020-11-04 |  |
+| [I Will Wait](https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 4:36 | 2020-11-04 | 2022-05-11 |
 | [I'm in Love](https://open.spotify.com/track/1KByBhnclwLRnDh9D5ofhE) | [Ola](https://open.spotify.com/artist/0C2nBa56HaSisckWUDOhp0) | [I'm in Love](https://open.spotify.com/album/4UQyVrRGD9Ks1RjDDIs1YT) | 3:19 | 2020-11-04 |  |
 | [Il sale della terra](https://open.spotify.com/track/3jmhqUdrFYMfU8MgPRGLgH) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Mondovisione](https://open.spotify.com/album/53A8DHAKXPagVVuyFRZV45) | 3:58 | 2020-11-04 |  |
 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 | 2020-11-04 |  |

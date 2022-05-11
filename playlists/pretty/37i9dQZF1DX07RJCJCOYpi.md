@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The leading wave of Latin Electronic music\. Cover: Tokischa & Marshmello
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742,678 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,742,696 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 16 | [Gastar](https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:29 |
 | 17 | [Mesera](https://open.spotify.com/track/0DJCGoZodGjfEz5TUOJLKc) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Mesera](https://open.spotify.com/album/5XyrI2rounQVQaxybEYmea) | 4:17 |
 | 18 | [Loco Toditos](https://open.spotify.com/track/3PCnoYjmTmOEZvTOopA8nJ) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB) | [Loco Toditos](https://open.spotify.com/album/3fLplolZzEdJ0BCg6gx7jL) | 4:19 |
-| 19 | [Hace Calor \- Remix](https://open.spotify.com/track/0Wb0G3YcE4hY7LbF3ppEEQ) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Hace Calor \- Remix](https://open.spotify.com/album/3xqKPEu68JbqshG5UXdEcP) | 3:17 |
+| 19 | [Hace Calor \- Remix](https://open.spotify.com/track/0Wb0G3YcE4hY7LbF3ppEEQ) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Hace Calor \(Remix\)](https://open.spotify.com/album/3xqKPEu68JbqshG5UXdEcP) | 3:17 |
 | 20 | [Fenix \- Radio Edit](https://open.spotify.com/track/1kATj4UD3ZO9EeiEyRXBx0) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Hidd Sage](https://open.spotify.com/artist/3d6BUISFDk2Nkb1NUOuTrc) | [Fenix \(Radio Edit\)](https://open.spotify.com/album/4OWOcaoeR6A6HmOfC2UYyQ) | 2:35 |
 | 21 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 |
 | 22 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 |

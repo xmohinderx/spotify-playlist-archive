@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 362520,
       "name": "A Rezadeira / Cita\u00e7\u00e3o: Relampiano",
       "url": "https://open.spotify.com/track/007sJHWSRsuNKIfzV6Nfrq"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 154732,
       "name": "Avenida da Paix\u00e3o",
       "url": "https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 193186,
       "name": "Banho de Cheiro",
       "url": "https://open.spotify.com/track/1rpKo0qWagKkzkNEl97gHa"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 186600,
       "name": "Bloco do Prazer",
       "url": "https://open.spotify.com/track/6eB7SGRyrooX9CBc4CdNjf"
@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Papo",
+        "url": "https://open.spotify.com/album/5Z4E3FForlEGcAEHnzHPk9"
+      },
+      "artists": [
+        {
+          "name": "Gab Lara",
+          "url": "https://open.spotify.com/artist/4fMswJeTIgrLStwvUi1npH"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123711,
+      "name": "Dan\u00e7a das Cadeiras",
+      "url": "https://open.spotify.com/track/5HxGPli68CgNBfLmnxEQAU"
+    },
+    {
+      "album": {
         "name": "Deus Dar\u00e1",
         "url": "https://open.spotify.com/album/0SKdz4tg0amar2xN2kbg77"
       },
@@ -917,7 +935,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 219402,
       "name": "Duas Cidades",
       "url": "https://open.spotify.com/track/1m37OSnud3w0yuFSW4SIPS"
@@ -1222,6 +1240,28 @@
     },
     {
       "album": {
+        "name": "SambadorA",
+        "url": "https://open.spotify.com/album/7gaN0jN1DMDqu4HcrO1THK"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f4nica Ferriani",
+          "url": "https://open.spotify.com/artist/4VrFWmVoU4k6pJzLSe82WA"
+        },
+        {
+          "name": "Gian Correa",
+          "url": "https://open.spotify.com/artist/3AU1eNnX4ndJA0m73d9qCc"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228169,
+      "name": "Folia",
+      "url": "https://open.spotify.com/track/6j6yrIDSsci3JYiVNgwGLf"
+    },
+    {
+      "album": {
         "name": "Fotografia",
         "url": "https://open.spotify.com/album/12SOHqx4GvA4nuExDt8T3q"
       },
@@ -1349,7 +1389,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 225937,
       "name": "Imploro",
       "url": "https://open.spotify.com/track/6ecOTGiXeKhZXhhi9vWFXo"
@@ -1747,7 +1787,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 236571,
       "name": "Minha Sorte",
       "url": "https://open.spotify.com/track/2SMjj8a6XAoqOhvupESVdw"
@@ -1772,6 +1812,28 @@
     },
     {
       "album": {
+        "name": "Motor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4YuWaSYxTtWgXl56ol4PfP"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Macaco Gordo",
+          "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301633,
+      "name": "Motor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0MAUCWvw8T3p2fF2KWHLHr"
+    },
+    {
+      "album": {
         "name": "Mucuripe",
         "url": "https://open.spotify.com/album/7gjqSsgexMOUAUBufSXIIv"
       },
@@ -1787,7 +1849,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 238863,
       "name": "Mucuripe",
       "url": "https://open.spotify.com/track/2Fil7M2pF2cduAopaetUaT"
@@ -1845,7 +1907,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 182181,
       "name": "Negue",
       "url": "https://open.spotify.com/track/2Es7AW2PulafR8CAK99QQS"
@@ -2063,7 +2125,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 204105,
       "name": "O Sopro do Fole",
       "url": "https://open.spotify.com/track/3u2zL0NVgyrGn0dJI5n5zM"
@@ -2176,6 +2238,28 @@
     },
     {
       "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/5QIWz1av0rbONJABrpRuYn"
+      },
+      "artists": [
+        {
+          "name": "anaju",
+          "url": "https://open.spotify.com/artist/2dnx2zp2G1iSOnq3Ewj1a6"
+        },
+        {
+          "name": "Rico Ayade",
+          "url": "https://open.spotify.com/artist/5A0Pp47ofdvsy8FCi7kGsJ"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260051,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/2NkzUMfws5Xx3DFxUy58Vi"
+    },
+    {
+      "album": {
         "name": "Paix\u00e3o",
         "url": "https://open.spotify.com/album/5pxIsqLAzPEs63Q4SuYVbB"
       },
@@ -2187,7 +2271,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 243189,
       "name": "Paix\u00e3o",
       "url": "https://open.spotify.com/track/0a5h4bVwbVH2YbVuZ4pLM3"
@@ -2227,6 +2311,28 @@
       "duration_ms": 186183,
       "name": "Pantanal",
       "url": "https://open.spotify.com/track/6nZBL8AM0kxV25bU0fB94A"
+    },
+    {
+      "album": {
+        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
+        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Orquestra Ouro Preto",
+          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319000,
+      "name": "Papel Mach\u00ea",
+      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
     },
     {
       "album": {
@@ -2879,7 +2985,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 268201,
       "name": "Se Voc\u00ea Tem Amor",
       "url": "https://open.spotify.com/track/4n0Cl3xaeWmMaD3di8aKEo"
@@ -2987,7 +3093,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 228527,
       "name": "Senhora Estrada",
       "url": "https://open.spotify.com/track/04KC2JCZIZewiMRlmwiQPt"
@@ -3173,6 +3279,24 @@
       "duration_ms": 202549,
       "name": "Teimosa",
       "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
+    },
+    {
+      "album": {
+        "name": "Tem Gente",
+        "url": "https://open.spotify.com/album/264e5YpvAMhsphlfvQGNjc"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Suplicy",
+          "url": "https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221601,
+      "name": "Tem Gente",
+      "url": "https://open.spotify.com/track/68V1U8mQCWG85jypot6rmU"
     },
     {
       "album": {
@@ -3493,6 +3617,24 @@
       "duration_ms": 233706,
       "name": "Vermelho Esperan\u00e7a",
       "url": "https://open.spotify.com/track/5U9Xv9WkBPTOignYWp6niI"
+    },
+    {
+      "album": {
+        "name": "Vertigem",
+        "url": "https://open.spotify.com/album/5WsKg8oo2Q05vnBkYQ58XV"
+      },
+      "artists": [
+        {
+          "name": "Theo Bial",
+          "url": "https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204589,
+      "name": "Vertigem",
+      "url": "https://open.spotify.com/track/7n89SLMdyzUITl1JwgQ5QE"
     },
     {
       "album": {

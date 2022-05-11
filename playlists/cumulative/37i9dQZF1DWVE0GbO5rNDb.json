@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Musica dance per le tue giornate di sole!",
   "name": "Voglia di Sole",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3Pw35BSQu6TzKW6AUFPPlG"
+  ],
   "tracks": [
     {
       "album": {
@@ -121,6 +123,24 @@
       "duration_ms": 158807,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR"
+    },
+    {
+      "album": {
+        "name": "Beast and Beauty",
+        "url": "https://open.spotify.com/album/5uuv4vYnILdQZ891fW3sbQ"
+      },
+      "artists": [
+        {
+          "name": "BOI",
+          "url": "https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194013,
+      "name": "Beast and Beauty",
+      "url": "https://open.spotify.com/track/2rVyuYkkxF3VIW47Aq5tEG"
     },
     {
       "album": {
@@ -323,7 +343,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 166977,
       "name": "Can't Forget You",
       "url": "https://open.spotify.com/track/726GMkrLFseCdHebF8LdVU"
@@ -371,7 +391,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 169901,
       "name": "Closer (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d"
@@ -455,7 +475,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 174448,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
@@ -573,7 +593,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
@@ -635,6 +655,24 @@
       "duration_ms": 169672,
       "name": "Feels Like Love (feat. MIYA MIYA)",
       "url": "https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc"
+    },
+    {
+      "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/0dwCZmrxAzntiQ7x35ZG5U"
+      },
+      "artists": [
+        {
+          "name": "Dualities",
+          "url": "https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184390,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/6viAMV0RuBb5nmzpPlYMAJ"
     },
     {
       "album": {
@@ -806,6 +844,28 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/05AfPJoqp6YxmB6ohXiiHs"
+      },
+      "artists": [
+        {
+          "name": "Federico Gardenghi",
+          "url": "https://open.spotify.com/artist/6AVQFHQPMbdBn9GvfEyAuf"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131217,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/0G3E42efyWKiLLHF3yLdAm"
+    },
+    {
+      "album": {
         "name": "Hold You Now",
         "url": "https://open.spotify.com/album/7FVgrPmuhrFOKADtB8gOPS"
       },
@@ -821,7 +881,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 160640,
       "name": "Hold You Now",
       "url": "https://open.spotify.com/track/3AxpRRbVa9Ej1H9oNwjFm1"
@@ -887,7 +947,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 167307,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
@@ -1022,6 +1082,28 @@
     },
     {
       "album": {
+        "name": "Jaleen",
+        "url": "https://open.spotify.com/album/5xOzJlvWDnd0C257RUlxuD"
+      },
+      "artists": [
+        {
+          "name": "Tobi Ibitoye",
+          "url": "https://open.spotify.com/artist/5gtWFQFiFnp2y50iY1PWbA"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168625,
+      "name": "Jaleen",
+      "url": "https://open.spotify.com/track/23VuPmeXay3jatu8wwBXjc"
+    },
+    {
+      "album": {
         "name": "Jumpin'",
         "url": "https://open.spotify.com/album/0HkIYDIdHJCSQYl8xJeZlu"
       },
@@ -1037,7 +1119,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 155000,
       "name": "Jumpin'",
       "url": "https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W"
@@ -1224,6 +1306,28 @@
     },
     {
       "album": {
+        "name": "Love You Again (feat. Akua)",
+        "url": "https://open.spotify.com/album/5F3slII7s40r8LCAplnBm8"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        },
+        {
+          "name": "Akua",
+          "url": "https://open.spotify.com/artist/3Y4VaqWeDWuLEHqB0s4Vmi"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "Love You Again (feat. Akua)",
+      "url": "https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8"
+    },
+    {
+      "album": {
         "name": "Make You Feel Like",
         "url": "https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU"
       },
@@ -1239,7 +1343,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 187372,
       "name": "Make You Feel Like",
       "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
@@ -1361,7 +1465,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 169779,
       "name": "Nah (feat. Sinead Harnett)",
       "url": "https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2"
@@ -1401,7 +1505,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 181741,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu"
@@ -2062,6 +2166,24 @@
     },
     {
       "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+    },
+    {
+      "album": {
         "name": "Summer In Love",
         "url": "https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp"
       },
@@ -2073,7 +2195,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 195330,
       "name": "Summer In Love",
       "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
@@ -2489,7 +2611,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 149032,
       "name": "Zookey 2021 (feat. Roland Richards)",
       "url": "https://open.spotify.com/track/2Q3hNa3KnynBpSNWHwzAaC"

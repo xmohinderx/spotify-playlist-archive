@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-154 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+155 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [First Place](https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [First Place](https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ) | 3:13 | 2022-04-22 |  |
 | [Fly](https://open.spotify.com/track/2UUQvhfb7Gt0izk5DYfuAe) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Dream Theory](https://open.spotify.com/album/2AXJp4mHs0986xB690fVHg) | 3:35 | 2021-11-19 | 2022-02-12 |
 | [Focus](https://open.spotify.com/track/07k7gIv8XStlvnEg0RCTPl) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Focus](https://open.spotify.com/album/7Bg9AsWPf5woCRpDs8UFks) | 3:58 | 2022-04-20 |  |
+| [For Me \- VIP](https://open.spotify.com/track/5ZI2uKHpKza44XVsRZy7lM) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Where U Are \(Deluxe\)](https://open.spotify.com/album/44mrlkVIPFnIttUdp1X4i3) | 3:00 | 2022-05-10 |  |
 | [Forget About Me](https://open.spotify.com/track/5dvLCzrpzVHYdOUdIL9EHW) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Forget About Me](https://open.spotify.com/album/4H71ai7RsurejlGLvjdzoz) | 2:35 | 2022-03-29 |  |
 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-07 |  |
 | [Garden Of The Gods](https://open.spotify.com/track/4AZEvIDQpzyib7BX4Cd91U) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Discognition](https://open.spotify.com/artist/1VTyOD5RJcYUGn9uPFV5my), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Garden Of The Gods](https://open.spotify.com/album/7KYoqdpnKj02uvmm9iMkQq) | 4:21 | 2022-05-06 |  |
@@ -109,7 +110,7 @@
 | [Outta My Head](https://open.spotify.com/track/2kYEXIl4BmVZ7WxCRTvnns) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [BXU](https://open.spotify.com/album/4nwYxSA4OjDBTFpiY2yKoJ) | 2:29 | 2022-04-12 |  |
 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 | 2022-04-05 |  |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |
-| [Rainbow Rave Parade](https://open.spotify.com/track/0hsD0hitwYa7SbFrpniYuS) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Rainbow Rave Parade](https://open.spotify.com/album/7D4xvOL1vzaKhLM2JIRkWz) | 3:32 | 2022-02-28 |  |
+| [Rainbow Rave Parade](https://open.spotify.com/track/0hsD0hitwYa7SbFrpniYuS) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Rainbow Rave Parade](https://open.spotify.com/album/7D4xvOL1vzaKhLM2JIRkWz) | 3:32 | 2022-02-28 | 2022-05-11 |
 | [Read Your Lips](https://open.spotify.com/track/7Hvefk37fvqZBtnDlp6ux9) | [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Read Your Lips](https://open.spotify.com/album/4a3UmNTVGw42B39bLhKfZb) | 3:27 | 2021-11-19 | 2022-01-25 |
 | [Remedy](https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Remedy](https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz) | 2:35 | 2022-04-26 |  |
 | [Running Faster](https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr), [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Running Faster](https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe) | 3:51 | 2022-03-02 |  |

@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 221428,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 200624,
       "name": "Brighter Side",
       "url": "https://open.spotify.com/track/2cXlDeF2sUoZRQgYQZ2nb0"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 268817,
       "name": "Colours",
       "url": "https://open.spotify.com/track/22y2mqIBERBviZF0fa86iw"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 200000,
       "name": "Coming Over - VIP",
       "url": "https://open.spotify.com/track/1p04Tm0c2tnIdgOYIpcioh"
@@ -1583,7 +1583,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "Gold (feat. Chris Howard) - DubVision Remix",
       "url": "https://open.spotify.com/track/29krI2tC7I26s6qwg0xjlI"
@@ -1657,7 +1657,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 149032,
       "name": "Gotta Be You",
       "url": "https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf"
@@ -2463,7 +2463,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 386250,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/3DKWSWJsNtRQil4FsytGHD"
@@ -2519,7 +2519,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 169846,
       "name": "Love Is Gone (Ti\u00ebsto Remix)",
       "url": "https://open.spotify.com/track/4AoUdMZGoPZZQxVFnoVQEl"
@@ -2611,7 +2611,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
@@ -3233,7 +3233,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 177767,
       "name": "On A Mountain - Flume Remix",
       "url": "https://open.spotify.com/track/0lrIwNdTiHaOlw8gqwXk6L"
@@ -3263,6 +3263,28 @@
       "duration_ms": 193660,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/73q91uUFExJXYKsnZP9gFX"
+    },
+    {
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190217,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
     },
     {
       "album": {
@@ -3645,7 +3667,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 178593,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
@@ -3847,7 +3869,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 177142,
       "name": "Relight My Love",
       "url": "https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS"
@@ -3987,7 +4009,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 208800,
       "name": "Safe & Sound",
       "url": "https://open.spotify.com/track/7yfnNGWg10OgBjpGx1G2M7"
@@ -4241,7 +4263,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 186212,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3UTnoLehZjISbFueAmhGvY"
@@ -4391,7 +4413,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 197779,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
@@ -4861,7 +4883,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 133090,
       "name": "Through The Storm",
       "url": "https://open.spotify.com/track/3CbqAQnT7oU23IvtcHO0k1"
@@ -5147,7 +5169,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 195000,
       "name": "We're Still Young",
       "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
@@ -5265,7 +5287,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 225000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e"
@@ -5391,7 +5413,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 196684,
       "name": "You Got The Love",
       "url": "https://open.spotify.com/track/1O3Jlr6ksM6meUe1atDAxY"

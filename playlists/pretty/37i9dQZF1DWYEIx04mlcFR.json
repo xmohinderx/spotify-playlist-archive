@@ -1,12 +1,12 @@
 {
   "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a Foudeqush. \ud83c\udf0a\u2728 ",
-  "num_followers": 24164,
+  "num_followers": 24231,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjEyNTk4MiwwMDAwMDA0MzAwMDAwMTgwYWE2MWUwNTYwMDAwMDE4MDk2NGVmMWFk",
+  "snapshot_id": "MTY1MjIwNzg0MSwwMDAwMDA0NDAwMDAwMTgwYWY0MmYwYjIwMDAwMDE4MDk2NGVmMWFk",
   "tracks": [
     {
       "added_at": "2022-04-22 15:10:15",
@@ -117,6 +117,42 @@
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
     },
     {
+      "added_at": "2022-04-22 15:10:15",
+      "album": {
+        "name": "\u00c1ngel",
+        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+    },
+    {
+      "added_at": "2022-05-10 18:37:21",
+      "album": {
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
       "added_at": "2022-05-09 19:48:51",
       "album": {
         "name": "Que Te Parece",
@@ -159,22 +195,6 @@
     {
       "added_at": "2022-04-22 15:10:15",
       "album": {
-        "name": "\u00c1ngel",
-        "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "\u00c1ngel",
-      "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
-    },
-    {
-      "added_at": "2022-04-22 15:10:15",
-      "album": {
         "name": "me piensas ;)",
         "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
       },
@@ -187,22 +207,6 @@
       "duration_ms": 172421,
       "name": "me piensas ;)",
       "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
-    },
-    {
-      "added_at": "2022-05-09 19:48:51",
-      "album": {
-        "name": "20 Minutos",
-        "url": "https://open.spotify.com/album/1IgtGBd7kISzw15xkFwllh"
-      },
-      "artists": [
-        {
-          "name": "Sharlene",
-          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "20 Minutos",
-      "url": "https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK"
     },
     {
       "added_at": "2022-05-06 06:41:26",
@@ -219,6 +223,22 @@
       "duration_ms": 210425,
       "name": "Recuerdos Que Torturan",
       "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
+    },
+    {
+      "added_at": "2022-05-09 19:48:51",
+      "album": {
+        "name": "20 Minutos",
+        "url": "https://open.spotify.com/album/1IgtGBd7kISzw15xkFwllh"
+      },
+      "artists": [
+        {
+          "name": "Sharlene",
+          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "20 Minutos",
+      "url": "https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK"
     },
     {
       "added_at": "2022-04-13 20:00:00",
@@ -859,22 +879,6 @@
       "duration_ms": 228432,
       "name": "paranormal",
       "url": "https://open.spotify.com/track/1loEyzhT3hunTlsPjBYprb"
-    },
-    {
-      "added_at": "2022-03-11 06:23:50",
-      "album": {
-        "name": "f**k u (La Devoluci\u00f3n)",
-        "url": "https://open.spotify.com/album/6TRFMEdEhR5VJtINuFekU5"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "f**k u (La Devoluci\u00f3n)",
-      "url": "https://open.spotify.com/track/2mquxyPnVCHcfIY45mR5Sz"
     },
     {
       "added_at": "2022-03-11 06:23:50",

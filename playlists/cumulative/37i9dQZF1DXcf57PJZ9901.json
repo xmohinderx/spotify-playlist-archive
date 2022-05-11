@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "The best soft rock from the 2010s. Celebrating 10 years of Keane's Strangeland.",
   "name": "10s Soft Rock",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0odmU63W8mzvvddJ5VjjQC"
+  ],
   "tracks": [
     {
       "album": {
@@ -39,6 +41,24 @@
       "duration_ms": 231619,
       "name": "As We Fly South",
       "url": "https://open.spotify.com/track/4SaDS2MbpK45wQIllWx6pZ"
+    },
+    {
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2021-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Automobile",
+      "url": "https://open.spotify.com/track/1bloF1LHgUVvPJLxrzxgu7"
     },
     {
       "album": {
@@ -871,7 +891,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 214506,
       "name": "Ride",
       "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
@@ -997,7 +1017,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 301525,
       "name": "Sleep Like A Baby Tonight",
       "url": "https://open.spotify.com/track/1IjZ4snP197S0psPgRUB8F"
@@ -1033,7 +1053,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 283946,
       "name": "Sloom",
       "url": "https://open.spotify.com/track/6xFxmcebq5XphN0WoxNLgp"
@@ -1231,7 +1251,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 251706,
       "name": "The Mortician's Daughter",
       "url": "https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH"
@@ -1307,7 +1327,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 269573,
       "name": "Wild Sun",
       "url": "https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 162546,
       "name": "A Trav\u00e9s De Los A\u00f1os",
       "url": "https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 135506,
       "name": "Amorcito",
       "url": "https://open.spotify.com/track/1BZwhR8R3vgFQqqIV0h2qE"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 173567,
       "name": "Asi Que Adios",
       "url": "https://open.spotify.com/track/1I1ZyRTRYXxae3PcwTGRzJ"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 126520,
       "name": "Avientense Todos",
       "url": "https://open.spotify.com/track/0uwJPoeNBIXtwMNRhPEl5K"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 205053,
       "name": "Bote de bananas",
       "url": "https://open.spotify.com/track/420qVHdP7ckcdm6pvPW4lp"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 145693,
       "name": "Buen Rock Esta Noche",
       "url": "https://open.spotify.com/track/2Wg5G6SN48t9DSW6ifquvb"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 149440,
       "name": "Cuando Era Jovencito",
       "url": "https://open.spotify.com/track/45gHhGTzWoBZucIVHkWDLj"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 183866,
       "name": "El Boogie De La Guitarra",
       "url": "https://open.spotify.com/track/48cEguH7oiubCgVL6T3YK3"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 144914,
       "name": "El Juego de Simon",
       "url": "https://open.spotify.com/track/2U02m7NXtYdD4WVMGD6U9i"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 152120,
       "name": "Ella No Est\u00e1 Ah\u00ed",
       "url": "https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR"
@@ -1196,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Idolos del Rock de los 60's: Enrique Guzman",
+        "url": "https://open.spotify.com/album/64c67khJOMtjYVBvqzR2MA"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154620,
+      "name": "Gracias por el Recuerdo",
+      "url": "https://open.spotify.com/track/31KJnspiQtvxwob0cMjxxc"
+    },
+    {
+      "album": {
         "name": "Polvora",
         "url": "https://open.spotify.com/album/3KefX7SdLViRTuFffsmmxq"
       },
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 119586,
       "name": "Haciendote el Amor",
       "url": "https://open.spotify.com/track/2YJLNtaV9ELglBVHymlKHk"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 217569,
       "name": "Jamas Te Vi Tan Linda",
       "url": "https://open.spotify.com/track/221k5YWSeMOVvdhvTXR4mp"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 153573,
       "name": "La chica mas linda del mundo",
       "url": "https://open.spotify.com/track/7lm5yagrIuD36ObAdATdNa"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "La Llorona Loca",
       "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 146880,
       "name": "Lagrimas de Cristal",
       "url": "https://open.spotify.com/track/1yBSWdmQqj9c6wG8s9UmRw"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 198733,
       "name": "Lanza a tus Penas al Viento",
       "url": "https://open.spotify.com/track/4XzmHOeqiWKcQ6dNzt1mFh"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 147469,
       "name": "Lanza Tus Penas Al Viento",
       "url": "https://open.spotify.com/track/13mqmYz0oB4cWUv4TFo9XO"
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 143480,
       "name": "Leroy",
       "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 203453,
       "name": "Magia Blanca",
       "url": "https://open.spotify.com/track/1ETo5cov4mQkdf99ACU6Hc"
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 166386,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/3ALSAAcAgp6gmWPnvPPRqH"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 164442,
       "name": "Mi Suegra Llego",
       "url": "https://open.spotify.com/track/0IbxoN82eXeoMZzqcFrjvL"
@@ -1939,10 +1957,28 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 130560,
       "name": "Muevanse Todos",
       "url": "https://open.spotify.com/track/0WTKcG7QpGn7JxK0sk4w0z"
+    },
+    {
+      "album": {
+        "name": "100 A\u00f1os de Musica",
+        "url": "https://open.spotify.com/album/0yk0LbkAcV5SaOJMOsDWJO"
+      },
+      "artists": [
+        {
+          "name": "Los Supersecos",
+          "url": "https://open.spotify.com/artist/1DRZYgXMZnTrkLB2VruqKs"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108482,
+      "name": "No Esta Aqui",
+      "url": "https://open.spotify.com/track/6sn2bUoiwp2Az8eVWR15rh"
     },
     {
       "album": {
@@ -2321,7 +2357,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 142200,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/6mgX4aQwOWM8JSwWX7BPhb"
@@ -2447,7 +2483,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 208106,
       "name": "Solo otra vez",
       "url": "https://open.spotify.com/track/7IojglqCdrsjMWJTD7hT0F"
@@ -2483,7 +2519,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 140525,
       "name": "Speedy Gonzalez",
       "url": "https://open.spotify.com/track/7ePdV6t9L6VfK6K4CI95TD"
@@ -2501,7 +2537,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 299280,
       "name": "Susi Q",
       "url": "https://open.spotify.com/track/2CRhY7kYBHxPXemmFwqwac"
@@ -2735,7 +2771,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 150013,
       "name": "Vuelve Primavera",
       "url": "https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27"
@@ -2753,7 +2789,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 150506,
       "name": "Vuelve Primavera",
       "url": "https://open.spotify.com/track/6qTtnTEEp4rTp2XDSeISzc"

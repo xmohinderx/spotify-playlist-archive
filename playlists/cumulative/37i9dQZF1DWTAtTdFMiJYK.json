@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover : Last Minute India",
+  "description": "Most exciting artists from the Indian Indie scene. Cover : Vismay Patel",
   "name": "Radar India",
   "published_playlist_ids": [
     "6HbYGIijNLCCdW0az43i5B"
@@ -1616,6 +1616,24 @@
     },
     {
       "album": {
+        "name": "Lage Nahi Man",
+        "url": "https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR"
+      },
+      "artists": [
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191770,
+      "name": "Lage Nahi Man",
+      "url": "https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy"
+    },
+    {
+      "album": {
         "name": "Last December",
         "url": "https://open.spotify.com/album/7B7QS4DmYKplXtK6EJhoEg"
       },
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 236732,
       "name": "Motoliya 2.0",
       "url": "https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC"

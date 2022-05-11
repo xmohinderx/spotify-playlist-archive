@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 193468,
       "name": "20/20",
       "url": "https://open.spotify.com/track/3VZZgqgrmQrWXeDKTL8Jgw"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 174320,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 181533,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 192317,
       "name": "Break a Leg Kid",
       "url": "https://open.spotify.com/track/5J2pcBXgCL7cHPUqAyMbeT"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 164333,
       "name": "Christian Nationalist",
       "url": "https://open.spotify.com/track/65CdHKGQBBkktAKgciMcCX"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 170600,
       "name": "Circles",
       "url": "https://open.spotify.com/track/14mBmB265dJ0UHPLXbbM6v"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 207826,
       "name": "Code Breaker (Smile)",
       "url": "https://open.spotify.com/track/55ogx4C3oppyxbAPJuBVmO"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 191253,
       "name": "Criminal Energy",
       "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 160682,
       "name": "Don't Overdose and Drive",
       "url": "https://open.spotify.com/track/2t2WL5SXmnjA9UPSeiUOGn"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 180082,
       "name": "Drown In My Mind",
       "url": "https://open.spotify.com/track/1i2t3VyIcsAonPhK6wjuJp"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 204114,
       "name": "Everything You Want Me to Be",
       "url": "https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 258720,
       "name": "Familiar Drugs",
       "url": "https://open.spotify.com/track/4dg2ylqFSHbvdkkh9wUAob"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 151362,
       "name": "Father of All...",
       "url": "https://open.spotify.com/track/4r59yc67nric1MZQ2igkhx"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 256700,
       "name": "Fools Gold",
       "url": "https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 219762,
       "name": "Go Down in History",
       "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
@@ -1306,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "Charm City",
+        "url": "https://open.spotify.com/album/3IM9F9wRCdGQcmYgHS6jFx"
+      },
+      "artists": [
+        {
+          "name": "Carousel Kings",
+          "url": "https://open.spotify.com/artist/2Dr2zHoPEuASW1kOODc5I2"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207880,
+      "name": "Grey Goose",
+      "url": "https://open.spotify.com/track/50UpQeRX0Pebo76v3AK6S1"
+    },
+    {
+      "album": {
         "name": "Inviting Light",
         "url": "https://open.spotify.com/album/4yX10Xe2RG2BPP08Fp5JxN"
       },
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 205306,
       "name": "Hang My Head",
       "url": "https://open.spotify.com/track/2QhGHKuK0rmFyl7RMmZGPj"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 227493,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5g4ENWdp43q5ZLH5Pre7s0"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 206752,
       "name": "Here's To Us",
       "url": "https://open.spotify.com/track/5FPqsuveLITGgSFzJft2wn"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 199621,
       "name": "Home",
       "url": "https://open.spotify.com/track/5gy1YIqLHga0NlBz9ngrFX"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 154971,
       "name": "Hotel Beds",
       "url": "https://open.spotify.com/track/7Leefj1rxiHwg9eblvVfLm"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 184642,
       "name": "I Forgot You",
       "url": "https://open.spotify.com/track/65fGvQYBCx3MxRf3xInWQQ"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 146622,
       "name": "Keep This Up",
       "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 208186,
       "name": "Lights And Sounds",
       "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 216696,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/2x3h75zzl2IudkzFbG3UuV"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 206586,
       "name": "Miss Murder",
       "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 150780,
       "name": "Motorcycle, No Motor?",
       "url": "https://open.spotify.com/track/26eAx27PRm8VpzpJxDSbYA"
@@ -2139,7 +2157,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 206160,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/0Eucj02XTx0Ir10BpMgJdD"
@@ -2211,7 +2229,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/4x241uAmPrxKZdCZKt2r5t"
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 190714,
       "name": "Paper Wings",
       "url": "https://open.spotify.com/track/4ALLjfDmAioOkLkE4hTHLK"
@@ -2265,7 +2283,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 184391,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3O8BBc0bj8dGgJBmYVjt0k"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 212443,
       "name": "Pleasures",
       "url": "https://open.spotify.com/track/2LL5HEIRSIS2W6zMa4jrQI"
@@ -2355,7 +2373,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 195386,
       "name": "Plus Ultra",
       "url": "https://open.spotify.com/track/5WLvGmjfyAEYCvFNsLon0i"
@@ -2517,7 +2535,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 257826,
       "name": "Self-Esteem",
       "url": "https://open.spotify.com/track/4u4KpbgVzzF62uoOItsEiG"
@@ -2535,7 +2553,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 210750,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7JeIpiCXappsI31Mg4BcWz"
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 158824,
       "name": "Shh!",
       "url": "https://open.spotify.com/track/2njh4onOr3nyACxc7c8vPp"
@@ -2661,7 +2679,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 180599,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/0FNPI9jhoho8rZL1J7WK1v"
@@ -2787,7 +2805,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
@@ -2805,7 +2823,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 244564,
       "name": "Strain Your Memory",
       "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
@@ -3007,7 +3025,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 179600,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig"
@@ -3029,7 +3047,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
@@ -3209,7 +3227,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-16",
+      "date_removed": null,
       "duration_ms": 211100,
       "name": "Want Me Around",
       "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"
@@ -3245,7 +3263,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 173600,
       "name": "What Are We Standing For",
       "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
@@ -3317,7 +3335,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 192468,
       "name": "Without Me (P\u00e2querette)",
       "url": "https://open.spotify.com/track/2YZhnf9AUQ4HBTfDjgIfnq"

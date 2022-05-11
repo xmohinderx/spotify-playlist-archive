@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Semplicemente noi.",
   "name": "Tra Amiche",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0l80wId7YOuXBlEY4SFFZ4"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,6 +23,24 @@
       "duration_ms": 157138,
       "name": "10 Things I Hate About You",
       "url": "https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH"
+    },
+    {
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/77EYcClmqkA3rWSWvSOHSN"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "A forma di origami",
+      "url": "https://open.spotify.com/track/2pAnqgwkm78oDPEDAzc32O"
     },
     {
       "album": {
@@ -219,7 +239,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 156000,
       "name": "Boca",
       "url": "https://open.spotify.com/track/1k7AVxRvQVQLlnmHlLRHUg"
@@ -277,7 +297,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 222666,
       "name": "CHIAMAMI PER NOME",
       "url": "https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT"
@@ -325,10 +345,32 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 173075,
       "name": "CICATRICI (feat. Madame)",
       "url": "https://open.spotify.com/track/7FSEYn1LL9UemeYeuXCHRm"
+    },
+    {
+      "album": {
+        "name": "Como Llora (Versione Italiana)",
+        "url": "https://open.spotify.com/album/5PmSmIJfgkbWzaBEN0yrIN"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Juanfran",
+          "url": "https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Como Llora - Versione Italiana",
+      "url": "https://open.spotify.com/track/2WVmes2x1lSpWdAWtMrtnD"
     },
     {
       "album": {
@@ -343,7 +385,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 189320,
       "name": "Concedimi",
       "url": "https://open.spotify.com/track/0pFjYM7JdNJhjuooMgesks"
@@ -441,7 +483,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 124065,
       "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
@@ -513,7 +555,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 164842,
       "name": "Don't Go Yet",
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
@@ -632,6 +674,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "album": {
         "name": "Hypnotized",
         "url": "https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM"
       },
@@ -691,6 +751,24 @@
       "duration_ms": 212985,
       "name": "I love you baby",
       "url": "https://open.spotify.com/track/1v9ABGLSpdhPDEWyQ10NFD"
+    },
+    {
+      "album": {
+        "name": "Il bacio di Klimt",
+        "url": "https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Aloia",
+          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Il bacio di Klimt",
+      "url": "https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF"
     },
     {
       "album": {
@@ -931,10 +1009,28 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 250830,
       "name": "MARIL\u00d9",
       "url": "https://open.spotify.com/track/7JlPKH9G2KLUzJlfFFAxEO"
+    },
+    {
+      "album": {
+        "name": "Mediterranea",
+        "url": "https://open.spotify.com/album/3HPTS85KdfhWNAiOeduP0m"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177809,
+      "name": "Mediterranea",
+      "url": "https://open.spotify.com/track/47xPl1gvgdx4Z9dNUuloPg"
     },
     {
       "album": {
@@ -1065,7 +1161,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 236720,
       "name": "Musica leggerissima",
       "url": "https://open.spotify.com/track/67qxSUoyng1ohzvfyOyNWW"
@@ -1149,7 +1245,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 141062,
       "name": "Paloma (feat. Anitta)",
       "url": "https://open.spotify.com/track/0HFkCSXRTUHCYJ148PdD0v"
@@ -1243,7 +1339,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 176245,
       "name": "Pensando a lei",
       "url": "https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"
@@ -1305,7 +1401,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 227678,
       "name": "Pezzo Di Cuore (con Alessandra Amoroso)",
       "url": "https://open.spotify.com/track/0BNaXcSSUeuARA4W8iB18E"
@@ -1381,7 +1477,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
@@ -1509,7 +1605,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 162935,
       "name": "Sei bella come Roma - Napoli Vrs.",
       "url": "https://open.spotify.com/track/7hqdzo7qnqiSh3qMVaTyl2"
@@ -1527,7 +1623,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 195923,
       "name": "SESSO OCCASIONALE",
       "url": "https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD"
@@ -1585,7 +1681,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 190363,
       "name": "Tondo",
       "url": "https://open.spotify.com/track/7u2QyOBuVH21gqkrK1GbUW"
@@ -1688,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "VOCE",
+        "url": "https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211410,
+      "name": "VOCE",
+      "url": "https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO"
+    },
+    {
+      "album": {
         "name": "Yo No S\u00e9",
         "url": "https://open.spotify.com/album/4oV9eietKZl9wQBtu47jjl"
       },
@@ -1707,6 +1821,24 @@
       "duration_ms": 168960,
       "name": "Yo No S\u00e9",
       "url": "https://open.spotify.com/track/43ic0un1f9Nak0ZCQgvKjY"
+    },
+    {
+      "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203872,
+      "name": "\u00c8 sempre bello",
+      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5HvC37O9DNe"

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.",
   "name": "Deep Dive: 80s Rock",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5Hsskn5n9BE0Rj9yfUKAoG"
+  ],
   "tracks": [
     {
       "album": {
@@ -1893,7 +1895,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 263666,
       "name": "Evil Walks",
       "url": "https://open.spotify.com/track/5ahPl557niKxia8Kquw1yh"
@@ -3917,7 +3919,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 226346,
       "name": "Listen Like Thieves",
       "url": "https://open.spotify.com/track/2NnwJBDPTeqBoIn2G707aZ"
@@ -7727,7 +7729,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 123906,
       "name": "Wave Of Mutilation",
       "url": "https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr"
@@ -7745,7 +7747,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 124773,
       "name": "Wave of Mutilation",
       "url": "https://open.spotify.com/track/1yJiE307EBIzOB9kqH1deb"

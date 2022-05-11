@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 343061,
       "name": "Chim Qu\u00fd Trong L\u1ed3ng",
       "url": "https://open.spotify.com/track/4KLmT1bU7eyEBe35FzEjbd"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 263417,
       "name": "Ch\u00e2n M\u00e2y",
       "url": "https://open.spotify.com/track/0ITwGfl4Tf7UOTbLCGVbm0"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "Ch\u01a1i V\u01a1i",
       "url": "https://open.spotify.com/track/5BL9QQTJNIuME3RE9Tgv3W"
@@ -2900,6 +2900,24 @@
     },
     {
       "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+    },
+    {
+      "album": {
         "name": "G\u00e1c L\u1ea1i \u00c2u Lo",
         "url": "https://open.spotify.com/album/6K252vEHDvcO47zNx9D5Y4"
       },
@@ -2933,7 +2951,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 282628,
       "name": "G\u00e1c L\u1ea1i \u00c2u Lo (feat. Miu L\u00ea)",
       "url": "https://open.spotify.com/track/1mKDbug8bbfDmLe7I4CJpe"
@@ -3175,7 +3193,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -5363,7 +5381,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 114133,
       "name": "Old Town Road (feat. RM of BTS) - Seoul Town Road Remix",
       "url": "https://open.spotify.com/track/6woeVu3fVMflqen1t4N6pg"
@@ -7639,7 +7657,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 194384,
       "name": "uhgood",
       "url": "https://open.spotify.com/track/5vI1exL3zFhqFWDSL9fq5H"

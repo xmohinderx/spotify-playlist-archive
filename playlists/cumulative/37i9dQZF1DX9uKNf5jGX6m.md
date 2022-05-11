@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-222 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/5G465BVDSMcRmryY2Z1rr5)
+228 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/5G465BVDSMcRmryY2Z1rr5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Acceptance](https://open.spotify.com/track/303e6fTCQ5d3ljcg1TQrkC) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 2:54 | 2021-12-21 |  |
 | [acsenzion](https://open.spotify.com/track/2sSVwEbmFuGwXOMyW5dKi8) | [Dajwin](https://open.spotify.com/artist/1KOpTTK7jSd3rF41wbjwmx) | [caligo](https://open.spotify.com/album/3JDKCnbDHMvpPQV230Lm5Y) | 2:51 | 2021-12-21 |  |
 | [Adrift in Time](https://open.spotify.com/track/41GSq7PxoKXyXNsYNRDSkT) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Something Beautiful](https://open.spotify.com/album/1hom2yJ8gLUvbvSoIWEL1S) | 2:54 | 2021-12-21 |  |
-| [Adumbration](https://open.spotify.com/track/7EOou80jtKNv4t6P5ZYp1h) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Adumbration](https://open.spotify.com/album/0ws0lcvTNJt39gO6CsHXXR) | 3:50 | 2021-12-21 |  |
+| [Adumbration](https://open.spotify.com/track/7EOou80jtKNv4t6P5ZYp1h) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Adumbration](https://open.spotify.com/album/0ws0lcvTNJt39gO6CsHXXR) | 3:50 | 2021-12-21 | 2022-05-11 |
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2021-12-21 |  |
 | [All Rivers](https://open.spotify.com/track/5bw8YBybhZA37RZKjZ2voM) | [Static Garden](https://open.spotify.com/artist/3uuH2jEYv8ZArIf83io4hN) | [All Rivers](https://open.spotify.com/album/0QgSmP4m5QXm8s76qrUM91) | 3:57 | 2021-12-21 | 2022-04-02 |
 | [All We Can Do](https://open.spotify.com/track/3vr2MU6TzGcU94Ozgaw6BG) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [All We Can Do](https://open.spotify.com/album/7cRrgyTdXLHIiSd59mkGvx) | 3:16 | 2022-04-07 |  |
@@ -60,6 +60,7 @@
 | [Dykhtau](https://open.spotify.com/track/6Dzybyg4sWgI3lDNsflTqn) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Dykhtau](https://open.spotify.com/album/4rdkuEThqNcw4ftMKf4McR) | 3:08 | 2021-12-21 |  |
 | [Electron](https://open.spotify.com/track/0KkNeFOoAKW0NkhaleFeGk) | [Sisi Row](https://open.spotify.com/artist/7MeJbMhCO5vWIy2RqBIUMy) | [Electron](https://open.spotify.com/album/18JKMnG2P9b4mkMBLPDbMF) | 3:34 | 2021-12-21 |  |
 | [Elixir](https://open.spotify.com/track/3qdcjaWIyUvivaO5lcpe0J) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:24 | 2021-12-21 |  |
+| [Ember](https://open.spotify.com/track/0dUjXxc5gZ6X8NR6WvQLiB) | [Factor Eight](https://open.spotify.com/artist/3A8Vzdir8sa6p5pXAtNcN8) | [Ember](https://open.spotify.com/album/08M7jq1QyAChUqrRZfcJwD) | 2:34 | 2022-05-10 |  |
 | [Empire of Life](https://open.spotify.com/track/6lDGxIv3i5M1SYwbXCXqjR) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Empire of Life](https://open.spotify.com/album/6Uwj4SOiO17yrm3fqcc14i) | 3:00 | 2022-02-09 |  |
 | [Empty Spaces](https://open.spotify.com/track/02hFekfpXLbeoBIdCEgbBc) | [Everything Will Rust](https://open.spotify.com/artist/6ongOGTUwDaQjpqjnlkooi) | [Empty Spaces](https://open.spotify.com/album/4qfwY4yqkCdFGevRrcBsVB) | 3:48 | 2021-12-21 |  |
 | [Enchanted Dreams](https://open.spotify.com/track/1CYtN9f8AgIbQpCbzCnMRq) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Enchanted Dreams](https://open.spotify.com/album/0F4QtzeSMQlDquo7Gmp2B3) | 3:17 | 2021-12-21 | 2022-03-25 |
@@ -124,10 +125,11 @@
 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 | 2022-04-22 |  |
 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 | 2021-12-21 | 2022-01-29 |
 | [Lullaby Beach](https://open.spotify.com/track/2QFkozObCVLKtv8AX26yhY) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Immerse](https://open.spotify.com/album/6CggWBPDBfzexrJ6ZZY5Ir) | 3:40 | 2021-12-21 |  |
-| [Luz y Alma](https://open.spotify.com/track/0NmNoAHu6DA4k5JBdLsWek) | [Arbol De Vida](https://open.spotify.com/artist/0bSj3wmQjpgGcN0L0zhli6) | [Luz Y Alma](https://open.spotify.com/album/1Nfv6omjm2UIoIokPBQ5ao) | 3:40 | 2021-12-21 |  |
+| [Luz y Alma](https://open.spotify.com/track/0NmNoAHu6DA4k5JBdLsWek) | [Arbol De Vida](https://open.spotify.com/artist/0bSj3wmQjpgGcN0L0zhli6) | [Luz Y Alma](https://open.spotify.com/album/1Nfv6omjm2UIoIokPBQ5ao) | 3:40 | 2021-12-21 | 2022-05-11 |
 | [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 | 2022-02-18 |  |
 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 | 2021-12-21 |  |
 | [Many Worlds](https://open.spotify.com/track/3ZLa3mv9jM0CzuhKMqsOgE) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Many Worlds](https://open.spotify.com/album/21AI4N5IBr34kmDihjEiGh) | 4:58 | 2021-12-21 |  |
+| [midnight rain](https://open.spotify.com/track/7qeJ6bsw8pessFugI36oOd) | [Beyond Noir](https://open.spotify.com/artist/6oS2pAlq3AWNuUqUvH0Ygc) | [midnight rain](https://open.spotify.com/album/4NXnwc3rWLaNpL6R0mY70z) | 2:46 | 2022-05-10 |  |
 | [Mind By Mind](https://open.spotify.com/track/2b5NdK8H3xoMkIw8FMJrnN) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Mind By Mind](https://open.spotify.com/album/3c9EBatnQAU6gfcGtsrtKV) | 3:35 | 2022-02-09 |  |
 | [Minds Traversed](https://open.spotify.com/track/5OxLsoveEfCtK2M3CuqCd7) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Minds Traversed](https://open.spotify.com/album/0JjWwmu88zY7cXRFNmAr2v) | 4:10 | 2021-12-21 |  |
 | [Moment of Clarity](https://open.spotify.com/track/1h7XRTgZYY0TYDjYDnLfju) | [Light Bin](https://open.spotify.com/artist/1Zwtu3gCjyYVvEZZXbzucG) | [Moment of Clarity](https://open.spotify.com/album/2jdTmcYye9EjeUiSNScJZC) | 2:21 | 2021-12-21 |  |
@@ -140,7 +142,7 @@
 | [New Beginning](https://open.spotify.com/track/2LCJEUpAFLETtWCCcA4VKv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:50 | 2021-12-21 |  |
 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 | 2021-12-21 |  |
 | [No me despiertes](https://open.spotify.com/track/3CkHOquzU3g6ekoYiuo5Fo) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [No me despiertes](https://open.spotify.com/album/2ZiLz7HnpiTwkZiP3ZW7gF) | 3:07 | 2021-12-21 |  |
-| [Nocturne](https://open.spotify.com/track/68kWt9VWUD62Ga664SDCiz) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA) | [Nocturne](https://open.spotify.com/album/1bMCk09m3q6MSrhba1dBuA) | 3:43 | 2021-12-21 |  |
+| [Nocturne](https://open.spotify.com/track/68kWt9VWUD62Ga664SDCiz) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA) | [Nocturne](https://open.spotify.com/album/1bMCk09m3q6MSrhba1dBuA) | 3:43 | 2021-12-21 | 2022-05-11 |
 | [Nog een nacht](https://open.spotify.com/track/6BWqIj8dGln3EDBRnBNXuW) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Nog een nacht](https://open.spotify.com/album/0DtlTGbM8Ah3R0pRvP7Tte) | 3:48 | 2021-12-21 | 2022-03-25 |
 | [Nära](https://open.spotify.com/track/0cUjV0txDAMZ2g49rHdX80) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [Nära](https://open.spotify.com/album/7DHth5BUleoXVm7lBBwUWH) | 2:20 | 2021-12-21 |  |
 | [Offline](https://open.spotify.com/track/6BOEwn9UtUVaZm6EebzRBF) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Beyond The Range Of Sound](https://open.spotify.com/album/6F7gJopjIsZ1UVMIwleDFf) | 2:43 | 2021-12-21 |  |
@@ -168,6 +170,7 @@
 | [Restfulness](https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:55 | 2022-01-19 |  |
 | [Reversed Stress](https://open.spotify.com/track/36LvimjTIyWaVS1CejsRL9) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Motion Slow](https://open.spotify.com/album/368cYXAyRSQSAk4X40uHFs) | 2:50 | 2021-12-21 |  |
 | [Rhopalocera](https://open.spotify.com/track/4RX0fzdKE9kNJHVF3SKCPN) | [Leviticus Orion](https://open.spotify.com/artist/51fbzRiBO68g0TAVdw9B50) | [Brightest Blue](https://open.spotify.com/album/7d3sWCM4E49hHDmQUStSpC) | 3:12 | 2021-12-21 |  |
+| [Rishis](https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Rishis](https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2) | 3:23 | 2022-05-10 |  |
 | [Ritual](https://open.spotify.com/track/4OQ4Hhvd1fKTFiqhYHnUeR) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Ritual](https://open.spotify.com/album/0Bs9zCj7y6WH9ebf1gCVr6) | 3:37 | 2021-12-21 |  |
 | [Rosemary](https://open.spotify.com/track/2RFKUV4kldNDEYE3RkNtpE) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rosemary](https://open.spotify.com/album/2EdPwSYQuzQ1enHTlifq9B) | 2:46 | 2021-12-21 |  |
 | [Rêver](https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Rêver](https://open.spotify.com/album/6Sb8XeQK9LqSeUlYHFaB9B) | 2:54 | 2021-12-21 |  |
@@ -187,9 +190,11 @@
 | [Slumbers](https://open.spotify.com/track/6uqlR64MywWP2zE0Dj5PlA) | [La Torre Infinita](https://open.spotify.com/artist/6DZZrqjeWGzPgM7BTp9YeB) | [La Torre Infinita](https://open.spotify.com/album/5mhZaTQqPkSSjB4iRyvx9Q) | 3:03 | 2021-12-21 |  |
 | [Soft Clouds](https://open.spotify.com/track/2QpYvFvVXQ3NArChOZN1hg) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Soft Clouds](https://open.spotify.com/album/2mQdFnL2LpUStoYXTsgeDz) | 3:11 | 2021-12-21 |  |
 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Moon Dreaming](https://open.spotify.com/artist/4nJRn0hxXlJXyP9heK1nj2) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2021-12-21 |  |
+| [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-10 |  |
 | [Solemn](https://open.spotify.com/track/7dpLnCTFu2Neq5wXJTb47o) | [Cody Wallter](https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L) | [Solemn](https://open.spotify.com/album/2ZozrPjVO0J8SqwTi2XXDj) | 1:53 | 2021-12-21 |  |
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-03-24 |  |
 | [Song of the Mountains](https://open.spotify.com/track/5QQayYC3j9fRybo6YoiNmi) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Clouds and Mountains](https://open.spotify.com/album/3ncQqHLPGAncQ9T7JbM2M8) | 3:51 | 2021-12-21 |  |
+| [Sono In Bilico](https://open.spotify.com/track/2z2aFGYVDincSjBypjbrTy) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Sono In Bilico](https://open.spotify.com/album/1DBWlWJ5VKnK5WVywYnhjJ) | 3:02 | 2022-05-10 |  |
 | [Spaces](https://open.spotify.com/track/3ihG28Sd7TNFsUQ7pu7f7P) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Mountains](https://open.spotify.com/album/57R4gLdl1jbaEZuyYzhI3n) | 3:25 | 2021-12-21 |  |
 | [Spiritual Awakening](https://open.spotify.com/track/5hD7Ezq0E8nwz7z2xNMlVH) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 3:54 | 2021-12-21 |  |
 | [Spirituality](https://open.spotify.com/track/2kYSO6JCH0Nboi3QSOWhBe) | [Waht Poo](https://open.spotify.com/artist/6l00nLjNeQr1VaeP4FvsKY) | [Spirituality](https://open.spotify.com/album/2O7UPaFijmHBKYrbhO1qRk) | 3:03 | 2021-12-21 |  |
@@ -220,6 +225,7 @@
 | [Transpiration](https://open.spotify.com/track/3Koh8Xr3jVE6CpvScHeoa0) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Transpiration](https://open.spotify.com/album/6mK9hZXchfrJhX1249on2o) | 2:52 | 2021-12-21 |  |
 | [Tum Somnum](https://open.spotify.com/track/5a02D8HngkNPXN7D30qxBQ) | [Bonum Somno](https://open.spotify.com/artist/0kERbf96dBhKRnHrbQi9Vt) | [Angeli](https://open.spotify.com/album/6OoQpJ0IBsYB4Alh0DdyeX) | 3:06 | 2021-12-21 |  |
 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 | 2021-12-21 |  |
+| [Unclouded](https://open.spotify.com/track/2NqwxOKlF2jtWvAnmWDIpu) | [Thalia Mathis](https://open.spotify.com/artist/3qwAV5INzjLjEyls7XyA9F) | [Unclouded](https://open.spotify.com/album/5qaBWXUQR3bXsyzZ8kuzTP) | 3:08 | 2022-05-10 |  |
 | [Underbart](https://open.spotify.com/track/0IV0v2RIhevXsu9G0u82iP) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [Underbart](https://open.spotify.com/album/4i2ci1g8rfywjSt9G1Jp6e) | 2:24 | 2021-12-21 | 2022-01-29 |
 | [Volta](https://open.spotify.com/track/2UGetJCnNKXnVmWCD5nRM2) | [Milo Leclercq](https://open.spotify.com/artist/2CACfYzbEfvbpMPHapIrrL) | [Volta](https://open.spotify.com/album/5xpSwFSue9hlvFIzMJuqHi) | 2:48 | 2022-03-15 |  |
 | [Värme](https://open.spotify.com/track/4WbiuBYX3V3KIm1rWcFyqk) | [Himlavalv](https://open.spotify.com/artist/4lFZjO0NQUgvQLC8G6J8uC) | [Solkatt](https://open.spotify.com/album/1cHE48BYVGKRfgfyOZZrkO) | 2:43 | 2021-12-21 |  |

@@ -4,7 +4,7 @@
 
 > ¡Vive la salsa de los '80! Foto: Oscar D'León
 
-50 songs - 4 hr 18 min - not published yet
+50 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/5Eq6o7jgelFRwT16WevEQh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

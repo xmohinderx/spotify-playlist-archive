@@ -4,7 +4,7 @@
 
 > De Tijuana a Tierra del Fuego, aquí los que dominan el juego\. Foto: Bardero$
 
-93 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
+94 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/1FI4Y6oYusBHTp00FAfqcv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 | 2021-12-30 | 2022-02-19 |
 | [Los Guachos en La Esquina](https://open.spotify.com/track/23UlukMiAMAaxcR0szp4ov) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Los Guachos en La Esquina](https://open.spotify.com/album/5LrgtKWrRSv78s5IB67Keo) | 3:09 | 2021-12-30 |  |
 | [Los No Tan Tristes](https://open.spotify.com/track/2iS1BUa0VwSil4uQ89cfst) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/01X0X1KTVjis1cNXF0zA9U) | 4:06 | 2021-12-30 | 2022-02-11 |
+| [M.F.Q.N\. \(Más Fuerte Que Nunca\)](https://open.spotify.com/track/69T1FbNvdxgRtOTSitz8bI) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [M.F.Q.N\. \(Más Fuerte Que Nunca\)](https://open.spotify.com/album/0B9Z5aFmeOy0O7LZv7EDZ7) | 3:40 | 2022-05-10 |  |
 | [MAMA](https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [MAMA](https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO) | 4:25 | 2022-03-07 |  |
 | [MANIFIESTO FREESTYLE](https://open.spotify.com/track/3TaK5hftxlrp38Gt0wAPq4) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [MANIFIESTO FREESTYLE](https://open.spotify.com/album/2xiR9BHSrYTogEJvEo4nVY) | 2:42 | 2022-05-05 |  |
 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 | 2022-04-11 |  |

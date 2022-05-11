@@ -4,7 +4,7 @@
 
 > Find your gaming flow with wavy beats and soft trap!
 
-152 songs - 6 hr 41 min - not published yet
+152 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

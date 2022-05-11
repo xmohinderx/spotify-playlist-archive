@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: GorDoN \(國蛋\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,469 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,476 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SOUR](https://open.spotify.com/track/3kwZakaIDOMYkBDmIFV1T7) | [國蛋](https://open.spotify.com/artist/6OCsu7S2C5ap1GuCvUeqdW) | [SOUR](https://open.spotify.com/album/0KwWtlTOPiCEncJdHR9NyA) | 3:19 |
+| 1 | [SOUR](https://open.spotify.com/track/3kwZakaIDOMYkBDmIFV1T7) | [Gordon](https://open.spotify.com/artist/4L4ArdVJzY6Uxbd82fJjqu) | [SOUR](https://open.spotify.com/album/0KwWtlTOPiCEncJdHR9NyA) | 3:19 |
 | 2 | [自信](https://open.spotify.com/track/39LxHX3LiLhLgXzF2ddLZJ) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X), [Mark Pelli](https://open.spotify.com/artist/0nhJMRcwWkTzBugKJicOc5), [rohan mills](https://open.spotify.com/artist/68FDtFW7F3cM7FCxTh8XKb) | [自信](https://open.spotify.com/album/6gzbEDD68uE4J08XIWm9WB) | 4:23 |
-| 3 | [GOTW](https://open.spotify.com/track/620ap2jKswOCcSmqzPIFAS) | [Asiaboy 禁藥王 & Lizi 栗子](https://open.spotify.com/artist/5nkXlToY1SMhwCRVd0Hfuf), [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 1:57 |
+| 3 | [GOTW](https://open.spotify.com/track/620ap2jKswOCcSmqzPIFAS) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 1:57 |
 | 4 | [Love is Love](https://open.spotify.com/track/2eXB0rZTY7FenvsmrY9Qb4) | [痞爺](https://open.spotify.com/artist/73G9tzZhnkWwHWP0rF2jfB) | [Heart 2 Heart](https://open.spotify.com/album/11Zt0iCZwtjFaZHxxEFzcl) | 3:22 |
 | 5 | [能火](https://open.spotify.com/track/0edXRhdQfF6YY9f7ZGZITt) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X) | [PRO](https://open.spotify.com/album/34T8LkJ3sKBl1cVXGM6W2k) | 3:42 |
 | 6 | [想到你](https://open.spotify.com/track/3zcVBUTaLm9SWsmJ02ZtJk) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [李大奔](https://open.spotify.com/artist/5sF2WUeEL2qiV03Vym3727) | [想到你](https://open.spotify.com/album/0DjZ2VAWMoUXmnf4bBRF71) | 3:44 |

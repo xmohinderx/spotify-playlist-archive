@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 龔敬文 \(KUNG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,446 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,467 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 18 | [好像是Rapper](https://open.spotify.com/track/1PC2s3PcZQgwxoRRSZ60IY) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [好像是Rapper](https://open.spotify.com/album/4ddDgYpC6s239ITBOQMukI) | 2:57 |
 | 19 | [leave before u do](https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [leave before u do](https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh) | 3:02 |
 | 20 | [各就各位!預備!](https://open.spotify.com/track/26GJ3VhzsYhhdKB7E2Q7F5) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [各就各位!預備!](https://open.spotify.com/album/5V1WgnpWAL3wYsNqwXCAcP) | 3:22 |
-| 21 | [GOTW](https://open.spotify.com/track/620ap2jKswOCcSmqzPIFAS) | [Asiaboy 禁藥王 & Lizi 栗子](https://open.spotify.com/artist/5nkXlToY1SMhwCRVd0Hfuf), [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 1:57 |
+| 21 | [GOTW](https://open.spotify.com/track/620ap2jKswOCcSmqzPIFAS) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 1:57 |
 | 22 | [Holiday Only](https://open.spotify.com/track/13xSCpapdAiR1bPWwoZp1y) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Holiday Only](https://open.spotify.com/album/1W0r6fsyYXIWVRJKR8cWfw) | 4:14 |
 | 23 | [舊吉他](https://open.spotify.com/track/0uzCjSRzNUtjga2EBHMcZS) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [舊吉他](https://open.spotify.com/album/0OeBgpBdO48hW2S8YGO4IH) | 3:45 |
 | 24 | [唯一的你 \- 韓劇《現正分手中》中文主題曲](https://open.spotify.com/track/2UNcAbLy25IMUjj0cq3Xud) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [唯一的你 \(韓劇《現正分手中》中文主題曲\)](https://open.spotify.com/album/5npbPfK0TGruvqhq5la8WF) | 4:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [國王](https://open.spotify.com/track/4xKIzpn8Q2cRDU6UVq8FTn) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe), [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [Gambler](https://open.spotify.com/artist/1ZAYRafIkXuUA2YCMkxYbX) | [國王](https://open.spotify.com/album/1Wdon67ZOKTW7bAhQSNW2T) | 3:25 |
 | 60 | [專屬天使](https://open.spotify.com/track/5dDHCutM1wE6BsuOh8hYit) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [專屬天使](https://open.spotify.com/album/2GRc9GiWNpRohx8L5O34Xg) | 3:56 |
 
-Snapshot ID: `MTY1MjE0NDUwNCwwMDAwMDAwMGNhNDQyOWQ5YzMwYWRmYTMxZWI5MjdjYTkwZWVkOGRk`
+Snapshot ID: `MTY1MjIzMTQxOSwwMDAwMDAwMGNhNDQyOWQ5YzMwYWRmYTMxZWI5MjdjYTkwZWVkOGRk`

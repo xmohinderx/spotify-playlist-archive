@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Per trovare il buonumore, anche a lavoro!",
   "name": "Lavora col Sorriso",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4tQ1YExJ1a3RvREbSdk0fe"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,6 +23,24 @@
       "duration_ms": 239240,
       "name": "A Song for the Drunk and Broken Hearted",
       "url": "https://open.spotify.com/track/2my0HGJw82GQrF3xhnTUVS"
+    },
+    {
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/0mW0z6MQ2vbRb5QzjNXFZk"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159720,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/20RdsA2o7tLODhukQRuo6r"
     },
     {
       "album": {
@@ -151,7 +171,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 233373,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/1FHNctV68GUNLgXclG2DtR"
@@ -343,7 +363,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
@@ -369,7 +389,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 159657,
       "name": "I Just Wanna (feat. Bow Anderson)",
       "url": "https://open.spotify.com/track/1cVQmBnSLjhWB67iqAXYZZ"
@@ -391,6 +411,24 @@
       "duration_ms": 202363,
       "name": "Island - Acoustic Version",
       "url": "https://open.spotify.com/track/0kPTPdtltbyxVmQJ6NIO5C"
+    },
+    {
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192681,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
     },
     {
       "album": {
@@ -575,7 +613,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
@@ -745,6 +783,28 @@
       "duration_ms": 187561,
       "name": "Only Us",
       "url": "https://open.spotify.com/track/4hsitJwVkpy8b7wDRzhVel"
+    },
+    {
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169453,
+      "name": "Pride (with mxmtoon)",
+      "url": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
     },
     {
       "album": {
@@ -1035,6 +1095,24 @@
       "duration_ms": 178762,
       "name": "Thousand Faces",
       "url": "https://open.spotify.com/track/4m4dmiW49WkRkSWliJ5Zoj"
+    },
+    {
+      "album": {
+        "name": "Too Good To Be True",
+        "url": "https://open.spotify.com/album/643YsCwUVouRF5nWrAaZr1"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201173,
+      "name": "Too Good To Be True",
+      "url": "https://open.spotify.com/track/3WKBNbYx32xlJQ0puFCnAJ"
     },
     {
       "album": {

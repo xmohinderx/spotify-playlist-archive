@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: 1Kilo, Kawe
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,569 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,613 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 2 | [Mensagem 2](https://open.spotify.com/track/3iZEhKaTMWl2W9IPh8mITL) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [DJ Negret](https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna) | [Mensagem 2](https://open.spotify.com/album/1Onvt9GCYQ46aruicT8QLM) | 2:31 |
 | 3 | [Tamo Gigante](https://open.spotify.com/track/4TZb54H3UesQom2lskMF3B) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [Tamo Gigante](https://open.spotify.com/album/6c53Ns7a0MfyZZfNw6hqZV) | 5:16 |
 | 4 | [Sitio do Tio Harry](https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Coisas Que Eu Só Falaria Brincando](https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE) | 4:51 |
-| 5 | [Pequenina](https://open.spotify.com/track/0VSuq0KNSy1nOBO47e1bCN) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Maria Vilani](https://open.spotify.com/artist/3t7oGsQ0d8tswRxZVNdM8G), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Sobre Viver](https://open.spotify.com/album/0hLH4cYNYzp15VDjVU6v09) | 4:34 |
+| 5 | [Pequenina](https://open.spotify.com/track/0VSuq0KNSy1nOBO47e1bCN) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Maria Vilani](https://open.spotify.com/artist/3t7oGsQ0d8tswRxZVNdM8G), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Sobre Viver](https://open.spotify.com/album/0hLH4cYNYzp15VDjVU6v09) | 4:33 |
 | 6 | [Gratidão](https://open.spotify.com/track/0EYN8iQmNTIZz0avaUCfHC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC) | 4:07 |
 | 7 | [Outro Patamar](https://open.spotify.com/track/2857Zdt1A03QnnkhGXC1hP) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc) | [Outro Patamar](https://open.spotify.com/album/7KH6ZeR3Iwnv9Uh9qIukBZ) | 3:45 |
 | 8 | [My Meisie](https://open.spotify.com/track/7sBBOeCxA6HLJeFg917sla) | [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy) | [My Meisie](https://open.spotify.com/album/15DJ3SZSfkepaYktdCbyCY) | 2:27 |

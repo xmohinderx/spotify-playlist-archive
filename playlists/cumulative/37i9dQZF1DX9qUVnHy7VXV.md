@@ -4,7 +4,7 @@
 
 > Hit del passato e nuovi brani per la tua giornata perfetta!
 
-77 songs - 4 hr 38 min - not published yet
+78 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/2GHnsWGaysbYfcDaNBBj0Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,9 +65,10 @@
 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 | 2022-05-03 |  |
 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 | 2022-05-03 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 | 2022-05-03 |  |
+| [Spirit](https://open.spotify.com/track/7EcQNoTZqBBWZvuweuxUc9) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spirit](https://open.spotify.com/album/3shwQoi3NjzGrfo1r9GHO8) | 3:24 | 2022-05-03 |  |
 | [Spirits](https://open.spotify.com/track/6yDXmurL5FA9Rjn94cRp2g) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3dK4m8ozvewgKyyYVQHWLY) | 3:23 | 2022-05-03 |  |
 | [Stitches](https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m) | 3:26 | 2022-05-03 |  |
-| [Stolen Dance](https://open.spotify.com/track/7398yjipWAaoCGIl7ukaeX) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5jYuoL8huNF3OcrpH9YYHb) | 5:15 | 2022-05-03 |  |
+| [Stolen Dance](https://open.spotify.com/track/7398yjipWAaoCGIl7ukaeX) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5jYuoL8huNF3OcrpH9YYHb) | 5:15 | 2022-05-03 | 2022-05-11 |
 | [survivin'](https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [survivin'](https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC) | 2:53 | 2022-05-03 |  |
 | [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho \(Acoustic\)](https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon) | 2:59 | 2022-05-03 |  |
 | [Sweet Goodbyes](https://open.spotify.com/track/4NH0G33zApUnRNsSK0CwuN) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Sweet Goodbyes](https://open.spotify.com/album/01jUXWDoLYVABwZccg1RbO) | 3:12 | 2022-05-03 |  |

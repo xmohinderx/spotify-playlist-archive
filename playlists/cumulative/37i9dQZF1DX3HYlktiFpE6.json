@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 141341,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 179053,
       "name": "Bittersweet Symphony / Baba O'Riley / Last Friday Night / Hollaback Girl",
       "url": "https://open.spotify.com/track/1ac7570OG3cTPYRXnpssg8"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 198040,
       "name": "Can't Hold Us",
       "url": "https://open.spotify.com/track/00FaBIFXUfzaaVcsQmTTJY"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 100026,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 198946,
       "name": "Despacito x Shape Of You",
       "url": "https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 110106,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/1elnKQDjuN3au2uTjye8nK"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 147293,
       "name": "Kennedy Center Performance - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/7Gzo2I7jLQyvhGTZrkFAhM"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 264493,
       "name": "Riff Off - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/5dhsuaGYQpEhXsOQsbLL7s"
@@ -1144,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "PTX, Vol. 1",
+        "url": "https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199360,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr"
+    },
+    {
+      "album": {
         "name": "Full Coverage",
         "url": "https://open.spotify.com/album/2ZrrNlU7Ckl9uB4YKGHhMW"
       },
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 201080,
       "name": "Stacey's Mom",
       "url": "https://open.spotify.com/track/32IpXBKVD4ED5jIy9o9Uvs"

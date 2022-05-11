@@ -4,7 +4,7 @@
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-173 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/2y03h8NmsGkUYwlMxFr6ZI)
+176 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/2y03h8NmsGkUYwlMxFr6ZI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alone In Town](https://open.spotify.com/track/3YSMxn9PMuLn25EXyBplpd) | [Gereoux](https://open.spotify.com/artist/1Euv0945nayOdRB6RTLDZz) | [Alone In Town](https://open.spotify.com/album/1cXiG685Ny0feXVwplO4XI) | 2:33 | 2022-03-14 |  |
 | [Apart & Beyond](https://open.spotify.com/track/1FODiQJw75rxHyV2LZ8xIr) | [Partika](https://open.spotify.com/artist/3kKhFe1UhACeP31S9i1ZvS) | [Apart & Beyond](https://open.spotify.com/album/19vpRsrsBJp47KdMT8crx4) | 5:36 | 2022-03-14 |  |
 | [Apollo](https://open.spotify.com/track/414am6O8NGAMphEuzGZDQY) | [Manchester Lock](https://open.spotify.com/artist/5MtAUCEKXc1pUn2mcieuDG) | [Get By](https://open.spotify.com/album/22lgRuNopsEIllTdgQ5vRN) | 3:12 | 2022-03-14 |  |
+| [Avalon](https://open.spotify.com/track/7stXnc2bWzjvU7yQR42frD) | [Lightbulb Tree](https://open.spotify.com/artist/4LMsGOs4gFjRWq8cWbKMkr) | [Avalon](https://open.spotify.com/album/0ZF8X8SXSopzTZ6OQiEpWf) | 2:04 | 2022-05-10 |  |
 | [Banana Boat](https://open.spotify.com/track/0LvDUrxEU3St6H3iOwXgwU) | [Hashi Kayuto](https://open.spotify.com/artist/62MyyPTGilL229efTaEJAN) | [Banana Boat](https://open.spotify.com/album/3rp44tCPnWNyeIOVY8lI8W) | 4:10 | 2022-03-14 |  |
 | [Be Great](https://open.spotify.com/track/4N9h6vHzovo7YvInYRxgqt) | [Moodyears](https://open.spotify.com/artist/6n5CIF20bYLj8EeWvTjKUp) | [Be Great](https://open.spotify.com/album/2kG8Q47Uir1SMatGYzYoez) | 2:09 | 2022-03-14 |  |
 | [Belonging](https://open.spotify.com/track/0lzKZK0OpEKtDuYTJYPaeD) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [Belonging](https://open.spotify.com/album/5J6t0A7KX15Jxa4DlXRDxh) | 2:33 | 2022-03-14 |  |
@@ -38,6 +39,8 @@
 | [Darkness](https://open.spotify.com/track/5MdRpjxDGQRuEuDqFJyR1h) | [EPOPÈ](https://open.spotify.com/artist/7grZco3RaRS6ieQQxlnUpS) | [Dream of Me](https://open.spotify.com/album/4KC0VYnPAmBg13BdYUBe5B) | 2:33 | 2022-03-14 |  |
 | [day dreamers](https://open.spotify.com/track/345AerZkFDXrzBbedhNNXv) | [beat away](https://open.spotify.com/artist/6b7CgjmU1vBse6njuahOnS) | [day dreamers](https://open.spotify.com/album/0utA3cjNvrLL377HobWFOj) | 2:21 | 2022-03-14 |  |
 | [daylight savings time](https://open.spotify.com/track/5QtDWKrJ0oDCngcjnBtd7Z) | [milo keeper](https://open.spotify.com/artist/0GC1oqZGWOMXDnNo2u5Irs) | [daylight savings time](https://open.spotify.com/album/4Gvlkp86D3oPbCMbw8BeGO) | 2:43 | 2022-03-14 |  |
+| [Derivatives](https://open.spotify.com/track/5BNPTeFntNBWhwchJkrMwi) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Derivatives](https://open.spotify.com/album/2n76Xn4O2yRFQT9Lmm4Nsx) | 2:20 | 2022-05-10 |  |
+| [Despertar al Sol](https://open.spotify.com/track/3NFL1h0KgrVb67DtM8dKFv) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Despertar al Sol](https://open.spotify.com/album/1X499n1XH8hjUAN4L7H7cm) | 1:55 | 2022-05-10 |  |
 | [Disambiguation](https://open.spotify.com/track/6C4GxyreSurFr1I8eeCFgD) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [Disambiguation](https://open.spotify.com/album/7ynyq1hgQwmywvJNVFJdhx) | 2:54 | 2022-03-14 |  |
 | [do u love me?](https://open.spotify.com/track/7Gvv5yvW8OCa1Y3k9UmkmS) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [do u love me?](https://open.spotify.com/album/1JkyDmDAixBgGxmn02liCt) | 2:00 | 2022-03-14 |  |
 | [dogebonk icon](https://open.spotify.com/track/7wxOaLL2guWc7worIbaTcv) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [dogebonk icon](https://open.spotify.com/album/10BxdOuEecyFaELkUKPTCu) | 2:15 | 2022-03-14 |  |
@@ -48,7 +51,7 @@
 | [Email Love](https://open.spotify.com/track/6UnxA6yk3HxSAg5JzmkEeq) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [Email Love](https://open.spotify.com/album/4tahUTE99ftJgpiJ5ELtpH) | 2:47 | 2022-03-14 |  |
 | [Empty Hallways](https://open.spotify.com/track/7Glvm1A5eVOTgrKhkuJPG9) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Empty Hallways](https://open.spotify.com/album/2RrbweEpM42paH0jr6F8td) | 2:26 | 2022-03-14 |  |
 | [Etoile](https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Etoile](https://open.spotify.com/album/3MQsERyDqkYLQztXDBofaV) | 2:29 | 2022-03-14 |  |
-| [Fall](https://open.spotify.com/track/6bWohy0oM550MR6phDoSAc) | [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [Talks After Ten](https://open.spotify.com/album/3ubcK42N5b7mD5F8bEHEiJ) | 3:05 | 2022-03-14 |  |
+| [Fall](https://open.spotify.com/track/6bWohy0oM550MR6phDoSAc) | [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [Talks After Ten](https://open.spotify.com/album/3ubcK42N5b7mD5F8bEHEiJ) | 3:05 | 2022-03-14 | 2022-05-11 |
 | [falling](https://open.spotify.com/track/0JwITaadgbbBnQIioNbjrD) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [falling](https://open.spotify.com/album/3YpHJzRylTi7Y3jU2KcXVS) | 2:40 | 2022-03-14 | 2022-04-22 |
 | [Falling Again](https://open.spotify.com/track/7rBWL83LuXHYCv5ZenKTVU) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Close Call](https://open.spotify.com/album/7Id0c14GxNXDkz38Io070t) | 3:05 | 2022-03-14 |  |
 | [Far Away](https://open.spotify.com/track/1kST96gSnjbstiOI0ZipAj) | [John Seger](https://open.spotify.com/artist/2bsLKJh8rAaiynqZJaRYj4) | [Neoflies](https://open.spotify.com/album/39DBn8bsiMleVfHFtMaOa2) | 1:57 | 2022-03-14 |  |
@@ -77,7 +80,7 @@
 | [Keep on Keepin' On](https://open.spotify.com/track/6T6Uf0q0Jpe5t4LnFQU3tM) | [FAKTESS](https://open.spotify.com/artist/6epkbYGmkRjKc18xWsEXPM) | [Keep On Keepin' On](https://open.spotify.com/album/3kPWOAZcaf92yz139YLcbL) | 2:20 | 2022-03-14 |  |
 | [Koh Musica](https://open.spotify.com/track/77QMACo3pSn8I7lQD9nftm) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:36 | 2022-03-14 |  |
 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 | 2022-03-14 |  |
-| [Kusanagi](https://open.spotify.com/track/3i2Q3cFdFzJ39nV9sAt3Pc) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [In Return](https://open.spotify.com/album/5SXT6dwhHX56Sos7KMcMF5) | 3:28 | 2022-03-14 |  |
+| [Kusanagi](https://open.spotify.com/track/3i2Q3cFdFzJ39nV9sAt3Pc) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [In Return](https://open.spotify.com/album/5SXT6dwhHX56Sos7KMcMF5) | 3:28 | 2022-03-14 | 2022-05-11 |
 | [Last Day \. \. .](https://open.spotify.com/track/5qd4NIeakuzbmnqIwpmFPR) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 2:17 | 2022-03-14 |  |
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2022-03-14 |  |
 | [Lickshot](https://open.spotify.com/track/3Qp59zOYu9qnKjwk7L7Oxg) | [Fairground Fish](https://open.spotify.com/artist/6lG54eZ9rnLWDSoaV4GtRE) | [Lickshot](https://open.spotify.com/album/14yQKUZ6l5GT1B06JiOyoM) | 3:11 | 2022-03-14 |  |
@@ -119,7 +122,7 @@
 | [Radio Beats](https://open.spotify.com/track/1kam4Z5I1d0Ia7u6sAgxSk) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Radio Beats](https://open.spotify.com/album/4mwnukawHOuhJRQT03qZUI) | 2:16 | 2022-03-14 |  |
 | [Rain Check](https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Rain Check](https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8) | 2:16 | 2022-03-14 |  |
 | [rainy sunday](https://open.spotify.com/track/57hx8cQURTg7e9rOA2GKH5) | [Awrail](https://open.spotify.com/artist/7bNQNzvOo3pNycy6qspOXO) | [rainy sunday](https://open.spotify.com/album/5YXSl7YNWBeo486vhov0WV) | 2:40 | 2022-03-14 |  |
-| [Reborn](https://open.spotify.com/track/7jybpMVEBsO0onHoe6FVHq) | [Jellis](https://open.spotify.com/artist/1WQB3MUY8am8dxKhfQWM1p), [Subsets](https://open.spotify.com/artist/1kdM4ZjjkM45gj9HAZeNdb) | [Café del Mar ChillWave 2](https://open.spotify.com/album/2fWfWSjb8qj2uzJfWfQCt5) | 3:56 | 2022-03-14 |  |
+| [Reborn](https://open.spotify.com/track/7jybpMVEBsO0onHoe6FVHq) | [Jellis](https://open.spotify.com/artist/1WQB3MUY8am8dxKhfQWM1p), [Subsets](https://open.spotify.com/artist/1kdM4ZjjkM45gj9HAZeNdb) | [Café del Mar ChillWave 2](https://open.spotify.com/album/2fWfWSjb8qj2uzJfWfQCt5) | 3:56 | 2022-03-14 | 2022-05-11 |
 | [Resume](https://open.spotify.com/track/4OKFg2NTbnszvbvl99h2zG) | [MON MON](https://open.spotify.com/artist/3GdKUo22eKb2wAB7oEcfp3) | [Resume](https://open.spotify.com/album/5qrTkSXwubgrbgdNKfiKG8) | 1:50 | 2022-03-14 |  |
 | [Retrouvailles](https://open.spotify.com/track/6uWUj9FaDqOjy5QWlCYNby) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Khandi](https://open.spotify.com/album/26hJDCmUoB3U7r3uAiS2KP) | 3:49 | 2022-03-14 |  |
 | [Rhodes](https://open.spotify.com/track/2EFTZJN5orePrHn2k6Lsxe) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Rhodes](https://open.spotify.com/album/3ib4ZrpTSLEEqPIt49BnGs) | 3:48 | 2022-03-14 |  |
@@ -149,7 +152,7 @@
 | [Sunbrella](https://open.spotify.com/track/7zlv1OLzjtbBL8OqHBYoAi) | [Embarco](https://open.spotify.com/artist/2U28L4mqy3Lo2ENcS5p0LO) | [Juice](https://open.spotify.com/album/30EcODyc2BAtdRQQpW0MYQ) | 2:41 | 2022-03-14 |  |
 | [Surrounded by Nature](https://open.spotify.com/track/4AbAaS6hmijUEX0TJ4bwYZ) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Surrounded by Nature](https://open.spotify.com/album/1vlB8bNLzqtgWZ4zwV8L6V) | 5:43 | 2022-03-14 |  |
 | [Tasty Bites](https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4) | [Blue and White](https://open.spotify.com/artist/3D7Q3FCSjGuFl5UNN3X4Ow) | [Tasty Bites](https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi) | 2:19 | 2022-03-14 |  |
-| [The Californias](https://open.spotify.com/track/7B7uZ7qiReJ8XoykEcKFk6) | [Y\. Rune](https://open.spotify.com/artist/6irumzWKWqWTtLf2wM9ejF) | [Spanish Western](https://open.spotify.com/album/041xfinakrHkusPcNctYhD) | 3:20 | 2022-03-14 |  |
+| [The Californias](https://open.spotify.com/track/7B7uZ7qiReJ8XoykEcKFk6) | [Y\. Rune](https://open.spotify.com/artist/6irumzWKWqWTtLf2wM9ejF) | [Spanish Western](https://open.spotify.com/album/041xfinakrHkusPcNctYhD) | 3:20 | 2022-03-14 | 2022-05-11 |
 | [The One with the Emoticon](https://open.spotify.com/track/1pGzcSHIle1lhPnoQ3JGQp) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [The One with the Emoticon](https://open.spotify.com/album/3aLvZcbJk2ey1IU60XKp6B) | 4:31 | 2022-03-14 |  |
 | [The Shimmering](https://open.spotify.com/track/5uKZdIleAR6OH7KNAnZNp4) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [The Shimmering](https://open.spotify.com/album/406awJt91WNjFqcFDxQgwN) | 2:42 | 2022-03-14 |  |
 | [The Sky Above Us](https://open.spotify.com/track/4rBitWwPvC7hgE9IdDNwnr) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [The Sky Above Us](https://open.spotify.com/album/40RHBVPLKNpftZHmnOX8zy) | 3:42 | 2022-03-14 |  |

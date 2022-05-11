@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,507 likes - 103 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,584 likes - 103 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

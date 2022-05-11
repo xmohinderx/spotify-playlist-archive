@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: HAAi & Jon Hopkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,197 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,223 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 |
-| 2 | [Baby, We're Ascending \- Edit](https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz) | 4:12 |
-| 3 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
+| 2 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
+| 3 | [Baby, We're Ascending \- Edit](https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz) | 4:12 |
 | 4 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |
-| 5 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 |
-| 6 | [Understand \(Feat\. Brendan Yates\)](https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Understand](https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS) | 3:43 |
-| 7 | [Give it to Me](https://open.spotify.com/track/6H2pxSiSTzSheYZydk7VZw) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/6RquqCIzJ6Ay9A4HzoHRMX) | 7:09 |
+| 5 | [Give it to Me](https://open.spotify.com/track/6H2pxSiSTzSheYZydk7VZw) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/6RquqCIzJ6Ay9A4HzoHRMX) | 7:09 |
+| 6 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 |
+| 7 | [Understand \(Feat\. Brendan Yates\)](https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Understand](https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS) | 3:43 |
 | 8 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 |
 | 9 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
 | 10 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Lanzarote Howl](https://open.spotify.com/track/6kaBmYQgjE8eOBq7pLLfV8) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Lanzarote Howl](https://open.spotify.com/album/1Q9S9kvftoZCagDVqK7vEL) | 3:30 |
 | 100 | [She Gives U](https://open.spotify.com/track/4O0ZhoIxA7xovHZ9RSbI9E) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [She Gives U](https://open.spotify.com/album/0QYsPD9bqPwoIvQ5KdpFRf) | 5:31 |
 
-Snapshot ID: `MTY1MjA5MDAyNSwwMDAwMDFjNzAwMDAwMTgwYTgzZDM3YWYwMDAwMDE4MDk0N2M3N2Zj`
+Snapshot ID: `MTY1MjE5NjUzMSwwMDAwMDFjODAwMDAwMTgwYWU5NjVlN2YwMDAwMDE4MDk0N2M3N2Zj`

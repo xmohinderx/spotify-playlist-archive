@@ -4,7 +4,7 @@
 
 > Soft piano interpretations of jazz classics.
 
-105 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+107 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Body And Soul](https://open.spotify.com/track/3u2Y2K3dlBY5QRIwdTnCHu) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [Modernistic](https://open.spotify.com/album/7rPdZr6OPrShZWy3aob80V) | 3:46 | 2021-12-14 |  |
 | [But Beautiful](https://open.spotify.com/track/2HrJMEYnGTwBSKVOV2v7Ks) | [Margaret Shu](https://open.spotify.com/artist/2rXYYqYz9gNCletxt5R1M5) | [You Know I Care](https://open.spotify.com/album/6stS7pmTQEtTSN6Gfiroul) | 3:51 | 2021-12-14 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-26 |  |
+| [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-10 |  |
 | [Cry Me A River](https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Past Closing Time](https://open.spotify.com/album/1E9xMRwRNCkkIW1sCTZm9z) | 3:28 | 2022-01-13 |  |
 | [Darn That Dream](https://open.spotify.com/track/3X0hhcf3nhupCCq2rFaTZP) | [Ethan Iverson](https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Nasheet Waits](https://open.spotify.com/artist/5fhkjcgOAjl6gQGsQOcP46) | [The Purity of the Turf](https://open.spotify.com/album/4KliiTRJlcaMNqsZA15iOF) | 4:44 | 2021-12-14 |  |
 | [Days of Wine and Roses](https://open.spotify.com/track/0bCwxcB99DGOg6OK9if6c9) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Days of Wine and Roses](https://open.spotify.com/album/1mDaXUoWzlSxRkn8Griz53) | 3:03 | 2021-12-14 |  |
@@ -34,7 +35,7 @@
 | [Embraceable You](https://open.spotify.com/track/6U8ptAVrs4QsCxORfUlRZc) | [Simon Schott](https://open.spotify.com/artist/4aj82EQm1aU8rsxLYtB91d) | [Bar Piano:Plays Your Favorite Evergreens, Vol.1](https://open.spotify.com/album/5vmr4xkrAQOdQzHw5gIn2l) | 1:04 | 2021-12-14 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/6nDBKDiLUbrRFe2Wyghmrb) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Everything Happens To Me](https://open.spotify.com/album/7tr6GwglHf1iIz81pe1j8p) | 3:46 | 2021-12-14 |  |
 | [Fly Me to the Moon](https://open.spotify.com/track/5hoCPpH764j3z2HxAEq4rz) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Fly Me to the Moon](https://open.spotify.com/album/0Y3EIbfN2deyLbofAv1ZUJ) | 3:05 | 2022-03-10 |  |
-| [For Heaven's Sake](https://open.spotify.com/track/1Awk77fTG0Vf17KlekKECz) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [For Heaven's Sake](https://open.spotify.com/album/1QBGjJQnNFwrGxdyUuFsml) | 4:32 | 2022-01-13 |  |
+| [For Heaven's Sake](https://open.spotify.com/track/1Awk77fTG0Vf17KlekKECz) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [For Heaven's Sake](https://open.spotify.com/album/1QBGjJQnNFwrGxdyUuFsml) | 4:32 | 2022-01-13 | 2022-05-11 |
 | [From This Moment On](https://open.spotify.com/track/4b1yJPoWJeY9kEvegJsynM) | [Landon Johns](https://open.spotify.com/artist/7AjIWpOsi63AmNBKJ7hXLQ) | [Jazz Piano Standards](https://open.spotify.com/album/4PCL8srn8PF3Fdc4atwH00) | 3:57 | 2022-03-10 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2021-12-14 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/5whJHDkwt2GoohrZSWkREv) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Have You Met Miss Jones?](https://open.spotify.com/album/3SE6WQEbpDPe0TUe7kGfuR) | 3:25 | 2021-12-14 |  |
@@ -86,6 +87,7 @@
 | [Someone To Watch Over Me](https://open.spotify.com/track/5DG1ux5rYimpUxMPh2HQcz) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 5:00 | 2021-12-14 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/1X9Vq3UbrHLrFYgv3d12ul) | [Dan Hawkins](https://open.spotify.com/artist/6Zrz9KdRDQ9LIfe0Cti6Lx) | [Somewhere Over The Rainbow](https://open.spotify.com/album/1CjdLuBEg4yGAWx89Ab48F) | 3:02 | 2021-12-14 |  |
 | [Sophisticated Lady](https://open.spotify.com/track/4Ws7Bm2Nhbm83Tz4gRxpIx) | [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT) | [Blues For Myself \(Piano Solo\)](https://open.spotify.com/album/4YZjyiz1O5rBwiz6c0VVyI) | 3:30 | 2022-01-13 |  |
+| [Soul Eyes](https://open.spotify.com/track/26Wo7WEQKKuGg4JeouLnfk) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Soul Eyes](https://open.spotify.com/album/4viivNC5h64WwbgUg8UAFe) | 3:30 | 2022-05-10 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/5STmaQpxC5Isvg6JNdLbzN) | [Brooklyn Smith](https://open.spotify.com/artist/0bdL8iLPL5Nj0IRvHn2kIP) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/41Cgn5J4dGakeyUXDDgSyu) | 3:55 | 2021-12-14 |  |
 | [spring is here](https://open.spotify.com/track/1qNaAQueWsLOZswKx0zTIe) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 3:56 | 2021-12-14 |  |
 | [stairway to the stars](https://open.spotify.com/track/56Sb9modW6bh4xtwuDwUiE) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 4:22 | 2022-01-13 |  |

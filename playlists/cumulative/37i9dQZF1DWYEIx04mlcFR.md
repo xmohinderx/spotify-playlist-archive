@@ -4,7 +4,7 @@
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a Foudeqush\. 🌊✨
 
-133 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+134 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Elefante Rosado](https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Elefante Rosado](https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl) | 2:13 | 2022-02-18 | 2022-05-07 |
 | [empleado del mes](https://open.spotify.com/track/1p4PINMyO9rjyt4AN0DWxo) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [empleado del mes](https://open.spotify.com/album/4YvqwFBW0pc0HXX4D7xGfI) | 2:58 | 2022-03-25 |  |
 | [es mejor](https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [es mejor](https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ) | 2:56 | 2021-12-10 | 2022-05-07 |
-| [f\*\*k u \(La Devolución\)](https://open.spotify.com/track/2mquxyPnVCHcfIY45mR5Sz) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [f\*\*k u \(La Devolución\)](https://open.spotify.com/album/6TRFMEdEhR5VJtINuFekU5) | 2:16 | 2022-01-28 |  |
+| [f\*\*k u \(La Devolución\)](https://open.spotify.com/track/2mquxyPnVCHcfIY45mR5Sz) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [f\*\*k u \(La Devolución\)](https://open.spotify.com/album/6TRFMEdEhR5VJtINuFekU5) | 2:16 | 2022-01-28 | 2022-05-11 |
 | [FAKE](https://open.spotify.com/track/51t95XJ2OQ9MLRKWd1PXEp) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FAKE](https://open.spotify.com/album/2sK71LmqForUrfyjX7pFdq) | 2:40 | 2022-03-23 |  |
 | [Femme Fatale](https://open.spotify.com/track/2HayaiNRgl2MymW2creYkH) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Femme Fatale](https://open.spotify.com/album/4pvV8p2UmmlM5vGZw3nA6r) | 2:42 | 2022-01-28 |  |
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2021-12-10 | 2022-05-10 |
@@ -78,6 +78,7 @@
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-04-13 |  |
 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 | 2021-12-10 | 2022-03-12 |
 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 | 2021-12-10 | 2022-03-05 |
+| [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-05-10 |  |
 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 | 2022-01-20 |  |
 | [Navegantes](https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ) | [Daniela Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Navegantes](https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC) | 4:03 | 2022-02-11 |  |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-02-04 |  |

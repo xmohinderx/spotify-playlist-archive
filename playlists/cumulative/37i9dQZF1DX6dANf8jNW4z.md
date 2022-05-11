@@ -4,7 +4,7 @@
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Rocío Márquez
 
-229 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
+230 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [27 Días](https://open.spotify.com/track/0TEVGFzpdEpIHYAc1dE4dY) | [Blanca Vergara](https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU) | [27 Días](https://open.spotify.com/album/7rOH7pB0Jk861G5WqlIb0H) | 3:03 | 2022-03-07 | 2022-04-07 |
 | [a ella la llevas a paris](https://open.spotify.com/track/5zZP6IPAJPiVziwEgHGacL) | [Mafalda](https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt) | [a ella la llevas a paris](https://open.spotify.com/album/1QXY1OgvYzG3yQvd78YXLP) | 3:24 | 2022-02-01 | 2022-04-07 |
 | [A LO LEJOS](https://open.spotify.com/track/2KLgvX4K9FtvHUhQAA6f8W) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [A LO LEJOS](https://open.spotify.com/album/0fUap5r3AJykBDq5LTT23y) | 2:45 | 2022-03-07 | 2022-04-07 |
-| [A Media Voz](https://open.spotify.com/track/0YDgHAlCWeW4wcCJ6mgQ5n) | [Tamara Alegre](https://open.spotify.com/artist/4vIEm3E6rNZJODvuos9cYp) | [A Media Voz](https://open.spotify.com/album/5VfQbKYnGmJ1RHffNLwocd) | 3:49 | 2022-04-06 |  |
+| [A Media Voz](https://open.spotify.com/track/0YDgHAlCWeW4wcCJ6mgQ5n) | [Tamara Alegre](https://open.spotify.com/artist/4vIEm3E6rNZJODvuos9cYp) | [A Media Voz](https://open.spotify.com/album/5VfQbKYnGmJ1RHffNLwocd) | 3:49 | 2022-04-06 | 2022-05-11 |
 | [Abeja Reina](https://open.spotify.com/track/03t2MRcxzT44sEgGv5K3S1) | [Feroe](https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a) | [Abeja Reina](https://open.spotify.com/album/4eNa7NylFhsXnHCl1poatR) | 3:30 | 2022-01-04 | 2022-02-02 |
 | [Abrazos](https://open.spotify.com/track/0lmapz7XrX9axygCVvlSex) | [Ana Webb](https://open.spotify.com/artist/24xDiU4p49s4K1ztiL3z4z) | [Que No Llegue el Verano](https://open.spotify.com/album/2mA1GDxAMMRaWtjqFgbicH) | 2:51 | 2022-04-06 | 2022-05-04 |
 | [Adelante](https://open.spotify.com/track/5x3fKOjVKG7VY4RXk8isYd) | [Rocio Caamaño](https://open.spotify.com/artist/4LaS5IJXyKFXn3OT9naUFv) | [Adelante](https://open.spotify.com/album/0wpzMnjUFOmuaDminwZIdM) | 3:27 | 2022-01-04 | 2022-02-02 |
@@ -112,6 +112,7 @@
 | [Los Días](https://open.spotify.com/track/52x3T2eg7VWZBqbIiCUh3z) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Los Días](https://open.spotify.com/album/1vhA9An528qlJH1GfQGL2K) | 3:10 | 2022-02-01 | 2022-03-08 |
 | [Luna](https://open.spotify.com/track/2xC9D5clZavXTtslEQaOAx) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa) | [Luna](https://open.spotify.com/album/4KddWXh2hjcDwmx1FG65H8) | 4:05 | 2022-04-06 | 2022-05-04 |
 | [Luna Llena](https://open.spotify.com/track/7EDO0iKaesipv1PVWox90S) | [Miriam Camino](https://open.spotify.com/artist/0gONtYgwDeAvFDTk1WTBFQ) | [Luna Llena](https://open.spotify.com/album/3NAHGqDGPEfspqsRJaBJx5) | 2:50 | 2022-05-03 |  |
+| [Magnolia Trees](https://open.spotify.com/track/7jQZDPuuJ1l2LZm2XvLmPx) | [Scarlett Rose](https://open.spotify.com/artist/1bCMlnbje6Gh6lbrSI8WpK) | [Magnolia Trees](https://open.spotify.com/album/1PZsh2v2fGKsoxTvQxvlwN) | 3:49 | 2022-05-10 |  |
 | [Make You Say](https://open.spotify.com/track/2gzsQUj76OrJwr2dUbGmp9) | [Sara Deop](https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too) | [Make You Say](https://open.spotify.com/album/78HZKsU8h1L3AyUvKnK7iD) | 2:51 | 2022-02-01 | 2022-03-08 |
 | [Mala](https://open.spotify.com/track/7twUdF9klHeyFf6cZgGDpp) | [Alba Moreno](https://open.spotify.com/artist/6kWK8M4vGR9AWnikXxcWLF) | [Mala](https://open.spotify.com/album/2rUrAYxZIjrPoAStzLsMcY) | 2:44 | 2022-04-06 | 2022-05-04 |
 | [Malita de los Nervios](https://open.spotify.com/track/6mt4Ee3Grv351Z9wfusa6Z) | [Nya de la Rubia](https://open.spotify.com/artist/3rE5nDLmkOn4tmdvnCj8py) | [Raices](https://open.spotify.com/album/61QcID0Jl3yf07H6FMFq4g) | 2:56 | 2022-02-01 | 2022-03-08 |

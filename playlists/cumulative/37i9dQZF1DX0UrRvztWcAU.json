@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 208214,
       "name": "Brooklyn In The Summer",
       "url": "https://open.spotify.com/track/3umkzHosXJRxujeCjIhRmU"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 251906,
       "name": "Clearly",
       "url": "https://open.spotify.com/track/5XBqGcLYOZi8CEW83Ug7Fs"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 182666,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ"
@@ -1885,7 +1885,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 198074,
       "name": "Grip",
       "url": "https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT"
@@ -2399,7 +2399,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 168823,
       "name": "How Did I Find You",
       "url": "https://open.spotify.com/track/7dhh5MGe898uMm7TrCUvwj"
@@ -2537,7 +2537,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 225662,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/6DRq67fCgg5nkKE5ruckW8"
@@ -2827,7 +2827,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/4wQD0djo6Id4fQLQeRKQ6e"
@@ -2893,6 +2893,28 @@
       "duration_ms": 176078,
       "name": "Just a Cloud Away",
       "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
+    },
+    {
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG"
+      },
+      "artists": [
+        {
+          "name": "Five",
+          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
+        },
+        {
+          "name": "Steve Mac",
+          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Keep On Movin'",
+      "url": "https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz"
     },
     {
       "album": {
@@ -2995,7 +3017,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 198520,
       "name": "Last Time Love",
       "url": "https://open.spotify.com/track/2aBVR2kHDFocniQ0T1DUcG"
@@ -3111,7 +3133,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 268186,
       "name": "Love Changes (Everything)",
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
@@ -3219,7 +3241,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 215265,
       "name": "Love You Right",
       "url": "https://open.spotify.com/track/0eOK06PrPsSJ9rswCHaC50"
@@ -3713,7 +3735,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 206040,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2"
@@ -3861,7 +3883,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 209047,
       "name": "Ready To Love You",
       "url": "https://open.spotify.com/track/2gJIL7h1fCpFh6NjCZUJyQ"
@@ -4697,7 +4719,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 187711,
       "name": "Teenage Minds",
       "url": "https://open.spotify.com/track/5LVCtUQQOr1JmwdUufLaw7"
@@ -4973,7 +4995,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 178133,
       "name": "Too Late For Love",
       "url": "https://open.spotify.com/track/6Jf8Y84YSdqeJfEPDJFEZu"
@@ -5217,7 +5239,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 220178,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/4K115GgaOrUhQ9gL5Nq1Fq"
@@ -5611,7 +5633,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 208840,
       "name": "You To Me Are Everything",
       "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"
@@ -5723,7 +5745,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Yung Luv",
       "url": "https://open.spotify.com/track/4Xx4oojaE3MlJKpgtilgp1"

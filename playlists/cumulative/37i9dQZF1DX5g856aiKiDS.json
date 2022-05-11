@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 184028,
       "name": "Alright!",
       "url": "https://open.spotify.com/track/667jaqJRDzuPxumZyNhOwu"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 148946,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 222173,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/0oUZJfeFYxPUNuVC0wp0T3"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 194111,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 223933,
       "name": "DAYDREAM",
       "url": "https://open.spotify.com/track/3CMrYymwyfZ2RSvbpKKMNE"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "FRIDAY NIGHTS (with bottle gods)",
       "url": "https://open.spotify.com/track/1GreV6Av42dDCL3HZogPwy"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 230769,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/2dp0SokB0wxNlLcR0J547q"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 157607,
       "name": "Like a Joke",
       "url": "https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/7pnBMz4MiFIwFXSa4nSJcJ"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 196881,
       "name": "May",
       "url": "https://open.spotify.com/track/6Mnnb4HXLTUUUG1JT7jGql"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 237795,
       "name": "MORE AND MORE",
       "url": "https://open.spotify.com/track/6Ze55CYuGtXSipKLejspyf"
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 191333,
       "name": "NO THING",
       "url": "https://open.spotify.com/track/17krGK7sT3GvG3m6DFbq8N"
@@ -1629,6 +1629,24 @@
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "album": {
+        "name": "Nothing's gonna be changed",
+        "url": "https://open.spotify.com/album/2LTlgwSbpnDq09udfqAqbO"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204613,
+      "name": "Nothing's gonna be changed",
+      "url": "https://open.spotify.com/track/17csHY9O2lt4H5Kp6NZZWT"
     },
     {
       "album": {
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 195560,
       "name": "Playlist (feat. Jiselle)",
       "url": "https://open.spotify.com/track/6YexNwqp5f8jX2Rmex0Qn7"
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 166022,
       "name": "Secret love (Feat. Ashley Alisha, Jae luna)",
       "url": "https://open.spotify.com/track/3D5tJv3dKwIBW0eBxoauR1"
@@ -2432,6 +2450,24 @@
     },
     {
       "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/7LitfehzSpzc7YnYB4IzFx"
+      },
+      "artists": [
+        {
+          "name": "1set",
+          "url": "https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173973,
+      "name": "To",
+      "url": "https://open.spotify.com/track/1U4iZNR4mFlT4J7rfV85kq"
+    },
+    {
+      "album": {
         "name": "Touch Me Softly (Feat. Chohye, Jin)",
         "url": "https://open.spotify.com/album/3rdG6MmWgycIsTZ1icPxiA"
       },
@@ -2527,7 +2563,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 254133,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/6CgqbaPJVedaZpeZsYEHSt"
@@ -2643,7 +2679,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 175714,
       "name": "When I See You (feat. Jimmy Brown)",
       "url": "https://open.spotify.com/track/1pqPzcxmGr25rZJvy74YjC"
@@ -2869,7 +2905,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 247173,
       "name": "\uc6b0\uc8fc\ub97c \uac74\ub108 Across the universe",
       "url": "https://open.spotify.com/track/48kGawOjwMzRqltSVL88es"

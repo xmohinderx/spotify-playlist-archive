@@ -713,13 +713,17 @@
         {
           "name": "L'morphine",
           "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        },
+        {
+          "name": "Raid",
+          "url": "https://open.spotify.com/artist/0DqsRfYqTHl6rlzQS1VZwA"
         }
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174701,
-      "name": "Adams, Raid",
+      "name": "Adams",
       "url": "https://open.spotify.com/track/22kGpzO0EAdYy9yaPGvKGJ"
     },
     {
@@ -1785,13 +1789,17 @@
         {
           "name": "L'morphine",
           "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        },
+        {
+          "name": "Mobydick",
+          "url": "https://open.spotify.com/artist/1GJFMvl7YNCHPCFbIJfoXz"
         }
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 143034,
-      "name": "Bouh !, Mobydick",
+      "name": "Bouh !",
       "url": "https://open.spotify.com/track/2hTvavZbSNLCUXFC4av6uR"
     },
     {
@@ -2907,7 +2915,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 177307,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/5ZWTPl9SNP5HG7eZZxV8qK"
@@ -3207,7 +3215,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -3397,7 +3405,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 255978,
       "name": "Enty Hayaty",
       "url": "https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m"
@@ -10807,6 +10815,24 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Disfreq
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,110 likes - 125 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,220 likes - 125 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 29 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 |
 | 30 | [Trip](https://open.spotify.com/track/5vI3ndAToxdJitBdl0Tf1j) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Tombz](https://open.spotify.com/artist/6lib5PryDEdaqbVKPgIMbC) | [Dimension](https://open.spotify.com/album/0RGrofugP1lElDnKRTR28m) | 5:48 |
 | 31 | [You Are A God](https://open.spotify.com/track/2HqBxTBH8GzRHaYxpvQVP5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [You Are A God](https://open.spotify.com/album/5ufDKRN3NzQl8jCNbmBd40) | 3:03 |
-| 32 | [Better Days \- GUZ Remix](https://open.spotify.com/track/6fXFHBFcfwUIjzGDb7ttgK) | [House Of Virus](https://open.spotify.com/artist/30GgMIm1GpwrIockIVpzkz), [Jimi Polo](https://open.spotify.com/artist/2LF3qYISOPgRfBywG1lWw9), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [GUZ \(NL\)](https://open.spotify.com/artist/3JE48pSpTn72AxZkU0PqO8) | [Better Days \(GUZ Remix\)](https://open.spotify.com/album/177fioYntPDgpvr24oCPqk) | 2:35 |
+| 32 | [Better Days \- GUZ Remix](https://open.spotify.com/track/6fXFHBFcfwUIjzGDb7ttgK) | [House Of Virus](https://open.spotify.com/artist/30GgMIm1GpwrIockIVpzkz), [Jimi Polo](https://open.spotify.com/artist/2LF3qYISOPgRfBywG1lWw9), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Better Days \(GUZ Remix\)](https://open.spotify.com/album/177fioYntPDgpvr24oCPqk) | 2:35 |
 | 33 | [Where's My Phone? \(feat\. Sailor Jane\) \- Marco Faraone Remix](https://open.spotify.com/track/4k54T3cmIZ4BAY8zNmSxRq) | [R.E.A.D](https://open.spotify.com/artist/0PdsKkjp0TGjzPVY8Q4dAR), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Sailor Jane](https://open.spotify.com/artist/3v5UQCcGELwMLnkpbSf4WE) | [Where's My Phone? \(feat\. Sailor Jane\) \[Marco Faraone Remix\]](https://open.spotify.com/album/2fjSBH3yBzhULbJx1suiTa) | 3:35 |
 | 34 | [Ghost \- Cloverdale Remix](https://open.spotify.com/track/4sd13Wkerj62pdgkMHBBUd) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Ghost \- Cloverdale Remix](https://open.spotify.com/album/77cGlrjC62YXn9wHJK0xRW) | 3:24 |
 | 35 | [Carnaval de Paris](https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Carnaval de Paris](https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3) | 3:15 |

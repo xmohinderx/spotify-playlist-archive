@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/3zvL5VdJfT9ccr6L1aXFgG"
+      },
+      "artists": [
+        {
+          "name": "Azucares",
+          "url": "https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181842,
+      "name": "Altiro",
+      "url": "https://open.spotify.com/track/48JDAQgmJmXGyihVBdS2fa"
+    },
+    {
+      "album": {
         "name": "Andlegur",
         "url": "https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u"
       },
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 148114,
       "name": "Hot Summer",
       "url": "https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w"
@@ -1377,6 +1395,24 @@
       "duration_ms": 229069,
       "name": "I Know That Smirk",
       "url": "https://open.spotify.com/track/1ogQXZYxWHuGtHLdWhKyLk"
+    },
+    {
+      "album": {
+        "name": "I've Got The Feeling",
+        "url": "https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1"
+      },
+      "artists": [
+        {
+          "name": "Cymbal Dealers",
+          "url": "https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151512,
+      "name": "I've Got The Feeling",
+      "url": "https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC"
     },
     {
       "album": {
@@ -1431,7 +1467,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 169397,
       "name": "In This Together",
       "url": "https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW"
@@ -1485,7 +1521,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 227345,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/3Y0JuvIIA3mzhmM2G00kE9"
@@ -1539,7 +1575,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 162153,
       "name": "Kissing on the Dance Floor",
       "url": "https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M"
@@ -1867,7 +1903,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 242505,
       "name": "Missing You - Edit",
       "url": "https://open.spotify.com/track/3kz48YBXaevUhbPmVOIIeR"
@@ -2083,7 +2119,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 197058,
       "name": "One for Babushka",
       "url": "https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno"
@@ -2353,7 +2389,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 252307,
       "name": "Pure North",
       "url": "https://open.spotify.com/track/1OupslOCajr6YwYMc6bYUK"
@@ -2479,7 +2515,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 175000,
       "name": "Rich In Mind",
       "url": "https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR"
@@ -2623,7 +2659,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 290357,
       "name": "Salty Tales",
       "url": "https://open.spotify.com/track/5Gy3t7t0vEsxFEMux3dX3X"
@@ -3037,7 +3073,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 129339,
       "name": "Sun Time",
       "url": "https://open.spotify.com/track/6bo1me9qHBypbaYu7BBQjF"
@@ -3109,7 +3145,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 273183,
       "name": "Sur Mer",
       "url": "https://open.spotify.com/track/3hyBObu11mMYg6XLJELC5J"
@@ -3325,7 +3361,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 246840,
       "name": "Train of Thought",
       "url": "https://open.spotify.com/track/3Uflrmt2A0RFUNS42zasqE"
@@ -3365,6 +3401,24 @@
       "duration_ms": 205842,
       "name": "Two Nights",
       "url": "https://open.spotify.com/track/2h9uDnr4y7MKa2EDlCtNJ9"
+    },
+    {
+      "album": {
+        "name": "U Know",
+        "url": "https://open.spotify.com/album/4F1YjPcqriL9pIYYeYPDr6"
+      },
+      "artists": [
+        {
+          "name": "Divulgation",
+          "url": "https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "U Know",
+      "url": "https://open.spotify.com/track/2qogVA8zkwNRF5KGWMfA8C"
     },
     {
       "album": {
@@ -3455,6 +3509,24 @@
       "duration_ms": 198409,
       "name": "Vista Del Mar",
       "url": "https://open.spotify.com/track/30WPOz4hvOElMMayVMnPyo"
+    },
+    {
+      "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/1dATlWw7ivm6TXdKAqPd4q"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178058,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/5xaSDlte9dCRLpIo93ZmbK"
     },
     {
       "album": {
@@ -3549,6 +3621,24 @@
       "duration_ms": 242750,
       "name": "White Dust",
       "url": "https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY"
+    },
+    {
+      "album": {
+        "name": "Fragmented Memories / Woodpecker (Call Me)",
+        "url": "https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg"
+      },
+      "artists": [
+        {
+          "name": "Duckmaw",
+          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304412,
+      "name": "Woodpecker (Call Me)",
+      "url": "https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5"
     },
     {
       "album": {

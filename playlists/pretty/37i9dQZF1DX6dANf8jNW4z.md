@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Rocío Márquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,810 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,807 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Un Ala Rota \- Garrotín](https://open.spotify.com/track/0djuQX5nr699N1Ht4K0pXN) | [Rocío Márquez](https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ), [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1) | [Un Ala Rota \(Garrotín\)](https://open.spotify.com/album/5QSAwutUFgOHm3GojNgslj) | 4:08 |
-| 2 | [A Media Voz](https://open.spotify.com/track/0YDgHAlCWeW4wcCJ6mgQ5n) | [Tamara Alegre](https://open.spotify.com/artist/4vIEm3E6rNZJODvuos9cYp) | [A Media Voz](https://open.spotify.com/album/5VfQbKYnGmJ1RHffNLwocd) | 3:49 |
-| 3 | [Entre Tejados](https://open.spotify.com/track/2l9l2sUyStglyl5nsJ2lde) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Entre Tejados](https://open.spotify.com/album/0LmAWZNlPluZIv6LUjPcdA) | 2:50 |
-| 4 | [Ay Mamá \(Génesis\)](https://open.spotify.com/track/4e4HXQsRpnmkiaTmnl6o7M) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Ay Mamá \(Génesis\)](https://open.spotify.com/album/0PFmkP4w9tSBz14oO91jyY) | 3:00 |
-| 5 | [la hostia de dios](https://open.spotify.com/track/1lBu85R6vG00OaMyVY3X8X) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [la hostia de dios](https://open.spotify.com/album/5FzHmWHWI0SnSvqdGwdo4E) | 3:19 |
-| 6 | [Tierra mojada](https://open.spotify.com/track/3VMx13Ht7T8WXir6xlwet3) | [Lena Carrilero](https://open.spotify.com/artist/4w7xZndYz2tIKdflbxPFu9) | [Tierra mojada](https://open.spotify.com/album/3jI4WLZaHDRwMFIKCxTflz) | 2:45 |
-| 7 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
-| 8 | [Ramita de romero](https://open.spotify.com/track/2hTIOaiprWuGLYpbcdset4) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Ramita de romero](https://open.spotify.com/album/6FK1JOpkJhKmVRmstYT9FR) | 3:06 |
-| 9 | [LAS TIAS](https://open.spotify.com/track/58TmVry5tDtNvIJPhF0mrT) | [Joana Santos](https://open.spotify.com/artist/0GRisUOxNeaGB4XZs7TBRm) | [LAS TIAS](https://open.spotify.com/album/5QPCHsg5M0gi07tj7uAYdP) | 2:31 |
+| 2 | [Entre Tejados](https://open.spotify.com/track/2l9l2sUyStglyl5nsJ2lde) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Entre Tejados](https://open.spotify.com/album/0LmAWZNlPluZIv6LUjPcdA) | 2:50 |
+| 3 | [Ay Mamá \(Génesis\)](https://open.spotify.com/track/4e4HXQsRpnmkiaTmnl6o7M) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Ay Mamá \(Génesis\)](https://open.spotify.com/album/0PFmkP4w9tSBz14oO91jyY) | 3:00 |
+| 4 | [la hostia de dios](https://open.spotify.com/track/1lBu85R6vG00OaMyVY3X8X) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [la hostia de dios](https://open.spotify.com/album/5FzHmWHWI0SnSvqdGwdo4E) | 3:19 |
+| 5 | [Tierra mojada](https://open.spotify.com/track/3VMx13Ht7T8WXir6xlwet3) | [Lena Carrilero](https://open.spotify.com/artist/4w7xZndYz2tIKdflbxPFu9) | [Tierra mojada](https://open.spotify.com/album/3jI4WLZaHDRwMFIKCxTflz) | 2:45 |
+| 6 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
+| 7 | [Ramita de romero](https://open.spotify.com/track/2hTIOaiprWuGLYpbcdset4) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Ramita de romero](https://open.spotify.com/album/6FK1JOpkJhKmVRmstYT9FR) | 3:06 |
+| 8 | [LAS TIAS](https://open.spotify.com/track/58TmVry5tDtNvIJPhF0mrT) | [Joana Santos](https://open.spotify.com/artist/0GRisUOxNeaGB4XZs7TBRm) | [LAS TIAS](https://open.spotify.com/album/5QPCHsg5M0gi07tj7uAYdP) | 2:31 |
+| 9 | [Magnolia Trees](https://open.spotify.com/track/7jQZDPuuJ1l2LZm2XvLmPx) | [Scarlett Rose](https://open.spotify.com/artist/1bCMlnbje6Gh6lbrSI8WpK) | [Magnolia Trees](https://open.spotify.com/album/1PZsh2v2fGKsoxTvQxvlwN) | 3:49 |
 | 10 | [Nana para Mamá](https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Sin Prisa No Quiero Morir](https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01) | 5:33 |
 | 11 | [FRESH](https://open.spotify.com/track/73Q8I5wBGnUFXY9rjWXPzy) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [FRESH](https://open.spotify.com/album/3395RngNLyEQ2jR6iChmqz) | 2:31 |
 | 12 | [La cucharita](https://open.spotify.com/track/7z93LQ3LfHjG52bNPK9qOb) | [Nawi](https://open.spotify.com/artist/2RdpAXHWszhho7JCRo0LKF) | [La cucharita](https://open.spotify.com/album/0BHkFSst6Y27JczCiNlasU) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 49 | [En el Túnel de Lavado](https://open.spotify.com/track/3BWzuRqg7c9pIP0YannCIm) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [En el Túnel de Lavado](https://open.spotify.com/album/5VScXeCIYm8HYJ0XuVEkKZ) | 2:53 |
 | 50 | [Te pienso](https://open.spotify.com/track/0jGD3xXz8SimksPiD0QalU) | [Marta Soto](https://open.spotify.com/artist/6rRY793jdSneQ9aSy0RtMN) | [Te pienso](https://open.spotify.com/album/1iCX0VIp5tRVELtNUd3VSs) | 3:38 |
 
-Snapshot ID: `MTY1MTYxNTIwMCwwMDAwMDAxOTAwMDAwMTgwOGJlZmYzNjQwMDAwMDE4MDc0YmZjMjBj`
+Snapshot ID: `MTY1MjE3Njg0MSwwMDAwMDAxYTAwMDAwMTgwYWQ2OWViZGEwMDAwMDE4MDc0YmZjMjBj`

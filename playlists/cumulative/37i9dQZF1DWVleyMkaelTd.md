@@ -4,7 +4,7 @@
 
 > Soundtrack your dinner with bossa sounds.
 
-104 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+105 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Ataraxia](https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Ataraxia](https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk) | 3:03 | 2022-04-26 |  |
 | [Beatrice](https://open.spotify.com/track/521g9IAwMmDwXsjWNNmEV5) | [Sunset Cafe Jazz Band](https://open.spotify.com/artist/3sKiXQhuMcP5SwY9qYvzfk) | [All of Me](https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq) | 4:30 | 2022-04-26 |  |
 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 | 2022-04-26 |  |
-| [Black Orpheus](https://open.spotify.com/track/509iWZpdj11TayPbutE5JG) | [David Clough Quartet](https://open.spotify.com/artist/7sBV16McZ6qZy9O78hGbNG) | [My Favorite Things](https://open.spotify.com/album/28283G5mmwjrwg9RKnukIK) | 5:10 | 2022-04-26 |  |
+| [Black Orpheus](https://open.spotify.com/track/3VCzknPQgKeeggh1AQcNYF) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Black Orpheus](https://open.spotify.com/album/2nVeJ916nEQC4pnoCGCb2P) | 3:24 | 2022-05-10 |  |
+| [Black Orpheus](https://open.spotify.com/track/509iWZpdj11TayPbutE5JG) | [David Clough Quartet](https://open.spotify.com/artist/7sBV16McZ6qZy9O78hGbNG) | [My Favorite Things](https://open.spotify.com/album/28283G5mmwjrwg9RKnukIK) | 5:10 | 2022-04-26 | 2022-05-11 |
 | [Blue Bossa](https://open.spotify.com/track/7w5Plin7KHi7vC1bjSeLpW) | [Horace Ingram Trio](https://open.spotify.com/artist/2upKKzpVjxy1rxfwEM7pqT) | [Laura](https://open.spotify.com/album/11rDo8Bvg7KcPW7QDMhDWq) | 5:34 | 2022-04-26 |  |
 | [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 | 2022-04-26 |  |
 | [Bossa de Leblon](https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:01 | 2022-04-26 |  |
@@ -69,7 +70,7 @@
 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2022-04-26 |  |
 | [Little Sunflower](https://open.spotify.com/track/6EBzxEkM0l4UkRBhqj3JWn) | [Mitchell Jackson Quartet](https://open.spotify.com/artist/6zV8mNPXyQHoNMxGxlcQXF) | [Soul Eyes](https://open.spotify.com/album/6Y1sADHp2yDRkT6iCPKYTG) | 4:23 | 2022-04-26 |  |
 | [Meditação](https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 6:18 | 2022-04-26 |  |
-| [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 | 2022-04-26 |  |
+| [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 | 2022-04-26 | 2022-05-11 |
 | [Nado Borboleta](https://open.spotify.com/track/1LK94Pkl6MQJouTSi8MyLS) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 4:26 | 2022-04-26 |  |
 | [Nature Boy](https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8) | [Lighthouse Lounge Band](https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc) | [Nature Boy](https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR) | 4:23 | 2022-04-26 |  |
 | [Nothing To Lose \(from The Party\)](https://open.spotify.com/track/6hoPWPOBh92PQqkbqJmqdX) | [Owen Silberman](https://open.spotify.com/artist/7elv0yvaQGqWdcnwV1VVUy) | [Out of Tinseltown](https://open.spotify.com/album/4kihph6RfV3BjW5jrjYWJ4) | 3:22 | 2022-04-26 |  |

@@ -488,6 +488,28 @@
     },
     {
       "album": {
+        "name": "Ghir Ntiya",
+        "url": "https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        },
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214015,
+      "name": "Ghir Ntiya",
+      "url": "https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX"
+    },
+    {
+      "album": {
         "name": "Ghorba",
         "url": "https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc"
       },
@@ -699,6 +721,24 @@
       "duration_ms": 211623,
       "name": "J'en ai marre !",
       "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
+    },
+    {
+      "album": {
+        "name": "Jabha Fraso",
+        "url": "https://open.spotify.com/album/6vUgmqUiOCNQT7HBGJt859"
+      },
+      "artists": [
+        {
+          "name": "Zakaria Ghafouli",
+          "url": "https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199636,
+      "name": "Jabha Fraso",
+      "url": "https://open.spotify.com/track/5lS1g9BokChTZaLbymsxbz"
     },
     {
       "album": {

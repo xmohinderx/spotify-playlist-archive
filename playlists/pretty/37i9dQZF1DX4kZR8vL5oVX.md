@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Ibeyi
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,404 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,396 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 42 | [Libre](https://open.spotify.com/track/1d8NqBBBxXeaNMJ7XTOdCY) | [DÉLINQUANTE](https://open.spotify.com/artist/4uygGiozRtFse8xVXZTDwM) | [Libre](https://open.spotify.com/album/4m9jgGzDEXgF3jl75N9MoD) | 2:46 |
 | 43 | [B.N.D](https://open.spotify.com/track/1gFdkINI7LAJbMIibJEU90) | [Thaïs Lona](https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S) | [B.N.D](https://open.spotify.com/album/5ICarjTirws8nlQEHSNoE8) | 4:17 |
 | 44 | [WAVES](https://open.spotify.com/track/0wC6rLtsUh6LgqCmN2ZGLw) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [Résilience, Vol.3](https://open.spotify.com/album/0zMvYCTUdRTYKvpAsYCmvq) | 3:37 |
-| 45 | [Quiproquo](https://open.spotify.com/track/3qLnoHeoYuBI8279bsbN0x) | [Jade](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [Quiproquo](https://open.spotify.com/album/0MuO5NKm5kU9INX9tKEJAr) | 2:41 |
+| 45 | [Quiproquo](https://open.spotify.com/track/3qLnoHeoYuBI8279bsbN0x) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [Quiproquo](https://open.spotify.com/album/0MuO5NKm5kU9INX9tKEJAr) | 2:41 |
 | 46 | [jtm de ouf](https://open.spotify.com/track/5RETH5olIVxF5otLezKqbh) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [jtm de ouf](https://open.spotify.com/album/4RspWUPtIKPBXU4WzwEho2) | 3:11 |
 | 47 | [Like A Mantra](https://open.spotify.com/track/1oi4YveFA1R1rzpg3PjMrr) | [Romane Santarelli](https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN) | [Like A Mantra](https://open.spotify.com/album/7634WuMZaOeHKmj7AlKThD) | 4:15 |
 | 48 | [Sister 2 Sister](https://open.spotify.com/track/4In5YLF0CjSRIvTqD7k0Mg) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Sister 2 Sister](https://open.spotify.com/album/05laAXb0YBC13y2z375EZj) | 3:15 |

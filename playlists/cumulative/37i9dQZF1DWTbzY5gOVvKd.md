@@ -4,12 +4,12 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-137 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/70IqB6MweM6qsbIR6Kn9aT)
+138 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/70IqB6MweM6qsbIR6Kn9aT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Kiss To Build A Dream On](https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Signature](https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i) | 3:05 | 2022-05-02 |  |
-| [A New Path](https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm), [Martin Berggren](https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj), [David Andersson](https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A), [Andreas Baw](https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI), [Inge Petersson\-Lindbäck](https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2), [Bergdalakvartetten](https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C) | [A New Path](https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q) | 5:48 | 2022-02-11 |  |
+| [A New Path](https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm), [Martin Berggren](https://open.spotify.com/artist/7qYAe49Oc3fZSX7fF0Zmmj), [David Andersson](https://open.spotify.com/artist/0bG2MvtD9GWZgG1YPenh2A), [Andreas Baw](https://open.spotify.com/artist/5b6rqJbzt7BdzmBlAa5qxI), [Inge Petersson\-Lindbäck](https://open.spotify.com/artist/3sF12c1sk1dw0igDvK7EK2), [Bergdalakvartetten](https://open.spotify.com/artist/4WMeBii3eR8cZJ0kP0SP1C) | [A New Path](https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q) | 5:48 | 2022-02-11 | 2022-05-11 |
 | [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You \- Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 | 2019-05-26\* |  |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f) | 4:52 | 2019-05-26\* |  |
 | [A Time For Love](https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:59 | 2019-05-26\* |  |
@@ -123,6 +123,7 @@
 | [Taking a Chance on Love](https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:30 | 2022-05-02 |  |
 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 | 2019-05-26\* |  |
 | [The Man I Love](https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [On Holiday](https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4) | 4:45 | 2019-05-26\* |  |
+| [The More I See You](https://open.spotify.com/track/7DbqsBxxj4bUcEGiVUpk6m) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:47 | 2022-05-09 |  |
 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 | 2022-02-14 |  |
 | [The Nearness Of You](https://open.spotify.com/track/5Q8vFGe2wgjD50TzkHWAkp) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Precious & Rare: Nancy Wilson](https://open.spotify.com/album/1qvEgeCQpyGkmEFCL2fH8C) | 2:58 | 2019-05-26\* | 2022-05-03 |
 | [The Touch of Your Lips](https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ) | [Richard Shelton](https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t) | [An Englishman in Love in LA](https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp) | 2:56 | 2022-05-02 | 2022-05-04 |

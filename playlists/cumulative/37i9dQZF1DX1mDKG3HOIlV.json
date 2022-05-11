@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Riscopri le pi\u00f9 grandi hit del 2005! Cover: Jovanotti",
   "name": "Le Hit Del 2005",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "75ABHhqNogBmtoj85XgNU0"
+  ],
   "tracks": [
     {
       "album": {
@@ -187,7 +189,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 215160,
       "name": "Beautiful Soul",
       "url": "https://open.spotify.com/track/6T7tyXfvNZwAR3XDktNCBi"
@@ -443,7 +445,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 244999,
       "name": "DARE",
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
@@ -1134,6 +1136,28 @@
     },
     {
       "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        },
+        {
+          "name": "Jack Joseph Puig",
+          "url": "https://open.spotify.com/artist/30I8GIK3UqVyAg58557mdJ"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243053,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6A1yZW5SLd9hpLZsG29hCQ"
+    },
+    {
+      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
       },
@@ -1743,6 +1767,24 @@
       "duration_ms": 197666,
       "name": "Switch",
       "url": "https://open.spotify.com/track/1N7b4evSBcshS6WUbWhZIr"
+    },
+    {
+      "album": {
+        "name": "The Poison",
+        "url": "https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348386,
+      "name": "Tears Don't Fall",
+      "url": "https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C"
     },
     {
       "album": {

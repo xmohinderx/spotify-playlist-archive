@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-09",
   "description": "Cerchi energie e buona musica? Prova con la nostra playlist!",
   "name": "Una Carica di Espresso!",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1MD1xnD0LanKfsaqIIX4F0"
+  ],
   "tracks": [
     {
       "album": {
@@ -187,7 +189,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 171904,
       "name": "Breaking Me - HUGEL Remix",
       "url": "https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI"
@@ -231,7 +233,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
@@ -301,7 +303,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 190206,
       "name": "Can You Feel It (feat. James Hurr)",
       "url": "https://open.spotify.com/track/7sFYDUuaJsK45WevfiDods"
@@ -635,7 +637,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 127000,
       "name": "Hate This Love",
       "url": "https://open.spotify.com/track/0BdaJF3yOouiO3udPcb2MD"
@@ -690,6 +692,32 @@
     },
     {
       "album": {
+        "name": "Holiday (feat. S\u00e9b Mont)",
+        "url": "https://open.spotify.com/album/3CxeBaihWioaOCOVmWLxFK"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Oomloud",
+          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
+        },
+        {
+          "name": "S\u00e9b Mont",
+          "url": "https://open.spotify.com/artist/4lFWNwqQbywI4qCQ9PeL7V"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156006,
+      "name": "Holiday (feat. S\u00e9b Mont)",
+      "url": "https://open.spotify.com/track/4tVmnuRlT7buDLZa2hc7ao"
+    },
+    {
+      "album": {
         "name": "Home To You",
         "url": "https://open.spotify.com/album/7d9uINjyNayVjn00b913Ah"
       },
@@ -701,7 +729,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 203212,
       "name": "Home To You",
       "url": "https://open.spotify.com/track/2L3d9zBy8Iq8mKIde7cwmJ"
@@ -957,7 +985,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 169458,
       "name": "Life Goes On (feat. Alex Hosking)",
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
@@ -1350,6 +1378,24 @@
     },
     {
       "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+    },
+    {
+      "album": {
         "name": "Piece Of Me (with LOVA)",
         "url": "https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb"
       },
@@ -1553,7 +1599,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 161279,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/6KQYQ5ycUHmDYFjL2jLXYC"
@@ -1745,7 +1791,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 134442,
       "name": "That Feeling (feat. Hayley May)",
       "url": "https://open.spotify.com/track/7clsGP3ea7rhBaEK9ga898"
@@ -1771,7 +1817,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
@@ -1859,10 +1905,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 160159,
       "name": "Umbrellas",
       "url": "https://open.spotify.com/track/7HNjgPlRy6902FQrigvZBe"
+    },
+    {
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/0It16o9TunM1CVf22U1Dc5"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Nataliya Nikitenko",
+          "url": "https://open.spotify.com/artist/26PbdWuDsJPMLPA4vTveNE"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165245,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/6QGHCildW0p2nnrxE4BHsy"
     },
     {
       "album": {
@@ -1929,7 +1997,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"

@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 209362,
       "name": "17 (slowed + reverb)",
       "url": "https://open.spotify.com/track/2bhNs0A7Ve6KkLex0ICLxG"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 262623,
       "name": "Angel Baby - Slowed",
       "url": "https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Are You Lying To Your Therapist About Being Sober Again? Yes. - slowed + reverb",
       "url": "https://open.spotify.com/track/1OXZ6BMqdf1KOIIzMiY014"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 206666,
       "name": "blame - slowed + reverbed",
       "url": "https://open.spotify.com/track/1MjHbpocjNG9GwGWFSootd"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Dream Girl - Slowed + Reverb",
       "url": "https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 227106,
       "name": "Everything's Good - slowed + reverb",
       "url": "https://open.spotify.com/track/7AlaXfx2sqPDyv5iTnVJVf"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 244561,
       "name": "Falling Up - slowed n reverbed",
       "url": "https://open.spotify.com/track/51InCzGmodFoqbZpWW8brT"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 237361,
       "name": "Happy Endings (feat. iann dior and UPSAHL) - slowed + reverb",
       "url": "https://open.spotify.com/track/0YhbiKLcr7Qd0rnpeamGNX"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 396921,
       "name": "Li\u1ec1u Thu\u1ed1c Cho Tr\u00e1i Tim (Slowed)",
       "url": "https://open.spotify.com/track/6IlJKmi67fUzexcD51zcag"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 208793,
       "name": "Losing It - Slowed and Reverb",
       "url": "https://open.spotify.com/track/3fUr3a6WI1j2zpvBm6YoD1"
@@ -2033,7 +2033,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 250403,
       "name": "slippin' to you - slowed + reverb remix",
       "url": "https://open.spotify.com/track/74JS01N6tg8CbpJaKztwSS"
@@ -2073,7 +2073,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-11",
       "duration_ms": 107913,
       "name": "somebody that i used to know - slowed + reverb",
       "url": "https://open.spotify.com/track/7ljWud1QU4GInOemFkPlzh"
@@ -2179,6 +2179,28 @@
       "duration_ms": 197198,
       "name": "Trauma (Slowed Reverb)",
       "url": "https://open.spotify.com/track/6PcLUYCDfbeU4Byh2cqIf1"
+    },
+    {
+      "album": {
+        "name": "Triumph (feat. Cappadonna) [slowed + reverb]",
+        "url": "https://open.spotify.com/album/1DIRAd4B4fJaSJ30xMkApd"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378200,
+      "name": "Triumph (feat. Cappadonna) - slowed + reverb",
+      "url": "https://open.spotify.com/track/1HNAW4zCkRt4XH8VIjn7gB"
     },
     {
       "album": {
