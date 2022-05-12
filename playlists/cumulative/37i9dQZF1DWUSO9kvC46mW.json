@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 228906,
       "name": "Ain't No Other Man",
       "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 217350,
       "name": "Aveva perso la testa",
       "url": "https://open.spotify.com/track/20pZADiAk45VGfHiPq3YrM"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 229360,
       "name": "Beep",
       "url": "https://open.spotify.com/track/6GHMJJjpoqiBnw3wgSplL7"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 195266,
       "name": "Ce La far\u00f2",
       "url": "https://open.spotify.com/track/5QOmCiOPdbUSs3eO9yLroy"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 215306,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 257026,
       "name": "Don't Bother",
       "url": "https://open.spotify.com/track/433JymbpWnRMHXzp1oTRP7"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 262533,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
@@ -781,6 +781,24 @@
       "duration_ms": 265600,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y"
+    },
+    {
+      "album": {
+        "name": "Ta Dah",
+        "url": "https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX"
+      },
+      "artists": [
+        {
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288360,
+      "name": "I Don't Feel Like Dancin'",
+      "url": "https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR"
     },
     {
       "album": {
@@ -903,7 +921,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 232986,
       "name": "L'alfabeto degli amanti",
       "url": "https://open.spotify.com/track/2mDy9uIwaCXBXxde0Fq6LW"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 202120,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/20clYcstbr3UNhEfURTmCm"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 203506,
       "name": "Naive",
       "url": "https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 259493,
       "name": "Oh! What a Girl!",
       "url": "https://open.spotify.com/track/3KlLUHWrp8q57SWMv2xHfw"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 225320,
       "name": "Runaway - Remastered",
       "url": "https://open.spotify.com/track/5tQKprSOVVvADqldAJVYzI"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 212360,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/3qKGvSu1inEZKwYQnMavNA"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 216186,
       "name": "Song to Say Goodbye",
       "url": "https://open.spotify.com/track/2DO7ywgu9cdNqXf7Cukys9"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 236600,
       "name": "Stars Are Blind",
       "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
@@ -1797,7 +1815,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 209815,
       "name": "Strade di fuoco - Radio Edit",
       "url": "https://open.spotify.com/track/416ElK98SA09yPs7T2V7H9"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 197173,
       "name": "Stupid Girls",
       "url": "https://open.spotify.com/track/5oxGaQRd6cLnEcxxbw0soP"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 215773,
       "name": "Te Amo Coraz\u00f3n",
       "url": "https://open.spotify.com/track/13ImdyybWLCa7OLxN3bhF1"
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 213173,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1"

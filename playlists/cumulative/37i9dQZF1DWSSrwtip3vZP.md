@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-84 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
+85 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 | 2022-04-19 |  |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-04-19 |  |
 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 | 2022-04-19 |  |
-| [Feels \(feat\. Khalid\)](https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Feels \(feat\. Khalid\)](https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz) | 3:41 | 2022-04-19 |  |
+| [Feels \(feat\. Khalid\)](https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Feels \(feat\. Khalid\)](https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz) | 3:41 | 2022-04-19 | 2022-05-12 |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2022-04-19 |  |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-04-19 |  |
 | [First Call](https://open.spotify.com/track/0ktbpf7PQCWAV2Jer0I0GS) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [First Call](https://open.spotify.com/album/4pa6L45UyAUncVobuARUlX) | 2:21 | 2022-04-19 |  |
@@ -60,6 +60,7 @@
 | [LET THE GRASS GROW](https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [LET THE GRASS GROW](https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu) | 2:55 | 2022-04-19 |  |
 | [LOVE AGAIN](https://open.spotify.com/track/7lE9rczJypEToogdpOkJ2P) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [NOCTURNAL HOURS](https://open.spotify.com/album/6ASdDSPXkJSi5EFtaGkiOh) | 3:14 | 2022-04-19 |  |
 | [Love Me Right](https://open.spotify.com/track/0knpN0bAYu21Zh1YV4bYJU) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Begin To Look Around](https://open.spotify.com/album/2pte1bb27ncC6ljxyvvMzP) | 4:19 | 2022-04-19 |  |
+| [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-11 |  |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-04-19 |  |
 | [Moon](https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Moon](https://open.spotify.com/album/1igApJ0OiVBemqXhWKUE9w) | 3:40 | 2022-04-19 |  |
 | [New Normal](https://open.spotify.com/track/62sWTVzpcujJtb4E5B3K07) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [New Normal](https://open.spotify.com/album/2Gpdm0FDnFWxvI9oB6emOB) | 3:07 | 2022-04-28 |  |

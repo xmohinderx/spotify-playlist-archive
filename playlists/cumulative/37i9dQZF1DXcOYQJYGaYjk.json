@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 229840,
       "name": "Absolute Zero",
       "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 298825,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/0UL668NCJKvzQuIgkwTQtz"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 207398,
       "name": "All Pride No Pain",
       "url": "https://open.spotify.com/track/2jwkM797DoehZMTIqB1BHI"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 191440,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/4GOQLGfeCednzst9gy1M7S"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 277601,
       "name": "Can't Be Unsaid",
       "url": "https://open.spotify.com/track/4dberdtzKxdfwfcVjUKU2B"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 262783,
       "name": "Fallen Torches",
       "url": "https://open.spotify.com/track/42iSlpI9hVVDk79EK86rvP"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 155286,
       "name": "Genocidal Humanoidz",
       "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 211430,
       "name": "Hated",
       "url": "https://open.spotify.com/track/4UTqFV199YTfDpGr5A99dJ"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 237003,
       "name": "Into The Fire",
       "url": "https://open.spotify.com/track/7zWPlO8Mcjc5mQGf7v8dlE"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 206903,
       "name": "Jekyll and Hyde",
       "url": "https://open.spotify.com/track/3K2UwWjkCFM1WVkARVFKGP"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 358133,
       "name": "Prosthetic",
       "url": "https://open.spotify.com/track/2tbGvqKO4Xep8mxb29ABOy"
@@ -1122,6 +1122,24 @@
     },
     {
       "album": {
+        "name": "Stay Away",
+        "url": "https://open.spotify.com/album/6pZvlQmlxF8rmXK0xlMYgm"
+      },
+      "artists": [
+        {
+          "name": "Taproot",
+          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/3FRB1HLHRqOamWnPeoQbK0"
+    },
+    {
+      "album": {
         "name": "STFU",
         "url": "https://open.spotify.com/album/7vUWe8QGIF73C0Nh5ariLc"
       },
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 223357,
       "name": "The Hunted (feat. Sully Erna)",
       "url": "https://open.spotify.com/track/08vJxMYhmZu6YTWqVmLgrA"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
@@ -1364,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "Tip Your Bartender",
+      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
+    },
+    {
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/773YYuhtcxIt4wqBVnsOgk"
       },
@@ -1411,7 +1447,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 178333,
       "name": "Victim",
       "url": "https://open.spotify.com/track/38RTTDR84odCz5gQrLuZQR"
@@ -1494,6 +1530,24 @@
     },
     {
       "album": {
+        "name": "The Ocean Atlas",
+        "url": "https://open.spotify.com/album/0TCNCaZvW2B5OgcRghzoeG"
+      },
+      "artists": [
+        {
+          "name": "Modern Day Babylon",
+          "url": "https://open.spotify.com/artist/1KkwPJo8M1KmVs5qSlkxAa"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/1fssdyLuYFT9h7GCNlMf6A"
+    },
+    {
+      "album": {
         "name": "Venom (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF"
       },
@@ -1523,7 +1577,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 220880,
       "name": "You'll Never Find Me",
       "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"

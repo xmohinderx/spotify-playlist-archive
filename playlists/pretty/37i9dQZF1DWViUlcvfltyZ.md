@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre più o meno distorte \(e, in cover, i Ministri\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,550 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,564 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Documentari](https://open.spotify.com/track/19b8lNcPaC9srKUjKc7Cbp) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Giuramenti](https://open.spotify.com/album/6IKfDFFZZNzNf0m5AiFRKe) | 3:16 |
-| 2 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 |
-| 3 | [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 3:19 |
-| 4 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 |
-| 5 | [Anche questa è insicurezza](https://open.spotify.com/track/7Jv6EL3KvtPEdK67S66fVE) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Anche questa è insicurezza](https://open.spotify.com/album/0FR945zs1rjI0asExLmnM0) | 3:39 |
+| 2 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 |
+| 3 | [Anche questa è insicurezza](https://open.spotify.com/track/7Jv6EL3KvtPEdK67S66fVE) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Anche questa è insicurezza](https://open.spotify.com/album/0FR945zs1rjI0asExLmnM0) | 3:39 |
+| 4 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 |
+| 5 | [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 3:19 |
 | 6 | [Coltello \(feat\. Piero Pelù\)](https://open.spotify.com/track/2jrRvvqAsLBxwAvonVVnvn) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ), [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Colla](https://open.spotify.com/album/5D5w8JApLuc02WQR6nEUSj) | 2:56 |
 | 7 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 |
 | 8 | [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 59 | [DPCM](https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [DPCM](https://open.spotify.com/album/62KifhpcdcHUfo2q58HSyX) | 2:24 |
 | 60 | [C'ho tutto un sogno Ramones](https://open.spotify.com/track/4erZfn8ZjbC6Wxi42CED12) | [Bobby Joe Long's Friendship Party](https://open.spotify.com/artist/5IqtAyaxviHeO9LLZbNAWR) | [C'ho tutto un sogno Ramones](https://open.spotify.com/album/7uv4i53ioio39t8xXNhXw9) | 2:28 |
 
-Snapshot ID: `MTY1MjA4NTUxOCwwMDAwMDA5NzAwMDAwMTgwYTdmODcyMGEwMDAwMDE4MDkzNzE5YWI0`
+Snapshot ID: `MTY1MjI1ODc1NywwMDAwMDA5ODAwMDAwMTgwYjI0YmRjYWQwMDAwMDE4MDkzNzE5YWI0`

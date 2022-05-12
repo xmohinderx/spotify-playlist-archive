@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: 3MFrench
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,049 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,126 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 220235,
       "name": "AIRFORCE (feat. Madame)",
       "url": "https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB"
@@ -256,6 +256,28 @@
     },
     {
       "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193554,
+      "name": "Baby (with J Balvin)",
+      "url": "https://open.spotify.com/track/4L5ZhW0VJeQ6je2iqvqZ4X"
+    },
+    {
+      "album": {
         "name": "Untouchable",
         "url": "https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf"
       },
@@ -271,7 +293,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 187550,
       "name": "Balaclava (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS"
@@ -385,7 +407,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 189867,
       "name": "Bottiglie Priv\u00e8",
       "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
@@ -509,7 +531,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 201931,
       "name": "Chico (feat. Rose Villain & Luch\u00e8)",
       "url": "https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO"
@@ -589,7 +611,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 216386,
       "name": "Dior",
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
@@ -637,6 +659,52 @@
       "duration_ms": 220896,
       "name": "ELEGANTE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7qADAhkEs9vv3ll4hP8ybC"
+    },
+    {
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "A2 Anti",
+          "url": "https://open.spotify.com/artist/3TTq94wgOIj0skk2wT8bnb"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243776,
+      "name": "Eurovision (feat. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone)",
+      "url": "https://open.spotify.com/track/4f5TKGvkD4TkTjr61GKNAG"
     },
     {
       "album": {
@@ -761,10 +829,36 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 194053,
       "name": "Je ne sais pas (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0AGOXOfcDIRXwZtny26RDd"
+    },
+    {
+      "album": {
+        "name": "JETSKI (feat. Lil Mosey & Lil Tecca)",
+        "url": "https://open.spotify.com/album/6KlDmO6ziOvGd42w7Abt3a"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165161,
+      "name": "JETSKI (feat. Lil Mosey & Lil Tecca)",
+      "url": "https://open.spotify.com/track/2vl0D1b0M6UHlD1Fjh5j1m"
     },
     {
       "album": {
@@ -809,7 +903,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 119492,
       "name": "LA CHIAVE - feat. Marracash",
       "url": "https://open.spotify.com/track/20Op27p3aV0WiaP7qOTlWP"
@@ -1102,6 +1196,28 @@
     },
     {
       "album": {
+        "name": "Night Away (Dance) (feat. Tion Wayne)",
+        "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
+      },
+      "artists": [
+        {
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175774,
+      "name": "Night Away (Dance) (feat. Tion Wayne)",
+      "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
+    },
+    {
+      "album": {
         "name": "17 - Dark Edition",
         "url": "https://open.spotify.com/album/6nKQCH9bP1APHf83iDCjO2"
       },
@@ -1143,7 +1259,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 122373,
       "name": "No wallet (feat. Marracash)",
       "url": "https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee"
@@ -1231,7 +1347,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 108650,
       "name": "Obsessed With You",
       "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
@@ -1367,7 +1483,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 207761,
       "name": "polka 2 :-/",
       "url": "https://open.spotify.com/track/3nSIfipKhCaeo2Iu2YRi3H"
@@ -1601,7 +1717,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 256788,
       "name": "Spigoli",
       "url": "https://open.spotify.com/track/1XQvMjA9IiIx1lAiTHSxQi"
@@ -1623,7 +1739,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 181266,
       "name": "Star (feat. Shiva)",
       "url": "https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw"
@@ -1701,7 +1817,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 168760,
       "name": "TELEPHONE (feat. Capo Plaza & Sick Luke)",
       "url": "https://open.spotify.com/track/0ejf33zIXZlhUnCKRMWx6q"
@@ -1825,7 +1941,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 133776,
       "name": "WALLAH",
       "url": "https://open.spotify.com/track/39CXkMn8AAFu3qwnZHJCNo"

@@ -1,12 +1,12 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Megan Thee Stallion",
-  "num_followers": 548387,
+  "num_followers": 549155,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgxMjc4NywwMDAwMDBjZDAwMDAwMTgwOTdiNmU1YTIwMDAwMDE4MDRlMGM1NWFm",
+  "snapshot_id": "MTY1MjI3OTkyNCwwMDAwMDBjZTAwMDAwMTgwYjM4ZWQ3NTcwMDAwMDE4MDRlMGM1NWFm",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -239,38 +239,6 @@
     {
       "added_at": "2022-04-10 22:20:09",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Dancing Queen / Yasss Queen",
-        "url": "https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 193076,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV"
-    },
-    {
-      "added_at": "2022-04-10 22:20:09",
-      "album": {
         "name": "cinderella's dead",
         "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
       },
@@ -305,6 +273,38 @@
       "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
     },
     {
+      "added_at": "2022-04-10 22:20:09",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Dancing Queen / Yasss Queen",
+        "url": "https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 193076,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Girls Gone Duh",
@@ -319,6 +319,22 @@
       "duration_ms": 156000,
       "name": "BBB (Bad Bitch Behavior)",
       "url": "https://open.spotify.com/track/0zKlED6S6ytAHPo9sIm1vX"
+    },
+    {
+      "added_at": "2022-04-10 22:20:09",
+      "album": {
+        "name": "The Evolution",
+        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Like a Boy",
+      "url": "https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c"
     },
     {
       "added_at": "2022-04-10 22:20:09",
@@ -359,6 +375,26 @@
       "duration_ms": 136760,
       "name": "Bussin",
       "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
+    },
+    {
+      "added_at": "2022-05-11 14:38:44",
+      "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
       "added_at": "2022-04-10 22:20:09",
@@ -419,22 +455,6 @@
     {
       "added_at": "2022-04-10 22:20:09",
       "album": {
-        "name": "The Evolution",
-        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Like a Boy",
-      "url": "https://open.spotify.com/track/358bOvBiZCS9fRzNYosw6c"
-    },
-    {
-      "added_at": "2022-04-10 22:20:09",
-      "album": {
         "name": "Something for Thee Hotties",
         "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
@@ -469,20 +489,20 @@
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
+      "added_at": "2022-05-06 04:53:07",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu"
+        "name": "Lil Mariko",
+        "url": "https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb"
       },
       "artists": [
         {
-          "name": "Day Sulan",
-          "url": "https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk"
+          "name": "Lil Mariko",
+          "url": "https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx"
         }
       ],
-      "duration_ms": 134780,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn"
+      "duration_ms": 170823,
+      "name": "Hi, I'm a Slut",
+      "url": "https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131"
     },
     {
       "added_at": "2022-04-10 22:20:09",
@@ -539,22 +559,6 @@
       "duration_ms": 70542,
       "name": "Throw It Back",
       "url": "https://open.spotify.com/track/3Lf1nGVFPEsydObkXHUu2b"
-    },
-    {
-      "added_at": "2022-05-06 04:53:07",
-      "album": {
-        "name": "Lil Mariko",
-        "url": "https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb"
-      },
-      "artists": [
-        {
-          "name": "Lil Mariko",
-          "url": "https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Hi, I'm a Slut",
-      "url": "https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131"
     },
     {
       "added_at": "2022-04-10 22:20:09",
@@ -635,6 +639,22 @@
       "duration_ms": 174253,
       "name": "Ain't Shit",
       "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu"
+      },
+      "artists": [
+        {
+          "name": "Day Sulan",
+          "url": "https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk"
+        }
+      ],
+      "duration_ms": 134780,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn"
     },
     {
       "added_at": "2022-04-10 22:20:09",

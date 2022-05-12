@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Mari Samuelsen continues The Classical Takeover with her all\-time favourite tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,156 likes - 31 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,208 likes - 31 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 | 19 | [For Mark](https://open.spotify.com/track/4sh6V9AnglIBepfD5mTyqn) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 5:09 |
 | 20 | [Garden](https://open.spotify.com/track/2I1S479pqGIi9Uq9eNYg4F) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Cenizas](https://open.spotify.com/album/4uR6L8Gq7xozMSBpuxIQUp) | 5:25 |
 | 21 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 |
-| 22 | [Sequence \(Four\)](https://open.spotify.com/track/15Pb9zPDU8AIhvXVxBFuwr) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Warren Zielinski](https://open.spotify.com/artist/1loplcQfx5Wsv5ksoqyj16), [Magdalena Filipczak](https://open.spotify.com/artist/4jDVKLxIEB1SyaOStAocLw), [Meghan Cassidy](https://open.spotify.com/artist/3SSsqU0Pf1rI460eNysz8Q), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9) | [Quartets: Two](https://open.spotify.com/album/3GGyrK58J25g4tbxOM7f9S) | 4:30 |
+| 22 | [I\. Sequence \(Four\)](https://open.spotify.com/track/15Pb9zPDU8AIhvXVxBFuwr) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Warren Zielinski](https://open.spotify.com/artist/1loplcQfx5Wsv5ksoqyj16), [Magdalena Filipczak](https://open.spotify.com/artist/4jDVKLxIEB1SyaOStAocLw), [Meghan Cassidy](https://open.spotify.com/artist/3SSsqU0Pf1rI460eNysz8Q), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9) | [Quartets: Two](https://open.spotify.com/album/3GGyrK58J25g4tbxOM7f9S) | 4:30 |
 | 23 | [Two is Apocryphal](https://open.spotify.com/track/2N8Afitrdka4pdiexBH9ka) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Theatre of Voices](https://open.spotify.com/artist/0mSytD762bSjJsycgXyt8z), [Paul Hillier](https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF), [American Contemporary Music Ensemble](https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO) | [Drone Mass](https://open.spotify.com/album/4iHSwI7eFt2OfFbS33Anqo) | 4:08 |
 | 24 | [moonmoons](https://open.spotify.com/track/0OB6thI4t5oYbfphlNHOFa) | [Anna Meredith](https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2) | [FIBS](https://open.spotify.com/album/0MUzevVErxLNFPU9tYQtJ0) | 4:15 |
 | 25 | [Baby It's You](https://open.spotify.com/track/7kfPi2AhZ5qCLImSNvibi3) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Californian Soil](https://open.spotify.com/album/4G1KxC183P4vK0LohUFl15) | 4:03 |

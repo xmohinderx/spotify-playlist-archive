@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 108800,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
@@ -223,10 +223,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 192694,
       "name": "Beach Boy",
       "url": "https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT"
+    },
+    {
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR"
     },
     {
       "album": {
@@ -335,7 +353,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 150085,
       "name": "Cerotti (intermezzo)",
       "url": "https://open.spotify.com/track/6SlOSbRUdlhcyXEmODnM2C"
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 196400,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/6FXQ9ghvyzV2zYlUEie5BH"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 180138,
       "name": "Dancing in My Room",
       "url": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
@@ -561,6 +579,28 @@
       "duration_ms": 233720,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
+    },
+    {
+      "album": {
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206211,
+      "name": "Davide (feat. Coez)",
+      "url": "https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J"
     },
     {
       "album": {
@@ -597,6 +637,28 @@
       "duration_ms": 151997,
       "name": "DUE",
       "url": "https://open.spotify.com/track/5iOC3bVfByUxvfUIYBy9Mg"
+    },
+    {
+      "album": {
+        "name": "edamame (feat. Rich Brian)",
+        "url": "https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133706,
+      "name": "edamame (feat. Rich Brian)",
+      "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
     },
     {
       "album": {
@@ -647,7 +709,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
@@ -843,7 +905,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 197266,
       "name": "I Blame The World",
       "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
@@ -1139,7 +1201,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -1193,7 +1255,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 185454,
       "name": "Magical",
       "url": "https://open.spotify.com/track/1sjfs3R0GGD0oVD3nr9qnu"
@@ -1215,7 +1277,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
@@ -1259,7 +1321,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 129641,
       "name": "My Sunny Day",
       "url": "https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx"

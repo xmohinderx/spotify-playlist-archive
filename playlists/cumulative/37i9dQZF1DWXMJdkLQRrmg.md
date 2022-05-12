@@ -4,7 +4,7 @@
 
 > Unplugged versions of your favorite rock & alt songs\. Cover: Wolf Alice
 
-50 songs - 3 hr 23 min - not published yet
+52 songs - 3 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Going to California \- 1990 Remaster](https://open.spotify.com/track/55sjCMeQM26VxbNHhMtj2b) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV](https://open.spotify.com/album/1Ugdi2OTxKopVVqsprp5pb) | 3:31 | 2022-05-06 |  |
 | [Golden Dandelions \- Acoustic](https://open.spotify.com/track/3RNzKN7jd0y4DEitQLbmxE) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden Dandelions \(Acoustic\)](https://open.spotify.com/album/5O7qEIiYIUbeWu4BaHLan3) | 3:22 | 2022-05-06 |  |
 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 | 2022-05-06 |  |
+| [Half The World Away](https://open.spotify.com/track/6aM4E6WfuoDnPAgaKaZ5hM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/6tgQeTZ3893n3c3MvlPzi7) | 4:21 | 2022-05-06 |  |
 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 | 2022-05-06 |  |
 | [Hard To Be Alone](https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Hard To Be Alone](https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14) | 3:02 | 2022-05-06 |  |
-| [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 | 2022-05-06 |  |
+| [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 | 2022-05-06 | 2022-05-12 |
 | [How Did You Love \- Acoustic](https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 | 2022-05-06 |  |
 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 | 2022-05-06 |  |
 | [Impossible \(Orchestral Version\) \[Live at Abbey Road\]](https://open.spotify.com/track/2KVMuEgVOyOkxxx0xEFNMS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible \(Orchestral Version\) \[Live at Abbey Road\]](https://open.spotify.com/album/6fZ0N6R2LBIIeUYlz5uQjJ) | 4:10 | 2022-05-06 |  |
@@ -53,7 +54,8 @@
 | [The Last Man On Earth \- Lullaby Version](https://open.spotify.com/track/4XZ1JejC5JIJHtbdXFCjLj) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Last Man On Earth \(Lullaby Version\)](https://open.spotify.com/album/5w753UveN4RAwUmdz5xyVK) | 4:17 | 2022-05-06 |  |
 | [The Messenger](https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns \(Bonus Edition\)](https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02) | 3:01 | 2022-05-06 |  |
 | [Tuesday's Gone](https://open.spotify.com/track/2dogWSSYkP7dZyZ6KTt4bq) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ) | 9:05 | 2022-05-06 |  |
-| [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 | 2022-05-06 |  |
+| [Used To Like \- Acoustic](https://open.spotify.com/track/6dhTEmRUOm6F6ZOLTKeL4X) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Used To Like \(Acoustic\)](https://open.spotify.com/album/6Y9fdWfA7ZjlhgPeXwoAgl) | 4:25 | 2022-05-06 |  |
+| [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 | 2022-05-06 | 2022-05-12 |
 | [Where Did You Sleep Last Night](https://open.spotify.com/track/6HJujxcjMmVZhd8z5EpPri) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682) | 5:08 | 2022-05-06 |  |
 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 | 2022-05-06 |  |
 | [Wild Horses \- Acoustic Version](https://open.spotify.com/track/1ufaNhO1DPlSiynfO2OtIj) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Wild Horses \(Acoustic Version\)](https://open.spotify.com/album/5Bqtdv9fPhMH7c4soSiwGK) | 5:47 | 2022-05-06 |  |

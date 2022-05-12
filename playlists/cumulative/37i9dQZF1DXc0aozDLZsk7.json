@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 211837,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 186732,
       "name": "Black Converse",
       "url": "https://open.spotify.com/track/0NbDnRbBxUaT27CTgmraSG"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 185893,
       "name": "Breathe It In",
       "url": "https://open.spotify.com/track/4zImPL4a69TWpEPfvWfbCm"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 231148,
       "name": "Chasing A Feeling",
       "url": "https://open.spotify.com/track/6NbaSIWPpZ1b914pRY1R0W"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
@@ -650,6 +650,24 @@
     },
     {
       "album": {
+        "name": "I Can See The Change",
+        "url": "https://open.spotify.com/album/3hMrkkUczREZLRjv5Oy4cJ"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217683,
+      "name": "I Can See The Change",
+      "url": "https://open.spotify.com/track/4TfPtTbJtk5diKYuubTP9e"
+    },
+    {
+      "album": {
         "name": "If The World Should Ever Stop",
         "url": "https://open.spotify.com/album/73nV1S0uaTvpMn89SAoYiN"
       },
@@ -723,7 +741,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 224083,
       "name": "Kissin' In The Cold",
       "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
@@ -799,7 +817,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 200661,
       "name": "Let Me Love You Like A Woman",
       "url": "https://open.spotify.com/track/4HvE2E9rXJDcQhE4YfeNuG"
@@ -857,7 +875,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 196253,
       "name": "Little Did I Know",
       "url": "https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4"
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 169044,
       "name": "Little Marks",
       "url": "https://open.spotify.com/track/2muCD2b8lL3LEFd6rAXoYc"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 259163,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/79G1lwSEHUcY3p6qnNyvuZ"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 226413,
       "name": "Lost Sparks",
       "url": "https://open.spotify.com/track/7fZ2GktS3lfZuI6BbDamrS"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 322573,
       "name": "One More Second",
       "url": "https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 187601,
       "name": "What They'll Say About Us",
       "url": "https://open.spotify.com/track/27Y1N4Q4U3EfDU5Ubw8ws2"

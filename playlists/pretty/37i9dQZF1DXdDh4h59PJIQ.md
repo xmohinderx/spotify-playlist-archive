@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2022!
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,961 likes - 149 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,137 likes - 149 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 108 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/14ngWWxvUSnIMXgF6rzSk1) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/1h2sYjn95QeTA0rSBCoke0) | 2:36 |
 | 109 | [Party Time](https://open.spotify.com/track/0uif0Lvh62KQ8GIFY594M7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i) | [Party Time](https://open.spotify.com/album/2lRY5mltiOiMqT9nBcdXfK) | 2:46 |
 | 110 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 |
-| 111 | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
+| 111 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
 | 112 | [You](https://open.spotify.com/track/4vrnHICJfoguGfzLkQeyy5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Chenai](https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w) | [You](https://open.spotify.com/album/4RE02XZPC2HudccO2yKKeP) | 3:48 |
 | 113 | [Bayside \- Radio Edit](https://open.spotify.com/track/7hYW4hKuPkfaLbzTpg9hQB) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Bayside](https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC) | 3:17 |
 | 114 | [Mad World](https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv) | 2:33 |

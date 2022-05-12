@@ -419,7 +419,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 211413,
       "name": "Boogie Fever",
       "url": "https://open.spotify.com/track/3FZB0xezeoc1ddx72eg7iF"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 250880,
       "name": "Go West - Original Version 1979",
       "url": "https://open.spotify.com/track/0SdfUMRHhcjxrMv5d9V1UP"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 207306,
       "name": "Grease - 2007 Remaster",
       "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 150946,
       "name": "Heaven Must Have Sent You - Mono Single",
       "url": "https://open.spotify.com/track/2j24h8ZvzouJRg2HzHvRH4"
@@ -2105,7 +2105,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 247856,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/1FZZUVHYkswEHdxLYe1hMZ"
@@ -2195,7 +2195,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 169293,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
@@ -2483,7 +2483,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 137360,
       "name": "Let's Twist Again",
       "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
@@ -3376,6 +3376,24 @@
     },
     {
       "album": {
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/5zPXX4trT1w21DXo1M66lv"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/5bSgarDpObM6V8PJcXo9pz"
+    },
+    {
+      "album": {
         "name": "The Singles 1974 - 76",
         "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
       },
@@ -3387,7 +3405,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 200053,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
@@ -4187,7 +4205,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 161200,
       "name": "The Lion Sleeps Tonight (Wimoweh)",
       "url": "https://open.spotify.com/track/2QbSGkb3TgghEHpjKCsznm"
@@ -4475,7 +4493,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 149733,
       "name": "Walkin' Back to Happiness",
       "url": "https://open.spotify.com/track/4YTYhsTsvNanQQI5PvKmNW"
@@ -4655,10 +4673,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 183413,
       "name": "You Got What It Takes",
       "url": "https://open.spotify.com/track/5auFbexb2joXt2KNS91L8s"
+    },
+    {
+      "album": {
+        "name": "The Supremes Sing Holland, Dozier, Holland",
+        "url": "https://open.spotify.com/album/5BrLn546krr08d9UvOj73k"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "You Keep Me Hangin' On",
+      "url": "https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn"
     },
     {
       "album": {

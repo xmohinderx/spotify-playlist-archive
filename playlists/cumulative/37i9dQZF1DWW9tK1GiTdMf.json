@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/7IEkJjglrq8Q9wLRxqapTD"
+      },
+      "artists": [
+        {
+          "name": "Tear&Drugz",
+          "url": "https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139562,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/032zxhpUSSgQMrHiplLHlY"
+    },
+    {
+      "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V"
       },

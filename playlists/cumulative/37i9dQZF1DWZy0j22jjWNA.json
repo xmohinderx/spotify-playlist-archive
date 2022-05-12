@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/6zNUzDWQwCbLUAO9i5pTrf"
+      },
+      "artists": [
+        {
+          "name": "Zach Winters",
+          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288624,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/79vLx4gnWA0YaWXR9cfLbH"
+    },
+    {
+      "album": {
         "name": "Autumn Love",
         "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
       },
@@ -35,7 +53,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 228247,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/07ii8FiGFeAf6ZoW8TbggA"
@@ -356,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Free Like a Broken Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213653,
+      "name": "Free Like a Broken Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy"
+    },
+    {
+      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779"
       },
@@ -469,6 +505,24 @@
       "duration_ms": 297506,
       "name": "Harmony Hall",
       "url": "https://open.spotify.com/track/7zBj1M7kZq6ErNfFtsJaRE"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Magic",
+        "url": "https://open.spotify.com/album/3EHwhZfwyVZqCgtthoYbfE"
+      },
+      "artists": [
+        {
+          "name": "Riah",
+          "url": "https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "Heartbreak Magic",
+      "url": "https://open.spotify.com/track/2xDF7yuo284KTe5yZEsuE9"
     },
     {
       "album": {
@@ -733,7 +787,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 258573,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7wT7EvhnZ1MygDBoRyO9z0"
@@ -877,7 +931,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 197445,
       "name": "Reciprocate",
       "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
@@ -1073,7 +1127,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
@@ -1171,6 +1225,24 @@
       "duration_ms": 240630,
       "name": "Waters",
       "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
+    },
+    {
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209426,
+      "name": "When Creation Was Young",
+      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
     },
     {
       "album": {

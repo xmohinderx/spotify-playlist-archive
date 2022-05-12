@@ -4,7 +4,7 @@
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Megan Thee Stallion
 
-148 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
+149 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-04 | 2022-04-02 |
 | [Eat It](https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:49 | 2021-10-29 | 2022-03-27 |
 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 | 2022-03-26 |  |
+| [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-05-11 |  |
 | [Fake Love](https://open.spotify.com/track/7nZqPwoxgPpE9ghskM6tHh) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Fake Love](https://open.spotify.com/album/5jcWxbHoRtLdZvVTIbftd4) | 2:00 | 2022-04-08 | 2022-04-23 |
 | [Feeling Myself](https://open.spotify.com/track/6ORDoQ6jxdfqNyqvUKDHF0) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 3:57 | 2022-03-04 |  |
 | [FMRN](https://open.spotify.com/track/08hB2ERJV6A1Ntu3OHgzjh) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/4jfJVKmrG63Cp8DPYDOHCD) | 2:02 | 2021-10-15 |  |

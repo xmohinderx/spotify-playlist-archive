@@ -1,13 +1,29 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: Percy Sledge",
-  "num_followers": 308008,
+  "num_followers": 308057,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjIzMTI2NSwwMDAwMDAwMDU2ODQ2YzZmZjE5ODNkYzBkOTZiMDZiMmZkZmYyYmI0",
+  "snapshot_id": "MTY1MjMxNzQ5MSwwMDAwMDAwMDNhY2UzYTNhOThjMDAwYmEyYmQwZTJkYWNkMmQwZGI4",
   "tracks": [
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
@@ -43,86 +59,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Ooo Baby Baby",
-      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "Neither One Of Us",
-        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
-      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "I Never Loved a Man (The Way I Love You)",
-      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "The Very Best Of Aaron Neville",
         "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
       },
@@ -139,82 +75,18 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "A Change Is Gonna Come",
-        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
+        "name": "He's So Fine",
+        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 191320,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Who's Lovin' You",
-      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "Flamingo Serenade",
-        "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
-      },
-      "artists": [
-        {
-          "name": "The Flamingos",
-          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
-        }
-      ],
-      "duration_ms": 202773,
-      "name": "I Only Have Eyes for You",
-      "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "The Complete A & B Sides 1961 - 1968",
-        "url": "https://open.spotify.com/album/3diIigsNRRY0MlVBcnFC9Y"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "People Get Ready - Single Version",
-      "url": "https://open.spotify.com/track/0izzSOqBR4gdzCCWRnrzPd"
+      "duration_ms": 154173,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -235,6 +107,22 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
+        "name": "Neither One Of Us",
+        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
+      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -251,18 +139,82 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+        "name": "A Change Is Gonna Come",
+        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+      "duration_ms": 191320,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Ooo Baby Baby",
+      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "Flamingo Serenade",
+        "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
+      },
+      "artists": [
+        {
+          "name": "The Flamingos",
+          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "I Only Have Eyes for You",
+      "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "Hot On The Tracks",
+        "url": "https://open.spotify.com/album/1WDTvBAEVrdz5oxfRahzEi"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 381360,
+      "name": "Just To Be Close To You",
+      "url": "https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -283,6 +235,70 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 325946,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "The Complete A & B Sides 1961 - 1968",
+        "url": "https://open.spotify.com/album/3diIigsNRRY0MlVBcnFC9Y"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 159266,
+      "name": "People Get Ready - Single Version",
+      "url": "https://open.spotify.com/track/0izzSOqBR4gdzCCWRnrzPd"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Who's Lovin' You",
+      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
         "name": "One More Mountain",
         "url": "https://open.spotify.com/album/4Am0fajokK3jCMfhThAZll"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
-      },
-      "artists": [
-        {
-          "name": "Eddie Holman",
-          "url": "https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "Hey There Lonely Girl",
-      "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -327,6 +327,70 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "The Best Of The Stylistics and More 30th Anniversary Edition",
+        "url": "https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "Betcha By Golly, Wow",
+      "url": "https://open.spotify.com/track/0g8A6lSYXCbVtEtGhvHEhb"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "All The Great Love Songs",
+        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Three Times A Lady",
+      "url": "https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -351,66 +415,18 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 181666,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 325946,
-      "name": "A Song for You",
-      "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "He's So Fine",
-        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "The Best Of The Stylistics and More 30th Anniversary Edition",
-        "url": "https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "Betcha By Golly, Wow",
-      "url": "https://open.spotify.com/track/0g8A6lSYXCbVtEtGhvHEhb"
+      "duration_ms": 171773,
+      "name": "I Never Loved a Man (The Way I Love You)",
+      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -431,50 +447,66 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "The Best Of Mel Carter",
-        "url": "https://open.spotify.com/album/2Bw48A6OMSip5lbQW5CaUg"
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
       },
       "artists": [
         {
-          "name": "Mel Carter",
-          "url": "https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9"
+          "name": "Eddie Holman",
+          "url": "https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32"
         }
       ],
-      "duration_ms": 149533,
-      "name": "Hold Me, Thrill Me, Kiss Me",
-      "url": "https://open.spotify.com/track/5XPwkZ7vNxeidpNLAkwtFp"
+      "duration_ms": 216760,
+      "name": "Hey There Lonely Girl",
+      "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
     },
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
       "artists": [
         {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "Hot On The Tracks",
-        "url": "https://open.spotify.com/album/1WDTvBAEVrdz5oxfRahzEi"
+        "name": "Rockin' Roll Baby",
+        "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 381360,
-      "name": "Just To Be Close To You",
-      "url": "https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ"
+      "duration_ms": 288440,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "There Is",
+        "url": "https://open.spotify.com/album/4OeKMYbIv4ATPruMTMWF5N"
+      },
+      "artists": [
+        {
+          "name": "The Dells",
+          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
+        }
+      ],
+      "duration_ms": 373560,
+      "name": "Stay In My Corner",
+      "url": "https://open.spotify.com/track/6oavqtFYgu0Zdpgesza6f4"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -495,50 +527,18 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 201866,
-      "name": "Drown in My Own Tears",
-      "url": "https://open.spotify.com/track/0oQtjAjUeksVd9gHE5fl02"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "Woman to Woman [Stax Remasters]",
-        "url": "https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I"
-      },
-      "artists": [
-        {
-          "name": "Shirley Brown",
-          "url": "https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Woman To Woman",
-      "url": "https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "There Is",
-        "url": "https://open.spotify.com/album/4OeKMYbIv4ATPruMTMWF5N"
-      },
-      "artists": [
-        {
-          "name": "The Dells",
-          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
-        }
-      ],
-      "duration_ms": 373560,
-      "name": "Stay In My Corner",
-      "url": "https://open.spotify.com/track/6oavqtFYgu0Zdpgesza6f4"
+      "duration_ms": 216600,
+      "name": "Let Me Make Love To You",
+      "url": "https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR"
     }
   ],
   "unique_name": "Timeless Soul Ballads",

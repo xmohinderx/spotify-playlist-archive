@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-155 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+156 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Too Far](https://open.spotify.com/track/4Ru59Wjufh4vgt1ZKVxUtn) | [Hiski](https://open.spotify.com/artist/766PDHJTKiOFdmGhl36cGY), [Kobana](https://open.spotify.com/artist/1XyWJuyRJBkwsOeGR8Pxea) | [Too Far](https://open.spotify.com/album/6eKGfZzEKDORyl4fymlDAX) | 4:14 | 2021-12-01 | 2022-03-05 |
 | [Tripwire](https://open.spotify.com/track/4XaYL3woPIICr4dbCb2ZxH) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Tripwire](https://open.spotify.com/album/5dbcJHB0RwwcWNw8z3IvTt) | 3:05 | 2021-11-22 | 2022-02-26 |
 | [TROUBLEMAKER](https://open.spotify.com/track/6mo88PgAWke0VsVbFmABoT) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [TROUBLEMAKER](https://open.spotify.com/album/5XxwIsdTvY6h335Jmcf10Y) | 3:42 | 2021-11-19 | 2022-01-27 |
+| [True Love](https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [True Love](https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D) | 4:30 | 2022-05-11 |  |
 | [Trust Issues](https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Trust Issues](https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF) | 3:02 | 2022-02-22 | 2022-05-04 |
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-02 | 2022-03-08 |
 | [U](https://open.spotify.com/track/3Qjs17YjOxj0QjuiQoCgV4) | [Terry Da Libra](https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB) | [U](https://open.spotify.com/album/4CJ2YvdHFMZ8Pyfvh7rI0T) | 4:32 | 2021-11-19 | 2022-02-04 |

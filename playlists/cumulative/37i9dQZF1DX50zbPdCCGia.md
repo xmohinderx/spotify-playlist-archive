@@ -4,11 +4,11 @@
 
 > The best soft rock from the 1970s.
 
-122 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/1IgZ8KwdjzVpSHJdp9dx2F)
+123 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/1IgZ8KwdjzVpSHJdp9dx2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Wish I Could\) Hideaway](https://open.spotify.com/track/4PEtvlNGnQIU9gJgURUvzR) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(40th Anniversary Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 3:43 | 2021-11-23 | 2022-05-11 |
+| [\(Wish I Could\) Hideaway](https://open.spotify.com/track/4PEtvlNGnQIU9gJgURUvzR) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(40th Anniversary Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 3:43 | 2021-11-23 |  |
 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2021-11-23 |  |
 | [All I Can Do Is Write About It](https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Gimme Back My Bullets](https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM) | 4:16 | 2021-11-23 |  |
 | [All Things Must Pass \- 2020 Mix](https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2020 Mix\)](https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8) | 3:46 | 2021-11-23 |  |
@@ -16,14 +16,14 @@
 | [Angie](https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 4:32 | 2021-11-23 |  |
 | [Any Major Dude Will Tell You](https://open.spotify.com/track/7BVIm4yj3PQ6MwTPwcjka6) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 3:07 | 2021-11-23 |  |
 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 | 2021-11-23 |  |
-| [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 | 2021-11-23 |  |
+| [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 | 2021-11-23 | 2022-05-12 |
 | [Band On The Run \- Remastered 2010](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2021-11-23 |  |
 | [Behind Blue Eyes](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 3:41 | 2021-11-23 |  |
 | [Boat On The River](https://open.spotify.com/track/4o9DSo7c1ICv4CtFWFSmGx) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 3:10 | 2021-11-23 |  |
 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 | 2021-11-23 |  |
 | [Clair](https://open.spotify.com/track/3nNRv9xS4ni6XvU4U7iY4o) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front \(Deluxe Edition\)](https://open.spotify.com/album/7EZeSlS7lupfVVaZXGXVUs) | 3:02 | 2021-11-23 |  |
 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 | 2021-11-23 |  |
-| [Crystal Ball](https://open.spotify.com/track/7ETHRr9BsppwaOheN4vJkH) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Crystal Ball](https://open.spotify.com/album/4K4RkjenqNrAmZFLOsA0ul) | 4:34 | 2021-11-23 |  |
+| [Crystal Ball](https://open.spotify.com/track/7ETHRr9BsppwaOheN4vJkH) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Crystal Ball](https://open.spotify.com/album/4K4RkjenqNrAmZFLOsA0ul) | 4:34 | 2021-11-23 | 2022-05-12 |
 | [Dance with Me](https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [The Essentials: Orleans](https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6) | 3:00 | 2021-11-23 |  |
 | [Daniel](https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:54 | 2021-11-23 |  |
 | [Deacon Blues](https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 7:36 | 2021-11-23 |  |
@@ -77,6 +77,7 @@
 | [Miracles](https://open.spotify.com/track/5dFvprlP5JS7gxeaMhMOWS) | [Jefferson Starship](https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF) | [Red Octopus](https://open.spotify.com/album/5i7zeNrDbhxe5J2yfZgAPh) | 6:52 | 2021-11-23 |  |
 | [Mull Of Kintyre](https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings Greatest](https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5) | 4:46 | 2021-11-23 |  |
 | [My Love \- 2018 Remaster](https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway](https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD) | 4:07 | 2021-11-23 |  |
+| [Name Of The Game \- Remastered 2010](https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 5:21 | 2021-11-23 |  |
 | [New Kid in Town \- 2013 Remaster](https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 5:04 | 2021-11-23 |  |
 | [Oh! Sweet Nuthin' \- 2015 Remaster](https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 7:25 | 2021-11-23 |  |
 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 | 2021-11-23 |  |

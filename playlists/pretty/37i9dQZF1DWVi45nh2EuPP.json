@@ -1,12 +1,12 @@
 {
   "description": "The Official League of Legends playlist featuring DPR LIVE - \"Set It Off (ft. DPR Cline)\" | MSI 2022",
-  "num_followers": 194096,
+  "num_followers": 194650,
   "original_name": "League of Legends Official MSI 2022 Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjIzMTE3MiwwMDAwMDAwMGFjNTdmMDEzOWU2ZTk4N2FhYmFlMDY3NGFkZmJkOTE4",
+  "snapshot_id": "MTY1MjMxNzM5NiwwMDAwMDAwMDdmYmRlNmU3YmI5OGFhMjJmOGQ4ZjY5MWZiNzA1YWQ0",
   "tracks": [
     {
       "added_at": "2022-05-02 14:50:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
+        "name": "Entertain Me",
+        "url": "https://open.spotify.com/album/3EePyDmGTMp3EV77YTjZrP"
+      },
+      "artists": [
+        {
+          "name": "Ylona Garcia",
+          "url": "https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Entertain Me",
+      "url": "https://open.spotify.com/track/5TclgAYTVdTRLnHvTUhyIP"
+    },
+    {
+      "added_at": "2022-05-02 14:50:00",
+      "album": {
         "name": "Die For You (Zedd Remix)",
         "url": "https://open.spotify.com/album/7JFN9X5gWCHhgfUJwJmlmt"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 161192,
       "name": "Die For You - Zedd Remix",
       "url": "https://open.spotify.com/track/4iwzQQ0Y8c7kM3wmgAVCrq"
-    },
-    {
-      "added_at": "2022-05-02 14:50:00",
-      "album": {
-        "name": "Entertain Me",
-        "url": "https://open.spotify.com/album/3EePyDmGTMp3EV77YTjZrP"
-      },
-      "artists": [
-        {
-          "name": "Ylona Garcia",
-          "url": "https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Entertain Me",
-      "url": "https://open.spotify.com/track/5TclgAYTVdTRLnHvTUhyIP"
     },
     {
       "added_at": "2022-05-02 14:50:00",
@@ -347,34 +347,6 @@
       "duration_ms": 222838,
       "name": "The Call",
       "url": "https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo"
-    },
-    {
-      "added_at": "2022-05-02 14:50:00",
-      "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
       "added_at": "2022-05-02 14:50:00",
@@ -455,18 +427,30 @@
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 174386,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
       "added_at": "2022-05-02 14:50:00",
@@ -491,8 +475,8 @@
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
-        "name": "Burn It All Down (Denzel Curry Remix)",
-        "url": "https://open.spotify.com/album/3SDmDz6RgolGmiUtgooCvv"
+        "name": "Starts Right Here",
+        "url": "https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX"
       },
       "artists": [
         {
@@ -500,17 +484,33 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
         },
         {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
         }
       ],
-      "duration_ms": 215121,
-      "name": "Burn It All Down - Denzel Curry Remix",
-      "url": "https://open.spotify.com/track/5qmJzwzxZQ026FRMArPloB"
+      "duration_ms": 185088,
+      "name": "Starts Right Here",
+      "url": "https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA"
+    },
+    {
+      "added_at": "2022-05-02 14:50:00",
+      "album": {
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
     },
     {
       "added_at": "2022-05-02 14:50:00",
@@ -555,26 +555,94 @@
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/75MgPY66oJwsrja1hnHax6"
+        "name": "one like this",
+        "url": "https://open.spotify.com/album/3kDADEhJSlFYpKIVx237uX"
       },
       "artists": [
         {
-          "name": "Crystal Skies",
-          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        },
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+          "name": "Jasmine Clarke",
+          "url": "https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc"
         }
       ],
-      "duration_ms": 189295,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/0ryPLLurUf7BHIfUO95rZ0"
+      "duration_ms": 190684,
+      "name": "one like this",
+      "url": "https://open.spotify.com/track/4oXnLbbTvPs7InYSCSGkp0"
+    },
+    {
+      "added_at": "2022-05-02 14:50:00",
+      "album": {
+        "name": "Tesla",
+        "url": "https://open.spotify.com/album/6bGE8s7uGtzimisKaYkRMc"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "LICK",
+          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Tesla",
+      "url": "https://open.spotify.com/track/2NLcsuFUwxuPON7fBnxyv2"
+    },
+    {
+      "added_at": "2022-05-02 14:50:00",
+      "album": {
+        "name": "Denial",
+        "url": "https://open.spotify.com/album/3cixY87gCDIYt1NEF3nLF9"
+      },
+      "artists": [
+        {
+          "name": "Milkoi",
+          "url": "https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Denial",
+      "url": "https://open.spotify.com/track/65BImO5cBoaQnqY5CSDJ4x"
+    },
+    {
+      "added_at": "2022-05-02 14:50:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
+    },
+    {
+      "added_at": "2022-05-02 14:50:00",
+      "album": {
+        "name": "Zeri, the Spark of Zaun",
+        "url": "https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        }
+      ],
+      "duration_ms": 213362,
+      "name": "Zeri, the Spark of Zaun",
+      "url": "https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA"
     },
     {
       "added_at": "2022-05-02 14:50:00",
@@ -603,38 +671,18 @@
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
-        "name": "Zeri, the Spark of Zaun",
-        "url": "https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ"
+        "name": "Circus of Doom",
+        "url": "https://open.spotify.com/album/6PpnrMZJP7HyoXEIzl0CET"
       },
       "artists": [
         {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Lauren Babic",
-          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
         }
       ],
-      "duration_ms": 213362,
-      "name": "Zeri, the Spark of Zaun",
-      "url": "https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA"
-    },
-    {
-      "added_at": "2022-05-02 14:50:00",
-      "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+      "duration_ms": 236326,
+      "name": "Where Angels Fear to Fly",
+      "url": "https://open.spotify.com/track/5Tf94JESeYX1FyP7iBdvde"
     },
     {
       "added_at": "2022-05-02 14:50:00",
@@ -651,26 +699,6 @@
       "duration_ms": 201546,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/1hQtfLmNABXQMSjjYRXqAX"
-    },
-    {
-      "added_at": "2022-05-02 14:50:00",
-      "album": {
-        "name": "Tesla",
-        "url": "https://open.spotify.com/album/6bGE8s7uGtzimisKaYkRMc"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "LICK",
-          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Tesla",
-      "url": "https://open.spotify.com/track/2NLcsuFUwxuPON7fBnxyv2"
     },
     {
       "added_at": "2022-05-02 14:50:00",
@@ -695,40 +723,32 @@
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
-        "name": "Circus of Doom",
-        "url": "https://open.spotify.com/album/6PpnrMZJP7HyoXEIzl0CET"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/75MgPY66oJwsrja1hnHax6"
       },
       "artists": [
         {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
         }
       ],
-      "duration_ms": 236326,
-      "name": "Where Angels Fear to Fly",
-      "url": "https://open.spotify.com/track/5Tf94JESeYX1FyP7iBdvde"
+      "duration_ms": 189295,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/0ryPLLurUf7BHIfUO95rZ0"
     },
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
-        "name": "Your Touch",
-        "url": "https://open.spotify.com/album/5JFoJ30gCidTapLFVuyTeF"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 225038,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/5Mnh0r4fIBfKW1QjaRBKFH"
-    },
-    {
-      "added_at": "2022-05-02 14:50:00",
-      "album": {
-        "name": "Starts Right Here",
-        "url": "https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX"
+        "name": "Burn It All Down (Denzel Curry Remix)",
+        "url": "https://open.spotify.com/album/3SDmDz6RgolGmiUtgooCvv"
       },
       "artists": [
         {
@@ -736,89 +756,17 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         },
         {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 185088,
-      "name": "Starts Right Here",
-      "url": "https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA"
-    },
-    {
-      "added_at": "2022-05-02 14:50:00",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
-    },
-    {
-      "added_at": "2022-05-02 14:50:00",
-      "album": {
-        "name": "Aliens",
-        "url": "https://open.spotify.com/album/74EvGqq3t8JFRwscYjUI13"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 217697,
-      "name": "Aliens",
-      "url": "https://open.spotify.com/track/2DdWJ6dousoDkPKWpWrisl"
-    },
-    {
-      "added_at": "2022-05-02 14:50:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 197388,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"
-    },
-    {
-      "added_at": "2022-05-02 14:50:00",
-      "album": {
-        "name": "Denial",
-        "url": "https://open.spotify.com/album/3cixY87gCDIYt1NEF3nLF9"
-      },
-      "artists": [
-        {
-          "name": "Milkoi",
-          "url": "https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Denial",
-      "url": "https://open.spotify.com/track/65BImO5cBoaQnqY5CSDJ4x"
+      "duration_ms": 215121,
+      "name": "Burn It All Down - Denzel Curry Remix",
+      "url": "https://open.spotify.com/track/5qmJzwzxZQ026FRMArPloB"
     },
     {
       "added_at": "2022-05-02 14:50:00",
@@ -846,75 +794,47 @@
         {
           "name": "DPR LIVE",
           "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 201320,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/7xgHy510SVkSgV1ZpzElW1"
+      "duration_ms": 203933,
+      "name": "Yellow Cab",
+      "url": "https://open.spotify.com/track/3MiF6xSyLFE06XIHSq5SZT"
     },
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
-        "name": "All In My Head (feat. grandson)",
-        "url": "https://open.spotify.com/album/0jmSaEG7ah3dpH8Sn2pDhp"
+        "name": "avenue (+)",
+        "url": "https://open.spotify.com/album/5i13Df15OSLT0IJSvBBXoG"
       },
       "artists": [
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          "name": "zodivk",
+          "url": "https://open.spotify.com/artist/5wlHIqEtztZGnUJtWgWOsJ"
         }
       ],
-      "duration_ms": 148112,
-      "name": "All In My Head (feat. grandson)",
-      "url": "https://open.spotify.com/track/2DuWtGyGAhc9GIhLCkerZH"
+      "duration_ms": 183114,
+      "name": "avenue (+)",
+      "url": "https://open.spotify.com/track/45ugex0jrWO033Gq2OoQx4"
     },
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
-        "name": "Leather Terror",
-        "url": "https://open.spotify.com/album/37PW0ipoWcjx3APS1MN0ql"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
       },
       "artists": [
         {
-          "name": "Carpenter Brut",
-          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "Greg Puciato",
-          "url": "https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi"
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
         }
       ],
-      "duration_ms": 261186,
-      "name": "Imaginary Fire - feat.Greg Puciato",
-      "url": "https://open.spotify.com/track/7isnmiHMrdP3AMdz6olJSo"
-    },
-    {
-      "added_at": "2022-05-02 14:50:00",
-      "album": {
-        "name": "Sessions: Diana",
-        "url": "https://open.spotify.com/album/524MIbuattv09j7FW5NVu2"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 151425,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/43EsCCOIJL1gVTBraWd4Gx"
+      "duration_ms": 197388,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"
     },
     {
       "added_at": "2022-05-02 14:50:00",
@@ -939,6 +859,62 @@
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
+        "name": "All In My Head (feat. grandson)",
+        "url": "https://open.spotify.com/album/0jmSaEG7ah3dpH8Sn2pDhp"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 148112,
+      "name": "All In My Head (feat. grandson)",
+      "url": "https://open.spotify.com/track/2DuWtGyGAhc9GIhLCkerZH"
+    },
+    {
+      "added_at": "2022-05-02 14:50:00",
+      "album": {
+        "name": "Your Touch",
+        "url": "https://open.spotify.com/album/5JFoJ30gCidTapLFVuyTeF"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "duration_ms": 225038,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5Mnh0r4fIBfKW1QjaRBKFH"
+    },
+    {
+      "added_at": "2022-05-02 14:50:00",
+      "album": {
+        "name": "Sessions: Diana",
+        "url": "https://open.spotify.com/album/524MIbuattv09j7FW5NVu2"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 151425,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/43EsCCOIJL1gVTBraWd4Gx"
+    },
+    {
+      "added_at": "2022-05-02 14:50:00",
+      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -948,9 +924,25 @@
           "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Yellow Cab",
-      "url": "https://open.spotify.com/track/3MiF6xSyLFE06XIHSq5SZT"
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+    },
+    {
+      "added_at": "2022-05-02 14:50:00",
+      "album": {
+        "name": "Aliens",
+        "url": "https://open.spotify.com/album/74EvGqq3t8JFRwscYjUI13"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 217697,
+      "name": "Aliens",
+      "url": "https://open.spotify.com/track/2DdWJ6dousoDkPKWpWrisl"
     },
     {
       "added_at": "2022-05-02 14:50:00",
@@ -975,38 +967,42 @@
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
-        "name": "one like this",
-        "url": "https://open.spotify.com/album/3kDADEhJSlFYpKIVx237uX"
+        "name": "Leather Terror",
+        "url": "https://open.spotify.com/album/37PW0ipoWcjx3APS1MN0ql"
       },
       "artists": [
         {
-          "name": "Jasmine Clarke",
-          "url": "https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc"
+          "name": "Carpenter Brut",
+          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+        },
+        {
+          "name": "Greg Puciato",
+          "url": "https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi"
         }
       ],
-      "duration_ms": 190684,
-      "name": "one like this",
-      "url": "https://open.spotify.com/track/4oXnLbbTvPs7InYSCSGkp0"
+      "duration_ms": 261186,
+      "name": "Imaginary Fire - feat.Greg Puciato",
+      "url": "https://open.spotify.com/track/7isnmiHMrdP3AMdz6olJSo"
     },
     {
       "added_at": "2022-05-02 14:50:00",
       "album": {
-        "name": "Boxing Underwater (feat. Cailin Russo)",
-        "url": "https://open.spotify.com/album/3tBeAjQYGEAlaBhZ3mYvMl"
+        "name": "Bring Home The Glory",
+        "url": "https://open.spotify.com/album/01L3l6bMt4wSX8fK3F9yKn"
       },
       "artists": [
         {
-          "name": "Golding",
-          "url": "https://open.spotify.com/artist/1iSoM8O980yKFhpnEKwARJ"
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+          "name": "Sara Skinner",
+          "url": "https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y"
         }
       ],
-      "duration_ms": 184673,
-      "name": "Boxing Underwater (feat. Cailin Russo)",
-      "url": "https://open.spotify.com/track/0CCvJ8682h023vVdJ4oYKp"
+      "duration_ms": 179216,
+      "name": "Bring Home The Glory",
+      "url": "https://open.spotify.com/track/4VgGx1cQlHB7Ls1Ukt0H7H"
     }
   ],
   "unique_name": "League of Legends Official MSI 2022 Playlist",

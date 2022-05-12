@@ -6168,6 +6168,24 @@
     },
     {
       "album": {
+        "name": "Do You Know What I Mean",
+        "url": "https://open.spotify.com/album/5yFbic3Mwt73OdJJKuQGF5"
+      },
+      "artists": [
+        {
+          "name": "Sol Y Motion",
+          "url": "https://open.spotify.com/artist/24AY9nmcbCmv0EHlXmE01o"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217304,
+      "name": "Do You Know What I Mean",
+      "url": "https://open.spotify.com/track/25ESdAEdfA6fPM222g1Rxg"
+    },
+    {
+      "album": {
         "name": "Chicago IX: Chicago's Greatest Hits",
         "url": "https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd"
       },

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 250506,
       "name": "(Find A) Reason To Believe",
       "url": "https://open.spotify.com/track/3rGuoVKM5CwEo7eHyeXYIB"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 238133,
       "name": "100 Years Ago - Remastered",
       "url": "https://open.spotify.com/track/58TvHfaC4Hvf8IfkxT9BFq"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 202266,
       "name": "100,000 Years",
       "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 255066,
       "name": "Accidents Never Happen - Remastered",
       "url": "https://open.spotify.com/track/78gbAINeq9qjmdUczMjiim"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 137066,
       "name": "Accuracy",
       "url": "https://open.spotify.com/track/2hqRpEdHuGlnTpJyfHZEAF"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 278933,
       "name": "Airport",
       "url": "https://open.spotify.com/track/6F0CQMioZrqgkp3oHx4hpY"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 256533,
       "name": "All I Can Do Is Write About It",
       "url": "https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 297520,
       "name": "Always Somewhere - 2015 Remaster",
       "url": "https://open.spotify.com/track/3EYLxYSyCO4fsIIz79rW9z"
@@ -476,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Never A Dull Moment",
+        "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4qiUf0nH55Bx2uuybf5S1g"
+    },
+    {
+      "album": {
         "name": "Jailbreak (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 184186,
       "name": "Angel From The Coast",
       "url": "https://open.spotify.com/track/7elItf8OyvfFHt6tfDjy1a"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 270066,
       "name": "Angelsea",
       "url": "https://open.spotify.com/track/6v1lfGTLOwiUGkBr52WPsw"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 267800,
       "name": "Another Park, Another Sunday",
       "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 205773,
       "name": "Any Colour You Like - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/1wGoqD0vrf7njGvxm8CEf5"
@@ -620,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290400,
+      "name": "Babaji",
+      "url": "https://open.spotify.com/track/5OzYi2jOFdouhyovank4wj"
+    },
+    {
+      "album": {
         "name": "Eddie Money",
         "url": "https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye"
       },
@@ -631,7 +667,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 210826,
       "name": "Baby Hold On",
       "url": "https://open.spotify.com/track/5ZYvcJ04ccUw2Matbnmu0U"
@@ -721,7 +757,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 218167,
       "name": "Backstreet Luv",
       "url": "https://open.spotify.com/track/3KHAmvnxOlkVOiELYW4KG9"
@@ -829,7 +865,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 212093,
       "name": "Barbed Wire Love",
       "url": "https://open.spotify.com/track/5vWYEFE5oC9mFrpufdNqb8"
@@ -883,7 +919,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 236240,
       "name": "Beautiful Girls - 2015 Remaster",
       "url": "https://open.spotify.com/track/7Ly4DzymgujObKg7wWVHZV"
@@ -991,7 +1027,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 553653,
       "name": "Birdland",
       "url": "https://open.spotify.com/track/4UcCvuacrweynfWohap8NR"
@@ -1153,7 +1189,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 253466,
       "name": "Bloodsucker - 1995 Remaster",
       "url": "https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7"
@@ -1333,7 +1369,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 273626,
       "name": "Bright Fire",
       "url": "https://open.spotify.com/track/6rRZG3S0QfVRFnaSPsFoNH"
@@ -1423,7 +1459,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 178200,
       "name": "C'mon And Love Me",
       "url": "https://open.spotify.com/track/1wkRMOmqwayWDVR9FLOTFP"
@@ -1610,6 +1646,24 @@
     },
     {
       "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265933,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8"
+    },
+    {
+      "album": {
         "name": "Deguello",
         "url": "https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ"
       },
@@ -1751,7 +1805,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 190093,
       "name": "Cool For Cats",
       "url": "https://open.spotify.com/track/1UOlzDCuFcjBbfPfVzb4yJ"
@@ -1859,7 +1913,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 232626,
       "name": "Crippled Inside - Remastered 2010",
       "url": "https://open.spotify.com/track/5CG4RXjli90Zd1KDalPqeK"
@@ -1895,7 +1949,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 311053,
       "name": "Crystal - 2017 Remaster",
       "url": "https://open.spotify.com/track/4mPHXe0GwQM24wpLa64mjY"
@@ -2003,7 +2057,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 292360,
       "name": "Dancing With Mr. D",
       "url": "https://open.spotify.com/track/1o1pQLvKMNqkeLYWGrlA4d"
@@ -2039,7 +2093,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 354933,
       "name": "Davy's on the Road Again",
       "url": "https://open.spotify.com/track/0jDZ3P4LFKO59BfDhSrFSU"
@@ -2061,6 +2115,24 @@
       "duration_ms": 191053,
       "name": "Day After Day - Remastered 2010",
       "url": "https://open.spotify.com/track/2XKW8CH8nRZH9cF2DNjBHN"
+    },
+    {
+      "album": {
+        "name": "The Runaways",
+        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
+      },
+      "artists": [
+        {
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420173,
+      "name": "Dead End Justice",
+      "url": "https://open.spotify.com/track/4DliRSOmpVNHoPc60wUmUD"
     },
     {
       "album": {
@@ -2093,7 +2165,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 160906,
       "name": "Dear Angie - Remastered 2010",
       "url": "https://open.spotify.com/track/54qG9hpUjLgkgTJQ9qvB1P"
@@ -2111,7 +2183,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 251960,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/4i3SC58kB65zfKo1oOW1q9"
@@ -2273,7 +2345,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 249213,
       "name": "Doing Alright - Remastered 2011",
       "url": "https://open.spotify.com/track/6PT7wUJefYPEU1lX1lcLRJ"
@@ -2291,7 +2363,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 206800,
       "name": "Don't Ask Me No Questions",
       "url": "https://open.spotify.com/track/5rHGRbh5F1oFQ4CdpzFyhN"
@@ -2417,7 +2489,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 170600,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/5ftkCxdoFGmkXbm5zgu0lS"
@@ -2489,7 +2561,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 188426,
       "name": "Dreaming - Remastered",
       "url": "https://open.spotify.com/track/3W0xbvrZqaao3ZZEDhVQ0r"
@@ -2525,7 +2597,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 160400,
       "name": "Eat To The Beat - Remastered",
       "url": "https://open.spotify.com/track/5BGe10814OCOZETVs8bMz9"
@@ -2687,7 +2759,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 190493,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/5qgGXHf4yXNk2Z1LzMQDCh"
@@ -2741,7 +2813,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 242440,
       "name": "Fade Away And Radiate - Remastered",
       "url": "https://open.spotify.com/track/22zuU1mdLQPx6N69jUS0NT"
@@ -2777,7 +2849,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 373853,
       "name": "Father To Son - Remastered 2011",
       "url": "https://open.spotify.com/track/4ODgFAlSa4RSeugPEXJGcQ"
@@ -2795,7 +2867,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 224706,
       "name": "Feel Like A Number",
       "url": "https://open.spotify.com/track/2QhqWCo5oODaEJUs2iwysz"
@@ -2849,7 +2921,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 203400,
       "name": "Fire In Cairo",
       "url": "https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd"
@@ -3083,7 +3155,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 232040,
       "name": "Free Money",
       "url": "https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La"
@@ -3317,7 +3389,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 217706,
       "name": "Gimme Some Water",
       "url": "https://open.spotify.com/track/0LKH8nMS8WFISQRo5RXGcq"
@@ -3389,7 +3461,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 229253,
       "name": "Glycerine Queen",
       "url": "https://open.spotify.com/track/4afiT3hIHlKOb7HvPs6qIu"
@@ -3425,7 +3497,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 126440,
       "name": "Goin' Nowhere Tonight",
       "url": "https://open.spotify.com/track/0AoHJoQJRDYWFasjoy1x26"
@@ -3515,7 +3587,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 342880,
       "name": "Great King Rat - Remastered 2011",
       "url": "https://open.spotify.com/track/385Urz8Qa8CIcK9tl3SA8g"
@@ -3551,7 +3623,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 226826,
       "name": "Grimsby",
       "url": "https://open.spotify.com/track/0v7vqcby8CF7tSlh7GAYId"
@@ -3677,7 +3749,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 233198,
       "name": "Heartbreak Hotel - 2017 Remaster",
       "url": "https://open.spotify.com/track/0ejO0Gjn1tkqLk7AM3Nr2z"
@@ -3749,7 +3821,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 215600,
       "name": "Heroes Are Hard to Find",
       "url": "https://open.spotify.com/track/6ysBGPp7Qz9dNHOgOeMVs5"
@@ -3875,7 +3947,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 192261,
       "name": "Hocus Pocus - Original Single Version",
       "url": "https://open.spotify.com/track/1IuUe3A7EfJmvZH3EljtwR"
@@ -3936,6 +4008,24 @@
     },
     {
       "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290093,
+      "name": "Hole In My Life",
+      "url": "https://open.spotify.com/track/25McPIqh9oSdPSP36Gu7Jp"
+    },
+    {
+      "album": {
         "name": "Lovedrive",
         "url": "https://open.spotify.com/album/1KWIRGaeCscnnFmZUfbYDj"
       },
@@ -3983,7 +4073,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 180142,
       "name": "Hollywood - 2017 Remaster",
       "url": "https://open.spotify.com/track/2EABza7IILW2FaK91vP7Yf"
@@ -4044,6 +4134,24 @@
     },
     {
       "album": {
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183759,
+      "name": "Hot Patootie - Bless My Soul",
+      "url": "https://open.spotify.com/track/0E5VCfEC70ubAAHfjRasAK"
+    },
+    {
+      "album": {
         "name": "Hotter Than Hell",
         "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
       },
@@ -4055,7 +4163,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 211800,
       "name": "Hotter Than Hell",
       "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
@@ -4073,7 +4181,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 226280,
       "name": "How? - Remastered 2010",
       "url": "https://open.spotify.com/track/4k9pqSKBHYdTGjzNeRyQ0o"
@@ -4127,7 +4235,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 226224,
       "name": "I Bit off More Than I Could Chew - 2017 Remaster",
       "url": "https://open.spotify.com/track/6w6Dqgv6zFPzlRPR8tIveN"
@@ -4145,7 +4253,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 196106,
       "name": "I Get By",
       "url": "https://open.spotify.com/track/16Y9fKPEa7SQ5lZojVuNcO"
@@ -4271,7 +4379,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 210800,
       "name": "I Need A Lover",
       "url": "https://open.spotify.com/track/71Scj5reNzcZDmbne0J5zQ"
@@ -4365,7 +4473,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 286573,
       "name": "I'm Bad, I'm Nationwide",
       "url": "https://open.spotify.com/track/39upzShiWUjweO2v6Ewfjw"
@@ -4491,7 +4599,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 245844,
       "name": "If Everyone Was Listening - Remastered 2010",
       "url": "https://open.spotify.com/track/5Ps2MwjlktaXJ49KrY7L5y"
@@ -4509,7 +4617,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 232994,
       "name": "If You Can't Give Me Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/59mUgn4E4DWcB2lh5oRG2I"
@@ -4679,7 +4787,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 176586,
       "name": "Indian Reservation (The Lament of the Cherokee Reservation Indian) (feat. Mark Lindsay)",
       "url": "https://open.spotify.com/track/0a5cCoXpBKGnUBYbd271f9"
@@ -4697,7 +4805,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 199466,
       "name": "Into The Valley",
       "url": "https://open.spotify.com/track/2QSD3K3b3BJ8DPhGhQfDPW"
@@ -4985,7 +5093,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 187600,
       "name": "Jungle Love",
       "url": "https://open.spotify.com/track/1EuqRlDP9RuzeCRVcjr1PY"
@@ -5111,7 +5219,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 173760,
       "name": "Kooks - 2015 Remaster",
       "url": "https://open.spotify.com/track/1w3W1hz6xVUSWkbh0paMgs"
@@ -5183,7 +5291,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 206266,
       "name": "Last Child",
       "url": "https://open.spotify.com/track/5jH8ecmEyX08pQ06T0h6ly"
@@ -5237,7 +5345,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 260466,
       "name": "Lay Down, Stay Down - Remastered 2004",
       "url": "https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ"
@@ -5255,7 +5363,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 179333,
       "name": "Lean Woman Blues",
       "url": "https://open.spotify.com/track/3UXdsBvMjXNNlugyTSz3IJ"
@@ -5273,7 +5381,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 298280,
       "name": "Let It Grow",
       "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
@@ -5327,7 +5435,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 286680,
       "name": "Let Me Take You Home Tonight",
       "url": "https://open.spotify.com/track/6485cn8SoHq6qPdmeQcw4x"
@@ -5417,7 +5525,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 196666,
       "name": "Light Of Love",
       "url": "https://open.spotify.com/track/4hoJkNs20zi3rvUkYmY57m"
@@ -5471,7 +5579,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 241400,
       "name": "Listen To What The Man Said - 1993 Digital Remaster",
       "url": "https://open.spotify.com/track/2Ri2AwoGX3yllyllN5gy9g"
@@ -5507,7 +5615,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 383826,
       "name": "Little Lamb Dragonfly - 2018 Remaster",
       "url": "https://open.spotify.com/track/6i8HbwoCqcH3GtUvL3YyuE"
@@ -5615,7 +5723,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 178093,
       "name": "Look Wot You Dun",
       "url": "https://open.spotify.com/track/0nSJyhmf9IJXO9cKI1vyrr"
@@ -5723,7 +5831,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 257173,
       "name": "Love Hungry Man",
       "url": "https://open.spotify.com/track/1Kbc8nH6BhsWnTuM22qypl"
@@ -5939,7 +6047,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 209093,
       "name": "Midnight Man",
       "url": "https://open.spotify.com/track/3jWeD82HOwB25ub77Qguvv"
@@ -6029,7 +6137,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 236066,
       "name": "Mississippi Kid",
       "url": "https://open.spotify.com/track/3xdwGhgjAVDJqkJhsVe91z"
@@ -6065,7 +6173,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 168520,
       "name": "Monday Morning - 2017 Remaster",
       "url": "https://open.spotify.com/track/5tHe4P0tNgFLG4xoEWucUq"
@@ -6307,10 +6415,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 170293,
       "name": "My Brother Jake",
       "url": "https://open.spotify.com/track/0L6NSRfUEZPbRcvaRa9JCo"
+    },
+    {
+      "album": {
+        "name": "Hair of the Dog",
+        "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205906,
+      "name": "My White Bicycle",
+      "url": "https://open.spotify.com/track/0wTRFy06N0gbGatkRAU88O"
     },
     {
       "album": {
@@ -6325,7 +6451,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 321160,
       "name": "Name Of The Game - Remastered 2010",
       "url": "https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw"
@@ -6361,7 +6487,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 162240,
       "name": "New Rose",
       "url": "https://open.spotify.com/track/55TeO50ytH96i93yihdNJE"
@@ -6397,7 +6523,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 241413,
       "name": "Next Time You See Her",
       "url": "https://open.spotify.com/track/4cNVARfOqxmrE3dBHGhCjR"
@@ -6541,7 +6667,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 229906,
       "name": "No Time",
       "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
@@ -6595,7 +6721,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 207226,
       "name": "Nothin' To Lose",
       "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
@@ -6703,7 +6829,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 214866,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7K7ZIvwUpMZ2H6eOVpWhwq"
@@ -6955,7 +7081,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 303894,
       "name": "Pictures Of Home - Remastered 2012",
       "url": "https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp"
@@ -7009,7 +7135,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 190413,
       "name": "Planet Queen",
       "url": "https://open.spotify.com/track/2aVrHU8xjnz6twRNPf7zpS"
@@ -7045,7 +7171,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 193333,
       "name": "Poison Whiskey",
       "url": "https://open.spotify.com/track/4EwfTRmjZMPGxrqYIrlCBv"
@@ -7117,7 +7243,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 251173,
       "name": "Problems",
       "url": "https://open.spotify.com/track/5dI4YIBXUmat0Kp6N1SjuV"
@@ -7171,7 +7297,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 373133,
       "name": "Quadrophenia",
       "url": "https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP"
@@ -7247,7 +7373,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 205173,
       "name": "Redondo Beach",
       "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
@@ -7355,7 +7481,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 217640,
       "name": "Rock 'N' Roll Damnation",
       "url": "https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A"
@@ -7391,7 +7517,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 303666,
       "name": "Rock 'N' Roll Singer",
       "url": "https://open.spotify.com/track/65Wa8Fu1ASV3B0dz2vwKNQ"
@@ -7427,7 +7553,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 232356,
       "name": "Rock And Roll Never Forgets",
       "url": "https://open.spotify.com/track/4cVRPrhh7mTVejhx73qA6U"
@@ -7499,7 +7625,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 171093,
       "name": "Rocker",
       "url": "https://open.spotify.com/track/4eutZb21bHZerJnxqW5lB0"
@@ -7553,7 +7679,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 188973,
       "name": "Roll Away the Stone",
       "url": "https://open.spotify.com/track/7cQXdm6y9KE8n1Lw2z75Ey"
@@ -7571,7 +7697,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 237800,
       "name": "Roll On Down The Highway",
       "url": "https://open.spotify.com/track/05mzctclS0ZqqTLEiDIGkt"
@@ -7589,7 +7715,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 234920,
       "name": "Romeo And The Lonely Girl",
       "url": "https://open.spotify.com/track/6KqIjAkxFmCCMrjFJJJFve"
@@ -7895,10 +8021,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 232960,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
+    },
+    {
+      "album": {
+        "name": "Queen (2011 Remaster)",
+        "url": "https://open.spotify.com/album/1kkb8xlG9yssEVsWKiEtAB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76573,
+      "name": "Seven Seas Of Rhye - Remastered 2011",
+      "url": "https://open.spotify.com/track/6Si9ImvDVWAgjX3pfsldGM"
     },
     {
       "album": {
@@ -7913,7 +8057,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 264453,
       "name": "Shadow Of A Doubt (A Complex Kid)",
       "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
@@ -8003,7 +8147,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 249000,
       "name": "She",
       "url": "https://open.spotify.com/track/2CgK3jgqeaR02D9mKE2XVt"
@@ -8057,10 +8201,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 207600,
       "name": "Sheer Heart Attack - Remastered 2011",
       "url": "https://open.spotify.com/track/44XWtXS1N27SIgdlKwE24B"
+    },
+    {
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Sheer Heart Attack - Remastered 2011",
+      "url": "https://open.spotify.com/track/4WLcEC8RoscRuzmNf2EeXf"
     },
     {
       "album": {
@@ -8075,7 +8237,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 203279,
       "name": "Ship Of Fools",
       "url": "https://open.spotify.com/track/5eyQT4AgA02K3ciYxjKZZV"
@@ -8147,7 +8309,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 260030,
       "name": "Sister Midnight",
       "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
@@ -8208,6 +8370,24 @@
     },
     {
       "album": {
+        "name": "Sladest (Expanded)",
+        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269506,
+      "name": "Skweeze Me, Pleeze Me",
+      "url": "https://open.spotify.com/track/75Qqj0a1D0fxYrQ9j8vnqX"
+    },
+    {
+      "album": {
         "name": "Not Fragile",
         "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
@@ -8237,7 +8417,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 186080,
       "name": "Sleeping On The Sidewalk - Remastered 2011",
       "url": "https://open.spotify.com/track/2N5mE30V04xDvsX2caDLlj"
@@ -8255,7 +8435,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 137666,
       "name": "Slippin' And Slidin' - Remastered 2010",
       "url": "https://open.spotify.com/track/1Ptzi2koe5Xvot5bltQrM1"
@@ -8327,7 +8507,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 276933,
       "name": "Some Girls - Remastered",
       "url": "https://open.spotify.com/track/3pQXptTkIkOQsK3pyYlRbJ"
@@ -8345,7 +8525,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 221374,
       "name": "Some Weird Sin",
       "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
@@ -8507,7 +8687,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 227413,
       "name": "Spare Me a Little of Your Love",
       "url": "https://open.spotify.com/track/7dA6rEo6vRO9SfXxE9xk5S"
@@ -8669,7 +8849,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 253400,
       "name": "Submission",
       "url": "https://open.spotify.com/track/12YICXbDxlzfxlqdD1RKK7"
@@ -8788,6 +8968,24 @@
     },
     {
       "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155960,
+      "name": "Suspect Device",
+      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
+    },
+    {
+      "album": {
         "name": "Second Helping",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -8799,7 +8997,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 211093,
       "name": "Swamp Music",
       "url": "https://open.spotify.com/track/17jdqGUsxfqm9n2HnbWSYq"
@@ -8835,7 +9033,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 171533,
       "name": "Sweet Mary",
       "url": "https://open.spotify.com/track/2MtvFTVy5qjzKe6ytzfcBv"
@@ -8889,7 +9087,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 267720,
       "name": "Take It All - Remastered 2010",
       "url": "https://open.spotify.com/track/0y6mhgH8GPKn7cb2xYFuE3"
@@ -8914,6 +9112,24 @@
     },
     {
       "album": {
+        "name": "Sladest (Expanded)",
+        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Take Me Bak 'Ome",
+      "url": "https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4"
+    },
+    {
+      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -8925,7 +9141,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 170173,
       "name": "Take The Money And Run",
       "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
@@ -9015,7 +9231,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 339693,
       "name": "Tend My Garden",
       "url": "https://open.spotify.com/track/68IuBqyVzRWKEfXf1twJl0"
@@ -9051,7 +9267,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 251986,
       "name": "The Bangin' Man",
       "url": "https://open.spotify.com/track/3L31j8Rv3ZcbABSE7dCec8"
@@ -9159,7 +9375,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 237560,
       "name": "The Eton Rifles",
       "url": "https://open.spotify.com/track/39PU2z9LesM4HRvD6zY1Tg"
@@ -9253,7 +9469,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 277133,
       "name": "The Grand Illusion",
       "url": "https://open.spotify.com/track/0FFdCFGfmtqVaHTBYXybkx"
@@ -9293,7 +9509,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 313720,
       "name": "The Groover (Master Version with False Start)",
       "url": "https://open.spotify.com/track/5j3KwnmOJkNVptGxp4KUPD"
@@ -9405,6 +9621,24 @@
       "duration_ms": 236533,
       "name": "The Motivator",
       "url": "https://open.spotify.com/track/2x2IVCB3DeD9ZqpktAHWDV"
+    },
+    {
+      "album": {
+        "name": "Queen (2011 Remaster)",
+        "url": "https://open.spotify.com/album/1kkb8xlG9yssEVsWKiEtAB"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263026,
+      "name": "The Night Comes Down - Remastered 2011",
+      "url": "https://open.spotify.com/track/2msar6CW5wBQlhm3YCYPTa"
     },
     {
       "album": {
@@ -9527,7 +9761,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 241426,
       "name": "The Six Teens",
       "url": "https://open.spotify.com/track/46xrHRC88Cg7DquXDvafzw"
@@ -9617,7 +9851,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 253973,
       "name": "The WASP (Texas Radio and the Big Beat)",
       "url": "https://open.spotify.com/track/6ieXnWm8uineF8k9Ugn5DG"
@@ -9707,7 +9941,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 258626,
       "name": "Things I Could Be",
       "url": "https://open.spotify.com/track/3PC3bIYidHlGiNblUzwpyp"
@@ -9761,7 +9995,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 294835,
       "name": "Those Shoes - 2013 Remaster",
       "url": "https://open.spotify.com/track/13TrgZ4RqtjXd8w9wAuwxE"
@@ -9815,7 +10049,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 234360,
       "name": "Till It Shines",
       "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
@@ -9858,6 +10092,24 @@
     },
     {
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219831,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
+    },
+    {
+      "album": {
         "name": "Exile On Main Street (Deluxe Version)",
         "url": "https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP"
       },
@@ -9869,7 +10121,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 257240,
       "name": "Torn And Frayed",
       "url": "https://open.spotify.com/track/6dE1etqLwt5GUUBVQdIgBB"
@@ -9959,7 +10211,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 160666,
       "name": "True Fine Love",
       "url": "https://open.spotify.com/track/35rk3zkmIUCwlRZjd0SQwo"
@@ -9977,7 +10229,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 174960,
       "name": "Truth Hits Everybody",
       "url": "https://open.spotify.com/track/4pLhVO0JuMiFDSJYDiGP7S"
@@ -10085,7 +10337,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 229026,
       "name": "Venus",
       "url": "https://open.spotify.com/track/3x0iCzjgf0v9lnwvAhU9P2"
@@ -10175,7 +10427,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Walk All Over You",
       "url": "https://open.spotify.com/track/5xquYn2sr3uEcyuKU9BmCJ"
@@ -10359,7 +10611,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 116440,
       "name": "White Riot - Remastered",
       "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
@@ -10413,7 +10665,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 142773,
       "name": "Why Does It Hurt When I Pee?",
       "url": "https://open.spotify.com/track/21CXijjRjUaegeKhfPF7uX"
@@ -10485,7 +10737,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 280746,
       "name": "Wild West Hero",
       "url": "https://open.spotify.com/track/5kVqD0FKIMuhqoZBop0uIq"
@@ -10503,7 +10755,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 209853,
       "name": "Willie And The Hand Jive",
       "url": "https://open.spotify.com/track/7aDdRtuCpHGdz7OZFvgbHJ"
@@ -10557,7 +10809,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 136933,
       "name": "With A Gun",
       "url": "https://open.spotify.com/track/6hCZTtQ84zVg3gGXQaIGZv"
@@ -10593,7 +10845,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "Woman",
       "url": "https://open.spotify.com/track/0OgWuPs6lyCnnLUw1INrdQ"
@@ -10647,7 +10899,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 269333,
       "name": "Woodstock",
       "url": "https://open.spotify.com/track/7IwFA0HPOBCoQT5qzP0jDN"
@@ -10701,7 +10953,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 206146,
       "name": "You And I - Remastered 2011",
       "url": "https://open.spotify.com/track/4QxuI0R23qSGf4nipuOV6h"
@@ -10719,7 +10971,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 242226,
       "name": "You Angel You",
       "url": "https://open.spotify.com/track/06fLf0fUQpPn3GGcYkXIht"

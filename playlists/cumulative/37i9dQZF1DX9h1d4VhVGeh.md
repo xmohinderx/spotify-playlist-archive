@@ -4,7 +4,7 @@
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-106 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/3gEBX1MSMTVMs4piEbVTl2)
+107 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/3gEBX1MSMTVMs4piEbVTl2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Adaysh Kan Fe Nas \- Lo\-fi remix](https://open.spotify.com/track/0WK4yj35ILpBivFUN9Nvy1) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Adaysh Kan Fe Nas \(Lo\-fi remix\)](https://open.spotify.com/album/7qSmjMtiRUiWMXfnw1xbyb) | 2:49 | 2022-04-18 |  |
 | [Ahwak](https://open.spotify.com/track/1chsFxuRdocgGwhhCYfZ9m) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Rawaeaa Abd El Halim 5](https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3) | 4:58 | 2022-04-18 |  |
 | [Ahwak \(feat\. Lotfi Bouchnak\)](https://open.spotify.com/track/2ChYfZwRqh3Es64zijiaM1) | [Tosca](https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu), [Lotfi Bouchnak](https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z) | [Morabeza](https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY) | 3:37 | 2022-04-18 |  |
-| [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 | 2022-04-18 | 2022-05-11 |
+| [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 | 2022-04-18 |  |
 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 | 2022-04-18 |  |
 | [Al Khafif](https://open.spotify.com/track/2OcawH6XV47Lc5utS3DCEW) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Nour](https://open.spotify.com/album/1wvevjoU5bxXWEXGZ1PuXw) | 3:59 | 2022-04-18 |  |
 | [Albi](https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw), [Norah Shaqur](https://open.spotify.com/artist/357LwT1uF798pX9P418HhS) | [Ya Zalamez](https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo) | 3:53 | 2022-04-18 |  |
@@ -26,7 +26,7 @@
 | [Badi Nsafer](https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w) | [JOHANNA MORKOS](https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22) | [Badi Nsafer](https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX) | 3:44 | 2022-04-18 |  |
 | [Bala Wala Chi](https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 3:27 | 2022-04-18 |  |
 | [Bala Wala Shi](https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Bala Wala Shi](https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx) | 2:46 | 2022-04-18 |  |
-| [Bala Wala Shi \- Live](https://open.spotify.com/track/5352qGIrAQLSeJkiEvvOQi) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Osset Helem \(Live\)](https://open.spotify.com/album/4iHkEaRoDSkP7FImQUBFxW) | 3:52 | 2022-04-18 |  |
+| [Bala Wala Shi \- Live](https://open.spotify.com/track/5352qGIrAQLSeJkiEvvOQi) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Osset Helem \(Live\)](https://open.spotify.com/album/4iHkEaRoDSkP7FImQUBFxW) | 3:52 | 2022-04-18 | 2022-05-12 |
 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 | 2022-04-18 |  |
 | [Bshi Yom](https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Bshi Yom](https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN) | 4:54 | 2022-04-18 |  |
 | [Craziness \- أصابك عشق](https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN) | [Abdulrahman Mohammed](https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl), [Mohab Omer](https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY) | [Craziness \- أصابك عشق](https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF) | 4:51 | 2022-04-18 |  |
@@ -51,7 +51,7 @@
 | [Helwa Ya Baladi](https://open.spotify.com/track/73fufl2SoSxVz2ZLPNUGVt) | [Lina Sleibi](https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz) | [Covers](https://open.spotify.com/album/4nkB7yuzm07UYE9CB3bB0J) | 3:24 | 2022-04-18 |  |
 | [Holm](https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Holm / The Man Who Sold The World](https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY) | 4:46 | 2022-04-18 |  |
 | [Kefak Anta & Hello \(feat\. Fairouz\)](https://open.spotify.com/track/0Gv0LK9wf1E4YNaO7R8fNw) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Mash\-Up](https://open.spotify.com/album/3e9qgdZAlMn7D1bQWPRyoi) | 4:10 | 2022-04-18 |  |
-| [Kefayak Aazar](https://open.spotify.com/track/25HgTWTcPXoEF0mjSYrIpy) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Eish Besho'ak](https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg) | 4:13 | 2022-04-18 |  |
+| [Kefayak Aazar](https://open.spotify.com/track/25HgTWTcPXoEF0mjSYrIpy) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Eish Besho'ak](https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg) | 4:13 | 2022-04-18 | 2022-05-12 |
 | [Khallini Bel Jaw](https://open.spotify.com/track/4YlIyphEnQcSoMMn2WnsHc) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Eza](https://open.spotify.com/album/79554ZeLAODXiO7Yru81W4) | 4:32 | 2022-04-18 |  |
 | [Kifak Inta](https://open.spotify.com/track/7JaX3X1cPBAGoTs4V1P4uy) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairuz \- Modern Favorites](https://open.spotify.com/album/2iER5YPSsq4WpokLnnQGCO) | 3:31 | 2022-04-18 |  |
 | [Kil Ma T'illi](https://open.spotify.com/track/08wMCxGLgcE3VXwSSgMzJK) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Hikayi](https://open.spotify.com/album/2DPOCdXwCUpJSSrJZDfkFD) | 3:10 | 2022-04-18 |  |
@@ -63,6 +63,7 @@
 | [Life \- Acoustic](https://open.spotify.com/track/1pApHtt9d4zS4FGUnZnkRc) | [Moseqar](https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH) | [Life \(Acoustic\)](https://open.spotify.com/album/3ruSz5w0Ox2JNrGhubbQoq) | 4:14 | 2022-04-18 |  |
 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 | 2022-04-18 |  |
 | [LYA](https://open.spotify.com/track/0VgcPBRN0cVOJ2e2x7Qbhv) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [LYA](https://open.spotify.com/album/1bxMmzCQ8NDTiyjbanEot6) | 2:34 | 2022-04-18 |  |
+| [Ma Baaref](https://open.spotify.com/track/6S49sbvebaWWUYJCxQ9kYx) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ayech Bi Oyouni](https://open.spotify.com/album/5pfkDggECTlWNLL9Jf4orK) | 4:02 | 2022-04-18 |  |
 | [Mabalash](https://open.spotify.com/track/40BMID1JwcJZYeTS1t6stp) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Omroh Ma Yeghib](https://open.spotify.com/album/3U6oFvwXd6i8LFbbhqmKQq) | 4:08 | 2022-04-18 |  |
 | [Magic](https://open.spotify.com/track/7r4CFRZvhDJKrGX43arGgA) | [Moseqar](https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH) | [Café Sessions](https://open.spotify.com/album/6ZykoElp78txVMO3Oz7dB8) | 3:52 | 2022-04-18 |  |
 | [Manakir](https://open.spotify.com/track/0wIJTKbP1zy9B8IuoHUeyt) | [Haya Zaatry & Ghanni 3an Ta3rif](https://open.spotify.com/artist/5DFpEJYHAfReM6SW58FjJo) | [Rough Guide To Palestine](https://open.spotify.com/album/51jzaF1wPXfCZQ2g5THxUD) | 2:56 | 2022-04-18 |  |

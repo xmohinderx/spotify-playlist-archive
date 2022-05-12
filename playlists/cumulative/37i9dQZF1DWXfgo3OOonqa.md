@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-314 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+316 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [24](https://open.spotify.com/track/5359wDL2O1rzwRPVRqwoxW) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [24](https://open.spotify.com/album/5EifQxLUTYEksUteR7M0eP) | 2:22 | 2022-01-27 | 2022-02-18 |
 | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/track/4lzEs26mJHbvj9TIIJZPRS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/album/57FHPyAprjWD6mXaY5gE1f) | 2:33 | 2022-05-08 |  |
 | [365](https://open.spotify.com/track/4eg76scNMw3k8nX6ySnF51) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [365](https://open.spotify.com/album/79kUSiYCJXGgEvqQbLBZqU) | 2:12 | 2021-12-30 | 2022-02-11 |
-| [38 SPECIAL](https://open.spotify.com/track/3SyNvVRtqdbnfSoaa9itX2) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [38 SPECIAL](https://open.spotify.com/album/2lOXTwEp6ZGzgAdbpgPqOG) | 2:59 | 2022-03-18 |  |
+| [38 SPECIAL](https://open.spotify.com/track/3SyNvVRtqdbnfSoaa9itX2) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [38 SPECIAL](https://open.spotify.com/album/2lOXTwEp6ZGzgAdbpgPqOG) | 2:59 | 2022-03-18 | 2022-05-12 |
 | [456](https://open.spotify.com/track/47VpgMBALlZSyHoyc7BfJV) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Stanna Likadan / 456](https://open.spotify.com/album/5GQz1UCcw6GcgquP6LZ1Oj) | 2:17 | 2021-12-16 | 2022-01-20 |
 | [5AM](https://open.spotify.com/track/69eo1z40ivxcT5oMkX5peC) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wow 2](https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW) | 3:48 | 2021-12-16 | 2022-01-28 |
 | [7am](https://open.spotify.com/track/2M7z9VN7YxUeXQsqZp7IyP) | [FAH1DO](https://open.spotify.com/artist/01bjIiVhFb4SIlhhEa1gLn) | [Mixed Feelings](https://open.spotify.com/album/4zpQ0ShIdaCY7Rwehn4jJj) | 2:25 | 2022-02-17 | 2022-03-11 |
@@ -158,6 +158,7 @@
 | [K.A.B](https://open.spotify.com/track/0eQnQIkGXKgkRZeWp0tSci) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl), [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [K.A.B](https://open.spotify.com/album/09ZfS3qdGryVWizzi7dyob) | 3:12 | 2022-01-06 | 2022-03-04 |
 | [Kalejdoskop](https://open.spotify.com/track/1YkRezYJi1XKYmhG1GidUd) | [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c), [Käp](https://open.spotify.com/artist/13jd8ireAONmQcSDY3cMka), [Trainspotters](https://open.spotify.com/artist/4dq4bHaTzqLMpRwGJFuuxy) | [Northerntörpalisticarportmuzik](https://open.spotify.com/album/3uXQpUeiq0T1HkBG88763T) | 2:40 | 2021-12-16 | 2022-01-07 |
 | [KALLARNA](https://open.spotify.com/track/23QBUPGX3M7NcZZgVncrxT) | [2.clock](https://open.spotify.com/artist/5bEjof3z83fLcU9U56ceXp), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [KALLARNA](https://open.spotify.com/album/71KUyWkzULfQAFhhD22Zlv) | 2:06 | 2022-01-06 | 2022-02-21 |
+| [Kan du höra mig](https://open.spotify.com/track/6u5dulzeQXHhvgWBwyq353) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [This Is Sweden](https://open.spotify.com/album/78a2aU0NlQvynaBaAY0uLd) | 2:08 | 2022-05-11 |  |
 | [Kanariefåglar](https://open.spotify.com/track/7q558L22GIsm1yozoYeSq0) | [Nomad](https://open.spotify.com/artist/264V8HSZDhiq3MPrTnVmed), [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [More 10](https://open.spotify.com/artist/2tp6KnR4tYjOrpnwwwWGeu) | [Kanariefåglar](https://open.spotify.com/album/59CL5kDZZ33MEEn8TB6gIo) | 2:22 | 2022-04-21 |  |
 | [KANTE](https://open.spotify.com/track/5Fohw3lsJpRNw0gVSqdMBq) | [Chico](https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n) | [KANTE](https://open.spotify.com/album/1y7Z6ramcSDFtYw9dMuOzT) | 3:04 | 2022-02-10 | 2022-03-05 |
 | [KARANTÄN](https://open.spotify.com/track/505kSNIUlxBUiDIgP2JFsz) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [KARANTÄN](https://open.spotify.com/album/5tpyOU7fsPLkSP0o9ST5Fj) | 2:24 | 2022-03-03 | 2022-03-25 |
@@ -204,6 +205,7 @@
 | [MINA TANKAR](https://open.spotify.com/track/2UblHQxIaW0XmUNm0KRwCV) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [MINA TANKAR](https://open.spotify.com/album/1PRXEqj088BPBKE9p2Ym2p) | 3:13 | 2022-01-06 | 2022-02-18 |
 | [Mitt i prick](https://open.spotify.com/track/1fOAy8tUHchc6OulnLBzlE) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [Mitt i prick](https://open.spotify.com/album/3U1fzI8jAwSqoHwBjOf7ys) | 2:29 | 2021-12-16 |  |
 | [MODE](https://open.spotify.com/track/0RRhERcWUShqApDwqzkc3J) | [Fungz](https://open.spotify.com/artist/12mbpzyxvmv9X0hEascBqo) | [MODE](https://open.spotify.com/album/25tL1F0rn2MlyUUuHKBegZ) | 2:28 | 2022-02-17 | 2022-03-11 |
+| [More Life](https://open.spotify.com/track/5ApubzVtuXojrL0L0J6BVe) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [More Life](https://open.spotify.com/album/6KEpKIo4JGPJT16K6TnUVq) | 2:30 | 2022-05-11 |  |
 | [More Life](https://open.spotify.com/track/4ooWpPQjvjX2fjNrs2WqmI) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [More Life](https://open.spotify.com/album/3FqhbCgN7Tc3vZePJRMbrj) | 2:39 | 2022-04-07 | 2022-05-06 |
 | [MUSIK ELLER METALL](https://open.spotify.com/track/5vQk0ckwdC5VldGJvt2LlO) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [MUSIK ELLER METALL](https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS) | 3:20 | 2022-02-25 |  |
 | [NANANA](https://open.spotify.com/track/2fVeR3EDIfgd7Z5WIhv4UB) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO) | [NANANA](https://open.spotify.com/album/3y6HYazrlBj2jA7xBq1CZU) | 2:57 | 2021-12-16 | 2022-01-14 |
@@ -303,7 +305,7 @@
 | [Unika](https://open.spotify.com/track/41rrroAlXa1YNTsgTIIaKN) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Modo Banja](https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Unika](https://open.spotify.com/album/2s3cn1M8aB87jPMQWA1Q9J) | 2:45 | 2022-04-07 |  |
 | [V12](https://open.spotify.com/track/6jpdmZj65fT9jX9izk2B6n) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Sista spåret](https://open.spotify.com/album/0lLwGxUaltYfowzEzvNnEd) | 2:48 | 2022-03-25 |  |
 | [Vacay](https://open.spotify.com/track/1K5ADmHBpsaSdwBJHY6RGL) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [NEW DRILLA IN TOWN](https://open.spotify.com/album/5DCR0bCZzBrvP9vWSuoCr3) | 2:05 | 2021-12-16 | 2022-01-28 |
-| [Vacker](https://open.spotify.com/track/0lIUJSC8eyYXwCbf9chmNY) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:29 | 2022-04-28 |  |
+| [Vacker](https://open.spotify.com/track/0lIUJSC8eyYXwCbf9chmNY) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:29 | 2022-04-28 | 2022-05-12 |
 | [Vant Mig](https://open.spotify.com/track/3cJA0GAQorbqIIZcOU5iNi) | [Karim Alger](https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW) | [KARIMO](https://open.spotify.com/album/6dmKNqyiMgp26yJ3EIyuvq) | 2:33 | 2022-01-20 | 2022-03-05 |
 | [VCFlow](https://open.spotify.com/track/00rbTsnO3TzW6nOa1Ka9Od) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [VCFlow](https://open.spotify.com/album/1NZqbv9DLeea5t7gQCXP2q) | 3:02 | 2022-01-25 | 2022-03-25 |
 | [VEM E BIANCA \(feat\. Cherrie\)](https://open.spotify.com/track/73zv4De4MX9XLLqSkNfbFZ) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 3:05 | 2022-05-05 |  |

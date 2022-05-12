@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 353320,
       "name": "Always",
       "url": "https://open.spotify.com/track/0kish3Tobj6Wq0we74343q"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 211066,
       "name": "Animal Instinct",
       "url": "https://open.spotify.com/track/6aNIlLxN1xMNi5XH4Di6NP"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 240440,
       "name": "Back To Black",
       "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 299760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 187293,
       "name": "I'll Be There for You (Theme from \"Friends')",
       "url": "https://open.spotify.com/track/1lfjTOtTRUDkzcmahA4lcs"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Ironic - 2015 Remaster",
       "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
@@ -1015,10 +1015,28 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 149880,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+    },
+    {
+      "album": {
+        "name": "Leave a Light On",
+        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185863,
+      "name": "Leave a Light On",
+      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
     },
     {
       "album": {
@@ -1055,6 +1073,24 @@
       "duration_ms": 191026,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG"
+    },
+    {
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252866,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
     },
     {
       "album": {
@@ -1231,7 +1267,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 213266,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
@@ -1249,7 +1285,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 272946,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
@@ -1271,6 +1307,24 @@
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"
+    },
+    {
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
       "album": {
@@ -1303,7 +1357,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 212173,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/1F43XlPBiwAUUIhrUGzylO"
@@ -1487,7 +1541,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 281613,
       "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
       "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
@@ -1599,7 +1653,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 201373,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
@@ -1797,7 +1851,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 202133,
       "name": "Sweet About Me",
       "url": "https://open.spotify.com/track/5wznxkB792LjSRdbZ1J1zo"
@@ -2057,7 +2111,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 200173,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp"
@@ -2075,7 +2129,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 312360,
       "name": "Wind Of Change",
       "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
@@ -2129,7 +2183,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"

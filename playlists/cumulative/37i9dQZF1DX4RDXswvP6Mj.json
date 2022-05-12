@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 174933,
       "name": "Black Mamba",
       "url": "https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "BOP BOP!",
       "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 187251,
       "name": "Breath",
       "url": "https://open.spotify.com/track/2tVkFxyePqB0o4Y4SYKV0Q"
@@ -1158,6 +1158,24 @@
     },
     {
       "album": {
+        "name": "FLASHBACK",
+        "url": "https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212687,
+      "name": "BUT YOU",
+      "url": "https://open.spotify.com/track/5cDNWykOJC5d9uFRKmqyND"
+    },
+    {
+      "album": {
         "name": "Butter",
         "url": "https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD"
       },
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 181600,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 196670,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 201613,
       "name": "Drive",
       "url": "https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP"
@@ -2473,7 +2491,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 215586,
       "name": "Favorite (Vampire)",
       "url": "https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY"
@@ -2819,7 +2837,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 209106,
       "name": "Giant",
       "url": "https://open.spotify.com/track/3p8low79RQzkixDlIngBTT"
@@ -2891,7 +2909,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 207053,
       "name": "Glitch Mode",
       "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
@@ -2983,6 +3001,24 @@
       "duration_ms": 198280,
       "name": "Golden (feat. XIAOJUN of WayV, pH-1)",
       "url": "https://open.spotify.com/track/3PAdRq6wr8XloSVdCneAMH"
+    },
+    {
+      "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
     },
     {
       "album": {
@@ -3159,7 +3195,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
@@ -3665,7 +3701,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 172358,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
@@ -3889,7 +3925,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy"
@@ -4087,7 +4123,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 215613,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc"
@@ -4289,7 +4325,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 177845,
       "name": "Lover Like Me",
       "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
@@ -4379,7 +4415,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 179706,
       "name": "Make it",
       "url": "https://open.spotify.com/track/4EF941VzqGMLFnYlXH03hG"
@@ -4531,7 +4567,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 212480,
       "name": "Mixtape : OH",
       "url": "https://open.spotify.com/track/3lYHmpjkm95UbQz76S47xZ"
@@ -4779,7 +4815,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 212807,
       "name": "NAKKA (with IU)",
       "url": "https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr"
@@ -5625,7 +5661,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 186760,
       "name": "Ready to love",
       "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
@@ -5643,7 +5679,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 217293,
       "name": "Ready to ride",
       "url": "https://open.spotify.com/track/1qwdkBDK21HGFYpQPAnMyJ"
@@ -6021,7 +6057,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 238143,
       "name": "Savage",
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
@@ -6039,7 +6075,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 201960,
       "name": "Save",
       "url": "https://open.spotify.com/track/0nW8KgIzm3Q6DCLHUtEHDh"
@@ -6191,7 +6227,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 234893,
       "name": "Siesta",
       "url": "https://open.spotify.com/track/0Lv8nIY6aeJfERMDVTBKHb"
@@ -6249,7 +6285,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 173413,
       "name": "SMILEY(Feat. BIBI)",
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
@@ -7111,7 +7147,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 212990,
       "name": "TT",
       "url": "https://open.spotify.com/track/4ACeAntCpOxVeIcivmqG4S"
@@ -7219,7 +7255,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 202035,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/3nbTkTlILrKTGpjF6X8pEN"
@@ -7717,7 +7753,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 237685,
       "name": "YES or YES",
       "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"

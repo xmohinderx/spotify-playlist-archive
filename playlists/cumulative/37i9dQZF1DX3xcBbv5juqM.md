@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2001! Cover: Destiny's Child
 
-102 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/2GHm1y4c22CAUSNVFazqSt)
+103 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/2GHm1y4c22CAUSNVFazqSt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Eternity](https://open.spotify.com/track/7zw9OxtVotLfxlfavSADXQ) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Eternity/The Road To Mandalay](https://open.spotify.com/album/0ZQsKRAgVec6TBwMdOfPOK) | 5:02 | 2020-11-04 |  |
 | [Fallin'](https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:30 | 2020-11-04 |  |
 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 | 2020-11-04 |  |
-| [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 | 2020-11-04 | 2022-05-11 |
+| [Get Ur Freak On](https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:31 | 2020-11-04 |  |
 | [Goodnight Moon](https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul) | [Shivaree](https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 4:03 | 2020-11-04 |  |
 | [Hero](https://open.spotify.com/track/1PAgmT6YqGhd6zT9kN9gIo) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/3DeHyfe2Da8xznvABSfIE5) | 4:24 | 2020-11-04 |  |
 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 | 2020-11-04 |  |
@@ -80,6 +80,7 @@
 | [Paid My Dues](https://open.spotify.com/track/37B4dZDMdzh1D7isPVF2df) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Pieces of A Dream](https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w) | 3:22 | 2020-11-04 |  |
 | [Play](https://open.spotify.com/track/7fFCnttacpotkyhTOxKv14) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 3:31 | 2020-11-04 |  |
 | [Point Of View \- Radio Edit](https://open.spotify.com/track/1bNl9932PbUOu7Zw1xe2fR) | [DB Boulevard](https://open.spotify.com/artist/17jVKTope5TIJoBQBTzaxj) | [Point Of View](https://open.spotify.com/album/4mFYdVAC1fUKLpbGRQAjwg) | 3:51 | 2020-11-04 |  |
+| [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 | 2020-11-04 |  |
 | [Romeo](https://open.spotify.com/track/2GRmo9dlcUUDPfhbQmeE2Q) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/7C6fuwe0uiJLbhKGWJViJx) | 3:37 | 2020-11-04 |  |
 | [Sing](https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Invisible Band](https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ) | 3:48 | 2020-11-04 |  |
 | [Sky](https://open.spotify.com/track/7zlkYAQdYPIwagUwO7Dyah) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Hear My Cry](https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff) | 4:26 | 2020-11-04 |  |
@@ -95,7 +96,7 @@
 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 | 2020-11-04 |  |
 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 | 2020-11-04 |  |
 | [There You'll Be](https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [There You'll Be](https://open.spotify.com/album/2hUHsuJ6XAS240vxAXnlb5) | 3:42 | 2020-11-04 |  |
-| [This I Promise You](https://open.spotify.com/track/2Dp2LRrY71XIfLe3co2Qnh) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 4:43 | 2020-11-04 |  |
+| [This I Promise You](https://open.spotify.com/track/2Dp2LRrY71XIfLe3co2Qnh) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 4:43 | 2020-11-04 | 2022-05-12 |
 | [Ti Prendo E Ti Porto Via](https://open.spotify.com/track/7MrSVP5njYVEAHVWgcxEho) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Stupido Hotel \(Remastered 2017\)](https://open.spotify.com/album/2Tu9xNeUqunaHIaUs4DwUJ) | 4:09 | 2020-11-04 |  |
 | [Tre Parole](https://open.spotify.com/track/3fFzwItCBsslMUGtjz1idG) | [Valeria Rossi](https://open.spotify.com/artist/36Fhq0ntaX1lpr6aNxMOpr) | [Ricordatevi Dei Fiori](https://open.spotify.com/album/7ihrWc2lUt3omDbZ8H0lIg) | 3:42 | 2020-11-04 |  |
 | [Turn Off The Light](https://open.spotify.com/track/6P8pMrMxdkUtW7Ze6Zx2l1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly!](https://open.spotify.com/album/1Tm4dxG0SLeX7VgeHZO9Ix) | 4:36 | 2020-11-04 |  |
@@ -103,7 +104,7 @@
 | [Viva El Amor! \- Radio Edit](https://open.spotify.com/track/45i6itWO2gCFDkSQ1sSAim) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Television](https://open.spotify.com/album/7hWTCPQdbBHLSthL1nQ3Ti) | 3:46 | 2020-11-04 |  |
 | [Vivre La Vie](https://open.spotify.com/track/6kBG3Gclv11BVnYJdYrzF4) | [Kelly Joyce](https://open.spotify.com/artist/1XZG7tYc722j7l1KWKPs7F) | [Kelly Joyce](https://open.spotify.com/album/06xYZCZzyqu3Nm0tjxdbsd) | 4:02 | 2020-11-04 |  |
 | [What Took You So Long?](https://open.spotify.com/track/6WJtzSaXumGZ7pIa0z7QIP) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq) | [A Girl Like Me](https://open.spotify.com/album/5E6op11XOQa3ErVR4oLKss) | 4:01 | 2020-11-04 |  |
-| [What Would You Do?](https://open.spotify.com/track/2648dyCgcTFNkJZXgGlHPv) | [City High](https://open.spotify.com/artist/0LlPal5iJGcCWwZp8VefVs) | [20 \#1's: Modern Hip\-Hop](https://open.spotify.com/album/0RXtGv08trF7yklCuyPPcf) | 2:55 | 2020-11-04 |  |
+| [What Would You Do?](https://open.spotify.com/track/2648dyCgcTFNkJZXgGlHPv) | [City High](https://open.spotify.com/artist/0LlPal5iJGcCWwZp8VefVs) | [20 \#1's: Modern Hip\-Hop](https://open.spotify.com/album/0RXtGv08trF7yklCuyPPcf) | 2:55 | 2020-11-04 | 2022-05-12 |
 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2020-11-04 |  |
 | [Whole Again](https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Right Now](https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW) | 3:05 | 2020-11-04 |  |
 | [Www.mipiacitu](https://open.spotify.com/track/5eRYWTEkuixIKMskzsAC0S) | [Gazosa](https://open.spotify.com/artist/2eZKn9Mql6QzOhIR2rfGeu) | [www.mipiacitu](https://open.spotify.com/album/2JGIbrZazaZ3DVGxSelmgj) | 3:21 | 2020-11-04 |  |

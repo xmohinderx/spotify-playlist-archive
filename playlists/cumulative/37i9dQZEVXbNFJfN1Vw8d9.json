@@ -3810,6 +3810,28 @@
     },
     {
       "album": {
+        "name": "La Canci\u00f3n Que No Quiero Cantarte",
+        "url": "https://open.spotify.com/album/7zRCaRgmzwmtaFvI08nh4p"
+      },
+      "artists": [
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168933,
+      "name": "La Canci\u00f3n Que No Quiero Cantarte",
+      "url": "https://open.spotify.com/track/1BLWBkRUpDRTNxIjfhDlOn"
+    },
+    {
+      "album": {
         "name": "La Cartita",
         "url": "https://open.spotify.com/album/2NxNJQ5OLf9FEDlah5kBQz"
       },
@@ -8377,7 +8399,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"

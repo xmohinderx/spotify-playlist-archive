@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 271866,
       "name": "Avila And Tequila - 1998 - Remaster",
       "url": "https://open.spotify.com/track/4Cflzw9ndZOpVWZq0JS3o1"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 454520,
       "name": "Boy, What A Night - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/57abY9xX9SVdfjn0vydx0t"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 236240,
       "name": "Carvin' The Rock - Remastered",
       "url": "https://open.spotify.com/track/0nMCpAhJZRXtVn3CkVjPyE"
@@ -464,6 +464,24 @@
     },
     {
       "album": {
+        "name": "The Hardbop Grandpop",
+        "url": "https://open.spotify.com/album/4yC3YQ7yrNEzLM9fVvrc6F"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339333,
+      "name": "Diggin' On Dexter",
+      "url": "https://open.spotify.com/track/5HgNy1LzVCLbXEgHtcdsF5"
+    },
+    {
+      "album": {
         "name": "Hootin' 'N Tootin'",
         "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
       },
@@ -555,6 +573,42 @@
       "duration_ms": 168013,
       "name": "Escapade",
       "url": "https://open.spotify.com/track/3Cdi6dbEiH09TW4rJFAb4Z"
+    },
+    {
+      "album": {
+        "name": "'S Make It",
+        "url": "https://open.spotify.com/album/7tKo11GyBLe0Zbbi72pFFU"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223493,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/32MKpR61rfKGivn5K7V7wG"
+    },
+    {
+      "album": {
+        "name": "Farmers Market [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/3gMxHjtO7aPl8Wda845C6s"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347986,
+      "name": "Farmer's Market",
+      "url": "https://open.spotify.com/track/41BrY0gtLsNkcB4cPEjOQq"
     },
     {
       "album": {
@@ -959,7 +1013,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 434624,
       "name": "Locomotion - Remastered",
       "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
@@ -1003,6 +1057,24 @@
       "duration_ms": 164840,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/6UkKOXXYGcKMR9X9S3f7Qi"
+    },
+    {
+      "album": {
+        "name": "Rollin' With Leo (Remastered)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
+      },
+      "artists": [
+        {
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275613,
+      "name": "Mad Lad Returns - Remastered",
+      "url": "https://open.spotify.com/track/6npb3822TbhzUHr6KJliBZ"
     },
     {
       "album": {
@@ -1071,7 +1143,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 570720,
       "name": "Moanin' - Remastered",
       "url": "https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt"
@@ -1327,7 +1399,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 295680,
       "name": "Split Feelin's - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s"
@@ -1545,6 +1617,24 @@
       "duration_ms": 143800,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
+    },
+    {
+      "album": {
+        "name": "Soul Trombone",
+        "url": "https://open.spotify.com/album/5kiO8hm4uaD1mO9C8tyqar"
+      },
+      "artists": [
+        {
+          "name": "Curtis Fuller",
+          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "The Breeze And I",
+      "url": "https://open.spotify.com/track/4agP6oBL9KTqmbPuu6YoRP"
     },
     {
       "album": {
@@ -1915,6 +2005,28 @@
       "duration_ms": 147666,
       "name": "What A Little Moonlight Can Do - Remastered",
       "url": "https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj"
+    },
+    {
+      "album": {
+        "name": "That's The Way It Is",
+        "url": "https://open.spotify.com/album/1ZGTnCDhP08Jq4ArUhqaSJ"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        },
+        {
+          "name": "Ray Brown",
+          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271506,
+      "name": "Wheelin' And Dealin'",
+      "url": "https://open.spotify.com/track/57uQYzZCSVEGMkJbeAToQk"
     },
     {
       "album": {

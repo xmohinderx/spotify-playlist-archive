@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 213053,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 227583,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 221369,
       "name": "BETTER (with MINO)",
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 196666,
       "name": "BOY",
       "url": "https://open.spotify.com/track/18uXUUPFfj6XF4hsmp65gB"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 208853,
       "name": "CHEER UP",
       "url": "https://open.spotify.com/track/4CeE0LU1SkHshwHeMfPwqk"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 192133,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/45WEkgFSP5Af8Huepaj4P1"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 176546,
       "name": "Don't fight the feeling",
       "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 192735,
       "name": "Dream of You (with R3HAB)",
       "url": "https://open.spotify.com/track/5SEvxpu5ImOFOcXyeM8fbx"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 212869,
       "name": "Encore",
       "url": "https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw"
@@ -1479,6 +1479,24 @@
     {
       "album": {
         "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213885,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA"
+    },
+    {
+      "album": {
+        "name": "FANCY YOU",
         "url": "https://open.spotify.com/album/759BaVI4pjAh6l16xqm56V"
       },
       "artists": [
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 206866,
       "name": "Feel Special",
       "url": "https://open.spotify.com/track/2HtcPHFdo7eu4Ilbvb0BVI"
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 176532,
       "name": "Give Love",
       "url": "https://open.spotify.com/track/1nlKYpqe2qT1fwiXMr6ju3"
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 290095,
       "name": "How can I love the heartbreak, you`re the one I love",
       "url": "https://open.spotify.com/track/4FObSSNE4O4dgzD4iHFprW"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 211983,
       "name": "LET\u2019S NOT FALL IN LOVE",
       "url": "https://open.spotify.com/track/2TdhkLmxjvPy98HoWmo9i8"
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 258238,
       "name": "Love poem",
       "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 209648,
       "name": "LOVE SCENARIO",
       "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
@@ -2791,7 +2809,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 188161,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/0NaccQM71LPaoSS8EZ0KhW"
@@ -3173,7 +3191,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 196505,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/54s6sdPuMjVtdB5d5KFzTC"
@@ -4065,7 +4083,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 208240,
       "name": "What is Love",
       "url": "https://open.spotify.com/track/1IX47gefluXmKX4PrTBCRM"
@@ -4119,7 +4137,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 223546,
       "name": "Where Are We Now",
       "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
@@ -4137,7 +4155,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 206856,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
@@ -4275,7 +4293,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 237685,
       "name": "YES or YES",
       "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"
@@ -4495,7 +4513,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 187644,
       "name": "\uc6b0\ub9ac\uc9d1 My House",
       "url": "https://open.spotify.com/track/3nQ7liRYD6pXWAP0oVPtW2"

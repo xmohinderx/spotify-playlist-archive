@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > 'Chaand Baaliyan' and other popular Indie hits\. Cover: Anumita Nadesan
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,381 likes - 85 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,175 likes - 85 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

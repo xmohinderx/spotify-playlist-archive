@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 183114,
       "name": "avenue (+)",
       "url": "https://open.spotify.com/track/45ugex0jrWO033Gq2OoQx4"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 201320,
       "name": "Boom",
       "url": "https://open.spotify.com/track/7xgHy510SVkSgV1ZpzElW1"
@@ -205,10 +205,32 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 184673,
       "name": "Boxing Underwater (feat. Cailin Russo)",
       "url": "https://open.spotify.com/track/0CCvJ8682h023vVdJ4oYKp"
+    },
+    {
+      "album": {
+        "name": "Bring Home The Glory",
+        "url": "https://open.spotify.com/album/01L3l6bMt4wSX8fK3F9yKn"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Sara Skinner",
+          "url": "https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179216,
+      "name": "Bring Home The Glory",
+      "url": "https://open.spotify.com/track/4VgGx1cQlHB7Ls1Ukt0H7H"
     },
     {
       "album": {

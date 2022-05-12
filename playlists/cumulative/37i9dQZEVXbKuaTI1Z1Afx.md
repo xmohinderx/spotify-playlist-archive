@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-446 songs - 1 day 0 hr 29 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
+448 songs - 1 day 0 hr 35 min - [published](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [Highway Boys](https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Highway Boys](https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ) | 3:40 | 2022-04-19 | 2022-04-30 |
 | [HOME](https://open.spotify.com/track/08hYZJIjLZwUVDiMzzeu0q) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:54 | 2022-03-15 | 2022-04-07 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2021-12-27 | 2022-03-16 |
-| [Hug Me](https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Trey Parker](https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY) | [Despicable Me 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c) | 2:20 | 2022-04-06 |  |
+| [Huapango Amor Ranchero](https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND) | 3:19 | 2022-05-11 |  |
+| [Hug Me](https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Trey Parker](https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY) | [Despicable Me 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c) | 2:20 | 2022-04-06 | 2022-05-12 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-12-27 | 2022-02-03 |
 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-04-29 | 2022-05-02 |
 | [I Don't Wanna Go To Heaven](https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb) | 3:21 | 2022-02-11 | 2022-02-15 |
@@ -417,7 +418,8 @@
 | [up again](https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [up again](https://open.spotify.com/album/5a5ueckwVJ6n5CVIOeyMVU) | 2:48 | 2022-04-19 | 2022-04-25 |
 | [Vegas \(I Wanna Ride\)](https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5) | [Joseline Hernandez](https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn) | [Vegas \(I Wanna Ride\)](https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa) | 3:40 | 2022-05-05 |  |
 | [Vengeance](https://open.spotify.com/track/0qAktUtpfc635ytpHOuNJD) | [deprezz](https://open.spotify.com/artist/2YV6hV8dVnaav4JQb5dnfT) | [Vengeance](https://open.spotify.com/album/17128RKRyMUmKpbM6e9baA) | 3:03 | 2022-04-27 | 2022-04-29 |
-| [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [Boa Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 | 2022-05-06 |  |
+| [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [Boa Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 | 2022-05-06 | 2022-05-12 |
+| [VooDoo \- Original Mix](https://open.spotify.com/track/4unr5Fdon9ADjCW4irnRxf) | [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ), [BOA Hunxho](https://open.spotify.com/artist/0XGTd9W7aCCY7aqrprmdlL) | [VooDoo](https://open.spotify.com/album/1ImWN8VtzmAZcoYjc0dNtO) | 2:38 | 2022-05-11 |  |
 | [Vulture Island](https://open.spotify.com/track/7FfFdw6GlRT2cZ06uil4Y8) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Vulture Island](https://open.spotify.com/album/4SwOxtIysNbF8N4jCkQSGR) | 2:15 | 2022-03-29 | 2022-04-03 |
 | [WA DA DA](https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:03 | 2022-01-25 | 2022-02-20 |
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-04-26 | 2022-05-11 |

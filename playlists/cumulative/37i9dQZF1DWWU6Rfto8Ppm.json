@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 229746,
       "name": "Agresivo",
       "url": "https://open.spotify.com/track/2kGnzHH1Q6YaxjNylz68CM"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 189480,
       "name": "Ag\u00e1rrale el Pantal\u00f3n (feat. Zion & Lennox)",
       "url": "https://open.spotify.com/track/3Wd4Yl2TjjTxkvlJCHWvB9"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 209452,
       "name": "Algo Musical",
       "url": "https://open.spotify.com/track/4oYN44rloSqxabqrSgIani"
@@ -209,10 +209,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 218080,
       "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
+    },
+    {
+      "album": {
+        "name": "Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/3lrhLlw55mjyUCaO0FBYwu"
+      },
+      "artists": [
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/5DMTLrpmTZO8GLDZ5Je1yT"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131773,
+      "name": "Amor Con La Ropa",
+      "url": "https://open.spotify.com/track/2djANHWiGt7BP8kCrYOnbo"
     },
     {
       "album": {
@@ -505,7 +523,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 305280,
       "name": "Bandoleros",
       "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 178933,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0798D5Kod1iRzqIVaRlpZJ"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 288288,
       "name": "Descara",
       "url": "https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 169457,
       "name": "En La Disco Bailoteo",
       "url": "https://open.spotify.com/track/5JrcvfOt5mDZvrsrLtHazX"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 292120,
       "name": "Es Mejor Olvidarlo",
       "url": "https://open.spotify.com/track/5ZEh7PjppT52nuO7HA9eDI"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 271986,
       "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
       "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 151875,
       "name": "Latigazo",
       "url": "https://open.spotify.com/track/25cPUTGr9amjoO7cNrYFT0"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 219133,
       "name": "Let's Go To My Crib",
       "url": "https://open.spotify.com/track/4SarxFaP7ObsGVqqztIjTO"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 209934,
       "name": "Lo Que Pas\u00f3 Pas\u00f3 - Live",
       "url": "https://open.spotify.com/track/1XMflaah8kpeECqmqGwfe1"
@@ -2353,7 +2371,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 272822,
       "name": "Matador - Official Remix",
       "url": "https://open.spotify.com/track/27ALar3f8xkLfXOrKAzDkg"
@@ -2787,7 +2805,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 244662,
       "name": "Nada Va Pasar",
       "url": "https://open.spotify.com/track/1FTTvjvgX2Qd9ZJqo36m1C"
@@ -3223,7 +3241,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 218409,
       "name": "Pa Bajarte el Calentamiento",
       "url": "https://open.spotify.com/track/1pWAxwbITR6lG3kuwyWrGf"
@@ -3693,7 +3711,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 182621,
       "name": "Rompe - Live",
       "url": "https://open.spotify.com/track/55kYRn7VFOM5eZ6c4kkk4s"
@@ -4123,7 +4141,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 251600,
       "name": "Si te Vas - The Remix",
       "url": "https://open.spotify.com/track/4RSl0KvbJI4aDzV9bOKAtm"
@@ -4269,7 +4287,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 293010,
       "name": "S\u00e1cala (feat. Don Omar, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/0UJDACz30ouV0IbVA7oiY0"
@@ -4525,7 +4543,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "Tra Tra Tra (Remix)",
       "url": "https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU"
@@ -4645,7 +4663,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 165133,
       "name": "Tuya Soy",
       "url": "https://open.spotify.com/track/61BqBI1qfCqN0Am0asCWmx"

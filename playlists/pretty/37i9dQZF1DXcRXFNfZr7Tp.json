@@ -1,12 +1,12 @@
 {
   "description": "Current favorites and exciting new music. Cover: Alesso, Zara Larrson",
-  "num_followers": 2422884,
+  "num_followers": 2423872,
   "original_name": "just hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgxMjY1MCwwMDAwMDU0YjAwMDAwMTgwOTdiNGNlZjUwMDAwMDE4MDcyZGY2NTNh",
+  "snapshot_id": "MTY1MjI5NjQ1NywwMDAwMDU0YzAwMDAwMTgwYjQ4YjFkMzQwMDAwMDE4MDcyZGY2NTNh",
   "tracks": [
     {
       "added_at": "2022-05-06 04:50:50",
@@ -35,22 +35,6 @@
     {
       "added_at": "2022-05-06 04:50:50",
       "album": {
-        "name": "Maybe You\u2019re The Problem",
-        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Maybe You\u2019re The Problem",
-      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
-    },
-    {
-      "added_at": "2022-05-06 04:50:50",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -63,6 +47,26 @@
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
+    },
+    {
+      "added_at": "2022-05-06 04:50:50",
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2022-05-06 04:50:50",
@@ -103,6 +107,22 @@
     {
       "added_at": "2022-05-06 04:50:50",
       "album": {
+        "name": "Maybe You\u2019re The Problem",
+        "url": "https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Maybe You\u2019re The Problem",
+      "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "added_at": "2022-05-06 04:50:50",
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
       },
@@ -135,26 +155,6 @@
     {
       "added_at": "2022-05-06 04:50:50",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
-    },
-    {
-      "added_at": "2022-05-06 04:50:50",
-      "album": {
         "name": "UP",
         "url": "https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy"
       },
@@ -171,6 +171,26 @@
       "duration_ms": 148944,
       "name": "UP",
       "url": "https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2"
+    },
+    {
+      "added_at": "2022-05-06 04:50:50",
+      "album": {
+        "name": "Where Did You Go?",
+        "url": "https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go?",
+      "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
     },
     {
       "added_at": "2022-05-06 04:50:50",
@@ -227,6 +247,26 @@
     {
       "added_at": "2022-05-06 04:50:50",
       "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2022-05-06 04:50:50",
+      "album": {
         "name": "Something to Someone",
         "url": "https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI"
       },
@@ -239,26 +279,6 @@
       "duration_ms": 198106,
       "name": "Something to Someone",
       "url": "https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X"
-    },
-    {
-      "added_at": "2022-05-06 04:50:50",
-      "album": {
-        "name": "Where Did You Go?",
-        "url": "https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go?",
-      "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
     },
     {
       "added_at": "2022-05-06 04:50:50",
@@ -331,26 +351,6 @@
     {
       "added_at": "2022-05-06 04:50:50",
       "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
-    },
-    {
-      "added_at": "2022-05-06 04:50:50",
-      "album": {
         "name": "Anyone For You (Tiger Lily)",
         "url": "https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j"
       },
@@ -395,6 +395,30 @@
       "duration_ms": 173942,
       "name": "RIP, Love",
       "url": "https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo"
+    },
+    {
+      "added_at": "2022-05-06 04:50:50",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
       "added_at": "2022-05-06 04:50:50",
@@ -467,30 +491,6 @@
       "duration_ms": 193322,
       "name": "Honest (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
-    },
-    {
-      "added_at": "2022-05-06 04:50:50",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
       "added_at": "2022-05-06 04:50:50",
@@ -1203,26 +1203,6 @@
       "duration_ms": 191364,
       "name": "@ my worst",
       "url": "https://open.spotify.com/track/0mHGftgYtmpH4y17T3VZ2E"
-    },
-    {
-      "added_at": "2022-05-06 04:50:50",
-      "album": {
-        "name": "up at night (feat. justin bieber)",
-        "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "up at night (feat. justin bieber)",
-      "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
     },
     {
       "added_at": "2022-05-06 04:50:50",

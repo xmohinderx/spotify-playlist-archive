@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 311852,
       "name": "Abracadabra - Remastered 2017",
       "url": "https://open.spotify.com/track/58bTw40is1J6A67eejMdLn"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 280864,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/3XdKW1f4nItZqqXpQwEcaO"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-01",
+      "date_removed": null,
       "duration_ms": 184480,
       "name": "Break My Stride",
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 215653,
       "name": "Celebration - Single Version",
       "url": "https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 238147,
       "name": "Dance Hall Days (Re-Recorded)",
       "url": "https://open.spotify.com/track/41OIyMJsSFMjdjZjL4tHEx"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 260946,
       "name": "Don't Leave Me This Way (with Sarah Jane Morris)",
       "url": "https://open.spotify.com/track/26g8bCaVhcv0KkBi5SlEg7"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 350866,
       "name": "Freeway Of Love",
       "url": "https://open.spotify.com/track/2PaPCYHvRvaPw87wScut40"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/7EX5tg9qYMoDZJeKCTMGBy"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 211840,
       "name": "I Want A New Drug",
       "url": "https://open.spotify.com/track/0mZNKyrUmsrlDRoYHWsyMu"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 233440,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/0e1VL3FZmkgjKQ7wNmIHNc"
@@ -1209,6 +1209,24 @@
       "duration_ms": 252333,
       "name": "Miss You Much",
       "url": "https://open.spotify.com/track/4r5VaK6H1bq0cTGPMTN97Z"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y"
     },
     {
       "album": {
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 221933,
       "name": "Physical",
       "url": "https://open.spotify.com/track/7aeW3CrQAyQTk4PqwIYCVU"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 236160,
       "name": "Relax - 7\" Mix",
       "url": "https://open.spotify.com/track/3MIVb9pn5cDSdK7yNDsMU1"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 330933,
       "name": "Rhythm Nation",
       "url": "https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 231173,
       "name": "Straight Up",
       "url": "https://open.spotify.com/track/4h3cnCK9KnbrTfhQoTkuEj"
@@ -1531,6 +1549,24 @@
       "duration_ms": 264946,
       "name": "Sussudio",
       "url": "https://open.spotify.com/track/07zkNvtcmPOFlMOXbma13k"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354520,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51"
     },
     {
       "album": {
@@ -1725,7 +1761,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 211026,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/2vX5WL7s6UdeQyweZEx7PP"
@@ -1801,7 +1837,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 245360,
       "name": "West End Girls - 2001 Remaster",
       "url": "https://open.spotify.com/track/00AdHZ94Jb7oVdHVJmJsIU"
@@ -1891,7 +1927,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
@@ -1909,7 +1945,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 214573,
       "name": "White Wedding, Pt. 1 - Edit",
       "url": "https://open.spotify.com/track/5g5mL6j77KPniAoUUSEo7D"

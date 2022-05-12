@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "6 un caxxo di rave",
       "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 279026,
       "name": "A me me piace 'a nutella",
       "url": "https://open.spotify.com/track/05y020OeX507djVOEC4x6X"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 148500,
       "name": "ANSIA NO",
       "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 156650,
       "name": "BABYDOLL (Speed)",
       "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
@@ -275,6 +275,54 @@
       "duration_ms": 165810,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/1r7UK61NfEp0dPscWav94I"
+    },
+    {
+      "album": {
+        "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
+        "url": "https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172953,
+      "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
+      "url": "https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP"
+    },
+    {
+      "album": {
+        "name": "BERLINO",
+        "url": "https://open.spotify.com/album/1IWVfMVnvbc03I0ysXymvB"
+      },
+      "artists": [
+        {
+          "name": "Fuera",
+          "url": "https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173855,
+      "name": "BERLINO",
+      "url": "https://open.spotify.com/track/0JqflUI3x0BOe8HoQzVl4a"
     },
     {
       "album": {
@@ -347,7 +395,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 205458,
       "name": "Calling My Phone",
       "url": "https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx"
@@ -383,7 +431,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Cattolica",
       "url": "https://open.spotify.com/track/7JS2L1mswwPlfalEdVBDsg"
@@ -401,7 +449,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 231723,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/1MJ5f5EYBC92ADD6xcz7nb"
@@ -466,6 +514,32 @@
     },
     {
       "album": {
+        "name": "Condorello",
+        "url": "https://open.spotify.com/album/7edY9tRSgJwXkmSBfkAMm5"
+      },
+      "artists": [
+        {
+          "name": "Pippo Sowlo",
+          "url": "https://open.spotify.com/artist/3v9LE0hCyNihlWKS5ymtCT"
+        },
+        {
+          "name": "Mortecattiva",
+          "url": "https://open.spotify.com/artist/37XQV0SgKeKyOxKO0FxLds"
+        },
+        {
+          "name": "Christian De Seeker",
+          "url": "https://open.spotify.com/artist/4lN320IDljNQRUiRpnMbJ2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251608,
+      "name": "Condorello",
+      "url": "https://open.spotify.com/track/7C8vwVTV1tsK6HZjoUelaz"
+    },
+    {
+      "album": {
         "name": "Cool for the Summer [Sped Up (Nightcore)]",
         "url": "https://open.spotify.com/album/410MZofhiv240ybaWhUxpc"
       },
@@ -488,6 +562,28 @@
     },
     {
       "album": {
+        "name": "(DANZ\u018f)",
+        "url": "https://open.spotify.com/album/1MKEDN3U63XSARXtsdiHk9"
+      },
+      "artists": [
+        {
+          "name": "(DANZ\u018f)",
+          "url": "https://open.spotify.com/artist/5inX1qKJCmipN79C5EbVP2"
+        },
+        {
+          "name": "Hello Mimmi",
+          "url": "https://open.spotify.com/artist/3IifAvWIrEkwQlXr5e97w7"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127764,
+      "name": "COTTON FIOC",
+      "url": "https://open.spotify.com/track/4HkaLhimGBstqRM9FcCAXw"
+    },
+    {
+      "album": {
         "name": "Ctrl+C, Ctrl+V",
         "url": "https://open.spotify.com/album/5G403YDVW0RlXWJxSIDtla"
       },
@@ -499,7 +595,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 161481,
       "name": "Ctrl+C, Ctrl+V",
       "url": "https://open.spotify.com/track/41cgwtr1Zpz8L46oBjp0Pa"
@@ -517,7 +613,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 146523,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk"
@@ -553,7 +649,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 100517,
       "name": "DIVE IN!",
       "url": "https://open.spotify.com/track/2I8EDARURigigunOxtg7oi"
@@ -575,7 +671,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 138823,
       "name": "Donna criminale",
       "url": "https://open.spotify.com/track/204uL8oYWauMhDbujw7wrW"
@@ -641,7 +737,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 236384,
       "name": "FUNERAL PARTY (feat. Cosmo & Pop X)",
       "url": "https://open.spotify.com/track/1eMfykfketml0h2jCPTGwI"
@@ -677,7 +773,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 186190,
       "name": "GIOVANNA HARDCORE",
       "url": "https://open.spotify.com/track/1Pq4fhffDugNRDMBNj0F5q"
@@ -717,6 +813,24 @@
       "duration_ms": 139440,
       "name": "HDMI",
       "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+    },
+    {
+      "album": {
+        "name": "heavensleep",
+        "url": "https://open.spotify.com/album/3Rn7Lgvtgm3BIUpQBdFn0w"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120147,
+      "name": "heavensleep",
+      "url": "https://open.spotify.com/track/7jqiOS9oxnSpCooYGHlNbR"
     },
     {
       "album": {
@@ -793,7 +907,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 254374,
       "name": "La canzone del pane",
       "url": "https://open.spotify.com/track/4zIDZLcm7EkydNvVvpU0lj"
@@ -811,7 +925,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 233503,
       "name": "Lasciami Qui",
       "url": "https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr"
@@ -865,7 +979,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
@@ -883,7 +997,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
@@ -1007,6 +1121,24 @@
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+    },
+    {
+      "album": {
+        "name": "Sundown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/24C5FnyPPhzU7EXEl0Ob5A"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195105,
+      "name": "Mr. Saxobeat",
+      "url": "https://open.spotify.com/track/2BTSWfjaTMYWCxhmVRhqLK"
     },
     {
       "album": {
@@ -1137,7 +1269,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 200176,
       "name": "Panino del McDonald's",
       "url": "https://open.spotify.com/track/2D2jmpApyIrHu6ogyLzbVP"
@@ -1199,7 +1331,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 180690,
       "name": "Play with Fire (feat. Yacht Money)",
       "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
@@ -1239,7 +1371,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 197213,
       "name": "Pop porno",
       "url": "https://open.spotify.com/track/2CWfkhYbrrwGhuT4ABAjPO"
@@ -1359,7 +1491,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 194160,
       "name": "Say It Right - Sped Up Remix",
       "url": "https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy"
@@ -1385,7 +1517,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 99748,
       "name": "Scary Garry",
       "url": "https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D"
@@ -1468,6 +1600,28 @@
     },
     {
       "album": {
+        "name": "soft spot",
+        "url": "https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219529,
+      "name": "soft spot",
+      "url": "https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk"
+    },
+    {
+      "album": {
         "name": "4L",
         "url": "https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann"
       },
@@ -1497,7 +1651,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
@@ -1574,6 +1728,24 @@
     },
     {
       "album": {
+        "name": "Sumikko Gurashi 2.0",
+        "url": "https://open.spotify.com/album/6UWPDKMxhkCZIDEfvAsddg"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91966,
+      "name": "Sumikko Gurashi 2.0",
+      "url": "https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB"
+    },
+    {
+      "album": {
         "name": "TauroTape3",
         "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
       },
@@ -1589,7 +1761,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 156992,
       "name": "Suono Roma Dimensione (feat. Tutti Fenomeni)",
       "url": "https://open.spotify.com/track/3H8lIh5uPWPm0HjXVcET21"
@@ -1633,7 +1805,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 147386,
       "name": "Todo Va A Cambiar",
       "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
@@ -1681,7 +1853,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 201901,
       "name": "TOO EASY",
       "url": "https://open.spotify.com/track/1Q2UkGQukIQeUnG93LD3WM"
@@ -1699,7 +1871,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 211666,
       "name": "Toto et Ninetta",
       "url": "https://open.spotify.com/track/4DMSNaJcSirQN31BSf2BeZ"
@@ -1757,7 +1929,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 122033,
       "name": "Una Ragazza Un Giorno Mi Ha Spezzato Il Cuore",
       "url": "https://open.spotify.com/track/5xu6k82qkQVxbN85H1aCOk"
@@ -1775,7 +1947,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 178787,
       "name": "ur just horny",
       "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
@@ -1829,7 +2001,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"

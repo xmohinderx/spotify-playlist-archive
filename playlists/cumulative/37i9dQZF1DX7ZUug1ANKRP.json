@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Prezioso, Blasterjaxx, LIZOT",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Nathan Dawe, Ella Henderson",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -310,6 +310,28 @@
     },
     {
       "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/13lAXu2PY7A5AQ71LdnsSX"
+      },
+      "artists": [
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        },
+        {
+          "name": "Sary",
+          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156014,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/3shD8tyqoWeW3iw3g8dHcd"
+    },
+    {
+      "album": {
         "name": "Bring It Back To Me",
         "url": "https://open.spotify.com/album/1MFcZzdhLf5W9gxjLhtECA"
       },
@@ -590,6 +612,32 @@
     },
     {
       "album": {
+        "name": "Darkroom",
+        "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/08gwzwooUMBPa51lLiD9Ub"
+        },
+        {
+          "name": "Marmy",
+          "url": "https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156674,
+      "name": "Darkroom",
+      "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
+    },
+    {
+      "album": {
         "name": "Dead Or Alive",
         "url": "https://open.spotify.com/album/1iELNSuo6I77ZYPo8BJl3o"
       },
@@ -821,7 +869,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
@@ -1373,7 +1421,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 173810,
       "name": "Like a Rocket",
       "url": "https://open.spotify.com/track/5WpTP0vT3yZxgytj6gSvva"
@@ -1763,6 +1811,28 @@
       "duration_ms": 147310,
       "name": "OMG",
       "url": "https://open.spotify.com/track/56ZD9IVl8khgd6GVDN0ic4"
+    },
+    {
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190217,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
     },
     {
       "album": {
@@ -2409,7 +2479,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 140428,
       "name": "Switch off for Tonight",
       "url": "https://open.spotify.com/track/0IXD5BYMPq9WfveGTIxdBA"

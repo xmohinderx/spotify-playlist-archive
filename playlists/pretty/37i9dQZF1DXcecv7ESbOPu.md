@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,972 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,970 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 92 | [Bento Box](https://open.spotify.com/track/1tUdhJYNkVlIeeww7m33DJ) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Bento Box](https://open.spotify.com/album/09etgwlYWXr867yvh6AwEi) | 3:23 |
 | 93 | [Jump This Train](https://open.spotify.com/track/33jw2GFtEmZ4AOU7xVaCa0) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Jump This Train](https://open.spotify.com/album/63dD81EQ530DjyiS7Szd5f) | 4:01 |
 | 94 | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [I Was Made For Lovin' You \(feat\. Nile Rodgers & House Gospel Choir\)](https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B) | 2:37 |
-| 95 | [Streets Of Gold \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/25lRM5gnPkkOt92N0TZHfX) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Streets Of Gold \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/51XPTXJbsdDqduN0OhUJwo) | 3:00 |
+| 95 | [Streets Of Gold](https://open.spotify.com/track/25lRM5gnPkkOt92N0TZHfX) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Streets Of Gold](https://open.spotify.com/album/51XPTXJbsdDqduN0OhUJwo) | 3:00 |
 | 96 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 |
 | 97 | [Dive](https://open.spotify.com/track/5jtoaV5EaF0lBJ6lHv29Gk) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Dive](https://open.spotify.com/album/0SxN5b4NiWiaBKpCbc01Ed) | 3:46 |
 | 98 | [STHLM ekar utan dig](https://open.spotify.com/track/1aXachWpn2AXsMa7HwX63n) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [STHLM ekar utan dig](https://open.spotify.com/album/5l5LS6Gg9ZiqCE8kalJad8) | 3:35 |

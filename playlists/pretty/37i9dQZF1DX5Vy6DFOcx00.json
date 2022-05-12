@@ -1,12 +1,12 @@
 {
   "description": "new look, new vibe, same playlist you love. ",
-  "num_followers": 1619327,
+  "num_followers": 1624498,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjIwMTA3NCwwMDAwMDJmNjAwMDAwMTgwYWVkYmIwMzUwMDAwMDE4MDk1YzQyOWI0",
+  "snapshot_id": "MTY1MjI4MDcwNSwwMDAwMDJmNzAwMDAwMTgwYjM5YWMxNjEwMDAwMDE4MDk1YzQyOWI0",
   "tracks": [
     {
       "added_at": "2022-04-20 22:27:58",
@@ -23,6 +23,22 @@
       "duration_ms": 208706,
       "name": "House of Memories",
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+    },
+    {
+      "added_at": "2022-05-04 12:15:42",
+      "album": {
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -77,22 +93,6 @@
       "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
     },
     {
-      "added_at": "2022-05-04 12:15:42",
-      "album": {
-        "name": "Good Looking",
-        "url": "https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ"
-    },
-    {
       "added_at": "2022-05-10 15:15:41",
       "album": {
         "name": "Tek It (I Watch the Moon)",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp"
     },
     {
+      "added_at": "2022-05-03 03:42:48",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
       "added_at": "2022-04-20 06:33:10",
       "album": {
         "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
@@ -187,22 +203,6 @@
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
-      "added_at": "2022-05-03 03:42:48",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -273,20 +273,20 @@
       "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
     },
     {
-      "added_at": "2022-04-20 06:33:10",
+      "added_at": "2022-05-03 03:42:48",
       "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/0cev5DkOdS8wk0aRoac6Fh"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
         }
       ],
-      "duration_ms": 195320,
-      "name": "NEW MAGIC WAND",
-      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+      "duration_ms": 180742,
+      "name": "World's Smallest Violin",
+      "url": "https://open.spotify.com/track/6R8L4HZxaVSFED7rLePbK3"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv"
     },
     {
-      "added_at": "2022-05-03 03:42:48",
-      "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/0cev5DkOdS8wk0aRoac6Fh"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 180742,
-      "name": "World's Smallest Violin",
-      "url": "https://open.spotify.com/track/6R8L4HZxaVSFED7rLePbK3"
-    },
-    {
       "added_at": "2022-05-04 20:19:44",
       "album": {
         "name": "MEAN!",
@@ -353,22 +337,6 @@
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
-      "added_at": "2022-05-04 11:45:42",
-      "album": {
-        "name": "Why Am I Like This?",
-        "url": "https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 212713,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
-    },
-    {
       "added_at": "2022-04-21 23:17:18",
       "album": {
         "name": "RAVE",
@@ -383,6 +351,54 @@
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2022-05-09 14:28:56",
+      "album": {
+        "name": "#doyalike",
+        "url": "https://open.spotify.com/album/2FaqtBPWVG6owEHbV16oDN"
+      },
+      "artists": [
+        {
+          "name": "kazeWIW",
+          "url": "https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "#doyalike",
+      "url": "https://open.spotify.com/track/0axgY4AiWx0spzdQb1gSjg"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "added_at": "2022-05-04 11:45:42",
+      "album": {
+        "name": "Why Am I Like This?",
+        "url": "https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 212713,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
     },
     {
       "added_at": "2022-04-21 23:17:18",
@@ -447,38 +463,6 @@
       "duration_ms": 186840,
       "name": "Backstabber",
       "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
-    },
-    {
-      "added_at": "2022-05-09 14:28:56",
-      "album": {
-        "name": "#doyalike",
-        "url": "https://open.spotify.com/album/2FaqtBPWVG6owEHbV16oDN"
-      },
-      "artists": [
-        {
-          "name": "kazeWIW",
-          "url": "https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "#doyalike",
-      "url": "https://open.spotify.com/track/0axgY4AiWx0spzdQb1gSjg"
-    },
-    {
-      "added_at": "2022-05-09 00:00:00",
-      "album": {
-        "name": "The Heart Part 5",
-        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 332362,
-      "name": "The Heart Part 5",
-      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -611,6 +595,22 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 279316,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
-    },
-    {
-      "added_at": "2022-05-09 13:47:30",
-      "album": {
-        "name": "Live In Concert / All of Me",
-        "url": "https://open.spotify.com/album/1q44CVjvRCttddLPmGgZtG"
-      },
-      "artists": [
-        {
-          "name": "Engelbert Humperdinck",
-          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "A Man Without Love",
-      "url": "https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj"
     },
     {
       "added_at": "2022-05-03 03:42:48",
@@ -655,6 +639,26 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2022-05-06 19:21:01",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 111640,
+      "name": "Stargirl Interlude",
+      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
     },
     {
       "added_at": "2022-04-28 21:27:45",
@@ -705,6 +709,22 @@
       "url": "https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD"
     },
     {
+      "added_at": "2022-04-27 22:28:13",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
       "added_at": "2022-04-20 06:33:10",
       "album": {
         "name": "Birthday Cake",
@@ -719,22 +739,6 @@
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "Chase Atlantic",
-        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     },
     {
       "added_at": "2022-05-09 13:47:30",
@@ -769,40 +773,104 @@
       "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
-      "added_at": "2022-05-06 19:21:01",
+      "added_at": "2022-05-11 14:51:45",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
       },
       "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 137299,
+      "name": "Sw\u00ebrved It",
+      "url": "https://open.spotify.com/track/0bihOtJtBxl6r9DUJorNUh"
+    },
+    {
+      "added_at": "2022-05-11 14:51:45",
+      "album": {
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 136572,
+      "name": "vent",
+      "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
+    },
+    {
+      "added_at": "2022-05-11 14:51:45",
+      "album": {
+        "name": "prolly my spookiest beat",
+        "url": "https://open.spotify.com/album/56HClvGjV3yEhiNb2gy4Ba"
+      },
+      "artists": [
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "duration_ms": 119409,
+      "name": "prolly my spookiest beat",
+      "url": "https://open.spotify.com/track/7bzZzwCiidSodNRK1Deyf2"
+    },
+    {
+      "added_at": "2022-05-09 00:00:00",
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
+    {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "Hyperion",
+        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
+      },
+      "artists": [
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 111640,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj"
+      "duration_ms": 202093,
+      "name": "Lost in the Fire (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
     },
     {
-      "added_at": "2022-04-27 22:28:13",
+      "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+        "name": "Fall in Love with You.",
+        "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -841,40 +909,20 @@
       "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
     },
     {
-      "added_at": "2022-04-20 06:33:10",
+      "added_at": "2022-05-09 13:47:30",
       "album": {
-        "name": "Fall in Love with You.",
-        "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
+        "name": "Live In Concert / All of Me",
+        "url": "https://open.spotify.com/album/1q44CVjvRCttddLPmGgZtG"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Engelbert Humperdinck",
+          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Fall in Love with You.",
-      "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "Hyperion",
-        "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
-      },
-      "artists": [
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 202093,
-      "name": "Lost in the Fire (feat. The Weeknd)",
-      "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
+      "duration_ms": 205640,
+      "name": "A Man Without Love",
+      "url": "https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -999,22 +1047,6 @@
       "duration_ms": 180589,
       "name": "Cate\u2019s Brother",
       "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
-    },
-    {
-      "added_at": "2022-05-03 03:42:48",
-      "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2022-05-05 15:26:09",
@@ -1211,22 +1243,6 @@
       "duration_ms": 191912,
       "name": "Cool for the Summer - Sped Up (Nightcore)",
       "url": "https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67"
-    },
-    {
-      "added_at": "2022-04-25 22:19:02",
-      "album": {
-        "name": "Like Yay",
-        "url": "https://open.spotify.com/album/76PpFLRcZtGmV97QajJPx8"
-      },
-      "artists": [
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Him",
-      "url": "https://open.spotify.com/track/7w4lnEj8VwQ0xNpl1M3I0G"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "Who Really Cares",
-        "url": "https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Cigarettes out the Window",
-      "url": "https://open.spotify.com/track/5GKekzF1YcR2DQd9c3DI8y"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
         "name": "Love Me Back (Fayahh Beat)",
         "url": "https://open.spotify.com/album/3chA2MGRAajYTezCtS7f5s"
       },
@@ -1663,22 +1663,6 @@
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 153999,
-      "name": "Ginseng Strip 2002",
-      "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -1839,26 +1823,6 @@
     {
       "added_at": "2022-04-20 06:33:10",
       "album": {
-        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
-        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Drop It Like It's Hot",
-      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
         "name": "channel ORANGE (Explicit Version)",
         "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
       },
@@ -1931,22 +1895,6 @@
       "duration_ms": 318591,
       "name": "Eventually",
       "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
-    },
-    {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 238320,
-      "name": "oui",
-      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
     },
     {
       "added_at": "2022-04-20 06:33:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 841,847 likes - 96 songs - 5 hr 13 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 842,524 likes - 96 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 86 | [Mean to Me](https://open.spotify.com/track/4b3DcCqrtubEnebf4lV7JD) | [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Mean to Me](https://open.spotify.com/album/4vHkc4ynf5dGAk8HBWPp7q) | 3:34 |
 | 87 | [By Your Side](https://open.spotify.com/track/0QjS0WbZfhprbeISN7IFvc) | [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1) | [By Your Side](https://open.spotify.com/album/3c1kkNHPEs2ZrGzJJHAKCA) | 2:26 |
 | 88 | [What's in My Head](https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [What's in My Head](https://open.spotify.com/album/3qgnUK6AeZsrwwgGTyMACQ) | 3:16 |
-| 89 | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
+| 89 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
 | 90 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 |
 | 91 | [No One Even Knows My Name](https://open.spotify.com/track/5JoLi0mrYKRxY3hYFhPP7F) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [No One Even Knows My Name](https://open.spotify.com/album/0YIRQTM1wNAl6rdPfswQGt) | 3:41 |
 | 92 | [Without You](https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Sacha Vee](https://open.spotify.com/artist/0T39WRpIykwV2LJhmO6mj8) | [Without You](https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh) | 3:47 |

@@ -843,7 +843,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 198611,
       "name": "Buzzed - Icona Pop Remix",
       "url": "https://open.spotify.com/track/7lENrbtJWv8GOvVlU1gcDP"
@@ -1675,7 +1675,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 219811,
       "name": "Dopamine (feat. Eyelar) [Anna Lunoe Remix]",
       "url": "https://open.spotify.com/track/0kvWDUXayeCLy32HtAvoOt"
@@ -2197,7 +2197,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 140059,
       "name": "Freaky Deaky - R3HAB Remix",
       "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
@@ -3261,7 +3261,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 181875,
       "name": "i hope ur miserable until ur dead - Jauz Remix",
       "url": "https://open.spotify.com/track/3EthUkTHbAoZn5wxuoSfnL"
@@ -3993,7 +3993,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 161348,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/4JTewNRFNQ0bRxirg1gqMk"
@@ -6247,6 +6247,32 @@
       "duration_ms": 207125,
       "name": "Sweet Talker - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/3q87fWV1hjeZqr2i4v2moY"
+    },
+    {
+      "album": {
+        "name": "Sweetest Pie (David Guetta Remixes)",
+        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Sweetest Pie - David Guetta Dance Remix",
+      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
     },
     {
       "album": {

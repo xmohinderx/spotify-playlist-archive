@@ -1396,6 +1396,28 @@
     },
     {
       "album": {
+        "name": "good grief",
+        "url": "https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "bargaining (with Verzache)",
+      "url": "https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga"
+    },
+    {
+      "album": {
         "name": "bastard",
         "url": "https://open.spotify.com/album/2jRWZxXbVHdP0JTBQgIzSV"
       },
@@ -4436,6 +4458,24 @@
     },
     {
       "album": {
+        "name": "Ester",
+        "url": "https://open.spotify.com/album/4fRVpyAnoJZy0n1VQjAlNo"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185465,
+      "name": "Ester",
+      "url": "https://open.spotify.com/track/4JGv7vVgZvj5eTh4lecMBS"
+    },
+    {
+      "album": {
         "name": "Everybody\u2019s Gonna Love Somebody",
         "url": "https://open.spotify.com/album/7zSB2OByjA4ivSOOtxhf4z"
       },
@@ -5045,7 +5085,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 151428,
       "name": "FIT PIC",
       "url": "https://open.spotify.com/track/44xDuPMVZaGlsBCcBSsfCF"
@@ -6111,6 +6151,24 @@
       "duration_ms": 161201,
       "name": "Goodmood",
       "url": "https://open.spotify.com/track/4arIMs14aBJkAfWe2alHUQ"
+    },
+    {
+      "album": {
+        "name": "GOOFY!",
+        "url": "https://open.spotify.com/album/751ZLh6i3eBwqJdbVNKekz"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota",
+          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "GOOFY!",
+      "url": "https://open.spotify.com/track/2ddmgkH269Ur0rIN8oqctt"
     },
     {
       "album": {
@@ -7337,7 +7395,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 146760,
       "name": "I Heard You Bought a Gun",
       "url": "https://open.spotify.com/track/4mjzA3I0QhNNA3WRMqHK5t"
@@ -7727,7 +7785,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 174692,
       "name": "ignorance is bliss",
       "url": "https://open.spotify.com/track/4nC2R5thxOEUfcEQ5a0q3B"

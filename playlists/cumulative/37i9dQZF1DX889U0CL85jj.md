@@ -4,7 +4,7 @@
 
 > Just chill...
 
-256 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+257 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Løb Stop Stå](https://open.spotify.com/track/3wyLILirr6oFIFw1vYuktv) | [Boom Clap Bachelors](https://open.spotify.com/artist/30A0dNl1aYj4oOaMJKQk6Q), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Mellem Dine Læber](https://open.spotify.com/album/6jdBXphE7GNaJbnM0bQEqH) | 4:48 | 2020-10-05 |  |
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2021-08-27 |  |
 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 | 2022-01-21 |  |
-| [Make You Feel](https://open.spotify.com/track/2aufjq2wqMFwGBunVLaxiE) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Make You Feel](https://open.spotify.com/album/79kIGfwT0BTsljM6eCBlff) | 4:52 | 2020-01-28 |  |
+| [Make You Feel](https://open.spotify.com/track/2aufjq2wqMFwGBunVLaxiE) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Make You Feel](https://open.spotify.com/album/79kIGfwT0BTsljM6eCBlff) | 4:52 | 2020-01-28 | 2022-05-12 |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-02 |  |
 | [Mean](https://open.spotify.com/track/7xrwlO7d0pINF403SwlqeK) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Mean](https://open.spotify.com/album/7kaexmU6w343tzO0lrutvS) | 3:45 | 2020-06-26 | 2022-01-22 |
 | [Montara](https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Montara](https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO) | 3:45 | 2020-04-17 | 2022-01-22 |
@@ -157,6 +157,7 @@
 | [Moonsong](https://open.spotify.com/track/4ZTUOWVfWaUKxnE0Z2Wb2h) | [Ben Elder](https://open.spotify.com/artist/7EPWKO1Mg0dPOiGwwmNnkP) | [Vitamin Energy](https://open.spotify.com/album/4xb03cWKW61X9sjkNMeJUS) | 1:45 | 2020-08-21 | 2022-01-22 |
 | [Movement](https://open.spotify.com/track/3myTDuQpybTyyOaqd4k1hH) | [Isaac Lewis](https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO) | [Movement](https://open.spotify.com/album/4xOuEcn6Az7hkjqhIRVeKm) | 2:51 | 2021-06-07 | 2022-01-22 |
 | [Muse](https://open.spotify.com/track/7mtYsNBYTDPa8Mscf166hg) | [Afro Nostalgia](https://open.spotify.com/artist/7yOMgA7bsjT5JY93SsFRrJ) | [Muse \(You Inspire Me\)](https://open.spotify.com/album/0OtJgnqGIlNFgP3nFi32s5) | 2:03 | 2020-07-01 |  |
+| [My Friend](https://open.spotify.com/track/1HaiuKlLZqB1J1od7sqGhc) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 5:27 | 2022-05-11 |  |
 | [My Mind Is a Maze](https://open.spotify.com/track/2P4qoMmSqElFcI7GYaPLwf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Dumb Daze](https://open.spotify.com/album/1XhSLcdqiYIsjMjc0zPsUa) | 2:26 | 2020-05-29 |  |
 | [My Sunny Day \- Kina Remix](https://open.spotify.com/track/17uhetjXsCctreur8sxfqo) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [My Sunny Day \(Kina Remix\)](https://open.spotify.com/album/4GKIrekHWizVNtsyHFeWgV) | 1:56 | 2022-03-25 |  |
 | [Même Langue \(feat\. MUNYA\)](https://open.spotify.com/track/1cbzgAaPgE3iL3diqC2zzh) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Early Hours](https://open.spotify.com/album/5L3Q2FMRE1dPkprkX7Tbx4) | 5:04 | 2020-05-22 | 2022-01-22 |

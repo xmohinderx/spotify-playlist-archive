@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: CLARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,202 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,203 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-162 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
+164 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Autopsy](https://open.spotify.com/track/4zotA5C9wM08d4vlXuioqb) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Identity \(Deluxe Edition\)](https://open.spotify.com/album/1LuX04eXLkZjPhgShQ6JNe) | 3:48 | 2021-12-27 |  |
 | [Back to Life \- from "Bumblebee"](https://open.spotify.com/track/16geeCnXrbiomV1IZ8Kudc) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Back to Life \(from "Bumblebee"\)](https://open.spotify.com/album/3sSEnG2RZGnZlTFwJwxPy4) | 3:53 | 2021-12-27 |  |
 | [Bad Girl](https://open.spotify.com/track/3n1HsYVwX6qMvihf5uZDKs) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bad Girl](https://open.spotify.com/album/5TIbUyoncSx0LKnnJXgfc5) | 3:06 | 2021-12-27 |  |
+| [Barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2022-05-11 |  |
 | [Beg](https://open.spotify.com/track/2YXEabNsLoihw7kBtiQpSa) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Beg](https://open.spotify.com/album/2b89LTGiZ9okXDOyRHjR4M) | 3:03 | 2021-12-27 |  |
 | [Believed](https://open.spotify.com/track/6gEC3iDuOlcHatGCCcvpO6) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:49 | 2021-12-27 |  |
 | [Better](https://open.spotify.com/track/7mu0nb8PR5mpquEbwbMe6j) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:11 | 2021-12-27 |  |
@@ -82,6 +83,7 @@
 | [imagine](https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 2:44 | 2021-12-27 |  |
 | [Imperfections](https://open.spotify.com/track/2d6wvZdvJ0bGJ4Olfm1lsp) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:59 | 2021-12-27 |  |
 | [In Case You Don't Live Forever](https://open.spotify.com/track/4Svpc4QRvDW0J34AE30S9c) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:48 | 2021-12-27 |  |
+| [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-05-11 |  |
 | [Inside Out \(feat\. Griff\)](https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Inside Out \(feat\. Griff\)](https://open.spotify.com/album/4eAf9fHtOj0mVTSV3cB2km) | 3:06 | 2021-12-27 |  |
 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 | 2021-12-27 |  |
 | [Invisible Things](https://open.spotify.com/track/1ShHhJlzaLuoZbJ3aP4z0m) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:17 | 2021-12-27 |  |

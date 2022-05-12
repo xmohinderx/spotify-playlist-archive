@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 223762,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/3q4PyKrOXN7TR1JZmdHXzK"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 245666,
       "name": "Deep in a Dream",
       "url": "https://open.spotify.com/track/0QR4BgqJvmtqQH7OoTQWIJ"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 267266,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 233426,
       "name": "Everything I Own",
       "url": "https://open.spotify.com/track/1ZgEpCLk5sQcwMSpIpGfiQ"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 170743,
       "name": "Handcuffs",
       "url": "https://open.spotify.com/track/3Hjdsmx31RWfuDivCbhU90"
@@ -2103,7 +2103,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 273706,
       "name": "I Turn to You",
       "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
@@ -2219,6 +2219,28 @@
       "duration_ms": 263813,
       "name": "I'll Remember (Theme from the Motion Picture With Honors)",
       "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/37qXQpbCmtNUX99XY39Ay7"
+      },
+      "artists": [
+        {
+          "name": "Candelion",
+          "url": "https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG"
+        },
+        {
+          "name": "Cody Francis",
+          "url": "https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202794,
+      "name": "I'm Dreaming Of You",
+      "url": "https://open.spotify.com/track/5bZGtll3p5dE9dgGWsGPSG"
     },
     {
       "album": {
@@ -2633,7 +2655,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 195706,
       "name": "Li'l Darlin",
       "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
@@ -2687,7 +2709,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 264493,
       "name": "Lost In A Blue Note",
       "url": "https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB"
@@ -2709,6 +2731,24 @@
       "duration_ms": 212320,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
+    },
+    {
+      "album": {
+        "name": "Love You For It All",
+        "url": "https://open.spotify.com/album/3i5FlT7BtZZHUIODyYJznY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Gunnarsson",
+          "url": "https://open.spotify.com/artist/3zpsX4Vt8EL5JmRlqiLcmr"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200761,
+      "name": "Love You For It All",
+      "url": "https://open.spotify.com/track/0DaSrvoUmjMCcppS38f87J"
     },
     {
       "album": {
@@ -2831,7 +2871,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 198427,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4x6WqZyGxsdqbWmJhaoPwE"
@@ -3069,6 +3109,24 @@
       "duration_ms": 261399,
       "name": "Not Today - From \"Me Before You\" Soundtrack",
       "url": "https://open.spotify.com/track/3EJPT32ZJdZkml81KqHrO5"
+    },
+    {
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/7sTuh30QQXqIZggwFc7ikE"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/0fSrMPwErHXvwzcsFZvVXH"
     },
     {
       "album": {
@@ -3347,7 +3405,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 244106,
       "name": "Realize",
       "url": "https://open.spotify.com/track/6Vi6gx8IMRXORPx8fPd2YJ"
@@ -4059,7 +4117,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
@@ -4225,7 +4283,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 218360,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
@@ -4247,6 +4305,28 @@
       "duration_ms": 193111,
       "name": "The Book of Love - EP Version",
       "url": "https://open.spotify.com/track/4HcSK64Cy7JJ5gv1Txzhzo"
+    },
+    {
+      "album": {
+        "name": "The Few Things (With Charlotte Lawrence)",
+        "url": "https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211567,
+      "name": "The Few Things (With Charlotte Lawrence)",
+      "url": "https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB"
     },
     {
       "album": {
@@ -4380,6 +4460,24 @@
     },
     {
       "album": {
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
+    },
+    {
+      "album": {
         "name": "This City",
         "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
       },
@@ -4449,7 +4547,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 204173,
       "name": "True",
       "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
@@ -4893,7 +4991,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 163720,
       "name": "Your Heart Is As Black As Night",
       "url": "https://open.spotify.com/track/4lO5Pi6rjI5P2CWVEVKb0e"

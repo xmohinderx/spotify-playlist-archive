@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > You and jazz are the center of this universe\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,554 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,673 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 83 | [Clinckin](https://open.spotify.com/track/0c7FDsu6DZO3OHeiwmVhYm) | [Krista Marina](https://open.spotify.com/artist/7gh5SnyMRtWO5mzAThI4AB) | [Clinckin](https://open.spotify.com/album/6DaBng99Hobur4aVaaCF1K) | 3:04 |
 | 84 | [chrome heart](https://open.spotify.com/track/7EYvDUBpNnTVkJxT1GxtIc) | [Tray Nova](https://open.spotify.com/artist/1pznsDt09PdZmZAMjHSp2D) | [chrome heart](https://open.spotify.com/album/3f6CUelnKbs3XpWuQym73h) | 2:56 |
 | 85 | [Doesn't Matter Why \- edbl Remix](https://open.spotify.com/track/61jIDpnlLZShauKUkm6ujA) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Doesn't Matter Why \(edbl Remix\)](https://open.spotify.com/album/4V3rvR3cH3MJzVGOEIVaVY) | 3:25 |
-| 86 | [Home](https://open.spotify.com/track/6zxurTaIpnxtpMQeb5gvua) | [Mia LJ](https://open.spotify.com/artist/6pDxZqoS1BAtgXbKaUGLSt), [Banah Winn](https://open.spotify.com/artist/2nNhVAGVply0DWSw3tQcn2), [Jaedon Alvira](https://open.spotify.com/artist/6lUuPtoiXEl3xI0g0P6nej) | [Home](https://open.spotify.com/album/0Y6AXld0XCPUsfJNE3GqJq) | 3:26 |
+| 86 | [Home](https://open.spotify.com/track/6zxurTaIpnxtpMQeb5gvua) | [Mia LJ](https://open.spotify.com/artist/6pDxZqoS1BAtgXbKaUGLSt) | [Home](https://open.spotify.com/album/0Y6AXld0XCPUsfJNE3GqJq) | 3:26 |
 | 87 | [The Night](https://open.spotify.com/track/6Pi2UMOtnJJqEUD3Jdalyu) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [The Night](https://open.spotify.com/album/0VO3UbmFTG70b27lk5N9p0) | 3:24 |
 | 88 | [Hybrid](https://open.spotify.com/track/6zxpIfvQumUZatd79TlI2q) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Matthew Progress](https://open.spotify.com/artist/68BrcwaCZg1OQGSPEBIucW), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Tabula Rasa](https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL) | 2:53 |
 | 89 | [Wouldn't Even Notice](https://open.spotify.com/track/2IKICTRcYfmS9ZW7LsbTwK) | [Edmund Paquin](https://open.spotify.com/artist/1sj2E6vznD7CD6tbImjcOh) | [Wouldn't Even Notice](https://open.spotify.com/album/4CXhrvfA2cho9cnbhQ5faD) | 3:25 |

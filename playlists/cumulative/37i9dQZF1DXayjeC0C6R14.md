@@ -4,7 +4,7 @@
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-58 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/1QlwOh03L4MBJMzQoV65dG)
+59 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/1QlwOh03L4MBJMzQoV65dG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,15 +34,16 @@
 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 | 2021-11-26 | 2022-05-11 |
 | [Llamame, Si Me Necesitas](https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:29 | 2021-11-26 | 2022-05-07 |
 | [Lo Pasado, Pasado](https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:21 | 2021-11-26 | 2022-05-08 |
-| [Locamente enamorado](https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Tal y cual](https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP) | 3:36 | 2021-11-26 | 2022-05-09 |
+| [Locamente enamorado](https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Tal y cual](https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP) | 3:36 | 2021-11-26 |  |
 | [Loco \(Tu Forma De Ser\)](https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 5:13 | 2021-11-26 |  |
 | [Lupita](https://open.spotify.com/track/2LGgcycTOrbMQ43pEJy8Xh) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Pito Perez](https://open.spotify.com/album/6oqejsCHRGasHg4adH98C4) | 4:01 | 2021-11-26 |  |
 | [Luz De Dia](https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:28 | 2021-11-26 |  |
+| [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 | 2021-11-26 |  |
 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 | 2021-11-26 |  |
 | [Me Vale Madre](https://open.spotify.com/track/6qjpfkxi5fXete4TUSlzT5) | [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu), [Paco Barajas](https://open.spotify.com/artist/0LEsBBRblfUrcVxBNGHvej) | [Me Vale Madre](https://open.spotify.com/album/4cPc6MBWLAp8vPP8s761LU) | 3:37 | 2021-11-26 |  |
 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 | 2021-11-26 |  |
 | [No Te Apartes de Mí](https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico 5](https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky) | 3:18 | 2021-11-26 |  |
-| [Noches de Tu Piel](https://open.spotify.com/track/2YJV5BX5npoh8FjwNmMbiP) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Rock En Espanol \- Lo Mejor De La Castañeda](https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA) | 5:11 | 2021-11-26 |  |
+| [Noches de Tu Piel](https://open.spotify.com/track/2YJV5BX5npoh8FjwNmMbiP) | [La Castañeda](https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q) | [Rock En Espanol \- Lo Mejor De La Castañeda](https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA) | 5:11 | 2021-11-26 | 2022-05-12 |
 | [Nubes](https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Silencio](https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl) | 4:34 | 2021-11-26 |  |
 | [Quereme Así](https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Chanchos Amigos](https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY) | 4:22 | 2021-11-26 |  |
 | [Qué Rico](https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Arepa 3000](https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN) | 3:59 | 2021-11-26 |  |
@@ -63,7 +64,7 @@
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2021-11-26 |  |
 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 | 2021-11-26 |  |
 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Vivir Así Es Morir de Amor](https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g) | 3:40 | 2021-11-26 |  |
-| [Viviré para Ti](https://open.spotify.com/track/2urjF7QhprjmNRK2aqLnxE) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:27 | 2021-11-26 |  |
+| [Viviré para Ti](https://open.spotify.com/track/2urjF7QhprjmNRK2aqLnxE) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:27 | 2021-11-26 | 2022-05-12 |
 | [Vivo \- Pastel \- En Vivo](https://open.spotify.com/track/55DqQoupm2ZZqqeVdzDik4) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Pastel \(En Vivo\)](https://open.spotify.com/album/08eN1GFr5VWVFcPEJL9TOu) | 5:11 | 2021-11-26 |  |
 | [Vos Sabes \- Versión Remasterizada \(Live\)](https://open.spotify.com/track/4IHHTe4seeKTDTFNPhH36E) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Chau](https://open.spotify.com/album/0Ur41qLF2tKpKF2rWTajNB) | 3:15 | 2021-11-26 | 2022-04-30 |
 

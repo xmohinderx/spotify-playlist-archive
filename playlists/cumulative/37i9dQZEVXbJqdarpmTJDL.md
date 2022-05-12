@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-691 songs - 1 day 13 hr 51 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+692 songs - 1 day 13 hr 53 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Gagarin](https://open.spotify.com/track/5gz9B1DrDGgwrU8PKn4NoX) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV) | [To Paidi Tou Dromou 2](https://open.spotify.com/album/1OyYx0iiu2erp8ptykpPDl) | 3:03 | 2022-01-18 | 2022-01-20 |
 | [Gangsta Party](https://open.spotify.com/track/4QFwY4j7vMLMH9K2igX7Km) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 5:04 | 2022-02-26 |  |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-14 |
+| [Geia Sou](https://open.spotify.com/track/6dpGIUTsj7yZGhrnhccX27) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Geia Sou](https://open.spotify.com/album/54GfyTFSUeGztQc7EoWEsm) | 2:28 | 2022-05-11 |  |
 | [Genius \(feat\. Lil Tjay & Swae Lee\)](https://open.spotify.com/track/0kNYrbMehFxp1eleTwUjkP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:28 | 2021-07-18 | 2021-07-19 |
 | [Gennima Thremma](https://open.spotify.com/track/40qQR2ELY3IcPyRwBj2YLE) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [GoldenChild](https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0) | [Made in Athens](https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0) | 3:49 | 2022-01-22 | 2022-02-06 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-02 |
@@ -615,7 +616,7 @@
 | [Texni Polemou](https://open.spotify.com/track/2kMV3BSPU5FkTDJ8pahuw5) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Asarkos](https://open.spotify.com/artist/7xcCzebc8y398BHJ5QdK1B), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Prometheus](https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W) | 3:50 | 2021-10-31 | 2021-11-06 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-09-26 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2021-08-21 |
-| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 |  |
+| [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-12 |
 | [The Kid \(Egglemon\)](https://open.spotify.com/track/0BJleoyJwNpcZquJ8IoVtN) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Prometheus](https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W) | 3:40 | 2021-10-31 | 2021-11-08 |
 | [The Town](https://open.spotify.com/track/2uKFLI80dpZWqU4AoFp4iC) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [GoldenChild](https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0) | [Made in Athens](https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0) | 2:47 | 2022-01-22 | 2022-01-27 |
 | [Thelei Tattoo](https://open.spotify.com/track/5H9XGo7LFHgTy0vbnOlwaf) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Rackattack](https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3) | 2:21 | 2021-05-21 | 2022-01-01 |

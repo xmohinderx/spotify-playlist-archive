@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,382 songs - 3 day 8 hr 40 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,383 songs - 3 day 8 hr 44 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Do I Do](https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2) | 5:03 | 2020-08-20 |  |
 | [Do Not Grill Inside \- Original Mix](https://open.spotify.com/track/0kbUD0WNZDKeObJrlgvzXr) | [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [Rêveries Éphémères](https://open.spotify.com/album/5H3DwYzlv34fAyGn5AEtk2) | 6:53 | 2021-04-03 | 2021-04-18 |
 | [Do This To Me](https://open.spotify.com/track/3SsDNoQIPbvi72S83zqLES) | [Love Level](https://open.spotify.com/artist/5rvUlI4cK6csRpgrOEeuRb) | [Love Level](https://open.spotify.com/album/4kICkffmL9wkUmIkKyuHit) | 3:50 | 2021-08-26 | 2021-09-11 |
+| [Do You Know What I Mean](https://open.spotify.com/track/25ESdAEdfA6fPM222g1Rxg) | [Sol Y Motion](https://open.spotify.com/artist/24AY9nmcbCmv0EHlXmE01o) | [Do You Know What I Mean](https://open.spotify.com/album/5yFbic3Mwt73OdJJKuQGF5) | 3:37 | 2022-05-11 |  |
 | [Does Anybody Really Know What Time It Is?](https://open.spotify.com/track/6Q6YqGj1Ku1CUGHWSFwSHY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:22 | 2021-07-11 |  |
 | [Doll Factory](https://open.spotify.com/track/7cXFncxJjkWKNHvtsYR0k3) | [Naïma Quartet](https://open.spotify.com/artist/6zCEghwVwgyVaE5ZoledHB) | [Zephyr](https://open.spotify.com/album/6H2CRXsBQjjEzjBe7PPseE) | 6:04 | 2021-04-03 | 2021-04-18 |
 | [Don't Blame Me](https://open.spotify.com/track/27Msk0sPQVGjrwa1nR0iwm) | [Steven Beck](https://open.spotify.com/artist/1n3GNmKwV11Obm6XlVWGOj) | [Don't Blame Me](https://open.spotify.com/album/48HPLiLRzXaz9DdKj4RzJg) | 2:45 | 2020-06-17 | 2020-07-02 |

@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-369 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
+370 songs - 19 hr 0 min - [published](https://open.spotify.com/playlist/5mJo5qxZregHKepSTPltCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Daddy Cool](https://open.spotify.com/track/50rcUhHimavzT1qq6QrgMG) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Daddy Cool](https://open.spotify.com/album/7fXtm0TpLRIJhxobKDjxRp) | 2:34 | 2021-12-03 | 2022-04-23 |
 | [Dalida](https://open.spotify.com/track/5w3JDW2p3Bx088GBGe5Iwr) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [SHANGUY](https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs) | [Dalida](https://open.spotify.com/album/1f3NZDf7b8y7ZnuTOUuXiA) | 2:15 | 2020-11-27 | 2020-12-11 |
 | [Damage \- Joel Corry Remix](https://open.spotify.com/track/0J9Z555r7aAx5wB8ysDjhp) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Damage \(Joel Corry Remix\)](https://open.spotify.com/album/7dJSY5Rx8OLMuCyI3h4K3J) | 3:06 | 2021-02-19 | 2021-03-19 |
-| [Damn Phones](https://open.spotify.com/track/6EbInBDc8gbqxkyIZVGjVt) | [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Damn Phones](https://open.spotify.com/album/3K9eM56WbUzJba3QvRjafp) | 2:55 | 2022-05-06 |  |
+| [Damn Phones](https://open.spotify.com/track/6EbInBDc8gbqxkyIZVGjVt) | [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Damn Phones](https://open.spotify.com/album/3K9eM56WbUzJba3QvRjafp) | 2:55 | 2022-05-06 | 2022-05-12 |
 | [damn Right Pt\. 2](https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [damn Right Pt\. 2](https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4) | 3:06 | 2020-11-03\* | 2021-02-19 |
 | [Dance So Wildly](https://open.spotify.com/track/52bVGmhP1AVyHtGdPH8pHC) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [The Boy Of Many Colors](https://open.spotify.com/artist/6TH3slGLeQpUTS5Ng01bWx) | [Dance So Wildly](https://open.spotify.com/album/3pVd2Eoe5TlOp2F2koR1Vc) | 2:56 | 2021-11-26 | 2021-12-04 |
 | [Dancer](https://open.spotify.com/track/74RreraHJU2089tT7XZUqJ) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf), [Benji Reyes](https://open.spotify.com/artist/0vX0xXOZ9hKpXoN4dxkewV), [Truent](https://open.spotify.com/artist/7M2hEC2W99tY1JP5Sfwoyi) | [Dancer](https://open.spotify.com/album/702PBQrhtkg91SCA9gETp8) | 2:35 | 2021-11-02 | 2021-11-19 |
@@ -338,6 +338,7 @@
 | [Wait for Me \- Draze Remix](https://open.spotify.com/track/0gN2wiSY89c8I0UfWL7JWG) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [Draze](https://open.spotify.com/artist/64MGkui6smX2VENoeh6D3Q) | [Wait for Me \(Draze Remix\)](https://open.spotify.com/album/59Uc61PbOplBUTltZEZsRa) | 2:22 | 2021-07-24 | 2021-07-31 |
 | [Wasted in Miami](https://open.spotify.com/track/0LOmv5FWLpmpyXiar9kcWd) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC) | [Wasted in Miami](https://open.spotify.com/album/5HdrPennzIrLUK5liorptd) | 2:41 | 2021-07-10 | 2021-08-06 |
 | [Water Deep](https://open.spotify.com/track/6V3CPyl40bVxm45Ucq3Zvj) | [Jaxon Viaan](https://open.spotify.com/artist/1WkghEWbFrJRAVusuxCktp), [Ace Vision](https://open.spotify.com/artist/5UqAbPnqimZD1NdHzEuCjP) | [Water Deep](https://open.spotify.com/album/0Hnb0GIXphxVeMzNlqi5fI) | 2:23 | 2021-07-13 | 2021-07-23 |
+| [Waterfall](https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK) | 3:52 | 2022-05-11 |  |
 | [Way Back Home](https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Way Back Home](https://open.spotify.com/album/0uzdr4Q8ftYWdrAeej6M5F) | 2:55 | 2021-09-04 | 2022-02-04 |
 | [Way Back Home \(feat\. Kyra Mastro\)](https://open.spotify.com/track/5ZdAikqsPUJaPs9Ioqhlqp) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Way Back Home \(feat\. Kyra Mastro\)](https://open.spotify.com/album/5WzpEhm6xOfn6e47lFtpr2) | 2:46 | 2021-09-11 | 2021-11-25 |
 | [We Are One](https://open.spotify.com/track/3J3XaMhpQvDfJjCE38ow9x) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [We Are One](https://open.spotify.com/album/3lF2W0TPmVTLdB0SqzB4wE) | 3:48 | 2021-09-04 | 2021-11-12 |

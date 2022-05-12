@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 160918,
       "name": "Chillseekers",
       "url": "https://open.spotify.com/track/13roqX9Iow1epU7pMOYmgI"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 160800,
       "name": "Donum",
       "url": "https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 222590,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/1Bt0UAApn7Oxdam3lQs1vo"
@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC"
+      },
+      "artists": [
+        {
+          "name": "Mac Beez",
+          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W"
+    },
+    {
+      "album": {
         "name": "If I Were Your Woman",
         "url": "https://open.spotify.com/album/65jKABoB735a6wvF7mM6lu"
       },
@@ -467,7 +485,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 472468,
       "name": "If I Were Your Woman - Lovemental Mix",
       "url": "https://open.spotify.com/track/4egfQoyLOPBdLBYib5PvUS"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 232468,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/1BhhWCtAfUkBQTID7uLgQ6"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 210875,
       "name": "Lost Lake",
       "url": "https://open.spotify.com/track/0ZFrmkdubhTMeKduvJiLMW"
@@ -619,7 +637,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 164078,
       "name": "Love Me - GAMPER & DADONI Remix",
       "url": "https://open.spotify.com/track/3EbedhPLDbDyRbdI0UoOh6"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 186771,
       "name": "Love You Tonight",
       "url": "https://open.spotify.com/track/5BbMKYskxFCCp7kacFBdRw"
@@ -663,6 +681,24 @@
       "duration_ms": 187372,
       "name": "Make You Feel Like",
       "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
+    },
+    {
+      "album": {
+        "name": "Miracle In The Middle Of My Heart",
+        "url": "https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG"
+      },
+      "artists": [
+        {
+          "name": "BCX",
+          "url": "https://open.spotify.com/artist/0g8dyAYXMj72hIsb8ttK32"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174260,
+      "name": "Miracle In The Middle Of My Heart",
+      "url": "https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8"
     },
     {
       "album": {
@@ -735,6 +771,24 @@
       "duration_ms": 203021,
       "name": "My Love",
       "url": "https://open.spotify.com/track/0I2qVDrbiihbxLDL6Grm1G"
+    },
+    {
+      "album": {
+        "name": "Dazed And Amazed",
+        "url": "https://open.spotify.com/album/4GhOIDimNe1i5B8KCSnW3B"
+      },
+      "artists": [
+        {
+          "name": "Duckmaw",
+          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271306,
+      "name": "Nicaraguan Dream",
+      "url": "https://open.spotify.com/track/2NQ6In9ja7fBeBI9ADmMWB"
     },
     {
       "album": {
@@ -1020,6 +1074,28 @@
     },
     {
       "album": {
+        "name": "Fading Nights",
+        "url": "https://open.spotify.com/album/3HhFG3GjSPW9WbFUOmOsi6"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Anna Naklab",
+          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346500,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/7xDQyTnrkVycrr64PtDY1A"
+    },
+    {
+      "album": {
         "name": "The Blaze",
         "url": "https://open.spotify.com/album/0PIVIlqxF8ktvD54vVL4T4"
       },
@@ -1031,7 +1107,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 211639,
       "name": "The Blaze",
       "url": "https://open.spotify.com/track/090rxvqKAGpTryUgXOZgsj"
@@ -1161,7 +1237,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 259499,
       "name": "Tropicae",
       "url": "https://open.spotify.com/track/0rexhQFkP4bgMSLeSyZjpH"
@@ -1233,7 +1309,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 282567,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/1Qe42XGSUtjDgJJgCsYwkh"
@@ -1269,7 +1345,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 223769,
       "name": "Where's My Love - Tropical Mix",
       "url": "https://open.spotify.com/track/30XrUbnBpaX813Kvti3Hmn"

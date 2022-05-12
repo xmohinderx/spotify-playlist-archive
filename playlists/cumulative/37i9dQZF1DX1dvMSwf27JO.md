@@ -4,7 +4,7 @@
 
 > and why aren't you in uniform?
 
-121 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+122 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2021-08-05 |  |
 | [FREEZE](https://open.spotify.com/track/7cxJa9oiHeAwl4fkxVjBYC) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [FREEZE](https://open.spotify.com/album/5OrqVEvsnjvcFC6OvkcXnY) | 2:53 | 2021-12-03 | 2022-05-04 |
 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 | 2022-04-11 |  |
-| [Get Em High](https://open.spotify.com/track/5b2FFKC64kxqcfaFnIZxoM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:49 | 2022-04-15 |  |
+| [Get Em High](https://open.spotify.com/track/5b2FFKC64kxqcfaFnIZxoM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:49 | 2022-04-15 | 2022-05-12 |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Crest](https://open.spotify.com/album/3j75sKW2Lw9gUEhjNzPKn4) | 2:14 | 2022-03-21 | 2022-04-28 |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 | 2021-08-05 |  |
 | [God Save The Girl](https://open.spotify.com/track/5MeYG4DHfyGIpOKr9rMWWr) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Better Late Than Forever](https://open.spotify.com/album/2vnU9Lr07iRAOH6mgLZLpE) | 2:31 | 2022-04-29 |  |
@@ -73,6 +73,7 @@
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-08-05 | 2022-05-04 |
 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 | 2021-08-05 |  |
 | [Lemon](https://open.spotify.com/track/4PpuH4mxL0rD35mOWaLoKS) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 3:39 | 2022-02-28 |  |
+| [Lip Gloss](https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS) | [Lil Mama](https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c) | [Lip Gloss](https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5) | 3:39 | 2022-05-11 |  |
 | [Lose My Cool \(feat\. NLE Choppa\)](https://open.spotify.com/track/31UJNSt6tUbROThjfaAZfT) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Lose My Cool](https://open.spotify.com/album/0R8UQCG358KD07cX4zbOdB) | 3:10 | 2021-12-03 |  |
 | [Lovers Rock](https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/6WrxgVbi9Q96gV8tZMq3FH) | 3:33 | 2021-08-05 |  |
 | [Mardy Bum](https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:55 | 2022-02-05 |  |

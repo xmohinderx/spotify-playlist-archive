@@ -24,6 +24,24 @@
     },
     {
       "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301866,
+      "name": "All These Things That I've Done",
+      "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
+    },
+    {
+      "album": {
         "name": "All Things Must Pass (2020 Mix)",
         "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
       },
@@ -35,7 +53,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 226960,
       "name": "All Things Must Pass - 2020 Mix",
       "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
@@ -53,7 +71,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 218440,
       "name": "Alone Again Or",
       "url": "https://open.spotify.com/track/34dAKRy0pfwYylW7ivoOgy"
@@ -71,7 +89,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 318172,
       "name": "ANNIVERSARY",
       "url": "https://open.spotify.com/track/6w4goTlu5ciLeHNntz20La"
@@ -129,6 +147,24 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "album": {
+        "name": "His N Hers",
+        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244826,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
     },
     {
       "album": {
@@ -208,6 +244,42 @@
     },
     {
       "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193320,
+      "name": "Bigmouth Strikes Again - 2011 Remaster",
+      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
+    },
+    {
+      "album": {
+        "name": "Urban Hymns",
+        "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358426,
+      "name": "Bitter Sweet Symphony",
+      "url": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
+    },
+    {
+      "album": {
         "name": "Bitter Taste",
         "url": "https://open.spotify.com/album/5FW8hrEzkgu2MXf1Dy6yjF"
       },
@@ -219,7 +291,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 266759,
       "name": "Bitter Taste",
       "url": "https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY"
@@ -360,6 +432,24 @@
     },
     {
       "album": {
+        "name": "Don't Let the Devil Take Another Day",
+        "url": "https://open.spotify.com/album/4YHFVwZOkbJNOW7CubI9Dx"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Don't Let the Devil Take Another Day",
+      "url": "https://open.spotify.com/track/5ZZW0G7wq0bHKWtGcKQ5zk"
+    },
+    {
+      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -411,7 +501,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 236853,
       "name": "Elevator Boots - Single Edit",
       "url": "https://open.spotify.com/track/3jZ6v2I4mK5ugVYwht4Mfx"
@@ -451,6 +541,24 @@
       "duration_ms": 234753,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY"
+    },
+    {
+      "album": {
+        "name": "Flying On The Ground",
+        "url": "https://open.spotify.com/album/6vu8rFyLoTA5ne0riDGTT7"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193973,
+      "name": "Flying On The Ground",
+      "url": "https://open.spotify.com/track/0EaqNRuOrlsJsW23gG8i7v"
     },
     {
       "album": {
@@ -527,10 +635,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 273954,
       "name": "High and Lonesome",
       "url": "https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg"
+    },
+    {
+      "album": {
+        "name": "How Long Will I Love You 2021",
+        "url": "https://open.spotify.com/album/1pYfMETgxBratN6EBz4yVt"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "How Long Will I Love You 2021",
+      "url": "https://open.spotify.com/track/4YbcwXlpp49lLHf9fMChMc"
     },
     {
       "album": {
@@ -624,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Fat Pop",
+        "url": "https://open.spotify.com/album/2k16u3isATvgM4cQpvOPGz"
+      },
+      "artists": [
+        {
+          "name": "Paul Weller",
+          "url": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287573,
+      "name": "In Better Times",
+      "url": "https://open.spotify.com/track/6Qjaa8xn44u0WgRHhF8maL"
+    },
+    {
+      "album": {
         "name": "The Head On The Door",
         "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
       },
@@ -697,7 +841,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 226921,
       "name": "Karma Man",
       "url": "https://open.spotify.com/track/4uJkvfc2lgNMuCLfc7c3Uy"
@@ -1003,7 +1147,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 229297,
       "name": "Need a Little Love",
       "url": "https://open.spotify.com/track/6XNSmhOrXmuje5Ee6S5RMM"
@@ -1111,7 +1255,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU"
@@ -1248,6 +1392,60 @@
     },
     {
       "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
+    },
+    {
+      "album": {
+        "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
+      },
+      "artists": [
+        {
+          "name": "Happy Mondays",
+          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318506,
+      "name": "Step On - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG"
+    },
+    {
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419240,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa"
+    },
+    {
+      "album": {
         "name": "Sound Affects",
         "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
       },
@@ -1277,7 +1475,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 230893,
       "name": "The Buzz",
       "url": "https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc"
@@ -1299,6 +1497,64 @@
       "duration_ms": 193066,
       "name": "The Celtic Soul Brothers (More, Please, Thank You)",
       "url": "https://open.spotify.com/track/6K9wIZpz2D8xNt7jPURm54"
+    },
+    {
+      "album": {
+        "name": "Some Friendly",
+        "url": "https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "The Only One I Know",
+      "url": "https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9"
+    },
+    {
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+    },
+    {
+      "album": {
+        "name": "The Secret He Had Missed",
+        "url": "https://open.spotify.com/album/3JqpUkcAKLqzUEOEku3Brc"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        },
+        {
+          "name": "Julia Cumming",
+          "url": "https://open.spotify.com/artist/41erluW1g2lt3pt9abGYj5"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219226,
+      "name": "The Secret He Had Missed (feat. Julia Cumming)",
+      "url": "https://open.spotify.com/track/2fP6OxPKBWkCj2nmxli9Ca"
     },
     {
       "album": {
@@ -1335,7 +1591,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 170653,
       "name": "This Love Starved Heart of Mine (It's Killing Me)",
       "url": "https://open.spotify.com/track/32SqqH3of0MA2bwuy3C8tW"
@@ -1389,7 +1645,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 366277,
       "name": "Tryin' To Get To Heaven",
       "url": "https://open.spotify.com/track/6zklUM1HK1F0YebIT4K1zo"
@@ -1429,7 +1685,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
@@ -1465,10 +1721,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 248000,
       "name": "We're On Our Way Now",
       "url": "https://open.spotify.com/track/2ySHAi6CPwpGYdsomsezWg"
+    },
+    {
+      "album": {
+        "name": "Dee Gees / Hail Satin - Foo Fighters / Live",
+        "url": "https://open.spotify.com/album/50QMS2zosvUxhucf6zMRUy"
+      },
+      "artists": [
+        {
+          "name": "Dee Gees",
+          "url": "https://open.spotify.com/artist/0mCTPQ5oa1lbPvbw4kc0eX"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232746,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS"
     },
     {
       "album": {
@@ -1483,7 +1757,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 206449,
       "name": "You've Got A Habit Of Leaving - Radio Edit",
       "url": "https://open.spotify.com/track/3dEb9tm18t9qwNUoiR2fXY"

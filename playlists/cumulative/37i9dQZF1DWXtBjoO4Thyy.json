@@ -2496,6 +2496,40 @@
     },
     {
       "album": {
+        "name": "Quartets: Two",
+        "url": "https://open.spotify.com/album/3GGyrK58J25g4tbxOM7f9S"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        },
+        {
+          "name": "Warren Zielinski",
+          "url": "https://open.spotify.com/artist/1loplcQfx5Wsv5ksoqyj16"
+        },
+        {
+          "name": "Magdalena Filipczak",
+          "url": "https://open.spotify.com/artist/4jDVKLxIEB1SyaOStAocLw"
+        },
+        {
+          "name": "Meghan Cassidy",
+          "url": "https://open.spotify.com/artist/3SSsqU0Pf1rI460eNysz8Q"
+        },
+        {
+          "name": "Richard Harwood",
+          "url": "https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270900,
+      "name": "I. Sequence (Four)",
+      "url": "https://open.spotify.com/track/15Pb9zPDU8AIhvXVxBFuwr"
+    },
+    {
+      "album": {
         "name": "Edward Scissorhands",
         "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
       },
@@ -4783,40 +4817,6 @@
       "duration_ms": 235760,
       "name": "See Amid The Winter's Snow",
       "url": "https://open.spotify.com/track/53NjDgQr7c0LECahb4RnSV"
-    },
-    {
-      "album": {
-        "name": "Quartets: Two",
-        "url": "https://open.spotify.com/album/3GGyrK58J25g4tbxOM7f9S"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        },
-        {
-          "name": "Warren Zielinski",
-          "url": "https://open.spotify.com/artist/1loplcQfx5Wsv5ksoqyj16"
-        },
-        {
-          "name": "Magdalena Filipczak",
-          "url": "https://open.spotify.com/artist/4jDVKLxIEB1SyaOStAocLw"
-        },
-        {
-          "name": "Meghan Cassidy",
-          "url": "https://open.spotify.com/artist/3SSsqU0Pf1rI460eNysz8Q"
-        },
-        {
-          "name": "Richard Harwood",
-          "url": "https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9"
-        }
-      ],
-      "date_added": "2022-05-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270900,
-      "name": "Sequence (Four)",
-      "url": "https://open.spotify.com/track/15Pb9zPDU8AIhvXVxBFuwr"
     },
     {
       "album": {

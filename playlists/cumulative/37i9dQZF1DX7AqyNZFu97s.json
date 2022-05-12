@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Amie Blu",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Ray Laur\u00e9l",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 196919,
       "name": "Baby Teeth",
       "url": "https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8"
@@ -660,6 +660,24 @@
     },
     {
       "album": {
+        "name": "Better Without You",
+        "url": "https://open.spotify.com/album/7q0SZ9oNKIud0b9CXyaf1E"
+      },
+      "artists": [
+        {
+          "name": "KOKO",
+          "url": "https://open.spotify.com/artist/7spLPNSfl7XOyBemar1Cqn"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162202,
+      "name": "Better Without You",
+      "url": "https://open.spotify.com/track/0TQNXD4zGUvHba9LAR4dQT"
+    },
+    {
+      "album": {
         "name": "Between The Lines",
         "url": "https://open.spotify.com/album/4SGn2OkOQyeHI73obluwZv"
       },
@@ -711,6 +729,24 @@
       "duration_ms": 117473,
       "name": "blocked",
       "url": "https://open.spotify.com/track/24AthZW8c7jwI9E5fqwRBl"
+    },
+    {
+      "album": {
+        "name": "Blood Money",
+        "url": "https://open.spotify.com/album/0eiBDyD35crWZEu8GaPHr3"
+      },
+      "artists": [
+        {
+          "name": "The Lounge Society",
+          "url": "https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Blood Money",
+      "url": "https://open.spotify.com/track/0mtTpJWvLCICDbjshlMpX0"
     },
     {
       "album": {
@@ -881,6 +917,24 @@
       "duration_ms": 196500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0Tca7XSzaHo2v69VLHFjbM"
+    },
+    {
+      "album": {
+        "name": "Can't Help U",
+        "url": "https://open.spotify.com/album/3PaKSgJ1bnI6u53LbiPkES"
+      },
+      "artists": [
+        {
+          "name": "Sam Girling",
+          "url": "https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225375,
+      "name": "Can't Help U",
+      "url": "https://open.spotify.com/track/79zAJa2VTxDkzAj1BrvVpn"
     },
     {
       "album": {
@@ -1137,7 +1191,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 346466,
       "name": "Delectable",
       "url": "https://open.spotify.com/track/3DxUguzXqD17Ulbk18GRtS"
@@ -1209,7 +1263,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 193444,
       "name": "Disarm Me",
       "url": "https://open.spotify.com/track/5Cz82genflMN3SmktrZqqj"
@@ -1797,7 +1851,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 226253,
       "name": "Ghost Mode",
       "url": "https://open.spotify.com/track/0ySOIxE6MgF1204gdTScV3"
@@ -2133,7 +2187,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 203367,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/2VOhM65FMp6Exa49eWbv6f"
@@ -2187,7 +2241,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 203212,
       "name": "Home To You",
       "url": "https://open.spotify.com/track/2L3d9zBy8Iq8mKIde7cwmJ"
@@ -2367,7 +2421,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 186250,
       "name": "i feel alive woo yeh",
       "url": "https://open.spotify.com/track/1hpHGJTDEiYTAjwgglir04"
@@ -2407,6 +2461,28 @@
       "duration_ms": 172785,
       "name": "I thought this would be a love song",
       "url": "https://open.spotify.com/track/1fNeZaIvC7qqCjV9UUvCrY"
+    },
+    {
+      "album": {
+        "name": "SUPPLIES",
+        "url": "https://open.spotify.com/album/3vWaySKjwrxulTBAJTZufZ"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolff",
+          "url": "https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI"
+        },
+        {
+          "name": "Ty Healy",
+          "url": "https://open.spotify.com/artist/2bgmIVNSG1wdRu0GfNmIH1"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129369,
+      "name": "I WANT MY FLOWERS",
+      "url": "https://open.spotify.com/track/6dTUHMhLeEBjnR9KVF3xha"
     },
     {
       "album": {
@@ -2497,6 +2573,24 @@
       "duration_ms": 170657,
       "name": "In my bed",
       "url": "https://open.spotify.com/track/6DYoBEquvxExgjZqvwM2Zq"
+    },
+    {
+      "album": {
+        "name": "in my head",
+        "url": "https://open.spotify.com/album/6pIRmVwiQWwiQkvvKD9aPH"
+      },
+      "artists": [
+        {
+          "name": "adebambz!",
+          "url": "https://open.spotify.com/artist/2kNBsbcgoqEsXzEZTlx5ln"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86085,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/4vq0nLeBakMh1dywdNm92E"
     },
     {
       "album": {
@@ -2830,6 +2924,24 @@
     },
     {
       "album": {
+        "name": "Lose My Cool",
+        "url": "https://open.spotify.com/album/38JDB1i7v5W2eba1E2Jt1E"
+      },
+      "artists": [
+        {
+          "name": "CJ Run",
+          "url": "https://open.spotify.com/artist/17g2kHe1KbJjcO3VUDSwVl"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131803,
+      "name": "Lose My Cool",
+      "url": "https://open.spotify.com/track/1drSfeOdONNYjMiqHxFo0M"
+    },
+    {
+      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/3ZChhFSjqMwj3AkKYRTcKV"
       },
@@ -3015,6 +3127,24 @@
       "duration_ms": 186254,
       "name": "Love Vibes",
       "url": "https://open.spotify.com/track/6lG6PerrXelKiQrsDiQpNC"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/5KXkcjamhnbydoZh0hGamb"
+      },
+      "artists": [
+        {
+          "name": "lostboy",
+          "url": "https://open.spotify.com/artist/04f7oedbbC2KFDfqt8tGX5"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143106,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/50wkqMC6fKKOT82Wib1K5u"
     },
     {
       "album": {
@@ -3229,7 +3359,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 205119,
       "name": "Maze",
       "url": "https://open.spotify.com/track/5friHSm0DFDSazNTG4SJ52"
@@ -3251,6 +3381,24 @@
       "duration_ms": 246680,
       "name": "Meat Teeth",
       "url": "https://open.spotify.com/track/36bxycOoxHjSIZasoQ5T2b"
+    },
+    {
+      "album": {
+        "name": "Midnight Shift",
+        "url": "https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312677,
+      "name": "Midnight Shift",
+      "url": "https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS"
     },
     {
       "album": {
@@ -3864,6 +4012,24 @@
     },
     {
       "album": {
+        "name": "Pandora's Box (888)",
+        "url": "https://open.spotify.com/album/741dH7J81KBqLRF5Q8Cau3"
+      },
+      "artists": [
+        {
+          "name": "8SZN",
+          "url": "https://open.spotify.com/artist/753JaXwtDiTrkoralInWtD"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347076,
+      "name": "Pandora's Box (888)",
+      "url": "https://open.spotify.com/track/3P5JrVWYZ7alsYvWcb8tL5"
+    },
+    {
+      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
       },
@@ -4463,7 +4629,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 166562,
       "name": "selfish",
       "url": "https://open.spotify.com/track/5UldDT6jv6i7AwMZ4IZrZ5"
@@ -4539,7 +4705,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 295000,
       "name": "Shinkansen",
       "url": "https://open.spotify.com/track/54nqHR9rw3LbwqsI0YkSwn"
@@ -5631,6 +5797,24 @@
       "duration_ms": 128888,
       "name": "Wondering What I Did To Lose You",
       "url": "https://open.spotify.com/track/5f75XPGWRZqKp6IDWdtzkS"
+    },
+    {
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Mae Hannon",
+          "url": "https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186397,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp"
     },
     {
       "album": {

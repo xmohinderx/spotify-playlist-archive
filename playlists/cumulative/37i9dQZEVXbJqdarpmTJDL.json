@@ -4886,6 +4886,28 @@
     },
     {
       "album": {
+        "name": "Geia Sou",
+        "url": "https://open.spotify.com/album/54GfyTFSUeGztQc7EoWEsm"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        },
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148633,
+      "name": "Geia Sou",
+      "url": "https://open.spotify.com/track/6dpGIUTsj7yZGhrnhccX27"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -12961,7 +12983,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 332362,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"

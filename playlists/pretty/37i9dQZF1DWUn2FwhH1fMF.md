@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 
 > The best dance songs of 2021\. Cover: Becky Hill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,727 likes - 110 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,748 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUn2FwhH1fMF.md) - [plain]
 | 20 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
 | 21 | [My Humps](https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb) | 3:06 |
 | 22 | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/track/4NHhpxnyXdUTsq6pxy5NLg) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/album/2bWT8sfVdkZPnGm21uQOOz) | 3:19 |
-| 23 | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
+| 23 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(We’ve Lost Dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
 | 24 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 |
 | 25 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 26 | [Off Of My Mind](https://open.spotify.com/track/27sQMqYTkll2GcwQ7azPr5) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/5wlx7x7hWG3UJrboPgmIRq) | 2:44 |

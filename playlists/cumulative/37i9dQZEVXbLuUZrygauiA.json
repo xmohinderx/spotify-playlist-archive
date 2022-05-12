@@ -297,6 +297,28 @@
     {
       "album": {
         "name": "Imagina",
+        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297664,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
+    },
+    {
+      "album": {
+        "name": "Imagina",
         "url": "https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo"
       },
       "artists": [
@@ -311,7 +333,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2"
@@ -2618,6 +2640,24 @@
     },
     {
       "album": {
+        "name": "La Banda Timbiriche",
+        "url": "https://open.spotify.com/album/6mnU1xZvsEOqzuvlBtABO0"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184240,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/7B7HM8ZdsnhmRWc2HlzmzK"
+    },
+    {
+      "album": {
         "name": "The Gayest Of All Time",
         "url": "https://open.spotify.com/album/0C8RwY3TfTQaXbePl1ItnJ"
       },
@@ -3137,7 +3177,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 274991,
       "name": "No Olvidamos",
       "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
@@ -3671,7 +3711,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 235181,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/53uQ89TNuxZSSYHhTGieMx"
@@ -3911,6 +3951,24 @@
       "duration_ms": 230000,
       "name": "Se Acabo - En Vivo",
       "url": "https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd"
+    },
+    {
+      "album": {
+        "name": "Denise De Kalafe 10 Exitos",
+        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
+      },
+      "artists": [
+        {
+          "name": "Denise De Kalafe",
+          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183213,
+      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
     },
     {
       "album": {

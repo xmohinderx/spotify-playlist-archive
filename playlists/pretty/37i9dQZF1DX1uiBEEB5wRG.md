@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uiBEEB5wRG.md) - [plain]
 
 > Piano arrangements of classical masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,724 likes - 50 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,742 likes - 50 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

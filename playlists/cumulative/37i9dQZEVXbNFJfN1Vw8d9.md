@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-397 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
+398 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [KESI](https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:57 | 2021-04-14 | 2021-07-28 |
 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 | 2021-03-29 | 2021-06-02 |
 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 | 2021-08-27 | 2021-11-28 |
+| [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/1BLWBkRUpDRTNxIjfhDlOn) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Canción Que No Quiero Cantarte](https://open.spotify.com/album/7zRCaRgmzwmtaFvI08nh4p) | 2:48 | 2022-05-11 |  |
 | [La Cartita](https://open.spotify.com/track/0DG5cF1AxYfkeRgjXu9R3x) | [Rasel](https://open.spotify.com/artist/1uh9OOdPa89c5zPaOD6K2N), [Keen Levy](https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H) | [La Cartita](https://open.spotify.com/album/2NxNJQ5OLf9FEDlah5kBQz) | 3:05 | 2021-05-16 | 2021-07-14 |
 | [LA COMBI VERSACE \(feat\. Tokischa\)](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 | 2022-03-20 | 2022-04-18 |
 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 | 2022-05-07 |  |
@@ -401,7 +402,7 @@
 | [YIN YAN](https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:09 | 2021-11-28 | 2022-01-13 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 |  |
 | [Yo No Sé](https://open.spotify.com/track/43ic0un1f9Nak0ZCQgvKjY) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Yo No Sé](https://open.spotify.com/album/4oV9eietKZl9wQBtu47jjl) | 2:48 | 2021-03-27\* | 2021-04-15 |
-| [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-06-06 |  |
+| [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-06-06 | 2022-05-12 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-18 |
 | [Zorra \- Remix](https://open.spotify.com/track/5tTPP8qbaj9L4cjM8U8Q2M) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Warm Up](https://open.spotify.com/album/7IJ4Cok2sQKI7JgpPyDIWr) | 3:36 | 2021-03-27\* | 2021-04-08 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2021-10-16 | 2021-12-05 |

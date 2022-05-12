@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,279 likes - 77 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,286 likes - 77 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 29 | [The Endless Night \- Live](https://open.spotify.com/track/7Lwmhzh3C8Db4PQT9lyWcv) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Live: The Complete Concert](https://open.spotify.com/album/4nYDQGPeSgsekU5QGK339t) | 20:30 |
 | 30 | [Diminuendo In Blue \- Live](https://open.spotify.com/track/1bwU4f1TYZksvSA4Rfia1p) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ellington at Newport 1956 \(Complete\)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) | 14:14 |
 | 31 | [Evidence \- Live At Carnegie Hall, New York/1957](https://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r) | [Thelonious Monk Quartet](https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [At Carnegie Hall](https://open.spotify.com/album/3x38mYlwkm6L6vYIn0Hzqk) | 4:41 |
-| 32 | [Invitation \- Live](https://open.spotify.com/track/4010xdHiZB4pa8IvEYjQmb) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh) | [In Harmony \(Live\)](https://open.spotify.com/album/26YRLzA8FZdZcUD8jpc0uL) | 8:02 |
+| 32 | [Invitation \(Live\)](https://open.spotify.com/track/4010xdHiZB4pa8IvEYjQmb) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh) | [In Harmony \(Live\)](https://open.spotify.com/album/26YRLzA8FZdZcUD8jpc0uL) | 8:02 |
 | 33 | [Footprints \- Live](https://open.spotify.com/track/5XuhO3gmErT7vls3Jjr6FZ) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Footprints \- Live](https://open.spotify.com/album/77hBFKuRXGV6kgHsG2c034) | 7:53 |
 | 34 | [Afro\-Blue \- Live At Birdland Jazzclub, New York City, NY, 10/8/1963](https://open.spotify.com/track/5QblyNjAyOs0AJBQHJQkrn) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Live At Birdland](https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU) | 10:49 |
 | 35 | [Summertime \- Live Version](https://open.spotify.com/track/1c2Lw08YnZq71rUyrb2r8F) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles & Quincy Live at Montreux](https://open.spotify.com/album/2uhZ5Lazl1Wyzdxa7LvMkn) | 2:58 |

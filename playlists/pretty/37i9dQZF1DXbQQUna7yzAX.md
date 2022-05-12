@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQQUna7yzAX.md) - [plain]
 
 > Grunge is still alive and kicking!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,220 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,269 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-983 songs - 2 day 1 hr 12 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+984 songs - 2 day 1 hr 14 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-07 | 2021-12-05 |
 | [Belgisches Viertel](https://open.spotify.com/track/1h3d2lvISrSIV6fS89U51S) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [Belgisches Viertel](https://open.spotify.com/album/6giaXxm0g5927v4ESbtzCt) | 1:44 | 2021-08-31 | 2022-04-03 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-09-01 | 2021-09-02 |
+| [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-05-11 |  |
 | [BENIM HAYALLER](https://open.spotify.com/track/6UhWOBZVHsuZHKJpQJYeWW) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [AQUA](https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G) | 3:02 | 2021-07-04 | 2021-07-05 |
 | [Benzin](https://open.spotify.com/track/7aeNNhFoheKQOSEeQEbDrI) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Zukunft](https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6) | 2:51 | 2021-07-18 | 2021-07-25 |
 | [Bessere Fehler](https://open.spotify.com/track/3qOgpguipSTOahuNq2z31T) | [Nessi](https://open.spotify.com/artist/2kE8IGeVPqfCUkVoKyCotA), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Bessere Fehler](https://open.spotify.com/album/1JslKaooMLhiJ4Nm9mbKAK) | 2:48 | 2021-06-06 | 2021-06-07 |
@@ -974,7 +975,7 @@
 | [YOU KNOW](https://open.spotify.com/track/0XoliF7dLcqeA6nv8kyXq6) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [YOU KNOW](https://open.spotify.com/album/1zn6HWIPrFKrkJhnLXosAp) | 2:50 | 2022-03-12 | 2022-03-21 |
 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 | 2021-12-20 | 2021-12-29 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-28 | 2021-07-04 |
-| [You're My Heart, You're My Soul](https://open.spotify.com/track/3id8kxAfWtgSiKq2wuwPSu) | [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [Dieter Bohlen](https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx), [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [You're My Heart, You're My Soul](https://open.spotify.com/album/1wcXpT3QHGtaMxi9AGxpFy) | 2:22 | 2022-05-07 |  |
+| [You're My Heart, You're My Soul](https://open.spotify.com/track/3id8kxAfWtgSiKq2wuwPSu) | [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [Dieter Bohlen](https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx), [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [You're My Heart, You're My Soul](https://open.spotify.com/album/1wcXpT3QHGtaMxi9AGxpFy) | 2:22 | 2022-05-07 | 2022-05-12 |
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-01-13 | 2022-03-09 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2021-03-27\* | 2021-08-27 |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-05-03 | 2021-05-16 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-567 songs - 1 day 7 hr 25 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
+569 songs - 1 day 7 hr 32 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2021-07-19 | 2022-01-04 |
 | [Dance Monkey](https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN) | 3:29 | 2021-03-29 | 2021-07-07 |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-25 | 2021-06-04 |
-| [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2021-12-11 |  |
+| [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 | 2022-05-11 |  |
+| [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2021-12-11 | 2022-05-12 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dawn FM](https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-09 | 2022-01-11 |
 | [De Wereld Draait Voor Jou](https://open.spotify.com/track/7waVE4NtMbxVg6sW80rxYy) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd) | [De Wereld Draait Voor Jou](https://open.spotify.com/album/4jwlrvrZtqlJy9Sb2aFRPD) | 3:41 | 2021-05-10 | 2021-07-04 |
@@ -182,7 +183,7 @@
 | [Geronimo](https://open.spotify.com/track/6v85G6mHevBjdpylVuGNGB) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Geronimo](https://open.spotify.com/album/7ck2Cibgjw4kEAx9jfVhpN) | 2:32 | 2021-10-23 | 2021-10-24 |
 | [Get Out My Head](https://open.spotify.com/track/055Mme9ReKK99jRFA5UJ55) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Get Out My Head](https://open.spotify.com/album/70mFskdJpptbrvVk9uwtAo) | 3:24 | 2021-03-29 | 2021-03-30 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-05 |
-| [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2022-05-10 |  |
+| [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2022-05-10 | 2022-05-12 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-11-08 | 2022-04-11 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-12-01 | 2022-03-27 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2022-01-01 | 2022-01-04 |
@@ -564,6 +565,7 @@
 | [Ze Meent Het](https://open.spotify.com/track/1UQFu4cgJDIcE7zoBPHwY4) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Metejoor](https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W) | 3:02 | 2021-11-09 | 2022-03-06 |
 | [Zeit](https://open.spotify.com/track/2KsHzM4L7ThhNJB6MHXkPx) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 5:21 | 2022-04-30 | 2022-05-02 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-24 | 2021-09-14 |
+| [Zwaartekracht](https://open.spotify.com/track/1T3fp4AZDhBeQSESi6LO8k) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Zwaartekracht](https://open.spotify.com/album/5Fpl3Jy7iaVdZbN71UMGkP) | 3:12 | 2022-05-11 |  |
 | [Özil](https://open.spotify.com/track/7bEcFO0XmfRNACmpwgh97f) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:56 | 2021-11-28 | 2021-11-28 |
 | [Ο\. OG](https://open.spotify.com/track/63ALxy05IGeKrfOjvGG7lO) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 1:40 | 2021-04-30 | 2021-05-09 |
 | [Π\. VANTABLACK](https://open.spotify.com/track/2n3dCM1RqyhzH5FZQW4jxA) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 2:33 | 2021-04-30 | 2021-05-22 |

@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Aleyna Tilki
 
-405 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+406 songs - 22 hr 20 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,11 +387,12 @@
 | [Манго](https://open.spotify.com/track/2teOdusDjtMwfS01A7i6U3) | [ETOLUBOV](https://open.spotify.com/artist/5rZcCYFGSeRDMOQcP7S5vn) | [Манго](https://open.spotify.com/album/0iw7nITN3ngyMfmvd1Q1Zd) | 2:31 | 2021-12-11 | 2022-01-06 |
 | [Моє море](https://open.spotify.com/track/69AAtAkUBJY2JwpdjEsC0S) | [ALYOSHA](https://open.spotify.com/artist/4TgfvyEmBASJc82lfcHZjh) | [Моє море](https://open.spotify.com/album/3RrMYlhzHUmPR9xmr47xEN) | 3:37 | 2022-02-02 | 2022-03-09 |
 | [Не перегори](https://open.spotify.com/track/3GmF8i3Q5d9a2j28bV3PjV) | [Mary Gu](https://open.spotify.com/artist/5w98ILth0uq2xi2am1vu5g) | [Не перегори](https://open.spotify.com/album/3KgIMbfzbRY9niPPoU6mNi) | 2:26 | 2022-03-09 | 2022-04-07 |
-| [אוהבת אותך בטעות \(by Offir Malol\)](https://open.spotify.com/track/1NneXyJaESKMfLPqKwiUsT) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [החללית](https://open.spotify.com/artist/0ZzM7T5Fehplt4gyE2PdXc) | [אוהבת אותך בטעות \(by Offir Malol\)](https://open.spotify.com/album/0MVpQ2fxXSM43JtPxQBYI3) | 3:14 | 2022-05-04 |  |
+| [אוהבת אותך בטעות \(by Offir Malol\)](https://open.spotify.com/track/1NneXyJaESKMfLPqKwiUsT) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [החללית](https://open.spotify.com/artist/0ZzM7T5Fehplt4gyE2PdXc) | [אוהבת אותך בטעות \(by Offir Malol\)](https://open.spotify.com/album/0MVpQ2fxXSM43JtPxQBYI3) | 3:14 | 2022-05-04 | 2022-05-12 |
 | [אם הייתי צריכה](https://open.spotify.com/track/79h6P8bV0ENtq6Vmhkpewr) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אם הייתי צריכה](https://open.spotify.com/album/5B3xBhi3cYWXHcl8uFNDYm) | 3:24 | 2022-01-05 | 2022-02-03 |
 | [אני רוצה](https://open.spotify.com/track/5iitlJJnLGmVoUatPHvGfw) | [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [אני רוצה](https://open.spotify.com/album/5Lf8OGtwFeGTukBu13Arpv) | 2:52 | 2022-03-08 | 2022-04-07 |
 | [גוליית 2](https://open.spotify.com/track/2SeNF3VISp0JTzwuwOBdcW) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [גוליית 2](https://open.spotify.com/album/0mCq41R4Ax6q97mOrlIiKK) | 3:42 | 2022-04-06 | 2022-05-05 |
 | [הם יבואו אליי](https://open.spotify.com/track/1Tvti6QOuCkdQvHAZQOKD5) | [Sima Noon](https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz) | [הם יבואו אליי](https://open.spotify.com/album/05snKTc5NqkGKVT5fNjpbK) | 2:23 | 2022-03-08 | 2022-04-07 |
+| [הרב שלי אומר](https://open.spotify.com/track/6WFwkGRQv5EZuqwHfopAYz) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [הרב שלי אומר](https://open.spotify.com/album/44XCV61Xpug5jYbDs2MAfM) | 3:28 | 2022-05-11 |  |
 | [לך לישון](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [לך לישון](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) | 2:38 | 2022-02-02 | 2022-05-05 |
 | [מה קרה](https://open.spotify.com/track/5j36y0eeE3I7kCBYIsKqBF) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מה קרה](https://open.spotify.com/album/7gbA698J3JWJsomCqxR1o9) | 2:23 | 2022-01-05 | 2022-02-03 |
 | [עוד פעם](https://open.spotify.com/track/77gBzmzqaUGTVwT9pkCXyy) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [עוד פעם](https://open.spotify.com/album/1oYveLIHfVXRi33ozC3Jb7) | 2:50 | 2022-02-02 | 2022-03-09 |

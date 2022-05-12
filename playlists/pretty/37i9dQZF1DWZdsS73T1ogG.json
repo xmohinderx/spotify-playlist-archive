@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Ozuna, Boza",
-  "num_followers": 497733,
+  "num_followers": 497781,
   "original_name": "New Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjIzMTMxMywwMDAwMDAwMGUyM2NmNzc3YzM1MDYwMDgwOGI4ZDljYWVhNzM5ZDZm",
+  "snapshot_id": "MTY1MjMxNzU0MiwwMDAwMDAwMDNiNTUzNzEwZmIzNjk1ZjYwOTQ1MjRjZTg5MWIzODI1",
   "tracks": [
     {
       "added_at": "2022-04-29 16:50:47",
@@ -199,26 +199,22 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "Tendencia Global",
-        "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 234402,
-      "name": "Tendencia Global",
-      "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2022-04-29 16:50:47",
@@ -307,18 +303,18 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "Cositas de la USA",
-        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
+        "name": "CAPRICHOSO",
+        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 189015,
-      "name": "Cositas de la USA",
-      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
+      "duration_ms": 167619,
+      "name": "CAPRICHOSO",
+      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
     },
     {
       "added_at": "2022-04-29 16:50:47",
@@ -347,38 +343,42 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+        "name": "Tendencia Global",
+        "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+      "duration_ms": 234402,
+      "name": "Tendencia Global",
+      "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
     },
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "Ojos Rojos",
-        "url": "https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY"
+        "name": "Cositas de la USA",
+        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 152110,
-      "name": "Ojos Rojos",
-      "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
+      "duration_ms": 189015,
+      "name": "Cositas de la USA",
+      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
     },
     {
       "added_at": "2022-04-29 16:50:47",
@@ -399,38 +399,50 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "TRAP CAKE VOL. 2",
-        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
+        "name": "NO SE OLVIDA",
+        "url": "https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 255412,
-      "name": "MUSEO",
-      "url": "https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX"
+      "duration_ms": 250841,
+      "name": "NO SE OLVIDA",
+      "url": "https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv"
     },
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "Quien TV Remix",
-        "url": "https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL"
+        "name": "Ojos Rojos",
+        "url": "https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 152110,
+      "name": "Ojos Rojos",
+      "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
+    },
+    {
+      "added_at": "2022-04-29 16:50:47",
+      "album": {
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
       },
       "artists": [
         {
           "name": "Blessd",
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 163708,
-      "name": "Quien TV Remix",
-      "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
+      "duration_ms": 162000,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
     },
     {
       "added_at": "2022-04-29 16:50:47",
@@ -487,18 +499,18 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "NO SE OLVIDA",
-        "url": "https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA"
+        "name": "TRAP CAKE VOL. 2",
+        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 250841,
-      "name": "NO SE OLVIDA",
-      "url": "https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv"
+      "duration_ms": 255412,
+      "name": "MUSEO",
+      "url": "https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX"
     },
     {
       "added_at": "2022-04-29 16:50:47",
@@ -523,22 +535,6 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "El Amor y Yo",
-        "url": "https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 176010,
-      "name": "So\u00f1ando Despierto",
-      "url": "https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep"
-    },
-    {
-      "added_at": "2022-04-29 16:50:47",
-      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -559,22 +555,58 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "Perreito Under",
-        "url": "https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5"
+        "name": "15",
+        "url": "https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6"
       },
       "artists": [
         {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
         },
         {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
         }
       ],
-      "duration_ms": 186952,
-      "name": "Perreito Under",
-      "url": "https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y"
+      "duration_ms": 197155,
+      "name": "Baila Bien",
+      "url": "https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9"
+    },
+    {
+      "added_at": "2022-04-29 16:50:47",
+      "album": {
+        "name": "El Amor y Yo",
+        "url": "https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 176010,
+      "name": "So\u00f1ando Despierto",
+      "url": "https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep"
+    },
+    {
+      "added_at": "2022-04-29 16:50:47",
+      "album": {
+        "name": "Quien TV Remix",
+        "url": "https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 163708,
+      "name": "Quien TV Remix",
+      "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
     },
     {
       "added_at": "2022-04-29 16:50:47",
@@ -603,106 +635,18 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "CAPRICHOSO",
-        "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
+        "name": "MI FANTASY",
+        "url": "https://open.spotify.com/album/3CkwnW8x114E68m2FvS9I0"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
         }
       ],
-      "duration_ms": 167619,
-      "name": "CAPRICHOSO",
-      "url": "https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn"
-    },
-    {
-      "added_at": "2022-04-29 16:50:47",
-      "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
-    },
-    {
-      "added_at": "2022-04-29 16:50:47",
-      "album": {
-        "name": "X2 (Remix)",
-        "url": "https://open.spotify.com/album/1sxG561Y3NC62QyZ2A05Ys"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "X2 - Remix",
-      "url": "https://open.spotify.com/track/3fEUTIXek0kTmpnGAWNWxX"
-    },
-    {
-      "added_at": "2022-04-29 16:50:47",
-      "album": {
-        "name": "Reaction",
-        "url": "https://open.spotify.com/album/00NYRqVAD0DNrWIBwNYB48"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Reaction",
-      "url": "https://open.spotify.com/track/755ZYuKkmvxrFm0hSCnff9"
-    },
-    {
-      "added_at": "2022-04-29 16:50:47",
-      "album": {
-        "name": "Guay",
-        "url": "https://open.spotify.com/album/0tqQ2CaKB7HMaWKWeQOnOR"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Guay",
-      "url": "https://open.spotify.com/track/3voNGqzixtoyzTBQd3tKXl"
-    },
-    {
-      "added_at": "2022-04-29 16:50:47",
-      "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 197155,
-      "name": "Baila Bien",
-      "url": "https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9"
+      "duration_ms": 166586,
+      "name": "PROVOCAR",
+      "url": "https://open.spotify.com/track/0bhuxEmgIoW4YztrCouCIt"
     },
     {
       "added_at": "2022-04-29 16:50:47",
@@ -727,30 +671,58 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "Pasajero",
-        "url": "https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa"
+        "name": "GRACIAS POR NADA",
+        "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
       },
       "artists": [
         {
-          "name": "Nath",
-          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 218448,
-      "name": "Pasajero",
-      "url": "https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH"
+      "duration_ms": 219448,
+      "name": "GRACIAS POR NADA",
+      "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
+    },
+    {
+      "added_at": "2022-04-29 16:50:47",
+      "album": {
+        "name": "X2 (Remix)",
+        "url": "https://open.spotify.com/album/1sxG561Y3NC62QyZ2A05Ys"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "X2 - Remix",
+      "url": "https://open.spotify.com/track/3fEUTIXek0kTmpnGAWNWxX"
+    },
+    {
+      "added_at": "2022-04-29 16:50:47",
+      "album": {
+        "name": "Perreito Under",
+        "url": "https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "duration_ms": 186952,
+      "name": "Perreito Under",
+      "url": "https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y"
     },
     {
       "added_at": "2022-04-29 16:50:47",
@@ -783,50 +755,18 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "MI FANTASY",
-        "url": "https://open.spotify.com/album/3CkwnW8x114E68m2FvS9I0"
+        "name": "Guay",
+        "url": "https://open.spotify.com/album/0tqQ2CaKB7HMaWKWeQOnOR"
       },
       "artists": [
         {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
         }
       ],
-      "duration_ms": 166586,
-      "name": "PROVOCAR",
-      "url": "https://open.spotify.com/track/0bhuxEmgIoW4YztrCouCIt"
-    },
-    {
-      "added_at": "2022-04-29 16:50:47",
-      "album": {
-        "name": "GRACIAS POR NADA",
-        "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 219448,
-      "name": "GRACIAS POR NADA",
-      "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
-    },
-    {
-      "added_at": "2022-04-29 16:50:47",
-      "album": {
-        "name": "cuatro veinte",
-        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
+      "duration_ms": 197706,
+      "name": "Guay",
+      "url": "https://open.spotify.com/track/3voNGqzixtoyzTBQd3tKXl"
     },
     {
       "added_at": "2022-04-29 16:50:47",
@@ -847,22 +787,6 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
-        "name": "\u00daltimo Baile",
-        "url": "https://open.spotify.com/album/6kAuAAXyQXKyhuRiAVGVKi"
-      },
-      "artists": [
-        {
-          "name": "Chanell",
-          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "\u00daltimo Baile",
-      "url": "https://open.spotify.com/track/2glNPtN2w5XsUd83axziDw"
-    },
-    {
-      "added_at": "2022-04-29 16:50:47",
-      "album": {
         "name": "Munchisito y Chao",
         "url": "https://open.spotify.com/album/3p38C0gN42NetsZA02LiX9"
       },
@@ -879,6 +803,38 @@
     {
       "added_at": "2022-04-29 16:50:47",
       "album": {
+        "name": "Reaction",
+        "url": "https://open.spotify.com/album/00NYRqVAD0DNrWIBwNYB48"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Reaction",
+      "url": "https://open.spotify.com/track/755ZYuKkmvxrFm0hSCnff9"
+    },
+    {
+      "added_at": "2022-04-29 16:50:47",
+      "album": {
+        "name": "cuatro veinte",
+        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
+    },
+    {
+      "added_at": "2022-04-29 16:50:47",
+      "album": {
         "name": "El Cambio",
         "url": "https://open.spotify.com/album/5js6CdkxePKw4aOD3Brnj1"
       },
@@ -891,6 +847,50 @@
       "duration_ms": 208773,
       "name": "Hasta Cuando",
       "url": "https://open.spotify.com/track/4wccdHSJv4IjOSlNYZVYBN"
+    },
+    {
+      "added_at": "2022-04-29 16:50:47",
+      "album": {
+        "name": "\u00daltimo Baile",
+        "url": "https://open.spotify.com/album/6kAuAAXyQXKyhuRiAVGVKi"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "\u00daltimo Baile",
+      "url": "https://open.spotify.com/track/2glNPtN2w5XsUd83axziDw"
+    },
+    {
+      "added_at": "2022-04-29 16:50:47",
+      "album": {
+        "name": "Pasajero",
+        "url": "https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa"
+      },
+      "artists": [
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 218448,
+      "name": "Pasajero",
+      "url": "https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH"
     },
     {
       "added_at": "2022-04-29 16:50:47",

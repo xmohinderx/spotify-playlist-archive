@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTpoGQmyr2B.md) - [plain]
 
 > Let your stress melt away while you work up a sweat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,520 likes - 104 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,551 likes - 104 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

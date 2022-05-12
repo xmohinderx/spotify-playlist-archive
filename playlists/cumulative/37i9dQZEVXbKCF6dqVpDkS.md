@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-600 songs - 1 day 7 hr 16 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+601 songs - 1 day 7 hr 19 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Dansen](https://open.spotify.com/track/2Y8nUXhW0SuTGs1jcQTwAe) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 2:19 | 2022-01-29 | 2022-02-06 |
 | [Dansen Op Labanta](https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P), [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Philly Moré](https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT) | [Lituatie](https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG) | 2:44 | 2022-02-21 | 2022-05-08 |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-25 | 2021-06-01 |
-| [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2021-11-09 |  |
+| [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 | 2022-05-11 |  |
+| [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2021-11-09 | 2022-05-12 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-03-04 |  |
 | [De Echte Vent](https://open.spotify.com/track/01MCHGtGZHtYVeVUNqgMbC) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [De Echte Vent](https://open.spotify.com/album/2r2rQrvSsr9iyZvTLuMUcJ) | 3:55 | 2021-03-30 | 2021-04-08 |

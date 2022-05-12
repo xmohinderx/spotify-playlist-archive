@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,580 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,682 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 50 | [Sommelier](https://open.spotify.com/track/3HOlhweyZyyD8QSTZjI63I) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [Sommelier](https://open.spotify.com/album/3O8I6X87Nn2Yb04kqFuiyX) | 2:54 |
 | 51 | [Ingrata](https://open.spotify.com/track/1BBbpZML2z4hifuhnRFMFh) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Turmalina](https://open.spotify.com/album/0CftZS5wl7MH0WZqG8ChR5) | 2:20 |
 | 52 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 |
-| 53 | [Relaxa](https://open.spotify.com/track/6vVqy8Tn3l2yJqBgPU5g3D) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Thiago](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Relaxa](https://open.spotify.com/album/726od9RXgGCfcR6KOHGIqz) | 2:40 |
+| 53 | [Relaxa](https://open.spotify.com/track/6vVqy8Tn3l2yJqBgPU5g3D) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Relaxa](https://open.spotify.com/album/726od9RXgGCfcR6KOHGIqz) | 2:40 |
 | 54 | [Bandida](https://open.spotify.com/track/769RG4z159DPXlwi45fiU8) | [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Bandida](https://open.spotify.com/album/6kcTiqYuS41Aplz6aXddcd) | 3:05 |
 | 55 | [Segundo Andar](https://open.spotify.com/track/7rwW1Si2yr1dlLj6G2eDnU) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Segundo Andar](https://open.spotify.com/album/0j60tsSAY0XUmuYuESyFoL) | 3:54 |
 | 56 | [Balenciaga](https://open.spotify.com/track/44pxIel1S788sDSV1nNr8H) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Balenciaga](https://open.spotify.com/album/1zyn9LMk3IWuNk108dZ3vg) | 2:48 |

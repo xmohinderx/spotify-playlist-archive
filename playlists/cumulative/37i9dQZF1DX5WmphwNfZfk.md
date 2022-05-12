@@ -4,7 +4,7 @@
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Dylan Sinclair
 
-560 songs - 1 day 4 hr 25 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+561 songs - 1 day 4 hr 28 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Letter From The Cell](https://open.spotify.com/track/1XGOH2yf8yQMjrpJFAmvSI) | [Mally Swayzz](https://open.spotify.com/artist/1pWrmfc18H91ApDFs8wJpF) | [Secret Sauce \(Deluxe\)](https://open.spotify.com/album/5e4PO2cP9dEOMfhdgOdHhF) | 2:00 | 2022-01-07 | 2022-02-05 |
 | [LEVELS](https://open.spotify.com/track/76FG8HZ27lqfceC1af0aHn) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [LEVELS](https://open.spotify.com/album/5zMY9dBNuoHLWsxtCdSEZj) | 2:42 | 2022-03-04 | 2022-04-02 |
 | [lie lie lie](https://open.spotify.com/track/5epDtUg4s8do8chclldxpZ) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [lie lie lie](https://open.spotify.com/album/6cOsA7wYTgq1s2GHokQm16) | 2:51 | 2022-02-04 | 2022-03-05 |
-| [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 | 2022-05-06 |  |
+| [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 | 2022-05-06 | 2022-05-12 |
 | [Lindsay's Freestyle](https://open.spotify.com/track/0xOnej2rwWRGRAwXFvTaYa) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [Lindsay's Freestyle](https://open.spotify.com/album/5qU1eX4515l80GTqll49eV) | 2:56 | 2021-12-06 | 2022-01-08 |
 | [Liquorice](https://open.spotify.com/track/5UEnl8IntXqIABMLOIrz2l) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Liquorice](https://open.spotify.com/album/5XT8Y2ZfswLOpgZE5lXfyy) | 2:17 | 2022-02-04 | 2022-03-05 |
 | [Little High Little Low](https://open.spotify.com/track/0OzLuAmu5XNIPhCSsPAYer) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Little High Little Low](https://open.spotify.com/album/4iPzGH8F1IIYz7ktfJ26II) | 3:19 | 2022-05-06 |  |
@@ -375,6 +375,7 @@
 | [One More Thing](https://open.spotify.com/track/6BzPNRduOs6Aoob2h3Tcjd) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA) | [Hustle Sold Separately](https://open.spotify.com/album/6TMiPKrgZIRysr7YAKBywM) | 2:48 | 2022-02-04 | 2022-03-05 |
 | [One Plus One](https://open.spotify.com/track/2YadaIIr00rdv5T7RVzIO8) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [One Plus One](https://open.spotify.com/album/10gGLGbjwOaOwGnDPN6RV2) | 3:09 | 2022-04-01 | 2022-05-07 |
 | [One Time \(feat\. Nessly\)](https://open.spotify.com/track/253t6kfzKnIwJY7I1XympU) | [Jt5k](https://open.spotify.com/artist/489bascphvFqA0IvtYhc3y), [Nessly](https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8) | [One Time \(feat\. Nessly\)](https://open.spotify.com/album/7EzOdxvKhB7vbDkPOmQ13V) | 2:40 | 2021-12-06 | 2022-01-08 |
+| [Open](https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 2:54 | 2022-05-11 |  |
 | [Orphan Boy](https://open.spotify.com/track/4XcJ7hgB8wEQVnaBacO5ir) | [Super Genius](https://open.spotify.com/artist/7zZeEyClg26sBOGks0BXdz), [Mouth Breather](https://open.spotify.com/artist/7hew569XYqIKGOGTfd5esn), [Acapulco Gold](https://open.spotify.com/artist/0YtN5MUDXfknitO0nZ809F) | [Orphan Boy](https://open.spotify.com/album/1wqHY2JnTL412ypJjdjayt) | 2:54 | 2022-02-04 | 2022-03-05 |
 | [Outta Love](https://open.spotify.com/track/4ZlayYPGfhdTeRdD1actNe) | [Rohan](https://open.spotify.com/artist/7cORZKOcJ3aIgeaZmfXF6C) | [Outta Love](https://open.spotify.com/album/0wSI0Go0Maym06djQUyAvl) | 3:33 | 2021-12-06 | 2022-01-08 |
 | [Outta This World](https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Outta This World](https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG) | 2:45 | 2022-04-01 | 2022-05-07 |

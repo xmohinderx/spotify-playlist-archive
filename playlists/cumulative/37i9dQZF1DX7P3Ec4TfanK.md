@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-85 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/7C2UJmFUbC0XzdnPAkeOBo)
+86 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/7C2UJmFUbC0XzdnPAkeOBo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Duecentomila ore](https://open.spotify.com/track/5QcKmCvGDbMvbJQZh75YVd) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Duecentomila ore](https://open.spotify.com/album/7DZEFakK4SfIg3IbnVNta5) | 3:00 | 2022-05-06 |  |
 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 | 2022-05-06 |  |
 | [farfalle](https://open.spotify.com/track/5HujDMiRNqZwEzVAh3oFD3) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [farfalle](https://open.spotify.com/album/1WCDSnckeIERycPR36vEiZ) | 2:44 | 2022-05-06 |  |
-| [Fever](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Fever](https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H) | 2:36 | 2022-05-06 |  |
+| [Fever](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Fever](https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H) | 2:36 | 2022-05-06 | 2022-05-12 |
 | [Fireworks](https://open.spotify.com/track/3JhTqa080FiJORsvJ2elUy) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Fireworks](https://open.spotify.com/album/5uWGd67YMRUeSMhGkRb2rT) | 3:20 | 2022-05-06 |  |
 | [Floating Through Space](https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Floating Through Space](https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t) | 2:57 | 2022-05-06 |  |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2022-05-06 |  |
@@ -80,6 +80,7 @@
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2022-05-06 |  |
 | [The Feeling](https://open.spotify.com/track/1Cx3Lpnto8xJ5dsfU3DPus) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [The Feeling](https://open.spotify.com/album/7HQicNqN0vt4eVPcIcem2c) | 2:56 | 2022-05-06 |  |
 | [There Will Be a Way](https://open.spotify.com/track/2UIGRIkNw5NW9iFUVAWyOp) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [There Will Be a Way](https://open.spotify.com/album/0vzAxYMYExghmRPHwCLJ9X) | 3:16 | 2022-05-06 |  |
+| [Titans \(feat\. Sia & Labrinth\)](https://open.spotify.com/track/73HkJbtkrKCKBzuaYorTGX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 3:19 | 2022-05-06 |  |
 | [Tutte le notti](https://open.spotify.com/track/1lXb1BTmGM2aWg5NTlZZPH) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Tutte le notti](https://open.spotify.com/album/1pB2lL3t2LWptXc6tfN3oi) | 3:36 | 2022-05-06 |  |
 | [Un bacio all'improvviso](https://open.spotify.com/track/4iMigesJsEKt8JczIwUrBO) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Un bacio all'improvviso](https://open.spotify.com/album/0iPt2nuMRgzHJ6IiqooufW) | 2:51 | 2022-05-06 |  |
 | [Una cosa più grande](https://open.spotify.com/track/46V0yUR2slCRsWRylPCr5u) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Una cosa più grande](https://open.spotify.com/album/0VlXEovJWRHc4gaKzAbB92) | 3:24 | 2022-05-06 |  |

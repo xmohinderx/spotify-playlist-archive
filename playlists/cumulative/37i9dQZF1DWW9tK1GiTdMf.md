@@ -4,13 +4,14 @@
 
 > canzoni da gridare e in copertina c'è WILLOW <3
 
-89 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+90 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,2,3 Stella](https://open.spotify.com/track/7bkgikBKPfME68thEiN8G2) | [YOUNG KALI](https://open.spotify.com/artist/32Mvw7JUOnNmQnogPgFtBj) | [1,2,3 Stella](https://open.spotify.com/album/45hYN62og1faVmoqXk5c4D) | 3:17 | 2022-05-06 |  |
 | [10 Things I Hate About You](https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l) | 2:37 | 2022-05-06 |  |
 | [20 Anni \(Andale\)](https://open.spotify.com/track/5F9qPcOEMVaeFJYpTGckAS) | [Gorka](https://open.spotify.com/artist/0PeyvqHvFlYQjI3GfNQqLR), [Fra Bacci](https://open.spotify.com/artist/0MKjQHGhnW0QrlWMJthrKx) | [20 Anni \(Andale\)](https://open.spotify.com/album/0Y8euCijZZYD0gHCefXtK6) | 2:43 | 2022-05-06 |  |
+| [24/7](https://open.spotify.com/track/032zxhpUSSgQMrHiplLHlY) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT) | [24/7](https://open.spotify.com/album/7IEkJjglrq8Q9wLRxqapTD) | 2:19 | 2022-05-11 |  |
 | [7 su 7](https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 2:27 | 2022-05-06 |  |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2022-05-06 |  |
 | [Acida](https://open.spotify.com/track/7DBSyUCabqwhMYisnrO7CK) | [CITRIESTE](https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2) | [Acida](https://open.spotify.com/album/3ljaeEsCg7nxKHikDELIeB) | 2:46 | 2022-05-06 |  |

@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 165266,
       "name": "Cry You Out Of My Heart",
       "url": "https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 315773,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/2NHXhH8nZHgoMtcphN7PnB"
@@ -679,6 +679,24 @@
       "duration_ms": 181333,
       "name": "I Just Couldn't Stand It No More",
       "url": "https://open.spotify.com/track/0IIiV2EHJ2tmpVmuf1Wjsp"
+    },
+    {
+      "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "I Just Dropped By To Say Hello",
+      "url": "https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol"
     },
     {
       "album": {
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 187666,
       "name": "My Old Flame",
       "url": "https://open.spotify.com/track/2tFhdY3DRVj2umeRuaQEfQ"

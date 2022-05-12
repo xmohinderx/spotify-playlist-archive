@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 288560,
       "name": "Bitches Ain't Shit",
       "url": "https://open.spotify.com/track/0JSCZdPOPR7d8Mfi09tIxU"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/5ltdcgEflWut0osW0ZzLhM"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 243266,
       "name": "DWYCK",
       "url": "https://open.spotify.com/track/7vcepKD1pjulQvPOkiQmUe"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 265200,
       "name": "Elevators (Me & You)",
       "url": "https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 276373,
       "name": "Grown Man Sport",
       "url": "https://open.spotify.com/track/6dRj771QZr0KOQVwaB6ykM"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 260799,
       "name": "Halftime",
       "url": "https://open.spotify.com/track/2PRsh2LNPxoxC9OnErnelg"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 290906,
       "name": "If Your Girl Only Knew (feat Timbaland and Missy Elliott)",
       "url": "https://open.spotify.com/track/0tDeSKBOBsKHFurhXURSXp"
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/4lqU4WByDFKDGrHknQV6ZC"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 194293,
       "name": "Put Your Hands Where My Eyes Could See",
       "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
@@ -2287,6 +2287,24 @@
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+    },
+    {
+      "album": {
+        "name": "Simon Says",
+        "url": "https://open.spotify.com/album/4q8xMEhezZWAqvoESNbGSf"
+      },
+      "artists": [
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/7F9FgsJXWvFENrhLYtYymg"
     },
     {
       "album": {

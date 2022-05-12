@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-286 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+288 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Crown of Lies](https://open.spotify.com/track/59waNUA8R0Rt3OZ9q7rwrw) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Vicious Circle](https://open.spotify.com/album/3AWkCUGopNfIhNQpX1nfho) | 3:07 | 2022-01-14 |  |
 | [Cruisin](https://open.spotify.com/track/4cloSS3oel9ebFIhCDJOcR) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6) | [Cruisin](https://open.spotify.com/album/6ddMElOzexBvFbNV4ZKWEX) | 2:52 | 2022-02-18 | 2022-03-19 |
 | [CRUSH](https://open.spotify.com/track/3l5KAvmMw41kdoU4lZZHVJ) | [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [CRUSH](https://open.spotify.com/album/4NnwLNTiAQkGZvhs3b9GET) | 2:42 | 2022-03-25 | 2022-04-30 |
+| [Daydream](https://open.spotify.com/track/2xwOqFwANa6Emye6KlkgHT) | [Bloom Line](https://open.spotify.com/artist/53HYxzneeSBFFUEjkfXleH) | [Daydream](https://open.spotify.com/album/0jQFksbr0abnIxMJFxSitd) | 3:44 | 2022-05-11 |  |
 | [Dead In The Water \(feat\. Zack Gray\)](https://open.spotify.com/track/4lYq3zUbjg9gkb1HaECfzA) | [Falling North](https://open.spotify.com/artist/4kLMqs7ECFydJLPlfDnEe5), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Dead In The Water \(feat\. Zack Gray\)](https://open.spotify.com/album/6FbfWSfaLmc3HqjIUwktl4) | 3:35 | 2022-03-25 | 2022-04-30 |
 | [Decoded](https://open.spotify.com/track/5HK4l3NoJdlr0IJMnKaO8s) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Decoded](https://open.spotify.com/album/7vegLp4uXP12y3DF1Xv8q0) | 4:00 | 2022-01-14 | 2022-02-17 |
 | [Destiny](https://open.spotify.com/track/7qaDWCHqAyFpvHTIapDaCH) | [KHRONOS](https://open.spotify.com/artist/7opzGx53AcdP7CnEfCcp1q) | [Destiny](https://open.spotify.com/album/5wDOD5VRpyv9BFV1N0lMXp) | 2:43 | 2022-01-14 | 2022-02-05 |
@@ -222,6 +223,7 @@
 | [Run Like the Wind](https://open.spotify.com/track/1QTioKoSnWLDde5BunQnCp) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [IDK, Vol\. 2](https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt) | 2:51 | 2022-01-14 |  |
 | [Run Like The Wind \- Ookay Remix](https://open.spotify.com/track/13iTzttt2HngeGOKtWFOmi) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [IDK, Vol\. 2 \(Remixes\)](https://open.spotify.com/album/7EEYkZsi5x7PJwXYGRuPXX) | 3:07 | 2022-03-15 |  |
 | [SAKURA BURST \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/track/3Zj9WSEjueL8UecCOC67tT) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [SAKURA BURST \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/album/06XBg45fb1ASwRGAwFyeD7) | 4:07 | 2022-02-11 | 2022-04-08 |
+| [Salt](https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Light Garden](https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe) | 3:43 | 2022-05-11 |  |
 | [Samurai \- The FifthGuys Remix](https://open.spotify.com/track/6YUOdQK3fXRAZIiP34GAJC) | [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [Samurai \(The FifthGuys Remix\)](https://open.spotify.com/album/1SUlHPKx6r7F77IJdOMJx2) | 2:41 | 2022-02-18 | 2022-04-30 |
 | [Sandman](https://open.spotify.com/track/2FlK5T7ULbQ55sbbXfy2Ac) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [IDK, Vol\. 2](https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt) | 3:43 | 2022-01-14 | 2022-02-17 |
 | [Save My Life](https://open.spotify.com/track/2vhKNqxKDX50UsGwdMVoa6) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Save My Life](https://open.spotify.com/album/3NTBDYHESaWP27eZCzQHNL) | 4:08 | 2022-01-14 |  |

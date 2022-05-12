@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1950s\. Cover: Elvis.
 
-154 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5d834Vfy0GpgZiax0dUN0t)
+155 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/5d834Vfy0GpgZiax0dUN0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Rave On](https://open.spotify.com/track/33aYzW5ToRjiFOzkubeJ8H) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:49 | 2021-08-19 |  |
 | [Ready Teddy](https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:06 | 2021-04-23 |  |
 | [Rebel Rouser](https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [The Best Of Duane Eddy](https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf) | 2:33 | 2021-04-23 |  |
+| [Red Hot](https://open.spotify.com/track/5r7lMv8rrmbcZM5tb5KhvI) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [The Very Best of Billy Lee Riley \- Red Hot](https://open.spotify.com/album/7aEhripRrzuqSxPX9p1RdQ) | 2:29 | 2022-04-29 |  |
 | [Red Hot \- Original](https://open.spotify.com/track/5nfPJteJ9PWGmD3j6iPH7s) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Essential Sun Rockabillies Vol.1](https://open.spotify.com/album/3olS3X2vcYccsIQMfJvXHJ) | 2:33 | 2021-04-23 | 2022-05-11 |
 | [Red River Rock](https://open.spotify.com/track/7EM1CeaWPjCdVY1vO0KiO4) | [Johnny & The Hurricanes](https://open.spotify.com/artist/5sgpmIi6mJNrm3fs3swCa7) | [Rockin' & Rollin' \(Volume 1\)](https://open.spotify.com/album/3L5LMEk9l6WaSgBmIU0j2G) | 2:08 | 2021-04-23 |  |
 | [Reet Petite](https://open.spotify.com/track/3h4udS0WeWbsur3yfjvnm4) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:49 | 2021-04-23 |  |
@@ -124,7 +125,7 @@
 | [Rocket 88](https://open.spotify.com/track/7Hf3sav4WoUcZFAug1PJwj) | [Jackie Brenston & His Delta Cats](https://open.spotify.com/artist/2ucOV7b445I6Dl6OFN71aN) | [Boogie 101](https://open.spotify.com/album/3JUFxhr6WIFJVR8FzISRN3) | 2:47 | 2021-04-23 |  |
 | [Rockin Daddy](https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sun Records \- Turn It Up! Rock 'N' Roll](https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5) | 1:59 | 2021-04-23 |  |
 | [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 | 2021-04-23 |  |
-| [Rockin' with My Baby](https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Rockin' with My Baby / It's Me Baby](https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT) | 2:20 | 2022-04-29 |  |
+| [Rockin' with My Baby](https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Rockin' with My Baby / It's Me Baby](https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT) | 2:20 | 2022-04-29 | 2022-05-12 |
 | [Roll Over Beethoven](https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2) | 2:24 | 2021-04-23 |  |
 | [See You Later, Alligator](https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Bill Haley's Greatest Hits](https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV) | 2:45 | 2021-04-23 |  |
 | [Sh\-Boom \- Life Could Be A Dream \- Sh\-Boom](https://open.spotify.com/track/6dAG4jFPsR4zb2kRhYq3IA) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [Life Could Be A Dream](https://open.spotify.com/album/2I97y4jn4OWdDYYo2J0eo7) | 2:48 | 2021-04-23 |  |
@@ -155,8 +156,8 @@
 | [What'd I Say](https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles & Friends](https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv) | 6:26 | 2021-04-23 |  |
 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 | 2021-04-23 |  |
 | [Whirlwind](https://open.spotify.com/track/0MDSiYP6H57fNyIeTLlcpy) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [The Memphis Sound](https://open.spotify.com/album/6xGfS4Tm1x5wqsyKrhivU2) | 2:04 | 2022-04-29 |  |
-| [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2021-04-23 | 2022-05-11 |
-| [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/3EdEML9OuJmadb6qHvLvID) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Whole Lotta Shakin' Going On / It'll Be Me](https://open.spotify.com/album/3yIm9sw7a2OScbcB1bPJeV) | 2:53 | 2022-04-29 |  |
+| [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2021-04-23 |  |
+| [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/3EdEML9OuJmadb6qHvLvID) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Whole Lotta Shakin' Going On / It'll Be Me](https://open.spotify.com/album/3yIm9sw7a2OScbcB1bPJeV) | 2:53 | 2022-04-29 | 2022-05-12 |
 | [Why Do Fools Fall In Love](https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Frankie Lymon & The Teenagers Greatest Hits](https://open.spotify.com/album/4XtIZdH7Q9CTW31BKo6KkC) | 2:20 | 2021-04-23 |  |
 | [Why Do I Love You](https://open.spotify.com/track/7LkUjO1SvSUbtZGv2U3UqX) | [Alton and Jimmy](https://open.spotify.com/artist/6vWyaGuabliWa65EWzVnOp) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:20 | 2021-04-23 |  |
 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 | 2022-04-29 |  |

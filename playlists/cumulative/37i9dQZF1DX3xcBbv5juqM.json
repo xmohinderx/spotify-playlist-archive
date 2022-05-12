@@ -487,7 +487,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 211120,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
@@ -1340,6 +1340,28 @@
     },
     {
       "album": {
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "City Spud",
+          "url": "https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291781,
+      "name": "Ride Wit Me",
+      "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
+    },
+    {
+      "album": {
         "name": "Rooty",
         "url": "https://open.spotify.com/album/7C6fuwe0uiJLbhKGWJViJx"
       },
@@ -1629,7 +1651,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 283506,
       "name": "This I Promise You",
       "url": "https://open.spotify.com/track/2Dp2LRrY71XIfLe3co2Qnh"
@@ -1773,7 +1795,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 175400,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/2648dyCgcTFNkJZXgGlHPv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: Arcade Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,340 likes - 81 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,635 likes - 81 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Radar Andinos](https://open.spotify.com/playlist/37i9dQZF1DXbzFWXFlsp56)
 
-> Celebramos la Generación 2021 de Radar Andinos con Blessd.
+> Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Nath.
 
-60 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
+61 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [IMPOSIBLE \- REMIX](https://open.spotify.com/track/5eaLGyPrVG7FbZ5vVnBm93) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [IMPOSIBLE \(REMIX\)](https://open.spotify.com/album/6TxOo9xRjrNPyNSHLtMpIR) | 3:41 | 2021-11-10 |  |
 | [Invisibles](https://open.spotify.com/track/6QY5zaoulgveKCr7XE0vs9) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes \(Álbum\)](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:52 | 2021-11-10 |  |
 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 | 2021-11-10 |  |
+| [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 | 2022-05-11 |  |
 | [Llora](https://open.spotify.com/track/6F1yFxQM0AcVYECHmuPLJL) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Mirando al cielo](https://open.spotify.com/album/4bKbHme7qn0tV1UW9MnRGn) | 3:46 | 2022-04-08 |  |
 | [Los Guasangú \- \(Cerrero Remix\)](https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Los Guasangú \(Cerrero Remix\)](https://open.spotify.com/album/7Khc3U2x9wL0e7kx8PiFkV) | 5:11 | 2022-03-22 |  |
 | [Luisa](https://open.spotify.com/track/46yArd7VDfAZxKDGoKgE7Z) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Luisa](https://open.spotify.com/album/41J6vPb5TIgniMbscw4s9w) | 4:09 | 2022-04-08 |  |
@@ -64,7 +65,7 @@
 | [Todo Lo Que Sube](https://open.spotify.com/track/0Z1Q2goNVWqG0CNRl4EHiU) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Todo Lo Que Sube](https://open.spotify.com/album/6tNoe4u7S1qDPBOIP0gUDD) | 4:25 | 2021-11-10 |  |
 | [Tus Fotos \(with Javiielo\)](https://open.spotify.com/track/1I9nceRI1bSCE4QYiltuI3) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [Tus Fotos \(with Javiielo\)](https://open.spotify.com/album/0DSdxX7PSym9rzdrhypsMr) | 3:01 | 2021-11-10 |  |
 | [Una Noche Más](https://open.spotify.com/track/4CT9AWXN4jphJxRBhnUiNi) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Una Noche Más](https://open.spotify.com/album/7gJmkFRzY2CZAbtrpZJ8ct) | 3:31 | 2021-11-10 |  |
-| [Yo Soy Dios](https://open.spotify.com/track/587UgJMuHMo92aZiclStcB) | [KASBEEL](https://open.spotify.com/artist/1kb0YlRT7t0LIfWZjnxJzt) | [Yo Soy Dios](https://open.spotify.com/album/2iw7qlG3uOlg6qC56rUJOs) | 3:47 | 2021-11-10 |  |
+| [Yo Soy Dios](https://open.spotify.com/track/587UgJMuHMo92aZiclStcB) | [KASBEEL](https://open.spotify.com/artist/1kb0YlRT7t0LIfWZjnxJzt) | [Yo Soy Dios](https://open.spotify.com/album/2iw7qlG3uOlg6qC56rUJOs) | 3:47 | 2021-11-10 | 2022-05-12 |
 | [Yo\-Po\-No\-Po, Versión 1 \- Prieto Riddiman Remix](https://open.spotify.com/track/1T4rUon9lBzvZWGzhlKP6t) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Prieto Riddiman](https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD) | [Yo\-Po\-No\-Po Prieto Riddiman Remixes](https://open.spotify.com/album/0PwQraZWaO5BkmJ5SsRshr) | 3:34 | 2022-04-08 |  |
 | [¿qué más da?](https://open.spotify.com/track/09I75WeZNBSDUXX66hcWHF) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [¿qué más da?](https://open.spotify.com/album/2lhGoTSIZ1VJx5OkXhNW6t) | 3:11 | 2022-03-22 |  |
 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2021-11-10 | 2022-04-09 |

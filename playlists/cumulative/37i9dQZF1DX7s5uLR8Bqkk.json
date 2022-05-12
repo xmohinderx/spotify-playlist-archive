@@ -77,7 +77,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 276720,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 190185,
       "name": "Royals",
       "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 212560,
       "name": "Sweet Nothing (feat. Florence Welch)",
       "url": "https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5"
@@ -1699,6 +1699,28 @@
       "duration_ms": 250188,
       "name": "The Monster",
       "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
+    },
+    {
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ayah Marar",
+          "url": "https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "Thinking About You (feat. Ayah Marar)",
+      "url": "https://open.spotify.com/track/1KtD0xaLAikgIt5tPbteZQ"
     },
     {
       "album": {
@@ -1894,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "What I Might Do (Remixes)",
+        "url": "https://open.spotify.com/album/0Duw21nv2litvUWq8dNihg"
+      },
+      "artists": [
+        {
+          "name": "Ben Pearce",
+          "url": "https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195737,
+      "name": "What I Might Do - Radio Edit",
+      "url": "https://open.spotify.com/track/6j0niPvPMjeJvGCYjitMLg"
+    },
+    {
+      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -1909,6 +1949,28 @@
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "album": {
+        "name": "Settle (Special Edition)",
+        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277687,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/5EWFuo4ObEnfndc57sTuIo"
     },
     {
       "album": {

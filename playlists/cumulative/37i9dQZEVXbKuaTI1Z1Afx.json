@@ -3544,6 +3544,24 @@
     },
     {
       "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
+    },
+    {
+      "album": {
         "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
       },
@@ -3559,7 +3577,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 140733,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu"
@@ -8093,10 +8111,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 158693,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7"
+    },
+    {
+      "album": {
+        "name": "VooDoo",
+        "url": "https://open.spotify.com/album/1ImWN8VtzmAZcoYjc0dNtO"
+      },
+      "artists": [
+        {
+          "name": "BOA QG",
+          "url": "https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ"
+        },
+        {
+          "name": "BOA Hunxho",
+          "url": "https://open.spotify.com/artist/0XGTd9W7aCCY7aqrprmdlL"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "VooDoo - Original Mix",
+      "url": "https://open.spotify.com/track/4unr5Fdon9ADjCW4irnRxf"
     },
     {
       "album": {

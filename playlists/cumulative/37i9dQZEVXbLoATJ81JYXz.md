@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-776 songs - 1 day 17 hr 14 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+777 songs - 1 day 17 hr 17 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [2022](https://open.spotify.com/track/5zgU6yN5KwEeNNobhnYZq5) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2022](https://open.spotify.com/album/4b50TZmLWKcvuMCr2FcxKp) | 2:05 | 2022-01-05 | 2022-01-07 |
 | [21 oktober](https://open.spotify.com/track/4552KW3Vq81rDGKk8aumUn) | [Elvis](https://open.spotify.com/artist/3A0bILim1KH4gOhxr7O51k) | [21 oktober](https://open.spotify.com/album/1gQxrZovTDBmwvgLf3iDGj) | 2:47 | 2021-11-14 | 2021-11-16 |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-02 |
-| [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2021-10-31 |  |
+| [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2021-10-31 | 2022-05-12 |
 | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/track/4lzEs26mJHbvj9TIIJZPRS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2step \(feat\. 1.Cuz\)](https://open.spotify.com/album/57FHPyAprjWD6mXaY5gE1f) | 2:33 | 2022-05-10 |  |
+| [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-05-11 |  |
 | [3 Apor](https://open.spotify.com/track/7iuyUQEH88OGBTm6xeLLWO) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows \(Deluxe\)](https://open.spotify.com/album/09z2zAz4OhioQ4dnRc3DmW) | 2:35 | 2021-05-30 | 2021-06-06 |
 | [30 personer](https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [30 personer](https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1) | 2:49 | 2022-01-22 | 2022-03-01 |
 | [365](https://open.spotify.com/track/5pgOoj7TbVdJg2CQr7DY2B) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:29 | 2021-10-03 | 2021-10-11 |
@@ -44,7 +45,7 @@
 | [Allting Har Sitt Pris](https://open.spotify.com/track/7gtuepfo1W8FYTnYmmwjMe) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Allting Har Sitt Pris](https://open.spotify.com/album/2YR3DvmlK0cSQwDbW0z6tv) | 3:49 | 2022-02-19 | 2022-02-27 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-11-14 | 2021-11-19 |
 | [Amo](https://open.spotify.com/track/422lbxDt4LGd8EvqwNLLq9) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Amo](https://open.spotify.com/album/53DQV8AagWMxuN0AGfFylV) | 3:08 | 2022-03-26 | 2022-04-30 |
-| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-03-11 | 2022-05-08 |
+| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-03-11 |  |
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2021-03-27\* | 2021-04-26 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-05-25 | 2021-05-30 |
 | [As I Am \(feat\. Khalid\)](https://open.spotify.com/track/6F2r4HgpJnvKDmkN6JEN6J) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:54 | 2021-03-27\* | 2021-04-03 |
@@ -267,7 +268,7 @@
 | [Grand Hotel](https://open.spotify.com/track/0wPvHlO3JYbZ5hgN47J4fq) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Grand Hotel](https://open.spotify.com/album/57SKyZuyphWP9zzO40ZEsV) | 4:49 | 2021-10-10 | 2021-10-11 |
 | [GRANNAR](https://open.spotify.com/track/1IVgj6uFQeDD7iFmgSrTp6) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [GRANNAR](https://open.spotify.com/album/0DPUBcVY0MPalAE1nawmN5) | 2:10 | 2021-11-07 | 2021-11-21 |
 | [Gråt inte mer](https://open.spotify.com/track/3Cum5PAE6Nw52V43aRbLve) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Gråt inte mer](https://open.spotify.com/album/7aNTcA7BfHWL8tYzS9BSxV) | 3:28 | 2021-12-08 | 2021-12-09 |
-| [Gråter om du vill](https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Gråter om du vill](https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW) | 3:48 | 2022-01-15 |  |
+| [Gråter om du vill](https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Gråter om du vill](https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW) | 3:48 | 2022-01-15 | 2022-05-12 |
 | [Gubben i lådan](https://open.spotify.com/track/0ln3ddVLRoA8HCXvMW5GSH) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Så mycket bättre 2021 \- Tolkningarna](https://open.spotify.com/album/49FLFQdobDBuT3VaLSRY2E) | 3:22 | 2021-12-30 | 2022-01-06 |
 | [Gubben i lådan](https://open.spotify.com/track/46fLDmKjHKqLGVFscIaQju) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Gubben i lådan](https://open.spotify.com/album/4JbUGgOPhvwf0O3YoyICMp) | 3:22 | 2021-12-20 | 2021-12-31 |
 | [GUBBS 4 EVER](https://open.spotify.com/track/6yjZFmqSqys1DHS0wbHP9W) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [GUBBS 4 EVER](https://open.spotify.com/album/5u9WFFXOuidKIhTVji0SVH) | 3:08 | 2021-11-14 | 2021-11-14 |

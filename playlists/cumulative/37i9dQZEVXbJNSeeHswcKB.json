@@ -2149,6 +2149,24 @@
     {
       "album": {
         "name": "Dat heb jij gedaan",
+        "url": "https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211174,
+      "name": "Dat heb jij gedaan",
+      "url": "https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g"
+    },
+    {
+      "album": {
+        "name": "Dat heb jij gedaan",
         "url": "https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ"
       },
       "artists": [
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 211174,
       "name": "Dat heb jij gedaan",
       "url": "https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9"
@@ -3447,7 +3465,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 214015,
       "name": "Ghir Ntiya",
       "url": "https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX"
@@ -11037,6 +11055,28 @@
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "album": {
+        "name": "Zwaartekracht",
+        "url": "https://open.spotify.com/album/5Fpl3Jy7iaVdZbN71UMGkP"
+      },
+      "artists": [
+        {
+          "name": "Regi",
+          "url": "https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192470,
+      "name": "Zwaartekracht",
+      "url": "https://open.spotify.com/track/1T3fp4AZDhBeQSESi6LO8k"
     },
     {
       "album": {

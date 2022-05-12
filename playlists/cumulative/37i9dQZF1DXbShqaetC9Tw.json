@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "11:59 (feat. Goopy)",
+        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
+      },
+      "artists": [
+        {
+          "name": "JEY",
+          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
+        },
+        {
+          "name": "Goopy",
+          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177680,
+      "name": "11:59 (feat. Goopy)",
+      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
+    },
+    {
+      "album": {
         "name": "Fly me away",
         "url": "https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ"
       },
@@ -102,6 +124,24 @@
     },
     {
       "album": {
+        "name": "02",
+        "url": "https://open.spotify.com/album/6y0S37CZTxlpZbch0BQ9SY"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292305,
+      "name": "apple",
+      "url": "https://open.spotify.com/track/0P36tlZcXVFHmBymnFa5y7"
+    },
+    {
+      "album": {
         "name": "are you in a dream?",
         "url": "https://open.spotify.com/album/1raHA9FtloLPlT0ZBeVMRT"
       },
@@ -175,7 +215,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 261705,
       "name": "bath",
       "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
@@ -359,7 +399,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 119401,
       "name": "but I'll wait for you",
       "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
@@ -421,7 +461,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 241765,
       "name": "Cigarette (Feat. Tablo, MISO)",
       "url": "https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh"
@@ -689,7 +729,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/4tK8Ye9n2CMdLNLGObntax"
@@ -751,7 +791,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 186000,
       "name": "First time",
       "url": "https://open.spotify.com/track/3c6G3VkE3TbHdUYrDaATOS"
@@ -839,7 +879,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 274426,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0TVNwwR03yg6MvkDn12Oy3"
@@ -937,7 +977,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 192628,
       "name": "I Said",
       "url": "https://open.spotify.com/track/0wV4K0cM78MbIk0B6b6Y4t"
@@ -955,7 +995,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 190000,
       "name": "I`m not ready yet",
       "url": "https://open.spotify.com/track/1jbUZJlpPejvs6QAe31rNu"
@@ -1053,7 +1093,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 197343,
       "name": "I\u2019m afraid",
       "url": "https://open.spotify.com/track/6gfQx6a6RN7DzCklR9Re4I"
@@ -1125,7 +1165,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 156551,
       "name": "London",
       "url": "https://open.spotify.com/track/6gFH1XTKibwn3Yw5SdcFe5"
@@ -1179,7 +1219,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 184026,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/6sKXC3X5tw2jQ3IUFp4DWt"
@@ -1201,7 +1241,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 197550,
       "name": "m o v i e (feat. Jade)",
       "url": "https://open.spotify.com/track/4uEtsUadZyyeVwvRpyp8WI"
@@ -1223,6 +1263,24 @@
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
+    },
+    {
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214922,
+      "name": "midnight",
+      "url": "https://open.spotify.com/track/6SuEgkFfiESo1pMLSyAbl3"
     },
     {
       "album": {
@@ -1393,7 +1451,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 370659,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc"
@@ -1477,7 +1535,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 217984,
       "name": "Pink Slip",
       "url": "https://open.spotify.com/track/17IFPGDfnC3kFZ0QGBjSi2"
@@ -1625,7 +1683,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 181211,
       "name": "sad love song",
       "url": "https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp"
@@ -1665,7 +1723,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 197867,
       "name": "Silence",
       "url": "https://open.spotify.com/track/0CE4igtHymDL5Zc2y8jIWZ"
@@ -1701,7 +1759,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 147607,
       "name": "Sorry That I Love You Still",
       "url": "https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL"
@@ -1785,7 +1843,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 198000,
       "name": "Sunrise (Feat. EunBii)",
       "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
@@ -1839,7 +1897,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 124913,
       "name": "the day we first met",
       "url": "https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg"
@@ -1951,10 +2009,28 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 168626,
       "name": "vestigial organ",
       "url": "https://open.spotify.com/track/6dLqphQWh5zEqyYnm1F358"
+    },
+    {
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/1iaF6aZcLBBevmt3sUqhrF"
+      },
+      "artists": [
+        {
+          "name": "Wyne",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168631,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/545LDOC3KjQy9lGowzm03L"
     },
     {
       "album": {

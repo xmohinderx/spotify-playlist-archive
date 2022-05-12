@@ -4,7 +4,7 @@
 
 > Relax to the sounds of acoustic blues and folk...
 
-65 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/2SbTfjlboeBgZrjdgbkYSX)
+66 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2SbTfjlboeBgZrjdgbkYSX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,10 +41,11 @@
 | [Interlude](https://open.spotify.com/track/7qWRxZQ6YTNDxUV3MRuZiV) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 0:31 | 2021-12-17 | 2022-05-10 |
 | [Lake Shore Drive \(Slight Return\)](https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi) | [Harris Newman](https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 4:24 | 2021-12-17 |  |
 | [Lazy Sunday](https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a) | [Eddie Martin](https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU) | [The Birdcage Sessions](https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S) | 4:16 | 2021-12-17 |  |
+| [Let Your Light Shine on Me](https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:08 | 2022-05-11 |  |
 | [Lonely Days](https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 2:32 | 2021-12-17 | 2022-05-09 |
-| [Long Nights I](https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Seven Pines](https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV) | 4:05 | 2021-12-17 |  |
+| [Long Nights I](https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Seven Pines](https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV) | 4:05 | 2021-12-17 | 2022-05-12 |
 | [Long River \(Allegheny\)](https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 4:05 | 2021-12-17 | 2022-04-21 |
-| [Memoria Djalma](https://open.spotify.com/track/6j5vLbt1IXoWmCUDhdwntn) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 5:32 | 2021-12-17 |  |
+| [Memoria Djalma](https://open.spotify.com/track/6j5vLbt1IXoWmCUDhdwntn) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 5:32 | 2021-12-17 | 2022-05-12 |
 | [Mesquite Shade](https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 1:36 | 2021-12-17 |  |
 | [Mississippi Phone Booth](https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:06 | 2021-12-17 |  |
 | [Natural West](https://open.spotify.com/track/2REcTot6y6qEgp5uDQDW06) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/2S8ncEYiSq2bwsCpgbeb0F) | 5:03 | 2021-12-17 |  |
@@ -71,7 +72,7 @@
 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 | 2022-04-08 | 2022-04-17 |
 | [Way Down Yonder Blues](https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9) | [Lemuel Turner](https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS) | [Turn Me Loose: Outsiders of Old\-Time Music](https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y) | 3:12 | 2021-12-17 |  |
 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 | 2021-12-17 |  |
-| [When You Got a Good Friend](https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Doyle Bramhall II](https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:52 | 2022-04-15 | 2022-05-09 |
+| [When You Got a Good Friend](https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Doyle Bramhall II](https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:52 | 2022-04-15 |  |
 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 | 2021-12-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

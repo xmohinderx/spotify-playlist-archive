@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,584 likes - 103 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,613 likes - 103 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 9 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |
 | 10 | [BOMBAY](https://open.spotify.com/track/38YVgO1TvyosaSZ7Kd8AIA) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/6l6smfQXJMgSCPpsWkUiLi) | 3:06 |
 | 11 | [Protein](https://open.spotify.com/track/3PJV3HC2LogvCrS6hDs2el) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Protein](https://open.spotify.com/album/4GiYLASQVCiNWIt6Z1g5BZ) | 2:55 |
-| 12 | [Jealousy](https://open.spotify.com/track/2hZ81TNFhnuh6CURag4hif) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Jealousy](https://open.spotify.com/album/10ZMrVI82W3MRPacYteBTl) | 2:18 |
+| 12 | [Jealousy](https://open.spotify.com/track/2hZ81TNFhnuh6CURag4hif) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Jealousy](https://open.spotify.com/album/10ZMrVI82W3MRPacYteBTl) | 2:18 |
 | 13 | [Lullaby](https://open.spotify.com/track/1fTvkU6kdBi5PIvljWboKt) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Lullaby](https://open.spotify.com/album/0HFd1xKLpmy4Lk6H9YdBdc) | 3:06 |
 | 14 | [Die Hard](https://open.spotify.com/track/5VzpAMUOFLlDnhBnx28y9X) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [ALPHA PLACE](https://open.spotify.com/album/103O26J3AHRwYYZyRfKuwQ) | 3:17 |
 | 15 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 |

@@ -1,61 +1,13 @@
 {
   "description": "Join <a href=\"https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d\">Lorem Life w/ Max & Dev</a> w/ guests Devon Again & KiNG MALA this Weds @ 5pm PST ",
-  "num_followers": 918429,
+  "num_followers": 918341,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjE5ODgzMCwwMDAwMDM3NjAwMDAwMTgwYWViOTcyY2QwMDAwMDE4MDk3NjgwZGUz",
+  "snapshot_id": "MTY1MjI4MzA5MSwwMDAwMDM3NzAwMDAwMTgwYjNiZjI4OTAwMDAwMDE4MDk3NjgwZGUz",
   "tracks": [
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "My Kink is Karma",
-        "url": "https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222578,
-      "name": "My Kink is Karma",
-      "url": "https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm"
-    },
-    {
-      "added_at": "2022-04-15 13:01:15",
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Yuck",
-      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "whatever u like",
-        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 200877,
-      "name": "whatever u like",
-      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
-    },
     {
       "added_at": "2022-05-10 16:07:10",
       "album": {
@@ -75,6 +27,58 @@
       "duration_ms": 244444,
       "name": "Otro Atardecer",
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
+    },
+    {
+      "added_at": "2022-05-11 15:31:31",
+      "album": {
+        "name": "good grief",
+        "url": "https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "bargaining (with Verzache)",
+      "url": "https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga"
+    },
+    {
+      "added_at": "2022-05-11 15:31:31",
+      "album": {
+        "name": "elastic",
+        "url": "https://open.spotify.com/album/4IL4IiCrIxULLgKdCwTai8"
+      },
+      "artists": [
+        {
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+        }
+      ],
+      "duration_ms": 183402,
+      "name": "elastic",
+      "url": "https://open.spotify.com/track/6P1OAtvQe1cHPgecI4qwhn"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "whatever u like",
+        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 200877,
+      "name": "whatever u like",
+      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -109,6 +113,54 @@
       "url": "https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe"
     },
     {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "My Kink is Karma",
+        "url": "https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 222578,
+      "name": "My Kink is Karma",
+      "url": "https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm"
+    },
+    {
+      "added_at": "2022-05-11 15:31:31",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+    },
+    {
+      "added_at": "2022-04-15 13:01:15",
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "ONE IN A MILLION",
+      "url": "https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb"
+    },
+    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "See you Soon",
@@ -123,6 +175,22 @@
       "duration_ms": 206600,
       "name": "See you Soon",
       "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
+    },
+    {
+      "added_at": "2022-05-11 15:31:31",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7MDXOV9d7ynT8DbM8LZuTd"
+      },
+      "artists": [
+        {
+          "name": "Hamond",
+          "url": "https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR"
+        }
+      ],
+      "duration_ms": 153566,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/1N7fBgBvOdaaTEXGDWPwPi"
     },
     {
       "added_at": "2022-03-17 22:41:08",
@@ -169,6 +237,38 @@
       "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
     },
     {
+      "added_at": "2022-04-15 13:01:15",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Yuck",
+      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "All My Fault",
+        "url": "https://open.spotify.com/album/5Mkk2sGhQatyKwo4hrdvKS"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "All My Fault",
+      "url": "https://open.spotify.com/track/53lwPgJYa1cK61auYuVuMP"
+    },
+    {
       "added_at": "2022-05-06 04:00:00",
       "album": {
         "name": "5am and I Can't Sleep",
@@ -183,22 +283,6 @@
       "duration_ms": 159104,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l"
-    },
-    {
-      "added_at": "2022-04-15 13:01:15",
-      "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "ONE IN A MILLION",
-      "url": "https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb"
     },
     {
       "added_at": "2022-04-15 13:01:15",
@@ -249,36 +333,20 @@
       "url": "https://open.spotify.com/track/1gqhKpica2xrkDE9E3nNTv"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-11 15:31:31",
       "album": {
-        "name": "WHY NOT",
-        "url": "https://open.spotify.com/album/1RoIk52mQZdGkPd0AFw3Kz"
+        "name": "Curses! Pt. 2",
+        "url": "https://open.spotify.com/album/4XsgXbAaIplkV4kHFl4EJ4"
       },
       "artists": [
         {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
         }
       ],
-      "duration_ms": 180578,
-      "name": "Everything You Want",
-      "url": "https://open.spotify.com/track/6siRNZnRBTnuDIHBNCCeZ9"
-    },
-    {
-      "added_at": "2022-04-22 15:52:52",
-      "album": {
-        "name": "Look at it in the Light",
-        "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 166852,
-      "name": "Look at it in the Light",
-      "url": "https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB"
+      "duration_ms": 163586,
+      "name": "Moment of Silence",
+      "url": "https://open.spotify.com/track/1qE3Yen80w8CRKp9Xe8jgl"
     },
     {
       "added_at": "2022-04-21 04:00:00",
@@ -313,20 +381,36 @@
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
-      "added_at": "2022-04-19 14:53:23",
+      "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "ATTENTION: MILEY LIVE",
-        "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
         }
       ],
-      "duration_ms": 207879,
-      "name": "Like a Prayer - Live",
-      "url": "https://open.spotify.com/track/1nM9BUwYIkDbLABWUHjNZH"
+      "duration_ms": 160017,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Awkward Conversations",
+        "url": "https://open.spotify.com/album/0BB9ouB4kSMT5u52Lsocxf"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Awkward Conversations",
+      "url": "https://open.spotify.com/track/3IWMJdzSOZyGi9jMGIWmrU"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -363,34 +447,34 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P"
+        "name": "WHY NOT",
+        "url": "https://open.spotify.com/album/1RoIk52mQZdGkPd0AFw3Kz"
       },
       "artists": [
         {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 160017,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7"
+      "duration_ms": 180578,
+      "name": "Everything You Want",
+      "url": "https://open.spotify.com/track/6siRNZnRBTnuDIHBNCCeZ9"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-04-08 18:31:32",
       "album": {
-        "name": "Awkward Conversations",
-        "url": "https://open.spotify.com/album/0BB9ouB4kSMT5u52Lsocxf"
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
       "artists": [
         {
-          "name": "late night drive home",
-          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 199636,
-      "name": "Awkward Conversations",
-      "url": "https://open.spotify.com/track/3IWMJdzSOZyGi9jMGIWmrU"
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -407,6 +491,38 @@
       "duration_ms": 169030,
       "name": "better",
       "url": "https://open.spotify.com/track/15rVXXprHKchfNG4kLnIqP"
+    },
+    {
+      "added_at": "2022-04-19 14:53:23",
+      "album": {
+        "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 207879,
+      "name": "Like a Prayer - Live",
+      "url": "https://open.spotify.com/track/1nM9BUwYIkDbLABWUHjNZH"
+    },
+    {
+      "added_at": "2022-04-22 15:52:52",
+      "album": {
+        "name": "Look at it in the Light",
+        "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 166852,
+      "name": "Look at it in the Light",
+      "url": "https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB"
     },
     {
       "added_at": "2022-04-08 13:36:47",
@@ -455,22 +571,6 @@
       "duration_ms": 378953,
       "name": "coyote (2015-2021)",
       "url": "https://open.spotify.com/track/6D0qeYwdqBBb2x6t2aondQ"
-    },
-    {
-      "added_at": "2022-04-08 18:31:32",
-      "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2022-04-20 04:00:00",
@@ -1025,22 +1125,6 @@
       "url": "https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "All My Fault",
-        "url": "https://open.spotify.com/album/5Mkk2sGhQatyKwo4hrdvKS"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "All My Fault",
-      "url": "https://open.spotify.com/track/53lwPgJYa1cK61auYuVuMP"
-    },
-    {
       "added_at": "2022-03-25 14:04:46",
       "album": {
         "name": "Uncanny Valley",
@@ -1119,38 +1203,6 @@
       "duration_ms": 172000,
       "name": "friendship",
       "url": "https://open.spotify.com/track/3JvXtgeeIfN4MQaew28CLV"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/2gsPik2x7iO7kNb8vxHnRk"
-      },
-      "artists": [
-        {
-          "name": "Sky McCreery",
-          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
-        }
-      ],
-      "duration_ms": 126824,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/2xDqbLFSfHDlfpeUmJ4RwQ"
-    },
-    {
-      "added_at": "2022-03-28 17:33:11",
-      "album": {
-        "name": "We'll Never Have Sex",
-        "url": "https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 99620,
-      "name": "We'll Never Have Sex",
-      "url": "https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd"
     },
     {
       "added_at": "2022-03-26 22:03:07",
@@ -1247,22 +1299,6 @@
       "duration_ms": 123556,
       "name": "Anything You Want",
       "url": "https://open.spotify.com/track/78LMazmfqncADjyJVae8dN"
-    },
-    {
-      "added_at": "2022-03-25 18:39:15",
-      "album": {
-        "name": "Loveworm",
-        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/0oS6978exXanyIZJD4cdgV"
     },
     {
       "added_at": "2022-03-17 22:41:08",
@@ -1425,22 +1461,6 @@
       "url": "https://open.spotify.com/track/4TfoDylS5Is5i67nAI0oeK"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "sorry",
-        "url": "https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 220199,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
-    },
-    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Little Lies",
@@ -1471,22 +1491,6 @@
       "duration_ms": 296647,
       "name": "Coolest fucking bitch in town",
       "url": "https://open.spotify.com/track/7oF49vbWvNZBSqPRzrqTrr"
-    },
-    {
-      "added_at": "2022-03-02 20:14:15",
-      "album": {
-        "name": "nowhere to hide",
-        "url": "https://open.spotify.com/album/22uIeW2YT5GtSjg6Tc5zh0"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 171937,
-      "name": "nowhere to hide",
-      "url": "https://open.spotify.com/track/7xxMS1SNunq6HeBjqiswid"
     },
     {
       "added_at": "2022-02-25 05:00:00",

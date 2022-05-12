@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Penedo, Caio Luccas
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,460 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,522 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 27 | [20k](https://open.spotify.com/track/5jQrHKl7ehUznLOjbqQMOl) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Ar Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [Baby Chief Records](https://open.spotify.com/artist/1kytZpbYcSINavzrDrfpDd) | [20k](https://open.spotify.com/album/5Mg7iSImJ358j645v2jTKx) | 2:41 |
 | 28 | [Uma Noite](https://open.spotify.com/track/3BLS0ML5itjLkE2oKc5e2r) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Uma Noite](https://open.spotify.com/album/311q1ioli7z6URlkzBdLIc) | 2:52 |
 | 29 | [Mira Laser](https://open.spotify.com/track/12WxZikyM1bOt0WZmI98aQ) | [Meno Will](https://open.spotify.com/artist/2WSCexbkl1P97BKo4FU2QE), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o), [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61) | [Mira Laser](https://open.spotify.com/album/6G7llM9QAMg8qbMTzmNcJ9) | 2:30 |
-| 30 | [Camomila](https://open.spotify.com/track/5GA2k3zSZ8QcpA7U5mKefj) | [Thiago](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Camomila](https://open.spotify.com/album/46ZFMknkTMreOd2ErKTo0W) | 3:23 |
+| 30 | [Camomila](https://open.spotify.com/track/5GA2k3zSZ8QcpA7U5mKefj) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Camomila](https://open.spotify.com/album/46ZFMknkTMreOd2ErKTo0W) | 3:23 |
 | 31 | [Marlboro](https://open.spotify.com/track/6PSqBf9CgUhXmp87c78dSP) | [Dascar](https://open.spotify.com/artist/4xMLWhVR0oGEfR4jh6Bni6) | [Marlboro](https://open.spotify.com/album/0kOOqnjpRZSp3MWSntd3qd) | 3:24 |
 | 32 | [Sonhos](https://open.spotify.com/track/7hFAchNP8a1AwrLsPqqVvf) | [Psych](https://open.spotify.com/artist/56cqVCO3vabMghliZvW9S1) | [Sonhos](https://open.spotify.com/album/75qLs9R0LxTeCYn0onmOgl) | 2:41 |
 | 33 | [Bandido Não Dança BB](https://open.spotify.com/track/57WYicG97oHBu0uJgd6u38) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bandido Não Dança BB](https://open.spotify.com/album/3DF7jgjk6GJP0zrAmp2HGu) | 2:13 |

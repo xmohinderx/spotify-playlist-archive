@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128386,
+  "num_followers": 128381,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzM5OSxjNzZhZjk0MzUyYWE2OTYxMDUyYWFiMjYwZjBmNmJlODVmYTY4YzE5",
+  "snapshot_id": "MzQwMCxiYmUzZDE0MmY0NGU5NjRhNGNlYjAwMDNkZjQyZTM4ODFhODIzMDcx",
   "tracks": [
+    {
+      "added_at": "2022-05-11 16:08:28",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D"
+      },
+      "artists": [
+        {
+          "name": "Claes Rosen",
+          "url": "https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d"
+        }
+      ],
+      "duration_ms": 270500,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d"
+    },
     {
       "added_at": "2022-05-10 16:21:04",
       "album": {

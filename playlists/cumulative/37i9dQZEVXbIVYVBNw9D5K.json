@@ -480,6 +480,24 @@
     },
     {
       "album": {
+        "name": "Anlayamazs\u0131n",
+        "url": "https://open.spotify.com/album/2wvOjQFpSeiG1nETlPZEHA"
+      },
+      "artists": [
+        {
+          "name": "Seksend\u00f6rt",
+          "url": "https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242389,
+      "name": "Anlayamazs\u0131n",
+      "url": "https://open.spotify.com/track/39DenhkBkmDsYBpl1rAchr"
+    },
+    {
+      "album": {
         "name": "C5MODE",
         "url": "https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu"
       },
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 138855,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/3Obq1XTegJy7ISrAA9VjQk"
@@ -7063,7 +7081,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 236630,
       "name": "Son Dura\u011f\u0131n",
       "url": "https://open.spotify.com/track/63PJ7AVOjL5WcaYmPxiblX"
@@ -8039,6 +8057,24 @@
       "duration_ms": 176800,
       "name": "Zemin",
       "url": "https://open.spotify.com/track/5WT3ohLdg04eUy9Bz2sRsi"
+    },
+    {
+      "album": {
+        "name": "Zenti",
+        "url": "https://open.spotify.com/album/4hSqLGHsRgNuUMGQNBp7lb"
+      },
+      "artists": [
+        {
+          "name": "EX",
+          "url": "https://open.spotify.com/artist/2RL1fxftHZRkaF1JQ62gaV"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Zenti",
+      "url": "https://open.spotify.com/track/1LuaqpbhicGeIYCptQf7cO"
     },
     {
       "album": {

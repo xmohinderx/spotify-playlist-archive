@@ -304,6 +304,28 @@
     },
     {
       "album": {
+        "name": "Bang My Line (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Bang My Line (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
+    },
+    {
+      "album": {
         "name": "beachin",
         "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
       },
@@ -439,6 +461,28 @@
       "duration_ms": 225192,
       "name": "can't let u go",
       "url": "https://open.spotify.com/track/2s47R9iLqKMrWP1MRlCECR"
+    },
+    {
+      "album": {
+        "name": "Ce n'est que de l'eau",
+        "url": "https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei"
+      },
+      "artists": [
+        {
+          "name": "Clay and Friends",
+          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220856,
+      "name": "Ce n'est que de l'eau",
+      "url": "https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99"
     },
     {
       "album": {
@@ -667,7 +711,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 149000,
       "name": "Comment tu vas finir",
       "url": "https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT"
@@ -1151,6 +1195,24 @@
       "duration_ms": 193894,
       "name": "Enjoy The Night",
       "url": "https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9"
+    },
+    {
+      "album": {
+        "name": "Euroyey\u00e9",
+        "url": "https://open.spotify.com/album/3Gy1Ofv3Il9tmBahQeP6sJ"
+      },
+      "artists": [
+        {
+          "name": "Evripidis and His Tragedies",
+          "url": "https://open.spotify.com/artist/5m1U2MS7bnlNKB72RJSeys"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287952,
+      "name": "Euroyey\u00e9",
+      "url": "https://open.spotify.com/track/043vbS11R0MfvPr7BS8Bp5"
     },
     {
       "album": {
@@ -1686,6 +1748,24 @@
     },
     {
       "album": {
+        "name": "Karaoke",
+        "url": "https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Karaoke",
+      "url": "https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq"
+    },
+    {
+      "album": {
         "name": "Keep Moving",
         "url": "https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938"
       },
@@ -1885,7 +1965,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 199008,
       "name": "Let's Be Dead Together",
       "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
@@ -2105,6 +2185,24 @@
       "duration_ms": 217038,
       "name": "Magn\u00f3lia",
       "url": "https://open.spotify.com/track/4P9lDfkVelxGAVH1YO9xXE"
+    },
+    {
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe"
     },
     {
       "album": {
@@ -2423,7 +2521,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 195161,
       "name": "Need A Moment",
       "url": "https://open.spotify.com/track/54dfyiqH4Q8FQAyASqJNyt"
@@ -2459,7 +2557,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 209132,
       "name": "No Hay Futuro",
       "url": "https://open.spotify.com/track/4kcQiQO4Mn5XuSN6QMAL3p"
@@ -2938,6 +3036,24 @@
     },
     {
       "album": {
+        "name": "Vie d'ange",
+        "url": "https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168593,
+      "name": "Quand tu parles",
+      "url": "https://open.spotify.com/track/7eUOku4llYDEuY3Jo0PnuV"
+    },
+    {
+      "album": {
         "name": "It's All Smiles",
         "url": "https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd"
       },
@@ -3333,7 +3449,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 218786,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK"
@@ -3593,7 +3709,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 202177,
       "name": "Tears at Bae",
       "url": "https://open.spotify.com/track/3WPFFAjIYYGnfRkjO29lqQ"
@@ -4025,7 +4141,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 281170,
       "name": "where u are",
       "url": "https://open.spotify.com/track/5Twzpnu3oSKEWEjSHRlhgn"

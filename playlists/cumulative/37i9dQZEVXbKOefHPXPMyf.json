@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -413,6 +413,28 @@
     {
       "album": {
         "name": "Imagina",
+        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297664,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
+    },
+    {
+      "album": {
+        "name": "Imagina",
         "url": "https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo"
       },
       "artists": [
@@ -427,7 +449,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2"
@@ -3906,6 +3928,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248818,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
+    },
+    {
+      "album": {
         "name": "Versos de un Card\u00edaco",
         "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
@@ -4317,7 +4357,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 104120,
       "name": "Nastinasti",
       "url": "https://open.spotify.com/track/7GJ12dEAJKEiO4TblfOFGo"
@@ -5271,7 +5311,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Se Acabo (feat. Method Man) - Remix",
       "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
@@ -5868,6 +5908,28 @@
     },
     {
       "album": {
+        "name": "Sufriendo",
+        "url": "https://open.spotify.com/album/3N1bcRqm5JIAzST7cejp0g"
+      },
+      "artists": [
+        {
+          "name": "MYL\u00d8",
+          "url": "https://open.spotify.com/artist/5TpsDaHB9KPoIzkWpub8Zh"
+        },
+        {
+          "name": "Zafra Negra",
+          "url": "https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Sufriendo - Extended Mix",
+      "url": "https://open.spotify.com/track/2knInFWrqtDlUgpSVwtXG3"
+    },
+    {
+      "album": {
         "name": "sun and moon",
         "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
       },
@@ -5879,7 +5941,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 151507,
       "name": "sun and moon",
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"

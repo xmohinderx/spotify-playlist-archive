@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "Ahwak Hiba",
       "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 232618,
       "name": "Bala Wala Shi - Live",
       "url": "https://open.spotify.com/track/5352qGIrAQLSeJkiEvvOQi"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 253895,
       "name": "Kefayak Aazar",
       "url": "https://open.spotify.com/track/25HgTWTcPXoEF0mjSYrIpy"
@@ -1047,6 +1047,24 @@
       "duration_ms": 154635,
       "name": "LYA",
       "url": "https://open.spotify.com/track/0VgcPBRN0cVOJ2e2x7Qbhv"
+    },
+    {
+      "album": {
+        "name": "Ayech Bi Oyouni",
+        "url": "https://open.spotify.com/album/5pfkDggECTlWNLL9Jf4orK"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242747,
+      "name": "Ma Baaref",
+      "url": "https://open.spotify.com/track/6S49sbvebaWWUYJCxQ9kYx"
     },
     {
       "album": {

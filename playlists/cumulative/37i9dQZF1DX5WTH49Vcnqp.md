@@ -4,7 +4,7 @@
 
 > music that's hard to define but easy to love feat\. Cosmo's Midnight & Tkay Maidza
 
-323 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+324 songs - 18 hr 36 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2021-12-28 | 2022-04-01 |
 | [Intro](https://open.spotify.com/track/2ClJu45cS0Gu8QMgm0u16V) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Intro](https://open.spotify.com/album/3zjQLCpXlFRFNEmS0exFSg) | 2:54 | 2021-12-28 | 2022-01-27 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-02-10 | 2022-04-01 |
-| [Is It Worth Being Sad](https://open.spotify.com/track/2dFBrhBttZWkcf5XT7fwUa) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/2pfUy25RS4yTTWpA4bfCge) | 4:01 | 2022-03-10 |  |
+| [Is It Worth Being Sad](https://open.spotify.com/track/2dFBrhBttZWkcf5XT7fwUa) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/2pfUy25RS4yTTWpA4bfCge) | 4:01 | 2022-03-10 | 2022-05-12 |
 | [It's a Lot](https://open.spotify.com/track/4S548hdBDpaVE87HXwGT2a) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [It's a Lot](https://open.spotify.com/album/6HajKAvn7DGmBdXaZUrxbf) | 3:54 | 2022-03-17 | 2022-04-15 |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe) | 3:41 | 2022-02-07 | 2022-04-08 |
 | [It's Been a Long Day](https://open.spotify.com/track/3deMLKUGOk1FTcm2eqPpwI) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [It's Been a Long Day](https://open.spotify.com/album/49oWmrrTgigMNm6qMkd8Nd) | 4:04 | 2022-04-07 |  |
@@ -212,6 +212,7 @@
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-10 |  |
 | [Open Your Mind](https://open.spotify.com/track/6Hix9sKooZFXywNvpap932) | [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj) | [Open Your Mind](https://open.spotify.com/album/54lSmyWcVY2w8znYpWKmdi) | 3:25 | 2022-01-13 | 2022-03-25 |
 | [Our Love](https://open.spotify.com/track/3OLRyRWN5AmPN599FYVen8) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Our Love](https://open.spotify.com/album/1W1eq6dsFCZdeHKPIpysbH) | 3:52 | 2022-02-14 | 2022-04-29 |
+| [Out For You](https://open.spotify.com/track/7tZ82AN6jSBD3EImKU2nNB) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [Out For You](https://open.spotify.com/album/5X3Nxt3hcuZOAM52saE6aT) | 4:02 | 2022-05-11 |  |
 | [Out of Love](https://open.spotify.com/track/20lINJwQ17j8nyBdoFmcH3) | [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [Out of Love](https://open.spotify.com/album/10FxGadvwF074E0zuklil8) | 3:39 | 2021-12-28 | 2022-01-21 |
 | [outgrow](https://open.spotify.com/track/5kGXxLtGesx9K16kgA7Bwu) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [outgrow](https://open.spotify.com/album/7upwvHki0CEuPEFDwrACbX) | 3:30 | 2022-03-24 | 2022-04-22 |
 | [Oysters in My Pocket](https://open.spotify.com/track/5nkeTRV4E4ZAlc4s1aRgYK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters in My Pocket](https://open.spotify.com/album/4NLfJvUyJCT7itpeVvHY0K) | 2:42 | 2022-03-10 |  |

@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-107 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+108 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [pass you by](https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/06AsoKSZYbdlX0a01Z3RFt) | 4:05 | 2021-11-24 |  |
 | [Passport Home](https://open.spotify.com/track/4sasqE4lDhBhm4ER7EsQaf) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Passport Home](https://open.spotify.com/album/35oMYxeEPYIGzwIOOVqX28) | 3:00 | 2021-11-24 |  |
 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 | 2021-11-24 |  |
-| [Realize It All \- Acoustic](https://open.spotify.com/track/2LfXGIgvpDsJjU83SDhZA5) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \- Acoustic](https://open.spotify.com/album/2vW0T2b0VUmWg1qpa0EFfP) | 3:36 | 2022-04-28 |  |
+| [Realize It All \- Acoustic](https://open.spotify.com/track/2LfXGIgvpDsJjU83SDhZA5) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \- Acoustic](https://open.spotify.com/album/2vW0T2b0VUmWg1qpa0EFfP) | 3:36 | 2022-04-28 | 2022-05-12 |
+| [Realize It All \- Acoustic](https://open.spotify.com/track/5taE8n05uD4WgK8WuXPWhX) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \(Acoustic\)](https://open.spotify.com/album/5olhftqamGHYnbVAQiWlOj) | 3:36 | 2022-05-11 |  |
 | [Right Through Me](https://open.spotify.com/track/5dPREVUsHP468JeuqHNkuQ) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/498cZKg8d0Wp1uDna2wZ5p) | 3:33 | 2021-11-24 |  |
 | [Roller Coaster](https://open.spotify.com/track/1Xx7NsxXA91Jgt1fJ3NfNp) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/7bNCCK8eObScVeCpbW9jQx) | 4:29 | 2021-11-24 |  |
 | [Sacrifice](https://open.spotify.com/track/3XuIsQe0Z00LlyMLul6h8r) | [Gyo Kretz](https://open.spotify.com/artist/0JvKdVXySsrLWA3TO4uSnE) | [Sacrifice](https://open.spotify.com/album/7xkRFlCoYQe8bXgwFuFIqt) | 3:35 | 2021-11-24 |  |

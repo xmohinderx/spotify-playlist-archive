@@ -4,7 +4,7 @@
 
 > next gen pop featuring EMELINE
 
-919 songs - 1 day 20 hr 40 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+920 songs - 1 day 20 hr 43 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Last Call](https://open.spotify.com/track/4rDCLOKV7O4ijIPNVs5Xlb) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [Last Call](https://open.spotify.com/album/4pSJMW8fSwcQFZibsIx0r3) | 3:14 | 2022-04-08 | 2022-04-16 |
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-01-14 | 2022-04-29 |
 | [Last Time](https://open.spotify.com/track/7lrbSHt44BpSCOvy4oODf9) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Last Time](https://open.spotify.com/album/6H7FpjXzpiwxmH2u6M4uJ0) | 2:08 | 2021-06-05 | 2021-06-26 |
+| [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 | 2022-05-11 |  |
 | [LazyBaby](https://open.spotify.com/track/4jjI9eHfSHtsmacfjeZvhc) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [LazyBaby](https://open.spotify.com/album/3cd1HgIGBisYfK7UUThumR) | 2:41 | 2021-04-03 | 2021-06-14 |
 | [Let It Ring](https://open.spotify.com/track/39RQAEuPs04z9wCFnMBuA7) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Let It Ring](https://open.spotify.com/album/3euSNVHfekPRn3aeG2r1Up) | 2:48 | 2021-03-26 | 2021-05-15 |
 | [Let Me](https://open.spotify.com/track/3j8h9Eu2R3JSbJdMQSGbZM) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Let Me](https://open.spotify.com/album/4I9CdA8S8MgpXAtMJ35zdb) | 3:23 | 2021-11-20 | 2022-01-15 |

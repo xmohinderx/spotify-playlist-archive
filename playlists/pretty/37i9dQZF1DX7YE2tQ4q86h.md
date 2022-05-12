@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > No sleep, bus, club, another club\. Like this? You'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover: Tove Lo
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,485 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,634 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 |
-| 2 | [Technicolor](https://open.spotify.com/track/2nwOerYhdIBIxXqZZsk33g) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [Technicolor](https://open.spotify.com/album/31Obu5QSvQgbdm6B5puiCc) | 3:17 |
-| 3 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 |
-| 4 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 |
-| 5 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 |
-| 6 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
-| 7 | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0) | 2:44 |
+| 2 | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0) | 2:44 |
+| 3 | [Technicolor](https://open.spotify.com/track/2nwOerYhdIBIxXqZZsk33g) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [Technicolor](https://open.spotify.com/album/31Obu5QSvQgbdm6B5puiCc) | 3:17 |
+| 4 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 |
+| 5 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 |
+| 6 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 |
+| 7 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
 | 8 | [Girls In Bikinis](https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:25 |
 | 9 | [I'd Rather Have Sex](https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:53 |
 | 10 | [A Driver Saved My Night](https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/4V714KyABj469FBI9Dao8T) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [I Love You But I Love Me More](https://open.spotify.com/track/351FDCXLTRFLiSdKz8lY0j) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:43 |
 | 100 | [Met Him Last Night \- Dave Audé Remix](https://open.spotify.com/track/0mHz9vqcznnfUcLqfQb3kd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Met Him Last Night \(Dave Audé Remix\)](https://open.spotify.com/album/4MBl3DXlabFiVVQX6gwZLd) | 3:44 |
 
-Snapshot ID: `MTY1MjEwNTE5NCwwMDAwMDAyODAwMDAwMTgwYTkyNGFhMzUwMDAwMDE4MDk0ZTk2ZDA4`
+Snapshot ID: `MTY1MjMwMjgyNywwMDAwMDAyOTAwMDAwMTgwYjRlYzUxNjgwMDAwMDE4MDk0ZTk2ZDA4`

@@ -1,13 +1,73 @@
 {
   "description": "spotify hyperpop playlist Cover: 100 gecs",
-  "num_followers": 318588,
+  "num_followers": 318787,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgxODY2MCwwMDAwMDE1ZDAwMDAwMTgwOTgxMDgxMmMwMDAwMDE4MDI5MWMzZmRl",
+  "snapshot_id": "MTY1MjMwNzUxMiwwMDAwMDE1ZTAwMDAwMTgwYjUzM2NkNDUwMDAwMDE4MDI5MWMzZmRl",
   "tracks": [
+    {
+      "added_at": "2022-05-11 22:18:32",
+      "album": {
+        "name": "good grief",
+        "url": "https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "do or die (feat. carolesdaughter)",
+      "url": "https://open.spotify.com/track/5Xzkhj06J4UpzUPBKD9uwU"
+    },
+    {
+      "added_at": "2022-05-06 06:31:00",
+      "album": {
+        "name": "TROLL ME",
+        "url": "https://open.spotify.com/album/2CjOugY1olVuGk5ZlMlLU7"
+      },
+      "artists": [
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        },
+        {
+          "name": "MANON",
+          "url": "https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3"
+        }
+      ],
+      "duration_ms": 214944,
+      "name": "TROLL ME",
+      "url": "https://open.spotify.com/track/2O59SRSok0egHtp3yYo2z4"
+    },
+    {
+      "added_at": "2022-05-11 22:18:32",
+      "album": {
+        "name": "THUMBTAX",
+        "url": "https://open.spotify.com/album/0wJ2NI4f1oKkiEbD6hpV3j"
+      },
+      "artists": [
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        },
+        {
+          "name": "GIRLI",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "THUMBTAX",
+      "url": "https://open.spotify.com/track/7wPKLSzl6SfJbzUcIuxSSz"
+    },
     {
       "added_at": "2022-05-06 06:31:00",
       "album": {
@@ -97,26 +157,6 @@
       "url": "https://open.spotify.com/track/0DyEnrW1MGBHA1sRLb2eGp"
     },
     {
-      "added_at": "2022-05-06 06:31:00",
-      "album": {
-        "name": "TROLL ME",
-        "url": "https://open.spotify.com/album/2CjOugY1olVuGk5ZlMlLU7"
-      },
-      "artists": [
-        {
-          "name": "six impala",
-          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
-        },
-        {
-          "name": "MANON",
-          "url": "https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3"
-        }
-      ],
-      "duration_ms": 214944,
-      "name": "TROLL ME",
-      "url": "https://open.spotify.com/track/2O59SRSok0egHtp3yYo2z4"
-    },
-    {
       "added_at": "2022-04-29 06:17:00",
       "album": {
         "name": "MISA & LIGHT",
@@ -163,22 +203,6 @@
     {
       "added_at": "2022-05-06 06:31:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/6W9MmVO5evkp4vRgpe3HMK"
-      },
-      "artists": [
-        {
-          "name": "Docx",
-          "url": "https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj"
-        }
-      ],
-      "duration_ms": 78669,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/4LvAjFkdT6wq8JXHhegqHK"
-    },
-    {
-      "added_at": "2022-05-06 06:31:00",
-      "album": {
         "name": "Twilight Zone",
         "url": "https://open.spotify.com/album/1onkzMWL0XAmSY3egGWHiO"
       },
@@ -211,6 +235,26 @@
       "duration_ms": 142105,
       "name": "WANNABE",
       "url": "https://open.spotify.com/track/3Wdf1ZrqRDZDXf81KsRpXY"
+    },
+    {
+      "added_at": "2022-05-11 22:18:32",
+      "album": {
+        "name": "back to basics",
+        "url": "https://open.spotify.com/album/5g292JzR0KQsZEjeejw6vi"
+      },
+      "artists": [
+        {
+          "name": "Raegun",
+          "url": "https://open.spotify.com/artist/4dP4Yg3yQvDbi5SiVSao2y"
+        },
+        {
+          "name": "angelus",
+          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
+        }
+      ],
+      "duration_ms": 152764,
+      "name": "back to basics",
+      "url": "https://open.spotify.com/track/62NqnOOnBPwVEvhAYJC02K"
     },
     {
       "added_at": "2022-04-29 06:17:00",
@@ -259,6 +303,22 @@
       "duration_ms": 180923,
       "name": "COMPLICATED (feat. aldn & 8485)",
       "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
+    },
+    {
+      "added_at": "2022-05-06 06:31:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/6W9MmVO5evkp4vRgpe3HMK"
+      },
+      "artists": [
+        {
+          "name": "Docx",
+          "url": "https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj"
+        }
+      ],
+      "duration_ms": 78669,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4LvAjFkdT6wq8JXHhegqHK"
     },
     {
       "added_at": "2022-01-28 05:13:00",
@@ -1705,74 +1765,6 @@
       "url": "https://open.spotify.com/track/3MIapMgux77HYyou6TuZUe"
     },
     {
-      "added_at": "2022-03-04 05:05:00",
-      "album": {
-        "name": "Boucher",
-        "url": "https://open.spotify.com/album/5cC4BUGWp9VQn88VY5NKcV"
-      },
-      "artists": [
-        {
-          "name": "LICK DROP",
-          "url": "https://open.spotify.com/artist/2Z0A3tYHjY3X7NAWZKty3U"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Boucher",
-      "url": "https://open.spotify.com/track/27xtIMe0h6xuDd0b29kR1v"
-    },
-    {
-      "added_at": "2022-03-04 05:05:00",
-      "album": {
-        "name": "calcimine",
-        "url": "https://open.spotify.com/album/0qeHMBQEDT3IOzw9K1KBvg"
-      },
-      "artists": [
-        {
-          "name": "wishlane",
-          "url": "https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l"
-        },
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
-        }
-      ],
-      "duration_ms": 207659,
-      "name": "calcimine",
-      "url": "https://open.spotify.com/track/2vhjmUOgdBZT9jZdX5CUX7"
-    },
-    {
-      "added_at": "2022-03-04 05:05:00",
-      "album": {
-        "name": "a lie",
-        "url": "https://open.spotify.com/album/3Li5su802AiQprh70LJlaK"
-      },
-      "artists": [
-        {
-          "name": "Skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142719,
-      "name": "a lie",
-      "url": "https://open.spotify.com/track/3iAudZdHSkeMrT1t6L1vIk"
-    },
-    {
-      "added_at": "2022-03-04 05:05:00",
-      "album": {
-        "name": "Mutual XO",
-        "url": "https://open.spotify.com/album/4poZocs3xwN5Xp0WgdQU46"
-      },
-      "artists": [
-        {
-          "name": "Kota Banks",
-          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
-        }
-      ],
-      "duration_ms": 172331,
-      "name": "Mutual XO",
-      "url": "https://open.spotify.com/track/5IGoUYZdWjfTUjGlfeTKRc"
-    },
-    {
       "added_at": "2022-01-26 22:13:05",
       "album": {
         "name": "fishmonger",
@@ -1787,22 +1779,6 @@
       "duration_ms": 199796,
       "name": "Spoiled little brat",
       "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
-    },
-    {
-      "added_at": "2022-01-28 05:13:00",
-      "album": {
-        "name": "hey prentiss",
-        "url": "https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe"
-      },
-      "artists": [
-        {
-          "name": "Prentiss",
-          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
-        }
-      ],
-      "duration_ms": 112728,
-      "name": "running back",
-      "url": "https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX"
     },
     {
       "added_at": "2022-02-04 05:03:00",
@@ -1821,22 +1797,6 @@
       "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
-      "added_at": "2022-02-04 05:03:00",
-      "album": {
-        "name": "hey i'm in texas, do u wanna hang/talk?",
-        "url": "https://open.spotify.com/album/2D9rWo88jntywhPBuGjPJZ"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
-        }
-      ],
-      "duration_ms": 154551,
-      "name": "hey i'm in texas, do u wanna hang/talk?",
-      "url": "https://open.spotify.com/track/7yRkcEBdg4vhpK8ddBDh5w"
-    },
-    {
       "added_at": "2022-02-18 15:20:49",
       "album": {
         "name": "STFU...ur done",
@@ -1851,38 +1811,6 @@
       "duration_ms": 138000,
       "name": "STFU...ur done",
       "url": "https://open.spotify.com/track/2V47hvJ7KTgEtfgEbwm6DN"
-    },
-    {
-      "added_at": "2022-02-18 15:20:49",
-      "album": {
-        "name": "portland",
-        "url": "https://open.spotify.com/album/74QxIstmSZX5IAGTATvbRC"
-      },
-      "artists": [
-        {
-          "name": "polearm",
-          "url": "https://open.spotify.com/artist/6o0hI3oqnxFcUAqzyQOGPC"
-        }
-      ],
-      "duration_ms": 142312,
-      "name": "portland",
-      "url": "https://open.spotify.com/track/4SHZsJ8mwyWkv1zK6uGfP5"
-    },
-    {
-      "added_at": "2022-02-23 17:05:00",
-      "album": {
-        "name": "fool4love",
-        "url": "https://open.spotify.com/album/1RJudDWxEImNZZT8KfrTh2"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "fool4love",
-      "url": "https://open.spotify.com/track/0RSgXjblj8lNRMQBveuJfA"
     },
     {
       "added_at": "2022-02-25 05:09:00",
@@ -1901,54 +1829,6 @@
       "url": "https://open.spotify.com/track/5bsI9gfjvA8a5G97Q60Goj"
     },
     {
-      "added_at": "2022-02-25 05:09:00",
-      "album": {
-        "name": "Staring at the Ceiling",
-        "url": "https://open.spotify.com/album/2pI8tzfUm19pAGtH3ZHfq5"
-      },
-      "artists": [
-        {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
-        }
-      ],
-      "duration_ms": 223441,
-      "name": "Staring at the Ceiling",
-      "url": "https://open.spotify.com/track/1vPRVC9OhWpLUFmHwUCziG"
-    },
-    {
-      "added_at": "2022-02-25 19:54:55",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/5DkrsWtn8AbzHH9dSEMkk6"
-      },
-      "artists": [
-        {
-          "name": "Ravenna Golden",
-          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
-        }
-      ],
-      "duration_ms": 175483,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/4DnyQxa0UP9xorQcG58BYW"
-    },
-    {
-      "added_at": "2022-03-02 18:45:49",
-      "album": {
-        "name": "numb part 2",
-        "url": "https://open.spotify.com/album/7ktysKkrEIdjkPAVIRZ5hE"
-      },
-      "artists": [
-        {
-          "name": "keyblayde808",
-          "url": "https://open.spotify.com/artist/06SF4BIHG5xinTaS2x59qG"
-        }
-      ],
-      "duration_ms": 129733,
-      "name": "numb part 2",
-      "url": "https://open.spotify.com/track/5RIV2ymv9B38pWBrYyWTbF"
-    },
-    {
       "added_at": "2022-03-04 05:05:00",
       "album": {
         "name": "homegrown",
@@ -1963,42 +1843,6 @@
       "duration_ms": 138872,
       "name": "same town",
       "url": "https://open.spotify.com/track/79s2YK9V1mGJkSOxt4a94K"
-    },
-    {
-      "added_at": "2022-03-04 05:05:00",
-      "album": {
-        "name": "Kira Kira",
-        "url": "https://open.spotify.com/album/0AfOR652wvcBCWzxwh5OWz"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Kira Kira",
-      "url": "https://open.spotify.com/track/2lQsaY9KsbtE8oij9Db9eB"
-    },
-    {
-      "added_at": "2022-03-04 05:05:00",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/5LcMGi5nDM6E3Dw0XdfWT3"
-      },
-      "artists": [
-        {
-          "name": "4cf",
-          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
-        },
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        }
-      ],
-      "duration_ms": 169638,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/7gtgtYy4edlHDlxSx8EW38"
     }
   ],
   "unique_name": "hyperpop",

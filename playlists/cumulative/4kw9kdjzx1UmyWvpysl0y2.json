@@ -2838,6 +2838,24 @@
     },
     {
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D"
+      },
+      "artists": [
+        {
+          "name": "Claes Rosen",
+          "url": "https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d"
+    },
+    {
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF"
       },

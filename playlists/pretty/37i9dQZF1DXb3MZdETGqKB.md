@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Fantastic Negrito
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,552 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,592 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 3 | [NEVER TELL ME THE ODDS](https://open.spotify.com/track/2iK0Txu1uCzpGH196CsQEf) | [Watt White](https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8) | [NEVER TELL ME THE ODDS](https://open.spotify.com/album/5SuQXa5Uw9BxJUIyg735rH) | 2:42 |
 | 4 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 |
 | 5 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 |
-| 6 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr.](https://open.spotify.com/artist/5ZFhORdL6hTb3sypMrT5GV) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 |
+| 6 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 |
 | 7 | [Tell It Like It Is](https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Neither Here Nor There](https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy) | 2:55 |
 | 8 | [All Roads Are Good](https://open.spotify.com/track/5p0K8BNmVIBBycmUpIQ3bb) | [OPLIAM](https://open.spotify.com/artist/4vx5pLklP1r4WOGo1SA0DE) | [All Roads Are Good](https://open.spotify.com/album/7GeAo0kFkaE1Xm4S4FwCWj) | 3:02 |
 | 9 | [I'm Alright](https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [I'm Alright](https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv) | 3:09 |

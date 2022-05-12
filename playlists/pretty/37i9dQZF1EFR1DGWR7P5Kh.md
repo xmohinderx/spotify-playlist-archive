@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6U4NLpJSiOtRzGLs9R3IZQ">Kaydence </a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685 likes - 30 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 687 likes - 30 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 29 | [強迫症](https://open.spotify.com/track/5KQFnunZEKYmzBiHH7OZG6) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [Not Typical](https://open.spotify.com/album/7HjJPtOBqOYWWaQTb9D37x) | 3:14 |
 | 30 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 |
 
-Snapshot ID: `Mjc1MzcxNjUsMDAwMDAwMDA3OTM0ZWZiNWQ2NzI3MTU3ZTM3MTIzNmI4ZmRiMjUxOQ==`
+Snapshot ID: `Mjc1Mzg2MDcsMDAwMDAwMDBhYjJhMWNlNTM3ZDE2OGIwYThjNTNmZDFiY2I3NWVhMA==`

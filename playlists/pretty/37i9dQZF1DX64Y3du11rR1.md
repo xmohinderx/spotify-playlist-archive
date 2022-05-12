@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,505 likes - 69 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,746 likes - 69 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

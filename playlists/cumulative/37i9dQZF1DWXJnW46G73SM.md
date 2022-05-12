@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: حسين الجسمي
 
-145 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+146 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Leilet El Omr](https://open.spotify.com/track/0pAURGTZvKbI1NlpHyTk0o) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Leilet El Omr](https://open.spotify.com/album/0NnIrYnPUcdOfZqAH5ONCw) | 3:22 | 2021-12-23 | 2022-01-11 |
 | [Lema3lomatak](https://open.spotify.com/track/1Bv6JmoZtPbtM7h7DiokBm) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Lema3lomatak](https://open.spotify.com/album/0JbRsVsstAwVJedePoWkyo) | 3:51 | 2021-12-23 | 2022-01-27 |
 | [Lessa El Kalam Zaalan](https://open.spotify.com/track/399Q2o51ye2iv9X8ZYK9ur) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Lessa El Kalam Zaalan](https://open.spotify.com/album/6wDgTjqUMDomxXqifhSUGT) | 4:35 | 2021-12-23 | 2022-02-04 |
+| [Loha Bahta](https://open.spotify.com/track/4qzZfVfmn8eSIRjHANyacT) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Loha Bahta](https://open.spotify.com/album/2f4UyBHV6OigpFp0GG5drs) | 4:22 | 2022-05-11 |  |
 | [M3a Nafsi](https://open.spotify.com/track/4U5UIEpRVxQWEoq1KqOZ18) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [M3a Nafsi](https://open.spotify.com/album/0rvj679AbMEqIjU1fwq4G2) | 3:32 | 2022-02-25 |  |
 | [Ma Kan Ala Baly](https://open.spotify.com/track/1055RLG3kqVGBfOusIH8wg) | [Andrew Mounir](https://open.spotify.com/artist/5j87IbPLinOmiegvVuuDAA), [Hana Ghoneim](https://open.spotify.com/artist/6Ob3o641XhD90mvYqSU4Uk), [Ahmed Nihad](https://open.spotify.com/artist/2nRvsNbmm4kJSHmM3rel9r) | [Ma Kan Ala Baly](https://open.spotify.com/album/1tgXPdVUYVgPvb8vuXDvTZ) | 3:43 | 2022-01-20 | 2022-04-01 |
 | [Maat El Kalam](https://open.spotify.com/track/75CTXFuRMEA6gX7D56Ivlo) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Maat El Kalam](https://open.spotify.com/album/3hginZfdRtOqnDuOEeeG3w) | 3:28 | 2022-03-03 |  |

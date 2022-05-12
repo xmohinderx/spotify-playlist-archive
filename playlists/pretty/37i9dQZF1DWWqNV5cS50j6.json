@@ -1,13 +1,33 @@
 {
   "description": "Not not not pop. Cover: Junior Varsity",
-  "num_followers": 640341,
+  "num_followers": 640473,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjE5Mjg5NiwwMDAwMzQzNzAwMDAwMTgwYWU1ZWU1YzQwMDAwMDE4MDk3ODBlMzli",
+  "snapshot_id": "MTY1MjI4NDg1MCwwMDAwMzQzODAwMDAwMTgwYjNkYTAwYjgwMDAwMDE4MDk3ODBlMzli",
   "tracks": [
+    {
+      "added_at": "2022-05-11 16:00:50",
+      "album": {
+        "name": "good grief",
+        "url": "https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "bargaining (with Verzache)",
+      "url": "https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga"
+    },
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
@@ -137,6 +157,22 @@
       "url": "https://open.spotify.com/track/73D4DWoHYqmoKGbOoim9qB"
     },
     {
+      "added_at": "2022-05-11 16:00:50",
+      "album": {
+        "name": "Ester",
+        "url": "https://open.spotify.com/album/4fRVpyAnoJZy0n1VQjAlNo"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "duration_ms": 185465,
+      "name": "Ester",
+      "url": "https://open.spotify.com/track/4JGv7vVgZvj5eTh4lecMBS"
+    },
+    {
       "added_at": "2022-05-09 22:47:10",
       "album": {
         "name": "Death n' Taxes",
@@ -235,6 +271,22 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
+    },
+    {
+      "added_at": "2022-05-11 16:00:50",
+      "album": {
+        "name": "GOOFY!",
+        "url": "https://open.spotify.com/album/751ZLh6i3eBwqJdbVNKekz"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota",
+          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "GOOFY!",
+      "url": "https://open.spotify.com/track/2ddmgkH269Ur0rIN8oqctt"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -407,22 +459,6 @@
       "duration_ms": 148307,
       "name": "crashed",
       "url": "https://open.spotify.com/track/10yGK9L3lAjcBh4HniEzfq"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "ignorance is bliss",
-        "url": "https://open.spotify.com/album/2l2OLcnXmhvxmQG9MWksXI"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 174692,
-      "name": "ignorance is bliss",
-      "url": "https://open.spotify.com/track/4nC2R5thxOEUfcEQ5a0q3B"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -619,22 +655,6 @@
       "duration_ms": 203750,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/38Ee6NuvWgn52kDMhIXEOz"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "you'll be dead before you know it",
-        "url": "https://open.spotify.com/album/6KLiLpuoG3C6f6FuA7AICj"
-      },
-      "artists": [
-        {
-          "name": "Swansea Skag",
-          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "I Heard You Bought a Gun",
-      "url": "https://open.spotify.com/track/4mjzA3I0QhNNA3WRMqHK5t"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -1555,22 +1575,6 @@
       "duration_ms": 173840,
       "name": "CHOICE COWBOY",
       "url": "https://open.spotify.com/track/7BjbkbWJrPfRp0Z4NUvYhp"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "PASTIMES+",
-        "url": "https://open.spotify.com/album/1oxM9aky7Q1YMXdKINqtjf"
-      },
-      "artists": [
-        {
-          "name": "Hadji Gaviota",
-          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "FIT PIC",
-      "url": "https://open.spotify.com/track/44xDuPMVZaGlsBCcBSsfCF"
     },
     {
       "added_at": "2022-05-09 22:47:10",

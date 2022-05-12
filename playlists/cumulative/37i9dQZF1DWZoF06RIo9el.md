@@ -4,7 +4,7 @@
 
 > The Latin hits of tomorrow are on Spotify today\. Cover: Zion & Lennox, Danny Ocean
 
-149 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/43291nJ92u7zOO0hZDqeVI)
+150 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/43291nJ92u7zOO0hZDqeVI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 | 2021-12-14 | 2022-01-21 |
 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 | 2022-02-14 | 2022-04-29 |
 | [Kelede](https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Kelede](https://open.spotify.com/album/4ERN7SaxV36wlu9rZJFmwb) | 2:39 | 2022-02-14 |  |
+| [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 | 2022-05-11 |  |
 | [La Busqué \(with Yandel & Rauw Alejandro\)](https://open.spotify.com/track/5nNcBfbJu1RjBoKplRPw5m) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cotidiano](https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM) | 4:31 | 2021-12-14 | 2022-02-25 |
 | [La Equivocada](https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Equivocada](https://open.spotify.com/album/4SFf9s5HXSycEG0zLgK11l) | 3:18 | 2022-04-29 |  |
 | [La Funka](https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Funka](https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G) | 3:18 | 2021-12-14 | 2022-01-21 |
@@ -106,7 +107,7 @@
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-10 |  |
 | [Ojos Rojos](https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ojos Rojos](https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY) | 2:32 | 2022-02-01 | 2022-04-29 |
 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-01-20 | 2022-03-12 |
-| [Para Ti](https://open.spotify.com/track/6wAtZ3IHvs4Uc41A2pKUYg) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Para Ti](https://open.spotify.com/album/6qdfXJmZK59M1KzJikGOdH) | 2:45 | 2022-04-01 |  |
+| [Para Ti](https://open.spotify.com/track/6wAtZ3IHvs4Uc41A2pKUYg) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Para Ti](https://open.spotify.com/album/6qdfXJmZK59M1KzJikGOdH) | 2:45 | 2022-04-01 | 2022-05-12 |
 | [Party, Humo y Alcohol](https://open.spotify.com/track/4PsWkgvetxEeApf3RBHDbV) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Party, Humo y Alcohol](https://open.spotify.com/album/21rWMBXCHKtTwBKG8NlTzc) | 3:36 | 2022-01-20 | 2022-04-02 |
 | [Pegao](https://open.spotify.com/track/2PixLCKBzTx4AkhAK30ckW) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Pegao](https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO) | 2:44 | 2021-12-14 | 2022-02-02 |
 | [Peligro](https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro](https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu) | 3:20 | 2022-05-10 |  |

@@ -342,6 +342,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8"
+    },
+    {
+      "album": {
         "name": "Bad (feat. Aitch)",
         "url": "https://open.spotify.com/album/2yOlbpaUHBPXPq7cQJ563V"
       },
@@ -357,7 +379,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 206261,
       "name": "Bad (feat. Aitch)",
       "url": "https://open.spotify.com/track/4HTKztrMHpvn2sAl4HcK3J"
@@ -903,7 +925,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -929,6 +951,50 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
+    },
+    {
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
+    },
+    {
+      "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "album": {
@@ -1112,6 +1178,28 @@
     },
     {
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL"
+    },
+    {
+      "album": {
         "name": "Fireworks (feat. Moss Kena & The Knocks)",
         "url": "https://open.spotify.com/album/7oKItkOXBRe3XwGP8ZMSLj"
       },
@@ -1233,7 +1321,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
@@ -1497,7 +1585,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 173966,
       "name": "Go Low",
       "url": "https://open.spotify.com/track/2OwV4woHaOCp8bii7p6Dx6"
@@ -1709,7 +1797,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 209090,
       "name": "Here To Party - Shaun Dean Remix",
       "url": "https://open.spotify.com/track/7aUSQFp0twv9wpborjXV0V"
@@ -1807,7 +1895,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 145885,
       "name": "HOT HOT",
       "url": "https://open.spotify.com/track/0oskPlVmx6H6HOQifoBNvL"
@@ -1903,7 +1991,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 164884,
       "name": "I'm Just Feelin' (Du Du Du)",
       "url": "https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa"
@@ -1943,7 +2031,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 200028,
       "name": "It's A Killa",
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
@@ -2216,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116554,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
+    },
+    {
+      "album": {
         "name": "Love Shy (Kristine Blond X James Hype)",
         "url": "https://open.spotify.com/album/5wFcn4e1xyejnQvZZZeNyb"
       },
@@ -2278,6 +2384,28 @@
     },
     {
       "album": {
+        "name": "Mad At Me (with TeeDee)",
+        "url": "https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        },
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238095,
+      "name": "Mad At Me (with TeeDee)",
+      "url": "https://open.spotify.com/track/5iKxBjFOldF5hCpCvcvcf0"
+    },
+    {
+      "album": {
         "name": "Make Me Feel Good",
         "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
@@ -2317,7 +2445,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 285375,
-      "name": "Marea (We\u2019ve Lost Dancing)",
+      "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
     },
     {
@@ -2421,7 +2549,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
@@ -2651,7 +2779,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
@@ -2731,7 +2859,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 186964,
       "name": "Out The Door",
       "url": "https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK"
@@ -2783,7 +2911,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 173172,
       "name": "Packs and Potions (feat. M1llionz, Digga D & Unknown T) - Remix",
       "url": "https://open.spotify.com/track/09nPy5k6stAMSmnYqrTaqv"
@@ -2885,7 +3013,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-12",
       "duration_ms": 171092,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/6eydzKn9vLC57U9iToAwJD"
@@ -2936,6 +3064,24 @@
     },
     {
       "album": {
+        "name": "Rainfall",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166569,
+      "name": "Rainfall",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+    },
+    {
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -2977,6 +3123,28 @@
       "duration_ms": 242160,
       "name": "Re-Rewind (feat. Craig David)",
       "url": "https://open.spotify.com/track/0VqSg7nsmUNJKHZYufNZFo"
+    },
+    {
+      "album": {
+        "name": "Redlight",
+        "url": "https://open.spotify.com/album/79YZVPlv0WgFrhi0jxAjd0"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242904,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs"
     },
     {
       "album": {
@@ -3236,6 +3404,28 @@
     },
     {
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232245,
+      "name": "Silenced",
+      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
+    },
+    {
+      "album": {
         "name": "Skanker",
         "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
       },
@@ -3258,6 +3448,28 @@
     },
     {
       "album": {
+        "name": "soft spot",
+        "url": "https://open.spotify.com/album/5A3dh1CIsZwBTppyUsiBtV"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219529,
+      "name": "soft spot",
+      "url": "https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
       },
@@ -3273,6 +3485,32 @@
       "duration_ms": 188640,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn"
+    },
+    {
+      "album": {
+        "name": "Soul Full (feat. Joe Killington)",
+        "url": "https://open.spotify.com/album/0U7GxQHdZQB0nWrrWEOIEX"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "Mortimer",
+          "url": "https://open.spotify.com/artist/7yJpTTkTOkN7pvn39nga98"
+        },
+        {
+          "name": "Joe Killington",
+          "url": "https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195507,
+      "name": "Soul Full (feat. Joe Killington)",
+      "url": "https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ"
     },
     {
       "album": {
@@ -3554,6 +3792,28 @@
     },
     {
       "album": {
+        "name": "The Parade",
+        "url": "https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158724,
+      "name": "The Parade",
+      "url": "https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN"
+    },
+    {
+      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK"
       },
@@ -3657,6 +3917,28 @@
       "duration_ms": 201455,
       "name": "Turn The Music Louder (Rumble) - Radio Edit",
       "url": "https://open.spotify.com/track/0FiRmnmsaCwTHICjmybeey"
+    },
+    {
+      "album": {
+        "name": "Used to This",
+        "url": "https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Used To This",
+      "url": "https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Sunset Rollercoaster \(Taiwan\)
 
-136 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+137 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Flower](https://open.spotify.com/track/1FFHAvliNowwAKaojCNYP4) | [9z](https://open.spotify.com/artist/3DoD8wMylOlNPJZm0Geebu) | [Flower](https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar) | 3:37 | 2022-03-24 | 2022-04-15 |
 | [Fool](https://open.spotify.com/track/0OfwiVN2Y6ANw9xneUi3sW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Fool](https://open.spotify.com/album/2WsVcJa42xo5RsbUwGnNSh) | 3:16 | 2022-03-24 |  |
 | [Gimme](https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Gimme](https://open.spotify.com/album/6IaDp8PawQuKoiZpcun410) | 3:31 | 2022-04-28 |  |
-| [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-03-24 |  |
+| [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-03-24 | 2022-05-12 |
 | [Good News](https://open.spotify.com/track/1yxfzybmAemgfZfBXMly2v) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc), [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Familiarise Yourself with Your Closest Exit](https://open.spotify.com/album/3o4Z0ilAUhqBdqby9lJftF) | 4:05 | 2022-03-24 | 2022-04-29 |
 | [Hello 2.0 \(Legends Only\) \[feat\. ØZI\]](https://open.spotify.com/track/2RKSmt3Dv1d4JFDr55LbWg) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [Transparent Arts](https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Hello 2.0 \(Legends Only\) \[feat\. ØZI\]](https://open.spotify.com/album/7BtzeGPG9d8xWHM5WUlNmZ) | 3:50 | 2022-03-24 |  |
 | [Hold](https://open.spotify.com/track/5qe2mnouQfrbzec96JvBD3) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Halfway To Heaven](https://open.spotify.com/album/433ib6biZjvMHN37vl9n0h) | 4:04 | 2022-03-24 | 2022-04-08 |
@@ -98,6 +98,7 @@
 | [Priority](https://open.spotify.com/track/3ZeP3M0tOnI0Xp9mXh0kIm) | [ABOY](https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub) | [Priority](https://open.spotify.com/album/2EWfxY8HPLl7UulEem0BID) | 3:48 | 2022-03-24 | 2022-04-01 |
 | [QUEST?ONS](https://open.spotify.com/track/6avApWuzGCKeYKQ9dWwNth) | [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [QUEST?ONS](https://open.spotify.com/album/3jN12LqDFLRF8EJn74RHKb) | 3:34 | 2022-04-01 |  |
 | [Rainy Talk](https://open.spotify.com/track/0ttL7VeLEqQYVhimPKlqZM) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [Golden Circle](https://open.spotify.com/album/57BcxFEK536HPkPFLW6pI2) | 3:29 | 2022-03-24 | 2022-04-29 |
+| [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-05-11 |  |
 | [Say Hello](https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR) | [Gym and Swim](https://open.spotify.com/artist/03vGezkHp9TYoKOtxZlUj4) | [Say Hello](https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr) | 3:43 | 2022-03-24 | 2022-04-29 |
 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 | 2022-03-24 | 2022-05-07 |
 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 | 2022-03-24 |  |
