@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-319 songs - 17 hr 31 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+320 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Sohna](https://open.spotify.com/track/56MH70mJQMUzmMACys5ePe) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 4:15 | 2022-02-02 | 2022-04-06 |
 | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/track/1hsHE3SjSVrlzAnSK7lKQH) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/album/7iIY4LG4qMEeCRkGfWsk9K) | 2:14 | 2022-04-18 | 2022-04-29 |
 | [Sohniyan Shaklan](https://open.spotify.com/track/6jxlrho78w0b4ldZ7J7rA8) | [Khan Saab](https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN) | [Sohniyan Shaklan](https://open.spotify.com/album/2DrEVLz6eKa5b83A4N56oW) | 5:12 | 2022-04-20 | 2022-05-11 |
+| [Sorry](https://open.spotify.com/track/47AWxFFocq2DekndowAVLR) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Rohan Mehra](https://open.spotify.com/artist/2C2lyZZOl9csiJBzqEIVdS) | [Sorry](https://open.spotify.com/album/6Bq5uSzuLLsKX3nsPrqgxA) | 3:53 | 2022-05-12 |  |
 | [Stalk](https://open.spotify.com/track/4Yh6MCJEnplgYz9Ywj20oK) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Stalk](https://open.spotify.com/album/1ZUIGjIgI9oaFMTy5jjQid) | 2:17 | 2022-03-18 |  |
 | [Starlight](https://open.spotify.com/track/582UWRGnIOVDggh2y8GAjc) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Starlight](https://open.spotify.com/album/6iQPuXW239eSe42INuWF8z) | 2:52 | 2022-01-17 | 2022-02-12 |
 | [Stella](https://open.spotify.com/track/4uVMeiBR4lPTfl7NM1QNAX) | [Kamal Dua](https://open.spotify.com/artist/2JcFAugRuL87wpOT1haKrD) | [Stella](https://open.spotify.com/album/5TsgrpZN6Shq52EkbbS39q) | 3:28 | 2022-01-22 | 2022-03-11 |

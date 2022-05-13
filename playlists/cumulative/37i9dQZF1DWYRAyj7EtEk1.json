@@ -281,7 +281,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 191373,
       "name": "Dolor de cabeza (feat. CNCO)",
       "url": "https://open.spotify.com/track/48TTm12q0Q5RltQStBLMnF"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
@@ -626,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Menos Mal",
+        "url": "https://open.spotify.com/album/7yNonqd3rd95zD7VO3mjb8"
+      },
+      "artists": [
+        {
+          "name": "Danny Romero",
+          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
+        }
+      ],
+      "date_added": "2020-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177949,
+      "name": "Menos Mal",
+      "url": "https://open.spotify.com/track/37g560SILUk2rfaVLBw52t"
+    },
+    {
+      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/6Wh6P7tuc6F0eewCvO8nuT"
       },
@@ -735,7 +753,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 177533,
       "name": "Oye Pablo",
       "url": "https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 177746,
       "name": "Oye Pablo",
       "url": "https://open.spotify.com/track/4wJFExEZZo62tmwTM9ENDR"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 204906,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"

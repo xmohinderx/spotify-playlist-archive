@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 191038,
       "name": "Good Boy Gone Bad",
       "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
@@ -3613,7 +3613,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 146855,
       "name": "That's Hilarious",
       "url": "https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc"
@@ -6683,6 +6683,24 @@
       "duration_ms": 228878,
       "name": "\u7e8c\u5beb - \u96fb\u8996\u5287\u300a\u4e00\u751f\u4e00\u4e16\u300b\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3eiSB7mTeNI49OAs7I8u39"
+    },
+    {
+      "album": {
+        "name": "PRO",
+        "url": "https://open.spotify.com/album/34T8LkJ3sKBl1cVXGM6W2k"
+      },
+      "artists": [
+        {
+          "name": "Kumachan",
+          "url": "https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "\u80fd\u706b",
+      "url": "https://open.spotify.com/track/0edXRhdQfF6YY9f7ZGZITt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-49 songs - 2 hr 59 min - not published yet
+49 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

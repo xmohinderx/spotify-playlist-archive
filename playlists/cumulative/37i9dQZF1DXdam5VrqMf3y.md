@@ -4,7 +4,7 @@
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: jxdn
 
-71 songs - 3 hr 40 min - not published yet
+71 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/6ra7ildIw0y4orWkx6YTYg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

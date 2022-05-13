@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Nath.
 
-61 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
+62 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Invisibles](https://open.spotify.com/track/6QY5zaoulgveKCr7XE0vs9) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes \(Álbum\)](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:52 | 2021-11-10 |  |
 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 | 2021-11-10 |  |
 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 | 2022-05-11 |  |
-| [Llora](https://open.spotify.com/track/6F1yFxQM0AcVYECHmuPLJL) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Mirando al cielo](https://open.spotify.com/album/4bKbHme7qn0tV1UW9MnRGn) | 3:46 | 2022-04-08 |  |
+| [Llora](https://open.spotify.com/track/6F1yFxQM0AcVYECHmuPLJL) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Mirando al cielo](https://open.spotify.com/album/4bKbHme7qn0tV1UW9MnRGn) | 3:46 | 2022-04-08 | 2022-05-13 |
 | [Los Guasangú \- \(Cerrero Remix\)](https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Los Guasangú \(Cerrero Remix\)](https://open.spotify.com/album/7Khc3U2x9wL0e7kx8PiFkV) | 5:11 | 2022-03-22 |  |
 | [Luisa](https://open.spotify.com/track/46yArd7VDfAZxKDGoKgE7Z) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Luisa](https://open.spotify.com/album/41J6vPb5TIgniMbscw4s9w) | 4:09 | 2022-04-08 |  |
 | [Luz Verde](https://open.spotify.com/track/4Ve2HT1h9DAhIHSKt4zkcG) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Luz Verde](https://open.spotify.com/album/5KcJcpi6UxVqzd5iOL5tGO) | 2:08 | 2021-11-10 | 2022-02-19 |
@@ -56,6 +56,7 @@
 | [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 | 2022-03-22 |  |
 | [si estuviésemos juntos](https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 3:50 | 2021-11-10 |  |
 | [siento](https://open.spotify.com/track/7F9ZGygVeeBb30zC3u5xkt) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2), [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 3:19 | 2022-03-22 |  |
+| [Sin Maquillaje](https://open.spotify.com/track/6PsucEjVsPVm7MkgCVYdFR) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Sin Maquillaje](https://open.spotify.com/album/2OGdAssIxtcMOSFFygJMeE) | 2:48 | 2022-05-12 |  |
 | [SÉ \- Ep\. 4: Flores 4E](https://open.spotify.com/track/5HW70b0HU0cQk28s10ycX7) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Paola Navarrete](https://open.spotify.com/artist/4mGcbF0028Z1ZyP8CZ6nbn) | [SÉ \- Ep\. 4: Flores 4E](https://open.spotify.com/album/7elTdPAcknRyyOgDzIifAj) | 4:23 | 2021-11-10 | 2022-04-09 |
 | [Tears at Bae](https://open.spotify.com/track/3WPFFAjIYYGnfRkjO29lqQ) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tears at Bae](https://open.spotify.com/album/0nVGuICcGzCEm3A3psO84B) | 3:22 | 2022-03-22 | 2022-04-09 |
 | [TELODÍ](https://open.spotify.com/track/2w0lO85zsO2TeUIIZtmFKP) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [TELODÍ](https://open.spotify.com/album/6bW5WxABfMFCUyVhe7V0kN) | 3:15 | 2021-11-10 |  |

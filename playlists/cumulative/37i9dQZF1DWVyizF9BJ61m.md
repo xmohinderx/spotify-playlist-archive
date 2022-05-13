@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-52 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/79QmEbB0xiRT4xmUcdumGe)
+53 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/79QmEbB0xiRT4xmUcdumGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,11 +39,12 @@
 | [Kenimania](https://open.spotify.com/track/63xoPxJFZUrgNKJtnmDPaZ) | [Monomono](https://open.spotify.com/artist/6AmVniWakUqMZUBVc7zeK6) | [Nigeria Rock Special: Psychedelic Afro\-Rock & Fuzz Funk in 1970's Nigeria](https://open.spotify.com/album/3da6by8KHBpcDs75FF4lDV) | 4:37 | 2019-03-22 |  |
 | [Khala My Friend](https://open.spotify.com/track/17WvocrxbKL2t7HyoSpSCK) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:20 | 2019-03-22 |  |
 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 | 2019-03-22 |  |
+| [Message in a Hammer](https://open.spotify.com/track/4wTRV5h17Bo5cGJoTjq57y) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Message in a Hammer](https://open.spotify.com/album/3YZuvShbzzDdKf4qyR6Vcv) | 3:36 | 2022-05-12 |  |
 | [Never \(Lagos Never Gonna Be the Same\)](https://open.spotify.com/track/4aTcopxonBr4JVajnsGi6K) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Rejoice](https://open.spotify.com/album/061q5E43gIp25oJxVxvAav) | 3:53 | 2020-04-07 |  |
 | [Obaa Sima](https://open.spotify.com/track/0RleEAKmcUbJ3R7AK0dSfV) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/5rWdCCXgUf8Ptz1goEmLKC) | 5:38 | 2019-03-22 |  |
 | [Ohomi](https://open.spotify.com/track/63x2g8hqYpKJZ58oxglyhG) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 3:10 | 2019-03-22 |  |
 | [Onye Mmanya](https://open.spotify.com/track/3hcUREHAHIjauQzwrxmJIk) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 5:52 | 2019-03-22 |  |
-| [Petit Sekou](https://open.spotify.com/track/7bJSFZJzWv8J7AyzZIGASJ) | [Bembeya Jazz National](https://open.spotify.com/artist/1OGuNbASgvINcHfDtrDnj3) | [Discothèque 76](https://open.spotify.com/album/67OQuCcp8yfLRKa49asN8i) | 5:55 | 2019-03-22 |  |
+| [Petit Sekou](https://open.spotify.com/track/7bJSFZJzWv8J7AyzZIGASJ) | [Bembeya Jazz National](https://open.spotify.com/artist/1OGuNbASgvINcHfDtrDnj3) | [Discothèque 76](https://open.spotify.com/album/67OQuCcp8yfLRKa49asN8i) | 5:55 | 2019-03-22 | 2022-05-13 |
 | [Rough Rider](https://open.spotify.com/track/08LwN4NnSGYzDWcdKtV92V) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 3:53 | 2019-03-22 |  |
 | [Running](https://open.spotify.com/track/2TBhRXwBxfIJwhrB9gLlnn) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:54 | 2019-03-22 |  |
 | [Secret Agent](https://open.spotify.com/track/2YvGLm7HGIRwzH1pgQDmRP) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent](https://open.spotify.com/album/6h1aeEO1kgBipcysl27xB7) | 5:20 | 2019-03-22 |  |

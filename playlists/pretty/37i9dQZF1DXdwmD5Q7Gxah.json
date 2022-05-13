@@ -1,13 +1,45 @@
 {
-  "description": "Join <a href=\"https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d\">Lorem Life w/ Max & Dev</a> w/ guests Devon Again & KiNG MALA this Weds @ 5pm PST ",
-  "num_followers": 918341,
+  "description": "tons of new music this week from ethel cain, remi wolf, aldn, and more. cover: aldn",
+  "num_followers": 918320,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI4MzA5MSwwMDAwMDM3NzAwMDAwMTgwYjNiZjI4OTAwMDAwMDE4MDk3NjgwZGUz",
+  "snapshot_id": "MTY1MjQwMDQ3OCwwMDAwMDM3YjAwMDAwMTgwYmFiZTU4YzYwMDAwMDE4MGJhOTA2NjBm",
   "tracks": [
+    {
+      "added_at": "2022-05-12 23:43:11",
+      "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/12uiCiql0IX6dT6yMXEwGq"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 165453,
+      "name": "Michael",
+      "url": "https://open.spotify.com/track/5niZJWbyibvP1huOd2XUde"
+    },
+    {
+      "added_at": "2022-04-21 04:00:00",
+      "album": {
+        "name": "American Teenager",
+        "url": "https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH"
+    },
     {
       "added_at": "2022-05-10 16:07:10",
       "album": {
@@ -49,22 +81,6 @@
       "url": "https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga"
     },
     {
-      "added_at": "2022-05-11 15:31:31",
-      "album": {
-        "name": "elastic",
-        "url": "https://open.spotify.com/album/4IL4IiCrIxULLgKdCwTai8"
-      },
-      "artists": [
-        {
-          "name": "Miloe",
-          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
-        }
-      ],
-      "duration_ms": 183402,
-      "name": "elastic",
-      "url": "https://open.spotify.com/track/6P1OAtvQe1cHPgecI4qwhn"
-    },
-    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "whatever u like",
@@ -81,6 +97,54 @@
       "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
     },
     {
+      "added_at": "2022-05-13 00:07:58",
+      "album": {
+        "name": "Oh Love",
+        "url": "https://open.spotify.com/album/3LnydTYoQ2XGDZCCC6cOcn"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "Oh Love",
+      "url": "https://open.spotify.com/track/28Obqqr7EtnSNul1TJiQcX"
+    },
+    {
+      "added_at": "2022-05-12 23:43:11",
+      "album": {
+        "name": "Raindrops Keep Fallin' On My Head",
+        "url": "https://open.spotify.com/album/51mvnjRxLtW4XZN9bnDxDo"
+      },
+      "artists": [
+        {
+          "name": "joe rico",
+          "url": "https://open.spotify.com/artist/099JHSPsupRhpsoZvncbha"
+        }
+      ],
+      "duration_ms": 113369,
+      "name": "Raindrops Keep Fallin' On My Head",
+      "url": "https://open.spotify.com/track/4gcEr9c5CeAoxsxVGiYJen"
+    },
+    {
+      "added_at": "2022-05-12 18:53:12",
+      "album": {
+        "name": "Oh, Inverted World",
+        "url": "https://open.spotify.com/album/1OXUnUd8QPoVJpStlBGn0J"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "New Slang",
+      "url": "https://open.spotify.com/track/1wAqhAF1dynDjMy7m5CSSE"
+    },
+    {
       "added_at": "2022-05-06 04:00:00",
       "album": {
         "name": "Share Ur Feelings",
@@ -95,6 +159,54 @@
       "duration_ms": 180168,
       "name": "Share Ur Feelings",
       "url": "https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d"
+    },
+    {
+      "added_at": "2022-05-12 18:53:12",
+      "album": {
+        "name": "TRU RELIGION",
+        "url": "https://open.spotify.com/album/2KVJYvcbFijqVQZCMEBQvH"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "duration_ms": 177257,
+      "name": "TRU RELIGION",
+      "url": "https://open.spotify.com/track/0DyDLDwnMWWBDNw3cTM37f"
+    },
+    {
+      "added_at": "2022-05-12 23:43:11",
+      "album": {
+        "name": "Star of the Show",
+        "url": "https://open.spotify.com/album/1gyqe8tfMkeTDmtR8PTlHd"
+      },
+      "artists": [
+        {
+          "name": "Nitefire",
+          "url": "https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl"
+        }
+      ],
+      "duration_ms": 256393,
+      "name": "Star of the Show",
+      "url": "https://open.spotify.com/track/2XLSbmaMw6ytIVdW45X8yc"
+    },
+    {
+      "added_at": "2022-05-11 15:31:31",
+      "album": {
+        "name": "elastic",
+        "url": "https://open.spotify.com/album/4IL4IiCrIxULLgKdCwTai8"
+      },
+      "artists": [
+        {
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+        }
+      ],
+      "duration_ms": 183402,
+      "name": "elastic",
+      "url": "https://open.spotify.com/track/6P1OAtvQe1cHPgecI4qwhn"
     },
     {
       "added_at": "2022-05-06 17:02:41",
@@ -159,6 +271,74 @@
       "duration_ms": 194893,
       "name": "ONE IN A MILLION",
       "url": "https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb"
+    },
+    {
+      "added_at": "2022-05-12 23:43:11",
+      "album": {
+        "name": "Meteorite",
+        "url": "https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Meteorite",
+      "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "5am and I Can't Sleep",
+        "url": "https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6"
+      },
+      "artists": [
+        {
+          "name": "kelz",
+          "url": "https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw"
+        }
+      ],
+      "duration_ms": 159104,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l"
+    },
+    {
+      "added_at": "2022-05-13 00:07:58",
+      "album": {
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "added_at": "2022-05-12 23:43:11",
+      "album": {
+        "name": "Shed Head",
+        "url": "https://open.spotify.com/album/5mhxYNAnqi2g1qg1go9Ezc"
+      },
+      "artists": [
+        {
+          "name": "Deaton Chris Anthony",
+          "url": "https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Shed Head",
+      "url": "https://open.spotify.com/track/1tI40eFNnHYsVWhKo5yhUT"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -253,36 +433,52 @@
       "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
+      "added_at": "2022-05-12 23:43:11",
       "album": {
-        "name": "All My Fault",
-        "url": "https://open.spotify.com/album/5Mkk2sGhQatyKwo4hrdvKS"
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/5nDX6DAJQRy150Pv6oCJBb"
       },
       "artists": [
         {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 182786,
-      "name": "All My Fault",
-      "url": "https://open.spotify.com/track/53lwPgJYa1cK61auYuVuMP"
+      "duration_ms": 230878,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2kQKwLHTZttWGANxB8otoe"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-12 16:20:12",
       "album": {
-        "name": "5am and I Can't Sleep",
-        "url": "https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6"
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
       "artists": [
         {
-          "name": "kelz",
-          "url": "https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 159104,
-      "name": "Adieu",
-      "url": "https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l"
+      "duration_ms": 185172,
+      "name": "21",
+      "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
+    },
+    {
+      "added_at": "2022-05-12 23:43:11",
+      "album": {
+        "name": "Animals & Trees",
+        "url": "https://open.spotify.com/album/32x7t7VIimLGSklnQDGBhh"
+      },
+      "artists": [
+        {
+          "name": "Bathe Alone",
+          "url": "https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Animals & Trees",
+      "url": "https://open.spotify.com/track/5U6peUfRfuxKl9HrodD4jz"
     },
     {
       "added_at": "2022-04-15 13:01:15",
@@ -301,6 +497,22 @@
       "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
     },
     {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 160017,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7"
+    },
+    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "Colours Of You",
@@ -315,6 +527,22 @@
       "duration_ms": 255346,
       "name": "Colours Of You",
       "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
+    },
+    {
+      "added_at": "2022-05-12 23:43:11",
+      "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/2n3QaYtHqERzKesRi0lmaq"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 241268,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/6VX8tKJOpM4GaAdRMf7Dl1"
     },
     {
       "added_at": "2022-04-08 16:15:50",
@@ -333,6 +561,22 @@
       "url": "https://open.spotify.com/track/1gqhKpica2xrkDE9E3nNTv"
     },
     {
+      "added_at": "2022-05-12 23:43:11",
+      "album": {
+        "name": "Easygoing",
+        "url": "https://open.spotify.com/album/0W36AtzYHeIxacZmJi4Ruc"
+      },
+      "artists": [
+        {
+          "name": "JDM Global",
+          "url": "https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl"
+        }
+      ],
+      "duration_ms": 210352,
+      "name": "Easygoing",
+      "url": "https://open.spotify.com/track/4r2D6XlI6RrUwV90bt6uBr"
+    },
+    {
       "added_at": "2022-05-11 15:31:31",
       "album": {
         "name": "Curses! Pt. 2",
@@ -347,22 +591,6 @@
       "duration_ms": 163586,
       "name": "Moment of Silence",
       "url": "https://open.spotify.com/track/1qE3Yen80w8CRKp9Xe8jgl"
-    },
-    {
-      "added_at": "2022-04-21 04:00:00",
-      "album": {
-        "name": "American Teenager",
-        "url": "https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH"
     },
     {
       "added_at": "2022-01-07 16:47:25",
@@ -381,20 +609,40 @@
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-12 16:20:12",
       "album": {
-        "name": "vampire",
-        "url": "https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P"
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
       },
       "artists": [
         {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 160017,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7"
+      "duration_ms": 144631,
+      "name": "Means Something",
+      "url": "https://open.spotify.com/track/53taBvemC88CMHP2I1xAFX"
+    },
+    {
+      "added_at": "2022-05-12 23:43:11",
+      "album": {
+        "name": "29 Palms",
+        "url": "https://open.spotify.com/album/5Q4wjlWCX95OYwVv8uUkqT"
+      },
+      "artists": [
+        {
+          "name": "bennytheghost",
+          "url": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+        },
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "duration_ms": 201947,
+      "name": "29 Palms",
+      "url": "https://open.spotify.com/track/0UR1lesYoawHMS3GMOTcG5"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -475,6 +723,22 @@
       "duration_ms": 254560,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "All My Fault",
+        "url": "https://open.spotify.com/album/5Mkk2sGhQatyKwo4hrdvKS"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "All My Fault",
+      "url": "https://open.spotify.com/track/53lwPgJYa1cK61auYuVuMP"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -723,22 +987,6 @@
       "duration_ms": 216160,
       "name": "Invincible (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
-    },
-    {
-      "added_at": "2022-04-18 16:10:09",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
     },
     {
       "added_at": "2022-04-20 04:00:00",
@@ -1543,22 +1791,6 @@
       "duration_ms": 156250,
       "name": "pouring outside",
       "url": "https://open.spotify.com/track/6IW56BQYrmMniYZBwGCNeL"
-    },
-    {
-      "added_at": "2022-02-28 21:15:47",
-      "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2022-02-11 00:18:07",

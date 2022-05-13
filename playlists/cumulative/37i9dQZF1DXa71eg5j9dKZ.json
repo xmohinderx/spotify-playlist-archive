@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: HAAi & Jon Hopkins",
+  "description": "The home for alternative electronic music. Cover: Shygirl",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -236,7 +236,7 @@
     },
     {
       "album": {
-        "name": "Admit It (U Don't Want 2)",
+        "name": "Admit It (u don't want 2)",
         "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
       },
       "artists": [
@@ -253,7 +253,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 385074,
-      "name": "Admit It (U Don't Want 2)",
+      "name": "Admit It (u don't want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
     },
     {
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 348653,
       "name": "Are We Here? (30 Something) - Dusky Remix",
       "url": "https://open.spotify.com/track/4Jt4zH1bLXLeRFsdE859jb"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 189370,
       "name": "Cleo - Edit",
       "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 226620,
       "name": "Everything Is Going To Be Alright",
       "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
@@ -1680,6 +1680,24 @@
     },
     {
       "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
+    },
+    {
+      "album": {
         "name": "I Hope It Lasts Forever",
         "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
       },
@@ -1695,6 +1713,28 @@
       "duration_ms": 264698,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl"
+    },
+    {
+      "album": {
+        "name": "Flo Jam",
+        "url": "https://open.spotify.com/album/1jQ8H7Cx5f1D3MbmloYas7"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240892,
+      "name": "Flo Jam - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/6Rhryy5EstHKG8uB6CAfrP"
     },
     {
       "album": {
@@ -1727,7 +1767,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 153128,
       "name": "For your safety",
       "url": "https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6"
@@ -1767,7 +1807,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
@@ -1861,7 +1901,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 254480,
       "name": "Got to Live",
       "url": "https://open.spotify.com/track/361wEfBaZKkW3HKm6wHJyw"
@@ -2868,6 +2908,24 @@
     },
     {
       "album": {
+        "name": "miss me",
+        "url": "https://open.spotify.com/album/6QhP58dR15iuzAVxKQ6seG"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213884,
+      "name": "miss me",
+      "url": "https://open.spotify.com/track/6z0IGnMYKfbb6rDCCLE0lE"
+    },
+    {
+      "album": {
         "name": "miss u",
         "url": "https://open.spotify.com/album/2zMFZEDt5ZpdrcaggphZFC"
       },
@@ -3674,6 +3732,24 @@
     },
     {
       "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/0Tn4IqUFauNbb6BP3sL5oO"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/3qGU5R3DwpjbQzknfy4Ci9"
+    },
+    {
+      "album": {
         "name": "Salta",
         "url": "https://open.spotify.com/album/7ES0OnrC9DzAN2rhfxCj7s"
       },
@@ -4274,6 +4350,28 @@
     },
     {
       "album": {
+        "name": "Tell You What It Is",
+        "url": "https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187491,
+      "name": "Tell You What It Is",
+      "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
+    },
+    {
+      "album": {
         "name": "Eyes Open EP",
         "url": "https://open.spotify.com/album/13Ua4Sd4A8WhG3CgaNOKT0"
       },
@@ -4527,7 +4625,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 260799,
       "name": "Trusss",
       "url": "https://open.spotify.com/track/7leuXSMQ87WJPRLUH3WuC3"

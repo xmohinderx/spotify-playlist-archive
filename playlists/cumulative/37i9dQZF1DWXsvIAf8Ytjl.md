@@ -4,7 +4,7 @@
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-46 songs - 3 hr 47 min - not published yet
+46 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1TTpnQL8vDzEXrA1b6lsMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Black Betty](https://open.spotify.com/track/0MnI39P9Dze0PSUjetb8Va) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Dukes Of Hazzard \(Music From The Motion Picture\)](https://open.spotify.com/album/0HUuxXsQ1lYDpS99EXlNBI) | 3:55 | 2018-12-10 |  |
 | [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 | 2018-12-10 |  |
 | [Cross\-Eyed Mary](https://open.spotify.com/track/6MBZyLisOWTChcevgFqwVr) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung \(Special Edition\)](https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x) | 4:10 | 2018-12-10 |  |
-| [Don't Do It \- 2005 Remaster/24 Bit Mastering](https://open.spotify.com/track/3j3OB5PFy7FewVi8l881kN) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Best Of The Box\- A Musical History](https://open.spotify.com/album/6idKsZpZsfNfC6FFws8zL4) | 3:48 | 2018-12-10 | 2022-05-12 |
+| [Don't Do It \- 2005 Remaster/24 Bit Mastering](https://open.spotify.com/track/3j3OB5PFy7FewVi8l881kN) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Best Of The Box\- A Musical History](https://open.spotify.com/album/6idKsZpZsfNfC6FFws8zL4) | 3:48 | 2018-12-10 |  |
 | [First Tube](https://open.spotify.com/track/0pVKmDcMdrbiiGqsztIcL3) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Farmhouse](https://open.spotify.com/album/63pJMk3S5vS5e8wrInkDhi) | 6:45 | 2018-12-10 |  |
 | [Funky Drummer](https://open.spotify.com/track/61D6PGXxHI5iB10tQGgOEv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [In The Jungle Groove](https://open.spotify.com/album/4rRtcWB6mGgeKskivMxK2d) | 2:56 | 2018-12-10 |  |
 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 | 2018-12-10 |  |
@@ -52,7 +52,7 @@
 | [Umasha](https://open.spotify.com/track/1zRaLP99iRxz6kWCB6Ynw3) | [Mickey Hart and Zakir Hussain](https://open.spotify.com/artist/0CYFqvscV4rsOT5qXU36bd) | [Supralingua](https://open.spotify.com/album/3aD8ij2ESGKnDFJOczfbrC) | 5:22 | 2018-12-10 |  |
 | [We're An American Band \- Remastered 2002](https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [We're An American Band \(Remastered / Bonus Track\)](https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg) | 3:27 | 2018-12-10 |  |
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2018-12-10 |  |
-| [Wipeout](https://open.spotify.com/track/4KFCyusUzxTL8PwE0AH02f) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [100 Years of Surfing](https://open.spotify.com/album/33msQbGd76fYSd4imz3lbh) | 2:34 | 2018-12-10 |  |
+| [Wipeout](https://open.spotify.com/track/4KFCyusUzxTL8PwE0AH02f) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [100 Years of Surfing](https://open.spotify.com/album/33msQbGd76fYSd4imz3lbh) | 2:34 | 2018-12-10 | 2022-05-13 |
 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/3QfJhbiVGJucxyUbOFiaLY) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Greatest Hits](https://open.spotify.com/album/1jkd5zta1g1eFz6zuzupyW) | 8:33 | 2018-12-10 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

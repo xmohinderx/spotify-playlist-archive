@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Penedo, Caio Luccas
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,522 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,576 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 14 | [My Name](https://open.spotify.com/track/3rd0skaY4wSgic7VoIiUHp) | [31couto](https://open.spotify.com/artist/7cUn4j1gy5RABIg4KADSbl), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [My Name](https://open.spotify.com/album/3oV6T4vQlhIsx7d2lHIUgP) | 1:56 |
 | 15 | [Culpa](https://open.spotify.com/track/1FmcDuK4BmnUZ0rXDFsJbX) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:56 |
 | 16 | [Run](https://open.spotify.com/track/6uJG0R5QFvJXbp2KLZrBFy) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Run](https://open.spotify.com/album/28FU9DxhpBwAy57qZHDWV0) | 2:28 |
-| 17 | [Johnny Dang](https://open.spotify.com/track/5OIfd9rFNgR1bbxhlx6IKS) | [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [MC Lon](https://open.spotify.com/artist/5FeGhv7je3hPQi2TLslPIl), [Koreia](https://open.spotify.com/artist/3inOMdIZM9eshvuqj4i3o8), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [MindHunters](https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj) | [Johnny Dang](https://open.spotify.com/album/19l4Qg1AyrupJNVx8iVQCp) | 2:32 |
+| 17 | [Johnny Dang](https://open.spotify.com/track/5OIfd9rFNgR1bbxhlx6IKS) | [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [MC Lon](https://open.spotify.com/artist/5FeGhv7je3hPQi2TLslPIl), [Koreia](https://open.spotify.com/artist/3inOMdIZM9eshvuqj4i3o8), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [MindHunters](https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Johnny Dang](https://open.spotify.com/album/19l4Qg1AyrupJNVx8iVQCp) | 2:32 |
 | 18 | [Rei da Putaria](https://open.spotify.com/track/1c5hVcfNxNbIGActcUGGo6) | [Zarashi](https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [Rei da Putaria](https://open.spotify.com/album/3ANKb8aMArg4cBBGLzfZ9C) | 2:56 |
 | 19 | [Grave](https://open.spotify.com/track/1H0Wot0dupT6fKhWKRCXqJ) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [Grave](https://open.spotify.com/album/7rfEf0bN3tlTUCtfzPph5k) | 2:23 |
 | 20 | [Close Friendzz](https://open.spotify.com/track/0VhuyfthQMyr1LlkkO64zf) | [Muzzike](https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT) | [Close Friendzz](https://open.spotify.com/album/3euDr7WLXav8H0qNif2yQM) | 3:00 |

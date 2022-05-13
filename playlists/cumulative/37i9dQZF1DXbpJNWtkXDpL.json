@@ -292,6 +292,24 @@
     },
     {
       "album": {
+        "name": "Petite Amie",
+        "url": "https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206093,
+      "name": "C'est Pas Moi",
+      "url": "https://open.spotify.com/track/1YIjej0CUTyxjZiGuHhkLg"
+    },
+    {
+      "album": {
         "name": "C'est Pas Moi",
         "url": "https://open.spotify.com/album/1I9S7r4dEM14NWTYMcbLIX"
       },
@@ -303,7 +321,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 206093,
       "name": "C'est Pas Moi",
       "url": "https://open.spotify.com/track/4LOS1xKULiLw4y4GegBlwE"
@@ -375,7 +393,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 240678,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
@@ -517,6 +535,24 @@
       "duration_ms": 197866,
       "name": "Detente un Minuto Ah\u00ed",
       "url": "https://open.spotify.com/track/1NazYV92RJ30amONk5h94G"
+    },
+    {
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/7B2B1gWf8uxlM75gnxCXtO"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Dualidad",
+      "url": "https://open.spotify.com/track/73fEAatuIG7pWfTUHC8Ood"
     },
     {
       "album": {
@@ -1681,6 +1717,24 @@
       "duration_ms": 202791,
       "name": "Sume\u0301rgete",
       "url": "https://open.spotify.com/track/4e3DsTwu1VOzh0Su0OKp1A"
+    },
+    {
+      "album": {
+        "name": "Tambaleo",
+        "url": "https://open.spotify.com/album/75ew1wrifiWmfwjbUcsoiJ"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146807,
+      "name": "Tambaleo",
+      "url": "https://open.spotify.com/track/3Pp1DhAHX7b5eBb0yvpHM6"
     },
     {
       "album": {

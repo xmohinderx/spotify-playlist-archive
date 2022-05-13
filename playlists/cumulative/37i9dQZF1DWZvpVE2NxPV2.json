@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Birth",
+        "url": "https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM"
+      },
+      "artists": [
+        {
+          "name": "Nomadias",
+          "url": "https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175802,
+      "name": "Birth",
+      "url": "https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG"
       },
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 179191,
       "name": "Dawn Dusk Divinity",
       "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 237209,
       "name": "Dharawi Nights",
       "url": "https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 326693,
       "name": "Halving The Compass",
       "url": "https://open.spotify.com/track/54NquOiocazAzjHpqIGGS3"
@@ -548,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Kimaya",
+        "url": "https://open.spotify.com/album/1gYcGahpk1csWH2FoUQ2GJ"
+      },
+      "artists": [
+        {
+          "name": "Trancistique",
+          "url": "https://open.spotify.com/artist/5FIPYREWb6VB1awzWKGD0I"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Kimaya",
+      "url": "https://open.spotify.com/track/2w7XVdKP6nGduoVdPl0CGR"
+    },
+    {
+      "album": {
         "name": "Kundalini",
         "url": "https://open.spotify.com/album/7n2KeDhj36LPnHni9QgkDo"
       },
@@ -617,6 +653,24 @@
       "duration_ms": 84705,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/6ORmQ1xm70tFaJMfMqeRLv"
+    },
+    {
+      "album": {
+        "name": "Leuchten",
+        "url": "https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j"
+      },
+      "artists": [
+        {
+          "name": "Mystisse",
+          "url": "https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Leuchten",
+      "url": "https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ"
     },
     {
       "album": {
@@ -854,6 +908,24 @@
     },
     {
       "album": {
+        "name": "Passing Time",
+        "url": "https://open.spotify.com/album/5XQQL3OBo65gmLsBRiJfdl"
+      },
+      "artists": [
+        {
+          "name": "Inez Wolde",
+          "url": "https://open.spotify.com/artist/433Ic9GNVFmaxAQz46hIlu"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160362,
+      "name": "Passing Time",
+      "url": "https://open.spotify.com/track/2Fwa33wGSSDvw7T562DCmB"
+    },
+    {
+      "album": {
         "name": "Pathways",
         "url": "https://open.spotify.com/album/0Vs8OpWzBEXUQ3ImjwQKZ7"
       },
@@ -901,7 +973,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 246600,
       "name": "Pipers",
       "url": "https://open.spotify.com/track/7wDZOZiMJxjOH8R9Xv6yvw"
@@ -923,6 +995,24 @@
       "duration_ms": 186260,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6JPkvrIXIROTBKMg6fZTKC"
+    },
+    {
+      "album": {
+        "name": "Rainfall",
+        "url": "https://open.spotify.com/album/3ndp2H6qEh8lb8XAVJvgUe"
+      },
+      "artists": [
+        {
+          "name": "Vabali",
+          "url": "https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230652,
+      "name": "Rainfall",
+      "url": "https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw"
     },
     {
       "album": {
@@ -1034,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "Rishis",
+        "url": "https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2"
+      },
+      "artists": [
+        {
+          "name": "Skye Saraswati",
+          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203310,
+      "name": "Rishis",
+      "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
+    },
+    {
+      "album": {
         "name": "Rising Above",
         "url": "https://open.spotify.com/album/4NeEtU59lupmDYnE4zxjhZ"
       },
@@ -1124,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG"
+      },
+      "artists": [
+        {
+          "name": "Sasha Green",
+          "url": "https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189103,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb"
+    },
+    {
+      "album": {
         "name": "Serenity of Touch",
         "url": "https://open.spotify.com/album/3xyRep7OzHkL9laLeiB6Ci"
       },
@@ -1193,6 +1319,24 @@
       "duration_ms": 189012,
       "name": "So Far From Earth",
       "url": "https://open.spotify.com/track/4LUjaGIUsdxaWz5CFtj0u9"
+    },
+    {
+      "album": {
+        "name": "Sol Rhythm",
+        "url": "https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x"
+      },
+      "artists": [
+        {
+          "name": "Solarixo",
+          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Sol Rythym",
+      "url": "https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK"
     },
     {
       "album": {
@@ -1362,6 +1506,24 @@
     },
     {
       "album": {
+        "name": "Together As One",
+        "url": "https://open.spotify.com/album/2kqy5EuTtNjqThnUEqYyDJ"
+      },
+      "artists": [
+        {
+          "name": "Zeroine",
+          "url": "https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165076,
+      "name": "Unified",
+      "url": "https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p"
+    },
+    {
+      "album": {
         "name": "Universal Spirals",
         "url": "https://open.spotify.com/album/2xy5I9FMJPzPcMWQCvXJzT"
       },
@@ -1521,6 +1683,24 @@
       "duration_ms": 132306,
       "name": "Yoga Depth",
       "url": "https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46"
+    },
+    {
+      "album": {
+        "name": "Zazen",
+        "url": "https://open.spotify.com/album/7D6hFUf2mYOrtwT0ARzK6T"
+      },
+      "artists": [
+        {
+          "name": "Isolde Mayer",
+          "url": "https://open.spotify.com/artist/1hNufH9KnMW35douay0AoY"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177456,
+      "name": "Zazen",
+      "url": "https://open.spotify.com/track/3FkzIRfHSwD7BWfIsFDf7d"
     },
     {
       "album": {

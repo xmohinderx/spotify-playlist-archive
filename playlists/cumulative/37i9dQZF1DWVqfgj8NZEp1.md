@@ -4,7 +4,7 @@
 
 > Relax to the sound of jazz.
 
-184 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+185 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Eleanor](https://open.spotify.com/track/082zyi189u5lRp2gPkE8Lb) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/1FCCVEhBrN6ISs9xHmf9kr) | 4:49 | 2020-10-09 |  |
 | [Emperor Jones](https://open.spotify.com/track/5wRlH3diPDfn9jv91hxkUy) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Landmarks](https://open.spotify.com/album/6knFj9fiPTyAN65Ki0ydfo) | 5:14 | 2020-10-09 |  |
 | [Ev'rytime We Say Goodbye](https://open.spotify.com/track/72KHUsa4UyTXpSf7jRb1ih) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [My Other Voice](https://open.spotify.com/album/4bLtP25ArMR6Athup5vBTH) | 7:07 | 2020-10-09 |  |
+| [Fabienne](https://open.spotify.com/track/34ENpx8bYPgYCTSTtRMcCC) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 6:03 | 2022-05-12 |  |
 | [Fallen \- Jazzed](https://open.spotify.com/track/2EPZnVX8kSv2L2CxEXhkDw) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Julian & Roman Wasserfuhr](https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O) | [Fallen \(Jazzed\)](https://open.spotify.com/album/3LYATsYqAozUUuBbwn4D0l) | 4:24 | 2022-01-07 |  |
 | [Far Away](https://open.spotify.com/track/77W0DKmlfrMCTIyQZQdEEI) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Far Away](https://open.spotify.com/album/2FwUA6eYCekmmkLvPK7Im7) | 7:13 | 2020-12-04 |  |
 | [Fatamorgana](https://open.spotify.com/track/5wsvrblb3ooRyJQol7A2tN) | [Rasmus Holm Quartet](https://open.spotify.com/artist/6Uipo5JiSrwG7oeHHE1E3Q) | [FATAMORGANA](https://open.spotify.com/album/2pK0HHq3Rc7WHfjNelmvTD) | 4:32 | 2021-06-18 |  |

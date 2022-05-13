@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: lentra
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,993 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,042 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 82 | [Odyssey](https://open.spotify.com/track/09zdQ3gVrTRkDx5AXmBoUO) | [XL the Band](https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl), [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Alpha Omega](https://open.spotify.com/artist/0vHwhWeuE1DBBZO7wA9ZMf) | [Odyssey](https://open.spotify.com/album/1PGcEbEh0G6uyUxM3055RA) | 3:09 |
 | 83 | [CHOICE COWBOY](https://open.spotify.com/track/7BjbkbWJrPfRp0Z4NUvYhp) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 2:53 |
 | 84 | [Reggie Noble](https://open.spotify.com/track/5VIWmbY5r73A7QOwbQvYKt) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Reggie Noble](https://open.spotify.com/album/3oWKw2ucMAlwLlB3zeHcdl) | 2:29 |
-| 85 | [Admit It \(U Don't Want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [India Jordan](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(U Don't Want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
+| 85 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [India Jordan](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
 | 86 | [Floating Here](https://open.spotify.com/track/4njVoXxEbiEqIFRbUO6SlZ) | [Edmund Paquin](https://open.spotify.com/artist/1sj2E6vznD7CD6tbImjcOh), [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0) | [Floating Here](https://open.spotify.com/album/6WDvzWHaSGZoAewW4AJRms) | 3:57 |
 | 87 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
 | 88 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 |

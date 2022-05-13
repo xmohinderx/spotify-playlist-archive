@@ -4,7 +4,7 @@
 
 > The best in recent hits from your favorite  Contemporary Christian artists all in one list\.  Sit back and let it play!  Cover: Matt Maher
 
-50 songs - 3 hr 21 min - not published yet
+50 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/6UlnaOvHAY0IrDbgMqwgig)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

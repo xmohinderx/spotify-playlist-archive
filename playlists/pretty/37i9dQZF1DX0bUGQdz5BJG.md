@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,633 likes - 180 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,711 likes - 180 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 53 | [Til The Neon's Gone](https://open.spotify.com/track/7CJgt8v2iQ4ZxFFoBgHnGI) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/4JuzjUqJKslBTQdY7t6iDC) | 3:41 |
 | 54 | [Gave It Back Broken](https://open.spotify.com/track/6r4PlTnpyf6AlGWyJMb1wx) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Gave It Back Broken](https://open.spotify.com/album/5ivndE0YVTnHp0yKAZ1Ux0) | 4:05 |
 | 55 | [Man Made](https://open.spotify.com/track/78W8I06nYAyZtjrlZcPptU) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Man Made](https://open.spotify.com/album/6DIfNNLkwspcD82lM2yaU8) | 3:05 |
-| 56 | [Rollin' Stone](https://open.spotify.com/track/1tBFgkJH0DM0HhqIEbVwyB) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ), [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Rollin' Stone](https://open.spotify.com/album/0HogCSJVwQMcWMnjErvsjL) | 3:01 |
+| 56 | [Rollin' Stone \(feat\. Drew Parker & Tyler Booth\)](https://open.spotify.com/track/1tBFgkJH0DM0HhqIEbVwyB) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ), [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Rollin' Stone \(feat\. Drew Parker & Tyler Booth\)](https://open.spotify.com/album/0HogCSJVwQMcWMnjErvsjL) | 3:01 |
 | 57 | [I Can't Decide](https://open.spotify.com/track/6YkZF2gwV3ye7hCZh9dd4j) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [I Can't Decide](https://open.spotify.com/album/6zIGVPndXlKvoRvvwkDgkm) | 3:33 |
 | 58 | [River Jordan](https://open.spotify.com/track/1xtEieGrU7T3jtHgqQfWSP) | [Austin Jenckes](https://open.spotify.com/artist/6kzm1s9Z0leq5UTGwouVTA) | [River Jordan](https://open.spotify.com/album/4oTxax02L5oGUREh79Ndjj) | 3:08 |
 | 59 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 |

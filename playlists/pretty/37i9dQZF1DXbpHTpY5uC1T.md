@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpHTpY5uC1T.md) - [plain]
 
 > con Ed Maverick 😔
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,503 likes - 28 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,506 likes - 28 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpHTpY5uC1T.md) - [plain]
 | 27 | [John Wayne Gacy, Jr.](https://open.spotify.com/track/2R3g9k14OAcUzZYwo90Tx6) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 3:19 |
 | 28 | [Sunshine](https://open.spotify.com/track/5j6nQdG0nzJTpu60BKmqw3) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 2:59 |
 
-Snapshot ID: `MTY1MjMxNzk5NiwwMDAwMDAwMGE0MDg5OWFmYzNhOTRmNTMyYWEyNjE1YzE0MGM4OWMy`
+Snapshot ID: `MTY1MjQwNDcxMSwwMDAwMDAwMGE0MDg5OWFmYzNhOTRmNTMyYWEyNjE1YzE0MGM4OWMy`

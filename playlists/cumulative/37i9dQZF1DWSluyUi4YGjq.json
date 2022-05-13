@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-11",
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Vero on cover!",
   "name": "Shoegaze Now",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7khBi2LhuBeMPgT1Gz4AOk"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 189531,
       "name": "Akira",
       "url": "https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc"
@@ -83,6 +85,24 @@
       "duration_ms": 195312,
       "name": "Al Rev\u00e9s - feat. Petite Amie",
       "url": "https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4"
+    },
+    {
+      "album": {
+        "name": "Beachy Head",
+        "url": "https://open.spotify.com/album/7n95iySQSShHU7doQfeGP4"
+      },
+      "artists": [
+        {
+          "name": "Beachy Head",
+          "url": "https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "All Gone",
+      "url": "https://open.spotify.com/track/7BgzLzMFHTVJn9TP7gZX9o"
     },
     {
       "album": {
@@ -479,10 +499,28 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 198842,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/0UQc1EkgxdIB3nGVTuAXKI"
+    },
+    {
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240678,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
     },
     {
       "album": {
@@ -1012,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Hollowers",
+        "url": "https://open.spotify.com/album/62iB6VwTRBzZUwRoC8Iksk"
+      },
+      "artists": [
+        {
+          "name": "Lucid Express",
+          "url": "https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "Hollowers",
+      "url": "https://open.spotify.com/track/6tGPZ8kQ1ZzqGFdlr3VgJT"
+    },
+    {
+      "album": {
         "name": "Everything Else Matters",
         "url": "https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL"
       },
@@ -1102,6 +1158,24 @@
     },
     {
       "album": {
+        "name": "BITTER.ROOT",
+        "url": "https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4"
+      },
+      "artists": [
+        {
+          "name": "EN.KI.DU",
+          "url": "https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276172,
+      "name": "Inspiral",
+      "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
+    },
+    {
+      "album": {
         "name": "Blouse",
         "url": "https://open.spotify.com/album/7lzbyS6nNLF27Cw9zgrijG"
       },
@@ -1131,7 +1205,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 191901,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
@@ -1149,7 +1223,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 260360,
       "name": "Is This a Hotel?",
       "url": "https://open.spotify.com/track/3v4UCOl8AZzhSdCEbLLZu5"
@@ -1189,6 +1263,24 @@
       "duration_ms": 225053,
       "name": "Junebouvier",
       "url": "https://open.spotify.com/track/7k5xnDnNnIlKNcNUd8Mhvu"
+    },
+    {
+      "album": {
+        "name": "Colour Trip",
+        "url": "https://open.spotify.com/album/5K5UsJA8QsC33ozOZkVf8s"
+      },
+      "artists": [
+        {
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125330,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/17djDdG4A6RaonAObaffsH"
     },
     {
       "album": {
@@ -1257,7 +1349,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 248186,
       "name": "Lemonade Beauty",
       "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
@@ -1311,7 +1403,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 288575,
       "name": "Love Comes In Waves",
       "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
@@ -1365,7 +1457,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 293466,
       "name": "Mind the Wires",
       "url": "https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot"
@@ -1513,6 +1605,24 @@
       "duration_ms": 160415,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/1y8Ib4LBzhmXNCKhy9BZpL"
+    },
+    {
+      "album": {
+        "name": "Phase Break",
+        "url": "https://open.spotify.com/album/319vs4o181L9ZGttVOg4Fq"
+      },
+      "artists": [
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Ik5hkDngW1R1Y4aWdNumq"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475065,
+      "name": "Phase Break",
+      "url": "https://open.spotify.com/track/1zPQS7xNJUksb1Zg5T6Nys"
     },
     {
       "album": {
@@ -2103,7 +2213,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 216520,
       "name": "Wanting War",
       "url": "https://open.spotify.com/track/1hFjYgyZe58ZTNBK4mX6m1"
@@ -2139,7 +2249,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 265600,
       "name": "While My Waves Wonder",
       "url": "https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ"
@@ -2161,6 +2271,24 @@
       "duration_ms": 204391,
       "name": "You Lose!",
       "url": "https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ"
+    },
+    {
+      "album": {
+        "name": "The Pains of Being Pure at Heart",
+        "url": "https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243929,
+      "name": "Young Adult Friction",
+      "url": "https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq"

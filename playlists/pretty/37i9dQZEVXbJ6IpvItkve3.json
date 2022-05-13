@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Israel.",
-  "num_followers": 44655,
+  "num_followers": 44716,
   "original_name": "Top 50 - Israel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA1NTc5NjE5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA1NzAxNjUxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "Overexposed Track By Track",
         "url": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
@@ -77,75 +77,7 @@
       "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05d3\u05d5\u05d1\u05e9\u05e0\u05d9\u05d9\u05d4",
         "url": "https://open.spotify.com/album/55CGlMoTowH0a5vPjlS17I"
@@ -169,7 +101,23 @@
       "url": "https://open.spotify.com/track/67PF7VLcYEKKF82ziNf9Ur"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
         "url": "https://open.spotify.com/album/42gtw83raWKkGy94UDpLLe"
@@ -185,10 +133,10 @@
       "url": "https://open.spotify.com/track/2SxcL0eba2ILQpJPuBBHsG"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
       "artists": [
         {
@@ -196,15 +144,15 @@
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 259453,
-      "name": "She Will Be Loved - Radio Mix",
-      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
-        "name": "Overexposed Track By Track",
-        "url": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2"
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
       "artists": [
         {
@@ -212,28 +160,32 @@
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 219546,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/6cpk00i5TxCqSeqNi2HuIe"
+      "duration_ms": 231013,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
-        "name": "The Heart Part 5",
-        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 332362,
-      "name": "The Heart Part 5",
-      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+      "duration_ms": 227395,
+      "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05dc\u05da \u05dc\u05d9\u05e9\u05d5\u05df",
         "url": "https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe"
@@ -249,7 +201,7 @@
       "url": "https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -265,7 +217,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
         "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
@@ -281,47 +233,23 @@
       "url": "https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
-        "name": "Hands All Over (Revised International Standard version)",
-        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
       "artists": [
         {
           "name": "Maroon 5",
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 201493,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
+      "duration_ms": 259453,
+      "name": "She Will Be Loved - Radio Mix",
+      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "The Papercut Chronicles II",
-        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
-      },
-      "artists": [
-        {
-          "name": "Gym Class Heroes",
-          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Stereo Hearts (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05dc\u05d1\u05d3 \u05e2\u05dc \u05d4\u05de\u05d9\u05d8\u05d4",
         "url": "https://open.spotify.com/album/18m2Yfw0d6ceN5UUmY273m"
@@ -337,7 +265,55 @@
       "url": "https://open.spotify.com/track/05KQMm1vL6MnJkgobUtwft"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "Overexposed Track By Track",
+        "url": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219546,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6cpk00i5TxCqSeqNi2HuIe"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05d7\u05e6\u05d9 \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/1nQcTXFdSWXKQKeBKq99j3"
@@ -357,7 +333,7 @@
       "url": "https://open.spotify.com/track/1ZEsqzNBQqyC7VLRTUDopj"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05db\u05de\u05d5 \u05e9\u05d0\u05e0\u05d9",
         "url": "https://open.spotify.com/album/7C2J1726TKx0QfQXoIkkEl"
@@ -373,7 +349,7 @@
       "url": "https://open.spotify.com/track/4OuoS8NAur7tj6rMDpTVjJ"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05e4\u05e2\u05de\u05d5\u05df",
         "url": "https://open.spotify.com/album/5wQZzk2q5CM90DIvSB7LRH"
@@ -393,43 +369,7 @@
       "url": "https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 199849,
-      "name": "What Lovers Do",
-      "url": "https://open.spotify.com/track/0ExtPzAWi4arQz6kaabm02"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -445,23 +385,7 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 172597,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05d9\u05e9\u05df \u05e2\u05dc \u05d6\u05d4",
         "url": "https://open.spotify.com/album/1DYS80MaK2Ll2JJkdBOT5B"
@@ -477,7 +401,7 @@
       "url": "https://open.spotify.com/track/4N8FwcfRTju02qsgn9Mcl8"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05dc\u05d9\u05d1\u05d9\u05e0\u05d2 \u05d3\u05d4 \u05d3\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/7gGR6IBvZYsqqSs3D1Eo6K"
@@ -493,23 +417,27 @@
       "url": "https://open.spotify.com/track/6so2IwKQyYFkNv1G0FrZ95"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+        "name": "Hands All Over (Revised International Standard version)",
+        "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+      "duration_ms": 201493,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
@@ -525,43 +453,43 @@
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
-      "duration_ms": 244880,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/2rdc6PDLUZFnaTf1dqUJsH"
+        "name": "The Papercut Chronicles II",
+        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Gym Class Heroes",
+          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
         }
       ],
-      "duration_ms": 234308,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/3aR3hSjA1Vw0GXYmngsJS6"
+      "duration_ms": 210960,
+      "name": "Stereo Hearts (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -581,7 +509,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
         "url": "https://open.spotify.com/album/5B3xBhi3cYWXHcl8uFNDYm"
@@ -597,7 +525,7 @@
       "url": "https://open.spotify.com/track/79h6P8bV0ENtq6Vmhkpewr"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -617,23 +545,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "It Won't Be Soon Before Long (International Version)",
-        "url": "https://open.spotify.com/album/2RUHJZ3raiIDsR3yX4JXf5"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Makes Me Wonder",
-      "url": "https://open.spotify.com/track/3PNOYDruQplC92lNc7mE9W"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
         "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
@@ -649,7 +561,39 @@
       "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
+        "url": "https://open.spotify.com/album/2ZTFKvqSIVXTTenjnIPkOO"
+      },
+      "artists": [
+        {
+          "name": "Narkis",
+          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
+      "url": "https://open.spotify.com/track/26ffnwQVV4votOweWSwpeN"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 172597,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -677,23 +621,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
-        "url": "https://open.spotify.com/album/2ZTFKvqSIVXTTenjnIPkOO"
-      },
-      "artists": [
-        {
-          "name": "Narkis",
-          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
-      "url": "https://open.spotify.com/track/26ffnwQVV4votOweWSwpeN"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -713,7 +641,27 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 199849,
+      "name": "What Lovers Do",
+      "url": "https://open.spotify.com/track/0ExtPzAWi4arQz6kaabm02"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -733,63 +681,7 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "\u05db\u05db\u05d4 \u05db\u05dc \u05d9\u05d5\u05dd",
-        "url": "https://open.spotify.com/album/5CkUVNtP9mFb6spNR8ixHC"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 175296,
-      "name": "\u05db\u05db\u05d4 \u05db\u05dc \u05d9\u05d5\u05dd",
-      "url": "https://open.spotify.com/track/70Vsir4Wan3TrEzGCIZy0l"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 235545,
-      "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
-      "url": "https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "\u05dc\u05db\u05d0\u05d5\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/4nBBtn70xb1a8aED9BAPIf"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        },
-        {
-          "name": "Static & Ben El",
-          "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
-        }
-      ],
-      "duration_ms": 144939,
-      "name": "\u05dc\u05db\u05d0\u05d5\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/4aqlgwaZNzb94QuHP6y58X"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -805,23 +697,7 @@
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "\u05d7\u05e1\u05e8/\u05d4 \u05dc\u05d9 \u05d1\u05e8\u05de\u05d5\u05ea",
         "url": "https://open.spotify.com/album/56lwjpxdhmNnc4iV71imSq"
@@ -841,23 +717,99 @@
       "url": "https://open.spotify.com/track/6qi83Ret9Yok9PfZWzmdZk"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "\u05dc\u05db\u05d0\u05d5\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/4nBBtn70xb1a8aED9BAPIf"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "Static & Ben El",
+          "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
+        }
+      ],
+      "duration_ms": 144939,
+      "name": "\u05dc\u05db\u05d0\u05d5\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/4aqlgwaZNzb94QuHP6y58X"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "\u05db\u05db\u05d4 \u05db\u05dc \u05d9\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/5CkUVNtP9mFb6spNR8ixHC"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 175296,
+      "name": "\u05db\u05db\u05d4 \u05db\u05dc \u05d9\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/70Vsir4Wan3TrEzGCIZy0l"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe"
+        "url": "https://open.spotify.com/album/2rdc6PDLUZFnaTf1dqUJsH"
       },
       "artists": [
         {
           "name": "Maroon 5",
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 215229,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/4zOZb2HMmV81WVG3wrmrLZ"
+      "duration_ms": 234308,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3aR3hSjA1Vw0GXYmngsJS6"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -873,24 +825,76 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-05-11 10:20:19",
+      "added_at": "2022-05-12 20:14:11",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe"
+        "name": "\u05d1\u05d9\u05d7\u05d3",
+        "url": "https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0"
+      },
+      "artists": [
+        {
+          "name": "Marina Maximilian",
+          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
+        },
+        {
+          "name": "Guy Mentesh",
+          "url": "https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "\u05d1\u05d9\u05d7\u05d3",
+      "url": "https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "\u05d0\u05ea \u05d7\u05e1\u05e8\u05d4 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
       "artists": [
         {
           "name": "Maroon 5",
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 214265,
-      "name": "Don't Wanna Know",
-      "url": "https://open.spotify.com/track/1yjzhkjFzBq7BhvbgMrNMa"
+      "duration_ms": 244880,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
+    },
+    {
+      "added_at": "2022-05-12 20:14:11",
+      "album": {
+        "name": "\u05e9\u05d1\u05e2\u05d4 \u05d9\u05e8\u05d7\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY"
+      },
+      "artists": [
+        {
+          "name": "Static & Ben El",
+          "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
+        },
+        {
+          "name": "Netta",
+          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+        }
+      ],
+      "duration_ms": 200142,
+      "name": "\u05d0\u05e4\u05e1 \u05de\u05d0\u05de\u05e5",
+      "url": "https://open.spotify.com/track/2liUMhNvpAxRNVAGnz8jNJ"
     }
   ],
   "unique_name": "Top 50 - Israel",

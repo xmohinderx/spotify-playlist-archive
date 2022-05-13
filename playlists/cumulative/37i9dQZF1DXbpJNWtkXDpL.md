@@ -4,7 +4,7 @@
 
 > Celebramos a nuestros nuevos artistas en el escenario\. Virlán García en portada.
 
-111 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
+114 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,12 @@
 | [Bitches and Ceviches](https://open.spotify.com/track/3W9JZp5dMeW8XN69AhUg4I) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Bitches and Ceviches](https://open.spotify.com/album/286q229FNIyWuqzpOanl35) | 4:04 | 2021-10-01 | 2022-05-10 |
 | [Bla Bla Bla](https://open.spotify.com/track/5PumxyOcCU7vI3mseSg9fe) | [Nicole Gatti](https://open.spotify.com/artist/4j0wOwaGxwpKs2xrtvXqHE) | [Bla Bla Bla](https://open.spotify.com/album/4Af6gTIXQsJBx6cvZuVcbX) | 2:57 | 2021-10-01 | 2022-05-08 |
 | [Bubble Love](https://open.spotify.com/track/7HPckM9h2ZDasdopb1n2Oc) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ), [Roberta Pardo](https://open.spotify.com/artist/5SDCXW3v93K8R58xRLeV0b), [Isabela Costero](https://open.spotify.com/artist/3Jes9MS3tLqPDrCDxdUGQx), [Maria Villanueva](https://open.spotify.com/artist/10LgSuLJnpj2wkOxOQW1hF), [Valentina Reyes](https://open.spotify.com/artist/7gFOLjST0TuyozYrZUQWtw) | [Bubble Love](https://open.spotify.com/album/2hcY4idysibLPBh9crrgMY) | 3:16 | 2022-05-11 |  |
-| [C'est Pas Moi](https://open.spotify.com/track/4LOS1xKULiLw4y4GegBlwE) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [C'est Pas Moi](https://open.spotify.com/album/1I9S7r4dEM14NWTYMcbLIX) | 3:26 | 2021-10-01 |  |
+| [C'est Pas Moi](https://open.spotify.com/track/1YIjej0CUTyxjZiGuHhkLg) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu) | 3:26 | 2022-05-12 |  |
+| [C'est Pas Moi](https://open.spotify.com/track/4LOS1xKULiLw4y4GegBlwE) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [C'est Pas Moi](https://open.spotify.com/album/1I9S7r4dEM14NWTYMcbLIX) | 3:26 | 2021-10-01 | 2022-05-13 |
 | [Calamidad](https://open.spotify.com/track/6053PBltVrWgwkTZAS0FF3) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Calamidad](https://open.spotify.com/album/6y1vBRKPKLwgKlVin1kvdO) | 3:15 | 2021-10-01 | 2022-05-11 |
 | [Casual \(YTQDV\)](https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:10 | 2021-10-01 | 2022-05-12 |
 | [Cohete](https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:39 | 2021-10-01 | 2022-05-11 |
-| [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-05-11 |  |
+| [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-05-11 | 2022-05-13 |
 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 | 2022-05-09 |  |
 | [Corazón Frio](https://open.spotify.com/track/3a0EjZTzCLx1ztmtaZb9Cp) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:43 | 2021-10-01 | 2022-04-26 |
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-05-11 |  |
@@ -34,6 +35,7 @@
 | [De Lao Remix](https://open.spotify.com/track/0xvrNtfjeNn8Ueug6eXzrY) | [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Fran Zata](https://open.spotify.com/artist/38qrFBs12feiiLMMcLWekk), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [De Lao Remix](https://open.spotify.com/album/3spAK93c7mgN7sbLIqR3cB) | 4:14 | 2021-10-01 | 2022-05-12 |
 | [De Sigilos y Decretos](https://open.spotify.com/track/7fqR5Ybmw7CWdTdAzf5mHB) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [De Sigilos y Decretos](https://open.spotify.com/album/1Kcf9JddHIfAopxbYjH9xD) | 3:25 | 2022-05-11 |  |
 | [Detente un Minuto Ahí](https://open.spotify.com/track/1NazYV92RJ30amONk5h94G) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Se Trata de Ti](https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc) | 3:17 | 2022-05-11 |  |
+| [Dualidad](https://open.spotify.com/track/73fEAatuIG7pWfTUHC8Ood) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Dualidad](https://open.spotify.com/album/7B2B1gWf8uxlM75gnxCXtO) | 3:29 | 2022-05-12 |  |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-10-01 | 2022-05-12 |
 | [El Joven De San Luis](https://open.spotify.com/track/2Wm28MbiEKH6vPiaEEWn6i) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [El Joven De San Luis](https://open.spotify.com/album/3c7EsCogS6DYbRd2ivJun3) | 3:24 | 2022-05-09 |  |
 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 | 2021-10-01 | 2022-05-12 |
@@ -94,6 +96,7 @@
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-05-09 |  |
 | [Soy Un Bombón](https://open.spotify.com/track/1xXXDSbb411DEeiRAsmmVg) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soy Un Bombón](https://open.spotify.com/album/2sYKhPMNMnZRlpxR64qE6K) | 2:17 | 2021-10-01 | 2022-05-12 |
 | [Sumérgete](https://open.spotify.com/track/4e3DsTwu1VOzh0Su0OKp1A) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu) | 3:22 | 2021-10-01 |  |
+| [Tambaleo](https://open.spotify.com/track/3Pp1DhAHX7b5eBb0yvpHM6) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Tambaleo](https://open.spotify.com/album/75ew1wrifiWmfwjbUcsoiJ) | 2:26 | 2022-05-12 |  |
 | [Tanto Amor](https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Tanto Amor](https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz) | 3:05 | 2021-10-01 | 2022-05-12 |
 | [tarde](https://open.spotify.com/track/2snboRLa5IkMkMAohyxEYN) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:31 | 2021-10-01 | 2022-05-12 |
 | [tdbn](https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ) | 3:19 | 2021-10-01 | 2022-05-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Listen to some of  <a href=\u201cspotify:artist:6WY7D3jk8zTrHtmkqqo5GI\u201d>Marren Morris'</a>  inspirations, plus other cool, female identifying artists. Cover: Marren Morris ",
-  "num_followers": 17764,
+  "num_followers": 17783,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjMxNzM0MiwwMDAwMDAwMDQzZTc5YTRkZmNkNmFlNDBmYmM0NTQ1NDg5ZWVjODQ5",
+  "snapshot_id": "MTY1MjQwNDA4MCwwMDAwMDAwMGU1OGUzMjdiZDgyZTA0ZTkyZGVhOGRlYjE5NTExZDQ5",
   "tracks": [
     {
       "added_at": "2022-05-04 03:44:19",
@@ -43,18 +43,18 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
+        "name": "HEARTFIRST",
+        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 174557,
-      "name": "Good Person",
-      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
     },
     {
       "added_at": "2022-05-04 03:44:19",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -111,22 +127,6 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
         "name": "Compassion",
         "url": "https://open.spotify.com/album/0VPb1qcRGAjJhr0rh1d25D"
       },
@@ -143,6 +143,38 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 174557,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
         "name": "I Burned LA Down",
         "url": "https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM"
       },
@@ -155,38 +187,6 @@
       "duration_ms": 195252,
       "name": "I Burned LA Down",
       "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Actin' Up",
-      "url": "https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
-        "name": "HEARTFIRST",
-        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 187016,
-      "name": "HEARTFIRST",
-      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
     },
     {
       "added_at": "2022-05-04 03:44:19",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Actin' Up",
+      "url": "https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
         "name": "My Jesus",
         "url": "https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q"
       },
@@ -263,34 +279,18 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh"
+        "name": "Out Yonder",
+        "url": "https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P"
       },
       "artists": [
         {
-          "name": "Lindsay Ell",
-          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 186094,
-      "name": "Right On Time",
-      "url": "https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "I Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
+      "duration_ms": 202360,
+      "name": "Out Yonder",
+      "url": "https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG"
     },
     {
       "added_at": "2022-05-04 03:44:19",
@@ -311,18 +311,34 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "Out Yonder",
-        "url": "https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P"
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Out Yonder",
-      "url": "https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG"
+      "duration_ms": 186094,
+      "name": "Right On Time",
+      "url": "https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
+        "name": "Sex In Public",
+        "url": "https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV"
+      },
+      "artists": [
+        {
+          "name": "Menna",
+          "url": "https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM"
+        }
+      ],
+      "duration_ms": 143531,
+      "name": "Sex In Public",
+      "url": "https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk"
     },
     {
       "added_at": "2022-05-04 03:44:19",
@@ -339,38 +355,6 @@
       "duration_ms": 228800,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
-        "name": "We Did",
-        "url": "https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg"
-      },
-      "artists": [
-        {
-          "name": "Sacha",
-          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
-        }
-      ],
-      "duration_ms": 183342,
-      "name": "We Did",
-      "url": "https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-05-04 03:44:19",
@@ -423,70 +407,6 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "Sex In Public",
-        "url": "https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV"
-      },
-      "artists": [
-        {
-          "name": "Menna",
-          "url": "https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM"
-        }
-      ],
-      "duration_ms": 143531,
-      "name": "Sex In Public",
-      "url": "https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Everything I Know About Love",
-      "url": "https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/4tEVSDPcxIQFFZuynRbDVX"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        }
-      ],
-      "duration_ms": 185545,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/1KniGMjv0XijAFK0MnBjZT"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -503,6 +423,22 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/4tEVSDPcxIQFFZuynRbDVX"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "duration_ms": 185545,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/1KniGMjv0XijAFK0MnBjZT"
     },
     {
       "added_at": "2022-05-04 03:44:19",
@@ -525,6 +461,22 @@
       "url": "https://open.spotify.com/track/6YP6K5XpZMIJ7WwQr2Wa6h"
     },
     {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
+        "name": "We Did",
+        "url": "https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "duration_ms": 183342,
+      "name": "We Did",
+      "url": "https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr"
+    },
+    {
       "added_at": "2022-05-06 18:35:32",
       "album": {
         "name": "Scooter",
@@ -543,66 +495,66 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "SAVING GRACE",
-        "url": "https://open.spotify.com/album/2MzlnjjIg4PDsIL8PgBuNr"
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
       },
       "artists": [
         {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 172059,
-      "name": "SAVING GRACE",
-      "url": "https://open.spotify.com/track/5GfNqvXZ1BEjcjZfcAm8MF"
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "New Me",
-        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC"
       },
       "artists": [
         {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 166000,
-      "name": "New Me",
-      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
+      "duration_ms": 209706,
+      "name": "Everything I Know About Love",
+      "url": "https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw"
     },
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "In The Club",
-        "url": "https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs"
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
         }
       ],
-      "duration_ms": 172946,
-      "name": "In The Club",
-      "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
+      "duration_ms": 183865,
+      "name": "Castles",
+      "url": "https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu"
     },
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "Pissed Black Girl",
-        "url": "https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
       },
       "artists": [
         {
-          "name": "Magi Merlin",
-          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 205854,
-      "name": "Pissed Black Girl",
-      "url": "https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c"
+      "duration_ms": 214989,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
     },
     {
       "added_at": "2022-05-04 03:44:19",
@@ -627,18 +579,86 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "Castles",
-        "url": "https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53"
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs"
       },
       "artists": [
         {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 183865,
-      "name": "Castles",
-      "url": "https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu"
+      "duration_ms": 172946,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
+        "name": "Pissed Black Girl",
+        "url": "https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "Pissed Black Girl",
+      "url": "https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
+        "name": "Mine O' Mine",
+        "url": "https://open.spotify.com/album/3d1goOl1kD29hQPHRtywS9"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 193938,
+      "name": "Mine O' Mine",
+      "url": "https://open.spotify.com/track/6nATiM03z9hZ5aPF8pswNe"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "added_at": "2022-05-04 03:44:19",
@@ -655,6 +675,22 @@
       "duration_ms": 203606,
       "name": "double standard",
       "url": "https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq"
+    },
+    {
+      "added_at": "2022-05-04 03:44:19",
+      "album": {
+        "name": "SAVING GRACE",
+        "url": "https://open.spotify.com/album/2MzlnjjIg4PDsIL8PgBuNr"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 172059,
+      "name": "SAVING GRACE",
+      "url": "https://open.spotify.com/track/5GfNqvXZ1BEjcjZfcAm8MF"
     },
     {
       "added_at": "2022-05-04 03:44:19",
@@ -695,22 +731,18 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "Mine O' Mine",
-        "url": "https://open.spotify.com/album/3d1goOl1kD29hQPHRtywS9"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ"
       },
       "artists": [
         {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 193938,
-      "name": "Mine O' Mine",
-      "url": "https://open.spotify.com/track/6nATiM03z9hZ5aPF8pswNe"
+      "duration_ms": 225987,
+      "name": "Tristeza - Spotify Singles",
+      "url": "https://open.spotify.com/track/4uZ5XgrjuomsVXOABMRaVW"
     },
     {
       "added_at": "2022-05-04 03:44:19",
@@ -731,38 +763,6 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
-        "name": "Thr33 6ix 5ive",
-        "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        }
-      ],
-      "duration_ms": 151283,
-      "name": "Thr33 6ix 5ive",
-      "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
-    },
-    {
-      "added_at": "2022-05-04 03:44:19",
-      "album": {
         "name": "Bleed Your Heart Out",
         "url": "https://open.spotify.com/album/55ow5n5coIs45tttCxuSVu"
       },
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-05-04 03:44:19",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ"
+        "name": "Thr33 6ix 5ive",
+        "url": "https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
         }
       ],
-      "duration_ms": 225987,
-      "name": "Tristeza - Spotify Singles",
-      "url": "https://open.spotify.com/track/4uZ5XgrjuomsVXOABMRaVW"
+      "duration_ms": 151283,
+      "name": "Thr33 6ix 5ive",
+      "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
     },
     {
       "added_at": "2022-05-04 03:44:19",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-691 songs - 1 day 8 hr 29 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+692 songs - 1 day 8 hr 32 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-05-23 | 2021-05-24 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-10-22 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-24 | 2021-11-25 |
-| [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 |  |
+| [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-05-13 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-10-31 | 2022-02-06 |
 | [Errbody Sleeping](https://open.spotify.com/track/2A6bj4o6EMJdCdXzcjMl72) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:43 | 2021-10-23 | 2021-12-03 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-09 |
@@ -599,6 +599,7 @@
 | [Сан Ларан](https://open.spotify.com/track/7ww5EYau8o2QrUTrLKFZ1m) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:03 | 2021-08-15 | 2021-08-16 |
 | [Сан Ларан](https://open.spotify.com/track/07OqyOeHz7LOGVuXUx4pr3) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL) | [Сан Ларан](https://open.spotify.com/album/1y2MhUt42DWBSvILa23KV6) | 3:25 | 2021-10-31 | 2022-01-30 |
 | [Селяви](https://open.spotify.com/track/3SOHFsSinxM6flLceYl5BT) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Селяви](https://open.spotify.com/album/2EChKB9PeaOo9WZAUCKuak) | 2:40 | 2022-04-09 | 2022-05-12 |
+| [Сепаратіст](https://open.spotify.com/track/2AbA0a53nHOdeLsYveGrap) | [Медовий Полин](https://open.spotify.com/artist/0kZSUKKwUWbIAKZyJEImwQ) | [В Коня Довший](https://open.spotify.com/album/2S3GWGLADjaFqUoItLH1tQ) | 2:53 | 2022-05-12 |  |
 | [Сердце для шалав](https://open.spotify.com/track/5XlBwrzkl4FQQZlgjhlAXR) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Сердце для шалав](https://open.spotify.com/album/6SGjoR9ezsVvgrtIKMTieC) | 2:31 | 2021-08-13 | 2021-08-15 |
 | [Сердце для шалав](https://open.spotify.com/track/5q5LkoyUzpD5270U7eYhee) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:31 | 2021-08-15 | 2021-08-27 |
 | [сети](https://open.spotify.com/track/2mKa6WpSZ97avRyIlPKRK8) | [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [сети](https://open.spotify.com/album/6oBf10h9vqPnaA3GXuxgrZ) | 2:11 | 2021-12-18 | 2022-03-03 |

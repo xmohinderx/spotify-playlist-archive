@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 271813,
       "name": "Day Glow",
       "url": "https://open.spotify.com/track/5s3kFS752dETmodfX9c6d2"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 366417,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 260799,
       "name": "Journey Proud",
       "url": "https://open.spotify.com/track/7lZYsbTb3qmsJlZZUXz0KK"
@@ -1540,6 +1540,24 @@
     },
     {
       "album": {
+        "name": "Midnight Zone",
+        "url": "https://open.spotify.com/album/6LADF5HBDOCLtk5b0CosVw"
+      },
+      "artists": [
+        {
+          "name": "Common Sage",
+          "url": "https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242443,
+      "name": "Midnight Zone",
+      "url": "https://open.spotify.com/track/0lTfs6V90Lf2xWEyFtCjON"
+    },
+    {
+      "album": {
         "name": "Sub Atomic Party Cool",
         "url": "https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm"
       },
@@ -1757,6 +1775,24 @@
       "duration_ms": 193770,
       "name": "Queen",
       "url": "https://open.spotify.com/track/6FoB7cNbQ28gsKhh24YI4I"
+    },
+    {
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/6qaCXwtvRmnz3xuU0dLzzt"
+      },
+      "artists": [
+        {
+          "name": "Cave In",
+          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273569,
+      "name": "Reckoning",
+      "url": "https://open.spotify.com/track/3qAqVQU4bf1ycHQvgqTzYm"
     },
     {
       "album": {
@@ -2243,6 +2279,24 @@
       "duration_ms": 255670,
       "name": "When It All Breaks Down",
       "url": "https://open.spotify.com/track/70Hz40RYlUS8GsSnIoypkT"
+    },
+    {
+      "album": {
+        "name": "Exercise Your Demons",
+        "url": "https://open.spotify.com/album/04jIk2Sa4YDalTLQ9IGIyF"
+      },
+      "artists": [
+        {
+          "name": "CLIFFDIVER",
+          "url": "https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216498,
+      "name": "Who Let The Hawgz Out?",
+      "url": "https://open.spotify.com/track/0LhLKXxOYLOJGqTqD7k4GK"
     },
     {
       "album": {

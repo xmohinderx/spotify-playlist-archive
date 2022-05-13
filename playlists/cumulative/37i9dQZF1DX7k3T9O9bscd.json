@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-11",
   "description": "Psyched-out bands from the four corners of the world.",
   "name": "Neo-Psychedelic Rock",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2RHGcfs46V7xV3q5UtJeL9"
+  ],
   "tracks": [
     {
       "album": {
@@ -156,6 +158,24 @@
     },
     {
       "album": {
+        "name": "Back to Land",
+        "url": "https://open.spotify.com/album/1VyWvAkunNZTJ0PCUv81dj"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317960,
+      "name": "Back to Land",
+      "url": "https://open.spotify.com/track/6ylxuxxLEcbZKtVTf0Feg2"
+    },
+    {
+      "album": {
         "name": "Everything Was Beautiful",
         "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
       },
@@ -171,6 +191,24 @@
       "duration_ms": 352333,
       "name": "Best Thing You Never Had (The D Song)",
       "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
+    },
+    {
+      "album": {
+        "name": "Death Hawks",
+        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
+      },
+      "artists": [
+        {
+          "name": "Death Hawks",
+          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546640,
+      "name": "Black Acid",
+      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
     },
     {
       "album": {
@@ -203,7 +241,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 699976,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6HX1Wa3knjoiLFK9LvIqrQ"
@@ -282,6 +320,24 @@
     },
     {
       "album": {
+        "name": "Un soir chez Norris (Evasion 1971) - Single",
+        "url": "https://open.spotify.com/album/6R8dIZHRiJ3EwwBqKgk4Ce"
+      },
+      "artists": [
+        {
+          "name": "Pierre Cavalli",
+          "url": "https://open.spotify.com/artist/7z4lDD7ljn6w4SLFMrumey"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131426,
+      "name": "Chasse \u00e0 l'homme",
+      "url": "https://open.spotify.com/track/30njO8xB8t4gUbocXczybe"
+    },
+    {
+      "album": {
         "name": "Pink Dogs on the Green Grass",
         "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
       },
@@ -293,7 +349,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 225249,
       "name": "Christopher Robbins",
       "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
@@ -311,7 +367,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 269529,
       "name": "Crime em T\u00e2nger",
       "url": "https://open.spotify.com/track/5RDLAg3zVPTlsmOlKNNGf9"
@@ -395,7 +451,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
@@ -431,7 +487,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 529777,
       "name": "Ejefjallaj\u00f6kull",
       "url": "https://open.spotify.com/track/4gE0qgEcL3lxiiCnnenhC4"
@@ -521,7 +577,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 455523,
       "name": "For Eddie Hazel",
       "url": "https://open.spotify.com/track/3XzXcQPlc7gRsWbC3EIKdU"
@@ -575,7 +631,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 170186,
       "name": "Golden Dawn",
       "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
@@ -593,10 +649,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 365797,
       "name": "Greven",
       "url": "https://open.spotify.com/track/54URuxbHDl2XnK5lSWJNNC"
+    },
+    {
+      "album": {
+        "name": "Hiisi, Pt. 1",
+        "url": "https://open.spotify.com/album/1vmhF0O98KUC5m9pH3jzf6"
+      },
+      "artists": [
+        {
+          "name": "Kiki Pau",
+          "url": "https://open.spotify.com/artist/2U4JtZdPoHPqEBofPg0CjC"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408948,
+      "name": "Hiisi, Pt. 1",
+      "url": "https://open.spotify.com/track/2gXyYqSL0g17iNfUZVQryO"
     },
     {
       "album": {
@@ -654,6 +728,24 @@
     },
     {
       "album": {
+        "name": "I Fucked up I Was a Child",
+        "url": "https://open.spotify.com/album/2NqiM1M6rO9YxFFs2jJJgr"
+      },
+      "artists": [
+        {
+          "name": "Les Big Byrd",
+          "url": "https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283613,
+      "name": "I Fucked up I Was a Child",
+      "url": "https://open.spotify.com/track/3Gv8uENEjjly7JASxPZ0GK"
+    },
+    {
+      "album": {
         "name": "Slip into the Vortex",
         "url": "https://open.spotify.com/album/6qfXssEj5ifrHYiQfHmgYz"
       },
@@ -665,7 +757,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 595653,
       "name": "I teleported to Acapulco",
       "url": "https://open.spotify.com/track/0TZcrDs4cFHR7plX9F0eVu"
@@ -737,7 +829,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 205160,
       "name": "Indian Zone Drum Killer Inc.",
       "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
@@ -791,7 +883,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 286000,
       "name": "\u0130syan Manifestosu",
       "url": "https://open.spotify.com/track/0jE2HYDc22ujaaXeWfgRx3"
@@ -1139,7 +1231,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 285313,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/7oxtzbhJMUcHXkr9VVnXvC"
@@ -1308,6 +1400,24 @@
     },
     {
       "album": {
+        "name": "Can't Get No",
+        "url": "https://open.spotify.com/album/0taZSlsinNfnw9FpNMZBS0"
+      },
+      "artists": [
+        {
+          "name": "Dead Ghosts",
+          "url": "https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Roky Said",
+      "url": "https://open.spotify.com/track/1n3cDnsKveliNsejFGLTs9"
+    },
+    {
+      "album": {
         "name": "Elephant Stone",
         "url": "https://open.spotify.com/album/2xUECIo0BalLsOl686J9kt"
       },
@@ -1373,7 +1483,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 228015,
       "name": "Shalala",
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
@@ -1409,7 +1519,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 318960,
       "name": "Silbury Sands",
       "url": "https://open.spotify.com/track/6rsQ7ctgzajUqa8PXImfgt"
@@ -1499,7 +1609,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 239804,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS"
@@ -1535,7 +1645,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 285643,
       "name": "The Blue Marble",
       "url": "https://open.spotify.com/track/5Yo6FhNtzrjOLGo9Y00Nup"
@@ -1571,7 +1681,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
@@ -1630,6 +1740,24 @@
     },
     {
       "album": {
+        "name": "Fuma\u00e7a Preta",
+        "url": "https://open.spotify.com/album/36wApbIcDo6iCWZdRbpNC5"
+      },
+      "artists": [
+        {
+          "name": "Fuma\u00e7a Preta",
+          "url": "https://open.spotify.com/artist/6EbouBUrGRR3KTE9m6Fcfi"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159513,
+      "name": "Toda Pessoa",
+      "url": "https://open.spotify.com/track/7yfnGnzEDtVKNNNnLC2dLK"
+    },
+    {
+      "album": {
         "name": "La Antillana: Sancocho Stereo, Cap\u00edtulo 3",
         "url": "https://open.spotify.com/album/3St0uMHPSzTkAPgjLlCX66"
       },
@@ -1677,7 +1805,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 434989,
       "name": "Trees",
       "url": "https://open.spotify.com/track/1NXypJl06i4aiD6Lpi06Sb"
@@ -1746,6 +1874,24 @@
     },
     {
       "album": {
+        "name": "The Exorcist GBG",
+        "url": "https://open.spotify.com/album/7p9hlxuj9HbFC25xMJqV4S"
+      },
+      "artists": [
+        {
+          "name": "The Exorcist GBG",
+          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174803,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/7kUMtpiRKDWVUOBfRX0eLd"
+    },
+    {
+      "album": {
         "name": "Wading Out / Shell Island",
         "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
@@ -1761,6 +1907,24 @@
       "duration_ms": 221418,
       "name": "Wading Out",
       "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
+    },
+    {
+      "album": {
+        "name": "Chambers",
+        "url": "https://open.spotify.com/album/0c7Cw0CWToZYkq8I3JNNJv"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299462,
+      "name": "What's Holding You?",
+      "url": "https://open.spotify.com/track/1zGVHAHmNeYkdt51T9pgtD"
     },
     {
       "album": {
@@ -1797,6 +1961,24 @@
       "duration_ms": 225750,
       "name": "Youth Accomplished",
       "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
+    },
+    {
+      "album": {
+        "name": "Mustafa \u00d6zkent Ve Orkestras\u0131 Gen\u00e7lik \u0130le El Ele",
+        "url": "https://open.spotify.com/album/3bnqPaNk1lbje5XwhZuPwz"
+      },
+      "artists": [
+        {
+          "name": "Mustafa \u00d6zkent",
+          "url": "https://open.spotify.com/artist/7AIG5iIr8bQomw1pGrwZZ4"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138623,
+      "name": "\u00c7ar\u015fambay\u0131 Sel Ald\u0131",
+      "url": "https://open.spotify.com/track/4Rvx92J5G9D840uqgZiLvD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7k3T9O9bscd"

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Estonia.",
-  "num_followers": 16325,
+  "num_followers": 16332,
   "original_name": "Top 50 - Estonia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA1NTc5NjEzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA1NzAxNjUwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "Stefania (Kalush Orchestra)",
+        "url": "https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        }
+      ],
+      "duration_ms": 179545,
+      "name": "Stefania (Kalush Orchestra)",
+      "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "barranco",
         "url": "https://open.spotify.com/album/50pxxbdV74q105EwQhmkCz"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/64Ubdf7jVCp5DqaEZQOFBK"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -57,23 +73,7 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "k\u00f5ik on s\u00fc\u00fcdi",
-        "url": "https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws"
-      },
-      "artists": [
-        {
-          "name": "5MIINUST",
-          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
-        }
-      ],
-      "duration_ms": 236676,
-      "name": "?mis sa tegid",
-      "url": "https://open.spotify.com/track/4VJpJ0g4b0KqF7KZHiwOpV"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
@@ -89,7 +89,55 @@
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "k\u00f5ik on s\u00fc\u00fcdi",
+        "url": "https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws"
+      },
+      "artists": [
+        {
+          "name": "5MIINUST",
+          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
+        }
+      ],
+      "duration_ms": 236676,
+      "name": "?mis sa tegid",
+      "url": "https://open.spotify.com/track/4VJpJ0g4b0KqF7KZHiwOpV"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "De Diepte",
+        "url": "https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 176603,
+      "name": "De Diepte",
+      "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "The Heart Part 5",
         "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
@@ -105,23 +153,7 @@
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Palun Puhka",
-        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
-      },
-      "artists": [
-        {
-          "name": "Reket",
-          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
-        }
-      ],
-      "duration_ms": 182822,
-      "name": "Natuke Nii, Natuke Naa",
-      "url": "https://open.spotify.com/track/1qTeEcQ1UT0N3HF490YRnV"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX"
@@ -157,23 +189,7 @@
       "url": "https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Palun Puhka",
         "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
@@ -184,32 +200,28 @@
           "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
         }
       ],
-      "duration_ms": 156513,
-      "name": "Pidu Minus Eneses",
-      "url": "https://open.spotify.com/track/5PeAUVhb5XlUGcyoTg3FDy"
+      "duration_ms": 182822,
+      "name": "Natuke Nii, Natuke Naa",
+      "url": "https://open.spotify.com/track/1qTeEcQ1UT0N3HF490YRnV"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
-        "name": "Palun Puhka",
-        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/0aunt675a1C2mknBYoAlpK"
       },
       "artists": [
         {
-          "name": "Reket",
-          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
-        },
-        {
-          "name": "Olivar",
-          "url": "https://open.spotify.com/artist/4JKjB6B4lAYKIEmjZQbVgY"
+          "name": "STEFAN",
+          "url": "https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug"
         }
       ],
-      "duration_ms": 147648,
-      "name": "Too Mul Lilli",
-      "url": "https://open.spotify.com/track/7KdJUAvVxKdc8fYhIRu25Q"
+      "duration_ms": 183902,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6sSq38pmQxG0YuvbipDoEi"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Death of a Bachelor",
         "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
@@ -225,27 +237,23 @@
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
-        "name": "Palun Puhka",
-        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
+        "name": "Festival Da Can\u00e7\u00e3o 2022",
+        "url": "https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx"
       },
       "artists": [
         {
-          "name": "Reket",
-          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
-        },
-        {
-          "name": "An-Marlen",
-          "url": "https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 153169,
-      "name": "Endine",
-      "url": "https://open.spotify.com/track/0XFa6jczIRucbIynBVC6sJ"
+      "duration_ms": 181226,
+      "name": "saudade, saudade",
+      "url": "https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -265,7 +273,63 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "Palun Puhka",
+        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
+      },
+      "artists": [
+        {
+          "name": "Reket",
+          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
+        },
+        {
+          "name": "Olivar",
+          "url": "https://open.spotify.com/artist/4JKjB6B4lAYKIEmjZQbVgY"
+        }
+      ],
+      "duration_ms": 147648,
+      "name": "Too Mul Lilli",
+      "url": "https://open.spotify.com/track/7KdJUAvVxKdc8fYhIRu25Q"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "Halo (feat. PIA MARIA)",
+        "url": "https://open.spotify.com/album/3IW2pdhIz1KqoJDr6sxe24"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "PIA MARIA",
+          "url": "https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Halo (feat. PIA MARIA)",
+      "url": "https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -285,23 +349,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Palun Puhka",
         "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
@@ -312,60 +360,12 @@
           "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
         }
       ],
-      "duration_ms": 144878,
-      "name": "Kirsikivi",
-      "url": "https://open.spotify.com/track/4eI3Q71H4zyBJcXLXxghyW"
+      "duration_ms": 156513,
+      "name": "Pidu Minus Eneses",
+      "url": "https://open.spotify.com/track/5PeAUVhb5XlUGcyoTg3FDy"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Palun Puhka",
-        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
-      },
-      "artists": [
-        {
-          "name": "Reket",
-          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
-        }
-      ],
-      "duration_ms": 136596,
-      "name": "D\u00fc\u00fcn",
-      "url": "https://open.spotify.com/track/5bgKslt8cAfLMhfgRiEDjz"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Palun Puhka",
-        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
-      },
-      "artists": [
-        {
-          "name": "Reket",
-          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Muinastulede \u00d6\u00f6",
-      "url": "https://open.spotify.com/track/7c5x4cNEuy2IAEyFhbcO8x"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "No Excuses",
-      "url": "https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
@@ -389,39 +389,39 @@
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
-        "name": "Palun Puhka",
-        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
       "artists": [
         {
-          "name": "Reket",
-          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
         }
       ],
-      "duration_ms": 170965,
-      "name": "Onu Robert",
-      "url": "https://open.spotify.com/track/6jXRFbvJNG2hJX26EcvbVx"
+      "duration_ms": 257147,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -449,23 +449,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/0aunt675a1C2mknBYoAlpK"
-      },
-      "artists": [
-        {
-          "name": "STEFAN",
-          "url": "https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug"
-        }
-      ],
-      "duration_ms": 183902,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6sSq38pmQxG0YuvbipDoEi"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Palun Puhka",
         "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
@@ -476,76 +460,12 @@
           "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
         }
       ],
-      "duration_ms": 171375,
-      "name": "Et Sa Teaks",
-      "url": "https://open.spotify.com/track/5VFK6L5uzwgh6YUATwsXiD"
+      "duration_ms": 144878,
+      "name": "Kirsikivi",
+      "url": "https://open.spotify.com/track/4eI3Q71H4zyBJcXLXxghyW"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Palun Puhka",
-        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
-      },
-      "artists": [
-        {
-          "name": "Reket",
-          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
-        }
-      ],
-      "duration_ms": 169137,
-      "name": "Peegel, Peegel",
-      "url": "https://open.spotify.com/track/0dDpRy3xUbAcKz2Fiupo1y"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Palun Puhka",
-        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
-      },
-      "artists": [
-        {
-          "name": "Reket",
-          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
-        }
-      ],
-      "duration_ms": 159562,
-      "name": "Kui Kukud",
-      "url": "https://open.spotify.com/track/3kBW29DBPNgfBeMWOPAHM4"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "koptereid",
-        "url": "https://open.spotify.com/album/5itzPFYzlvPdenlpN1DP8D"
-      },
-      "artists": [
-        {
-          "name": "5MIINUST",
-          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
-        }
-      ],
-      "duration_ms": 250084,
-      "name": "koptereid",
-      "url": "https://open.spotify.com/track/4QWbJNAWatPr3j065e3N7H"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
@@ -561,43 +481,91 @@
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+        "name": "Palun Puhka",
+        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Reket",
+          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "An-Marlen",
+          "url": "https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx"
         }
       ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+      "duration_ms": 153169,
+      "name": "Endine",
+      "url": "https://open.spotify.com/track/0XFa6jczIRucbIynBVC6sJ"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
+        "name": "Give That Wolf A Banana",
+        "url": "https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as"
       },
       "artists": [
         {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+          "name": "Subwoolfer",
+          "url": "https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf"
         }
       ],
-      "duration_ms": 257147,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
+      "duration_ms": 171933,
+      "name": "Give That Wolf A Banana",
+      "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "No Excuses",
+      "url": "https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "koptereid",
+        "url": "https://open.spotify.com/album/5itzPFYzlvPdenlpN1DP8D"
+      },
+      "artists": [
+        {
+          "name": "5MIINUST",
+          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
+        }
+      ],
+      "duration_ms": 250084,
+      "name": "koptereid",
+      "url": "https://open.spotify.com/track/4QWbJNAWatPr3j065e3N7H"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Zim Zimma",
         "url": "https://open.spotify.com/album/14GFBYsScwEgASK16BnWBv"
@@ -617,7 +585,7 @@
       "url": "https://open.spotify.com/track/2cbkgGRldr8q7XEryBMFCZ"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -633,7 +601,7 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Palun Puhka",
         "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
@@ -644,12 +612,32 @@
           "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Eikellegi Ma",
-      "url": "https://open.spotify.com/track/3ERRAmfRkQjqxkHUo3aXT0"
+      "duration_ms": 185625,
+      "name": "Muinastulede \u00d6\u00f6",
+      "url": "https://open.spotify.com/track/7c5x4cNEuy2IAEyFhbcO8x"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Palun Puhka",
         "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
@@ -660,84 +648,12 @@
           "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
         }
       ],
-      "duration_ms": 262223,
-      "name": "Oota",
-      "url": "https://open.spotify.com/track/3BakzJ3o1pGizlxErmFPVv"
+      "duration_ms": 136596,
+      "name": "D\u00fc\u00fcn",
+      "url": "https://open.spotify.com/track/5bgKslt8cAfLMhfgRiEDjz"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Vihje",
-        "url": "https://open.spotify.com/album/3slrfEb9ioJLHKNWQTLomS"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        },
-        {
-          "name": "Mikael Gabriel",
-          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Vihje",
-      "url": "https://open.spotify.com/track/1w2vjbD7OmP9TaPRiiA2xW"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Je M'appelle",
-        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
-      },
-      "artists": [
-        {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Je M'appelle",
-      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -757,7 +673,47 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "Vihje",
+        "url": "https://open.spotify.com/album/3slrfEb9ioJLHKNWQTLomS"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        },
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Vihje",
+      "url": "https://open.spotify.com/track/1w2vjbD7OmP9TaPRiiA2xW"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "low down",
         "url": "https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT"
@@ -777,39 +733,55 @@
       "url": "https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
-        "name": "pagasita peruus (aguascalientes)",
-        "url": "https://open.spotify.com/album/2vHDkkcTbIlXeWNeaMb1MU"
+        "name": "Palun Puhka",
+        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
       },
       "artists": [
         {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+          "name": "Reket",
+          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
         }
       ],
-      "duration_ms": 193030,
-      "name": "pagasita peruus (aguascalientes)",
-      "url": "https://open.spotify.com/track/5eJ7P2Wx8bMujs5T46yAlM"
+      "duration_ms": 169137,
+      "name": "Peegel, Peegel",
+      "url": "https://open.spotify.com/track/0dDpRy3xUbAcKz2Fiupo1y"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+        "name": "Palun Puhka",
+        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Reket",
+          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 170965,
+      "name": "Onu Robert",
+      "url": "https://open.spotify.com/track/6jXRFbvJNG2hJX26EcvbVx"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
@@ -825,7 +797,71 @@
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
     },
     {
-      "added_at": "2022-05-11 10:20:13",
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "Palun Puhka",
+        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
+      },
+      "artists": [
+        {
+          "name": "Reket",
+          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Et Sa Teaks",
+      "url": "https://open.spotify.com/track/5VFK6L5uzwgh6YUATwsXiD"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "Palun Puhka",
+        "url": "https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D"
+      },
+      "artists": [
+        {
+          "name": "Reket",
+          "url": "https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Eikellegi Ma",
+      "url": "https://open.spotify.com/track/3ERRAmfRkQjqxkHUo3aXT0"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "added_at": "2022-05-12 20:14:10",
       "album": {
         "name": "Stan Smith",
         "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
@@ -843,42 +879,6 @@
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "Streetside",
-        "url": "https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Streetside",
-      "url": "https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN"
-    },
-    {
-      "added_at": "2022-05-11 10:20:13",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     }
   ],
   "unique_name": "Top 50 - Estonia",

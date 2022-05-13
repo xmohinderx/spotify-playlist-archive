@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,062 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,129 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 64 | [Talk to Me, Talk to Me](https://open.spotify.com/track/3tY8hVWV5QnulkKVSm7LjQ) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [A Bit of Previous](https://open.spotify.com/album/2VWqqmcIjjzdzayaawToIU) | 4:27 |
 | 65 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 |
 | 66 | [Step Back](https://open.spotify.com/track/37J4LgXpW6CGKgZ3ZEELAW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Step Back](https://open.spotify.com/album/11YWHfzcAY54keMolDo7WN) | 2:55 |
-| 67 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:07 |
+| 67 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 |
 | 68 | [Stay High](https://open.spotify.com/track/5VnejRpSUcb3LQootEXzJh) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Stay High](https://open.spotify.com/album/4J8LNFNXaDfnwOqJFXVBr2) | 3:25 |
 | 69 | [sad girls always finish first](https://open.spotify.com/track/16mFtGFLstwAxII0hUknUk) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [sad girls always finish first](https://open.spotify.com/album/1FaBznYSUrobcSjQEmERFM) | 3:15 |
 | 70 | [Funeral](https://open.spotify.com/track/2kQKwLHTZttWGANxB8otoe) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Funeral](https://open.spotify.com/album/5nDX6DAJQRy150Pv6oCJBb) | 3:50 |

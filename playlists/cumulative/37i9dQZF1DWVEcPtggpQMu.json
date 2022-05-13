@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest in South African Hip Hop & R&B. Cover: <a href=\"https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs?si=C5tphFx8QLOdc83N9gwd9A\">Kashcpt</a> ",
+  "description": "Only the hottest in South African Hip Hop and R&B. Cover: <a href=\"https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s?si=q-a0xYG_RwWY_AjQP__-nQ\">BabyDaiz</a> ",
   "name": "Aux",
   "published_playlist_ids": [
     "0xTC98cyXGkNifzFqwccaX"
@@ -79,7 +79,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 134617,
       "name": "13 X 444",
       "url": "https://open.spotify.com/track/0ucpXQWYpecGFZwldYXEIW"
@@ -1136,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "\"EHH Baby\" The Big Bang Theory",
+        "url": "https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Deposit",
+      "url": "https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw"
+    },
+    {
+      "album": {
         "name": "Double",
         "url": "https://open.spotify.com/album/1dfgi2AIEyciTDoaPG3Gnw"
       },
@@ -2134,6 +2152,28 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0lWVhZaVkkpaBgIbD1PlZv"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        },
+        {
+          "name": "Zmny",
+          "url": "https://open.spotify.com/artist/0i0GUJTefOzK8Keq9EhBK0"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248790,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/44J21DskWA212kLphA4gQr"
+    },
+    {
+      "album": {
         "name": "Ichwane Lenyoka",
         "url": "https://open.spotify.com/album/0HyidnQQAGW9Unm8Ejr21L"
       },
@@ -2869,7 +2909,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 168500,
       "name": "More",
       "url": "https://open.spotify.com/track/7bC6iob6VwfqKyVNxHkIKD"
@@ -3024,6 +3064,32 @@
     },
     {
       "album": {
+        "name": "NEVER RIDE",
+        "url": "https://open.spotify.com/album/17BYlFgYEGoqNwJsiM4B4k"
+      },
+      "artists": [
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146040,
+      "name": "NEVER RIDE",
+      "url": "https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti"
+    },
+    {
+      "album": {
         "name": "Kwamashu To Ejozi",
         "url": "https://open.spotify.com/album/540rP4UbYPCPRDJ0x6Xg2k"
       },
@@ -3047,6 +3113,28 @@
       "duration_ms": 150230,
       "name": "Ngeke",
       "url": "https://open.spotify.com/track/3mvasND4ydLSPC5GZxiDj9"
+    },
+    {
+      "album": {
+        "name": "Night Kings",
+        "url": "https://open.spotify.com/album/2rOmwlHFBp1DmbP2Fi4VFq"
+      },
+      "artists": [
+        {
+          "name": "Blaklez",
+          "url": "https://open.spotify.com/artist/002eDhqXlxtQHdaIKXyf3H"
+        },
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274814,
+      "name": "Night Kings",
+      "url": "https://open.spotify.com/track/6pe9x0Aziu3G8Orn25KjH8"
     },
     {
       "album": {
@@ -3539,6 +3627,24 @@
       "duration_ms": 217386,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/7yLQ5VHxQBoxTODZLMQzaU"
+    },
+    {
+      "album": {
+        "name": "R.I.P. FAT CAT",
+        "url": "https://open.spotify.com/album/6RphDoUJ7mhQ5pDxTJ14Al"
+      },
+      "artists": [
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185320,
+      "name": "R.I.P. FAT CAT",
+      "url": "https://open.spotify.com/track/1B8c8s2kY6hUPnv3d7wdhS"
     },
     {
       "album": {
@@ -4741,6 +4847,24 @@
       "duration_ms": 180740,
       "name": "TROPHIES",
       "url": "https://open.spotify.com/track/31RMC4WZMsS4GVxfef4UXk"
+    },
+    {
+      "album": {
+        "name": "Tsako Pitori",
+        "url": "https://open.spotify.com/album/6TNk9eoTSwbYTkFaTQZLRf"
+      },
+      "artists": [
+        {
+          "name": "SpaceSaveLogic",
+          "url": "https://open.spotify.com/artist/7FZiXDxXiyNiCIhcjtC3Rm"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161763,
+      "name": "Tsako Pitori",
+      "url": "https://open.spotify.com/track/0zdxXkvvpDc0oRhnjGZZr0"
     },
     {
       "album": {

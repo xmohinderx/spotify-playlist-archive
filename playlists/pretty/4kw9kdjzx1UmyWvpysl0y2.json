@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128381,
+  "num_followers": 128383,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQwMCxiYmUzZDE0MmY0NGU5NjRhNGNlYjAwMDNkZjQyZTM4ODFhODIzMDcx",
+  "snapshot_id": "MzQwMywxYjEzNDlkZGU4OWVkZTNjMjRlM2EzMDZkNjM0NjlkYmEzNmM2NGM5",
   "tracks": [
+    {
+      "added_at": "2022-05-12 16:13:37",
+      "album": {
+        "name": "Wild Time",
+        "url": "https://open.spotify.com/album/1ye5cB0yJ8wLlGoNv4s2qN"
+      },
+      "artists": [
+        {
+          "name": "Leotrix",
+          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Wild Time",
+      "url": "https://open.spotify.com/track/0YX38wDVtPkk7FAOO3wU64"
+    },
     {
       "added_at": "2022-05-11 16:08:28",
       "album": {
@@ -1059,42 +1075,6 @@
       "duration_ms": 230420,
       "name": "Spectrum - Futurebound Remix",
       "url": "https://open.spotify.com/track/4PCa9U1xxIgyCsUe6mE40Z"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "Running Faster",
-        "url": "https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe"
-      },
-      "artists": [
-        {
-          "name": "Seawayz",
-          "url": "https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr"
-        },
-        {
-          "name": "Fl\u00f8a",
-          "url": "https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Running Faster",
-      "url": "https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH"
-    },
-    {
-      "added_at": "2022-03-02 17:04:18",
-      "album": {
-        "name": "WYGD",
-        "url": "https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "WYGD",
-      "url": "https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

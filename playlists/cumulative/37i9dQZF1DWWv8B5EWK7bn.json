@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-11",
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
   "name": "Oblique",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "53YlmOlKHZkvBIAusSdsbN"
+  ],
   "tracks": [
     {
       "album": {
@@ -1541,7 +1543,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 241173,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
@@ -1791,6 +1793,24 @@
       "duration_ms": 422240,
       "name": "What Has Happened",
       "url": "https://open.spotify.com/track/4lVuGztR7cgu1yCPiTPZRY"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231422,
+      "name": "Witches",
+      "url": "https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ"
     },
     {
       "album": {

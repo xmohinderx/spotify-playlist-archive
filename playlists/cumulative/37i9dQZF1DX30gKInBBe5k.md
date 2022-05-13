@@ -4,7 +4,7 @@
 
 > Bare emotions and stripped\-down intensity: a hardcore home for slowcore fans.
 
-85 songs - 7 hr 34 min - not published yet
+85 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/1EhgTfPau3YN9Ge7TgxXdp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

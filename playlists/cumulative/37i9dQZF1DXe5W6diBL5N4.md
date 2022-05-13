@@ -4,7 +4,7 @@
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: LE SSERAFIM\(르세라핌\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-643 songs - 1 day 13 hr 24 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
+644 songs - 1 day 13 hr 27 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [I want to be single](https://open.spotify.com/track/5jz0ChIaJEIxq5pfzxHsZh) | [Kevin Byun](https://open.spotify.com/artist/3YKZe8GBVuqXi6AMMpukxT) | [I want to be single](https://open.spotify.com/album/6sTPNg637nmmv1amAy235O) | 3:56 | 2022-04-19 | 2022-04-23 |
 | [I want to say thank you](https://open.spotify.com/track/4yd1teLUxwNlic3lBiENTQ) | [Hye In](https://open.spotify.com/artist/5T8Zdi42zgO3H3hgHXPvk8) | [I want to say thank you](https://open.spotify.com/album/4oRydK4MSfcFHPV15aGa3j) | 2:51 | 2022-04-19 | 2022-04-23 |
 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 | 2022-04-19 | 2022-05-03 |
-| [I will stop \(feat\. 1ho & 0back\)](https://open.spotify.com/track/3tfk0heZ8nwZEeytvN6fwX) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [0back](https://open.spotify.com/artist/1InkOzOwqLs08nQX7CBF6D) | [I will stop](https://open.spotify.com/album/73r0LRcFeoBgPZ7pVZQ9QS) | 2:56 | 2022-05-11 |  |
+| [I will stop \(feat\. 1ho & 0back\)](https://open.spotify.com/track/3tfk0heZ8nwZEeytvN6fwX) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [0back](https://open.spotify.com/artist/1InkOzOwqLs08nQX7CBF6D) | [I will stop](https://open.spotify.com/album/73r0LRcFeoBgPZ7pVZQ9QS) | 2:51 | 2022-05-11 |  |
 | [I'LL BE THERE](https://open.spotify.com/track/7taAtepsn2tcxbOeFztypv) | [안다은](https://open.spotify.com/artist/0CY974U4NGFzqxu7nfSpL2) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'I'LL BE THERE'](https://open.spotify.com/album/0W3BKcZveexsWMaQ7qspJD) | 4:31 | 2022-04-28 | 2022-05-04 |
 | [I'm an aeroplane](https://open.spotify.com/track/6zQ0txBHpbqBh25qjfnNeu) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [I'm an aeroplane](https://open.spotify.com/album/3ySmGnt7e8BV3zxSvKfigL) | 4:25 | 2022-04-28 | 2022-05-04 |
 | [I'm busy](https://open.spotify.com/track/21QltCzKyoezfGmgjHhXcM) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [I'm busy](https://open.spotify.com/album/3Oj5jVbZ57FS5waEWgAf0K) | 3:21 | 2022-04-28 | 2022-05-04 |
@@ -437,7 +437,7 @@
 | [promise](https://open.spotify.com/track/4g5lKVbfcr1HID0tX7xq5J) | [hyangni](https://open.spotify.com/artist/3cJZkGtAEEajyDOnbYe42O) | [promise](https://open.spotify.com/album/09t4hsQnfcw9aFqcjuiSUF) | 4:02 | 2022-04-19 | 2022-04-23 |
 | [Q&A](https://open.spotify.com/track/4hNcCU1IvB6Vaob6SNuaU3) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Q&A](https://open.spotify.com/album/5Wr4YTpwSvR0Z0SD2saGpC) | 2:57 | 2022-05-10 |  |
 | [Que sera sera](https://open.spotify.com/track/47wE9PmSFJroSjGkHbBOv3) | [우연이](https://open.spotify.com/artist/7HCDRFTIn7vzVqcYR7nA4w) | [Que sera sera](https://open.spotify.com/album/3DqawFPgHWenPyrS2qb7uM) | 3:38 | 2022-05-02 | 2022-05-10 |
-| [Question](https://open.spotify.com/track/0pd6jLSLz8rBIxDDgshAfo) | [MONA](https://open.spotify.com/artist/1cFDUoQ5wYnwrHsSkwvUHr) | [What is love](https://open.spotify.com/album/3w6esG4QVfe2o7XJet7bIj) | 3:17 | 2022-05-09 |  |
+| [Question](https://open.spotify.com/track/0pd6jLSLz8rBIxDDgshAfo) | [MONA](https://open.spotify.com/artist/1cFDUoQ5wYnwrHsSkwvUHr) | [What is love](https://open.spotify.com/album/3w6esG4QVfe2o7XJet7bIj) | 3:17 | 2022-05-09 | 2022-05-13 |
 | [Rainbow](https://open.spotify.com/track/4mfND7wNYPkwFguAjM4LUW) | [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0), [Viesol](https://open.spotify.com/artist/7kfPGZQc6iDGrFnIxQKZDA) | [Rainbow](https://open.spotify.com/album/2eVbwcOdGZ1RPjFL7dhMFI) | 3:40 | 2022-05-11 |  |
 | [Raining stars](https://open.spotify.com/track/2voUndfedlslylT03gwHRP) | [Quinsha](https://open.spotify.com/artist/6AQMjoRG3y1h8aQAyNcd2A) | [Illusion](https://open.spotify.com/album/0utY4SKIxKsdQUD6oZQ8Kp) | 3:32 | 2022-05-09 |  |
 | [Rainy Mt\. Geumgang](https://open.spotify.com/track/4c6V39usriyh0y9syFURjE) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [THE SONG OF LOVE](https://open.spotify.com/album/66w0X6rK91G89JqroIZQoS) | 3:04 | 2022-04-22 | 2022-05-03 |
@@ -598,6 +598,7 @@
 | [Whisky on the Rock](https://open.spotify.com/track/6JZllw3leQQZBcWGUO3W30) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Our Blues, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4iRK15nSwRjH5Isba5ohnA) | 5:07 | 2022-04-19 | 2022-04-23 |
 | [White Lily \(feat\. CHUNG HA\)](https://open.spotify.com/track/704zstYZMR0IEgn5UM2nKC) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss), [청하](https://open.spotify.com/artist/1kzCHSygfgEVhPhr5SZNeH) | [White Lily](https://open.spotify.com/album/0N01oBCpJn1hmPfFYjFgKE) | 5:23 | 2022-04-19 | 2022-05-03 |
 | [WHO WE ARE](https://open.spotify.com/track/1pffMzj3YtanzjAJrlrKym) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [WHO WE ARE](https://open.spotify.com/album/6MPzEK36QIcH3bVcko4Lf4) | 3:03 | 2022-05-02 | 2022-05-10 |
+| [Why](https://open.spotify.com/track/2oSIQr1TSYNJWf2snALmiC) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [By My Side](https://open.spotify.com/album/2abcQ8uUzRE8mJ4HCRvgjo) | 3:14 | 2022-05-12 |  |
 | [Why not](https://open.spotify.com/track/1CxHR3rrTRZu4Qu1XYdq08) | [Sido](https://open.spotify.com/artist/5F4viMEZ8weOvfd7sOH5B3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Why not](https://open.spotify.com/album/5r5DMc76u0wbAq40vExw5N) | 2:08 | 2022-05-10 |  |
 | [Why, Why, Why, Why?](https://open.spotify.com/track/0tabWZnomzilUiz0jWh6Tw) | [6band](https://open.spotify.com/artist/55MF5Kz0DX8pSvAYoZywh5) | [The Killer's Shopping List, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0MP9FMNoVcZN3ebEXKkSt5) | 3:01 | 2022-04-28 | 2022-05-06 |
 | [Wide Open](https://open.spotify.com/track/3hCUSSX1l1DDbSzopM3JDG) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [Crazy Love \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/2obpLFubdFYXr55KXOVnes) | 3:02 | 2022-04-19 | 2022-05-03 |

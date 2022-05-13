@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-152 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+153 songs - 12 hr 16 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Otomo](https://open.spotify.com/track/1W5uQX7z1bnsgIW4zSPD4a) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 6:11 | 2022-01-05 |  |
 | [Outer Sunset](https://open.spotify.com/track/1PegwUCHFmpuV81dXMt3nh) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Outer Sunset](https://open.spotify.com/album/137NWAM1UiQ2cpJPidOhaG) | 4:10 | 2021-10-15 | 2022-04-12 |
 | [Parallel 4](https://open.spotify.com/track/1ZeDNZoKgEOTRmTTg1zQd4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 4:47 | 2021-10-15 | 2022-02-10 |
-| [Parallel 43](https://open.spotify.com/track/4rsZhH6Sw8s5mlGta3TvdP) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Parallel 43](https://open.spotify.com/album/701KrVPJbe3YxHsyFcacga) | 4:17 | 2022-01-20 |  |
+| [Parallel 43](https://open.spotify.com/track/4rsZhH6Sw8s5mlGta3TvdP) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Parallel 43](https://open.spotify.com/album/701KrVPJbe3YxHsyFcacga) | 4:17 | 2022-01-20 | 2022-05-13 |
 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 | 2021-10-15 | 2022-04-24 |
 | [Patient Zero](https://open.spotify.com/track/0TPY4iasJqaFv74wa1FOZG) | [Cosmo Vitelli](https://open.spotify.com/artist/0mFsbKrHaJDM5DgL8g3Ke3) | [Patient Zero](https://open.spotify.com/album/39ih18n5FRp601HKnLJLCU) | 8:26 | 2022-02-09 |  |
 | [Perpetual Motion](https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Perpetual Motion](https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc) | 4:58 | 2021-10-15 | 2022-04-23 |
@@ -115,6 +115,7 @@
 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 | 2021-10-15 | 2022-02-01 |
 | [Second Nature](https://open.spotify.com/track/5We6iX29Yv4czIafwmkeO8) | [Haan808](https://open.spotify.com/artist/2U2nFrNjt12PcCll8cuAzj), [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Second Nature](https://open.spotify.com/album/1Ubw8KbmVCq6q124a1V5Za) | 3:23 | 2021-10-15 | 2022-01-15 |
 | [See The Stars](https://open.spotify.com/track/4Wd3WrBPJrNVLlszaIT6T1) | [Nolan](https://open.spotify.com/artist/1TtKsd7XZu2JFQtDiZQiFm), [Luke Brancaccio](https://open.spotify.com/artist/1Wtioib1IFtGZHOJEZCwqr) | [See The Stars](https://open.spotify.com/album/3MbrBZmGJwpbXp9TjoKwYo) | 4:41 | 2022-01-13 |  |
+| [SEQUENCE](https://open.spotify.com/track/3352NJ15FsCKvBfKKpUEyz) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [22122](https://open.spotify.com/album/0mEMOUGU3MA2epy6Xk38Ai) | 2:39 | 2022-05-12 |  |
 | [Serenity](https://open.spotify.com/track/6isKSUpCXSpVLIPT0HMtny) | [Emerald Lake](https://open.spotify.com/artist/4fQ7G9vwE2mfl62bZ9NPaf) | [Serenity](https://open.spotify.com/album/6jenbIXaHvG7jPCfMTpLS6) | 3:12 | 2021-10-15 | 2022-01-13 |
 | [Silent Talking \- French II Remix](https://open.spotify.com/track/3aPEt4Efx0NYzhbSXtX4LD) | [Bing](https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL), [French II](https://open.spotify.com/artist/6ipkiHnGXAsGSRlG5RPkjt) | [Silent Talking / White Divide](https://open.spotify.com/album/778S6sqUwLWkAfBJn6RFwm) | 4:44 | 2022-01-13 |  |
 | [Sip It](https://open.spotify.com/track/1luiFY5znojT6YoJrn5HIb) | [SFV Acid](https://open.spotify.com/artist/6n6FVIstoz4bEZSPYB3YEi) | [Firezone](https://open.spotify.com/album/65uFN8GiouuRmMghukyEoX) | 4:17 | 2021-10-15 | 2022-01-14 |

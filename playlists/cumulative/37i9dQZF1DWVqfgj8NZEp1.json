@@ -968,6 +968,28 @@
     },
     {
       "album": {
+        "name": "The Artist",
+        "url": "https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363240,
+      "name": "Fabienne",
+      "url": "https://open.spotify.com/track/34ENpx8bYPgYCTSTtRMcCC"
+    },
+    {
+      "album": {
         "name": "Fallen (Jazzed)",
         "url": "https://open.spotify.com/album/3LYATsYqAozUUuBbwn4D0l"
       },

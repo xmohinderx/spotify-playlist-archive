@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem João Gomes, Bad Bunny, Jorge & Mateus e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,750,601 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,750,923 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 95 | [DEEP \(feat\. Nonô\)](https://open.spotify.com/track/1DcFYXbOSWr18OHlfp7Qng) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [DEEP \(feat\. Nonô\)](https://open.spotify.com/album/0N8cb3eskN240e7UgaklBC) | 3:07 |
 | 96 | [Domino](https://open.spotify.com/track/2lTaCTqF6BcdU6utbRhiyU) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [Domino](https://open.spotify.com/album/5BUvibo4w54y6MDwYIbgbK) | 2:34 |
 | 97 | [Baby](https://open.spotify.com/track/5y8701g2cRU01L7WflPy1A) | [Netto](https://open.spotify.com/artist/37ZMG1QoWfV5N9Y86gOESb), [Rogui](https://open.spotify.com/artist/0hqG32JAhI6pdPYuc4en42) | [Baby](https://open.spotify.com/album/6Jf7ClB5Cl0D4qDdlddPNR) | 3:23 |
-| 98 | [Johnny Dang](https://open.spotify.com/track/5OIfd9rFNgR1bbxhlx6IKS) | [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [MC Lon](https://open.spotify.com/artist/5FeGhv7je3hPQi2TLslPIl), [Koreia](https://open.spotify.com/artist/3inOMdIZM9eshvuqj4i3o8), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [MindHunters](https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj) | [Johnny Dang](https://open.spotify.com/album/19l4Qg1AyrupJNVx8iVQCp) | 2:32 |
+| 98 | [Johnny Dang](https://open.spotify.com/track/5OIfd9rFNgR1bbxhlx6IKS) | [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [MC Lon](https://open.spotify.com/artist/5FeGhv7je3hPQi2TLslPIl), [Koreia](https://open.spotify.com/artist/3inOMdIZM9eshvuqj4i3o8), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [MindHunters](https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Johnny Dang](https://open.spotify.com/album/19l4Qg1AyrupJNVx8iVQCp) | 2:32 |
 | 99 | [No Corre da Grana](https://open.spotify.com/track/5hN8fa3MM3nwnJmpKyRnBt) | [Apollo](https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6) | [No Corre da Grana](https://open.spotify.com/album/7f1O60kYLJxqJYPQpnx4f6) | 3:05 |
 | 100 | [7 da Manhã](https://open.spotify.com/track/5IJyLRtlxJOLKK82455R2P) | [Spark Trap](https://open.spotify.com/artist/0QY3FktU1SwpEqPRf4w1YX) | [7 da Manhã](https://open.spotify.com/album/06XnCiu8mBz8OMaga78TV5) | 2:42 |
 

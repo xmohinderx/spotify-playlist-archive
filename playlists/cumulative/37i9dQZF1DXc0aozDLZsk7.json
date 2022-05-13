@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 206193,
       "name": "Darling",
       "url": "https://open.spotify.com/track/1GHNApC7kgkG6mEDI0f2Y5"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 217683,
       "name": "I Can See The Change",
       "url": "https://open.spotify.com/track/4TfPtTbJtk5diKYuubTP9e"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 169044,
       "name": "Little Marks",
       "url": "https://open.spotify.com/track/2muCD2b8lL3LEFd6rAXoYc"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 218142,
       "name": "Love Is In The Picture",
       "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
@@ -1189,6 +1189,24 @@
       "duration_ms": 322573,
       "name": "One More Second",
       "url": "https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3BI7cK0Z5Upgodb9UyS4RJ"
+      },
+      "artists": [
+        {
+          "name": "Anderson Rocio",
+          "url": "https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198585,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/792raQlbqlsC71L0djqZwU"
     },
     {
       "album": {
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 187601,
       "name": "What They'll Say About Us",
       "url": "https://open.spotify.com/track/27Y1N4Q4U3EfDU5Ubw8ws2"
@@ -1673,6 +1691,24 @@
       "duration_ms": 237557,
       "name": "Where the Heart Is",
       "url": "https://open.spotify.com/track/1O1C3GPadNrywLJXXhmPMk"
+    },
+    {
+      "album": {
+        "name": "Where the Vampires Hide",
+        "url": "https://open.spotify.com/album/4pKaammgykC8LrN3Xa3PKN"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149366,
+      "name": "Where the Vampires Hide",
+      "url": "https://open.spotify.com/track/1LQfG2btSBVMwMghg2nKOb"
     },
     {
       "album": {

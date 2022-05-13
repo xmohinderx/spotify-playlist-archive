@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-435 songs - 1 day 1 hr 40 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+436 songs - 1 day 1 hr 44 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Ke Cap Gap Ba Gia \(feat\. BINZ\)](https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:51 | 2021-03-27\* | 2021-06-28 |
 | [Khi Cô Đơn Em Nhớ Ai \(Lofi\) \- From "Chill With Vicky Nhung \- Season 2: Memory"](https://open.spotify.com/track/6hy9HCfQd8mISNWd6mnDoA) | [Vicky Nhung](https://open.spotify.com/artist/0OECMkZp1koXqQLQrMizHb), [Long Rex](https://open.spotify.com/artist/1wmTwrBfPS2GMCEijR5SiP) | [Khi Cô Đơn Em Nhớ Ai \(Lofi\) \[From "Chill With Vicky Nhung \- Season 2: Memory"\]](https://open.spotify.com/album/5Dz7lUU1cvujGhVe8EQMDK) | 4:15 | 2021-12-13 | 2021-12-24 |
 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoang Dung](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 | 2021-04-23 | 2022-03-10 |
+| [Không Cần Phải Nói Nhiều](https://open.spotify.com/track/1DmMJL7KrTEC5MDTvYpfLD) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Hoang Ton](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [Không Cần Phải Nói Nhiều](https://open.spotify.com/album/0cGa9mtCxVQwgzPrOyoLES) | 4:06 | 2022-05-12 |  |
 | [Không Muốn Một Mình](https://open.spotify.com/track/7JWa8tcjothiOfTVUUbuzL) | [Vicky Nhung](https://open.spotify.com/artist/0OECMkZp1koXqQLQrMizHb), [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq) | [Không Muốn Một Mình](https://open.spotify.com/album/12cGGhPmZvMs2cjhVcy2ZV) | 3:30 | 2021-12-29 | 2022-01-20 |
 | [KHÔNG PHẢI TẠI NÓ \(feat\. Mai Ngô\)](https://open.spotify.com/track/2qNZU7RSIDSzbQ27gtaC0q) | [RAP VIỆT](https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL), [Mai Ngô](https://open.spotify.com/artist/3XIEdFeFLXEt0dovJX3uYu) | [Rap Việt Season 2 \- Tập 1](https://open.spotify.com/album/4euaz1yN2icsNuzCDUauAV) | 2:44 | 2021-10-23 | 2021-10-24 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2022-04-26 |
@@ -427,7 +428,7 @@
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-08 | 2022-05-12 |
 | [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 | 2022-05-09 |  |
 | [Âm Thầm Bên Em](https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M) | 4:53 | 2021-09-02 | 2021-09-11 |
-| [Ði Trong Mùa Hè](https://open.spotify.com/track/5ZblwtW67ZlZp8gXCcrGzn) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Trần Tiến](https://open.spotify.com/artist/5Def8ubFOWsEcchedgMnnG) | [Ði Trong Mùa Hè](https://open.spotify.com/album/7hj23eziHPiLaooEpxDhfm) | 4:31 | 2022-05-11 |  |
+| [Ði Trong Mùa Hè](https://open.spotify.com/track/5ZblwtW67ZlZp8gXCcrGzn) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Trần Tiến](https://open.spotify.com/artist/5Def8ubFOWsEcchedgMnnG) | [Ði Trong Mùa Hè](https://open.spotify.com/album/7hj23eziHPiLaooEpxDhfm) | 4:31 | 2022-05-11 | 2022-05-13 |
 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-02-19 |  |
 | [Đi Về Nhà](https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [Đi Về Nhà](https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD) | 3:20 | 2021-03-27\* | 2022-02-24 |
 | [Đi Để Trở Về](https://open.spotify.com/track/2qc4FFBylFT5YhvMJMX50R) | [Soobin Hoang Son](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [Đi Để Trở Về](https://open.spotify.com/album/5cXoSfpsGOLvsnTSOuAeEi) | 3:22 | 2022-02-02 | 2022-02-04 |

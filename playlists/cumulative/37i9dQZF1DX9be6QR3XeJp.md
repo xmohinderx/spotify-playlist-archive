@@ -2,9 +2,9 @@
 
 ### [RADAR: First Listen](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists\. Cover: Barry Can't Swim
+> Discover your new favourite artists\. Cover: Berry Gelazka
 
-107 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+108 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dior](https://open.spotify.com/track/7cjIuwb2Wcli6lKRopM2k5) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Dior](https://open.spotify.com/album/7kWMzEQmQt72v1sTQnaqKo) | 3:14 | 2022-02-18 |  |
 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/0PXukVbYpvz40KcEFKnIw7) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/album/1UX0F7yksh3rHlEJKvliAT) | 3:27 | 2022-02-18 |  |
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2022-02-18 |  |
+| [Dream Caused By The Flight Of A Bee](https://open.spotify.com/track/1cAKuJhjZCKI0j0sVTF5zQ) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/album/5bN3xklJz98zVp1cxnYpSO) | 2:46 | 2022-05-12 |  |
 | [Drip Drip](https://open.spotify.com/track/4hIXIJxc7gEYqA8NkcZkKl) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Yūdokuna](https://open.spotify.com/album/5lNZyxqACJ1WPfypeZM3uf) | 3:20 | 2022-02-18 |  |
 | [Easy to Love](https://open.spotify.com/track/1VqDgFgaedJLSQa5dPI6pC) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Overthunk](https://open.spotify.com/album/5CVArykOwn3VjaAhy1EyRN) | 3:30 | 2022-02-18 |  |
 | [Empower](https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Empower](https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8) | 4:45 | 2022-02-18 |  |

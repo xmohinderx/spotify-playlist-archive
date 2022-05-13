@@ -101,7 +101,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 192964,
       "name": "Abracadabra (feat. Future)",
       "url": "https://open.spotify.com/track/0lSVjlxmAMSJGFSjVB1FtU"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 151421,
       "name": "Allenamento #2",
       "url": "https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 221884,
       "name": "COSPLAYER",
       "url": "https://open.spotify.com/track/09FMFnWC5RYkvvvsjOus9B"
@@ -345,10 +345,36 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 205928,
       "name": "Cyborg (feat. Geolier)",
       "url": "https://open.spotify.com/track/54wRUYPMEHLttFdLImOlAt"
+    },
+    {
+      "album": {
+        "name": "Dilemme (with tha Supreme & Mara Sattei)",
+        "url": "https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "tha Supreme",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Dilemme (with tha Supreme & Mara Sattei)",
+      "url": "https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt"
     },
     {
       "album": {
@@ -1126,6 +1152,46 @@
     },
     {
       "album": {
+        "name": "Midnite (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177640,
+      "name": "Russell Crowe",
+      "url": "https://open.spotify.com/track/6PmqCw22rKTF2sFZhghyIS"
+    },
+    {
+      "album": {
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218769,
+      "name": "Serio (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "album": {
         "name": "SEVEN 7oo (feat. Rondodasosa, Sacky, Vale Pain, Neima Ezza, Kilimoney, Keta, Nko)",
         "url": "https://open.spotify.com/album/5UVfybchlA2ZhymqAXr9KS"
       },
@@ -1287,6 +1353,28 @@
       "duration_ms": 286702,
       "name": "SPORT + muscoli (RMX) (feat. Lazza, Paky, Luch\u00e8 & Taxi B)",
       "url": "https://open.spotify.com/track/7srDOLMwjMC07Dzs7mqCnv"
+    },
+    {
+      "album": {
+        "name": "Stamm Fort",
+        "url": "https://open.spotify.com/album/1oOK2SpMy11lyHC7mraEZ7"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171375,
+      "name": "Stamm Fort (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/7hHf4gz7kGmkuwa6XMc88W"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: H ZETTRIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,566 likes - 85 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,637 likes - 85 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

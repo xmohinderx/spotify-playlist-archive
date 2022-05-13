@@ -4,7 +4,7 @@
 
 > A sizzling hot soundtrack for your sunshine social.
 
-89 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/4NyrelIUndIbzhU4ozZcir)
+90 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4NyrelIUndIbzhU4ozZcir)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 | 2020-07-03 |  |
 | [Little Lies](https://open.spotify.com/track/5uw9UIOXj6R8pOwXte8F5h) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In The Night](https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV) | 3:38 | 2020-07-03 |  |
 | [Long Shot Kick De Bucket](https://open.spotify.com/track/1fsp1ZvQ6F5nf8Ut5TBtAX) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:48 | 2020-07-03 | 2022-05-10 |
+| [Losing You](https://open.spotify.com/track/3I1AAFYxXMWeg0BlnihXHb) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/3hZvMcitlooQEsZOvGXKON) | 4:20 | 2020-07-03 |  |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2020-07-03 |  |
 | [Mas, Que Nada!](https://open.spotify.com/track/7rOdaBwNtT6E4f2kxeiZKj) | [Tamba Trio](https://open.spotify.com/artist/3NHFpmBuWOdkNalXJgdOqc) | [VA \- Brazilian All Stars](https://open.spotify.com/album/2lJd6kiR2KZD8RD2YouakD) | 2:37 | 2020-07-03 |  |
 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 | 2020-07-03 |  |
@@ -89,7 +90,7 @@
 | [Turn On, Tune In, Cop Out \- Radio Mix](https://open.spotify.com/track/7rEhkWEwm8IU9POxlmEQuu) | [Freak Power](https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ) | [Drive\-Thru Booty](https://open.spotify.com/album/1PePHpjhEWUZJx79CZM31j) | 4:24 | 2020-07-03 |  |
 | [Twist And Shout](https://open.spotify.com/track/2XCI7vQB1pnGR3nuPtoejf) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Jack Radics](https://open.spotify.com/artist/0YeIluqMsCUwn5NC3TG2iQ), [The Taxi Gang](https://open.spotify.com/artist/2Af07b1sTnXHHSdCqdLSfy) | [Tease Me](https://open.spotify.com/album/3MvOWcHQP67OGTJvr9TPFi) | 3:57 | 2020-07-03 |  |
 | [Two Sevens Clash](https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash \(40th Anniversary Edition\)](https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6) | 3:29 | 2020-07-03 | 2022-05-08 |
-| [Uptown Top Ranking](https://open.spotify.com/track/6l9urkfD8rPoX5EbCszrb0) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Reggae Classics: Uptown Top Ranking](https://open.spotify.com/album/00JQJlRNWxCBUmyOhrJvPr) | 3:51 | 2020-07-03 |  |
+| [Uptown Top Ranking](https://open.spotify.com/track/6l9urkfD8rPoX5EbCszrb0) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Reggae Classics: Uptown Top Ranking](https://open.spotify.com/album/00JQJlRNWxCBUmyOhrJvPr) | 3:51 | 2020-07-03 | 2022-05-13 |
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2020-07-03 |  |
 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 | 2020-07-03 |  |
 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/0iH2q2PiyKpSvgOCSUZq5X) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Universal Masters Collection](https://open.spotify.com/album/47E8XMszHalHIxLdk7D49n) | 3:14 | 2020-07-03 |  |

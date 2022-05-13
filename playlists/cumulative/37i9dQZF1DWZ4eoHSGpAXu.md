@@ -4,7 +4,7 @@
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-75 songs - 6 hr 37 min - not published yet
+75 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/5OjtgsIyPBLp3jbeiq7bOe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

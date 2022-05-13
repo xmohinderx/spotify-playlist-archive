@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Sunset Rollercoaster (Taiwan)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Elephant Gym (Taiwan)",
   "name": ".ORG",
   "published_playlist_ids": [
     "150ZZwzNCm1BXFjIA5T8kJ"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 222626,
       "name": "Around You",
       "url": "https://open.spotify.com/track/3zuFzgkWtyZrHHqyVQVRSx"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 222167,
       "name": "Bad Haircut (feat. JVKE)",
       "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
@@ -312,6 +312,24 @@
     },
     {
       "album": {
+        "name": "Better Than Lying",
+        "url": "https://open.spotify.com/album/59NBcSiokpxchINPEl2yVD"
+      },
+      "artists": [
+        {
+          "name": "RESORT",
+          "url": "https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152399,
+      "name": "Better Than Lying",
+      "url": "https://open.spotify.com/track/6ZEjY2O5mKuJURxkea9IlH"
+    },
+    {
+      "album": {
         "name": "Bichulae",
         "url": "https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof"
       },
@@ -381,7 +399,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 189428,
       "name": "BLAZE",
       "url": "https://open.spotify.com/track/0ckAdNFaRgNYboKjJ7iBv3"
@@ -461,7 +479,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 172500,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY"
@@ -704,6 +722,46 @@
     },
     {
       "album": {
+        "name": "Wednesday/Eternity As An Instant",
+        "url": "https://open.spotify.com/album/0lpsDsYmJ8yzrXNMUuRJSi"
+      },
+      "artists": [
+        {
+          "name": "Mai Mishio",
+          "url": "https://open.spotify.com/artist/0gZyTGbT1RKnpW98SejjoU"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232170,
+      "name": "Eternity As An Instant",
+      "url": "https://open.spotify.com/track/6mFIQsnucrn7viS643LUc6"
+    },
+    {
+      "album": {
+        "name": "FACTS",
+        "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147928,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5"
+    },
+    {
+      "album": {
         "name": "Favorite Peeps",
         "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
       },
@@ -751,10 +809,36 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 196797,
       "name": "Fool",
       "url": "https://open.spotify.com/track/0OfwiVN2Y6ANw9xneUi3sW"
+    },
+    {
+      "album": {
+        "name": "Windsong",
+        "url": "https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ"
+      },
+      "artists": [
+        {
+          "name": "Room307",
+          "url": "https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw"
+        },
+        {
+          "name": "Matt Force",
+          "url": "https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N"
+        },
+        {
+          "name": "Akira Mimasu",
+          "url": "https://open.spotify.com/artist/5JtWkrls291QYKbtm1oSVU"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Fotan Jazz Club",
+      "url": "https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR"
     },
     {
       "album": {
@@ -919,7 +1003,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 189230,
       "name": "Hum Kahan",
       "url": "https://open.spotify.com/track/4lU9mJtD01KknelD2W2jX8"
@@ -941,7 +1025,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 214899,
       "name": "I MA",
       "url": "https://open.spotify.com/track/2mJxEj7p6hzkPYiCg3LUUf"
@@ -1013,7 +1097,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 286000,
       "name": "insomnia",
       "url": "https://open.spotify.com/track/0qbRKE96kcbb8LNhs43cTs"
@@ -1147,7 +1231,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 175609,
       "name": "Life 4 You",
       "url": "https://open.spotify.com/track/4QgmBsLjmbrSPdkduDXutZ"
@@ -1270,6 +1354,24 @@
     },
     {
       "album": {
+        "name": "Search + Destroy",
+        "url": "https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340320,
+      "name": "Lovebites",
+      "url": "https://open.spotify.com/track/7EpfSyVW7rADdAj9mG7lbV"
+    },
+    {
+      "album": {
         "name": "Making Me Sick!",
         "url": "https://open.spotify.com/album/5BR2hx0RWzvUJ2KfRksdo5"
       },
@@ -1303,7 +1405,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 217489,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/4Eq2ai0gdPGaqA3iBvnrau"
@@ -1491,6 +1593,42 @@
       "duration_ms": 228900,
       "name": "Night Diver",
       "url": "https://open.spotify.com/track/6vE45sAtqcXVHIUksYxBy9"
+    },
+    {
+      "album": {
+        "name": "Pseudofloral",
+        "url": "https://open.spotify.com/album/0Intsh0H4ILUNaByRSzCns"
+      },
+      "artists": [
+        {
+          "name": "Vietra",
+          "url": "https://open.spotify.com/artist/7zH3OdQnl7ujWSiMtQ46hG"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Night Fear",
+      "url": "https://open.spotify.com/track/1NQ9FY7DHgzwiykuI6Z5If"
+    },
+    {
+      "album": {
+        "name": "The Last Thing Left",
+        "url": "https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj"
+      },
+      "artists": [
+        {
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "No Real Place",
+      "url": "https://open.spotify.com/track/1XpPV3WNz7ExOAIDgcaeLB"
     },
     {
       "album": {
@@ -1736,6 +1874,24 @@
     },
     {
       "album": {
+        "name": "Reddish",
+        "url": "https://open.spotify.com/album/1KCF0xlDdL0TLgE2IbYPLP"
+      },
+      "artists": [
+        {
+          "name": "Asahi",
+          "url": "https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Reddish",
+      "url": "https://open.spotify.com/track/2LPXXxh35IkO5xQVFWEhVx"
+    },
+    {
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -1895,7 +2051,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 245000,
       "name": "Spin",
       "url": "https://open.spotify.com/track/5vbolJRW6w9YJXDP7yj4n3"
@@ -2098,6 +2254,28 @@
     },
     {
       "album": {
+        "name": "the art of thanking yourself",
+        "url": "https://open.spotify.com/album/4uF1wU7jWUCKOr0NoqOaim"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Yung Lee Records",
+          "url": "https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142008,
+      "name": "thank you",
+      "url": "https://open.spotify.com/track/1F5Q7g5lfBnOilwjWfbJmb"
+    },
+    {
+      "album": {
         "name": "Through the Tunnel",
         "url": "https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI"
       },
@@ -2127,7 +2305,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 272280,
       "name": "To Dream",
       "url": "https://open.spotify.com/track/4kXGYSZ3RW9LVeJJUlYezH"
@@ -2167,6 +2345,28 @@
       "duration_ms": 204000,
       "name": "T\u00e0u Bi\u1ec3n",
       "url": "https://open.spotify.com/track/0Rb6t9HNbdIj41apUiN9wl"
+    },
+    {
+      "album": {
+        "name": "Casual Day",
+        "url": "https://open.spotify.com/album/4SUl0HZ4PltGiBRmmqoMgq"
+      },
+      "artists": [
+        {
+          "name": "The Whisperer",
+          "url": "https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz"
+        },
+        {
+          "name": "Su",
+          "url": "https://open.spotify.com/artist/1l8xhC977AFxpN7QyDajbC"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199161,
+      "name": "Undo (feat. Su)",
+      "url": "https://open.spotify.com/track/3PPw7f955j5emJDS4hrjbs"
     },
     {
       "album": {
@@ -2316,6 +2516,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231422,
+      "name": "Witches",
+      "url": "https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ"
+    },
+    {
+      "album": {
         "name": "Yellow Light",
         "url": "https://open.spotify.com/album/3DIl4oQDEz5X1s19h1vRHZ"
       },
@@ -2327,7 +2545,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 185496,
       "name": "Yellow Light",
       "url": "https://open.spotify.com/track/2xTthDrC8bvxrZUKWWks1O"
@@ -2475,7 +2693,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 209139,
       "name": "\u4e0d\u7a00\u7f55\u5225\u4eba\u7d66\u7684\u5b8c\u6574 / \u72c2\u5954",
       "url": "https://open.spotify.com/track/1ybhaEBjWHBWzXyZO8Wtay"
@@ -2497,6 +2715,28 @@
       "duration_ms": 241317,
       "name": "\u4f60\u7684\u6a23\u5b50",
       "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
+    },
+    {
+      "album": {
+        "name": "\u591c\u665a\u7684\u7260\u77e5\u9053 (feat. Joh Ung)",
+        "url": "https://open.spotify.com/album/2w4eV3XDyvZpeMFvKOamAR"
+      },
+      "artists": [
+        {
+          "name": "Shallow Lev\u00e9e",
+          "url": "https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9"
+        },
+        {
+          "name": "Joh Ung",
+          "url": "https://open.spotify.com/artist/65JdRQX0aV6M87dxRen9cX"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300833,
+      "name": "\u591c\u665a\u7684\u7260\u77e5\u9053 (feat. Joh Ung)",
+      "url": "https://open.spotify.com/track/3RrKD78bVbQgmYw8WLgtn4"
     },
     {
       "album": {
@@ -2551,6 +2791,28 @@
       "duration_ms": 217730,
       "name": "\u65e5\u66dc\u65e5",
       "url": "https://open.spotify.com/track/3WEFB3fJPdCAdcjWDwh3k5"
+    },
+    {
+      "album": {
+        "name": "\u666f\u7f8e",
+        "url": "https://open.spotify.com/album/6QNJgsgKDRWVr5umnDgOGC"
+      },
+      "artists": [
+        {
+          "name": "\u5b8b\u67cf\u7def",
+          "url": "https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK"
+        },
+        {
+          "name": "Tseng Kuo Hung",
+          "url": "https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215999,
+      "name": "\u666f\u7f8e",
+      "url": "https://open.spotify.com/track/3czww3w60fmC2JZnxSa0Z7"
     },
     {
       "album": {

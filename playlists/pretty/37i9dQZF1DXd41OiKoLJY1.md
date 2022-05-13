@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: MI MI, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,238 likes - 64 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,248 likes - 64 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 10 | [Araw\-Araw](https://open.spotify.com/track/3IFv3wDnsllf3TGcXaCLv0) | [John.](https://open.spotify.com/artist/4vXVqGBgggXBHWP7Qld30O) | [Araw\-Araw](https://open.spotify.com/album/5F5YnMgdjwEA1uo2LViXeq) | 4:23 |
 | 11 | [Nakahawak](https://open.spotify.com/track/04N8C0uZQ40siBvTjGKZ4E) | [Five Fifty Myth](https://open.spotify.com/artist/4o90sA8vFC4QM2IOaGKhRe) | [Nakahawak](https://open.spotify.com/album/5gd0C5vdJGtO5PjUpxxqni) | 3:56 |
 | 12 | [Ikaw Ang Buhay Ko \- From "Raising Mamay"](https://open.spotify.com/track/0ieKmBbmNmFug3NlACGMmp) | [Jeniffer Maravilla](https://open.spotify.com/artist/0WwXpHdVTYul4GcFis9TcE) | [Ikaw Ang Buhay Ko \(From "Raising Mamay"\)](https://open.spotify.com/album/6GwmuCWMAcREjoeDimg79q) | 3:13 |
-| 13 | [Umaasa sa Bayan kong Pilipinas](https://open.spotify.com/track/46rkWBKDuSUugHDMqfo8m6) | [Pipes](https://open.spotify.com/artist/4cOuQgtWi0ugtDvPf8106Z) | [Umaasa sa Bayan kong Pilipinas](https://open.spotify.com/album/1ty6MJDebirAD03Gg4XTG7) | 3:46 |
+| 13 | [Umaasa Sa Bayan Kong Pilipinas \- Minus One](https://open.spotify.com/track/46rkWBKDuSUugHDMqfo8m6) | [Pipes](https://open.spotify.com/artist/4cOuQgtWi0ugtDvPf8106Z) | [Umaasa Sa Bayan Kong Pilipinas \- Minus One](https://open.spotify.com/album/1ty6MJDebirAD03Gg4XTG7) | 3:46 |
 | 14 | [tumakbo sa ulan](https://open.spotify.com/track/11b2CnBhsQ6QbXAy3HdwJ4) | [Hezekiah Valle Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [tumakbo sa ulan](https://open.spotify.com/album/0HClSgJtu3VYcaWAaiymJT) | 4:59 |
 | 15 | [Parang Dati Lang](https://open.spotify.com/track/7zpUotv3uMuDhF2Q0kXLC0) | [Corrgtd](https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV), [Allan Benavides](https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg), [Kydd Curti$](https://open.spotify.com/artist/4Fl8PVeFAKADcYUZxuhERl), [NASHE](https://open.spotify.com/artist/2GUJqSGRk1wqqvcbELRMAC), [Bby Jaye](https://open.spotify.com/artist/3zdpDnYSYmgka8gctdGYth) | [Parang Dati Lang](https://open.spotify.com/album/157rFXhdmH9eKt2g7Xv4Uu) | 4:46 |
 | 16 | [Loml](https://open.spotify.com/track/0ynLjo8txxMlXjCxFVIkf4) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Loml](https://open.spotify.com/album/1m4Lgc7Xnc2OG3JRT7aF3W) | 2:52 |

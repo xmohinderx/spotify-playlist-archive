@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 234313,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/6qaUubfgvfZU9OUK7L57Ap"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 168373,
       "name": "Alle snakker sant",
       "url": "https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 219647,
       "name": "Ghosts in Our Hearts",
       "url": "https://open.spotify.com/track/0jMWzegQgiVuGrIJT6oh5a"
@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 278095,
       "name": "Right as Rain",
       "url": "https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 227760,
       "name": "The Ghost In Your Smile",
       "url": "https://open.spotify.com/track/3HYG7nGHhpcMJjMF9W8AAe"
@@ -1645,6 +1645,24 @@
       "duration_ms": 219413,
       "name": "The Sweetest Tune",
       "url": "https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg"
+    },
+    {
+      "album": {
+        "name": "Go Out Nowhere",
+        "url": "https://open.spotify.com/album/1bpJLdfzfpFSjDGVtegoSC"
+      },
+      "artists": [
+        {
+          "name": "Silver Lining",
+          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226709,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5nOz57qBsV7J5rlIcJl9io"
     },
     {
       "album": {

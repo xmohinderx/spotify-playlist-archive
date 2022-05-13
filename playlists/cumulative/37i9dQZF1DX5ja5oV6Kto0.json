@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4?si=6MdGOyJgRNy8PxXvuR1xvA\"> Jaylon </a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h?si=5SZSnm7-RNGAizqKbMG_Kg\"> Obongjayar </a> ",
   "name": "Alt\u00e9 Cruise",
   "published_playlist_ids": [
     "3abyZu302ITz5DM9hnTS7F"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 186875,
       "name": "All My Fault",
       "url": "https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 151898,
       "name": "Company",
       "url": "https://open.spotify.com/track/79ydXWBVWRziknKUc2l4sT"
@@ -2640,6 +2640,24 @@
     },
     {
       "album": {
+        "name": "Smoke & Dance",
+        "url": "https://open.spotify.com/album/23nWH7wnFEJZjEzs25gUuM"
+      },
+      "artists": [
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220680,
+      "name": "Smoke & Dance",
+      "url": "https://open.spotify.com/track/4nSSNiBOvcApl9eLb40rqD"
+    },
+    {
+      "album": {
         "name": "SOHO",
         "url": "https://open.spotify.com/album/5hNv1IGXf5HVWW5PLPF0IK"
       },
@@ -2723,7 +2741,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 218947,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3FkuwslAokF99ZLHtFRuAv"
@@ -3080,6 +3098,32 @@
     },
     {
       "album": {
+        "name": "Trappin'",
+        "url": "https://open.spotify.com/album/5hryGF4CvfTG6IIeK5SLVq"
+      },
+      "artists": [
+        {
+          "name": "Re.decay",
+          "url": "https://open.spotify.com/artist/0PDj0ZH3LHrGifJSeDZKWF"
+        },
+        {
+          "name": "Tinuke",
+          "url": "https://open.spotify.com/artist/5AzAEBREBwVj9AOmHNG5X1"
+        },
+        {
+          "name": "Eze Jackson",
+          "url": "https://open.spotify.com/artist/5tPCFmRzyUGp5ZNqSC54QM"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Trappin'",
+      "url": "https://open.spotify.com/track/5plaVEdji1xkIuEEKvuVEt"
+    },
+    {
+      "album": {
         "name": "Try",
         "url": "https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8"
       },
@@ -3175,6 +3219,28 @@
       "duration_ms": 148557,
       "name": "We're Made For Each Other",
       "url": "https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1"
+    },
+    {
+      "album": {
+        "name": "Some Nights I Dream of Doors",
+        "url": "https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Wrong for It",
+      "url": "https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7"
     },
     {
       "album": {

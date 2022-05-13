@@ -770,6 +770,28 @@
     },
     {
       "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181430,
+      "name": "Pochette (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/7px3nxEoSvAHCvAZq3r38W"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul"
       },
@@ -929,10 +951,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 192000,
       "name": "Sotto zero (feat. Emis Killa & Jake La Furia)",
       "url": "https://open.spotify.com/track/2usarU8ZBUy3Hj0j5fZrXG"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191202,
+      "name": "Top (feat. MadMan)",
+      "url": "https://open.spotify.com/track/2aH4Ec7vu87IeXFrtjtR17"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\ud83d\udc38 The best French indie tracks right now. Cover: Miel de Montagne",
+  "description": "The best French indie tracks right now. Cover: Hyphen Hyphen",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -294,6 +294,24 @@
     },
     {
       "album": {
+        "name": "Chui pu fort",
+        "url": "https://open.spotify.com/album/71j1HEoL1pXrWb24SaSNGs"
+      },
+      "artists": [
+        {
+          "name": "Mr GISCARD",
+          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129840,
+      "name": "Chui pu fort",
+      "url": "https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD"
+    },
+    {
+      "album": {
         "name": "Comment tu vas finir",
         "url": "https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz"
       },
@@ -428,6 +446,24 @@
     },
     {
       "album": {
+        "name": "Don't Wait For Me",
+        "url": "https://open.spotify.com/album/4oDHowJIOTQIHqVH6ZkJVG"
+      },
+      "artists": [
+        {
+          "name": "Hyphen Hyphen",
+          "url": "https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178584,
+      "name": "Don't Wait For Me",
+      "url": "https://open.spotify.com/track/3NMtxjqI71lyj1V0TkPwVR"
+    },
+    {
+      "album": {
         "name": "Dr\u00f4le d'id\u00e9e",
         "url": "https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h"
       },
@@ -479,6 +515,24 @@
       "duration_ms": 214494,
       "name": "En Douce",
       "url": "https://open.spotify.com/track/04EchQ81oKTRmabY8QMLsq"
+    },
+    {
+      "album": {
+        "name": "Epoch",
+        "url": "https://open.spotify.com/album/37rih338EqfPOdjOC1AZiM"
+      },
+      "artists": [
+        {
+          "name": "Quasi Qui",
+          "url": "https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225940,
+      "name": "Epoch",
+      "url": "https://open.spotify.com/track/75NobUSglm9bEYUd9pee0d"
     },
     {
       "album": {
@@ -663,7 +717,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 142340,
       "name": "Humains apr\u00e8s tout",
       "url": "https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8"
@@ -1093,7 +1147,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 180126,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/0U2tNdDsPJk8FOsmwNdmMT"
@@ -1627,7 +1681,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 181600,
       "name": "Premier Incendie - Edit",
       "url": "https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh"
@@ -1667,10 +1721,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 217413,
       "name": "Shining Light",
       "url": "https://open.spotify.com/track/44bUdMl0JyKxyDS4qku5SB"
+    },
+    {
+      "album": {
+        "name": "Source",
+        "url": "https://open.spotify.com/album/3LSV8Trerwu3kaqc2dcZGS"
+      },
+      "artists": [
+        {
+          "name": "Canine",
+          "url": "https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161013,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/2btl8sJ35sBFSH4sMik5tq"
     },
     {
       "album": {
@@ -1685,7 +1757,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 215986,
       "name": "Soldat Boy",
       "url": "https://open.spotify.com/track/7oDQurVhWc8BVqX8OKO8KX"
@@ -1901,7 +1973,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 186460,
       "name": "Toi & moi - Edit",
       "url": "https://open.spotify.com/track/6roMwL3sNdHRO2MRVmkBRn"
@@ -1963,6 +2035,28 @@
       "duration_ms": 192979,
       "name": "Un coup de g\u00e9nie",
       "url": "https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6"
+    },
+    {
+      "album": {
+        "name": "Un Peu d'Amour",
+        "url": "https://open.spotify.com/album/6oxjEeaBzvRABmCzy5JJce"
+      },
+      "artists": [
+        {
+          "name": "MAGENTA",
+          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
+        },
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331600,
+      "name": "Un Peu d'Amour",
+      "url": "https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW"
     },
     {
       "album": {
@@ -2043,6 +2137,24 @@
       "duration_ms": 185942,
       "name": "What A Life (j'fais ma life) [feat. Suzane]",
       "url": "https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy"
+    },
+    {
+      "album": {
+        "name": "\u00c9ternel",
+        "url": "https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff"
+      },
+      "artists": [
+        {
+          "name": "Dani Terreur",
+          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "\u00c9ternel",
+      "url": "https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu"

@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 194800,
       "name": "For My Good",
       "url": "https://open.spotify.com/track/2zRmDaYLsDw208NFV7CpFj"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 267773,
       "name": "Hymn of Heaven",
       "url": "https://open.spotify.com/track/4nK7i4idbh4N3Nf6p9PSPa"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 432640,
       "name": "I Am Loved",
       "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 218159,
       "name": "I Still Believe You're Good",
       "url": "https://open.spotify.com/track/0pTBMOKMRZKa3gLbco27n6"
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 241946,
       "name": "It's Always Been You",
       "url": "https://open.spotify.com/track/4vM708B1zJUObZEzwjZZZK"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 198986,
       "name": "Reason",
       "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
@@ -2411,7 +2411,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 211133,
       "name": "Source of Life",
       "url": "https://open.spotify.com/track/3tl8OtHXna5VWrb16okaLA"
@@ -2429,7 +2429,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 212073,
       "name": "Sparrows - Live",
       "url": "https://open.spotify.com/track/58lXS7FKsA2XcX704Qgggd"
@@ -2672,6 +2672,24 @@
     },
     {
       "album": {
+        "name": "Undeniable Love",
+        "url": "https://open.spotify.com/album/0z6Knrgg8vXGs2XDPkouJb"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rey",
+          "url": "https://open.spotify.com/artist/2ochL5YU5uC5AyXKZpOdoL"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173909,
+      "name": "Undeniable Love",
+      "url": "https://open.spotify.com/track/1PY6ayPtlQHWKBg6ZRPMTJ"
+    },
+    {
+      "album": {
         "name": "Unity Hymn",
         "url": "https://open.spotify.com/album/15V2r8ddOjQiNJzT5Ad4SN"
       },
@@ -2701,7 +2719,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "Unstoppable God",
       "url": "https://open.spotify.com/track/5bZQwgrDwYHE1aWWTrjBdD"

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-11",
   "description": "Focus on the drums, and your inner animal will come alive! In-your-face rock tracks where the drums can't be ignored.",
   "name": "Drum Mania",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1TTpnQL8vDzEXrA1b6lsMg"
+  ],
   "tracks": [
     {
       "album": {
@@ -161,7 +163,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "Don't Do It - 2005 Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/3j3OB5PFy7FewVi8l881kN"
@@ -813,7 +815,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 154866,
       "name": "Wipeout",
       "url": "https://open.spotify.com/track/4KFCyusUzxTL8PwE0AH02f"

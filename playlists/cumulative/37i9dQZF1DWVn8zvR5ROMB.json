@@ -1952,6 +1952,24 @@
     },
     {
       "album": {
+        "name": "By The End of That Song",
+        "url": "https://open.spotify.com/album/3xLagqRdOnsaIZ8TRLLfRn"
+      },
+      "artists": [
+        {
+          "name": "Justin Adams",
+          "url": "https://open.spotify.com/artist/2u3XRCxHLda0KhnBplrGc0"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209251,
+      "name": "By The End of That Song",
+      "url": "https://open.spotify.com/track/68W3g4GX9k1xHuSHmNsMDC"
+    },
+    {
+      "album": {
         "name": "Bronco: Chapter 1",
         "url": "https://open.spotify.com/album/5lGeIKePKFplfWbgfTBA8e"
       },
@@ -11054,7 +11072,7 @@
     },
     {
       "album": {
-        "name": "Rollin' Stone",
+        "name": "Rollin' Stone (feat. Drew Parker & Tyler Booth)",
         "url": "https://open.spotify.com/album/0HogCSJVwQMcWMnjErvsjL"
       },
       "artists": [
@@ -11075,7 +11093,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181341,
-      "name": "Rollin' Stone",
+      "name": "Rollin' Stone (feat. Drew Parker & Tyler Booth)",
       "url": "https://open.spotify.com/track/1tBFgkJH0DM0HhqIEbVwyB"
     },
     {

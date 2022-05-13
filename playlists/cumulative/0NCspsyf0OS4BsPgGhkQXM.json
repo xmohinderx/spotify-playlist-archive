@@ -5148,6 +5148,32 @@
     },
     {
       "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/4x9hFPLf32q0J3kMHpOFLy"
+      },
+      "artists": [
+        {
+          "name": "Cerus",
+          "url": "https://open.spotify.com/artist/7fquLeTBUvpluuODNIgSLY"
+        },
+        {
+          "name": "RMNCE",
+          "url": "https://open.spotify.com/artist/7LWf0GAZdARfcenjTJmpMc"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/2bTrbsUXZlZQPDGrrwdSLT"
+    },
+    {
+      "album": {
         "name": "Sweet Child O' Mine",
         "url": "https://open.spotify.com/album/3wNyS2c2RRJVSqSsUYqzmj"
       },

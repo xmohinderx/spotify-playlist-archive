@@ -4,7 +4,7 @@
 
 > Not anti\-prom..\. just anti giving a crap about a dance
 
-62 songs - 3 hr 8 min - not published yet
+62 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/3g1rmeKdX9t3QxiSQw2CgM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

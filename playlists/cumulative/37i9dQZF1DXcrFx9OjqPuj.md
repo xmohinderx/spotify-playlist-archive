@@ -4,7 +4,7 @@
 
 > Get the party started with some upbeat party jazz.
 
-106 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/0URm84MB7MMlfi2eP9YKgm)
+107 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/0URm84MB7MMlfi2eP9YKgm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Cherokee \- Rudy Van Gelder Edition/Digital Remaster/2006](https://open.spotify.com/track/2Gxqa5tSywDIreRacsNPZB) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 4:17 | 2022-01-26 |  |
 | [Clarion Calls \- Rudy Van Gelder Edition/Remastered 2003](https://open.spotify.com/track/4JgQnOv9Hj8h2Lfx8yLbBB) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd In Hand](https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a) | 5:41 | 2022-01-26 |  |
 | [Cookin' At The Continental \- Rudy Van Gelder Edition / Remastered](https://open.spotify.com/track/1DU2qdtCoFsonRs7UjHnWq) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Finger Poppin' \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on) | 4:54 | 2022-01-26 |  |
-| [Devilette](https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Clubhouse](https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo) | 7:05 | 2022-01-26 |  |
+| [Devilette](https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Clubhouse](https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo) | 7:05 | 2022-01-26 | 2022-05-13 |
 | [Diggin' On Dexter](https://open.spotify.com/track/5HgNy1LzVCLbXEgHtcdsF5) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Hardbop Grandpop](https://open.spotify.com/album/4yC3YQ7yrNEzLM9fVvrc6F) | 5:39 | 2022-05-11 |  |
 | [Dippin' In The Bag](https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 3:59 | 2022-01-26 |  |
 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 | 2022-01-26 |  |
@@ -114,5 +114,6 @@
 | [What A Little Moonlight Can Do \- Remastered](https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:27 | 2022-01-26 |  |
 | [Wheelin' And Dealin'](https://open.spotify.com/track/57uQYzZCSVEGMkJbeAToQk) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8) | [That's The Way It Is](https://open.spotify.com/album/1ZGTnCDhP08Jq4ArUhqaSJ) | 4:31 | 2022-05-11 |  |
 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 | 2022-01-26 |  |
+| [You Said It](https://open.spotify.com/track/4W38vgh0XfXD19ZCfB9t6J) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Jubilee Shout!!!](https://open.spotify.com/album/2CGSc6ZbHcGWjWYl07KCd4) | 5:32 | 2022-05-11 |  |
 
 \*This playlist was first scraped on 2022-02-13. Prior content cannot be recovered.

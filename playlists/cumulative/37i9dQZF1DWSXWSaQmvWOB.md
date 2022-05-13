@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Jon Batiste
 
-469 songs - 1 day 4 hr 51 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+472 songs - 1 day 5 hr 1 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 | 2021-05-14 | 2021-07-23 |
 | [Running Blind \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/7ALUF2i2FCiRCx9OqBJ5Ot) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Running Blind \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/74XnffQl19Z2WAErQ4DjZb) | 3:13 | 2021-06-04 |  |
 | [S.M.S\. "Save My Soul"](https://open.spotify.com/track/1q4N7SQ7vtUXYWPyfaIIOY) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [S.M.S\. "Save My Soul"](https://open.spotify.com/album/3PfSC1nhFiqSjkNRtRfyaG) | 4:03 | 2022-02-10 |  |
+| [Sage Motel](https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Sage Motel](https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9) | 3:52 | 2022-05-12 |  |
 | [Sailing Out \- Radio Edit](https://open.spotify.com/track/4CJODw2DF9BiRzkhmNlXmh) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Sailing Out](https://open.spotify.com/album/2zCGyhPMO7RlSORcAGLS7C) | 3:07 | 2020-03-25\* | 2021-02-24 |
 | [Same Page, Different Book](https://open.spotify.com/track/6u3JDsQmDAo6ecxqIOMBK2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Welcome 2 America](https://open.spotify.com/album/6Idpgkp0xxbQA3Ej1QdsZh) | 4:41 | 2021-07-30 | 2022-02-11 |
 | [Sativa](https://open.spotify.com/track/6IRc3bTL3NZB3dFqlbCNAb) | [Gallowstreet](https://open.spotify.com/artist/5PBhzgMrQywioo7dPuXzvm), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Sativa](https://open.spotify.com/album/1B5acncxKivvxZGeoKYevc) | 2:54 | 2020-03-25\* | 2021-02-28 |
@@ -378,6 +379,7 @@
 | [Stay](https://open.spotify.com/track/1tuhxHYZTrfefeO5zqfFSm) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Stay](https://open.spotify.com/album/05PBmybm2MvHvcb7n3Vn3r) | 4:38 | 2022-01-27 |  |
 | [Stay Up \- Pastel Remix](https://open.spotify.com/track/2jVQoTDSzfytDWnxl6e51X) | [Adeline](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Intérimixed](https://open.spotify.com/album/6ArXooRUOXEIUrbWNPlHKD) | 3:33 | 2020-10-09 | 2021-04-17 |
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2021-07-23 | 2022-02-18 |
+| [Still](https://open.spotify.com/track/0H8VPq7MtL29JOI3rtO6bc) | [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [Still](https://open.spotify.com/album/1Scr6kniX8lYs84lGKfga4) | 2:26 | 2022-05-12 |  |
 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/22lLqAMQOysHjy4iojDSmE) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/album/4C88dLvxhgzErXeL2ZZVBW) | 3:25 | 2021-05-14 | 2021-12-01 |
 | [Stories \- Blue Lab Beats Remix](https://open.spotify.com/track/0bUmmhZrae79ohOrmE2gm7) | [Full Flava](https://open.spotify.com/artist/5t5JR8OaTz7lsKo9xFKnl3), [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [Stories \(Blue Lab Beats Remix\)](https://open.spotify.com/album/72GcUvSlBYfogW44g97cSQ) | 4:05 | 2020-11-06 | 2020-12-11 |
 | [Story Starts Today](https://open.spotify.com/track/1MHelwASBBLimX8lgto9nP) | [Wouter Hamel](https://open.spotify.com/artist/7eK4wPcMgmSIxcGBS2lJl0), [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Story Starts Today](https://open.spotify.com/album/5jd91JY8okLP87MvYAse2L) | 3:26 | 2020-11-28 | 2021-04-17 |
@@ -420,6 +422,7 @@
 | [Toking, Dozing](https://open.spotify.com/track/25uVLrUrzXnqjDHoyX3bCY) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Toking, Dozing](https://open.spotify.com/album/30aPHVy3HJiFXkeDJetqTL) | 3:46 | 2020-03-25\* | 2020-05-15 |
 | [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 | 2021-05-07 | 2021-10-29 |
 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 | 2021-02-06 | 2021-07-23 |
+| [Too Perfect To Be Loved](https://open.spotify.com/track/5YuEVtQpx9bS4wBLeeBsQN) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Too Perfect To Be Loved](https://open.spotify.com/album/5ZyWcitUKa4Om03m6yP2Vu) | 3:44 | 2022-05-12 |  |
 | [Traingazing](https://open.spotify.com/track/1QIIQ1B2syNBSvQULkXgTa) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Traingazing](https://open.spotify.com/album/5r9C08yALmCzzArnWeoxHC) | 3:34 | 2020-03-25\* | 2021-04-23 |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2021-07-02 |  |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-29 | 2021-12-01 |

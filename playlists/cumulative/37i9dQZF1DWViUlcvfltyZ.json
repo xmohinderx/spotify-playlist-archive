@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, i Ministri)",
+  "description": "Chitarrre pi\u00f9 o meno distorte (e, in cover, i M\u00e5neskin)",
   "name": "Rock Italia",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1ygHfNTT8YmP8RXH0ojm4P"
+  ],
   "tracks": [
     {
       "album": {
@@ -165,7 +167,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 148260,
       "name": "C'ho tutto un sogno Ramones",
       "url": "https://open.spotify.com/track/4erZfn8ZjbC6Wxi42CED12"
@@ -201,7 +203,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 137853,
       "name": "CALMI",
       "url": "https://open.spotify.com/track/11e830eTMrExk20UCGtLr2"
@@ -223,7 +225,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 714642,
       "name": "Caro fottutissimo amico (feat. Motta)",
       "url": "https://open.spotify.com/track/6XNyqB9SGce6cWFlR8wMVP"
@@ -288,6 +290,24 @@
     },
     {
       "album": {
+        "name": "Dead",
+        "url": "https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb"
+      },
+      "artists": [
+        {
+          "name": "PEAKS!",
+          "url": "https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210328,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR"
+    },
+    {
+      "album": {
         "name": "Diverso/Uguale",
         "url": "https://open.spotify.com/album/6zAvSlGmh5ppa8s9lupqjG"
       },
@@ -324,6 +344,24 @@
     },
     {
       "album": {
+        "name": "Trespass",
+        "url": "https://open.spotify.com/album/74PcwnV8Ytl63PVfvYVMsE"
+      },
+      "artists": [
+        {
+          "name": "Go Hawaii",
+          "url": "https://open.spotify.com/artist/4dMyueIDZEOSvuCaXnqYli"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336438,
+      "name": "Dolphins Touch",
+      "url": "https://open.spotify.com/track/0wHE1ogEilT39UUbtlAmvV"
+    },
+    {
+      "album": {
         "name": "Eccezione",
         "url": "https://open.spotify.com/album/4kf74n3kxNc4nwlkf3W2t6"
       },
@@ -353,7 +391,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 144686,
       "name": "DPCM",
       "url": "https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM"
@@ -375,6 +413,24 @@
       "duration_ms": 180973,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/4rrTYw1uDqd3pMTUmuHEVF"
+    },
+    {
+      "album": {
+        "name": "Fiji",
+        "url": "https://open.spotify.com/album/0ezUmnkksJ9BP768tqg1UI"
+      },
+      "artists": [
+        {
+          "name": "Testarossa",
+          "url": "https://open.spotify.com/artist/7yVdD1RiPKmVmqjH32EUGS"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211649,
+      "name": "Fiji",
+      "url": "https://open.spotify.com/track/71IMl8wVSkav5NPjqk9bxe"
     },
     {
       "album": {
@@ -425,7 +481,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 196557,
       "name": "Graphiti :)",
       "url": "https://open.spotify.com/track/5xx9ZowEw4pbbdvI9qnNNP"
@@ -450,6 +506,24 @@
     },
     {
       "album": {
+        "name": "heavy-hearted",
+        "url": "https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq"
+      },
+      "artists": [
+        {
+          "name": "Her Skin",
+          "url": "https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159280,
+      "name": "heavy-hearted",
+      "url": "https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy"
+    },
+    {
+      "album": {
         "name": "Hey U",
         "url": "https://open.spotify.com/album/27oTo8ISybYjEze4YL67Bc"
       },
@@ -465,6 +539,24 @@
       "duration_ms": 121080,
       "name": "Hey U",
       "url": "https://open.spotify.com/track/25Tztg1uslRPRXpXzsXctK"
+    },
+    {
+      "album": {
+        "name": "High On Stress",
+        "url": "https://open.spotify.com/album/4TTP6knd1uIUPK2NlFfSEX"
+      },
+      "artists": [
+        {
+          "name": "The Manges",
+          "url": "https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158280,
+      "name": "High On Stress",
+      "url": "https://open.spotify.com/track/1y2fS0kinayyO7Ih4vFrqT"
     },
     {
       "album": {
@@ -486,6 +578,28 @@
     },
     {
       "album": {
+        "name": "Idea",
+        "url": "https://open.spotify.com/album/3jG7ZwprmZW0PDoImjUL0H"
+      },
+      "artists": [
+        {
+          "name": "La Superluna di Drone Kong",
+          "url": "https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt"
+        },
+        {
+          "name": "Nikki",
+          "url": "https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Idea",
+      "url": "https://open.spotify.com/track/0AI35B8TuEtmz5ayf4dQR0"
+    },
+    {
+      "album": {
         "name": "Identikit / PLOT TWIST",
         "url": "https://open.spotify.com/album/5nmYuCiGDIlZRFj8VpeFgx"
       },
@@ -501,6 +615,42 @@
       "duration_ms": 166800,
       "name": "Identikit / PLOT TWIST",
       "url": "https://open.spotify.com/track/3J93fJVupbMEjlrspQ2fp5"
+    },
+    {
+      "album": {
+        "name": "il mondo va veloce",
+        "url": "https://open.spotify.com/album/5BNaMQRSia5tod8TxQS4mZ"
+      },
+      "artists": [
+        {
+          "name": "nicedays",
+          "url": "https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211904,
+      "name": "il mondo va veloce",
+      "url": "https://open.spotify.com/track/3LKlwc0UPC2t627WKrpciU"
+    },
+    {
+      "album": {
+        "name": "Imma Stunt",
+        "url": "https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52"
+      },
+      "artists": [
+        {
+          "name": "Stunt Pilots",
+          "url": "https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131063,
+      "name": "Imma Stunt",
+      "url": "https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1"
     },
     {
       "album": {
@@ -661,7 +811,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 199226,
       "name": "Multiculti supermarket",
       "url": "https://open.spotify.com/track/1B2enYYrBLeUfDKBFv1faT"
@@ -697,7 +847,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 203307,
       "name": "Non moriremo mai",
       "url": "https://open.spotify.com/track/6FNoHN4QzgqM5FVISnhplF"
@@ -719,6 +869,28 @@
       "duration_ms": 201620,
       "name": "Occhi di Corvo",
       "url": "https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO"
+    },
+    {
+      "album": {
+        "name": "Ok boomer (feat. Brunori Sas)",
+        "url": "https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg"
+      },
+      "artists": [
+        {
+          "name": "The Zen Circus",
+          "url": "https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84"
+        },
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Ok boomer (feat. Brunori Sas)",
+      "url": "https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue"
     },
     {
       "album": {
@@ -751,10 +923,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 194067,
       "name": "Particles",
       "url": "https://open.spotify.com/track/3X6EsP4cCYwjtJjEGUrtiA"
+    },
+    {
+      "album": {
+        "name": "Pi\u00f9 mi odi pi\u00f9 mi amo",
+        "url": "https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT"
+      },
+      "artists": [
+        {
+          "name": "Management",
+          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254746,
+      "name": "Pi\u00f9 mi odi pi\u00f9 mi amo",
+      "url": "https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi"
     },
     {
       "album": {
@@ -805,7 +995,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 188141,
       "name": "Quattro Mani",
       "url": "https://open.spotify.com/track/3t7lGtFe1sWmlC9XbmZMtR"
@@ -848,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/0TWE0Xja7UMMKQMwzihs3V"
+      },
+      "artists": [
+        {
+          "name": "Blindur",
+          "url": "https://open.spotify.com/artist/7LUvRhMok52Bi5G2gmQzGc"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211213,
+      "name": "Sereno",
+      "url": "https://open.spotify.com/track/2U1XriPajBptR6r2B3hiP6"
+    },
+    {
+      "album": {
         "name": "Silos",
         "url": "https://open.spotify.com/album/6H7Dm09Q1rwlhkNqXpWGgt"
       },
@@ -877,7 +1085,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 263120,
       "name": "Speak Loud",
       "url": "https://open.spotify.com/track/6irQlJurQFK1OqKun57XUq"
@@ -956,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
         "name": "TI DEVI ROVINARE",
         "url": "https://open.spotify.com/album/29mSkfiTOynaVBxBp2E4Vh"
       },
@@ -1003,7 +1229,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 174187,
       "name": "Un equilibrio da proteggere",
       "url": "https://open.spotify.com/track/3ddt91PaOtE9LQ4UCaN3ge"
@@ -1021,7 +1247,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 174857,
       "name": "UN SANTO, UN RICCO, UN FASCIO",
       "url": "https://open.spotify.com/track/2RIpuPWfnNgXF7eQBaugdA"

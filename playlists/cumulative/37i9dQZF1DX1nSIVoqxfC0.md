@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-193 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
+194 songs - 13 hr 34 min - [published](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Acordeão](https://open.spotify.com/track/4P7F3kb2Ze1YleD6lUYwJo) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [Acordeão](https://open.spotify.com/album/3s0VDNOSXqUsCg1IPIvD6B) | 2:11 | 2020-10-20\* |  |
 | [Adagio For Strings](https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 7:23 | 2020-10-20\* |  |
 | [Always Near](https://open.spotify.com/track/6BmhUvcLzTgAR6bPXwy70M) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Kaleidoscope](https://open.spotify.com/album/3LWrYfernAQQUBvxlPxeZd) | 1:33 | 2020-10-20\* |  |
+| [Another Love \- Tiësto Remix](https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Another Love \(Tiësto Remix\)](https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa) | 3:05 | 2022-05-12 |  |
 | [Arena \(Original Mix\)](https://open.spotify.com/track/2Os47Bv7Kjkuv8nO2lpB1K) | [Avesta](https://open.spotify.com/artist/6G3D9qZ6yZRxTgCpQN8cKn) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 5:18 | 2020-10-20\* |  |
 | [Back To The Acid](https://open.spotify.com/track/5Bq2qAe6mQJBnwoiaIkCKw) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Club Life, Vol\. 3 \- Stockholm \(Spotify Exclusive\)](https://open.spotify.com/album/4WGxTGkyuhM6sKj3QbhHnd) | 3:14 | 2020-10-20\* |  |
 | [Back To The Oldskool](https://open.spotify.com/track/4iGUu7oGJCrheaxB2CaD5O) | [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [CLUBLIFE, VOL\. 5 \- CHINA](https://open.spotify.com/album/3pazfA2ahcJHKHP2E2QjEB) | 3:33 | 2020-10-20\* |  |

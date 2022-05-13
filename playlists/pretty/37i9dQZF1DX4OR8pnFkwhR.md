@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: WurtS
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,786 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,816 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 15 | [帰り路](https://open.spotify.com/track/3E3NsTYYRQqHYauCm7qExn) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [i's](https://open.spotify.com/album/00X0ZVNwkI9SQRvM7Ek500) | 3:23 |
 | 16 | [煙](https://open.spotify.com/track/7dGYY5OqFqcHCGfXANJpnd) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [煙](https://open.spotify.com/album/3bcnckNl3V1iMXQnKXd3NG) | 3:40 |
 | 17 | [Mole Dancer](https://open.spotify.com/track/6k3ly6qAbRNXmQXmupnMeV) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Mole Dancer](https://open.spotify.com/album/5jqbDLLn8s2nZWUQbsDi2S) | 3:24 |
-| 18 | [ひかり](https://open.spotify.com/track/24qLak5ULUj0680uqueJOl) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ひかり](https://open.spotify.com/album/3LmFbVc7PaFeAMxonbW21A) | 3:47 |
-| 19 | [嫌でもね](https://open.spotify.com/track/0vMirJzqc32hw8gzMISrga) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [嫌でもね](https://open.spotify.com/album/0ENL0kl70GDim5FzZk9vQj) | 3:06 |
-| 20 | [青を掬う](https://open.spotify.com/track/2917sge1opN5LbWy8IsIzu) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [青を掬う](https://open.spotify.com/album/28ZRPnbsRseTQvZWN8HFVE) | 3:59 |
-| 21 | [深夜徘徊](https://open.spotify.com/track/4eW39rkFgCZ31dPTsbT3cz) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [深夜徘徊](https://open.spotify.com/album/09lUXmuYLgFciEYNns0Nuy) | 2:51 |
-| 22 | [海が満ちる](https://open.spotify.com/track/5Gb82b8WuY46kHCs8nykML) | [かりんちょ落書き](https://open.spotify.com/artist/7szylaibmQeGUetRKLVW65) | [海が満ちる](https://open.spotify.com/album/65UGPf7rbEiLJV0YqF8kMf) | 2:58 |
-| 23 | [雨の魔法](https://open.spotify.com/track/1lWVxJGW5s5LCNgO2mQB0v) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [雨の魔法](https://open.spotify.com/album/1zKpfBrMjF0bYj4ZGs5c7H) | 3:53 |
-| 24 | [土曜日の「あ」](https://open.spotify.com/track/3MSmWJTa8MHAELp7Sm4tx9) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [土曜日の「あ」](https://open.spotify.com/album/08JuGZMnQU4TKkENGMtpCZ) | 3:10 |
-| 25 | [D・T・F](https://open.spotify.com/track/061MFvSxejBkapUzNkOEia) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [D・T・F](https://open.spotify.com/album/2euKaGrPxK3Y1T2g8Ws3t1) | 3:31 |
-| 26 | [水底魚](https://open.spotify.com/track/5nAoYQMB2LtcriESGq9ABj) | [SUIMMIN](https://open.spotify.com/artist/4RlG2tlAiCBm27GVrdLQqz) | [水底魚](https://open.spotify.com/album/0ggpTT3y5VofgAltgrE9U0) | 3:04 |
-| 27 | [花瓶](https://open.spotify.com/track/6P1utj8gYatYEPYLS0rPAp) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [花瓶](https://open.spotify.com/album/7lo3NwZ7X29kF9GffDGVB0) | 3:27 |
-| 28 | [面影](https://open.spotify.com/track/1xxQh8BSsVOcnSSMkLtJ0U) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [面影](https://open.spotify.com/album/4IZaX0XSU8FuSEs0ugX0tQ) | 3:47 |
+| 18 | [As you are](https://open.spotify.com/track/4MXe4P4d0PuX7l9wc6bTod) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [As you are](https://open.spotify.com/album/3PhgUhmbejD4Oo4BKQhlQS) | 3:07 |
+| 19 | [ひかり](https://open.spotify.com/track/24qLak5ULUj0680uqueJOl) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ひかり](https://open.spotify.com/album/3LmFbVc7PaFeAMxonbW21A) | 3:47 |
+| 20 | [嫌でもね](https://open.spotify.com/track/0vMirJzqc32hw8gzMISrga) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [嫌でもね](https://open.spotify.com/album/0ENL0kl70GDim5FzZk9vQj) | 3:06 |
+| 21 | [青を掬う](https://open.spotify.com/track/2917sge1opN5LbWy8IsIzu) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [青を掬う](https://open.spotify.com/album/28ZRPnbsRseTQvZWN8HFVE) | 3:59 |
+| 22 | [深夜徘徊](https://open.spotify.com/track/4eW39rkFgCZ31dPTsbT3cz) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [深夜徘徊](https://open.spotify.com/album/09lUXmuYLgFciEYNns0Nuy) | 2:51 |
+| 23 | [海が満ちる](https://open.spotify.com/track/5Gb82b8WuY46kHCs8nykML) | [かりんちょ落書き](https://open.spotify.com/artist/7szylaibmQeGUetRKLVW65) | [海が満ちる](https://open.spotify.com/album/65UGPf7rbEiLJV0YqF8kMf) | 2:58 |
+| 24 | [雨の魔法](https://open.spotify.com/track/1lWVxJGW5s5LCNgO2mQB0v) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [雨の魔法](https://open.spotify.com/album/1zKpfBrMjF0bYj4ZGs5c7H) | 3:53 |
+| 25 | [Hi](https://open.spotify.com/track/3hjfDTCvGUJAFlgyVuiH6T) | [Fukumoto Nao](https://open.spotify.com/artist/1QLZ0b7wV4GzLfIrDscnET) | [Hi](https://open.spotify.com/album/1tKXgSSx2DEQi0ZihkYkTm) | 4:05 |
+| 26 | [D・T・F](https://open.spotify.com/track/061MFvSxejBkapUzNkOEia) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [D・T・F](https://open.spotify.com/album/2euKaGrPxK3Y1T2g8Ws3t1) | 3:31 |
+| 27 | [水底魚](https://open.spotify.com/track/5nAoYQMB2LtcriESGq9ABj) | [SUIMMIN](https://open.spotify.com/artist/4RlG2tlAiCBm27GVrdLQqz) | [水底魚](https://open.spotify.com/album/0ggpTT3y5VofgAltgrE9U0) | 3:04 |
+| 28 | [花瓶](https://open.spotify.com/track/6P1utj8gYatYEPYLS0rPAp) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [花瓶](https://open.spotify.com/album/7lo3NwZ7X29kF9GffDGVB0) | 3:27 |
 | 29 | [FRIDAY KIDS CHINA TOWN](https://open.spotify.com/track/1tNCkvccVymw8vb8zYuVt2) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [FRIDAY KIDS CHINA TOWN](https://open.spotify.com/album/5ZV3AWQv944HTPZznYh6KA) | 3:04 |
 | 30 | [run.](https://open.spotify.com/track/7h0LrbAW3YQf7IIa3Bwzuc) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [run.](https://open.spotify.com/album/6czoxk1n3RVjncUIIP8S9B) | 3:56 |
 | 31 | [笑って透明人間](https://open.spotify.com/track/52d0HV5FhkjQxyWEuHFJ1D) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [光を投げていた](https://open.spotify.com/album/4r9IoFzX6ePXpmTJj5lh2B) | 3:16 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 36 | [Burning Fuel](https://open.spotify.com/track/6g9fyqAjF8zk4QhNYkjdYL) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [SEVEN THIRTY ONE](https://open.spotify.com/album/1t40QHVlS8MF8ReiAz67xV) | 2:50 |
 | 37 | [東京cruisin'](https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [東京cruisin'](https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne) | 3:08 |
 | 38 | [勝手な彼女](https://open.spotify.com/track/4AzOzqmDC5sKMmuJXnfc99) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 3:43 |
-| 39 | [君の目を見てると](https://open.spotify.com/track/3pXHJZDZ9ajO66zmtk4J4k) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [君の目を見てると](https://open.spotify.com/album/1ODKpvi3WkN8xd0zN0XKzP) | 5:16 |
-| 40 | [愛してますっ!](https://open.spotify.com/track/5Fyxfo0fSuKq14lb37ZSAF) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [愛してますっ!](https://open.spotify.com/album/3kk5TDaqFPBIAbe6mAXkZJ) | 3:38 |
-| 41 | [関係のない人](https://open.spotify.com/track/3WlAqL1Vaei9e84PDNh5FH) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [関係のない人](https://open.spotify.com/album/6gcvBSWLvo4zpdPYQDiZPS) | 3:33 |
-| 42 | [水槽](https://open.spotify.com/track/2jkX2wsiII8YQTTF4jonwr) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [水槽](https://open.spotify.com/album/2KnIrC9vZylwYUfR52tTps) | 3:50 |
-| 43 | [灰になって空に舞う](https://open.spotify.com/track/0cv01P6YagCS2AzVJ7Zm53) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [灰になって空に舞う](https://open.spotify.com/album/42O4d68FPjGsellVrCxJBp) | 2:50 |
-| 44 | [スイミー](https://open.spotify.com/track/406ri9Cz0wVW4jxtssasvP) | [砂布°](https://open.spotify.com/artist/4XfWVUlH1eNMFcFfKkwqw0) | [スイミー](https://open.spotify.com/album/4WNjSPnIhgk7Tt2x0FWIO6) | 1:36 |
-| 45 | [ネコも食べない](https://open.spotify.com/track/3IQ2RZzh0shp6PUTbvlu8B) | [極東飯店](https://open.spotify.com/artist/6BgCQ4n2mZfN3eLPrTd9Kl) | [九種九牌](https://open.spotify.com/album/3DvopbZPVLdM5twT6Rob9Z) | 3:04 |
+| 39 | [愛してますっ!](https://open.spotify.com/track/5Fyxfo0fSuKq14lb37ZSAF) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [愛してますっ!](https://open.spotify.com/album/3kk5TDaqFPBIAbe6mAXkZJ) | 3:38 |
+| 40 | [関係のない人](https://open.spotify.com/track/3WlAqL1Vaei9e84PDNh5FH) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [関係のない人](https://open.spotify.com/album/6gcvBSWLvo4zpdPYQDiZPS) | 3:33 |
+| 41 | [水槽](https://open.spotify.com/track/2jkX2wsiII8YQTTF4jonwr) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [水槽](https://open.spotify.com/album/2KnIrC9vZylwYUfR52tTps) | 3:50 |
+| 42 | [灰になって空に舞う](https://open.spotify.com/track/0cv01P6YagCS2AzVJ7Zm53) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [灰になって空に舞う](https://open.spotify.com/album/42O4d68FPjGsellVrCxJBp) | 2:50 |
+| 43 | [スイミー](https://open.spotify.com/track/406ri9Cz0wVW4jxtssasvP) | [砂布°](https://open.spotify.com/artist/4XfWVUlH1eNMFcFfKkwqw0) | [スイミー](https://open.spotify.com/album/4WNjSPnIhgk7Tt2x0FWIO6) | 1:36 |
+| 44 | [ネコも食べない](https://open.spotify.com/track/3IQ2RZzh0shp6PUTbvlu8B) | [極東飯店](https://open.spotify.com/artist/6BgCQ4n2mZfN3eLPrTd9Kl) | [九種九牌](https://open.spotify.com/album/3DvopbZPVLdM5twT6Rob9Z) | 3:04 |
+| 45 | [Sugar](https://open.spotify.com/track/3zyq4nGYgTYNHcp3vXP58R) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [菅原圭](https://open.spotify.com/artist/6QOnk7zoSFeg8ysHCUAOA8) | [Sugar](https://open.spotify.com/album/3f2Odv10uR5PgTLvDBdn5v) | 1:31 |
 | 46 | [Higher](https://open.spotify.com/track/5eid5YldfTvqxsALbiCaAA) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Higher](https://open.spotify.com/album/1QHVggXNuiZmLe15v1BdcY) | 4:29 |
 | 47 | [Jubilee](https://open.spotify.com/track/4GvzdbMFTbxMavCVbE9yF2) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Life Is Beautiful](https://open.spotify.com/album/6n8QbQQAamira9hPwP1URm) | 3:48 |
 | 48 | [DESIRE](https://open.spotify.com/track/2ravTxFpwFgqXzDmQru4H3) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [TIME TO SHINE](https://open.spotify.com/album/7wOxANTRpk4rz0M6KSt3wK) | 3:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [landmark](https://open.spotify.com/track/62tLXNKaqiikAuHZLX0Nlz) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [landmark](https://open.spotify.com/album/17CIPmeFbsVxWX48vMFhdQ) | 4:57 |
 | 60 | [流れバス](https://open.spotify.com/track/29EQ5uUBjqPlV3JQV5m9aT) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [流れバス](https://open.spotify.com/album/35ep0F8nlZn9JmNkyqiOwX) | 4:29 |
 
-Snapshot ID: `MTY1MjE5NDgwMCwwMDAwMDRhMjAwMDAwMTgwYWU3YmYyYjYwMDAwMDE4MGFhYzZhNmVm`
+Snapshot ID: `MTY1MjM2NzYwMCwwMDAwMDRhMzAwMDAwMTgwYjhjOGFhMWIwMDAwMDE4MGFhYzZhNmVm`

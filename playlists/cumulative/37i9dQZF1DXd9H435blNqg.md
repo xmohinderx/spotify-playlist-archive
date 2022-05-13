@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Black Joe Lewis
 
-67 songs - 3 hr 49 min - not published yet
+67 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/3SMaUdCHYgOYKwuKa1OVGG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

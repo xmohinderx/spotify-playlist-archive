@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Jack Harlow, Future, and more\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,085 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,415 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [Duntsane](https://open.spotify.com/track/3xySxvtSaRaxQ4nr2VCWEc) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Duntsane](https://open.spotify.com/album/77EHssqkfiZmrZtAHyDzq3) | 3:12 |
 | 24 | [My Bruddas \(feat\. Yung Bans\)](https://open.spotify.com/track/4eafVkuOMZXeSxndufbVdK) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [My Bruddas \(feat\. Yung Bans\)](https://open.spotify.com/album/4cxfcXmqtbxILTxnCQC1Fb) | 3:05 |
 | 25 | [Borrow](https://open.spotify.com/track/5Fy8z5xuJHsd6Id0DYRxZN) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Borrow](https://open.spotify.com/album/5KPBYQCbDjDW1depOwv61k) | 2:06 |
-| 26 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:07 |
+| 26 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 |
 | 27 | [Oh Oh](https://open.spotify.com/track/0aA3U4en3uNGEE3lQX3gfu) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Oh Oh](https://open.spotify.com/album/4U1sRhF0AsJxgazR8yZfMW) | 2:52 |
 | 28 | [CRUNKSTARZ](https://open.spotify.com/track/6qo16WaYT1f8aRF9ut6MDQ) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [CRUNKSTARZ](https://open.spotify.com/album/1LWIgYaNi1rMt7mqiSjLpG) | 2:31 |
 | 29 | [UP](https://open.spotify.com/track/2yayJdN0THmDy3Cco1TZtI) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [UP](https://open.spotify.com/album/6bBIifv9VnIVRPKTKQjyBP) | 3:31 |

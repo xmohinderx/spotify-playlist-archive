@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lozeak
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. nova twins
 
-203 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+207 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bloody Crescent](https://open.spotify.com/track/2fWfZfktaLdOi5U13BLQKJ) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Bloody Crescent](https://open.spotify.com/album/6V8LTX1vyMrJoHxjQ0Ye7R) | 2:48 | 2022-03-11 |  |
 | [BMTH shxw](https://open.spotify.com/track/277ocfhxIxwtnyKZiRTzqv) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z), [Elle Lapointe](https://open.spotify.com/artist/0uyshtcmdpvY91d8QSBR2w) | [nx future](https://open.spotify.com/album/0V6z9eQZ3gHe7ivNgKuifF) | 2:45 | 2022-04-19 | 2022-04-29 |
 | [BORED](https://open.spotify.com/track/3CaCddaop8aqxQp6MRP4SF) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [SAVE Az](https://open.spotify.com/artist/41zUkY4aPJbXRPGdDH25y7) | [BORED](https://open.spotify.com/album/5r8GfaEZnFZp7uwMSsm4ut) | 2:02 | 2021-12-27 | 2022-01-06 |
+| [braindead!](https://open.spotify.com/track/4GYRVROTrMnOnMzOlWizzO) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [HI! NICE TO MEET YA](https://open.spotify.com/album/4HM4CTkJrx5x2pK0sgNALM) | 2:43 | 2022-05-12 |  |
 | [buckshot boy](https://open.spotify.com/track/0UDKAvVtuX8oxvpuUjsBbR) | [Onlyfriend](https://open.spotify.com/artist/03zKAbmkkWhUzjUSmJZGVE) | [buckshot boy](https://open.spotify.com/album/6eB0sUv4yuNNWzXFv11A8J) | 2:18 | 2021-12-27 | 2022-01-19 |
 | [Butterflies](https://open.spotify.com/track/7yF8jMKIjgHRcwduu0fzWc) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp), [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Butterflies](https://open.spotify.com/album/4ob92gI2nIurZosVJqttdA) | 3:43 | 2022-02-18 | 2022-04-01 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 |  |
@@ -52,6 +53,7 @@
 | [DO U LIKE ME NOW?](https://open.spotify.com/track/22Uh81w7dh0sdE4egnLndv) | [Dana Dentata](https://open.spotify.com/artist/1QiXZr91PL7BG5jT7j14uB) | [DO U LIKE ME NOW?](https://open.spotify.com/album/5pEPrSirLnbvFr65nO5Zp9) | 2:23 | 2021-12-27 |  |
 | [dog days](https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [dog days](https://open.spotify.com/album/5tsuLmnmDMo4rhrRZQIXFn) | 2:56 | 2022-04-28 |  |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-14 | 2022-04-20 |
+| [Dream Caused By The Flight Of A Bee](https://open.spotify.com/track/1cAKuJhjZCKI0j0sVTF5zQ) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/album/5bN3xklJz98zVp1cxnYpSO) | 2:46 | 2022-05-12 |  |
 | [Dutch Courage](https://open.spotify.com/track/5OCDCNYb7xT1HwgJ9SS1Oh) | [XO LU](https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf) | [Dutch Courage](https://open.spotify.com/album/30kaWVTwGdetGhUqlbv04p) | 2:27 | 2021-12-27 | 2022-01-19 |
 | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/track/5riZjtRWIYdFiXaoRogNHq) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [DWYSSWM \(Don't Worry Your Secret's Safe With Me\)](https://open.spotify.com/album/76K6RboS9bSVXarOZY4HPn) | 3:09 | 2022-02-18 | 2022-04-01 |
 | [elegy](https://open.spotify.com/track/33yVBJ4wdUkItubqKA5UvY) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [elegy](https://open.spotify.com/album/1rQvm59V13d70jUeHgVTBl) | 2:20 | 2021-12-27 | 2022-01-19 |
@@ -70,6 +72,7 @@
 | [flip a switch](https://open.spotify.com/track/3Xnsm7gx3KBmYoWFdNMof6) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [flip a switch](https://open.spotify.com/album/2QueRNxcrP62Nkg3YfZGrJ) | 2:32 | 2021-12-27 | 2022-02-13 |
 | [float](https://open.spotify.com/track/0JI3pxnreOq79EK1TlCVfp) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [float](https://open.spotify.com/album/3SI0OQOSJBTG3TrUiyzLkA) | 3:07 | 2022-03-25 |  |
 | [FLYING CAR](https://open.spotify.com/track/5Nq1ajBF2nJIlZxFAGLfpF) | [Bronze](https://open.spotify.com/artist/6tYQMlvJdCgJd660u47II0), [BBRC](https://open.spotify.com/artist/1rUZnYVwvnjt3MrQastd5X) | [FLYING CAR](https://open.spotify.com/album/7ATiXxdFjmBBQuXVy1NuOv) | 3:07 | 2021-12-27 | 2022-01-19 |
+| [Force Fedd \- Kontravoid Remix](https://open.spotify.com/track/2wrKwZVyll1vhzBuVDAhQy) | [SISSY MISFIT](https://open.spotify.com/artist/7gBvxpydeJTqbjrWWkT0iB), [Kontravoid](https://open.spotify.com/artist/1cZNxWhPe9pKXdVZZdA9Bz) | [Force Fedd \(Kontravoid Remix\)](https://open.spotify.com/album/0npSUbG01KAyVpVTI2i3oP) | 3:40 | 2022-05-12 |  |
 | [FRIDAY \(Reloaded\)](https://open.spotify.com/track/3Pf28cD5MjAuQzkBnYviCj) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [FRIDAY \(Reloaded\)](https://open.spotify.com/album/3XSKnyN9nvtxA2LFQOdTCu) | 1:40 | 2021-12-27 | 2022-02-18 |
 | [Friendly Machine](https://open.spotify.com/track/1HwDXo5LrML3NYmYQiboCB) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Friendly Machine](https://open.spotify.com/album/0K4D8UZiHwXH2c1cKNXnXZ) | 3:46 | 2021-12-27 | 2022-01-19 |
 | [Froglake](https://open.spotify.com/track/0PQbOcnO2MwbqvJRQq3ksK) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [Froglake](https://open.spotify.com/album/3u1TiYQgE20HLmiL5uXrTL) | 3:16 | 2021-12-27 | 2022-02-04 |
@@ -148,7 +151,7 @@
 | [Pink Bubblegum](https://open.spotify.com/track/4jxg7aD2s4ehpjyVP0qisg) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Bubblegum](https://open.spotify.com/album/70bWJ4nB1AGuDh5hqfZ3pf) | 2:22 | 2021-12-27 | 2022-02-18 |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2022-04-19 | 2022-04-29 |
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-04-28 |  |
-| [Pink Paper](https://open.spotify.com/track/0fQlpBKc3AJPmoudVpmDje) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:13 | 2022-04-28 |  |
+| [Pink Paper](https://open.spotify.com/track/0fQlpBKc3AJPmoudVpmDje) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:13 | 2022-04-28 | 2022-05-13 |
 | [Pink Rover](https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Rover](https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq) | 1:58 | 2022-03-04 |  |
 | [Pink Ski Mask](https://open.spotify.com/track/7uxdFBbvLnYMETZ3l1ALwz) | [Blissful Euphoria](https://open.spotify.com/artist/0CAfE2aA3yXVTOBD9f80VQ) | [Pink Ski Mask](https://open.spotify.com/album/0abrEo7bpHRoAS0mbm4jqy) | 3:52 | 2022-03-04 | 2022-03-11 |
 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-11 |  |
@@ -159,6 +162,7 @@
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-12-27 | 2022-02-04 |
 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 | 2022-03-25 |  |
 | [PURGE ft\. Siiickbrain](https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PURGE ft\. Siiickbrain](https://open.spotify.com/album/5O7wZ6lbvfTi7OJexsULS1) | 2:37 | 2022-05-05 |  |
+| [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 | 2022-05-12 |  |
 | [R34l L1e$](https://open.spotify.com/track/5m6YJ2umjuFD9CK4h7Ca9w) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [REAL EYES REALIZE REAL LIES](https://open.spotify.com/album/0zJ3MbyZ0wdicmPB6fXfjA) | 3:01 | 2022-03-31 |  |
 | [RAD](https://open.spotify.com/track/1QkI7Udu7JP54oMppM4YEY) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [RAD](https://open.spotify.com/album/4jpkqp0mQwJaCxtCKsmbMf) | 2:38 | 2022-02-18 |  |
 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 | 2022-01-05 | 2022-01-19 |

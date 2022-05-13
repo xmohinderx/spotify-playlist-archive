@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Simple Plan",
+  "description": "The best new music from the wide world of punk. Cover: Viagra Boys",
   "name": "All New Punk",
   "published_playlist_ids": [
     "2haHBtUGc1WwW279RE9x3F"
@@ -536,6 +536,24 @@
     },
     {
       "album": {
+        "name": "Blood Money",
+        "url": "https://open.spotify.com/album/0eiBDyD35crWZEu8GaPHr3"
+      },
+      "artists": [
+        {
+          "name": "The Lounge Society",
+          "url": "https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Blood Money",
+      "url": "https://open.spotify.com/track/0mtTpJWvLCICDbjshlMpX0"
+    },
+    {
+      "album": {
         "name": "Bloodsoaked in Chorus",
         "url": "https://open.spotify.com/album/2VwQ53cbPBS6AW18fxV4r1"
       },
@@ -843,6 +861,24 @@
       "duration_ms": 186031,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/7iAue4sPIFYxbWLsPLyHqO"
+    },
+    {
+      "album": {
+        "name": "CHASING DAYLIGHT",
+        "url": "https://open.spotify.com/album/39sPvZlY3dkNblSzDgeMVp"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163102,
+      "name": "CHASING DAYLIGHT",
+      "url": "https://open.spotify.com/track/0GbR5S3hwd82Bk34FhjtQQ"
     },
     {
       "album": {
@@ -1558,6 +1594,24 @@
     },
     {
       "album": {
+        "name": "Open Bar",
+        "url": "https://open.spotify.com/album/06v6kNk6hfpXr8NIh8Vk6f"
+      },
+      "artists": [
+        {
+          "name": "Pkew Pkew Pkew",
+          "url": "https://open.spotify.com/artist/2wLjuls619sr3fihBDQigt"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91607,
+      "name": "Fresh Pope",
+      "url": "https://open.spotify.com/track/39iAdLPnh2ZhLJaZpLakFM"
+    },
+    {
+      "album": {
         "name": "Friendzone",
         "url": "https://open.spotify.com/album/7umNabuZvQNXFIgB2CkKKQ"
       },
@@ -1573,6 +1627,24 @@
       "duration_ms": 190786,
       "name": "Friendzone",
       "url": "https://open.spotify.com/track/2TIsg3maE0ssdgjsc8qh8O"
+    },
+    {
+      "album": {
+        "name": "FUNERAL GREY",
+        "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
     },
     {
       "album": {
@@ -1808,6 +1880,24 @@
     },
     {
       "album": {
+        "name": "GOOFY!",
+        "url": "https://open.spotify.com/album/751ZLh6i3eBwqJdbVNKekz"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota",
+          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "GOOFY!",
+      "url": "https://open.spotify.com/track/2ddmgkH269Ur0rIN8oqctt"
+    },
+    {
+      "album": {
         "name": "Gorgeous Disaster (with Kellin Quinn)",
         "url": "https://open.spotify.com/album/7iFubPKSOGh3Eb1eqf0Qau"
       },
@@ -1939,6 +2029,24 @@
       "duration_ms": 226489,
       "name": "Hanging Out with All the Wrong People",
       "url": "https://open.spotify.com/track/3sHlpMbDjgGPedrNnBd5Xb"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/4TMyuajb4NNKwYFT8a0XXB"
+      },
+      "artists": [
+        {
+          "name": "Nico Collins",
+          "url": "https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211470,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/3ejsbsJ2xG6HPHNGNHZmWf"
     },
     {
       "album": {
@@ -2724,6 +2832,24 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/6hFNbFaWAmzXxcLxEq8iPQ"
+      },
+      "artists": [
+        {
+          "name": "Pulley",
+          "url": "https://open.spotify.com/artist/1D20Qqq2BnfaShwNDb00KU"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177213,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2wJu7B7tVH5u4Mwu4fDYRb"
+    },
+    {
+      "album": {
         "name": "Lonely Bong",
         "url": "https://open.spotify.com/album/2NT4UiwdYqk9nXyCs9O9jn"
       },
@@ -3340,6 +3466,50 @@
     },
     {
       "album": {
+        "name": "Out of My Head feat. Aaron Gillespie",
+        "url": "https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174031,
+      "name": "Out of My Head feat. Aaron Gillespie",
+      "url": "https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir"
+    },
+    {
+      "album": {
+        "name": "Outcasts vs Everyone",
+        "url": "https://open.spotify.com/album/58aBP5JabGIqqPWYG9pd5q"
+      },
+      "artists": [
+        {
+          "name": "Destroy Rebuild Until God Shows",
+          "url": "https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo"
+        },
+        {
+          "name": "Brennan Savage",
+          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225640,
+      "name": "Outcasts vs Everyone",
+      "url": "https://open.spotify.com/track/4GPyVNFRDepnBPhJczVXGQ"
+    },
+    {
+      "album": {
         "name": "Panic Attack",
         "url": "https://open.spotify.com/album/35A5BlxNo9P89zsIQrAZ0x"
       },
@@ -3391,6 +3561,24 @@
       "duration_ms": 234000,
       "name": "Paterson",
       "url": "https://open.spotify.com/track/42clH2n6TI170HiE56M8b8"
+    },
+    {
+      "album": {
+        "name": "feel",
+        "url": "https://open.spotify.com/album/7B48GwRLSXbZpfrOhjbR8x"
+      },
+      "artists": [
+        {
+          "name": "stayMellow",
+          "url": "https://open.spotify.com/artist/6RhEqjb8lmpdjfU0oqCilk"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156084,
+      "name": "Payday",
+      "url": "https://open.spotify.com/track/5weGHw9KN20uSK9xDASTL5"
     },
     {
       "album": {
@@ -4172,6 +4360,24 @@
     },
     {
       "album": {
+        "name": "Speed Dial",
+        "url": "https://open.spotify.com/album/7wEZ3uiW1DrNEt51EWcI7l"
+      },
+      "artists": [
+        {
+          "name": "HUNNY",
+          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "Speed Dial",
+      "url": "https://open.spotify.com/track/0LrWMZCmxWegxbZbQccppU"
+    },
+    {
+      "album": {
         "name": "Spit It Out",
         "url": "https://open.spotify.com/album/3yPSJCm8WoRdsN0A0jtaKq"
       },
@@ -4223,6 +4429,24 @@
       "duration_ms": 163670,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5jZBhZi5ZrE3EDOdEJdHrn"
+    },
+    {
+      "album": {
+        "name": "Step Mum",
+        "url": "https://open.spotify.com/album/48LpBIwni5aHpYil0eaMTp"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Step Mum",
+      "url": "https://open.spotify.com/track/5WUWMhGe3d2Uok2AGQBBcv"
     },
     {
       "album": {
@@ -4285,6 +4509,42 @@
       "duration_ms": 227800,
       "name": "Straight North",
       "url": "https://open.spotify.com/track/0WD8ywsPXohkwI5Zcuf46j"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/0Fuf31NOgnjFO1A9jSBzJM"
+      },
+      "artists": [
+        {
+          "name": "THE BOBBY LEES",
+          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "Strange Days",
+      "url": "https://open.spotify.com/track/1bOUtTj0AZS3EloK6HAoyg"
+    },
+    {
+      "album": {
+        "name": "Strangest Faces",
+        "url": "https://open.spotify.com/album/2PQihGqcULN7NdvgqpDnLb"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "Strangest Faces",
+      "url": "https://open.spotify.com/track/2CuNZ5JXaEgpAPvTj7gpv7"
     },
     {
       "album": {
@@ -4884,6 +5144,24 @@
     },
     {
       "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/07KrQlLZk6ysQYVAURaAw1"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141405,
+      "name": "Toxic Love",
+      "url": "https://open.spotify.com/track/3M0J5hXymCJCdQEZAhE3G4"
+    },
+    {
+      "album": {
         "name": "Trembling World",
         "url": "https://open.spotify.com/album/3x3uux3mZkMcNGaRjlkkFr"
       },
@@ -4899,6 +5177,24 @@
       "duration_ms": 152069,
       "name": "Trembling World",
       "url": "https://open.spotify.com/track/2hVq8XGNalMQ40yJa7rmQD"
+    },
+    {
+      "album": {
+        "name": "Troglodyte",
+        "url": "https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199732,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9"
     },
     {
       "album": {
@@ -5104,6 +5400,24 @@
     },
     {
       "album": {
+        "name": "Welcome To Hell",
+        "url": "https://open.spotify.com/album/0fMH4osxhvgAIbZhGE1kL3"
+      },
+      "artists": [
+        {
+          "name": "black midi",
+          "url": "https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249709,
+      "name": "Welcome To Hell",
+      "url": "https://open.spotify.com/track/1PMHfsqnvnTO7mBwDA5pQL"
+    },
+    {
+      "album": {
         "name": "werewolf!",
         "url": "https://open.spotify.com/album/507wDQtCuXQ89jcJoLGzuX"
       },
@@ -5299,6 +5613,24 @@
       "duration_ms": 203435,
       "name": "WORMS (In My Brain)",
       "url": "https://open.spotify.com/track/4XQKfDwyYw0p1p8WvC2e7j"
+    },
+    {
+      "album": {
+        "name": "Wouldn't That Be Nice",
+        "url": "https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186214,
+      "name": "Wouldn't That Be Nice",
+      "url": "https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY"
     },
     {
       "album": {

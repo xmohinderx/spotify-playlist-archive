@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": " \\m/ ft. yungblud + willow ",
+  "description": " \\m/ ft new music from pale waves + MCR are BACK",
   "name": "The Locker",
   "published_playlist_ids": [
     "5ubuUW1jSmEDdBzkF6foxW"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 141352,
       "name": "AFTER THERAPY (feat. Hot Mulligan)",
       "url": "https://open.spotify.com/track/5xLv5i7u2e4uT3Ewgvkr8Z"
@@ -468,6 +468,24 @@
     },
     {
       "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/6iYZbXNprI0eswYstDgNkK"
+      },
+      "artists": [
+        {
+          "name": "LOU",
+          "url": "https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164473,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/2LS8eIMmEo6YDDJHDR058W"
+    },
+    {
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/5TzJP7CDqmtLCj7YcHPEaL"
       },
@@ -537,6 +555,24 @@
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc"
+    },
+    {
+      "album": {
+        "name": "CHASING DAYLIGHT",
+        "url": "https://open.spotify.com/album/39sPvZlY3dkNblSzDgeMVp"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163102,
+      "name": "CHASING DAYLIGHT",
+      "url": "https://open.spotify.com/track/0GbR5S3hwd82Bk34FhjtQQ"
     },
     {
       "album": {
@@ -879,7 +915,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 165680,
       "name": "Dark Times",
       "url": "https://open.spotify.com/track/5p8auu0hnmS2AlgXEfwhgk"
@@ -1494,6 +1530,24 @@
     },
     {
       "album": {
+        "name": "FUNERAL GREY",
+        "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
+    },
+    {
+      "album": {
         "name": "Funeral Song",
         "url": "https://open.spotify.com/album/7AOjSIoERrZXlLpW30HXwM"
       },
@@ -1979,7 +2033,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-01",
+      "date_removed": null,
       "duration_ms": 186480,
       "name": "I'm Not Okay (I Promise)",
       "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
@@ -2153,6 +2207,24 @@
       "duration_ms": 213239,
       "name": "Liar",
       "url": "https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN"
+    },
+    {
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170563,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI"
     },
     {
       "album": {
@@ -2841,10 +2913,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 189651,
       "name": "Partycrasher",
       "url": "https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe"
+    },
+    {
+      "album": {
+        "name": "feel",
+        "url": "https://open.spotify.com/album/7B48GwRLSXbZpfrOhjbR8x"
+      },
+      "artists": [
+        {
+          "name": "stayMellow",
+          "url": "https://open.spotify.com/artist/6RhEqjb8lmpdjfU0oqCilk"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156084,
+      "name": "Payday",
+      "url": "https://open.spotify.com/track/5weGHw9KN20uSK9xDASTL5"
     },
     {
       "album": {
@@ -3344,6 +3434,24 @@
     },
     {
       "album": {
+        "name": "Step Mum",
+        "url": "https://open.spotify.com/album/48LpBIwni5aHpYil0eaMTp"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Step Mum",
+      "url": "https://open.spotify.com/track/5WUWMhGe3d2Uok2AGQBBcv"
+    },
+    {
+      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -3395,7 +3503,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 228786,
       "name": "Stop it",
       "url": "https://open.spotify.com/track/21K4Irg91lZvVifnBxVdVZ"
@@ -3537,7 +3645,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
@@ -3631,6 +3739,24 @@
       "duration_ms": 209093,
       "name": "The Downfall Of Us All",
       "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
+    },
+    {
+      "album": {
+        "name": "The Foundations of Decay",
+        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360760,
+      "name": "The Foundations of Decay",
+      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
     },
     {
       "album": {

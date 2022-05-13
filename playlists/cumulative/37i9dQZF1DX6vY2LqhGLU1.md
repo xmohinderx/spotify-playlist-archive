@@ -4,7 +4,7 @@
 
 > Enjoy Christmas songs that are staples at the home of your favorite artists\.  Cover: Phil Wickham
 
-30 songs - 1 hr 47 min - not published yet
+30 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/4R8F66wNxVjPIlXGl9Pnll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

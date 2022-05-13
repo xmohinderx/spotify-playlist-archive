@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Philippines.",
-  "num_followers": 1134252,
+  "num_followers": 1134689,
   "original_name": "Top 50 - Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA1NTc5NjE0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA1NzAxNjU2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "sun and moon",
+        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 151507,
+      "name": "sun and moon",
+      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Rosas",
         "url": "https://open.spotify.com/album/53VhaVCwFuQvFRsWkeNnCK"
@@ -29,55 +45,7 @@
       "url": "https://open.spotify.com/track/7zjECGi00rudm6tSNJkSi1"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "sun and moon",
-        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 151507,
-      "name": "sun and moon",
-      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "Isa lang",
-        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 269256,
-      "name": "Isa lang",
-      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "Only The Young (Featured in Miss Americana)",
-        "url": "https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 157507,
-      "name": "Only The Young - Featured in Miss Americana",
-      "url": "https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Angel Baby",
         "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
@@ -93,23 +61,23 @@
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
-        "name": "Ikaw Lang",
-        "url": "https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx"
+        "name": "Isa lang",
+        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
       },
       "artists": [
         {
-          "name": "NOBITA",
-          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 263500,
-      "name": "Ikaw Lang",
-      "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
+      "duration_ms": 269256,
+      "name": "Isa lang",
+      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Pagsamo",
         "url": "https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy"
@@ -125,7 +93,23 @@
       "url": "https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Ikaw Lang",
+        "url": "https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "duration_ms": 263500,
+      "name": "Ikaw Lang",
+      "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Paraluman",
         "url": "https://open.spotify.com/album/0kQW4dCqjMfD2Vlrf6h8Cw"
@@ -141,7 +125,7 @@
       "url": "https://open.spotify.com/track/2jbf9EytR7fzpSrPWAYCf9"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Pano",
         "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
@@ -157,7 +141,7 @@
       "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "ZOOM",
         "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
@@ -173,7 +157,7 @@
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Asan Ka Na Ba",
         "url": "https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE"
@@ -189,7 +173,23 @@
       "url": "https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Only The Young (Featured in Miss Americana)",
+        "url": "https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 157507,
+      "name": "Only The Young - Featured in Miss Americana",
+      "url": "https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/63bmIgH9sS6sX5Sc7MetGq"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Tahanan",
         "url": "https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -253,39 +253,7 @@
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "Unang Sayaw",
-        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
-      },
-      "artists": [
-        {
-          "name": "NOBITA",
-          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
-        }
-      ],
-      "duration_ms": 278008,
-      "name": "Unang Sayaw",
-      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "Kagome",
-        "url": "https://open.spotify.com/album/4CIT1BsHQams5FP5RUSydD"
-      },
-      "artists": [
-        {
-          "name": "Lo ki",
-          "url": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Kagome",
-      "url": "https://open.spotify.com/track/2BDrpeAnTxCurLt38yDSrE"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Every Summertime",
         "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
@@ -301,7 +269,39 @@
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Unang Sayaw",
+        "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "duration_ms": 278008,
+      "name": "Unang Sayaw",
+      "url": "https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Kagome",
+        "url": "https://open.spotify.com/album/4CIT1BsHQams5FP5RUSydD"
+      },
+      "artists": [
+        {
+          "name": "Lo ki",
+          "url": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Kagome",
+      "url": "https://open.spotify.com/track/2BDrpeAnTxCurLt38yDSrE"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Montgomery Ricky",
         "url": "https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3"
@@ -317,23 +317,7 @@
       "url": "https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "Episode",
-        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Binibini",
-      "url": "https://open.spotify.com/track/55RMhrPQYA6vLu5YMgXxFD"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Diwata (Miss Universe Philippines 2021)",
         "url": "https://open.spotify.com/album/45ZolRka5exOabNpGPfbTo"
@@ -349,23 +333,23 @@
       "url": "https://open.spotify.com/track/152sJgmftB46Q6IsDTUDLN"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
-        "name": "Sa Susunod na Habang Buhay",
-        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 288189,
-      "name": "Sa Susunod na Habang Buhay",
-      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+      "duration_ms": 221538,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/55RMhrPQYA6vLu5YMgXxFD"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Ligaya",
         "url": "https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH"
@@ -381,7 +365,7 @@
       "url": "https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Ang Wakas (feat. Trisha Macapagal)",
         "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
@@ -401,7 +385,7 @@
       "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Nangangamba",
         "url": "https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw"
@@ -417,7 +401,23 @@
       "url": "https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/4MqzfMoVBWnM2ZyAJipzPZ"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/0xaKCWpX4CBSqwh7CQa4EG"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
@@ -485,7 +485,23 @@
       "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Strawberries & Cigarettes",
+        "url": "https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201538,
+      "name": "Strawberries & Cigarettes",
+      "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Light Switch (Instrumental)",
         "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
@@ -501,55 +517,7 @@
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "Paninindigan Kita",
-        "url": "https://open.spotify.com/album/1hz1zGc3c7U5G7mIazQ2vW"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 312234,
-      "name": "Paninindigan Kita",
-      "url": "https://open.spotify.com/track/5d9Rka4T0szdC1MobhtXrV"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 171743,
-      "name": "double take",
-      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "Letters Never Sent",
-        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Higa",
-      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Heartbreak SZN 2",
         "url": "https://open.spotify.com/album/4DMjaQksbK2Ccrevh7Qy1B"
@@ -569,7 +537,39 @@
       "url": "https://open.spotify.com/track/7C9Knp9FzLY6RwgktmW9Ge"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Paninindigan Kita",
+        "url": "https://open.spotify.com/album/1hz1zGc3c7U5G7mIazQ2vW"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 312234,
+      "name": "Paninindigan Kita",
+      "url": "https://open.spotify.com/track/5d9Rka4T0szdC1MobhtXrV"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Letters Never Sent",
+        "url": "https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Higa",
+      "url": "https://open.spotify.com/track/7gfrASeOt73YWvpIv1fU8E"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
@@ -585,7 +585,39 @@
       "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Happy w u",
         "url": "https://open.spotify.com/album/3wGtsGy8caFXddQMJau2kb"
@@ -605,23 +637,7 @@
       "url": "https://open.spotify.com/track/0EA8jl8Wje9ALRKC8Qlzyt"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Flying Solo",
         "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "I Love You So",
         "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "This Love (Taylor\u2019s Version)",
         "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -685,79 +701,7 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
-        }
-      ],
-      "duration_ms": 174646,
-      "name": "That That (prod. & feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "Strawberries & Cigarettes",
-        "url": "https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 201538,
-      "name": "Strawberries & Cigarettes",
-      "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "LIMASAWA STREET",
-        "url": "https://open.spotify.com/album/7xCcuTA3abKwxj8HwgxP7R"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 313951,
-      "name": "Araw-Araw",
-      "url": "https://open.spotify.com/track/4rG3h1QwgjSSWz8EIjCFrm"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "...When Scars Become Art",
         "url": "https://open.spotify.com/album/6R6z9djotDZUhI7psuSM6G"
@@ -777,7 +721,79 @@
       "url": "https://open.spotify.com/track/2q3LzfknBzye3xXjgiJBjS"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "LIMASAWA STREET",
+        "url": "https://open.spotify.com/album/7xCcuTA3abKwxj8HwgxP7R"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 313951,
+      "name": "Araw-Araw",
+      "url": "https://open.spotify.com/track/4rG3h1QwgjSSWz8EIjCFrm"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "duration_ms": 174646,
+      "name": "That That (prod. & feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "LOVE DIVE",
         "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
-      "added_at": "2022-05-11 10:20:14",
+      "added_at": "2022-05-12 20:14:16",
       "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
@@ -823,22 +839,6 @@
       "duration_ms": 318814,
       "name": "Kathang Isip",
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
-    },
-    {
-      "added_at": "2022-05-11 10:20:14",
-      "album": {
-        "name": "minisode 2: Thursday's Child",
-        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191038,
-      "name": "Good Boy Gone Bad",
-      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
     }
   ],
   "unique_name": "Top 50 - Philippines",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Sfera Ebbasta",
+  "description": "La playlist urban pi\u00f9 grande d'Italia. Cover: Gemitaiz",
   "name": "Plus Ultra",
   "published_playlist_ids": [],
   "tracks": [
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 185666,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/5xIlm5Scz7D2UFo6RyMMQE"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 160457,
       "name": "Eclissi (feat. Neffa)",
       "url": "https://open.spotify.com/track/1lV5bvVyZdeWuetLyX9BLH"
@@ -446,6 +446,28 @@
     },
     {
       "album": {
+        "name": "Goyard",
+        "url": "https://open.spotify.com/album/0CuTFVpBoXLYDy1Rvaa0JA"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164087,
+      "name": "Goyard",
+      "url": "https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH"
+    },
+    {
+      "album": {
         "name": "Guess Who's Back",
         "url": "https://open.spotify.com/album/2G9p4nrpfNHzjg1QLEaxTr"
       },
@@ -457,7 +479,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 193090,
       "name": "Guess Who's Back",
       "url": "https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X"
@@ -483,6 +505,32 @@
       "duration_ms": 135934,
       "name": "Italiano Anthem",
       "url": "https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190810,
+      "name": "K.O. (feat. Coez & Marracash)",
+      "url": "https://open.spotify.com/track/7sYJw5AwPw30ZyLdvuEtg0"
     },
     {
       "album": {
@@ -600,6 +648,28 @@
     },
     {
       "album": {
+        "name": "Michelle Pfeiffer (feat. Tony Effe)",
+        "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180774,
+      "name": "Michelle Pfeiffer (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
+    },
+    {
+      "album": {
         "name": "MOLOTOV",
         "url": "https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu"
       },
@@ -615,6 +685,28 @@
       "duration_ms": 160204,
       "name": "MOLOTOV",
       "url": "https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl"
+    },
+    {
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe"
+      },
+      "artists": [
+        {
+          "name": "PSICOLOGI",
+          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
+        },
+        {
+          "name": "tha Supreme",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "NLFP (feat. tha Supreme)",
+      "url": "https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf"
     },
     {
       "album": {
@@ -637,7 +729,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 144000,
       "name": "No Joke (feat. MadMan)",
       "url": "https://open.spotify.com/track/3PFDJgtrBif1ORn5As2hly"
@@ -685,6 +777,24 @@
       "duration_ms": 122373,
       "name": "No wallet (feat. Marracash)",
       "url": "https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee"
+    },
+    {
+      "album": {
+        "name": "Non \u00e8 Easy",
+        "url": "https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164657,
+      "name": "Non \u00e8 Easy",
+      "url": "https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg"
     },
     {
       "album": {
@@ -790,6 +900,28 @@
     },
     {
       "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "Pornstar (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2r0uxpCJHJC6KDNEVNQAM2"
+    },
+    {
+      "album": {
         "name": "Samba",
         "url": "https://open.spotify.com/album/5zYWiUPPAQ78JnCAHMZFK9"
       },
@@ -885,10 +1017,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 219755,
       "name": "Signore del bosco",
       "url": "https://open.spotify.com/track/0stcTp1Ngt9UDvRjRbb4tw"
+    },
+    {
+      "album": {
+        "name": "Sinfonia della distruzione",
+        "url": "https://open.spotify.com/album/47EBgIVzbzrlfAZ4Aw4a5a"
+      },
+      "artists": [
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176612,
+      "name": "Sinfonia della distruzione",
+      "url": "https://open.spotify.com/track/0ZmgMHj47xZ0Hb780sq8Lm"
     },
     {
       "album": {
@@ -947,7 +1097,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 153370,
       "name": "Solito posto, Soliti guai",
       "url": "https://open.spotify.com/track/0LSrShoKn7HNAfPRQDLUAk"
@@ -1127,7 +1277,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 218367,
       "name": "\u221e LOVE (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/2VyZWWKamfq7kVnh5gMgPd"

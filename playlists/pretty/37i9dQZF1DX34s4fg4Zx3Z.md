@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Vang; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,503 likes - 95 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,516 likes - 95 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 67 | [CtrlN](https://open.spotify.com/track/07yzf6FmXnot389GJL1P2N) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [CtrlN](https://open.spotify.com/album/16QqMSjPL2EqmulDNahT0O) | 3:17 |
 | 68 | [Còn Nhiều Điều Chưa Nói](https://open.spotify.com/track/1DjjnmJNHyAeGgBLgOkQNm) | [Yang E](https://open.spotify.com/artist/2NjLqE71ijKZQUNpl9K9Xm), [Minh Gao](https://open.spotify.com/artist/2f1FBYqyZKn71Sxw9XIAbI), [GEN JI](https://open.spotify.com/artist/6V7FQsEghJubR2fGMEm0Kb), [Ha Luong](https://open.spotify.com/artist/4ilZcvTwe2ObiHNycwca1o) | [Còn Nhiều Điều Chưa Nói](https://open.spotify.com/album/0yHR1va1APaBk1CHK4hmP4) | 3:45 |
 | 69 | [Anh Đã Lạc Vào \- Truzg Remix](https://open.spotify.com/track/5CFWfYiz9qPrjl6icMHNgr) | [Truzg](https://open.spotify.com/artist/5Jy2etMAUSHY2wluQAypeg) | [Anh Đã Lạc Vào \(Truzg Remix\)](https://open.spotify.com/album/4fjMO4WTH01gAEH5uajhXY) | 3:33 |
-| 70 | [Anh À Anh Ơi](https://open.spotify.com/track/4q6OAICS9WuSaiXhusr6Q5) | [Đào Kỳ Anh](https://open.spotify.com/artist/5leHEqwoxM8Tmlg1wlRi5o), [Gusty](https://open.spotify.com/artist/1EGzWaoNjgTZAYZgB1EwxW) | [Anh À Anh Ơi](https://open.spotify.com/album/7rolDH18E0i7qftuw9BHMM) | 3:11 |
+| 70 | [Anh À Anh Ơi](https://open.spotify.com/track/4q6OAICS9WuSaiXhusr6Q5) | [Đào Kỳ Anh](https://open.spotify.com/artist/5leHEqwoxM8Tmlg1wlRi5o), [Gusty](https://open.spotify.com/artist/1Ay86222RVMUbcdDZoOWTt) | [Anh À Anh Ơi](https://open.spotify.com/album/7rolDH18E0i7qftuw9BHMM) | 3:11 |
 | 71 | [Có Ai Làm Mi Em Ướt Nhòe](https://open.spotify.com/track/2appr1D3yRRBmPQ2doI7V2) | [FiGDee](https://open.spotify.com/artist/0z1BxmlQBMGmM99NI8tlAd) | [Có Ai Làm Mi Em Ướt Nhòe](https://open.spotify.com/album/3uM7n9OhY8WuJ1llN0M2qz) | 4:02 |
 | 72 | [Em Không Khóc \(feat\. Vũ Phụng Tiên\)](https://open.spotify.com/track/4N99EuIjwSSFFFMDfTeOLU) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj) | [Em Không Khóc \(feat\. Vũ Phụng Tiên\)](https://open.spotify.com/album/5jDIXIxWf5W0uqPUuoKxZU) | 4:29 |
 | 73 | [Tựa Đầu Vào Vibe](https://open.spotify.com/track/7cq2OXx6RLe1gI1YIaj9vn) | [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm) | [Tựa Đầu Vào Vibe](https://open.spotify.com/album/3BU2ybxIb9b80gIe7MjMyh) | 2:51 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 94 | [BABI CHO ANH MỘNG MER](https://open.spotify.com/track/7k0j1hALeDvdCshyo1CpRF) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [DAGIAM](https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg) | [BABI CHO ANH MỘNG MER](https://open.spotify.com/album/5XxY2OkSjmDPJRWLEUQMim) | 3:23 |
 | 95 | [Yêu Đơn Phương Là Gì?](https://open.spotify.com/track/6ilLvv7xWKC2Mvdfb9UkKw) | [h0n](https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS) | [Yêu Đơn Phương Là Gì](https://open.spotify.com/album/45TCvo7IOTYNjFP5VaYBIo) | 3:35 |
 
-Snapshot ID: `MTY1MjMxNjIxOSwwMDAwMDJlNzAwMDAwMTgwYjViOGE3Y2IwMDAwMDE4MDgyNzk5OTUz`
+Snapshot ID: `MTY1MjM5Mzk2NywwMDAwMDJlODAwMDAwMTgwYmE1YWZmZmMwMDAwMDE4MDgyNzk5OTUz`

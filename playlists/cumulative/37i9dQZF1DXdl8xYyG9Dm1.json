@@ -460,6 +460,24 @@
     },
     {
       "album": {
+        "name": "\"EHH Baby\" The Big Bang Theory",
+        "url": "https://open.spotify.com/album/06obGxxDKWf1Y7KqSILWIo"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Deposit",
+      "url": "https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw"
+    },
+    {
+      "album": {
         "name": "Arrested by Love",
         "url": "https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8"
       },
@@ -479,7 +497,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 181086,
       "name": "DRK SKN",
       "url": "https://open.spotify.com/track/15LjBARGx20a8qAiNF4T0H"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 152000,
       "name": "Rude",
       "url": "https://open.spotify.com/track/7f83o6VIhOcIcHxzr7Cj4a"
@@ -1985,6 +2003,36 @@
       "duration_ms": 194606,
       "name": "Winning",
       "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
+    },
+    {
+      "album": {
+        "name": "Xei di Kor",
+        "url": "https://open.spotify.com/album/2pQIktZ9WITx8DYg1x972H"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00e9tu",
+          "url": "https://open.spotify.com/artist/7I8rcF6hFrT3Gut60nTvJe"
+        },
+        {
+          "name": "Chullage",
+          "url": "https://open.spotify.com/artist/5yTuBrbKpiwjRoXGFAdnQc"
+        },
+        {
+          "name": "Galissa",
+          "url": "https://open.spotify.com/artist/2hyxS9Fo8eD8wK6qblytf2"
+        },
+        {
+          "name": "Mick Trovoada",
+          "url": "https://open.spotify.com/artist/3Y4xlnWdJAY8BJu89QVXbc"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Xei di Kor",
+      "url": "https://open.spotify.com/track/045xGstsKiBT3ozUTAfnzZ"
     },
     {
       "album": {

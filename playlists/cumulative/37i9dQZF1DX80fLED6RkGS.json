@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy?si=jPbvdDuzSBa7eplGIlGCGw\">Breeder LW</a> and <a href=\"https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u?si=5SpYoiuSRP2Oe9N-QFBG8Q\">Mejja</a>",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV?si=6TVBxH48STakqp-HXKC-4A\">Swat Matire</a> ",
   "name": "Gengetone Fire",
   "published_playlist_ids": [
     "7MvfVmuw7tyjVzEqBd5mPq"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 201471,
       "name": "Abdala",
       "url": "https://open.spotify.com/track/43D674wLlizCahWW85RCgl"
@@ -728,6 +728,28 @@
     },
     {
       "album": {
+        "name": "Down Low",
+        "url": "https://open.spotify.com/album/7x7nlwJ0EAuu3befR7UjKi"
+      },
+      "artists": [
+        {
+          "name": "Kingpheezle",
+          "url": "https://open.spotify.com/artist/1sgjYTcJndjhZuh24qI8Ma"
+        },
+        {
+          "name": "mbogi genje",
+          "url": "https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Down Low",
+      "url": "https://open.spotify.com/track/2EpijqUEhO9qt04wLXR49F"
+    },
+    {
+      "album": {
         "name": "Dream Ya Kutoka Kwa Block",
         "url": "https://open.spotify.com/album/18bVr78ktBeu9OYpUGKucW"
       },
@@ -791,6 +813,28 @@
       "duration_ms": 204000,
       "name": "Ex",
       "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
+    },
+    {
+      "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/68hZRVtPpaP21V23PidWKQ"
+      },
+      "artists": [
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196075,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/4IaAncOtb1tpdS5xfML60h"
     },
     {
       "album": {
@@ -1161,6 +1205,24 @@
       "duration_ms": 152999,
       "name": "Kamkora",
       "url": "https://open.spotify.com/track/3Dvxpka8fCFTidzANF4Xpm"
+    },
+    {
+      "album": {
+        "name": "Kanuthu",
+        "url": "https://open.spotify.com/album/6cufmY8u4KyFzh5HZvfQBB"
+      },
+      "artists": [
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184056,
+      "name": "Kanuthu",
+      "url": "https://open.spotify.com/track/06kYoTv4WcXaSjXazTUQNp"
     },
     {
       "album": {
@@ -2211,7 +2273,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 216764,
       "name": "Patanisho",
       "url": "https://open.spotify.com/track/0jOwcUbrAtiuGsXU8vGtRj"
@@ -2297,7 +2359,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 221052,
       "name": "Pesa Pombe Wanawake",
       "url": "https://open.spotify.com/track/4saDzv3zkl9h4BsB7q74n1"
@@ -2429,10 +2491,36 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 228075,
       "name": "Raha",
       "url": "https://open.spotify.com/track/0jZkHR8s7KWruFnyzFlnDo"
+    },
+    {
+      "album": {
+        "name": "Raha Jipe Mwenyewe",
+        "url": "https://open.spotify.com/album/6neXbU2d5Nl9sxTO9HX2Qz"
+      },
+      "artists": [
+        {
+          "name": "Juacali",
+          "url": "https://open.spotify.com/artist/5EcQLJLOc9AiB2fc6ljaus"
+        },
+        {
+          "name": "Timmytdat",
+          "url": "https://open.spotify.com/artist/6lLdsA1j7GVrCrlYyg0sYp"
+        },
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Raha Jipe Mwenyewe",
+      "url": "https://open.spotify.com/track/3kPlsLexoRwR3UtTTBt9sk"
     },
     {
       "album": {
@@ -3023,7 +3111,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 198118,
       "name": "Taliban",
       "url": "https://open.spotify.com/track/3kBY3OpWIMmUWwNH8GoN9t"
@@ -3235,6 +3323,28 @@
       "duration_ms": 175203,
       "name": "Ulimi Yangu",
       "url": "https://open.spotify.com/track/1q1gUECAGekO5jrrOCfIzW"
+    },
+    {
+      "album": {
+        "name": "The African Sound Queen",
+        "url": "https://open.spotify.com/album/4dcftcvrCtDF2RfLYJD5tD"
+      },
+      "artists": [
+        {
+          "name": "Nasha Travis",
+          "url": "https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr"
+        },
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211252,
+      "name": "Unaonaje",
+      "url": "https://open.spotify.com/track/3fBqp1yQcxVy16aLHcl6mg"
     },
     {
       "album": {

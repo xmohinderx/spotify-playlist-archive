@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-110 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/5d9UavNO8FyfxzAd916POx)
+111 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/5d9UavNO8FyfxzAd916POx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 | 2022-01-28 |  |
 | [Guardián](https://open.spotify.com/track/3gruOqIpPBQq2xmmOOPfr0) | [Miró](https://open.spotify.com/artist/2FvqeCJVyEjdfS2KqlYhi6) | [A Través del Reflejo](https://open.spotify.com/album/4t3Q6v7tbLGSlxSJalOL8r) | 4:18 | 2022-04-26 |  |
 | [Gustándonos](https://open.spotify.com/track/37NFt4wrkwtwzaB9pa33AJ) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Gustándonos](https://open.spotify.com/album/7f5cU63SOqRkGTzEIWaj5D) | 3:08 | 2022-01-28 |  |
+| [Góndola \- Live Session](https://open.spotify.com/track/1dOYmzJmvUTOAShmw6pT7V) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o), [Ana Rizo](https://open.spotify.com/artist/3jD6zAJRKQkylpOsaAVCiz) | [Góndola](https://open.spotify.com/album/4ETJicMeq2u0te2o6JxBdY) | 5:40 | 2022-05-12 |  |
 | [Hablando Lento](https://open.spotify.com/track/3f2wEMtr710fw69GQHoq0i) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/7qo7uFnFwmf6otdyn4irRn) | 3:36 | 2022-01-28 |  |
 | [Hawái \(Post\-Punk\)](https://open.spotify.com/track/6QuHQ5AVWQwuO4Xssh7yz7) | [Saúl De los Santos](https://open.spotify.com/artist/3nlOVgapNG6OFRYxtTrIPA) | [Hawái \(Post\-Punk\)](https://open.spotify.com/album/71Igp4XPm15cNCXYdCVxmU) | 3:28 | 2022-04-26 |  |
 | [Historia](https://open.spotify.com/track/0t0n9or0W1VHgxQmsM6gBt) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO) | [Cosmovisiones](https://open.spotify.com/album/1YUAGs2PPckzt55aL9Tzdm) | 3:17 | 2022-04-26 |  |

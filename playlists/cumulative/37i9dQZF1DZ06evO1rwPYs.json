@@ -61,7 +61,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 296720,
       "name": "Ay Mi Cuba",
       "url": "https://open.spotify.com/track/50yx0j0kA2yNBSbtCPdFwK"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 180207,
       "name": "Az\u00facar, Az\u00facar",
       "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 331466,
       "name": "Canto A La Habana",
       "url": "https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR"
@@ -225,6 +225,28 @@
       "duration_ms": 183826,
       "name": "Cao, Cao, Man\u00ed Picao",
       "url": "https://open.spotify.com/track/6QX6sNhLiptL1o5q55OXzW"
+    },
+    {
+      "album": {
+        "name": "Mi Diario Musical",
+        "url": "https://open.spotify.com/album/57eQICbekhHUc8WXBEZpkD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161386,
+      "name": "Caramelos",
+      "url": "https://open.spotify.com/track/76kSyrC39OifBZweY6JdP8"
     },
     {
       "album": {
@@ -333,7 +355,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 192173,
       "name": "Cuando Tu Me Quieras",
       "url": "https://open.spotify.com/track/1moU3Ijx975TBR7aUP22rv"
@@ -1189,7 +1211,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 326560,
       "name": "La Voz De La Experiencia",
       "url": "https://open.spotify.com/track/6vTT1lYL5ZQxw2NWzrGa9Q"
@@ -1349,7 +1371,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 171826,
       "name": "Mu\u00f1ecas Del Cha Cha Ch\u00e1",
       "url": "https://open.spotify.com/track/4TrKWjMFuxDkSvpK8z9T7a"
@@ -1461,7 +1483,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 186106,
       "name": "Pa La Paloma",
       "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
@@ -1503,7 +1525,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 220453,
       "name": "Pachito Ech\u00e9",
       "url": "https://open.spotify.com/track/35KiYF3wTuoVhVYcFPWNWH"
@@ -1683,7 +1705,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 150506,
       "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
       "url": "https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO"
@@ -1793,7 +1815,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 291240,
       "name": "Saz\u00f3n",
       "url": "https://open.spotify.com/track/5zUxfJLKT4bLFWR1ck6evc"
@@ -1917,7 +1939,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 163666,
       "name": "Tuya, Y M\u00e1s Que Tuya",
       "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN?si=Xdcl_sVfQmuVgfl7ca4l6A\"> Caleb Awiti </a>",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR?si=J6WV5Q96QIusc5clVP6eSg\"> NJERI </a>",
   "name": "NairoBae",
   "published_playlist_ids": [
     "05RBXY2jPO9XncKwkUOGKt"
@@ -250,6 +250,28 @@
     },
     {
       "album": {
+        "name": "D.R.U.G.S (Dear.Romance.U.Got.Sweet)",
+        "url": "https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8"
+      },
+      "artists": [
+        {
+          "name": "NJERI",
+          "url": "https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR"
+        },
+        {
+          "name": "Albeezy",
+          "url": "https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205953,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/502TRnEIDjfh4PRXRZ7dpk"
+    },
+    {
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/0KfDwp9CEl1LbqZgQE2DmM"
       },
@@ -341,7 +363,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 208000,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4N7Hgi6ED70sEQvahUDz9p"

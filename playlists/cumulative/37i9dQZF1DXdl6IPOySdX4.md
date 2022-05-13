@@ -4,7 +4,7 @@
 
 > you up?
 
-255 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
+256 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2022-02-04 |  |
 | [Call Out My Name](https://open.spotify.com/track/4MPTj8lMMvxLwT3EwuXFop) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69) | 3:48 | 2022-03-04 | 2022-04-20 |
 | [Call U Tomorrow](https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/4rvVYGqXj3IPKI98aQV6Rf) | 3:06 | 2022-02-04 | 2022-05-08 |
-| [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2022-02-04 |  |
+| [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2022-02-04 | 2022-05-13 |
 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 | 2022-02-11 | 2022-04-21 |
 | [Can't Be Love](https://open.spotify.com/track/5FMnEM2HhI6OqyXeRt1o0U) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Can't Be Love](https://open.spotify.com/album/0j896bKYQQ6tMcNkJvSvk1) | 2:26 | 2022-03-25 | 2022-04-13 |
 | [Candy Drip](https://open.spotify.com/track/3bP9pv7uHgCN4mzmelCIjO) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candy Drip](https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV) | 4:39 | 2022-03-25 | 2022-04-21 |
@@ -65,6 +65,7 @@
 | [DFMU](https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [DFMU](https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k) | 3:17 | 2022-02-11 | 2022-04-16 |
 | [Die For You](https://open.spotify.com/track/2bk3kDxxFLHafZDuw06Fxs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Highlights](https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp) | 4:20 | 2022-02-04 |  |
 | [dirty laundry](https://open.spotify.com/track/0qgZvYWLIqDn0tXimF8gPa) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 2:45 | 2022-02-04 |  |
+| [DJ](https://open.spotify.com/track/29wNcK0QMe1MCASeDfdGpc) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 | 2022-05-12 |  |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-03-25 | 2022-04-16 |
 | [do re mi](https://open.spotify.com/track/3sTCfUmYXSVWDacTd6uMbQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [do re mi](https://open.spotify.com/album/2pVmCOuvfn3SbDgR2QW3lW) | 3:32 | 2022-02-04 | 2022-04-12 |
 | [Don't Let Me Down \(feat\. Khalid\)](https://open.spotify.com/track/2cSiyndkQZRPmYOfrk9WlC) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Don't Let Me Down / All to You](https://open.spotify.com/album/1NkkXbEvt3lhsVdgYYf8tn) | 2:56 | 2022-04-01 | 2022-04-19 |
@@ -144,7 +145,7 @@
 | [Love Music](https://open.spotify.com/track/4xgIZG0FJG9Z81ku8l9P3I) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Love Music](https://open.spotify.com/album/4sfHMXmUi40x1bZvoMymzp) | 2:57 | 2022-02-11 | 2022-04-16 |
 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 | 2022-04-01 | 2022-04-04 |
 | [Love Surrounds You](https://open.spotify.com/track/3GqZnm8ONy68sMqTlxFrvk) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Love Surrounds You](https://open.spotify.com/album/2APHnPdwXxcfRwy1d17U6A) | 3:19 | 2022-03-25 | 2022-04-21 |
-| [Love To Dream](https://open.spotify.com/track/6Q9IUoBTNLHgBib1FSFGbj) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:36 | 2022-02-04 |  |
+| [Love To Dream](https://open.spotify.com/track/6Q9IUoBTNLHgBib1FSFGbj) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:36 | 2022-02-04 | 2022-05-13 |
 | [Loveeeeeee Song](https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:16 | 2022-02-04 |  |
 | [LOYAL \(feat\. Drake\)](https://open.spotify.com/track/3LnJM1B5Mjgx5LfT9plXUU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYMOBILE](https://open.spotify.com/album/4QTfWxMZjLRhQ9zxomi4t4) | 3:17 | 2022-03-25 | 2022-04-17 |
 | [Luv U Do](https://open.spotify.com/track/4QPFQgKBwvUARsuWfI8P3o) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Luv U Do](https://open.spotify.com/album/4QjKUO5qLoLK6GZ99d8lhU) | 2:56 | 2022-03-25 | 2022-04-21 |
@@ -228,7 +229,7 @@
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2022-02-04 |  |
 | [Talk Is Cheap](https://open.spotify.com/track/3WVIlSndOtSUIzfk39oYMS) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built On Glass](https://open.spotify.com/album/6O91XI5PunVhnCOXqEFIyi) | 3:38 | 2022-03-28 | 2022-04-17 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA) | 3:16 | 2022-02-11 | 2022-05-08 |
-| [Teenage Fever](https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:39 | 2022-02-04 | 2022-05-10 |
+| [Teenage Fever](https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:39 | 2022-02-04 |  |
 | [Tell Me The Truth](https://open.spotify.com/track/0hdiC2o5agqlpH9G9dqbGg) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Tell Me The Truth](https://open.spotify.com/album/3zGWVpOZH5mpbT3UkC10Wa) | 4:02 | 2022-04-11 | 2022-04-20 |
 | [Tesla](https://open.spotify.com/track/1T3ht7FzIsyZy0TJHpYQl5) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Feed\. \(Deluxe\)](https://open.spotify.com/album/0ZKZcUxIEwElmdoBfDsKbe) | 2:39 | 2022-03-25 | 2022-04-21 |
 | [TEST DRIVE](https://open.spotify.com/track/1DMEzmAoQIikcL52psptQL) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:59 | 2022-03-25 | 2022-04-21 |

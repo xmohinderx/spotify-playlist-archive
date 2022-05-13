@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,372 likes - 56 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,400 likes - 56 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 17 | [Runaway](https://open.spotify.com/track/1itgrD1BIDPArSA5bPiWEG) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Magnus Klausen](https://open.spotify.com/artist/0pTklYPGOTeu00nkkr5QeM) | [Runaway](https://open.spotify.com/album/1c0f27jKckR5MkaCjHVtxy) | 2:14 |
 | 18 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 | 19 | [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 |
-| 20 | [Lovespell](https://open.spotify.com/track/37w7whht8ii8yxGfqkSf1d) | [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ), [Eternity Forever](https://open.spotify.com/artist/57jIhbre5LNTiR4Pr60wUs) | [Lovespell](https://open.spotify.com/album/0StAahiWVzY6SqoAKl26CR) | 3:18 |
+| 20 | [Lovespell](https://open.spotify.com/track/37w7whht8ii8yxGfqkSf1d) | [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [Lovespell](https://open.spotify.com/album/0StAahiWVzY6SqoAKl26CR) | 3:18 |
 | 21 | [Talk In The Morning](https://open.spotify.com/track/4yxaiawEicI6fJHlGp5wAQ) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Breathe](https://open.spotify.com/album/6q39FZTCwg8y91KKQUTBq5) | 3:37 |
 | 22 | [Flutter](https://open.spotify.com/track/2OniwRnM4rjRGFEDGsoJWP) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Raelee Nikole](https://open.spotify.com/artist/4ktrs83Hjyo4evbF4adTrb) | [Flutter](https://open.spotify.com/album/4tKv3harZx5t9DXBj8bXMi) | 3:12 |
 | 23 | [Something More](https://open.spotify.com/track/1WUenMBQLpOkvu1lc9AbFg) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Butcher Brown](https://open.spotify.com/artist/1EjwcoJN7uzJPuv1vbf2qk) | [Juicebox](https://open.spotify.com/album/7LkpnXXvh8x6EU4mRHgFQW) | 5:03 |

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 230261,
       "name": "1994",
       "url": "https://open.spotify.com/track/2YJbRV3BW3VXtJ2BBxeIYH"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 216156,
       "name": "Alternate Ending",
       "url": "https://open.spotify.com/track/1wYPKJwiW1RG3IRGQ9iqmz"
@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Been A Son",
+        "url": "https://open.spotify.com/album/0wA9TFW8PuxkzZFRaloARi"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104960,
+      "name": "Been A Son",
+      "url": "https://open.spotify.com/track/0nW9VjMk9bKO0nb7H6uWyl"
+    },
+    {
+      "album": {
         "name": "Below",
         "url": "https://open.spotify.com/album/1NwUwZuKipOdFuXEv0pI0M"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 192922,
       "name": "Dark Comedy",
       "url": "https://open.spotify.com/track/4Rw04eaMZanpPyW2j8eIvY"
@@ -455,6 +473,24 @@
       "duration_ms": 119370,
       "name": "Didn't Want It",
       "url": "https://open.spotify.com/track/1vznlLp8uSjB4fyd81NoXE"
+    },
+    {
+      "album": {
+        "name": "Don't be upset",
+        "url": "https://open.spotify.com/album/6o0nk9SWnBQIHSXa5Oobw0"
+      },
+      "artists": [
+        {
+          "name": "Leftover Lemons",
+          "url": "https://open.spotify.com/artist/4jHu0kjRbILmAyYOi3yPNp"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233964,
+      "name": "Don't be upset",
+      "url": "https://open.spotify.com/track/6Ae21wYomlvAYvfMUvKFW0"
     },
     {
       "album": {
@@ -739,7 +775,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 157396,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/3T1oZe5cwqNBWjqZZqlGhv"
@@ -854,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Hypernormal",
+        "url": "https://open.spotify.com/album/34GLRWHsaJy3GAoCfWICAC"
+      },
+      "artists": [
+        {
+          "name": "Liotta Seoul",
+          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215168,
+      "name": "Hypernormal",
+      "url": "https://open.spotify.com/track/3P4eec0tyCfhmZcRpCFscc"
+    },
+    {
+      "album": {
         "name": "I'm No Good (At Any Sports)",
         "url": "https://open.spotify.com/album/3UzIfJF2KKWAXb3JyFE7Nu"
       },
@@ -955,7 +1009,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 271978,
       "name": "Lost Meaning",
       "url": "https://open.spotify.com/track/3lp7Podb05vFu4ghQ4AWjV"
@@ -973,7 +1027,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 176119,
       "name": "Make A Dime",
       "url": "https://open.spotify.com/track/7n7W5gnt66DmY0jVPDD3qp"
@@ -1178,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "Rise and Fall",
+        "url": "https://open.spotify.com/album/3QRuAGn2mtn0lCZTKN2Ngs"
+      },
+      "artists": [
+        {
+          "name": "She Burns Red",
+          "url": "https://open.spotify.com/artist/5axwjwMP8gsMNEOvzbE6DP"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208845,
+      "name": "Rise and Fall",
+      "url": "https://open.spotify.com/track/13RCIdtbQgI9E6Ig6kA6ES"
+    },
+    {
+      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/0KT8bKlYZn0TJ8FK5hV7oB"
       },
@@ -1189,7 +1261,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 287072,
       "name": "Shade",
       "url": "https://open.spotify.com/track/2jmPyZCJ2MoRO8kPvynTw5"
@@ -1268,6 +1340,24 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1YIXlEf8fw0Ik3lktFaDBB"
+      },
+      "artists": [
+        {
+          "name": "Two Phase Commit",
+          "url": "https://open.spotify.com/artist/4BQ63niF5n7SbQfiR3OtZc"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208712,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5oltjgZYTzyuNfICLVg4rZ"
+    },
+    {
+      "album": {
         "name": "Pollen",
         "url": "https://open.spotify.com/album/74nbOeJlCrxhAkyPdjqrXj"
       },
@@ -1283,6 +1373,24 @@
       "duration_ms": 166437,
       "name": "Spill",
       "url": "https://open.spotify.com/track/19tv5Z7lctSC57mXFD0qQx"
+    },
+    {
+      "album": {
+        "name": "Spit It Out",
+        "url": "https://open.spotify.com/album/1KJA9YhgxH9AXymMoOoIsS"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246167,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/4aHOrIMyr64uSpXaNzvNFr"
     },
     {
       "album": {

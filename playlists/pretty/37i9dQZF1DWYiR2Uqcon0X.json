@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 673532,
+  "num_followers": 673600,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjMxNzUxMCwwMDAwMDAwMDhmZGQ2MjUxM2FlOWEzYjE3NjM4NGExMThjZDBiZGMz",
+  "snapshot_id": "MTY1MjQwNDI0MiwwMDAwMDAwMDg4Y2MwMDk5ZDYzNWRkZjgxNmVlN2I4YzY5MzY2ODY3",
   "tracks": [
     {
       "added_at": "2021-10-08 05:18:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Sunday Drive",
-        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Sunday Drive",
-      "url": "https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
         "name": "Oh, Mother",
         "url": "https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL"
       },
@@ -87,42 +71,6 @@
       "duration_ms": 156386,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
-    },
-    {
-      "added_at": "2021-07-16 02:12:30",
-      "album": {
-        "name": "Wild Honey",
-        "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Wild Honey",
-      "url": "https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V"
-    },
-    {
-      "added_at": "2021-07-23 05:09:31",
-      "album": {
-        "name": "Small Town Hypocrite",
-        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 241899,
-      "name": "Small Town Hypocrite",
-      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -157,20 +105,40 @@
       "url": "https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU"
     },
     {
-      "added_at": "2021-06-25 04:01:43",
+      "added_at": "2021-07-23 05:09:31",
       "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
       "artists": [
         {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
+      "duration_ms": 241899,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
+    },
+    {
+      "added_at": "2021-07-16 02:12:30",
+      "album": {
+        "name": "Wild Honey",
+        "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Wild Honey",
+      "url": "https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V"
     },
     {
       "added_at": "2021-10-08 05:18:00",
@@ -187,6 +155,38 @@
       "duration_ms": 205498,
       "name": "Hold Onto Me",
       "url": "https://open.spotify.com/track/46lQ3fRXyOaugGZkeFr6Gd"
+    },
+    {
+      "added_at": "2021-06-25 04:01:43",
+      "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Sunday Drive",
+        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Sunday Drive",
+      "url": "https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL"
     },
     {
+      "added_at": "2021-07-30 04:44:01",
+      "album": {
+        "name": "A House Made of You",
+        "url": "https://open.spotify.com/album/1lbYoxRtqskeEYucArTbTj"
+      },
+      "artists": [
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "duration_ms": 204033,
+      "name": "A House Made of You",
+      "url": "https://open.spotify.com/track/6j8pohtxOHlzWiFoDrLuvm"
+    },
+    {
       "added_at": "2021-10-08 05:18:00",
       "album": {
         "name": "Chasing After You (with Maren Morris)",
@@ -245,22 +261,6 @@
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
-      "added_at": "2021-07-30 04:44:01",
-      "album": {
-        "name": "A House Made of You",
-        "url": "https://open.spotify.com/album/1lbYoxRtqskeEYucArTbTj"
-      },
-      "artists": [
-        {
-          "name": "Michael Shynes",
-          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
-        }
-      ],
-      "duration_ms": 204033,
-      "name": "A House Made of You",
-      "url": "https://open.spotify.com/track/6j8pohtxOHlzWiFoDrLuvm"
-    },
-    {
       "added_at": "2021-04-30 04:02:00",
       "album": {
         "name": "what do i",
@@ -275,22 +275,6 @@
       "duration_ms": 223776,
       "name": "what do i",
       "url": "https://open.spotify.com/track/2LTKYNBYZMOcyQNtRXUUxl"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
-        "name": "Because Of Yours",
-        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Because Of Yours",
-      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -311,18 +295,18 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Weed Garden",
-        "url": "https://open.spotify.com/album/1xKEX6KhO9pRM85WT7aOel"
+        "name": "Because Of Yours",
+        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Autumn Town Leaves",
-      "url": "https://open.spotify.com/track/4xI1VwZa8u3ymeS8hsHKed"
+      "duration_ms": 240837,
+      "name": "Because Of Yours",
+      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -339,6 +323,22 @@
       "duration_ms": 264161,
       "name": "Wings",
       "url": "https://open.spotify.com/track/3XOo21A0I4A8RXSyH8s7qA"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Weed Garden",
+        "url": "https://open.spotify.com/album/1xKEX6KhO9pRM85WT7aOel"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Autumn Town Leaves",
+      "url": "https://open.spotify.com/track/4xI1VwZa8u3ymeS8hsHKed"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Wrong Side of the River",
-        "url": "https://open.spotify.com/album/3XnKFhVIK0or9kKjBQF6PR"
-      },
-      "artists": [
-        {
-          "name": "Rob Baird",
-          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Run of Good Luck",
-      "url": "https://open.spotify.com/track/28as0lgulKikhNu8TZeb66"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
         "name": "Find Me Here",
         "url": "https://open.spotify.com/album/2tHSqpBPk7BusITOcdfaS1"
       },
@@ -469,20 +453,20 @@
       "url": "https://open.spotify.com/track/4ftYIbHbKSVZWyrveFHCNu"
     },
     {
-      "added_at": "2021-10-08 05:18:00",
+      "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "St. Louis",
-        "url": "https://open.spotify.com/album/60cDIqNOMARdhyDdoc4oU3"
+        "name": "Wrong Side of the River",
+        "url": "https://open.spotify.com/album/3XnKFhVIK0or9kKjBQF6PR"
       },
       "artists": [
         {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+          "name": "Rob Baird",
+          "url": "https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt"
         }
       ],
-      "duration_ms": 274964,
-      "name": "St. Louis",
-      "url": "https://open.spotify.com/track/6Sd0b842UWw6WrZ9Kf4lF5"
+      "duration_ms": 225400,
+      "name": "Run of Good Luck",
+      "url": "https://open.spotify.com/track/28as0lgulKikhNu8TZeb66"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -501,6 +485,22 @@
       "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
+      "added_at": "2021-10-08 05:18:00",
+      "album": {
+        "name": "St. Louis",
+        "url": "https://open.spotify.com/album/60cDIqNOMARdhyDdoc4oU3"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 274964,
+      "name": "St. Louis",
+      "url": "https://open.spotify.com/track/6Sd0b842UWw6WrZ9Kf4lF5"
+    },
+    {
       "added_at": "2021-04-30 04:02:00",
       "album": {
         "name": "Puxico",
@@ -515,6 +515,38 @@
       "duration_ms": 268160,
       "name": "This Town Still Talks About You",
       "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Dark Holler Pop",
+        "url": "https://open.spotify.com/album/3dDCKwTtY4mEQDA1iWRbqs"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 266997,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/6lg1rLyW6bDMxZVesz0WAO"
+    },
+    {
+      "added_at": "2021-08-27 04:01:00",
+      "album": {
+        "name": "A Place",
+        "url": "https://open.spotify.com/album/19Gcuk3CiOOlzIi7B2MTnh"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 200272,
+      "name": "Eyes Fall",
+      "url": "https://open.spotify.com/track/5Ubvwnm3JFnLG1HHydGlL6"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -539,86 +571,6 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Dark Holler Pop",
-        "url": "https://open.spotify.com/album/3dDCKwTtY4mEQDA1iWRbqs"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 266997,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/6lg1rLyW6bDMxZVesz0WAO"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
-        "name": "The Morning Passengers EP - Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5qvpcLktSTi0TfoFmZOEtb"
-      },
-      "artists": [
-        {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
-        }
-      ],
-      "duration_ms": 229389,
-      "name": "Dancing Shoes",
-      "url": "https://open.spotify.com/track/5SZ4luA49qt2ZeJTh4jPOq"
-    },
-    {
-      "added_at": "2021-08-27 04:01:00",
-      "album": {
-        "name": "A Place",
-        "url": "https://open.spotify.com/album/19Gcuk3CiOOlzIi7B2MTnh"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 200272,
-      "name": "Eyes Fall",
-      "url": "https://open.spotify.com/track/5Ubvwnm3JFnLG1HHydGlL6"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK"
-      },
-      "artists": [
-        {
-          "name": "The Dryes",
-          "url": "https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE"
-        }
-      ],
-      "duration_ms": 227661,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
-        "name": "Lost In Your Love",
-        "url": "https://open.spotify.com/album/78uzfcrJllydYtOw1MC3TF"
-      },
-      "artists": [
-        {
-          "name": "Music Travel Love",
-          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
-        }
-      ],
-      "duration_ms": 164938,
-      "name": "Lost In Your Love",
-      "url": "https://open.spotify.com/track/11dJXX4oXQBZLkVwuQ8oxw"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
         "name": "ballerini",
         "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
       },
@@ -635,18 +587,18 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Nothing New",
-        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
+        "name": "War",
+        "url": "https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK"
       },
       "artists": [
         {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+          "name": "The Dryes",
+          "url": "https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE"
         }
       ],
-      "duration_ms": 218174,
-      "name": "Nothing New",
-      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
+      "duration_ms": 227661,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -683,22 +635,6 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/2lkaT5goLtwJKxW4EM7Ou4"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "People Change",
-      "url": "https://open.spotify.com/track/1iepnn71MidOJZ7Y3vfgE4"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
         "name": "The Dream: Living The Dream (Deluxe)",
         "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
       },
@@ -715,18 +651,66 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Lovers and Leavers",
-        "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/2lkaT5goLtwJKxW4EM7Ou4"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 248440,
-      "name": "The Love That We Need",
-      "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
+      "duration_ms": 212853,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/1iepnn71MidOJZ7Y3vfgE4"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "The Morning Passengers EP - Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5qvpcLktSTi0TfoFmZOEtb"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 229389,
+      "name": "Dancing Shoes",
+      "url": "https://open.spotify.com/track/5SZ4luA49qt2ZeJTh4jPOq"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Lost In Your Love",
+        "url": "https://open.spotify.com/album/78uzfcrJllydYtOw1MC3TF"
+      },
+      "artists": [
+        {
+          "name": "Music Travel Love",
+          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+        }
+      ],
+      "duration_ms": 164938,
+      "name": "Lost In Your Love",
+      "url": "https://open.spotify.com/track/11dJXX4oXQBZLkVwuQ8oxw"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Nothing New",
+        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -743,22 +727,6 @@
       "duration_ms": 205840,
       "name": "20/10 TN",
       "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
-        "name": "Time Is Cold (Coffee House Version)",
-        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 188541,
-      "name": "Time Is Cold (Coffee House Version)",
-      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -793,20 +761,36 @@
       "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
     },
     {
-      "added_at": "2021-04-30 04:02:00",
+      "added_at": "2021-08-20 03:27:40",
       "album": {
-        "name": "Sunday Best (Acoustic)",
-        "url": "https://open.spotify.com/album/3AoKAkeiqbsUAolQLEPlL5"
+        "name": "Carolina In My Mind",
+        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
       },
       "artists": [
         {
-          "name": "Smithfield",
-          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+          "name": "Raleigh Keegan",
+          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
         }
       ],
-      "duration_ms": 167535,
-      "name": "Sunday Best (Acoustic)",
-      "url": "https://open.spotify.com/track/3vqPa56C3wzRFjGZMprVr4"
+      "duration_ms": 233684,
+      "name": "Carolina In My Mind",
+      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Lovers and Leavers",
+        "url": "https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "The Love That We Need",
+      "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -827,66 +811,34 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+        "name": "Sunday Best (Acoustic)",
+        "url": "https://open.spotify.com/album/3AoKAkeiqbsUAolQLEPlL5"
       },
       "artists": [
         {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Smithfield",
+          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
-    },
-    {
-      "added_at": "2021-08-13 03:23:58",
-      "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/6Mbu76NbGkVPIDF4XTBJWu"
-      },
-      "artists": [
-        {
-          "name": "Eric Van Houten",
-          "url": "https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK"
-        }
-      ],
-      "duration_ms": 171982,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/7rDz9WrGq1mCxgXZl3D0r2"
-    },
-    {
-      "added_at": "2021-08-20 03:27:40",
-      "album": {
-        "name": "Carolina In My Mind",
-        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
-      },
-      "artists": [
-        {
-          "name": "Raleigh Keegan",
-          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
-        }
-      ],
-      "duration_ms": 233684,
-      "name": "Carolina In My Mind",
-      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
+      "duration_ms": 167535,
+      "name": "Sunday Best (Acoustic)",
+      "url": "https://open.spotify.com/track/3vqPa56C3wzRFjGZMprVr4"
     },
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
+        "name": "Time Is Cold (Coffee House Version)",
+        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
       },
       "artists": [
         {
-          "name": "Jedd Hughes",
-          "url": "https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH"
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
+      "duration_ms": 188541,
+      "name": "Time Is Cold (Coffee House Version)",
+      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -907,18 +859,18 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Coming Down the Mountain",
-        "url": "https://open.spotify.com/album/0bDioLSH5nZjXpJLE9ZaUU"
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "duration_ms": 273959,
-      "name": "Coming Down the Mountain",
-      "url": "https://open.spotify.com/track/43bkejyRlzXjVGKvXYLHzg"
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -937,6 +889,54 @@
       "url": "https://open.spotify.com/track/1WvRxjDesc8qkTwYQO55gI"
     },
     {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
+      },
+      "artists": [
+        {
+          "name": "Jedd Hughes",
+          "url": "https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Coming Down the Mountain",
+        "url": "https://open.spotify.com/album/0bDioLSH5nZjXpJLE9ZaUU"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 273959,
+      "name": "Coming Down the Mountain",
+      "url": "https://open.spotify.com/track/43bkejyRlzXjVGKvXYLHzg"
+    },
+    {
+      "added_at": "2021-08-13 03:23:58",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/6Mbu76NbGkVPIDF4XTBJWu"
+      },
+      "artists": [
+        {
+          "name": "Eric Van Houten",
+          "url": "https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK"
+        }
+      ],
+      "duration_ms": 171982,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/7rDz9WrGq1mCxgXZl3D0r2"
+    },
+    {
       "added_at": "2021-10-08 05:18:00",
       "album": {
         "name": "SOUTHSIDE",
@@ -951,22 +951,6 @@
       "duration_ms": 235053,
       "name": "2016",
       "url": "https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6"
-    },
-    {
-      "added_at": "2021-10-08 05:18:00",
-      "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
-      },
-      "artists": [
-        {
-          "name": "Nelly Joy",
-          "url": "https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ"
-        }
-      ],
-      "duration_ms": 219217,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -999,6 +983,22 @@
       "duration_ms": 243709,
       "name": "November Air",
       "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
+    },
+    {
+      "added_at": "2021-10-08 05:18:00",
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
+      },
+      "artists": [
+        {
+          "name": "Nelly Joy",
+          "url": "https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ"
+        }
+      ],
+      "duration_ms": 219217,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Better Than That",
-        "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
-      },
-      "artists": [
-        {
-          "name": "Ian McConnell",
-          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
-        }
-      ],
-      "duration_ms": 193242,
-      "name": "Better Than That",
-      "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
         "name": "Back My Way",
         "url": "https://open.spotify.com/album/1AS6HHmdIc6FXHp0ENRjsv"
       },
@@ -1097,6 +1081,22 @@
       "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
     },
     {
+      "added_at": "2021-08-06 04:35:00",
+      "album": {
+        "name": "Two Story House",
+        "url": "https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Two Story House",
+      "url": "https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2"
+    },
+    {
       "added_at": "2021-04-30 04:02:00",
       "album": {
         "name": "Blood Brothers",
@@ -1115,34 +1115,18 @@
     {
       "added_at": "2021-04-30 04:02:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+        "name": "Better Than That",
+        "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Ian McConnell",
+          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
         }
       ],
-      "duration_ms": 236626,
-      "name": "The House That Built Me",
-      "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
-    },
-    {
-      "added_at": "2021-04-30 04:02:00",
-      "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/5MKsEDneOChiVxj6UYaJik"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/0zHJGLoaIkxwC41fw1os5w"
+      "duration_ms": 193242,
+      "name": "Better Than That",
+      "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -1159,22 +1143,6 @@
       "duration_ms": 234333,
       "name": "Giving It All (To You)",
       "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
-    },
-    {
-      "added_at": "2021-08-06 04:35:00",
-      "album": {
-        "name": "Two Story House",
-        "url": "https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Two Story House",
-      "url": "https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2"
     },
     {
       "added_at": "2021-06-04 04:35:29",
@@ -1207,6 +1175,22 @@
       "duration_ms": 245240,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5geXpnAg1h2r0fouEe3AHK"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/5MKsEDneOChiVxj6UYaJik"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/0zHJGLoaIkxwC41fw1os5w"
     },
     {
       "added_at": "2021-04-30 04:02:00",
@@ -1255,6 +1239,22 @@
       "duration_ms": 220275,
       "name": "Swimming Alone",
       "url": "https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686"
+    },
+    {
+      "added_at": "2021-04-30 04:02:00",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "The House That Built Me",
+      "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
     },
     {
       "added_at": "2021-10-08 05:18:00",

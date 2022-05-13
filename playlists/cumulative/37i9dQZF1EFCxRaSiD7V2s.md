@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-228 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+230 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Buffy vs\. Dracula](https://open.spotify.com/track/36gjXqUHDaWtOoex8dlYSM) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:14 | 2021-12-27 |  |
 | [Checkpoint](https://open.spotify.com/track/05Tv4ZFQxXqOEAQ5WibnAL) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:42 | 2021-12-27 |  |
 | [Cinnamon](https://open.spotify.com/track/6KqgHLhsyScGQtoclGOnHv) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 2:53 | 2021-12-27 |  |
+| [Cinnamon \(feat\. Genevieve Stokes\)](https://open.spotify.com/track/6aQXVBCsGYRSpUp9cRkz3f) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 2:54 | 2022-05-12 |  |
 | [CITADEL](https://open.spotify.com/track/0qnns7z62BDRdKOUPUi00N) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN : vol 2](https://open.spotify.com/album/4v5FVDjvhWHQiiZFbnrxWM) | 3:37 | 2021-12-27 | 2022-02-20 |
 | [CITADEL](https://open.spotify.com/track/6F5VBIT4YR3Ow4khVx7wPQ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:37 | 2022-02-19 |  |
 | [Clean Break](https://open.spotify.com/track/4sjjeWP3klhoNnpRBK05Ui) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 3:02 | 2021-12-27 |  |
@@ -95,6 +96,7 @@
 | [Headmess](https://open.spotify.com/track/3qRMi1evJvfowhgZDuj20J) | [Bell Horses](https://open.spotify.com/artist/2AdoTCFp76OEjtdSM1NZvC) | [This Loves Last Time](https://open.spotify.com/album/5ZPOnEFbI3BgWS1vHair0O) | 3:18 | 2021-12-27 |  |
 | [Hell's Bells](https://open.spotify.com/track/2qcdSOytptCu0TB3IWl6CS) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:43 | 2021-12-27 |  |
 | [Here is a Heart](https://open.spotify.com/track/2Q1nBjqwQQQqwQ0CpIkmdO) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 4:23 | 2021-12-27 |  |
+| [Hideaway](https://open.spotify.com/track/0qZobvkRMAqrGyjjNVvL2D) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Hideaway](https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11) | 3:29 | 2022-05-12 |  |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2021-12-27 |  |
 | [Home Away from Home](https://open.spotify.com/track/6wm32QUgErztbOXTQFP0EO) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's.../Here's Looking at You Kid](https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA) | 4:28 | 2021-12-27 |  |
 | [Home Sweet Home](https://open.spotify.com/track/17Ra6UvA4jGN3L0l7Az3Tr) | [Obvious Choice](https://open.spotify.com/artist/4HqDCO1kaGIPOi0KnkSgGt) | [An Obvious Christmas](https://open.spotify.com/album/154K6f4mYHXynxjQHDzWTu) | 2:37 | 2021-12-27 |  |

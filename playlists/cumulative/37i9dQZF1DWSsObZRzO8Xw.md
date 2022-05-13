@@ -4,7 +4,7 @@
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: toe
 
-95 songs - 6 hr 38 min - not published yet
+95 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/30AOiai6zS6TxM6b4PqLOP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

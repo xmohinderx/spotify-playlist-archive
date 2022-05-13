@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 440547,
       "name": "Around the Stars",
       "url": "https://open.spotify.com/track/5zEkJhlypnzAjacqTemCea"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 450206,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/6HqR3zR0zfvMh7dUZypogW"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 419130,
       "name": "Famous",
       "url": "https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 303428,
       "name": "Foresight",
       "url": "https://open.spotify.com/track/3Gu3dF2xLaOI3fVPlJmMxw"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 214290,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6m8BCfpZIVikVsm5YKVQrC"
@@ -1181,7 +1181,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 377058,
       "name": "High Pressure",
       "url": "https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 365714,
       "name": "Indian Spirit",
       "url": "https://open.spotify.com/track/5ialmmuwylzm1xDwHlxpCg"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 254896,
       "name": "look into the mirror",
       "url": "https://open.spotify.com/track/1CN9SDbF4slNTJPVAcWzJa"
@@ -2160,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "Tachyon",
+        "url": "https://open.spotify.com/album/2IJRRE778hj9XS4mEiUmBn"
+      },
+      "artists": [
+        {
+          "name": "Alienatic",
+          "url": "https://open.spotify.com/artist/1b9VVdPXdgNcd86oEvi00L"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399310,
+      "name": "Tachyon",
+      "url": "https://open.spotify.com/track/3agwWPbLIypx5Lmbzbo1GG"
+    },
+    {
+      "album": {
         "name": "The Oasis (Zyrus 7 Remix)",
         "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
       },
@@ -2565,7 +2583,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 159642,
       "name": "You Make Me Feel - Radio Version",
       "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 373974,
       "name": "008A1",
       "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 375000,
       "name": "100 reasons",
       "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 491530,
       "name": "A Lil' Anxious",
       "url": "https://open.spotify.com/track/6eM3r9ku8I63L8xgKRkjo1"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 332125,
       "name": "Cut 02 - Delfonic 2020 Edit",
       "url": "https://open.spotify.com/track/3fEHO0kO6MQ0jDjiAIneZZ"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 359793,
       "name": "Deep -N- Dirty",
       "url": "https://open.spotify.com/track/1ARiXnXFgvydd61r4ODC75"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 339130,
       "name": "Flightmode On",
       "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 297426,
       "name": "King Size",
       "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 349857,
       "name": "Longing For U",
       "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
@@ -1614,6 +1614,24 @@
     },
     {
       "album": {
+        "name": "Superimposition",
+        "url": "https://open.spotify.com/album/6AkVQhc6KbE5lhlGWmDnze"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455370,
+      "name": "Mr Umbawa",
+      "url": "https://open.spotify.com/track/4y37TpiWY4I6ixawIZtxxS"
+    },
+    {
+      "album": {
         "name": "Mr Umbawa",
         "url": "https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ"
       },
@@ -1806,6 +1824,24 @@
     },
     {
       "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+    },
+    {
+      "album": {
         "name": "Pastis",
         "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
       },
@@ -1871,7 +1907,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 328268,
       "name": "Pomni",
       "url": "https://open.spotify.com/track/5Zg2oGPqM8F5C4KEj4ZbBM"
@@ -2247,7 +2283,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 439098,
       "name": "Superimposition",
       "url": "https://open.spotify.com/track/5EbNBRk0GQyoWeJ8AMlact"
@@ -2366,6 +2402,28 @@
     },
     {
       "album": {
+        "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
+        "url": "https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287767,
+      "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
+      "url": "https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq"
+    },
+    {
+      "album": {
         "name": "The Sayers",
         "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
       },
@@ -2377,7 +2435,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 293584,
       "name": "The Sayers",
       "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
@@ -2525,7 +2583,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 230748,
       "name": "True Romance (Maja Edit)",
       "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
@@ -2623,7 +2681,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 142300,
       "name": "wantuback",
       "url": "https://open.spotify.com/track/4U3jZQF6mMTwotTroneb9P"

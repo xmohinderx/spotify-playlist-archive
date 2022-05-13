@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: CLARA
+> Il meglio dell'R&B italiano\. Cover: Bais
 
-70 songs - 3 hr 24 min - not published yet
+77 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [come le canzoni stonate](https://open.spotify.com/track/7pmRJ2TA1iqx2Pdt5V4b9K) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [come le canzoni stonate](https://open.spotify.com/album/7GpitQPJM57M3jJ8DcxVMb) | 3:14 | 2022-05-05 |  |
 | [Come nevicando](https://open.spotify.com/track/7v7OHQ2N49DhiEIQcj9O80) | [Safe](https://open.spotify.com/artist/3RsNxzXZG5MAwpXPf4X24s), [Jack Sapienza](https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K) | [Come nevicando](https://open.spotify.com/album/7HTq4YrBhejxyxsPgYBtSR) | 2:01 | 2022-05-05 |  |
 | [Come se ballassimo](https://open.spotify.com/track/6vqp7l8bvamjZoihR5lu9b) | [Bye.Tide](https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH) | [Come se ballassimo](https://open.spotify.com/album/3v8tPkwbNPtq6rPFIo7ywg) | 3:40 | 2022-05-05 |  |
+| [Come un Film](https://open.spotify.com/track/39XNBtQcyOgyWEIbreIe8u) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu) | [Come un Film](https://open.spotify.com/album/3h9WDTPIEOddGaxoAW9yeA) | 2:41 | 2022-05-12 |  |
 | [Come, come](https://open.spotify.com/track/1NE7ctDmeMclZuMNYY5o3j) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Come, come](https://open.spotify.com/album/6Z8sLwQzzZq9GZxMydfDM5) | 2:31 | 2022-05-05 |  |
 | [confessioni](https://open.spotify.com/track/6DDjZYfWPO9f9wd5B8F9RO) | [Elea](https://open.spotify.com/artist/4zTIQEV02QCXtgDd9XFvz3), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn) | [confessioni](https://open.spotify.com/album/4SXQ82iVI2XZSRjn16qKrz) | 2:59 | 2022-05-05 |  |
 | [Cos'è una regola](https://open.spotify.com/track/4hZat4zoX4ghX3da67nYfl) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Cos'è una regola](https://open.spotify.com/album/1dxJEVmp2GsAC2guij4tJW) | 3:20 | 2022-05-05 |  |
@@ -39,6 +40,8 @@
 | [Felpa](https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Felpa](https://open.spotify.com/album/23UwjDGJgmbbTNdFgDGIVR) | 2:45 | 2022-05-05 |  |
 | [Fior di glicine](https://open.spotify.com/track/3XdumBkBt85bdQTMGEdbEn) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Dalila Spagnolo](https://open.spotify.com/artist/7byMgnmiVH1BbZmcXrOGIS) | [Fior di glicine](https://open.spotify.com/album/3KTYT0lzuD9WSaMah6hU55) | 3:07 | 2022-05-05 |  |
 | [Fratelli & Sogni](https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Fratelli & Sogni](https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG) | 2:40 | 2022-05-05 |  |
+| [Giorni che esplodono](https://open.spotify.com/track/7KoU2DLPJXnKNIu3ikzgIR) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/6SVSdsb4X0w73ZnMqQGRHx) | 3:04 | 2022-05-12 |  |
+| [Hangover](https://open.spotify.com/track/2KYiGWhzTezhiurZpd8g4f) | [Nese Ikaro](https://open.spotify.com/artist/15JcKmQooq4qeUn6jdN8f0), [sedd](https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6) | [Hangover](https://open.spotify.com/album/1SMfOswIVtLfDi3fEB3A9Q) | 2:28 | 2022-05-12 |  |
 | [Houdini](https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0), [Nubula](https://open.spotify.com/artist/7bGSYDi7LmU5F1wx8ITzIk) | [Houdini](https://open.spotify.com/album/2NfGUOifngHawKceRRzsn6) | 3:08 | 2022-05-05 |  |
 | [IL TEMPO DELLE MELE](https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [IL TEMPO DELLE MELE](https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w) | 2:16 | 2022-05-05 |  |
 | [In My Way \(chi sei\)](https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 2:14 | 2022-05-05 |  |
@@ -54,6 +57,7 @@
 | [Negli Occhi](https://open.spotify.com/track/6yS0Ps5RswhboZFM4vLOsE) | [Yung Florence](https://open.spotify.com/artist/6HjU7IxcwVniLK2h8VEcFd), [Logos.Lux](https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T) | [Negli Occhi](https://open.spotify.com/album/5kjmW3BcCHutYbwm7M2diZ) | 2:39 | 2022-05-05 |  |
 | [No eh? Va be'](https://open.spotify.com/track/64kDlkqrSAg5vha3bK7I8A) | [DAEMIA](https://open.spotify.com/artist/2h1otCcxhWWTUQtcSg7I7X) | [No eh? Va be'](https://open.spotify.com/album/5SXnrkbFeNPOfFnEHChOX6) | 3:31 | 2022-05-05 |  |
 | [non ci sta](https://open.spotify.com/track/4atRzLSh8tx0lsVsmgHTTu) | [Jess](https://open.spotify.com/artist/2frtodbBy4VwQlIkfZd0kw) | [non ci sta](https://open.spotify.com/album/6vQiCy1LkSCCfwESVLe5a0) | 3:03 | 2022-05-05 |  |
+| [NON HO VOGLIA DI BERE](https://open.spotify.com/track/36b3q6725OsbEUGZKCrSLW) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [LUCE](https://open.spotify.com/album/1UCn39AYANQdyJLb4niuPk) | 2:53 | 2022-05-12 |  |
 | [O'tiempo](https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Marco Maiole](https://open.spotify.com/artist/2GTP5wrXZ1ObOHPlSgaaLm) | [San Castrese](https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G) | 3:08 | 2022-05-05 |  |
 | [Occhi su di me](https://open.spotify.com/track/4oh46p9qC3Z2E3QM2cSr59) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX) | [Occhi su di me](https://open.spotify.com/album/7wfpmJ9NtGrSFlOwfR93PB) | 2:26 | 2022-05-05 |  |
 | [Ossessione](https://open.spotify.com/track/2xTA9Fzx9W1VoqZAslxhgU) | [Riél](https://open.spotify.com/artist/0LGmCHNVaxGNAPTb73ndWL) | [Ossessione](https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy) | 3:08 | 2022-05-05 |  |
@@ -61,6 +65,7 @@
 | [Poco Male](https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Originali](https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU) | 3:22 | 2022-05-05 |  |
 | [Podio](https://open.spotify.com/track/2qG3nVwV8MMy1aCWgxGpiF) | [Sara Mancini](https://open.spotify.com/artist/0A8DfrInGzOLf2froFT3rq) | [Podio](https://open.spotify.com/album/5mhVwiB3QNnqbk1A4BE2Cg) | 2:00 | 2022-05-05 |  |
 | [R&DRILL](https://open.spotify.com/track/7yicqzLOI8Cl2A8g60xzG9) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Yazee](https://open.spotify.com/artist/7CYwuhZwBcxavIrRhnZxQc) | [R&DRILL](https://open.spotify.com/album/1bh96AtCfno8P6R3OBrudh) | 2:32 | 2022-05-05 |  |
+| [Repubblica](https://open.spotify.com/track/6eIPv0RqhVJiExImD71D97) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [DIVISO DUE](https://open.spotify.com/album/109751QGcD8dQsdnYnKNck) | 3:11 | 2022-05-12 |  |
 | [Respirare](https://open.spotify.com/track/5Oi2WD7QCm7QauxSCfkCla) | [Laneve](https://open.spotify.com/artist/209NYhApPminvhVIZskYFF), [SANTO BLUE](https://open.spotify.com/artist/5sV954iubTAhghPdzITK5v) | [Neve Nostalgia](https://open.spotify.com/album/5v1omc0DtCHJu8lQKdt0tK) | 2:53 | 2022-05-05 |  |
 | [Rotterdam](https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Rotterdam](https://open.spotify.com/album/5Hh1Yp8l8vZNDaNGS5mAco) | 3:17 | 2022-05-05 |  |
 | [Se Non Hai Le Ali](https://open.spotify.com/track/7HShXxPzYc51ZfkF9PZoIJ) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4) | [Se Non Hai Le Ali](https://open.spotify.com/album/1HfiYFTKS4xvBSbkGY6noW) | 2:16 | 2022-05-05 |  |
@@ -72,11 +77,13 @@
 | [Stai tra fra](https://open.spotify.com/track/0bP9y38PARMlFUrT984lp0) | [Sophia Murgia](https://open.spotify.com/artist/3w2SyNbKmiG5ckNUZE5NZe) | [Stai tra fra](https://open.spotify.com/album/6nqXNm6sHNLt29nr3MzLhN) | 3:32 | 2022-05-05 |  |
 | [Stormi](https://open.spotify.com/track/0PUo4n2UQlevX5nFfxSAgU) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Stormi](https://open.spotify.com/album/6lMCnq8ZNV1BNE4fAtNGpd) | 2:51 | 2022-05-05 |  |
 | [Sul fondo](https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Sul fondo](https://open.spotify.com/album/2MKGwFKpeTYvcCqbUtwLzo) | 2:50 | 2022-05-05 |  |
-| [tu sonrisa de diseño](https://open.spotify.com/track/53FfBBPlNbJS170DxtuSWS) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [IAKO](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [tu sonrisa de diseño](https://open.spotify.com/album/6hX4z8fr1EHZs8lOnhanG9) | 2:48 | 2022-05-05 |  |
+| [tu sonrisa de diseño](https://open.spotify.com/track/53FfBBPlNbJS170DxtuSWS) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [iako](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [tu sonrisa de diseño](https://open.spotify.com/album/6hX4z8fr1EHZs8lOnhanG9) | 2:48 | 2022-05-05 |  |
 | [tutta la città](https://open.spotify.com/track/5jZ3gAws7oYZcJ9e9moN2u) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [tutta la città](https://open.spotify.com/album/1Vnpi1IsmucBnoouygSyTI) | 2:55 | 2022-05-05 |  |
+| [Uccidersi per Sbaglio](https://open.spotify.com/track/5OlG9tBd7yfmrrMavKfTl5) | [F\. Brioschi](https://open.spotify.com/artist/2mUAUBU46I4fTNmymLRRMW), [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Uccidersi per Sbaglio](https://open.spotify.com/album/4zpv68HMIc0q7Ldpv81WlB) | 2:45 | 2022-05-12 |  |
 | [UH NA NA EH](https://open.spotify.com/track/58doxdbTp9Q47wdyz24Ebq) | [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC) | [UH NA NA EH](https://open.spotify.com/album/3vmJCJOlL3DEcnfNUxg8ps) | 2:28 | 2022-05-05 |  |
 | [Un altro giro](https://open.spotify.com/track/17MzhNVbLCBY0G19GjBV79) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Un altro giro](https://open.spotify.com/album/3K90ZmP4xzMIddScM0GEhu) | 2:31 | 2022-05-05 |  |
 | [Universo](https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x) | [Venere](https://open.spotify.com/artist/0oRYvj2dYUhN9rAcxUqu4f) | [Universo](https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I) | 2:43 | 2022-05-05 |  |
 | [Vicino](https://open.spotify.com/track/73teXUHwtke0LElEq9dpYN) | [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC), [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Vicino](https://open.spotify.com/album/4UakhMQpfKJaEk7CzZ9mLk) | 3:02 | 2022-05-05 |  |
+| [x averti](https://open.spotify.com/track/3tThvTQnw9UiMiYQFU3GwC) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [x averti](https://open.spotify.com/album/2uw9IwbZRJwsAZj1Jx8hUu) | 3:00 | 2022-05-12 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,986 likes - 64 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,387 likes - 64 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 57 | [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 |
 | 58 | [Love Theme \- From "Romeo and Juliet"](https://open.spotify.com/track/1CDczwnTf6RJ076lukYNpP) | [Maurice Jarre](https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT), [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Royal Philharmonic Orchestra;Tolga Kashif](https://open.spotify.com/artist/1gf0HHWM6iOcJNgTlNXEz7) | [Greatest Film Classics](https://open.spotify.com/album/3rhfzgrQQWg1XPAlMDfvq1) | 3:06 |
 | 59 | [Brooks Was Here](https://open.spotify.com/track/5FRGTGPZ7uA6JaLAH55PVV) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [The Hollywood Studio Symphony](https://open.spotify.com/artist/7EDsxqvVACibUGGHfMNjyK) | [The Shawshank Redemption](https://open.spotify.com/album/5ucvCY0hFIAL95DVKohEiB) | 5:05 |
-| 60 | [Open Spaces](https://open.spotify.com/track/5aS4hzWTQ968fPIoKsDg1q) | [There Will Be Blood](https://open.spotify.com/artist/1ntXPkk7nlvEGNgtHbKmAN) | [There Will Be Blood](https://open.spotify.com/album/0K7xCNs6QjWl1B2mPKCnk3) | 3:55 |
+| 60 | [Open Spaces](https://open.spotify.com/track/5aS4hzWTQ968fPIoKsDg1q) | [There Will Be Blood](https://open.spotify.com/artist/6w8Jh7PIiJ8gntueciDVQ9) | [There Will Be Blood](https://open.spotify.com/album/0K7xCNs6QjWl1B2mPKCnk3) | 3:55 |
 | 61 | [Lady Bird](https://open.spotify.com/track/6yzzno5cXBkh5c6UzRxcyM) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Lady Bird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LIWkw76T7O499slpRTeQ1) | 5:10 |
 | 62 | [With My Own Eyes](https://open.spotify.com/track/1X26LGm0cnHhzAvXpIYIWc) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Atonement OST](https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ) | 4:40 |
 | 63 | [Pelagia's Song](https://open.spotify.com/track/7aVRZwGYPypqF7AMN0pwCG) | [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj), [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Captain Corelli's Mandolin \-Original Motion Picture Soundtrack](https://open.spotify.com/album/32gSHgSXx9oU5nwtgaGvcA) | 4:04 |

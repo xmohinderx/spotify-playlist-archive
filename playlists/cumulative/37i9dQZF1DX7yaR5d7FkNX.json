@@ -854,6 +854,28 @@
     },
     {
       "album": {
+        "name": "G\u00f3ndola",
+        "url": "https://open.spotify.com/album/4ETJicMeq2u0te2o6JxBdY"
+      },
+      "artists": [
+        {
+          "name": "Aceros del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
+        },
+        {
+          "name": "Ana Rizo",
+          "url": "https://open.spotify.com/artist/3jD6zAJRKQkylpOsaAVCiz"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340051,
+      "name": "G\u00f3ndola - Live Session",
+      "url": "https://open.spotify.com/track/1dOYmzJmvUTOAShmw6pT7V"
+    },
+    {
+      "album": {
         "name": "Cambio Estacional",
         "url": "https://open.spotify.com/album/7qo7uFnFwmf6otdyn4irRn"
       },

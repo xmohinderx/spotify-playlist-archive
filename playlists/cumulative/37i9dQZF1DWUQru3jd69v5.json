@@ -1,9 +1,35 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione di rapper italiani. Cover: Nabi",
+  "description": "La nuova generazione di rapper italiani. Cover: Medy",
   "name": "Raptopia",
   "published_playlist_ids": [],
   "tracks": [
+    {
+      "album": {
+        "name": "#WEOWE2",
+        "url": "https://open.spotify.com/album/5c7CoUQI2o9sGqeFmu4Y2X"
+      },
+      "artists": [
+        {
+          "name": "Sisco",
+          "url": "https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE"
+        },
+        {
+          "name": "DiglieloMosi",
+          "url": "https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/72CLewUhfxo0OCY0FiDT9u"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128250,
+      "name": "#WEOWE2",
+      "url": "https://open.spotify.com/track/45gLLRDHtF7Cdm7TbThR1h"
+    },
     {
       "album": {
         "name": "5 testimoni",
@@ -21,6 +47,28 @@
       "duration_ms": 144832,
       "name": "5 testimoni",
       "url": "https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh"
+    },
+    {
+      "album": {
+        "name": "AAHORA",
+        "url": "https://open.spotify.com/album/07To5kvlGtnJZshPnUGE7R"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fri2",
+          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "AAHORA",
+      "url": "https://open.spotify.com/track/5HSGAZ9lgL19zyWwrgWcuw"
     },
     {
       "album": {
@@ -298,6 +346,24 @@
     },
     {
       "album": {
+        "name": "Cugino",
+        "url": "https://open.spotify.com/album/1JZEbWvE21FBzVtf4wFfSw"
+      },
+      "artists": [
+        {
+          "name": "Em",
+          "url": "https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126959,
+      "name": "Cugino",
+      "url": "https://open.spotify.com/track/3gg5KTw2TP6CLiQKRRzN9o"
+    },
+    {
+      "album": {
         "name": "Dirham",
         "url": "https://open.spotify.com/album/3vhpIXsWuo9yjyf0kuQgRA"
       },
@@ -331,7 +397,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 124195,
       "name": "DOPE",
       "url": "https://open.spotify.com/track/5AmUo8F3AVbhV24WUm1s9M"
@@ -374,6 +440,28 @@
     },
     {
       "album": {
+        "name": "TEMPESTA DI LACRIME",
+        "url": "https://open.spotify.com/album/0cE7IGkRpzgEgr88JOcZ2Q"
+      },
+      "artists": [
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "FREDDO AD AGOSTO",
+      "url": "https://open.spotify.com/track/6WTZTKzfegWUhn6XsFLbJC"
+    },
+    {
+      "album": {
         "name": "FREDDO IN CASA",
         "url": "https://open.spotify.com/album/1FHsgpOLB7Gx0pNV1pGMXM"
       },
@@ -397,6 +485,32 @@
       "duration_ms": 161194,
       "name": "FREDDO IN CASA",
       "url": "https://open.spotify.com/track/0ygctJYNSmiOLUKD2XATX9"
+    },
+    {
+      "album": {
+        "name": "PAIN PARTY",
+        "url": "https://open.spotify.com/album/72k7j2fiUIHpB8qCWbm75J"
+      },
+      "artists": [
+        {
+          "name": "Don Said",
+          "url": "https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO"
+        },
+        {
+          "name": "2Rari",
+          "url": "https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf"
+        },
+        {
+          "name": "Arden",
+          "url": "https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "GOODFELLAS",
+      "url": "https://open.spotify.com/track/6NgmTL3J16M4Pd6dYzXFlh"
     },
     {
       "album": {
@@ -433,7 +547,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 96300,
       "name": "GRAMMELOT",
       "url": "https://open.spotify.com/track/545TC3eBWOStLmvbF48dGZ"
@@ -835,7 +949,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 160374,
       "name": "Peccato",
       "url": "https://open.spotify.com/track/6c0Uy3qCH3PzlY19ONxrv9"
@@ -1018,6 +1132,46 @@
     },
     {
       "album": {
+        "name": "Senza Invito",
+        "url": "https://open.spotify.com/album/1hmflQiiBLzPu016EDz5vN"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Wairaki",
+          "url": "https://open.spotify.com/artist/7IB3VckCEheDZlvQxCDLvr"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193578,
+      "name": "Senza Invito",
+      "url": "https://open.spotify.com/track/69He6CqCLPkym4XLGd2vOJ"
+    },
+    {
+      "album": {
+        "name": "SIDE HOE",
+        "url": "https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr"
+      },
+      "artists": [
+        {
+          "name": "ZE7E",
+          "url": "https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "SIDE HOE",
+      "url": "https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5"
+    },
+    {
+      "album": {
         "name": "Sig Sauer",
         "url": "https://open.spotify.com/album/5Xb2J3wUNG6B7KZD1397bi"
       },
@@ -1181,6 +1335,28 @@
       "duration_ms": 155121,
       "name": "Virgola",
       "url": "https://open.spotify.com/track/6SxkKIamSLhtLcAkFrddMk"
+    },
+    {
+      "album": {
+        "name": "WAKANDA",
+        "url": "https://open.spotify.com/album/65snFdLpTuZB0dYzHscNpg"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136502,
+      "name": "WAKANDA",
+      "url": "https://open.spotify.com/track/4ApTJO5GLmci7uNivte6mE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5"

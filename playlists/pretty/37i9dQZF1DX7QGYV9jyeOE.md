@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,514 likes - 72 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,522 likes - 72 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

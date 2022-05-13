@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Ali Kiba
 
-104 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+105 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Leo Leo](https://open.spotify.com/track/2wetsVvxCvDu5NDXo7v7Wb) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Leo Leo](https://open.spotify.com/album/5TmDMmHEW9pNDthQL6a13V) | 3:07 | 2021-08-26 |  |
 | [Loyalty \(feat\. Marioo & Nandy\)](https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Slave Becomes A King](https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO) | 3:25 | 2021-06-25 |  |
 | [Madanga Ya Mke Wangu](https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Madanga Ya Mke Wangu](https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD) | 5:37 | 2021-10-14 | 2022-02-25 |
+| [Make it bounce \(Katika\)](https://open.spotify.com/track/6t6MpkK03yHwcK6S4L1pMR) | [iiCons](https://open.spotify.com/artist/4NcqeUfjUFtjSdpjd14gbQ) | [Make it bounce \(Katika\)](https://open.spotify.com/album/3VFFXWgQS7LHWvIkxBKGo5) | 2:57 | 2022-05-12 |  |
 | [Mama](https://open.spotify.com/track/4dHZ8yHndXrUt6Kh2OQx41) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mama](https://open.spotify.com/album/54kmZYE3OieaMSlLkMh1qj) | 2:54 | 2022-05-05 |  |
 | [Mama](https://open.spotify.com/track/0pUlYfkpF0uUP3vu7tSe3B) | [Lulu Diva](https://open.spotify.com/artist/351HQU1PawDtAmXb2DBHhr) | [Mama](https://open.spotify.com/album/2cLFk3vyXGbEsg20dDXcZF) | 3:08 | 2022-01-06 | 2022-04-15 |
 | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z) | 3:08 | 2021-11-18 |  |
@@ -99,7 +100,7 @@
 | [Swagg](https://open.spotify.com/track/3U1wjyEjTcdGQUTwsGHrpY) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Swagg](https://open.spotify.com/album/3sz09gojJ618LB5ilGNhTA) | 3:31 | 2021-11-25 | 2022-03-25 |
 | [Sweet \(feat\. Guchi\)](https://open.spotify.com/track/0Gh9xbOUSSxN9ufKazx4JZ) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Sweet \(feat\. Guchi\)](https://open.spotify.com/album/1yEsOT4CfaR47lFXfXUcHJ) | 3:00 | 2021-09-02 |  |
 | [Tamu](https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:36 | 2021-10-14 |  |
-| [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 | 2021-12-06 |  |
+| [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 | 2021-12-06 | 2022-05-13 |
 | [Teacher](https://open.spotify.com/track/56taTMDQvkZmt3veeCnedl) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Teacher](https://open.spotify.com/album/0JVHEH1hP4q68xZ6x6k6Mr) | 3:11 | 2021-09-02 |  |
 | [Teamo](https://open.spotify.com/track/4GlmHEpvGFWS5EsmEE9NEp) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Flowers](https://open.spotify.com/album/5jaJcKXR7oFsaA4gNYFmwN) | 4:26 | 2022-01-06 |  |
 | [Tetema](https://open.spotify.com/track/48jhgnw6aKXv2FimBhpcv8) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Sound from Africa](https://open.spotify.com/album/0diuKnu6lrcGqDtHiQQJcU) | 2:32 | 2021-06-25 | 2022-01-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: ALICE(\uc568\ub9ac\uc2a4)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: Hwang Chi Yeul(\ud669\uce58\uc5f4)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "K-Pop Ballad Hits",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-10",
+      "date_removed": null,
       "duration_ms": 248693,
       "name": "A message to myself",
       "url": "https://open.spotify.com/track/5cFbSoEo5ft3hA746YTGd4"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 210471,
       "name": "Always By Your Side",
       "url": "https://open.spotify.com/track/6miOvQK1D76hopwIQqZr8y"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 249640,
       "name": "But I'll Miss You",
       "url": "https://open.spotify.com/track/7AyxUdou9NrGU64bTc9dsT"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 213000,
       "name": "Camellia",
       "url": "https://open.spotify.com/track/0oGKpQHFFae8WWCXQtfliO"
@@ -2097,7 +2097,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 288000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/5BTRHDHNRDdFUYcbTeOacW"
@@ -4123,7 +4123,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 244786,
       "name": "Never let you go",
       "url": "https://open.spotify.com/track/0rama9ojHvaOiQQ5cA0glu"
@@ -4253,7 +4253,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 244493,
       "name": "Not Fine",
       "url": "https://open.spotify.com/track/0jN5uSFOVZ3x4TKnNNsybi"
@@ -4921,7 +4921,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 217253,
       "name": "Shiny Star(2020)",
       "url": "https://open.spotify.com/track/7MXtr93z4ltQzhfIxYnYWX"
@@ -4939,7 +4939,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 221946,
       "name": "Should\u2032ve known",
       "url": "https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w"
@@ -5249,7 +5249,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 240680,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6fVIZMLDp8ajfb7A9Dt3RD"
@@ -5701,7 +5701,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 231226,
       "name": "The Youngest Day",
       "url": "https://open.spotify.com/track/2eV326QQILReuueEekaIcF"
@@ -6325,6 +6325,24 @@
       "duration_ms": 210173,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/37IQNTuNonHsOkp22bd5uQ"
+    },
+    {
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/2abcQ8uUzRE8mJ4HCRvgjo"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194493,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/2oSIQr1TSYNJWf2snALmiC"
     },
     {
       "album": {

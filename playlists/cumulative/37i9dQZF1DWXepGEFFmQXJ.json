@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 186185,
       "name": "Beat of My Own Drum",
       "url": "https://open.spotify.com/track/7HK0624DLMQDA5x7rdZNkB"
@@ -1408,6 +1408,46 @@
     },
     {
       "album": {
+        "name": "Longneck Way To Go",
+        "url": "https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Longneck Way To Go",
+      "url": "https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/4eELjZmKciGnP1Au7KPw0V"
+      },
+      "artists": [
+        {
+          "name": "Lucy Parle",
+          "url": "https://open.spotify.com/artist/27eKSN85oq2n22CKV7grqb"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207543,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/6HbprKptNBhCN1LhN9LGdR"
+    },
+    {
+      "album": {
         "name": "Love Doesn't Work Like That",
         "url": "https://open.spotify.com/album/4oris4TGRNqeGMxmYekJP8"
       },
@@ -1769,7 +1809,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 211962,
       "name": "She's The One",
       "url": "https://open.spotify.com/track/42Di68uyYR96IwvHYtM0E9"
@@ -1787,7 +1827,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 193226,
       "name": "Sing Along Drink Along",
       "url": "https://open.spotify.com/track/6B0ghJPshDEklgcFxetWch"
@@ -1863,6 +1903,24 @@
       "duration_ms": 188928,
       "name": "Something I'll Never Get Back",
       "url": "https://open.spotify.com/track/1LQ1PCZsbIxz2uhkGNct9p"
+    },
+    {
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "album": {

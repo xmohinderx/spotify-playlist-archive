@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Luna Li
 
-286 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+287 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Heaven](https://open.spotify.com/track/0tPS9OvVBBDATXPOAjodo8) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Heaven](https://open.spotify.com/album/5svxXfdWJjTGMgMY4LBh8S) | 3:56 | 2022-01-05 | 2022-02-03 |
 | [High & Choking, Pt\. 1](https://open.spotify.com/track/2anDfzfVPHRHjfJz8UsOHq) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [High & Choking / Chains](https://open.spotify.com/album/4Y07bfqiny3326X8EPB1KF) | 3:05 | 2022-02-02 | 2022-03-09 |
 | [High Waves](https://open.spotify.com/track/1LM6Z1AbUdvT84MC2mFm2P) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw) | [Chung Shui](https://open.spotify.com/album/71M5kWhRglaMXjbyLzxvRM) | 2:20 | 2022-02-02 | 2022-03-09 |
+| [his sweater](https://open.spotify.com/track/0La9XmPkPRhGARB7zXfaEd) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [his sweater](https://open.spotify.com/album/24Q2QnYeG30KzsXygkQz8v) | 2:41 | 2022-05-12 |  |
 | [Hit This](https://open.spotify.com/track/07AMcxHstpAsZ3SoFGl5wB) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [Hit This](https://open.spotify.com/album/4rBMt5cmyuF3m3gWslSFYX) | 3:50 | 2022-02-02 | 2022-03-09 |
 | [HOLD ON](https://open.spotify.com/track/6bY0zAuSZwnjhmI1CPOLsN) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [HOLD ON](https://open.spotify.com/album/1361Fn4pOTgvYVQ3kQHWcS) | 3:50 | 2022-04-06 | 2022-05-04 |
 | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/track/053bbGyTwKCwmSzE78G2Us) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Hold Tight \(feat\. Darla Jade\)](https://open.spotify.com/album/53J5G6P1Xdj6ZsgsHSlg1a) | 3:05 | 2022-05-04 |  |

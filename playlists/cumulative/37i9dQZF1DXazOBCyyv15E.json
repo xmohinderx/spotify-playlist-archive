@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Rae Morris",
+  "description": "The home of the best new alternative music. Cover: Florence & The Machine",
   "name": "The Other List",
   "published_playlist_ids": [
     "2P9CK2lB90NpmCPDPSex2G"
@@ -4052,6 +4052,42 @@
     },
     {
       "album": {
+        "name": "Dream Caused By The Flight Of A Bee",
+        "url": "https://open.spotify.com/album/5bN3xklJz98zVp1cxnYpSO"
+      },
+      "artists": [
+        {
+          "name": "Berry Galazka",
+          "url": "https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166529,
+      "name": "Dream Caused By The Flight Of A Bee",
+      "url": "https://open.spotify.com/track/1cAKuJhjZCKI0j0sVTF5zQ"
+    },
+    {
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227374,
+      "name": "Dream Girl Evil",
+      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
+    },
+    {
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4ZKAazai2eZv4V5gQBhk5D"
       },
@@ -5370,6 +5406,24 @@
     },
     {
       "album": {
+        "name": "gin + juice",
+        "url": "https://open.spotify.com/album/05XVgeZiIiW6e20fiUSFZd"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165920,
+      "name": "gin + juice",
+      "url": "https://open.spotify.com/track/6LFO0ho7EEn1jvXfMuEshi"
+    },
+    {
+      "album": {
         "name": "Compliments Please (Deluxe)",
         "url": "https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex"
       },
@@ -6017,6 +6071,24 @@
       "duration_ms": 178250,
       "name": "Hard Not to Hold You",
       "url": "https://open.spotify.com/track/56fTDG4XOduItQAoMURDan"
+    },
+    {
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303066,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/5Aq4CusaoqGNQlvNUUnA7t"
     },
     {
       "album": {
@@ -6859,7 +6931,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 183373,
       "name": "I Saw Light",
       "url": "https://open.spotify.com/track/7jOks94iIfhOj5J3zWaxA1"
@@ -14584,6 +14656,24 @@
     },
     {
       "album": {
+        "name": "Thin Thing",
+        "url": "https://open.spotify.com/album/7A7EYZELB9Ayjwrp6aWVn2"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270945,
+      "name": "Thin Thing",
+      "url": "https://open.spotify.com/track/3DN8g2KmPKwvlyAWCM9mH7"
+    },
+    {
+      "album": {
         "name": "Things You Said",
         "url": "https://open.spotify.com/album/4Clwks3ojJZkBakCQGqeW9"
       },
@@ -14957,6 +15047,24 @@
       "duration_ms": 174097,
       "name": "Trip",
       "url": "https://open.spotify.com/track/4zOfSpDbgco5TJwlgtvuED"
+    },
+    {
+      "album": {
+        "name": "Troglodyte",
+        "url": "https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199732,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9"
     },
     {
       "album": {
@@ -15623,6 +15731,24 @@
       "duration_ms": 248706,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/1yzqt7Pj8phSzklXVdoKCO"
+    },
+    {
+      "album": {
+        "name": "Welcome To Hell",
+        "url": "https://open.spotify.com/album/0fMH4osxhvgAIbZhGE1kL3"
+      },
+      "artists": [
+        {
+          "name": "black midi",
+          "url": "https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249709,
+      "name": "Welcome To Hell",
+      "url": "https://open.spotify.com/track/1PMHfsqnvnTO7mBwDA5pQL"
     },
     {
       "album": {

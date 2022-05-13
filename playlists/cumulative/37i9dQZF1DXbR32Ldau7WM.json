@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-11",
   "description": "The biggest rock artists in Japan right now! Cover: Ling tosite sigure(\u51db\u3068\u3057\u3066\u6642\u96e8)",
   "name": "Big in Japan",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "58cr9qiZRcBgGXeUmGq6P3"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
@@ -39,6 +41,24 @@
       "duration_ms": 171520,
       "name": "Black hole eyed lady",
       "url": "https://open.spotify.com/track/0dwQF24jwHEFvAdBIW5Obx"
+    },
+    {
+      "album": {
+        "name": "BLACK TOWN (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4Uko8iIzKup2aamDdaCUyx"
+      },
+      "artists": [
+        {
+          "name": "Bomb Factory",
+          "url": "https://open.spotify.com/artist/2PPPdxtIsns02nAw3rQ03g"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249319,
+      "name": "BLACK TOWN - Acoustic Version",
+      "url": "https://open.spotify.com/track/0R4IVPXo99eHM52nvT23tn"
     },
     {
       "album": {
@@ -71,7 +91,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
@@ -111,6 +131,28 @@
       "duration_ms": 322130,
       "name": "FALLING",
       "url": "https://open.spotify.com/track/7ms5u8VD4iHQLjRGh73IRG"
+    },
+    {
+      "album": {
+        "name": "10-feat",
+        "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        },
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177480,
+      "name": "Fin",
+      "url": "https://open.spotify.com/track/0gAOZpY2aMUDZa7oF5tJRT"
     },
     {
       "album": {
@@ -169,7 +211,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 212189,
       "name": "hellboy. (feat. \u91c8\u8fe6\u574a\u4e3b)",
       "url": "https://open.spotify.com/track/3eQ9FDoMOunYuuJVVlPmxV"
@@ -241,7 +283,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 228653,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/7oRBCFo22NQjZxzhUCFq78"
@@ -263,6 +305,24 @@
       "duration_ms": 179706,
       "name": "Just",
       "url": "https://open.spotify.com/track/648ultx75M4zzMpS7YDgVs"
+    },
+    {
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L"
+      },
+      "artists": [
+        {
+          "name": "Suspended 4th",
+          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245233,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/4DIVVUgITYlu9P2tzzUUcN"
     },
     {
       "album": {
@@ -343,6 +403,24 @@
       "duration_ms": 228773,
       "name": "My Generation",
       "url": "https://open.spotify.com/track/7MUZ9Co138juL29YOlWUHM"
+    },
+    {
+      "album": {
+        "name": "M\u516b\u4e03",
+        "url": "https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263120,
+      "name": "M\u516b\u4e03",
+      "url": "https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5"
     },
     {
       "album": {
@@ -513,7 +591,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 265420,
       "name": "Scratch",
       "url": "https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8"
@@ -593,6 +671,24 @@
       "duration_ms": 150180,
       "name": "Steady",
       "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+    },
+    {
+      "album": {
+        "name": "BAND FOR HAPPY",
+        "url": "https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk"
+      },
+      "artists": [
+        {
+          "name": "TOTALFAT",
+          "url": "https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173206,
+      "name": "Steer This Band",
+      "url": "https://open.spotify.com/track/1Vmh9Q12P6tyB19oi2a8nx"
     },
     {
       "album": {
@@ -687,7 +783,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
@@ -723,7 +819,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 232746,
       "name": "You Don't Want It",
       "url": "https://open.spotify.com/track/4gDEtqXDYOQTXCe8KAj91c"
@@ -749,6 +845,24 @@
       "duration_ms": 241535,
       "name": "You To You",
       "url": "https://open.spotify.com/track/66GEPhYAtcsWI7GThQcixQ"
+    },
+    {
+      "album": {
+        "name": "\u25cb\u304b\u00d7",
+        "url": "https://open.spotify.com/album/0Ew3ozhOSJz96Np4YTWPXB"
+      },
+      "artists": [
+        {
+          "name": "Kazuya Yoshii",
+          "url": "https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231410,
+      "name": "\u25cb\u304b\u00d7",
+      "url": "https://open.spotify.com/track/2VbxCJgAXOYcf5ashGYuHh"
     },
     {
       "album": {
@@ -860,6 +974,24 @@
     },
     {
       "album": {
+        "name": "\u306a\u306a\u3044\u308d",
+        "url": "https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262146,
+      "name": "\u306a\u306a\u3044\u308d",
+      "url": "https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30c3\u30b5\u30d5\u30a9\u30c3\u30b5",
         "url": "https://open.spotify.com/album/3DmTR6NKkXhmnTnwO0Kt1N"
       },
@@ -911,6 +1043,24 @@
       "duration_ms": 274500,
       "name": "\u30b3\u30b3\u30ab\u30e9\u9280\u5ea7",
       "url": "https://open.spotify.com/track/4nOYiE2HLDen03WXEN0iNw"
+    },
+    {
+      "album": {
+        "name": "A Spring Breath",
+        "url": "https://open.spotify.com/album/1r4OmtQDqbrWo5llPSIWue"
+      },
+      "artists": [
+        {
+          "name": "flumpool",
+          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267792,
+      "name": "\u30b5\u30e8\u30ca\u30e9\u306e\u77ac\u9593",
+      "url": "https://open.spotify.com/track/5QbQyTQ9cB9wT2NZnoipYY"
     },
     {
       "album": {
@@ -991,10 +1141,28 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 276031,
       "name": "\u30de\u30a4\u8349\u5c65 feat. \u306b\u3083\u3093\u5317\u671d\u6642\u4ee3",
       "url": "https://open.spotify.com/track/4WhjnX6kLVNQb7MwnZcdfJ"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/1s56BN4GPeE76OX7QavXxO"
+      },
+      "artists": [
+        {
+          "name": "THE BACK HORN",
+          "url": "https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/1ZDfoPSqnc8MR9Nm745oeq"
     },
     {
       "album": {
@@ -1034,6 +1202,28 @@
     },
     {
       "album": {
+        "name": "\u591a\u91cd\u9732\u5149 feat.\u5ddd\u4e0a\u6d0b\u5e73",
+        "url": "https://open.spotify.com/album/6skn6GGpfrPYBoxNtaVYXg"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Yoohei Kawakami",
+          "url": "https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193360,
+      "name": "\u591a\u91cd\u9732\u5149 feat.\u5ddd\u4e0a\u6d0b\u5e73",
+      "url": "https://open.spotify.com/track/0E20kEWDWX4xL4PzNHfmsz"
+    },
+    {
+      "album": {
         "name": "\u5bdd\u307c\u3051\u305f\u8857\u306b",
         "url": "https://open.spotify.com/album/0DvrSjJFM9QFXJzVJvuyVQ"
       },
@@ -1045,7 +1235,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 266866,
       "name": "\u5bdd\u307c\u3051\u305f\u8857\u306b",
       "url": "https://open.spotify.com/track/5FZ3j7g0wKfzWVT0XL5WbD"
@@ -1063,7 +1253,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 252933,
       "name": "\u5e0c\u671b\u3092\u9cf4\u3089\u305b",
       "url": "https://open.spotify.com/track/4DRHvWmMLFZkkbd0rwqDkG"
@@ -1081,7 +1271,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 241866,
       "name": "\u5fc3\u306e\u9632\u5f3e\u30c1\u30e7\u30c3\u30ad",
       "url": "https://open.spotify.com/track/4184Nq5Rj9cuJD6fCXIkNb"
@@ -1225,7 +1415,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 256880,
       "name": "\u6ce1\u6cab",
       "url": "https://open.spotify.com/track/4OvtVIVx2ZjXmtL5mU7E3k"
@@ -1243,7 +1433,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 255906,
       "name": "\u6d77\u3078",
       "url": "https://open.spotify.com/track/6NuLDbrJf8qL2f2TpjdLE3"
@@ -1369,7 +1559,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 225798,
       "name": "\u96e2\u308c\u3066\u3044\u3066\u3082",
       "url": "https://open.spotify.com/track/0sdriTFzyjr41idOSiCaPu"

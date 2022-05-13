@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 197040,
       "name": "16:18",
       "url": "https://open.spotify.com/track/7kU0jsS0V9gEXjMWzcXWfv"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 70285,
       "name": "CHOUCHIN (SOUND TOUR)",
       "url": "https://open.spotify.com/track/484jkFwdfoURJBypnOLCl0"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 254363,
       "name": "Circulate",
       "url": "https://open.spotify.com/track/3fJA8scjwtoCymoEOkz8Fa"
@@ -3105,7 +3105,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 113312,
       "name": "ICHIMONJI",
       "url": "https://open.spotify.com/track/626liCLxJ7TaxT3WByT2RW"
@@ -3239,7 +3239,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 171964,
       "name": "Intersect",
       "url": "https://open.spotify.com/track/40ZwjOSE0JE0eqYN6v1XXn"
@@ -3475,7 +3475,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 120000,
       "name": "Keyframe",
       "url": "https://open.spotify.com/track/3zUPEfda1zsGBQ8ODoJozL"
@@ -4367,7 +4367,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 186794,
       "name": "Minor Sights",
       "url": "https://open.spotify.com/track/1B03EmZj66nS4PDes73721"
@@ -4667,7 +4667,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 149256,
       "name": "Mt. Kita",
       "url": "https://open.spotify.com/track/1txwaLQknVX822mGk13eEe"
@@ -5089,6 +5089,28 @@
       "duration_ms": 194337,
       "name": "On My Way Home",
       "url": "https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc"
+    },
+    {
+      "album": {
+        "name": "on the way home",
+        "url": "https://open.spotify.com/album/5EqWe1anZt6ZdshaRuW4Hq"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        },
+        {
+          "name": "Y-2",
+          "url": "https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "on the way home",
+      "url": "https://open.spotify.com/track/43cXj7oRb5TsLh4AqEO1OF"
     },
     {
       "album": {
@@ -6191,7 +6213,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 185380,
       "name": "Shurayuki hime",
       "url": "https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr"
@@ -6369,7 +6391,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "snow in the park",
       "url": "https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU"
@@ -7107,7 +7129,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 190285,
       "name": "The Way of the Rain",
       "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
@@ -7589,7 +7611,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 85125,
       "name": "Void",
       "url": "https://open.spotify.com/track/1tBS3K8IdJSF556lcdnMHj"
@@ -7817,7 +7839,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Win the Lottery",
       "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"

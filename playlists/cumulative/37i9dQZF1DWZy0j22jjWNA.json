@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-11",
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
   "name": "Good People Good Music",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3CquFwW4oGs8sHYO00Y4PM"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 288624,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/79vLx4gnWA0YaWXR9cfLbH"
@@ -931,7 +933,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 197445,
       "name": "Reciprocate",
       "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"

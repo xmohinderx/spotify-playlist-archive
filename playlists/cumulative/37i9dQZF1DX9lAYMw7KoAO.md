@@ -4,7 +4,7 @@
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-75 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
+76 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 | 2018-10-01 |  |
 | [Product of Grace](https://open.spotify.com/track/32HuC8zZHlhPrSxuZs6fKT) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Flavour of Africa](https://open.spotify.com/album/4D0ryhrcpymr7pnl0jhVH3) | 3:54 | 2020-12-03 | 2022-03-11 |
 | [Safety](https://open.spotify.com/track/1cuv2HnzLqREWgu6KhXI8Q) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sarah Nathalié](https://open.spotify.com/artist/6oPvIaLoZ8pgWDwb9RXReI) | [Safety](https://open.spotify.com/album/2WvtehaIYsdeiBF1X9zYde) | 3:17 | 2021-11-26 |  |
-| [Sengiyacela \- Live](https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sengiyacela \(Live\)](https://open.spotify.com/album/2tifu52HSqgY17VIrf4zaA) | 6:15 | 2020-05-15 |  |
+| [Sengiyacela \- Live](https://open.spotify.com/track/3UMgV8iwG3h3zOAi5dPNMc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sengiyacela \(Live\)](https://open.spotify.com/album/2tifu52HSqgY17VIrf4zaA) | 6:15 | 2020-05-15 | 2022-05-13 |
+| [Stand Strong \(feat\. The Samples\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [The Samples](https://open.spotify.com/artist/4KV8ACcPuT3Jyx9Bvh6OFs) | [Stand Strong \(feat\. The Samples\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-05-12 |  |
 | [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 | 2020-07-03 |  |
 | [Suddenly](https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS) | 4:51 | 2021-09-10 | 2022-03-18 |
 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 | 2022-02-03 |  |

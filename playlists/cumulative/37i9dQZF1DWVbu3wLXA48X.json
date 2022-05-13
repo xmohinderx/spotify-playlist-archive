@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Belle and Sebastian",
+  "description": "Current indie tunes from Asia and around the world. Cover: Say Sue Me",
   "name": "Indie Shuffle",
   "published_playlist_ids": [
     "20Eh596su19VARcgGsKVKl"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 254609,
       "name": "247",
       "url": "https://open.spotify.com/track/5MvZpSUkVwtWScGm5uJAGA"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 385523,
       "name": "Alone In The Night",
       "url": "https://open.spotify.com/track/19LGo0Ei7NGpSlhWKh9iVn"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 214520,
       "name": "Car Therapy",
       "url": "https://open.spotify.com/track/03bB3eUCjwXGYkyMrKK8qg"
@@ -1053,6 +1053,24 @@
       "duration_ms": 211968,
       "name": "Coeur Kamikaze \u5fc3\u8207\u6d77",
       "url": "https://open.spotify.com/track/1xut6DzmmqwYixQ5xRskZ1"
+    },
+    {
+      "album": {
+        "name": "coming of age",
+        "url": "https://open.spotify.com/album/16dHQevaWoeNkgMQxa4PD5"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "coming of age",
+      "url": "https://open.spotify.com/track/0bmBT74X61khNZckpm6qWi"
     },
     {
       "album": {
@@ -1254,6 +1272,24 @@
     },
     {
       "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227374,
+      "name": "Dream Girl Evil",
+      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
+    },
+    {
+      "album": {
         "name": "Drinking On A Tuesday",
         "url": "https://open.spotify.com/album/7iE0mJLOVvthwGkN04OBZ0"
       },
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 148722,
       "name": "Easy Like 123",
       "url": "https://open.spotify.com/track/5WafeWUNLnf2BY9UJ3xgRP"
@@ -1546,6 +1582,24 @@
     },
     {
       "album": {
+        "name": "Feel Another Day",
+        "url": "https://open.spotify.com/album/7HxBXjkzwT4hhb8THINZXA"
+      },
+      "artists": [
+        {
+          "name": "Night Moves",
+          "url": "https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241960,
+      "name": "Feel Another Day",
+      "url": "https://open.spotify.com/track/3QeDBrfHSMvJFKQd6ALYM2"
+    },
+    {
+      "album": {
         "name": "Find you in the dark",
         "url": "https://open.spotify.com/album/56uJ7jcKVU3qdEoJdogi4t"
       },
@@ -1615,7 +1669,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 252864,
       "name": "Free In The Knowledge",
       "url": "https://open.spotify.com/track/0Jb9xtnDpX4BOCal2mXBUn"
@@ -2009,6 +2063,24 @@
       "duration_ms": 244821,
       "name": "Hold",
       "url": "https://open.spotify.com/track/5qe2mnouQfrbzec96JvBD3"
+    },
+    {
+      "album": {
+        "name": "HOUSE OF CARDS",
+        "url": "https://open.spotify.com/album/4Ow0zSLrELaYdaUpDbXoSy"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183490,
+      "name": "HOUSE OF CARDS",
+      "url": "https://open.spotify.com/track/5pJsvdpvCOH4VUjKVthzG6"
     },
     {
       "album": {
@@ -2908,6 +2980,28 @@
     },
     {
       "album": {
+        "name": "Meteorite",
+        "url": "https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194630,
+      "name": "Meteorite",
+      "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
+    },
+    {
+      "album": {
         "name": "MAHAL",
         "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
       },
@@ -3271,10 +3365,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 233600,
       "name": "No News No Blues",
       "url": "https://open.spotify.com/track/0tWIcCN7lrOuJEZvAPSLab"
+    },
+    {
+      "album": {
+        "name": "The Last Thing Left",
+        "url": "https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj"
+      },
+      "artists": [
+        {
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "No Real Place",
+      "url": "https://open.spotify.com/track/1XpPV3WNz7ExOAIDgcaeLB"
     },
     {
       "album": {
@@ -3923,6 +4035,24 @@
       "duration_ms": 194374,
       "name": "Roll The Dice",
       "url": "https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO"
+    },
+    {
+      "album": {
+        "name": "Roman Candles",
+        "url": "https://open.spotify.com/album/08RMceLc7dOM9mmdoFpPBM"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130106,
+      "name": "Roman Candles",
+      "url": "https://open.spotify.com/track/6jIrbJ5w2KfkLsk3LiGTOW"
     },
     {
       "album": {
@@ -5012,6 +5142,24 @@
     },
     {
       "album": {
+        "name": "Making Money (4AD B-Sides and Rarities)",
+        "url": "https://open.spotify.com/album/7y9ILmRJUNgwYj1MMmWD9P"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188146,
+      "name": "The World Is Full of Strangers",
+      "url": "https://open.spotify.com/track/5gplTfUC3mOQPNFjdsnqNH"
+    },
+    {
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
       },
@@ -5167,7 +5315,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 310946,
       "name": "Together",
       "url": "https://open.spotify.com/track/5EfkbBaR8OMEJpdOF2uY2Q"
@@ -5549,7 +5697,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 215593,
       "name": "Whenever I See You - Live",
       "url": "https://open.spotify.com/track/5fVD9x5lBXSjMqiR5s2Efc"
@@ -5647,7 +5795,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 139183,
       "name": "Why",
       "url": "https://open.spotify.com/track/0wOUNGOHvZZfwg7EodzJUc"
@@ -5749,6 +5897,24 @@
       "duration_ms": 219013,
       "name": "You Forever - Pop Off Edit",
       "url": "https://open.spotify.com/track/79GCsEAXxWQIi9OZG4NfqC"
+    },
+    {
+      "album": {
+        "name": "You Will Never Work In Television Again",
+        "url": "https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168172,
+      "name": "You Will Never Work In Television Again",
+      "url": "https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw"
     },
     {
       "album": {

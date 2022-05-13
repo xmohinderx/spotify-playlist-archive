@@ -4,10 +4,11 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-86 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+87 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Afyon Dinarı \(Remix\) \[Radio Edit\]](https://open.spotify.com/track/1iz6iEzu6SLEkqXNuUtcsg) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [kahadirbartal](https://open.spotify.com/artist/7GuyqpKIBE1p4krHb0DrzK), [Laruen](https://open.spotify.com/artist/5ZEzzqHOZ2EzYJdhg4tBx3) | [Afyon Dinarı \(Remix\) \[Radio Edit\]](https://open.spotify.com/album/4tGdIZKYYE3NQqQZxwCWgx) | 3:31 | 2022-05-09 |  |
 | [Alesta](https://open.spotify.com/track/70MDy7d6MUnf4EUqpMxzW7) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Alesta](https://open.spotify.com/album/53Hqt6SONfBWTGzwQi11xI) | 5:56 | 2022-04-13 |  |
 | [Amal](https://open.spotify.com/track/6mbaDJR50wBfd2LuXTKSd2) | [Arrab](https://open.spotify.com/artist/1L0yRmW7xOjMFqed4wtcp3) | [Gardens of Eden](https://open.spotify.com/album/0ht36Zhz7lluBt8vBWJRVZ) | 8:45 | 2022-04-13 |  |
 | [Aminta \- Scorpios Edit](https://open.spotify.com/track/0l0HvE2nwRsMlsYYv5cAvL) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Aminta](https://open.spotify.com/album/2TK1N038DNKJwM6rNR5775) | 3:31 | 2022-04-13 |  |

@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Closer Than Two of a Kind](https://open.spotify.com/track/5QgucJUBN52nIhm8BbM4du) | [Jaydan Talley](https://open.spotify.com/artist/6SHSqIirKqfAQuI4IlPw2C) | [Rhythm Mile](https://open.spotify.com/album/2bXnDKKspIqhR7iLUlIITt) | 3:30 |
 | 30 | [Best Year Yet](https://open.spotify.com/track/1PuxeFam4vcJferpa06TgU) | [In Paradise](https://open.spotify.com/artist/4ALawqTfUuUWNCPMoKKuxz) | [Best Year Yet](https://open.spotify.com/album/79DDNzrrmZdPiYFkqcOjPU) | 3:00 |
 
-Snapshot ID: `MCwwMDAwMDAwMDZhY2VjNjBkNzM1MWQxM2QxZTNmNTA3NmQ2MDRjMWZl`
+Snapshot ID: `MCwwMDAwMDAwMDliYjIzN2QwYTA3ODkwN2I0NjgyNzZlMjk5MWNiYmNm`

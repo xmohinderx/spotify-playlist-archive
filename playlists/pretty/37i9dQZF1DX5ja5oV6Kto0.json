@@ -1,13 +1,33 @@
 {
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4?si=6MdGOyJgRNy8PxXvuR1xvA\"> Jaylon </a> ",
-  "num_followers": 59876,
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h?si=5SZSnm7-RNGAizqKbMG_Kg\"> Obongjayar </a> ",
+  "num_followers": 59918,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTc5MTYwMCwwMDAwMDBjYTAwMDAwMTgwOTY3MzlhNWQwMDAwMDE4MDRjYjE3Y2Rj",
+  "snapshot_id": "MTY1MjM5NjQwMCwwMDAwMDBjYjAwMDAwMTgwYmE4MDFlNzAwMDAwMDE4MGI3YzkwNzEy",
   "tracks": [
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Some Nights I Dream of Doors",
+        "url": "https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Wrong for It",
+      "url": "https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7"
+    },
     {
       "added_at": "2022-04-21 23:00:00",
       "album": {
@@ -33,20 +53,80 @@
       "url": "https://open.spotify.com/track/6pvDq4tfrVMHpN1oYl6B6M"
     },
     {
-      "added_at": "2022-03-17 23:00:00",
+      "added_at": "2022-02-10 23:01:00",
       "album": {
-        "name": "Silver Spoon Interlude/ Jezebel",
-        "url": "https://open.spotify.com/album/7dKn566TDdomhx9ztHIszj"
+        "name": "Hubris",
+        "url": "https://open.spotify.com/album/5Bsfvg0Xbe7FXhTz0yfsmZ"
       },
       "artists": [
         {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
         }
       ],
-      "duration_ms": 138142,
-      "name": "Silver Spoon Interlude",
-      "url": "https://open.spotify.com/track/1lB32vlcLZhXtqZbaIgdz0"
+      "duration_ms": 206253,
+      "name": "Hubris",
+      "url": "https://open.spotify.com/track/61jRGsVT7lj1DlYSSAlVV3"
+    },
+    {
+      "added_at": "2022-03-03 23:01:00",
+      "album": {
+        "name": "Worry <",
+        "url": "https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE"
+    },
+    {
+      "added_at": "2022-04-28 23:00:00",
+      "album": {
+        "name": "Nobody Like You",
+        "url": "https://open.spotify.com/album/7pMnBN0NUqsdOCl8bejYkV"
+      },
+      "artists": [
+        {
+          "name": "m\u00f3st",
+          "url": "https://open.spotify.com/artist/66S3gR4KK28YJ4X45xNdRp"
+        },
+        {
+          "name": "Shayo Davids",
+          "url": "https://open.spotify.com/artist/5iq9xZgHRSltyOnP0ag1X9"
+        }
+      ],
+      "duration_ms": 134711,
+      "name": "Nobody Like You",
+      "url": "https://open.spotify.com/track/51HIK8KrvGlP0ibrOtjgbL"
+    },
+    {
+      "added_at": "2021-12-17 08:42:53",
+      "album": {
+        "name": "SLIDE",
+        "url": "https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL"
+      },
+      "artists": [
+        {
+          "name": "DOZ",
+          "url": "https://open.spotify.com/artist/6Fkfi6lZmhzNzeT19O9hiV"
+        },
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        }
+      ],
+      "duration_ms": 180159,
+      "name": "SLIDE",
+      "url": "https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW"
     },
     {
       "added_at": "2022-04-07 23:00:00",
@@ -89,6 +169,46 @@
       "url": "https://open.spotify.com/track/4JfsvpTMSYW9bU97A4PiGa"
     },
     {
+      "added_at": "2021-04-16 00:00:00",
+      "album": {
+        "name": "Bling (feat. Amaarae & Buju)",
+        "url": "https://open.spotify.com/album/3FBwuaDksx69N9qzYb3m8N"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Bling (feat. Amaarae & Buju)",
+      "url": "https://open.spotify.com/track/5w5RWZCayZmDQ2sIq4xnzb"
+    },
+    {
+      "added_at": "2022-03-17 23:00:00",
+      "album": {
+        "name": "Silver Spoon Interlude/ Jezebel",
+        "url": "https://open.spotify.com/album/7dKn566TDdomhx9ztHIszj"
+      },
+      "artists": [
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        }
+      ],
+      "duration_ms": 138142,
+      "name": "Silver Spoon Interlude",
+      "url": "https://open.spotify.com/track/1lB32vlcLZhXtqZbaIgdz0"
+    },
+    {
       "added_at": "2022-05-05 23:00:00",
       "album": {
         "name": "less is more",
@@ -103,46 +223,6 @@
       "duration_ms": 156585,
       "name": "less is more",
       "url": "https://open.spotify.com/track/6PSivAJERaHuvJqOaJ2XYh"
-    },
-    {
-      "added_at": "2022-04-28 23:00:00",
-      "album": {
-        "name": "Nobody Like You",
-        "url": "https://open.spotify.com/album/7pMnBN0NUqsdOCl8bejYkV"
-      },
-      "artists": [
-        {
-          "name": "m\u00f3st",
-          "url": "https://open.spotify.com/artist/66S3gR4KK28YJ4X45xNdRp"
-        },
-        {
-          "name": "Shayo Davids",
-          "url": "https://open.spotify.com/artist/5iq9xZgHRSltyOnP0ag1X9"
-        }
-      ],
-      "duration_ms": 134711,
-      "name": "Nobody Like You",
-      "url": "https://open.spotify.com/track/51HIK8KrvGlP0ibrOtjgbL"
-    },
-    {
-      "added_at": "2022-02-10 23:01:00",
-      "album": {
-        "name": "Hubris",
-        "url": "https://open.spotify.com/album/5Bsfvg0Xbe7FXhTz0yfsmZ"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Hubris",
-      "url": "https://open.spotify.com/track/61jRGsVT7lj1DlYSSAlVV3"
     },
     {
       "added_at": "2021-02-26 00:00:00",
@@ -189,46 +269,6 @@
       "url": "https://open.spotify.com/track/719tWjaCn54N9rCD8tgtDG"
     },
     {
-      "added_at": "2022-03-03 23:01:00",
-      "album": {
-        "name": "Worry <",
-        "url": "https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Present",
-      "url": "https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE"
-    },
-    {
-      "added_at": "2021-04-16 00:00:00",
-      "album": {
-        "name": "Bling (feat. Amaarae & Buju)",
-        "url": "https://open.spotify.com/album/3FBwuaDksx69N9qzYb3m8N"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Bling (feat. Amaarae & Buju)",
-      "url": "https://open.spotify.com/track/5w5RWZCayZmDQ2sIq4xnzb"
-    },
-    {
       "added_at": "2022-04-28 23:00:00",
       "album": {
         "name": "Mahogany St",
@@ -243,34 +283,6 @@
       "duration_ms": 175000,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp"
-    },
-    {
-      "added_at": "2021-02-26 00:00:00",
-      "album": {
-        "name": "Company / Issues",
-        "url": "https://open.spotify.com/album/0bOwM7CYfw786z0ZWq9Xea"
-      },
-      "artists": [
-        {
-          "name": "Higo",
-          "url": "https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0"
-        },
-        {
-          "name": "HVRRY",
-          "url": "https://open.spotify.com/artist/0UVg1odbMc16LRZiaXdo0m"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
-        }
-      ],
-      "duration_ms": 151898,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/79ydXWBVWRziknKUc2l4sT"
     },
     {
       "added_at": "2021-07-23 00:00:00",
@@ -349,26 +361,6 @@
       "url": "https://open.spotify.com/track/5BeGPJdDixrxEDpY2NaZ0Z"
     },
     {
-      "added_at": "2021-12-17 08:42:53",
-      "album": {
-        "name": "SLIDE",
-        "url": "https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL"
-      },
-      "artists": [
-        {
-          "name": "DOZ",
-          "url": "https://open.spotify.com/artist/6Fkfi6lZmhzNzeT19O9hiV"
-        },
-        {
-          "name": "Fasina",
-          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
-        }
-      ],
-      "duration_ms": 180159,
-      "name": "SLIDE",
-      "url": "https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW"
-    },
-    {
       "added_at": "2022-04-21 23:00:00",
       "album": {
         "name": "Gbagada Express",
@@ -395,6 +387,22 @@
       "duration_ms": 168247,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Smoke & Dance",
+        "url": "https://open.spotify.com/album/23nWH7wnFEJZjEzs25gUuM"
+      },
+      "artists": [
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        }
+      ],
+      "duration_ms": 220680,
+      "name": "Smoke & Dance",
+      "url": "https://open.spotify.com/track/4nSSNiBOvcApl9eLb40rqD"
     },
     {
       "added_at": "2022-05-05 23:00:00",
@@ -443,6 +451,30 @@
       "duration_ms": 131478,
       "name": "MIDLIFE CRISIS",
       "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Trappin'",
+        "url": "https://open.spotify.com/album/5hryGF4CvfTG6IIeK5SLVq"
+      },
+      "artists": [
+        {
+          "name": "Re.decay",
+          "url": "https://open.spotify.com/artist/0PDj0ZH3LHrGifJSeDZKWF"
+        },
+        {
+          "name": "Tinuke",
+          "url": "https://open.spotify.com/artist/5AzAEBREBwVj9AOmHNG5X1"
+        },
+        {
+          "name": "Eze Jackson",
+          "url": "https://open.spotify.com/artist/5tPCFmRzyUGp5ZNqSC54QM"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Trappin'",
+      "url": "https://open.spotify.com/track/5plaVEdji1xkIuEEKvuVEt"
     },
     {
       "added_at": "2022-03-28 06:31:07",
@@ -989,30 +1021,6 @@
       "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
     },
     {
-      "added_at": "2022-03-24 23:00:00",
-      "album": {
-        "name": "All My Fault",
-        "url": "https://open.spotify.com/album/4MVfWM1J9jPkg8dSExd4hB"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "Cxnrvd",
-          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
-        }
-      ],
-      "duration_ms": 186875,
-      "name": "All My Fault",
-      "url": "https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3"
-    },
-    {
       "added_at": "2021-12-02 23:02:00",
       "album": {
         "name": "Stairway To Heaven",
@@ -1063,22 +1071,6 @@
       "duration_ms": 224347,
       "name": "SPUNK",
       "url": "https://open.spotify.com/track/6CY2Bg6y16n0OZ3NBdEqFY"
-    },
-    {
-      "added_at": "2021-12-09 23:02:00",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/4zZ2eYh53WkCkY0ixzKZEf"
-      },
-      "artists": [
-        {
-          "name": "WNDRSZN",
-          "url": "https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ"
-        }
-      ],
-      "duration_ms": 218947,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3FkuwslAokF99ZLHtFRuAv"
     },
     {
       "added_at": "2021-07-30 00:00:00",

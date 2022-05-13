@@ -1,29 +1,13 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 72806,
+  "num_followers": 72835,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjMxNzU1NSwwMDAwMDAwMDI4OGRjMGUwYTkxMjcyMWQwOTgyMjJmNjEwZTkyYWU5",
+  "snapshot_id": "MTY1MjQwNDI4NSwwMDAwMDAwMDM2ZDdmNWFiNjc5NTE1ZGQ3NmYzY2Y3ZmVhYzFiY2Ew",
   "tracks": [
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Who Am I",
-        "url": "https://open.spotify.com/album/72CV1DFqBoUQL4acaFuN2R"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/74KwjCkAAb7eL1CPt86mux"
-    },
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/2mgnhYvHdQQzVOM2LDkuXU"
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/72CV1DFqBoUQL4acaFuN2R"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 226293,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3"
+      "duration_ms": 207066,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/74KwjCkAAb7eL1CPt86mux"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -75,6 +59,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/2mgnhYvHdQQzVOM2LDkuXU"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Dreaming in Electric Blue",
         "url": "https://open.spotify.com/album/5ymT7qx01IcB4M7KXuGRTV"
       },
@@ -87,22 +87,6 @@
       "duration_ms": 192005,
       "name": "Dreaming in Electric Blue",
       "url": "https://open.spotify.com/track/0hg7dVdNRtxiIxq4WLyq3y"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
-      },
-      "artists": [
-        {
-          "name": "ELLIANA",
-          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
-        }
-      ],
-      "duration_ms": 266036,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -139,34 +123,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Wilder Woods",
-        "url": "https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
       },
       "artists": [
         {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+          "name": "ELLIANA",
+          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
         }
       ],
-      "duration_ms": 263294,
-      "name": "Someday Soon",
-      "url": "https://open.spotify.com/track/5xv9Shs68bVmUd9tiJSK8r"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
+      "duration_ms": 266036,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -191,18 +159,50 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Wildwood Kin",
-        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
       },
       "artists": [
         {
-          "name": "Wildwood Kin",
-          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
         }
       ],
-      "duration_ms": 246686,
-      "name": "Wake Up Sleeper",
-      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Wilder Woods",
+        "url": "https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "duration_ms": 263294,
+      "name": "Someday Soon",
+      "url": "https://open.spotify.com/track/5xv9Shs68bVmUd9tiJSK8r"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -223,22 +223,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
-        "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
+        "name": "Wildwood Kin",
+        "url": "https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Wildwood Kin",
+          "url": "https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B"
         }
       ],
-      "duration_ms": 222878,
-      "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
-      "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
+      "duration_ms": 246686,
+      "name": "Wake Up Sleeper",
+      "url": "https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -263,34 +259,50 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
+        "name": "Harmony Hall",
+        "url": "https://open.spotify.com/album/44zEck6pQCFXXyCSWklvNa"
       },
       "artists": [
         {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
         }
       ],
-      "duration_ms": 263372,
-      "name": "Take The World",
-      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
+      "duration_ms": 297506,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/7zBj1M7kZq6ErNfFtsJaRE"
     },
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
       },
       "artists": [
         {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+          "name": "Aalok Bala",
+          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
         }
       ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
+      "duration_ms": 201487,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Dragons",
+        "url": "https://open.spotify.com/album/4Vfcpe8U84tm22ObXUcHG8"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/0qnW2lTiIkUQmSuOEEqjyW"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -327,6 +339,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 263372,
+      "name": "Take The World",
+      "url": "https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
       },
@@ -339,6 +367,26 @@
       "duration_ms": 211173,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
+        "url": "https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 222878,
+      "name": "JOY INVINCIBLE [Feat. Jenn Johnson]",
+      "url": "https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -359,18 +407,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Harmony Hall",
-        "url": "https://open.spotify.com/album/44zEck6pQCFXXyCSWklvNa"
+        "name": "Versions",
+        "url": "https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+          "name": "Elenowen",
+          "url": "https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC"
         }
       ],
-      "duration_ms": 297506,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/7zBj1M7kZq6ErNfFtsJaRE"
+      "duration_ms": 231346,
+      "name": "Losing the Lonely",
+      "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -391,58 +439,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/1RLsgKm0afhZsGZFujcXTq"
-      },
-      "artists": [
-        {
-          "name": "13 Crowns",
-          "url": "https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb"
-        },
-        {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
-        }
-      ],
-      "duration_ms": 246081,
-      "name": "Grateful (feat. Poo Bear)",
-      "url": "https://open.spotify.com/track/299R8rSX3D67STCYfh6LZn"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Dragons",
-        "url": "https://open.spotify.com/album/4Vfcpe8U84tm22ObXUcHG8"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/0qnW2lTiIkUQmSuOEEqjyW"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
-      },
-      "artists": [
-        {
-          "name": "Aalok Bala",
-          "url": "https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM"
-        }
-      ],
-      "duration_ms": 201487,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Keeper of Days",
         "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
@@ -459,18 +455,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Versions",
-        "url": "https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa"
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/1RLsgKm0afhZsGZFujcXTq"
       },
       "artists": [
         {
-          "name": "Elenowen",
-          "url": "https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC"
+          "name": "13 Crowns",
+          "url": "https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb"
+        },
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
         }
       ],
-      "duration_ms": 231346,
-      "name": "Losing the Lonely",
-      "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
+      "duration_ms": 246081,
+      "name": "Grateful (feat. Poo Bear)",
+      "url": "https://open.spotify.com/track/299R8rSX3D67STCYfh6LZn"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -499,8 +499,8 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/3eJySaHVIrzzPGrVKTNccc"
+        "name": "Beautiful Anyway",
+        "url": "https://open.spotify.com/album/7nBneg4Rg24xh4awr2PJye"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 480893,
-      "name": "Queen Songs / human.",
-      "url": "https://open.spotify.com/track/0JVCVctt51JnBAmOhxLhkm"
+      "duration_ms": 298977,
+      "name": "Beautiful Anyway",
+      "url": "https://open.spotify.com/track/57nsUfW0qofrkoy9un0ffJ"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -527,6 +527,22 @@
       "duration_ms": 265096,
       "name": "Beloved",
       "url": "https://open.spotify.com/track/5V0nHhlYIjUMfcSoJ5ziRD"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q"
+      },
+      "artists": [
+        {
+          "name": "Moda Spira",
+          "url": "https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a"
+        }
+      ],
+      "duration_ms": 219876,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -555,22 +571,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q"
-      },
-      "artists": [
-        {
-          "name": "Moda Spira",
-          "url": "https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a"
-        }
-      ],
-      "duration_ms": 219876,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "CRAZYTALK",
         "url": "https://open.spotify.com/album/1VYbFOGfg6BE3rn1LTMTny"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Broken With You",
-        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
-      },
-      "artists": [
-        {
-          "name": "Nathan Sheridan",
-          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
-        }
-      ],
-      "duration_ms": 178796,
-      "name": "Starts With You And Me",
-      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Mighty Refuge",
         "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
       },
@@ -619,38 +603,6 @@
       "duration_ms": 323076,
       "name": "Spark My Heart",
       "url": "https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Oh Dreamer",
-        "url": "https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei"
-      },
-      "artists": [
-        {
-          "name": "The Brilliance",
-          "url": "https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Oh Dreamer",
-      "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Like Myself",
-        "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Grace",
-          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Like Myself",
-      "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -675,66 +627,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Beautiful Anyway",
-        "url": "https://open.spotify.com/album/7nBneg4Rg24xh4awr2PJye"
+        "name": "Broken With You",
+        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Nathan Sheridan",
+          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
         }
       ],
-      "duration_ms": 298977,
-      "name": "Beautiful Anyway",
-      "url": "https://open.spotify.com/track/57nsUfW0qofrkoy9un0ffJ"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "City of Black & White Revisited",
-        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 225837,
-      "name": "City of Black & White",
-      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Dawned On Me",
-        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
-      },
-      "artists": [
-        {
-          "name": "Brewer",
-          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Dawned On Me",
-      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Perfect Sense",
-        "url": "https://open.spotify.com/album/53qkJ4gSKYLN04MNbceDIL"
-      },
-      "artists": [
-        {
-          "name": "The Overstory",
-          "url": "https://open.spotify.com/artist/3BRxXnd7h14dwrzHor2hoM"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Perfect Sense",
-      "url": "https://open.spotify.com/track/2DePPpTXAXq75jLDObF8Az"
+      "duration_ms": 178796,
+      "name": "Starts With You And Me",
+      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -759,18 +663,66 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Waters",
-        "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
+        "name": "Oh Dreamer",
+        "url": "https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei"
       },
       "artists": [
         {
-          "name": "Junior Garr",
-          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
+          "name": "The Brilliance",
+          "url": "https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e"
         }
       ],
-      "duration_ms": 240630,
-      "name": "Waters",
-      "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
+      "duration_ms": 204440,
+      "name": "Oh Dreamer",
+      "url": "https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/3eJySaHVIrzzPGrVKTNccc"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 480893,
+      "name": "Queen Songs / human.",
+      "url": "https://open.spotify.com/track/0JVCVctt51JnBAmOhxLhkm"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Perfect Sense",
+        "url": "https://open.spotify.com/album/53qkJ4gSKYLN04MNbceDIL"
+      },
+      "artists": [
+        {
+          "name": "The Overstory",
+          "url": "https://open.spotify.com/artist/3BRxXnd7h14dwrzHor2hoM"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Perfect Sense",
+      "url": "https://open.spotify.com/track/2DePPpTXAXq75jLDObF8Az"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Dawned On Me",
+        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
+      },
+      "artists": [
+        {
+          "name": "Brewer",
+          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Dawned On Me",
+      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -791,18 +743,82 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Portals",
-        "url": "https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I"
+        "name": "City of Black & White Revisited",
+        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
       },
       "artists": [
         {
-          "name": "Fleurie",
-          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
         }
       ],
-      "duration_ms": 198026,
-      "name": "Constellate",
-      "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
+      "duration_ms": 225837,
+      "name": "City of Black & White",
+      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Like Myself",
+        "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Grace",
+          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Like Myself",
+      "url": "https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Jacob/HTBY",
+        "url": "https://open.spotify.com/album/3RGAvvbu5smdrcxZqFIf0U"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Jacob",
+      "url": "https://open.spotify.com/track/3jTY5qsxVZ1XztJH3L2lO6"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "This Is No Burial",
+        "url": "https://open.spotify.com/album/0elstO4HWsES7meWd8Y019"
+      },
+      "artists": [
+        {
+          "name": "Andie Elise",
+          "url": "https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2"
+        }
+      ],
+      "duration_ms": 234632,
+      "name": "This Is No Burial",
+      "url": "https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Waters",
+        "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
+      },
+      "artists": [
+        {
+          "name": "Junior Garr",
+          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
+        }
+      ],
+      "duration_ms": 240630,
+      "name": "Waters",
+      "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -843,22 +859,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Pilot of My Own Life",
-        "url": "https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ"
-      },
-      "artists": [
-        {
-          "name": "Lovkn",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 244480,
-      "name": "Holy Rain",
-      "url": "https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "One Wild Life",
         "url": "https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp"
       },
@@ -875,40 +875,40 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Jacob/HTBY",
-        "url": "https://open.spotify.com/album/3RGAvvbu5smdrcxZqFIf0U"
+        "name": "Pilot of My Own Life",
+        "url": "https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ"
       },
       "artists": [
         {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+          "name": "Lovkn",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
         }
       ],
-      "duration_ms": 241066,
-      "name": "Jacob",
-      "url": "https://open.spotify.com/track/3jTY5qsxVZ1XztJH3L2lO6"
+      "duration_ms": 244480,
+      "name": "Holy Rain",
+      "url": "https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI"
     },
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "This Is No Burial",
-        "url": "https://open.spotify.com/album/0elstO4HWsES7meWd8Y019"
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I"
       },
       "artists": [
         {
-          "name": "Andie Elise",
-          "url": "https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2"
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
         }
       ],
-      "duration_ms": 234632,
-      "name": "This Is No Burial",
-      "url": "https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2"
+      "duration_ms": 198026,
+      "name": "Constellate",
+      "url": "https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r"
     },
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Road, The Rocks, and The Weeds",
-        "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
       },
       "artists": [
         {
@@ -916,25 +916,9 @@
           "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 215014,
-      "name": "The Road, The Rocks, and The Weeds",
-      "url": "https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/3ImSdPnHazo2pgkWe3BE4Y"
-      },
-      "artists": [
-        {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/1yHiB4YKPjJ8WFB8GZGXbP"
+      "duration_ms": 234558,
+      "name": "Juggernaut",
+      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -951,42 +935,6 @@
       "duration_ms": 202320,
       "name": "Heartbreak Magic",
       "url": "https://open.spotify.com/track/2xDF7yuo284KTe5yZEsuE9"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Radiant (Shine Like Diamonds)",
-        "url": "https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y"
-      },
-      "artists": [
-        {
-          "name": "Quiet Science",
-          "url": "https://open.spotify.com/artist/6ClKRjCUNwKVuR5MjFPjY0"
-        }
-      ],
-      "duration_ms": 241031,
-      "name": "Radiant (Shine Like Diamonds)",
-      "url": "https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Unshackled",
-        "url": "https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm"
-      },
-      "artists": [
-        {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
-        },
-        {
-          "name": "Kareen Vargas",
-          "url": "https://open.spotify.com/artist/4xpzHbtR7afmdAsz3gxdd8"
-        }
-      ],
-      "duration_ms": 244089,
-      "name": "Unshackled",
-      "url": "https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1039,6 +987,58 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Unshackled",
+        "url": "https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm"
+      },
+      "artists": [
+        {
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+        },
+        {
+          "name": "Kareen Vargas",
+          "url": "https://open.spotify.com/artist/4xpzHbtR7afmdAsz3gxdd8"
+        }
+      ],
+      "duration_ms": 244089,
+      "name": "Unshackled",
+      "url": "https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Radiant (Shine Like Diamonds)",
+        "url": "https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y"
+      },
+      "artists": [
+        {
+          "name": "Quiet Science",
+          "url": "https://open.spotify.com/artist/6ClKRjCUNwKVuR5MjFPjY0"
+        }
+      ],
+      "duration_ms": 241031,
+      "name": "Radiant (Shine Like Diamonds)",
+      "url": "https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/3ImSdPnHazo2pgkWe3BE4Y"
+      },
+      "artists": [
+        {
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/1yHiB4YKPjJ8WFB8GZGXbP"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Free Like a Broken Heart (Acoustic)",
         "url": "https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD"
       },
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+        "name": "The Road, The Rocks, and The Weeds",
+        "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 234558,
-      "name": "Juggernaut",
-      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
+      "duration_ms": 215014,
+      "name": "The Road, The Rocks, and The Weeds",
+      "url": "https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Ain't No Grave",
-        "url": "https://open.spotify.com/album/6zNUzDWQwCbLUAO9i5pTrf"
+        "name": "Songs from the Valley",
+        "url": "https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN"
       },
       "artists": [
         {
-          "name": "Zach Winters",
-          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
         }
       ],
-      "duration_ms": 288624,
-      "name": "Ain't No Grave",
-      "url": "https://open.spotify.com/track/79vLx4gnWA0YaWXR9cfLbH"
+      "duration_ms": 197445,
+      "name": "Reciprocate",
+      "url": "https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS"
     }
   ],
   "unique_name": "Good People Good Music",

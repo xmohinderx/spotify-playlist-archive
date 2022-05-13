@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-11",
   "description": "New music and timeless tracks from legends only. Cover: Pink Floyd",
   "name": "Legends Only",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4sJNNOXti6LqdxGyE3CdfI"
+  ],
   "tracks": [
     {
       "album": {
@@ -71,7 +73,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 218440,
       "name": "Alone Again Or",
       "url": "https://open.spotify.com/track/34dAKRy0pfwYylW7ivoOgy"
@@ -89,7 +91,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 318172,
       "name": "ANNIVERSARY",
       "url": "https://open.spotify.com/track/6w4goTlu5ciLeHNntz20La"
@@ -273,7 +275,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 358426,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
@@ -555,7 +557,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 193973,
       "name": "Flying On The Ground",
       "url": "https://open.spotify.com/track/0EaqNRuOrlsJsW23gG8i7v"
@@ -577,6 +579,42 @@
       "duration_ms": 270773,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
+    },
+    {
+      "album": {
+        "name": "Parallel Lines (Remastered)",
+        "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142293,
+      "name": "Hanging On The Telephone - Remastered",
+      "url": "https://open.spotify.com/track/343iSx7QQ41UeroboMrhmh"
+    },
+    {
+      "album": {
+        "name": "Hate for Sale",
+        "url": "https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150466,
+      "name": "Hate for Sale",
+      "url": "https://open.spotify.com/track/5ZCjTGPwuevyVycVywEVj5"
     },
     {
       "album": {
@@ -635,7 +673,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 273954,
       "name": "High and Lonesome",
       "url": "https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg"
@@ -761,7 +799,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 287573,
       "name": "In Better Times",
       "url": "https://open.spotify.com/track/6Qjaa8xn44u0WgRHhF8maL"
@@ -877,7 +915,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 286320,
       "name": "Land Of Confusion - Remastered 2007",
       "url": "https://open.spotify.com/track/2oiMNaVCul7qmMzpRStjCg"
@@ -913,7 +951,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 257640,
       "name": "Learning to Fly - 2019 Remix [2021 Edit]",
       "url": "https://open.spotify.com/track/0bdXJZtjzYXYzd3pBKxhci"
@@ -1028,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "Lover Undiscovered",
+        "url": "https://open.spotify.com/album/6yM80x6SIQfX0Hly51bgw3"
+      },
+      "artists": [
+        {
+          "name": "The Coral",
+          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209346,
+      "name": "Lover Undiscovered",
+      "url": "https://open.spotify.com/track/3YVQiEpzGi0E4cP0YBkVX3"
+    },
+    {
+      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -1043,6 +1099,24 @@
       "duration_ms": 254640,
       "name": "Made of Stone - Remastered",
       "url": "https://open.spotify.com/track/0bZelokqNQicLQfLU1Ayw8"
+    },
+    {
+      "album": {
+        "name": "Doolittle",
+        "url": "https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177466,
+      "name": "Monkey Gone to Heaven",
+      "url": "https://open.spotify.com/track/1lFC3sMgOcDrVzNh8zXRnl"
     },
     {
       "album": {
@@ -1255,7 +1329,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU"
@@ -1327,7 +1401,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 197808,
       "name": "Rushing Water",
       "url": "https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD"
@@ -1421,7 +1495,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 318506,
       "name": "Step On - 2007 Remaster",
       "url": "https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG"
@@ -1439,7 +1513,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 419240,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa"
@@ -1475,7 +1549,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 230893,
       "name": "The Buzz",
       "url": "https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc"
@@ -1529,7 +1603,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 309306,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
@@ -1627,7 +1701,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 245946,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5sVPOuJJAmidyxU8LjJBVu"
@@ -1721,7 +1795,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "We're On Our Way Now",
       "url": "https://open.spotify.com/track/2ySHAi6CPwpGYdsomsezWg"

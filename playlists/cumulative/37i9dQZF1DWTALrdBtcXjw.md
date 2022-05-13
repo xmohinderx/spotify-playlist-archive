@@ -4,7 +4,7 @@
 
 > Instrumental jazz to set the mood for a relaxed evening.
 
-132 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+133 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Every time we say goodbye](https://open.spotify.com/track/3oeUIbQyI22ymUFRAuZfuu) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN), [Marc van Rooij](https://open.spotify.com/artist/1EUHQilQkYWbsUQWe7SvDj), [Hans Van Oosterhout](https://open.spotify.com/artist/6F152Gyy69dlNrx8QZzxwV) | [Rob van Bavel Trio](https://open.spotify.com/album/6CoarHW26qMqQjvcz7P5jJ) | 5:11 | 2022-04-14 |  |
 | [Fisherman's Wharf](https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Fisherman's Wharf](https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx) | 3:49 | 2022-02-18 | 2022-03-11 |
 | [Fools Rush In](https://open.spotify.com/track/7hbpUZY7qsDPBe9X2juJEz) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [The Noble Art Of Teddy Wilson](https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G) | 2:29 | 2020-03-31 |  |
+| [For EH](https://open.spotify.com/track/2FbnvVjodpaYP9L8CKMgOw) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [Bright Light](https://open.spotify.com/album/5c5L9EM11mcoHhJLjLqSnV) | 4:56 | 2022-05-12 |  |
 | [Fugitive Ritual, Selah](https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 5:47 | 2022-02-18 |  |
 | [Garden of Delight](https://open.spotify.com/track/3apdPUK06P8pXgTsIKlFIl) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [I Love Jan Lundgren Trio](https://open.spotify.com/album/6iUNYWWimI0uy8kzvdQbuh) | 4:51 | 2020-03-31 |  |
 | [Going Up](https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst) | 4:35 | 2022-02-18 |  |
@@ -96,7 +97,7 @@
 | [Poor Butterfly](https://open.spotify.com/track/5WzFcLc16lrkH1L8ndgm6d) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [The Moon and I](https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4) | 4:50 | 2022-02-18 | 2022-05-11 |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-03-08 | 2022-05-04 |
 | [Prelude to a Kiss](https://open.spotify.com/track/5utG7gaVcIMMDJbJQ09q1L) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Prelude to a Kiss](https://open.spotify.com/album/7EzWxXhnVRz8iTm2y0keaQ) | 5:20 | 2022-02-18 |  |
-| [Pretty Women](https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Crime Zone](https://open.spotify.com/album/45XJNADDsniF16VElBvwr8) | 6:21 | 2020-03-31 |  |
+| [Pretty Women](https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Crime Zone](https://open.spotify.com/album/45XJNADDsniF16VElBvwr8) | 6:21 | 2020-03-31 | 2022-05-13 |
 | [Pure Imagination](https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Pure Imagination](https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK) | 5:58 | 2022-02-18 | 2022-04-15 |
 | [Rain Waltz](https://open.spotify.com/track/5IVCNqztB1lm7sTqXn3ww7) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:01 | 2020-03-31 |  |
 | [Remember \- Remastered](https://open.spotify.com/track/2BhU0Hl5OatWiCW93pE2b8) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:42 | 2020-03-31 | 2022-05-04 |

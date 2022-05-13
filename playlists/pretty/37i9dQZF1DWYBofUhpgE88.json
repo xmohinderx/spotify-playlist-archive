@@ -1,12 +1,12 @@
 {
   "description": "La carica giusta per i tuoi allenamenti!",
-  "num_followers": 266586,
+  "num_followers": 266727,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjMxNzQ5NCwwMDAwMDAwMGI2MGZhOGNjYzMzZDlkYTc4Y2EzYTU0YzBjZWQxYzFh",
+  "snapshot_id": "MTY1MjQwNDIyNiwwMDAwMDAwMDA4NzNjOTQ1M2JjZTYxZDUyOTgxNDM3NjllZjQ5ZjE0",
   "tracks": [
     {
       "added_at": "2022-05-03 17:35:31",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 181661,
+      "name": "Non Abbiamo Et\u00e0",
+      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
         "name": "Scialla Semper",
         "url": "https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX"
       },
@@ -151,22 +167,6 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 181661,
-      "name": "Non Abbiamo Et\u00e0",
-      "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
         "name": "Re Mida",
         "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
       },
@@ -179,6 +179,26 @@
       "duration_ms": 145640,
       "name": "Morto Mai",
       "url": "https://open.spotify.com/track/2Ri0436JKFUsd3B3xa2jCe"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Filtri",
+        "url": "https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "duration_ms": 169683,
+      "name": "Rompo (feat. Boro Boro)",
+      "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -211,26 +231,6 @@
       "duration_ms": 310624,
       "name": "Tik Tok RMX (feat. Marracash, Gu\u00e8, Paky & Geolier)",
       "url": "https://open.spotify.com/track/3aR6Qx69ITNryZQ8tJit8z"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Filtri",
-        "url": "https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        },
-        {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        }
-      ],
-      "duration_ms": 169683,
-      "name": "Rompo (feat. Boro Boro)",
-      "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -275,46 +275,22 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Envidioso (feat. Morad)",
-        "url": "https://open.spotify.com/album/2rso7me20KtXjYyZyGet55"
+        "name": "17",
+        "url": "https://open.spotify.com/album/11T8pkk7VAT7LeoReyY7B7"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         },
         {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
         }
       ],
-      "duration_ms": 196758,
-      "name": "Envidioso (feat. Morad)",
-      "url": "https://open.spotify.com/track/7bsBuM2ipkM4umttZlod2K"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Scialla Semper (Emodrill Repack)",
-        "url": "https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        },
-        {
-          "name": "Nic Sarno",
-          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
-        }
-      ],
-      "duration_ms": 249303,
-      "name": "Polo nord - C+N Progressive Mix",
-      "url": "https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh"
+      "duration_ms": 164237,
+      "name": "Toro Loco",
+      "url": "https://open.spotify.com/track/4lTFQjsjvuxTTq4L9qe82c"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -335,6 +311,26 @@
       "duration_ms": 177600,
       "name": "3 DI CUORI (feat. Lazza)",
       "url": "https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Envidioso (feat. Morad)",
+        "url": "https://open.spotify.com/album/2rso7me20KtXjYyZyGet55"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 196758,
+      "name": "Envidioso (feat. Morad)",
+      "url": "https://open.spotify.com/track/7bsBuM2ipkM4umttZlod2K"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -375,22 +371,26 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/11T8pkk7VAT7LeoReyY7B7"
+        "name": "Scialla Semper (Emodrill Repack)",
+        "url": "https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
         },
         {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        },
+        {
+          "name": "Nic Sarno",
+          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
         }
       ],
-      "duration_ms": 164237,
-      "name": "Toro Loco",
-      "url": "https://open.spotify.com/track/4lTFQjsjvuxTTq4L9qe82c"
+      "duration_ms": 249303,
+      "name": "Polo nord - C+N Progressive Mix",
+      "url": "https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -439,18 +439,18 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+        "name": "Bellaria",
+        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
       },
       "artists": [
         {
-          "name": "tha Supreme",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
         }
       ],
-      "duration_ms": 161266,
-      "name": "fuck 3x",
-      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
+      "duration_ms": 211518,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "Allenamento #4",
-      "url": "https://open.spotify.com/track/3TzSpxjKOnmVrtNOhtK8mx"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
         "name": "MM Vol. 4",
         "url": "https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 182473,
       "name": "Veleno 8 (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "Allenamento #4",
+      "url": "https://open.spotify.com/track/3TzSpxjKOnmVrtNOhtK8mx"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -531,22 +531,18 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "J",
-        "url": "https://open.spotify.com/album/5cmbVE8sridz5LqFNEAWwy"
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "tha Supreme",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
         }
       ],
-      "duration_ms": 183027,
-      "name": "ALYX (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/39XG4fTadjyZtPYybMqvZA"
+      "duration_ms": 161266,
+      "name": "fuck 3x",
+      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -583,102 +579,6 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Cracovia, Pt. 3",
-        "url": "https://open.spotify.com/album/4wQbkZfAr6QpI9AdrQOqcn"
-      },
-      "artists": [
-        {
-          "name": "Il Tre",
-          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "Cracovia, Pt. 3",
-      "url": "https://open.spotify.com/track/18dt6tNw8hpNUdthOJf0lI"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Bellaria",
-        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "duration_ms": 211518,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Ti Levo Le Collane (feat. Paky)",
-      "url": "https://open.spotify.com/track/48NEryJWd2W3T6V6yKHzz6"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
-      },
-      "artists": [
-        {
-          "name": "Scott Storch",
-          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Sfera Ebbasta",
-        "url": "https://open.spotify.com/album/6F5dUvN9tzyQ93LWPytEZc"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Visiera A Becco",
-      "url": "https://open.spotify.com/track/0nB7VgMGBTeOIO6LXwOvEJ"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
         "name": "HOURS",
         "url": "https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE"
       },
@@ -703,58 +603,22 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "DJUNGLE",
-        "url": "https://open.spotify.com/album/3v8q233zGqlp3hW7BPC8K1"
+        "name": "J",
+        "url": "https://open.spotify.com/album/5cmbVE8sridz5LqFNEAWwy"
       },
       "artists": [
         {
-          "name": "TY1",
-          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "AMY (feat. Rkomi)",
-      "url": "https://open.spotify.com/track/4RmbBOcricHnqiCrkl3JuO"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
-        }
-      ],
-      "duration_ms": 209791,
-      "name": "Keanu Reeves (feat. Achille Lauro)",
-      "url": "https://open.spotify.com/track/1MGXWglFoINJdrcp2W0U0w"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
         {
           "name": "Capo Plaza",
           "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 221973,
-      "name": "Giovane fuoriclasse",
-      "url": "https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc"
+      "duration_ms": 183027,
+      "name": "ALYX (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/39XG4fTadjyZtPYybMqvZA"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -787,98 +651,18 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Mon Fre (feat. Emis Killa)",
-        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
+        "name": "Cracovia, Pt. 3",
+        "url": "https://open.spotify.com/album/4wQbkZfAr6QpI9AdrQOqcn"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
         }
       ],
-      "duration_ms": 224150,
-      "name": "Mon Fre - feat. Emis Killa",
-      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
-      },
-      "artists": [
-        {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        },
-        {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 162362,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "LORO",
-      "url": "https://open.spotify.com/track/0A85tPJ5uRYudixySOsfIV"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Porto Cervo",
-        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 235425,
-      "name": "Porto Cervo",
-      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 198125,
-      "name": "48H (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/05mrU7mN3c1822bpY58UBC"
+      "duration_ms": 174750,
+      "name": "Cracovia, Pt. 3",
+      "url": "https://open.spotify.com/track/18dt6tNw8hpNUdthOJf0lI"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -899,54 +683,66 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+        "name": "DJUNGLE",
+        "url": "https://open.spotify.com/album/3v8q233zGqlp3hW7BPC8K1"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         }
       ],
-      "duration_ms": 208813,
-      "name": "Uno squillo",
-      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
+      "duration_ms": 178800,
+      "name": "AMY (feat. Rkomi)",
+      "url": "https://open.spotify.com/track/4RmbBOcricHnqiCrkl3JuO"
     },
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Look Back at It (feat. CAPO PLAZA)",
-        "url": "https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr"
+        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Scott Storch",
+          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
           "name": "Capo Plaza",
           "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 225541,
-      "name": "Look Back at It (feat. CAPO PLAZA)",
-      "url": "https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G"
+      "duration_ms": 196000,
+      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
     },
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Whoopty",
-        "url": "https://open.spotify.com/album/3ammnTkzxZhKONeV75MJ8A"
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
       "artists": [
         {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 123480,
-      "name": "Whoopty",
-      "url": "https://open.spotify.com/track/1RSzyxqtIO4yX3EyiV4zT5"
+      "duration_ms": 216386,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -999,58 +795,154 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
       },
       "artists": [
         {
           "name": "Capo Plaza",
           "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 184320,
-      "name": "VVS (feat. Gunna)",
-      "url": "https://open.spotify.com/track/6t5avACouegDhYdGljoKt1"
+      "duration_ms": 208813,
+      "name": "Uno squillo",
+      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
     },
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
       },
       "artists": [
         {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         },
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "duration_ms": 209791,
+      "name": "Keanu Reeves (feat. Achille Lauro)",
+      "url": "https://open.spotify.com/track/1MGXWglFoINJdrcp2W0U0w"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
+      },
+      "artists": [
         {
           "name": "Boro Boro",
           "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
         }
       ],
-      "duration_ms": 152440,
-      "name": "Twerk (con Boro Boro)",
-      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
+      "duration_ms": 162362,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ti Levo Le Collane (feat. Paky)",
+      "url": "https://open.spotify.com/track/48NEryJWd2W3T6V6yKHzz6"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Porto Cervo",
+        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 235425,
+      "name": "Porto Cervo",
+      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Look Back at It (feat. CAPO PLAZA)",
+        "url": "https://open.spotify.com/album/0aMlaFvuHZNRxOIPP5GRwr"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 225541,
+      "name": "Look Back at It (feat. CAPO PLAZA)",
+      "url": "https://open.spotify.com/track/34Jnbbi34tPtYdutY5Pd6G"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "LORO",
+      "url": "https://open.spotify.com/track/0A85tPJ5uRYudixySOsfIV"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Mon Fre (feat. Emis Killa)",
+        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 224150,
+      "name": "Mon Fre - feat. Emis Killa",
+      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -1079,22 +971,54 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Mwaka Moon (Remix)",
-        "url": "https://open.spotify.com/album/276ORc1Ggk5x9QwlsQpwuI"
+        "name": "Sfera Ebbasta",
+        "url": "https://open.spotify.com/album/6F5dUvN9tzyQ93LWPytEZc"
       },
       "artists": [
         {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Visiera A Becco",
+      "url": "https://open.spotify.com/track/0nB7VgMGBTeOIO6LXwOvEJ"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 221973,
+      "name": "Giovane fuoriclasse",
+      "url": "https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
         },
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 237179,
-      "name": "Mwaka Moon - Remix",
-      "url": "https://open.spotify.com/track/1OGORI9Hx45AEYqxkndMhN"
+      "duration_ms": 198125,
+      "name": "48H (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/05mrU7mN3c1822bpY58UBC"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -1119,22 +1043,58 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Pookie (feat. Capo Plaza) [Remix]",
-        "url": "https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq"
+        "name": "Whoopty",
+        "url": "https://open.spotify.com/album/3ammnTkzxZhKONeV75MJ8A"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Pookie (feat. Capo Plaza) - Remix",
-      "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
+      "duration_ms": 123480,
+      "name": "Whoopty",
+      "url": "https://open.spotify.com/track/1RSzyxqtIO4yX3EyiV4zT5"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Emanuele (Marchio registrato)",
+        "url": "https://open.spotify.com/album/19v0KdpOdICJH05EwVcMMR"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Narcos Remix (feat. Lazza)",
+      "url": "https://open.spotify.com/track/0mAeTwKRW38d8TRsWqvw9Z"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Twerk (con Boro Boro)",
+      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -1151,6 +1111,26 @@
       "duration_ms": 238093,
       "name": "Rotten",
       "url": "https://open.spotify.com/track/41FusdKMoGstfNPq7TXjXX"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Mwaka Moon (Remix)",
+        "url": "https://open.spotify.com/album/276ORc1Ggk5x9QwlsQpwuI"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 237179,
+      "name": "Mwaka Moon - Remix",
+      "url": "https://open.spotify.com/track/1OGORI9Hx45AEYqxkndMhN"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -1179,22 +1159,42 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Soldi in Nero (feat. Sfera Ebbasta)",
-        "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
+        "name": "Pookie (feat. Capo Plaza) [Remix]",
+        "url": "https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq"
       },
       "artists": [
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 183797,
-      "name": "Soldi in Nero - feat. Sfera Ebbasta",
-      "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
+      "duration_ms": 188400,
+      "name": "Pookie (feat. Capo Plaza) - Remix",
+      "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "VVS (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6t5avACouegDhYdGljoKt1"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Allenamento #2",
-        "url": "https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        }
-      ],
-      "duration_ms": 151421,
-      "name": "Allenamento #2",
-      "url": "https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/4P0hxsoJsKyJRcLcQ1aGG1"
       },
@@ -1259,22 +1239,22 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Emanuele (Marchio registrato)",
-        "url": "https://open.spotify.com/album/19v0KdpOdICJH05EwVcMMR"
+        "name": "Soldi in Nero (feat. Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         },
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 199200,
-      "name": "Narcos Remix (feat. Lazza)",
-      "url": "https://open.spotify.com/track/0mAeTwKRW38d8TRsWqvw9Z"
+      "duration_ms": 183797,
+      "name": "Soldi in Nero - feat. Sfera Ebbasta",
+      "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -1291,26 +1271,6 @@
       "duration_ms": 231920,
       "name": "90MIN",
       "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "DUMMY BOY",
-        "url": "https://open.spotify.com/album/03KcW1ZhaSnj8pIk1LUNQs"
-      },
-      "artists": [
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 206550,
-      "name": "MALA",
-      "url": "https://open.spotify.com/track/0LQ1J0BCzA2qnAgp9MkkNE"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -1351,42 +1311,22 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT"
+        "name": "DUMMY BOY",
+        "url": "https://open.spotify.com/album/03KcW1ZhaSnj8pIk1LUNQs"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 192964,
-      "name": "Abracadabra (feat. Future)",
-      "url": "https://open.spotify.com/track/0lSVjlxmAMSJGFSjVB1FtU"
-    },
-    {
-      "added_at": "2022-05-03 17:35:31",
-      "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 205928,
-      "name": "Cyborg (feat. Geolier)",
-      "url": "https://open.spotify.com/track/54wRUYPMEHLttFdLImOlAt"
+      "duration_ms": 206550,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/0LQ1J0BCzA2qnAgp9MkkNE"
     },
     {
       "added_at": "2022-05-03 17:35:31",
@@ -1415,18 +1355,82 @@
     {
       "added_at": "2022-05-03 17:35:31",
       "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
+        "name": "Stamm Fort",
+        "url": "https://open.spotify.com/album/1oOK2SpMy11lyHC7mraEZ7"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 221884,
-      "name": "COSPLAYER",
-      "url": "https://open.spotify.com/track/09FMFnWC5RYkvvvsjOus9B"
+      "duration_ms": 171375,
+      "name": "Stamm Fort (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/7hHf4gz7kGmkuwa6XMc88W"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Midnite (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "Russell Crowe",
+      "url": "https://open.spotify.com/track/6PmqCw22rKTF2sFZhghyIS"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 218769,
+      "name": "Serio (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "added_at": "2022-05-03 17:35:31",
+      "album": {
+        "name": "Dilemme (with tha Supreme & Mara Sattei)",
+        "url": "https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "tha Supreme",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Dilemme (with tha Supreme & Mara Sattei)",
+      "url": "https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt"
     }
   ],
   "unique_name": "Rap Motivazionale",

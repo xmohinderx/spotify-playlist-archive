@@ -1,13 +1,29 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 7053,
+  "num_followers": 7058,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTc4NDM0MCwwMDAwMDA1NzAwMDAwMTgwOTYwNGQyYmQwMDAwMDE4MDk0N2I5MTMx",
+  "snapshot_id": "MTY1MjM4NjgwMCwwMDAwMDA1ODAwMDAwMTgwYjllZGExZjkwMDAwMDE4MDk0N2I5MTMx",
   "tracks": [
+    {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "Camille",
+        "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
+    },
     {
       "added_at": "2022-05-05 20:59:00",
       "album": {
@@ -29,36 +45,20 @@
       "url": "https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa"
     },
     {
-      "added_at": "2022-01-27 20:59:00",
+      "added_at": "2022-02-11 09:38:38",
       "album": {
-        "name": "Camille",
-        "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
+        "name": "Never Left",
+        "url": "https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN"
       },
       "artists": [
         {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+          "name": "Cxnrvd",
+          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
-    },
-    {
-      "added_at": "2022-04-25 05:46:14",
-      "album": {
-        "name": "FUNK TO BLACK",
-        "url": "https://open.spotify.com/album/4lSpuoQtBMFGXdmCXkqyki"
-      },
-      "artists": [
-        {
-          "name": "Nu Fvnk",
-          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
-        }
-      ],
-      "duration_ms": 143826,
-      "name": "Funk To Black",
-      "url": "https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3"
+      "duration_ms": 172363,
+      "name": "Never Left",
+      "url": "https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6"
     },
     {
       "added_at": "2022-04-01 09:26:34",
@@ -79,6 +79,54 @@
       "duration_ms": 179318,
       "name": "Patient",
       "url": "https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih"
+    },
+    {
+      "added_at": "2022-03-25 05:44:05",
+      "album": {
+        "name": "Entebbe",
+        "url": "https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 232967,
+      "name": "Entebbe",
+      "url": "https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E"
+    },
+    {
+      "added_at": "2022-04-25 05:46:14",
+      "album": {
+        "name": "FUNK TO BLACK",
+        "url": "https://open.spotify.com/album/4lSpuoQtBMFGXdmCXkqyki"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "duration_ms": 143826,
+      "name": "Funk To Black",
+      "url": "https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3"
+    },
+    {
+      "added_at": "2021-12-09 20:59:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq"
+      },
+      "artists": [
+        {
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
     },
     {
       "added_at": "2022-03-25 05:44:05",
@@ -105,22 +153,6 @@
       "url": "https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3"
     },
     {
-      "added_at": "2022-04-28 20:59:00",
-      "album": {
-        "name": "Sambaratika",
-        "url": "https://open.spotify.com/album/0lIeaCNbdsXfvwaLReYjo8"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Sambaratika",
-      "url": "https://open.spotify.com/track/5JylASyKwZDJl64NjuTfQD"
-    },
-    {
       "added_at": "2022-03-17 20:59:00",
       "album": {
         "name": "Belinda",
@@ -135,54 +167,6 @@
       "duration_ms": 133537,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
-    },
-    {
-      "added_at": "2022-02-11 09:38:38",
-      "album": {
-        "name": "Never Left",
-        "url": "https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN"
-      },
-      "artists": [
-        {
-          "name": "Cxnrvd",
-          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "Never Left",
-      "url": "https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6"
-    },
-    {
-      "added_at": "2022-03-31 20:59:00",
-      "album": {
-        "name": "Sugar My",
-        "url": "https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf"
-      },
-      "artists": [
-        {
-          "name": "Jann Klose",
-          "url": "https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sugar My",
-      "url": "https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm"
-    },
-    {
-      "added_at": "2022-03-25 05:44:05",
-      "album": {
-        "name": "Entebbe",
-        "url": "https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 232967,
-      "name": "Entebbe",
-      "url": "https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E"
     },
     {
       "added_at": "2022-03-03 20:59:00",
@@ -201,20 +185,108 @@
       "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
     },
     {
-      "added_at": "2021-12-09 20:59:00",
+      "added_at": "2022-03-10 20:59:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO"
       },
       "artists": [
         {
-          "name": "Lisa Oduor-Noah",
-          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
+      "duration_ms": 133324,
+      "name": "100 Times",
+      "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
+    },
+    {
+      "added_at": "2022-03-17 20:59:00",
+      "album": {
+        "name": "AA side",
+        "url": "https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr"
+      },
+      "artists": [
+        {
+          "name": "mwami",
+          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+        }
+      ],
+      "duration_ms": 218863,
+      "name": "olivine",
+      "url": "https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ"
+    },
+    {
+      "added_at": "2022-02-24 20:59:00",
+      "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/5kZxneIXl7kwSMClNweMki"
+      },
+      "artists": [
+        {
+          "name": "Emmie Muthiga",
+          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h"
+    },
+    {
+      "added_at": "2022-04-28 20:59:00",
+      "album": {
+        "name": "Sambaratika",
+        "url": "https://open.spotify.com/album/0lIeaCNbdsXfvwaLReYjo8"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Sambaratika",
+      "url": "https://open.spotify.com/track/5JylASyKwZDJl64NjuTfQD"
+    },
+    {
+      "added_at": "2022-02-04 03:01:04",
+      "album": {
+        "name": "Misimu",
+        "url": "https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH"
+      },
+      "artists": [
+        {
+          "name": "SERRO",
+          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
+        },
+        {
+          "name": "Mutoriah",
+          "url": "https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD"
+        }
+      ],
+      "duration_ms": 246923,
+      "name": "Hold On To The Faith",
+      "url": "https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh"
+    },
+    {
+      "added_at": "2022-03-31 20:59:00",
+      "album": {
+        "name": "Sugar My",
+        "url": "https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf"
+      },
+      "artists": [
+        {
+          "name": "Jann Klose",
+          "url": "https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sugar My",
+      "url": "https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm"
     },
     {
       "added_at": "2022-02-24 20:59:00",
@@ -345,42 +417,6 @@
       "url": "https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N"
     },
     {
-      "added_at": "2022-03-10 20:59:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Elani Boshoff",
-          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
-        }
-      ],
-      "duration_ms": 133324,
-      "name": "100 Times",
-      "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
-    },
-    {
-      "added_at": "2022-02-24 20:59:00",
-      "album": {
-        "name": "Lollipop",
-        "url": "https://open.spotify.com/album/5kZxneIXl7kwSMClNweMki"
-      },
-      "artists": [
-        {
-          "name": "Emmie Muthiga",
-          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h"
-    },
-    {
       "added_at": "2022-01-27 20:59:00",
       "album": {
         "name": "Jaafari's 19th",
@@ -395,42 +431,6 @@
       "duration_ms": 213932,
       "name": "Jaafari's 19th",
       "url": "https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi"
-    },
-    {
-      "added_at": "2022-02-04 03:01:04",
-      "album": {
-        "name": "Misimu",
-        "url": "https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH"
-      },
-      "artists": [
-        {
-          "name": "SERRO",
-          "url": "https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9"
-        },
-        {
-          "name": "Mutoriah",
-          "url": "https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD"
-        }
-      ],
-      "duration_ms": 246923,
-      "name": "Hold On To The Faith",
-      "url": "https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh"
-    },
-    {
-      "added_at": "2022-03-17 20:59:00",
-      "album": {
-        "name": "AA side",
-        "url": "https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr"
-      },
-      "artists": [
-        {
-          "name": "mwami",
-          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
-        }
-      ],
-      "duration_ms": 218863,
-      "name": "olivine",
-      "url": "https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ"
     },
     {
       "added_at": "2022-02-24 20:59:00",
@@ -1127,42 +1127,6 @@
     {
       "added_at": "2021-10-15 19:38:29",
       "album": {
-        "name": "Perfection // T r u s t",
-        "url": "https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh"
-      },
-      "artists": [
-        {
-          "name": "IkeN",
-          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Perfection // T r u s t",
-      "url": "https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Tell Your Mother",
-        "url": "https://open.spotify.com/album/2LW261abaIYKW2lse29gu6"
-      },
-      "artists": [
-        {
-          "name": "Eric Wainaina",
-          "url": "https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz"
-        },
-        {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/1GSGf6ony1hg3S7saFkj8z"
-        }
-      ],
-      "duration_ms": 207518,
-      "name": "Tell Your Mother",
-      "url": "https://open.spotify.com/track/71Ny6FDDEV4LG7WQ7lXYea"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/7KnMVXkbi86J86daq153mC"
       },
@@ -1191,6 +1155,26 @@
       "duration_ms": 132624,
       "name": "Changed the Game - Radio Edit",
       "url": "https://open.spotify.com/track/56Lv8Cn8pqBH0Rt8VkwtcR"
+    },
+    {
+      "added_at": "2022-03-03 20:59:00",
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Merry-Lynn",
+          "url": "https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Sana",
+      "url": "https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt"
     },
     {
       "added_at": "2021-10-15 19:38:29",
@@ -1225,24 +1209,40 @@
       "url": "https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ"
     },
     {
-      "added_at": "2022-03-03 20:59:00",
+      "added_at": "2021-10-15 19:38:29",
       "album": {
-        "name": "Sana",
-        "url": "https://open.spotify.com/album/6DIKpG4tLCzL3VXkohDwrR"
+        "name": "Tell Your Mother",
+        "url": "https://open.spotify.com/album/2LW261abaIYKW2lse29gu6"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Eric Wainaina",
+          "url": "https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz"
         },
         {
-          "name": "Merry-Lynn",
-          "url": "https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7"
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/1GSGf6ony1hg3S7saFkj8z"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Sana",
-      "url": "https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt"
+      "duration_ms": 207518,
+      "name": "Tell Your Mother",
+      "url": "https://open.spotify.com/track/71Ny6FDDEV4LG7WQ7lXYea"
+    },
+    {
+      "added_at": "2021-10-15 19:38:29",
+      "album": {
+        "name": "Perfection // T r u s t",
+        "url": "https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Perfection // T r u s t",
+      "url": "https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8"
     }
   ],
   "unique_name": "Eastern Vibes",

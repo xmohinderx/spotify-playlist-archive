@@ -4,7 +4,7 @@
 
 > Hottest Hindi music served here\. Cover\- Kartik Aaryan
 
-178 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
+179 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Lut Gaye](https://open.spotify.com/track/2ufLEVbzvEcJ3subW8jBUp) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Emraan Hashmi](https://open.spotify.com/artist/44oMI9xI4kcCub3qbpYPdb) | [Lut Gaye](https://open.spotify.com/album/2IgqTqUjGQsmahYITOCdBX) | 3:48 | 2021-02-23 |  |
 | [Madhubala](https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:03 | 2021-04-06 | 2021-04-12 |
 | [Main Agar](https://open.spotify.com/track/45IVxWsY3y0wLLk77bZWlA) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tubelight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Y3f3J030knsEk3epIvO0R) | 4:39 | 2021-04-06 | 2021-04-12 |
+| [Main Ki Karaan? \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/0FaYl39oV2OPFGYJ6MbILr) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Main Ki Karaan? \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/19agsRoi5VkKa80qfnmpx7) | 4:14 | 2022-05-12 |  |
 | [Main Tumhara](https://open.spotify.com/track/2ZvWoJ82LKCgD0nU9H5ue5) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 4:18 | 2021-01-25\* | 2021-06-08 |
 | [Makhna](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 3:03 | 2021-01-25\* | 2021-04-06 |
 | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx) | [Ved Sharma](https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z) | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy) | 4:47 | 2021-01-25\* | 2022-01-27 |

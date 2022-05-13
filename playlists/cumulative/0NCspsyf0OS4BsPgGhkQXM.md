@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-288 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+289 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Start A Riot](https://open.spotify.com/track/49bOS8k7cx7JBu3TjrWU1w) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:44 | 2022-05-06 |  |
 | [Stay](https://open.spotify.com/track/1GHu55MRD4NyMhVDpaLADT) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:42 | 2022-02-18 |  |
 | [Stranger Inside Me](https://open.spotify.com/track/4NyZeyQTf9lzybdYrw8AnK) | [Kuoga.](https://open.spotify.com/artist/6zVuQdorqzJrQy6jPACUr7), [Ivy](https://open.spotify.com/artist/4GqL0DrjpEK0YYRH1VyPBI) | [Until It Isn't](https://open.spotify.com/album/0PUh79wOZHNlFddJytsl9z) | 4:13 | 2022-02-16 | 2022-03-19 |
+| [Stronger](https://open.spotify.com/track/2bTrbsUXZlZQPDGrrwdSLT) | [Cerus](https://open.spotify.com/artist/7fquLeTBUvpluuODNIgSLY), [RMNCE](https://open.spotify.com/artist/7LWf0GAZdARfcenjTJmpMc), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stronger](https://open.spotify.com/album/4x9hFPLf32q0J3kMHpOFLy) | 3:48 | 2022-05-12 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/0iRfffwrWG4TfNc65SpxDm) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Invisible](https://open.spotify.com/artist/6GRKwhGojrzpj0486YlBA9), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9) | [Sweet Child O' Mine](https://open.spotify.com/album/3wNyS2c2RRJVSqSsUYqzmj) | 2:43 | 2022-04-01 | 2022-04-30 |
 | [TAKE](https://open.spotify.com/track/3KqPQD3vQbJUTkRsiUzps2) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [1093](https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K) | 3:23 | 2022-01-14 |  |
 | [Take You Home](https://open.spotify.com/track/73aaclqbUGL3q6YJqphuMq) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Take You Home](https://open.spotify.com/album/41uqT8wCaNKApdGZdI0YpF) | 2:46 | 2022-01-20 | 2022-02-10 |

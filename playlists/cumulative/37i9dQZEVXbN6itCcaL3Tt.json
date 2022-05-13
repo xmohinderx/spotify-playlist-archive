@@ -12788,6 +12788,24 @@
     },
     {
       "album": {
+        "name": "WCHJ",
+        "url": "https://open.spotify.com/album/2UFQSYJVmAmD5Syj4urJ32"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118932,
+      "name": "WCHJ",
+      "url": "https://open.spotify.com/track/6p2Uq2RXAhIrNR9XUgFxtI"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
@@ -14083,7 +14101,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 165213,
       "name": "\u0141yk i buch",
       "url": "https://open.spotify.com/track/4gUKSmeJ7TNcVzHcsGxRKK"

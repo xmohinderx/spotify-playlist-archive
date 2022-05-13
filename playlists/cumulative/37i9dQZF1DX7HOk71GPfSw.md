@@ -4,7 +4,7 @@
 
 > spotify hyperpop playlist Cover: 100 gecs
 
-1,238 songs - 2 day 8 hr 10 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,239 songs - 2 day 8 hr 12 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [100](https://open.spotify.com/track/10s9JjmWHa0kiYit6yKfSC) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [100](https://open.spotify.com/album/1NylSTZTrL5NF7C9nowlmD) | 2:03 | 2021-07-17 | 2022-01-13 |
 | [100 Boyfriends](https://open.spotify.com/track/4bIYlBqq2HGHTvLqV9E1f8) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [100 Boyfriends](https://open.spotify.com/album/2AkGZOaHrukP5ei60z8Lqi) | 1:56 | 2021-09-18 | 2022-02-24 |
 | [1234](https://open.spotify.com/track/5q7z81OkAKTvE5EkobWdS3) | [p4rkr](https://open.spotify.com/artist/5I7oKOPxJ4OEeSlF0RlV6Z), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [1234](https://open.spotify.com/album/64FXUqaBBNjgjuI9K4frcj) | 3:20 | 2020-11-14 | 2020-12-12 |
+| [127 Hrs in Bed](https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Dog Show](https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0) | 1:57 | 2022-05-12 |  |
 | [1984](https://open.spotify.com/track/1BqhfAEw4jigpJl0O23jnS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [all dogs go to heaven](https://open.spotify.com/album/7CqbsNZnpTQIqDz2bRzOIf) | 2:30 | 2021-08-07 | 2021-11-13 |
 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 | 2020-10-13\* | 2021-02-10 |
 | [1up](https://open.spotify.com/track/0it7s1q0wZ2lthYgtVaM3o) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [Kiryano](https://open.spotify.com/artist/0WaGvrYLTIEpc4pjdgETP6), [emotionals3k](https://open.spotify.com/artist/6tlyt34vCuLJ2i0HOsS9UV) | [1up](https://open.spotify.com/album/0C941lScwX1vrKWPrchdg7) | 2:32 | 2021-08-13 | 2022-01-13 |
@@ -845,7 +846,7 @@
 | [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2021-10-01 | 2022-02-24 |
 | [pretty things](https://open.spotify.com/track/6zcRgqSdi9PwQjmYd9jnj8) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu) | [pretty things](https://open.spotify.com/album/4mVVnr5HcxmfoTnwYxG4Q9) | 3:30 | 2022-01-28 | 2022-04-29 |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-11-19 | 2022-03-17 |
-| [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 | 2022-02-04 |  |
+| [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 | 2022-02-04 | 2022-05-13 |
 | [Profane](https://open.spotify.com/track/3IHuUvemXT2QIiO5JW1rMW) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [Profane](https://open.spotify.com/album/1UooTYuAi4A1p9jObYWQTU) | 2:00 | 2021-08-07 | 2022-01-13 |
 | [Profane \- extended](https://open.spotify.com/track/0kBRBtaDHKsK6y2sm7cr6c) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [Profane](https://open.spotify.com/album/1UooTYuAi4A1p9jObYWQTU) | 2:29 | 2021-08-12 | 2021-09-14 |
 | [Prosperity \- Vapour World Cup Edit](https://open.spotify.com/track/5ZHghq40sfDH5zq46TTw08) | [Laces](https://open.spotify.com/artist/2OvUjjcJMGyNzBfdx2DRzr), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Field Fallacy Haptics](https://open.spotify.com/album/74FgZlXk9meROtgxWvetKf) | 5:17 | 2021-12-10 | 2022-02-26 |

@@ -4,7 +4,7 @@
 
 > pov: you're wearing a fluffy pink dress in a John Hughes movie
 
-75 songs - 5 hr 3 min - not published yet
+75 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/3y1mKxLggktPKJ4i1WMLbu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > for a first class pre, press play
 
-100 songs - 6 hr 27 min - not published yet
+100 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/2xyhoBtqpLjudJPzw42nzp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

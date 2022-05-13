@@ -4,7 +4,7 @@
 
 > Elvis Presley's most romantic songs.
 
-36 songs - 1 hr 42 min - not published yet
+36 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/7onIevcGzsMHADUxFEHjV6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

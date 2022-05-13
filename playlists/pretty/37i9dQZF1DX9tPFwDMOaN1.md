@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > New look and feel, same old playlist you love\. Let's turn on the movement! Cover: TOMORROW X TOGETHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,873,806 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,875,621 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [Tea time \(Feat\. 10CM\)](https://open.spotify.com/track/3JISGU3qHjPaBdWSh6ZJdq) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tea time](https://open.spotify.com/album/5idRelwCZTM8zSus1bPGRH) | 2:58 |
 | 50 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 |
 
-Snapshot ID: `MTY1MjMxNzkyMywwMDAwMDAwMGU5NmZiNDA4ODExNzdlMTY4ZTM1MjRiZDUxNDU5NjFh`
+Snapshot ID: `MTY1MjQwNDY0MiwwMDAwMDAwMGU5NmZiNDA4ODExNzdlMTY4ZTM1MjRiZDUxNDU5NjFh`

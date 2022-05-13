@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-11",
   "description": "New and classic Gospel songs to celebrate the Easter season.",
   "name": "Easter Gospel",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1aoJCabT3rNzgQUBisO6Z2"
+  ],
   "tracks": [
     {
       "album": {
@@ -201,7 +203,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 290026,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
@@ -493,7 +495,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 467186,
       "name": "Finished Work - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
@@ -511,7 +513,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 123426,
       "name": "For the Love of the People",
       "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
@@ -896,6 +898,24 @@
     },
     {
       "album": {
+        "name": "Sing A Nu Song",
+        "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370826,
+      "name": "I Know It Was the Blood",
+      "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
+    },
+    {
+      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1005,7 +1025,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 517799,
       "name": "Jesus Cares",
       "url": "https://open.spotify.com/track/77YjhohI2Pg75GfuImUs39"
@@ -1063,7 +1083,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 303160,
       "name": "Jesus Is the Answer",
       "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
@@ -1265,7 +1285,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 286040,
       "name": "O the Blood",
       "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
@@ -1309,7 +1329,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 368333,
       "name": "Oh Happy Day - Live at New Bethel Baptist Church, Detroit, MI - July 1987",
       "url": "https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11"
@@ -1345,7 +1365,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 545000,
       "name": "Oh Holy Lamb",
       "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
@@ -1751,7 +1771,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 113013,
       "name": "The Blood Will Never Lose Its Power - Live",
       "url": "https://open.spotify.com/track/3Mzi4unhw86nn0zKPJe3Dl"
@@ -1813,7 +1833,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 496133,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
@@ -1835,6 +1855,24 @@
       "duration_ms": 273963,
       "name": "The Resurrection",
       "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+    },
+    {
+      "album": {
+        "name": "Donald Lawrence & The Tri-City Singers Collection",
+        "url": "https://open.spotify.com/album/5ejaaJUSkQ6k7LdxFAniDs"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence & The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328253,
+      "name": "These Nails - Live",
+      "url": "https://open.spotify.com/track/3kVIUABK3lKYuXOu6d4vjl"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: LE SSERAFIM",
+  "description": "Future K-Pop hits! Cover: Ciipher",
   "name": "K-Pop Rising",
   "published_playlist_ids": [
     "365X6AQFdYqkXtDjWksHVf"
@@ -2877,6 +2877,24 @@
       "duration_ms": 186186,
       "name": "Eye On You",
       "url": "https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7"
+    },
+    {
+      "album": {
+        "name": "THE CODE",
+        "url": "https://open.spotify.com/album/7wr8UMXYQw5191b48WfR4Y"
+      },
+      "artists": [
+        {
+          "name": "Ciipher",
+          "url": "https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223160,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/3y0uHBnK2O4N9lt6KpRv6i"
     },
     {
       "album": {
@@ -9921,7 +9939,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 196250,
       "name": "Why",
       "url": "https://open.spotify.com/track/1IqOAlSisJIxDHrKT1oG66"

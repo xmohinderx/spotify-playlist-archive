@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 521182,
       "name": "After Glow",
       "url": "https://open.spotify.com/track/7EukyOmsxbTvdaCAxlaSF0"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 505376,
       "name": "Aitne - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/7vzybiTEICEwnewA8KqU57"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 280373,
       "name": "Ba\u015fa Bela",
       "url": "https://open.spotify.com/track/5ieIGtfzOzETa4Fkz7YRXM"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 402988,
       "name": "Cairn",
       "url": "https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 428181,
       "name": "Calmo",
       "url": "https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 200317,
       "name": "Chaka - Edit",
       "url": "https://open.spotify.com/track/4GGVpoLeVtvzJZyhV6J307"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 308500,
       "name": "Departures",
       "url": "https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 304426,
       "name": "Endless History",
       "url": "https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 426240,
       "name": "Epiphany Engineering",
       "url": "https://open.spotify.com/track/7p8K9ei0xJIO0Qy17wB47e"
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 285000,
       "name": "Fool's Paradise - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
@@ -1721,7 +1721,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 511475,
       "name": "Honest - Beije Remix",
       "url": "https://open.spotify.com/track/2hRIX5atyidrLfBuRyyMsm"
@@ -1928,6 +1928,28 @@
     },
     {
       "album": {
+        "name": "Jama",
+        "url": "https://open.spotify.com/album/20hK6YrkLQdgzl6V50k9As"
+      },
+      "artists": [
+        {
+          "name": "Lian Gold",
+          "url": "https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4"
+        },
+        {
+          "name": "Erika Krall",
+          "url": "https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374634,
+      "name": "Jama",
+      "url": "https://open.spotify.com/track/0qrFuzJksG1vm1u67m7IM2"
+    },
+    {
+      "album": {
         "name": "Bi Ba B\u00fc",
         "url": "https://open.spotify.com/album/45qxQ2ACnkIlrWy9UY1HqN"
       },
@@ -2113,7 +2135,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 363870,
       "name": "Late Reflections",
       "url": "https://open.spotify.com/track/3YGDl5T8GTpS3z0QtYmtSv"
@@ -2297,7 +2319,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 422058,
       "name": "Magia",
       "url": "https://open.spotify.com/track/2ZlpJCddUzr7873198nvXE"
@@ -2537,7 +2559,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 432351,
       "name": "Meru",
       "url": "https://open.spotify.com/track/5UrfK59oICoOgbJRn1uTyL"
@@ -2653,7 +2675,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 541287,
       "name": "Moogami",
       "url": "https://open.spotify.com/track/3eE1iKxmBVgsQK11Gk4WM9"
@@ -2715,7 +2737,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 407145,
       "name": "Nebelmaschine",
       "url": "https://open.spotify.com/track/1f6YJOTRtxb9EvDd46vrNN"
@@ -2755,7 +2777,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 440000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/2bO6oJIdBwN6OfWFbMr3qD"
@@ -2875,7 +2897,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 442447,
       "name": "Of Dreams and Hopes",
       "url": "https://open.spotify.com/track/4gV7GVMSyubzPxOjToHOMM"
@@ -3019,7 +3041,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 333818,
       "name": "Patika",
       "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
@@ -3091,7 +3113,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 313809,
       "name": "Pont de la Caille",
       "url": "https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3"
@@ -3269,7 +3291,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 227160,
       "name": "Seda",
       "url": "https://open.spotify.com/track/31QqKRikjh4mtLFPle9ub9"
@@ -3407,7 +3429,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 288662,
       "name": "Solid Session - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/1SfYPB5V9LNTkCJn73u0Ua"
@@ -3425,7 +3447,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 480015,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/2YxnaInOpa7nQ7zoJjyTYB"
@@ -3917,7 +3939,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-13",
       "duration_ms": 414203,
       "name": "Up In Flames",
       "url": "https://open.spotify.com/track/1YzVzEDuXM3G7C6EmwJs8O"
