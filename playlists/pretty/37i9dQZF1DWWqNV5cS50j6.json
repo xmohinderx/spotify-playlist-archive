@@ -1,13 +1,61 @@
 {
-  "description": "Not not not pop. Cover: Junior Varsity",
-  "num_followers": 640604,
+  "description": "Not not not pop. Cover: Johan Lenox",
+  "num_followers": 640757,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjMyMDg5NCwwMDAwMzQzOTAwMDAwMTgwYjVmZmZkZWMwMDAwMDE4MDk3ODBlMzli",
+  "snapshot_id": "MTY1MjQyMDU0MSwwMDAwMzQzZjAwMDAwMTgwYmJmMDdiNDEwMDAwMDE4MGI4YjM1YjMw",
   "tracks": [
+    {
+      "added_at": "2022-05-13 04:17:00",
+      "album": {
+        "name": "WDYWTBWYGU",
+        "url": "https://open.spotify.com/album/6sd1FmCTSPabYh4aHRICTu"
+      },
+      "artists": [
+        {
+          "name": "Johan Lenox",
+          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        }
+      ],
+      "duration_ms": 191047,
+      "name": "Hitting Different",
+      "url": "https://open.spotify.com/track/56Q2pmSdy0jCJKEW6a5DsV"
+    },
+    {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "Share Ur Feelings",
+        "url": "https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "duration_ms": 180168,
+      "name": "Share Ur Feelings",
+      "url": "https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d"
+    },
+    {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "Death n' Taxes",
+        "url": "https://open.spotify.com/album/5hjj4vU1h3ItQCUMZdkEzE"
+      },
+      "artists": [
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Death n' Taxes",
+      "url": "https://open.spotify.com/track/1g7IP3DUgprNzIljpsdAun"
+    },
     {
       "added_at": "2022-05-11 16:00:50",
       "album": {
@@ -29,26 +77,10 @@
       "url": "https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga"
     },
     {
-      "added_at": "2022-05-09 22:47:10",
+      "added_at": "2022-05-13 04:17:00",
       "album": {
-        "name": "Share Ur Feelings",
-        "url": "https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 180168,
-      "name": "Share Ur Feelings",
-      "url": "https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "Mango",
-        "url": "https://open.spotify.com/album/3N9piIqnt2BHomjXpg4BEe"
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
       },
       "artists": [
         {
@@ -56,121 +88,9 @@
           "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/253Sq7utuR9vchbNWyjyE4"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "HUBBA BUBBA",
-        "url": "https://open.spotify.com/album/42RzFTI9NgqXZyPGeUyRhd"
-      },
-      "artists": [
-        {
-          "name": "DAISY",
-          "url": "https://open.spotify.com/artist/7riIDkMpiCIuZUbLaScpQq"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "HUBBA BUBBA",
-      "url": "https://open.spotify.com/track/3QZ4lz1SOh8KmSMC59p6iZ"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "Eye Tell (!)",
-        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 130692,
-      "name": "Eye Tell (!)",
-      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "Fuck This Town",
-        "url": "https://open.spotify.com/album/40b7H9VC9cBQp3Ga7HmRon"
-      },
-      "artists": [
-        {
-          "name": "Johan Lenox",
-          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Fuck This Town",
-      "url": "https://open.spotify.com/track/6gCzUdmyiwgnzINg9PiB13"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "TYRON",
-        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 134746,
-      "name": "i tried",
-      "url": "https://open.spotify.com/track/5SpZDtg5U1W35HNjq1xYrM"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "Sometimes Sorry Isn't Enough",
-        "url": "https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n"
-      },
-      "artists": [
-        {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
-        }
-      ],
-      "duration_ms": 207250,
-      "name": "Bad Hoe",
-      "url": "https://open.spotify.com/track/6OGvHDjNLuEJoBc8BEQWBP"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "\u200eu \u200eand \u200eeveryone \u200eu \u200eknow !",
-        "url": "https://open.spotify.com/album/38xAUDDYH4H4ykYm0MMWoV"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 215533,
-      "name": "\u200eu and \u200eeveryone \u200eu \u200eknow !",
-      "url": "https://open.spotify.com/track/73D4DWoHYqmoKGbOoim9qB"
+      "duration_ms": 148194,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
     },
     {
       "added_at": "2022-05-11 16:00:50",
@@ -191,18 +111,210 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "Death n' Taxes",
-        "url": "https://open.spotify.com/album/5hjj4vU1h3ItQCUMZdkEzE"
+        "name": "Eye Tell (!)",
+        "url": "https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by"
       },
       "artists": [
         {
-          "name": "Tanna Leone",
-          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
         }
       ],
-      "duration_ms": 151676,
-      "name": "Death n' Taxes",
-      "url": "https://open.spotify.com/track/1g7IP3DUgprNzIljpsdAun"
+      "duration_ms": 130692,
+      "name": "Eye Tell (!)",
+      "url": "https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz"
+    },
+    {
+      "added_at": "2022-05-13 04:17:00",
+      "album": {
+        "name": "PAIN MUSEUM",
+        "url": "https://open.spotify.com/album/1XitWSLK1DrQ9pPSruVjss"
+      },
+      "artists": [
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "duration_ms": 162984,
+      "name": "TAKE THE BLAME",
+      "url": "https://open.spotify.com/track/6RXQ5Q933Z3kkVDKVVbBy4"
+    },
+    {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "\u200eu \u200eand \u200eeveryone \u200eu \u200eknow !",
+        "url": "https://open.spotify.com/album/38xAUDDYH4H4ykYm0MMWoV"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 215533,
+      "name": "\u200eu and \u200eeveryone \u200eu \u200eknow !",
+      "url": "https://open.spotify.com/track/73D4DWoHYqmoKGbOoim9qB"
+    },
+    {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "MCQUEEN",
+        "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
+      },
+      "artists": [
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "MCQUEEN",
+      "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
+    },
+    {
+      "added_at": "2022-05-11 16:00:50",
+      "album": {
+        "name": "GOOFY!",
+        "url": "https://open.spotify.com/album/751ZLh6i3eBwqJdbVNKekz"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota",
+          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "GOOFY!",
+      "url": "https://open.spotify.com/track/2ddmgkH269Ur0rIN8oqctt"
+    },
+    {
+      "added_at": "2022-05-13 04:38:05",
+      "album": {
+        "name": "Pushin' Thru It",
+        "url": "https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "duration_ms": 258661,
+      "name": "Pushin' Thru It",
+      "url": "https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo"
+    },
+    {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "HUBBA BUBBA",
+        "url": "https://open.spotify.com/album/42RzFTI9NgqXZyPGeUyRhd"
+      },
+      "artists": [
+        {
+          "name": "DAISY",
+          "url": "https://open.spotify.com/artist/7riIDkMpiCIuZUbLaScpQq"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "HUBBA BUBBA",
+      "url": "https://open.spotify.com/track/3QZ4lz1SOh8KmSMC59p6iZ"
+    },
+    {
+      "added_at": "2022-05-13 04:17:00",
+      "album": {
+        "name": "down",
+        "url": "https://open.spotify.com/album/3OrjP0MaPUu1I54iBxe5O8"
+      },
+      "artists": [
+        {
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "down",
+      "url": "https://open.spotify.com/track/783PsmPNi2KHNk8PwR2rk2"
+    },
+    {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "TYRON",
+        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 134746,
+      "name": "i tried",
+      "url": "https://open.spotify.com/track/5SpZDtg5U1W35HNjq1xYrM"
+    },
+    {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "What Box?",
+        "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
+      },
+      "artists": [
+        {
+          "name": "Terry Presume",
+          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
+    },
+    {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "Sometimes Sorry Isn't Enough",
+        "url": "https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "duration_ms": 207250,
+      "name": "Bad Hoe",
+      "url": "https://open.spotify.com/track/6OGvHDjNLuEJoBc8BEQWBP"
+    },
+    {
+      "added_at": "2022-05-13 04:17:00",
+      "album": {
+        "name": "Paycheck",
+        "url": "https://open.spotify.com/album/5MT3ktP4xGrGHAZKi7Pdxm"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 207719,
+      "name": "Paycheck",
+      "url": "https://open.spotify.com/track/74Wd0TjJMFDOx5PKoQ31yK"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -223,18 +335,18 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "MCQUEEN",
-        "url": "https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc"
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/3N9piIqnt2BHomjXpg4BEe"
       },
       "artists": [
         {
-          "name": "Yoshi T.",
-          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
         }
       ],
-      "duration_ms": 159292,
-      "name": "MCQUEEN",
-      "url": "https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM"
+      "duration_ms": 302000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/253Sq7utuR9vchbNWyjyE4"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -275,34 +387,18 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "What Box?",
-        "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
+        "name": "Fuck This Town",
+        "url": "https://open.spotify.com/album/40b7H9VC9cBQp3Ga7HmRon"
       },
       "artists": [
         {
-          "name": "Terry Presume",
-          "url": "https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX"
+          "name": "Johan Lenox",
+          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
         }
       ],
-      "duration_ms": 184826,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
-    },
-    {
-      "added_at": "2022-05-11 16:00:50",
-      "album": {
-        "name": "GOOFY!",
-        "url": "https://open.spotify.com/album/751ZLh6i3eBwqJdbVNKekz"
-      },
-      "artists": [
-        {
-          "name": "Hadji Gaviota",
-          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "GOOFY!",
-      "url": "https://open.spotify.com/track/2ddmgkH269Ur0rIN8oqctt"
+      "duration_ms": 219000,
+      "name": "Fuck This Town",
+      "url": "https://open.spotify.com/track/6gCzUdmyiwgnzINg9PiB13"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -447,22 +543,6 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
         "name": "crashed",
         "url": "https://open.spotify.com/album/1VRG1LmrW2i6ODuZLcu2cf"
       },
@@ -507,6 +587,22 @@
       "duration_ms": 150693,
       "name": "f**k it, i'm the man",
       "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
+    },
+    {
+      "added_at": "2022-05-09 22:47:10",
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -1311,22 +1407,6 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/6izPzxURr7qQhbauoNlfyB"
-      },
-      "artists": [
-        {
-          "name": "Congee",
-          "url": "https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/7D43qtE2NSNZOZ9NTYWM0X"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
         "name": "LIGHTSABER",
         "url": "https://open.spotify.com/album/2WZZYkmQOJNoU4ojnkNWGN"
       },
@@ -1991,22 +2071,6 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "SURF",
-        "url": "https://open.spotify.com/album/4tqKTPbidKIGn9UIZe5I73"
-      },
-      "artists": [
-        {
-          "name": "BLACKSTARKIDS",
-          "url": "https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E"
-        }
-      ],
-      "duration_ms": 136110,
-      "name": "LOVE, STARGIRL",
-      "url": "https://open.spotify.com/track/1AgJta10Dm76yA5uz7EuTV"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
         "name": "Pronounced McGee",
         "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
       },
@@ -2035,22 +2099,6 @@
       "duration_ms": 93871,
       "name": "Cotton Candy",
       "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "Van Goghs Left Ear",
-        "url": "https://open.spotify.com/album/1f92L2RYQBvolOuzzpQYbP"
-      },
-      "artists": [
-        {
-          "name": "Zelooperz",
-          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
-        }
-      ],
-      "duration_ms": 66782,
-      "name": "Battery",
-      "url": "https://open.spotify.com/track/3TZD1tcwJWCu5Zitgx362G"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -2179,22 +2227,6 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "ARIZONA BABY",
-        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 176732,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/5HanfTZtL71gW1KGgg1HMA"
       },
@@ -2291,22 +2323,6 @@
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2022-05-09 22:47:10",
@@ -2443,22 +2459,6 @@
     {
       "added_at": "2022-05-09 22:47:10",
       "album": {
-        "name": "Hollywood High 16",
-        "url": "https://open.spotify.com/album/7JjtHOIrAPvaeAj1Jdu16t"
-      },
-      "artists": [
-        {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        }
-      ],
-      "duration_ms": 185647,
-      "name": "Hollywood High 16",
-      "url": "https://open.spotify.com/track/3FjjoOFHM9kB2apdSiPa9o"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
         "name": "Pink Songs",
         "url": "https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr"
       },
@@ -2487,22 +2487,6 @@
       "duration_ms": 221061,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7CNlUOUZbaxcyorkQle8o5"
-    },
-    {
-      "added_at": "2022-05-09 22:47:10",
-      "album": {
-        "name": "14GRAMS",
-        "url": "https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5"
-      },
-      "artists": [
-        {
-          "name": "Angelo Mota",
-          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
-        }
-      ],
-      "duration_ms": 182833,
-      "name": "14GRAMS",
-      "url": "https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY"
     },
     {
       "added_at": "2022-05-09 22:47:10",

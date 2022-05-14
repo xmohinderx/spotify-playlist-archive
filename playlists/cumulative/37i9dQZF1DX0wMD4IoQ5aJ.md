@@ -4,7 +4,7 @@
 
 > Focus to the sound of soft electronic music.
 
-166 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
+167 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Electric Moments](https://open.spotify.com/track/3T24DOXoiTHkzRxgnSX0SI) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Electric Moments](https://open.spotify.com/album/10wIuQ7caZKzB0fXSmKzRk) | 2:35 | 2022-04-15 |  |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2022-04-15 | 2022-05-11 |
 | [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 | 2022-04-15 |  |
+| [Feel Free](https://open.spotify.com/track/3fzi3cbZdfxc1lMTY7vKFC) | [Liléa Narrative](https://open.spotify.com/artist/3zdmSedktArdETaKwrzv92) | [Co/ll\-nn/ection](https://open.spotify.com/album/626F8sjLoDYXAwwDakwiAd) | 4:05 | 2022-05-13 |  |
 | [Feelings](https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Feelings](https://open.spotify.com/album/49IUgUWndwR4zm99VyAi0J) | 2:48 | 2022-04-15 |  |
 | [Feelings Pt\. 2](https://open.spotify.com/track/1trBZuNfkopXnnvxgOr4tt) | [Genzlinger](https://open.spotify.com/artist/1CG6oa21WSjpjtNPhAOqmN) | [Feelings Pt\. 2](https://open.spotify.com/album/3J5LyLG4PJGoNtnyGZJzxa) | 3:19 | 2022-04-15 |  |
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2022-04-15 |  |

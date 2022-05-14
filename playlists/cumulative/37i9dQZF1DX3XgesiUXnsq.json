@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: Dreamville",
+  "description": "Damn son, where'd ya find this? Cover: Logic",
   "name": "Raw & Uncut",
   "published_playlist_ids": [
     "4c9h9hZs4oLmLgvuiXYoN5"
@@ -590,6 +590,24 @@
     },
     {
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319320,
+      "name": "Everyday Struggle - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3bOvAqhaZNSWpGVIvHEx8B"
+    },
+    {
+      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -968,6 +986,24 @@
     },
     {
       "album": {
+        "name": "Onyx Versus Everybody",
+        "url": "https://open.spotify.com/album/4cWB5o3u01bOk7yLq9CN8k"
+      },
+      "artists": [
+        {
+          "name": "Onyx",
+          "url": "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107926,
+      "name": "Its Goin' Down",
+      "url": "https://open.spotify.com/track/4oGRiXgngKUomIF1V6MfkM"
+    },
+    {
+      "album": {
         "name": "Cocodrillo Turbo",
         "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
       },
@@ -1077,7 +1113,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 246493,
       "name": "Let's Ride",
       "url": "https://open.spotify.com/track/4UZlEcQmkAeh4mYokk8TNs"
@@ -1142,6 +1178,28 @@
     },
     {
       "album": {
+        "name": "Money Counter",
+        "url": "https://open.spotify.com/album/5MGP7z5BGtHZV2MrWkxLzb"
+      },
+      "artists": [
+        {
+          "name": "Adrian Duncan",
+          "url": "https://open.spotify.com/artist/4UT0LBgm8ooVT0ohnFoA2F"
+        },
+        {
+          "name": "That's Deep",
+          "url": "https://open.spotify.com/artist/2T2uyZ8goEevh7veWHo9wu"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Money Counter",
+      "url": "https://open.spotify.com/track/14ABPYal8FrkOCBE5hLKEG"
+    },
+    {
+      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/3QysGsRLV0fS0hb9uuRdyS"
       },
@@ -1165,6 +1223,24 @@
       "duration_ms": 198666,
       "name": "Myself",
       "url": "https://open.spotify.com/track/7tsNi8goGCNC6evPolqs0b"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
       "album": {
@@ -1483,7 +1559,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 219155,
       "name": "RIGHT NOW (feat. Stove God Cooks & Jadakiss)",
       "url": "https://open.spotify.com/track/4f7r6dRgC7e8XSoKHD1UpL"
@@ -1715,7 +1791,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 196066,
       "name": "Still Here (feat. Cordae)",
       "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
@@ -2191,7 +2267,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182194,
       "name": "White Toes",
       "url": "https://open.spotify.com/track/6Fb0inPGyww3CW5hbJpBEF"

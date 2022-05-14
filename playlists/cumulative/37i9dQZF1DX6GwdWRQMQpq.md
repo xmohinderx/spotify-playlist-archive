@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doja Cat
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Megan Thee Stallion
 
-123 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
+125 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 | 2022-01-28 | 2022-04-02 |
 | [Apple Jacks](https://open.spotify.com/track/3u3zxeCkxTwNnxOMGnxQ8K) | [Pap Chanel](https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed) | [Pretty & Paid 2.0](https://open.spotify.com/album/6yHcKJECGnk90MOSWSuId2) | 2:26 | 2021-11-19 | 2022-03-26 |
 | [Aye Yai Yai \(with Yung Bleu\)](https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:03 | 2022-04-08 |  |
+| [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/track/1w4zc04CreWVxEmljzeykK) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/album/1Ez46n26k39YixXE5N9Dyq) | 2:07 | 2022-05-13 |  |
 | [BBB \(Bad Bitch Behavior\)](https://open.spotify.com/track/0zKlED6S6ytAHPo9sIm1vX) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Girls Gone Duh](https://open.spotify.com/album/2gsuokG689yNjGsqfygA9E) | 2:36 | 2022-04-22 |  |
 | [BBM \(Bad Bitch Mentality\)](https://open.spotify.com/track/063jdVCwrYUHdyeoJvQq3H) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [FRIENDS WITH BENEFITS](https://open.spotify.com/album/5ZlZDT9NDhXldVFiis23am) | 1:52 | 2022-02-18 | 2022-02-26 |
 | [Beating Down Yo Block](https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Beating Down Yo Block](https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK) | 3:12 | 2021-10-08 | 2022-02-12 |
@@ -29,7 +30,8 @@
 | [Bussin](https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bussin](https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n) | 2:16 | 2022-02-11 |  |
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-03-11 |  |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2021-10-22 | 2022-04-16 |
-| [Cartier](https://open.spotify.com/track/002WDZVLY5EElAwSjXziVt) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Cartier](https://open.spotify.com/album/04CpXXZ8FRNJ5lipbTJDrs) | 1:38 | 2022-02-18 |  |
+| [Carry Anne](https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Shape Up](https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi) | 3:33 | 2022-05-13 |  |
+| [Cartier](https://open.spotify.com/track/002WDZVLY5EElAwSjXziVt) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Cartier](https://open.spotify.com/album/04CpXXZ8FRNJ5lipbTJDrs) | 1:38 | 2022-02-18 | 2022-05-14 |
 | [Chitty Bang](https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Chitty Bang](https://open.spotify.com/album/1J0kyst5Prm6tm0WJ7XLgW) | 2:26 | 2022-01-07 | 2022-02-05 |
 | [Christmas List](https://open.spotify.com/track/1otneYXhRPhMFXeFDj9qtj) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Christmas List](https://open.spotify.com/album/1CL6OknqBdLxkmD1Ujv7XN) | 1:48 | 2021-12-17 | 2022-02-05 |
 | [Clap](https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Clap \(feat\. Latto\)](https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk) | 3:17 | 2022-04-15 |  |
@@ -42,7 +44,7 @@
 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 | 2022-02-04 |  |
 | [Don't Like Me](https://open.spotify.com/track/15vBa8JFlc906oRT103Fdf) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Don't Like Me](https://open.spotify.com/album/4LlFHwHtA9gQZ6XC9fvWeZ) | 2:17 | 2022-03-18 |  |
 | [Don't Talk](https://open.spotify.com/track/02vPJzKJS04HU2cIvvRlN1) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Don't Talk](https://open.spotify.com/album/15HVlassGiyNROvxTxYoXx) | 2:15 | 2022-01-14 | 2022-05-07 |
-| [Eat \(feat\. Z\-Ro\)](https://open.spotify.com/track/5uKVpF7HT4VMTLCj6QmrBU) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [Z\-Ro](https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq) | [Eat \(feat\. Z\-Ro\)](https://open.spotify.com/album/05bWcmoya1DMykuBkoXAu3) | 2:46 | 2022-04-15 |  |
+| [Eat \(feat\. Z\-Ro\)](https://open.spotify.com/track/5uKVpF7HT4VMTLCj6QmrBU) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [Z\-Ro](https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq) | [Eat \(feat\. Z\-Ro\)](https://open.spotify.com/album/05bWcmoya1DMykuBkoXAu3) | 2:46 | 2022-04-15 | 2022-05-14 |
 | [Eat It](https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:49 | 2021-10-29 | 2022-04-02 |
 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 | 2022-03-18 |  |
 | [Feelin’ Sexy](https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:01 | 2022-03-04 |  |

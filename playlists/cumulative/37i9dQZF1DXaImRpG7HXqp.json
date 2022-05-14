@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Blue Jay",
+        "url": "https://open.spotify.com/album/7vgoyyb434dIkXAypof4zz"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207923,
+      "name": "Andorinhas",
+      "url": "https://open.spotify.com/track/5nGQgcKYgvLPYw147hbRKU"
+    },
+    {
+      "album": {
         "name": "Firenze",
         "url": "https://open.spotify.com/album/6epHnZWyD4jXrrx5Lei9eo"
       },
@@ -3758,6 +3776,24 @@
     },
     {
       "album": {
+        "name": "The Dunes",
+        "url": "https://open.spotify.com/album/0zHcpVeaC1y6X1hYDKklKL"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167124,
+      "name": "The Dunes",
+      "url": "https://open.spotify.com/track/0HRRkGGFpMQH1AMLUDYjc1"
+    },
+    {
+      "album": {
         "name": "At The Break Of Dawn",
         "url": "https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q"
       },
@@ -3827,6 +3863,24 @@
       "duration_ms": 171781,
       "name": "The Poconos",
       "url": "https://open.spotify.com/track/0ds1reOHuK7CCsu3nIzZXj"
+    },
+    {
+      "album": {
+        "name": "Thousand Years Ago",
+        "url": "https://open.spotify.com/album/336D8kHYPubaAtmgCsVMMv"
+      },
+      "artists": [
+        {
+          "name": "Zinning",
+          "url": "https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139691,
+      "name": "Thousand Years Ago",
+      "url": "https://open.spotify.com/track/03ii6bJVPO1xJNNsG9QvIB"
     },
     {
       "album": {

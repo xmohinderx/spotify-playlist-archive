@@ -1016,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "My Lullabies: Motown",
+        "url": "https://open.spotify.com/album/6Zx72Eq6focHvSZxljFcyR"
+      },
+      "artists": [
+        {
+          "name": "Myleene Klass",
+          "url": "https://open.spotify.com/artist/63L6NSMY7isrNaziNX2YXX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "Three Times a Lady",
+      "url": "https://open.spotify.com/track/043ZNvHtGmYF1uR5q6gD1r"
+    },
+    {
+      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/7v1uoa4uquxWy6t92wGSLU"
       },
@@ -1107,6 +1125,24 @@
       "duration_ms": 204560,
       "name": "Wrecking Ball - Solo Piano Version",
       "url": "https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI"
+    },
+    {
+      "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/0yFuG8TdMSfrTE5repnCWN"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263863,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3v64j3vihZ9IhEewaUfIqK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX21hEmly67Fg"

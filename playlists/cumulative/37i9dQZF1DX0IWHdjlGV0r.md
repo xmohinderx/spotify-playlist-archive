@@ -4,7 +4,7 @@
 
 > Certi amori bruciano più di altri\. Cover: Marracash
 
-62 songs - 3 hr 21 min - not published yet
+62 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/0ub8fLPq50x7iJHKg2Rrfv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

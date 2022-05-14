@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best modern country music. Cover: Kane Brown",
+  "description": "Nothing but the best modern country music. Cover: Dean Brody",
   "name": "All About Country",
   "published_playlist_ids": [
     "2VWEcpbjTChxEwyaD5k1kM"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 254181,
       "name": "Doin' This",
       "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 226975,
       "name": "Don't Think Jesus",
       "url": "https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2"
@@ -1663,7 +1663,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182040,
       "name": "I'd Go To Jail",
       "url": "https://open.spotify.com/track/6ySlQmThfJRUZtXY3sMLjI"
@@ -2373,7 +2373,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 176146,
       "name": "Never Say Never (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
@@ -2587,7 +2587,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202360,
       "name": "Out Yonder",
       "url": "https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG"
@@ -2880,6 +2880,24 @@
     },
     {
       "album": {
+        "name": "Seeing Someone Else",
+        "url": "https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206737,
+      "name": "Seeing Someone Else",
+      "url": "https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi"
+    },
+    {
+      "album": {
         "name": "Honkytonk Revival",
         "url": "https://open.spotify.com/album/3SEBw5oY1ovdxTKeblEwJC"
       },
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 206106,
       "name": "She Had Me At Heads Carolina",
       "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
@@ -3574,6 +3592,24 @@
     },
     {
       "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
+    },
+    {
+      "album": {
         "name": "Wastin' Whiskey",
         "url": "https://open.spotify.com/album/2Pfsg4Z546ZfAdwrdpqrcA"
       },
@@ -3788,6 +3824,24 @@
     },
     {
       "album": {
+        "name": "Where'd You Learn How To Do That",
+        "url": "https://open.spotify.com/album/7v5wPGa49lcZiDyMdJe1zq"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174322,
+      "name": "Where'd You Learn How To Do That",
+      "url": "https://open.spotify.com/track/4Do7NhvafmOQENTNAus874"
+    },
+    {
+      "album": {
         "name": "Whiskey Does",
         "url": "https://open.spotify.com/album/4JKZvwBhJbbKQ38rsBTbA3"
       },
@@ -3929,7 +3983,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
@@ -3951,6 +4005,28 @@
       "duration_ms": 167375,
       "name": "With A Woman You Love",
       "url": "https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA"
+    },
+    {
+      "album": {
+        "name": "Worth A Shot (feat. Dierks Bentley)",
+        "url": "https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Worth A Shot (feat. Dierks Bentley)",
+      "url": "https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j"
     },
     {
       "album": {

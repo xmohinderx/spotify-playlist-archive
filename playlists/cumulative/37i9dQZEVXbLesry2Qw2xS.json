@@ -492,6 +492,28 @@
     },
     {
       "album": {
+        "name": "Ainult Unustamiseks",
+        "url": "https://open.spotify.com/album/2cRw4jGrdkcv7SBj2q8H4f"
+      },
+      "artists": [
+        {
+          "name": "P\u00far M\u00fadd",
+          "url": "https://open.spotify.com/artist/2xe5h8nbHc1yYGKUVL8zce"
+        },
+        {
+          "name": "Grete Paia",
+          "url": "https://open.spotify.com/artist/5hihfLAlypybwPFgjzLJiX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Ainult Unustamiseks",
+      "url": "https://open.spotify.com/track/6yWAlfKGH5AMHlxT4ZtCVg"
+    },
+    {
+      "album": {
         "name": "Gawk",
         "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
       },
@@ -1791,7 +1813,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -3653,7 +3675,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 180000,
       "name": "Eikellegi Ma",
       "url": "https://open.spotify.com/track/3ERRAmfRkQjqxkHUo3aXT0"
@@ -5242,6 +5264,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199426,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -6189,7 +6229,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 139574,
       "name": "Je M'appelle",
       "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
@@ -9293,7 +9333,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -10115,7 +10155,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 169137,
       "name": "Peegel, Peegel",
       "url": "https://open.spotify.com/track/0dDpRy3xUbAcKz2Fiupo1y"
@@ -12255,7 +12295,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 219428,
       "name": "Streetside",
       "url": "https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN"

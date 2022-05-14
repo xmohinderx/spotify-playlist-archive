@@ -4,7 +4,7 @@
 
 > Ouça os hits do momento do pop BR! Foto: GIULIA BE
 
-96 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
+97 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Meu Amor](https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ixã](https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf) | [Meu Amor](https://open.spotify.com/album/2ElhtOxvJeTj0UfBjJgAeQ) | 2:41 | 2022-03-04 |  |
 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 | 2022-01-14 |  |
 | [Muito Prazer](https://open.spotify.com/track/4lr83Y9bskhsphElLXuAs6) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Muito Prazer](https://open.spotify.com/album/7agqEu7aGQlbqZMWVqkq00) | 2:40 | 2022-01-14 | 2022-02-05 |
-| [Na Atividade \(feat\. IZA\)](https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Stephanie](https://open.spotify.com/artist/5tE2kTW6FRp1wihy254bgB), [Rafael Porrada](https://open.spotify.com/artist/2vo894WKHL8iUZkm0Ory1z) | [Na Atividade \(feat\. IZA\)](https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR) | 2:20 | 2022-05-06 |  |
+| [Na Atividade \(feat\. IZA\)](https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Stephanie](https://open.spotify.com/artist/5tE2kTW6FRp1wihy254bgB), [Rafael Porrada](https://open.spotify.com/artist/2vo894WKHL8iUZkm0Ory1z) | [Na Atividade \(feat\. IZA\)](https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR) | 2:20 | 2022-05-06 | 2022-05-14 |
 | [Na Sequência](https://open.spotify.com/track/4tIBDrshxn6PC5pjTkTeBG) | [Daya Luz](https://open.spotify.com/artist/1VmZ0enkE7FIlIHotMbtPo), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Na Sequência](https://open.spotify.com/album/7irLIvxC3LQpYRRlVh8siU) | 2:40 | 2022-01-14 | 2022-02-05 |
 | [nada contra \(ciúme\)](https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/0GKDqWpEF0cRw9Q6Ha1zpH) | 2:22 | 2022-01-14 | 2022-02-19 |
 | [Nem Solteiro, Nem Casado](https://open.spotify.com/track/4RIwJFIllGROj3yvCFPBik) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Nem Solteiro, Nem Casado](https://open.spotify.com/album/26OJEhbmdahqJqYT20YLxT) | 2:25 | 2022-01-29 | 2022-02-12 |
@@ -84,6 +84,7 @@
 | [Radar](https://open.spotify.com/track/0V4LaOkdQm1sJwNerXcxMl) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90) | 3:02 | 2022-01-14 |  |
 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 | 2022-01-14 |  |
 | [Ritmo Agressivo](https://open.spotify.com/track/7ph7fCkl87MkX4i5vxIU9H) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Ritmo Agressivo](https://open.spotify.com/album/2JMewLH8ROoQkn2wZBpaX0) | 2:31 | 2022-02-04 |  |
+| [roubando a cena](https://open.spotify.com/track/1jdWoanP3m1glSvH7qN2aE) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:17 | 2022-05-13 |  |
 | [Sem Filtro](https://open.spotify.com/track/0bfyJd1OWcUUDcexrOn9bz) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Sem Filtro](https://open.spotify.com/album/7M2Wfg14YrNPGmkMyv9dtA) | 3:26 | 2022-01-14 | 2022-02-12 |
 | [Sem Filtro \- Remix](https://open.spotify.com/track/5hmYzjDUg7ryYzlO734L0Y) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sem Filtro \(Remix\)](https://open.spotify.com/album/4lYcF6zK72YZaiuWag8yzc) | 3:44 | 2022-02-11 |  |
 | [Senta com Amor](https://open.spotify.com/track/1kjMT9xY7fsPCbOY9glt96) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Senta com Amor](https://open.spotify.com/album/3olDwyCTwfVpVrRZi4MCpA) | 2:38 | 2022-01-14 | 2022-02-12 |

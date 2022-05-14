@@ -1,18 +1,18 @@
 {
   "description": "Holdin' it down for the westside. Cover: Blxst",
-  "num_followers": 688030,
+  "num_followers": 688105,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjA1NDQwMCwwMDAwMDUxYjAwMDAwMTgwYTYxZDljNWMwMDAwMDE4MDczNTBiODk3",
+  "snapshot_id": "MTY1MjQxNjMyMCwwMDAwMDUxZDAwMDAwMTgwYmJiMDE0YjAwMDAwMDE4MDczNTBiODk3",
   "tracks": [
     {
-      "added_at": "2022-05-09 00:00:00",
+      "added_at": "2022-05-13 04:01:00",
       "album": {
-        "name": "The Heart Part 5",
-        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
@@ -20,29 +20,9 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 332362,
-      "name": "The Heart Part 5",
-      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Tell The Truth (with Shordie Shordie)",
-        "url": "https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Tell The Truth (with Shordie Shordie)",
-      "url": "https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh"
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -63,6 +43,42 @@
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60"
+    },
+    {
+      "added_at": "2022-03-25 05:02:22",
+      "album": {
+        "name": "Superghetto",
+        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 195756,
+      "name": "Hoochie Mama",
+      "url": "https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
     },
     {
       "added_at": "2022-04-08 04:00:00",
@@ -87,6 +103,42 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
+        "name": "Tell The Truth (with Shordie Shordie)",
+        "url": "https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Tell The Truth (with Shordie Shordie)",
+      "url": "https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh"
+    },
+    {
+      "added_at": "2022-05-09 00:00:00",
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
         "name": "Sheikh Talk",
         "url": "https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi"
       },
@@ -99,42 +151,6 @@
       "duration_ms": 160256,
       "name": "Sheikh Talk",
       "url": "https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "No Handoutz (feat. Yeat)",
-        "url": "https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 150491,
-      "name": "No Handoutz (feat. Yeat)",
-      "url": "https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH"
-    },
-    {
-      "added_at": "2022-03-25 05:02:22",
-      "album": {
-        "name": "Superghetto",
-        "url": "https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 195756,
-      "name": "Hoochie Mama",
-      "url": "https://open.spotify.com/track/2RXhmevjfxVlM9Kd7h0fhZ"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -155,6 +171,22 @@
       "duration_ms": 163166,
       "name": "Tell Your Friends (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "STUCK",
+        "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 217271,
+      "name": "STUCK",
+      "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -213,20 +245,28 @@
       "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:01:00",
       "album": {
-        "name": "STUCK",
-        "url": "https://open.spotify.com/album/5s2NhE08ze83Su2TkgK065"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
         }
       ],
-      "duration_ms": 217271,
-      "name": "STUCK",
-      "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -265,26 +305,6 @@
       "url": "https://open.spotify.com/track/3hdaeIlrACjMK5FnahqrLG"
     },
     {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        }
-      ],
-      "duration_ms": 166678,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx"
-    },
-    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "Black Iverson",
@@ -301,62 +321,6 @@
       "url": "https://open.spotify.com/track/3sLNEWdnPH6ML05Z8wFZhM"
     },
     {
-      "added_at": "2022-04-25 17:16:58",
-      "album": {
-        "name": "Hollandaise",
-        "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Hollandaise",
-      "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Street Signs",
-        "url": "https://open.spotify.com/album/7e9S1FRNCWxw2UeIQtmFAP"
-      },
-      "artists": [
-        {
-          "name": "Blueface",
-          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "Street Signs",
-      "url": "https://open.spotify.com/track/1tu6h8NPmeS4q2RRpEGjT8"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        }
-      ],
-      "duration_ms": 226006,
-      "name": "MAGIC",
-      "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
-    },
-    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "Popstar",
@@ -371,6 +335,22 @@
       "duration_ms": 141714,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/1gtpf2WDqX4bwB8Jpf9nY2"
+    },
+    {
+      "added_at": "2022-04-25 17:16:58",
+      "album": {
+        "name": "Hollandaise",
+        "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Hollandaise",
+      "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -521,6 +501,26 @@
       "url": "https://open.spotify.com/track/4a2Npv3ZNqZRumOMHQc0fu"
     },
     {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "No Handoutz (feat. Yeat)",
+        "url": "https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 150491,
+      "name": "No Handoutz (feat. Yeat)",
+      "url": "https://open.spotify.com/track/1jkHLTFc1j6HMHnaGq8QCH"
+    },
+    {
       "added_at": "2022-04-22 04:00:00",
       "album": {
         "name": "Royalty (feat. DOM KENNEDY)",
@@ -539,22 +539,6 @@
       "duration_ms": 221938,
       "name": "Royalty (feat. DOM KENNEDY)",
       "url": "https://open.spotify.com/track/2v2uIxyCehpH4O5SvN21dc"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu"
-      },
-      "artists": [
-        {
-          "name": "Day Sulan",
-          "url": "https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk"
-        }
-      ],
-      "duration_ms": 134780,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -747,22 +731,6 @@
       "duration_ms": 146400,
       "name": "DooWop",
       "url": "https://open.spotify.com/track/3MLq7vHvOlbKPKvQK9m3Gi"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Fuck Love",
-        "url": "https://open.spotify.com/album/38VrQda1Fd52DXKHe1z5KQ"
-      },
-      "artists": [
-        {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
-        }
-      ],
-      "duration_ms": 138212,
-      "name": "Fuck Love",
-      "url": "https://open.spotify.com/track/3FcsP46yuD5OhisPkp0jFT"
     },
     {
       "added_at": "2021-12-17 05:00:00",

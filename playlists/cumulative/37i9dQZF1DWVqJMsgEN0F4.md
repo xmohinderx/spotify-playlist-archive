@@ -2,9 +2,9 @@
 
 ### [Alt NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> BoyWithUke along with the top Alternative songs right now.
+> The Black Keys along with the top Alternative songs right now.
 
-108 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
+110 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/6EMN1AhrUHWzoAMRYyK1Q6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-09-23 | 2022-03-12 |
 | [Can You Handle My Love??](https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Can You Handle My Love??](https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps) | 4:16 | 2021-08-03 | 2022-03-12 |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2021-12-17 |  |
-| [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 | 2021-11-12 |  |
+| [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 | 2021-11-12 | 2022-05-14 |
 | [Cheer Up Baby](https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:53 | 2022-02-11 | 2022-04-29 |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-04-22 |  |
 | [Colorado](https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado](https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO) | 2:54 | 2021-09-16 | 2022-04-02 |
@@ -93,6 +93,7 @@
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2022-05-06 |  |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-22 |  |
 | [The Antidote](https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Antidote](https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl) | 3:15 | 2021-11-05 | 2022-03-12 |
+| [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-13 |  |
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-18 |  |
 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-11-22 | 2022-04-09 |
 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 | 2022-04-01 |  |
@@ -111,7 +112,8 @@
 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 | 2022-05-06 |  |
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-25 |  |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-03-11 |  |
-| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-25 |  |
+| [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-05-13 |  |
+| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-25 | 2022-05-14 |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 | 2022-05-07 |
 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 | 2021-07-02 | 2022-02-26 |
 | [You asked for this](https://open.spotify.com/track/1JbS3r3gT4pK5qWBEShIJU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 4:25 | 2021-08-30 | 2022-01-15 |

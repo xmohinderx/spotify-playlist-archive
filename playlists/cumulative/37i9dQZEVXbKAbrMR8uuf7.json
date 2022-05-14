@@ -2120,6 +2120,32 @@
     },
     {
       "album": {
+        "name": "Desde Mis Ojos (Remix)",
+        "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223563,
+      "name": "Desde Mis Ojos - Remix",
+      "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
+    },
+    {
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
       },
@@ -3431,7 +3457,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 159849,
       "name": "Fuera del mercado",
       "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
@@ -4333,7 +4359,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -4827,7 +4853,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 206420,
       "name": "La Santa",
       "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
@@ -5569,7 +5595,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 230047,
       "name": "Manos de Tijera",
       "url": "https://open.spotify.com/track/6CABgsWNWBu7xz0mGJwI69"
@@ -6419,7 +6445,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 169614,
       "name": "No Spang",
       "url": "https://open.spotify.com/track/1HXTpsTUycGVExkP0O05Ie"

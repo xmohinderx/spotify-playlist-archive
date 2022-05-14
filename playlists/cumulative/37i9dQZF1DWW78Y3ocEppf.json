@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 152175,
       "name": "Another",
       "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 245426,
       "name": "Anxiety (Burlinda\u2019s Theme)",
       "url": "https://open.spotify.com/track/1fEkrXY5RLeVZ7kMDzGUVb"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 192574,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 185198,
       "name": "Bitch Don't Be Mad",
       "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 183453,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 177914,
       "name": "Bling Up",
       "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202204,
       "name": "Break Her Heart For Me",
       "url": "https://open.spotify.com/track/4UCMyXxaWZGUJSHyPq8U6f"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 162825,
       "name": "Butterflies Pt. 2 - Wale Remix",
       "url": "https://open.spotify.com/track/2Ucbz9AR0ybbwm6JM2p9Gk"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 156943,
       "name": "Coming Down (with Ari Lennox)",
       "url": "https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 165786,
       "name": "Countless Times",
       "url": "https://open.spotify.com/track/5sZGJQjdAAGiqF8AtAMv4f"
@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133671,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
+    },
+    {
+      "album": {
         "name": "Demonstration",
         "url": "https://open.spotify.com/album/4DeKN4alInin8samiVnWB0"
       },
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 249494,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/2b3y7M0vz0oqP5AwGguTV7"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 143237,
       "name": "Earth Is Ghetto",
       "url": "https://open.spotify.com/track/4NHSCdUJmAqmyBaegp3NJj"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 156121,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/64jK5HLnuxyCv4tYODdBXx"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 157452,
       "name": "Get To You",
       "url": "https://open.spotify.com/track/6Nao5S6vnMgw10QZgaub1K"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 223842,
       "name": "Girl Like Me (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1OKy6TtXWD7oz1b1dComxI"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 174636,
       "name": "Good Morning Gorgeous (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 258125,
       "name": "Gotta Move On",
       "url": "https://open.spotify.com/track/4E8NdFfprLwbouZ46bv75o"
@@ -1865,7 +1883,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 243293,
       "name": "Hennessy Tears",
       "url": "https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4"
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188234,
       "name": "In My Corner",
       "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
@@ -2155,10 +2173,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182811,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/2u1lDhvkGDUkc8UQWWcC2Y"
+    },
+    {
+      "album": {
+        "name": "In The Way",
+        "url": "https://open.spotify.com/album/1gEQ1MsmfabzzQzQ6hsMx9"
+      },
+      "artists": [
+        {
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205590,
+      "name": "In The Way",
+      "url": "https://open.spotify.com/track/4BKpSsFOiQSPiAUgAPfExh"
     },
     {
       "album": {
@@ -2253,7 +2289,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 111160,
       "name": "June 1st",
       "url": "https://open.spotify.com/track/4sGytBCmSavdzoFQdXoTX2"
@@ -2311,7 +2347,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 145640,
       "name": "KMS",
       "url": "https://open.spotify.com/track/4ZKPZXtB2PabDQ1Rei2ElK"
@@ -2329,7 +2365,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 228641,
       "name": "Late Night N*gga",
       "url": "https://open.spotify.com/track/1Dy9O207OlHxlIoC7dcJ3O"
@@ -2513,7 +2549,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 198920,
       "name": "little story",
       "url": "https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex"
@@ -2567,7 +2603,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 177720,
       "name": "LOST YOU",
       "url": "https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs"
@@ -2585,7 +2621,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 265676,
       "name": "LOST YOU (screwed not chopped)",
       "url": "https://open.spotify.com/track/2kJijusZZbCWGbjTe5afS1"
@@ -2647,7 +2683,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 221768,
       "name": "Make Me - Remix",
       "url": "https://open.spotify.com/track/0K6ffjkgxKnkLlWV1XLLzP"
@@ -2813,7 +2849,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 253375,
       "name": "Most Men - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
@@ -2835,7 +2871,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 215100,
       "name": "Must Be Nice (feat. Masego)",
       "url": "https://open.spotify.com/track/2aruTLKMWUxWKHGSncjb5D"
@@ -2919,7 +2955,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
@@ -2937,7 +2973,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 217801,
       "name": "Not Another Love Song",
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
@@ -3127,7 +3163,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
@@ -3167,6 +3203,24 @@
       "duration_ms": 176955,
       "name": "Pack Lite",
       "url": "https://open.spotify.com/track/3Q0U0QJEGjA2rZPoGVVaWY"
+    },
+    {
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
     },
     {
       "album": {
@@ -3261,7 +3315,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174204,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/3nzEMKTp0yRgKbskDDU1qj"
@@ -3283,7 +3337,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
@@ -3409,7 +3463,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 180357,
       "name": "R\u00e9sum\u00e9",
       "url": "https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF"
@@ -3449,7 +3503,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 248413,
       "name": "Same Space? - Remix",
       "url": "https://open.spotify.com/track/1sVEcxx3au6WWt8WcQO4N9"
@@ -3587,7 +3641,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 222269,
       "name": "Set Him Up (feat. Ari Lennox)",
       "url": "https://open.spotify.com/track/0FhfNle9FovXRL03awCJbe"
@@ -3605,7 +3659,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 238788,
       "name": "Shoestring",
       "url": "https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk"
@@ -3645,7 +3699,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "single af",
       "url": "https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe"
@@ -3791,7 +3845,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 188805,
       "name": "Stickin' (feat. Masego & VanJess)",
       "url": "https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP"
@@ -3885,7 +3939,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Summer 2020",
       "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
@@ -3957,7 +4011,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188115,
       "name": "the catch up",
       "url": "https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs"
@@ -4033,7 +4087,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 222346,
       "name": "tidal wave (feat. Ari Lennox)",
       "url": "https://open.spotify.com/track/0aWktqLfsl8QRLNlywINuO"
@@ -4105,7 +4159,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 207314,
       "name": "Tragic",
       "url": "https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie"
@@ -4185,7 +4239,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
@@ -4353,7 +4407,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 188852,
       "name": "What About Us (feat. Sevyn Streeter)",
       "url": "https://open.spotify.com/track/2rXEvLUrJergtH0iQnyr29"
@@ -4465,7 +4519,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 197746,
       "name": "Why Don't You Touch Me",
       "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"

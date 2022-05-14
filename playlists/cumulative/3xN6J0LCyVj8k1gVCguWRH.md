@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,391 songs - 3 day 9 hr 10 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,395 songs - 3 day 9 hr 23 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Feeling](https://open.spotify.com/track/6ze3rTbidkkYIzdgBA8i0l) | [Frankie Bottz](https://open.spotify.com/artist/4WobtMkGG2OmzjIxjQ0RxW) | [Feeling](https://open.spotify.com/album/4TVBpFk9lI9wvUUp9NXeeL) | 4:16 | 2022-01-28 | 2022-02-13 |
 | [Feeling Good](https://open.spotify.com/track/3A7yE3igxCotMUgzQzMXwK) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 2:16 | 2020-08-20 |  |
 | [Feeling Good](https://open.spotify.com/track/59E5YUrahFAqcJB0jsabEe) | [Paul Farrin](https://open.spotify.com/artist/7sX9bmpNhukkmNHeG3pXPP) | [Feeling Good](https://open.spotify.com/album/5pJuES5URUV7ox2RN1LaOI) | 3:11 | 2021-01-23 | 2021-02-06 |
+| [Feels](https://open.spotify.com/track/3dcO2ig3Y9nwUgJ4vkT64O) | [DOULINE](https://open.spotify.com/artist/2rDH58DQUSq9emkijwyaNP) | [Feels](https://open.spotify.com/album/7svqowyDFkB4VdL0hF8JdD) | 3:06 | 2022-05-13 |  |
 | [Feels So Good](https://open.spotify.com/track/3M9iXTsLrNf0eYEVyJDr7k) | [Rachel Huggins](https://open.spotify.com/artist/7zrvyajXkaIpiSK5KfyoAO) | [KEEP DREAMING](https://open.spotify.com/album/6Zx9n9TbW981AHHV5AU3K3) | 3:40 | 2022-03-23 | 2022-04-09 |
 | [Feet First](https://open.spotify.com/track/55HoXe0AYxlZUx1xCVI74T) | [Stevie Cornell](https://open.spotify.com/artist/5hQZtP9bauCgRV2APn1goP) | [Stevie Cornell](https://open.spotify.com/album/3btTL1oBU80wYM8jrLKGsq) | 4:03 | 2022-04-22 | 2022-05-08 |
 | [Fever in the Night](https://open.spotify.com/track/4m5z1TxUgeTDXK73m0BwqN) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Fever in the Night](https://open.spotify.com/album/2GdQHLYpmdJxCNVBovkvxj) | 2:58 | 2021-06-19 | 2021-07-04 |
@@ -786,6 +787,7 @@
 | [Mean to Me](https://open.spotify.com/track/77KqgXrrVDCwMCtJE51EYM) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z), [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [Mean to Me](https://open.spotify.com/album/5AB9rphEZ32L2GY3UWjxz1) | 2:34 | 2021-01-29 | 2021-02-13 |
 | [Meaningless](https://open.spotify.com/track/4XdDQHEbOJxHAejxcakgnb) | [Eleanor Kingston](https://open.spotify.com/artist/4NflbC6MLEv2KnPSdLEi7T) | [Meaningless](https://open.spotify.com/album/3dmzCusx3P5VNSSkurop94) | 2:58 | 2020-11-06 | 2020-12-19 |
 | [Mecca \(with JID & EARTHGANG\)](https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:50 | 2021-07-12 | 2021-11-19 |
+| [Medusa](https://open.spotify.com/track/40334O22mvniSDekH599Sr) | [The Bergamot](https://open.spotify.com/artist/4wmpJsWHVtigpGrGya1TQt) | [Medusa](https://open.spotify.com/album/4CeQ61y2vtka97tJAlJs0g) | 3:00 | 2022-05-13 |  |
 | [Meet the Sea](https://open.spotify.com/track/4rVz2HkTChLR8SUlISYZLO) | [Liat and the Sirens](https://open.spotify.com/artist/301CtMztmbpvayBGmvQxfG) | [Meet the Sea](https://open.spotify.com/album/0mIiWFadODBITKdASlykkD) | 3:30 | 2021-01-08 | 2021-01-26 |
 | [Memory Lane \(Sittin' in da Park\)](https://open.spotify.com/track/2W58HMaCbjcUfZnZaeHtcC) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:08 | 2020-08-20 |  |
 | [Merlot](https://open.spotify.com/track/7Lxm6B9EJkMAQIRbUuR9J6) | [B\. Weaver](https://open.spotify.com/artist/59RuXTKHrXQN6smNr5stVk) | [Merlot](https://open.spotify.com/album/4wCyt6Qt7ID7f6m6HLxOeO) | 3:50 | 2021-09-12 | 2021-09-28 |
@@ -1151,6 +1153,7 @@
 | [Sunlight](https://open.spotify.com/track/4hMAmrOnKl0VGe8U8CEGWC) | [Roundrobin](https://open.spotify.com/artist/6lzdsHJPRvkOydWYIQjnQc), [Marlus](https://open.spotify.com/artist/6KZ0uwdg2CfmlADa1rkUmJ) | [Things That Never Fade Away](https://open.spotify.com/album/270tAUouDFz47ftwTui1TD) | 2:29 | 2020-12-18 | 2021-01-03 |
 | [Sunny Fields](https://open.spotify.com/track/3ALW7XoEieIebcfmIodXia) | [Hanibal](https://open.spotify.com/artist/5zFkWzCUHEGhUaRcaGtUkJ) | [Heliopolis](https://open.spotify.com/album/6Tmf3pv5eKVLMC22adLjJw) | 5:14 | 2020-12-25 | 2021-01-09 |
 | [Sunset](https://open.spotify.com/track/4bzCmRscnSBLjpOR7J3dgy) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Coral](https://open.spotify.com/album/7hIWp2pPbMvTSQw7btmWWz) | 2:16 | 2021-01-08 | 2021-01-23 |
+| [Sunset Avenue](https://open.spotify.com/track/1zQQn3f26ueGSvHs1oF4DE) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Sunset Avenue](https://open.spotify.com/album/4uU33D7SWf9WW1rEm8TKCO) | 3:23 | 2022-05-13 |  |
 | [Sunshine Funk](https://open.spotify.com/track/2rwnboVSa6e57T2XB3Fzx0) | [Nawy](https://open.spotify.com/artist/6NP1aYhoRMDBhg9AaTzFTs) | [Sunshine Funk](https://open.spotify.com/album/1QUIlOYOVOTK5sEu2WmpP9) | 3:39 | 2021-02-06 | 2021-02-20 |
 | [Sunshine No\. 7](https://open.spotify.com/track/4psnrSRaYIHMSxLd5jBvPG) | [MckDarko](https://open.spotify.com/artist/3kGzTtCkOYz01yx278EAwf) | [Sunshine No\. 7](https://open.spotify.com/album/0AFYSTua24pPT8jaDWJRNy) | 1:50 | 2020-10-12 | 2020-10-28 |
 | [Superhero Music](https://open.spotify.com/track/17c94x0MEVS5VPHLbPCT7X) | [Malachi LA](https://open.spotify.com/artist/7EEcplHz1lRipbN9yTx06Y) | [I Hate the Parties, Vol\. 1](https://open.spotify.com/album/5b5FMXfmQjr1SbrAkyzv65) | 2:09 | 2022-01-28 | 2022-02-14 |
@@ -1287,6 +1290,7 @@
 | [Vagabond](https://open.spotify.com/track/0EMCFDCNq78eWHGLZQqqgz) | [Amara](https://open.spotify.com/artist/52F2aDMq8CHtduF5nLXRrw) | [Vagabond](https://open.spotify.com/album/6QEmCmDKbIL1TzkUkjBZ5t) | 3:21 | 2021-04-17 | 2021-05-03 |
 | [Venice](https://open.spotify.com/track/29SgYi3K9xTnueAOdJCGf8) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Venice](https://open.spotify.com/album/6IzdxPmeIKK5BFZkmDxR0R) | 2:57 | 2021-04-30 | 2021-05-16 |
 | [venice beach when i met you](https://open.spotify.com/track/2uQGWB7S4YKVgMfCgZIeuU) | [tiger lily](https://open.spotify.com/artist/5IhLkxFWYUxb9xrjp3Wqb0) | [venice beach when i met you](https://open.spotify.com/album/7wLnXExY5Vhth8QgnpnURs) | 3:29 | 2021-05-14 | 2021-05-30 |
+| [Vibe](https://open.spotify.com/track/1zglqlTSmaL2QNxgVqxngl) | [MXE](https://open.spotify.com/artist/5lhhVh9YGmQ4KBrd55dwiP), [Junaswon](https://open.spotify.com/artist/2unndYn3AMNW91XJHPm6y0) | [Vibe](https://open.spotify.com/album/0mmWVcsfj4H5RQc3Hzcreq) | 3:34 | 2022-05-13 |  |
 | [Vibe With You](https://open.spotify.com/track/6wgY6M6cjKvqOKiIWmakkL) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Vibe With You](https://open.spotify.com/album/4cvqVnm7AvQvfLwK2l6ILe) | 3:16 | 2020-02-29 | 2020-04-22 |
 | [Vibe'n \- Radio Edit](https://open.spotify.com/track/7Kgtf5oPYA3FvmOXVliu2t) | [Traemoon](https://open.spotify.com/artist/4HH10t47HH26fT3IZcZsIx), [Bassline \- Jay Jones](https://open.spotify.com/artist/7AluLhtxZuU8YdiwXvr6l2) | [Vibe'n \(Radio Edit\)](https://open.spotify.com/album/05dbPJTcZzd6gjx48X04E7) | 2:29 | 2022-05-13 |  |
 | [Vibin](https://open.spotify.com/track/4AZGwIhpFbdTzep3XKBWTU) | [Blizzi](https://open.spotify.com/artist/7GEJwwLI5WdMqvIi1Yrhxd), [Kazayah](https://open.spotify.com/artist/77GoP62XZ6Q2cb76gLsEJ4) | [Vibin](https://open.spotify.com/album/1FmA1ppPfIxLZEjG2KP6eR) | 2:31 | 2021-03-06 | 2021-03-24 |

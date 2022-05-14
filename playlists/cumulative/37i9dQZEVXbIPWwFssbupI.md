@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-747 songs - 1 day 16 hr 13 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+748 songs - 1 day 16 hr 17 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 | 2021-09-05 | 2021-09-06 |
 | [Fournaise](https://open.spotify.com/track/0RJn54iW71JQg9g2ZJVAPF) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 3:29 | 2021-03-27\* | 2021-04-04 |
 | [Franklin Saint](https://open.spotify.com/track/751uS2mvQuWAbWqmS2WVa5) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:13 | 2021-09-19 | 2021-09-20 |
+| [FRAUDE](https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [FRAUDE](https://open.spotify.com/album/1ds595bn2azH1sYiG38A66) | 3:08 | 2022-05-13 |  |
 | [Freed from Desire](https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life](https://open.spotify.com/album/2dNLeo3WYrq3tGLm4OIMcQ) | 3:34 | 2022-01-01 | 2022-01-03 |
 | [Freestyle 5min \#11](https://open.spotify.com/track/4mNDKJGdcdt20KnZOIglRE) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Freestyle 5min \#11](https://open.spotify.com/album/0sWZR8oqaOF2HKyTIb3u0E) | 5:28 | 2021-07-02 | 2021-07-10 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Hypeman](https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-01-03 |
@@ -744,7 +745,7 @@
 | [Élément 115](https://open.spotify.com/track/4UfbCR87edQDCnA2cYXikA) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Élément 115](https://open.spotify.com/album/5AavGPbUnFL8rrgAUHOrec) | 3:38 | 2022-01-21 | 2022-01-23 |
 | [Étincelle \- Maradona](https://open.spotify.com/track/2PZTDaakPcvII5QJJP7SDO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Étincelle \(Maradona\)](https://open.spotify.com/album/19ZrUrjD6DTq9jRbYEOsma) | 3:32 | 2021-09-12 | 2021-09-19 |
 | [Özil](https://open.spotify.com/track/7bEcFO0XmfRNACmpwgh97f) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:56 | 2021-11-28 | 2021-12-02 |
-| [Θ\. Macarena](https://open.spotify.com/track/2ewjMyCbNv2X1dB2qIDCwD) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:26 | 2022-03-14 |  |
+| [Θ\. Macarena](https://open.spotify.com/track/2ewjMyCbNv2X1dB2qIDCwD) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:26 | 2022-03-14 | 2022-05-14 |
 | [Ο\. OG](https://open.spotify.com/track/63ALxy05IGeKrfOjvGG7lO) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 1:40 | 2021-04-30 | 2021-05-15 |
 | [Π\. VANTABLACK](https://open.spotify.com/track/2n3dCM1RqyhzH5FZQW4jxA) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 2:33 | 2021-04-30 | 2021-05-30 |
 | [Ρ\. DOSE](https://open.spotify.com/track/0pU7enpfjSu21LwCb1708u) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 3:10 | 2021-04-30 | 2021-05-23 |

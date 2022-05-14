@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-132 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+134 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [If It Ain't Funky Back It Up, Pt\. 1](https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [If It Ain't Funky Back It Up](https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5) | 2:33 | 2020-10-30 | 2022-04-09 |
 | [If You Want Me to Stay](https://open.spotify.com/track/0IFQpkcrFHy8bJOlrjKDEZ) | [Trulio Disgracias](https://open.spotify.com/artist/6UtfXZKeC8rNxOYeCtbWa8) | [If You Want Me to Stay](https://open.spotify.com/album/5MJBt7WjNr736b9RXsBZmv) | 5:21 | 2020-10-30 |  |
 | [In a Year From Now](https://open.spotify.com/track/6UcWi3TI0N0ZftbowzRUbC) | [Cindy Latin](https://open.spotify.com/artist/6e8TcVsU71SK3hKcn7unyj) | [In a Year From Now](https://open.spotify.com/album/3PgT269oNrOIWPZte5dPfc) | 3:09 | 2020-10-30 | 2022-04-09 |
+| [Inked \- Alhambra Studios Live Session](https://open.spotify.com/track/1ft2Fb7TaeVee9kobX0rHF) | [Lehmanns Brothers](https://open.spotify.com/artist/7tDwCOr0dfsh4SZN8yECHT) | [Inked \(Alhambra Studios Live Session\)](https://open.spotify.com/album/2UmqUzPgh3qm4BySf0XtpY) | 3:41 | 2022-05-13 |  |
 | [Invisible Soldier](https://open.spotify.com/track/1WenvysTB5ACpxBXFOnUuo) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Invisible Soldier](https://open.spotify.com/album/3fLlTrT4kAYkHxMQBhzxuw) | 3:53 | 2021-11-19 |  |
 | [It's My Thing \(You Can't Tell Me Who To Sock It To\)](https://open.spotify.com/track/4O3a9GrWo8F2Imxi1FDLdo) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [It's My Thing \(You Can't Tell Me Who To Sock It To\)](https://open.spotify.com/album/6tPBs0lIhPMolFJi2sTpMF) | 2:59 | 2021-03-12 |  |
 | [Jam On](https://open.spotify.com/track/0qDpUNoPqMV4aTiVepqXOQ) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth) | [Jam On](https://open.spotify.com/album/2pf5YXATqLlqx7R0eMRKRg) | 5:02 | 2020-10-30 |  |
@@ -78,6 +79,7 @@
 | [Look in My Eyes](https://open.spotify.com/track/3xq9srnNN0LBvha15ZWpTU) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 3:44 | 2020-10-30 |  |
 | [Love Somebody](https://open.spotify.com/track/0R3eQDXzFLPdC9Q9Toj1ys) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Love Somebody](https://open.spotify.com/album/2VIaLN4IxLM3u7U7TInMGk) | 2:49 | 2021-09-03 |  |
 | [Make Way for the Funk Parade](https://open.spotify.com/track/3LtAdAaM6njXeGzmCdkXc9) | [Jordan John](https://open.spotify.com/artist/7GPNa53BeLP2ALe8eoueU0) | [Funk Parade](https://open.spotify.com/album/2gEOnDhIu7txjkJLUtUdFu) | 5:32 | 2020-10-30 | 2022-04-09 |
+| [Maybe Your Baby](https://open.spotify.com/track/6pAiW3roW6efliDgLgaBog) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Realistic Orchestra](https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Chris McGee](https://open.spotify.com/artist/3hFZkF8EDtWcCLTeKgoo1n) | [Maybe Your Baby](https://open.spotify.com/album/3HHFmNSg0aQ5oYgk2KhunF) | 5:27 | 2022-05-13 |  |
 | [Mindblastin'](https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [Mindblastin'](https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy) | 4:21 | 2020-10-30 | 2022-04-09 |
 | [Mirror Ballin'](https://open.spotify.com/track/1pRh0b2MQUjxsXJbXDq6up) | [X\-Ray Ted](https://open.spotify.com/artist/12EFr92EFfo4RZCEJspg2m) | [Mirror Ballin' EP](https://open.spotify.com/album/2xsoZDOSzlsq5yQvWPsWFd) | 4:52 | 2020-10-30 | 2022-04-09 |
 | [Mister Man](https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Afterlife Vol\. 2 \- EP](https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al) | 3:46 | 2020-10-30 | 2022-04-09 |

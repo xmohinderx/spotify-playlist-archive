@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 117190,
       "name": "556 (Green Tip)",
       "url": "https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 180680,
       "name": "B.A.M.",
       "url": "https://open.spotify.com/track/4zcvcmOQNzhIseuZyt4Jqe"
@@ -902,6 +902,28 @@
     },
     {
       "album": {
+        "name": "Bring Some Mo (feat. NLE Choppa)",
+        "url": "https://open.spotify.com/album/0fFqPfWEy8FdDqaPzXMOLx"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175199,
+      "name": "Bring Some Mo (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu"
+    },
+    {
+      "album": {
         "name": "Brixx",
         "url": "https://open.spotify.com/album/1i4xWUtR929qMuuSnGGf1o"
       },
@@ -1290,6 +1312,28 @@
     },
     {
       "album": {
+        "name": "Closed Case (feat. B-Lovee)",
+        "url": "https://open.spotify.com/album/6Qjw5qCl0Qmlgt2b11tLCk"
+      },
+      "artists": [
+        {
+          "name": "YXNG K.A",
+          "url": "https://open.spotify.com/artist/3BBujITyfgwyXTQliFzUNH"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142448,
+      "name": "Closed Case (feat. B-Lovee)",
+      "url": "https://open.spotify.com/track/5w4TlLvytDBFPxfvHkyLTf"
+    },
+    {
+      "album": {
         "name": "Come Through (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/1MmvvWW9bxBU68A6eciF2B"
       },
@@ -1546,6 +1590,28 @@
     },
     {
       "album": {
+        "name": "DAMN HOMIE (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/2XNIXSvuuUUdC7I9zsSRvW"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "DAMN HOMIE (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/1P3ngSxpsmwSVlnAq4iszK"
+    },
+    {
+      "album": {
         "name": "Dancing Queen / Yasss Queen",
         "url": "https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff"
       },
@@ -1783,6 +1849,32 @@
       "duration_ms": 244968,
       "name": "Do It Up",
       "url": "https://open.spotify.com/track/1frjEBA90WqoheDVw9XRI7"
+    },
+    {
+      "album": {
+        "name": "Do Not Disturb ft. NAV and Yung Bleu",
+        "url": "https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207045,
+      "name": "Do Not Disturb ft. NAV and Yung Bleu",
+      "url": "https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh"
     },
     {
       "album": {
@@ -3147,6 +3239,24 @@
       "duration_ms": 131135,
       "name": "I Want In (feat. 1TakeJay)",
       "url": "https://open.spotify.com/track/2UTmVA8QD0AJ7gConpv9PO"
+    },
+    {
+      "album": {
+        "name": "I'm Back",
+        "url": "https://open.spotify.com/album/4UYkjiSBotywZsgvaWhdvt"
+      },
+      "artists": [
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/2DNWgFBDphkRVpMMxGfInW"
     },
     {
       "album": {
@@ -6218,6 +6328,28 @@
     },
     {
       "album": {
+        "name": "A Trip To Paris",
+        "url": "https://open.spotify.com/album/3Iz17W8WgENVednqfGnBSv"
+      },
+      "artists": [
+        {
+          "name": "Paris Bryant",
+          "url": "https://open.spotify.com/artist/4Ng21p92TPTkeAcXJlSB2u"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Slide (with KiDi)",
+      "url": "https://open.spotify.com/track/4lbXuTWvKI6Xnfnla0QRar"
+    },
+    {
+      "album": {
         "name": "Slim Waist",
         "url": "https://open.spotify.com/album/12SXIjeo8hFvzeyBKnGIYH"
       },
@@ -6465,7 +6597,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 150720,
       "name": "Steppers",
       "url": "https://open.spotify.com/track/0Cof04dNGqSQPNc2NpQg8J"
@@ -6957,7 +7089,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 111000,
       "name": "Times Up",
       "url": "https://open.spotify.com/track/1J2uejzGKyOeak5jN4hdBV"
@@ -7475,7 +7607,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 176202,
       "name": "Wafi (feat. G Herbo)",
       "url": "https://open.spotify.com/track/7pSZBW04hgw6YxjFr9ahUs"
@@ -7683,7 +7815,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 143248,
       "name": "With The Villains",
       "url": "https://open.spotify.com/track/6NLT5ioKnvVuFLrumNlmvy"

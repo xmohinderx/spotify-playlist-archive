@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,039 likes - 63 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,063 likes - 63 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 28 | [Honey Bop](https://open.spotify.com/track/2Wsm0caLiFxjqm8QNp8R8q) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [20 Rock 'N' Roll Hits](https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW) | 2:15 |
 | 29 | [Blue Suede Shoes](https://open.spotify.com/track/6YMYrOPAIKah6RHOkPP0oS) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [A\-Sides](https://open.spotify.com/album/6dknVJxHPNrsFkbQRU980y) | 2:16 |
 | 30 | [There Stands The Glass](https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:26 |
-| 31 | [Oh Baby Babe \- Single Version](https://open.spotify.com/track/1lhSVCcPspFV7XAdvWSazI) | [Johnny Burnette](https://open.spotify.com/artist/4IDg1gQRBBRNOwAUtskwlP) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:20 |
+| 31 | [Oh Baby Babe \- Single Version](https://open.spotify.com/track/1lhSVCcPspFV7XAdvWSazI) | [Johnny Burnette](https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:20 |
 | 32 | [Shirley Lee](https://open.spotify.com/track/22J2v0T6yxFbpM5HMAmToY) | [Bobby Lee Trammell](https://open.spotify.com/artist/0TJ6UwA2LLLk3u9WjPFYLW) | [Rockabilly Pioneers: The Origins of Rockabilly](https://open.spotify.com/album/3LFHxKzfoMceMqhIKRQ2LU) | 1:47 |
 | 33 | [Rock & Roll Ruby](https://open.spotify.com/track/6xaCoxc3yqOEwqrHW7A3qT) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Originals \- Classic Hits from the 50's & 60's](https://open.spotify.com/album/05wRON6KWMYqj8Mu2hcsFb) | 2:55 |
 | 34 | [Guess Things Happen That Way](https://open.spotify.com/track/3ty6IIfuP0fXZ1XZDqQXmf) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Sings the Songs that Made Him Famous](https://open.spotify.com/album/2nQNyHqWILAkDe4OhyWonE) | 1:50 |

@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for your focus time.
 
-102 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/2tOQPPwScgMTueE1ReWTmP)
+103 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/2tOQPPwScgMTueE1ReWTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Blues For Daryl](https://open.spotify.com/track/6oTTdFI04W4QbfyzKfeTaI) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 3:31 | 2021-12-16 |  |
 | [Blues In The Night \- Short Version](https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 5:57 | 2021-12-16 |  |
 | [Body & Soul](https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:50 | 2021-12-16 |  |
-| [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 | 2021-12-16 |  |
+| [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 | 2021-12-16 | 2022-05-14 |
 | [Danny Boy](https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:36 | 2021-12-16 |  |
 | [Darn That Dream \- Remastered 2015](https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [One Flight Up \(Remastered 2015\)](https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8) | 7:31 | 2022-01-26 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 3:21 | 2022-01-26 |  |
@@ -101,6 +101,7 @@
 | [There Will Never Be Another You](https://open.spotify.com/track/7wcmJbWzDh81fU0dszxzAi) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Big 6](https://open.spotify.com/album/7rpVIPYd0mq2gJG9GRgXlz) | 5:04 | 2021-12-16 |  |
 | [These Foolish Things](https://open.spotify.com/track/0mrCcgj3gqbLEZxW0SIifx) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:12 | 2021-12-16 |  |
 | [Three to Get Ready](https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:23 | 2021-12-16 |  |
+| [Till There Was You](https://open.spotify.com/track/5CRUURL4TTPTxF36cDtX1J) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Three Little Words](https://open.spotify.com/album/5R2EebUkOPmRbw0wEhutCD) | 7:12 | 2022-05-13 |  |
 | [Time After Time](https://open.spotify.com/track/6M5sixn4EsVnrxBE4RpTNr) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster and Associates](https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR) | 4:34 | 2021-12-16 |  |
 | [Time And Again](https://open.spotify.com/track/3ewiw4NXq7VPVGMzgufYtE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 4:40 | 2021-12-16 |  |
 | [What A Wonderful World](https://open.spotify.com/track/0s3HQstgfSJ3HYKRxcgkA4) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [What A Wonderful World](https://open.spotify.com/album/6SMXQ92Fqa6MJLx09Idi7T) | 2:50 | 2021-12-16 | 2022-05-04 |

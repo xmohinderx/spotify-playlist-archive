@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: lentra",
+  "description": "Proudly marching to the beat of their own drum. Cover: Suray Sertin",
   "name": "Outliers",
   "published_playlist_ids": [
     "2eZDT7fvyZw5HsAm74ImXE"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 233651,
       "name": "Break of Dawn",
       "url": "https://open.spotify.com/track/5rv0ykJvnvPBunZacaysvW"
@@ -846,6 +846,28 @@
     },
     {
       "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/5PZqmQFWD4UjHcBk27jA06"
+      },
+      "artists": [
+        {
+          "name": "Numb Tongues",
+          "url": "https://open.spotify.com/artist/4GjV45j15wL0sHVDNt3MO7"
+        },
+        {
+          "name": "Alexandra Willett",
+          "url": "https://open.spotify.com/artist/2Ch4UuvEp3AOtdISvdHjFX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265467,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/0MkeWj9a2eIdyEspwnCm1U"
+    },
+    {
+      "album": {
         "name": "deadmanwalking",
         "url": "https://open.spotify.com/album/4oToqMPGGQoVp77zj5nEei"
       },
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 155490,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo"
@@ -1137,7 +1159,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 160479,
       "name": "EST",
       "url": "https://open.spotify.com/track/4FPmUbBlJoUcxyzbIov91v"
@@ -1159,7 +1181,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
@@ -1282,6 +1304,28 @@
     },
     {
       "album": {
+        "name": "Faster Gun",
+        "url": "https://open.spotify.com/album/1XZzVQ8F1gz1tTLpaj3dx3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Freemont",
+          "url": "https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD"
+        },
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178536,
+      "name": "Faster Gun",
+      "url": "https://open.spotify.com/track/5evAjdkrencXnIb1DO4iq4"
+    },
+    {
+      "album": {
         "name": "Get Home SAFE (Part 1)",
         "url": "https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH"
       },
@@ -1355,6 +1399,24 @@
       "duration_ms": 209520,
       "name": "Fire Inside",
       "url": "https://open.spotify.com/track/6f8xKiIfQMdWeGAr6Q8R8s"
+    },
+    {
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
     },
     {
       "album": {
@@ -1623,7 +1685,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 157000,
       "name": "Gr8 Timing!",
       "url": "https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3"
@@ -1805,10 +1867,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 232967,
       "name": "Home Maker (Edit)",
       "url": "https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs"
+    },
+    {
+      "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148194,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
     },
     {
       "album": {
@@ -1849,6 +1929,24 @@
       "duration_ms": 196112,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/4I0KjYxuQtNov6MHuuL6zt"
+    },
+    {
+      "album": {
+        "name": "Hypernormalization",
+        "url": "https://open.spotify.com/album/2qnGhvs13gUZnASxlGmMiK"
+      },
+      "artists": [
+        {
+          "name": "Rich Aucoin",
+          "url": "https://open.spotify.com/artist/2XwFZjlnvpwnZSO8QbKErQ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249887,
+      "name": "Hypernormalization",
+      "url": "https://open.spotify.com/track/1dKoVCoteyPXu1OQA2h7LN"
     },
     {
       "album": {
@@ -2005,6 +2103,24 @@
       "duration_ms": 264573,
       "name": "Imagine That (feat. Shad)",
       "url": "https://open.spotify.com/track/18pEhwBhFr9ToeHPjHD0r5"
+    },
+    {
+      "album": {
+        "name": "in my head",
+        "url": "https://open.spotify.com/album/1kwmTBvSKbt6e03fVrxCGV"
+      },
+      "artists": [
+        {
+          "name": "joss lockwood",
+          "url": "https://open.spotify.com/artist/7c0umSPytMVzf1GT9eL7f2"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118250,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/7cWvWr9JTwQ4NFmvgYyNR0"
     },
     {
       "album": {
@@ -2407,7 +2523,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 197153,
       "name": "Mad",
       "url": "https://open.spotify.com/track/5jyrsygTAsGvAKsFGxTd6t"
@@ -2594,6 +2710,24 @@
     },
     {
       "album": {
+        "name": "Midnight Delivery",
+        "url": "https://open.spotify.com/album/2d9TLCuZw5hc0qXJWLgcj2"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Midnight Delivery",
+      "url": "https://open.spotify.com/track/1cKJuD3B2dYZAsolCVABHU"
+    },
+    {
+      "album": {
         "name": "midnight sun",
         "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
       },
@@ -2605,7 +2739,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
@@ -3160,6 +3294,24 @@
     },
     {
       "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "album": {
         "name": "OPEN A WINDOW (feat. Tyler, The Creator)",
         "url": "https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf"
       },
@@ -3227,7 +3379,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 172800,
       "name": "Original Classic (Byron The Aquarius Remix)",
       "url": "https://open.spotify.com/track/7InCGnTDBzpjvN1nCxiFws"
@@ -3991,10 +4143,32 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 237600,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/1XzkVmQZGvHzZ1vMB4nily"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/6vRpRT7mRjKa61o0utjGTC"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        },
+        {
+          "name": "XNom",
+          "url": "https://open.spotify.com/artist/4ST9qgTT0c4mgIBta6CLPf"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122090,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/6iBtDRlPzeeHn0wQUJZbsk"
     },
     {
       "album": {
@@ -4013,6 +4187,24 @@
       "duration_ms": 399408,
       "name": "Sunrise Blue",
       "url": "https://open.spotify.com/track/70dtWf6DYY53vWH7migEiJ"
+    },
+    {
+      "album": {
+        "name": "Sway (The Places She Goes)",
+        "url": "https://open.spotify.com/album/7f1zz0dMUJLwxQjA7JGcCq"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221477,
+      "name": "Sway (The Places She Goes)",
+      "url": "https://open.spotify.com/track/01MAfM7gDbLITfH5hzNRnV"
     },
     {
       "album": {
@@ -4360,6 +4552,24 @@
     },
     {
       "album": {
+        "name": "Unseen",
+        "url": "https://open.spotify.com/album/7uMgVPX5AGSStBDgmOf6q4"
+      },
+      "artists": [
+        {
+          "name": "Harrison Brome",
+          "url": "https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169939,
+      "name": "Unseen",
+      "url": "https://open.spotify.com/track/3YiB0GUZX89rt6MoXS2XMf"
+    },
+    {
+      "album": {
         "name": "Galerie",
         "url": "https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ"
       },
@@ -4393,7 +4603,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"

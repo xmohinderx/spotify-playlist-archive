@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 245226,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 228826,
       "name": "Despacito - Remix",
       "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
@@ -1566,6 +1566,32 @@
     },
     {
       "album": {
+        "name": "Hey Now (Iko Iko)",
+        "url": "https://open.spotify.com/album/2QxD1CV4r9sJmtO8ogFd5u"
+      },
+      "artists": [
+        {
+          "name": "Alx Veliz",
+          "url": "https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg"
+        },
+        {
+          "name": "RadioClub",
+          "url": "https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb"
+        },
+        {
+          "name": "Altur Santos",
+          "url": "https://open.spotify.com/artist/022RWmmEi2RWjL5RsOPOqR"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169951,
+      "name": "Hey Now (Iko Iko)",
+      "url": "https://open.spotify.com/track/2wlfIduuDwZiAha3auaztw"
+    },
+    {
+      "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/4biAcaKScPV4ItYa5qUrN6"
       },
@@ -2055,6 +2081,24 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "album": {
@@ -3729,7 +3773,7 @@
       ],
       "date_added": "2019-09-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 238906,
       "name": "Sunset Lover",
       "url": "https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E"
@@ -4425,7 +4469,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 260026,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/1z9RzydgMcwmFU6TiEO6N3"

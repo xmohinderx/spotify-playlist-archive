@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Cedric Burnside
 
-135 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+138 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [bad blood](https://open.spotify.com/track/7lqyiS447jxNlaMpzsYfkY) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [bad blood](https://open.spotify.com/album/0IYR6AlNwF9HW1u4Jzf1oo) | 3:08 | 2021-12-17 |  |
 | [Believe](https://open.spotify.com/track/44HwerWFM8qbpcDL6nJ0xS) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Believe](https://open.spotify.com/album/6qnFIHXyFvhEQ04PsRqi6f) | 3:54 | 2021-12-17 |  |
 | [belladonna](https://open.spotify.com/track/0nrFU9qiAFB8ATkkPPlDJl) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/2zj883AQcsxbBdjHZhVrBU) | 3:15 | 2021-12-17 |  |
+| [Big Bend](https://open.spotify.com/track/6Da34y67KXjJRMtT37iSBz) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ) | 2:28 | 2022-05-13 |  |
 | [Black Hole](https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Black Hole](https://open.spotify.com/album/5WB4gBdiDMMGjqoQqZWj6S) | 4:02 | 2022-03-28 |  |
 | [Black Holes and Overdoses](https://open.spotify.com/track/7dSrCmvxIwowO6V30kIWg6) | [The Suitcase Junket](https://open.spotify.com/artist/7Iew8GtdYcaznLxIJpJxeS) | [Black Holes and Overdoses](https://open.spotify.com/album/12bknsFQe4EJbp0JSnQb7y) | 3:13 | 2021-12-17 |  |
 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2021-12-17 |  |
@@ -23,6 +24,7 @@
 | [Born Of A Woman \(feat\. Shaneeka Simon\)](https://open.spotify.com/track/45I9HtSVeOQeVN49QgEFel) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Born Of A Woman \(feat\. Shaneeka Simon\)](https://open.spotify.com/album/7wn9mneNNdYCmqQHKDkMds) | 3:47 | 2021-12-17 |  |
 | [Broke My Own](https://open.spotify.com/track/16nsWHpv1wsZCcNAYcLDM2) | [Shannon Shaw](https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq) | [Broke My Own](https://open.spotify.com/album/5RCXx9Z33F9TDs9rKbEL0w) | 2:59 | 2021-12-17 |  |
 | [Bubba Jones](https://open.spotify.com/track/6jHTm5o5LTTM3Csm7G5EZH) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bubba Jones](https://open.spotify.com/album/6wzc5EDPw8DHqJln0f1BSJ) | 4:26 | 2021-12-17 |  |
+| [Burned \(2022 Remaster\)](https://open.spotify.com/track/3RvsARgXxO6AAgZ4lF5lZK) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [Matthew Sweet](https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw) | [Hollywood Blues: Songs and Stories from the Family Tree \(1997\-2022\)](https://open.spotify.com/album/7LE2GFTq1Smdeezt2eTAcx) | 2:35 | 2022-05-13 |  |
 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 | 2021-12-17 |  |
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2021-12-17 |  |
 | [Change My Mind](https://open.spotify.com/track/0H2MZlPGsXeQuNzLY6dL1P) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Change My Mind](https://open.spotify.com/album/5D4wpw1J1QrlUFg9N95wHh) | 5:01 | 2021-12-17 |  |
@@ -139,6 +141,7 @@
 | [What Are You Listening To?](https://open.spotify.com/track/2mbaqK3h3Il91gTq4gMUQm) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Joy Comes Back](https://open.spotify.com/album/0KVRKuJ3L6dpheQaBJZJrt) | 4:17 | 2021-12-17 |  |
 | [What Did I Do](https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:52 | 2021-12-17 |  |
 | [Whiskey & Wonder](https://open.spotify.com/track/4TlOVtxbJpd9XTwjuVLHeM) | [Angel Forrest](https://open.spotify.com/artist/3kZNky4VEHNviUvh6zNRal), [Brandon Isaak](https://open.spotify.com/artist/6mvNsKyyE6Xpt6BRuGLjBM) | [Whiskey & Wonder](https://open.spotify.com/album/3dZbWqY6QZPSIuVGEQN6mn) | 4:34 | 2022-03-11 |  |
+| [Why Do I Cry Anymore](https://open.spotify.com/track/3gEHy9sxwFdv2dDXc8WB7P) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Why Do I Cry Anymore](https://open.spotify.com/album/5hldzbhEFzLqeT2WATFsZS) | 3:28 | 2022-05-13 |  |
 | [Worry](https://open.spotify.com/track/1hAIPXpzfpBGsWGYTf69MM) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Worry](https://open.spotify.com/album/4lsxhQoLG5OEUEfVlUgA9H) | 3:05 | 2021-12-17 |  |
 | [Written Or Spoken](https://open.spotify.com/track/5sfxarjtRlNrFNPmkdL7Nh) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Written Or Spoken](https://open.spotify.com/album/0gzyjg8NoPEJiCN4MHTJlo) | 4:59 | 2021-12-17 |  |
 | [You and Your Folks, Me and My Folks \- Recorded at East West Studios](https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26) | 4:12 | 2021-12-17 | 2022-04-16 |

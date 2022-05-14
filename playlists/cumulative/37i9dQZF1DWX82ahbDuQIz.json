@@ -810,6 +810,28 @@
     },
     {
       "album": {
+        "name": "A Strange Loop (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5z6tSjQBM6N8jhJKANN7pS"
+      },
+      "artists": [
+        {
+          "name": "Jacquel Spivey, L Morgan Lee, James Jackson Jr., John-Michael Lyles, John-Andrew Morrison, Jason Veasey, Antwayn Hopper",
+          "url": "https://open.spotify.com/artist/0RBWVfOvH4do3tTchqk7Qz"
+        },
+        {
+          "name": "The Original Broadway Cast of A Strange Loop",
+          "url": "https://open.spotify.com/artist/16bokXVvBSFa6T1KC7fMFw"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213986,
+      "name": "Inner White Girl",
+      "url": "https://open.spotify.com/track/04jRwXswyxKyMSbzMzyhQm"
+    },
+    {
+      "album": {
         "name": "Back to the Future: The Musical",
         "url": "https://open.spotify.com/album/5cfiZFpFlkL6hazHrRV2Bi"
       },
@@ -1665,7 +1687,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 409720,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/6olJrYB94NqdARj9tWRplO"

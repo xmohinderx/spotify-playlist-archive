@@ -624,6 +624,24 @@
     },
     {
       "album": {
+        "name": "Fromage Frais",
+        "url": "https://open.spotify.com/album/4r833ilfTlysiJbHPxN79J"
+      },
+      "artists": [
+        {
+          "name": "Damien Thorpe",
+          "url": "https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151860,
+      "name": "Fromage Frais",
+      "url": "https://open.spotify.com/track/6VhMdls0mTxYlMj62ZVGK8"
+    },
+    {
+      "album": {
         "name": "the spice is right",
         "url": "https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb"
       },

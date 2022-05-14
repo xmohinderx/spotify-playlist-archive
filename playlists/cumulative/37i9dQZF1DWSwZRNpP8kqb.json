@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Cantoras y compositoras de nuestra tierra. Foto: Flor Paz.",
+  "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
   "name": "Mujeres del Folklore",
   "published_playlist_ids": [
     "7nXcjXNUK7S3A7KHXp1lNb"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 156368,
       "name": "Astilla de Tus Montes",
       "url": "https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 186899,
       "name": "Disfruto (En Vivo, Teatro Provincial J.C.Saravia - Salta)",
       "url": "https://open.spotify.com/track/1JG6hhiK0IY5KgpYBRTG5u"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 250329,
       "name": "Entre Algarroba y Durazno",
       "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 189906,
       "name": "La Estrella Azul",
       "url": "https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 299363,
       "name": "Maria Sabina",
       "url": "https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 126146,
       "name": "Pal Tiempo Del Carnaval",
       "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 208540,
       "name": "Secretos",
       "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
@@ -1223,6 +1223,24 @@
       "duration_ms": 237831,
       "name": "Serenata para la Tierra de Uno",
       "url": "https://open.spotify.com/track/3SAz3P2BWThVMybST6mG1T"
+    },
+    {
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
     },
     {
       "album": {

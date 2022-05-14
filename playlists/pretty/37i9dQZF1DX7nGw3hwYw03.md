@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 
 > Essential Alesso originals and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,270 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,327 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 | 50 | [Under Control \(feat\. Hurts\) \- Extended Mix](https://open.spotify.com/track/3IRopjEQzdRC8oP98yUikY) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a) | [Under Control \(feat\. Hurts\)](https://open.spotify.com/album/5PXsUtfvYHPvlvGRVuwNOp) | 5:36 |
 | 51 | [TIME \- Alesso & Deniz Koyu Remix](https://open.spotify.com/track/6EHfy60U5dH5QJcQKdbNPQ) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [TIME \(Alesso & Deniz Koyu Remix\)](https://open.spotify.com/album/75FRR5VgQfUAGYw8nazMrI) | 3:54 |
 
-Snapshot ID: `MTY1MjQwNDU3MiwwMDAwMDAwMGE0NmE0Nzg3YTg1MTkyMjhmYWZjMDcyZjNiNmZhYjMw`
+Snapshot ID: `MTY1MjQ5MTE1NSwwMDAwMDAwMGE0NmE0Nzg3YTg1MTkyMjhmYWZjMDcyZjNiNmZhYjMw`

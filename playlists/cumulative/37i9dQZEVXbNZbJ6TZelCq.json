@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 182331,
       "name": "Abu Dhabi",
       "url": "https://open.spotify.com/track/6hJ4YxUN9RRUm4E08qfDcs"
@@ -1831,7 +1831,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
@@ -5041,7 +5041,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 177324,
       "name": "Hai s\u0103 uit\u0103m de tot",
       "url": "https://open.spotify.com/track/5sIwSZndmAG67GjgquvaHz"
@@ -13363,6 +13363,24 @@
       "duration_ms": 133762,
       "name": "Yebba\u2019s Heartbreak",
       "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/1WN2bujOA6TXyUroEBIDzK"
+      },
+      "artists": [
+        {
+          "name": "Trabbon",
+          "url": "https://open.spotify.com/artist/36oQhIyUS9PTDJu6Lm9dvP"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165515,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0F7GxPJyD2OcDYmHz3tSAk"
     },
     {
       "album": {

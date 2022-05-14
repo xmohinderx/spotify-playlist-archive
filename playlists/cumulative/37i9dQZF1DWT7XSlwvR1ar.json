@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 256320,
       "name": "Can You Handle My Love??",
       "url": "https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 179582,
       "name": "Dancin' Around My Grave",
       "url": "https://open.spotify.com/track/15iM1wuREVujfuboVzZJSK"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 221498,
       "name": "First In Flight",
       "url": "https://open.spotify.com/track/1CAgLQ0ucxEJYfEYAS83jA"
@@ -3227,7 +3227,7 @@
       ],
       "date_added": "2019-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 253395,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
@@ -3451,7 +3451,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
@@ -3487,7 +3487,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 218666,
       "name": "Remember to Forget",
       "url": "https://open.spotify.com/track/1AamwwLMxzX4EGPUZGHbqL"
@@ -4215,7 +4215,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
@@ -4421,6 +4421,24 @@
       "duration_ms": 199391,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/3d3LHam2Lc5ADEyJxG3fXE"
+    },
+    {
+      "album": {
+        "name": "Through The Echoes / Lose It",
+        "url": "https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221245,
+      "name": "Through The Echoes",
+      "url": "https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R"
     },
     {
       "album": {
@@ -4977,7 +4995,7 @@
       ],
       "date_added": "2019-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 217026,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/6oa5Vfov0r90SK63nVvTii"
@@ -5157,7 +5175,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 219053,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
@@ -5197,7 +5215,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 231840,
       "name": "You Are the Best Thing",
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
@@ -5233,7 +5251,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 204333,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/4LSi50PwwZFOpkusSFu9Pd"

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Red Hot Chilli Peppers
 
-291 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+293 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,10 +95,12 @@
 | [Feel The Fire](https://open.spotify.com/track/17gyIfLbs9nWLtvgiXVswT) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Feel The Fire](https://open.spotify.com/album/1oHDmvOwjMoFT7VbG3zavN) | 4:07 | 2021-08-26 |  |
 | [Fire, Ready, Aim](https://open.spotify.com/track/3I8Ri6tLa4QA11MMdZywtM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/1xIgeQeVlMe5fcAVpRjkaP) | 1:52 | 2020-10-10\* | 2021-05-13 |
 | [Flowers](https://open.spotify.com/track/7asY5GsK5NqAVh3Ux7ZkKG) | [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU) | [Flowers](https://open.spotify.com/album/4FXXzYJ9t5xVfwxslPUIWd) | 4:17 | 2021-09-17 |  |
+| [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-13 |  |
 | [Forever](https://open.spotify.com/track/1H5cXvRnzHb6gl2RUwrHmg) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Everyone Loves You… Once You Leave Them](https://open.spotify.com/album/0e4UoB6RvG4UyAnsyuKD4m) | 3:10 | 2020-10-10\* | 2021-05-13 |
 | [Forgiveness I + II](https://open.spotify.com/track/2NgM0Rr5uLzSR4WOVR9XW9) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Forgiveness I + II](https://open.spotify.com/album/3grI8WQrfW64ibvBALiZav) | 6:41 | 2020-10-10\* | 2021-05-13 |
 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 | 2020-10-10\* | 2021-02-25 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-05-21 | 2022-03-18 |
+| [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-13 |  |
 | [Genesis](https://open.spotify.com/track/6FfMQVzOC46ZL5byOQfUhT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 5:17 | 2020-10-15 | 2022-03-18 |
 | [Getaway Green](https://open.spotify.com/track/3pUJI1a0oZNHj9wRtZOf5O) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Getaway Green/Sleeping In/Some Kind Of Disaster](https://open.spotify.com/album/6g706eoQwOTiadVEkt2FKQ) | 2:47 | 2020-10-10\* | 2021-05-13 |
 | [GIVE IT ALL UP \(feat\. Tove Lo\)](https://open.spotify.com/track/43DFMjVuW7gYyh5Cpz94Js) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [FUTURE PAST](https://open.spotify.com/album/7GyGHJ1jv0v2Sa0pcgs4fD) | 5:07 | 2021-10-22 |  |

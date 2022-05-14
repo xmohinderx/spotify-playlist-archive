@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 173085,
       "name": "ACORDA PEDRINHO",
       "url": "https://open.spotify.com/track/6hFwju6M40CKovKBPu5IpY"
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 213420,
       "name": "Cuido dos Detalhes",
       "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
@@ -3659,6 +3659,14 @@
           "url": "https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs"
         },
         {
+          "name": "Lucas BHZ",
+          "url": "https://open.spotify.com/artist/2a3xFskoNnSmNYrDzIeUKN"
+        },
+        {
+          "name": "Mc Lina",
+          "url": "https://open.spotify.com/artist/6V9TYyxua6RS2GXbt4E55Q"
+        },
+        {
           "name": "DJ HV",
           "url": "https://open.spotify.com/artist/3rDdysBwBo1hLu64P4csGJ"
         },
@@ -3667,21 +3675,13 @@
           "url": "https://open.spotify.com/artist/38Yog5iHQZZ7BCeR7uvudl"
         },
         {
-          "name": "Lucas BHZ",
-          "url": "https://open.spotify.com/artist/2a3xFskoNnSmNYrDzIeUKN"
-        },
-        {
           "name": "Ruanzinho",
           "url": "https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61"
-        },
-        {
-          "name": "Mc Lina",
-          "url": "https://open.spotify.com/artist/6V9TYyxua6RS2GXbt4E55Q"
         }
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 141692,
       "name": "Mega da Virada",
       "url": "https://open.spotify.com/track/3gsmE364yFxVJcynvHu0J8"
@@ -4543,7 +4543,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 207413,
       "name": "Over",
       "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
@@ -5605,7 +5605,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 161076,
       "name": "Simplesmente Ela",
       "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u"
@@ -5939,6 +5939,10 @@
         {
           "name": "Xam\u00e3",
           "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
       "date_added": "2022-04-19",
@@ -6405,14 +6409,6 @@
           "url": "https://open.spotify.com/artist/72ipMVQcFmP8kVnlHbcV3q"
         },
         {
-          "name": "GORD\u00c3O DO PC",
-          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
-        },
-        {
-          "name": "DJ JR Oficial",
-          "url": "https://open.spotify.com/artist/3zvsV2QKvNELyByQFLSRou"
-        },
-        {
           "name": "MC Lil",
           "url": "https://open.spotify.com/artist/70Xuy7hYKF1SMmWsrIuwit"
         },
@@ -6431,6 +6427,14 @@
         {
           "name": "Mc J Mito",
           "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        },
+        {
+          "name": "DJ JR Oficial",
+          "url": "https://open.spotify.com/artist/3zvsV2QKvNELyByQFLSRou"
         }
       ],
       "date_added": "2022-04-12",
@@ -6550,6 +6554,24 @@
     },
     {
       "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "album": {
         "name": "Uptown Funk Remix RJ",
         "url": "https://open.spotify.com/album/1wEtVTCziAOIu1Qr3OcvfE"
       },
@@ -6651,6 +6673,24 @@
       "duration_ms": 190463,
       "name": "Vai Malvadin Me Chama de Amor",
       "url": "https://open.spotify.com/track/4EBkoB8yeft3ZaH8DPeYeC"
+    },
+    {
+      "album": {
+        "name": "VAI NO COLO DO VUK MAL TIK TOK",
+        "url": "https://open.spotify.com/album/3V8GI5VJ3ji5kDCffxmYp5"
+      },
+      "artists": [
+        {
+          "name": "DJ GL DA RAIZ",
+          "url": "https://open.spotify.com/artist/7jrI8UcpLSxqA37pIdnIBB"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115333,
+      "name": "VAI NO COLO DO VUK MAL TIK TOK",
+      "url": "https://open.spotify.com/track/7ATCSg2z3ucopdtW75Seo8"
     },
     {
       "album": {
@@ -7095,7 +7135,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"

@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 75433,
       "name": "A Casa Pete",
       "url": "https://open.spotify.com/track/3oVBLwtACAPgpmzqEC1ztX"
@@ -2161,7 +2161,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 177000,
       "name": "Hala Madrid ...y nada m\u00e1s",
       "url": "https://open.spotify.com/track/1lL7OcPk6lINpeupzqTjSC"
@@ -3097,7 +3097,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
@@ -3496,6 +3496,24 @@
     },
     {
       "album": {
+        "name": "Nos Da Igual",
+        "url": "https://open.spotify.com/album/3RQzEGZ1F64jVRUA2MTncJ"
+      },
+      "artists": [
+        {
+          "name": "KG970",
+          "url": "https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Nos Da Igual",
+      "url": "https://open.spotify.com/track/3dyQfqPEASyhbdCnIteJQY"
+    },
+    {
+      "album": {
         "name": "Notion",
         "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
       },
@@ -3857,7 +3875,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 159344,
       "name": "RATIO",
       "url": "https://open.spotify.com/track/1spITpds0bb12suzLpqk31"
@@ -4199,7 +4217,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 200337,
       "name": "Si Quieren Frontear",
       "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
@@ -5277,7 +5295,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
@@ -5385,7 +5403,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"

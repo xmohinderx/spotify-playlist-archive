@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-280 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+281 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Tigers & Celines](https://open.spotify.com/track/2UTROxDu41AUDa9gNo94l8) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Tigers & Celines](https://open.spotify.com/album/2HPCiMEPzuqMQeyTvcjLoy) | 2:28 | 2022-01-07 | 2022-01-22 |
 | [To Love \(feat\. Shannon Saunders\)](https://open.spotify.com/track/6JjvOQ9fzmltytSQS14PHg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Shannon Saunders](https://open.spotify.com/artist/0R99HoFbo8665kwfOtbvxb) | [Frequently Flying](https://open.spotify.com/album/0w90jfJxN51UAThoxMOnVw) | 4:19 | 2020-09-13\* | 2021-05-25 |
 | [Torn](https://open.spotify.com/track/78LzgdgeE4gJyk5pIrs1v0) | [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Torn](https://open.spotify.com/album/3iw3n5O3FPuX0sXheeOINN) | 3:27 | 2020-09-13\* | 2021-03-06 |
+| [Touch](https://open.spotify.com/track/397W12CqjA788iknS81yMB) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Touch](https://open.spotify.com/album/2nS3OjhmMCgYYeZfWy6Bga) | 2:47 | 2022-05-13 |  |
 | [Toxic](https://open.spotify.com/track/6UU327DS6QSo0zv1HkWFdq) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Marco Foster](https://open.spotify.com/artist/4xjQzxyvWiHRDXxJv9ORb2) | [Toxic](https://open.spotify.com/album/0bAAQZcKoSxWeFaUiZe78H) | 2:54 | 2021-05-15 | 2021-06-19 |
 | [Treat You Better](https://open.spotify.com/track/3B8Tx2eKzZ1u6bPnozOL1h) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 4:33 | 2021-03-06 | 2021-04-30 |
 | [Troubles](https://open.spotify.com/track/4OdfUasq027O3IY5r0Q1ZB) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Troubles](https://open.spotify.com/album/6zvB4VFpel42dIHT7t8q5J) | 2:45 | 2021-07-23 |  |

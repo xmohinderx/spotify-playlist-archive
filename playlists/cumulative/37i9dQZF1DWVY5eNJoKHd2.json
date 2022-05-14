@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 213040,
       "name": "Best for You",
       "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 226250,
       "name": "Car",
       "url": "https://open.spotify.com/track/0r04MG8C4jr7yCirWGi03Y"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 291611,
       "name": "D.M.B.",
       "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "drowning",
       "url": "https://open.spotify.com/track/7hOD93tb7KyIwR620kaiBi"
@@ -1543,7 +1543,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 231680,
       "name": "Juno",
       "url": "https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L"
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 213400,
       "name": "LOVE. FEAT. ZACARI.",
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
@@ -2009,7 +2009,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
@@ -2214,6 +2214,32 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329295,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
+    },
+    {
+      "album": {
         "name": "Man On The Moon: The End Of Day (Int'l Version)",
         "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
       },
@@ -2323,7 +2349,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 326933,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
@@ -2381,7 +2407,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 547733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
@@ -2551,7 +2577,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 145588,
       "name": "SKELETONS",
       "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl"
@@ -3205,7 +3231,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 169319,
       "name": "Wild Irish Roses",
       "url": "https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ"

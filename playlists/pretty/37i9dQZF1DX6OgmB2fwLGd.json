@@ -1,13 +1,33 @@
 {
   "description": "The soundtrack to the Internet. Check out <a href=\"spotify:show:3oTlNRRUyazgdUpWZYdvd5\">Internet People Live</a> on Tuesdays at 8pm EST. Cover: Autumn!",
-  "num_followers": 1114840,
+  "num_followers": 1115117,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjIxMjU3MCwwMDAwMDMxYjAwMDAwMTgwYWY4YjFiNTQwMDAwMDE4MDcxZjAyYTQ3",
+  "snapshot_id": "MTY1MjQ4NTA3MiwwMDAwMDMxZDAwMDAwMTgwYmZjOTI2NDEwMDAwMDE4MDcxZjAyYTQ3",
   "tracks": [
+    {
+      "added_at": "2022-05-13 06:44:00",
+      "album": {
+        "name": "DAMN HOMIE (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/2XNIXSvuuUUdC7I9zsSRvW"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "DAMN HOMIE (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/1P3ngSxpsmwSVlnAq4iszK"
+    },
     {
       "added_at": "2022-04-29 08:17:00",
       "album": {
@@ -35,6 +55,22 @@
       "duration_ms": 183410,
       "name": "LOCK IT UP (feat. Yeat, midwxst & Matt Ox)",
       "url": "https://open.spotify.com/track/3LkWdvgrJtFuM0ZoXKPlpH"
+    },
+    {
+      "added_at": "2022-05-13 06:44:00",
+      "album": {
+        "name": "Succubus",
+        "url": "https://open.spotify.com/album/4jFHzc3Tv8JKuTeCOr6vlQ"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Succubus",
+      "url": "https://open.spotify.com/track/2genk7x5jA1HtrEZFTkeNZ"
     },
     {
       "added_at": "2022-04-20 19:24:30",
@@ -85,54 +121,6 @@
       "url": "https://open.spotify.com/track/03ThZweiBWFP8tOGsk6QMO"
     },
     {
-      "added_at": "2022-04-12 19:02:39",
-      "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 270670,
-      "name": "trademark usa",
-      "url": "https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk"
-    },
-    {
-      "added_at": "2022-05-09 17:09:55",
-      "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/7kyn9TqffJenfvItf0KqUY"
-      },
-      "artists": [
-        {
-          "name": "Piff Marti",
-          "url": "https://open.spotify.com/artist/4yJPiziKjwvjKUnsnsOixM"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/5cD0SQXZshc0DLmfVFaT8v"
-    },
-    {
-      "added_at": "2022-04-29 08:17:00",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/4sNc9KldCWasHxdJqJyUAa"
-      },
-      "artists": [
-        {
-          "name": "KA$HDAMI",
-          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
-        }
-      ],
-      "duration_ms": 133306,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/05oDQ0AKZbqbe9XDULlLvb"
-    },
-    {
       "added_at": "2022-03-28 17:37:45",
       "album": {
         "name": "IFeelLikeDirt",
@@ -149,20 +137,120 @@
       "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
-      "added_at": "2022-05-10 16:29:01",
+      "added_at": "2022-05-13 06:44:00",
       "album": {
-        "name": "Makeda",
-        "url": "https://open.spotify.com/album/6j3zmceONaa7BpjGYjZFIu"
+        "name": "down",
+        "url": "https://open.spotify.com/album/3OrjP0MaPUu1I54iBxe5O8"
       },
       "artists": [
         {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
         }
       ],
-      "duration_ms": 96067,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/0oPujI3egA7QltnWHRfRzN"
+      "duration_ms": 129500,
+      "name": "down",
+      "url": "https://open.spotify.com/track/783PsmPNi2KHNk8PwR2rk2"
+    },
+    {
+      "added_at": "2022-05-13 06:44:00",
+      "album": {
+        "name": "so silly !",
+        "url": "https://open.spotify.com/album/1Rudga8yVbJbBsFkuKF2YI"
+      },
+      "artists": [
+        {
+          "name": "Koto.",
+          "url": "https://open.spotify.com/artist/7BhOIxOt4a0uyyIu6zJYef"
+        }
+      ],
+      "duration_ms": 103488,
+      "name": "so silly !",
+      "url": "https://open.spotify.com/track/4AAU9Fg5uQqq8OkmhxSxIm"
+    },
+    {
+      "added_at": "2022-04-29 08:17:00",
+      "album": {
+        "name": "Everything!",
+        "url": "https://open.spotify.com/album/6NMTe06b37vGpok8LGT0Rd"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Everything!",
+      "url": "https://open.spotify.com/track/31NiKq79oMhpyjc2R9Ggbg"
+    },
+    {
+      "added_at": "2022-04-12 19:02:39",
+      "album": {
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 270670,
+      "name": "trademark usa",
+      "url": "https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk"
+    },
+    {
+      "added_at": "2022-05-13 06:44:00",
+      "album": {
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL"
+      },
+      "artists": [
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        }
+      ],
+      "duration_ms": 191489,
+      "name": "Pizzazz",
+      "url": "https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5"
+    },
+    {
+      "added_at": "2022-05-13 06:44:00",
+      "album": {
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/15BsUDpzIMTzlN6cEwqoEq"
+      },
+      "artists": [
+        {
+          "name": "cheRomani+",
+          "url": "https://open.spotify.com/artist/3Epxz8oKEU4CkXp8Bxl2P3"
+        },
+        {
+          "name": "Specxfic",
+          "url": "https://open.spotify.com/artist/5PbXje7x8DoKod3J9NB2Ex"
+        }
+      ],
+      "duration_ms": 169629,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/4O9icaX9uwFqdFm9DmC26Q"
+    },
+    {
+      "added_at": "2022-04-29 08:17:00",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/4sNc9KldCWasHxdJqJyUAa"
+      },
+      "artists": [
+        {
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+        }
+      ],
+      "duration_ms": 133306,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/05oDQ0AKZbqbe9XDULlLvb"
     },
     {
       "added_at": "2022-05-02 18:23:48",
@@ -211,6 +299,38 @@
       "duration_ms": 130021,
       "name": "DO IT AGAIN",
       "url": "https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa"
+    },
+    {
+      "added_at": "2022-05-13 06:44:00",
+      "album": {
+        "name": "ily",
+        "url": "https://open.spotify.com/album/4BrUuCzw2vfAicYcet3Jmv"
+      },
+      "artists": [
+        {
+          "name": "BabySantana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        }
+      ],
+      "duration_ms": 125852,
+      "name": "ily",
+      "url": "https://open.spotify.com/track/52otgxiSY8ywOjoSqi0aVV"
+    },
+    {
+      "added_at": "2022-05-09 17:09:55",
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/7kyn9TqffJenfvItf0KqUY"
+      },
+      "artists": [
+        {
+          "name": "Piff Marti",
+          "url": "https://open.spotify.com/artist/4yJPiziKjwvjKUnsnsOixM"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5cD0SQXZshc0DLmfVFaT8v"
     },
     {
       "added_at": "2022-01-10 18:03:55",
@@ -289,6 +409,22 @@
       "url": "https://open.spotify.com/track/2TgbS4ZzDWdhxga5HImDJ7"
     },
     {
+      "added_at": "2022-05-10 16:29:01",
+      "album": {
+        "name": "Makeda",
+        "url": "https://open.spotify.com/album/6j3zmceONaa7BpjGYjZFIu"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 96067,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/0oPujI3egA7QltnWHRfRzN"
+    },
+    {
       "added_at": "2022-05-06 04:08:00",
       "album": {
         "name": "F.N.F. (Let's Go)",
@@ -307,22 +443,6 @@
       "duration_ms": 137579,
       "name": "F.N.F. (Let's Go)",
       "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
-    },
-    {
-      "added_at": "2022-04-29 08:17:00",
-      "album": {
-        "name": "Everything!",
-        "url": "https://open.spotify.com/album/6NMTe06b37vGpok8LGT0Rd"
-      },
-      "artists": [
-        {
-          "name": "Autumn!",
-          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Everything!",
-      "url": "https://open.spotify.com/track/31NiKq79oMhpyjc2R9Ggbg"
     },
     {
       "added_at": "2022-04-19 19:14:24",
@@ -713,6 +833,22 @@
       "url": "https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0"
     },
     {
+      "added_at": "2022-05-13 06:44:00",
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/51JeumHc5NAoZTZaaLw9v0"
+      },
+      "artists": [
+        {
+          "name": "Mudrigo",
+          "url": "https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM"
+        }
+      ],
+      "duration_ms": 110688,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/5PUxWxXQEJJidGkIVIF7Tq"
+    },
+    {
       "added_at": "2022-03-16 16:30:03",
       "album": {
         "name": "UNDERWATER",
@@ -1057,26 +1193,6 @@
       "url": "https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM"
     },
     {
-      "added_at": "2022-03-25 04:32:00",
-      "album": {
-        "name": "RFGL",
-        "url": "https://open.spotify.com/album/4UTAFypc6vOhVu74J0Srpn"
-      },
-      "artists": [
-        {
-          "name": "whiterosemoxie",
-          "url": "https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV"
-        },
-        {
-          "name": "PmBata",
-          "url": "https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw"
-        }
-      ],
-      "duration_ms": 150133,
-      "name": "RFGL",
-      "url": "https://open.spotify.com/track/5Im9BMrf0xkFD4xNHiKDUl"
-    },
-    {
       "added_at": "2022-04-01 04:01:00",
       "album": {
         "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
@@ -1129,22 +1245,6 @@
       "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
     },
     {
-      "added_at": "2022-03-06 02:24:11",
-      "album": {
-        "name": "ZaeHD vs ZAEYAN, Vol. 2",
-        "url": "https://open.spotify.com/album/0gSgXddMRXf1h4TLbYuSNf"
-      },
-      "artists": [
-        {
-          "name": "ZaeHD",
-          "url": "https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or"
-        }
-      ],
-      "duration_ms": 127488,
-      "name": "ASMR",
-      "url": "https://open.spotify.com/track/7pHNksVEon80wFuuWrboLO"
-    },
-    {
       "added_at": "2022-02-16 18:42:33",
       "album": {
         "name": "Rocking A Cardigan in Atlanta",
@@ -1159,26 +1259,6 @@
       "duration_ms": 96825,
       "name": "Rocking A Cardigan in Atlanta",
       "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
-    },
-    {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "Vulture Island V2 (with Lil Baby)",
-        "url": "https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 209541,
-      "name": "Vulture Island V2 (with Lil Baby)",
-      "url": "https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT"
     },
     {
       "added_at": "2021-10-01 04:25:03",
@@ -1545,26 +1625,6 @@
       "url": "https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "DFTK",
-        "url": "https://open.spotify.com/album/5pb2qoPjdwPtkWUh64Jc8r"
-      },
-      "artists": [
-        {
-          "name": "Yung Kayo",
-          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 157769,
-      "name": "everything new (feat. Gunna)",
-      "url": "https://open.spotify.com/track/0UTgiWqnHq17CEUW0QokQ2"
-    },
-    {
       "added_at": "2022-02-25 20:26:00",
       "album": {
         "name": "i know you hate me",
@@ -1645,22 +1705,6 @@
       "url": "https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr"
     },
     {
-      "added_at": "2022-01-04 15:20:47",
-      "album": {
-        "name": "Arc'teryx",
-        "url": "https://open.spotify.com/album/2R0KBvv8cpP70AGriaw7mV"
-      },
-      "artists": [
-        {
-          "name": "YT",
-          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
-        }
-      ],
-      "duration_ms": 155730,
-      "name": "Arc'teryx",
-      "url": "https://open.spotify.com/track/1chxfk33LoVOznJiJ0WWPD"
-    },
-    {
       "added_at": "2022-01-21 16:55:33",
       "album": {
         "name": "Slo-Be Bryant 3",
@@ -1709,38 +1753,6 @@
       "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
     },
     {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "CASINO",
-        "url": "https://open.spotify.com/album/3bswyeoOJMkNTSACluve6K"
-      },
-      "artists": [
-        {
-          "name": "Grimlxck",
-          "url": "https://open.spotify.com/artist/1QPHV0lpB3LnneuhjZf7fP"
-        }
-      ],
-      "duration_ms": 115684,
-      "name": "CASINO",
-      "url": "https://open.spotify.com/track/5iDpk9U5ktJY9ML4tJ6uaX"
-    },
-    {
-      "added_at": "2022-01-07 06:12:47",
-      "album": {
-        "name": "Vito / Bad Boy",
-        "url": "https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy"
-      },
-      "artists": [
-        {
-          "name": "Headband Andy",
-          "url": "https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm"
-        }
-      ],
-      "duration_ms": 152762,
-      "name": "Vito / Bad Boy",
-      "url": "https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5"
-    },
-    {
       "added_at": "2022-01-07 06:12:47",
       "album": {
         "name": "IN THE MIDDLE",
@@ -1755,22 +1767,6 @@
       "duration_ms": 203662,
       "name": "IN THE MIDDLE",
       "url": "https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb"
-    },
-    {
-      "added_at": "2021-12-17 14:45:31",
-      "album": {
-        "name": "No Drama",
-        "url": "https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z"
-      },
-      "artists": [
-        {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "No Drama",
-      "url": "https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh"
     }
   ],
   "unique_name": "Internet People",

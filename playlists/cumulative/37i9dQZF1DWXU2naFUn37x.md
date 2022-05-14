@@ -4,7 +4,7 @@
 
 > La nuova casa dello street rap italiano\. Benvenuti su Street Culto\. Cover: Shiva
 
-53 songs - 2 hr 25 min - not published yet
+53 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

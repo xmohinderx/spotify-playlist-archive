@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Cory Wong
 
-162 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+163 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [common sense](https://open.spotify.com/track/2hypebb8hlTmlR011pxf7k) | [d.r.w.s.](https://open.spotify.com/artist/1M7hE1Aey8aOROKiJg847K), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [common sense](https://open.spotify.com/album/0dsFIldaIJMwx0eGeXE7N2) | 3:34 | 2021-02-19 | 2022-01-29 |
 | [Crisis](https://open.spotify.com/track/6kDUK6LFD04adKc2ol3Cve) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Crisis](https://open.spotify.com/album/2Gvg1yrzvA3rZJNtzoYykI) | 4:17 | 2022-04-15 |  |
 | [D.T.Y.O.B.](https://open.spotify.com/track/41iBqPWpC2imF7c7AV3ssN) | [Brandon Rogers](https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy) | [Little House](https://open.spotify.com/album/1j3MxHfoULsrj2vRZ0KZxE) | 3:22 | 2022-02-11 |  |
+| [Dance](https://open.spotify.com/track/0MkeWj9a2eIdyEspwnCm1U) | [Numb Tongues](https://open.spotify.com/artist/4GjV45j15wL0sHVDNt3MO7), [Alexandra Willett](https://open.spotify.com/artist/2Ch4UuvEp3AOtdISvdHjFX) | [Dance](https://open.spotify.com/album/5PZqmQFWD4UjHcBk27jA06) | 4:25 | 2022-05-13 |  |
 | [Dangerous](https://open.spotify.com/track/5jyOnbGplNA8CXczAERKZq) | [Miss Mojo](https://open.spotify.com/artist/0gOgTykHtej65Q5SOV7xpV) | [Dangerous](https://open.spotify.com/album/4SBEvfxXZnMjzcUr5hi7ir) | 4:09 | 2020-11-20 | 2022-04-09 |
 | [Do Your Thang](https://open.spotify.com/track/2QHKyQgP6WQasHjufqOfbX) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Apollo](https://open.spotify.com/album/6f0A1F9M21dIgLIGLgZUKO) | 3:54 | 2020-11-20 | 2022-04-09 |
 | [Doin' My Best](https://open.spotify.com/track/3JfYs7pXBsrEd9jWfCTXpS) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Doin' My Best](https://open.spotify.com/album/2wgalAS3PY5I629Zq3qIYd) | 3:33 | 2020-12-08 | 2022-04-09 |

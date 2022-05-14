@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 180238,
       "name": "Duecentomila ore",
       "url": "https://open.spotify.com/track/5QcKmCvGDbMvbJQZh75YVd"
@@ -1066,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+    },
+    {
+      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 210366,
       "name": "Quello Che Manca (con Rkomi)",
       "url": "https://open.spotify.com/track/56YZNYnzdsXTZiWttI6BfQ"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 231897,
       "name": "Vertigine (feat. Altarboy) [From Netflix Original Series Baby 3]",
       "url": "https://open.spotify.com/track/6r6YWM1TXM2WXZDhcwpx2z"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 165506,
       "name": "We're Good",
       "url": "https://open.spotify.com/track/4xAJSIcCHcOCli5m325X2H"
@@ -1721,6 +1739,24 @@
       "duration_ms": 192947,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR"
+    },
+    {
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "album": {

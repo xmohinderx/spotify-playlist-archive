@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Chart toppers and fresh hits in Canada this week. Cover: Carly Rae Jepsen",
+  "description": "Chart toppers and fresh hits in Canada this week. Cover: Kendrick Lamar",
   "name": "Hot Hits Canada",
   "published_playlist_ids": [
     "6h6yvKmgSMonH6murTjQzd"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202721,
       "name": "Aimed to Kill",
       "url": "https://open.spotify.com/track/5Xx1X1rBk5fpxuhvvtt4th"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153000,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 208626,
       "name": "Can't Give It Up (feat. Tyler Shaw)",
       "url": "https://open.spotify.com/track/4SWV9mKtdhjbYotmm5ELCT"
@@ -800,6 +800,28 @@
     },
     {
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309327,
+      "name": "Churchill Downs (feat. Drake)",
+      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "album": {
         "name": "Cigarettes",
         "url": "https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi"
       },
@@ -867,6 +889,28 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "album": {
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
       "album": {
@@ -947,7 +991,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
@@ -1111,7 +1155,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
@@ -1500,6 +1544,28 @@
     },
     {
       "album": {
+        "name": "Flowers Need Rain",
+        "url": "https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168126,
+      "name": "Flowers Need Rain",
+      "url": "https://open.spotify.com/track/079mntueS2KWjxVqOHjG70"
+    },
+    {
+      "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
       },
@@ -1515,7 +1581,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 215281,
       "name": "Freaky Deaky",
       "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
@@ -1704,6 +1770,24 @@
     },
     {
       "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175163,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0Dtv5iaqPWtftabQfjBvxh"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP"
       },
@@ -1715,7 +1799,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
@@ -1850,6 +1934,24 @@
     },
     {
       "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
       },
@@ -1923,6 +2025,24 @@
       "duration_ms": 263641,
       "name": "I Heard You\u2019re Married (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D"
+    },
+    {
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185522,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
     },
     {
       "album": {
@@ -3005,7 +3125,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174645,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA"
@@ -3089,6 +3209,24 @@
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
       "album": {
@@ -3445,7 +3583,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 163764,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
@@ -3485,10 +3623,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
+    {
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "album": {
@@ -3605,7 +3761,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173942,
       "name": "RIP, Love",
       "url": "https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo"
@@ -3917,7 +4073,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 211935,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
@@ -3961,6 +4117,24 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "album": {
@@ -4431,10 +4605,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 145840,
       "name": "Used To Know Me",
       "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+    },
+    {
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "album": {
@@ -4618,6 +4810,24 @@
     },
     {
       "album": {
+        "name": "what would you do?",
+        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166948,
+      "name": "what would you do?",
+      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
+    },
+    {
+      "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
@@ -4659,7 +4869,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 189265,
       "name": "When The Lights Go Down (feat. Cody Simpson)",
       "url": "https://open.spotify.com/track/3J3EdH1ZgXqk1ROTzQOF0U"
@@ -4724,6 +4934,28 @@
     },
     {
       "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "album": {
         "name": "Where you are (feat. WILLOW)",
         "url": "https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN"
       },
@@ -4743,6 +4975,24 @@
       "duration_ms": 153706,
       "name": "Where you are (feat. WILLOW)",
       "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
+    },
+    {
+      "album": {
+        "name": "Will It Ever Feel The Same?",
+        "url": "https://open.spotify.com/album/2FkJKUyeNKvWKhZJLdgTUd"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180338,
+      "name": "Will It Ever Feel The Same?",
+      "url": "https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG"
     },
     {
       "album": {

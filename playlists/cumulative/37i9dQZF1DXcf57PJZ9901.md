@@ -4,7 +4,7 @@
 
 > The best soft rock from the 2010s\. Celebrating 10 years of Keane's Strangeland.
 
-74 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/0odmU63W8mzvvddJ5VjjQC)
+75 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/0odmU63W8mzvvddJ5VjjQC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Broken](https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 4:07 | 2020-12-08 |  |
 | [Champion Of The World](https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Champion of The World / Daddy](https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j) | 4:17 | 2021-10-14 |  |
 | [Cold Arms](https://open.spotify.com/track/1Krvbw26ewysVZRY6Rd9n1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 2:49 | 2020-12-08 |  |
-| [David](https://open.spotify.com/track/3KLJJbSoUOySl6A1FSnGA8) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:32 | 2020-12-08 | 2022-05-12 |
+| [David](https://open.spotify.com/track/3KLJJbSoUOySl6A1FSnGA8) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:32 | 2020-12-08 |  |
 | [Demons](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 2:57 | 2020-12-08 |  |
 | [Edge](https://open.spotify.com/track/0buJlA4Ki50ZyfnyyAf5UR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 3:37 | 2020-12-08 |  |
 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 | 2020-12-08 |  |
@@ -66,13 +66,14 @@
 | [Sleep Like A Baby Tonight](https://open.spotify.com/track/1IjZ4snP197S0psPgRUB8F) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 5:01 | 2020-12-08 |  |
 | [Slide](https://open.spotify.com/track/0t1WPoT5kNNIyNyUbOBOsV) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:08 | 2020-12-08 |  |
 | [Sloom](https://open.spotify.com/track/6xFxmcebq5XphN0WoxNLgp) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:43 | 2020-12-08 | 2022-05-11 |
+| [Slow And Steady](https://open.spotify.com/track/3raHUAfQyQ7Gv8yK62AVhV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 5:01 | 2020-12-08 |  |
 | [Smoke And Mirrors](https://open.spotify.com/track/6lXKvvlt0tCeBDO1dvAxzl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW) | 4:20 | 2020-12-08 |  |
 | [Some Kind Of Love](https://open.spotify.com/track/0vicQm86o7GnT42GdG34sA) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:38 | 2020-12-08 |  |
 | [Somebody Else](https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 5:47 | 2020-12-08 |  |
 | [Song For Someone](https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 3:46 | 2020-12-08 |  |
 | [Sovereign Light Café](https://open.spotify.com/track/4QRkCwqwHFaZ7xeoR9CHL6) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Strangeland](https://open.spotify.com/album/6JWc4iAiJ9FjyK0B59ABb4) | 3:38 | 2022-05-04 |  |
 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 | 2020-12-08 |  |
-| [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 | 2022-03-28 |  |
+| [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 | 2022-03-28 | 2022-05-14 |
 | [Sugar](https://open.spotify.com/track/4AHmOwMJjn5kDlobANEpbY) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V \(Deluxe\)](https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu) | 3:55 | 2022-03-28 |  |
 | [Summer Of Love](https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:24 | 2020-12-08 |  |
 | [The Love We’re Hoping For](https://open.spotify.com/track/3fblnkA1bNOPREVhEl8NpO) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [On My One](https://open.spotify.com/album/1pLZfRsvM8Yaw45GOdQLCJ) | 3:08 | 2020-12-08 |  |
@@ -80,7 +81,7 @@
 | [The Troubles](https://open.spotify.com/track/2djBFFaafredmGix2Z5TBY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 4:45 | 2020-12-08 |  |
 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 | 2020-12-08 |  |
 | [Where's My Love](https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E) | 3:22 | 2020-12-08 |  |
-| [Wild Sun](https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:29 | 2020-12-08 |  |
+| [Wild Sun](https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:29 | 2020-12-08 | 2022-05-14 |
 | [Zombie \(Acoustic\)](https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie EP](https://open.spotify.com/album/6bE4sIZ6patKzzy8qV5lOV) | 4:19 | 2021-10-12 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

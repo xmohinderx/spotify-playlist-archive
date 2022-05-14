@@ -280,6 +280,24 @@
     },
     {
       "album": {
+        "name": "Apple Tree Blues",
+        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "Apple Tree Blues",
+      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
+    },
+    {
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -331,7 +349,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 231964,
       "name": "Atlas in Your Eye (For Jasper Jones)",
       "url": "https://open.spotify.com/track/5O0u0TChECSvCi3M0VsufW"
@@ -493,7 +511,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202473,
       "name": "Birds",
       "url": "https://open.spotify.com/track/3DekCgOkhOg1afxMyx1ixA"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 199146,
       "name": "Bloomsday",
       "url": "https://open.spotify.com/track/2kRPwBHZQTot91lTuElVmK"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 232066,
       "name": "Cherokee Rose",
       "url": "https://open.spotify.com/track/50FakcsMM8aCyRJuNu5PSW"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 200173,
       "name": "Cold Feet",
       "url": "https://open.spotify.com/track/2wVd7pvX8gbYTVOOL4eKjJ"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 183546,
       "name": "heaven from here (with Penny and Sparrow)",
       "url": "https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA"
@@ -1993,7 +2011,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 147346,
       "name": "Love Flew Away",
       "url": "https://open.spotify.com/track/5uAtnvrLOUDcTp9sfpxaQt"
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 189013,
       "name": "Now You Know",
       "url": "https://open.spotify.com/track/3vNt852RXNZB8PJsIf5P2E"
@@ -2487,7 +2505,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 241186,
       "name": "Pain and Misery",
       "url": "https://open.spotify.com/track/6sWVwDSjW1ZtqGQc9WnjdW"
@@ -2559,7 +2577,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 228389,
       "name": "Portland",
       "url": "https://open.spotify.com/track/52EUFsBXu1FG5iTnTE9W2M"
@@ -2581,6 +2599,24 @@
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG"
+    },
+    {
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "album": {
@@ -2815,7 +2851,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 238546,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
@@ -3085,7 +3121,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 266906,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK"
@@ -3435,7 +3471,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 171970,
       "name": "Uh Huh - Acoustic",
       "url": "https://open.spotify.com/track/7lqJKQZ3YmtS2fsELnpNk3"
@@ -3803,7 +3839,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 259798,
       "name": "You\u2019re Free Now (feat. Sarah Jarosz)",
       "url": "https://open.spotify.com/track/0n5BiC98D3E0EZimzsboGW"

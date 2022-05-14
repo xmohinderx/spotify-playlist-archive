@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: TOMORROW X TOGETHER
 
-191 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+193 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bomb](https://open.spotify.com/track/14lY3e4KuLUT46WQWfKYKb) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Bomb](https://open.spotify.com/album/5irXJnIU6jn0pBqRbe4z3c) | 3:05 | 2021-12-23 | 2022-01-05 |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-08 | 2022-04-29 |
 | [BREATHE \-Japanese ver.\-](https://open.spotify.com/track/5vEvuoTTx7EAzO8X038yiq) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [ABSOLUTE 6IX](https://open.spotify.com/album/0aZqbkETzxarYTcSqg3kP3) | 3:40 | 2021-12-23 | 2022-01-14 |
+| [BTBT](https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO) | 3:39 | 2022-05-13 |  |
 | [BUT YOU](https://open.spotify.com/track/5cDNWykOJC5d9uFRKmqyND) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF) | 3:32 | 2022-05-10 |  |
 | [Butter \(Holiday Remix\)](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Holiday Remix\)](https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV) | 2:41 | 2021-12-23 | 2022-02-05 |
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-02-28 | 2022-04-06 |
@@ -64,7 +65,7 @@
 | [DUMB DUMB](https://open.spotify.com/track/6HAbPNraOVHwShFFtRVTik) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/1aFBAMZbMPfzXYGjANINvw) | 2:27 | 2021-12-23 | 2022-01-04 |
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-01 |  |
 | [Eclipse](https://open.spotify.com/track/0yhSuVJ4QGrFetP7cO4Y8a) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [Alter Ego](https://open.spotify.com/album/65EPSaLb7zDDiTt6RVIbfj) | 3:14 | 2021-12-23 | 2022-01-21 |
-| [EDELWEISS \- Japanese Version](https://open.spotify.com/track/52kpniJmlFTsJw3I1mKh5c) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [EDELWEISS \(Japanese Version\)](https://open.spotify.com/album/6wzoFKRFbqZr8xPop86mox) | 3:39 | 2022-03-22 |  |
+| [EDELWEISS \- Japanese Version](https://open.spotify.com/track/52kpniJmlFTsJw3I1mKh5c) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [EDELWEISS \(Japanese Version\)](https://open.spotify.com/album/6wzoFKRFbqZr8xPop86mox) | 3:39 | 2022-03-22 | 2022-05-14 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-23 |  |
 | [Eye On You](https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Obsession](https://open.spotify.com/album/7KgsAlBnzkH1vyYluTUtUd) | 3:06 | 2022-02-15 | 2022-04-06 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy) | 3:35 | 2021-12-23 | 2022-01-04 |
@@ -148,6 +149,7 @@
 | [SCIENTIST \- Japanese ver.](https://open.spotify.com/track/0oFE8NlomVrCxhgVZ5FsuE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SCIENTIST \(Japanese ver.\)](https://open.spotify.com/album/4Fv22ltDAUSeyboT0e7xnK) | 3:16 | 2022-03-01 | 2022-04-13 |
 | [Scorpio](https://open.spotify.com/track/4cHo8XS9nZwqQUPrGt50zA) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [Scorpio](https://open.spotify.com/album/592fFIUinSfJVKa7kLl3l6) | 3:36 | 2022-04-14 |  |
 | [Shark](https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Shark](https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz) | 3:23 | 2021-12-23 | 2022-03-09 |
+| [SHE'S THE BOSS](https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS) | 3:47 | 2022-05-13 |  |
 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 | 2022-03-03 | 2022-03-18 |
 | [Smile](https://open.spotify.com/track/2gj9ojku1zRQ5o1dTBvts2) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO: THE BEST \-Japan Edition\-](https://open.spotify.com/album/1bUXcFlwOS8Lh9N40oFi6p) | 3:04 | 2022-03-23 |  |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-18 | 2022-04-15 |

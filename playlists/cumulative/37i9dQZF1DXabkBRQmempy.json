@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 231306,
       "name": "Apuesta por el rock 'n' roll",
       "url": "https://open.spotify.com/track/3HDBNQOTs1vQ33HUedr7IM"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 151800,
       "name": "Baracunatana",
       "url": "https://open.spotify.com/track/2VNOMQ89besmWOGPSgNmRq"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 235466,
       "name": "C\u00f3mo Diablos",
       "url": "https://open.spotify.com/track/1cDJScbHkk73wfYQv4ZFY9"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 271706,
       "name": "D\u00eda Cero",
       "url": "https://open.spotify.com/track/0LJgnWjRvbM60ieEVAJcAO"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 250293,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/6FY8Imjs6YSglIAqnbU9mM"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 327426,
       "name": "La chispa adecuada (Bendecida 3)",
       "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 261626,
       "name": "La parte de adelante",
       "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 282133,
       "name": "Los Dioses Ocultos",
       "url": "https://open.spotify.com/track/3aYLIO4htUZCAygXUbbc3Q"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 268600,
       "name": "Mi Primer Dia Sin Ti",
       "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
@@ -1265,10 +1265,28 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 184426,
       "name": "Sindrome Camboya",
       "url": "https://open.spotify.com/track/0dFZjxL6drxK9oupqmF773"
+    },
+    {
+      "album": {
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222826,
+      "name": "Tonta Canci\u00f3n",
+      "url": "https://open.spotify.com/track/4pDzQqqrKqeB6XewwVo2d3"
     },
     {
       "album": {
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 254865,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 220200,
       "name": "Una Cancion",
       "url": "https://open.spotify.com/track/2K6yvbAPxtf8YMViw35b0Q"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 343440,
       "name": "Voy a Vos",
       "url": "https://open.spotify.com/track/0aWGzetUTb4lJqy2m2nl1i"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 206306,
       "name": "Zoom - Remasterizado 2007",
       "url": "https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo"

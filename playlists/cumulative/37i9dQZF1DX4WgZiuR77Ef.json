@@ -986,6 +986,24 @@
     },
     {
       "album": {
+        "name": "Inked (Alhambra Studios Live Session)",
+        "url": "https://open.spotify.com/album/2UmqUzPgh3qm4BySf0XtpY"
+      },
+      "artists": [
+        {
+          "name": "Lehmanns Brothers",
+          "url": "https://open.spotify.com/artist/7tDwCOr0dfsh4SZN8yECHT"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221248,
+      "name": "Inked - Alhambra Studios Live Session",
+      "url": "https://open.spotify.com/track/1ft2Fb7TaeVee9kobX0rHF"
+    },
+    {
+      "album": {
         "name": "Invisible Soldier",
         "url": "https://open.spotify.com/album/3fLlTrT4kAYkHxMQBhzxuw"
       },
@@ -1381,6 +1399,36 @@
       "duration_ms": 332205,
       "name": "Make Way for the Funk Parade",
       "url": "https://open.spotify.com/track/3LtAdAaM6njXeGzmCdkXc9"
+    },
+    {
+      "album": {
+        "name": "Maybe Your Baby",
+        "url": "https://open.spotify.com/album/3HHFmNSg0aQ5oYgk2KhunF"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Realistic Orchestra",
+          "url": "https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Chris McGee",
+          "url": "https://open.spotify.com/artist/3hFZkF8EDtWcCLTeKgoo1n"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327619,
+      "name": "Maybe Your Baby",
+      "url": "https://open.spotify.com/track/6pAiW3roW6efliDgLgaBog"
     },
     {
       "album": {

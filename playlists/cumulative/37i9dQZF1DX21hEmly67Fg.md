@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-59 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
+61 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/1au5JWSCrn3UaaowOXJ7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,10 +62,12 @@
 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 | 2021-11-25 |  |
 | [The Sound of Silence](https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [The Sound of Silence](https://open.spotify.com/album/763Ve9vd4kwmEAj0zGhuCC) | 3:10 | 2021-11-25 | 2022-01-06 |
 | [Thinking Out Loud](https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Thinking Out Loud](https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE) | 3:52 | 2021-11-25 |  |
+| [Three Times a Lady](https://open.spotify.com/track/043ZNvHtGmYF1uR5q6gD1r) | [Myleene Klass](https://open.spotify.com/artist/63L6NSMY7isrNaziNX2YXX) | [My Lullabies: Motown](https://open.spotify.com/album/6Zx72Eq6focHvSZxljFcyR) | 3:00 | 2022-05-13 |  |
 | [Time After Time](https://open.spotify.com/track/0SjRJvsh0ZccINwUQKsSxj) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Time After Time](https://open.spotify.com/album/7v1uoa4uquxWy6t92wGSLU) | 4:20 | 2021-11-25 |  |
 | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/track/1wBkkzmmI89hiSAvEhKsFO) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/album/5OZmuatP2xhw1bqr2mdsw8) | 2:43 | 2021-11-25 |  |
 | [Wellerman \(arr\. piano\)](https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Wellerman \(arr\. piano\)](https://open.spotify.com/album/1f9nDMa1wlNsPxDtygkg4B) | 2:01 | 2021-11-25 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2021-11-25 |  |
 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2021-11-25 |  |
+| [Yellow](https://open.spotify.com/track/3v64j3vihZ9IhEewaUfIqK) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Covers, Vol\. 1](https://open.spotify.com/album/0yFuG8TdMSfrTE5repnCWN) | 4:23 | 2022-05-13 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

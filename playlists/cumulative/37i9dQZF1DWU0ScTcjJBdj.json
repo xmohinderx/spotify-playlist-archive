@@ -741,7 +741,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 234618,
       "name": "For a While",
       "url": "https://open.spotify.com/track/6Qk4zqHRjy4huavhMyQ5co"
@@ -2177,7 +2177,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 187026,
       "name": "Right on Time - In Harmony",
       "url": "https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA"
@@ -2483,7 +2483,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 222293,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
@@ -2920,6 +2920,24 @@
     },
     {
       "album": {
+        "name": "tidal wave",
+        "url": "https://open.spotify.com/album/1gvPVsUNYltKKOuz2cXnu4"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241173,
+      "name": "tidal wave",
+      "url": "https://open.spotify.com/track/1qJ4G36THbntJM8w1xyLL8"
+    },
+    {
+      "album": {
         "name": "Tilikum",
         "url": "https://open.spotify.com/album/1MtLUUOXyPcioYiJoPJXfx"
       },
@@ -2953,6 +2971,24 @@
       "duration_ms": 185250,
       "name": "Tongue Tied - Acoustic",
       "url": "https://open.spotify.com/track/0lltDjxNE19ciwRInP4qPX"
+    },
+    {
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137293,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye"
     },
     {
       "album": {
@@ -3079,7 +3115,7 @@
       ],
       "date_added": "2020-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 232800,
       "name": "when i look at you.",
       "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
@@ -3195,6 +3231,28 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
     },
     {
       "album": {

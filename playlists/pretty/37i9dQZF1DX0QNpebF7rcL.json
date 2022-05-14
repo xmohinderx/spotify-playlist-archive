@@ -1,13 +1,45 @@
 {
-  "description": "The best in blues right now. Cover: Dr. John",
-  "num_followers": 37012,
+  "description": "The best in blues right now. Cover: Ghost Hounds",
+  "num_followers": 37057,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDA0OTAwMDAwMTgwOTc4ODE3M2EwMDAwMDE4MDhiOWJlNmFm",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDA0YTAwMDAwMTgwYmI5NDliNzMwMDAwMDE4MGI5YWYzYWI3",
   "tracks": [
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "You Broke Me",
+        "url": "https://open.spotify.com/album/7rJjp8koNUpalsYy0qcPMp"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Through Being Blue Over You",
+      "url": "https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
+    },
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {

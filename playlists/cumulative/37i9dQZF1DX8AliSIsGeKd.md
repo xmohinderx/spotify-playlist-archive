@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Moderat
 
-193 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+195 songs - 17 hr 54 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Easy](https://open.spotify.com/track/34PeugGdjObVPu5esGnFze) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Easy](https://open.spotify.com/album/6UPK49opmChSeYNBfUHpHl) | 5:43 | 2022-04-14 | 2022-04-29 |
 | [Eden's Acid](https://open.spotify.com/track/5Jc7jNiZ5Axf57iy8pTZUn) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Big Beat Manifesto Vol\. V](https://open.spotify.com/album/73qqk6hd5Okw6WQxMKaXOo) | 4:55 | 2022-05-12 |  |
 | [Elevator](https://open.spotify.com/track/0uN1CisjEbMxUlE21W4VqE) | [ROBPM](https://open.spotify.com/artist/6QfZgJa0nrIKLwAdso7ai9) | [Elevator](https://open.spotify.com/album/3LYf7PPkVGRj18FssB1Y82) | 4:41 | 2022-05-12 |  |
+| [Empires Of The North](https://open.spotify.com/track/5Tk2XCfrRLVwVMK4zvk690) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a) | [Empire EP](https://open.spotify.com/album/6di6YbDP1WIdHmsboMKikN) | 3:50 | 2022-05-12 |  |
 | [Epoche](https://open.spotify.com/track/5Gxh6WPQVqsfESePvpHsDf) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Epoche](https://open.spotify.com/album/2Md53Ho2kXNMATFL8pK3go) | 6:26 | 2022-05-05 |  |
 | [Ergot](https://open.spotify.com/track/1G6dyaNXhkx0HCM3ZcIJ22) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Ergot EP](https://open.spotify.com/album/05c7P8PiH5Xv8E2R0S5Kg3) | 4:56 | 2022-05-12 |  |
 | [Everything](https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Everything](https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp) | 6:17 | 2022-04-28 |  |
@@ -103,6 +104,7 @@
 | [Lost](https://open.spotify.com/track/3rBi5p8tSMbtzqtQVkTi2L) | [5DUST](https://open.spotify.com/artist/4b0VDiiIl8ZT1vdzpsvWb1) | [Lost](https://open.spotify.com/album/7rEnt8hACs4MheXnzBJFIt) | 4:15 | 2022-05-05 |  |
 | [Lost Soul](https://open.spotify.com/track/4zwCdIhg6S7cGwjiteIV4K) | [Ben Spalding](https://open.spotify.com/artist/493xTJQVGRYiCWfVo9Stmc), [Ronald Christoph](https://open.spotify.com/artist/694Mu9TpePnihtyxVNHBW2) | [Lost Soul](https://open.spotify.com/album/5yvYGc6HwjHehlzBpxIkji) | 7:07 | 2022-04-14 | 2022-04-22 |
 | [Love Is the Law \- Adana Twins Remix](https://open.spotify.com/track/7fGa4udV3kDjJhr95Wlm6G) | [Max von Sternberg](https://open.spotify.com/artist/47Jz4Lwu4QGJSp1pxKaXLJ), [Alice Rose](https://open.spotify.com/artist/4STCMtMjSR9rsnBpfAtKYE), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Love Is the Law \(Adana Twins Remix\)](https://open.spotify.com/album/7m6lWVrRfQnZxyZdaUHydU) | 6:37 | 2022-05-12 |  |
+| [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 | 2022-05-12 |  |
 | [Magnitude](https://open.spotify.com/track/6edLNpSyKXd19GbXlZhXMg) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Magnitude](https://open.spotify.com/album/22UnBvHunUCSNB70gzl1jP) | 6:34 | 2022-05-12 |  |
 | [Mas Profundo](https://open.spotify.com/track/2o09QAjkmeZolqCLDN9WBO) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [In the Middle \(Extended\)](https://open.spotify.com/album/22bjnH6d8ku8lipQ43ti75) | 8:18 | 2022-04-21 | 2022-05-06 |
 | [Mas Y Mas](https://open.spotify.com/track/0QPvegBnoWAmHru2fPmFZX) | [Kev Koko](https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI), [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf), [Perra Inmunda](https://open.spotify.com/artist/3gFh8J7vNHpfyuA6whbHhw) | [No Es Amor](https://open.spotify.com/album/2aC5wuXixGkwaXmruhspZk) | 3:44 | 2022-04-14 | 2022-04-22 |

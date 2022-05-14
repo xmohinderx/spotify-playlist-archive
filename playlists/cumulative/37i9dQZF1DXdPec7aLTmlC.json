@@ -3897,7 +3897,7 @@
       ],
       "date_added": "2020-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 198635,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
@@ -4417,7 +4417,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 235417,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha"
@@ -5431,6 +5431,24 @@
       "duration_ms": 174773,
       "name": "Hungry Hearts",
       "url": "https://open.spotify.com/track/585Vni1vKAYO5jd7kcY9Kz"
+    },
+    {
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "album": {
@@ -6473,7 +6491,7 @@
       ],
       "date_added": "2020-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn"
@@ -8091,7 +8109,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 197647,
       "name": "My Way (Steve Aoki & Aloe Blacc)",
       "url": "https://open.spotify.com/track/0FJw1Pg9xXCxbcyQMI6GAe"
@@ -8913,7 +8931,7 @@
       ],
       "date_added": "2021-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 169700,
       "name": "Over It",
       "url": "https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S"
@@ -11155,7 +11173,7 @@
       ],
       "date_added": "2020-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 160289,
       "name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
       "url": "https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5"
@@ -13203,7 +13221,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 180489,
       "name": "YES",
       "url": "https://open.spotify.com/track/1nAvS4GbkxR7iISU5ZfLPf"

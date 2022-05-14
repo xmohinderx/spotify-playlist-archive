@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Gusttavo Lima",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Luan Santana, Henrique & Juliano",
   "name": "Esquenta Sertanejo",
   "published_playlist_ids": [
     "1QClRCShAKNcti565v7TOp"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 176549,
       "name": "50 por Cento",
       "url": "https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6"
@@ -1185,6 +1185,24 @@
       "duration_ms": 206171,
       "name": "Todo Mundo Menos Voc\u00ea",
       "url": "https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b"
+    },
+    {
+      "album": {
+        "name": "Todo Seu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6tcIk5cJCa6xNtRUuTTBVB"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171712,
+      "name": "Todo Seu - Ao Vivo",
+      "url": "https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq"
     },
     {
       "album": {

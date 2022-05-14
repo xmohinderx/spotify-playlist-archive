@@ -2,9 +2,9 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Capo Plaza, Shiva, thaSupreme, Gemitaiz e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Capo Plaza, Shiva, tha Supreme, Gemitaiz e molti altri.
 
-111 songs - 5 hr 5 min - not published yet
+111 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

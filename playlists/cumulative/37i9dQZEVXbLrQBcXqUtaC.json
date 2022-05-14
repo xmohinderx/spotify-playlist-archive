@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 259191,
       "name": "Al Sourah",
       "url": "https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW"
@@ -2683,7 +2683,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -3277,7 +3277,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 239655,
       "name": "Kalby Jobarny - Live",
       "url": "https://open.spotify.com/track/00LX4aUgpDFG4zZO1H3Lx8"
@@ -3519,6 +3519,24 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
+    },
+    {
+      "album": {
+        "name": "The Bright Side",
+        "url": "https://open.spotify.com/album/5YgPhhmFwPQCKOvVI9JPtW"
+      },
+      "artists": [
+        {
+          "name": "Meiko",
+          "url": "https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248360,
+      "name": "Leave The Lights On",
+      "url": "https://open.spotify.com/track/1ABd3bWsG4FCKePjXeVfJG"
     },
     {
       "album": {
@@ -6757,7 +6775,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174646,
       "name": "That That (prod. & feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
@@ -6883,7 +6901,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 332362,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
@@ -7233,7 +7251,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 351503,
       "name": "Wahchagh Cham",
       "url": "https://open.spotify.com/track/2tulJGa40a9Uw2aZlxoSrX"
@@ -7449,7 +7467,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
@@ -7681,7 +7699,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
@@ -8483,7 +8501,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 283211,
       "name": "\u0639\u0631\u0627\u0642\u064a \u062d\u0632\u064a\u0646 - \u0631\u0648\u062d \u0627\u0644\u0644\u0647 \u0644\u0627\u064a\u0631\u062f\u0643 - \u0642\u0627\u0644\u0648\u0644\u064a \u064a\u062d\u0628 \u063a\u064a\u0631\u0643",
       "url": "https://open.spotify.com/track/1iEimCc0ZeeJcsRzTMMFM1"

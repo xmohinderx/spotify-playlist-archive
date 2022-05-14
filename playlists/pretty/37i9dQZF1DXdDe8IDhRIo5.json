@@ -1,13 +1,29 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 256219,
+  "num_followers": 256259,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDkyMCwwMDAwMDAzMzAwMDAwMTgwNzM3YjkzMWEwMDAwMDE3NzZlNzBjNGJl",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAzNDAwMDAwMTgwYmI5NDliNWUwMDAwMDE3NzZlNzBjNGJl",
   "tracks": [
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Joseph Joseph",
+        "url": "https://open.spotify.com/album/6zE6NEAmZPFKqw2GfUHKHJ"
+      },
+      "artists": [
+        {
+          "name": "Harmonious Wail",
+          "url": "https://open.spotify.com/artist/0oiYyKo8F9Bm80L02whvQ1"
+        }
+      ],
+      "duration_ms": 233751,
+      "name": "Joseph Joseph",
+      "url": "https://open.spotify.com/track/1nT6CxquFZxHDDIgMTgS0W"
+    },
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {
@@ -63,6 +79,22 @@
       "duration_ms": 247693,
       "name": "Belleville",
       "url": "https://open.spotify.com/track/4Wo0AVGDazTF6wUv77yLZl"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "For Holzmanno",
+        "url": "https://open.spotify.com/album/1YmXRKycHrJWdUrqEO2D4Q"
+      },
+      "artists": [
+        {
+          "name": "Wawau Adler",
+          "url": "https://open.spotify.com/artist/2QDPltFMWXJLLfrGkjZ4xk"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "For Holzmanno",
+      "url": "https://open.spotify.com/track/3OsK1omdtWIlFoPFqvPwCQ"
     },
     {
       "added_at": "2021-02-04 20:47:19",

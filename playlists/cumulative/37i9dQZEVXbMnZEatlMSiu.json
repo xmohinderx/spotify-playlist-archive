@@ -3439,7 +3439,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
@@ -3613,7 +3613,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 146855,
       "name": "That's Hilarious",
       "url": "https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc"
@@ -5926,6 +5926,24 @@
     },
     {
       "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318938,
+      "name": "\u646f\u53cb",
+      "url": "https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0"
+    },
+    {
+      "album": {
         "name": "\u5361\u901a\u4eba\u7269",
         "url": "https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5"
       },
@@ -6067,7 +6085,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"

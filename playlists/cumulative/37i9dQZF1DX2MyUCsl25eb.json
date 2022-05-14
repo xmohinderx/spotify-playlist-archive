@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 184000,
       "name": "a little sound",
       "url": "https://open.spotify.com/track/4a5H71m0fvUD4D3ARVuFSs"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 200173,
       "name": "Dancing Slow",
       "url": "https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ"
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 216866,
       "name": "Face The River",
       "url": "https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 224946,
       "name": "Feathered Indians",
       "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 157373,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
@@ -1643,6 +1643,24 @@
       "duration_ms": 215280,
       "name": "Four Moons",
       "url": "https://open.spotify.com/track/1HKID3TlgC1HOSGJU6Icya"
+    },
+    {
+      "album": {
+        "name": "Freedom (Johnny's Song)",
+        "url": "https://open.spotify.com/album/3tokyVoifEsiREY3QVVsIw"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252026,
+      "name": "Freedom (Johnny's Song)",
+      "url": "https://open.spotify.com/track/6t5GWZG3EtEwjGdHSnZPJq"
     },
     {
       "album": {
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 247380,
       "name": "Get Real High",
       "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 174557,
       "name": "Good Person",
       "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
@@ -1964,6 +1982,24 @@
     },
     {
       "album": {
+        "name": "Sad Bird",
+        "url": "https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT"
+      },
+      "artists": [
+        {
+          "name": "Eloise Alterman",
+          "url": "https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180363,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5czDKqPioLGfqZUERYxVZC"
+    },
+    {
+      "album": {
         "name": "Secondhand Smoke",
         "url": "https://open.spotify.com/album/70G1nUwFugH5eW2WuKWwvW"
       },
@@ -2065,7 +2101,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 282506,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/1cXhJOnf6n1Ed7kbdFd4hq"
@@ -2083,7 +2119,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 150156,
       "name": "Home",
       "url": "https://open.spotify.com/track/7smPGXPTC7rfvvYBs624hl"
@@ -2783,7 +2819,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 184733,
       "name": "Lonely Like Me",
       "url": "https://open.spotify.com/track/1sIBVBhdt7QRfYdebiN8jF"
@@ -2913,7 +2949,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 149866,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe"
@@ -2953,6 +2989,24 @@
       "duration_ms": 241116,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/4VeTqMj8t14gF7UcBaAkzC"
+    },
+    {
+      "album": {
+        "name": "Meet The Moonlight",
+        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305607,
+      "name": "Meet The Moonlight",
+      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
       "album": {
@@ -3079,7 +3133,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174355,
       "name": "mothers",
       "url": "https://open.spotify.com/track/4AXlebMtXdaleomf845EEh"
@@ -3119,6 +3173,24 @@
       "duration_ms": 265360,
       "name": "Moving On and Getting Over",
       "url": "https://open.spotify.com/track/1crSsvtU9wZB15dIQXV2QH"
+    },
+    {
+      "album": {
+        "name": "Mr. Percocet",
+        "url": "https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193973,
+      "name": "Mr. Percocet",
+      "url": "https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84"
     },
     {
       "album": {
@@ -3339,6 +3411,24 @@
       "duration_ms": 239044,
       "name": "On Top of the World",
       "url": "https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd"
+    },
+    {
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205066,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
     },
     {
       "album": {
@@ -3577,6 +3667,42 @@
       "duration_ms": 263506,
       "name": "Precious",
       "url": "https://open.spotify.com/track/2CS0RcwxuawBHEs8n7gS3i"
+    },
+    {
+      "album": {
+        "name": "PRETEND RAINBOW",
+        "url": "https://open.spotify.com/album/3iJxQdm6ZrjKuPrpeLJl2o"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158708,
+      "name": "PRETEND RAINBOW",
+      "url": "https://open.spotify.com/track/3kescnpBiOqSSdNywgGHkB"
+    },
+    {
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "album": {
@@ -3833,7 +3959,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 170146,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/6lF5yAmscceMAs0T5qSrAi"
@@ -3887,7 +4013,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 221064,
       "name": "Shock Flesh",
       "url": "https://open.spotify.com/track/5x9TpKuPv0dkGF5jxUNgZd"
@@ -4071,7 +4197,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 188199,
       "name": "Soon Come",
       "url": "https://open.spotify.com/track/0axpkcx0olVmVJdR4vlBhk"
@@ -4089,7 +4215,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 124700,
       "name": "Sorry to Bother You",
       "url": "https://open.spotify.com/track/2FY5jxMOFCc02mEJhYoNES"
@@ -4241,7 +4367,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 259527,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/5cPZCxBXD1iqc9bremnLd6"
@@ -4649,7 +4775,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 195093,
       "name": "Want That Back",
       "url": "https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1"
@@ -4739,7 +4865,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 225946,
       "name": "Western Wind",
       "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
@@ -4775,7 +4901,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 205662,
       "name": "What If",
       "url": "https://open.spotify.com/track/2R7OPN4SjT2fmiGLtYOudc"
@@ -5061,7 +5187,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 194231,
       "name": "You Better Run",
       "url": "https://open.spotify.com/track/7BX7n5ZRHCM8Ao4dN70qnC"

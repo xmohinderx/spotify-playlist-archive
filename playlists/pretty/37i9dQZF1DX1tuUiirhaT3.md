@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,922 likes - 186 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,040 likes - 186 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

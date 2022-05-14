@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 230226,
       "name": "Damn Strait",
       "url": "https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6"
@@ -513,10 +513,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 204320,
       "name": "Demons",
       "url": "https://open.spotify.com/track/42qQfL7lQefUOXvqtSyrWM"
+    },
+    {
+      "album": {
+        "name": "Don't Close Your Eyes",
+        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252626,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
     },
     {
       "album": {
@@ -639,7 +657,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 215333,
       "name": "From A Table Away",
       "url": "https://open.spotify.com/track/6WTJj7qXOh0XonzXAHUqGG"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 193933,
       "name": "Good Ol' Dogs and God",
       "url": "https://open.spotify.com/track/3LorEXrabPYZ8S1Ng8XbWu"
@@ -917,6 +935,24 @@
       "duration_ms": 201533,
       "name": "I Met a Girl",
       "url": "https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI"
+    },
+    {
+      "album": {
+        "name": "Back To The Barrooms",
+        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "I Think I'll Just Stay Here And Drink",
+      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
     },
     {
       "album": {
@@ -1199,7 +1235,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 199150,
       "name": "Love, Cold Beer, Cheap Smoke",
       "url": "https://open.spotify.com/track/4DkcQ60CkQtf5oYtfPu3la"
@@ -1761,7 +1797,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 242986,
       "name": "Stealing Cinderella",
       "url": "https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl"
@@ -1869,7 +1905,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 207226,
       "name": "Ten Thousand Angels",
       "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
@@ -1977,7 +2013,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 203693,
       "name": "Thinkin' About You",
       "url": "https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o"

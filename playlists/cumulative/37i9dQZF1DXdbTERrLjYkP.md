@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Addison Grace
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Britton
 
-169 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+170 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Emma](https://open.spotify.com/track/3KDJyASCak07xkgxvKhjB2) | [Andrew Barth Feldman](https://open.spotify.com/artist/5ulESxWZSX8cw4PI6xgdDG) | [Emma](https://open.spotify.com/album/158IZZsGeaxebU5MMKUF8i) | 4:08 | 2022-01-14 | 2022-03-12 |
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2022-01-14 |  |
 | [Face](https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Face](https://open.spotify.com/album/3zzOvx0cCLS6z2M2iKj57F) | 3:22 | 2022-01-14 | 2022-04-02 |
+| [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 |  |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 |  |
 | [favorite crime](https://open.spotify.com/track/61W7tEpxEfmizp6V5ZRN10) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 2:32 | 2022-01-14 | 2022-04-29 |
 | [Feels Like Magic](https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Feels Like Magic](https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y) | 3:07 | 2022-03-04 |  |
@@ -147,7 +148,7 @@
 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/3tAQPcaksoaVhCEMoPxZEJ) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/album/1WAwuDACzHQWEef9ULmE4C) | 2:34 | 2022-01-14 | 2022-02-19 |
 | [Super Glue](https://open.spotify.com/track/3lqCa64sI3KAbXNBNweNuf) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Super Glue](https://open.spotify.com/album/2uFLfUj0fJMwV0ZCWGiFGv) | 2:21 | 2022-01-14 | 2022-02-12 |
 | [Surround Me](https://open.spotify.com/track/2VpT2mgMMGOgWsLve3FXQI) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Surround Me](https://open.spotify.com/album/7coxHNA9sfn6xEkTF1IbxW) | 3:37 | 2022-03-18 | 2022-04-16 |
-| [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-02-16 |  |
+| [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-02-16 | 2022-05-14 |
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-04-29 |
 | [that was quick!](https://open.spotify.com/track/36tVh8MZ2bxliGj0eJyKsX) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [that was quick!](https://open.spotify.com/album/5pUdobn8VDjZku5tmsiCXa) | 2:46 | 2022-03-18 |  |
 | [The New Me](https://open.spotify.com/track/0E8Torj5fhTNBghR1LlPNg) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [The New Me](https://open.spotify.com/album/0cqSltNGK7v8cGQmpw2QAF) | 2:23 | 2022-01-14 |  |

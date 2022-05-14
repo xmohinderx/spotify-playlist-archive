@@ -442,6 +442,24 @@
     },
     {
       "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237537,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
+    },
+    {
+      "album": {
         "name": "Cry/Fun",
         "url": "https://open.spotify.com/album/40Uwh4FbbntjSIBANQlu11"
       },
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Keep up with all the latest pop hits. Cover: Soran",
+  "description": "Keep up with all the latest pop hits. Cover: The Chainsmokers",
   "name": "Pop All Day",
   "published_playlist_ids": [
     "72ei0AA5JxKKu1O5OfW8cY"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 167000,
       "name": "A Driver Saved My Night",
       "url": "https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202721,
       "name": "Aimed to Kill",
       "url": "https://open.spotify.com/track/5Xx1X1rBk5fpxuhvvtt4th"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 194086,
       "name": "Booty Call",
       "url": "https://open.spotify.com/track/7fTa1znarT0UvbtvLCAPxE"
@@ -1316,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227374,
+      "name": "Dream Girl Evil",
+      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
+    },
+    {
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8"
       },
@@ -1451,6 +1469,24 @@
       "duration_ms": 266899,
       "name": "Faithful (feat. Marc E. Bassy)",
       "url": "https://open.spotify.com/track/3nEkblDKsOep9W5tjMOPti"
+    },
+    {
+      "album": {
+        "name": "Fall In Love Alone",
+        "url": "https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205427,
+      "name": "Fall In Love Alone",
+      "url": "https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe"
     },
     {
       "album": {
@@ -1773,7 +1809,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -2046,6 +2082,24 @@
     },
     {
       "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175163,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0Dtv5iaqPWtftabQfjBvxh"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP"
       },
@@ -2235,7 +2289,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 199314,
       "name": "How Long - From\"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
@@ -2319,6 +2373,24 @@
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+    },
+    {
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "album": {
@@ -2449,6 +2521,24 @@
       "duration_ms": 203472,
       "name": "I Lied",
       "url": "https://open.spotify.com/track/5heAqtCudxZOs7YBKlx6Xn"
+    },
+    {
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185522,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
     },
     {
       "album": {
@@ -3556,6 +3646,24 @@
     },
     {
       "album": {
+        "name": "never gonna let it (but it's completely different)",
+        "url": "https://open.spotify.com/album/4R6JOvL2elz4Gw0vIVzEn1"
+      },
+      "artists": [
+        {
+          "name": "Lubalin",
+          "url": "https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191832,
+      "name": "never gonna let it (but it's completely different)",
+      "url": "https://open.spotify.com/track/2pqS7ZHSMFiVuo6DMqSicS"
+    },
+    {
+      "album": {
         "name": "Next Time",
         "url": "https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6"
       },
@@ -3585,7 +3693,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 197035,
       "name": "no excuses",
       "url": "https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y"
@@ -4133,7 +4241,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 171359,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6Go8Wuws8feT0R2VlaI3am"
@@ -4441,7 +4549,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 142848,
       "name": "Skeletons (Lexi Needed a Break)",
       "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
@@ -4702,6 +4810,24 @@
     },
     {
       "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
         "name": "Sweetest Pie",
         "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
       },
@@ -4757,6 +4883,24 @@
       "duration_ms": 220196,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
+    },
+    {
+      "album": {
+        "name": "Me Myself & I",
+        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239865,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2TD7TI0utoxnAFh7oGqpmm"
     },
     {
       "album": {
@@ -4873,7 +5017,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 176842,
       "name": "The Old Me",
       "url": "https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE"
@@ -4970,6 +5114,28 @@
     },
     {
       "album": {
+        "name": "Too Much (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215397,
+      "name": "Too Much (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
+    },
+    {
+      "album": {
         "name": "Treat Me",
         "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
       },
@@ -4981,7 +5147,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 149865,
       "name": "Treat Me",
       "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
@@ -5246,6 +5412,24 @@
     },
     {
       "album": {
+        "name": "what would you do?",
+        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166948,
+      "name": "what would you do?",
+      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
+    },
+    {
+      "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
@@ -5367,7 +5551,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153706,
       "name": "Where you are (feat. WILLOW)",
       "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
@@ -5389,6 +5573,24 @@
       "duration_ms": 154550,
       "name": "Wild Ride",
       "url": "https://open.spotify.com/track/2vI1BaR12gW5RHz5onhKvO"
+    },
+    {
+      "album": {
+        "name": "Will It Ever Feel The Same?",
+        "url": "https://open.spotify.com/album/2FkJKUyeNKvWKhZJLdgTUd"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180338,
+      "name": "Will It Ever Feel The Same?",
+      "url": "https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG"
     },
     {
       "album": {

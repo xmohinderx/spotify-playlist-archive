@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Classic songs that built the foundations of punk.",
+  "description": "Classic songs that built the foundations of punk. Celebrating 40 years of the Clash's Combat Rock.",
   "name": "Classic Punk",
   "published_playlist_ids": [
     "7AUlVPNk24dFfEcomcApCH"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 132786,
       "name": "Banned In D.C.",
       "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 109133,
       "name": "Dean's Dream",
       "url": "https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 206946,
       "name": "Harness Your Hopes - (B-side)",
       "url": "https://open.spotify.com/track/4tggZyGJMNJMooWuRbvN5q"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 279520,
       "name": "I'm Waiting For The Man - Album Version (Stereo)",
       "url": "https://open.spotify.com/track/5Q4OndPgegGCR88wPsXswf"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 119826,
       "name": "Last Caress",
       "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 117080,
       "name": "Last Caress - C.I. Recording 1978",
       "url": "https://open.spotify.com/track/5ALCHMO9Fmvn1Ly18Q3apL"
@@ -1078,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222426,
+      "name": "Rock the Casbah - Remastered",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+    },
+    {
+      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
       },
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 115040,
       "name": "Sailin' On",
       "url": "https://open.spotify.com/track/05Uw3uX5jzesUSIF91gWDv"
@@ -1186,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -1251,7 +1287,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 134026,
       "name": "Sound System",
       "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
@@ -1287,7 +1323,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 155960,
       "name": "Suspect Device",
       "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
@@ -1341,7 +1377,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 211200,
       "name": "TV Party",
       "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
@@ -1413,7 +1449,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 176293,
       "name": "What Do I Get?",
       "url": "https://open.spotify.com/track/69cHTfo3Dc7S4sl1bQScNO"
@@ -1471,7 +1507,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 118400,
       "name": "White Riot",
       "url": "https://open.spotify.com/track/1piPrS1PYdle0bHhSPl3io"

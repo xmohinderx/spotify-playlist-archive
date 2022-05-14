@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Paul Gilbert
 
-68 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+69 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Poison Touch](https://open.spotify.com/track/1msAnMnGAYebDKoNZfGmNd) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Remarkably Human](https://open.spotify.com/album/2ump5mO74i3wV9wPbk7HcF) | 4:24 | 2021-05-04 |  |
 | [Primal Feels](https://open.spotify.com/track/32Yc8905BkRVOKhBpHhuK3) | [Nili Brosh](https://open.spotify.com/artist/0ODUQ3W9ljLNLJELvO5ysk) | [Primal Feels](https://open.spotify.com/album/6Vn52SWI9Ymftd9Ml6nWYV) | 4:46 | 2021-05-04 |  |
 | [Primary Location](https://open.spotify.com/track/4vDvf90QYWjK4dhYCaMdZY) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [People Mover](https://open.spotify.com/album/6xmjUFsLhGrgFjZZA9gDRR) | 6:56 | 2021-05-04 |  |
+| [Pull The Trigger](https://open.spotify.com/track/50YQPtM31mct7NOIBHALQr) | [Sergey Sershen](https://open.spotify.com/artist/6Bt2KElruZAuMZpdPZlh9W) | [Pull The Trigger](https://open.spotify.com/album/11EUokR6Jx7XQAZc9Mo7Pg) | 3:08 | 2022-05-13 |  |
 | [Reflective](https://open.spotify.com/track/5B6lWsQXoKghgupCA5yNRY) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Sounds of Innocence](https://open.spotify.com/album/0rtwwQetfvL67PGfCQcngs) | 3:45 | 2021-05-04 |  |
 | [Riverside Cake](https://open.spotify.com/track/2srAO5RpA2itSztEfbhRsR) | [Keanu Ienco](https://open.spotify.com/artist/13kGFdMMZXBatYiqXx2Wuw) | [Celestial Desire](https://open.spotify.com/album/6yHsXLT981Lxq675nClwrJ) | 5:05 | 2022-03-18 |  |
 | [Same Sun Shines](https://open.spotify.com/track/3PcM0Wc601FYPjLNhbfUme) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Soul Shifter](https://open.spotify.com/album/2kkD4GgJc9OxQ0vheXnCNL) | 4:44 | 2021-05-04 |  |

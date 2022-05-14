@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Behemoth
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,173 likes - 49 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,431 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,22 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 30 | [Metamorphosis](https://open.spotify.com/track/0w5aIv21DofMJezQGSzGB9) | [Dream Drop](https://open.spotify.com/artist/42YYzTegwBmUQhoKkGuZeG) | [Metamorphosis](https://open.spotify.com/album/5eckJF1fXtvBnLYRxUKn5H) | 3:09 |
 | 31 | [Fuckin' Up](https://open.spotify.com/track/774PuvXYcdfGrw9mFrl27q) | [Jynx](https://open.spotify.com/artist/3nthcaxiFmmeqZun308NSM) | [Fuckin' Up](https://open.spotify.com/album/0Z8QwHGTJRzNvIaiVnsmLe) | 3:00 |
 | 32 | [Psycho](https://open.spotify.com/track/7MZ3gXOR1VgTHPaxbEGGcy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Psycho](https://open.spotify.com/album/0iRc9l0buu3ADhXtXIYobc) | 3:00 |
-| 33 | [The Frail](https://open.spotify.com/track/0yq0B53r1gLLLMsYadLI9A) | [RXPTRS](https://open.spotify.com/artist/6wZR4nBBIVGgEzBBtkzkJ8) | [The Frail](https://open.spotify.com/album/05HPD5dlZyeTo6PQIC4luS) | 4:36 |
-| 34 | [Hearts of Stone](https://open.spotify.com/track/67K49HkE65iIqHQy2FFUE2) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [Hearts of Stone](https://open.spotify.com/album/430mmVkaExWzKspMSq1FjO) | 3:56 |
-| 35 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 |
-| 36 | [Follow The Flies](https://open.spotify.com/track/4TJKHjgqY2zaBlIlNOEB2q) | [Simulakra](https://open.spotify.com/artist/2jWxOfUagc8h6PbDZgFoMp), [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Follow The Flies](https://open.spotify.com/album/1PxdUTbU6rWRyKnMQM3JVp) | 3:11 |
-| 37 | [Sacred Heart](https://open.spotify.com/track/6zPtbPCbuZVUNjzW1nZMzx) | [Mob Rules](https://open.spotify.com/artist/13dxEWLoiRvGU1MK4nVUj4) | [Sacred Heart](https://open.spotify.com/album/4hu11ZkOPOvpquCybYlx9s) | 5:59 |
-| 38 | [Breaking Point](https://open.spotify.com/track/4Us3BHNRNRVlJFtDd1e5xA) | [Lockjaw](https://open.spotify.com/artist/1CFA76fcB5Ieqc0vUWWab4) | [Breaking Point](https://open.spotify.com/album/0W8BIHCskTZcmkrvVEgjfK) | 3:35 |
-| 39 | [Chaosmos](https://open.spotify.com/track/11NExJXLQ37RisfCex3IsZ) | [Origin](https://open.spotify.com/artist/4Mmo0f1kp7dyyH3UbK9vUU) | [Chaosmos](https://open.spotify.com/album/1tow6kobtKE1gAWeTwrOTA) | 3:16 |
-| 40 | [Rend Asunder](https://open.spotify.com/track/222zgxKUhLSmH3SRQcVgjW) | [Psycroptic](https://open.spotify.com/artist/2O8ZayBAqBqoXujSAAx7pm) | [Rend Asunder](https://open.spotify.com/album/0MChkaMwmHlMsSdT9gu5vg) | 3:53 |
-| 41 | [Banshee](https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm) | [Seeing Things](https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH) | [Banshee](https://open.spotify.com/album/2gPp8IUtPPOkTWaIGSxcxj) | 3:10 |
-| 42 | [A Ray Of Light](https://open.spotify.com/track/0NHo1OvNvJta5XAc2EVfHe) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [A Ray Of Light](https://open.spotify.com/album/6jp5VucqBdhD7M0hdRS84w) | 3:08 |
-| 43 | [Noah's Ark](https://open.spotify.com/track/5RbmNmtY6ybkqmlhJIQsSP) | [Mentalist](https://open.spotify.com/artist/0FqWOgn92qjlFjYcmoesrs) | [Noah's Ark](https://open.spotify.com/album/70HcUicuGMW4t3icNtg3kW) | 3:45 |
-| 44 | [\[ULTRAGOLD\]](https://open.spotify.com/track/69c8W5MlR5J1nApimjv59y) | [Vatican](https://open.spotify.com/artist/0Nzhvcp9Rg6V8xX8YgD1WC) | [\[ULTRAGOLD\]](https://open.spotify.com/album/0emDpjzQuMpas8lC0H2nys) | 2:42 |
-| 45 | [The Enemy](https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET) | [The GFM Band](https://open.spotify.com/artist/1G2MgpunAePYtc83tCxZYK), [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [The Enemy](https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty) | 4:21 |
-| 46 | [Broken Bonds](https://open.spotify.com/track/130Dy0w3AoAhHdE6Zcx3LK) | [ATLVS](https://open.spotify.com/artist/5N4dLggbLKLGVWdlY2o0GA) | [Broken Bonds](https://open.spotify.com/album/6bWUqpzp3zP1ZHnVjuaXFg) | 3:03 |
-| 47 | [Age Of The Ordeal Of Iron](https://open.spotify.com/track/6PpdiS1ITIfNn2CN2dGVfM) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [Age Of The Ordeal Of Iron](https://open.spotify.com/album/2f59CKxRPx3HOc96WcCL4q) | 5:53 |
-| 48 | [Lunar Eclipse](https://open.spotify.com/track/5y3QjfkAaRtqAOH6UUqvSc) | [Veiled in Scarlet](https://open.spotify.com/artist/6umv4rFJkPXQG4PQQ6MwIQ) | [Reincarnation](https://open.spotify.com/album/6QGnH7XRbACQIqZndEqLLS) | 5:16 |
-| 49 | [Bloodbath](https://open.spotify.com/track/7KxPWRWjAbVTIMWcVkz8Yq) | [Frantic Amber](https://open.spotify.com/artist/35ExNkMZGn1aQd0WkgsRjo) | [Bloodbath](https://open.spotify.com/album/4F76Qz3CUQ69tIw6OGnd4L) | 4:49 |
+| 33 | [Talk to Me](https://open.spotify.com/track/5Ksj30jkBKURjP37bJHt6y) | [Scarlett O'Hara](https://open.spotify.com/artist/5ePmU5aXpdUJvBhlzEyjHp) | [Talk to Me](https://open.spotify.com/album/4BlNHCk4YJVesRg1QGq0EV) | 3:28 |
+| 34 | [The Frail](https://open.spotify.com/track/0yq0B53r1gLLLMsYadLI9A) | [RXPTRS](https://open.spotify.com/artist/6wZR4nBBIVGgEzBBtkzkJ8) | [The Frail](https://open.spotify.com/album/05HPD5dlZyeTo6PQIC4luS) | 4:36 |
+| 35 | [Hearts of Stone](https://open.spotify.com/track/67K49HkE65iIqHQy2FFUE2) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [Hearts of Stone](https://open.spotify.com/album/430mmVkaExWzKspMSq1FjO) | 3:56 |
+| 36 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 |
+| 37 | [Follow The Flies](https://open.spotify.com/track/4TJKHjgqY2zaBlIlNOEB2q) | [Simulakra](https://open.spotify.com/artist/2jWxOfUagc8h6PbDZgFoMp), [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [Follow The Flies](https://open.spotify.com/album/1PxdUTbU6rWRyKnMQM3JVp) | 3:11 |
+| 38 | [Sacred Heart](https://open.spotify.com/track/6zPtbPCbuZVUNjzW1nZMzx) | [Mob Rules](https://open.spotify.com/artist/13dxEWLoiRvGU1MK4nVUj4) | [Sacred Heart](https://open.spotify.com/album/4hu11ZkOPOvpquCybYlx9s) | 5:59 |
+| 39 | [Breaking Point](https://open.spotify.com/track/4Us3BHNRNRVlJFtDd1e5xA) | [Lockjaw](https://open.spotify.com/artist/1CFA76fcB5Ieqc0vUWWab4) | [Breaking Point](https://open.spotify.com/album/0W8BIHCskTZcmkrvVEgjfK) | 3:35 |
+| 40 | [Chaosmos](https://open.spotify.com/track/11NExJXLQ37RisfCex3IsZ) | [Origin](https://open.spotify.com/artist/4Mmo0f1kp7dyyH3UbK9vUU) | [Chaosmos](https://open.spotify.com/album/1tow6kobtKE1gAWeTwrOTA) | 3:16 |
+| 41 | [Rend Asunder](https://open.spotify.com/track/222zgxKUhLSmH3SRQcVgjW) | [Psycroptic](https://open.spotify.com/artist/2O8ZayBAqBqoXujSAAx7pm) | [Rend Asunder](https://open.spotify.com/album/0MChkaMwmHlMsSdT9gu5vg) | 3:53 |
+| 42 | [Banshee](https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm) | [Seeing Things](https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH) | [Banshee](https://open.spotify.com/album/2gPp8IUtPPOkTWaIGSxcxj) | 3:10 |
+| 43 | [A Ray Of Light](https://open.spotify.com/track/0NHo1OvNvJta5XAc2EVfHe) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [A Ray Of Light](https://open.spotify.com/album/6jp5VucqBdhD7M0hdRS84w) | 3:08 |
+| 44 | [Noah's Ark](https://open.spotify.com/track/5RbmNmtY6ybkqmlhJIQsSP) | [Mentalist](https://open.spotify.com/artist/0FqWOgn92qjlFjYcmoesrs) | [Noah's Ark](https://open.spotify.com/album/70HcUicuGMW4t3icNtg3kW) | 3:45 |
+| 45 | [\[ULTRAGOLD\]](https://open.spotify.com/track/69c8W5MlR5J1nApimjv59y) | [Vatican](https://open.spotify.com/artist/0Nzhvcp9Rg6V8xX8YgD1WC) | [\[ULTRAGOLD\]](https://open.spotify.com/album/0emDpjzQuMpas8lC0H2nys) | 2:42 |
+| 46 | [The Enemy](https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET) | [The GFM Band](https://open.spotify.com/artist/1G2MgpunAePYtc83tCxZYK), [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [The Enemy](https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty) | 4:21 |
+| 47 | [Broken Bonds](https://open.spotify.com/track/130Dy0w3AoAhHdE6Zcx3LK) | [ATLVS](https://open.spotify.com/artist/5N4dLggbLKLGVWdlY2o0GA) | [Broken Bonds](https://open.spotify.com/album/6bWUqpzp3zP1ZHnVjuaXFg) | 3:03 |
+| 48 | [Age Of The Ordeal Of Iron](https://open.spotify.com/track/6PpdiS1ITIfNn2CN2dGVfM) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [Age Of The Ordeal Of Iron](https://open.spotify.com/album/2f59CKxRPx3HOc96WcCL4q) | 5:53 |
+| 49 | [Lunar Eclipse](https://open.spotify.com/track/5y3QjfkAaRtqAOH6UUqvSc) | [Veiled in Scarlet](https://open.spotify.com/artist/6umv4rFJkPXQG4PQQ6MwIQ) | [Reincarnation](https://open.spotify.com/album/6QGnH7XRbACQIqZndEqLLS) | 5:16 |
+| 50 | [Bloodbath](https://open.spotify.com/track/7KxPWRWjAbVTIMWcVkz8Yq) | [Frantic Amber](https://open.spotify.com/artist/35ExNkMZGn1aQd0WkgsRjo) | [Bloodbath](https://open.spotify.com/album/4F76Qz3CUQ69tIw6OGnd4L) | 4:49 |
 
 Snapshot ID: `MTY1MjQwMDAwMCwwMDAwMDRlZTAwMDAwMTgwYmFiNzBjOTAwMDAwMDE4MGFlMjUyMzJk`

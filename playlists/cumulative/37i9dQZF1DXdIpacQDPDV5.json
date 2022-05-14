@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: VAVO",
+  "description": "The best of today's dance hits. Cover: ILLENIUM, Spiritbox",
   "name": "mint Canada",
   "published_playlist_ids": [
     "1PEHoMgddwKvz8RvsLstCM"
@@ -1879,7 +1879,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
@@ -1996,6 +1996,36 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Noisia",
+          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+        },
+        {
+          "name": "Thys",
+          "url": "https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR"
+        },
+        {
+          "name": "Sleepnet",
+          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321480,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5dDHmJULJfgacnHLwK68xe"
+    },
+    {
+      "album": {
         "name": "FOR\u039eV\u039eR",
         "url": "https://open.spotify.com/album/2bFEI0FZ688BlTpclN88VX"
       },
@@ -2107,6 +2137,24 @@
       "duration_ms": 190240,
       "name": "I Don't Want You",
       "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
+    },
+    {
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185522,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
     },
     {
       "album": {
@@ -2243,7 +2291,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 210505,
       "name": "If We\u2019ll Ever Be Remembered",
       "url": "https://open.spotify.com/track/6wnzt59p7i8cAyuWl1avwr"
@@ -2265,6 +2313,24 @@
       "duration_ms": 260540,
       "name": "Immunity",
       "url": "https://open.spotify.com/track/4RVcOvimtLKS94rEEzxYtB"
+    },
+    {
+      "album": {
+        "name": "In Chicago",
+        "url": "https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186686,
+      "name": "In Chicago",
+      "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
     },
     {
       "album": {
@@ -2367,7 +2433,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 159010,
       "name": "Is It You",
       "url": "https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi"
@@ -2670,6 +2736,28 @@
     },
     {
       "album": {
+        "name": "LIGHTWAVES",
+        "url": "https://open.spotify.com/album/1JhkARu8eNtzhsxCNwjnte"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141453,
+      "name": "LIGHTWAVES",
+      "url": "https://open.spotify.com/track/46JbXTR6VNrnnoJJAsn6gN"
+    },
+    {
+      "album": {
         "name": "Liquor Store",
         "url": "https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF"
       },
@@ -2963,6 +3051,32 @@
       "duration_ms": 178909,
       "name": "Married to Your Melody",
       "url": "https://open.spotify.com/track/7kl1oW2J2F9CcSvuej1V9h"
+    },
+    {
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/0kATw1lYCtAOTKhgoqJgGV"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/13uX19Q1vGbguE0G5OBQjo"
     },
     {
       "album": {
@@ -3268,6 +3382,24 @@
     },
     {
       "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/4MX5uRMMHGEt3QaMIdamoH"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/3czS8iG6DI6SX5X4IT0uCu"
+    },
+    {
+      "album": {
         "name": "Need U - Spotify Singles",
         "url": "https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF"
       },
@@ -3480,6 +3612,32 @@
     },
     {
       "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"
+    },
+    {
+      "album": {
         "name": "Ogwula",
         "url": "https://open.spotify.com/album/29AiXhlu8kioHxwd3NHZNw"
       },
@@ -3535,7 +3693,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 205690,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/2N0xFVUUEheGO0IYT2HjFK"
@@ -3649,7 +3807,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 160629,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6"
@@ -3671,7 +3829,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 145174,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
@@ -3973,7 +4131,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 212210,
       "name": "Puzzle Box",
       "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
@@ -4346,6 +4504,28 @@
     },
     {
       "album": {
+        "name": "Shivering (feat. Spiritbox)",
+        "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300916,
+      "name": "Shivering (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
+    },
+    {
+      "album": {
         "name": "Show Me A Sign",
         "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
       },
@@ -4427,7 +4607,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 232245,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
@@ -5084,6 +5264,28 @@
     },
     {
       "album": {
+        "name": "The Beat",
+        "url": "https://open.spotify.com/album/2idRd7SOnFP6NOcXwwqPJ8"
+      },
+      "artists": [
+        {
+          "name": "Miles & Miles",
+          "url": "https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156931,
+      "name": "The Beat",
+      "url": "https://open.spotify.com/track/16iUJ2k7QmZkmWi2ST9mnj"
+    },
+    {
+      "album": {
         "name": "The High",
         "url": "https://open.spotify.com/album/3Zlhl1M5UZ8s8MlUqO5B2X"
       },
@@ -5326,6 +5528,28 @@
     },
     {
       "album": {
+        "name": "Together At Last",
+        "url": "https://open.spotify.com/album/7llcsJsQ1Te5jm8eOp3Z1I"
+      },
+      "artists": [
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Together At Last",
+      "url": "https://open.spotify.com/track/3Y9tbwMq2WvxP35j9hiUMb"
+    },
+    {
+      "album": {
         "name": "Togetherness",
         "url": "https://open.spotify.com/album/6fh4UOwrr34e2yTDWnsA3f"
       },
@@ -5557,7 +5781,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 181935,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2AtUZuhlnmxrymEFA37xA4"
@@ -5579,7 +5803,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
@@ -5785,7 +6009,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153706,
       "name": "Where you are (feat. WILLOW)",
       "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"

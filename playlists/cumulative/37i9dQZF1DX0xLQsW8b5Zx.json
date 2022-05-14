@@ -44,6 +44,42 @@
     },
     {
       "album": {
+        "name": "The Blasters",
+        "url": "https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B"
+      },
+      "artists": [
+        {
+          "name": "The Blasters",
+          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127626,
+      "name": "American Music",
+      "url": "https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g"
+    },
+    {
+      "album": {
+        "name": "Rock 'n' Roll",
+        "url": "https://open.spotify.com/album/1xf6bK6YKmBPP6F4tn0UYm"
+      },
+      "artists": [
+        {
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149933,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT"
+    },
+    {
+      "album": {
         "name": "Baby Come Back",
         "url": "https://open.spotify.com/album/6iIbpZ2eThSMxI4qK7SeGF"
       },
@@ -127,7 +163,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 205946,
       "name": "Barfly",
       "url": "https://open.spotify.com/track/5Dp4Yl7iKlsjN6Ee9T0BVI"
@@ -163,7 +199,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 129026,
       "name": "Black Slacks",
       "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
@@ -181,7 +217,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 140066,
       "name": "Blue Suede Shoes - Rerecorded",
       "url": "https://open.spotify.com/track/54ZYZamhvPMDMngC7RqHAE"
@@ -199,7 +235,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 183573,
       "name": "Born to Rock",
       "url": "https://open.spotify.com/track/6YT4nf1aNlJrKiTSsrqaaz"
@@ -217,7 +253,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 172293,
       "name": "Can\u00b4t Get It Out of My Mind",
       "url": "https://open.spotify.com/track/5Z1sGA3c1XbY1Qu8Ku9Yz1"
@@ -271,7 +307,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 175679,
       "name": "Chevy 55",
       "url": "https://open.spotify.com/track/2ZIRhZgebost1ImAJfk5Fh"
@@ -307,7 +343,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 149159,
       "name": "Daddy Cool / The Girl Can't Help It",
       "url": "https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh"
@@ -365,7 +401,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 127239,
       "name": "Drugstore Rock and Roll",
       "url": "https://open.spotify.com/track/3QfhbXUTf5hlFAEbn0jbeP"
@@ -401,7 +437,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 162493,
       "name": "Everybody's Movin'",
       "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
@@ -437,7 +473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 149053,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra"
@@ -455,7 +491,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 161508,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw"
@@ -516,6 +552,24 @@
     },
     {
       "album": {
+        "name": "The Playmate",
+        "url": "https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb"
+      },
+      "artists": [
+        {
+          "name": "Francine",
+          "url": "https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "Goodbye Forever",
+      "url": "https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ"
+    },
+    {
+      "album": {
         "name": "Jerry Lee's Greatest",
         "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
       },
@@ -545,7 +599,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 138840,
       "name": "Hello Mary Lou",
       "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
@@ -563,7 +617,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202866,
       "name": "Hey Rosalie",
       "url": "https://open.spotify.com/track/19PkDncNBx7csrF34P1FMz"
@@ -617,7 +671,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 183373,
       "name": "Honky Tonk Train",
       "url": "https://open.spotify.com/track/0SPKGaIJFH7ReMd0fcRoJg"
@@ -931,7 +985,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 139173,
       "name": "Once More",
       "url": "https://open.spotify.com/track/7My40AGXwPAULqqRBzvb4R"
@@ -1021,7 +1075,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 149705,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/024xjVutLFgK3gInQCJxGj"
@@ -1093,7 +1147,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 131826,
       "name": "Rock Around With Ollie Vee - Single Version",
       "url": "https://open.spotify.com/track/1hcs4ZGMVsnKgBRawd1cCA"
@@ -1165,7 +1219,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 163960,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/6kSXIXxIv6edvYm7cRV4Jz"
@@ -1183,7 +1237,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 214400,
       "name": "Rocket to the Moon",
       "url": "https://open.spotify.com/track/7E1XmqVGR1GfAPa6LYEYM0"
@@ -1223,7 +1277,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 207040,
       "name": "Rocky Road Blues",
       "url": "https://open.spotify.com/track/42hJcIKQ1OEeriwE9ERDJr"
@@ -1284,6 +1338,24 @@
     },
     {
       "album": {
+        "name": "Mayhem",
+        "url": "https://open.spotify.com/album/3BNRNDUotlBZGQmurOu0lj"
+      },
+      "artists": [
+        {
+          "name": "Imelda May",
+          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0Y1BHJjQjDhTnKCAsUEmGJ"
+    },
+    {
+      "album": {
         "name": "American Rumble, Vol. 1",
         "url": "https://open.spotify.com/album/4l2lMwNC31nbwR1PRTuhrW"
       },
@@ -1295,7 +1367,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 207568,
       "name": "Tempo Tantrum",
       "url": "https://open.spotify.com/track/6iEk06fyAxeR7YKu2D2AV2"
@@ -1356,6 +1428,24 @@
     },
     {
       "album": {
+        "name": "When I See Ya!",
+        "url": "https://open.spotify.com/album/7bgRDpABKZIMwp0J9IGjHV"
+      },
+      "artists": [
+        {
+          "name": "TT Grace",
+          "url": "https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "When I See Ya!",
+      "url": "https://open.spotify.com/track/1Xc4ZsXxe2qHaulqzVYFE7"
+    },
+    {
+      "album": {
         "name": "Original Golden Hits - Volume 1",
         "url": "https://open.spotify.com/album/7zfrzVi5p5mN06ydeH8ptF"
       },
@@ -1403,7 +1493,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 181493,
       "name": "Wild Saxophone",
       "url": "https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU"
@@ -1421,7 +1511,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 138615,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"

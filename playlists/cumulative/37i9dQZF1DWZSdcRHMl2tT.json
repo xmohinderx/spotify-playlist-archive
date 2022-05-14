@@ -1128,6 +1128,46 @@
     },
     {
       "album": {
+        "name": "Girl, Forever",
+        "url": "https://open.spotify.com/album/6sTOlDzChQXyJVN4RssWyu"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443359,
+      "name": "Girl, Forever - 2022 Remaster",
+      "url": "https://open.spotify.com/track/55Glw2TNFjoVUUdm69Wb06"
+    },
+    {
+      "album": {
+        "name": "Girl, Forever (CASSARA Remix)",
+        "url": "https://open.spotify.com/album/34xWbDkDJTmyYUoXQYBM3c"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Cassara",
+          "url": "https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225552,
+      "name": "Girl, Forever - CASSARA Remix - Edit",
+      "url": "https://open.spotify.com/track/2JEzpWa3mdrQ0Xf96uHziC"
+    },
+    {
+      "album": {
         "name": "glitched persona",
         "url": "https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16"
       },
@@ -1305,6 +1345,24 @@
       "duration_ms": 148800,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG"
+    },
+    {
+      "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/2jcjDljAfYOaGHy5nWqc59"
+      },
+      "artists": [
+        {
+          "name": "RWOK",
+          "url": "https://open.spotify.com/artist/7d5EiTohz2fYhZntc4lqC5"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120346,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/1V5mD0lc4OosW8EGqpM6YO"
     },
     {
       "album": {
@@ -1687,6 +1745,24 @@
       "duration_ms": 233793,
       "name": "Lost Lands",
       "url": "https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ"
+    },
+    {
+      "album": {
+        "name": "Lost Sea",
+        "url": "https://open.spotify.com/album/0sUdcjrmiMOUGbFUhojfTe"
+      },
+      "artists": [
+        {
+          "name": "Mandy Mars",
+          "url": "https://open.spotify.com/artist/2TfKQgp7fc193rRreQDRP9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187946,
+      "name": "Lost Sea",
+      "url": "https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D"
     },
     {
       "album": {
@@ -2612,6 +2688,24 @@
     },
     {
       "album": {
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/3vfYXMKNGBmDmbABG73VLE"
+      },
+      "artists": [
+        {
+          "name": "80s Kids",
+          "url": "https://open.spotify.com/artist/3qyrHRM9yQ3L4z0InY4T8x"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/15SEpL0rQ6lPo0sK04ZuP1"
+    },
+    {
+      "album": {
         "name": "Saint Tropez",
         "url": "https://open.spotify.com/album/3zvW548gu7s9f5k2fndTej"
       },
@@ -2663,6 +2757,32 @@
       "duration_ms": 290357,
       "name": "Salty Tales",
       "url": "https://open.spotify.com/track/5Gy3t7t0vEsxFEMux3dX3X"
+    },
+    {
+      "album": {
+        "name": "Sea To Sky (Parra For Cuva Remix)",
+        "url": "https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        },
+        {
+          "name": "Murge",
+          "url": "https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W"
+        },
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226383,
+      "name": "Sea To Sky - Parra For Cuva Remix",
+      "url": "https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt"
     },
     {
       "album": {

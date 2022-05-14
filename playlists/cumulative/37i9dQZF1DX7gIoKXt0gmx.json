@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174004,
       "name": "CON TAL",
       "url": "https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w"
@@ -748,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133671,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
+    },
+    {
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -857,6 +875,42 @@
       "duration_ms": 198293,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
+    },
+    {
+      "album": {
+        "name": "Don't Love Me",
+        "url": "https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167019,
+      "name": "Don't Love Me",
+      "url": "https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY"
+    },
+    {
+      "album": {
+        "name": "Don't Say",
+        "url": "https://open.spotify.com/album/3t1AbuJrkCU4c8LnWLJMUZ"
+      },
+      "artists": [
+        {
+          "name": "Jex Nwalor",
+          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155490,
+      "name": "Don't Say",
+      "url": "https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo"
     },
     {
       "album": {
@@ -1363,7 +1417,7 @@
       ],
       "date_added": "2020-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 170248,
       "name": "Honest",
       "url": "https://open.spotify.com/track/7rezT408cCLBBr40Gvtg4J"
@@ -1399,7 +1453,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 254526,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4kBkD5qWlRlZXAYVSztETX"
@@ -1439,7 +1493,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 223346,
       "name": "I Fall Apart",
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
@@ -2406,6 +2460,24 @@
     },
     {
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+    },
+    {
+      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
       },
@@ -2519,7 +2591,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 254617,
       "name": "Primrose",
       "url": "https://open.spotify.com/track/1NRX2Ktplk6T3nj8rriiYJ"
@@ -3087,7 +3159,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 246240,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/4LkLfPYc3yjOta7Gk8FDRB"

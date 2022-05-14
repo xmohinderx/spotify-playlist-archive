@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-441 songs - 1 day 0 hr 13 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+443 songs - 1 day 0 hr 17 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [DANÇARINA](https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 1:50 | 2022-03-01 | 2022-03-13 |
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-03-15 | 2022-04-10 |
 | [Dat heb jij gedaan](https://open.spotify.com/track/6lgIi3ixBsr4cMt3r19yX9) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/4R1T4H4n4YuL92AJ4EgLyJ) | 3:31 | 2021-12-27 | 2022-01-05 |
+| [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-05-13 |  |
 | [Dead Of Night](https://open.spotify.com/track/6jzAkKTa5sRAcIG4N1DkV6) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/4sypyREAQc69dg2X5XY4Df) | 3:59 | 2022-01-15 | 2022-02-09 |
 | [Dear Alcohol](https://open.spotify.com/track/1BbUq9wc4N2q53fR9S6NsZ) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Dear Alcohol](https://open.spotify.com/album/4mn4We0lZSZam33G1UQP0d) | 3:56 | 2022-04-12 | 2022-04-29 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-03-30 | 2022-05-07 |
@@ -233,7 +234,7 @@
 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:05 | 2022-02-15 | 2022-02-22 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-05-03 |  |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2021-12-30 | 2022-02-16 |
-| [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/track/5ZF6l3xKi3m6YK2dDXAsR5) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/album/3chA2MGRAajYTezCtS7f5s) | 3:13 | 2022-04-19 |  |
+| [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/track/5ZF6l3xKi3m6YK2dDXAsR5) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/album/3chA2MGRAajYTezCtS7f5s) | 3:13 | 2022-04-19 | 2022-05-14 |
 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 | 2022-02-08 | 2022-02-13 |
 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 | 2022-05-07 |  |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP) | 2:30 | 2022-03-23 | 2022-03-30 |
@@ -276,7 +277,8 @@
 | [Mudhal Nee Mudivum Nee Title Track \(From "Mudhal Nee Mudivum Nee"\)](https://open.spotify.com/track/1AzNN19lPYC68iacrbWL8X) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Mudhal Nee Mudivum Nee Title Track \(From "Mudhal Nee Mudivum Nee"\)](https://open.spotify.com/album/3hDQpJsEBtu5cIXUtC8ykc) | 5:32 | 2022-02-02 | 2022-03-14 |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-26 | 2022-03-02 |
 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 | 2022-04-05 | 2022-04-17 |
-| [my money dont jiggle jiggle, it falls](https://open.spotify.com/track/4suCwJOOBSCCyaFkcqmUb7) | [SOULGRABBER](https://open.spotify.com/artist/6tuN5TDLCTbsmyE1FJMA2Q) | [my money dont jiggle jiggle, it falls](https://open.spotify.com/album/2mB553VJJ46D5lO9yGWkPf) | 1:36 | 2022-05-12 |  |
+| [My Money Don't Jiggle Jiggle, It Folds](https://open.spotify.com/track/09lRJM0hgXwwXCjNaIvcbs) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [My Money Don't Jiggle Jiggle, It Folds](https://open.spotify.com/album/03hhqOR7ZYPn3zpcOJds7S) | 1:36 | 2022-05-13 |  |
+| [my money dont jiggle jiggle, it falls](https://open.spotify.com/track/4suCwJOOBSCCyaFkcqmUb7) | [SOULGRABBER](https://open.spotify.com/artist/6tuN5TDLCTbsmyE1FJMA2Q) | [my money dont jiggle jiggle, it falls](https://open.spotify.com/album/2mB553VJJ46D5lO9yGWkPf) | 1:36 | 2022-05-12 | 2022-05-14 |
 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 | 2022-03-13 | 2022-03-16 |
 | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw) | 2:52 | 2021-12-27 | 2022-01-11 |
 | [Ne Ay Geceden](https://open.spotify.com/track/4tJa4Vbru9vnEj1IV9aaX1) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Ne Ay Geceden](https://open.spotify.com/album/4XNoVKD5AJ746I5UyoBNuG) | 3:19 | 2022-03-20 | 2022-04-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Doja Cat\n\n",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Megan Thee Stallion\n\n",
   "name": "Feelin' Myself",
   "published_playlist_ids": [
     "0FtcGJDMEWLAVf67SoV0Nd"
@@ -121,6 +121,28 @@
       "duration_ms": 183306,
       "name": "Aye Yai Yai (with Yung Bleu)",
       "url": "https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e"
+    },
+    {
+      "album": {
+        "name": "Balance My Lows (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/1Ez46n26k39YixXE5N9Dyq"
+      },
+      "artists": [
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127893,
+      "name": "Balance My Lows (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/1w4zc04CreWVxEmljzeykK"
     },
     {
       "album": {
@@ -426,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Shape Up",
+        "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213613,
+      "name": "Carry Anne",
+      "url": "https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm"
+    },
+    {
+      "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/04CpXXZ8FRNJ5lipbTJDrs"
       },
@@ -437,7 +477,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 98218,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/002WDZVLY5EElAwSjXziVt"
@@ -691,7 +731,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 166473,
       "name": "Eat (feat. Z-Ro)",
       "url": "https://open.spotify.com/track/5uKVpF7HT4VMTLCj6QmrBU"

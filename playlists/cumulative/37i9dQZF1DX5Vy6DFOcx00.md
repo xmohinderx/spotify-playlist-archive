@@ -4,7 +4,7 @@
 
 > new look, new vibe, same playlist you love.
 
-340 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+342 songs - 18 hr 27 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 | 2022-03-29 | 2022-04-26 |
 | [Nobody Like U](https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 2:40 | 2022-03-23 | 2022-04-12 |
 | [Nosetalgia](https://open.spotify.com/track/7aK5rlTVxSgcqShPMI1TTH) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 3:36 | 2022-04-15 | 2022-04-26 |
+| [not a home](https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [not a home](https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln) | 2:49 | 2022-05-13 |  |
 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2021-11-07 | 2022-02-14 |
 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) | 3:37 | 2022-02-06 |  |
 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 | 2021-10-10 |  |
@@ -290,6 +291,7 @@
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2022-03-09 |  |
 | [Super Urus](https://open.spotify.com/track/4d1MKNhs76Fsrnjz9u16zb) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Super Urus](https://open.spotify.com/album/1cL86ZgHUK02aGXz75Q2rh) | 2:22 | 2022-03-16 | 2022-03-31 |
 | [Surrender To Me](https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ) | [FireCityFunk](https://open.spotify.com/artist/3fp7WTKKzrpXiS9kXzkhkF) | [Surrender To Me](https://open.spotify.com/album/1MHqH1tfMRvWJXmHzJlQNZ) | 3:34 | 2022-02-07 | 2022-03-03 |
+| [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 | 2022-05-13 |  |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2022-01-13 |  |
 | [Swimming Pool](https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool \- EP](https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls) | 5:27 | 2021-12-13 | 2022-02-13 |
 | [Swërved It](https://open.spotify.com/track/0bihOtJtBxl6r9DUJorNUh) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:17 | 2022-05-11 |  |

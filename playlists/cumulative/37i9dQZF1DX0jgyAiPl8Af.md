@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-234 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+235 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Altitudes](https://open.spotify.com/track/1irRBmDlje6gY0rBa3ue1m) | [Emanuel Nord](https://open.spotify.com/artist/2Gq8NLA4bUFNMCLKB1kx83) | [Altitudes](https://open.spotify.com/album/2e8F67H4vPMGo5L3tJu0id) | 2:23 | 2021-12-08 |  |
 | [am Marienplatz](https://open.spotify.com/track/6aChaZyAJMXGE1dv3Hl1Py) | [Alexander Wurzler](https://open.spotify.com/artist/25W6u2VnVVME6ZEMSn9Kfa) | [Morgenstund](https://open.spotify.com/album/2ni9DbZXvKnvHyr5UbYAo5) | 2:49 | 2021-12-08 |  |
 | [Amarilla](https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Amarilla](https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk) | 2:27 | 2022-04-22 |  |
+| [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 | 2022-05-13 |  |
 | [Aneto](https://open.spotify.com/track/4UV0FMugzIiE8kVB8SqhrT) | [Andrea Sason](https://open.spotify.com/artist/64lOTag6a3vJGmEiW3lAJP) | [Aneto](https://open.spotify.com/album/0KFdc4Sh8UYggKtoDVao0Q) | 2:48 | 2021-12-08 | 2022-05-11 |
 | [Atracción Total](https://open.spotify.com/track/3h65slquvDXuKKEsV97ujv) | [Ferne Dado](https://open.spotify.com/artist/5iExMiaCIV50ySAqjiDJ8e) | [Atracción Total](https://open.spotify.com/album/6bxb7581ZoRs7woNYVFQhD) | 3:02 | 2021-12-08 |  |
 | [Bacoli](https://open.spotify.com/track/6nS6igND0d9hCISr9PHy7d) | [Tostia](https://open.spotify.com/artist/3rO9stUKtSRSDUW0djykCh) | [Bacoli](https://open.spotify.com/album/6M45uYbly4w3twtRpC3Tq8) | 2:40 | 2021-12-08 |  |

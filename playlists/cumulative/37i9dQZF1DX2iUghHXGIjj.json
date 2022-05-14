@@ -228,6 +228,28 @@
     },
     {
       "album": {
+        "name": "Blessings and Blues",
+        "url": "https://open.spotify.com/album/3jwBxGIKQ3tIuENpVWSvoL"
+      },
+      "artists": [
+        {
+          "name": "Bob Margolin",
+          "url": "https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU"
+        },
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Blessings and Blues",
+      "url": "https://open.spotify.com/track/3OCKRAHhEjcKIvJLdMKfPK"
+    },
+    {
+      "album": {
         "name": "Global Griot",
         "url": "https://open.spotify.com/album/0b8jmTwNddvlh7RBTKTvPn"
       },
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 152075,
       "name": "Oh Now",
       "url": "https://open.spotify.com/track/3WxksalSl9j5N3JkvFn8lY"

@@ -1176,6 +1176,24 @@
     },
     {
       "album": {
+        "name": "Empire EP",
+        "url": "https://open.spotify.com/album/6di6YbDP1WIdHmsboMKikN"
+      },
+      "artists": [
+        {
+          "name": "Koelle",
+          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230082,
+      "name": "Empires Of The North",
+      "url": "https://open.spotify.com/track/5Tk2XCfrRLVwVMK4zvk690"
+    },
+    {
+      "album": {
         "name": "Epoche",
         "url": "https://open.spotify.com/album/2Md53Ho2kXNMATFL8pK3go"
       },
@@ -1923,6 +1941,24 @@
       "duration_ms": 397893,
       "name": "Love Is the Law - Adana Twins Remix",
       "url": "https://open.spotify.com/track/7fGa4udV3kDjJhr95Wlm6G"
+    },
+    {
+      "album": {
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
     },
     {
       "album": {

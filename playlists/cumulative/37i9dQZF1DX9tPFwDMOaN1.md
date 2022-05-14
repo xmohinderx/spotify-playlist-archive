@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> New look and feel, same old playlist you love\. Let's turn on the movement! Cover: TOMORROW X TOGETHER
+> Let's turn ON the movement! Don't forget to check out the green circle if you're on mobile for something fun from TOMORROW X TOGETHER!
 
 126 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 

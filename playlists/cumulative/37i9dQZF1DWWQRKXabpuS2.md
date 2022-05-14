@@ -4,7 +4,7 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: عايض
 
-101 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+102 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Kheira](https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Kheira](https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224) | 4:13 | 2022-02-16 |  |
 | [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 | 2022-02-17 |  |
 | [Leeh Ma Teji](https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Leeh Ma Teji](https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd) | 5:25 | 2022-05-01 |  |
+| [Leh Rajee](https://open.spotify.com/track/2rTe08BVkNA9S8xaC4ZqTD) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Leh Rajee](https://open.spotify.com/album/2CiC0SU1r3W3MPcoHuFMyr) | 3:43 | 2022-05-13 |  |
 | [Letak Maey](https://open.spotify.com/track/2UB9maMnxNigowJkLjikv5) | [Basil Al Aziz](https://open.spotify.com/artist/1DukKWvxLqDe2BIH4IU4jd) | [Letak Maey](https://open.spotify.com/album/15yFJycGjc78gXyO8TsUHt) | 4:23 | 2021-12-23 |  |
 | [lo Hobek](https://open.spotify.com/track/598erFMdm6rEKqw7tRg3PX) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [lo Hobek](https://open.spotify.com/album/48Ppl1mtZYWRqlDPgr2vBr) | 3:18 | 2021-12-30 |  |
 | [Ma Aaraf Qadry](https://open.spotify.com/track/0OFnsKz5QuApnBoxHsylT5) | [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL) | [Ma Aaraf Qadry](https://open.spotify.com/album/4J95aQ00slYUW70bzAG8Tb) | 3:40 | 2021-12-23 | 2022-02-11 |
@@ -87,7 +88,7 @@
 | [Wa Melha Wa Zenah](https://open.spotify.com/track/365AtYjRoVs31lH6eLfsOQ) | [Faissal Ben Khalid](https://open.spotify.com/artist/3n0tXmQ0nInop0zTYGfYSZ) | [Wa Melha Wa Zenah](https://open.spotify.com/album/5zWcspJbXEb1dSwhcIAUsk) | 3:51 | 2021-12-23 |  |
 | [Walhat Wjet](https://open.spotify.com/track/6SHgMFXfzUdJg71xZqzAeJ) | [Abdulkader Alahmed](https://open.spotify.com/artist/7fpdcwPFWY9cOWQfEKKIbk) | [Walhat Wjet](https://open.spotify.com/album/3K5AxP8THalYPGOuzJk1UA) | 2:22 | 2021-12-23 |  |
 | [Wayn Ma Wayn](https://open.spotify.com/track/1kqMk4SFhqjURfdHaZHP5k) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g) | [Wayn Ma Wayn](https://open.spotify.com/album/527Um3zJpKjclamlE7OGuS) | 3:16 | 2022-03-03 |  |
-| [Weddi Aeref](https://open.spotify.com/track/2zpd1Epv2gf5MUTtMCuaMv) | [Abdullah Salim](https://open.spotify.com/artist/0AVcYHRYw4hsEyXmaZMedz) | [Weddi Aeref](https://open.spotify.com/album/0GGhAFHqI12OYD0TX0frVl) | 4:04 | 2021-12-23 |  |
+| [Weddi Aeref](https://open.spotify.com/track/2zpd1Epv2gf5MUTtMCuaMv) | [Abdullah Salim](https://open.spotify.com/artist/0AVcYHRYw4hsEyXmaZMedz) | [Weddi Aeref](https://open.spotify.com/album/0GGhAFHqI12OYD0TX0frVl) | 4:04 | 2021-12-23 | 2022-05-14 |
 | [Ya Ghaeba](https://open.spotify.com/track/133pYgsSCKjNL09LSOSZ2r) | [Abdullah Tariq](https://open.spotify.com/artist/5ZZAY6x3JLcusD13tjQzQg) | [Ya Ghaeba](https://open.spotify.com/album/3vde6lu7iLNycIgcjJ0FIX) | 5:01 | 2022-03-17 |  |
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-04-01 |  |
 | [Ya Hazzah](https://open.spotify.com/track/4tV8tnkKmJCrwcahK0wmPw) | [Hamad Alameri](https://open.spotify.com/artist/7jAccRfAodnAyF3D9kQ4lo) | [Ya Hazzah](https://open.spotify.com/album/0ZImrERkWcbMs5F1G96DJA) | 4:32 | 2022-02-17 |  |

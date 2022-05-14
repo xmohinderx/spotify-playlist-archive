@@ -2,13 +2,13 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Gusttavo Lima
+> O melhor do sertanejo em uma só playlist! Foto: Luan Santana, Henrique & Juliano
 
-71 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
+72 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [50 por Cento](https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [50 por Cento](https://open.spotify.com/album/0rSMQjWcNv9A4zD0XnTFR0) | 2:56 | 2022-03-18 |  |
+| [50 por Cento](https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [50 por Cento](https://open.spotify.com/album/0rSMQjWcNv9A4zD0XnTFR0) | 2:56 | 2022-03-18 | 2022-05-14 |
 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [A Maior Saudade \(Ao Vivo\)](https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW) | 3:10 | 2021-12-31 |  |
 | [ABALO EMOCIONAL \- Ao Vivo](https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY AVENIDA AMARILDO SANTANA \(Ao Vivo\)](https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF) | 2:33 | 2022-02-11 |  |
 | [Acordo \- Ao Vivo](https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Acordo \(Ao Vivo\)](https://open.spotify.com/album/1hG9khbERmeplVf0lTn6gm) | 2:49 | 2021-12-31 |  |
@@ -68,6 +68,7 @@
 | [Termina Comigo Antes](https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Termina Comigo Antes](https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq) | 3:07 | 2022-04-06 |  |
 | [Tesão Da Madrugada \- Ao Vivo](https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ao Vivo Em Brasília](https://open.spotify.com/album/6NM4daMHIA3uWxf2YjITpC) | 2:53 | 2022-02-18 |  |
 | [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 | 2021-12-31 |  |
+| [Todo Seu \- Ao Vivo](https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Todo Seu \(Ao Vivo\)](https://open.spotify.com/album/6tcIk5cJCa6xNtRUuTTBVB) | 2:51 | 2022-05-13 |  |
 | [Troca](https://open.spotify.com/track/6HV630GY0GT3RN2efFRmbP) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:51 | 2021-12-31 | 2022-04-29 |
 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 | 2021-12-31 |  |
 | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/track/5AOE9T63alCQtJrtDA78Z7) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Uma Ex \(Ao Vivo\)](https://open.spotify.com/album/5iuKDtXrKBoMqQubckDGoJ) | 3:38 | 2021-12-31 | 2022-03-24 |

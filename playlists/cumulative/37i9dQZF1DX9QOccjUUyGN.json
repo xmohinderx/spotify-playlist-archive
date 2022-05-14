@@ -550,6 +550,24 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o Bandido",
+        "url": "https://open.spotify.com/album/00h6Vs7uMmKu96V9X4FeG1"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129287,
+      "name": "Cora\u00e7\u00e3o Bandido",
+      "url": "https://open.spotify.com/track/7uP52LD0IufCPe49CVolqh"
+    },
+    {
+      "album": {
         "name": "Costa Rica",
         "url": "https://open.spotify.com/album/4de2UfVTb9cBH7W4Ov5RKl"
       },
@@ -723,7 +741,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 215510,
       "name": "Disney",
       "url": "https://open.spotify.com/track/1dQAO8j21BlJX4IImzAf7P"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 177230,
       "name": "HUGO BOSS",
       "url": "https://open.spotify.com/track/5G5P4zHSij8d744Rd8OYSG"
@@ -1129,6 +1147,32 @@
       "duration_ms": 134081,
       "name": "Lord",
       "url": "https://open.spotify.com/track/3xlr48QzAcZKdSLy8YNN2l"
+    },
+    {
+      "album": {
+        "name": "Luneta",
+        "url": "https://open.spotify.com/album/5Mnj12VlfA8hG7NPD92dte"
+      },
+      "artists": [
+        {
+          "name": "Nauta",
+          "url": "https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Luneta",
+      "url": "https://open.spotify.com/track/7LIti6cp8qgo3kBT4a0LEY"
     },
     {
       "album": {
@@ -1876,6 +1920,36 @@
     },
     {
       "album": {
+        "name": "Red Amarelo E Gin",
+        "url": "https://open.spotify.com/album/3Z0gMw7X5ilIkR9jU1xhXS"
+      },
+      "artists": [
+        {
+          "name": "Matheus Caettano",
+          "url": "https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1"
+        },
+        {
+          "name": "FRESH",
+          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+        },
+        {
+          "name": "Blakbone",
+          "url": "https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "Red Amarelo Gin",
+      "url": "https://open.spotify.com/track/7G2wejUD0vRvd9w6yh4A4C"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/3sn9P22zPZKbHmTknR3pe5"
       },
@@ -2157,7 +2231,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 134769,
       "name": "TypeBeat",
       "url": "https://open.spotify.com/track/1ZW7hF93RrPT3h0To3P79U"

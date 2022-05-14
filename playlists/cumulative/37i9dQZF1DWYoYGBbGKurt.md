@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-581 songs - 22 hr 39 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+586 songs - 22 hr 51 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Distances](https://open.spotify.com/track/6UMSnFNKH8Wb3PTZV5rQIE) | [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Distances](https://open.spotify.com/album/7wlGKkBInJWN8ZT7jVqlZa) | 1:56 | 2021-12-07 |  |
 | [Doheny](https://open.spotify.com/track/3RcDkbwL4XOWogbXNNUwm8) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [Doheny](https://open.spotify.com/album/1xMuWgzir5FVq37bWO4yNc) | 1:57 | 2021-12-07 |  |
 | [Don't Forget to Wave When You Travel Through Time](https://open.spotify.com/track/1dythBNXV6ipBtuCR0RIhH) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Don't Forget to Wave When You Travel Through Time](https://open.spotify.com/album/6D6hbw772nnGmvGVKlwFvW) | 3:27 | 2021-12-07 |  |
+| [Don't Go](https://open.spotify.com/track/2SlMdDwW0nJh9JXePcUCjk) | [Nivla](https://open.spotify.com/artist/3VkGnJN59AU5YmXltksYR5) | [Don't Go](https://open.spotify.com/album/3GocXZm5vghvOtFneyfc45) | 1:48 | 2022-05-13 |  |
 | [Dotters](https://open.spotify.com/track/4dAbCuNehX0eahmR3uXhpD) | [Cerwen](https://open.spotify.com/artist/2pA1nFe7eguaXTSRXCWme5) | [Dotters](https://open.spotify.com/album/7xkt4hWZcUg5N4qxWxC0n0) | 2:37 | 2021-12-07 |  |
 | [Dove](https://open.spotify.com/track/1fwUMTDD8Xsf5JlDtr3xlN) | [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU), [berj](https://open.spotify.com/artist/7xR93JftiLRnLgZfKwD4Oi) | [Dove](https://open.spotify.com/album/1OYBlHR9P8DVNdMiAfMeNw) | 2:30 | 2022-05-13 |  |
 | [Down Low](https://open.spotify.com/track/2gk9WoFm0fbQxEWO6Btm5J) | [typographicc](https://open.spotify.com/artist/33yCrt6g1gckis4sCmxfzC) | [Down Low](https://open.spotify.com/album/7aHttJeGMlG3mgontkrnNP) | 2:16 | 2021-12-07 |  |
@@ -198,6 +199,7 @@
 | [Firefly](https://open.spotify.com/track/4sY1ri9amyG88d6pt4ao9C) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Beats In The Streets](https://open.spotify.com/album/3k2KcTV0MVcdSBRirdK4HU) | 1:12 | 2021-12-07 |  |
 | [Fireplace](https://open.spotify.com/track/4G6LvFbZthvRaYjsNMUEDi) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [Fireplace](https://open.spotify.com/album/4xmBteg8ZM4xKxHBT0oMq5) | 1:48 | 2022-04-08 |  |
 | [Fireside Patio](https://open.spotify.com/track/5NTL19CSAlnx8vygMevuf9) | [Mask the Man](https://open.spotify.com/artist/2oBRQMRQ4B3A0jovCWaJxC) | [Moraga](https://open.spotify.com/album/21ZbYn81zkSEFh7EHu4fxQ) | 1:59 | 2021-12-07 |  |
+| [first rays of light](https://open.spotify.com/track/7LIFJvNlXh7Bdzu7JHIU4e) | [Nosllyah](https://open.spotify.com/artist/0bzL30yrC2B9SMa1dcrRvl), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [first rays of light](https://open.spotify.com/album/0jNSDHHgaoAd6GzcZXqCzp) | 2:32 | 2022-05-13 |  |
 | [Flippant](https://open.spotify.com/track/3NKlu0qfwPt55dmaWBHQIq) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Flippant](https://open.spotify.com/album/2qnYGVaRprhma6n88eF4Yp) | 2:21 | 2021-12-07 |  |
 | [Float n Flutter](https://open.spotify.com/track/2TypGPFyLoIbLDInw8ddD5) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Float n Flutter](https://open.spotify.com/album/6x5U1UCPqcD4BPfN2x7c7t) | 3:32 | 2021-12-07 |  |
 | [Floating](https://open.spotify.com/track/2uFzIxt7J5OpLC5nRagdAk) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Floating](https://open.spotify.com/album/1R7eubUnpwUVU7iV5SFG67) | 3:06 | 2021-12-07 |  |
@@ -312,6 +314,7 @@
 | [Lonely Boy](https://open.spotify.com/track/7uUHvMv1aCOYWbt2YYCZEJ) | [Hektoor](https://open.spotify.com/artist/3a9L5KQZtwvdJp8rECooRC) | [Lonely Boy](https://open.spotify.com/album/29Tx5FY3iqxgSTK54JwTcS) | 2:36 | 2021-12-07 |  |
 | [Lonesome](https://open.spotify.com/track/4lV7chcdj3OH3Hg97L7Rli) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Lonesome](https://open.spotify.com/album/5iO1n0DfhbvzySEYCGZqyn) | 2:35 | 2021-12-07 |  |
 | [Longing Beats](https://open.spotify.com/track/2S8x2UmgZFqGNPQxe2zLL4) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Longing Beats](https://open.spotify.com/album/1GuLPS3yf1YOdrpnweE0b9) | 2:22 | 2022-02-16 |  |
+| [looking for her](https://open.spotify.com/track/3NgO5ePtks9n4zE5lrt6X5) | [Kaiyo](https://open.spotify.com/artist/03J6WM7FvOQZfszAVknxVs) | [looking for her](https://open.spotify.com/album/7aGYnGJQ3tm1CSuQBkPUrU) | 2:40 | 2022-05-13 |  |
 | [los beachos](https://open.spotify.com/track/3ZVLP49KrKZakJz9w55ef7) | [Lobby Lingu!n!](https://open.spotify.com/artist/3PmqglMO0kO7kkmhGHrxkv) | [los beachos](https://open.spotify.com/album/2ZzWNf6dEX51b6RHlgnFEe) | 2:12 | 2021-12-07 |  |
 | [Lose Her Way](https://open.spotify.com/track/66wRvQClRbHDnb3n1kOoHw) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [LA BOHÈME](https://open.spotify.com/album/4TWjLoJA3NMrJOjybf2feX) | 2:20 | 2022-04-08 |  |
 | [Lost in the Woods](https://open.spotify.com/track/1EcB1d4312bZha775c7woO) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:30 | 2021-12-07 |  |
@@ -407,6 +410,7 @@
 | [Pearl Dust](https://open.spotify.com/track/4HhZZZAtRufBXnJyPtf7uB) | [florentine](https://open.spotify.com/artist/7FLMLV8T9qJOkzGZArUAns) | [Pearl Dust](https://open.spotify.com/album/6CEev0dBhWl5ed27yrBEOL) | 2:28 | 2021-12-07 |  |
 | [pearls](https://open.spotify.com/track/0Kh41UU4vey50k23eMKkzu) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [pearls & the professor](https://open.spotify.com/album/34QnvaYVCWi8GS8oCIcUl4) | 2:10 | 2022-04-22 |  |
 | [Peninsula](https://open.spotify.com/track/3PXFeaY00P1xAFCTnxZwiD) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [peaceful weibs](https://open.spotify.com/album/3MpDoKBQOIuvE1AJDD7DPP) | 2:20 | 2021-12-07 |  |
+| [Perspective](https://open.spotify.com/track/4nVPW4PMjFfUKkgr4eQGBZ) | [Waves of Eden](https://open.spotify.com/artist/1uBLWZwzuDt25K4dTphqOD) | [Perspective](https://open.spotify.com/album/0dq55FNkf1R7trd8Nw45EV) | 1:55 | 2022-05-13 |  |
 | [Phobia](https://open.spotify.com/track/5KURpSGFPfnYuDLOBxtSwn) | [Eric Goldander](https://open.spotify.com/artist/271Et84OFD9kd3AHKbjoEz) | [Phobia](https://open.spotify.com/album/2H5jmEE6LTjdZCSYJr6mN6) | 3:01 | 2021-12-07 | 2022-04-08 |
 | [Playdew](https://open.spotify.com/track/6P6iIyHwCCHWC7IsRUV8Mp) | [Picky Vines](https://open.spotify.com/artist/05DroYv02C0y45iNlXCqXf) | [Playdew](https://open.spotify.com/album/1mbkGqUxjkGLOf7vEv2Ia5) | 2:21 | 2021-12-07 |  |
 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 | 2021-12-07 |  |
@@ -587,6 +591,7 @@
 | [X\-Girlfriend](https://open.spotify.com/track/40PFktBMJ3H7rjNDw279JJ) | [Bold Colors](https://open.spotify.com/artist/27CjBjeuWztVwxJgUroJ1u) | [X\-Girlfriend](https://open.spotify.com/album/01RmGnnmBaiW0mSE6WJ2Q1) | 2:11 | 2021-12-07 |  |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2021-12-07 |  |
 | [Yolofi](https://open.spotify.com/track/4nOTHXqmH2UEuvQaabWW5S) | [Digga Mindz](https://open.spotify.com/artist/3Lv7ncqaGnKo3E1z81unqU) | [Yolofi](https://open.spotify.com/album/0KAzECmokbzDwfQCYidVPk) | 2:06 | 2021-12-07 |  |
+| [You Might Miss These Days](https://open.spotify.com/track/3WoDI6W6JzmyT8Jke5rgUX) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [You Might Miss These Days](https://open.spotify.com/album/1wbyEWNJo8ZruBLJBT8bQw) | 3:15 | 2022-05-13 |  |
 | [Your Jacket Though](https://open.spotify.com/track/1uiK8qFJkHkC3OASMBPzvG) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Your Jacket Though](https://open.spotify.com/album/7FyNe1k7S2nSp34iszDkr2) | 2:58 | 2022-01-26 |  |
 | [Zeeez](https://open.spotify.com/track/6MKV08WI49nZjhC5nqzOvi) | [Dizzy Halos](https://open.spotify.com/artist/4qiOgE9uEz6UkqPEpUA6Md) | [Zeeez](https://open.spotify.com/album/47YQYybeQm0ZQEAYanjOu3) | 3:06 | 2021-12-07 |  |
 

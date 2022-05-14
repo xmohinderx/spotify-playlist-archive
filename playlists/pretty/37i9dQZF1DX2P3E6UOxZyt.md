@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 王ADEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,528 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,593 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [你啊你啊](https://open.spotify.com/track/3XZm6Oodp4jBnJUYe2lRSv) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp), [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [聲林之王第一季百萬金曲](https://open.spotify.com/album/0C8lOZOGO4wOu8NPyiyDuf) | 3:35 |
 | 60 | [GOTW](https://open.spotify.com/track/620ap2jKswOCcSmqzPIFAS) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [黃宣](https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 1:57 |
 
-Snapshot ID: `MTY1MjQwNDM3NiwwMDAwMDAwMGY4ZGEwYTA3M2Y3MjkxYzQzYWUzY2I3NGNmOWNkNjlj`
+Snapshot ID: `MTY1MjQ5MDk1NCwwMDAwMDAwMGY4ZGEwYTA3M2Y3MjkxYzQzYWUzY2I3NGNmOWNkNjlj`

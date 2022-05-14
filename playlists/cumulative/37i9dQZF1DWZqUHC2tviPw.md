@@ -4,7 +4,7 @@
 
 > Instrumental trap beats to boost your weight lifting workout.
 
-118 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+123 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Atonement](https://open.spotify.com/track/0WjgLeuHiksseRDpTkzLaN) | [informat](https://open.spotify.com/artist/3m1Pg8GiO4gJm97ZUNABLS) | [Atonement / Glimmer](https://open.spotify.com/album/1GskKvzQteddw6hlFRD8Jy) | 4:42 | 2021-11-11 |  |
 | [Audio Picasso](https://open.spotify.com/track/2MK4c1sVXnaRHhhfjCIAEP) | [mzet](https://open.spotify.com/artist/4bpq7LWyKylbYqwDgly14Y), [typico](https://open.spotify.com/artist/4e1Z2c8EJSfqh5a0hW7jyq) | [Lavanda](https://open.spotify.com/album/2eCYNfhTRAydtfh7j3WY45) | 2:49 | 2022-04-22 |  |
 | [BandMan](https://open.spotify.com/track/6Sbx6Ma3X6YYFavy1UHL7z) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Energizer](https://open.spotify.com/album/04eOFB9yAJwn7bj5MnMFQ3) | 2:20 | 2021-11-11 |  |
-| [Bill It](https://open.spotify.com/track/4fLhfwGir9leGtBN742RJI) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Bill It](https://open.spotify.com/album/013JmnMUEgURcoddmus2ZR) | 2:51 | 2021-11-11 |  |
+| [Bill It](https://open.spotify.com/track/4fLhfwGir9leGtBN742RJI) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Bill It](https://open.spotify.com/album/013JmnMUEgURcoddmus2ZR) | 2:51 | 2021-11-11 | 2022-05-14 |
 | [Bottomless](https://open.spotify.com/track/2z1BzTxjbkZONWcC31dB7o) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Bottomless](https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY) | 2:12 | 2021-11-11 |  |
 | [Brutal Wishes](https://open.spotify.com/track/7yM1bz379moGe4Plh82580) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Brutal Wishes](https://open.spotify.com/album/2u7BOJPweym8fbSgqOGw9k) | 2:40 | 2022-02-16 |  |
 | [Bunny Mafia](https://open.spotify.com/track/5lTmF6RDdyd45RIrDgfV22) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Bunny Mafia](https://open.spotify.com/album/2ZmJCjus4JrcC10CqvG0a5) | 1:44 | 2021-11-11 |  |
@@ -49,6 +49,7 @@
 | [Half Way](https://open.spotify.com/track/7nVLCGdcpIWaAizdRRvmKG) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/0zb0u64c1aQOSRh7zLxoMT) | 2:56 | 2022-04-22 |  |
 | [Hometown](https://open.spotify.com/track/7nX4292m7E2yXft3H1aDp5) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Hometown](https://open.spotify.com/album/5YDHV478MEMicxIVbePEdy) | 2:05 | 2021-11-11 |  |
 | [Hovercraft](https://open.spotify.com/track/0KMR1u19KzGTtRxc6N7FCZ) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:30 | 2021-11-11 |  |
+| [I Wanna Say Something](https://open.spotify.com/track/5fWRBWN2TkGGnYXvZrPjgK) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [You Can Not Lie](https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr) | 2:07 | 2022-05-13 |  |
 | [I Won](https://open.spotify.com/track/0FwGhS0DqxoIztkWFeKHfq) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:14 | 2022-04-08 |  |
 | [illest](https://open.spotify.com/track/0WeWBCsBEnOSpFed1c6jEB) | [AbRaw](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Absolutely Raw, Vol\. 3](https://open.spotify.com/album/6kXplzzREhFsN4m8HHAO8t) | 2:46 | 2021-11-11 |  |
 | [Incredulous](https://open.spotify.com/track/3tsHNJMRKVMIGe4hxCiVLN) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93), [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Incredulous](https://open.spotify.com/album/7yWfqhExEhTHRnpNWNy7bY) | 2:11 | 2021-11-11 |  |
@@ -61,6 +62,7 @@
 | [Lone Time](https://open.spotify.com/track/4VLNtvBPryNoSAa4EA1pHG) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Lone Time](https://open.spotify.com/album/7w2GVmp5BY8pxCZSvcEiM3) | 3:50 | 2021-11-11 |  |
 | [Lowkey Vibes](https://open.spotify.com/track/1ggZHmCBAMFqj673h6jApl) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Stole My Crown](https://open.spotify.com/album/5xNrBmPMd45A8VBkc4UBBS) | 2:57 | 2021-11-11 |  |
 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2021-11-11 |  |
+| [Maharajah](https://open.spotify.com/track/4NvKUG4KOeTmWvfAyEMDKM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [You Can Not Lie](https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr) | 2:25 | 2022-05-13 |  |
 | [Meeks](https://open.spotify.com/track/7BDKdMg5UVqxEtdYIxcTQg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Meeks](https://open.spotify.com/album/3VZoMKFFy6lG8ccNfe2DYm) | 2:28 | 2021-11-11 |  |
 | [Move Shady](https://open.spotify.com/track/5vmF2W4z3XlKwsRZpUpP1H) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Run Better Run](https://open.spotify.com/album/0Cwh08pbkSQEbdO6WqigTK) | 3:09 | 2021-11-11 |  |
 | [My Days](https://open.spotify.com/track/7KaZU6sgOOhnuFGBZx6gdb) | [Mishalle Vega](https://open.spotify.com/artist/7iijCT7QHLs2A1oK49ToiW) | [My Days](https://open.spotify.com/album/6T5MOLNV6KF0wI0gAmGVrh) | 3:12 | 2021-11-11 |  |
@@ -80,15 +82,17 @@
 | [PAN](https://open.spotify.com/track/2njSLjUu82lnvgSlZftXuF) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Poly](https://open.spotify.com/album/6DOrQ8NGjYVn9FmexHUf4U) | 2:51 | 2021-11-11 |  |
 | [Participation Trophy](https://open.spotify.com/track/4Nb76xnCM8UgKVAj9LqNZ2) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:07 | 2022-04-08 |  |
 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 | 2021-11-11 |  |
+| [Probiotic.](https://open.spotify.com/track/3ZUuqfhDap5imYc1Jk94sL) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Probiotic.](https://open.spotify.com/album/6OzyRp3FhRgYwjhsCFn7Rv) | 2:28 | 2022-05-13 |  |
 | [PSYCHOSIS](https://open.spotify.com/track/04Levb9UGVWqOrnkzZFTv1) | [Azide](https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [mark veins](https://open.spotify.com/artist/5Rt7OtfJpjne2jW8qy9Kcz) | [PSYCHOSIS](https://open.spotify.com/album/2UQSwIYGVqqL0H4XtmhVAy) | 3:10 | 2022-04-08 |  |
-| [Quantum](https://open.spotify.com/track/204YRFBt8bmTHvSepEvjvO) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Quantum](https://open.spotify.com/album/2N7Y2ecrZBLIBZgSJ8zmuh) | 2:24 | 2021-11-11 |  |
+| [Quantum](https://open.spotify.com/track/204YRFBt8bmTHvSepEvjvO) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Quantum](https://open.spotify.com/album/2N7Y2ecrZBLIBZgSJ8zmuh) | 2:24 | 2021-11-11 | 2022-05-14 |
 | [Respect Me](https://open.spotify.com/track/5lq2h9XA6dzKM567SVXuWR) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Call Me A Cab](https://open.spotify.com/album/5OYvzMi4M9wW3NMQXOcdXe) | 2:58 | 2021-11-11 |  |
 | [Roddy](https://open.spotify.com/track/0BfTbisZxX8U0sly9fA5CW) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Roddy](https://open.spotify.com/album/4h1XpHRfiBXd3pdnWI5tuZ) | 2:22 | 2021-11-11 |  |
 | [Rooftop](https://open.spotify.com/track/6849JqU4mi9w90w8pQABt9) | [Prashant!](https://open.spotify.com/artist/4CjSeBGPPvu2DXCVdN8gK2) | [Vol\. \#002](https://open.spotify.com/album/3klKcK3sSrrynypVWQsa7P) | 2:17 | 2021-11-11 |  |
 | [Ruckus](https://open.spotify.com/track/6MzW9oJ3r8KCMeV2Wzm9dO) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Ruckus](https://open.spotify.com/album/5ZsU2rXahZTemj5k2pwvHQ) | 2:29 | 2021-11-11 |  |
 | [Run the Clock](https://open.spotify.com/track/0pxBhlNZA6sOd3ByHBVzFI) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Run The Clock](https://open.spotify.com/album/7cl7Iy6MGnMA7WNa3zt2nK) | 2:05 | 2022-03-29 |  |
 | [running out of time](https://open.spotify.com/track/0e6UrhLAH2lnNe6zdlUTBN) | [NON](https://open.spotify.com/artist/2QFuIA3uFMQAidzZe9x3Bw) | [future](https://open.spotify.com/album/0sH4ZqrqNsEqUWBtc34EaS) | 2:48 | 2021-11-11 |  |
-| [Sierra](https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Sierra](https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07) | 4:27 | 2021-11-11 |  |
+| [Scam](https://open.spotify.com/track/0UCx2yz0P5Am3tDEZMlaLR) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Scam](https://open.spotify.com/album/31MjbJLu4imw8ZWNRjQk5I) | 2:46 | 2022-05-13 |  |
+| [Sierra](https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3) | [Elias Riots](https://open.spotify.com/artist/3qEtWl4Gv3BvU2a6s2bJNy) | [Sierra](https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07) | 4:27 | 2021-11-11 | 2022-05-14 |
 | [Silver Lining](https://open.spotify.com/track/49hqLCrBX4CnAkEM0iclaO) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Silver Lining](https://open.spotify.com/album/1rCa089W6ZFhIcpVzw4tCJ) | 2:29 | 2021-11-11 |  |
 | [SMOKE BREAK](https://open.spotify.com/track/3CPtS5vGos6uIlYf0Nqc4L) | [NIGHTSHOW](https://open.spotify.com/artist/3eO8RkSNmOmPFIRXP6i1S8) | [SMOKE BREAK](https://open.spotify.com/album/1EjwtUUR8Ju58b9UUQiD4v) | 3:19 | 2021-11-11 |  |
 | [Snack Bar](https://open.spotify.com/track/3NaAiO0oBCWkRVFtSQ6j0F) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Don’t Be Afraid to Fly](https://open.spotify.com/album/1mEhFmt5gqiD1s0CLw0sKL) | 3:02 | 2021-11-11 |  |
@@ -109,7 +113,7 @@
 | [Theatre of Pain](https://open.spotify.com/track/4HJZ9XyTSyHJZFQ9guS73G) | [Sarach](https://open.spotify.com/artist/50NbkaTw0JbpYCMyHvAfIM), [baru](https://open.spotify.com/artist/1F8qMVXNHlvxGFkHLdWvvL) | [Theatre of Pain](https://open.spotify.com/album/60fmULUN0FdC2gjdKZT5kI) | 2:34 | 2021-11-11 |  |
 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 | 2021-11-11 |  |
 | [There](https://open.spotify.com/track/3QVT6KNsMdDK1FvHeSGRiC) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [Beat Tape, Vol\. 1 / Mentally, I'm Here](https://open.spotify.com/album/3QqAwG3j81xnL6SZVIGlG3) | 1:46 | 2021-11-11 |  |
-| [Thumper](https://open.spotify.com/track/0OJXVsWLjCsDf6MPPOV06V) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Yonder](https://open.spotify.com/album/6c22saRNvPPwqdZhz9TfAB) | 2:39 | 2021-11-11 |  |
+| [Thumper](https://open.spotify.com/track/0OJXVsWLjCsDf6MPPOV06V) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Yonder](https://open.spotify.com/album/6c22saRNvPPwqdZhz9TfAB) | 2:39 | 2021-11-11 | 2022-05-14 |
 | [Took It Too Far](https://open.spotify.com/track/1B9mJ0e6rKVfUUi5nCvvim) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [To The Factory](https://open.spotify.com/album/4nvHLzp2CInKEzvz8QTquQ) | 2:56 | 2021-11-11 |  |
 | [Top of the Line](https://open.spotify.com/track/0hozPW69A9O8m8SDSeeHRY) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Top of the Line](https://open.spotify.com/album/4YZJrAvoRBtb6KvektTwz0) | 2:46 | 2022-02-16 |  |
 | [Trapped](https://open.spotify.com/track/0Z1dHxSujWwG84iW25NtEd) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/0o3NCtLP4nGD0qWjhioJcM) | 3:53 | 2021-11-11 |  |
@@ -126,5 +130,6 @@
 | [Wolfgang](https://open.spotify.com/track/3DyOBWuPDKv5u0g8VHgEQ2) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Wolfgang](https://open.spotify.com/album/656LYnVJyuOcoiZbfhk468) | 2:28 | 2021-11-11 |  |
 | [Wonderland](https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [Wonderland](https://open.spotify.com/album/3dL5EuR6gRlgWhmMbWId0i) | 4:03 | 2021-11-11 |  |
 | [You Say It's Easy](https://open.spotify.com/track/76H1wnU1AwWjQ2tWKeG1xg) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Love for Drill](https://open.spotify.com/album/5ilOUMe6p4roT9ZViobEC6) | 2:28 | 2022-04-08 |  |
+| [Youngin](https://open.spotify.com/track/2H5QkzvbIFTxZdpZ1fyXvb) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW), [Kutoff](https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv) | [Youngin](https://open.spotify.com/album/6N36NlLcGlAC3MIEc353Pc) | 2:42 | 2022-05-13 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

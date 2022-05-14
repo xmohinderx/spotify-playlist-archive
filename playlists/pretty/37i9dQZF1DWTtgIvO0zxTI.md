@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Micro TDH, Jerry Di, Big Soto, ADSO, Akapellah
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,809 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,849 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [EN SOLEDAD \(feat\. ADSO, Akapellah\)](https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:22 |
 | 2 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
-| 3 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
-| 4 | [Que Casualidad](https://open.spotify.com/track/1KWkxmwXF5DhXBq5AQKq3g) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Que Casualidad](https://open.spotify.com/album/3mlskUKbcLhzPrBWrRl2BV) | 2:48 |
-| 5 | [Veneno](https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:42 |
-| 6 | [MARGARITA](https://open.spotify.com/track/308riuOIFK07a1PV34B0rt) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [MARGARITA](https://open.spotify.com/album/1eyhaoTknvItzUpYYLmx6S) | 2:08 |
-| 7 | [Flixi Flaxi](https://open.spotify.com/track/23UgOgqI6cmSzCy5denhXU) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Flixi Flaxi](https://open.spotify.com/album/5kIvpNW9CkRnEINlt9xKPT) | 3:28 |
+| 3 | [Relación](https://open.spotify.com/track/28U2VaH8PflE2peJ0f9wZp) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Relación](https://open.spotify.com/album/0UA6rWr1ZXfv9aBR94Hx4g) | 3:55 |
+| 4 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
+| 5 | [Que Casualidad](https://open.spotify.com/track/1KWkxmwXF5DhXBq5AQKq3g) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Que Casualidad](https://open.spotify.com/album/3mlskUKbcLhzPrBWrRl2BV) | 2:48 |
+| 6 | [Veneno](https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:42 |
+| 7 | [MARGARITA](https://open.spotify.com/track/308riuOIFK07a1PV34B0rt) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [MARGARITA](https://open.spotify.com/album/1eyhaoTknvItzUpYYLmx6S) | 2:08 |
 | 8 | [Los Tweets](https://open.spotify.com/track/1Jh7skKg0LaCQHGXRtLf2g) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Los Tweets](https://open.spotify.com/album/4Rrdn0CXxUWpiCQqssrdRX) | 2:37 |
 | 9 | [DCDT](https://open.spotify.com/track/1apSC9rsvoo2vJfeFCrHvp) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [DCDT](https://open.spotify.com/album/4bccskjZqHXf82lnKVsjeK) | 2:12 |
 | 10 | [No La Supero](https://open.spotify.com/track/0PPytieW95AdNjJjJRiGMI) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx) | [No La Supero](https://open.spotify.com/album/1rvtmnEsnjJZRmAoq841ux) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 59 | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/track/11jJjmMgj3vNPwuhzEQSC7) | [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/album/2bzpJ4PL5yf9kExI3Wdk8A) | 3:10 |
 | 60 | [Orilla](https://open.spotify.com/track/59b7OCoDnL1r6JhUCcNrr7) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX) | [Orilla](https://open.spotify.com/album/7kp7K3pDWv9sj95dLONEdy) | 3:29 |
 
-Snapshot ID: `MTY1MjMwNjE3MSwwMDAwMDA0NDAwMDAwMTgwYjUxZjU3NWEwMDAwMDE4MGI1MWI5NzVm`
+Snapshot ID: `MTY1MjQxODAwMCwwMDAwMDA0NTAwMDAwMTgwYmJjOWI3NjEwMDAwMDE4MGI1MWI5NzVm`

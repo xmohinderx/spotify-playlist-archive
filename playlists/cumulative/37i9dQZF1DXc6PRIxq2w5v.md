@@ -2,9 +2,9 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN, Bia Jordão
+> Entre os versos e beats, a palavra do Senhor\. Foto: Brunno Ramos, SAMUÉU
 
-81 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
+83 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Eia! Tudonovo Dinovo](https://open.spotify.com/track/5Y15BjqMlB5r5NzZcrCDcz) | [Mano Galax](https://open.spotify.com/artist/0QMJv6W3ocdcakAf046ttI), [Tio Rique](https://open.spotify.com/artist/3FAHTB6HyngsQQulTpFaAj), [DH Cwb](https://open.spotify.com/artist/6HTktTslG42fLbTcASjIYs) | [Eia! Tudonovo Dinovo](https://open.spotify.com/album/64LQmeX15V0zZea3gy6DFb) | 4:30 | 2022-03-22 | 2022-04-02 |
 | [Ele Vem](https://open.spotify.com/track/4U3NUh207OPeD3Lbu1N3MY) | [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Ele Vem](https://open.spotify.com/album/560mCdX9QL3CXea1KiWIKo) | 3:19 | 2022-04-01 |  |
 | [Ele É Deus Em Mim](https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Kivitz](https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:54 | 2022-03-22 |  |
+| [Em Cima da Laje](https://open.spotify.com/track/19NTfE8rbj61JC7BRyRdfb) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Em Cima da Laje](https://open.spotify.com/album/4QJJR3ExxmcUEo8SAjdhVd) | 2:49 | 2022-05-13 |  |
 | [Em Tuas Asas](https://open.spotify.com/track/5p8Hy2lECnF6RzHushgBne) | [ministerio filhos do leao](https://open.spotify.com/artist/3pUAuyDaZG6Hth857nRNQy) | [Em Tuas Asas](https://open.spotify.com/album/3fkPLgF4UnWYNHOazHYzYr) | 3:47 | 2022-03-22 | 2022-04-02 |
 | [Entre a Cruz e a Espada](https://open.spotify.com/track/1oIWb7BQVHOQooiQScZUL8) | [Kalebe Pacheco](https://open.spotify.com/artist/4O9AEp24Ozw6pNe89Cl2vZ), [Kolli](https://open.spotify.com/artist/6TdB9Tq21brBwYzP6GxlaV) | [Entre a Cruz e a Espada](https://open.spotify.com/album/0qH63y4wZrzdD1MVF1SuyN) | 2:47 | 2022-03-22 | 2022-03-26 |
 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 | 2022-04-29 |  |
@@ -40,6 +41,7 @@
 | [Flow Priscilla Alcantara](https://open.spotify.com/track/1Iie8GONZ72JmBA4Oq5Y49) | [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r) | [Flow Priscilla Alcantara](https://open.spotify.com/album/4bMXliHXjPUlmwGjqchLtx) | 3:34 | 2022-03-22 |  |
 | [Flow Rei Davi](https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Flow Rei Davi](https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7) | 1:58 | 2022-03-22 |  |
 | [Fogo](https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fogo](https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63) | 2:40 | 2022-03-25 |  |
+| [Gospel Playground](https://open.spotify.com/track/0Yq4ih2o7CdgP40g5Sqdic) | [Azorap](https://open.spotify.com/artist/6GGonHdpnl32PMkGKpV4mE), [AfroRagga](https://open.spotify.com/artist/3rA5mfURBk7U3O4bjt3kV0) | [Gospel Playground](https://open.spotify.com/album/75Vtuqs4tWoYRQ5mUDZKtZ) | 3:44 | 2022-05-13 |  |
 | [Grão de Areia \(feat\. Adhemar de Campos\)](https://open.spotify.com/track/7MFUS8HSQYU54uZeinq8l8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Grão de Areia \(feat\. Adhemar de Campos\)](https://open.spotify.com/album/27ieajaQCF46pGILC5VUdS) | 4:18 | 2022-03-22 |  |
 | [Habita em Mim](https://open.spotify.com/track/7fg2MiYeWQGg2IHLdGx4Ou) | [NOLIPE](https://open.spotify.com/artist/74Va1JZHMJVBrIvW7u3oYa), [Channel Records 01](https://open.spotify.com/artist/1KHMO8fUZgDYz5aQh6QCG4) | [Habita em Mim](https://open.spotify.com/album/7AvcxdvrJaNsbR12g37P5o) | 2:22 | 2022-03-22 | 2022-04-27 |
 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 | 2022-03-22 |  |
@@ -78,7 +80,7 @@
 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 | 2022-04-26 |  |
 | [SEM MENTIRAS](https://open.spotify.com/track/1bsCdxcSHy1hqThOUJoEwr) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [SEM MENTIRAS](https://open.spotify.com/album/3FpPTJhEECVWMupYLvNALK) | 2:24 | 2022-03-22 |  |
 | [Simplesmente](https://open.spotify.com/track/1c5wTJOqlUgPv4zGo9hiWJ) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Simplesmente](https://open.spotify.com/album/1ZNKLZueRCB0Untilh6Muv) | 3:42 | 2022-03-22 |  |
-| [Somos Somas](https://open.spotify.com/track/3b5fgFO5I5Nry6IyLKNJDL) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Eólico Vapor](https://open.spotify.com/album/4oFtfz9PbciRua5exHsMsa) | 3:10 | 2022-03-22 |  |
+| [Somos Somas](https://open.spotify.com/track/3b5fgFO5I5Nry6IyLKNJDL) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Eólico Vapor](https://open.spotify.com/album/4oFtfz9PbciRua5exHsMsa) | 3:10 | 2022-03-22 | 2022-05-14 |
 | [Terra Prometida](https://open.spotify.com/track/2HNTWEJx0FtU6UQfT01VR1) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Zack Vox](https://open.spotify.com/artist/0y7p9FFFrFIHUfSgaeF9hR), [Marcin](https://open.spotify.com/artist/7aqyet29QYmprf0i3n9kqU), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Terra Prometida](https://open.spotify.com/album/3JQ0qcFa7gDWy2MULfJ1RY) | 3:13 | 2022-03-22 |  |
 | [Tudo é Vaidade](https://open.spotify.com/track/41ANYmZivPDB6dnknCZu9Z) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP), [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg) | [Tudo é Vaidade](https://open.spotify.com/album/0YPkRmLDiqXjcBdWt2tHm0) | 3:25 | 2022-03-22 |  |
 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH) | [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7), [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS) | 3:40 | 2022-03-22 |  |
@@ -88,6 +90,6 @@
 | [Você Sabe](https://open.spotify.com/track/27jTj00B4DJ0bNfiJPq4dL) | [Doze Project](https://open.spotify.com/artist/5SeJmolJVjYD3OvwBjU5ez), [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SevenRxni](https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X) | [Você Sabe](https://open.spotify.com/album/1dh9NENSgqanbE9PUe1WtH) | 3:04 | 2022-03-22 |  |
 | [Xaxaxa](https://open.spotify.com/track/7cK0cV8Hw5KD3F6EuS81qU) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Xaxaxa](https://open.spotify.com/album/30tzDIMQYDXBvDLXJ7AETj) | 1:36 | 2022-04-26 |  |
 | [Águias](https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Águias](https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW) | 3:33 | 2022-03-22 |  |
-| [Êxodo Mental](https://open.spotify.com/track/4xQJZ7P1w28duY4IJu08kY) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Até O Final](https://open.spotify.com/album/0ikC2XTMDa5dzL5BJ3nnni) | 3:06 | 2022-04-26 |  |
+| [Êxodo Mental](https://open.spotify.com/track/4xQJZ7P1w28duY4IJu08kY) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r) | [Até O Final](https://open.spotify.com/album/0ikC2XTMDa5dzL5BJ3nnni) | 3:06 | 2022-04-26 | 2022-05-14 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

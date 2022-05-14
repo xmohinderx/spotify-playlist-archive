@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-632 songs - 1 day 10 hr 45 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+633 songs - 1 day 10 hr 49 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,7 @@
 | [Sucré Salé](https://open.spotify.com/track/4zYbjpZN7B298nBrKbXeyr) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/4Dtmqw1CiozN3bFYyiuuZj) | 2:20 | 2021-10-28 | 2022-04-10 |
 | [Sucré Salé](https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/0sTkDmqOGFrx2bI3ilkHYS) | 2:20 | 2022-05-03 |  |
 | [Sweet Love](https://open.spotify.com/track/7uaqadBbf5SF5GUeann9OS) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:09 | 2021-05-09 | 2021-05-15 |
-| [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-30 |  |
+| [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-30 | 2022-05-14 |
 | [T\-max 560](https://open.spotify.com/track/3t3ffqI2DxrrAawarNtwGw) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:58 | 2021-11-28 | 2021-11-30 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-10 |
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
@@ -584,6 +584,7 @@
 | [UGH!](https://open.spotify.com/track/2QZe2H1f03t5PJWEMg2Mbe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:45 | 2022-02-25 | 2022-02-27 |
 | [UN RÊVE ÉTRANGE](https://open.spotify.com/track/0L1JUpc6bjrBvK9pqMTGcb) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:56 | 2021-07-18 | 2021-07-19 |
 | [Uno](https://open.spotify.com/track/5uGCH8QGnH3n2i7KD7ROPb) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 2:24 | 2021-03-29 | 2021-04-02 |
+| [Unstoppable](https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:37 | 2022-05-13 |  |
 | [Utopia](https://open.spotify.com/track/5ewTd1u8Z7jzF0bMJ5rd9O) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 2:53 | 2021-04-18 | 2021-04-19 |
 | [Vamos](https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Vangogh](https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j) | 2:49 | 2021-10-11 | 2021-12-04 |
 | [Vampire](https://open.spotify.com/track/2spvq2DukUWM6LAF1DjrNk) | [Skaymen](https://open.spotify.com/artist/1U9LphshaB4FShZbi7dWOq) | [Vampire](https://open.spotify.com/album/3Aazup9UJxFVgAEzajqxul) | 2:54 | 2021-05-25 | 2021-07-11 |

@@ -4,7 +4,7 @@
 
 > n3xt l3v3l beats.
 
-123 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
+124 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Force For Good](https://open.spotify.com/track/1hsjVfesh0OmNUVR22FoSW) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Force For Good](https://open.spotify.com/album/6a8iGSnoU0xLvNEiFRbmAe) | 2:48 | 2022-04-22 |  |
 | [Free Snacks](https://open.spotify.com/track/6dDQqJL7cYfeYmFzBFcGXr) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6), [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Free Snacks](https://open.spotify.com/album/5JClcgCx1zjbTpzMCDBY2o) | 2:33 | 2022-04-22 |  |
 | [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-22 |  |
+| [Fromage Frais](https://open.spotify.com/track/6VhMdls0mTxYlMj62ZVGK8) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [Fromage Frais](https://open.spotify.com/album/4r833ilfTlysiJbHPxN79J) | 2:31 | 2022-05-13 |  |
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2022-04-22 |  |
 | [Glo\-Fi](https://open.spotify.com/track/2RB4NyJ2YyeosBAFZCjAb5) | [Little Green Dot](https://open.spotify.com/artist/0Tuzcf3XyorC725ZtcQRoK) | [Glo\-Fi](https://open.spotify.com/album/17vTmYvfvLzHGHEaAFsvkC) | 3:10 | 2022-04-22 |  |
 | [Handprints](https://open.spotify.com/track/1gJrZGrE3RZ8HhS45OuqTq) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Handprints](https://open.spotify.com/album/5hAgnNl3k9ZxYsK1131fbd) | 1:14 | 2022-04-22 |  |

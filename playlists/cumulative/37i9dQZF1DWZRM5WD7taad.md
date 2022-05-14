@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Snow Tha Product
 
-90 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+91 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Entes](https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Entes](https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA) | 4:19 | 2022-04-14 |  |
 | [Espacio](https://open.spotify.com/track/63FlJhCXIrBRvw93XKsbyn) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Espacio](https://open.spotify.com/album/4e2aY5NFttjRbJHCg3gNSs) | 3:37 | 2021-12-13 |  |
 | [Experiencia](https://open.spotify.com/track/2rOGiQFlSp7CK3MhYruYxf) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Experiencia](https://open.spotify.com/album/2C3NwN17FmCqXMDlzSMcnN) | 2:13 | 2021-12-13 |  |
+| [Eyeliner de Katana](https://open.spotify.com/track/1qXBSGhndWVt7RnOWBS78J) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Eyeliner de Katana](https://open.spotify.com/album/7yiB0Lc8603bb6mrz8SDJW) | 2:01 | 2022-05-13 |  |
 | [FREAKY](https://open.spotify.com/track/6TK7mdz3wlm45P5s0zeDSl) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [FREAKY](https://open.spotify.com/album/1dIzO2VMoz2AuyXbFt0FXH) | 2:30 | 2021-12-13 |  |
 | [Fuck You](https://open.spotify.com/track/2e4NdNHHR8gNWPMnMgQydk) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Fuck You](https://open.spotify.com/album/2nd8KGiesKxYRHgK7Rpqt4) | 3:24 | 2021-12-13 | 2022-02-04 |
 | [Historika](https://open.spotify.com/track/3zFa7TqRFNNZPjxJ1jkwkZ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/5OjA7BRUSj9msWXXRGQqsj) | 4:26 | 2021-12-13 |  |

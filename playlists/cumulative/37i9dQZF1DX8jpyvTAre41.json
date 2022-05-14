@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Three Days Grace",
+  "description": "The hottest tunes in rock. Crank it up! Cover: M\u00e5neskin",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 231099,
       "name": "Everything Is Fine",
       "url": "https://open.spotify.com/track/0yHW4dLXHVbIf3afzWs1gl"
@@ -1447,6 +1447,24 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "album": {
+        "name": "happily catastrophic",
+        "url": "https://open.spotify.com/album/25K22RrZtkDxnE6NX398xM"
+      },
+      "artists": [
+        {
+          "name": "Group Project",
+          "url": "https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "fading",
+      "url": "https://open.spotify.com/track/4uGFuFDW0lFWpXbscdNitI"
     },
     {
       "album": {
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 194419,
       "name": "FCKN IN LOVE",
       "url": "https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z"
@@ -1653,6 +1671,24 @@
       "duration_ms": 160203,
       "name": "Follow (Trans Lunar Ejector Maneuver)",
       "url": "https://open.spotify.com/track/2Yf5KsX3uhF8r5OKIv22Yv"
+    },
+    {
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
     },
     {
       "album": {
@@ -1793,7 +1829,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 240187,
       "name": "Gotta Stop",
       "url": "https://open.spotify.com/track/0eP70BH4qjAy7FbgkPCEBV"
@@ -2031,7 +2067,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 187956,
       "name": "Human Crime",
       "url": "https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4"
@@ -2197,7 +2233,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 228533,
       "name": "It Ain't Over",
       "url": "https://open.spotify.com/track/46NnMrWFwS0P6HyJ8tgNi8"
@@ -2545,7 +2581,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 212572,
       "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0vFzdbPUKZKZ9Xn9GfvIS7"
@@ -2653,7 +2689,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 176226,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e"
@@ -3492,6 +3528,28 @@
     },
     {
       "album": {
+        "name": "Out of My Head feat. Aaron Gillespie",
+        "url": "https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174031,
+      "name": "Out of My Head feat. Aaron Gillespie",
+      "url": "https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir"
+    },
+    {
+      "album": {
         "name": "Out Of Nowhere",
         "url": "https://open.spotify.com/album/0Em2mE2OHs8PpoUflSdoTc"
       },
@@ -3561,6 +3619,28 @@
       "duration_ms": 257812,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/6gGS0hjDNTPXlCowTPou0X"
+    },
+    {
+      "album": {
+        "name": "Past Life",
+        "url": "https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210662,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej"
     },
     {
       "album": {
@@ -3932,6 +4012,24 @@
     },
     {
       "album": {
+        "name": "Roadkill",
+        "url": "https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142507,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR"
+    },
+    {
+      "album": {
         "name": "Robot Writes A Love Song",
         "url": "https://open.spotify.com/album/37Xeof4HWLhxxvbKtWd4Re"
       },
@@ -4113,6 +4211,24 @@
       "duration_ms": 202183,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6A6rtRemncYRWtxjXaIPfw"
+    },
+    {
+      "album": {
+        "name": "Scarborough Street Fight",
+        "url": "https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270753,
+      "name": "Scarborough Street Fight",
+      "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
     },
     {
       "album": {
@@ -4390,6 +4506,24 @@
     },
     {
       "album": {
+        "name": "Spit It Out",
+        "url": "https://open.spotify.com/album/1KJA9YhgxH9AXymMoOoIsS"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246167,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/4aHOrIMyr64uSpXaNzvNFr"
+    },
+    {
+      "album": {
         "name": "FutureNever",
         "url": "https://open.spotify.com/album/4xRcGN63W9HPNugSZdiTn5"
       },
@@ -4409,6 +4543,24 @@
       "duration_ms": 218792,
       "name": "Stand 'Em Up (feat. What So Not)",
       "url": "https://open.spotify.com/track/7ABVV0XWwrlu47ktzYrVUs"
+    },
+    {
+      "album": {
+        "name": "Still Breathing",
+        "url": "https://open.spotify.com/album/5b5kRKvYp0DyO3idMNV3jY"
+      },
+      "artists": [
+        {
+          "name": "POESY",
+          "url": "https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193449,
+      "name": "Still Breathing",
+      "url": "https://open.spotify.com/track/4PEqiixbz0eTuPusho6AJn"
     },
     {
       "album": {
@@ -4435,6 +4587,24 @@
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
+    },
+    {
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "album": {
@@ -4690,6 +4860,24 @@
     },
     {
       "album": {
+        "name": "The Foundations of Decay",
+        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360760,
+      "name": "The Foundations of Decay",
+      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
+    },
+    {
+      "album": {
         "name": "The Funeral",
         "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
       },
@@ -4701,7 +4889,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 211197,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
@@ -5015,10 +5203,32 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 195837,
       "name": "Until I Come Home",
       "url": "https://open.spotify.com/track/0ZWfWytIwA7UwvB8oCNndU"
+    },
+    {
+      "album": {
+        "name": "Shape & Form",
+        "url": "https://open.spotify.com/album/7o6ZqDkitrak5YhaFGpcKV"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195837,
+      "name": "Until I Come Home",
+      "url": "https://open.spotify.com/track/1P9DNUQ4Hlt9sH4FqPKT9s"
     },
     {
       "album": {
@@ -5127,7 +5337,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare\u2019s Over)",
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
@@ -5199,7 +5409,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 177397,
       "name": "What, Me Worry?",
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
@@ -5260,6 +5470,24 @@
     },
     {
       "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "album": {
         "name": "Wild Child",
         "url": "https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb"
       },
@@ -5271,7 +5499,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"

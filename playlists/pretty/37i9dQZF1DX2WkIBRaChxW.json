@@ -1,15 +1,39 @@
 {
-  "description": "What's happening in R&B, right now. Cover: Ella Mai",
-  "num_followers": 350695,
+  "description": "What's happening in R&B, right now. Cover: Giveon",
+  "num_followers": 350742,
   "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDMzZDAwMDAwMTgwOTc4NjQzMzEwMDAwMDE4MDk2OTg5Y2U4",
+  "snapshot_id": "MTY1MjQxNDQ4MSwwMDAwMDMzZjAwMDAwMTgwYmI5NDA0YmUwMDAwMDE4MGJhYWU2NWU1",
   "tracks": [
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 329295,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
@@ -33,7 +57,23 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
@@ -53,23 +93,7 @@
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Lie Again",
-        "url": "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "Lie Again",
-      "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
@@ -89,7 +113,23 @@
       "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Lie Again",
+        "url": "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 187027,
+      "name": "Lie Again",
+      "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
@@ -105,7 +145,7 @@
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Please Do Not Lean",
         "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
@@ -125,10 +165,10 @@
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Another",
-        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
       },
       "artists": [
         {
@@ -136,12 +176,44 @@
           "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 152175,
-      "name": "Another",
-      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Don't Love Me",
+        "url": "https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Don't Love Me",
+      "url": "https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Cater",
         "url": "https://open.spotify.com/album/0BqROYpPqEkIGAerniqZNW"
@@ -161,27 +233,23 @@
       "url": "https://open.spotify.com/track/6itJR6bgCqET35rCJFnULf"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Good Morning Gorgeous (Deluxe)",
-        "url": "https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6"
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         }
       ],
-      "duration_ms": 273793,
-      "name": "Tough Love (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L"
+      "duration_ms": 176850,
+      "name": "Every Good Girl",
+      "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/6x4dhOka4HVr9hmXgQhWA9"
@@ -197,7 +265,7 @@
       "url": "https://open.spotify.com/track/5ChrCVSERccPyn3p2Clsum"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "No Love (with SZA & Cardi B) [Extended Version]",
         "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
@@ -221,7 +289,39 @@
       "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152175,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "duration_ms": 133671,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Leave You Alone",
         "url": "https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY"
@@ -237,7 +337,7 @@
       "url": "https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
@@ -253,7 +353,7 @@
       "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Out Of Time (Remix Bundle)",
         "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
@@ -273,7 +373,27 @@
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Too Much (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 215397,
+      "name": "Too Much (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
@@ -289,7 +409,7 @@
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
@@ -305,7 +425,7 @@
       "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "up at night (feat. justin bieber)",
         "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
@@ -325,23 +445,27 @@
       "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
+        "name": "Good Morning Gorgeous (Deluxe)",
+        "url": "https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 176850,
-      "name": "Every Good Girl",
-      "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
+      "duration_ms": 273793,
+      "name": "Tough Love (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "It's Not So Bad",
         "url": "https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9"
@@ -357,7 +481,7 @@
       "url": "https://open.spotify.com/track/5lI6k5j7a25q3IrtAEe0JF"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Get Home SAFE (Part 1)",
         "url": "https://open.spotify.com/album/2vbt2pexKBrcNcEOZ2ObA2"
@@ -373,7 +497,23 @@
       "url": "https://open.spotify.com/track/4R3WUzM7xXAIzT5HhH1DDw"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0DeHsr9I6BPcQEn3t3G5bh"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 166256,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6XubjZaYqg3x1AwZKCf2LO"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "D O D O (Adekunle Gold Version)",
         "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
@@ -393,7 +533,7 @@
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Milly",
         "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
@@ -413,7 +553,7 @@
       "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
@@ -433,7 +573,7 @@
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "What A Lie",
         "url": "https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4"
@@ -449,7 +589,7 @@
       "url": "https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn"
@@ -465,7 +605,7 @@
       "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Treat Me",
         "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
@@ -481,7 +621,7 @@
       "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
@@ -497,7 +637,7 @@
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "In The Club",
         "url": "https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs"
@@ -513,7 +653,7 @@
       "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Truly Yours (Remix) [feat. Phabo, The Game & DOM KENNEDY]",
         "url": "https://open.spotify.com/album/3AXVfL2BccgTmgwpORfoNs"
@@ -541,7 +681,7 @@
       "url": "https://open.spotify.com/track/3P12TuXblmoguQGSukKvQm"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "WE (Warm Embrace)",
         "url": "https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV"
@@ -557,7 +697,7 @@
       "url": "https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/3kAvLGkeU40IINgCQmkiUC"
@@ -577,7 +717,7 @@
       "url": "https://open.spotify.com/track/6K8qwbuUweQOdaErsNbdRc"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
@@ -597,7 +737,7 @@
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC"
@@ -613,7 +753,7 @@
       "url": "https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
@@ -633,7 +773,7 @@
       "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
@@ -653,7 +793,7 @@
       "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Closer (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/3nQQifh95U988ME5zJMSyi"
@@ -673,7 +813,7 @@
       "url": "https://open.spotify.com/track/1j4hUdpOJd5qIXN3LJeHjj"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
@@ -689,7 +829,7 @@
       "url": "https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx"
@@ -709,7 +849,7 @@
       "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
@@ -725,7 +865,7 @@
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
@@ -745,7 +885,7 @@
       "url": "https://open.spotify.com/track/3p2HpO3ZgvFs97L15hGZOn"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "From a Birds Eye View",
         "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
@@ -769,7 +909,7 @@
       "url": "https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Hate Our Love (with Big Sean)",
         "url": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
@@ -789,7 +929,7 @@
       "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
@@ -809,7 +949,7 @@
       "url": "https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
         "url": "https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu"
@@ -833,23 +973,7 @@
       "url": "https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Deserve It",
-        "url": "https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 193455,
-      "name": "Deserve It",
-      "url": "https://open.spotify.com/track/0rLfMI04PHRfoaGLcCh816"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
@@ -869,7 +993,7 @@
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
@@ -889,7 +1013,7 @@
       "url": "https://open.spotify.com/track/1VcORtwbt560HNpnDMyCCu"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "ALIEN",
         "url": "https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv"
@@ -909,7 +1033,7 @@
       "url": "https://open.spotify.com/track/7J9UCy56nirwKuf1IMYtE1"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
@@ -925,7 +1049,7 @@
       "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1"
@@ -945,27 +1069,7 @@
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Iced Tea",
         "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
@@ -985,27 +1089,7 @@
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "In The Dark (with Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/4hY1TaqQxOL2aBAWvAI111"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 161164,
-      "name": "In The Dark (with Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/4ZB2yAZyPHI6SHdFPPT9sa"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
@@ -1025,7 +1109,7 @@
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm"
@@ -1041,7 +1125,7 @@
       "url": "https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -1061,7 +1145,7 @@
       "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Confujawn (feat. Nija)",
         "url": "https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA"
@@ -1081,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "I Hate U",
         "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
@@ -1097,23 +1181,7 @@
       "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Late Nights With Jeremih",
-        "url": "https://open.spotify.com/album/6BaIJnFDztZfnTCxyJxAo4"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 184216,
-      "name": "Late Nights",
-      "url": "https://open.spotify.com/track/4Akv7im73zdPuVKwsiqhQS"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk"
@@ -1133,7 +1201,7 @@
       "url": "https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
@@ -1149,23 +1217,7 @@
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/7kNpJfdJrvzVZuwWvt2w0S"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 153396,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1hze2kmg5hKQjGOcHCE5OM"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Truth Be Told",
         "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
@@ -1185,7 +1237,7 @@
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "No Fuss",
         "url": "https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA"
@@ -1205,7 +1257,7 @@
       "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Smokin Out The Window",
         "url": "https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8"
@@ -1229,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
@@ -1245,7 +1297,7 @@
       "url": "https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Persuasive",
         "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
@@ -1261,7 +1313,7 @@
       "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y"
@@ -1281,7 +1333,7 @@
       "url": "https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Found (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
@@ -1301,27 +1353,7 @@
       "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "B. D\u2019OR (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "B. D\u2019OR (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB"
@@ -1341,23 +1373,7 @@
       "url": "https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "MERCEDES",
-        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 233069,
-      "name": "MERCEDES",
-      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/577SefILL1LFIbsOMP3lm1"
@@ -1377,7 +1393,7 @@
       "url": "https://open.spotify.com/track/4dmNBu6IEQahPJDlQQOY69"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Come For Me (Unlocked) (feat. Khalid & Lucky Daye)",
         "url": "https://open.spotify.com/album/4UVpvYlByfqhARos9od1Kc"
@@ -1399,42 +1415,6 @@
       "duration_ms": 209853,
       "name": "Come For Me (Unlocked) (feat. Khalid & Lucky Daye)",
       "url": "https://open.spotify.com/track/3iiHEQZV80feJ0RDzc1n6b"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Get Back (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 222168,
-      "name": "Get Back (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     }
   ],
   "unique_name": "R&B Right Now",

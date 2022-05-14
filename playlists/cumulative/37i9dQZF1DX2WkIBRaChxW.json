@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in R&B, right now. Cover: Ella Mai",
+  "description": "What's happening in R&B, right now. Cover: Giveon",
   "name": "R&B Right Now",
   "published_playlist_ids": [
     "1MI0QV708eM6TBitmgfhKB"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 189800,
       "name": "B. D\u2019OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 175319,
       "name": "Coastin\u2019",
       "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
@@ -624,6 +624,24 @@
     },
     {
       "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133671,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
+    },
+    {
+      "album": {
         "name": "Deserve It",
         "url": "https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO"
       },
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 193455,
       "name": "Deserve It",
       "url": "https://open.spotify.com/track/0rLfMI04PHRfoaGLcCh816"
@@ -719,6 +737,24 @@
       "duration_ms": 190056,
       "name": "Do I Ever (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv"
+    },
+    {
+      "album": {
+        "name": "Don't Love Me",
+        "url": "https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167019,
+      "name": "Don't Love Me",
+      "url": "https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY"
     },
     {
       "album": {
@@ -1145,7 +1181,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 222168,
       "name": "Get Back (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
@@ -1171,6 +1207,24 @@
       "duration_ms": 221979,
       "name": "Girls Want Girls (with Lil Baby)",
       "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0DeHsr9I6BPcQEn3t3G5bh"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166256,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6XubjZaYqg3x1AwZKCf2LO"
     },
     {
       "album": {
@@ -1535,7 +1589,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 161164,
       "name": "In The Dark (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/4ZB2yAZyPHI6SHdFPPT9sa"
@@ -1756,6 +1810,24 @@
     },
     {
       "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
+    },
+    {
+      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -1789,7 +1861,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 184216,
       "name": "Late Nights",
       "url": "https://open.spotify.com/track/4Akv7im73zdPuVKwsiqhQS"
@@ -2215,7 +2287,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 233069,
       "name": "MERCEDES",
       "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
@@ -2608,6 +2680,24 @@
     },
     {
       "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -2714,6 +2804,24 @@
     },
     {
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+    },
+    {
+      "album": {
         "name": "Pandemia",
         "url": "https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy"
       },
@@ -2801,7 +2909,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
@@ -2903,6 +3011,32 @@
       "duration_ms": 171092,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329295,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
     },
     {
       "album": {
@@ -3205,7 +3339,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153396,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1hze2kmg5hKQjGOcHCE5OM"
@@ -3707,6 +3841,28 @@
       "duration_ms": 203946,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2F8UhXCxJveJWAmUVKse5h"
+    },
+    {
+      "album": {
+        "name": "Too Much (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215397,
+      "name": "Too Much (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
     },
     {
       "album": {

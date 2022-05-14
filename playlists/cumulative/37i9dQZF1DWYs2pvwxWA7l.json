@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 189098,
       "name": "Ama Aje",
       "url": "https://open.spotify.com/track/56Pd4rsTqhPVuDP842AmHT"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 129544,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX"
@@ -576,6 +576,28 @@
     },
     {
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/697R2AlnzeIpEQBLDLpO9q"
+      },
+      "artists": [
+        {
+          "name": "Fully Focus",
+          "url": "https://open.spotify.com/artist/3cSXE6QoAmNGlvzR5hqG78"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/7F0Sf0Xx4SbwoB2tcbaolD"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/5mBvUoQKcjf7vXwiBSc30Z"
+    },
+    {
+      "album": {
         "name": "DKT",
         "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
       },
@@ -627,7 +649,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182500,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6W79tvE9ZPzHtV2wPwwGUT"
@@ -755,7 +777,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 186992,
       "name": "Fall",
       "url": "https://open.spotify.com/track/1z9QlqiV7MsrU4WBZAxsOA"
@@ -1271,7 +1293,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 197000,
       "name": "kolomental",
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
@@ -1409,7 +1431,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 167142,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC"
@@ -1675,7 +1697,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4"
@@ -2140,6 +2162,24 @@
     },
     {
       "album": {
+        "name": "Sapio-Medula",
+        "url": "https://open.spotify.com/album/5UqlwxwUB2lyCuFWBRqryI"
+      },
+      "artists": [
+        {
+          "name": "Phaemous",
+          "url": "https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "Sapio-Medula",
+      "url": "https://open.spotify.com/track/4O5EL0Ih7QTWDfU51XUGvB"
+    },
+    {
+      "album": {
         "name": "ZaZa Vibes",
         "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
       },
@@ -2463,7 +2503,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "S\u00e1r\u00e9",
       "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"

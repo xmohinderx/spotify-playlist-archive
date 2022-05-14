@@ -21,7 +21,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 268800,
       "name": "3 Dots",
       "url": "https://open.spotify.com/track/09iyiGsA1NJ8GCHiog5fyj"
@@ -101,7 +101,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 281379,
       "name": "All Night",
       "url": "https://open.spotify.com/track/12IfJhk5u4kPwtpOX3on1p"
@@ -141,7 +141,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 221992,
       "name": "Bad Fuel",
       "url": "https://open.spotify.com/track/2fbvCosDEffAxouICtikzL"
@@ -210,6 +210,36 @@
     },
     {
       "album": {
+        "name": "Buffalo Stance",
+        "url": "https://open.spotify.com/album/279KmGqbnhCOJ0ZSK7vUUO"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+        },
+        {
+          "name": "T95",
+          "url": "https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS"
+        },
+        {
+          "name": "Genetics",
+          "url": "https://open.spotify.com/artist/2TtirRFdqoWG9avOqFKGWI"
+        },
+        {
+          "name": "Miss Trouble",
+          "url": "https://open.spotify.com/artist/6pXPaQEZ2EyfxIRtf9JwyJ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318171,
+      "name": "Buffalo Stance",
+      "url": "https://open.spotify.com/track/5fq7ke9BlrOUkpfFNcuvFT"
+    },
+    {
+      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/35bk4rPp9c8t7wEmXgrBFU"
       },
@@ -229,6 +259,24 @@
       "duration_ms": 167441,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/3DZExPtWIJE8LPMCLpHGxK"
+    },
+    {
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/0zt4EHLME7GdrwS0n6qLBZ"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271724,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/15AT2NXU53dPGnS568xKEH"
     },
     {
       "album": {
@@ -269,7 +317,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 274292,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/2s2uRehkP1H5jqzwiiD8PI"
@@ -327,7 +375,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 256551,
       "name": "Epicentre",
       "url": "https://open.spotify.com/track/54GrWSvAB0WfzqD6HWGwLe"
@@ -365,6 +413,32 @@
       "duration_ms": 204342,
       "name": "Finesse Riddim",
       "url": "https://open.spotify.com/track/13Mgkz3Rk8t1XsMZ6JyIrG"
+    },
+    {
+      "album": {
+        "name": "Freak (Used Remix)",
+        "url": "https://open.spotify.com/album/1MCWIGoES5nxFBS2inrKRn"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Used",
+          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252342,
+      "name": "Freak - Used Remix",
+      "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
     },
     {
       "album": {
@@ -415,7 +489,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 267428,
       "name": "Grape",
       "url": "https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3"
@@ -481,7 +555,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 220800,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/6dOzrKH4AkC0QKVyhB7yBc"
@@ -503,7 +577,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 219428,
       "name": "Hurt - Kendrick Remix",
       "url": "https://open.spotify.com/track/2G7P0r5rDpLHheJ0IN2CYc"
@@ -547,6 +621,42 @@
       "duration_ms": 266399,
       "name": "Impulsive",
       "url": "https://open.spotify.com/track/2Nad5qEns5mquszOfuBVgn"
+    },
+    {
+      "album": {
+        "name": "Journey (VIP 2)",
+        "url": "https://open.spotify.com/album/3Ocehutu2kFyNmxrNLhWvN"
+      },
+      "artists": [
+        {
+          "name": "Complex",
+          "url": "https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224914,
+      "name": "Journey - VIP 2",
+      "url": "https://open.spotify.com/track/1JRjRDsjnBlJMaZ9xyRgXW"
+    },
+    {
+      "album": {
+        "name": "Kickons",
+        "url": "https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235862,
+      "name": "Kickons",
+      "url": "https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8"
     },
     {
       "album": {
@@ -597,10 +707,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 224921,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/13UCK8NNturjjCdAweLwGa"
+    },
+    {
+      "album": {
+        "name": "Lift Off The Roof",
+        "url": "https://open.spotify.com/album/2eKZy0pAKmXxlNxyBXND7v"
+      },
+      "artists": [
+        {
+          "name": "Justin Hawkes",
+          "url": "https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185086,
+      "name": "Lift Off The Roof",
+      "url": "https://open.spotify.com/track/7HcnRj6vM3fQ5xmn3AbJcq"
     },
     {
       "album": {
@@ -615,7 +743,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 268939,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
@@ -640,6 +768,28 @@
     },
     {
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/3uGgOArWfclFSzS3mTl50O"
+      },
+      "artists": [
+        {
+          "name": "Amplify",
+          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
+        },
+        {
+          "name": "DnB Allstars",
+          "url": "https://open.spotify.com/artist/6BZteNwG1mxgEFJvBaAGLx"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279771,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/4osUJ9wCzpuwjbp5Lf0NHX"
+    },
+    {
+      "album": {
         "name": "Mind Warp",
         "url": "https://open.spotify.com/album/6yUjyOy6F8of7GVovb0Dg1"
       },
@@ -655,10 +805,56 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 246497,
       "name": "Mind Warp",
       "url": "https://open.spotify.com/track/1eOiR3omcI7SxBxyifehFi"
+    },
+    {
+      "album": {
+        "name": "Money Moves (The Remixes)",
+        "url": "https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Skamma",
+          "url": "https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU"
+        },
+        {
+          "name": "J Wilz",
+          "url": "https://open.spotify.com/artist/16TZaFyJcaVRRfxznuLE2n"
+        },
+        {
+          "name": "LOAD B",
+          "url": "https://open.spotify.com/artist/19N4NQloPOR4JgS0s11hbF"
+        },
+        {
+          "name": "Weejii",
+          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
+        },
+        {
+          "name": "Blu Bomma",
+          "url": "https://open.spotify.com/artist/4goT9h8GZ7ZKiyw9MxyJDh"
+        },
+        {
+          "name": "Kinetik",
+          "url": "https://open.spotify.com/artist/0LE12w6fWcmvb9eooXtpFl"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264802,
+      "name": "Money Moves - Remix",
+      "url": "https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR"
     },
     {
       "album": {
@@ -716,6 +912,42 @@
     },
     {
       "album": {
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/52YV9NRavLk76L9Pb3P3Wv"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/2ajRKo1dsleuWOj6ukRUqi"
+    },
+    {
+      "album": {
+        "name": "15 Years Of Low Down Deep",
+        "url": "https://open.spotify.com/album/37OTn60AXNy6BuvxJik9hk"
+      },
+      "artists": [
+        {
+          "name": "Dominator",
+          "url": "https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Outta Control",
+      "url": "https://open.spotify.com/track/77mNZlPZg1Dqpf19U9X2tc"
+    },
+    {
+      "album": {
         "name": "Polarity (VIP)",
         "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
       },
@@ -735,6 +967,66 @@
       "duration_ms": 202971,
       "name": "Polarity - VIP",
       "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
+    },
+    {
+      "album": {
+        "name": "Protection / Nothin Like",
+        "url": "https://open.spotify.com/album/2I3A1kmhu1DYHaPJX9Lzle"
+      },
+      "artists": [
+        {
+          "name": "Kendrick",
+          "url": "https://open.spotify.com/artist/70mqJs2YSPZndK6UuHh4PO"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268678,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/5lTxWs9bkL7d35kqdPDOXd"
+    },
+    {
+      "album": {
+        "name": "Rampage Anthem VIP",
+        "url": "https://open.spotify.com/album/69szID4oSWL2iSddE56ryG"
+      },
+      "artists": [
+        {
+          "name": "SASASAS",
+          "url": "https://open.spotify.com/artist/7CKAyjXz7Z7se4oGh07mGe"
+        },
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "DJ Phantasy",
+          "url": "https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai"
+        },
+        {
+          "name": "MC Shabba D",
+          "url": "https://open.spotify.com/artist/3mNLI3NXEFH2CoYFDRN2vr"
+        },
+        {
+          "name": "Stormin MC",
+          "url": "https://open.spotify.com/artist/0qaij0H7kB9o3YtANjvkiM"
+        },
+        {
+          "name": "MC Skibadee",
+          "url": "https://open.spotify.com/artist/22VzVYdRYWrUqjbUD28huU"
+        },
+        {
+          "name": "Harry Shotta",
+          "url": "https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Rampage Anthem VIP",
+      "url": "https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF"
     },
     {
       "album": {
@@ -771,10 +1063,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 274970,
       "name": "Right Behind You",
       "url": "https://open.spotify.com/track/5WIQx4jTbf252m11tgYDT9"
+    },
+    {
+      "album": {
+        "name": "Keep the beat going EP",
+        "url": "https://open.spotify.com/album/0kPM0opafUS4gc58pkAa8M"
+      },
+      "artists": [
+        {
+          "name": "Black Barrel",
+          "url": "https://open.spotify.com/artist/4g2ACDi5ljq9imLNg5yiql"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242737,
+      "name": "Rocking",
+      "url": "https://open.spotify.com/track/0jAZZTTdgOSIJm9wJKOfBA"
     },
     {
       "album": {
@@ -789,7 +1099,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 266057,
       "name": "Scoping",
       "url": "https://open.spotify.com/track/2TTo9kW5OgsmcuzKIwCopB"
@@ -875,7 +1185,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
@@ -962,6 +1272,24 @@
     },
     {
       "album": {
+        "name": "Tigerlilly / Synco",
+        "url": "https://open.spotify.com/album/4TIiZDDxCZXpDJValvKBna"
+      },
+      "artists": [
+        {
+          "name": "Disaszt",
+          "url": "https://open.spotify.com/artist/2GUDjv9rFpg0sRofAk7IG6"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278620,
+      "name": "Synco",
+      "url": "https://open.spotify.com/track/7vQSVysNGOOKtBmZ9JvHSz"
+    },
+    {
+      "album": {
         "name": "Techno Viking",
         "url": "https://open.spotify.com/album/6hFC281fWNu7RDABD6DA3u"
       },
@@ -973,7 +1301,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 364000,
       "name": "Techno Viking",
       "url": "https://open.spotify.com/track/3TybOwdMhk8GzieYyN8eaf"
@@ -1133,10 +1461,50 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 286896,
       "name": "Why Should I",
       "url": "https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4"
+    },
+    {
+      "album": {
+        "name": "Yeah Boi",
+        "url": "https://open.spotify.com/album/3y7T1xHlf94vLD2qJy5be6"
+      },
+      "artists": [
+        {
+          "name": "Tengu",
+          "url": "https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Yeah Boi",
+      "url": "https://open.spotify.com/track/2ehFv6rdhCW1tqrSiMeP1J"
+    },
+    {
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Patch Edison",
+          "url": "https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237284,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4to60X6goeK"

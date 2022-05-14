@@ -4234,6 +4234,24 @@
     },
     {
       "album": {
+        "name": "not a home",
+        "url": "https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169010,
+      "name": "not a home",
+      "url": "https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ"
+    },
+    {
+      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
       },
@@ -5433,6 +5451,24 @@
       "duration_ms": 214727,
       "name": "Surrender To Me",
       "url": "https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ"
+    },
+    {
+      "album": {
+        "name": "Sway (Sped Up Version)",
+        "url": "https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147135,
+      "name": "Sway - Sped Up Version",
+      "url": "https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT"
     },
     {
       "album": {

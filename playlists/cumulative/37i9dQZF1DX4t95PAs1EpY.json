@@ -102,6 +102,42 @@
     },
     {
       "album": {
+        "name": "Anemone",
+        "url": "https://open.spotify.com/album/7ek1qAaWiRo87eyr6vmbsE"
+      },
+      "artists": [
+        {
+          "name": "Oaty.",
+          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150379,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/7eNGBTOkvmEJqh7ylI2Kfu"
+    },
+    {
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/4iO4ZqgrW7EMgJcWcAswa4"
+      },
+      "artists": [
+        {
+          "name": "KojimaBeats",
+          "url": "https://open.spotify.com/artist/5S61jcmSfM4Hg6s8bJ16BN"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162351,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/0yZ11M8p1uSTz1H4rwICSs"
+    },
+    {
+      "album": {
         "name": "Artwork",
         "url": "https://open.spotify.com/album/1S2pNdwEk83jQrPJlPqbmS"
       },
@@ -381,7 +417,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 128684,
       "name": "Catalangelo",
       "url": "https://open.spotify.com/track/5dW5pzdqZZd9cnFi5hV18S"
@@ -1012,6 +1048,68 @@
     },
     {
       "album": {
+        "name": "Gin Basil Smash",
+        "url": "https://open.spotify.com/album/3icBu0tdISlC40gn5P7EGb"
+      },
+      "artists": [
+        {
+          "name": "Neele Harder",
+          "url": "https://open.spotify.com/artist/4KxuKYAXcdSrZGi1s19G5c"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113992,
+      "name": "Gin Basil Smash",
+      "url": "https://open.spotify.com/track/70rDQkdlpsQT48Fegnttd1"
+    },
+    {
+      "album": {
+        "name": "Golden Flower",
+        "url": "https://open.spotify.com/album/5joQcQJNvVauhEOkPpf1sc"
+      },
+      "artists": [
+        {
+          "name": "Pearldiver",
+          "url": "https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Golden Flower",
+      "url": "https://open.spotify.com/track/2zYCpdqRYEqZdL4kPhGGvS"
+    },
+    {
+      "album": {
+        "name": "Good Things Coming",
+        "url": "https://open.spotify.com/album/6BQEOgTe5bo6XNfGYgyolp"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        },
+        {
+          "name": "Mendeville",
+          "url": "https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD"
+        },
+        {
+          "name": "KaspaHauser",
+          "url": "https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156585,
+      "name": "Good Things Coming",
+      "url": "https://open.spotify.com/track/0BZiMl6Z2kEtSByrJM8pCF"
+    },
+    {
+      "album": {
         "name": "hagaparken",
         "url": "https://open.spotify.com/album/18MAXqnzVBabmMptAeu14h"
       },
@@ -1157,6 +1255,24 @@
       "duration_ms": 163914,
       "name": "Hope!",
       "url": "https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV"
+    },
+    {
+      "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/6xmXrAqZN6dh7Z05mx827a"
+      },
+      "artists": [
+        {
+          "name": "Senn",
+          "url": "https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152793,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/19FH0dEQakm0xVnpeK00bF"
     },
     {
       "album": {
@@ -1546,6 +1662,28 @@
     },
     {
       "album": {
+        "name": "Midnight Thoughts",
+        "url": "https://open.spotify.com/album/0w1OFJ3h2RQ4oj1JHsBr6I"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "breakfast oats.",
+          "url": "https://open.spotify.com/artist/60GtRTpm5lE77BuKLejtlw"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/174cmffB1DSf8pH4A14bDr"
+    },
+    {
+      "album": {
         "name": "Mikonos",
         "url": "https://open.spotify.com/album/5oJF59iGEfTX7grO1ovUy6"
       },
@@ -1622,6 +1760,28 @@
     },
     {
       "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/3vKjGSYqC0mlq477LXrvK4"
+      },
+      "artists": [
+        {
+          "name": "Milky Moustache Beats",
+          "url": "https://open.spotify.com/artist/6RRj0SxwUF7hIJlrfhfPOu"
+        },
+        {
+          "name": "Lifted LoFi",
+          "url": "https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122727,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/1wgeSj5ZR7NE1h7pHPSGyB"
+    },
+    {
+      "album": {
         "name": "Morning In The Forest",
         "url": "https://open.spotify.com/album/1mdPUcchdD1uXRAjPixTCD"
       },
@@ -1659,6 +1819,24 @@
       "duration_ms": 162181,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4wGrZiGaO4WVm6mNfaDjch"
+    },
+    {
+      "album": {
+        "name": "naturale",
+        "url": "https://open.spotify.com/album/4B1ggUcEr5btmV57XXEdzw"
+      },
+      "artists": [
+        {
+          "name": "masao mami",
+          "url": "https://open.spotify.com/artist/1MlLNw90kC3aCTGjeqG2Qq"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144067,
+      "name": "naturale",
+      "url": "https://open.spotify.com/track/3q4giA2JuMjmny009JEsbn"
     },
     {
       "album": {
@@ -1792,6 +1970,24 @@
     },
     {
       "album": {
+        "name": "Orchards",
+        "url": "https://open.spotify.com/album/6Xjkk8rEdbP6LhrWp5uofy"
+      },
+      "artists": [
+        {
+          "name": "ghost talk",
+          "url": "https://open.spotify.com/artist/63vxoykPG9d9640xdt86KB"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133896,
+      "name": "Orchards",
+      "url": "https://open.spotify.com/track/4NNojnTmAd2ayvXOl13t6m"
+    },
+    {
+      "album": {
         "name": "overcast",
         "url": "https://open.spotify.com/album/65JKVp9Jb7pc9ickxQoEdF"
       },
@@ -1843,6 +2039,24 @@
       "duration_ms": 170919,
       "name": "park stroll",
       "url": "https://open.spotify.com/track/1lm9DJDac6sVS6PyhDMMTv"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/49upUTh206ilyzBPbsJt3H"
+      },
+      "artists": [
+        {
+          "name": "Signature D",
+          "url": "https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120004,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0qt32QPTlsD4qL8l2B4Hj3"
     },
     {
       "album": {
@@ -1951,7 +2165,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 170390,
       "name": "Prelude To A Desaster",
       "url": "https://open.spotify.com/track/0A7BjCCEg9dqTzFMiTZH4A"
@@ -2027,6 +2241,24 @@
       "duration_ms": 180197,
       "name": "Rain Relaxation",
       "url": "https://open.spotify.com/track/4UNI7NvY0ti3jJikm4f4ld"
+    },
+    {
+      "album": {
+        "name": "Random Happiness",
+        "url": "https://open.spotify.com/album/0Gu7chi8C1LXP4urOyN0Wx"
+      },
+      "artists": [
+        {
+          "name": "Enoki",
+          "url": "https://open.spotify.com/artist/1ioPe940lafF8R9ejGRRpW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102352,
+      "name": "Random Happiness",
+      "url": "https://open.spotify.com/track/78sZViilyy3YOEfZjWfPSr"
     },
     {
       "album": {
@@ -2219,6 +2451,28 @@
       "duration_ms": 164651,
       "name": "saturday sun",
       "url": "https://open.spotify.com/track/72JFBOJAw2f2FOFJJsO7KL"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/5D4u2d3v7glC2eP9YEFpFo"
+      },
+      "artists": [
+        {
+          "name": "Nick Wolf",
+          "url": "https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms"
+        },
+        {
+          "name": "sundaynightcoffee",
+          "url": "https://open.spotify.com/artist/777qGYNUkMMOPsU3PY1sEL"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2nGFeWzJwnLtbF5ZXZk0O8"
     },
     {
       "album": {

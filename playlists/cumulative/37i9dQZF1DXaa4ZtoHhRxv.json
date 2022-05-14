@@ -136,6 +136,28 @@
     },
     {
       "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/6CB0XjiqP16MzQP203WJiw"
+      },
+      "artists": [
+        {
+          "name": "Ryan Kinder",
+          "url": "https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy"
+        },
+        {
+          "name": "Frank Legeay",
+          "url": "https://open.spotify.com/artist/3UGllLBllWl2L26fEFe7l0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184408,
+      "name": "Better Late Than Never",
+      "url": "https://open.spotify.com/track/5RqBKetCbvqzUsZnNTvxGD"
+    },
+    {
+      "album": {
         "name": "Black (Dave Aud\u00e9 Remix)",
         "url": "https://open.spotify.com/album/39aFQXZyihBBazUuUAo8zQ"
       },
@@ -1763,6 +1785,28 @@
       "duration_ms": 209733,
       "name": "She's Country - Club Mix",
       "url": "https://open.spotify.com/track/6rbs3X8CD4kLNka27JoUDW"
+    },
+    {
+      "album": {
+        "name": "Should Have Known Better (Dave Aud\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/3dVkOQbPL8mLWd3Z6tdgle"
+      },
+      "artists": [
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188296,
+      "name": "Should Have Known Better - Dave Aud\u00e9 Remix",
+      "url": "https://open.spotify.com/track/72Q1OOQcBFbEW69iJDKGyN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=4jQ2e8muSy\-1lcntVwVGSA">Kid Fonque</a>
 
-341 songs - 1 day 11 hr 3 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
+342 songs - 1 day 11 hr 9 min - [published](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Tribute To Dr Phill Rsa](https://open.spotify.com/track/3TPrilYtzd5vXC2Or5soNx) | [Afro Brotherz](https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN) | [The Lands, Pt\. 2](https://open.spotify.com/album/0k1iai1zN0id193FscCo70) | 6:55 | 2021-11-25 | 2022-01-07 |
 | [Tshinela \- Fka Mash Re\-Glitch](https://open.spotify.com/track/0GHuC1j5UuT3iJbSjgpU9p) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Fernando Damon](https://open.spotify.com/artist/68s8IpfYxLOG5E9k6RUKE4), [Khensy](https://open.spotify.com/artist/4jOzoKagU60KweoyVXvPt6) | [Tshinela](https://open.spotify.com/album/6hzsxspqVPQjgzxhq9TSVH) | 7:15 | 2021-10-07 | 2021-12-30 |
 | [Tsuka Tsuka](https://open.spotify.com/track/0EqxRG8q5KNZpY0PtKxw6j) | [Afro Brotherz](https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN), [Unit EM](https://open.spotify.com/artist/2q5CyUPskcVaYP0KDKZDPy) | [Tsuka Tsuka](https://open.spotify.com/album/3ENaRHT1b2yNjvCLtRBiXS) | 6:59 | 2022-03-31 | 2022-04-08 |
+| [Tulum](https://open.spotify.com/track/3gBk6DOpyxHyK6sMOvBSyk) | [AfroNerd](https://open.spotify.com/artist/6SrgBbRgwhj5g0o2dzi0tD) | [Tulum](https://open.spotify.com/album/6fPTR2SNjkMbbTSwKf1yYh) | 6:28 | 2022-05-12 |  |
 | [Turn Your Life Around \- Original](https://open.spotify.com/track/4M8hLrsz72XpbMqibVNF5o) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm), [deep75](https://open.spotify.com/artist/4cVVwGAvElzVhIxUOkx1FE) | [Turn Your Life Around](https://open.spotify.com/album/2Kz0MBeHWIjOq8ZecXANoo) | 6:36 | 2021-12-29 | 2022-02-04 |
 | [Twenty\-Six \- Main HT](https://open.spotify.com/track/3y1QbrvlzFxr3SmAO0u2gl) | [HyperSOUL\-X](https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os) | [Twenty\-Six \(Main HT\)](https://open.spotify.com/album/5rWlKqxp5s3KH3SMiCrFWU) | 6:01 | 2022-05-12 |  |
 | [Ufunantoni eGoli \- Original Mix](https://open.spotify.com/track/5yl8bP6E1TT4U1VUxaqdsE) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Issa Matthews](https://open.spotify.com/artist/70wVi4BsGpc7uTnF0zQyiL) | [Ufunantoni eGoli](https://open.spotify.com/album/6gqGu9WF3tMbMv47cfcsiA) | 6:31 | 2022-04-14 |  |

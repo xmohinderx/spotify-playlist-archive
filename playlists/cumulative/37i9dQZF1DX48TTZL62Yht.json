@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The songs you just keep coming back to. Cover: Drake",
+  "description": "The songs you just keep coming back to. Cover: Jack Harlow",
   "name": "Hip-Hop Favourites",
   "published_playlist_ids": [
     "5LUYY08NHALqUOrBRkJKro"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 220516,
       "name": "5 A.M.",
       "url": "https://open.spotify.com/track/0C1T6YOwB7MMzspV0UbKKA"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 167915,
       "name": "After Party",
       "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 231010,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 212063,
       "name": "Already Won (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 171891,
       "name": "AP - Music from the film Boogie",
       "url": "https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 170840,
       "name": "At Will (feat. EST Gee)",
       "url": "https://open.spotify.com/track/1inQjfrPjWSM8DehYMfIxi"
@@ -1002,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "Bad Man (Smooth Criminal)",
+        "url": "https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106000,
+      "name": "Bad Man (Smooth Criminal)",
+      "url": "https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl"
+    },
+    {
+      "album": {
         "name": "Bad Vibe (feat. A Boogie Wit da Hoodie & 2 Chainz)",
         "url": "https://open.spotify.com/album/7KJwcSLglruWIOav9w3bKS"
       },
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Banking On Me",
       "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 162546,
       "name": "Blueberry Faygo",
       "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 158857,
       "name": "Cabo",
       "url": "https://open.spotify.com/track/3SLu421u9hMKwcFNxGFrGk"
@@ -1907,7 +1925,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-02",
+      "date_removed": null,
       "duration_ms": 222026,
       "name": "CASH COW",
       "url": "https://open.spotify.com/track/56yyecUavZFNRc9W5t0P8O"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 162002,
       "name": "Cool, Calm & Collected (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/5DA10wRfycixAJMmi1aKqt"
@@ -2301,7 +2319,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 189282,
       "name": "DEAD FACES (feat. AJ Tracey)",
       "url": "https://open.spotify.com/track/6q5QDDOa2SuC5i2YqDwYJs"
@@ -2429,7 +2447,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 179533,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 201960,
       "name": "Don't Rush (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3AMxuq6id3YGB57eWeheZQ"
@@ -2663,7 +2681,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 239202,
       "name": "Down South (feat. Yella Beezy & Maxo Kream)",
       "url": "https://open.spotify.com/track/3aG1fFJSAdUgpG519HDxla"
@@ -2831,7 +2849,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 196760,
       "name": "Enemies (feat. DaBaby)",
       "url": "https://open.spotify.com/track/6UFEJuDXQMWhL5UH5f9fUR"
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 186059,
       "name": "Feelin' Like Tunechi",
       "url": "https://open.spotify.com/track/4HTY26kzdGCKJF1EqcRd2J"
@@ -3357,6 +3375,28 @@
       "duration_ms": 165226,
       "name": "Forever Fly",
       "url": "https://open.spotify.com/track/5RO3d49CngMOg1ZPg0tJVt"
+    },
+    {
+      "album": {
+        "name": "Can't Make This Shit Up",
+        "url": "https://open.spotify.com/album/6OOqyEEPgcF7ofECJn45jL"
+      },
+      "artists": [
+        {
+          "name": "Pengz",
+          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Free Chaotic",
+      "url": "https://open.spotify.com/track/0yoYpGpCKMdzRWRJVyZewr"
     },
     {
       "album": {
@@ -3963,7 +4003,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 170057,
       "name": "Handstand (with Doja Cat feat. Saweetie)",
       "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
@@ -4007,7 +4047,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 278191,
       "name": "Having Our Way (feat. Drake)",
       "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
@@ -4285,7 +4325,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 126443,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/6CN7FuZ7o1xle9TNxApGeQ"
@@ -4395,7 +4435,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
@@ -4593,6 +4633,28 @@
       "duration_ms": 127946,
       "name": "I Love It (& Lil Pump)",
       "url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"
+    },
+    {
+      "album": {
+        "name": "Ice Cream (feat. Rick Ross)",
+        "url": "https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Ice Cream (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi"
     },
     {
       "album": {
@@ -5571,7 +5633,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 243189,
       "name": "Loyal To A Fault (feat. Bryson Tiller, Lil Durk)",
       "url": "https://open.spotify.com/track/6QTTPp4rzMqcbWWzgrGf9c"
@@ -5589,7 +5651,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 148079,
       "name": "Luv Em All",
       "url": "https://open.spotify.com/track/4CoAPaFaOz8e9o8MhpjWBp"
@@ -5607,7 +5669,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "MAFIA",
       "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
@@ -5731,7 +5793,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 136063,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/3SE71ytwae4ZgBiYpu93QG"
@@ -5811,7 +5873,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 180000,
       "name": "Me (FWM) (feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/4IfJuDOnqRfVVnzsDaqPeL"
@@ -5837,7 +5899,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 225664,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ"
@@ -5979,7 +6041,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178216,
       "name": "Moana",
       "url": "https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X"
@@ -6360,6 +6422,32 @@
     },
     {
       "album": {
+        "name": "Neck & Wrist",
+        "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209314,
+      "name": "Neck & Wrist (feat. JAY-Z & Pharrell)",
+      "url": "https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d"
+    },
+    {
+      "album": {
         "name": "Need to Know",
         "url": "https://open.spotify.com/album/7N3SiwnBMR1C8hcA4W1GtH"
       },
@@ -6483,7 +6571,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 196733,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh"
@@ -6605,7 +6693,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 150475,
       "name": "Not In The Mood (feat. Fivio Foreign & Kay Flock)",
       "url": "https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT"
@@ -6671,7 +6759,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 164101,
       "name": "Not The Same God As Mine",
       "url": "https://open.spotify.com/track/40UUA98SbhyPmhJJm3KgYs"
@@ -6785,7 +6873,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 210778,
       "name": "OKAY (feat. Vory)",
       "url": "https://open.spotify.com/track/65UMCdooEyQ6dQHmbgwEVS"
@@ -7093,7 +7181,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 193346,
       "name": "P power (feat. Drake)",
       "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
@@ -7231,7 +7319,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 164466,
       "name": "Pause Play",
       "url": "https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ"
@@ -7533,7 +7621,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
@@ -7573,7 +7661,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 226313,
       "name": "Prospect (ft. Lil Baby)",
       "url": "https://open.spotify.com/track/4iHSE5R1U8jf84tRn52xRt"
@@ -8143,7 +8231,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 160551,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/0wZd01L6bsW9iGFHrDPf88"
@@ -8603,7 +8691,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 166922,
       "name": "Sleep Like A Baby",
       "url": "https://open.spotify.com/track/7GVO0Xk2OUN21S6AnFfASM"
@@ -8916,6 +9004,28 @@
     },
     {
       "album": {
+        "name": "Still Here (feat. Cordae)",
+        "url": "https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196066,
+      "name": "Still Here (feat. Cordae)",
+      "url": "https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb"
+    },
+    {
+      "album": {
         "name": "The Voice",
         "url": "https://open.spotify.com/album/12TuxCWI6BzfSXaZMKMrPn"
       },
@@ -9045,7 +9155,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 177553,
       "name": "Super",
       "url": "https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz"
@@ -9331,7 +9441,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 200958,
       "name": "thailand",
       "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
@@ -9419,7 +9529,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
@@ -9629,7 +9739,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
@@ -9699,7 +9809,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 197093,
       "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
       "url": "https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE"
@@ -9747,7 +9857,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 153147,
       "name": "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
       "url": "https://open.spotify.com/track/13EW51DKru044OJDJ9Bm8o"
@@ -10031,7 +10141,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 177835,
       "name": "V12 (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
@@ -10221,7 +10331,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173288,
       "name": "Walk Em Down (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg"
@@ -10265,7 +10375,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
@@ -10511,7 +10621,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 178431,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/5bjTLWk5cBOACEVPl3oqkU"
@@ -10735,7 +10845,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 279853,
       "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
       "url": "https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH"
@@ -10911,7 +11021,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 180930,
       "name": "Wockesha",
       "url": "https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0"
@@ -11053,7 +11163,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 183567,
       "name": "WRONG (feat. Lil Mosey)",
       "url": "https://open.spotify.com/track/1EWkw4Fa6IlnsAihLUlFFM"
@@ -11075,7 +11185,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-13",
+      "date_removed": null,
       "duration_ms": 142273,
       "name": "Yes Indeed",
       "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"

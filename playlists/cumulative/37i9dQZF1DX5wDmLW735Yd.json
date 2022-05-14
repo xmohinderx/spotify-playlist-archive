@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Example",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Voltage & Shy FX",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 121060,
       "name": "Allstars MIC (feat. DnB Allstars)",
       "url": "https://open.spotify.com/track/1Wr2QY8SnsAJglWLcUBena"
@@ -97,6 +97,32 @@
       "duration_ms": 254910,
       "name": "Already Disappeared",
       "url": "https://open.spotify.com/track/6wUc42SOF3zzn163c3ODrw"
+    },
+    {
+      "album": {
+        "name": "Amazing (feat. Agent Sasco)",
+        "url": "https://open.spotify.com/album/0OyJFX214c6PmgyBboEoPy"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Agent Sasco (Assassin)",
+          "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187885,
+      "name": "Amazing (feat. Agent Sasco)",
+      "url": "https://open.spotify.com/track/1PJfbxmFsitJPbLLU98y1s"
     },
     {
       "album": {
@@ -177,7 +203,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/4OZpbYFj0cxtCNtXq937l3"
@@ -299,7 +325,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 259310,
       "name": "Be The Reason",
       "url": "https://open.spotify.com/track/3nZw1QmonyEBhwBWaodKxi"
@@ -397,7 +423,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 231724,
       "name": "Blame You (feat. Dylan)",
       "url": "https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i"
@@ -459,7 +485,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/24abahS4tYAxt7lgSBk7Vc"
@@ -485,7 +511,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 275862,
       "name": "Breathe (feat. RZA) - Ren\u00e9 LaVice Dark D&B Remix",
       "url": "https://open.spotify.com/track/1acpIlnD71Anfcy2RXZkm3"
@@ -503,7 +529,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 292878,
       "name": "Burning Babylon",
       "url": "https://open.spotify.com/track/1WNMQpJyz6U9G0rrscRQH9"
@@ -661,7 +687,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 209655,
       "name": "Could This Be - Malux Remix",
       "url": "https://open.spotify.com/track/0Zk1BjKYDNOhOxCzLvHKDm"
@@ -837,6 +863,24 @@
       "duration_ms": 194482,
       "name": "Do It To It - Sub Focus Remix",
       "url": "https://open.spotify.com/track/4z78eVQBoMHg1e4XGp4rMj"
+    },
+    {
+      "album": {
+        "name": "Don't Let",
+        "url": "https://open.spotify.com/album/1ghNHvx6HuoBXaLezY2QmD"
+      },
+      "artists": [
+        {
+          "name": "Athena",
+          "url": "https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Don't Let",
+      "url": "https://open.spotify.com/track/44ppHdT8METLfRs30s4zIS"
     },
     {
       "album": {
@@ -1207,7 +1251,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -1451,7 +1495,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Hands, Lights, Flames, Phones",
       "url": "https://open.spotify.com/track/2sBCHHilijXQtJCZ9igvt4"
@@ -1845,7 +1889,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 290039,
       "name": "Kiss Kiss Bang Bang - Bou Remix",
       "url": "https://open.spotify.com/track/5TrO1BVrsHkdWE4SIvCUvT"
@@ -1969,7 +2013,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 235000,
       "name": "Louder Than Words",
       "url": "https://open.spotify.com/track/3AXmSZIHOho1ylePzcTBto"
@@ -1991,7 +2035,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 251134,
       "name": "Love Drunk",
       "url": "https://open.spotify.com/track/0fpSLtAZyzwz8e57jjZme6"
@@ -2141,7 +2185,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 288095,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/0zGHWnTtESiQrWwnCA1yBM"
@@ -2321,7 +2365,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 312685,
       "name": "Overture",
       "url": "https://open.spotify.com/track/4AjiA5HkJVy59369f0Jjlk"
@@ -2369,7 +2413,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 388439,
       "name": "Phukalupe",
       "url": "https://open.spotify.com/track/14Qh13evGAvlSoY9JeIgAs"
@@ -2435,7 +2479,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 257980,
       "name": "Reaction",
       "url": "https://open.spotify.com/track/4OMtMXbSSN90pL8X33efqs"
@@ -2665,7 +2709,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 240344,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/6ea7W4icINIl04UyRG2YLk"
@@ -2745,7 +2789,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 226259,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/0f16GKHRLEklrzdlG4EpV7"
@@ -2803,7 +2847,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 250660,
       "name": "Shell",
       "url": "https://open.spotify.com/track/0TaxcAN1TjZHvFmwrY5SXw"
@@ -2971,7 +3015,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 340114,
       "name": "Space Station - My Nu Leng Remix",
       "url": "https://open.spotify.com/track/1RvmCoxXbBAKMahU4oKEQN"
@@ -3209,7 +3253,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 207964,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0ADQTVFIq9hOdfpWbCCEJM"
@@ -3393,7 +3437,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 223448,
       "name": "Ultralight",
       "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
@@ -3503,7 +3547,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 253893,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/2FM3nuPiAYMuTUDQSf4dTT"
@@ -3547,7 +3591,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 281871,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/2ddp4ZorxoNXEqkAIZ7qIk"
@@ -3843,7 +3887,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 187885,
       "name": "You And Me - Radio Edit",
       "url": "https://open.spotify.com/track/4mBbfL5JSV0X5BC2HQXcvk"

@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Los Palmeras & Neo Pistea.
 
-118 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+119 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 | 2021-12-24 |  |
 | [Una Calle Nos Separa](https://open.spotify.com/track/7Gq4ceSyXidlIF9T6ZjX8D) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Unico Amor](https://open.spotify.com/album/1PgEY4CHlURqdIO5lru0Fv) | 3:34 | 2021-12-24 |  |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2021-12-24 |  |
+| [Una Mujer Como Tú](https://open.spotify.com/track/5jbT4IeQCi00OjuQGFxQIA) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Mujer Como Tú](https://open.spotify.com/album/4uOv8YCk7LFJf91plzOnz1) | 3:44 | 2022-05-13 |  |
 | [Vamos a La Boti](https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Vamos a La Boti](https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF) | 2:33 | 2021-12-24 | 2022-02-26 |
 | [Vengo de la Casa de Ella](https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Vengo de la Casa de Ella](https://open.spotify.com/album/5mXCFeMvjfsM7TyI8zvjIU) | 3:08 | 2021-12-24 |  |
 | [Vivir Asi Es Morir de Amor](https://open.spotify.com/track/0ywBGfsIHLkTxZcv6jCGha) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu), [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Vivir Asi Es Morir de Amor](https://open.spotify.com/album/6HLaUd8u4FScMX7yzU8p4p) | 3:31 | 2022-04-22 |  |

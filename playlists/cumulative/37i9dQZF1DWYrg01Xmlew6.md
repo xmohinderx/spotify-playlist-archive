@@ -4,7 +4,7 @@
 
 > Napoli e il meglio della scena campana\. Cover: LIBERATO
 
-54 songs - 2 hr 42 min - not published yet
+54 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

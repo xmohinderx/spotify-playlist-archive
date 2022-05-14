@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 228247,
       "name": "Bella cos\u00ec - feat. Federica Carta",
       "url": "https://open.spotify.com/track/3XLyyybPY2d8kLiMb8HIyA"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 200869,
       "name": "Bella e rovinata",
       "url": "https://open.spotify.com/track/5uPQRVuGquShCnqzuOTq4B"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188181,
       "name": "Che Poi",
       "url": "https://open.spotify.com/track/55BfNKdOeu77gxPB0UGnAw"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153157,
       "name": "Cuore amaro",
       "url": "https://open.spotify.com/track/1CQbBT3Wi9srD77fA6UM6A"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 201546,
       "name": "Domenica",
       "url": "https://open.spotify.com/track/2tVNMtgZ2CQpTx7vgcuTkL"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 221631,
       "name": "MADAME - L'anima (feat. Madame)",
       "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 155413,
       "name": "Mambo Salentino",
       "url": "https://open.spotify.com/track/7piIo15vVy3ULGXSpFs5xc"
@@ -1494,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/0lybFkZIRrMUEa3UyPTjsy"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219573,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/62JaE4DaiODjNO7ZKXDFqD"
+    },
+    {
+      "album": {
         "name": "Non Avere Paura",
         "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
       },
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 238893,
       "name": "Piccola stella senza cielo",
       "url": "https://open.spotify.com/track/0HpKuz1HfXxRzNnUqfwzgF"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 193573,
       "name": "Sopra",
       "url": "https://open.spotify.com/track/1x57LE6Ci3tGBrkDt2tFZS"

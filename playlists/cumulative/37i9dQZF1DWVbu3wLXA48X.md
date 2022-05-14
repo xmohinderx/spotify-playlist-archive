@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Say Sue Me
 
-324 songs - 19 hr 15 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+325 songs - 19 hr 19 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Always Together With You](https://open.spotify.com/track/0piWYpm3L2Ss0UOAH0hl4G) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Always Together With You](https://open.spotify.com/album/49GJe3Q8FSAhfLgrQlulXl) | 6:38 | 2021-12-16 | 2021-12-31 |
 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 | 2022-03-03 | 2022-04-08 |
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-17 | 2022-04-01 |
+| [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2022-05-13 |  |
 | [Away With Me](https://open.spotify.com/track/5N0KyNZkYbA3wCgs09cVMm) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [raychel jay](https://open.spotify.com/artist/7zjhhasa5SAMXbDcbmhkoj) | [Away With Me](https://open.spotify.com/album/4IWjUSyoKFPiFgEPyFDmNi) | 2:41 | 2022-01-20 | 2022-03-25 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-16 | 2022-01-21 |
 | [Back On the Music!](https://open.spotify.com/track/5izT9vepwSbIFOcDVogu7k) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/2HlDBHOQVzuTLrJ4ASShDP) | 3:27 | 2022-03-10 |  |
@@ -171,7 +172,7 @@
 | [Million Little Problems](https://open.spotify.com/track/1nccRXlgqIuC8WiAuTieBo) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Million Little Problems](https://open.spotify.com/album/3YDmWON2aVb6IayCjQwkj5) | 2:26 | 2022-04-14 |  |
 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 | 2022-05-05 |  |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-10 | 2022-04-01 |
-| [Monaka](https://open.spotify.com/track/3LVVcEQADkkZOZcaPTFXfD) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Kumoyo Island](https://open.spotify.com/album/0brtdAObNjsWPbjPDtpxJf) | 5:15 | 2022-05-05 |  |
+| [Monaka](https://open.spotify.com/track/3LVVcEQADkkZOZcaPTFXfD) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Kumoyo Island](https://open.spotify.com/album/0brtdAObNjsWPbjPDtpxJf) | 5:15 | 2022-05-05 | 2022-05-14 |
 | [music](https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [music](https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8) | 3:41 | 2021-12-16 | 2022-01-21 |
 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 | 2021-12-16 | 2022-01-29 |
 | [Mấy Khi](https://open.spotify.com/track/14Y6vaDKyaUzjoZT0VA6pB) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Mấy Khi](https://open.spotify.com/album/49lLzMMt9lTfxAZN6a1my0) | 3:00 | 2022-03-31 | 2022-05-06 |

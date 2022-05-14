@@ -262,6 +262,24 @@
     },
     {
       "album": {
+        "name": "D(Emo)",
+        "url": "https://open.spotify.com/album/0uvZyTWqNWArdU6dEaUsk5"
+      },
+      "artists": [
+        {
+          "name": "nothx.",
+          "url": "https://open.spotify.com/artist/1i8WJECAPI5Je4SgVuQLEX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186243,
+      "name": "D(Emo)",
+      "url": "https://open.spotify.com/track/2NMjPUdU1Ljw8wVUdoHDkD"
+    },
+    {
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7"
       },

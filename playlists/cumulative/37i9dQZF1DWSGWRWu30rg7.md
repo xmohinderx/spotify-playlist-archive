@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Samuel Cipta\. Artwork: Isu Kim.
 
-644 songs - 1 day 15 hr 30 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+645 songs - 1 day 15 hr 34 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Masih Sama](https://open.spotify.com/track/50n7O5N4B1K25jiRXXcy7z) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Masih Sama](https://open.spotify.com/album/2v3xt1GboNn4UpLacJr2KB) | 3:45 | 2022-02-10 | 2022-02-25 |
 | [Mati Rasa](https://open.spotify.com/track/0Hrh0X4qi0ebEcI7XKuch8) | [Italiani](https://open.spotify.com/artist/76dueGVYKmJWlTYhPx1kRs) | [Mati Rasa](https://open.spotify.com/album/5kOYRmivXSI3XuuUMFwu9d) | 4:10 | 2022-03-04 | 2022-03-18 |
 | [May We Heal This World](https://open.spotify.com/track/2HDwfB0fljJqaEXnLmm3sa) | [UBERKA](https://open.spotify.com/artist/0rFwqq9mhHQicaFuYEC1go) | [May We Heal This World](https://open.spotify.com/album/3dDq8nGe5PuL8HGUxjmwW0) | 3:33 | 2022-01-06 | 2022-01-14 |
+| [McLovin](https://open.spotify.com/track/1lgLO87GaPJ8uonx0eQQF9) | [HAQ](https://open.spotify.com/artist/56UBLpfnOrbIT9MryWZ6GG) | [McLovin](https://open.spotify.com/album/2azReujUiYAHKCkJgXkdly) | 4:18 | 2022-05-13 |  |
 | [Meant To Be](https://open.spotify.com/track/09bi6AaJ6KDZQHbpDehr0t) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Meant To Be](https://open.spotify.com/album/0J0ECAqQ78XtonAOEkY325) | 4:02 | 2022-01-27 | 2022-02-11 |
 | [Melawan Sedih](https://open.spotify.com/track/66oyBednz1MT4Bw8Z9SjAK) | [Aletta Stars](https://open.spotify.com/artist/5JroARhtfpri0fi6hiSYuY) | [Melawan Sedih](https://open.spotify.com/album/1GjU2pH5fqD3DG68LEgBVO) | 4:23 | 2022-01-27 | 2022-02-11 |
 | [Melepas Bujang](https://open.spotify.com/track/79pvihU4VIANSR7M29MILl) | [Fadhilonn](https://open.spotify.com/artist/1Dd9BdeYo1NJF7aV76ffUc) | [Melepas Bujang](https://open.spotify.com/album/4tO60SRdqzLT7TmDDgBgOj) | 3:23 | 2022-01-27 | 2022-02-11 |

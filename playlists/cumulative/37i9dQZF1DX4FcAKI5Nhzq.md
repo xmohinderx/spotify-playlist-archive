@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: Ciipher
 
-554 songs - 1 day 7 hr 3 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+555 songs - 1 day 7 hr 6 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Alcohol\-Free](https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/6UIHtz9pSMArPCOEkUkLOp) | 3:30 | 2021-06-10 | 2021-10-06 |
 | [ALIEN](https://open.spotify.com/track/4usd9lLG24P5tRp92CRoPc) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [ALIEN](https://open.spotify.com/album/5Q9UJ0rW8js5o6qGIMo2sd) | 3:01 | 2020-10-22 | 2021-03-18 |
 | [All Your Fault \(Feat\. GRAY\)](https://open.spotify.com/track/4PP4siQamrO7i5Me9GOpqQ) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Point Of View: U](https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM) | 3:01 | 2021-06-18 | 2021-09-07 |
-| [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-23 |  |
+| [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-23 | 2022-05-14 |
 | [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2020-12-21 | 2021-04-22 |
 | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/5nt7HzeKaxAp6Gh4fZoqMm) | 3:01 | 2021-12-13 | 2022-01-17 |
 | [Anti\-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:35 | 2021-07-09 | 2021-11-05 |
@@ -398,6 +398,7 @@
 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 | 2021-07-06 | 2021-08-25 |
 | [Ring Ring](https://open.spotify.com/track/1LmAeYKwK2BA2FFUMyTXD2) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Ring Ring](https://open.spotify.com/album/1IFwB37JXLhIh53bSBBMbI) | 3:02 | 2021-05-18 | 2021-07-28 |
 | [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2021-11-17 | 2022-01-20 |
+| [Roller Coaster](https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Where is my Garden!](https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR) | 3:03 | 2022-05-13 |  |
 | [Rolling Rolling](https://open.spotify.com/track/2C0JYaMElHcXV91oOhinzQ) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [BLUE](https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6) | 4:01 | 2021-12-13 | 2022-01-17 |
 | [Rosario](https://open.spotify.com/track/31LHplV8BL8F0Uu9YbvTAY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:50 | 2021-01-18 | 2021-03-01 |
 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-07-30 | 2021-09-18 |

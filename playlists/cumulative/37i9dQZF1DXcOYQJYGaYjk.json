@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 229840,
       "name": "Absolute Zero",
       "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 298825,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/0UL668NCJKvzQuIgkwTQtz"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 264947,
       "name": "Another World",
       "url": "https://open.spotify.com/track/5hsq03E3do2gWhyOVV2Api"
@@ -199,10 +199,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 212369,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2Mw7cLQMNoexIOTKHDFXeq"
+    },
+    {
+      "album": {
+        "name": "Causa",
+        "url": "https://open.spotify.com/album/0igZfXDTXbiGovhw9w4mxU"
+      },
+      "artists": [
+        {
+          "name": "Vitalism",
+          "url": "https://open.spotify.com/artist/7aBLyeKiEpyPfFpkfoLVRZ"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302673,
+      "name": "Bipolarity",
+      "url": "https://open.spotify.com/track/2Fnl5TWYqdmSwTHvrB7voW"
     },
     {
       "album": {
@@ -242,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Black Honey",
+        "url": "https://open.spotify.com/album/72NG7Su9csuE3s1T7YurnM"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239450,
+      "name": "Black Honey",
+      "url": "https://open.spotify.com/track/4FX7dhugVxsKsyC4DgwJyM"
+    },
+    {
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/0IKTSPKqD9EwaZ6hlbK7WH"
       },
@@ -275,7 +311,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
@@ -474,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Till the End",
+        "url": "https://open.spotify.com/album/0r3d30BRSKMuP51HUjlllw"
+      },
+      "artists": [
+        {
+          "name": "Phinehas",
+          "url": "https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212505,
+      "name": "Dead Choir",
+      "url": "https://open.spotify.com/track/1pfafAH250L6UoCIsUow78"
+    },
+    {
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
       },
@@ -557,7 +611,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 155286,
       "name": "Genocidal Humanoidz",
       "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
@@ -593,7 +647,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 211430,
       "name": "Hated",
       "url": "https://open.spotify.com/track/4UTqFV199YTfDpGr5A99dJ"
@@ -611,10 +665,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173174,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/464QoEFa53Et91wTKjLmTE"
+    },
+    {
+      "album": {
+        "name": "UNDEN!ABLE",
+        "url": "https://open.spotify.com/album/5H9cH0ZFEwiJQFPCXiXzxd"
+      },
+      "artists": [
+        {
+          "name": "HELLYEAH",
+          "url": "https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213086,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/2Q7nzt6BXtuDdroqKOag3D"
     },
     {
       "album": {
@@ -647,7 +719,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 257836,
       "name": "Immortalized",
       "url": "https://open.spotify.com/track/2BqDbaNNOMdxKc6jfJ8O0e"
@@ -683,7 +755,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 226348,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
@@ -816,6 +888,24 @@
     },
     {
       "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E"
+    },
+    {
+      "album": {
         "name": "The Concrete Confessional",
         "url": "https://open.spotify.com/album/1LG9oSoshyuwFt25Qlwglh"
       },
@@ -827,7 +917,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 161626,
       "name": "Looking Down The Barrel Of Today",
       "url": "https://open.spotify.com/track/2ZQo43TnA0XBUvPHSUfe2F"
@@ -870,6 +960,24 @@
     },
     {
       "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206648,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF"
+    },
+    {
+      "album": {
         "name": "Moon Over the Castle (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/3ZgYohcrHNEN6kEDRhUmya"
       },
@@ -885,6 +993,24 @@
       "duration_ms": 187001,
       "name": "Moon Over the Castle - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/42xYFBO1ahIWyisI7VVVEh"
+    },
+    {
+      "album": {
+        "name": "Conquer Divide",
+        "url": "https://open.spotify.com/album/5nEkWQgWXx2HsesiZIRdbL"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/53WTbZesrfUZSx1pLjDeHR"
     },
     {
       "album": {
@@ -971,7 +1097,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/7gYL9E5WN7Nd8l2ZQ1rkKI"
@@ -1007,7 +1133,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/6aPDAyrtj011Mzjg9NK0tT"
@@ -1025,7 +1151,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 358133,
       "name": "Prosthetic",
       "url": "https://open.spotify.com/track/2tbGvqKO4Xep8mxb29ABOy"
@@ -1043,7 +1169,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 326803,
       "name": "Protector",
       "url": "https://open.spotify.com/track/4wDUS58qIKWEgpJKlbfWqp"
@@ -1140,6 +1266,24 @@
     },
     {
       "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209703,
+      "name": "Sham Pain",
+      "url": "https://open.spotify.com/track/0nqIqABZcujg05mkixJV60"
+    },
+    {
+      "album": {
         "name": "Don't You Feel Amazing?",
         "url": "https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3"
       },
@@ -1169,7 +1313,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 199960,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/3FRB1HLHRqOamWnPeoQbK0"
@@ -1205,7 +1349,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
@@ -1313,7 +1457,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 243853,
       "name": "The Heart from Your Hate",
       "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
@@ -1335,7 +1479,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 223357,
       "name": "The Hunted (feat. Sully Erna)",
       "url": "https://open.spotify.com/track/08vJxMYhmZu6YTWqVmLgrA"
@@ -1375,7 +1519,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
@@ -1411,7 +1555,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 252002,
       "name": "The Vengeful One",
       "url": "https://open.spotify.com/track/5tz5QsHPkv69T1scq2utZZ"
@@ -1501,7 +1645,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178333,
       "name": "Victim",
       "url": "https://open.spotify.com/track/38RTTDR84odCz5gQrLuZQR"
@@ -1584,6 +1728,24 @@
     },
     {
       "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
+    },
+    {
+      "album": {
         "name": "The Ocean Atlas",
         "url": "https://open.spotify.com/album/0TCNCaZvW2B5OgcRghzoeG"
       },
@@ -1631,7 +1793,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 220880,
       "name": "You'll Never Find Me",
       "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"

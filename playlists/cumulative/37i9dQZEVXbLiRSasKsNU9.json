@@ -1898,6 +1898,24 @@
     },
     {
       "album": {
+        "name": "De Diepte",
+        "url": "https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176603,
+      "name": "De Diepte",
+      "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
+    },
+    {
+      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/4sypyREAQc69dg2X5XY4Df"
       },
@@ -4465,7 +4483,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 193626,
       "name": "Love Me Back (Fayahh Beat)",
       "url": "https://open.spotify.com/track/5ZF6l3xKi3m6YK2dDXAsR5"
@@ -5312,6 +5330,24 @@
     },
     {
       "album": {
+        "name": "My Money Don't Jiggle Jiggle, It Folds",
+        "url": "https://open.spotify.com/album/03hhqOR7ZYPn3zpcOJds7S"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96304,
+      "name": "My Money Don't Jiggle Jiggle, It Folds",
+      "url": "https://open.spotify.com/track/09lRJM0hgXwwXCjNaIvcbs"
+    },
+    {
+      "album": {
         "name": "my money dont jiggle jiggle, it falls",
         "url": "https://open.spotify.com/album/2mB553VJJ46D5lO9yGWkPf"
       },
@@ -5323,7 +5359,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 96304,
       "name": "my money dont jiggle jiggle, it falls",
       "url": "https://open.spotify.com/track/4suCwJOOBSCCyaFkcqmUb7"

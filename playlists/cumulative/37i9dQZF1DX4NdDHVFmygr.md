@@ -4,13 +4,14 @@
 
 > The sweet sounds of Morocco.
 
-101 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+102 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Fois](https://open.spotify.com/track/0b8ePOUVHahjftHqZXEa5I) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Regalo](https://open.spotify.com/album/6QYA0gxCZ0mRO4XgpNPmTf) | 3:38 | 2022-02-07 | 2022-02-15 |
 | [3amarli Kasi](https://open.spotify.com/track/2H8YrOTY3h9fGqiv2RnBsN) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [3amarli Kasi](https://open.spotify.com/album/3aPbk4uvzin5SftEiBL4q3) | 2:57 | 2022-01-11 | 2022-04-08 |
-| [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-03-08 |  |
+| [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-03-08 | 2022-05-14 |
+| [3ARI \- A COLORS SHOW](https://open.spotify.com/track/1AiLzzzFxUKZS6T7Sk8CMN) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI \- A COLORS SHOW](https://open.spotify.com/album/4PWMbvS0qXoj5AZjtdo0C3) | 2:42 | 2022-05-13 |  |
 | [9albi](https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [9albi](https://open.spotify.com/album/4LYxM2TBsO7lXdoagMDLTp) | 2:33 | 2022-02-03 | 2022-03-24 |
 | [A40](https://open.spotify.com/track/1JwdSbiHb4t7wbmfb2hkPl) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G) | [A40](https://open.spotify.com/album/6PcWY3wKiBQ0B0o4nOnQuV) | 2:55 | 2021-12-25 | 2022-01-17 |
 | [a7lam](https://open.spotify.com/track/1NJi2hZVX5DvMzZbcFM0Zq) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [a7lam](https://open.spotify.com/album/1lgMjhsaS7ng1LbIIMXeeh) | 4:08 | 2021-12-25 | 2022-03-05 |

@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Samantha Machado
 
-76 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+77 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Kali](https://open.spotify.com/track/4ErEw1XXvgV5SvaUtmqXgS) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Kali](https://open.spotify.com/album/513Vo5nnWl40hZNpIsD3NL) | 2:20 | 2022-03-18 |  |
 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2022-03-18 |  |
 | [Magia](https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx) | [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq) | [Magia](https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn) | 2:54 | 2022-03-18 |  |
+| [Making Luv](https://open.spotify.com/track/4S8rwnVkJ3P8LgmKavFS9C) | [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO), [TiDUS](https://open.spotify.com/artist/7IxX7YZFKExg98w2dxgsXj) | [Making Luv](https://open.spotify.com/album/7eh0moIuvRGns9Hc12ZYj0) | 3:05 | 2022-05-13 |  |
 | [Mal Acostumada](https://open.spotify.com/track/7GnPbQS1aDXXmON7bMxwX4) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/0r6xdmo9wYNcHrsIlpDvNh) | 2:16 | 2022-03-18 |  |
 | [Malas Prontas](https://open.spotify.com/track/5tHCD2TzqXr91NqUCBnTpO) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Kary](https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9) | [Malas Prontas](https://open.spotify.com/album/3NoLX9JnxmOaC0EfwKezAD) | 2:37 | 2022-04-22 |  |
 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 | 2022-03-18 | 2022-04-23 |
@@ -63,7 +64,7 @@
 | [Perfil \#86 \- Mpif](https://open.spotify.com/track/2wp6XCZIzphvjYvwngYfAJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#86 \- Mpif](https://open.spotify.com/album/5xy7S2y8QkzH5Zq8mBFVUI) | 3:29 | 2022-03-18 |  |
 | [Perigosa](https://open.spotify.com/track/6A7LrLiFhsji2cHwxCldXt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Perigosa](https://open.spotify.com/album/7gACjYQTZYYKNxZWHonXZg) | 2:32 | 2022-03-18 | 2022-04-23 |
 | [Pra Te Envolver](https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Pra Te Envolver](https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1) | 2:15 | 2022-03-18 |  |
-| [Pula em Mim](https://open.spotify.com/track/3hIc3UgiyAF8290nR24149) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Volúpia](https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8) | 2:17 | 2022-03-18 |  |
+| [Pula em Mim](https://open.spotify.com/track/3hIc3UgiyAF8290nR24149) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Volúpia](https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8) | 2:17 | 2022-03-18 | 2022-05-14 |
 | [Pussy Gang](https://open.spotify.com/track/2uXXWRuYv6A70mj0cq3qhI) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Pussy Gang](https://open.spotify.com/album/67ZypIXlENQDTdK8b61b8M) | 2:43 | 2022-03-18 |  |
 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 | 2022-03-18 |  |
 | [Refém](https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Eva Grão](https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F) | 3:26 | 2022-03-18 |  |

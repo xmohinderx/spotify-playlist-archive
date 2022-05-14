@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,035 likes - 104 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,095 likes - 111 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 100 | [Holes in the Sky](https://open.spotify.com/track/3aNwsJSJaWGRD8caYro1hW) | [Toronto 7s](https://open.spotify.com/artist/6uunQvg4RiF0lBnTst3ylB) | [Holes in the Sky](https://open.spotify.com/album/4s0HmyMcLDszh7RI03zpsW) | 2:36 |
 | 101 | [I'll Treat You Right](https://open.spotify.com/track/1gpe134VSNqCFAqCxN0e7g) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:46 |
 | 102 | [Walk in the Park \- Remix Instrumental](https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Public Assembly](https://open.spotify.com/album/6bHak7V9kU84wT38baA6Ay) | 4:28 |
-| 103 | [Paranoid Society \- Instrumental](https://open.spotify.com/track/65dL2H0PFe9IAV1dOAl0d3) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Travel Instrumentals \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1PGmuVGUYfBN68kNoCShJX) | 4:27 |
-| 104 | [Drop '95](https://open.spotify.com/track/72CBVgrrKp7niHjssNHv61) | [Sadiva](https://open.spotify.com/artist/4N5uaLp0vHh7627UsS9GoG) | [Lethal Chops](https://open.spotify.com/album/28zeg49sLHPxrUNmmkuDs5) | 2:07 |
+| 103 | [Sedate \- Boom Bap Instrumental](https://open.spotify.com/track/1XpZ171vlP0tPiFs2AUlOe) | [Bob Lee](https://open.spotify.com/artist/6OGBVZmZ9qKwv0T2CzlczF) | [Sedate \(Boom Bap Instrumental\)](https://open.spotify.com/album/4kJwBCZGus9fsFt4hU2nCl) | 3:47 |
+| 104 | [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 |
+| 105 | [Bigtownsteelo](https://open.spotify.com/track/1HwpgBbUoeSnYAFUOSr1zO) | [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Bigtownsteelo](https://open.spotify.com/album/7c6TF2TR0tThJFpiv6X6xO) | 2:29 |
+| 106 | [Skate Day](https://open.spotify.com/track/0dhBZOXyLXbDH6Xp3t3B4P) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Skate Day](https://open.spotify.com/album/5hg32AUaotI7xq5ZPBGUcu) | 2:34 |
+| 107 | [The Realest](https://open.spotify.com/track/6cA7Gs5OK6TyZnmSMAJXwu) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [The Realest](https://open.spotify.com/album/2GyBr0pMUGDEBnCxWZQE5f) | 3:01 |
+| 108 | [Rites of Summer \- All Love](https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Rites of Summer \(All Love\)](https://open.spotify.com/album/1DYT6iXMPKG6B6JZD0imU5) | 1:32 |
+| 109 | [Naru](https://open.spotify.com/track/3s9p5XqMCrTuUmTkVNNacS) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Naru](https://open.spotify.com/album/2UFCvN7iuvVsbCMjVfggnJ) | 1:45 |
+| 110 | [Paranoid Society \- Instrumental](https://open.spotify.com/track/65dL2H0PFe9IAV1dOAl0d3) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Travel Instrumentals \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1PGmuVGUYfBN68kNoCShJX) | 4:27 |
+| 111 | [Drop '95](https://open.spotify.com/track/72CBVgrrKp7niHjssNHv61) | [Sadiva](https://open.spotify.com/artist/4N5uaLp0vHh7627UsS9GoG) | [Lethal Chops](https://open.spotify.com/album/28zeg49sLHPxrUNmmkuDs5) | 2:07 |
 
-Snapshot ID: `MTY1MDU4NTYwMCwwMDAwMDAzODAwMDAwMTgwNGU5MTgwYjEwMDAwMDE2ZDE1MWJjNmQ2`
+Snapshot ID: `MTY1MjQ1NDU4NSwwMDAwMDAzOTAwMDAwMTgwYmRmN2Y0N2UwMDAwMDE2ZDE1MWJjNmQ2`

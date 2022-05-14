@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-05",
-  "description": "Stripped-down versions of all your favorite pop hits. Cover: Tate McRae",
+  "description": "Stripped-down versions of all your favorite pop hits. Cover: Shawn Mendes",
   "name": "Unplugged",
   "published_playlist_ids": [
     "6HVsDWyBbAUBPhu4S7Fnez"
@@ -1906,6 +1906,24 @@
     },
     {
       "album": {
+        "name": "When You're Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/3xlMYD2dXpt1EF0xQIA2lj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "When You're Gone - Acoustic",
+      "url": "https://open.spotify.com/track/3KrfUt1cYSbkBpstlITPkp"
+    },
+    {
+      "album": {
         "name": "willow (lonely witch version)",
         "url": "https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc"
       },
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173652,
       "name": "Wonder - Acoustic",
       "url": "https://open.spotify.com/track/3Plgpbvrf4pS7dVeUmzyK9"

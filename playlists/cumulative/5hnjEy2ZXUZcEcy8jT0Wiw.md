@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-334 songs - 23 hr 22 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+336 songs - 23 hr 30 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Binary Habitat](https://open.spotify.com/track/7lbJEhMDS7FEYCmPg62Tq1) | [Damokles](https://open.spotify.com/artist/7mcwUzzTMmL4M9Xh959CDK) | [Bits & Pieces 2](https://open.spotify.com/album/494tcR6c6CnKptisjnuMuW) | 4:19 | 2019-07-15 |  |
 | [Biomechanoid](https://open.spotify.com/track/6Lb2UZv6h3gUSeaCOs9aoS) | [Wraithwalker](https://open.spotify.com/artist/3jCaxDDk5tcGOHsX4x0HxE) | [Blackest Night](https://open.spotify.com/album/2Dn29pRHaR0z1zYezVllGV) | 3:31 | 2019-12-16 |  |
 | [Black Racers](https://open.spotify.com/track/7IyCrKuxOUWagaFFERU3hr) | [Fixions](https://open.spotify.com/artist/7Ld8IeyguzDTcr1dNSBbze) | [Mother Russia Bleeds](https://open.spotify.com/album/3VnSpyPdRh0z0VNlt6rz94) | 3:32 | 2019-07-15 |  |
+| [boo hast](https://open.spotify.com/track/2lsib3FZBij9lm3nOCfaet) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [boo hast](https://open.spotify.com/album/1rgBam0I15qlgcQZ4KqcHQ) | 3:13 | 2022-05-13 |  |
 | [Bootes Void](https://open.spotify.com/track/2LefwxTF9NPJsxLHa0a2If) | [Leaving the Sequence](https://open.spotify.com/artist/5bn0DJ7Z4weRoxVKlS0YcF) | [Bootes Void](https://open.spotify.com/album/2lc1BwFDujTcQYmAlDCvSx) | 5:43 | 2019-07-15 |  |
 | [Breakout](https://open.spotify.com/track/3AtbsatcYEInwPnZHSyDJT) | [Sonic Gap](https://open.spotify.com/artist/6QRr0IwTkKmxqIv5jPAEwq) | [Connect](https://open.spotify.com/album/11bK1YRV9yaJc9LHvLrVpB) | 3:22 | 2019-11-04 |  |
 | [Breath of a Serpent](https://open.spotify.com/track/4mvJuUedjCOL6fFp3inK2R) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Katana Zero \(Original Soundtrack\)](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK) | 3:36 | 2019-07-16 |  |
@@ -312,6 +313,7 @@
 | [Time Traveller](https://open.spotify.com/track/7wJyB9pdmRDmFEHSOsTPcs) | [Powernerd](https://open.spotify.com/artist/2vio6wIiVR3XOM1zlgMxXK) | [Far from Human](https://open.spotify.com/album/42zEbrNVwpaX2wmrKM9nbL) | 3:41 | 2019-11-30 |  |
 | [Time's Up, Pt\. 2](https://open.spotify.com/track/0NSGP5l93AWU77hol6P4ZC) | [Slprs](https://open.spotify.com/artist/4ePT6uul45VPs90qcaH70B) | [Time's Up](https://open.spotify.com/album/3RTgGPY5ilkfPMAOeTFOCL) | 2:56 | 2019-09-19 |  |
 | [Timeline](https://open.spotify.com/track/1bbwOQwDYfENC2k6hpV1Oc) | [Iterations](https://open.spotify.com/artist/49kDrCRjTsLxJETYSWBVjt) | [Cathode Rayguns](https://open.spotify.com/album/1X1KFw87joG1giWDrR66Oz) | 4:20 | 2020-01-22 |  |
+| [TO BURN ONESELF BY FIRE](https://open.spotify.com/track/61lhGu2IL2pVxdkI3vqddy) | [FUTURE NIGHTMARES](https://open.spotify.com/artist/3zuBlp2jROu70YTftLcixP) | [TO BURN ONESELF BY FIRE](https://open.spotify.com/album/06ns0AH10SIB15zqQV2ZhS) | 4:16 | 2022-05-13 |  |
 | [Tokyo Bandit](https://open.spotify.com/track/054Zs0FYH7WgoFRPpe12Jm) | [Moter](https://open.spotify.com/artist/4kIFvYrKT2C08BWI7KfTch) | [Last Train to Synthville](https://open.spotify.com/album/1C0haMpIYwdyuXlVpHJ9Pb) | 4:37 | 2019-07-16 |  |
 | [Total Nuclear Annihilation](https://open.spotify.com/track/4iQbNnMYrLytCBIYKGTCIb) | [Scott Danesi](https://open.spotify.com/artist/7BVd1OKdlUu533cwuaH9B8) | [Total Nuclear Annihilation](https://open.spotify.com/album/0aOWrCBwtkGSsq8HA25rVW) | 4:38 | 2020-12-07\* | 2021-09-16 |
 | [Trans](https://open.spotify.com/track/5do4uP7PRNeqZ1qDvDH5II) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Aleph](https://open.spotify.com/album/3MiiF9utmtGnLVITgl0JP7) | 4:33 | 2019-07-16 |  |
@@ -331,7 +333,7 @@
 | [Wander Through Me](https://open.spotify.com/track/7azF7S66H5sxBJRtk4owsz) | [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Figments](https://open.spotify.com/album/0LPBRqGk7q7MEs1dzj6nrt) | 4:05 | 2019-07-15 |  |
 | [Wandering Samurai](https://open.spotify.com/track/5TmSdd0JEXLVLrHxiywxed) | [MAGNAVOLT](https://open.spotify.com/artist/0rYuZn0zZhIzTLVJ9FmhSV) | [Artificial](https://open.spotify.com/album/74qXjgoCUq79W2ViXkw4xK) | 3:53 | 2019-07-15 |  |
 | [War Torn \(Hans Zarkov Remix\)](https://open.spotify.com/track/5VwjL2eulraoxr6ALj3rcV) | [Retroglyphs](https://open.spotify.com/artist/49yzGp5scOEx58xt8oE4OG) | [Remixes](https://open.spotify.com/album/6AraLhXcEOjbx0bNvevpmC) | 5:48 | 2019-09-18 |  |
-| [warioteque](https://open.spotify.com/track/2h1bBKsJfigAAF0KX5ApbL) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [warioteque](https://open.spotify.com/album/350vqRapqLcHUGHgysI8p3) | 3:28 | 2022-04-29 |  |
+| [warioteque](https://open.spotify.com/track/2h1bBKsJfigAAF0KX5ApbL) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [warioteque](https://open.spotify.com/album/350vqRapqLcHUGHgysI8p3) | 3:28 | 2022-04-29 | 2022-05-14 |
 | [Warp Nine](https://open.spotify.com/track/4o9aSYCUfuv4KTxktDNxi7) | [Overvad](https://open.spotify.com/artist/5p2lvkuXdOlK4tmTy4Ayt7) | [Outer Reach](https://open.spotify.com/album/4BBmF0RdAI0FfocivaNtGC) | 6:15 | 2019-09-04 |  |
 | [Wavenumber](https://open.spotify.com/track/1a2EUg8CxbMceICTPHJi75) | [Baddon](https://open.spotify.com/artist/0hnVmitsimt346SpFwvqXj) | [Wavenumber](https://open.spotify.com/album/3pUz9nYV2ZOYfhaqDZCBR2) | 3:50 | 2020-12-07\* | 2021-09-16 |
 | [Waves](https://open.spotify.com/track/3W9iJfiK4HY0wPEbS6mNJy) | [Charlie Vincent](https://open.spotify.com/artist/4y9x79nOv9e2jqetwiIt6s) | [Waves](https://open.spotify.com/album/4J35K0xZA9GkZ316TLSy25) | 4:15 | 2020-05-20 |  |

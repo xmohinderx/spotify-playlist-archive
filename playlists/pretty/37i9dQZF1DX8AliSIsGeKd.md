@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Moderat
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,419 likes - 72 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,601 likes - 74 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,18 +67,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 57 | [In the Mood](https://open.spotify.com/track/0HBcpaFoHQkyvKc9xVfgzm) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [In the Mood](https://open.spotify.com/album/2DgQhKfAPO6J8VB5DaWP9b) | 3:50 |
 | 58 | [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 |
 | 59 | [Roots \- Mollono.Bass Remix](https://open.spotify.com/track/77ZQxPnxOGhUenLa9GZdnu) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT), [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Plenty Of Nothing](https://open.spotify.com/album/2s2nrZRVoSEfqHZrVmJv8N) | 5:19 |
-| 60 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
-| 61 | [Dreaming](https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming](https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB) | 2:16 |
-| 62 | [Solace](https://open.spotify.com/track/6UgBaEXuexQCA0yNmmrw9W) | [Jono Stephenson](https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL) | [Blue Horizon](https://open.spotify.com/album/08ITVuW6fxTNgynQE0Zz85) | 6:06 |
-| 63 | [The Gallery](https://open.spotify.com/track/3aPnelfLDaNxUE8oj5ZVDF) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Whalesharkattacks](https://open.spotify.com/artist/30OJnpvrGlgy5EAtKRBPpJ) | [The Gallery](https://open.spotify.com/album/7BRYajbod0TYQNvVxVpIX7) | 5:41 |
-| 64 | [Drawn Rain](https://open.spotify.com/track/1Xj9iLr18pAB0RiWwkX3hf) | [S.ONE](https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc) | [Drawn Rain](https://open.spotify.com/album/2rxF2SPg87eTHHTD3jtT2f) | 6:55 |
-| 65 | [Crystal 22 \- Original Mix](https://open.spotify.com/track/5KkMMt52tx8nBOE7Pbgxux) | [Graumann](https://open.spotify.com/artist/32wi0zvRMBhVnuecqYUSr1) | [Crystal 22](https://open.spotify.com/album/5inYWMKsAxMDmArnQA8Qe1) | 7:16 |
-| 66 | [Viento, Color y Fuego](https://open.spotify.com/track/0FuQSbeuQkpwYtV2ZLnWpH) | [Wally Lopez](https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ) | [Viento, Color y Fuego](https://open.spotify.com/album/3KKtEB4O2tvuTAav0x4T0n) | 3:14 |
-| 67 | [Gaia](https://open.spotify.com/track/0oKYqOAuzGrLbakRHMbFnk) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Gaia](https://open.spotify.com/album/7vW4gBsax9nfeS8r5ZWeSp) | 6:25 |
-| 68 | [The Bell Tolls](https://open.spotify.com/track/3r1OCYII5dLXjkunEhH6FI) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [The Bell Tolls \| For Kiev \| When the Sun Goes Down](https://open.spotify.com/album/5bTf5E9GGFt5BrCpNhyBlS) | 7:20 |
-| 69 | [Lost](https://open.spotify.com/track/3rBi5p8tSMbtzqtQVkTi2L) | [5DUST](https://open.spotify.com/artist/4b0VDiiIl8ZT1vdzpsvWb1) | [Lost](https://open.spotify.com/album/7rEnt8hACs4MheXnzBJFIt) | 4:15 |
-| 70 | [Australia \- Edit](https://open.spotify.com/track/2CFRljcEG8JR4JpgP4A56X) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Alex Banks](https://open.spotify.com/artist/2eQoWrMAVomftJQMFnZ6iE) | [LNOE TEN, Vol\. II](https://open.spotify.com/album/5NtdTVdUFfJMdgfIqcDS37) | 3:53 |
-| 71 | [Too Late](https://open.spotify.com/track/027RooXxvZGn0WEkEj8d6s) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Too Late](https://open.spotify.com/album/3RCWfFOf8PobmnA4neSTpJ) | 6:59 |
-| 72 | [Tenderness](https://open.spotify.com/track/6vVl5QZF1qR1a5ijjiEkch) | [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u) | [Heist Mastercuts EP](https://open.spotify.com/album/7y9QMsMUqT79jodTsdrhUf) | 5:37 |
+| 60 | [Empires Of The North](https://open.spotify.com/track/5Tk2XCfrRLVwVMK4zvk690) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a) | [Empire EP](https://open.spotify.com/album/6di6YbDP1WIdHmsboMKikN) | 3:50 |
+| 61 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
+| 62 | [Dreaming](https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming](https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB) | 2:16 |
+| 63 | [Solace](https://open.spotify.com/track/6UgBaEXuexQCA0yNmmrw9W) | [Jono Stephenson](https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL) | [Blue Horizon](https://open.spotify.com/album/08ITVuW6fxTNgynQE0Zz85) | 6:06 |
+| 64 | [The Gallery](https://open.spotify.com/track/3aPnelfLDaNxUE8oj5ZVDF) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Whalesharkattacks](https://open.spotify.com/artist/30OJnpvrGlgy5EAtKRBPpJ) | [The Gallery](https://open.spotify.com/album/7BRYajbod0TYQNvVxVpIX7) | 5:41 |
+| 65 | [Drawn Rain](https://open.spotify.com/track/1Xj9iLr18pAB0RiWwkX3hf) | [S.ONE](https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc) | [Drawn Rain](https://open.spotify.com/album/2rxF2SPg87eTHHTD3jtT2f) | 6:55 |
+| 66 | [Crystal 22 \- Original Mix](https://open.spotify.com/track/5KkMMt52tx8nBOE7Pbgxux) | [Graumann](https://open.spotify.com/artist/32wi0zvRMBhVnuecqYUSr1) | [Crystal 22](https://open.spotify.com/album/5inYWMKsAxMDmArnQA8Qe1) | 7:16 |
+| 67 | [Viento, Color y Fuego](https://open.spotify.com/track/0FuQSbeuQkpwYtV2ZLnWpH) | [Wally Lopez](https://open.spotify.com/artist/52qx8aMzSqi7JTJUI2dJqZ) | [Viento, Color y Fuego](https://open.spotify.com/album/3KKtEB4O2tvuTAav0x4T0n) | 3:14 |
+| 68 | [Gaia](https://open.spotify.com/track/0oKYqOAuzGrLbakRHMbFnk) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Gaia](https://open.spotify.com/album/7vW4gBsax9nfeS8r5ZWeSp) | 6:25 |
+| 69 | [The Bell Tolls](https://open.spotify.com/track/3r1OCYII5dLXjkunEhH6FI) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [The Bell Tolls \| For Kiev \| When the Sun Goes Down](https://open.spotify.com/album/5bTf5E9GGFt5BrCpNhyBlS) | 7:20 |
+| 70 | [Lost](https://open.spotify.com/track/3rBi5p8tSMbtzqtQVkTi2L) | [5DUST](https://open.spotify.com/artist/4b0VDiiIl8ZT1vdzpsvWb1) | [Lost](https://open.spotify.com/album/7rEnt8hACs4MheXnzBJFIt) | 4:15 |
+| 71 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
+| 72 | [Australia \- Edit](https://open.spotify.com/track/2CFRljcEG8JR4JpgP4A56X) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Alex Banks](https://open.spotify.com/artist/2eQoWrMAVomftJQMFnZ6iE) | [LNOE TEN, Vol\. II](https://open.spotify.com/album/5NtdTVdUFfJMdgfIqcDS37) | 3:53 |
+| 73 | [Too Late](https://open.spotify.com/track/027RooXxvZGn0WEkEj8d6s) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Too Late](https://open.spotify.com/album/3RCWfFOf8PobmnA4neSTpJ) | 6:59 |
+| 74 | [Tenderness](https://open.spotify.com/track/6vVl5QZF1qR1a5ijjiEkch) | [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u) | [Heist Mastercuts EP](https://open.spotify.com/album/7y9QMsMUqT79jodTsdrhUf) | 5:37 |
 
 Snapshot ID: `MTY1MjM5NjQwMCwwMDAwMDE4ZDAwMDAwMTgwYmE4MDFmNzgwMDAwMDE4MGFkNjE5OGM0`

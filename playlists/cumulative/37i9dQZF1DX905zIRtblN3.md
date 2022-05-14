@@ -2,9 +2,9 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Grupo Firme, al millón con La Reina.
+> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Marca MP & Becky G, al millón con La Reina.
 
-122 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
+124 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 | 2022-01-18 | 2022-03-05 |
 | [Ella](https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 4:19 | 2021-12-17 | 2022-05-10 |
 | [Ella Qué Te Dio](https://open.spotify.com/track/3Ot2GARqAwZfEX4JMZkkq8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Ella Qué Te Dio](https://open.spotify.com/album/2dIJdIf0ALm98VNk6Cy7Pe) | 3:48 | 2021-12-17 | 2022-01-04 |
+| [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-13 |  |
 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 | 2022-01-03 | 2022-03-18 |
 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 | 2021-12-17 |  |
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-12-17 |  |
@@ -89,7 +90,7 @@
 | [Otra Noche](https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC) | 3:18 | 2022-03-03 | 2022-04-02 |
 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 | 2022-03-07 | 2022-03-30 |
 | [Perfecta](https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Las Pacas](https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX) | 4:41 | 2022-04-15 |  |
-| [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 | 2022-03-18 |  |
+| [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 | 2022-03-18 | 2022-05-14 |
 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 | 2021-12-17 | 2022-01-18 |
 | [Porte Exuberante](https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:33 | 2021-12-17 | 2022-01-13 |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-03-29 |  |
@@ -101,6 +102,7 @@
 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 | 2022-04-08 |  |
 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 | 2021-12-17 |  |
 | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3) | 3:22 | 2021-12-17 |  |
+| [Si Me Duele Que Duela](https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Si Me Duele Que Duela](https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY) | 2:51 | 2022-05-13 |  |
 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 | 2021-12-17 | 2022-01-29 |
 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 | 2022-05-09 |  |
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2021-12-17 | 2022-05-07 |
@@ -118,7 +120,7 @@
 | [Tú](https://open.spotify.com/track/1nLs8r6K4YN0avBwUmmTnr) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 1\)](https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj) | 4:06 | 2021-12-17 | 2022-02-23 |
 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 | 2022-03-04 | 2022-03-30 |
 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 | 2021-12-17 | 2022-04-22 |
-| [Un Nuevo Amor](https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Un Nuevo Amor](https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2) | 3:46 | 2022-04-01 |  |
+| [Un Nuevo Amor](https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Un Nuevo Amor](https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2) | 3:46 | 2022-04-01 | 2022-05-14 |
 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 | 2022-05-06 |  |
 | [Y Si Se Quiere Ir](https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Y Si Se Quiere Ir](https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc) | 3:07 | 2021-12-17 |  |
 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 | 2022-04-29 |  |

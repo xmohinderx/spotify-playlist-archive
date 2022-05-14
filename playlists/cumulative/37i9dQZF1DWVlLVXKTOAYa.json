@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 227627,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL"
@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 199169,
       "name": "cheap sunglasses",
       "url": "https://open.spotify.com/track/4E94u3v7VnEFZkaRIYtad7"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 190700,
       "name": "Crash",
       "url": "https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ"
@@ -2645,7 +2645,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 201657,
       "name": "Emily",
       "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
@@ -2773,7 +2773,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 115401,
       "name": "everything sucks",
       "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
@@ -3125,7 +3125,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 169672,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
@@ -3625,7 +3625,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 151444,
       "name": "Happier Than Ever - Edit",
       "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
@@ -3867,7 +3867,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
@@ -3885,7 +3885,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -5181,7 +5181,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 198220,
       "name": "Keep Your Head Up Princess",
       "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
@@ -5881,7 +5881,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 163226,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R"
@@ -5975,7 +5975,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 171280,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
@@ -6109,7 +6109,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178994,
       "name": "Monster (Shawn Mendes & Justin Bieber)",
       "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
@@ -7100,6 +7100,24 @@
     },
     {
       "album": {
+        "name": "Peter Pan Was Right",
+        "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192497,
+      "name": "Peter Pan Was Right",
+      "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
+    },
+    {
+      "album": {
         "name": "Pick and Choose",
         "url": "https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ"
       },
@@ -7417,7 +7435,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 187452,
       "name": "Red Eye (feat. TroyBoi)",
       "url": "https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT"
@@ -7703,7 +7721,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 136563,
       "name": "Running Out Of Roses",
       "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
@@ -9039,7 +9057,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 174586,
       "name": "this is how you fall in love",
       "url": "https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ"
@@ -9265,7 +9283,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 203466,
       "name": "Trouble - from \u2018Three Months\u2019",
       "url": "https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS"
@@ -9731,7 +9749,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173242,
       "name": "When I\u00b4m Still Getting Over You (feat. Paige)",
       "url": "https://open.spotify.com/track/7suhPkKX61NRfwW7A4TK6t"

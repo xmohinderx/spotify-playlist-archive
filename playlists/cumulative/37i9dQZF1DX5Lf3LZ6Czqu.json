@@ -842,6 +842,24 @@
     },
     {
       "album": {
+        "name": "Pull The Trigger",
+        "url": "https://open.spotify.com/album/11EUokR6Jx7XQAZc9Mo7Pg"
+      },
+      "artists": [
+        {
+          "name": "Sergey Sershen",
+          "url": "https://open.spotify.com/artist/6Bt2KElruZAuMZpdPZlh9W"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188224,
+      "name": "Pull The Trigger",
+      "url": "https://open.spotify.com/track/50YQPtM31mct7NOIBHALQr"
+    },
+    {
+      "album": {
         "name": "Sounds of Innocence",
         "url": "https://open.spotify.com/album/0rtwwQetfvL67PGfCQcngs"
       },

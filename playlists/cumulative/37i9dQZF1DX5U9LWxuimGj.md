@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Kat & Alex
 
-79 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
+80 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Me Olvidé de Vivir](https://open.spotify.com/track/4HnSjaMV1PoRaRveNG2KKY) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 5:35 | 2021-12-10 |  |
 | [Morenita](https://open.spotify.com/track/7sIpHft18Pg6GsvOsYTGd0) | [Teo & Diego](https://open.spotify.com/artist/299l7hHRNKCmeRGmGiSCjQ) | [Morenita](https://open.spotify.com/album/5jm5YRpf876zq3wb9v8VKN) | 3:10 | 2021-12-10 |  |
 | [Most Nights](https://open.spotify.com/track/5gs9CYfoPQUKJ9TPBRgBWI) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Most Nights](https://open.spotify.com/album/40FJ8tW2YSU4gXEj9WOLgN) | 3:18 | 2021-12-10 |  |
+| [Mountains](https://open.spotify.com/track/0YrVuZbN2BmMjXYdyUQo4k) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Mountains](https://open.spotify.com/album/7n1yMlzN1ciH8dEsWFYmmZ) | 3:15 | 2022-05-13 |  |
 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 | 2021-12-10 |  |
 | [Neil Young](https://open.spotify.com/track/1cWGEn37KTIQhsRkBVTmT0) | [Los eternos](https://open.spotify.com/artist/6oE0GszhdtC6IcGv1HFls8) | [Vientos Solitarios](https://open.spotify.com/album/6On6L6sEBLBn0bv26utzek) | 2:55 | 2021-12-10 |  |
 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 | 2021-12-10 |  |

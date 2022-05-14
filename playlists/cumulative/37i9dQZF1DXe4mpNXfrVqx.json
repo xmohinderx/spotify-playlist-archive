@@ -734,6 +734,28 @@
     },
     {
       "album": {
+        "name": "Making Luv",
+        "url": "https://open.spotify.com/album/7eh0moIuvRGns9Hc12ZYj0"
+      },
+      "artists": [
+        {
+          "name": "Brisa Flow",
+          "url": "https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO"
+        },
+        {
+          "name": "TiDUS",
+          "url": "https://open.spotify.com/artist/7IxX7YZFKExg98w2dxgsXj"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185524,
+      "name": "Making Luv",
+      "url": "https://open.spotify.com/track/4S8rwnVkJ3P8LgmKavFS9C"
+    },
+    {
+      "album": {
         "name": "Mal Acostumada",
         "url": "https://open.spotify.com/album/0r6xdmo9wYNcHrsIlpDvNh"
       },
@@ -1177,7 +1199,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 137142,
       "name": "Pula em Mim",
       "url": "https://open.spotify.com/track/3hIc3UgiyAF8290nR24149"

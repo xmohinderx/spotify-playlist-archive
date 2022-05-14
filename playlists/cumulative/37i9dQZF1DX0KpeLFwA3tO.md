@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Viagra Boys
 
-308 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+310 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [SIDEWAYS \(with Travis Barker\)](https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [MY FAVORITE NIGHTMARES](https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ) | 2:04 | 2021-12-17 | 2022-03-11 |
 | [Sober](https://open.spotify.com/track/5trFqaSXEVsKk0dH3XeEQb) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Sober](https://open.spotify.com/album/6cSdm63mgMvJJ7iStrfhlb) | 2:55 | 2022-03-11 | 2022-04-22 |
 | [sober](https://open.spotify.com/track/7qhIVH6Vov1CxFX7X7s8RM) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [BOYFRIENDZ](https://open.spotify.com/artist/0iZ1Gwx0L2YqRDBTF3JzqT) | [sober](https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf) | 3:06 | 2021-12-17 | 2022-02-04 |
+| [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 | 2022-05-12 |  |
 | [Speed Dial](https://open.spotify.com/track/0LrWMZCmxWegxbZbQccppU) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Speed Dial](https://open.spotify.com/album/7wEZ3uiW1DrNEt51EWcI7l) | 2:15 | 2022-05-12 |  |
 | [Spit It Out](https://open.spotify.com/track/5o8DTXHIC8OZBBBtHpoQvt) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [Spit It Out](https://open.spotify.com/album/3yPSJCm8WoRdsN0A0jtaKq) | 2:38 | 2022-04-28 |  |
 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 | 2022-01-21 | 2022-03-11 |
@@ -255,6 +256,7 @@
 | [such.a.shame](https://open.spotify.com/track/04NGTMGRH8GmDMOvTuRZ6R) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [such.a.shame](https://open.spotify.com/album/7rfZBUbE3cfxXXPW9haLxw) | 3:18 | 2022-02-25 | 2022-03-25 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2022-04-22 |
 | [switchblade](https://open.spotify.com/track/5f5HlAWAgkfAJA1wK2IkCp) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [switchblade](https://open.spotify.com/album/2VZoxuBGO4qt4r5dgKZi4V) | 2:38 | 2022-04-14 |  |
+| [Talk to Me](https://open.spotify.com/track/5Ksj30jkBKURjP37bJHt6y) | [Scarlett O'Hara](https://open.spotify.com/artist/5ePmU5aXpdUJvBhlzEyjHp) | [Talk to Me](https://open.spotify.com/album/4BlNHCk4YJVesRg1QGq0EV) | 3:28 | 2022-05-12 |  |
 | [Talking To Myself](https://open.spotify.com/track/3YVG2OfBF5ov6sl2NE2rkL) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Talking To Myself](https://open.spotify.com/album/6JSEuzJCBvazkD8Ewi7Yxt) | 2:22 | 2022-03-04 | 2022-04-22 |
 | [Talking To Ourselves \- IDLES Inner Monologue Remix](https://open.spotify.com/track/3tCihDQBzsGFRtfIn3KPG6) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Talking To Ourselves \(IDLES Inner Monologue Remix\)](https://open.spotify.com/album/1QXOX0l2HAa7ekuS9QtPpe) | 4:52 | 2022-03-04 | 2022-04-08 |
 | [Talking To Ourselves \- Nowhere Sessions](https://open.spotify.com/track/5xY9w82ln57yAxtwNEU7ha) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Talking To Ourselves \(Nowhere Sessions\)](https://open.spotify.com/album/0cojTDESsFKop7BaFCdL8L) | 3:25 | 2021-12-17 | 2022-01-21 |

@@ -4,7 +4,7 @@
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Bad Bunny.
 
-62 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
+63 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/6ib4E7QcDsjYbPU6AdAszH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-14 |  |
 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 | 2022-04-21 |  |
 | [Como Te Va](https://open.spotify.com/track/3y0h34yThCG2qGO4vR0oi5) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Te Va](https://open.spotify.com/album/77iLR6m7fjHq7pZgIX3cc8) | 3:45 | 2022-04-14 |  |
-| [COMPLICES](https://open.spotify.com/track/6s980QxDECNvU8pp1SoSwP) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [COMPLICES](https://open.spotify.com/album/35YJilctgWruJnQTGpvi3k) | 4:06 | 2022-04-14 |  |
+| [COMPLICES](https://open.spotify.com/track/6s980QxDECNvU8pp1SoSwP) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [COMPLICES](https://open.spotify.com/album/35YJilctgWruJnQTGpvi3k) | 4:06 | 2022-04-14 | 2022-05-14 |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-04-14 |  |
 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 | 2022-04-14 |  |
 | [Dime Tú](https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Dime Tú](https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx) | 3:45 | 2022-04-14 |  |
@@ -70,5 +70,6 @@
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-04-14 |  |
 | [Waka Waka](https://open.spotify.com/track/0PKHOIZYG7tszv17tgIZlZ) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Waka Waka](https://open.spotify.com/album/2RhraG6BolsoZb7bw8WuK8) | 3:00 | 2022-04-14 | 2022-04-21 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-04-14 |  |
+| [Yo Quiero](https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Yo Quiero](https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528) | 3:29 | 2022-05-13 |  |
 
 \*This playlist was first scraped on 2022-04-16. Prior content cannot be recovered.

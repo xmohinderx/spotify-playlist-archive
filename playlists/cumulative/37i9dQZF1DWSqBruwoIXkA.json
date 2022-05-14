@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 223182,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/4FSIfpGQEdJsLXIbufqvOo"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 198166,
       "name": "Brave Face",
       "url": "https://open.spotify.com/track/4yB1s08jEfpRMb0K07qCE9"
@@ -1494,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "Sad Bird",
+        "url": "https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT"
+      },
+      "artists": [
+        {
+          "name": "Eloise Alterman",
+          "url": "https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180363,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5czDKqPioLGfqZUERYxVZC"
+    },
+    {
+      "album": {
         "name": "Here's Your Perfect (Acoustic)",
         "url": "https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN"
       },
@@ -1685,7 +1703,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 213986,
       "name": "i can't breathe",
       "url": "https://open.spotify.com/track/1qFMIjTe9esCDiytqUY19t"
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 291796,
       "name": "i love you",
       "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 198823,
       "name": "if you hate me, say it",
       "url": "https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 203300,
       "name": "Is It Just Me? (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/1vSzDndzFVbHWl77uKOhhy"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
@@ -2269,7 +2287,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
@@ -2969,7 +2987,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 258812,
       "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
@@ -2987,7 +3005,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 162581,
       "name": "Nothing's All The Time",
       "url": "https://open.spotify.com/track/3m3bd62913zzUd48L53Lc1"
@@ -3539,7 +3557,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 205113,
       "name": "Stayed Strangers",
       "url": "https://open.spotify.com/track/5fHc27dNyLvzXStTjbONxm"
@@ -3673,6 +3691,24 @@
       "duration_ms": 202202,
       "name": "the older you get, the less you cry",
       "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
+    },
+    {
+      "album": {
+        "name": "the reason i hate home",
+        "url": "https://open.spotify.com/album/60w9GszHHtExusXvbenVKz"
+      },
+      "artists": [
+        {
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "the reason i hate home",
+      "url": "https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj"
     },
     {
       "album": {
@@ -4027,7 +4063,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202014,
       "name": "What I Put You Through",
       "url": "https://open.spotify.com/track/4JCcXmANxb48z3WTeUHiJp"

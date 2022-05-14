@@ -2,9 +2,9 @@
 
 ### [Everyday Favorites ](https://open.spotify.com/playlist/37i9dQZF1DWWvoJqVv7uOD)
 
-> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Taylor Swift
+> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Demot Kennedy
 
-165 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
+168 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Good Things](https://open.spotify.com/track/0n2ZsjzilyRjIyCr7Mcgk7) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/6ap7EgZFWKOCrsGZyAzM9U) | 2:28 | 2022-02-04 |  |
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2022-02-04 | 2022-05-07 |
 | [Green Green Grass](https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass](https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC) | 2:47 | 2022-04-22 |  |
-| [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-04-29 |  |
+| [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-04-29 | 2022-05-14 |
 | [Hate Me](https://open.spotify.com/track/6mP7CeP3ZjmRNSBRlQGhyQ) | [Rose Betts](https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i) | [White Orchids](https://open.spotify.com/album/5kisFZt1dfCkmN312AwGh0) | 2:56 | 2022-03-29 | 2022-04-02 |
 | [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 | 2022-04-29 |  |
 | [Here’s Your Perfect \(with salem ilese\)](https://open.spotify.com/track/4Cw1fQBX3TaiZQwOAyddnj) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Here’s Your Perfect \(with salem ilese\)](https://open.spotify.com/album/5GniWbyYasCTUi8UZO6JZA) | 2:38 | 2022-02-04 | 2022-04-29 |
@@ -81,10 +81,12 @@
 | [History](https://open.spotify.com/track/5Kua7qb1Ze2yQNH3rVChol) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [History](https://open.spotify.com/album/0gN1XPYzfFVGy0XFvzRuC3) | 2:48 | 2022-03-04 | 2022-03-30 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2022-02-04 | 2022-04-02 |
 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2022-05-04 |  |
+| [Holding On](https://open.spotify.com/track/2FnLef29UuWUyj3TKEubR1) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Holding On](https://open.spotify.com/album/2xc5v6FRt8E3cEiAb71B7o) | 3:43 | 2022-05-13 |  |
 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 | 2022-02-04 | 2022-02-19 |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-02-18 | 2022-04-09 |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-29 | 2022-04-16 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-01 |  |
+| [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-13 |  |
 | [i don't wanna lose again](https://open.spotify.com/track/7i486TulfhsAzMItM2zChQ) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i don't wanna lose again](https://open.spotify.com/album/0moECp4h0pO4of8BkTdGQR) | 2:44 | 2022-04-22 |  |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2022-02-04 |  |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-02-04 | 2022-03-05 |
@@ -106,7 +108,7 @@
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2022-02-04 |  |
 | [Lets Go Home Together \(feat\. Tom Grennan\)](https://open.spotify.com/track/5JeQ8hhkFfUh7XljgD8dBM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:28 | 2022-02-04 | 2022-05-07 |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2022-02-04 |  |
-| [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-29 |  |
+| [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-29 | 2022-05-14 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-02-04 | 2022-03-18 |
 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 | 2022-04-01 |  |
 | [Lipstick](https://open.spotify.com/track/2aG8DaUYPtNmlbvp6mLEXr) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 2:51 | 2022-04-29 |  |
@@ -133,6 +135,7 @@
 | [Need You Tonight](https://open.spotify.com/track/4HLuopIC1sQIgTAcDwkkqR) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Need You Tonight](https://open.spotify.com/album/2vVY1FESWAdXJLyF7vd7w8) | 3:18 | 2022-02-04 | 2022-04-29 |
 | [Nothing Holy](https://open.spotify.com/track/4aMUvgDqqPBHpV7KT5gbVY) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something \(Deluxe\)](https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p) | 3:39 | 2022-02-04 | 2022-02-19 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2022-02-04 | 2022-02-19 |
+| [One Life](https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [One Life](https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8) | 3:25 | 2022-05-13 |  |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2022-02-04 |  |
 | [Perfect](https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Perfect](https://open.spotify.com/album/6GNFZBEpeXZq5zMMIVzCmh) | 2:48 | 2022-02-04 | 2022-03-30 |
 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 | 2022-02-18 | 2022-03-05 |

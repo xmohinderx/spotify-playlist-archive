@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 141121,
       "name": "A Dream is a Wish Your Heart Makes",
       "url": "https://open.spotify.com/track/5zAG6QyEaqloTJPLn9wexX"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 160466,
       "name": "Back Home",
       "url": "https://open.spotify.com/track/1pgSiIvNXVQAKlMvjvqL0r"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 130624,
       "name": "Can You Feel The Love Tonight",
       "url": "https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz"
@@ -2420,6 +2420,24 @@
     },
     {
       "album": {
+        "name": "If I Were an Astronaut",
+        "url": "https://open.spotify.com/album/2SyqxeyjjTR0k4j1riNTwA"
+      },
+      "artists": [
+        {
+          "name": "Dana McGowen",
+          "url": "https://open.spotify.com/artist/4VsnumFuiW1YdUCHgENYUB"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81750,
+      "name": "If I Were an Astronaut",
+      "url": "https://open.spotify.com/track/2Ygx4161pwI6xWkd3zu6HV"
+    },
+    {
+      "album": {
         "name": "If You're Happy and You Know It",
         "url": "https://open.spotify.com/album/1wxlNEqXjluWa8lRqS5vXk"
       },
@@ -2453,6 +2471,24 @@
       "duration_ms": 113124,
       "name": "Ik zie je morgen",
       "url": "https://open.spotify.com/track/4vkqxl9pJlF3aAHL8uxdaN"
+    },
+    {
+      "album": {
+        "name": "Il mio bambino",
+        "url": "https://open.spotify.com/album/2Uai0rWKNl4B7s3k7muORv"
+      },
+      "artists": [
+        {
+          "name": "Verona Rizzo",
+          "url": "https://open.spotify.com/artist/3FhVFMTffYD78U04viWgVo"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125250,
+      "name": "Il mio bambino",
+      "url": "https://open.spotify.com/track/0ssGaSyS6FrfPa6NtncKnr"
     },
     {
       "album": {
@@ -2521,7 +2557,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 130191,
       "name": "It Ends with Us",
       "url": "https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs"
@@ -4598,6 +4634,24 @@
     },
     {
       "album": {
+        "name": "Snuggle Time",
+        "url": "https://open.spotify.com/album/3dcidxtZPen1iiUPHT8KzY"
+      },
+      "artists": [
+        {
+          "name": "Milly Fitzpatrick",
+          "url": "https://open.spotify.com/artist/0FQNq8baxg56GoRl1QH6z9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Snuggle Time",
+      "url": "https://open.spotify.com/track/0kHZ9XUe9ewCb7GUZjArlP"
+    },
+    {
+      "album": {
         "name": "Sleep Sleep",
         "url": "https://open.spotify.com/album/5Ge9qAlN0C1YzQ71yQhAtO"
       },
@@ -5819,6 +5873,24 @@
       "duration_ms": 123562,
       "name": "Wishful",
       "url": "https://open.spotify.com/track/6FucNnxWzwEY0WvhqbDzVQ"
+    },
+    {
+      "album": {
+        "name": "Wrapped In A Blanket",
+        "url": "https://open.spotify.com/album/4p94R4YXKMs09DXBmIYhcA"
+      },
+      "artists": [
+        {
+          "name": "Lucille Shannon",
+          "url": "https://open.spotify.com/artist/1kAuyhZ2vs4DMiGGOuTIiN"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100874,
+      "name": "Wrapped In A Blanket",
+      "url": "https://open.spotify.com/track/1S1SKKE7smqdaWWbx4Cdqx"
     },
     {
       "album": {

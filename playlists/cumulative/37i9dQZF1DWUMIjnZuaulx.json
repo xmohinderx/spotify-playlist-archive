@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Karima",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Deitrick Haddon",
   "name": "Fresh Gospel",
   "published_playlist_ids": [
     "6tbQcvssGqLrTKMvWwo62Y"
@@ -185,6 +185,24 @@
       "duration_ms": 257385,
       "name": "Anything but Fail",
       "url": "https://open.spotify.com/track/7cMMCxWyC4NQUI31lg8yVr"
+    },
+    {
+      "album": {
+        "name": "Back To Love (Live)",
+        "url": "https://open.spotify.com/album/154Y0bbRNmM9Gpgo62ffnf"
+      },
+      "artists": [
+        {
+          "name": "Stephen Anderson",
+          "url": "https://open.spotify.com/artist/6bSMeAQFs8arTGsN6leSVJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285275,
+      "name": "Back To Love - Live",
+      "url": "https://open.spotify.com/track/7lbBtOqYNJipIogmpqMLrI"
     },
     {
       "album": {
@@ -613,7 +631,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 200140,
       "name": "God Made",
       "url": "https://open.spotify.com/track/10R9lhq4htwyCqvso7QgL5"
@@ -897,6 +915,24 @@
       "duration_ms": 323144,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/6LMjMNtbErJ5VYNLFJMyUR"
+    },
+    {
+      "album": {
+        "name": "Here Comes the Joy",
+        "url": "https://open.spotify.com/album/6SwtN1RwT1NXeEdd00Oe69"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252332,
+      "name": "Here Comes the Joy",
+      "url": "https://open.spotify.com/track/4MYKJSucTbUsNkOQYIIohw"
     },
     {
       "album": {
@@ -2246,6 +2282,24 @@
     },
     {
       "album": {
+        "name": "Soul Pilot",
+        "url": "https://open.spotify.com/album/2in6hHBjzB4oqQKn84ertW"
+      },
+      "artists": [
+        {
+          "name": "Loren Mulraine",
+          "url": "https://open.spotify.com/artist/3XNRiHEtnDhAmrv5EoZesW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252822,
+      "name": "Soul Pilot",
+      "url": "https://open.spotify.com/track/0lqTHYyNFT6lUrQmcJql0o"
+    },
+    {
+      "album": {
         "name": "Sound Of The Believer",
         "url": "https://open.spotify.com/album/368Fp68stZJfc3b90tFOvc"
       },
@@ -2275,7 +2329,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 166963,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
@@ -2405,6 +2459,24 @@
       "duration_ms": 710916,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
+    },
+    {
+      "album": {
+        "name": "The 4th Man",
+        "url": "https://open.spotify.com/album/3xzLg7y8Bmc02X5IWu8FAM"
+      },
+      "artists": [
+        {
+          "name": "Dr Tumi",
+          "url": "https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397786,
+      "name": "The 4th Man",
+      "url": "https://open.spotify.com/track/78aypN49XOCv12qx2v35wE"
     },
     {
       "album": {

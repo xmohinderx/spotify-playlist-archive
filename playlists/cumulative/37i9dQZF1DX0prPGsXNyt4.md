@@ -4,7 +4,7 @@
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Paulin da Capital, Mc Dricka
 
-57 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/4VavWr4LbyFMzey3WZnEMy)
+58 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/4VavWr4LbyFMzey3WZnEMy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Dichave](https://open.spotify.com/track/3hYScvpnpwomGVVWhfZZA3) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Brunnin](https://open.spotify.com/artist/7sOl1POwSHsoZ2ezDJIapz), [Hpbeats](https://open.spotify.com/artist/4R26sDu3fyRuZVcnjTA5lj) | [Daquele Naip](https://open.spotify.com/album/2GlF4MhZ8JMR8326uH2ivg) | 3:30 | 2022-03-18 |  |
 | [Doutora 2](https://open.spotify.com/track/2AwpSQRW0iOKlx3AWSUZaf) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Doutora 2](https://open.spotify.com/album/4ygocMSqluhiWZHnDmB4Wl) | 3:26 | 2022-03-18 |  |
 | [Doutora 3](https://open.spotify.com/track/4DWKtQVURjepn8uzBgmwuv) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Funk é Nóis GR6 3.1 \- Vol\. 1](https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU) | 2:37 | 2022-03-18 |  |
+| [Dublê de Marido](https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Dublê de Marido](https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks) | 2:34 | 2022-05-13 |  |
 | [Dá pra ser?](https://open.spotify.com/track/7jdP9m9lpNp51ainfora8t) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Thiago Braga](https://open.spotify.com/artist/332BX60yn7fPIR2ivr8TxM), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:56 | 2022-03-18 |  |
 | [Essa Noite](https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 2:34 | 2022-03-18 |  |
 | [Estar Com Você](https://open.spotify.com/track/5DVf59dCoK2ch5O3gHZ7My) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Estar Com Você](https://open.spotify.com/album/1WnIusPTevmx5n0uJ6CJTk) | 3:00 | 2022-03-18 | 2022-04-16 |
@@ -63,7 +64,7 @@
 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 | 2022-03-18 |  |
 | [Trinta Minutos](https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Hat\-Trick do Tubarão](https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu) | 3:25 | 2022-03-18 |  |
 | [Tudo No Privê](https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Tudo No Privê](https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn) | 3:31 | 2022-03-18 |  |
-| [Viciado 2.0](https://open.spotify.com/track/3fNOuAYr2W1EliK0KFFkJf) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [OWL](https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS) | 2:53 | 2022-04-29 |  |
+| [Viciado 2.0](https://open.spotify.com/track/3fNOuAYr2W1EliK0KFFkJf) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [OWL](https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS) | 2:53 | 2022-04-29 | 2022-05-14 |
 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-03-18 |  |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

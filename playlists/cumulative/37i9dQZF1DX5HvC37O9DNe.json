@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "16 Marzo (feat. Gow Tribe)",
+        "url": "https://open.spotify.com/album/7xaaMpMRYrvikCTxc4flfe"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        },
+        {
+          "name": "Gow Tribe",
+          "url": "https://open.spotify.com/artist/2dAKW1tsAariQ0Ta2gqp8N"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233492,
+      "name": "16 Marzo (feat. Gow Tribe)",
+      "url": "https://open.spotify.com/track/3nwH3HTFzpnRV5SqM9um3r"
+    },
+    {
+      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/77EYcClmqkA3rWSWvSOHSN"
       },
@@ -129,7 +151,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 200733,
       "name": "Amare",
       "url": "https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc"
@@ -187,7 +209,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 231041,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
@@ -213,7 +235,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174638,
       "name": "Bam Bam Twist (feat. Gow Tribe, Frenetik&Orang3)",
       "url": "https://open.spotify.com/track/5i12eplaUT5pPE5iC6B2FZ"
@@ -293,7 +315,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178448,
       "name": "Cabriolet Panorama",
       "url": "https://open.spotify.com/track/4lajqBJavxKL3sllt1TcTH"
@@ -381,7 +403,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 189880,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
@@ -421,7 +443,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 189320,
       "name": "Concedimi",
       "url": "https://open.spotify.com/track/0pFjYM7JdNJhjuooMgesks"
@@ -519,10 +541,32 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 124065,
       "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
+    },
+    {
+      "album": {
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110222,
+      "name": "DAN\u00c7ARINA",
+      "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB"
     },
     {
       "album": {
@@ -573,7 +617,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 145462,
       "name": "Domani ci passa",
       "url": "https://open.spotify.com/track/3elLXGwE5zaREuOzWdlRJ2"
@@ -685,7 +729,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 206001,
       "name": "Fiamme negli occhi",
       "url": "https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00"
@@ -761,7 +805,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 195657,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB"
@@ -1001,7 +1045,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
@@ -1081,7 +1125,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 250830,
       "name": "MARIL\u00d9",
       "url": "https://open.spotify.com/track/7JlPKH9G2KLUzJlfFFAxEO"
@@ -1099,7 +1143,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 177809,
       "name": "Mediterranea",
       "url": "https://open.spotify.com/track/47xPl1gvgdx4Z9dNUuloPg"
@@ -1215,7 +1259,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178106,
       "name": "Morositas (feat. Random)",
       "url": "https://open.spotify.com/track/27277KJCbi8x5e7JVDd5Gv"
@@ -1233,7 +1277,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 194095,
       "name": "morto per te",
       "url": "https://open.spotify.com/track/4d8O9ToOXyYIAonpTWrqMw"
@@ -1513,7 +1557,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 227678,
       "name": "Pezzo Di Cuore (con Alessandra Amoroso)",
       "url": "https://open.spotify.com/track/0BNaXcSSUeuARA4W8iB18E"
@@ -1589,7 +1633,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
@@ -1735,7 +1779,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 195923,
       "name": "SESSO OCCASIONALE",
       "url": "https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD"
@@ -1793,7 +1837,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 190363,
       "name": "Tondo",
       "url": "https://open.spotify.com/track/7u2QyOBuVH21gqkrK1GbUW"
@@ -1863,7 +1907,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 215516,
       "name": "uNa DiReZioNe giUsTa",
       "url": "https://open.spotify.com/track/1ktyKCzfI8hooCJP3X2yP5"

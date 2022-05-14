@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 221130,
       "name": "87 Days",
       "url": "https://open.spotify.com/track/0gZoK6Q1RJ46fyeC2Ib0r2"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 208439,
       "name": "Believe (feat. Fredwave & Jeshi)",
       "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 238098,
       "name": "Better",
       "url": "https://open.spotify.com/track/4Dech6e9lHfdgdedB6jPXc"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153002,
       "name": "Blessa (Instrumental)",
       "url": "https://open.spotify.com/track/6D6HuWcYLPzlseIYMMWFJj"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 156493,
       "name": "Brave",
       "url": "https://open.spotify.com/track/7iSitBZKLKLzmXt3cESX4L"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 264542,
       "name": "Cruisin",
       "url": "https://open.spotify.com/track/6k72w5n6bjf3gSgNId74sS"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 254974,
       "name": "Cruisin - Swing Ting Remix",
       "url": "https://open.spotify.com/track/3wsKu0v64U1SIesr9oLcnW"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 235720,
       "name": "Dust Rises",
       "url": "https://open.spotify.com/track/2mvaJ3YIHFuynpi6tlhBfb"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 306696,
       "name": "EKG - Club Mix",
       "url": "https://open.spotify.com/track/3R6FntVNKj4DNywzoXb8uv"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 300310,
       "name": "Feel",
       "url": "https://open.spotify.com/track/1KUsl0lQW0IOi9AebkDoLc"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Go Tell It",
       "url": "https://open.spotify.com/track/6BzeKeT9hluukvZzZTz9PK"
@@ -2259,7 +2259,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 169626,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
@@ -2497,7 +2497,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 259730,
       "name": "icecld",
       "url": "https://open.spotify.com/track/6ReXKdUFZq4EH5ieeuwNCd"
@@ -2671,7 +2671,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 205893,
       "name": "It's Nice to Be Alive",
       "url": "https://open.spotify.com/track/0ufCBxOl6vL8Yhcu2Jl2a4"
@@ -2685,6 +2685,10 @@
         {
           "name": "George Riley",
           "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        },
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
         }
       ],
       "date_added": "2022-05-06",
@@ -2987,7 +2991,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 199626,
       "name": "Like a Butterfly",
       "url": "https://open.spotify.com/track/1F4u9meLzVwyHtoSWmjJJQ"
@@ -3005,7 +3009,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 245960,
       "name": "Like I Loved You",
       "url": "https://open.spotify.com/track/0NytPw07A35rMOHJsBsYSa"
@@ -3059,7 +3063,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 223395,
       "name": "Lips",
       "url": "https://open.spotify.com/track/3j78qg9FQLEBkyokAZBEvt"
@@ -3263,7 +3267,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/4YLbQGnk6iIgelpUIwbmxm"
@@ -3451,7 +3455,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 246800,
       "name": "Morning Matters",
       "url": "https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU"
@@ -3495,7 +3499,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai"
@@ -3535,7 +3539,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 249112,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/7xeAzyhW9sfqoIIm7685mL"
@@ -3659,7 +3663,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 251831,
       "name": "Nah It Ain't The Same",
       "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
@@ -3889,7 +3893,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 226512,
       "name": "Off Kilter",
       "url": "https://open.spotify.com/track/2nC7BtBWQ0fxpdkuuLzrdv"
@@ -4155,7 +4159,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 323892,
       "name": "Rawl Aredo",
       "url": "https://open.spotify.com/track/4HOCzvFcxkCRfxHX8yDTap"
@@ -4213,7 +4217,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 272573,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/69aJGjfpWk9mrw6amJM6jC"
@@ -4505,7 +4509,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 187651,
       "name": "Slow It Down - WaTa Remix",
       "url": "https://open.spotify.com/track/4hixQjNyyJVjFg1GNBhr4Q"
@@ -4815,7 +4819,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 244706,
       "name": "swag w/ kav",
       "url": "https://open.spotify.com/track/7lPt8ISy7ax86QSfl4I3Z7"
@@ -4891,7 +4895,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 299688,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5qeIAwW9nhHzpiKkPHusPY"
@@ -5097,7 +5101,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 180124,
       "name": "Try",
       "url": "https://open.spotify.com/track/26BcLHV3BnUmcg11hiyyyf"
@@ -5185,7 +5189,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/6Lxi9O5CWRgjrqvWdbn2lT"
@@ -5243,7 +5247,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 325714,
       "name": "Weigh it",
       "url": "https://open.spotify.com/track/3GIEtUsDd7EWAs5eMXCz0S"
@@ -5261,7 +5265,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 274000,
       "name": "What I Wanted",
       "url": "https://open.spotify.com/track/5dC6qFGuR0K6sestrISXcv"
@@ -5407,7 +5411,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"

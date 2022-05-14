@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Måneskin
 
-981 songs - 2 day 8 hr 17 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+983 songs - 2 day 8 hr 22 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 | 2022-02-24 | 2022-03-04 |
 | [Fall From Grace](https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Fall From Grace](https://open.spotify.com/album/5hdLUzCRY0TJ9tEzVWtjuG) | 3:48 | 2021-12-16 | 2022-01-07 |
 | [Falling Is Pretty Normal](https://open.spotify.com/track/1l5AGBWkFUojgahpXq8GWh) | [FANGZ](https://open.spotify.com/artist/6PuJrdkZtPSasOeTO3MJEy) | [Falling Is Pretty Normal](https://open.spotify.com/album/09q4JCy8oCzesGJN95bgi0) | 2:35 | 2022-02-10 | 2022-02-25 |
+| [Falling Up](https://open.spotify.com/track/0emiAPtXtYjoVZy4D1MdP6) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Falling Up](https://open.spotify.com/album/4hZwQBkiRq3ZeJq4oSkK6Z) | 2:05 | 2022-05-12 |  |
 | [Fallout](https://open.spotify.com/track/07GYummphjTwkCjNfJvIca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4) | 3:14 | 2022-03-31 | 2022-04-08 |
 | [Farewell, OK](https://open.spotify.com/track/2pyAHKUpYql5trGzQ8f8dS) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [The Imposters](https://open.spotify.com/artist/0mtzATzl6kfYHMWZskqH21) | [Farewell, OK](https://open.spotify.com/album/2pluvy9chgvW0H1QZAEXpA) | 2:54 | 2022-01-06 | 2022-01-14 |
 | [Fat Hans Gone Mad](https://open.spotify.com/track/4N37w3a7HRXGWRqngYvgAb) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Fat Hans Gone Mad](https://open.spotify.com/album/1lhoJKoZFKBfPwJITtgwm7) | 3:07 | 2022-04-14 | 2022-04-22 |
@@ -544,6 +545,7 @@
 | [Might Go Back To Atherton](https://open.spotify.com/track/6DdoUFv66wvKZS60gF5B3o) | [Conor Burns](https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J) | [Atherton](https://open.spotify.com/album/2t5T6RDHK9uvnQHYpAtXzS) | 4:36 | 2022-04-07 | 2022-04-15 |
 | [Millennial](https://open.spotify.com/track/0xJFyteF6wasaFRYgPOrMJ) | [SHEAFS](https://open.spotify.com/artist/7rXC72g2KwyPUJzWxW9CLo) | [Millennial](https://open.spotify.com/album/1Mech3TAX2pFtm3ceUqq8y) | 3:22 | 2022-04-14 | 2022-04-22 |
 | [Mind In Chains](https://open.spotify.com/track/5c9fSMqM1S47tiBEsqz6Pq) | [Empire of Gold](https://open.spotify.com/artist/7jNvmZiCMzJyjUG31PeZ99) | [Saudade](https://open.spotify.com/album/2yms01MjH57O0Cv7UxrYm2) | 4:36 | 2021-12-16 | 2022-01-07 |
+| [Mind Of Mine](https://open.spotify.com/track/1gMY7zjIZsuSvwrQYIMgMa) | [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Mind Of Mine](https://open.spotify.com/album/42k7k92wbUN4KGBXXo4ATo) | 2:44 | 2022-05-12 |  |
 | [Mirror Mirror](https://open.spotify.com/track/3FYL4enRPDBYGvlc3bMAT8) | [Joe Hicks](https://open.spotify.com/artist/0xwHtYTN6P4PtjLSzLV4U5) | [Mirror Mirror](https://open.spotify.com/album/0IR2GnqIrIR2d2IADNTD8I) | 3:51 | 2022-03-24 | 2022-04-01 |
 | [Misaligned Love](https://open.spotify.com/track/3FRnyzzHYoxzlTo8yZJ8oI) | [Waxflower](https://open.spotify.com/artist/6ZIpcOBGC8WtihYI8n7hf8), [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Misaligned Love](https://open.spotify.com/album/0rSsCdRE5VAi8ObUvsmWzY) | 3:12 | 2022-04-22 | 2022-04-29 |
 | [Misery](https://open.spotify.com/track/3Shp42UXTjXAuAGiRQWsxm) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [Misery](https://open.spotify.com/album/0MOaQ1G6zIigB6psGipXv6) | 4:20 | 2022-03-10 | 2022-03-18 |

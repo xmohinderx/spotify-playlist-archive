@@ -1,12 +1,12 @@
 {
   "description": "Ease into these recent hits and new songs from your favorite artists. Cover: Lady Gaga",
-  "num_followers": 750812,
+  "num_followers": 751071,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI4ODY0MywwMDAwMDBmNjAwMDAwMTgwYjQxM2RmYmUwMDAwMDE4MDhhNzU2YmFk",
+  "snapshot_id": "MTY1MjQxNDQ2MCwwMDAwMDBmNzAwMDAwMTgwYmI5M2IxMTgwMDAwMDE4MDhhNzU2YmFk",
   "tracks": [
     {
       "added_at": "2022-05-06 04:00:00",
@@ -55,6 +55,58 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Drunk (And I Don't Wanna Go Home)",
+        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 245625,
+      "name": "Drunk (And I Don't Wanna Go Home)",
+      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -131,26 +183,6 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Drunk (And I Don't Wanna Go Home)",
-        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 245625,
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
         "name": "GHOST TOWN",
         "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
@@ -219,6 +251,38 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 177511,
+      "name": "My Love - Edit",
+      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 173463,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
         "name": "WE ARE",
         "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
       },
@@ -231,54 +295,6 @@
       "duration_ms": 178289,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 156116,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Treat You Right",
-        "url": "https://open.spotify.com/album/73NVkNg3SwlWkEIXTE56Pj"
-      },
-      "artists": [
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Treat You Right",
-      "url": "https://open.spotify.com/track/2Iw4aBRgNgk1iBOvVCDNHJ"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -299,18 +315,18 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+        "name": "Move",
+        "url": "https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
         }
       ],
-      "duration_ms": 227240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+      "duration_ms": 156116,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -327,6 +343,102 @@
       "duration_ms": 194840,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 182895,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Treat You Right",
+        "url": "https://open.spotify.com/album/73NVkNg3SwlWkEIXTE56Pj"
+      },
+      "artists": [
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "Treat You Right",
+      "url": "https://open.spotify.com/track/2Iw4aBRgNgk1iBOvVCDNHJ"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -351,22 +463,6 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -379,22 +475,6 @@
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 182895,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -485,6 +565,22 @@
       "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
     },
     {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "BREATH",
+        "url": "https://open.spotify.com/album/4pMqeL0MbG9Zjvr555FpNl"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "BREATH",
+      "url": "https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC"
+    },
+    {
       "added_at": "2022-05-06 04:00:00",
       "album": {
         "name": "Face The River",
@@ -551,22 +647,6 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Everything I Know About Love",
-      "url": "https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -627,22 +707,6 @@
       "duration_ms": 175222,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -815,22 +879,6 @@
       "duration_ms": 206361,
       "name": "COMPLETE MESS",
       "url": "https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 177511,
-      "name": "My Love - Edit",
-      "url": "https://open.spotify.com/track/0vQYe6g8bNbdUKnUnXdQQV"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -1055,38 +1103,6 @@
     {
       "added_at": "2022-05-06 04:00:00",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Breakfast With You",
-        "url": "https://open.spotify.com/album/64jYA3DliGLlsFdx7Yiv57"
-      },
-      "artists": [
-        {
-          "name": "Shannen James",
-          "url": "https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE"
-        }
-      ],
-      "duration_ms": 242661,
-      "name": "Breakfast With You",
-      "url": "https://open.spotify.com/track/7BmSy7lf9pPK1X1y0xfgzo"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
         "name": "Unsung Hero",
         "url": "https://open.spotify.com/album/0aX8EfgrGeSWvYN4XN2SOv"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Love In Slow Motion",
-      "url": "https://open.spotify.com/track/1i4F583d9v9RabcfOlKKVL"
     },
     {
       "added_at": "2022-05-06 04:00:00",

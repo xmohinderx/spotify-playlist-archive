@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-383 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
+384 songs - 19 hr 9 min - [published](https://open.spotify.com/playlist/7t90PTv1rM5fuPfj2KijaF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Deixa Eu Falar pra Você](https://open.spotify.com/track/0f1xsopmPwjGv5lJooglnD) | [Josué Bom de Faixa](https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz) | [Josué Bom de Faixa](https://open.spotify.com/album/7czmWB0X3OOf9VWgHGSfDw) | 4:02 | 2021-07-16 | 2021-07-20 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-07-10 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-05-20 | 2021-05-23 |
+| [Dengo](https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Digo Ou Não Digo](https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O) | 2:33 | 2022-05-13 |  |
 | [Depende](https://open.spotify.com/track/1M5OUvKG03C0QtzvxRS4Zk) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Depende](https://open.spotify.com/album/69RlvPf1JRR4MsTIX9h5li) | 2:36 | 2022-01-30 |  |
 | [Desbloqueado \- Ao Vivo](https://open.spotify.com/track/66HWIQEq6xO0IZ47AHrybG) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Desbloqueado \(Ao Vivo\)](https://open.spotify.com/album/3RwNnn4Uy7gJlmy0TTWD1m) | 3:08 | 2021-06-14 | 2021-08-01 |
 | [Desbloqueado \- Ao Vivo](https://open.spotify.com/track/79Wou8NwYEFzTyDQudjENF) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 3:08 | 2021-08-01 | 2022-01-19 |
@@ -154,7 +155,7 @@
 | [Faxina \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/track/73ghohUx3BscZn4hQbD35X) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Faxina \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/60As65fbsLOUwrsJqo1Nmp) | 2:33 | 2021-08-10 | 2021-10-09 |
 | [Faz Amor Comigo Só Hoje](https://open.spotify.com/track/5ItttPiqUksUE240dJ9DT6) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Aqui e Agora Deluxe](https://open.spotify.com/album/54c8GDhgvX3nFdqUhLG5lD) | 2:28 | 2021-08-22 | 2021-10-06 |
 | [Faz Amor Comigo Só Hoje \- Ao Vivo](https://open.spotify.com/track/7Kba4OaxQFQ1zlknQUpNqN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Faz Amor Comigo Só Hoje \(Ao Vivo\)](https://open.spotify.com/album/3J7UQC40YfybB6TvralOEK) | 2:28 | 2021-05-30 | 2021-08-22 |
-| [Felicidade Dela \- Ao Vivo](https://open.spotify.com/track/0roEMqT0P7Z82rJTwcID3Z) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9) | 2:45 | 2022-04-16 |  |
+| [Felicidade Dela \- Ao Vivo](https://open.spotify.com/track/0roEMqT0P7Z82rJTwcID3Z) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9) | 2:45 | 2022-04-16 | 2022-05-14 |
 | [Felicidade Dela \- Ao Vivo](https://open.spotify.com/track/6BIvQ6KIdwhUB29lCVy0cd) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/3CL1Onx0BwSqt6vlxWE2NQ) | 2:45 | 2022-04-15 | 2022-04-17 |
 | [Ficante Fiel](https://open.spotify.com/track/07Kp3cAQRY0iPp4ATMoehM) | [Mad Dogz](https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Ficante Fiel](https://open.spotify.com/album/4nw8CoyoBHT7PIEzKXjvOD) | 2:20 | 2021-10-12 | 2021-10-16 |
 | [Ficha Limpa](https://open.spotify.com/track/1bK3VvFF9QzfJZDmXSsAqF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Hits do Gusttavo Lima](https://open.spotify.com/album/3q4J6C6cKmOegqPNEwt4Hf) | 3:12 | 2021-11-11 | 2021-11-25 |

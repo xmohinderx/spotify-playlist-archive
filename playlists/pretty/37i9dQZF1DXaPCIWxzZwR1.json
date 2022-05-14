@@ -1,12 +1,12 @@
 {
-  "description": "next gen pop featuring EMELINE",
-  "num_followers": 1059639,
+  "description": "next gen pop featuring Benson Boone",
+  "num_followers": 1059775,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM2MjQzMywwMDAwMDVlZDAwMDAwMTgwYjg3OWQzNWIwMDAwMDE4MDZlN2M2MTYz",
+  "snapshot_id": "MTY1MjQxNDQ2MCwwMDAwMDVlZTAwMDAwMTgwYmI5M2IxMjgwMDAwMDE4MGI5ZGMyZmQ4",
   "tracks": [
     {
       "added_at": "2022-04-27 03:30:26",
@@ -71,6 +71,22 @@
       "duration_ms": 204847,
       "name": "dying on the inside",
       "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "what would you do?",
+        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "what would you do?",
+      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -235,18 +251,18 @@
     {
       "added_at": "2022-05-06 04:49:37",
       "album": {
-        "name": "Cate\u2019s Brother",
-        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
+        "name": "age tape 4",
+        "url": "https://open.spotify.com/album/3bR27hf8msbWz6q9km7S5N"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
         }
       ],
-      "duration_ms": 180589,
-      "name": "Cate\u2019s Brother",
-      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
+      "duration_ms": 134857,
+      "name": "toxic crush",
+      "url": "https://open.spotify.com/track/4jx3OhzeLknPoF52To841h"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -267,26 +283,6 @@
       "duration_ms": 133509,
       "name": "UH OH! (feat. BENEE)",
       "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
-    },
-    {
-      "added_at": "2022-05-06 04:49:37",
-      "album": {
-        "name": "Memories (with WILLOW)",
-        "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 155919,
-      "name": "Memories (with WILLOW)",
-      "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -321,20 +317,36 @@
       "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
     },
     {
-      "added_at": "2022-05-04 11:47:02",
+      "added_at": "2022-05-13 04:01:00",
       "album": {
-        "name": "Why Am I Like This?",
-        "url": "https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6"
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         }
       ],
-      "duration_ms": 212713,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "added_at": "2022-04-27 03:30:26",
+      "album": {
+        "name": "Love You Still (abcdefu romantic version)",
+        "url": "https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Love You Still (abcdefu romantic version)",
+      "url": "https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -405,6 +417,26 @@
       "url": "https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7"
     },
     {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Meteorite",
+        "url": "https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Meteorite",
+      "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Maybe You\u2019re The Problem",
@@ -441,22 +473,6 @@
       "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
     },
     {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
-        "name": "Love You Still (abcdefu romantic version)",
-        "url": "https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        }
-      ],
-      "duration_ms": 150173,
-      "name": "Love You Still (abcdefu romantic version)",
-      "url": "https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "self sabotage",
@@ -473,20 +489,56 @@
       "url": "https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L"
     },
     {
-      "added_at": "2022-05-06 04:49:37",
+      "added_at": "2022-05-13 04:01:00",
       "album": {
-        "name": "age tape 4",
-        "url": "https://open.spotify.com/album/3bR27hf8msbWz6q9km7S5N"
+        "name": "we'll make this ok (with Travis Barker)",
+        "url": "https://open.spotify.com/album/6d8EYqGfbAqVWiBo94hrwS"
       },
       "artists": [
         {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 134857,
-      "name": "toxic crush",
-      "url": "https://open.spotify.com/track/4jx3OhzeLknPoF52To841h"
+      "duration_ms": 159750,
+      "name": "we'll make this ok (with Travis Barker)",
+      "url": "https://open.spotify.com/track/63Olr9i7mMzAs6JInlHDeb"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/2YxdLseWJW7VAz1jb3YPcI"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "duration_ms": 163602,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob"
+    },
+    {
+      "added_at": "2022-05-06 04:49:37",
+      "album": {
+        "name": "Cate\u2019s Brother",
+        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 180589,
+      "name": "Cate\u2019s Brother",
+      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -505,20 +557,20 @@
       "url": "https://open.spotify.com/track/0Ffap6LkteIW5lFgFSCA7s"
     },
     {
-      "added_at": "2022-05-06 04:49:37",
+      "added_at": "2022-05-13 04:01:00",
       "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/12uiCiql0IX6dT6yMXEwGq"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+      "duration_ms": 165453,
+      "name": "Michael",
+      "url": "https://open.spotify.com/track/5niZJWbyibvP1huOd2XUde"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -571,18 +623,70 @@
     {
       "added_at": "2022-05-06 04:49:37",
       "album": {
-        "name": "If I Don't Laugh, I'll Cry",
-        "url": "https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb"
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie"
       },
       "artists": [
         {
-          "name": "Frawley",
-          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 198009,
-      "name": "If I Don't Laugh, I'll Cry",
-      "url": "https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD"
+      "duration_ms": 186432,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Mr. Percocet",
+        "url": "https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Mr. Percocet",
+      "url": "https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84"
+    },
+    {
+      "added_at": "2022-05-06 04:49:37",
+      "album": {
+        "name": "Memories (with WILLOW)",
+        "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 155919,
+      "name": "Memories (with WILLOW)",
+      "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "CANDYMAN",
+        "url": "https://open.spotify.com/album/5x2Pu8eIiPR0sAOZo6bY1w"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "duration_ms": 164686,
+      "name": "CANDYMAN",
+      "url": "https://open.spotify.com/track/2LKw5pI3tXyMI8fpUibCiZ"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -601,24 +705,40 @@
       "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
     },
     {
-      "added_at": "2022-04-27 03:30:26",
+      "added_at": "2022-05-04 11:47:02",
       "album": {
-        "name": "Until I Found You (Em Beihold Version)",
-        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+        "name": "Why Am I Like This?",
+        "url": "https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 176440,
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+      "duration_ms": 212713,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
+    },
+    {
+      "added_at": "2022-04-27 03:30:26",
+      "album": {
+        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
     },
     {
       "added_at": "2022-05-06 04:49:37",
@@ -653,24 +773,36 @@
       "url": "https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2022-04-27 03:30:26",
       "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
+        "name": "To All The Boys I\u2019ve Loved Before",
+        "url": "https://open.spotify.com/album/7iAKoyqsiG4Fdx0zp4KsB2"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
         }
       ],
-      "duration_ms": 193322,
-      "name": "Honest (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
+      "duration_ms": 188864,
+      "name": "To All The Boys I\u2019ve Loved Before",
+      "url": "https://open.spotify.com/track/6WXvM7Ku5aM7SfdXym7DEN"
+    },
+    {
+      "added_at": "2022-05-06 04:49:37",
+      "album": {
+        "name": "If I Don't Laugh, I'll Cry",
+        "url": "https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb"
+      },
+      "artists": [
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        }
+      ],
+      "duration_ms": 198009,
+      "name": "If I Don't Laugh, I'll Cry",
+      "url": "https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -709,24 +841,20 @@
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
-      "added_at": "2022-04-27 03:30:26",
+      "added_at": "2022-05-06 04:49:37",
       "album": {
-        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -769,22 +897,6 @@
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     },
     {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
-        "name": "To All The Boys I\u2019ve Loved Before",
-        "url": "https://open.spotify.com/album/7iAKoyqsiG4Fdx0zp4KsB2"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 188864,
-      "name": "To All The Boys I\u2019ve Loved Before",
-      "url": "https://open.spotify.com/track/6WXvM7Ku5aM7SfdXym7DEN"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "EVER AGAIN",
@@ -817,22 +929,6 @@
       "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
     },
     {
-      "added_at": "2022-05-06 04:49:37",
-      "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y"
-    },
-    {
       "added_at": "2022-04-27 03:30:26",
       "album": {
         "name": "AT LEAST I'M GOOD AT IT",
@@ -847,22 +943,6 @@
       "duration_ms": 148398,
       "name": "AT LEAST I'M GOOD AT IT",
       "url": "https://open.spotify.com/track/1KrLtIuOgZ1QiIxBqGb4NF"
-    },
-    {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
-        "name": "I Burned LA Down",
-        "url": "https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -951,38 +1031,6 @@
     {
       "added_at": "2022-04-27 03:30:26",
       "album": {
-        "name": "It's 2016 Somewhere",
-        "url": "https://open.spotify.com/album/6suTADibkHRNH8K4Up3xec"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 178590,
-      "name": "Settle Down",
-      "url": "https://open.spotify.com/track/0LACZ5yc1B7U7CIrVcJ6Fe"
-    },
-    {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -995,22 +1043,6 @@
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "CHAMPAGNE",
-        "url": "https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 180637,
-      "name": "CHAMPAGNE",
-      "url": "https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -1131,18 +1163,18 @@
     {
       "added_at": "2022-04-27 03:30:26",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq"
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
       },
       "artists": [
         {
-          "name": "Eddie Benjamin",
-          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 145979,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8"
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -1179,38 +1211,6 @@
       "duration_ms": 129056,
       "name": "Hot Mess",
       "url": "https://open.spotify.com/track/1lHPNdcjlgNFfuc9pYvwGi"
-    },
-    {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
-        "name": "(Un)Commentary",
-        "url": "https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 159965,
-      "name": "Speakers",
-      "url": "https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ"
-    },
-    {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
-        "name": "No Romeo EP",
-        "url": "https://open.spotify.com/album/09ItArIl88LxU5InoksUTo"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 196855,
-      "name": "Live Without It",
-      "url": "https://open.spotify.com/track/7d41MrY3HNLfD7EM0wzGDb"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -1307,22 +1307,6 @@
       "duration_ms": 191026,
       "name": "No Romeo",
       "url": "https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB"
-    },
-    {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
-        "name": "Take It or Leave It",
-        "url": "https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe"
-      },
-      "artists": [
-        {
-          "name": "Aleyna Tilki",
-          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Take It or Leave It",
-      "url": "https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -1495,26 +1479,6 @@
     {
       "added_at": "2022-04-27 03:30:26",
       "album": {
-        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 187943,
-      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
-    },
-    {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
         "name": "Never Go Wrong",
         "url": "https://open.spotify.com/album/4iOH0UQ1KxmHgd37QXPEb0"
       },
@@ -1563,6 +1527,22 @@
       "duration_ms": 173160,
       "name": "jealousy, jealousy",
       "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
+    },
+    {
+      "added_at": "2022-04-27 03:30:26",
+      "album": {
+        "name": "this is how i learn to say no",
+        "url": "https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 142965,
+      "name": "this is how i learn to say no",
+      "url": "https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6"
     },
     {
       "added_at": "2022-04-27 03:30:26",
@@ -1651,22 +1631,6 @@
     {
       "added_at": "2022-04-27 03:30:26",
       "album": {
-        "name": "Main Character",
-        "url": "https://open.spotify.com/album/4uB144kDVv79tpejqOXzye"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 182507,
-      "name": "Main Character",
-      "url": "https://open.spotify.com/track/3e9KPFLFbGgXipiucul3LY"
-    },
-    {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
         "name": "anxiety.",
         "url": "https://open.spotify.com/album/4jQXsSUMXkFzUBdUs1nRxa"
       },
@@ -1727,22 +1691,6 @@
       "duration_ms": 115401,
       "name": "everything sucks",
       "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
-    },
-    {
-      "added_at": "2022-04-27 03:30:26",
-      "album": {
-        "name": "this is how i learn to say no",
-        "url": "https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 142965,
-      "name": "this is how i learn to say no",
-      "url": "https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6"
     },
     {
       "added_at": "2022-04-27 03:30:26",

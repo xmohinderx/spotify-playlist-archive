@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 174314,
       "name": "Bad At Hating You (Hiisak & Yvvan Back Remix)",
       "url": "https://open.spotify.com/track/0fLQTZWIvHnpsUoOzO7WHH"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 190206,
       "name": "Can You Feel It (feat. James Hurr)",
       "url": "https://open.spotify.com/track/7sFYDUuaJsK45WevfiDods"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 176900,
       "name": "Come Get Me (feat. Preston Harris)",
       "url": "https://open.spotify.com/track/5I8UTAIBfQ2JtxiSOtoIWC"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
@@ -561,6 +561,28 @@
       "duration_ms": 145807,
       "name": "Fading Like A Flower",
       "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
+    },
+    {
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "album": {
@@ -744,6 +766,28 @@
     },
     {
       "album": {
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+    },
+    {
+      "album": {
         "name": "Holiday (feat. S\u00e9b Mont)",
         "url": "https://open.spotify.com/album/3CxeBaihWioaOCOVmWLxFK"
       },
@@ -763,7 +807,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 156006,
       "name": "Holiday (feat. S\u00e9b Mont)",
       "url": "https://open.spotify.com/track/4tVmnuRlT7buDLZa2hc7ao"
@@ -781,7 +825,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 203212,
       "name": "Home To You",
       "url": "https://open.spotify.com/track/2L3d9zBy8Iq8mKIde7cwmJ"
@@ -971,7 +1015,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 214560,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
@@ -1022,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "Let's Get Moving",
+        "url": "https://open.spotify.com/album/72nUHtTFPqEPMTRjCkvFGS"
+      },
+      "artists": [
+        {
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173246,
+      "name": "Let's Get Moving",
+      "url": "https://open.spotify.com/track/3e6bwbG31nFSmSYnUHxGCr"
+    },
+    {
+      "album": {
         "name": "Life Goes On (feat. Alex Hosking)",
         "url": "https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR"
       },
@@ -1037,7 +1099,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 169458,
       "name": "Life Goes On (feat. Alex Hosking)",
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
@@ -1151,7 +1213,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 196736,
       "name": "Mama (feat. Sting)",
       "url": "https://open.spotify.com/track/4VNtWSKDhvc2x99NiM5kbj"
@@ -1515,7 +1577,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 160796,
       "name": "Ready For Your Love",
       "url": "https://open.spotify.com/track/1bTklSZ4YHKCEnGKLVBquU"
@@ -1621,7 +1683,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 172320,
       "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
@@ -1639,7 +1701,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 148500,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/73jq7211BkvN8sl3E9PZjM"
@@ -1743,7 +1805,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 167462,
       "name": "Send Me Your Love",
       "url": "https://open.spotify.com/track/6tbzIubCGJITl85mBCIvgH"
@@ -1861,7 +1923,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 134442,
       "name": "That Feeling (feat. Hayley May)",
       "url": "https://open.spotify.com/track/7clsGP3ea7rhBaEK9ga898"
@@ -1887,7 +1949,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
@@ -1997,7 +2059,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 165245,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/6QGHCildW0p2nnrxE4BHsy"

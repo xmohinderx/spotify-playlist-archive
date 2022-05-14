@@ -108,6 +108,24 @@
     },
     {
       "album": {
+        "name": "Baazi",
+        "url": "https://open.spotify.com/album/2jAqinyiQvDkTg8zFynNEs"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Baazi",
+      "url": "https://open.spotify.com/track/1vDK1yoxF0mOkckgDfPDj2"
+    },
+    {
+      "album": {
         "name": "Bachpan Ka Pyaar",
         "url": "https://open.spotify.com/album/65EGMrxmEXnyKZzXuRiuTk"
       },

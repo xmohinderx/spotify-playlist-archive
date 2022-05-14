@@ -4,7 +4,7 @@
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: Dowba Montana
 
-71 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
+72 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Corre Corre \- Remix](https://open.spotify.com/track/3HrHPpZKQt2dNZIc2Ctp3r) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [El Panda 15](https://open.spotify.com/artist/783Q9ELFyooddnWj5qqWNo), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [El Chuky De Lewa](https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb) | [Corre Corre \(Remix\)](https://open.spotify.com/album/6ULAfamV3N4cyJ7hCHinSQ) | 3:16 | 2022-03-15 |  |
 | [De Manhattan Pa El Bronx](https://open.spotify.com/track/6JPCogBdqEPWvw8orbmdx4) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [De Manhattan Pa El Bronx](https://open.spotify.com/album/1dAbiPuNIR5oiA2C3dSl75) | 2:48 | 2022-03-15 |  |
 | [Depues De Las 3](https://open.spotify.com/track/1LrpAyDAR2l8jqRCr2mLo7) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Depues De Las 3](https://open.spotify.com/album/3ZNE5HYtqsj9Pb89MqIeRG) | 3:11 | 2022-03-15 |  |
+| [Desacatate](https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Desacatate](https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV) | 2:41 | 2022-05-13 |  |
 | [Diablona](https://open.spotify.com/track/0WoS8Xeb60rK22NuShJv97) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Onguito](https://open.spotify.com/artist/5CEmVm4SbLawlq7evC42i0) | [Diablona](https://open.spotify.com/album/5WOuqQYFO6mp1rqIVCOENu) | 3:33 | 2022-03-15 |  |
 | [Dime](https://open.spotify.com/track/03WvboIAz8l4bemwpW4r99) | [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT) | [Dime](https://open.spotify.com/album/6mFKAOFq085ztxcnGII91s) | 2:40 | 2022-03-15 |  |
 | [E'ta Niña](https://open.spotify.com/track/2QwxBdBlYO9fIc7ggzu3r4) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [MelyMel](https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y) | [E'ta Niña](https://open.spotify.com/album/3YbxIXdJvyyi031W3nF8EF) | 2:24 | 2022-03-15 | 2022-04-15 |
@@ -66,7 +67,7 @@
 | [Perreo En Medellín](https://open.spotify.com/track/4c5vHBozEkaHz7fSdIcNVp) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Jay santana prod](https://open.spotify.com/artist/1SSTq9e8PhjyYzv6QOsAkb) | [Perreo En Medellín](https://open.spotify.com/album/220vEwP3o6nsBPUMQVaA8d) | 2:28 | 2022-04-14 |  |
 | [Rico de Boca](https://open.spotify.com/track/0jNW8GUGzsGnbr2Lnhc4ur) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Rico de Boca](https://open.spotify.com/album/2jEIqBy6NDXy3CjLywapPg) | 3:19 | 2022-03-15 |  |
 | [Rico Feo](https://open.spotify.com/track/4fzZtW9YAaxVvW54tN4H3c) | [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t), [Dj Scuff](https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh) | [Rico Feo](https://open.spotify.com/album/7LXUr2L5SajQ32UMjqvOGg) | 3:31 | 2022-03-15 |  |
-| [Rubirosa](https://open.spotify.com/track/6CIgfLVT2LW7bhRMWwoWxB) | [Fetti031](https://open.spotify.com/artist/0bsQ8jCTdRt3F8R5nNU3hw) | [Rubirosa](https://open.spotify.com/album/0JYlZSI7jjfRltbl9l698F) | 2:29 | 2022-03-15 |  |
+| [Rubirosa](https://open.spotify.com/track/6CIgfLVT2LW7bhRMWwoWxB) | [Fetti031](https://open.spotify.com/artist/0bsQ8jCTdRt3F8R5nNU3hw) | [Rubirosa](https://open.spotify.com/album/0JYlZSI7jjfRltbl9l698F) | 2:29 | 2022-03-15 | 2022-05-14 |
 | [Rulay](https://open.spotify.com/track/3UCGlKuPc94uSRHFRLYDOB) | [Pollito Trapper](https://open.spotify.com/artist/514KE1qfbwbkfeWgU2RmKR) | [Rulay](https://open.spotify.com/album/0uziOnCOQjWDLQGXmwTukk) | 2:31 | 2022-03-15 |  |
 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/7gdOCnWo5AtbjLxf5g58Re) | 3:00 | 2022-03-15 |  |
 | [Tiembla](https://open.spotify.com/track/1L96UQiYAT2AGzHir0eXNf) | [Aron Luix](https://open.spotify.com/artist/0g8PbULxKIoYGWwYtpaVqv), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Tiembla](https://open.spotify.com/album/6UPZluwCWXaysCKvksMikq) | 2:33 | 2022-03-15 | 2022-04-15 |

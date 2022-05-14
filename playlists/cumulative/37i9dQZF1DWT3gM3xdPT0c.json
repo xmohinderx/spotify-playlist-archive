@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Early Morning Dream",
+        "url": "https://open.spotify.com/album/2gQxSh8wGNqv4iGo5GlzYO"
+      },
+      "artists": [
+        {
+          "name": "Denver Paige",
+          "url": "https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133234,
+      "name": "Early Morning Dream",
+      "url": "https://open.spotify.com/track/2KUeoLhXvZqN5079fo0Xls"
+    },
+    {
+      "album": {
         "name": "Waitwall Mountain",
         "url": "https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX"
       },

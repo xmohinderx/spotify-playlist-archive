@@ -2,7 +2,7 @@
 
 ### [Urbano Rising](https://open.spotify.com/playlist/37i9dQZF1DX4OjfOteYnH8)
 
-> Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: NoBeat, Oscu
+> Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: Hozwal
 
 105 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/32kFCfM5TRdCpbu16LS7N2)
 

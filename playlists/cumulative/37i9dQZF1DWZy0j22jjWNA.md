@@ -4,7 +4,7 @@
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-69 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/3CquFwW4oGs8sHYO00Y4PM)
+70 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/3CquFwW4oGs8sHYO00Y4PM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,13 +57,14 @@
 | [Power Over Me](https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Power Over Me](https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi) | 2:52 | 2020-09-04 |  |
 | [Queen Songs / human.](https://open.spotify.com/track/0JVCVctt51JnBAmOhxLhkm) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/3eJySaHVIrzzPGrVKTNccc) | 8:00 | 2020-09-04 |  |
 | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp) | [Quiet Science](https://open.spotify.com/artist/6ClKRjCUNwKVuR5MjFPjY0) | [Radiant \(Shine Like Diamonds\)](https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y) | 4:01 | 2020-09-04 |  |
-| [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 | 2020-09-04 |  |
+| [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 | 2020-09-04 | 2022-05-14 |
 | [Roses](https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Roses](https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs) | 3:08 | 2020-09-04 |  |
 | [Someday Soon](https://open.spotify.com/track/5xv9Shs68bVmUd9tiJSK8r) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 4:23 | 2020-09-04 |  |
 | [Spark My Heart](https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA) | [Aaron Strumpel](https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg) | [Mighty Refuge](https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt) | 5:23 | 2020-09-04 |  |
 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 | 2020-09-04 |  |
 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 | 2020-09-04 |  |
 | [Stella](https://open.spotify.com/track/32yiDCLJUdqYoaDR46z9gD) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Happier Than Me](https://open.spotify.com/album/6dX3vTD2qIIFVDGB5i8TlI) | 2:52 | 2020-09-04 |  |
+| [Suffering Servant](https://open.spotify.com/track/72GrSZPKtTb2p42eWEu4BB) | [Wesley Randolph Eader](https://open.spotify.com/artist/5Qn7uUdL2vnUFvdngB2gxN) | [Deeper Well, Vol\. II](https://open.spotify.com/album/0AcEF74nQI1akzreqyNq9l) | 5:08 | 2020-09-04 |  |
 | [Survival \(feat\. Drew Holcomb & Ellie Holcomb\)](https://open.spotify.com/track/53sbZ5TOtYZAgIjyKscJBK) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Survival \(feat\. Drew & Ellie Holcomb\)](https://open.spotify.com/album/7hIfZcLmbhRu27mSqiMFrd) | 4:27 | 2020-09-04 |  |
 | [Take The World](https://open.spotify.com/track/1XU8WnwGs6oqpt1qicvw34) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Diamonds](https://open.spotify.com/album/2y2pzedHjln9MbTHCq99qP) | 4:23 | 2020-09-04 |  |
 | [The Mountain \(Live from 25in24\)](https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [The Mountain \(Live from 25in24\)](https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs) | 3:51 | 2020-09-04 |  |

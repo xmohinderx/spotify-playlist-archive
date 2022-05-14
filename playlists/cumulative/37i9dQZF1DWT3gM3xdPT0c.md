@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-132 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+133 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dreams We Have](https://open.spotify.com/track/6sbuFkKEqcMAtCAZQDpbZv) | [Darcy Burke](https://open.spotify.com/artist/317AmUS3g0hGGM7bNCNXYw) | [Dreams We Have](https://open.spotify.com/album/3jimBHft9L9TiC4A4ib28Z) | 2:54 | 2022-03-04 |  |
 | [Dublin](https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Dublin](https://open.spotify.com/album/5PMaZ9o8XkTqg9TyYC6YpE) | 1:42 | 2022-03-04 |  |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-03-04 |  |
+| [Early Morning Dream](https://open.spotify.com/track/2KUeoLhXvZqN5079fo0Xls) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Early Morning Dream](https://open.spotify.com/album/2gQxSh8wGNqv4iGo5GlzYO) | 2:13 | 2022-05-13 |  |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-03-04 |  |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2022-03-04 |  |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-03-04 | 2022-04-06 |

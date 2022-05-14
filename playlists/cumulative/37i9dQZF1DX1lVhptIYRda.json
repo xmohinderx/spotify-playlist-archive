@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits of the week, worldwide! Cover: Midland",
+  "description": "Today's top country hits of the week, worldwide! Cover: Cody Johnson",
   "name": "Hot Country",
   "published_playlist_ids": [
     "6kgRyUaLssWEGETpjboDD4"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
@@ -3435,7 +3435,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 157133,
       "name": "Happy in This Bar",
       "url": "https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ"
@@ -4163,7 +4163,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 201294,
       "name": "I Don't Wanna Go To Heaven",
       "url": "https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf"
@@ -4485,6 +4485,24 @@
       "duration_ms": 197333,
       "name": "If It Wasn\u2019t For Trucks",
       "url": "https://open.spotify.com/track/4QhFrBkJ3Rqx66Xs8xwH8o"
+    },
+    {
+      "album": {
+        "name": "If You Have To",
+        "url": "https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "If You Have To",
+      "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
     },
     {
       "album": {
@@ -4925,7 +4943,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 179173,
       "name": "Learn From It",
       "url": "https://open.spotify.com/track/2CqfyB7PQznYxHNSmmF6lE"
@@ -5419,7 +5437,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 195459,
       "name": "Made",
       "url": "https://open.spotify.com/track/4G644pINN0ZYIxyqeyuT4b"
@@ -9096,6 +9114,24 @@
     },
     {
       "album": {
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
+    },
+    {
+      "album": {
         "name": "What If I Never Get Over You",
         "url": "https://open.spotify.com/album/29nEDtxAppakEN3LIDZD4a"
       },
@@ -9237,6 +9273,24 @@
       "duration_ms": 234346,
       "name": "Whiskey Glasses",
       "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
+    },
+    {
+      "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "album": {

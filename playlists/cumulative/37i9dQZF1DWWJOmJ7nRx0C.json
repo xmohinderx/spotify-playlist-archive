@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those who like the newest songs loud. Very loud. Cover: Three Days Grace ",
+  "description": "For those who like the newest songs loud. Very loud. Cover: The Hu",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 210200,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 258837,
       "name": "Feast Of Fire",
       "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
@@ -2205,7 +2205,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 206493,
       "name": "Hey Hey Rise Up - feat. Andriy Khlyvnyuk of Boombox",
       "url": "https://open.spotify.com/track/6FsXPr00DJIGSMRLNrmmZy"
@@ -2459,7 +2459,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
@@ -2789,7 +2789,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178066,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh"
@@ -3350,6 +3350,28 @@
     },
     {
       "album": {
+        "name": "Out of My Head feat. Aaron Gillespie",
+        "url": "https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174031,
+      "name": "Out of My Head feat. Aaron Gillespie",
+      "url": "https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir"
+    },
+    {
+      "album": {
         "name": "Quarantine Collaborations",
         "url": "https://open.spotify.com/album/0C2DCVriqRYCWhancrKQBv"
       },
@@ -3369,6 +3391,28 @@
       "duration_ms": 238500,
       "name": "Out to the Inside",
       "url": "https://open.spotify.com/track/4fIbgStSL1II8DS74pdI26"
+    },
+    {
+      "album": {
+        "name": "Outcasts vs Everyone",
+        "url": "https://open.spotify.com/album/58aBP5JabGIqqPWYG9pd5q"
+      },
+      "artists": [
+        {
+          "name": "Destroy Rebuild Until God Shows",
+          "url": "https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo"
+        },
+        {
+          "name": "Brennan Savage",
+          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225640,
+      "name": "Outcasts vs Everyone",
+      "url": "https://open.spotify.com/track/4GPyVNFRDepnBPhJczVXGQ"
     },
     {
       "album": {
@@ -3615,6 +3659,24 @@
       "duration_ms": 157000,
       "name": "PURGE ft. Siiickbrain",
       "url": "https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44"
+    },
+    {
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161560,
+      "name": "Puzzles",
+      "url": "https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7"
     },
     {
       "album": {
@@ -4120,6 +4182,28 @@
     },
     {
       "album": {
+        "name": "Shivering (feat. Spiritbox)",
+        "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300916,
+      "name": "Shivering (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
+    },
+    {
+      "album": {
         "name": "Shotgun Blues",
         "url": "https://open.spotify.com/album/4ALN0YC4oFfoaOPY1Hec5u"
       },
@@ -4427,10 +4511,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 240608,
       "name": "Story Of My Life (feat. Trippie Redd) - Heavy Edit",
       "url": "https://open.spotify.com/track/7vBwenmGPD2h0DSbljoZym"
+    },
+    {
+      "album": {
+        "name": "Strangest Faces",
+        "url": "https://open.spotify.com/album/2PQihGqcULN7NdvgqpDnLb"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "Strangest Faces",
+      "url": "https://open.spotify.com/track/2CuNZ5JXaEgpAPvTj7gpv7"
     },
     {
       "album": {
@@ -4677,10 +4779,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 253430,
       "name": "The First 21",
       "url": "https://open.spotify.com/track/4wDPO0BFLJHFVbh0vvSljY"
+    },
+    {
+      "album": {
+        "name": "The Foundations of Decay",
+        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360760,
+      "name": "The Foundations of Decay",
+      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
     },
     {
       "album": {
@@ -4695,7 +4815,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 218242,
       "name": "The Gang's All Here",
       "url": "https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK"
@@ -4869,6 +4989,24 @@
       "duration_ms": 211325,
       "name": "Think for Yourself",
       "url": "https://open.spotify.com/track/1pIngKMQP9K2Hy1sgDRzPA"
+    },
+    {
+      "album": {
+        "name": "This Is Mongol",
+        "url": "https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224854,
+      "name": "This Is Mongol",
+      "url": "https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb"
     },
     {
       "album": {
@@ -5155,6 +5293,24 @@
       "duration_ms": 189054,
       "name": "Wait For Me (feat. Trevor McNevan of Thousand Foot Krutch)",
       "url": "https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe"
+    },
+    {
+      "album": {
+        "name": "Waiting On You",
+        "url": "https://open.spotify.com/album/6I10Qzb2BTNRs6pftG2q54"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196669,
+      "name": "Waiting On You",
+      "url": "https://open.spotify.com/track/71f22NnyQgS5r0Ekyfrxrm"
     },
     {
       "album": {

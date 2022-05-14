@@ -9,8 +9,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 | 2022-05-06 |  |
-| [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2022-05-06 |  |
-| [Alien Blues](https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI) | 2:36 | 2022-05-06 | 2022-05-12 |
+| [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2022-05-06 | 2022-05-14 |
+| [Alien Blues](https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI) | 2:36 | 2022-05-06 |  |
 | [Animal](https://open.spotify.com/track/1iBljl6IFBU6OkUMJVKMbn) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 2:40 | 2022-05-06 |  |
 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 | 2022-05-06 |  |
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2022-05-06 |  |

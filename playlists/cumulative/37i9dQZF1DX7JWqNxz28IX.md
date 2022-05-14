@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, doxx\)
 
-71 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+72 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Coma](https://open.spotify.com/track/3IDhVUhLK887aXrMPqqABm) | [Kiira](https://open.spotify.com/artist/0kagys5czAPiNwJcRvasF3) | [Coma](https://open.spotify.com/album/2oXhkdZy6gKV0OYrIEAQLN) | 2:29 | 2022-04-21 |  |
 | [Come noi](https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Come noi](https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG) | 2:09 | 2022-04-21 |  |
 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 | 2022-04-21 |  |
+| [D\(Emo\)](https://open.spotify.com/track/2NMjPUdU1Ljw8wVUdoHDkD) | [nothx.](https://open.spotify.com/artist/1i8WJECAPI5Je4SgVuQLEX) | [D\(Emo\)](https://open.spotify.com/album/0uvZyTWqNWArdU6dEaUsk5) | 3:06 | 2022-05-13 |  |
 | [Darkness](https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Darkness](https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7) | 2:54 | 2022-04-21 |  |
 | [Dentro di Te](https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Profondo Rosa](https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE) | 2:51 | 2022-04-21 |  |
 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglianone](https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 | 2022-04-21 |  |

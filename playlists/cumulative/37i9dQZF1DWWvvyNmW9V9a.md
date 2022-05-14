@@ -4,7 +4,7 @@
 
 > nick & charlie forever Cover: <a href="spotify:playlist:37i9dQZF1DX5KARSfd7WcM">Heartstopper</a>
 
-258 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
+260 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Butterflies](https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Butterflies](https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U) | 3:03 | 2022-02-25 | 2022-04-23 |
 | [Buttons \- Showmusik TikTok Remix](https://open.spotify.com/track/2z1eSjh9SqVt5lCbLAVaBm) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Showmusik](https://open.spotify.com/artist/1AQrrkmtsNlnGu11EtBw77) | [Buttons \(Showmusik TikTok Remix\)](https://open.spotify.com/album/4ZHGYzvjoA3o4kz0YxWmsx) | 2:23 | 2022-02-25 | 2022-03-26 |
 | [Candy Store](https://open.spotify.com/track/55sGZ6khmMO0GWb9QzZnXM) | [Jodie Steele](https://open.spotify.com/artist/5onPvDEAa0Gjg298xIdttY), [Sophie Isaacs](https://open.spotify.com/artist/7kHspWK2R6G8P3lWVMjNpi), [T'Shan Williams](https://open.spotify.com/artist/2Mp1YP6GjokS0SgdyffYyD), [Original West End Cast of Heathers](https://open.spotify.com/artist/4WK6ZRLcS2beZfrDoNvjK7) | [Heathers the Musical \(Original West End Cast Recording\)](https://open.spotify.com/album/6r3jhI1kXM7NkEDowpkxOU) | 2:56 | 2022-02-18 | 2022-02-26 |
+| [CANDYMAN](https://open.spotify.com/track/2LKw5pI3tXyMI8fpUibCiZ) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [CANDYMAN](https://open.spotify.com/album/5x2Pu8eIiPR0sAOZo6bY1w) | 2:44 | 2022-05-13 |  |
 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 | 2022-05-06 |  |
 | [Chandelier](https://open.spotify.com/track/3REELyDyt5SPKX2387Zubv) | [Paquin](https://open.spotify.com/artist/2UGaFqTFNMtYGTrVznQksD), [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Vol\. 1](https://open.spotify.com/album/4FV4yInzGNhC6iSh1kX1qF) | 2:07 | 2022-05-09 |  |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-28 | 2022-05-02 |
@@ -213,7 +214,8 @@
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-12-17 |  |
 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 | 2021-12-24 |  |
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-01-06 | 2022-03-18 |
-| [Sway](https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:08 | 2022-05-09 |  |
+| [Sway](https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:08 | 2022-05-09 | 2022-05-14 |
+| [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 | 2022-05-13 |  |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2022-01-25 | 2022-04-29 |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-07-09 | 2022-02-19 |
 | [Teacher's Pet](https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 4:01 | 2021-11-26 |  |

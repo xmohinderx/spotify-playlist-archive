@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/3ZfBvSBao0yS0MDU2vCOyZ"
+      },
+      "artists": [
+        {
+          "name": "Bianca Ventura",
+          "url": "https://open.spotify.com/artist/5WTGO25DQgKOWnQtSvoNbR"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183791,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0"
+    },
+    {
+      "album": {
         "name": "balliamo",
         "url": "https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH"
       },

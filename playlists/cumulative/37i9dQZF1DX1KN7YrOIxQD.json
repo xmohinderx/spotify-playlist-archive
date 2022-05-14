@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 221746,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/4wMXOcFLq0e73zlOj82gtY"
@@ -1230,6 +1230,28 @@
     },
     {
       "album": {
+        "name": "Numero 1",
+        "url": "https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6"
+      },
+      "artists": [
+        {
+          "name": "Oscu",
+          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+        },
+        {
+          "name": "Nobeat",
+          "url": "https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Numero 1",
+      "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -1391,7 +1413,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178202,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
@@ -1903,7 +1925,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-12",
+      "date_removed": null,
       "duration_ms": 188040,
       "name": "TOP MODEL",
       "url": "https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G"

@@ -4,7 +4,7 @@
 
 > Disfruta con mamá la era dorada de los 80's.
 
-80 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/2bFb9aU7QO0KHEjsEO6R11)
+81 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/2bFb9aU7QO0KHEjsEO6R11)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Chiquitita \- Spanish Version](https://open.spotify.com/track/0Fuc8WMl8xSXjb8d4M6Xqo) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gracias Por La Musica \(Deluxe Edition\)](https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ) | 5:33 | 2021-05-21 |  |
 | [Claridad](https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL) | 4:10 | 2021-05-21 |  |
 | [Con los Ojos Cerrados](https://open.spotify.com/track/6DIt34Pm9LXZUfs4ap67fJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR) | 3:30 | 2021-05-21 |  |
+| [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 | 2021-05-21 |  |
 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 | 2021-05-21 |  |
 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 | 2021-05-21 |  |
 | [De Niña a Mujer](https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [De Nina A Mujer](https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B) | 3:18 | 2021-05-21 |  |
@@ -36,11 +37,11 @@
 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:04 | 2021-05-21 |  |
 | [El Muchacho de los Ojos Tristes](https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 3:27 | 2021-05-21 |  |
 | [En algún lugar](https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [El Grito Del Tiempo](https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3) | 3:55 | 2021-05-21 |  |
-| [Eres Tú](https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Grandes Exitos](https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl) | 3:34 | 2021-05-21 |  |
+| [Eres Tú](https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Grandes Exitos](https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl) | 3:34 | 2021-05-21 | 2022-05-14 |
 | [Este Terco Corazon](https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 3:42 | 2021-05-21 |  |
 | [Evidencias](https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Silueta](https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0) | 4:16 | 2021-05-21 |  |
 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 | 2021-05-21 |  |
-| [Flashdance...What A Feeling](https://open.spotify.com/track/1gbL6TqKuJOaUstIvMBMNc) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 3:53 | 2021-05-21 | 2022-05-13 |
+| [Flashdance...What A Feeling](https://open.spotify.com/track/1gbL6TqKuJOaUstIvMBMNc) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 3:53 | 2021-05-21 |  |
 | [Fotografia](https://open.spotify.com/track/2ZZNEhPfLbc4sxhDwUwyk3) | [Oscar Athie](https://open.spotify.com/artist/5wk7LFJizWvjj1m7ybEA3J) | [Fotografia](https://open.spotify.com/album/0psZmb1gOGoFm1iCFhOM3T) | 3:45 | 2021-05-21 |  |
 | [Fotonovela](https://open.spotify.com/track/437MUs4kWnpM79CIwCHiRP) | [Ivan](https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq) | [Lo Mejor de Ivan](https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga) | 4:35 | 2021-05-21 |  |
 | [Frente a Frente](https://open.spotify.com/track/4487dYLxbESgxQhvemJdJF) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Romantico De Juan Gabriel](https://open.spotify.com/album/7GuPdLJAW0aAy5SWlaDgdq) | 4:45 | 2021-05-21 |  |
@@ -65,7 +66,7 @@
 | [Mudanzas](https://open.spotify.com/track/3zzlzmcV08EkLTTdwtK98o) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/0j6hp50osfFovLhuXGWWvC) | 3:51 | 2021-05-21 |  |
 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 | 2021-05-21 |  |
 | [No Vale la Pena](https://open.spotify.com/track/2J6vnisCJupiop3tovP7Ay) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre en Mi Mente](https://open.spotify.com/album/41KWrNvgtyLOEc804OLppj) | 2:35 | 2021-05-21 |  |
-| [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2021-05-21 |  |
+| [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2021-05-21 | 2022-05-14 |
 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 | 2021-05-21 |  |
 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 | 2021-05-21 |  |
 | [Paso La Vida Pensando](https://open.spotify.com/track/47pC0Npm3kOILDrOuLU37A) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Me Enamore](https://open.spotify.com/album/6ffHHHleeU0yUjIK58XlQU) | 3:50 | 2021-05-21 |  |

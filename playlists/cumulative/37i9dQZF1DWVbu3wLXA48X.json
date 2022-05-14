@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Anything You Want",
+        "url": "https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY"
+      },
+      "artists": [
+        {
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236493,
+      "name": "Anything You Want",
+      "url": "https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi"
+    },
+    {
+      "album": {
         "name": "Away With Me",
         "url": "https://open.spotify.com/album/4IWjUSyoKFPiFgEPyFDmNi"
       },
@@ -3089,7 +3107,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 315249,
       "name": "Monaka",
       "url": "https://open.spotify.com/track/3LVVcEQADkkZOZcaPTFXfD"

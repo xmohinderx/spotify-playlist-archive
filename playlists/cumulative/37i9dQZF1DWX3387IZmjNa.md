@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Lil Tjay
 
-127 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
+128 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-05-06 |  |
 | [Dancing With The Devil](https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Dancing With The Devil](https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM) | 2:49 | 2022-01-14 | 2022-05-07 |
 | [Dididumduhduh](https://open.spotify.com/track/4qEmZddPnyEpGkHeGTNmWa) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:26 | 2021-11-05 | 2022-03-26 |
+| [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-13 |  |
 | [Difference Is \(feat\. Summer Walker\)](https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:13 | 2022-03-11 |  |
 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-04-27 |  |
 | [everything you need](https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:27 | 2021-12-17 |  |
@@ -73,7 +74,7 @@
 | [Lifetime](https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lifetime](https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb) | 2:15 | 2022-04-08 |  |
 | [Like A Thug \(feat\. Lil Durk\)](https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 | 2022-03-25 |  |
 | [Lil Secret](https://open.spotify.com/track/29SR6SFfjQJoddfmimHbQh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:09 | 2022-05-06 |  |
-| [lost souls \(with Brent Faiyaz\)](https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:29 | 2021-09-24 |  |
+| [lost souls \(with Brent Faiyaz\)](https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:29 | 2021-09-24 | 2022-05-14 |
 | [Love & War \(feat\. Queen Naija\) \- Remix](https://open.spotify.com/track/0empuybajOILWSMGYGDoPF) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Love & War \(feat\. Queen Naija\) \[Remix\]](https://open.spotify.com/album/0ojs5aPDAULH8GMPDulOcU) | 4:06 | 2021-10-07\* | 2021-12-04 |
 | [Love Me](https://open.spotify.com/track/2PxUUGpUBoHcDUrPKNstTE) | [YXNG K.A](https://open.spotify.com/artist/3BBujITyfgwyXTQliFzUNH) | [Love Me](https://open.spotify.com/album/0TUe5E3BQ38hBXglAijbNx) | 2:26 | 2021-12-03 | 2022-05-07 |
 | [LOVE YOU BETTER](https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:09 | 2022-04-29 |  |

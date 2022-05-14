@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Neima Ezza
 
-60 songs - 3 hr 21 min - not published yet
+60 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

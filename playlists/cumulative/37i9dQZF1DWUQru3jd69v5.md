@@ -4,7 +4,7 @@
 
 > La nuova generazione di rapper italiani\. Cover: Medy
 
-63 songs - 2 hr 46 min - not published yet
+63 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

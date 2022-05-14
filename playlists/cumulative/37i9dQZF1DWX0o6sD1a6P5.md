@@ -4,7 +4,7 @@
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Rema
 
-128 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+129 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Snapchat](https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:26 | 2021-12-27 | 2022-04-15 |
 | [So Distant \(feat\. Tayc\)](https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [So Distant \(feat\. Tayc\)](https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA) | 2:54 | 2022-03-03 |  |
 | [Sometimes \- Remix](https://open.spotify.com/track/6rDbIKxHWteL6TnhLtj634) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Sometimes \(Remix\)](https://open.spotify.com/album/0CP8QDMjNwtWkIcQ30P2pc) | 3:08 | 2022-02-03 | 2022-05-06 |
+| [Stand Strong \(feat\. The Samples\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [The Samples](https://open.spotify.com/artist/4KV8ACcPuT3Jyx9Bvh6OFs) | [Stand Strong \(feat\. The Samples\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-05-13 |  |
 | [Suis\-moi \(feat\. Ninho\)](https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:55 | 2022-01-27 |  |
 | [Sungba](https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 3:10 | 2022-02-24 | 2022-04-01 |
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-03-31 |  |

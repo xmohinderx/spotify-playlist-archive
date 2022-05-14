@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Gab Bouchard",
+  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Mon Doux Saigneur",
   "name": "Montr\u00e9al Chill",
   "published_playlist_ids": [
     "4x7dCsK0Zzpdb88Niig3QN"
@@ -528,6 +528,24 @@
     },
     {
       "album": {
+        "name": "Coin coin",
+        "url": "https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA"
+      },
+      "artists": [
+        {
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "Coin coin",
+      "url": "https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b"
+    },
+    {
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/78KDFkGu8CF2E4imyMGCnY"
       },
@@ -978,6 +996,24 @@
     },
     {
       "album": {
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205857,
+      "name": "Fleur de l'\u00c2ge",
+      "url": "https://open.spotify.com/track/1AtvnJLYXb0eUy0JElcoPC"
+    },
+    {
+      "album": {
         "name": "Fleurs",
         "url": "https://open.spotify.com/album/1QX130cPvTixh689vkCWo4"
       },
@@ -1287,6 +1323,24 @@
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT"
+    },
+    {
+      "album": {
+        "name": "Empty Seats",
+        "url": "https://open.spotify.com/album/5as79P2kyTlrSsHZoWJLDw"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201052,
+      "name": "Janet Planet",
+      "url": "https://open.spotify.com/track/75nGdj0oz2EaRRVrlIKeiL"
     },
     {
       "album": {
@@ -1655,7 +1709,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 194215,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5dxEhB44z5XTb0joVixdiT"
@@ -1935,7 +1989,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 222285,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4hVUrQ9c3JalPh8f8BoFqW"
@@ -1971,7 +2025,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 398491,
       "name": "Perfected Steps",
       "url": "https://open.spotify.com/track/3lhUXoIJ3DNW5xeTH1QJUL"
@@ -2245,7 +2299,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202996,
       "name": "Shoegaze",
       "url": "https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d"
@@ -2427,6 +2481,24 @@
       "duration_ms": 171355,
       "name": "Umami (edit)",
       "url": "https://open.spotify.com/track/0N2efiVO6AXws1R4O8Rhhs"
+    },
+    {
+      "album": {
+        "name": "Un homme sans visage",
+        "url": "https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206256,
+      "name": "Un homme sans visage",
+      "url": "https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8"
     },
     {
       "album": {

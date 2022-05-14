@@ -694,6 +694,24 @@
     },
     {
       "album": {
+        "name": "boo hast",
+        "url": "https://open.spotify.com/album/1rgBam0I15qlgcQZ4KqcHQ"
+      },
+      "artists": [
+        {
+          "name": "divmod",
+          "url": "https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193090,
+      "name": "boo hast",
+      "url": "https://open.spotify.com/track/2lsib3FZBij9lm3nOCfaet"
+    },
+    {
+      "album": {
         "name": "Bootes Void",
         "url": "https://open.spotify.com/album/2lc1BwFDujTcQYmAlDCvSx"
       },
@@ -5636,6 +5654,24 @@
     },
     {
       "album": {
+        "name": "TO BURN ONESELF BY FIRE",
+        "url": "https://open.spotify.com/album/06ns0AH10SIB15zqQV2ZhS"
+      },
+      "artists": [
+        {
+          "name": "FUTURE NIGHTMARES",
+          "url": "https://open.spotify.com/artist/3zuBlp2jROu70YTftLcixP"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "TO BURN ONESELF BY FIRE",
+      "url": "https://open.spotify.com/track/61lhGu2IL2pVxdkI3vqddy"
+    },
+    {
+      "album": {
         "name": "Last Train to Synthville",
         "url": "https://open.spotify.com/album/1C0haMpIYwdyuXlVpHJ9Pb"
       },
@@ -6001,7 +6037,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 208500,
       "name": "warioteque",
       "url": "https://open.spotify.com/track/2h1bBKsJfigAAF0KX5ApbL"

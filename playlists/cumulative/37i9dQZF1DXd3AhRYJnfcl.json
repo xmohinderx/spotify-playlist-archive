@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062a\u064a \u0644\u0627 \u064a\u0645\u0643\u0646\u0643 \u0627\u0644\u062a\u0648\u0642\u0641 \u0639\u0646 \u0627\u0644\u0627\u0633\u062a\u0645\u0627\u0639 \u0627\u0644\u064a\u0647\u0627 \u0627\u0644\u063a\u0644\u0627\u0641: \u0648\u064a\u062c\u0632",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062a\u064a \u0644\u0627 \u064a\u0645\u0643\u0646\u0643 \u0627\u0644\u062a\u0648\u0642\u0641 \u0639\u0646 \u0627\u0644\u0627\u0633\u062a\u0645\u0627\u0639 \u0627\u0644\u064a\u0647\u0627 \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u062d\u0645\u062f \u062d\u0645\u0627\u0642\u064a",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "published_playlist_ids": [],
   "tracks": [
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 316056,
       "name": "3la 3eny",
       "url": "https://open.spotify.com/track/5Aun0pJOQFBQozav1hPpM1"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 190965,
       "name": "Arosty",
       "url": "https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4"
@@ -136,6 +136,24 @@
     },
     {
       "album": {
+        "name": "Dalla3 Wetdalla3",
+        "url": "https://open.spotify.com/album/4bHkkZsw6is2Tx2U8F2st6"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246521,
+      "name": "Dalla3 Wetdalla3",
+      "url": "https://open.spotify.com/track/5ciTsQ0b2wsoEPrDY2MjWJ"
+    },
+    {
+      "album": {
         "name": "Dars Hayaty",
         "url": "https://open.spotify.com/album/1ItG5aRvvmxKzEIpUnwbBB"
       },
@@ -169,6 +187,24 @@
       "duration_ms": 229933,
       "name": "El Fatra Di",
       "url": "https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E"
+    },
+    {
+      "album": {
+        "name": "El Haraka de",
+        "url": "https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "El Haraka de",
+      "url": "https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9"
     },
     {
       "album": {
@@ -271,6 +307,24 @@
       "duration_ms": 231428,
       "name": "Fe Makan Ma",
       "url": "https://open.spotify.com/track/3nF4YhL8rIDjYKfPpnzTBS"
+    },
+    {
+      "album": {
+        "name": "Gamalha Estethnaey",
+        "url": "https://open.spotify.com/album/77LRIbp593ruGyVw5uQRBZ"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "Gamalha Estethnaey",
+      "url": "https://open.spotify.com/track/3CYwmM56BETkTSpcr3LEiL"
     },
     {
       "album": {
@@ -459,7 +513,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202600,
       "name": "Leilet El Omr",
       "url": "https://open.spotify.com/track/0pAURGTZvKbI1NlpHyTk0o"
@@ -557,6 +611,28 @@
       "duration_ms": 175911,
       "name": "Mesh Nadman",
       "url": "https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J"
+    },
+    {
+      "album": {
+        "name": "Min Awel Dekika",
+        "url": "https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        },
+        {
+          "name": "Saad Lamjarred",
+          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "Min Awel Dekika",
+      "url": "https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2"
     },
     {
       "album": {
@@ -767,7 +843,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 224000,
       "name": "Ya Fatenny",
       "url": "https://open.spotify.com/track/268vuOQPZTwDjwS5SqrKC8"

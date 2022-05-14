@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Madeline Edwards
 
-70 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+71 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/track/5YsPrfAtcCzMIc4BHTsxP5) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/album/5YGntXPD5Z5QsZGC1BHLxy) | 2:56 | 2021-12-03 |  |
 | [Best Revenge](https://open.spotify.com/track/22JpCHdmjqmeSmevIz8c32) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Best Revenge](https://open.spotify.com/album/3Lg3SLFfC4iNyOBnPL2XAV) | 3:18 | 2022-03-18 |  |
 | [Best Shot \- Spotify Singles](https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:10 | 2022-04-01 |  |
+| [Blessed](https://open.spotify.com/track/3iy3WGBub3OWs2t4GFTGA9) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Blessed](https://open.spotify.com/album/3MbNdzvZq9sYQ0eibEbiol) | 3:18 | 2022-05-13 |  |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-03 |  |
 | [Broken Umbrella](https://open.spotify.com/track/1xRguz8lsbOY33273bAheF) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Broken Umbrella](https://open.spotify.com/album/7iCUNsYl3SXnIWNB1eO9nd) | 2:43 | 2021-12-03 |  |
 | [Cabin Fever](https://open.spotify.com/track/3tKVfUEpy8ll3GtC3uYfAA) | [Aaron Vance](https://open.spotify.com/artist/2BdvOgZdYNtGAzVEfg5jci) | [Cabin Fever](https://open.spotify.com/album/28TxK5Wufy1F037e5TENu1) | 2:53 | 2021-12-03 |  |

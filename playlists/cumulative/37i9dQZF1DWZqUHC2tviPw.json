@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 171003,
       "name": "Bill It",
       "url": "https://open.spotify.com/track/4fLhfwGir9leGtBN742RJI"
@@ -762,6 +762,24 @@
     },
     {
       "album": {
+        "name": "You Can Not Lie",
+        "url": "https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr"
+      },
+      "artists": [
+        {
+          "name": "Ava Low",
+          "url": "https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127333,
+      "name": "I Wanna Say Something",
+      "url": "https://open.spotify.com/track/5fWRBWN2TkGGnYXvZrPjgK"
+    },
+    {
+      "album": {
         "name": "Lunchbox",
         "url": "https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO"
       },
@@ -979,6 +997,24 @@
       "duration_ms": 179602,
       "name": "Lunch Break",
       "url": "https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8"
+    },
+    {
+      "album": {
+        "name": "You Can Not Lie",
+        "url": "https://open.spotify.com/album/1FWE6gq1DJFypvb8u3BVwr"
+      },
+      "artists": [
+        {
+          "name": "Ava Low",
+          "url": "https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145423,
+      "name": "Maharajah",
+      "url": "https://open.spotify.com/track/4NvKUG4KOeTmWvfAyEMDKM"
     },
     {
       "album": {
@@ -1324,6 +1360,24 @@
     },
     {
       "album": {
+        "name": "Probiotic.",
+        "url": "https://open.spotify.com/album/6OzyRp3FhRgYwjhsCFn7Rv"
+      },
+      "artists": [
+        {
+          "name": "Timothy Infinite",
+          "url": "https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148587,
+      "name": "Probiotic.",
+      "url": "https://open.spotify.com/track/3ZUuqfhDap5imYc1Jk94sL"
+    },
+    {
+      "album": {
         "name": "PSYCHOSIS",
         "url": "https://open.spotify.com/album/2UQSwIYGVqqL0H4XtmhVAy"
       },
@@ -1361,7 +1415,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 144657,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/204YRFBt8bmTHvSepEvjvO"
@@ -1476,6 +1530,24 @@
     },
     {
       "album": {
+        "name": "Scam",
+        "url": "https://open.spotify.com/album/31MjbJLu4imw8ZWNRjQk5I"
+      },
+      "artists": [
+        {
+          "name": "Classe Beats",
+          "url": "https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Scam",
+      "url": "https://open.spotify.com/track/0UCx2yz0P5Am3tDEZMlaLR"
+    },
+    {
+      "album": {
         "name": "Sierra",
         "url": "https://open.spotify.com/album/7eCGMaV5BrDG98humiCe07"
       },
@@ -1487,7 +1559,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 267726,
       "name": "Sierra",
       "url": "https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3"
@@ -1881,7 +1953,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 159216,
       "name": "Thumper",
       "url": "https://open.spotify.com/track/0OJXVsWLjCsDf6MPPOV06V"
@@ -2173,6 +2245,28 @@
       "duration_ms": 148977,
       "name": "You Say It's Easy",
       "url": "https://open.spotify.com/track/76H1wnU1AwWjQ2tWKeG1xg"
+    },
+    {
+      "album": {
+        "name": "Youngin",
+        "url": "https://open.spotify.com/album/6N36NlLcGlAC3MIEc353Pc"
+      },
+      "artists": [
+        {
+          "name": "Classe Beats",
+          "url": "https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW"
+        },
+        {
+          "name": "Kutoff",
+          "url": "https://open.spotify.com/artist/1Z1aKCA8ivXsGZHfEsuzhv"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162909,
+      "name": "Youngin",
+      "url": "https://open.spotify.com/track/2H5QkzvbIFTxZdpZ1fyXvb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZqUHC2tviPw"

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-245 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+248 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alte Liebe](https://open.spotify.com/track/2HkYUQt0e5GUXvJSFfFTcX) | [Reinhold Simmel](https://open.spotify.com/artist/7DpQruqjtjA5gOVgYfYJZ0) | [Alte Liebe](https://open.spotify.com/album/78muUWjscrUbNX7GFo5W7O) | 3:05 | 2021-12-08 |  |
 | [am Rande des Waldes](https://open.spotify.com/track/7alIySW96sYHrTNzl1d9NS) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [no man's land](https://open.spotify.com/album/3yUOrhecG3B9bbRWcb2ghB) | 2:57 | 2021-12-08 | 2022-02-02 |
 | [Am Starnberger See](https://open.spotify.com/track/0AaQCL7bGvEFYmTCSdcRNh) | [Joseph Winkler](https://open.spotify.com/artist/7kRkQ9MMlq3wIzX6LOJbhr) | [Chiara](https://open.spotify.com/album/66SeV3uOJWL9qxrYDkKBph) | 3:05 | 2021-12-08 | 2022-04-06 |
+| [Andorinhas](https://open.spotify.com/track/5nGQgcKYgvLPYw147hbRKU) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Blue Jay](https://open.spotify.com/album/7vgoyyb434dIkXAypof4zz) | 3:27 | 2022-05-13 |  |
 | [Andromeda](https://open.spotify.com/track/4rTOkpkDmJzDHLDjxX6Q5p) | [Ruby Lucern](https://open.spotify.com/artist/6pnPGq4LfbeTMuVyciSPjP) | [Firenze](https://open.spotify.com/album/6epHnZWyD4jXrrx5Lei9eo) | 3:30 | 2021-12-08 |  |
 | [Anteayer](https://open.spotify.com/track/3qTOFnijKc0S5ddgzjr5yu) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Anteayer](https://open.spotify.com/album/06xdDcNCj4pbl4pQC6A4S6) | 2:27 | 2021-12-08 | 2022-04-22 |
 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 | 2021-12-08 |  |
@@ -215,10 +216,12 @@
 | [Taar](https://open.spotify.com/track/0ojTn1yMJrTm7Kz8IlqtUn) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Chitarra](https://open.spotify.com/album/4NMl9FJpiyIFyVwBpdMv3O) | 3:42 | 2021-12-08 |  |
 | [Take Me Home](https://open.spotify.com/track/4epnY4Wrx6z4qjRQbCcorc) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:52 | 2021-12-08 |  |
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2021-12-08 |  |
+| [The Dunes](https://open.spotify.com/track/0HRRkGGFpMQH1AMLUDYjc1) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [The Dunes](https://open.spotify.com/album/0zHcpVeaC1y6X1hYDKklKL) | 2:47 | 2022-05-13 |  |
 | [The Highland](https://open.spotify.com/track/34fmLyZjHRr1iQQacMd6hn) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [At The Break Of Dawn](https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q) | 3:00 | 2021-12-08 |  |
 | [The Lone Wolf's Meadow](https://open.spotify.com/track/5085Fog6qVXvnsApSamQJl) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [The Lone Wolf's Meadow](https://open.spotify.com/album/33EnSk5EHcTVBMiycZ427c) | 2:07 | 2021-12-08 | 2022-04-06 |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2021-12-08 |  |
 | [The Poconos](https://open.spotify.com/track/0ds1reOHuK7CCsu3nIzZXj) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [The Poconos](https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017) | 2:51 | 2021-12-08 |  |
+| [Thousand Years Ago](https://open.spotify.com/track/03ii6bJVPO1xJNNsG9QvIB) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Thousand Years Ago](https://open.spotify.com/album/336D8kHYPubaAtmgCsVMMv) | 2:19 | 2022-05-13 |  |
 | [tranquilas noches valencianas](https://open.spotify.com/track/3WHZooOd5JoUN45Y2out6e) | [Mateo Ortega](https://open.spotify.com/artist/1jLzDtxxrdDCLWSzv0YfRJ) | [Bajo La Luna](https://open.spotify.com/album/7eFERghf95UFiZ2pfE5Gld) | 3:30 | 2021-12-08 |  |
 | [Treehouse](https://open.spotify.com/track/4HtW4pnVho9FCLEhqga7GS) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Mirage](https://open.spotify.com/album/13QWnehIXcYC9GBZbPmJmC) | 2:28 | 2021-12-08 |  |
 | [Tuul](https://open.spotify.com/track/0Wjd1SD4pR3m3vyWOXNmnl) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2021-12-08 |  |

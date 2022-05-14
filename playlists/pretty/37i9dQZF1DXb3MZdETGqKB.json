@@ -1,13 +1,29 @@
 {
-  "description": "All new, all blues. Cover: Fantastic Negrito",
-  "num_followers": 116644,
+  "description": "All new, all blues. Cover: G. Love",
+  "num_followers": 116692,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDBiZTAwMDAwMTgwOTc4ODE3MjUwMDAwMDE3ZmZiNDEwYTc4",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDBiZjAwMDAwMTgwYmI5NDliNWUwMDAwMDE4MGFlYTU0YTQ0",
   "tracks": [
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Laughing in the Sunshine",
+        "url": "https://open.spotify.com/album/7duewCcizMjJRxlToFIeZt"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 214026,
+      "name": "Laughing in the Sunshine",
+      "url": "https://open.spotify.com/track/4TYwijXp1eODPgVSIiMfTp"
+    },
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance hits. Featuring music from Alison Wonderland, Robin Schulz & David Guetta, Tove Lo, Endless Summer (Jonas Blue & Sam Feldt) and more!",
+  "description": "The world's biggest dance hits. Featuring music from Nathan Dawe & Ella Henderson, John Summit, The Chainsmokers, Shygirl, Noisia & Skrillex and more!",
   "name": "mint",
   "published_playlist_ids": [
     "2lDweGgvQhwyQi5R55ct4Y"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 172953,
       "name": "bbycakes (with Lil Uzi Vert, PinkPantheress & Shygirl)",
       "url": "https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202285,
       "name": "Color Of Your Soul",
       "url": "https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe"
@@ -1178,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
+    },
+    {
+      "album": {
         "name": "I Hope It Lasts Forever",
         "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
       },
@@ -1482,6 +1500,28 @@
     },
     {
       "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
+    },
+    {
+      "album": {
         "name": "Headlights (feat. KIDDO)",
         "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
       },
@@ -1501,7 +1541,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
@@ -1567,7 +1607,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 226206,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo"
@@ -1659,6 +1699,36 @@
       "duration_ms": 464516,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/7Mqdzo9NcZLUwTAoyV2AeE"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Noisia",
+          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+        },
+        {
+          "name": "Thys",
+          "url": "https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR"
+        },
+        {
+          "name": "Sleepnet",
+          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321480,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5dDHmJULJfgacnHLwK68xe"
     },
     {
       "album": {
@@ -1787,6 +1857,24 @@
       "duration_ms": 329996,
       "name": "I Go - DJ Koze Remix",
       "url": "https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT"
+    },
+    {
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185522,
+      "name": "I Love U",
+      "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
     },
     {
       "album": {
@@ -1953,6 +2041,24 @@
       "duration_ms": 210505,
       "name": "If We\u2019ll Ever Be Remembered",
       "url": "https://open.spotify.com/track/6wnzt59p7i8cAyuWl1avwr"
+    },
+    {
+      "album": {
+        "name": "In Chicago",
+        "url": "https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186686,
+      "name": "In Chicago",
+      "url": "https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG"
     },
     {
       "album": {
@@ -2352,6 +2458,28 @@
     },
     {
       "album": {
+        "name": "LIGHTWAVES",
+        "url": "https://open.spotify.com/album/1JhkARu8eNtzhsxCNwjnte"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141453,
+      "name": "LIGHTWAVES",
+      "url": "https://open.spotify.com/track/46JbXTR6VNrnnoJJAsn6gN"
+    },
+    {
+      "album": {
         "name": "Liquor Store",
         "url": "https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF"
       },
@@ -2521,7 +2649,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
@@ -2951,7 +3079,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 242000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
@@ -2981,6 +3109,24 @@
       "duration_ms": 149455,
       "name": "Nightjar (feat. SHELLS)",
       "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
+    },
+    {
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "No Excuses",
+      "url": "https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7"
     },
     {
       "album": {
@@ -3456,6 +3602,32 @@
     },
     {
       "album": {
+        "name": "Rizzla",
+        "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282554,
+      "name": "Rizzla",
+      "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
+    },
+    {
+      "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
@@ -3665,6 +3837,28 @@
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
+    },
+    {
+      "album": {
+        "name": "Shivering (feat. Spiritbox)",
+        "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300916,
+      "name": "Shivering (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
     },
     {
       "album": {
@@ -3975,7 +4169,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 162879,
       "name": "Still Sleepless",
       "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
@@ -5149,7 +5343,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
@@ -5193,7 +5387,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 157428,
       "name": "Your Tongue",
       "url": "https://open.spotify.com/track/00WQxluVREF12JZkKWvio4"

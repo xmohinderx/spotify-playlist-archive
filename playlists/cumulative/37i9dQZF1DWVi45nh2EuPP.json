@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 179216,
       "name": "Bring Home The Glory",
       "url": "https://open.spotify.com/track/4VgGx1cQlHB7Ls1Ukt0H7H"
@@ -613,10 +613,32 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 256842,
       "name": "Light Curve",
       "url": "https://open.spotify.com/track/6lwUcTSQzaxO0MeIINxlo9"
+    },
+    {
+      "album": {
+        "name": "III: Lost Chapter",
+        "url": "https://open.spotify.com/album/6jHsnYqSmiMqBvzG8qrYuE"
+      },
+      "artists": [
+        {
+          "name": "Pentakill",
+          "url": "https://open.spotify.com/artist/2qcGTB5s2t9o2w9SrI719s"
+        },
+        {
+          "name": "Jorn Lande",
+          "url": "https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Lost Chapter",
+      "url": "https://open.spotify.com/track/207K1MXwebxpXDS43OazOU"
     },
     {
       "album": {
@@ -661,7 +683,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 180146,
       "name": "Nasty - Foreign Air Remix",
       "url": "https://open.spotify.com/track/0xIBTPTXVv4FpFmWB8P8c8"
@@ -787,6 +809,32 @@
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
+    },
+    {
+      "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/0h4zde0cxK8qD7Zd3f77Nu"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Thutmose",
+          "url": "https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d"
+        },
+        {
+          "name": "Cal Scruby",
+          "url": "https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf"
     },
     {
       "album": {
@@ -931,7 +979,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 214813,
       "name": "Summer Tights",
       "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"

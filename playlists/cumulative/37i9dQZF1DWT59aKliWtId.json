@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A quality alternative blend. Cover: Sharon Van Etten",
+  "description": "A quality alternative blend. Cover: Death Cab for Cutie",
   "name": "Grade A",
   "published_playlist_ids": [
     "5atRHR4vc4jlkDH31Rwpnd"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 262226,
       "name": "Brother the Cloud",
       "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 197373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg"
@@ -1569,6 +1569,24 @@
       "duration_ms": 216363,
       "name": "Fever - Edit",
       "url": "https://open.spotify.com/track/0raqMVW55oQnMJyVcHcrzh"
+    },
+    {
+      "album": {
+        "name": "Forever in Sunset",
+        "url": "https://open.spotify.com/album/0MRtuttU8Z8Pk7W0apeKP2"
+      },
+      "artists": [
+        {
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262450,
+      "name": "Forever in Sunset",
+      "url": "https://open.spotify.com/track/12BRuJGvSrjoVDfeBIpO1M"
     },
     {
       "album": {
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 240200,
       "name": "How Dare You Want More",
       "url": "https://open.spotify.com/track/4lKg94fHZZ3pozsNFTew2x"
@@ -2753,6 +2771,28 @@
       "duration_ms": 153357,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/3YIo8llthdNC8Si3W2CIPP"
+    },
+    {
+      "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310553,
+      "name": "Mariella",
+      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
     },
     {
       "album": {
@@ -3591,6 +3631,24 @@
       "duration_ms": 194374,
       "name": "Roll The Dice",
       "url": "https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO"
+    },
+    {
+      "album": {
+        "name": "Roman Candles",
+        "url": "https://open.spotify.com/album/08RMceLc7dOM9mmdoFpPBM"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130106,
+      "name": "Roman Candles",
+      "url": "https://open.spotify.com/track/6jIrbJ5w2KfkLsk3LiGTOW"
     },
     {
       "album": {
@@ -4523,6 +4581,24 @@
       "duration_ms": 232853,
       "name": "This Happiness",
       "url": "https://open.spotify.com/track/4PQsjg2Bfm7b7OhwLsbtio"
+    },
+    {
+      "album": {
+        "name": "Through The Echoes / Lose It",
+        "url": "https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221245,
+      "name": "Through The Echoes",
+      "url": "https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R"
     },
     {
       "album": {

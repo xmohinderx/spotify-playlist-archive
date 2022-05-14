@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New releases, driving the current. Cover: A$AP Rocky ",
+  "description": "New releases, driving the current. Cover: Kendrick Lamar",
   "name": "This is Frequency",
   "published_playlist_ids": [
     "1UY4Avsp9iaSPNiwp3z1bT"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 230400,
       "name": "ALL FOR NOTHING",
       "url": "https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 213232,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/2LUvEI9tnkp9Wrq0fFl2H1"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 152750,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1o1bEFROirftkoCx4x7hbc"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 241643,
       "name": "Changed On Me (feat. Vory & Polo G)",
       "url": "https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9"
@@ -1704,6 +1704,28 @@
     },
     {
       "album": {
+        "name": "DAMN HOMIE (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/2XNIXSvuuUUdC7I9zsSRvW"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "DAMN HOMIE (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/1P3ngSxpsmwSVlnAq4iszK"
+    },
+    {
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5"
       },
@@ -2101,7 +2123,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 203606,
       "name": "double standard",
       "url": "https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq"
@@ -3434,6 +3456,24 @@
     },
     {
       "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148194,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
+    },
+    {
+      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -3863,7 +3903,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 194022,
       "name": "Jerry Curl (feat. Larry June)",
       "url": "https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1"
@@ -3957,6 +3997,24 @@
       "duration_ms": 191375,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf"
+    },
+    {
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "album": {
@@ -4273,7 +4331,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 135929,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l"
@@ -4683,7 +4741,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 150187,
       "name": "Me & My Weapon",
       "url": "https://open.spotify.com/track/1wlATrcYdFPujJw6xPJsld"
@@ -4807,6 +4865,24 @@
       "duration_ms": 221142,
       "name": "Money Maker",
       "url": "https://open.spotify.com/track/1z2FmrWnYJMTatRF62Guzz"
+    },
+    {
+      "album": {
+        "name": "moonlit room",
+        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250679,
+      "name": "moonlit room",
+      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
       "album": {
@@ -5306,6 +5382,24 @@
     },
     {
       "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
+    },
+    {
+      "album": {
         "name": "En Letra de Otro",
         "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
       },
@@ -5368,6 +5462,24 @@
     },
     {
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+    },
+    {
+      "album": {
         "name": "IN DIMES WE TRUST",
         "url": "https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi"
       },
@@ -5401,6 +5513,24 @@
       "duration_ms": 189174,
       "name": "Paranoia - Bonus Track",
       "url": "https://open.spotify.com/track/44AELZZdwsZA95Z1o2gymO"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/1RKb5pqSU8hBpXYOkS7Tii"
+      },
+      "artists": [
+        {
+          "name": "Lil Tracy",
+          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/1kmIRT9WMaYH47ON57W0jB"
     },
     {
       "album": {
@@ -6754,6 +6884,24 @@
     },
     {
       "album": {
+        "name": "Heard Cuz Was Hot 2",
+        "url": "https://open.spotify.com/album/5eIfljw0IgVb4OdkDM32xd"
+      },
+      "artists": [
+        {
+          "name": "XanMan",
+          "url": "https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99191,
+      "name": "So Servin",
+      "url": "https://open.spotify.com/track/49HokYt3X8ReaEKPfr86fn"
+    },
+    {
+      "album": {
         "name": "Soccer Dad",
         "url": "https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS"
       },
@@ -6917,6 +7065,24 @@
       "duration_ms": 138508,
       "name": "Southside of the Moon",
       "url": "https://open.spotify.com/track/2HAQFYghYwBx2nX4JKvLbX"
+    },
+    {
+      "album": {
+        "name": "SPEND A MINUTE",
+        "url": "https://open.spotify.com/album/5p0dEkQD594bF0xSlZJYCS"
+      },
+      "artists": [
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169064,
+      "name": "SPEND A MINUTE",
+      "url": "https://open.spotify.com/track/27VibvSrthCyIielAZNwto"
     },
     {
       "album": {
@@ -7780,6 +7946,24 @@
     },
     {
       "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/67xWUOuZs8Dx36kpES3x4w"
+      },
+      "artists": [
+        {
+          "name": "MoneyMarr",
+          "url": "https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105926,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/5gHZrIUjZ6eniUIrySkv6Y"
+    },
+    {
+      "album": {
         "name": "Tits & Grits",
         "url": "https://open.spotify.com/album/6bScm0vuCNtcHlN1n71NG9"
       },
@@ -8265,7 +8449,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 253747,
       "name": "Way I Like",
       "url": "https://open.spotify.com/track/5msgUaS4MMn0gHpdsRemgU"
@@ -8453,7 +8637,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 120888,
       "name": "Woke up",
       "url": "https://open.spotify.com/track/2hoe9iD2gecT97dkq9QsdU"

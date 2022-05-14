@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new, all blues. Cover: Fantastic Negrito",
+  "description": "All new, all blues. Cover: G. Love",
   "name": "Nu-Blue",
   "published_playlist_ids": [
     "4T4Ls1NqL9xqUmBTXE8Kgz"
@@ -989,6 +989,24 @@
       "duration_ms": 180719,
       "name": "Lately",
       "url": "https://open.spotify.com/track/4aLryRkYDCLq97mCoMYh3F"
+    },
+    {
+      "album": {
+        "name": "Laughing in the Sunshine",
+        "url": "https://open.spotify.com/album/7duewCcizMjJRxlToFIeZt"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214026,
+      "name": "Laughing in the Sunshine",
+      "url": "https://open.spotify.com/track/4TYwijXp1eODPgVSIiMfTp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 81 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 81 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 29 | [If We Were Made Of Water](https://open.spotify.com/track/2jWiqKyZKkcChQpwwmQH8k) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:24 |
 | 30 | [Hawaiian Mazes](https://open.spotify.com/track/6IwqOnORFD7Jssoyor6Ngf) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 4:03 |
 | 31 | [Remember Us \(feat\. Rapsody\)](https://open.spotify.com/track/3vS7px4CSV1I8hP5MXEdk8) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:51 |
-| 32 | [I Don't Love You](https://open.spotify.com/track/56DtlpHeMFHUIRf60GpBqa) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/0isT3M0fEUwPOiuECCGL9E) | 3:24 |
-| 33 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
+| 32 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
+| 33 | [I Don't Love You](https://open.spotify.com/track/56DtlpHeMFHUIRf60GpBqa) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/0isT3M0fEUwPOiuECCGL9E) | 3:24 |
 | 34 | [Grey Area](https://open.spotify.com/track/5b1DQvXpubrUx0xeOB4f6n) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Grey Area](https://open.spotify.com/album/7zwvGqcqwKaUaYXjAWTwN4) | 2:48 |
 | 35 | [Sharpest Edges](https://open.spotify.com/track/3UFTGvTWqfFzQuVCIMBeet) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:09 |
 | 36 | [Crickets](https://open.spotify.com/track/0rpp6q1nWKuzkvKGBUEUcC) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 4:22 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 44 | [EYES SHUT](https://open.spotify.com/track/0YSjTKIEdW0EMNsZc9NJe0) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:27 |
 | 45 | [No Love](https://open.spotify.com/track/6dm3UF8yk4Xq64e0u96Tsb) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:33 |
 | 46 | [Candle](https://open.spotify.com/track/32Ka9ZTXBza9SkOWRtiXBO) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Candle](https://open.spotify.com/album/2FQ278LgDLpwbHa49ZmF63) | 3:16 |
-| 47 | [Say You Will](https://open.spotify.com/track/24621dQUWcjiLGtxunbyM2) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Salt](https://open.spotify.com/album/1F79OPZHaIXS1eZkkeCTeq) | 3:18 |
-| 48 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 |
+| 47 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 |
+| 48 | [Say You Will](https://open.spotify.com/track/24621dQUWcjiLGtxunbyM2) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Salt](https://open.spotify.com/album/1F79OPZHaIXS1eZkkeCTeq) | 3:18 |
 | 49 | [Mind On You](https://open.spotify.com/track/1sgMq9Stjx7OalV09MA7dU) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:32 |
 | 50 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 |
 | 51 | [Vesuvius](https://open.spotify.com/track/6gcOwkMKlJ9p99vGvbuzin) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 4:17 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 80 | [FUCKING MURDER](https://open.spotify.com/track/5seDFLG0mfC2PT2x27xauZ) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 9:19 |
 | 81 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 
-Snapshot ID: `Mjc1NDAwNzUsMDAwMDAwMDA5NjA3OTliYTE4MDIwYjJjYjlkZDVkY2M0YjA2ZTRkMQ==`
+Snapshot ID: `Mjc1NDE1MTQsMDAwMDAwMDAwMTZmMDVkZjFmYmJkMTgwMWUyYjExOGRhYmI3NmExMA==`

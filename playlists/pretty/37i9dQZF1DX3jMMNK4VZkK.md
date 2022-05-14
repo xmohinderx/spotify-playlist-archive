@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jMMNK4VZkK.md) - [plain]
 
 > Who runs the world? GIRLS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,855 likes - 103 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,868 likes - 103 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jMMNK4VZkK.md) - [plain]
 | 22 | [Go Lay Lay Go](https://open.spotify.com/track/0jPTahwv09GWoUFKeWvVZr) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ) | [Tha Cheat Code](https://open.spotify.com/album/1BC5qLOF5lsmAfV7WgfRfA) | 3:23 |
 | 23 | [Stupid Love](https://open.spotify.com/track/2kJu14V7hbZw3I4K8L8SXb) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Stupid Love](https://open.spotify.com/album/2HDW1EX8IBI3jqobswAfrZ) | 3:13 |
 | 24 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
-| 25 | [Luka \- Live](https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 3:51 |
+| 25 | [Luka](https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 3:51 |
 | 26 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 | 27 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
 | 28 | [ROYL](https://open.spotify.com/track/1C6ABWzxA5DBUpbTxNyTyB) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/2HIaUwS0PTUeqFFYHBBGAN) | 3:24 |

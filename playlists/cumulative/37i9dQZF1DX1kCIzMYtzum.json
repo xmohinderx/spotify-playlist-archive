@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 168624,
       "name": "42",
       "url": "https://open.spotify.com/track/7BPTtDK064b41v0LiopTnC"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 221428,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
@@ -669,10 +669,36 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 169901,
       "name": "Closer (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d"
+    },
+    {
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/3FCgEIMhNRdxLWB3Twi5SB"
+      },
+      "artists": [
+        {
+          "name": "NWYR",
+          "url": "https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0"
+        },
+        {
+          "name": "Wiwek",
+          "url": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187225,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/2hrlDOytJk8qOIXi9l6O5e"
     },
     {
       "album": {
@@ -695,7 +721,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 199285,
       "name": "Colorblind (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv"
@@ -797,7 +823,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173270,
       "name": "Day & Nite",
       "url": "https://open.spotify.com/track/5fgT3t3IYunBVjKhEzJZv6"
@@ -1147,7 +1173,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 199000,
       "name": "Everything",
       "url": "https://open.spotify.com/track/2cGnOx17iac6m7R5YDUZac"
@@ -1235,7 +1261,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 200347,
       "name": "Feel Like",
       "url": "https://open.spotify.com/track/06PBQ4rDmHRVfWsszDwLTa"
@@ -1271,7 +1297,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 217322,
       "name": "Fight For",
       "url": "https://open.spotify.com/track/6F3htwbMYqes3xVs5Vorkm"
@@ -1461,7 +1487,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 487359,
       "name": "Freeze",
       "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
@@ -1675,7 +1701,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 149032,
       "name": "Gotta Be You",
       "url": "https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf"
@@ -1815,7 +1841,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 178960,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/3S2ArNKZEcb9JiBX9WAv4z"
@@ -2511,7 +2537,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 168387,
       "name": "Losing My Religion (feat. MKLA)",
       "url": "https://open.spotify.com/track/7u6EvUNJUmycM4IHEiHasm"
@@ -2763,7 +2789,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153230,
       "name": "Melody",
       "url": "https://open.spotify.com/track/1rSUNzMXSxspf02RRQ3p5m"
@@ -3685,7 +3711,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 178593,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
@@ -3825,7 +3851,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 238285,
       "name": "Reason For Fighting (feat. ERV ELLO)",
       "url": "https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY"
@@ -3887,7 +3913,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 177142,
       "name": "Relight My Love",
       "url": "https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS"
@@ -3939,7 +3965,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 301090,
       "name": "Returning To You (feat. Alison May)",
       "url": "https://open.spotify.com/track/6IzwNz9jjHpvEqWmyLYUXa"
@@ -3965,7 +3991,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 184761,
       "name": "Revolving (feat. Marc E. Bassy) [MOTi Remix]",
       "url": "https://open.spotify.com/track/7Jhhj33A2qNRpLuo51Aqwt"
@@ -4185,7 +4211,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 263200,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"
@@ -4431,7 +4457,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 197779,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
@@ -4545,7 +4571,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178010,
       "name": "Stay Mine",
       "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
@@ -4721,7 +4747,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 134442,
       "name": "That Feeling (feat. Hayley May)",
       "url": "https://open.spotify.com/track/7clsGP3ea7rhBaEK9ga898"
@@ -4901,7 +4927,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 133090,
       "name": "Through The Storm",
       "url": "https://open.spotify.com/track/3CbqAQnT7oU23IvtcHO0k1"
@@ -5187,7 +5213,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 195000,
       "name": "We're Still Young",
       "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
@@ -5431,7 +5457,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 196684,
       "name": "You Got The Love",
       "url": "https://open.spotify.com/track/1O3Jlr6ksM6meUe1atDAxY"

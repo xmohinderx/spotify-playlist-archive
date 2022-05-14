@@ -4,7 +4,7 @@
 
 > canzoni da gridare e in copertina c'è oli? <3
 
-99 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+100 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [BELLA E CATTIVA](https://open.spotify.com/track/0kcbXArgh2BA7jnl36m1Ra) | [LACRAY](https://open.spotify.com/artist/4xpU5TueW8UPyRCpwnXwbo), [demoncandy](https://open.spotify.com/artist/68SYpEb4cmSAjA4k3B8npz) | [BELLA E CATTIVA](https://open.spotify.com/album/2ZQk4UNmyL5ALrc8YcRMW7) | 2:29 | 2022-05-06 |  |
 | [Bimbi sperduti](https://open.spotify.com/track/2cbhjonbV2YPffUoaliMvW) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Bimbi sperduti](https://open.spotify.com/album/71Hni2mOJAUVC9ll9fpvdo) | 2:47 | 2022-05-06 |  |
 | [Blister](https://open.spotify.com/track/5CE7zszvQTyd0PseSB7DZm) | [Jamie](https://open.spotify.com/artist/2oFwHkgGUfPxgKymSenwez), [Echoes](https://open.spotify.com/artist/1LnJgDU9cwWDuVOkxkrxnj), [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5) | [Blister](https://open.spotify.com/album/2H1wPKc196H0cdrUa9mDqM) | 3:17 | 2022-05-06 |  |
+| [Boy, don’t cry](https://open.spotify.com/track/64JyXTxIsxgmY5mElMvnGq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Mr\. Monkey](https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if) | [Lalalacrime](https://open.spotify.com/album/4AH6JYWDjp38EElRqCTFRN) | 3:10 | 2022-05-13 |  |
 | [Che pace // Che palle](https://open.spotify.com/track/2Z4jER1WEKoy0tcmJCVb0X) | [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d), [MATA](https://open.spotify.com/artist/4jh2kCacRBgKhCGF1Vcx5L) | [Che pace // Che palle](https://open.spotify.com/album/3FUUCdMCilMdLeXPKoIAaR) | 2:37 | 2022-05-06 |  |
 | [CI BERREMO SOPRA](https://open.spotify.com/track/14MPHzoxuguLWUfRvuirNo) | [treDiCuori](https://open.spotify.com/artist/5urMNWGVpr57ON72Xo6rpR), [Polly](https://open.spotify.com/artist/0x3VDd0WGoNLhMTd4hgxIA) | [FALSO NUEVE](https://open.spotify.com/album/2WSTRYVg6eFuer1IIRr7Tr) | 2:26 | 2022-05-06 |  |
 | [CIELO DRIVE](https://open.spotify.com/track/4QXnwCNswo3RzJzAr1EjWP) | [PAULO](https://open.spotify.com/artist/6ZyBrWgVAZXWCqTXTFaY5p) | [CIELO DRIVE](https://open.spotify.com/album/56Luh3qipxzWTZhCQhOGJc) | 2:23 | 2022-05-06 |  |
@@ -48,7 +49,7 @@
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-05-06 |  |
 | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-05-06 |  |
 | [i h8 that i still feel bad for u](https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i h8 that i still feel bad for u](https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd) | 2:55 | 2022-05-06 |  |
-| [I Suicidi](https://open.spotify.com/track/1i33z5GAlMFoWqc1nIgiVV) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [I Suicidi](https://open.spotify.com/album/2zKGN85z4QMrTrN1tU6kAA) | 2:14 | 2022-05-06 |  |
+| [I Suicidi](https://open.spotify.com/track/1i33z5GAlMFoWqc1nIgiVV) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [I Suicidi](https://open.spotify.com/album/2zKGN85z4QMrTrN1tU6kAA) | 2:14 | 2022-05-06 | 2022-05-14 |
 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 | 2022-05-12 |  |
 | [James Dean](https://open.spotify.com/track/38ymTy0ALyNcnWCLoCDgWr) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [James Dean](https://open.spotify.com/album/7hihiCYSTCRKAGcX7hSUXJ) | 3:07 | 2022-05-06 |  |
 | [junkie](https://open.spotify.com/track/1EbsleQQFhD9HYxPaTqgfu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [junkie](https://open.spotify.com/album/0F3HviU9yaZBcYOHAfhOpE) | 2:39 | 2022-05-06 |  |
@@ -58,7 +59,7 @@
 | [lacrime sul viso](https://open.spotify.com/track/5r7bwMrwYuBDWBQ8eQe3bh) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY) | [lacrime sul viso](https://open.spotify.com/album/0KBmglnCsd2cMZYFzrOtab) | 2:34 | 2022-05-06 |  |
 | [Laser](https://open.spotify.com/track/3s1YRNXqQlv48MQ37MF2mv) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [EDD BATEMAN](https://open.spotify.com/artist/5TRJP3i4wWKHFVbULeuUUC) | [Laser](https://open.spotify.com/album/3SHkc9hHOIGrJen9fowKsn) | 2:26 | 2022-05-12 |  |
 | [LAX](https://open.spotify.com/track/59gORupButLkes8N525BbB) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb) | [LAX](https://open.spotify.com/album/38X6tia4Qx5iTODElOVAHt) | 2:45 | 2022-05-06 |  |
-| [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-06 |  |
+| [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-06 | 2022-05-14 |
 | [Ma non erano te](https://open.spotify.com/track/0B1LI7BXzvtxDVdpyxCWKb) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Ma non erano te](https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM) | 2:33 | 2022-05-06 |  |
 | [Maggio](https://open.spotify.com/track/7BsHgg2kRLHfCUFtvlaL1R) | [Chez Haine](https://open.spotify.com/artist/2Fgm7hO8RPNcXIVCsDI93N), [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD) | [Maggio](https://open.spotify.com/album/0fLpYXYK0Ks5D6aIprsPwU) | 3:26 | 2022-05-12 |  |
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-05-06 |  |

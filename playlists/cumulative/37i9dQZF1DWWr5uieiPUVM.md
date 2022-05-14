@@ -2,7 +2,7 @@
 
 ### [Trapperz Brasil](https://open.spotify.com/playlist/37i9dQZF1DWWr5uieiPUVM)
 
-> 🚂  Aqui é só o trem caro do trap! Foto: DNASTY
+> 🚂  Aqui é só o trem caro do trap! Foto: Braão, LIT UP
 
 82 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/2bZk5f2KVSoGqtFW20OKam)
 

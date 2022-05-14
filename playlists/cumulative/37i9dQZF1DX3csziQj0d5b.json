@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 209732,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 203909,
       "name": "Drown",
       "url": "https://open.spotify.com/track/1gqo6zPxu0dEjLv7WLYN8I"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
@@ -1476,6 +1476,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2pBsm9BxIYXOfcdeUXlO3L"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217034,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0j9hwC26u5KWY8bf8Ajm4o"
+    },
+    {
+      "album": {
         "name": "Free Time",
         "url": "https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr"
       },
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 218826,
       "name": "Free Time",
       "url": "https://open.spotify.com/track/0fNLObXT9pvc3VED0oAevd"
@@ -4273,7 +4291,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 207973,
       "name": "Superficial Love",
       "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
@@ -4629,7 +4647,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 164781,
       "name": "Thousand Miles",
       "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
@@ -4995,7 +5013,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 161384,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA"
@@ -5133,7 +5151,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 102452,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3S9kCBYnWg7jSSV1XAYL6Q"

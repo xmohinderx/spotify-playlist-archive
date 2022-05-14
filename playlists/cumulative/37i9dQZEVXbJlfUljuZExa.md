@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-448 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
+449 songs - 1 day 1 hr 48 min - [published](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [22 \(Taylor's Version\)](https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:50 | 2021-11-14 | 2021-11-17 |
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2021-03-27\* | 2021-05-23 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-23 |  |
+| [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-13 |  |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-04-03 | 2021-07-21 |
 | [Aidilfitri](https://open.spotify.com/track/0vxPY5zo69nPxKmmRRx2fQ) | [Sanisah Huri](https://open.spotify.com/artist/57uWnv67tvDbc2QIXt1L62) | [Aidilfitri](https://open.spotify.com/album/6FVynXTVm7YVwOvANx2mt9) | 3:40 | 2021-05-09 | 2022-05-06 |
 | [Aidilfitri Di Alaf Baru](https://open.spotify.com/track/1a8h3iAv2muY1PeU3RhRxd) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Lebaran Bersama Siti \- Teman\-Teman](https://open.spotify.com/album/0ZJ2F8kiFzFQVoxxjqLLK9) | 4:19 | 2021-05-14 | 2021-05-16 |
@@ -422,7 +423,7 @@
 | [Thursday's Child Has Far To Go](https://open.spotify.com/track/04CHEoMbrLOiX8co3EG5dO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:31 | 2022-05-10 |  |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-23 |
 | [To you](https://open.spotify.com/track/25osmdhvjltPlN7gI2Javd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:45 | 2021-10-23 | 2021-10-24 |
-| [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-16 |  |
+| [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-16 | 2022-05-14 |
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-11-11 | 2021-12-04 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-23 |  |
 | [Trust Fund Baby](https://open.spotify.com/track/20pl0RVGT7P6L1Jr9p51nw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 2:36 | 2022-05-10 |  |

@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-569 songs - 1 day 6 hr 42 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+570 songs - 1 day 6 hr 44 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-26 |  |
 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2022-03-18 |  |
 | [Bad Tattoo](https://open.spotify.com/track/79VJHtRYfW6UQ2drtnozV0) | [HYYTS](https://open.spotify.com/artist/14imaElr610tHxlaJpuQHq) | [Bad Tattoo](https://open.spotify.com/album/3gKSl42Qz9Kwv9LKyPffrx) | 3:14 | 2021-01-23 |  |
+| [Ballroom Bop](https://open.spotify.com/track/2N2cB0q7KoZIix3hUGsJ05) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Ballroom Bop](https://open.spotify.com/album/2PPB081sKZPjhVakuQmpzE) | 2:07 | 2022-05-13 |  |
 | [Be Alone](https://open.spotify.com/track/7e7RHOQUTfEhNzJ7wkWaXP) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Two Sides](https://open.spotify.com/album/5DBpggyo5rvfmJMv1eOrT9) | 4:07 | 2020-12-04 |  |
 | [Be Alright](https://open.spotify.com/track/2H4gf1wLxvYreMj1jcaN0k) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/1mRtVjwGgBvLiaJhPGHZ8M) | 3:16 | 2019-08-27\* | 2019-11-11 |
 | [Beautiful](https://open.spotify.com/track/3RjL8AnKslWWPmlNLTJsAU) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:14 | 2022-02-10 |  |

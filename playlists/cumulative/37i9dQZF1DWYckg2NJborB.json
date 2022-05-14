@@ -109,7 +109,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 141680,
       "name": "Banana Co.",
       "url": "https://open.spotify.com/track/0PNFruXOgV5Vsf3OjsiDYW"
@@ -185,6 +185,24 @@
       "duration_ms": 300306,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07"
+    },
+    {
+      "album": {
+        "name": "Solitude Standing Live 2012",
+        "url": "https://open.spotify.com/album/03JBDRjstk0Iil3GRqnSWI"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284008,
+      "name": "Calypso - Live",
+      "url": "https://open.spotify.com/track/10kv6ITXZNukjUE1GxJu8N"
     },
     {
       "album": {
@@ -325,7 +343,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 252026,
       "name": "Harold Bloom",
       "url": "https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 255756,
       "name": "I'm Writing A Novel - Spotify Sessions Curated by Jim Eno",
       "url": "https://open.spotify.com/track/1QIOQ3XARduygQqRIif0f7"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 275080,
       "name": "No Poem",
       "url": "https://open.spotify.com/track/3FYKFB7FHN63hD3idN9kiO"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 319293,
       "name": "Prince Caspian",
       "url": "https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 240640,
       "name": "Rejoyce",
       "url": "https://open.spotify.com/track/2XClue0OiR8tBFuObNCvZ0"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 176333,
       "name": "Richard Cory",
       "url": "https://open.spotify.com/track/66qwQ9eor5P2dUy7PwtvMh"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 378239,
       "name": "Shakespeare",
       "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153840,
       "name": "Soma",
       "url": "https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 181106,
       "name": "The Underwood Typewriter",
       "url": "https://open.spotify.com/track/4ccugwlZ3EWVmPgfsYjCSk"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "Who Wrote Holden Caulfield?",
       "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"

@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-183 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
+184 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/4eLccPUZOHW6eZhftpmYAZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Talisman Stallion](https://open.spotify.com/track/1e3JUGxqyfe94XBFnWdP11) | [Bela Nemeth](https://open.spotify.com/artist/53y0Ghe3FgBnguwmI68OWT) | [Talisman Stallion](https://open.spotify.com/album/6BdLUE4WOmMfuin04hs4e4) | 2:00 | 2019-04-17 | 2022-02-05 |
 | [The Gift](https://open.spotify.com/track/0aNwdVJmeq9CSCEPsyCvXP) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/4IrmlNwO8aXQlFghPYl01q) | 3:45 | 2019-04-17 | 2022-02-05 |
 | [The Hours \- The Hours \- Arr\. for cello and piano by Bruno Fontaine: The poet acts](https://open.spotify.com/track/5YyDbEtxo2CvcjBuUiJIzJ) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Henri Demarquette](https://open.spotify.com/artist/2tStHB1uFmqhQM687bmnDq), [Vanessa Benelli Mosell](https://open.spotify.com/artist/38mceDz890rw1ci5pcTyk5) | [Echoes](https://open.spotify.com/album/1hQnoCT80F6YIUPVmWInrt) | 3:44 | 2019-04-17 | 2022-02-05 |
+| [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 | 2022-05-13 |  |
 | [The Radiant City](https://open.spotify.com/track/4ZI7KGfYT2SgENTj6BUSBL) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [The Dirac Quartet](https://open.spotify.com/artist/3Gq4ugaB8UBepNfoMEV3NL) | [The Mercy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DV6e43XHzDFXctbjmZ8bT) | 3:30 | 2019-04-17 | 2022-02-05 |
 | [The Shards](https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [The Shards](https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR) | 2:18 | 2022-02-18 |  |
 | [The Swimmer](https://open.spotify.com/track/6NtpDQounqLQOrZsXo9oHt) | [Phil France](https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd) | [The Swimmer](https://open.spotify.com/album/3r0g5kX6vfRGyFmkN40MPp) | 4:12 | 2019-04-17 | 2022-02-05 |

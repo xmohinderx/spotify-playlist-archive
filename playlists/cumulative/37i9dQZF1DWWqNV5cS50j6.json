@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Not not not pop. Cover: Junior Varsity",
+  "description": "Not not not pop. Cover: Johan Lenox",
   "name": "anti pop",
   "published_playlist_ids": [
     "6mIA8qAabkwc8qms18iOYE"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182833,
       "name": "14GRAMS",
       "url": "https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY"
@@ -1465,7 +1465,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 66782,
       "name": "Battery",
       "url": "https://open.spotify.com/track/3TZD1tcwJWCu5Zitgx362G"
@@ -4158,6 +4158,24 @@
     },
     {
       "album": {
+        "name": "down",
+        "url": "https://open.spotify.com/album/3OrjP0MaPUu1I54iBxe5O8"
+      },
+      "artists": [
+        {
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "down",
+      "url": "https://open.spotify.com/track/783PsmPNi2KHNk8PwR2rk2"
+    },
+    {
+      "album": {
         "name": "Down For It",
         "url": "https://open.spotify.com/album/0C83wme433FLhE95M4JbvG"
       },
@@ -6820,6 +6838,24 @@
     },
     {
       "album": {
+        "name": "WDYWTBWYGU",
+        "url": "https://open.spotify.com/album/6sd1FmCTSPabYh4aHRICTu"
+      },
+      "artists": [
+        {
+          "name": "Johan Lenox",
+          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191047,
+      "name": "Hitting Different",
+      "url": "https://open.spotify.com/track/56Q2pmSdy0jCJKEW6a5DsV"
+    },
+    {
+      "album": {
         "name": "Halfway Off the Porch",
         "url": "https://open.spotify.com/album/0rxJoRb4tLBGa9wWofIf7n"
       },
@@ -6885,7 +6921,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 185647,
       "name": "Hollywood High 16",
       "url": "https://open.spotify.com/track/3FjjoOFHM9kB2apdSiPa9o"
@@ -6961,7 +6997,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 199396,
       "name": "Honest",
       "url": "https://open.spotify.com/track/7D43qtE2NSNZOZ9NTYWM0X"
@@ -7055,6 +7091,24 @@
       "duration_ms": 148695,
       "name": "HOTEL ROOM",
       "url": "https://open.spotify.com/track/5quEdxM0g27wKFO4Pvl9He"
+    },
+    {
+      "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148194,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI"
     },
     {
       "album": {
@@ -9189,7 +9243,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 136110,
       "name": "LOVE, STARGIRL",
       "url": "https://open.spotify.com/track/1AgJta10Dm76yA5uz7EuTV"
@@ -11560,6 +11614,24 @@
     },
     {
       "album": {
+        "name": "Paycheck",
+        "url": "https://open.spotify.com/album/5MT3ktP4xGrGHAZKi7Pdxm"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207719,
+      "name": "Paycheck",
+      "url": "https://open.spotify.com/track/74Wd0TjJMFDOx5PKoQ31yK"
+    },
+    {
+      "album": {
         "name": "payphone",
         "url": "https://open.spotify.com/album/3PijiOFxCTC8CnXGQpdmDb"
       },
@@ -11593,7 +11665,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 176732,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
@@ -12279,6 +12351,24 @@
       "duration_ms": 139600,
       "name": "push (feat. Deb Never)",
       "url": "https://open.spotify.com/track/1TXydwDv0VSV92ijrUNBfN"
+    },
+    {
+      "album": {
+        "name": "Pushin' Thru It",
+        "url": "https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258661,
+      "name": "Pushin' Thru It",
+      "url": "https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo"
     },
     {
       "album": {
@@ -14988,6 +15078,24 @@
     },
     {
       "album": {
+        "name": "PAIN MUSEUM",
+        "url": "https://open.spotify.com/album/1XitWSLK1DrQ9pPSruVjss"
+      },
+      "artists": [
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162984,
+      "name": "TAKE THE BLAME",
+      "url": "https://open.spotify.com/track/6RXQ5Q933Z3kkVDKVVbBy4"
+    },
+    {
+      "album": {
         "name": "TAKEN BACK",
         "url": "https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB"
       },
@@ -15379,7 +15487,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"

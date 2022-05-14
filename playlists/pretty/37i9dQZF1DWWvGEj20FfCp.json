@@ -1,13 +1,53 @@
 {
   "description": "where music and fashion meet, soundtrack for the look by Hip-Hop's favorite stylist, Bobby Wesley ",
-  "num_followers": 2433,
+  "num_followers": 2590,
   "original_name": "Fashion Forward",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgxMzE3MSwwMDAwMDAwNDAwMDAwMTgwOTdiY2MwMmQwMDAwMDE4MDYyMDY0Yjk2",
+  "snapshot_id": "MTY1MjQxNDQ2MCwwMDAwMDAwNTAwMDAwMTgwYmI5M2IxMTkwMDAwMDE4MDYyMDY0Yjk2",
   "tracks": [
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 152612,
+      "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+      "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
+    },
     {
       "added_at": "2022-05-06 04:59:31",
       "album": {
@@ -999,22 +1039,6 @@
       "duration_ms": 209760,
       "name": "Mood (feat. Buju)",
       "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
-    },
-    {
-      "added_at": "2022-04-29 01:37:43",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 188741,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
     }
   ],
   "unique_name": "Fashion Forward",

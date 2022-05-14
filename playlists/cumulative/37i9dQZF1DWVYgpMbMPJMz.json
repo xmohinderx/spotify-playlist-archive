@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  River Valley Worship",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Local Sound",
   "name": "WorshipNow",
   "published_playlist_ids": [
     "12yoI78Chtrh071OwGd6QO"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 809142,
       "name": "Behold (The King Is Calling) - Live",
       "url": "https://open.spotify.com/track/2p1MCZwVjTPOOaOGWov6eA"
@@ -776,6 +776,32 @@
     },
     {
       "album": {
+        "name": "For Jesus (Live)",
+        "url": "https://open.spotify.com/album/1OIU6FuiAumrtI8VWrn4Bl"
+      },
+      "artists": [
+        {
+          "name": "Black Voices Movement",
+          "url": "https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Alvin Muthoka",
+          "url": "https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 672449,
+      "name": "For Jesus - Live",
+      "url": "https://open.spotify.com/track/3Q4HYGKbnvef8zm6TTjCph"
+    },
+    {
+      "album": {
         "name": "Glory Hallelujah (Gl\u00f3ria Aleluia)",
         "url": "https://open.spotify.com/album/6MTuJqr85V0Wq9Lx2F0Arm"
       },
@@ -1071,6 +1097,28 @@
       "duration_ms": 318473,
       "name": "Hope Is Awake",
       "url": "https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb"
+    },
+    {
+      "album": {
+        "name": "How Good It Is (Even In The Winter)",
+        "url": "https://open.spotify.com/album/46oRc7TlVThSB8eLUIEjLL"
+      },
+      "artists": [
+        {
+          "name": "Krissy Nordhoff",
+          "url": "https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305825,
+      "name": "How Good It Is (Even In The Winter)",
+      "url": "https://open.spotify.com/track/0CEaIQxIFxpvVsZqDIpkcz"
     },
     {
       "album": {
@@ -1988,6 +2036,28 @@
     },
     {
       "album": {
+        "name": "Breathe In, Sing Out (Live from Anchour Studio)",
+        "url": "https://open.spotify.com/album/2nQhu2sxD4GWLOY8XGgDEv"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Tim Brown",
+          "url": "https://open.spotify.com/artist/2nYdGJXUqbi69UcV96cnZt"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300749,
+      "name": "Nothing is Too Hard for You - Live",
+      "url": "https://open.spotify.com/track/4YL8kmRkA35LPQYJpsHvoO"
+    },
+    {
+      "album": {
         "name": "Nothing is Wasted (Live)",
         "url": "https://open.spotify.com/album/5gIP0NeugQ1VkKQ6lDk87l"
       },
@@ -2641,7 +2711,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 285099,
       "name": "The Name - Live",
       "url": "https://open.spotify.com/track/2Sir8PUjCpfT316GGCt1cY"
@@ -2808,6 +2878,40 @@
     },
     {
       "album": {
+        "name": "Desirable (Live)",
+        "url": "https://open.spotify.com/album/2Z3X0pSGOJzez3OkdtUgKR"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        },
+        {
+          "name": "Joel Figueroa",
+          "url": "https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268520,
+      "name": "This Is Where I Belong - Live",
+      "url": "https://open.spotify.com/track/4XGnD1O9uI6lONQddbuJCY"
+    },
+    {
+      "album": {
         "name": "Through & Through",
         "url": "https://open.spotify.com/album/7vLGuTVT5YkIeREMmbjIef"
       },
@@ -2871,7 +2975,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 668013,
       "name": "To The One Who Is Seated On The Throne - Live",
       "url": "https://open.spotify.com/track/3zc8HnAS2WJ7VNsV1OEt13"
@@ -3241,7 +3345,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 380778,
       "name": "Wildfire - Live",
       "url": "https://open.spotify.com/track/0Ts2lin2ZV1MQrXR1NvGKV"

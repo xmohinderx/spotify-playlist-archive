@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 194604,
       "name": "Back At It",
       "url": "https://open.spotify.com/track/7CtseXl6vo5iKg4lJGdQfG"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 196236,
       "name": "Ballads (with Conway The Machine)",
       "url": "https://open.spotify.com/track/1wR9S5YnePrWq37LQlqkr7"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 206446,
       "name": "Bruuuh (with Denzel Curry) - Remix",
       "url": "https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 138750,
       "name": "Cocky Humble",
       "url": "https://open.spotify.com/track/0fIYXOOFWKMOnULDcQPEru"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 219800,
       "name": "Ego Check",
       "url": "https://open.spotify.com/track/14y5Ue6VsYiJS4vhNJ2bKu"
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 130666,
       "name": "genesis.",
       "url": "https://open.spotify.com/track/16KP30wHmKZvPE5hlTHCfI"
@@ -1609,7 +1609,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 238800,
       "name": "God's Bathroom Floor",
       "url": "https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 167693,
       "name": "Golden Eye",
       "url": "https://open.spotify.com/track/7AHZDaJM22hkQZ0xSOFsrT"
@@ -1763,7 +1763,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 230156,
       "name": "Hans Zimmer",
       "url": "https://open.spotify.com/track/6LJW7Yu0P0wvO4mieoRzcn"
@@ -1957,7 +1957,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 276208,
       "name": "Hood Blues (feat. Westside Gunn, Benny The Butcher & Conway The Machine)",
       "url": "https://open.spotify.com/track/2gFD8UPaAcuNfz7Lrwd0Bp"
@@ -2263,7 +2263,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 286503,
       "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
       "url": "https://open.spotify.com/track/07Hl8YmZR1JYpEhCDqNBJA"
@@ -2307,7 +2307,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 92000,
       "name": "Jus Lef Phoenix",
       "url": "https://open.spotify.com/track/1DlOo9zWP7nMZWa2OdC9jz"
@@ -2603,7 +2603,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 166775,
       "name": "Lifestyle (with Bas feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/0URbdJpIV9B54W2d9yeMwt"
@@ -2990,6 +2990,24 @@
     },
     {
       "album": {
+        "name": "Nature Heals",
+        "url": "https://open.spotify.com/album/7bfrXQrz7hlp04t50puVhb"
+      },
+      "artists": [
+        {
+          "name": "Wynne",
+          "url": "https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103187,
+      "name": "Nature Heals",
+      "url": "https://open.spotify.com/track/5gAqNDSj7RWSPIoC0mSIhG"
+    },
+    {
+      "album": {
         "name": "Neck & Wrist",
         "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
       },
@@ -3327,7 +3345,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188418,
       "name": "Outside (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1es7SpekMUeMAIlG4iEJKX"
@@ -3367,6 +3385,28 @@
       "duration_ms": 270063,
       "name": "Picking Cherries",
       "url": "https://open.spotify.com/track/49JrqaegBsfKpLYewW7XmU"
+    },
+    {
+      "album": {
+        "name": "Pillows",
+        "url": "https://open.spotify.com/album/33ncTHDF7TBRMUGOlFP3Te"
+      },
+      "artists": [
+        {
+          "name": "Brodie Fresh",
+          "url": "https://open.spotify.com/artist/0oe6j87VszO9HKS0nVscW1"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200784,
+      "name": "Pillows",
+      "url": "https://open.spotify.com/track/48WATUppB2Uj1OGkLY395s"
     },
     {
       "album": {
@@ -3585,7 +3625,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 222786,
       "name": "Ratchets",
       "url": "https://open.spotify.com/track/51scKFIVavfzXbtxexkUgr"
@@ -3859,7 +3899,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 235023,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/7hOjezWUSDr2FaBBUiX8dz"
@@ -4179,7 +4219,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 208211,
       "name": "Steak Um (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/2pSIjhJFBuWK8sNBO3F1jv"
@@ -4475,7 +4515,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 253125,
       "name": "Tear Gas (feat. Rick Ross & Lil Wayne)",
       "url": "https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF"
@@ -4735,7 +4775,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 175909,
       "name": "The Process (feat. Kay Franklin)",
       "url": "https://open.spotify.com/track/59OyFXckWQoTn73T5SZkiM"
@@ -4833,7 +4873,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 155454,
       "name": "Three Cuts (feat. Maino)",
       "url": "https://open.spotify.com/track/35qdXRGCZj9isoXmae1gUy"

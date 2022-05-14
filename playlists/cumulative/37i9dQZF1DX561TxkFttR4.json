@@ -2982,6 +2982,24 @@
     },
     {
       "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
+      },
+      "artists": [
+        {
+          "name": "Lemos",
+          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138598,
+      "name": "The New Life",
+      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
+    },
+    {
+      "album": {
         "name": "The Mercy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6DV6e43XHzDFXctbjmZ8bT"
       },

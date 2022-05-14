@@ -796,6 +796,24 @@
     },
     {
       "album": {
+        "name": "CANDYMAN",
+        "url": "https://open.spotify.com/album/5x2Pu8eIiPR0sAOZo6bY1w"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164686,
+      "name": "CANDYMAN",
+      "url": "https://open.spotify.com/track/2LKw5pI3tXyMI8fpUibCiZ"
+    },
+    {
+      "album": {
         "name": "Cate\u2019s Brother",
         "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
       },
@@ -3893,10 +3911,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188066,
       "name": "Sway",
       "url": "https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz"
+    },
+    {
+      "album": {
+        "name": "Sway (Sped Up Version)",
+        "url": "https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147135,
+      "name": "Sway - Sped Up Version",
+      "url": "https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT"
     },
     {
       "album": {

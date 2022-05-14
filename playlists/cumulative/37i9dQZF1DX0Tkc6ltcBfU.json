@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 117190,
       "name": "556 (Green Tip)",
       "url": "https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC"
@@ -444,6 +444,28 @@
     },
     {
       "album": {
+        "name": "BONNET (feat. Pooh Shiesty)",
+        "url": "https://open.spotify.com/album/0ESXSTdLj8PYD4t5JMTDmJ"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170254,
+      "name": "BONNET (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/6yiKdWLeX8pgmEHzClUEXn"
+    },
+    {
+      "album": {
         "name": "BOOK IT",
         "url": "https://open.spotify.com/album/6kCa9uynMi12KSRDVtf93T"
       },
@@ -738,6 +760,28 @@
     },
     {
       "album": {
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
+    },
+    {
+      "album": {
         "name": "Crypto (feat. Rich The Kid)",
         "url": "https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O"
       },
@@ -885,6 +929,32 @@
       "duration_ms": 179389,
       "name": "Do No Wrong (feat. Trippie Redd & PnB Rock)",
       "url": "https://open.spotify.com/track/7CxH1tODk6zn4VrqXmJ0MF"
+    },
+    {
+      "album": {
+        "name": "Do Not Disturb ft. NAV and Yung Bleu",
+        "url": "https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207045,
+      "name": "Do Not Disturb ft. NAV and Yung Bleu",
+      "url": "https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh"
     },
     {
       "album": {
@@ -1195,7 +1265,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
@@ -1392,6 +1462,40 @@
     },
     {
       "album": {
+        "name": "Gang Baby (Never Broke Again, YoungBoy Never Broke Again, P Yungin feat. Rojay MLP & Rjae)",
+        "url": "https://open.spotify.com/album/7AVHBMOdlglzJALD73PtTR"
+      },
+      "artists": [
+        {
+          "name": "Never Broke Again",
+          "url": "https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "P Yungin",
+          "url": "https://open.spotify.com/artist/2kxNIMdmDtVtHDAWluq0eN"
+        },
+        {
+          "name": "Rojay MLP",
+          "url": "https://open.spotify.com/artist/555MqZGSQCqBmLLLFUjsPl"
+        },
+        {
+          "name": "Rjae",
+          "url": "https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153994,
+      "name": "Gang Baby (Never Broke Again, YoungBoy Never Broke Again, P Yungin feat. Rojay MLP & Rjae)",
+      "url": "https://open.spotify.com/track/4lDwjby6qNJP9Zdhi3Vg0a"
+    },
+    {
+      "album": {
         "name": "Get Back",
         "url": "https://open.spotify.com/album/3gNuY9GJCmvKpTx6v3ZPaa"
       },
@@ -1567,7 +1671,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174915,
       "name": "HOME",
       "url": "https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL"
@@ -1687,6 +1791,24 @@
       "duration_ms": 165760,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ"
+    },
+    {
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193765,
+      "name": "I'd Do Anything To Make You Smile",
+      "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
     },
     {
       "album": {
@@ -2467,6 +2589,28 @@
       "duration_ms": 164571,
       "name": "No Love (feat. Sleepy Hallow)",
       "url": "https://open.spotify.com/track/23lerLvvPlJqcFB8ZEDkov"
+    },
+    {
+      "album": {
+        "name": "Kutt Dat Boy",
+        "url": "https://open.spotify.com/album/4PVJ7qxtrnxDzF3xVcSgeV"
+      },
+      "artists": [
+        {
+          "name": "Kuttem Reese",
+          "url": "https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172388,
+      "name": "No Statements (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0Dq0DT9CkLWf21aDN65qJt"
     },
     {
       "album": {
@@ -4263,7 +4407,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 209541,
       "name": "Vulture Island V2 (with Lil Baby)",
       "url": "https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT"
@@ -4289,7 +4433,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
@@ -4497,6 +4641,28 @@
       "duration_ms": 163240,
       "name": "Wicked Witch",
       "url": "https://open.spotify.com/track/6TNkJPyBho8mQE6IziibHu"
+    },
+    {
+      "album": {
+        "name": "WIG (with Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/5tZ8u9BGc4sSOlwWYsAWPB"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177986,
+      "name": "WIG (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3BN9oswkyJlCRzCQt1Gqug"
     },
     {
       "album": {

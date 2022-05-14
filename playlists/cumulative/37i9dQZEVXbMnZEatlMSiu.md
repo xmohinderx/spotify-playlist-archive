@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-387 songs - 23 hr 48 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+388 songs - 23 hr 53 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 |  |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-12 | 2022-03-13 |
-| [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-05 |  |
+| [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-05 | 2022-05-14 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-22 |
 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-10-21 | 2021-11-09 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-25 | 2021-09-13 |
@@ -193,7 +193,7 @@
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-09-03 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-09 | 2021-08-18 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-07 |  |
-| [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-14 |  |
+| [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-14 | 2022-05-14 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-21 | 2021-10-28 |
 | [The Feels](https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/6bk3KlQjiXsRmGrzrNcS53) | 3:18 | 2021-10-03 | 2021-10-04 |
 | [The Feels](https://open.spotify.com/track/1qE8DOtw7zdXHMgZm20eLM) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:18 | 2021-11-14 | 2021-12-02 |
@@ -317,6 +317,7 @@
 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2021-03-27\* |  |
 | [抱一抱一下](https://open.spotify.com/track/6SGR2LQdKn1mqbwVNR8kz7) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [柯佳嬿](https://open.spotify.com/artist/0L61ClriEEw74NE3HCTkAS) | [抱一抱一下](https://open.spotify.com/album/0f4nwlvnd30tiDBXPj7r3U) | 3:31 | 2021-11-25 | 2021-12-10 |
 | [摩登愛情 \(feat\. Julia Wu\)](https://open.spotify.com/track/7unyqNvWBxK0LHQ0sqrEar) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [摩登愛情 \(feat\. Julia Wu\)](https://open.spotify.com/album/1iyFNSnMgc0y4tzSvuD6EM) | 3:15 | 2022-01-13 | 2022-01-19 |
+| [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 | 2022-05-13 |  |
 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 | 2021-04-19 | 2021-05-14 |
 | [星辰大海](https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [星辰大海](https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P) | 3:27 | 2021-10-11 | 2021-12-16 |
 | [最後一秒鐘 \- 電視劇《無神之地不下雨》片頭曲](https://open.spotify.com/track/7I29FyReXZthfKIpO52Jm6) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [最後一秒鐘 \(電視劇《無神之地不下雨》片頭曲\)](https://open.spotify.com/album/2CblrkkIAydfip4r9dbO8b) | 5:00 | 2021-10-30 | 2021-11-04 |
@@ -324,7 +325,7 @@
 | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/track/3LkITiONSVW8eWhruHhiDJ) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe) | [最美的風景 \(feat\. 莫宰羊\)](https://open.spotify.com/album/0oM9cYr2l14guScjTsMIKX) | 3:17 | 2021-04-18 | 2021-08-24 |
 | [最遠的遠方 \(電視劇《不說再見》片尾曲\)](https://open.spotify.com/track/0lI4DWfDzFrswSu9qWoZx8) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [最遠的遠方 \(電視劇《不說再見》片尾曲\)](https://open.spotify.com/album/7nknY1bEOCM6HL51pjmrR0) | 3:28 | 2021-07-09 | 2021-07-22 |
 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 | 2021-04-06 | 2021-04-09 |
-| [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2021-07-29 | 2022-05-08 |
+| [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2021-07-29 |  |
 | [未发送](https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo) | [阿冗](https://open.spotify.com/artist/7sD5pBZNNSDMfiF2BvRem7) | [未发送](https://open.spotify.com/album/1Ez536BFu6IGYAe9HMKMoh) | 3:35 | 2021-07-02 | 2021-07-08 |
 | [正想著你呢](https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 3:25 | 2021-03-27\* | 2021-06-23 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2021-12-08 | 2022-03-18 |

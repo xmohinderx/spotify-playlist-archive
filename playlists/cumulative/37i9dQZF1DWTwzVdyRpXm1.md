@@ -4,7 +4,7 @@
 
 > Desi hits from South Asia\. Cover: Shae Gill, Ali Sethi
 
-89 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
+90 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Ajnabi](https://open.spotify.com/track/6oaTKBxlfKMt5gSQ8eNHhK) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Ajnabi](https://open.spotify.com/album/4kd8iTAHstisJi2t7Wet7l) | 3:12 | 2021-12-06 | 2022-02-25 |
 | [Akh Lad Jaave \(From "Loveyatri"\)](https://open.spotify.com/track/554Jv8PaaIVAwOOpoJ4YCm) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Akh Lad Jaave \(From "Loveyatri"\)](https://open.spotify.com/album/3trJHtvXnczVVzAcXpbQiW) | 3:00 | 2021-12-06 | 2022-01-14 |
 | [Auqaat](https://open.spotify.com/track/4L5OF54HxMufkCVuc70vBo) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Auqaat](https://open.spotify.com/album/2GypgjkQA80a9g4fyI2t3Z) | 5:12 | 2021-12-06 | 2022-02-25 |
+| [Baazi](https://open.spotify.com/track/1vDK1yoxF0mOkckgDfPDj2) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Baazi](https://open.spotify.com/album/2jAqinyiQvDkTg8zFynNEs) | 3:28 | 2022-05-13 |  |
 | [Bachpan Ka Pyaar](https://open.spotify.com/track/2xDWjvgSwIfyrCNMU0aFzM) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Sahdev Dirdo](https://open.spotify.com/artist/6GKgflSYzKRuWOUG4GSHAO), [Rico](https://open.spotify.com/artist/2UQfVqI2XtVkZXYKRAJHbC) | [Bachpan Ka Pyaar](https://open.spotify.com/album/65EGMrxmEXnyKZzXuRiuTk) | 3:03 | 2021-12-06 | 2022-02-25 |
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2021-12-06 |  |
 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 | 2021-12-06 |  |

@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 216733,
       "name": "100",
       "url": "https://open.spotify.com/track/3rGkvg4i0i5uWWb348bS40"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 161592,
       "name": "ALMORZARTE",
       "url": "https://open.spotify.com/track/5gQVkXuT4CerW7XxgtinC9"
@@ -534,6 +534,28 @@
     },
     {
       "album": {
+        "name": "Sabiduria",
+        "url": "https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/5m6i8SGp2CyudL8rgYUYFe"
+    },
+    {
+      "album": {
         "name": "El Androide",
         "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
       },
@@ -593,7 +615,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 201370,
       "name": "Bitcoin",
       "url": "https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH"
@@ -1313,7 +1335,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 197474,
       "name": "El que pierde",
       "url": "https://open.spotify.com/track/0ZY0tbGFaWvjJ33IJRRcOl"
@@ -1469,6 +1491,62 @@
       "duration_ms": 173142,
       "name": "En la Oscuridad",
       "url": "https://open.spotify.com/track/4OrAAeefsDOdUSfE87C6WR"
+    },
+    {
+      "album": {
+        "name": "En Lo Oscurito",
+        "url": "https://open.spotify.com/album/0Fd5gqUrYMvkEaYsJQqgDm"
+      },
+      "artists": [
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        },
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129996,
+      "name": "En Lo Oscurito",
+      "url": "https://open.spotify.com/track/5sWbOHWTRvsn5hSxLfsgUi"
+    },
+    {
+      "album": {
+        "name": "NUEVE",
+        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262736,
+      "name": "EN SOLEDAD (feat. ADSO, Akapellah)",
+      "url": "https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0"
     },
     {
       "album": {
@@ -1995,6 +2073,28 @@
       "duration_ms": 217514,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1SLLQv5od5CwfyiuN3mrWu"
+    },
+    {
+      "album": {
+        "name": "La Distancia",
+        "url": "https://open.spotify.com/album/338Alezy5J2zXSQuDHZnsQ"
+      },
+      "artists": [
+        {
+          "name": "Victor & Gabo",
+          "url": "https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx"
+        },
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194456,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/059qxIbLrwRYK8xRkks34E"
     },
     {
       "album": {
@@ -2608,6 +2708,32 @@
     },
     {
       "album": {
+        "name": "Monumento (Remix)",
+        "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208622,
+      "name": "Monumento - Remix",
+      "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
+    },
+    {
+      "album": {
         "name": "Morad: Bzrp Music Sessions, Vol. 47",
         "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
       },
@@ -2797,7 +2923,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 164576,
       "name": "No La Supero",
       "url": "https://open.spotify.com/track/0PPytieW95AdNjJjJRiGMI"
@@ -3592,6 +3718,28 @@
     },
     {
       "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/6aaV7ZSqieuAVIhaFlkBAJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247506,
+      "name": "Sentido",
+      "url": "https://open.spotify.com/track/5omDX9Ne3KCDCSOMFJJkpB"
+    },
+    {
+      "album": {
         "name": "SHORTY QUE TE VAYA BN <3",
         "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
       },
@@ -3629,6 +3777,24 @@
       "duration_ms": 159386,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
+    },
+    {
+      "album": {
+        "name": "Sin Maquillaje",
+        "url": "https://open.spotify.com/album/2OGdAssIxtcMOSFFygJMeE"
+      },
+      "artists": [
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168875,
+      "name": "Sin Maquillaje",
+      "url": "https://open.spotify.com/track/6PsucEjVsPVm7MkgCVYdFR"
     },
     {
       "album": {
@@ -3713,7 +3879,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 273106,
       "name": "SMP (Sol, Mar y Playa) (with Farruko & Wisin)",
       "url": "https://open.spotify.com/track/4pj68dTcvGVXgzD7qWAGEd"
@@ -3835,6 +4001,28 @@
       "duration_ms": 176010,
       "name": "So\u00f1ando Despierto",
       "url": "https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep"
+    },
+    {
+      "album": {
+        "name": "So\u00f1\u00e9 Contigo",
+        "url": "https://open.spotify.com/album/69O6X26jC68KhKElCY9w8Q"
+      },
+      "artists": [
+        {
+          "name": "Said P.",
+          "url": "https://open.spotify.com/artist/7FTaKYmmXrFTUBpwDWAvHe"
+        },
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158718,
+      "name": "So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/3TqRlg6yVni12jgORANsV4"
     },
     {
       "album": {
@@ -4075,7 +4263,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 195005,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/1ExEbycXUKSaC6gLNMcNmm"
@@ -4253,7 +4441,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 384000,
       "name": "TUS FALLOS",
       "url": "https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF"

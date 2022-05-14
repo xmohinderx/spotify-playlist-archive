@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-320 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+321 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 | 2022-03-21 |  |
 | [Bhabi](https://open.spotify.com/track/3EAVty65Aq2boaV6O2vj5I) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:30 | 2022-02-03 | 2022-04-29 |
 | [Bhabi](https://open.spotify.com/track/3RRvzCenxnnrZwmZ3MiGkP) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi) | [Bhabi](https://open.spotify.com/album/2aB58jJjLQB1xJLcaeq6Jj) | 2:35 | 2021-12-02 |  |
+| [Big Men \(Chapter 2\)](https://open.spotify.com/track/3i0uUsZFO2eJfc4uULSWLy) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Big Men \(Chapter 2\)](https://open.spotify.com/album/3KTSaC0CHlDgub38pTOuhg) | 3:44 | 2022-05-13 |  |
 | [Block Karke](https://open.spotify.com/track/2jYA2lPITq8Bxp58RI6knS) | [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0) | [Block Karke](https://open.spotify.com/album/0I52P9Iw0B9sVWfalheFdV) | 3:49 | 2022-04-29 | 2022-05-11 |
 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 | 2022-04-28 |  |
 | [Bukkal](https://open.spotify.com/track/5ZRTDkvPc1Q1D7sxmwnsEp) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Bukkal](https://open.spotify.com/album/3ANx1ZC6qutcukvvgrywbj) | 3:51 | 2022-02-03 | 2022-02-12 |
@@ -271,7 +272,7 @@
 | [Sohna](https://open.spotify.com/track/56MH70mJQMUzmMACys5ePe) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 4:15 | 2022-02-02 | 2022-04-06 |
 | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/track/1hsHE3SjSVrlzAnSK7lKQH) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/album/7iIY4LG4qMEeCRkGfWsk9K) | 2:14 | 2022-04-18 | 2022-04-29 |
 | [Sohniyan Shaklan](https://open.spotify.com/track/6jxlrho78w0b4ldZ7J7rA8) | [Khan Saab](https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN) | [Sohniyan Shaklan](https://open.spotify.com/album/2DrEVLz6eKa5b83A4N56oW) | 5:12 | 2022-04-20 | 2022-05-11 |
-| [Sorry](https://open.spotify.com/track/47AWxFFocq2DekndowAVLR) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Rohan Mehra](https://open.spotify.com/artist/2C2lyZZOl9csiJBzqEIVdS) | [Sorry](https://open.spotify.com/album/6Bq5uSzuLLsKX3nsPrqgxA) | 3:53 | 2022-05-12 |  |
+| [Sorry](https://open.spotify.com/track/47AWxFFocq2DekndowAVLR) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Vinder Nathu Majra](https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN) | [Sorry](https://open.spotify.com/album/6Bq5uSzuLLsKX3nsPrqgxA) | 3:53 | 2022-05-12 |  |
 | [Stalk](https://open.spotify.com/track/4Yh6MCJEnplgYz9Ywj20oK) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Stalk](https://open.spotify.com/album/1ZUIGjIgI9oaFMTy5jjQid) | 2:17 | 2022-03-18 |  |
 | [Starlight](https://open.spotify.com/track/582UWRGnIOVDggh2y8GAjc) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Starlight](https://open.spotify.com/album/6iQPuXW239eSe42INuWF8z) | 2:52 | 2022-01-17 | 2022-02-12 |
 | [Stella](https://open.spotify.com/track/4uVMeiBR4lPTfl7NM1QNAX) | [Kamal Dua](https://open.spotify.com/artist/2JcFAugRuL87wpOT1haKrD) | [Stella](https://open.spotify.com/album/5TsgrpZN6Shq52EkbbS39q) | 3:28 | 2022-01-22 | 2022-03-11 |

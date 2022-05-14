@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "M\u00fasica Mexicana hits of today! The playlist sin fronteras. Cover: Banda MS, Eden Mu\u00f1oz",
+  "description": "M\u00fasica Mexicana hits of today! The playlist sin fronteras. Cover: Eslabon Armado",
   "name": "Los Que Mandan",
   "published_playlist_ids": [
     "0V871kSfrlE3mK4NJAUl7m"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 245183,
       "name": "Due\u00f1o De Ti - En vivo",
       "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
@@ -1075,6 +1075,24 @@
       "duration_ms": 211933,
       "name": "El Valor De Un Var\u00f3n",
       "url": "https://open.spotify.com/track/5gLD1OoBB5fLNlDWY3mrlP"
+    },
+    {
+      "album": {
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "album": {
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182944,
       "name": "La Muerte Me Llama - Con Banda",
       "url": "https://open.spotify.com/track/2BbCrLfI8UnxOdJOntKc7j"
@@ -2218,6 +2236,28 @@
     },
     {
       "album": {
+        "name": "Seguimos M\u00e1s Fuertes",
+        "url": "https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200682,
+      "name": "Seguimos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7"
+    },
+    {
+      "album": {
         "name": "Sencillo Soy",
         "url": "https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv"
       },
@@ -2273,6 +2313,28 @@
       "duration_ms": 216509,
       "name": "Si Respetan, Respeto",
       "url": "https://open.spotify.com/track/0aaodlJgJ1NriUhyt1K6Sn"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227814,
+      "name": "SI SUPIERAS",
+      "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
     },
     {
       "album": {
@@ -2729,7 +2791,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 155543,
       "name": "Yo Soy Rico",
       "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"

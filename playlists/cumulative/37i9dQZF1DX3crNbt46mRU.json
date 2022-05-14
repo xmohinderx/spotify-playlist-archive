@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-12",
-  "description": "This week's top new releases.",
+  "description": "This week's top new releases. Cover: Kendrick Lamar",
   "name": "New Music Friday Switzerland",
   "published_playlist_ids": [
     "5A5TXDJmpvx3pBIQ0045Lh"
@@ -3429,6 +3429,24 @@
     {
       "album": {
         "name": "Body 2 Body",
+        "url": "https://open.spotify.com/album/6o3CopPQp7cSOOvSrq1i10"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164454,
+      "name": "Body 2 Body",
+      "url": "https://open.spotify.com/track/0ObjR62m9dqIwRyoqAOrhM"
+    },
+    {
+      "album": {
+        "name": "Body 2 Body",
         "url": "https://open.spotify.com/album/0Bnanq0NgJ2T91y297qpUJ"
       },
       "artists": [
@@ -3439,7 +3457,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 164454,
       "name": "Body 2 Body",
       "url": "https://open.spotify.com/track/7kzCWPHYZ57VjTOjxlp2Z6"
@@ -6128,6 +6146,32 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+    },
+    {
+      "album": {
         "name": "ALPHA PLACE",
         "url": "https://open.spotify.com/album/103O26J3AHRwYYZyRfKuwQ"
       },
@@ -6685,6 +6729,28 @@
       "duration_ms": 198026,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/6oHkf01UyUH5FVvWhsbEKy"
+    },
+    {
+      "album": {
+        "name": "M.A.T.G.A.",
+        "url": "https://open.spotify.com/album/6gmHg3JVM6ChhaAFNLcHIp"
+      },
+      "artists": [
+        {
+          "name": "GRMV",
+          "url": "https://open.spotify.com/artist/5CytxM5GBfX3oxMW17FaOg"
+        },
+        {
+          "name": "Pronto",
+          "url": "https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3r8n4EYp7J5Z6g3dooASb3"
     },
     {
       "album": {
@@ -16897,6 +16963,24 @@
       "duration_ms": 104347,
       "name": "M\u00e4nner lol",
       "url": "https://open.spotify.com/track/2MNONf35nhHpcv7gtZBVs3"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
       "album": {
@@ -27749,8 +27833,8 @@
           "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         },
         {
-          "name": "Kenzie",
-          "url": "https://open.spotify.com/artist/33y3zhFyQZ0DHVpoow1ka8"
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
         }
       ],
       "date_added": "2022-05-12",

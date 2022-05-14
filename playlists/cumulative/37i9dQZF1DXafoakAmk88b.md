@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-127 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
+128 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/4dtuarub45ZWYBKhYoH8eB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Forbidden Fruit](https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Forbidden Fruit](https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD) | 3:27 | 2022-04-01 |  |
 | [Fortified](https://open.spotify.com/track/7cjpT290uAfIaQg2NB5Rko) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Fortified](https://open.spotify.com/album/4HjhhSHzL3jjhOQFgyY19w) | 3:17 | 2022-02-25 |  |
 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 | 2022-02-25 |  |
-| [Freeze \(feat\. Ymtk & Amal Marie\)](https://open.spotify.com/track/45bKjztDANvG8KmrJZHUKv) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Amal Marie](https://open.spotify.com/artist/3lCxM8dhXShgCKyPzAfIul), [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV) | [Freeze \(feat\. Ymtk & Amal Marie\)](https://open.spotify.com/album/4mAKA0O30raPhrQXd6uBA6) | 3:07 | 2022-02-18 |  |
+| [Freeze \(feat\. Ymtk & Amal Marie\)](https://open.spotify.com/track/45bKjztDANvG8KmrJZHUKv) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Amal Marie](https://open.spotify.com/artist/3lCxM8dhXShgCKyPzAfIul), [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV) | [Freeze \(feat\. Ymtk & Amal Marie\)](https://open.spotify.com/album/4mAKA0O30raPhrQXd6uBA6) | 3:07 | 2022-02-18 | 2022-05-14 |
 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 | 2022-02-18 |  |
 | [Get Closer](https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Get Closer](https://open.spotify.com/album/1SKAfddsLQC9iKrYq1dAOm) | 3:21 | 2022-02-18 |  |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2022-02-18 |  |
@@ -101,6 +101,7 @@
 | [Pretty](https://open.spotify.com/track/1ODt5t1rpToFkl7fQJ9JQp) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD), [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98) | [Pretty](https://open.spotify.com/album/13cPetJ3WNfOC7F4WY14lH) | 3:27 | 2022-04-01 |  |
 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 | 2022-02-18 |  |
 | [Rapture in Blue](https://open.spotify.com/track/7qTf2TeEGdz9W1hFGPUiMK) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Rapture in Blue](https://open.spotify.com/album/5PZcNqeU1AmYN9wv1k1MZy) | 2:24 | 2022-02-18 |  |
+| [Rearrange](https://open.spotify.com/track/1APcu1K9e8tT6gqcxZ8PZS) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Casper Sage](https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr) | 4:26 | 2022-05-13 |  |
 | [Rider](https://open.spotify.com/track/3E2GaYRo0NLKLX3R00e5t8) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Rider](https://open.spotify.com/album/6Or5zQjNuLi7VaUSfxSGpp) | 2:45 | 2022-02-18 |  |
 | [Sapphire Alley](https://open.spotify.com/track/5DamCARBr1qv1aiPS2Hip9) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Sapphire Alley](https://open.spotify.com/album/7swcD8JF9TCG4Qw4UTeFpE) | 3:22 | 2022-02-18 |  |
 | [Selfish...](https://open.spotify.com/track/75rgxmX8w67Af5EgyQiyaa) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [See You Soon](https://open.spotify.com/album/3Si8ZHErCOw4PL0olDgw5L) | 3:14 | 2022-02-18 |  |

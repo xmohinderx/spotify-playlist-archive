@@ -1,13 +1,33 @@
 {
   "description": "Canzoni rap per party fino al mattino. Cover: Capo Plaza",
-  "num_followers": 41919,
+  "num_followers": 42009,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQwNDE2OCwwMDAwMDAwMGE4N2I2M2NiYzIzNDE4M2EyMzI0YmYzYWNjMjEyZmVj",
+  "snapshot_id": "MTY1MjQ5MDczNywwMDAwMDAwMDJhODgzMzU3MzhhZmRhODkwZWVhMGFhZWFhZGMzYzgz",
   "tracks": [
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 155862,
+      "name": "PIOVE (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
+    },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
@@ -27,38 +47,18 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+        "name": "Caramba",
+        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
       },
       "artists": [
         {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         }
       ],
-      "duration_ms": 175586,
-      "name": "Blauer",
-      "url": "https://open.spotify.com/track/47E18bCgrFTWXPFYkGnLMi"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Thick (feat. MamboLosco) [Remix]",
-        "url": "https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c"
-      },
-      "artists": [
-        {
-          "name": "Slings",
-          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 131697,
-      "name": "Thick (feat. MamboLosco) - Remix",
-      "url": "https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99"
+      "duration_ms": 183174,
+      "name": "Caramba",
+      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -99,50 +99,46 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Caramba",
-        "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
+        "name": "Thick (feat. MamboLosco) [Remix]",
+        "url": "https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c"
       },
       "artists": [
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
         }
       ],
-      "duration_ms": 183174,
-      "name": "Caramba",
-      "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
+      "duration_ms": 131697,
+      "name": "Thick (feat. MamboLosco) - Remix",
+      "url": "https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99"
     },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
+        "name": "SHAWTY (feat. Sacky)",
+        "url": "https://open.spotify.com/album/6FtMPLKEmsz2BsnJuCYrKQ"
       },
       "artists": [
         {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Pyrex",
-          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
         }
       ],
-      "duration_ms": 158630,
-      "name": "DREAM TEAM (feat. Pyrex, Capo Plaza, Tedua & Shiva)",
-      "url": "https://open.spotify.com/track/1QlqHpITeEHB4EWFGqks9J"
+      "duration_ms": 153881,
+      "name": "SHAWTY (feat. Sacky)",
+      "url": "https://open.spotify.com/track/6yX3lSkO4F3FKx5wDJi4J0"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -211,18 +207,122 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "Blauer",
+      "url": "https://open.spotify.com/track/47E18bCgrFTWXPFYkGnLMi"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "La zone (feat. Shiva)",
+        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
       },
       "artists": [
         {
           "name": "Rhove",
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+      "duration_ms": 158769,
+      "name": "La zone (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Italiano",
+        "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 135934,
+      "name": "Italiano Anthem",
+      "url": "https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "BlaBlaBla",
+        "url": "https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Nardi",
+          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "duration_ms": 113511,
+      "name": "BlaBlaBla",
+      "url": "https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Loco Contigo (with J. Balvin & Tyga)",
+        "url": "https://open.spotify.com/album/3HXHo0qkSUO4M9p6PEnA01"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 185194,
+      "name": "Loco Contigo (with J. Balvin & Tyga)",
+      "url": "https://open.spotify.com/track/1f38Gx6xQz6r4H1jGVNBJo"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -259,90 +359,22 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+        "name": "Corso Europa",
+        "url": "https://open.spotify.com/album/0xrJZ8UIzLxx93BrOXLusE"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
         }
       ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "BlaBlaBla",
-        "url": "https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7"
-      },
-      "artists": [
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        },
-        {
-          "name": "Nardi",
-          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
-        },
-        {
-          "name": "Finesse",
-          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
-        }
-      ],
-      "duration_ms": 113511,
-      "name": "BlaBlaBla",
-      "url": "https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
-        "url": "https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 174983,
-      "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
-      "url": "https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Loco Contigo (with J. Balvin & Tyga)",
-        "url": "https://open.spotify.com/album/3HXHo0qkSUO4M9p6PEnA01"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "Loco Contigo (with J. Balvin & Tyga)",
-      "url": "https://open.spotify.com/track/1f38Gx6xQz6r4H1jGVNBJo"
+      "duration_ms": 132587,
+      "name": "Corso Europa",
+      "url": "https://open.spotify.com/track/5uzsoxwEGHQe1xcUTrn55e"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -375,46 +407,6 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 191869,
-      "name": "Hollywood (feat. Diplo)",
-      "url": "https://open.spotify.com/track/4CvW0iHAs7yJhbpnJ3NSnS"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 122373,
-      "name": "No wallet (feat. Marracash)",
-      "url": "https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -427,70 +419,6 @@
       "duration_ms": 267066,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "La zone (feat. Shiva)",
-        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "La zone (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "SHAWTY (feat. Sacky)",
-        "url": "https://open.spotify.com/album/6FtMPLKEmsz2BsnJuCYrKQ"
-      },
-      "artists": [
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        },
-        {
-          "name": "Sacky",
-          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
-        }
-      ],
-      "duration_ms": 153881,
-      "name": "SHAWTY (feat. Sacky)",
-      "url": "https://open.spotify.com/track/6yX3lSkO4F3FKx5wDJi4J0"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Escomar",
-          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
-        }
-      ],
-      "duration_ms": 175281,
-      "name": "Gli Occhi del Blocco (feat. Escomar)",
-      "url": "https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -511,144 +439,80 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "J",
-        "url": "https://open.spotify.com/album/5cmbVE8sridz5LqFNEAWwy"
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 191869,
+      "name": "Hollywood (feat. Diplo)",
+      "url": "https://open.spotify.com/track/4CvW0iHAs7yJhbpnJ3NSnS"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Untouchable",
+        "url": "https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         },
         {
           "name": "Capo Plaza",
           "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 183027,
-      "name": "ALYX (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/39XG4fTadjyZtPYybMqvZA"
+      "duration_ms": 187550,
+      "name": "Balaclava (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS"
     },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Corso Europa",
-        "url": "https://open.spotify.com/album/0xrJZ8UIzLxx93BrOXLusE"
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
       "artists": [
         {
           "name": "Rhove",
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
         }
       ],
-      "duration_ms": 132587,
-      "name": "Corso Europa",
-      "url": "https://open.spotify.com/track/5uzsoxwEGHQe1xcUTrn55e"
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Louboutin",
-        "url": "https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU"
+        "name": "Tardi insieme",
+        "url": "https://open.spotify.com/album/7d66CkPBNjrzsAVDpRbQvT"
       },
       "artists": [
         {
-          "name": "Vale pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+          "name": "Wemme Flow",
+          "url": "https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Louboutin",
-      "url": "https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th"
+      "duration_ms": 129600,
+      "name": "Tardi insieme",
+      "url": "https://open.spotify.com/track/0jyF2iogsnyhZd5BGFtics"
     },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Shablo",
-          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
-        }
-      ],
-      "duration_ms": 183724,
-      "name": "25 ore RMX (feat. Ernia & Shablo)",
-      "url": "https://open.spotify.com/track/0Q7Y2E8cj8uvNXI3hs9Mvc"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Scialla Semper (Emodrill Repack)",
-        "url": "https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        },
-        {
-          "name": "Nic Sarno",
-          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
-        }
-      ],
-      "duration_ms": 249303,
-      "name": "Polo nord - C+N Progressive Mix",
-      "url": "https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
-      },
-      "artists": [
-        {
-          "name": "Scott Storch",
-          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "DELINQUENTE",
-        "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
       },
       "artists": [
         {
@@ -656,13 +520,13 @@
           "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         },
         {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+          "name": "Escomar",
+          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
         }
       ],
-      "duration_ms": 197673,
-      "name": "No JoJo",
-      "url": "https://open.spotify.com/track/0OelH7xDuz74pBuypCpOpS"
+      "duration_ms": 175281,
+      "name": "Gli Occhi del Blocco (feat. Escomar)",
+      "url": "https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -695,6 +559,46 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
+        "name": "J",
+        "url": "https://open.spotify.com/album/5cmbVE8sridz5LqFNEAWwy"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 183027,
+      "name": "ALYX (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/39XG4fTadjyZtPYybMqvZA"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 122373,
+      "name": "No wallet (feat. Marracash)",
+      "url": "https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
         "name": "IL MINORENNE + BASTARDO",
         "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
       },
@@ -719,246 +623,22 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
+        "name": "Louboutin",
+        "url": "https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
         },
         {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
         }
       ],
-      "duration_ms": 201931,
-      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
-      "url": "https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Porto Cervo",
-        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 235425,
-      "name": "Porto Cervo",
-      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Untouchable",
-        "url": "https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 187550,
-      "name": "Balaclava (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "OPINEL",
-        "url": "https://open.spotify.com/album/2U5ZEIR5SEgFY9RwtU4zIV"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "OPINEL",
-      "url": "https://open.spotify.com/track/05HGu6fi32RmJRO5PBJ4Va"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
-      "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "HOURS",
-        "url": "https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE"
-      },
-      "artists": [
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        },
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Enzo Dong",
-          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "SPLASH (feat. Enzo Dong)",
-      "url": "https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Latitante",
-        "url": "https://open.spotify.com/album/7vwvoudf7LFxZgMBSlH8Np"
-      },
-      "artists": [
-        {
-          "name": "Philip",
-          "url": "https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ"
-        }
-      ],
-      "duration_ms": 205353,
-      "name": "Latitante",
-      "url": "https://open.spotify.com/track/2ttji0MQNa1wEl2vGsdMr4"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "DIOSA (feat. Peppe Soks) [Remix]",
-        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
-      },
-      "artists": [
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        }
-      ],
-      "duration_ms": 143641,
-      "name": "DIOSA (feat. Peppe Soks) - Remix",
-      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "C'EST LA VIE",
-        "url": "https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb"
-      },
-      "artists": [
-        {
-          "name": "TY1",
-          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
-        },
-        {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 188490,
-      "name": "C'EST LA VIE",
-      "url": "https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193554,
-      "name": "Baby (with J Balvin)",
-      "url": "https://open.spotify.com/track/4L5ZhW0VJeQ6je2iqvqZ4X"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 195820,
-      "name": "Medellin (feat. Lazza)",
-      "url": "https://open.spotify.com/track/1hqV0kb6c8Rp9jvJRPcDy7"
+      "duration_ms": 240000,
+      "name": "Louboutin",
+      "url": "https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -983,70 +663,22 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Frero",
-        "url": "https://open.spotify.com/album/0cwLY77URLPGihFgE9sox2"
+        "name": "OPINEL",
+        "url": "https://open.spotify.com/album/2U5ZEIR5SEgFY9RwtU4zIV"
       },
       "artists": [
         {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
         }
       ],
-      "duration_ms": 180532,
-      "name": "Frero",
-      "url": "https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "La Strada Mi Chiama Remix",
-        "url": "https://open.spotify.com/album/3CoFVDerqeQG9B2oj01WLs"
-      },
-      "artists": [
-        {
-          "name": "Neves17",
-          "url": "https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe"
-        },
-        {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        },
-        {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
-        },
-        {
-          "name": "Wayne Santana",
-          "url": "https://open.spotify.com/artist/4FiPwqm4GHYuJyldqILugY"
-        },
-        {
-          "name": "Dat Boi Dee",
-          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
-        }
-      ],
-      "duration_ms": 168721,
-      "name": "La Strada Mi Chiama Remix (with Boro Boro, Fred De Palma, Wayne Santana, Dat Boi Dee)",
-      "url": "https://open.spotify.com/track/1xdcpXS2RUNZ51MYgChdUo"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Night Away (Dance) (feat. Tion Wayne)",
-        "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
-      },
-      "artists": [
-        {
-          "name": "A1 x J1",
-          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Night Away (Dance) (feat. Tion Wayne)",
-      "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
+      "duration_ms": 137142,
+      "name": "OPINEL",
+      "url": "https://open.spotify.com/track/05HGu6fi32RmJRO5PBJ4Va"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -1075,6 +707,326 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
+        "name": "DELINQUENTE",
+        "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        }
+      ],
+      "duration_ms": 197673,
+      "name": "No JoJo",
+      "url": "https://open.spotify.com/track/0OelH7xDuz74pBuypCpOpS"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
+        "url": "https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 174983,
+      "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
+      },
+      "artists": [
+        {
+          "name": "Scott Storch",
+          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193554,
+      "name": "Baby (with J Balvin)",
+      "url": "https://open.spotify.com/track/4L5ZhW0VJeQ6je2iqvqZ4X"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Scialla Semper (Emodrill Repack)",
+        "url": "https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        },
+        {
+          "name": "Nic Sarno",
+          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
+        }
+      ],
+      "duration_ms": 249303,
+      "name": "Polo nord - C+N Progressive Mix",
+      "url": "https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Frero",
+        "url": "https://open.spotify.com/album/0cwLY77URLPGihFgE9sox2"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "duration_ms": 180532,
+      "name": "Frero",
+      "url": "https://open.spotify.com/track/1cop1UjwA7BxeyQOhEHect"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Porto Cervo",
+        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 235425,
+      "name": "Porto Cervo",
+      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "X2",
+        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        }
+      ],
+      "duration_ms": 158630,
+      "name": "DREAM TEAM (feat. Pyrex, Capo Plaza, Tedua & Shiva)",
+      "url": "https://open.spotify.com/track/1QlqHpITeEHB4EWFGqks9J"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "HOURS",
+        "url": "https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "SPLASH (feat. Enzo Dong)",
+      "url": "https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "HOLA",
+        "url": "https://open.spotify.com/album/0BJGDsEgUw0aHaIT7tcqYq"
+      },
+      "artists": [
+        {
+          "name": "GRIZZLY",
+          "url": "https://open.spotify.com/artist/16Y59NBjDPuHryezTmuwhV"
+        },
+        {
+          "name": "NoSaintz",
+          "url": "https://open.spotify.com/artist/3odBaKXT6SGHGqjFUBeXkY"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "HOLA",
+      "url": "https://open.spotify.com/track/1ORbOadvMHNqKlS1xnJdsQ"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Caldo",
+        "url": "https://open.spotify.com/album/2QfMJ0ybyLabqfg1sA11EA"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "duration_ms": 144136,
+      "name": "Fallo",
+      "url": "https://open.spotify.com/track/5toEzQqaae1tjFE3EHy1gM"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "GANG",
+        "url": "https://open.spotify.com/album/4LrEjQPdLMz73AkwQzCyjL"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "M4W",
+          "url": "https://open.spotify.com/artist/6hgvQjlsTbnVu6fznF1By0"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "GANG (feat. Geolier)",
+      "url": "https://open.spotify.com/track/2Yd6hF9rBSibtF4hlcnBEw"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "C'EST LA VIE",
+        "url": "https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 188490,
+      "name": "C'EST LA VIE",
+      "url": "https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
         "name": "SKINNY BABY",
         "url": "https://open.spotify.com/album/5IMeTLBNo9M0LUxaHZFx4E"
       },
@@ -1091,46 +1043,110 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa"
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
       },
       "artists": [
         {
-          "name": "Escomar",
-          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         },
         {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
         }
       ],
-      "duration_ms": 140307,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY"
+      "duration_ms": 183724,
+      "name": "25 ore RMX (feat. Ernia & Shablo)",
+      "url": "https://open.spotify.com/track/0Q7Y2E8cj8uvNXI3hs9Mvc"
     },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
+        "name": "DARK BOYS CLUB",
+        "url": "https://open.spotify.com/album/1tOSFDBcHBMhts9wghlAf7"
       },
       "artists": [
         {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+          "name": "Dark Polo Gang",
+          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
         },
         {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 136671,
+      "name": "1,2,3 STELLA (feat. Geolier)",
+      "url": "https://open.spotify.com/track/5QkgH3o4mTEEEn3YdC7txo"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "MI AMI O NO (feat. Capo Plaza)",
+        "url": "https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H"
+      },
+      "artists": [
+        {
+          "name": "Giaime",
+          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
         },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 145085,
+      "name": "MI AMI O NO (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
+      },
+      "artists": [
         {
           "name": "MamboLosco",
           "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
         }
       ],
-      "duration_ms": 162362,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
+      "duration_ms": 152440,
+      "name": "Twerk (con Boro Boro)",
+      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/4P0hxsoJsKyJRcLcQ1aGG1"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 145321,
+      "name": "Hasta la vista (feat. ANNA) - Remix",
+      "url": "https://open.spotify.com/track/4VNYRuTv8dCN0UUNJj6P4K"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -1167,134 +1183,46 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
+        "name": "In Piazza",
+        "url": "https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6"
       },
       "artists": [
         {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
         },
         {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK"
         }
       ],
-      "duration_ms": 152440,
-      "name": "Twerk (con Boro Boro)",
-      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
+      "duration_ms": 183801,
+      "name": "In Piazza",
+      "url": "https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw"
     },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Fuego (with Geolier & Lele Blade)",
-        "url": "https://open.spotify.com/album/6vg4EEDeuaFCycPHR2Iyyy"
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
       },
       "artists": [
-        {
-          "name": "Neves17",
-          "url": "https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Lele Blade",
-          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
-        },
-        {
-          "name": "Poison Beatz",
-          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
-        },
-        {
-          "name": "Tom Trigger",
-          "url": "https://open.spotify.com/artist/4Jinezf0Ayl2LIVhjZmAQY"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Fuego (with Geolier & Lele Blade) - Prod. Poison Beatz, Tom Trigger",
-      "url": "https://open.spotify.com/track/6XPYGFacwZAtmoSVi9m4eT"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Block",
-        "url": "https://open.spotify.com/album/5pQCgupVL1IyBmBT3GAmzL"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        }
-      ],
-      "duration_ms": 156735,
-      "name": "Block",
-      "url": "https://open.spotify.com/track/1jHZiUutQ4CXjyQrP6m8MD"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "POPO (feat. Kilimoney)",
-        "url": "https://open.spotify.com/album/5eE3uIsetWGmfPgBKrsiia"
-      },
-      "artists": [
-        {
-          "name": "Keta",
-          "url": "https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn"
-        },
-        {
-          "name": "Kilimoney",
-          "url": "https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG"
-        }
-      ],
-      "duration_ms": 134575,
-      "name": "POPO (feat. Kilimoney)",
-      "url": "https://open.spotify.com/track/4wZInNWhEe7TbxHmFKxSOg"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "BLA BLA (feat. Gu\u00e8)",
-        "url": "https://open.spotify.com/album/3I6UHuh2JAgpVACSqMmV7N"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
         {
           "name": "Gu\u00e8",
           "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 134491,
-      "name": "BLA BLA (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/2iyOKKZXBZr39G7evMbzkO"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "DARK BOYS CLUB",
-        "url": "https://open.spotify.com/album/0yHQkpn5Rv5OjCgvGW7A4v"
-      },
-      "artists": [
-        {
-          "name": "Dark Polo Gang",
-          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
-      "duration_ms": 155026,
-      "name": "AMIRI BOYS (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/336EcNskIVcF8deRT8m1zY"
+      "duration_ms": 195820,
+      "name": "Medellin (feat. Lazza)",
+      "url": "https://open.spotify.com/track/1hqV0kb6c8Rp9jvJRPcDy7"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -1323,102 +1251,238 @@
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "C'est la rue",
-        "url": "https://open.spotify.com/album/7eWZqUMC43TaQgu4TW2KAN"
+        "name": "DIOSA (feat. Peppe Soks) [Remix]",
+        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
       },
       "artists": [
         {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
         }
       ],
-      "duration_ms": 137142,
-      "name": "C'est la rue",
-      "url": "https://open.spotify.com/track/4uAbCVyHM56DlMM7qYj1AY"
+      "duration_ms": 143641,
+      "name": "DIOSA (feat. Peppe Soks) - Remix",
+      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
     },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "In Piazza",
-        "url": "https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6"
+        "name": "Block",
+        "url": "https://open.spotify.com/album/5pQCgupVL1IyBmBT3GAmzL"
       },
       "artists": [
         {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Kermit",
-          "url": "https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK"
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
         }
       ],
-      "duration_ms": 183801,
-      "name": "In Piazza",
-      "url": "https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw"
+      "duration_ms": 156735,
+      "name": "Block",
+      "url": "https://open.spotify.com/track/1jHZiUutQ4CXjyQrP6m8MD"
     },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Dorado (feat. Sfera Ebbasta & Feid)",
-        "url": "https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF"
+        "name": "Night Away (Dance) (feat. Tion Wayne)",
+        "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
       },
       "artists": [
         {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         }
       ],
-      "duration_ms": 178044,
-      "name": "Dorado (feat. Sfera Ebbasta & Feid)",
-      "url": "https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i"
+      "duration_ms": 175774,
+      "name": "Night Away (Dance) (feat. Tion Wayne)",
+      "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
     },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+        "name": "YOSHI (feat. tha Supreme, Fabri Fibra & Capo Plaza) [prod. Strage [Remix]]",
+        "url": "https://open.spotify.com/album/1oLdPWpMNNqxsyyIuy3hBx"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "MACHETE",
+          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
+        },
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "tha Supreme",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 229147,
-      "name": "SENZA RUMORE",
-      "url": "https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7"
+      "duration_ms": 293590,
+      "name": "YOSHI (feat. tha Supreme, Fabri Fibra & Capo Plaza) - prod. Strage [Remix]",
+      "url": "https://open.spotify.com/track/0VU34EBWTAlHVIZE3aWlZA"
     },
     {
       "added_at": "2022-05-12 22:01:00",
       "album": {
-        "name": "Caldo",
-        "url": "https://open.spotify.com/album/2QfMJ0ybyLabqfg1sA11EA"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
       },
       "artists": [
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
         {
           "name": "MamboLosco",
           "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 162362,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 205928,
+      "name": "Cyborg (feat. Geolier)",
+      "url": "https://open.spotify.com/track/54wRUYPMEHLttFdLImOlAt"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+      },
+      "artists": [
+        {
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Bisous",
+        "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "DARK BOYS CLUB",
+        "url": "https://open.spotify.com/album/0yHQkpn5Rv5OjCgvGW7A4v"
+      },
+      "artists": [
+        {
+          "name": "Dark Polo Gang",
+          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "AMIRI BOYS (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/336EcNskIVcF8deRT8m1zY"
+    },
+    {
+      "added_at": "2022-05-12 22:01:00",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         },
         {
           "name": "Boro Boro",
           "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
         }
       ],
-      "duration_ms": 144136,
-      "name": "Fallo",
-      "url": "https://open.spotify.com/track/5toEzQqaae1tjFE3EHy1gM"
+      "duration_ms": 157714,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
     },
     {
       "added_at": "2022-05-12 22:01:00",
@@ -1439,70 +1503,6 @@
       "duration_ms": 291175,
       "name": "Fair Trade (with Travis Scott)",
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "PALAZZINE (feat. Marracash & Coez)",
-        "url": "https://open.spotify.com/album/4boGzRgUV0s8xff494FWdp"
-      },
-      "artists": [
-        {
-          "name": "KID VICIOUS",
-          "url": "https://open.spotify.com/artist/5pLhTM3UBXlXQm2Ns4SceM"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 187625,
-      "name": "PALAZZINE (feat. Marracash & Coez)",
-      "url": "https://open.spotify.com/track/1Ht2ikmrxrs7EZj3VFkrCe"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 159910,
-      "name": "Boogieman (feat. Salmo)",
-      "url": "https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "DARK BOYS CLUB",
-        "url": "https://open.spotify.com/album/1tOSFDBcHBMhts9wghlAf7"
-      },
-      "artists": [
-        {
-          "name": "Dark Polo Gang",
-          "url": "https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 136671,
-      "name": "1,2,3 STELLA (feat. Geolier)",
-      "url": "https://open.spotify.com/track/5QkgH3o4mTEEEn3YdC7txo"
     }
   ],
   "unique_name": "Club Rap ",

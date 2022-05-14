@@ -1,32 +1,60 @@
 {
-  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Mothica",
-  "num_followers": 276696,
+  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Tate McRae",
+  "num_followers": 276072,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDA4NjAwMDAwMTgwOTc4NjQzMTUwMDAwMDE4MDk2OGEzYjBk",
+  "snapshot_id": "MTY1MjQxNDQ2MCwwMDAwMDA4NzAwMDAwMTgwYmI5M2IwZWYwMDAwMDE4MGI1MzIxNmQ4",
   "tracks": [
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-05-13 04:01:00",
       "album": {
-        "name": "LAST CIGARETTE (feat. Au/Ra)",
-        "url": "https://open.spotify.com/album/3dK2iIjUFadIeePyqL6zel"
+        "name": "what would you do?",
+        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
       },
       "artists": [
         {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 133712,
-      "name": "LAST CIGARETTE (feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/2XvOZXnY0CKTRIo186QE9e"
+      "duration_ms": 166948,
+      "name": "what would you do?",
+      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "GET ME OUTTA HERE",
+        "url": "https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 194208,
+      "name": "GET ME OUTTA HERE",
+      "url": "https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8"
+    },
+    {
+      "added_at": "2022-04-01 04:01:00",
+      "album": {
+        "name": "cinderella's dead",
+        "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 120666,
+      "name": "cinderella's dead",
+      "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -43,6 +71,22 @@
       "duration_ms": 173066,
       "name": "You Ruined Nirvana",
       "url": "https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Just Kidding",
+        "url": "https://open.spotify.com/album/1Hqk9uklD979FtyJcMQNBK"
+      },
+      "artists": [
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        }
+      ],
+      "duration_ms": 146432,
+      "name": "Just Kidding",
+      "url": "https://open.spotify.com/track/67PEFHPYzlrzRiI3VWYbbR"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -65,22 +109,6 @@
       "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
     },
     {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "the AUDACITY",
-        "url": "https://open.spotify.com/album/2GGCXmPDkBybkSJR59L8yA"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 193690,
-      "name": "the AUDACITY",
-      "url": "https://open.spotify.com/track/7zrVdaTYQS4QDw7DvETwvL"
-    },
-    {
       "added_at": "2022-04-01 04:01:00",
       "album": {
         "name": "cult leader",
@@ -97,6 +125,42 @@
       "url": "https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7"
     },
     {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "LAST CIGARETTE (feat. Au/Ra)",
+        "url": "https://open.spotify.com/album/3dK2iIjUFadIeePyqL6zel"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 133712,
+      "name": "LAST CIGARETTE (feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/2XvOZXnY0CKTRIo186QE9e"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "the AUDACITY",
+        "url": "https://open.spotify.com/album/2GGCXmPDkBybkSJR59L8yA"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 193690,
+      "name": "the AUDACITY",
+      "url": "https://open.spotify.com/track/7zrVdaTYQS4QDw7DvETwvL"
+    },
+    {
       "added_at": "2022-04-29 04:00:00",
       "album": {
         "name": "Throw Up When I See Your Face",
@@ -111,6 +175,22 @@
       "duration_ms": 164659,
       "name": "Throw Up When I See Your Face",
       "url": "https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Love Me Till U Hate Me",
+        "url": "https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "Love Me Till U Hate Me",
+      "url": "https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW"
     },
     {
       "added_at": "2022-04-22 14:47:54",
@@ -179,22 +259,6 @@
       "duration_ms": 159050,
       "name": "DIY (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/4JW9qAFkAuPkENUEDvO4hr"
-    },
-    {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "cinderella's dead",
-        "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 120666,
-      "name": "cinderella's dead",
-      "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -621,6 +685,22 @@
       "url": "https://open.spotify.com/track/6obaKy6dy2P9cNQPEKzA16"
     },
     {
+      "added_at": "2022-04-08 04:00:00",
+      "album": {
+        "name": "Found You On The Internet",
+        "url": "https://open.spotify.com/album/3VUlO3W9Ncy8XM7YjsSVxP"
+      },
+      "artists": [
+        {
+          "name": "HAVEN",
+          "url": "https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Found You On The Internet",
+      "url": "https://open.spotify.com/track/5BhoSA4HfIzX1E1alpU2z0"
+    },
+    {
       "added_at": "2022-03-25 04:00:00",
       "album": {
         "name": "Bloodline",
@@ -813,22 +893,6 @@
       "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
     },
     {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
-        "name": "Found You On The Internet",
-        "url": "https://open.spotify.com/album/3VUlO3W9Ncy8XM7YjsSVxP"
-      },
-      "artists": [
-        {
-          "name": "HAVEN",
-          "url": "https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "Found You On The Internet",
-      "url": "https://open.spotify.com/track/5BhoSA4HfIzX1E1alpU2z0"
-    },
-    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Mean Girls",
@@ -865,20 +929,52 @@
       "url": "https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK"
     },
     {
-      "added_at": "2022-03-18 04:01:00",
+      "added_at": "2022-01-28 05:07:55",
       "album": {
-        "name": "Why'd You Only Call Me When You're High?",
-        "url": "https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv"
+        "name": "Women Don't Owe You Sh*t",
+        "url": "https://open.spotify.com/album/2S1oHdSgzillUEO1juCGaX"
       },
       "artists": [
         {
-          "name": "merci, mercy",
-          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+          "name": "ASTON",
+          "url": "https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof"
         }
       ],
-      "duration_ms": 152227,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8"
+      "duration_ms": 212969,
+      "name": "Women Don't Owe You Sh*t",
+      "url": "https://open.spotify.com/track/6HoZUmprRfFWO1CaqkiBUP"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "ASHS",
+        "url": "https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Reid",
+          "url": "https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc"
+        }
+      ],
+      "duration_ms": 125135,
+      "name": "Mean",
+      "url": "https://open.spotify.com/track/2SniviLus5g8LNMCpObLx4"
+    },
+    {
+      "added_at": "2021-11-05 04:00:00",
+      "album": {
+        "name": "Dirty Thoughts",
+        "url": "https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "duration_ms": 129698,
+      "name": "Dirty Thoughts",
+      "url": "https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -895,26 +991,6 @@
       "duration_ms": 144782,
       "name": "Allergic",
       "url": "https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "GAY 4 ME (feat. Lauren Sanderson)",
-        "url": "https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        },
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 174739,
-      "name": "GAY 4 ME (feat. Lauren Sanderson)",
-      "url": "https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -969,22 +1045,6 @@
       "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
     },
     {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/4dhOZl5rUI3oXRGLAFQfCc"
-      },
-      "artists": [
-        {
-          "name": "Elle Lexxa",
-          "url": "https://open.spotify.com/artist/2cBDh8dCO4LQaSq07uvzve"
-        }
-      ],
-      "duration_ms": 142018,
-      "name": "Liquorice",
-      "url": "https://open.spotify.com/track/3Ze8TIoX3bV1OZVAxguX6j"
-    },
-    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "ur just horny",
@@ -1033,22 +1093,6 @@
       "url": "https://open.spotify.com/track/2OpUJfXLRo0Tk1q4Uo0iVu"
     },
     {
-      "added_at": "2021-11-05 04:00:00",
-      "album": {
-        "name": "Dirty Thoughts",
-        "url": "https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil"
-      },
-      "artists": [
-        {
-          "name": "Chloe Adams",
-          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
-        }
-      ],
-      "duration_ms": 129698,
-      "name": "Dirty Thoughts",
-      "url": "https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP"
-    },
-    {
       "added_at": "2022-02-04 05:01:00",
       "album": {
         "name": "she knows it",
@@ -1081,38 +1125,6 @@
       "url": "https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w"
     },
     {
-      "added_at": "2022-01-28 05:07:55",
-      "album": {
-        "name": "Women Don't Owe You Sh*t",
-        "url": "https://open.spotify.com/album/2S1oHdSgzillUEO1juCGaX"
-      },
-      "artists": [
-        {
-          "name": "ASTON",
-          "url": "https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof"
-        }
-      ],
-      "duration_ms": 212969,
-      "name": "Women Don't Owe You Sh*t",
-      "url": "https://open.spotify.com/track/6HoZUmprRfFWO1CaqkiBUP"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "ASHS",
-        "url": "https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Reid",
-          "url": "https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc"
-        }
-      ],
-      "duration_ms": 125135,
-      "name": "Mean",
-      "url": "https://open.spotify.com/track/2SniviLus5g8LNMCpObLx4"
-    },
-    {
       "added_at": "2021-09-10 04:00:00",
       "album": {
         "name": "this is how i learn to say no",
@@ -1127,22 +1139,6 @@
       "duration_ms": 142965,
       "name": "this is how i learn to say no",
       "url": "https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6"
-    },
-    {
-      "added_at": "2022-01-28 05:07:55",
-      "album": {
-        "name": "IF I DIED WOULD ANYONE CARE",
-        "url": "https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 177657,
-      "name": "BETTER",
-      "url": "https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge"
     },
     {
       "added_at": "2021-10-29 04:01:00",

@@ -2,9 +2,9 @@
 
 ### [Rap Acústico](https://open.spotify.com/playlist/37i9dQZF1DWTf69iQOGkD2)
 
-> Sinta o flow do rap em estilo acústico ou romântico\. Foto: 3030
+> Sinta o flow do rap em estilo acústico ou romântico\. Foto: Menestrel
 
-93 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
+94 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Contratei o Tempo](https://open.spotify.com/track/1NHafgaylnQjnnEhyJbqdz) | [Katari SC](https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm), [Doodex](https://open.spotify.com/artist/0mosiC3wRtekSkMSEuKcSz), [Pena](https://open.spotify.com/artist/2l5klhDlUOtuM0DuvYOgva) | [Contratei o Tempo](https://open.spotify.com/album/5KTiTNaCP6cZjwxlgMf4v0) | 3:36 | 2022-03-18 |  |
 | [Docê](https://open.spotify.com/track/5kCNhVsZ9mD3TDUgcL5tlp) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Docê](https://open.spotify.com/album/2ls9PYhT0VTFA3vTJOD5Bj) | 2:14 | 2022-03-25 |  |
 | [Eclipse \- Acústico Vivências](https://open.spotify.com/track/7JjuGtJHBcT1rofedtEqvp) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [3 Um Só](https://open.spotify.com/artist/02ahhbTmx0wY2DvkqAMdRx), [Agriff](https://open.spotify.com/artist/6Ul0pkOz1OTOLnvI5et5nn), [Face Oculta](https://open.spotify.com/artist/0w3JvODott5EiXjiwD4QcO) | [Eclipse \(Acústico Vivências\)](https://open.spotify.com/album/1Do6sOEgQLccwjYyLmWyRz) | 7:05 | 2022-03-18 |  |
+| [Em Brasa](https://open.spotify.com/track/00OdVb1DXh4VnEDSjxB67X) | [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Bell Lins](https://open.spotify.com/artist/1Ip6WEGrOlzrpbmyrrYhQr) | [Em Brasa](https://open.spotify.com/album/1YoTkIQ1sq3V3iAXei59Cy) | 2:50 | 2022-05-13 |  |
 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 | 2022-03-18 |  |
 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 | 2022-03-18 |  |
 | [Foda Que Ela É Linda \- Ao Vivo](https://open.spotify.com/track/0FqxX09KVZLIPDKv5kjA1e) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0q3IIJ0dg3D6PnVrVTcPTx) | 3:03 | 2022-03-18 |  |

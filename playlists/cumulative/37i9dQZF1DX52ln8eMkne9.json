@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 256868,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/5PJcygObRXafSPuYnND4kM"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/65Dm4aRthohlvuuyKVydIu"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 178195,
       "name": "Dear December",
       "url": "https://open.spotify.com/track/5BfkVCI8z3idTK0IDjaW9u"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 361306,
       "name": "Everytime We Say Goodbye",
       "url": "https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 296066,
       "name": "Folks Who Live On The Hill",
       "url": "https://open.spotify.com/track/1t0sRkXJIokqpl8tMVLtIW"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 181133,
       "name": "For The Want Of A Kiss - Live",
       "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 249213,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B"
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/34IQaMgUdIciIpNWN5CUbl"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 221112,
       "name": "Julian",
       "url": "https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO"
@@ -1879,7 +1879,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 332066,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H"
@@ -2281,7 +2281,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 214906,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/1q573uXh0Rc78qTXDMQ35D"
@@ -3174,6 +3174,24 @@
     },
     {
       "album": {
+        "name": "There's No Business Like Show Business",
+        "url": "https://open.spotify.com/album/5hfAVwmk3yR0eVK8PDaggT"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403864,
+      "name": "There's No Business Like Show Business",
+      "url": "https://open.spotify.com/track/3MmB4jqssFJsjIcoYWHT37"
+    },
+    {
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/7fb7qwGqfdxJH1fKegVMTr"
       },
@@ -3201,7 +3219,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 263026,
       "name": "They Say It's Wonderful",
       "url": "https://open.spotify.com/track/7c7LB2gAiXKssztP4DJMFo"
@@ -3605,7 +3623,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 250500,
       "name": "Will I Find",
       "url": "https://open.spotify.com/track/34Qfsdz0oLWpI0E9Z64Ps1"

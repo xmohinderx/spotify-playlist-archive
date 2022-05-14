@@ -1368,6 +1368,24 @@
     },
     {
       "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/7wmnhGuLl0P3hl9jEwFn6O"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215653,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/7ay7vDG9NyF2NTrH15jpPZ"
+    },
+    {
+      "album": {
         "name": "I Still Burn",
         "url": "https://open.spotify.com/album/1MqZ1iRl7YTR0L0jnUKVYv"
       },
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 238765,
       "name": "Lord Of Chaos",
       "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"
@@ -1827,6 +1845,24 @@
       "duration_ms": 216000,
       "name": "Midnight Sky",
       "url": "https://open.spotify.com/track/59h5QlK1WouWppQXxzhKK2"
+    },
+    {
+      "album": {
+        "name": "Electric Love",
+        "url": "https://open.spotify.com/album/1b6dTOicwjotpOetvQUdBK"
+      },
+      "artists": [
+        {
+          "name": "Junkyard Drive",
+          "url": "https://open.spotify.com/artist/7HWdmhoIhvXEHikALsGT4w"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226254,
+      "name": "Mind Eraser",
+      "url": "https://open.spotify.com/track/0LdZZnaoti9ueYWlyHqQRf"
     },
     {
       "album": {
@@ -3419,7 +3455,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 191315,
       "name": "Watch Out",
       "url": "https://open.spotify.com/track/6u22WF9zosP5R7qlWsB3cq"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-11-29",
-  "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Alestorm",
+  "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Visions of Atlantis",
   "name": "Epic & Melodic",
   "published_playlist_ids": [
     "7kEcasUjgrsWeDSNxMBt56"
@@ -346,6 +346,24 @@
     },
     {
       "album": {
+        "name": "Battle of Life",
+        "url": "https://open.spotify.com/album/6nKSINtjG2WFtWOAKlOdM9"
+      },
+      "artists": [
+        {
+          "name": "Civil War",
+          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Battle of Life",
+      "url": "https://open.spotify.com/track/2Pytrf2aiAIke6VdmycgCv"
+    },
+    {
+      "album": {
         "name": "Beast of G\u00e9vaudan",
         "url": "https://open.spotify.com/album/3RZyovebrHF5y395RNRR9N"
       },
@@ -473,7 +491,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 320638,
       "name": "Bound to You",
       "url": "https://open.spotify.com/track/2e3BYKQxVqrwDNBthAVMRf"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 184258,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/6A6aJxfbI3FxwZLZpGYkpV"
@@ -1001,6 +1019,28 @@
       "duration_ms": 315986,
       "name": "Diggy Diggy Hole",
       "url": "https://open.spotify.com/track/2tj5IwADxakXFIoncvOPWL"
+    },
+    {
+      "album": {
+        "name": "Dismantled",
+        "url": "https://open.spotify.com/album/4uKPcMc3IxoLuDvD1KcLan"
+      },
+      "artists": [
+        {
+          "name": "Nekonomicon",
+          "url": "https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB"
+        },
+        {
+          "name": "Kylee Brielle",
+          "url": "https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237031,
+      "name": "Dismantled",
+      "url": "https://open.spotify.com/track/3NshiUUbu0W7EHseNmiuAv"
     },
     {
       "album": {
@@ -1621,7 +1661,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 261480,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/5p3osjelrzcmI0vLCP662k"
@@ -1747,7 +1787,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 224550,
       "name": "G\u00f6tterd\u00e4mmerung",
       "url": "https://open.spotify.com/track/55YRUWiZOr4VwLpBc8QBWI"
@@ -2163,7 +2203,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 272000,
       "name": "Invaders",
       "url": "https://open.spotify.com/track/4bKdrTctrZRcfsY2nSv1Kc"
@@ -2805,6 +2845,24 @@
     {
       "album": {
         "name": "Melancholy Angel",
+        "url": "https://open.spotify.com/album/0d4Xfz2PLvuCgy5TEVieHi"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235520,
+      "name": "Melancholy Angel",
+      "url": "https://open.spotify.com/track/0sfsaYvx2fMwJq3WNrVnX5"
+    },
+    {
+      "album": {
+        "name": "Melancholy Angel",
         "url": "https://open.spotify.com/album/5vZb64hkg5telnO3kemLaJ"
       },
       "artists": [
@@ -2815,7 +2873,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 235520,
       "name": "Melancholy Angel",
       "url": "https://open.spotify.com/track/3dUh0IyeVBCEaHZciFOSAO"
@@ -3114,6 +3172,24 @@
     },
     {
       "album": {
+        "name": "Noah's Ark",
+        "url": "https://open.spotify.com/album/70HcUicuGMW4t3icNtg3kW"
+      },
+      "artists": [
+        {
+          "name": "Mentalist",
+          "url": "https://open.spotify.com/artist/0FqWOgn92qjlFjYcmoesrs"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225506,
+      "name": "Noah's Ark",
+      "url": "https://open.spotify.com/track/5RbmNmtY6ybkqmlhJIQsSP"
+    },
+    {
+      "album": {
         "name": "Noise",
         "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
       },
@@ -3205,6 +3281,24 @@
       "duration_ms": 269057,
       "name": "Omegacoustic",
       "url": "https://open.spotify.com/track/7yG5JmZcNMZzjkUbQWdrlz"
+    },
+    {
+      "album": {
+        "name": "On the Sea",
+        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233343,
+      "name": "On the Sea",
+      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
     },
     {
       "album": {
@@ -3403,6 +3497,24 @@
       "duration_ms": 268203,
       "name": "Proxy",
       "url": "https://open.spotify.com/track/6JdWuk1w8rpzxSMjUAXT2d"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/0iRc9l0buu3ADhXtXIYobc"
+      },
+      "artists": [
+        {
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180775,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/7MZ3gXOR1VgTHPaxbEGGcy"
     },
     {
       "album": {
@@ -4335,7 +4447,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 315203,
       "name": "The Last Glow of Day",
       "url": "https://open.spotify.com/track/5A8Swwa08RlHqJ8SCcrGk9"
@@ -4479,7 +4591,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 305623,
       "name": "The Skeleton Key - Omega Alive",
       "url": "https://open.spotify.com/track/58TCqmFub3i48RrCqkjcKa"
@@ -4986,6 +5098,24 @@
     },
     {
       "album": {
+        "name": "Wayward Sun",
+        "url": "https://open.spotify.com/album/0akAV2r1rkQrkN2PuFpgWN"
+      },
+      "artists": [
+        {
+          "name": "Xaon",
+          "url": "https://open.spotify.com/artist/5MxqNOyXOnWwKgoj6uX1zz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294666,
+      "name": "Wayward Sun",
+      "url": "https://open.spotify.com/track/4sZge3EvkjsAxEV3Jev1k1"
+    },
+    {
+      "album": {
         "name": "We Are Become Fire",
         "url": "https://open.spotify.com/album/3T4Zs6q5Ao26jNlDGtV0oF"
       },
@@ -5149,6 +5279,24 @@
       "duration_ms": 355880,
       "name": "Where Your Rotting Corpse Lie (W.Y.R.C.L.)",
       "url": "https://open.spotify.com/track/4FwwRLbH09s1v0vJT782mg"
+    },
+    {
+      "album": {
+        "name": "Who Am I?",
+        "url": "https://open.spotify.com/album/6plpyLilJlVK607mkW5cJ3"
+      },
+      "artists": [
+        {
+          "name": "DAMPF",
+          "url": "https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Who Am I?",
+      "url": "https://open.spotify.com/track/1LKatUdpTgcqWNfMm3XprZ"
     },
     {
       "album": {

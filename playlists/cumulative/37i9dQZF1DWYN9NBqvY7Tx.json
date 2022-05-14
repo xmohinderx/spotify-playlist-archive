@@ -8,6 +8,54 @@
   "tracks": [
     {
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb"
+    },
+    {
+      "album": {
+        "name": "Artemis",
+        "url": "https://open.spotify.com/album/0uTWn07xZxhYj8DuNcMXwc"
+      },
+      "artists": [
+        {
+          "name": "Sineflow",
+          "url": "https://open.spotify.com/artist/2viEI92b5w5qUwpKI9YZ46"
+        },
+        {
+          "name": "Nocturnal Zen",
+          "url": "https://open.spotify.com/artist/6HTNZNtQhxaKlu3mNiFjxv"
+        },
+        {
+          "name": "Loudsilence",
+          "url": "https://open.spotify.com/artist/6PllcnuKXZ9fHMUSZdCnRg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Artemis",
+      "url": "https://open.spotify.com/track/4xwdCGKQNzjHy7y4DLD6KH"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean (Alok Remix)",
         "url": "https://open.spotify.com/album/3DMIESlogCaK0E3W0awobM"
       },
@@ -99,7 +147,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 204871,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6damJkZsW0f3eNNAABd0NI"
@@ -117,7 +165,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 265465,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/0YLqnkxAp7Bwbi9V1X93xL"
@@ -219,6 +267,28 @@
       "duration_ms": 209829,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU"
+    },
+    {
+      "album": {
+        "name": "Crush (VIP)",
+        "url": "https://open.spotify.com/album/2IdrcmtQZbqPqdNDS4uwpi"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270400,
+      "name": "Crush - VIP",
+      "url": "https://open.spotify.com/track/4BiF66d4NFyRBCSFAwTucJ"
     },
     {
       "album": {
@@ -335,7 +405,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Do It To It - Andrew Rayel Remix",
       "url": "https://open.spotify.com/track/47FkgO7LWJD8rBovCn41oI"
@@ -353,7 +423,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/5ieyP4fDwxueOeQ6kwUnwm"
@@ -422,6 +492,28 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/2mZfEjrVc81R1v7z6NPFAC"
+      },
+      "artists": [
+        {
+          "name": "Anamanaguchi",
+          "url": "https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257406,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ"
+    },
+    {
+      "album": {
         "name": "Drift",
         "url": "https://open.spotify.com/album/4CvER3oNnWwEyisKPSIqb2"
       },
@@ -433,7 +525,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 236769,
       "name": "Drift",
       "url": "https://open.spotify.com/track/5g70Mc3Bj80XyAAphzoMps"
@@ -535,7 +627,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 212589,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/3Wj6N3ErZ34ditWlB7ETZV"
@@ -703,7 +795,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 195463,
       "name": "Giving Up On U",
       "url": "https://open.spotify.com/track/1tG4l4iUvZC6M1Y8MVBacK"
@@ -769,7 +861,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "Hear My Call (feat. Tyler Graves)",
       "url": "https://open.spotify.com/track/2p1taQKLDOA4tIsLTlLSoj"
@@ -791,7 +883,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 240039,
       "name": "Heart Afire",
       "url": "https://open.spotify.com/track/4s4XzNKcU3PtmeV7OdXDmv"
@@ -864,6 +956,32 @@
     },
     {
       "album": {
+        "name": "Drown/Holding On (Remixes)",
+        "url": "https://open.spotify.com/album/6Hs3Ge3zoT6G75akPaB27p"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Lowell",
+          "url": "https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Holding On - Kompany Remix",
+      "url": "https://open.spotify.com/track/4kbzXzMXEjPYVqpnRsE4Xk"
+    },
+    {
+      "album": {
         "name": "Hurricane (feat. Shibui)",
         "url": "https://open.spotify.com/album/2hTAX3MYuLBqQFPAfsxqpW"
       },
@@ -909,7 +1027,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 292524,
       "name": "Hypnocurrency",
       "url": "https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4"
@@ -927,7 +1045,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 232968,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2ywx0zy4Nj7aQ9jXZL3Mlh"
@@ -949,7 +1067,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 176000,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/5PEc50zuLdBpkC9bOQTG2D"
@@ -1011,7 +1129,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 168932,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/71aAxHJfjmffbueCChnUSL"
@@ -1037,7 +1155,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 161904,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1SYznEzeOiYEduZtqez1mL"
@@ -1161,7 +1279,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174736,
       "name": "Kill Me With Your Love",
       "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
@@ -1183,7 +1301,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 142258,
       "name": "KILLKA",
       "url": "https://open.spotify.com/track/3SQV31uJMStclklmwxQHe1"
@@ -1235,7 +1353,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Know You Better",
       "url": "https://open.spotify.com/track/7bOgK9FbNtsUt34etD1MnD"
@@ -1305,7 +1423,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 198684,
       "name": "Let Love Win",
       "url": "https://open.spotify.com/track/5jB0IkgKoNeHcCObpZuPXP"
@@ -1323,7 +1441,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 228275,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/5HSRz2SISlCFnP63QqBvYj"
@@ -1429,7 +1547,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 138750,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3dRnHNrBmPM5hw3blJyLRt"
@@ -1447,7 +1565,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Lost My Way",
       "url": "https://open.spotify.com/track/1RiJdChbp902jktp7mz7uV"
@@ -1505,7 +1623,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI"
@@ -1563,7 +1681,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 233048,
       "name": "My Wicked",
       "url": "https://open.spotify.com/track/6H8qW0UoLvVWFaE0sms6NK"
@@ -1611,7 +1729,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 261658,
       "name": "Never Let You Go (feat. Sofia Reyes) - EVE Re-Imagination",
       "url": "https://open.spotify.com/track/03KkCDcl9URL2PBvFYHKnK"
@@ -1865,7 +1983,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 211071,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/6rLNDssC5bnJ2l7N1aRAgu"
@@ -1987,7 +2105,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 156709,
       "name": "Run em Down",
       "url": "https://open.spotify.com/track/6p2qoyg0qauFKy84UMjbmu"
@@ -2127,7 +2245,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 217787,
       "name": "Shiawase",
       "url": "https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR"
@@ -2149,7 +2267,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 188800,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6b6HudhUkFIvlDjyuhiEBE"
@@ -2299,7 +2417,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 179224,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/7EYv3adMrIC5mqurz7fHhD"
@@ -2347,7 +2465,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182765,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
@@ -2489,7 +2607,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 151475,
       "name": "The Ride - The FifthGuys Remix",
       "url": "https://open.spotify.com/track/4092jNui2iVNHGIELwv9CD"
@@ -2699,7 +2817,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 228950,
       "name": "Turning Down",
       "url": "https://open.spotify.com/track/0QOOmrlptVOHQht9PCRank"
@@ -2823,7 +2941,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 136000,
       "name": "Watch Me Now",
       "url": "https://open.spotify.com/track/6TNYnPaDeANzSX2nkyiifC"
@@ -2845,7 +2963,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 234475,
       "name": "We Won't Be Alone",
       "url": "https://open.spotify.com/track/3AayefDdUFxivRs79bX7kV"
@@ -2867,7 +2985,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178666,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/3Bi5Rw7VoxyfXPBDGQKObV"
@@ -2929,7 +3047,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 197485,
       "name": "Why We Lose",
       "url": "https://open.spotify.com/track/5NmENli4oodYuWrI0vSGK4"
@@ -2955,10 +3073,46 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188800,
       "name": "Willow Tree",
       "url": "https://open.spotify.com/track/6J9OBBRpR4JZqUkewgDjsS"
+    },
+    {
+      "album": {
+        "name": "Won't Let Go",
+        "url": "https://open.spotify.com/album/0vcsY42vLjPGoukzA2RmYe"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/5atcK58NTTeE5aEw1YDMkJ"
+    },
+    {
+      "album": {
+        "name": "You Can't Help Me",
+        "url": "https://open.spotify.com/album/4VS11BHMrAOUD7DATzFPa6"
+      },
+      "artists": [
+        {
+          "name": "RIZLERGX7",
+          "url": "https://open.spotify.com/artist/0ygLSl6MmXEbUSrNhg0ylq"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171257,
+      "name": "You Can't Help Me",
+      "url": "https://open.spotify.com/track/3EmSy3kYIuix0aU5rpuWEN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYN9NBqvY7Tx"

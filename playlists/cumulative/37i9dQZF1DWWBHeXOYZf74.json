@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: A$AP Rocky",
+  "description": "Genre-less. Quality first always. Cover: Shygirl",
   "name": "POLLEN",
   "published_playlist_ids": [
     "0satjjBJ2wfilttyMYfCS7"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 218299,
       "name": "2 strings",
       "url": "https://open.spotify.com/track/7fGcGP4L201pDo9BBs7s5F"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
@@ -6945,7 +6945,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 129220,
       "name": "DEATH FANTASY",
       "url": "https://open.spotify.com/track/0AioBDN5uW9Ix0ES9uoC61"
@@ -8187,7 +8187,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 162122,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/29Hg1jaX5ZY5miqr3ScQSn"
@@ -9226,6 +9226,28 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
+    },
+    {
+      "album": {
         "name": "fav flav (with Duckwrth)",
         "url": "https://open.spotify.com/album/6FqXFMDYQfxOCoX8Ame8az"
       },
@@ -9668,6 +9690,24 @@
     },
     {
       "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -10053,7 +10093,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 187626,
       "name": "Free",
       "url": "https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP"
@@ -14379,6 +14419,10 @@
         {
           "name": "George Riley",
           "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        },
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
         }
       ],
       "date_added": "2022-05-06",
@@ -19082,6 +19126,28 @@
     },
     {
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "album": {
         "name": "OKAY (feat. Dreezy)",
         "url": "https://open.spotify.com/album/785jdsvDvwgyz3eZPOR72u"
       },
@@ -20719,7 +20785,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188000,
       "name": "Power Power (feat. Shaun Ross)",
       "url": "https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc"
@@ -21843,6 +21909,24 @@
       "duration_ms": 197142,
       "name": "Rice & Gravy",
       "url": "https://open.spotify.com/track/6kwWXm5ykHYBnY2Dcxc9UZ"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
     },
     {
       "album": {
@@ -23903,7 +23987,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188780,
       "name": "Softly",
       "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
@@ -25615,7 +25699,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 168920,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3"
@@ -27790,6 +27874,28 @@
     },
     {
       "album": {
+        "name": "NAUGHTY DOG",
+        "url": "https://open.spotify.com/album/58NX2JGkFppV0NQJqv0yEp"
+      },
+      "artists": [
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        },
+        {
+          "name": "Lederrick",
+          "url": "https://open.spotify.com/artist/7wT0a0iOAuvNC6tXUav7Xt"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "WAITING",
+      "url": "https://open.spotify.com/track/3N39a63azXQRQ4S9tGVtGb"
+    },
+    {
+      "album": {
         "name": "aiMless",
         "url": "https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n"
       },
@@ -27841,7 +27947,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 280004,
       "name": "Walkin",
       "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"

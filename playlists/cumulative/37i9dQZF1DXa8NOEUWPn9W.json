@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 200000,
       "name": "24",
       "url": "https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo"
@@ -155,7 +155,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 192455,
       "name": "A Drug From God",
       "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 268866,
       "name": "Acid in My Blood",
       "url": "https://open.spotify.com/track/3b3TFgnFPhUSk8lvHdO6lX"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 176720,
       "name": "Acrobatic",
       "url": "https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 156975,
       "name": "Aphrodisiac",
       "url": "https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 158688,
       "name": "Back Tomorrow - GUZ Remix",
       "url": "https://open.spotify.com/track/4AkpGE7ndYDXH192s9vQTU"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "Basement",
       "url": "https://open.spotify.com/track/0qAGuRY2EQLbK5TM8ydzrn"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 142334,
       "name": "Be My One",
       "url": "https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8"
@@ -1064,6 +1064,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/7h4QbMGJ5KIsxVVjJIu8k7"
+      },
+      "artists": [
+        {
+          "name": "Jaded",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224548,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/5FCzMiHrGRayOu12J65Syp"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/1oKRqKeB5whEFhn3ceXIgo"
       },
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 210704,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3PkiB253ErJjaAfsiDm7Kk"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 379356,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 162318,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/77e0lnvWMyji6LrUlNSYhZ"
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 189370,
       "name": "Cleo - Edit",
       "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 265373,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/1wDrVNnmrB4S46lvJ3WXPK"
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 170039,
       "name": "Get This Feeling",
       "url": "https://open.spotify.com/track/3uqsEcdRWuZWkgQdhxwaxU"
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 263225,
       "name": "Givin' Up",
       "url": "https://open.spotify.com/track/5DYGgP2W3YzFgnYlHWOmI1"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 194319,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5YT0stC917pjldKbdVzEo4"
@@ -2859,6 +2877,24 @@
       "duration_ms": 236129,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1NMmSM6DYwhAf7027fowmD"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219401,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R"
     },
     {
       "album": {
@@ -3157,7 +3193,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 187086,
       "name": "Jack Machine",
       "url": "https://open.spotify.com/track/1239Sq2SqVR55dY3jrDMQx"
@@ -3303,7 +3339,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 174600,
       "name": "La candela viva",
       "url": "https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN"
@@ -3901,7 +3937,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173993,
       "name": "Love So Sweet",
       "url": "https://open.spotify.com/track/7HYhxCIvLGiMKRtG8SOo1B"
@@ -4003,7 +4039,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 194754,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD"
@@ -4155,7 +4191,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-24",
+      "date_removed": null,
       "duration_ms": 176491,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
@@ -4239,7 +4275,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 222333,
       "name": "My Name (feat. Lolita Leopard)",
       "url": "https://open.spotify.com/track/4f1PbbPlIftgnaqmClUUwy"
@@ -4257,7 +4293,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 201941,
       "name": "My Own",
       "url": "https://open.spotify.com/track/4paaxnKFJoHfL319b7HMTP"
@@ -4355,7 +4391,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 203482,
       "name": "Never Gonna Tell You",
       "url": "https://open.spotify.com/track/58RXFvoX6t0JNYDls2ANh2"
@@ -4403,7 +4439,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 218880,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/74svMcorgPABViSTZka4yw"
@@ -4671,7 +4707,7 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
@@ -4955,7 +4991,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 249453,
       "name": "Relationship Is",
       "url": "https://open.spotify.com/track/3o0Cq92OL7QnXJUY4F6zBz"
@@ -5065,6 +5101,32 @@
       "duration_ms": 358095,
       "name": "River",
       "url": "https://open.spotify.com/track/00s8ftA1VJgAgsOaQUqkvc"
+    },
+    {
+      "album": {
+        "name": "Rizzla",
+        "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282554,
+      "name": "Rizzla",
+      "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
     },
     {
       "album": {
@@ -5553,7 +5615,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 162879,
       "name": "Still Sleepless",
       "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
@@ -5643,7 +5705,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-28",
+      "date_removed": null,
       "duration_ms": 176372,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
@@ -5705,7 +5767,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 421703,
       "name": "Talamanca - Cristoph Remix",
       "url": "https://open.spotify.com/track/1u2jnokwA7wxow0gZ64Fvh"
@@ -5927,7 +5989,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 171796,
       "name": "The Night (feat. Purple Velvet Curtains)",
       "url": "https://open.spotify.com/track/1O5aDl6qjgN80CJJ9JHDgw"
@@ -6045,7 +6107,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
@@ -6180,6 +6242,28 @@
     },
     {
       "album": {
+        "name": "Under The Sun",
+        "url": "https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208374,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc"
+    },
+    {
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/30m8YVoT4er7XKeIaIurNW"
       },
@@ -6209,7 +6293,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 215000,
       "name": "Wait A Minute",
       "url": "https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c"
@@ -6473,7 +6557,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 164878,
       "name": "White Rabbit - Moxy Club Mix",
       "url": "https://open.spotify.com/track/2Zp0oCiV6xQZjLHUzrTJxv"
@@ -6591,7 +6675,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 181801,
       "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
       "url": "https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS"
@@ -6657,7 +6741,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 172258,
       "name": "You & I - Emily Nash Remix",
       "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"

@@ -1,12 +1,12 @@
 {
   "description": "New takes on old classics!",
-  "num_followers": 313329,
+  "num_followers": 313521,
   "original_name": "Dance Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIyNDQ5NCwwMDAwMDBhYTAwMDAwMTgwNzRhNjQyZDYwMDAwMDE2ZWY0NTYzNzI0",
+  "snapshot_id": "MTY1MjQ1NjUxNiwwMDAwMDBhYzAwMDAwMTgwYmUxNTZhMzQwMDAwMDE2ZWY0NTYzNzI0",
   "tracks": [
     {
       "added_at": "2022-04-21 22:02:00",
@@ -27,6 +27,22 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2022-04-21 22:02:00",
+      "album": {
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "url": "https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4"
     },
     {
       "added_at": "2022-04-21 22:02:00",
@@ -61,84 +77,20 @@
       "url": "https://open.spotify.com/track/3RdL0oQOGj1TyUx5RG5vd3"
     },
     {
-      "added_at": "2022-04-21 22:02:00",
+      "added_at": "2022-05-13 15:41:56",
       "album": {
-        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-        "url": "https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM"
+        "name": "Give It to Me",
+        "url": "https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT"
       },
       "artists": [
         {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
         }
       ],
-      "duration_ms": 176190,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "I Will Survive",
-        "url": "https://open.spotify.com/album/6eRElO5zEVb6yNznGvl0HE"
-      },
-      "artists": [
-        {
-          "name": "Besomage",
-          "url": "https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q"
-        },
-        {
-          "name": "Meric Again",
-          "url": "https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF"
-        },
-        {
-          "name": "Nito-Onna",
-          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
-        }
-      ],
-      "duration_ms": 134243,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/4UIWtvdVgY6nNGPgzbutR7"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Rhythm Is A Dancer",
-        "url": "https://open.spotify.com/album/2i95t3UAKol4EK43kP2CsQ"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        }
-      ],
-      "duration_ms": 147227,
-      "name": "Rhythm Is A Dancer",
-      "url": "https://open.spotify.com/track/6GDJDe3I7yHq4rPDTfuJMj"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "L'amour Toujours",
-        "url": "https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk"
-      },
-      "artists": [
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        },
-        {
-          "name": "Max Fail",
-          "url": "https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf"
-        },
-        {
-          "name": "Viktoria Vane",
-          "url": "https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J"
-        }
-      ],
-      "duration_ms": 141549,
-      "name": "L'amour Toujours",
-      "url": "https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF"
+      "duration_ms": 186239,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG"
     },
     {
       "added_at": "2022-04-21 22:02:00",
@@ -187,18 +139,66 @@
     {
       "added_at": "2022-04-21 22:02:00",
       "album": {
-        "name": "I Wanna Dance With Somebody",
-        "url": "https://open.spotify.com/album/4VKYCdBi64IdV1rLck9mLS"
+        "name": "I Will Survive",
+        "url": "https://open.spotify.com/album/6eRElO5zEVb6yNznGvl0HE"
       },
       "artists": [
         {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+          "name": "Besomage",
+          "url": "https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q"
+        },
+        {
+          "name": "Meric Again",
+          "url": "https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
         }
       ],
-      "duration_ms": 134516,
-      "name": "I Wanna Dance With Somebody - UK Edit",
-      "url": "https://open.spotify.com/track/4NxxwRPkNOgwRk6ACKrGs9"
+      "duration_ms": 134243,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/4UIWtvdVgY6nNGPgzbutR7"
+    },
+    {
+      "added_at": "2022-04-21 22:02:00",
+      "album": {
+        "name": "L'amour Toujours",
+        "url": "https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk"
+      },
+      "artists": [
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        },
+        {
+          "name": "Max Fail",
+          "url": "https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf"
+        },
+        {
+          "name": "Viktoria Vane",
+          "url": "https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J"
+        }
+      ],
+      "duration_ms": 141549,
+      "name": "L'amour Toujours",
+      "url": "https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF"
+    },
+    {
+      "added_at": "2022-04-21 22:02:00",
+      "album": {
+        "name": "Rhythm Is A Dancer",
+        "url": "https://open.spotify.com/album/2i95t3UAKol4EK43kP2CsQ"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        }
+      ],
+      "duration_ms": 147227,
+      "name": "Rhythm Is A Dancer",
+      "url": "https://open.spotify.com/track/6GDJDe3I7yHq4rPDTfuJMj"
     },
     {
       "added_at": "2022-04-21 22:02:00",
@@ -223,50 +223,6 @@
       "duration_ms": 207781,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/7zKaYgEl0ywPF3zUOw2BKg"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "Seven Nation Army",
-        "url": "https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP"
-    },
-    {
-      "added_at": "2022-04-29 09:28:14",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 178294,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM"
     },
     {
       "added_at": "2022-04-29 09:28:14",
@@ -309,6 +265,254 @@
       "url": "https://open.spotify.com/track/3cfoT303oRVyVdSsX6UmuO"
     },
     {
+      "added_at": "2022-04-21 22:02:00",
+      "album": {
+        "name": "It Wasn't Me",
+        "url": "https://open.spotify.com/album/3VWYdpy2Jvzdz02yPCAbtj"
+      },
+      "artists": [
+        {
+          "name": "Tenchi",
+          "url": "https://open.spotify.com/artist/2fT7Qc9vG2ULsvZH7l1HqK"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        },
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/7fyJO1frnsizz23gTKgbdt"
+    },
+    {
+      "added_at": "2022-04-21 22:02:00",
+      "album": {
+        "name": "I Wanna Dance With Somebody",
+        "url": "https://open.spotify.com/album/4VKYCdBi64IdV1rLck9mLS"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 134516,
+      "name": "I Wanna Dance With Somebody - UK Edit",
+      "url": "https://open.spotify.com/track/4NxxwRPkNOgwRk6ACKrGs9"
+    },
+    {
+      "added_at": "2022-04-21 22:02:00",
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP"
+    },
+    {
+      "added_at": "2022-04-29 09:28:14",
+      "album": {
+        "name": "She Doesn't Mind",
+        "url": "https://open.spotify.com/album/4dYa9RyK9oJ3ImLYGg3tIh"
+      },
+      "artists": [
+        {
+          "name": "MEYSTA",
+          "url": "https://open.spotify.com/artist/5t46kxwLb7v2uC1aqwqeSS"
+        },
+        {
+          "name": "KURY",
+          "url": "https://open.spotify.com/artist/1WaB8hrbBPbzgFFOOMW9dH"
+        }
+      ],
+      "duration_ms": 156166,
+      "name": "She Doesn't Mind",
+      "url": "https://open.spotify.com/track/24ndefOQebzR8wOJaAZTjR"
+    },
+    {
+      "added_at": "2022-05-13 14:18:50",
+      "album": {
+        "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+        "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "duration_ms": 157205,
+      "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+      "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+    },
+    {
+      "added_at": "2022-04-29 09:28:14",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 178294,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM"
+    },
+    {
+      "added_at": "2022-05-13 14:18:50",
+      "album": {
+        "name": "Rude",
+        "url": "https://open.spotify.com/album/3F9EtcqCQpEdVsaAZ6DENA"
+      },
+      "artists": [
+        {
+          "name": "Cour",
+          "url": "https://open.spotify.com/artist/2wXlDjhPhTLuw6Fs6vc2xS"
+        },
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/0PwtLLhvCH1crffFLPYSIX"
+    },
+    {
+      "added_at": "2022-05-13 14:18:50",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/3ltiVqBhJ234eeZRHwI5VD"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f8der",
+          "url": "https://open.spotify.com/artist/7DBx4maFkuoaBd7w7tTsQR"
+        },
+        {
+          "name": "GRHHH",
+          "url": "https://open.spotify.com/artist/0Nxi8lK4ujPl9gMviGj7TQ"
+        },
+        {
+          "name": "J R",
+          "url": "https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn"
+        }
+      ],
+      "duration_ms": 154895,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/2Mxdktxk8klyOfTnJaqJnT"
+    },
+    {
+      "added_at": "2022-05-13 14:18:50",
+      "album": {
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/2I1GlnzRweIEq8EWVSbh58"
+      },
+      "artists": [
+        {
+          "name": "Alex D'Rosso",
+          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
+        },
+        {
+          "name": "Luc Ross",
+          "url": "https://open.spotify.com/artist/2W3Sn6sLJ81kw6lOOY1bLJ"
+        },
+        {
+          "name": "Arild Aas",
+          "url": "https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Blue (Da Ba Dee)",
+      "url": "https://open.spotify.com/track/67mbDBuMRpuqmjcGoirq0q"
+    },
+    {
+      "added_at": "2022-05-13 14:18:50",
+      "album": {
+        "name": "Somebody That I Used to Know",
+        "url": "https://open.spotify.com/album/0XMYtML3V72KGKQL9SYmDR"
+      },
+      "artists": [
+        {
+          "name": "Red Lemon",
+          "url": "https://open.spotify.com/artist/5sjFMwugEcq82OeC9O78Sd"
+        },
+        {
+          "name": "Michael Ford",
+          "url": "https://open.spotify.com/artist/0pxkbA5HKBZkMyqyhINQqd"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/3rDiwjYjKHVJPvsQizul5W"
+    },
+    {
+      "added_at": "2022-05-13 14:18:50",
+      "album": {
+        "name": "La Isla Bonita",
+        "url": "https://open.spotify.com/album/5cAIP4upCNqS0aWFXY7HcK"
+      },
+      "artists": [
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Bryan V",
+          "url": "https://open.spotify.com/artist/0UKwof7pq8Tz02TEnvcWJE"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/1OIz7jysPpEUNKAJQbrZkk"
+    },
+    {
       "added_at": "2022-04-29 09:28:14",
       "album": {
         "name": "All Night Long (All Night)",
@@ -331,26 +535,6 @@
       "duration_ms": 127619,
       "name": "All Night Long (All Night)",
       "url": "https://open.spotify.com/track/1ZAOjOv0Mb4Ei75SgzVLLm"
-    },
-    {
-      "added_at": "2022-04-29 09:28:14",
-      "album": {
-        "name": "She Doesn't Mind",
-        "url": "https://open.spotify.com/album/4dYa9RyK9oJ3ImLYGg3tIh"
-      },
-      "artists": [
-        {
-          "name": "MEYSTA",
-          "url": "https://open.spotify.com/artist/5t46kxwLb7v2uC1aqwqeSS"
-        },
-        {
-          "name": "KURY",
-          "url": "https://open.spotify.com/artist/1WaB8hrbBPbzgFFOOMW9dH"
-        }
-      ],
-      "duration_ms": 156166,
-      "name": "She Doesn't Mind",
-      "url": "https://open.spotify.com/track/24ndefOQebzR8wOJaAZTjR"
     },
     {
       "added_at": "2022-04-29 09:28:14",
@@ -411,34 +595,6 @@
       "duration_ms": 188571,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/6vtMbzF2Sf4MZUBSm9QcfL"
-    },
-    {
-      "added_at": "2022-04-21 22:02:00",
-      "album": {
-        "name": "It Wasn't Me",
-        "url": "https://open.spotify.com/album/3VWYdpy2Jvzdz02yPCAbtj"
-      },
-      "artists": [
-        {
-          "name": "Tenchi",
-          "url": "https://open.spotify.com/artist/2fT7Qc9vG2ULsvZH7l1HqK"
-        },
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
-        },
-        {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "It Wasn't Me",
-      "url": "https://open.spotify.com/track/7fyJO1frnsizz23gTKgbdt"
     },
     {
       "added_at": "2022-04-21 22:02:00",

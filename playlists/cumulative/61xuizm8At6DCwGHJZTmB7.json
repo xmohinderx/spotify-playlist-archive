@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Hastings",
+          "url": "https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+    },
+    {
+      "album": {
         "name": "Love Ran Red",
         "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
       },

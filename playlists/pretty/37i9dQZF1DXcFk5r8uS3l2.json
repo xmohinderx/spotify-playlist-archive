@@ -1,13 +1,65 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 408347,
+  "num_followers": 408384,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDAzZjAwMDAwMTgwOTc4ODE3M2MwMDAwMDE3ZGI1ZDhhMjYx",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDA0MDAwMDAwMTgwYmI5NDliNjYwMDAwMDE3ZGI1ZDhhMjYx",
   "tracks": [
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Why Do I Cry Anymore",
+        "url": "https://open.spotify.com/album/5hldzbhEFzLqeT2WATFsZS"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 208362,
+      "name": "Why Do I Cry Anymore",
+      "url": "https://open.spotify.com/track/3gEHy9sxwFdv2dDXc8WB7P"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Hollywood Blues: Songs and Stories from the Family Tree (1997-2022)",
+        "url": "https://open.spotify.com/album/7LE2GFTq1Smdeezt2eTAcx"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        },
+        {
+          "name": "Matthew Sweet",
+          "url": "https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw"
+        }
+      ],
+      "duration_ms": 155846,
+      "name": "Burned (2022 Remaster)",
+      "url": "https://open.spotify.com/track/3RvsARgXxO6AAgZ4lF5lZK"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Adobe",
+        "url": "https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        }
+      ],
+      "duration_ms": 148853,
+      "name": "Big Bend",
+      "url": "https://open.spotify.com/track/6Da34y67KXjJRMtT37iSBz"
+    },
     {
       "added_at": "2022-05-06 04:02:00",
       "album": {

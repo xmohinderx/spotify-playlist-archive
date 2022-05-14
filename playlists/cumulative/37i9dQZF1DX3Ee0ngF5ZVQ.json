@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Better For You",
+        "url": "https://open.spotify.com/album/2zQoCOG7PmZkFikB6K4aTs"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202630,
+      "name": "Better For You",
+      "url": "https://open.spotify.com/track/0ZHstdIl6lbENFFj5A9R8C"
+    },
+    {
+      "album": {
         "name": "Better Half",
         "url": "https://open.spotify.com/album/5mgiSM2ro7ucsgOUOOiG5F"
       },
@@ -2819,7 +2837,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 212081,
       "name": "Makin' It By",
       "url": "https://open.spotify.com/track/6kEKSLnQOsNsP5E3Xv0Vun"
@@ -2917,6 +2935,24 @@
       "duration_ms": 241026,
       "name": "Miles and Miles of You",
       "url": "https://open.spotify.com/track/4pkdRtBzxstB8Li7iuLZtz"
+    },
+    {
+      "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/73tJeurEWxJl6mWH3udrha"
+      },
+      "artists": [
+        {
+          "name": "Keller Cox",
+          "url": "https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206550,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/0JPRXF8h2ysd2qXJQQa4GK"
     },
     {
       "album": {
@@ -3433,6 +3469,24 @@
       "duration_ms": 186458,
       "name": "Ride the Lightning (717 Tapes)",
       "url": "https://open.spotify.com/track/6bVZ8tOT8S6wrXJl83zEHU"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4dAmDLs6g7QFylKgLxSkdu"
+      },
+      "artists": [
+        {
+          "name": "Logan Jahnke",
+          "url": "https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229981,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1lKVUxGaeT8oZomwWopXB2"
     },
     {
       "album": {
@@ -4821,6 +4875,28 @@
       "duration_ms": 214306,
       "name": "Young Man's Game",
       "url": "https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN"
+    },
+    {
+      "album": {
+        "name": "Your Bar Now",
+        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
+      },
+      "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214253,
+      "name": "Your Bar Now",
+      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ"

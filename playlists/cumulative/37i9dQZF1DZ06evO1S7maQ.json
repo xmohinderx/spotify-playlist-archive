@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 409413,
       "name": "Janey Needs A Shooter",
       "url": "https://open.spotify.com/track/3S2bActYBlskH5gtanFIMO"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 295493,
       "name": "Letter To You",
       "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 263466,
       "name": "The Ghost of Tom Joad",
       "url": "https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk"
@@ -953,6 +953,24 @@
       "duration_ms": 243306,
       "name": "There Goes My Miracle",
       "url": "https://open.spotify.com/track/2NVDqyBmkPLANgy3S5He6d"
+    },
+    {
+      "album": {
+        "name": "Bruce Springsteen & The E Street Band Live 1975-85",
+        "url": "https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257226,
+      "name": "This Land is Your Land - Live at Nassau Coliseum, Uniondale, NY - December 1980",
+      "url": "https://open.spotify.com/track/4MvJlIpDpdZi4sCXvAhrym"
     },
     {
       "album": {

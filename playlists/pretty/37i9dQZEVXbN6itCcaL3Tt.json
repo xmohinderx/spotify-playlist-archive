@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 237700,
+  "num_followers": 237790,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA1NzAxNjU5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA1NzU4MDY1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Z\u0142ote Tarasy",
         "url": "https://open.spotify.com/album/7zmwRrJPhyxLiVgtMtJlW1"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0dorKIz071s55Jy0zxb4aW"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Je\u017cyk!",
         "url": "https://open.spotify.com/album/0NcQmEbIYENQmPjuoZaxHe"
@@ -45,7 +45,31 @@
       "url": "https://open.spotify.com/track/05vIFEbXYpmGOsLgWZVJCX"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
+      "album": {
+        "name": "\u015aMIECI WYW\u00d3Z",
+        "url": "https://open.spotify.com/album/2sWzr1gIioEsc5ZGu4R5Hu"
+      },
+      "artists": [
+        {
+          "name": "Tromba",
+          "url": "https://open.spotify.com/artist/200MtPeV3YvYrfwUj66Vh8"
+        },
+        {
+          "name": "Kiwi KRK",
+          "url": "https://open.spotify.com/artist/54PgHlyWY2lhJPs0GdbNB0"
+        },
+        {
+          "name": "Zeju POG",
+          "url": "https://open.spotify.com/artist/25Sdw0GeQ3Vu5oL0QuGkw5"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "\u015aMIECI WYW\u00d3Z",
+      "url": "https://open.spotify.com/track/2MB3DbFviuZX3HJHBa8kFg"
+    },
+    {
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Zegarek ze Szwajcarii",
         "url": "https://open.spotify.com/album/3Tkhe88GUd78Dw1KD4HfQV"
@@ -61,7 +85,7 @@
       "url": "https://open.spotify.com/track/6h0FK5TBm2ZMDYzh9xYisW"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "WI\u0118CEJ DYMU",
         "url": "https://open.spotify.com/album/7jpaMrXyirYMgkREyS3mZL"
@@ -93,7 +117,7 @@
       "url": "https://open.spotify.com/track/41UYfhZqeITq1gQJVstvG5"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "UCZTA",
         "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
@@ -113,7 +137,39 @@
       "url": "https://open.spotify.com/track/0IeTXtlaZaJ31r0TfPu6Gc"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
+      "album": {
+        "name": "Zosia",
+        "url": "https://open.spotify.com/album/2l4qvKEMnWj4gS1xeAeRJD"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "duration_ms": 141663,
+      "name": "Zosia",
+      "url": "https://open.spotify.com/track/785dMrfsQWxg1hcPWXnyli"
+    },
+    {
+      "added_at": "2022-05-13 11:54:25",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "La Manga",
         "url": "https://open.spotify.com/album/159tAKVX40G35wTbZ7Efk0"
@@ -133,39 +189,7 @@
       "url": "https://open.spotify.com/track/7ApeFeWYcnTTGOpo5b9Yx6"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
-    },
-    {
-      "added_at": "2022-05-12 20:14:19",
-      "album": {
-        "name": "Zosia",
-        "url": "https://open.spotify.com/album/2l4qvKEMnWj4gS1xeAeRJD"
-      },
-      "artists": [
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        }
-      ],
-      "duration_ms": 141663,
-      "name": "Zosia",
-      "url": "https://open.spotify.com/track/785dMrfsQWxg1hcPWXnyli"
-    },
-    {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "KOKAINA",
         "url": "https://open.spotify.com/album/6D5QhO4NEBadXLBJ5cElJB"
@@ -181,7 +205,7 @@
       "url": "https://open.spotify.com/track/4Xq0cVrd0JDXQ0p3mlKAr3"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "UCZTA",
         "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
@@ -201,7 +225,7 @@
       "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Hotel Maffija 2",
         "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
@@ -241,7 +265,7 @@
       "url": "https://open.spotify.com/track/1kuw8HFbvgAg3tNqPj00Mb"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Megalomania",
         "url": "https://open.spotify.com/album/7bPOmqpNy4BMsKS1YcYwNG"
@@ -269,7 +293,7 @@
       "url": "https://open.spotify.com/track/3xyEgP4dQbnQtLoYDCKzEv"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "NO FACE",
         "url": "https://open.spotify.com/album/2d1hxwcJ7FPkZzEToQ0eB7"
@@ -293,7 +317,7 @@
       "url": "https://open.spotify.com/track/15TrHBCTobTCJ4ojq9mABc"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "amfisbena (DELUXE)",
         "url": "https://open.spotify.com/album/2yjyIeUxvGjGtFA2A4Xqmc"
@@ -313,7 +337,7 @@
       "url": "https://open.spotify.com/track/0Vm4VKVkSvKLyAHm6XWrfx"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Jetlag (feat. The Plug)",
         "url": "https://open.spotify.com/album/7asDfD691s6DPhNyKuPyaT"
@@ -341,7 +365,7 @@
       "url": "https://open.spotify.com/track/2jG3STVcZ9fjYlhXPi7nJ1"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Jad\u0119 noc\u0105 na Mazurach 2",
         "url": "https://open.spotify.com/album/7IStkgbkCECOCSB7Iqtweu"
@@ -361,7 +385,7 @@
       "url": "https://open.spotify.com/track/6oV6tM8BZgvuh1zzFpHwrn"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Lot",
         "url": "https://open.spotify.com/album/3XFADNo12EUqx897ud9nYl"
@@ -385,7 +409,7 @@
       "url": "https://open.spotify.com/track/00h3UmLzktuyywU2faS7os"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Pakuje Walize",
         "url": "https://open.spotify.com/album/0c0nhk4yuDUfXIoTon4RrO"
@@ -417,7 +441,7 @@
       "url": "https://open.spotify.com/track/7CRfTE9FGb9YdSvoGhl2IP"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "amfisbena (DELUXE)",
         "url": "https://open.spotify.com/album/2yjyIeUxvGjGtFA2A4Xqmc"
@@ -437,7 +461,7 @@
       "url": "https://open.spotify.com/track/6QzEN3q6NpVFdxktMj427g"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Proste fakty",
         "url": "https://open.spotify.com/album/3mhety6h2PwjicU8mey7a6"
@@ -477,7 +501,7 @@
       "url": "https://open.spotify.com/track/6IVFyySW33VfordEuGDPHk"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Czarno na bia\u0142ym",
         "url": "https://open.spotify.com/album/4uxD1b9je0iDbdY1BMamMZ"
@@ -493,7 +517,7 @@
       "url": "https://open.spotify.com/track/3UMqSWigx4NrVPIkpPDP2U"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Megalomania",
         "url": "https://open.spotify.com/album/7bPOmqpNy4BMsKS1YcYwNG"
@@ -509,27 +533,7 @@
       "url": "https://open.spotify.com/track/0oF40HEGBYbYQufEtB81BM"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
-      "album": {
-        "name": "UCZTA",
-        "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        },
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        }
-      ],
-      "duration_ms": 251788,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/3YqafSKCCazkxZUdO23iWf"
-    },
-    {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
@@ -549,7 +553,27 @@
       "url": "https://open.spotify.com/track/5sGv8YdAa3XjggnbpF9NC9"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
+      "album": {
+        "name": "UCZTA",
+        "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        }
+      ],
+      "duration_ms": 251788,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/3YqafSKCCazkxZUdO23iWf"
+    },
+    {
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Rozmazana kreska",
         "url": "https://open.spotify.com/album/7D4ioBCIfM9YsIIWLDw7zX"
@@ -565,7 +589,7 @@
       "url": "https://open.spotify.com/track/5Dwpfuw962xZq6mNg8OgzN"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Du\u017ce Oczy",
         "url": "https://open.spotify.com/album/5iv0i9LYnhx3qIDPGkIVnn"
@@ -593,7 +617,7 @@
       "url": "https://open.spotify.com/track/0O4OIQKow8DloWa7UzIgyd"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "W samo po\u0142udnie (Deluxe)",
         "url": "https://open.spotify.com/album/68vOoh6kzluqI6XpnOqX4H"
@@ -613,7 +637,27 @@
       "url": "https://open.spotify.com/track/0e9dWwZD9EemG1w92C3JLp"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
+      "album": {
+        "name": "PREZES",
+        "url": "https://open.spotify.com/album/22abKDorS8rc5OoFViqWwu"
+      },
+      "artists": [
+        {
+          "name": "Jacu\u015b",
+          "url": "https://open.spotify.com/artist/1efYxTvCNTpqYqfiEsxawq"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "PI\u0104TEK WIECZ\u00d3R",
+      "url": "https://open.spotify.com/track/3ylASir5ydGFQMwbKnCqcN"
+    },
+    {
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -629,7 +673,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Hotel Maffija 2",
         "url": "https://open.spotify.com/album/27XrvOB16npe8CNDKc0GBk"
@@ -697,27 +741,7 @@
       "url": "https://open.spotify.com/track/62CHTBeGAVo9b0ivzaNdc1"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
-      "album": {
-        "name": "PI\u0104TEK WIECZ\u00d3R",
-        "url": "https://open.spotify.com/album/62HDzNstWeU5EEN6xvXcXn"
-      },
-      "artists": [
-        {
-          "name": "Jacu\u015b",
-          "url": "https://open.spotify.com/artist/1efYxTvCNTpqYqfiEsxawq"
-        },
-        {
-          "name": "Young Leosia",
-          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "PI\u0104TEK WIECZ\u00d3R",
-      "url": "https://open.spotify.com/track/38ryCMNFOZ6GW5udIFnQI7"
-    },
-    {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Narcyz",
         "url": "https://open.spotify.com/album/6swlvP1UMJYx6ny4PBbjph"
@@ -733,7 +757,7 @@
       "url": "https://open.spotify.com/track/0tTy9lib8CQg7mwFF6lBbD"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Huragan",
         "url": "https://open.spotify.com/album/6xKVlOL8stXITDhVZjQPDb"
@@ -753,7 +777,7 @@
       "url": "https://open.spotify.com/track/07Av3mjaJZglOphEyYKA63"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Rok Tygrysa",
         "url": "https://open.spotify.com/album/12Th0Bm8VWEzH0WAJl91mv"
@@ -769,23 +793,7 @@
       "url": "https://open.spotify.com/track/26l97lmrC7PPNInBw9THPU"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
-      "album": {
-        "name": "Jeszcze 5 minut",
-        "url": "https://open.spotify.com/album/4aagKgJSDrucEH6yTg3ZGK"
-      },
-      "artists": [
-        {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        }
-      ],
-      "duration_ms": 219268,
-      "name": "Disney",
-      "url": "https://open.spotify.com/track/37xytNxwRuLRuZcJMFH8w7"
-    },
-    {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "M\u0142ody Matczak",
         "url": "https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd"
@@ -809,7 +817,23 @@
       "url": "https://open.spotify.com/track/6eIVuPSZ7D8Q1uaZc8cQnz"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
+      "album": {
+        "name": "Jeszcze 5 minut",
+        "url": "https://open.spotify.com/album/4aagKgJSDrucEH6yTg3ZGK"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "duration_ms": 219268,
+      "name": "Disney",
+      "url": "https://open.spotify.com/track/37xytNxwRuLRuZcJMFH8w7"
+    },
+    {
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/4WQA0C2nwJvBMTdsjf5JOm"
@@ -825,47 +849,7 @@
       "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
-      "album": {
-        "name": "Boj\u0119 Si\u0119 Kocha\u0107",
-        "url": "https://open.spotify.com/album/2SwEmJJ6Ya4gFWxbSWAwZz"
-      },
-      "artists": [
-        {
-          "name": "Smolasty",
-          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
-        },
-        {
-          "name": "Young Leosia",
-          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Boj\u0119 Si\u0119 Kocha\u0107",
-      "url": "https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH"
-    },
-    {
-      "added_at": "2022-05-12 20:14:19",
-      "album": {
-        "name": "UCZTA",
-        "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        },
-        {
-          "name": "Artur Rojek",
-          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
-        }
-      ],
-      "duration_ms": 288820,
-      "name": "T\u0119skni\u0119 sobie",
-      "url": "https://open.spotify.com/track/17Tx4usaccaAWCFGGa3EQf"
-    },
-    {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Brudasy With Attitude (feat. Farid Bang)",
         "url": "https://open.spotify.com/album/1xEBMQpFmwvdpb0LznRGy8"
@@ -889,7 +873,47 @@
       "url": "https://open.spotify.com/track/6q5Bx8Jm9yZC7tmI3leDOi"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
+      "album": {
+        "name": "Boj\u0119 Si\u0119 Kocha\u0107",
+        "url": "https://open.spotify.com/album/2SwEmJJ6Ya4gFWxbSWAwZz"
+      },
+      "artists": [
+        {
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Boj\u0119 Si\u0119 Kocha\u0107",
+      "url": "https://open.spotify.com/track/00Nl9PlaLr0g4ujpWosQuH"
+    },
+    {
+      "added_at": "2022-05-13 11:54:25",
+      "album": {
+        "name": "UCZTA",
+        "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Artur Rojek",
+          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
+        }
+      ],
+      "duration_ms": 288820,
+      "name": "T\u0119skni\u0119 sobie",
+      "url": "https://open.spotify.com/track/17Tx4usaccaAWCFGGa3EQf"
+    },
+    {
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "UCZTA",
         "url": "https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz"
@@ -909,7 +933,7 @@
       "url": "https://open.spotify.com/track/281o5SXjmCOop5bkRh6tgu"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "amfisbena",
         "url": "https://open.spotify.com/album/3upcINUHzi2GNw8zXYMKz4"
@@ -929,7 +953,7 @@
       "url": "https://open.spotify.com/track/6BDfLF0GoHND77V6BvFeBo"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Hample",
         "url": "https://open.spotify.com/album/4EVJNFb0HA1qRH9SBqvZX1"
@@ -949,27 +973,7 @@
       "url": "https://open.spotify.com/track/5Ci4cvMBSaCbrn5N531Ubz"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
-      "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/5KTECkRYK4aszlnSqb6V8S"
-      },
-      "artists": [
-        {
-          "name": "PlanBe",
-          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
-        },
-        {
-          "name": "Sir Mich",
-          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
-        }
-      ],
-      "duration_ms": 141972,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/5zq97EBupOTN1XOPX5ukRJ"
-    },
-    {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
         "url": "https://open.spotify.com/album/01018kIpMNDTe0WrYornLN"
@@ -997,23 +1001,27 @@
       "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
-        "name": "WCHJ",
-        "url": "https://open.spotify.com/album/2UFQSYJVmAmD5Syj4urJ32"
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/5KTECkRYK4aszlnSqb6V8S"
       },
       "artists": [
         {
-          "name": "Kinny Zimmer",
-          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+          "name": "PlanBe",
+          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
+        },
+        {
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
         }
       ],
-      "duration_ms": 118932,
-      "name": "WCHJ",
-      "url": "https://open.spotify.com/track/6p2Uq2RXAhIrNR9XUgFxtI"
+      "duration_ms": 141972,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/5zq97EBupOTN1XOPX5ukRJ"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Pu\u0142apka Na Motyle (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6dJDSE3TIoXf8Xwaisq4Nj"
@@ -1033,23 +1041,23 @@
       "url": "https://open.spotify.com/track/6sKg6jzvmiNAVsJRl8MaDE"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
-        "name": "SKUTE BOBO",
-        "url": "https://open.spotify.com/album/3IaygxcowZy7jtWItPO3FG"
+        "name": "WCHJ",
+        "url": "https://open.spotify.com/album/2UFQSYJVmAmD5Syj4urJ32"
       },
       "artists": [
         {
-          "name": "SKUTE BOBO",
-          "url": "https://open.spotify.com/artist/1vQskqJ0T1gttXzjpcPff3"
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
         }
       ],
-      "duration_ms": 188566,
-      "name": "SKUTE BOBO",
-      "url": "https://open.spotify.com/track/4dOkS135hpWHeSP0GSmHb4"
+      "duration_ms": 118932,
+      "name": "WCHJ",
+      "url": "https://open.spotify.com/track/6p2Uq2RXAhIrNR9XUgFxtI"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/1eu8Sv101QfNFmDyCIi1UV"
@@ -1069,7 +1077,7 @@
       "url": "https://open.spotify.com/track/3205ZtwMnzMBtr7GQZ1IbH"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -1097,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-05-12 20:14:19",
+      "added_at": "2022-05-13 11:54:25",
       "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"

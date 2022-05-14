@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-121 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
+122 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/2kOfObsqJHrydWvhKCs7U9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-04-15 | 2022-05-11 |
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-05-03 | 2022-05-11 |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/6ioupaJ387IxHQC9RSHMar) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Ziko](https://open.spotify.com/artist/5kjMVFyYkyNXhGccnycCka) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6sgKeauEUQCd6fJLCHcgs7) | 3:14 | 2022-05-07 |  |
-| [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2022-05-07 |  |
+| [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2022-05-07 | 2022-05-14 |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-05-10 |  |
 | [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 | 2022-05-10 |  |
 | [COMO UN G](https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:22 | 2022-04-15 | 2022-04-27 |
@@ -66,6 +66,7 @@
 | [Mama, Mamá \- Live](https://open.spotify.com/track/4ZLzNRSDGs92UMTbVCuFCQ) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros En Vivo En El Teatro Colon](https://open.spotify.com/album/5c5rnMWFpAT7DBJqmMRa4H) | 4:20 | 2022-05-10 |  |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-04-15 | 2022-04-27 |
 | [MBG](https://open.spotify.com/track/3OZJOxPjhoB01opaziStI4) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [MBG](https://open.spotify.com/album/3wmxGr5NfJsmU3wlWSyIAz) | 3:57 | 2022-04-19 | 2022-05-04 |
+| [MDQ](https://open.spotify.com/track/7BnOrBSeERWDwFC6X4hfRo) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R) | [MDQ](https://open.spotify.com/album/7tvUvETaX1cR3vcqpPXf9b) | 2:40 | 2022-05-13 |  |
 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 | 2022-04-26 |  |
 | [MEMORIAS](https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:48 | 2022-04-26 | 2022-05-03 |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-05-10 |  |

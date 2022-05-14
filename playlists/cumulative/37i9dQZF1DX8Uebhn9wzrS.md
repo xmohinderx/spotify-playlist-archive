@@ -4,7 +4,7 @@
 
 > The perfect study beats, twenty four seven.
 
-536 songs - 20 hr 38 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
+539 songs - 20 hr 46 min - [published](https://open.spotify.com/playlist/05WUoAWSG9yTmOfwVBt84B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Forty Winks](https://open.spotify.com/track/6ziC95AXSfHpzieMwruS2P) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX) | [Forty Winks](https://open.spotify.com/album/3HVV3I4Z82zV6CJRIQ8h33) | 3:25 | 2022-05-13 |  |
 | [Found it hard](https://open.spotify.com/track/2AzFlRHnk47ucORREL1igj) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [You Can´t See](https://open.spotify.com/album/6jTus5QZtP1MjvsChDmtBJ) | 1:49 | 2022-04-15 |  |
 | [Free Trees](https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Free Trees](https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z) | 2:30 | 2022-04-15 |  |
+| [fresh brew](https://open.spotify.com/track/0c2OGxZ5mUitYu0nClQBIW) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [fresh brew](https://open.spotify.com/album/2T1cSabDmh0KMDkZCGvo1S) | 2:13 | 2022-05-13 |  |
 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Lack Sho](https://open.spotify.com/artist/5MpqGukBLHUlsEb996s3m1) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 | 2022-04-15 |  |
 | [Frontal Lowb](https://open.spotify.com/track/0Jk9oGAWM9hh9CU8YBtAr7) | [Zack Zhu](https://open.spotify.com/artist/6MRw1mgKzI22Yjlcu2Fzea) | [Frontal Lowb](https://open.spotify.com/album/2f5GnE9LdGgvKhAPTE6bxC) | 2:01 | 2022-04-15 |  |
 | [Frozen Trees](https://open.spotify.com/track/5FkZ9xAb6k2XfHrR1zjnee) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [Frozen Trees](https://open.spotify.com/album/5Vj6vsFcWunXh1CbRZbtlQ) | 2:09 | 2022-04-15 |  |
@@ -248,6 +249,7 @@
 | [Interrupt](https://open.spotify.com/track/4yCfAzDbOFFc5Wd54vIaV6) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Interrupt](https://open.spotify.com/album/3maY7Y2WbVcFWHTWkeEqki) | 1:33 | 2022-05-13 |  |
 | [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-05-04 |  |
 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 | 2022-04-15 |  |
+| [Jade's Secret Kiss](https://open.spotify.com/track/6lDRRT21hm8qFOJTbjIW5d) | [Chamon](https://open.spotify.com/artist/5ZXTpRkYKYsDA2wXfIXSYH) | [Jade's Secret Kiss](https://open.spotify.com/album/5XkhIIVGYtMyFaVA3ZNX6i) | 3:14 | 2022-05-13 |  |
 | [Jamster Clause](https://open.spotify.com/track/2UJHwp0RykrCU2mhKQNhNf) | [Mauro Itzhak](https://open.spotify.com/artist/4ABZDpqLJ4IKly9Vx8sr9i) | [Big City Music](https://open.spotify.com/album/6eu3s8wTiugTQjXeuH4r7S) | 1:46 | 2022-04-15 |  |
 | [Jatoba](https://open.spotify.com/track/23YwIqf1aZd62i9Cr1PwT9) | [MagFi](https://open.spotify.com/artist/7cP4a4wJ4c2u9zTEi7g8xs), [David Armann](https://open.spotify.com/artist/3SICpa7mqqcHvQZDLxhSYV) | [Jatoba](https://open.spotify.com/album/3wH2JMVBtpzG6PQFSabex0) | 2:40 | 2022-05-13 |  |
 | [Jericho Sun](https://open.spotify.com/track/4pDDvReURWfRQMrM0vSZXi) | [Neil Fonda](https://open.spotify.com/artist/5H1cu70jIQPO4nP9bjlKhp) | [Jericho Sun](https://open.spotify.com/album/5HgpaEHSoNk9HFFhMCqlH7) | 1:56 | 2022-04-15 |  |
@@ -442,6 +444,7 @@
 | [space face](https://open.spotify.com/track/2L2prbkuTB1daVBjXpDJky) | [BLUZ](https://open.spotify.com/artist/06ow8Ho922rQbv6QRn4AIp) | [space face](https://open.spotify.com/album/6ToJMfNvrfip3xW3JjKnzW) | 1:57 | 2022-04-15 |  |
 | [Spaced](https://open.spotify.com/track/24j5X1HoQGjZBSOrqKixDA) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Spaced](https://open.spotify.com/album/6cgxglNfCLIyqkTNjiB34l) | 2:35 | 2022-04-15 |  |
 | [Special Juice](https://open.spotify.com/track/5m4bEYyJh1G7TxlWYBDx31) | [Wally Woo](https://open.spotify.com/artist/3XVKC5nfhl73bqsvMz9coN) | [Special Juice](https://open.spotify.com/album/16VeFUhnt3jgHG8zVNvuK7) | 2:16 | 2022-04-15 |  |
+| [Spit of the Self](https://open.spotify.com/track/51ypw9dEOdHg7sGaW4wEGo) | [Max Theissen](https://open.spotify.com/artist/1OLPbpAEjeBwZ7Ndtn8QCg) | [Accusation with Criticise](https://open.spotify.com/album/3dZFHJ3UXBuLT9txlBYdXL) | 1:46 | 2022-05-13 |  |
 | [Spot On](https://open.spotify.com/track/5pdUXzjkQieWlTXfrTl1E6) | [DJ Derelict](https://open.spotify.com/artist/6PNQOoYRp29weY01VojtOd) | [Spot On](https://open.spotify.com/album/1FCPJmUrToX6ewX1plhk4P) | 2:04 | 2022-04-15 |  |
 | [Spring Lovers](https://open.spotify.com/track/32HzGTnuDjLjyQuwrN530Y) | [Davide Perico](https://open.spotify.com/artist/2HieRZlSa2pQdRBWVN5CqT), [Yoshimitsu4432](https://open.spotify.com/artist/5PZuA5drLPCsRKsVldf7Th) | [Spring Lovers](https://open.spotify.com/album/7uoUO2tuWNyi0hWebcIltV) | 2:05 | 2022-04-15 |  |
 | [Springy](https://open.spotify.com/track/6UY5JTrwgI5ID9ddc3DdgB) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [Springy](https://open.spotify.com/album/1r1R6osLbyOEkwyyh8ZgTp) | 2:14 | 2022-04-15 |  |

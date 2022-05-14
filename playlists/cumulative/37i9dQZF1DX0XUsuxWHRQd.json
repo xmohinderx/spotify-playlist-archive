@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Jack Harlow and A$AP Rocky.",
+  "description": "New music from Kendrick Lamar, Post Malone and DaBaby.",
   "name": "RapCaviar",
   "published_playlist_ids": [
     "5P8tKmuueRelbQ17C8xRQo"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 215509,
       "name": "A.D.H.D",
       "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 186538,
       "name": "AHHH HA",
       "url": "https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp"
@@ -3238,6 +3238,28 @@
     },
     {
       "album": {
+        "name": "BONNET (feat. Pooh Shiesty)",
+        "url": "https://open.spotify.com/album/0ESXSTdLj8PYD4t5JMTDmJ"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170254,
+      "name": "BONNET (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/6yiKdWLeX8pgmEHzClUEXn"
+    },
+    {
+      "album": {
         "name": "BOOK IT",
         "url": "https://open.spotify.com/album/6kCa9uynMi12KSRDVtf93T"
       },
@@ -4599,7 +4621,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 199500,
       "name": "Come On, Let's Go (with Nigo)",
       "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
@@ -4753,6 +4775,28 @@
       "duration_ms": 197000,
       "name": "COOLER THAN A BITCH (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/5LHHKZOwV8XW4LJP2C64mw"
+    },
+    {
+      "album": {
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
       "album": {
@@ -9021,7 +9065,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 180869,
       "name": "Head Off",
       "url": "https://open.spotify.com/track/4CJbchKHZEboLnqQqPszoN"
@@ -11267,7 +11311,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 141933,
       "name": "Krazy Krazy",
       "url": "https://open.spotify.com/track/6ZjP85QdIaiTojLrKixvbT"
@@ -13543,7 +13587,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
@@ -14007,6 +14051,24 @@
       "duration_ms": 224954,
       "name": "Myron",
       "url": "https://open.spotify.com/track/56uXDJRCuoS7abX3SkzHKQ"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
       "album": {
@@ -18698,6 +18760,32 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt"
+    },
+    {
+      "album": {
         "name": "Scared Money",
         "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
       },
@@ -19449,6 +19537,28 @@
       "duration_ms": 148075,
       "name": "Side",
       "url": "https://open.spotify.com/track/0IwHGIyDy3GFw7TFfRQ3lP"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
     },
     {
       "album": {
@@ -21925,7 +22035,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 332362,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
@@ -25049,6 +25159,28 @@
       "duration_ms": 123480,
       "name": "Whoopty",
       "url": "https://open.spotify.com/track/1RSzyxqtIO4yX3EyiV4zT5"
+    },
+    {
+      "album": {
+        "name": "WIG (with Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/5tZ8u9BGc4sSOlwWYsAWPB"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177986,
+      "name": "WIG (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3BN9oswkyJlCRzCQt1Gqug"
     },
     {
       "album": {

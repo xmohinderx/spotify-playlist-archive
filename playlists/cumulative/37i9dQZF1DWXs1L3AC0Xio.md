@@ -2,9 +2,9 @@
 
 ### [Rock Ballads](https://open.spotify.com/playlist/37i9dQZF1DWXs1L3AC0Xio)
 
-> Chill out with these awesome rock ballads\. Cover: <a href="spotify:artist:6Wr3hh341P84m3EI8qdn9O">Rise Against</a>
+> lighters up for these awesome rock ballads.
 
-102 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5gPCFlQOL7ecJxKUUBWnZX)
+105 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/5gPCFlQOL7ecJxKUUBWnZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Last Stand](https://open.spotify.com/track/27TPpj59ml6N7las1h696d) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Adelitas Way](https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC) | 3:44 | 2021-06-03 |  |
 | [let go of your love](https://open.spotify.com/track/1ehMNecFGwZu0tmCImU473) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [let go of your love](https://open.spotify.com/album/0Y2gHxgmQQbkgJVYSMph9m) | 3:24 | 2021-06-03 |  |
 | [Life Is Beautiful 2017](https://open.spotify.com/track/2Et49kpeirx87RIqwJ9Hdj) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Life Is Beautiful 2017](https://open.spotify.com/album/0l9cMT1BVOnqrgsYFRFvrr) | 4:30 | 2021-06-03 |  |
+| [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 | 2022-05-13 |  |
 | [Lips Of An Angel](https://open.spotify.com/track/40LQiUUUKXVGyNs09lHVjW) | [Hinder](https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY) | [Extreme Behavior](https://open.spotify.com/album/2SmDuZSWtjukp9gkG2mcBQ) | 4:21 | 2021-06-03 |  |
 | [Lost In You](https://open.spotify.com/track/5DILybiCczVw6JlBOMCJig) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Lost In You](https://open.spotify.com/album/5z5QTuaGtN3naTEgtnXOlx) | 4:17 | 2021-06-03 |  |
 | [Love Falls](https://open.spotify.com/track/4fFx9gzhfhSNu71e4tveEN) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [UNDEN!ABLE](https://open.spotify.com/album/5H9cH0ZFEwiJQFPCXiXzxd) | 4:34 | 2021-06-03 |  |
@@ -78,12 +79,13 @@
 | [Prayers For The Damned](https://open.spotify.com/track/5d9MTgwOIsiGObIv783pgu) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers For The Damned](https://open.spotify.com/album/0edyfDPU6zQlva185r9gRS) | 4:39 | 2021-06-03 |  |
 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 | 2021-06-03 |  |
 | [Quiet Now](https://open.spotify.com/track/4PWE82Z8kiEmj56TtXvBVI) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [The Things We Can't Stop](https://open.spotify.com/album/0pbyZHw52Ima2F8wxHPTd1) | 4:14 | 2021-06-03 |  |
+| [Raise Your Horns](https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:18 | 2022-05-13 |  |
 | [Re\-arrange](https://open.spotify.com/track/6iv3Fclf4l11hQGYs8KbGc) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis](https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo) | 3:37 | 2021-06-03 | 2022-05-11 |
 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 | 2021-06-03 |  |
 | [Roman Sky](https://open.spotify.com/track/1cS6bhx9h565rLO0HuDtgu) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd) | 5:00 | 2021-06-03 |  |
 | [Rx \(Medicate\)](https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Rx \(Medicate\)](https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF) | 3:53 | 2021-06-03 |  |
 | [Silence](https://open.spotify.com/track/7tm6kZFYu4hIaxFkw1RZj8) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Silence](https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl) | 5:37 | 2021-06-03 |  |
-| [Something In The Way](https://open.spotify.com/track/1UHoHmHWdu0EX557Oqoq2P) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo) | 3:52 | 2021-06-03 |  |
+| [Something In The Way](https://open.spotify.com/track/1UHoHmHWdu0EX557Oqoq2P) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo) | 3:52 | 2021-06-03 | 2022-05-14 |
 | [Sorry](https://open.spotify.com/track/7qpDqr5TxcTlOHG0k7moGt) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/0jJsG6B5PqmOMEKpuCg5ru) | 3:46 | 2021-06-03 |  |
 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 | 2021-06-03 |  |
 | [St\. Marie](https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:27 | 2021-06-03 |  |
@@ -92,6 +94,7 @@
 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 | 2021-06-03 |  |
 | [The Blue, The Green](https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:36 | 2021-06-03 |  |
 | [The Fighter](https://open.spotify.com/track/54sEj5GIx2EW78nRDyC58R) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Black Widow](https://open.spotify.com/album/7jMxSZ332lLfENKNEFAd9P) | 4:52 | 2021-06-03 |  |
+| [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 | 2022-05-13 |  |
 | [The Reason](https://open.spotify.com/track/58AwxWLaRHn2lTqqH9dLkU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Best Of](https://open.spotify.com/album/6471rrLPKqZgXQ6TqN5AgU) | 3:52 | 2021-06-03 |  |
 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 | 2021-06-03 |  |
 | [The Unknown](https://open.spotify.com/track/7Eg9qnJK7hI7LLoRsbvH2X) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 2:59 | 2021-06-03 |  |
@@ -99,7 +102,7 @@
 | [Things Happen](https://open.spotify.com/track/4BwH8CqZkep7evUpHbAvEm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/6ElM03eht4CjA1tuy5bZZQ) | 4:03 | 2021-06-03 | 2022-05-09 |
 | [Things My Father Said](https://open.spotify.com/track/2ZceU5sfgcH5h7bIsFuuXT) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Folklore and Superstition](https://open.spotify.com/album/43qxerasfPdTnMQbXX6TVb) | 3:53 | 2021-06-03 |  |
 | [Til Kingdom Come](https://open.spotify.com/track/164EnZMFkzwI02U78jSzvW) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/1yti3dRHxGWTNwfHbIGgJk) | 5:39 | 2021-06-03 |  |
-| [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 | 2021-06-03 |  |
+| [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 | 2021-06-03 | 2022-05-14 |
 | [Wake Up](https://open.spotify.com/track/2tUhCTpGeEfssyYTeu0chm) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness](https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN) | 3:35 | 2021-06-03 |  |
 | [Wake Up Call](https://open.spotify.com/track/2CpMHblH2jRF9NqtaW8MKZ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/7nHxsx6b9qjTRohhPW5aCY) | 3:55 | 2021-06-03 |  |
 | [Wasted Years](https://open.spotify.com/track/2JG2OmmwZ5x2RkX0uR5w4k) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr) | 4:07 | 2021-06-03 |  |
@@ -108,7 +111,7 @@
 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 | 2021-06-03 |  |
 | [With Arms Wide Open](https://open.spotify.com/track/0eKyHwckh9vQb8ncZ2DXCs) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 4:34 | 2021-06-03 |  |
 | [You](https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy) | 3:32 | 2021-06-03 |  |
-| [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 | 2022-04-01 |  |
+| [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 | 2022-04-01 | 2022-05-14 |
 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 | 2021-06-03 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

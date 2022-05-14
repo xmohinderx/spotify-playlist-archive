@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "David",
       "url": "https://open.spotify.com/track/3KLJJbSoUOySl6A1FSnGA8"
@@ -1060,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301613,
+      "name": "Slow And Steady",
+      "url": "https://open.spotify.com/track/3raHUAfQyQ7Gv8yK62AVhV"
+    },
+    {
+      "album": {
         "name": "Smoke + Mirrors (Deluxe)",
         "url": "https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW"
       },
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202333,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 269573,
       "name": "Wild Sun",
       "url": "https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG"

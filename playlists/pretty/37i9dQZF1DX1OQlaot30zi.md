@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Capo Plaza, Shiva, thaSupreme, Gemitaiz e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Capo Plaza, Shiva, tha Supreme, Gemitaiz e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,570 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,689 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [In Bilico Coi Piedi Nel Po'](https://open.spotify.com/track/0CqWIR10NXgO211ixGmsrX) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI) | [In Bilico Coi Piedi Nel Po'](https://open.spotify.com/album/2KzHHICVUXetJdiS7eW3aU) | 2:26 |
 | 80 | [Sparami \(feat\. Inoki\)](https://open.spotify.com/track/4EPXHRT5x0TVctWWJ7RbHQ) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Sparami \(feat\. Inoki\)](https://open.spotify.com/album/0BAQ3TAYXH3ehu2wSDv4OJ) | 3:13 |
 
-Snapshot ID: `MTY1MjM5NjQ2MCwwMDAwMDEyMzAwMDAwMTgwYmE4MTA4NDIwMDAwMDE4MGI3ZWIzN2Jl`
+Snapshot ID: `MTY1MjQyOTYxMywwMDAwMDEyNDAwMDAwMTgwYmM3YWU4MmYwMDAwMDE4MGI3ZWIzN2Jl`

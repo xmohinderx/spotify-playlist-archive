@@ -4,12 +4,13 @@
 
 > Il meglio dell'R&B italiano\. Cover: Bais
 
-77 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+78 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Accussì](https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Accussì](https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi) | 3:09 | 2022-05-05 |  |
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-05-05 |  |
+| [Bad Habits](https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0) | [Bianca Ventura](https://open.spotify.com/artist/5WTGO25DQgKOWnQtSvoNbR) | [Bad Habits](https://open.spotify.com/album/3ZfBvSBao0yS0MDU2vCOyZ) | 3:03 | 2022-05-12 |  |
 | [balliamo](https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz) | [balliamo](https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH) | 2:49 | 2022-05-05 |  |
 | [Birthday](https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Birthday](https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi) | 2:13 | 2022-05-05 |  |
 | [Bitter](https://open.spotify.com/track/2V8r2YxPjZTCpfkDvSGcjQ) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [Bitter](https://open.spotify.com/album/1o3kKZNiluPkE0UIDkpWvn) | 2:52 | 2022-05-05 |  |

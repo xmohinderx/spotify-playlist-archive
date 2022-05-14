@@ -6588,6 +6588,24 @@
     },
     {
       "album": {
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/6fPTR2SNjkMbbTSwKf1yYh"
+      },
+      "artists": [
+        {
+          "name": "AfroNerd",
+          "url": "https://open.spotify.com/artist/6SrgBbRgwhj5g0o2dzi0tD"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388995,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/3gBk6DOpyxHyK6sMOvBSyk"
+    },
+    {
+      "album": {
         "name": "Turn Your Life Around",
         "url": "https://open.spotify.com/album/2Kz0MBeHWIjOq8ZecXANoo"
       },

@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Adobe",
+        "url": "https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148853,
+      "name": "Big Bend",
+      "url": "https://open.spotify.com/track/6Da34y67KXjJRMtT37iSBz"
+    },
+    {
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/5WB4gBdiDMMGjqoQqZWj6S"
       },
@@ -279,6 +297,28 @@
       "duration_ms": 266013,
       "name": "Bubba Jones",
       "url": "https://open.spotify.com/track/6jHTm5o5LTTM3Csm7G5EZH"
+    },
+    {
+      "album": {
+        "name": "Hollywood Blues: Songs and Stories from the Family Tree (1997-2022)",
+        "url": "https://open.spotify.com/album/7LE2GFTq1Smdeezt2eTAcx"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        },
+        {
+          "name": "Matthew Sweet",
+          "url": "https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155846,
+      "name": "Burned (2022 Remaster)",
+      "url": "https://open.spotify.com/track/3RvsARgXxO6AAgZ4lF5lZK"
     },
     {
       "album": {
@@ -2443,6 +2483,24 @@
       "duration_ms": 274573,
       "name": "Whiskey & Wonder",
       "url": "https://open.spotify.com/track/4TlOVtxbJpd9XTwjuVLHeM"
+    },
+    {
+      "album": {
+        "name": "Why Do I Cry Anymore",
+        "url": "https://open.spotify.com/album/5hldzbhEFzLqeT2WATFsZS"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208362,
+      "name": "Why Do I Cry Anymore",
+      "url": "https://open.spotify.com/track/3gEHy9sxwFdv2dDXc8WB7P"
     },
     {
       "album": {

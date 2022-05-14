@@ -1584,6 +1584,24 @@
     },
     {
       "album": {
+        "name": "Boot",
+        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197637,
+      "name": "Boot",
+      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
+    },
+    {
+      "album": {
         "name": "Bootje",
         "url": "https://open.spotify.com/album/0AIRKSy7OjwVT1UJ5j3ctW"
       },
@@ -10869,7 +10887,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 332362,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"

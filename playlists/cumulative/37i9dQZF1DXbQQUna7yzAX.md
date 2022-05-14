@@ -4,7 +4,7 @@
 
 > Grunge is still alive and kicking!
 
-107 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
+108 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [E.T.](https://open.spotify.com/track/7Mqa52vTG5WUgU3BUylWQH) | [Healing](https://open.spotify.com/artist/1oFMAPEoTCmYdcBBBwAxs0) | [E.T.](https://open.spotify.com/album/78jDVR6hftI7J0oSv6qlZd) | 3:47 | 2022-01-06 |  |
 | [Eczema](https://open.spotify.com/track/5ae3kkgIeEGqojcppQS4Ow) | [Laurel Canyon](https://open.spotify.com/artist/3HDfNJoqhHRTEhaU1rzFL6) | [Eczema](https://open.spotify.com/album/6f1ed0fzcpWDJpA3S8JygG) | 4:26 | 2021-12-17 |  |
 | [Exile](https://open.spotify.com/track/59YHz0UuB86WYag5533ay8) | [The Post War](https://open.spotify.com/artist/4ofDiFRQz0rN8FPm6T0ozM) | [Exile](https://open.spotify.com/album/72K42nE0kyavHMBPQucnja) | 4:24 | 2022-02-17 |  |
+| [Falling Up](https://open.spotify.com/track/0emiAPtXtYjoVZy4D1MdP6) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Falling Up](https://open.spotify.com/album/4hZwQBkiRq3ZeJq4oSkK6Z) | 2:05 | 2022-05-12 |  |
 | [feel](https://open.spotify.com/track/7K3DoPyULS5uCKo2wH9stk) | [RADICALS](https://open.spotify.com/artist/3OXXG1ZWgcT4pVtHqt0MDy) | [feel](https://open.spotify.com/album/4WArkLIZ0R06bVtf2s6Bca) | 3:45 | 2022-03-31 |  |
 | [Feel Pain](https://open.spotify.com/track/4yk52xaPJ5UrTF3pZczFYl) | [Prince of Lilies](https://open.spotify.com/artist/3ml5rBwM6KDhpt13d2WGa5) | [Feel Pain](https://open.spotify.com/album/2XsWaAZYxn9K21tkfAhrUZ) | 3:57 | 2022-02-24 | 2022-04-01 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2021-12-17 | 2022-01-14 |

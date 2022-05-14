@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: James Johnston
 
-133 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+134 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-12-30 | 2022-04-15 |
 | [Y'all Means All \- from Season 6 of Queer Eye](https://open.spotify.com/track/0gWFFtKm8PaAJdpkajFlD1) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Y'all Means All \(from Season 6 of Queer Eye\)](https://open.spotify.com/album/5erJBPynDfaVs7es8K1kJ9) | 2:36 | 2021-12-30 |  |
 | [you and i](https://open.spotify.com/track/3jON45G4VACuJLaTrxyo24) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [you and i](https://open.spotify.com/album/0C9jaTxfUQQBlMLBG4XD4E) | 3:26 | 2022-04-07 |  |
+| [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2022-05-12 |  |
 | [Young Lovers](https://open.spotify.com/track/1bTL636ZejLR9VEgaLHMOU) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [Young Lovers](https://open.spotify.com/album/4pPOeH8ptXvDiLLohk0c5C) | 3:38 | 2022-04-07 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

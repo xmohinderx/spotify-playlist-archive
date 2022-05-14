@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water\. Featuring Conner Smith, MacKenzie Porter, Kidd G and Alana Springsteen.
 
-157 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
+159 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/1enjzQYx2hiQY75SBG1ZRA) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/2qBgcC78cFhIr90ZxJyVmw) | 2:48 | 2021-06-18 |  |
 | [Beach Ain't One](https://open.spotify.com/track/0iqYoKISMUycYQ5BBSmSoj) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Beach Ain't One](https://open.spotify.com/album/5AlIKimeHvRui9N0LUXPuy) | 2:50 | 2021-06-18 |  |
 | [Beach Boys](https://open.spotify.com/track/2ZuWXOOVsHFQodtdDo4WJq) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Woods & Water \- EP](https://open.spotify.com/album/6L1RBNcPOCMzd1ci4T0R5F) | 3:00 | 2021-11-05 |  |
+| [Beach Boys \(feat\. Mike Love & Bruce Johnston\)](https://open.spotify.com/track/3oxOe0e2fDhLoblIAxWa1o) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU), [Mike Love](https://open.spotify.com/artist/7lIlJTlWaSIBTMJxpIvd8f) | [Beach Boys \(feat\. Mike Love & Bruce Johnston\)](https://open.spotify.com/album/3r8lnwwavbBwzIo4nGassa) | 3:03 | 2022-05-13 |  |
 | [Beach Cowboy](https://open.spotify.com/track/0hYyHSuIKAvSdv1MwUkojC) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [BK's Wave Pack](https://open.spotify.com/album/3ZKMRbC3bBCROaFaA0E2M6) | 2:17 | 2021-06-18 |  |
 | [Beachin'](https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Days of Gold](https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp) | 3:11 | 2021-06-18 |  |
 | [Beat of the Music](https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Bring You Back](https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT) | 2:59 | 2021-10-15 |  |
@@ -77,6 +78,7 @@
 | [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 | 2022-04-08 |  |
 | [I Hate Alabama](https://open.spotify.com/track/2j0rISwZE6tichIrU5SZ78) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [I Hate Alabama](https://open.spotify.com/album/2bCz5dI9f3wy25himhvKiL) | 3:33 | 2022-04-08 |  |
 | [I Was On a Boat That Day](https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Was On a Boat That Day](https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J) | 2:58 | 2021-06-18 |  |
+| [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 | 2022-05-13 |  |
 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2022-03-18 |  |
 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 | 2021-06-18 |  |
 | [It's Five O'Clock Somewhere](https://open.spotify.com/track/4MsL8usISbBWiuBI6nfLwO) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [The Very Best Of](https://open.spotify.com/album/6JmmvXhhPAkZGaIwfifc5H) | 3:49 | 2021-06-18 |  |

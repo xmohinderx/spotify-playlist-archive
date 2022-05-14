@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 163928,
       "name": "Chama no Privado - Ao Vivo",
       "url": "https://open.spotify.com/track/2KSZYTNXPjNJG4V6o3fD6z"
@@ -663,10 +663,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 134778,
       "name": "Double Cup",
       "url": "https://open.spotify.com/track/0dhgi3YzxKhna7AnQDEou7"
+    },
+    {
+      "album": {
+        "name": "Dubl\u00ea de Marido",
+        "url": "https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Dubl\u00ea de Marido",
+      "url": "https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg"
     },
     {
       "album": {
@@ -927,6 +949,28 @@
       "duration_ms": 137872,
       "name": "Google da Minha Vida",
       "url": "https://open.spotify.com/track/456hS1uLvaApIdoMyqg9e4"
+    },
+    {
+      "album": {
+        "name": "Gostosinho Tu Cai",
+        "url": "https://open.spotify.com/album/03YfAkvJjMXlA0T5I7vLMX"
+      },
+      "artists": [
+        {
+          "name": "Mc Pepeu",
+          "url": "https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G"
+        },
+        {
+          "name": "DJ Swat",
+          "url": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "Gostosinho Tu Cai",
+      "url": "https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O"
     },
     {
       "album": {
@@ -1516,6 +1560,28 @@
     },
     {
       "album": {
+        "name": "Posturada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/51llvmVtkWl0frJYq2vvjz"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214783,
+      "name": "Posturada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7EaVareROxLwkLAsQ5iqrt"
+    },
+    {
+      "album": {
         "name": "Predominante",
         "url": "https://open.spotify.com/album/3jjXcmqk0eMLnKTHI5KpF8"
       },
@@ -1657,7 +1723,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 195428,
       "name": "Ruas Perigosas",
       "url": "https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds"
@@ -1841,6 +1907,10 @@
         {
           "name": "Xam\u00e3",
           "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
       "date_added": "2022-04-01",

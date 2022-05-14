@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-163 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
+165 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 | 2022-04-08 |  |
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-08 |  |
 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 | 2022-04-08 |  |
+| [future retro](https://open.spotify.com/track/4W0VbKOx9nIMl822qQHef1) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [future retro](https://open.spotify.com/album/3mJhmdDs83sGZfpr9pYpgN) | 2:01 | 2022-05-13 |  |
 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 | 2022-04-08 |  |
 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 | 2022-04-08 |  |
 | [Golden Vibe](https://open.spotify.com/track/5e0wGPEIDVmhPMYFkzzDkn) | [Beatnugget](https://open.spotify.com/artist/2B8sGSf7Jr54GidHeizE8E) | [Golden Vibe](https://open.spotify.com/album/22ZsrLpobwUNTUfWCRAl0Q) | 2:42 | 2022-04-08 |  |
@@ -77,6 +78,7 @@
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-08 |  |
 | [Lettin' Up](https://open.spotify.com/track/0Xwcj8iBawlYwg53Fbu6BE) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [Lettin' Up](https://open.spotify.com/album/1bnlspm7vBj7MbIYuwgy2q) | 4:11 | 2022-04-08 | 2022-04-22 |
 | [Life Rent](https://open.spotify.com/track/7D4RkW53rmZIRnFKhBdaF3) | [BATNAM](https://open.spotify.com/artist/2zW3yK70VmT02XYabNI56m) | [Life Rent](https://open.spotify.com/album/0TcQceIRdrm8BvmhHQDCTS) | 2:01 | 2022-04-08 |  |
+| [Load Game \(Stardew Valley\)](https://open.spotify.com/track/35C8hj4I6JNY2nYbTrFrrc) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Load Game \(Stardew Valley\)](https://open.spotify.com/album/6amw5ydhWMZJ68Hnw5CmNd) | 2:27 | 2022-05-13 |  |
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-04-08 |  |
 | [Lookin' Up](https://open.spotify.com/track/2OQYBsPnQgpOOGQ11TKaE8) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Car Tunes, Vol\. 1](https://open.spotify.com/album/0tK9tBN5ffyjxyh7GUl3b0) | 1:26 | 2022-04-08 | 2022-04-22 |
 | [Love and Fear](https://open.spotify.com/track/2yZLrdAVKZXS6dhWtnheXw) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Love and Fear](https://open.spotify.com/album/1iGrF9KFH0z04I75umd88i) | 2:13 | 2022-04-08 |  |

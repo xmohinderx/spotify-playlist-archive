@@ -1,48 +1,28 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Doja Cat\n\n",
-  "num_followers": 2176204,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Megan Thee Stallion\n\n",
+  "num_followers": 2177585,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTYwMCwwMDAwMDQ5MDAwMDAwMTgwOTc4NjQyZWIwMDAwMDE4MDk2MjMwNDYz",
+  "snapshot_id": "MTY1MjQxNDU2NywwMDAwMDQ5MTAwMDAwMTgwYmI5NTU2MWQwMDAwMDE4MGI4ZTJkYjg3",
   "tracks": [
     {
-      "added_at": "2022-05-06 04:00:00",
+      "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2022-04-08 04:04:13",
-      "album": {
-        "name": "LONDON (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 250722,
-      "name": "LONDON (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+      "duration_ms": 163764,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
     },
     {
       "added_at": "2022-04-15 04:11:10",
@@ -59,42 +39,6 @@
       "duration_ms": 153000,
       "name": "It's Givin",
       "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Blick Blick",
-        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "Blick Blick (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
     },
     {
       "added_at": "2022-03-18 04:00:00",
@@ -131,6 +75,78 @@
       "duration_ms": 138293,
       "name": "Get Into It (Yuh)",
       "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Blick Blick",
+        "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "Blick Blick (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+    },
+    {
+      "added_at": "2022-04-08 04:04:13",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
+    {
+      "added_at": "2022-04-08 05:25:43",
+      "album": {
+        "name": "Treat Me",
+        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "Treat Me",
+      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2022-03-11 05:41:39",
@@ -175,6 +191,118 @@
       "duration_ms": 181665,
       "name": "Big Energy (feat. DJ Khaled) - Remix",
       "url": "https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G"
+    },
+    {
+      "added_at": "2022-05-13 04:02:47",
+      "album": {
+        "name": "Balance My Lows (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/1Ez46n26k39YixXE5N9Dyq"
+      },
+      "artists": [
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 127893,
+      "name": "Balance My Lows (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/1w4zc04CreWVxEmljzeykK"
+    },
+    {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
+        "name": "Sneaky Link Shemix",
+        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
+      },
+      "artists": [
+        {
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 98795,
+      "name": "Sneaky Link Shemix",
+      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
+    },
+    {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
+        "name": "Hard On A 304",
+        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 121269,
+      "name": "Feelin\u2019 Sexy",
+      "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Toot It Up (with Flo Milli)",
+        "url": "https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP"
+      },
+      "artists": [
+        {
+          "name": "Sally Sossa",
+          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Toot It Up (with Flo Milli)",
+      "url": "https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g"
+    },
+    {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
+        "name": "Hello (with Saucy Santana)",
+        "url": "https://open.spotify.com/album/5EnqzpQ9kXinG5Gs93urB9"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        },
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 168997,
+      "name": "Hello (with Saucy Santana)",
+      "url": "https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp"
+    },
+    {
+      "added_at": "2022-05-13 04:02:47",
+      "album": {
+        "name": "Shape Up",
+        "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 213613,
+      "name": "Carry Anne",
+      "url": "https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -225,150 +353,6 @@
       "url": "https://open.spotify.com/track/09zTVXUcPZvWhIERXChXep"
     },
     {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "Sneaky Link Shemix",
-        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
-      },
-      "artists": [
-        {
-          "name": "Kayla Nicole",
-          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
-        },
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        }
-      ],
-      "duration_ms": 98795,
-      "name": "Sneaky Link Shemix",
-      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "Hard On A 304",
-        "url": "https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 121269,
-      "name": "Feelin\u2019 Sexy",
-      "url": "https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC"
-    },
-    {
-      "added_at": "2022-04-08 05:25:43",
-      "album": {
-        "name": "Treat Me",
-        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "Treat Me",
-      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Toot It Up (with Flo Milli)",
-        "url": "https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP"
-      },
-      "artists": [
-        {
-          "name": "Sally Sossa",
-          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Toot It Up (with Flo Milli)",
-      "url": "https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "Hello (with Saucy Santana)",
-        "url": "https://open.spotify.com/album/5EnqzpQ9kXinG5Gs93urB9"
-      },
-      "artists": [
-        {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
-        },
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 168997,
-      "name": "Hello (with Saucy Santana)",
-      "url": "https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp"
-    },
-    {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Dancing Queen / Yasss Queen",
-        "url": "https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 193076,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Pop Out",
-        "url": "https://open.spotify.com/album/3IzNDkXpDYxSzoDVNXBSbs"
-      },
-      "artists": [
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Pop Out",
-      "url": "https://open.spotify.com/track/0ng1fmKrKCorqjmFtNneFm"
-    },
-    {
       "added_at": "2022-04-22 04:00:00",
       "album": {
         "name": "We Not Humping (Remix)",
@@ -387,22 +371,6 @@
       "duration_ms": 143325,
       "name": "We Not Humping - Remix",
       "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Gas Station",
-        "url": "https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Gas Station",
-      "url": "https://open.spotify.com/track/2TgbS4ZzDWdhxga5HImDJ7"
     },
     {
       "added_at": "2022-03-11 05:41:39",
@@ -833,22 +801,6 @@
       "url": "https://open.spotify.com/track/4GH6iowVcqBysygV2hbcH5"
     },
     {
-      "added_at": "2022-03-11 05:41:39",
-      "album": {
-        "name": "Cartier",
-        "url": "https://open.spotify.com/album/04CpXXZ8FRNJ5lipbTJDrs"
-      },
-      "artists": [
-        {
-          "name": "Melii",
-          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
-        }
-      ],
-      "duration_ms": 98218,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/002WDZVLY5EElAwSjXziVt"
-    },
-    {
       "added_at": "2022-04-08 04:04:13",
       "album": {
         "name": "Trendsetter",
@@ -869,6 +821,42 @@
       "url": "https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e"
     },
     {
+      "added_at": "2022-03-11 05:41:39",
+      "album": {
+        "name": "Wheelie (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Dancing Queen / Yasss Queen",
+        "url": "https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 193076,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV"
+    },
+    {
       "added_at": "2022-04-08 04:04:13",
       "album": {
         "name": "Crazy",
@@ -885,24 +873,36 @@
       "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
     },
     {
-      "added_at": "2022-04-15 04:11:10",
+      "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Eat (feat. Z-Ro)",
-        "url": "https://open.spotify.com/album/05bWcmoya1DMykuBkoXAu3"
+        "name": "Gas Station",
+        "url": "https://open.spotify.com/album/25TQQsMRr7E9CZQyANX2k1"
       },
       "artists": [
         {
-          "name": "Big Jade",
-          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
-        },
-        {
-          "name": "Z-Ro",
-          "url": "https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq"
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
         }
       ],
-      "duration_ms": 166473,
-      "name": "Eat (feat. Z-Ro)",
-      "url": "https://open.spotify.com/track/5uKVpF7HT4VMTLCj6QmrBU"
+      "duration_ms": 135773,
+      "name": "Gas Station",
+      "url": "https://open.spotify.com/track/2TgbS4ZzDWdhxga5HImDJ7"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Pop Out",
+        "url": "https://open.spotify.com/album/3IzNDkXpDYxSzoDVNXBSbs"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Pop Out",
+      "url": "https://open.spotify.com/track/0ng1fmKrKCorqjmFtNneFm"
     }
   ],
   "unique_name": "Feelin' Myself",

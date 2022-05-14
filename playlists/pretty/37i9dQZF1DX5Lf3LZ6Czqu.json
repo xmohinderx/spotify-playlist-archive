@@ -1,13 +1,29 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Paul Gilbert",
-  "num_followers": 92762,
+  "num_followers": 92800,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM5MDUyMCwwMDAwMDAyNjAwMDAwMTgwMDc1NjA3MTUwMDAwMDE3ZDk1ZTlhYmE4",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAyNzAwMDAwMTgwYmI5NDliNjEwMDAwMDE3ZDk1ZTlhYmE4",
   "tracks": [
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Pull The Trigger",
+        "url": "https://open.spotify.com/album/11EUokR6Jx7XQAZc9Mo7Pg"
+      },
+      "artists": [
+        {
+          "name": "Sergey Sershen",
+          "url": "https://open.spotify.com/artist/6Bt2KElruZAuMZpdPZlh9W"
+        }
+      ],
+      "duration_ms": 188224,
+      "name": "Pull The Trigger",
+      "url": "https://open.spotify.com/track/50YQPtM31mct7NOIBHALQr"
+    },
     {
       "added_at": "2022-04-01 04:02:00",
       "album": {

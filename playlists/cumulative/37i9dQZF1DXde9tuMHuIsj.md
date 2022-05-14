@@ -2,7 +2,7 @@
 
 ### [Trap Land](https://open.spotify.com/playlist/37i9dQZF1DXde9tuMHuIsj)
 
-> Lo mejor del Trap en Español\. The best of Latin Trap\. Cover: Kele, Bryant Myers, Darell
+> Lo mejor del Trap en Español\. The best of Latin Trap\. Cover: Marconi Impara
 
 123 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/2L5IOZWaqs1Gippl4LHDqU)
 
@@ -105,8 +105,8 @@
 | [Somos O No Somos](https://open.spotify.com/track/7B2Ys0dtRpVrGd3fliBGsu) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Somos O No Somos](https://open.spotify.com/album/33x35WmVHlcFK8C17Nhzpw) | 4:00 | 2022-05-03 |  |
 | [Standard](https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Standard](https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev) | 2:32 | 2022-04-15 |  |
 | [Stripper X](https://open.spotify.com/track/5UlAeEQEgkT8oVauCfbunJ) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Stripper X](https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM) | 2:40 | 2022-05-03 |  |
-| [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2022-05-03 |  |
-| [Super Gremlin \- El Diablo Mix](https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Super Gremlin \(El Diablo Mix\)](https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe) | 3:59 | 2022-03-18 | 2022-05-04 |
+| [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2022-05-03 | 2022-05-14 |
+| [Super Gremlin \- El Diablo Mix](https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Super Gremlin \(El Diablo Mix\)](https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe) | 3:59 | 2022-03-18 |  |
 | [Super Gremlin \- El Diablo Mix](https://open.spotify.com/track/7n3yVYDSlkZjEJ2kYMue2W) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Super Gremlin \(El Diablo Mix\)](https://open.spotify.com/album/32zbgvLRlhxbhlqBToS7or) | 3:59 | 2022-03-18 | 2022-04-06 |
 | [SUPREMO](https://open.spotify.com/track/06KcMBP9MDziqNUMbukHZo) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [SUPREMO](https://open.spotify.com/album/0B718jcmQwzQgGKRO6OOQL) | 3:18 | 2022-03-18 |  |
 | [Ta To Saldo](https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Living Life](https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl) | 3:54 | 2022-03-18 |  |

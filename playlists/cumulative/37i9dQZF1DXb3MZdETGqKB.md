@@ -2,9 +2,9 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: Fantastic Negrito
+> All new, all blues\. Cover: G\. Love
 
-115 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+116 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Kind Hearted Woman](https://open.spotify.com/track/2BUMJVgm9JM80VyYKkRzQK) | [Robert J Hunter](https://open.spotify.com/artist/4SFHUtqBqmczfK36THRllG) | [Nothing but Rust](https://open.spotify.com/album/0t4YmNYcOPAddk0G6RKr68) | 4:17 | 2021-07-26 |  |
 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 | 2021-02-05 | 2022-03-26 |
 | [Lately](https://open.spotify.com/track/4aLryRkYDCLq97mCoMYh3F) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Lately](https://open.spotify.com/album/135oWAJuXcsks6KD3lWox5) | 3:00 | 2021-07-02 |  |
+| [Laughing in the Sunshine](https://open.spotify.com/track/4TYwijXp1eODPgVSIiMfTp) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Laughing in the Sunshine](https://open.spotify.com/album/7duewCcizMjJRxlToFIeZt) | 3:34 | 2022-05-13 |  |
 | [Let Me Go](https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Let Me Go](https://open.spotify.com/album/571dTEZ64Z49fi7EdlknZp) | 2:15 | 2022-02-18 |  |
 | [Light Shine In](https://open.spotify.com/track/3azPwNPD36yMmg4gYRtuJ4) | [Conor Gains](https://open.spotify.com/artist/3v56uAiWA52So80mU5pBy2) | [Light Shine In](https://open.spotify.com/album/5SgySlto0nQI5P38u7Cvw0) | 3:27 | 2021-04-02 | 2022-03-26 |
 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 | 2022-03-04 |  |

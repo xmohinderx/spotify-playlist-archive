@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-115 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+116 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Catch Me](https://open.spotify.com/track/5NFr84NNaAHt5B4zK9Vouh) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [Catch Me](https://open.spotify.com/album/5WRIApjgUfv46stqPOuANm) | 2:18 | 2022-01-25 |  |
 | [Chai Tea with Heidi](https://open.spotify.com/track/0EhQWGJFjhvVq0PllzJ7Rd) | [WeddingCake](https://open.spotify.com/artist/6Smy5hRNvMoK4C5DYiLDI8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC) | [Chai Tea with Heidi](https://open.spotify.com/album/6ULQCdbVXoexdtfeEQCKtZ) | 2:50 | 2022-01-25 |  |
 | [Close](https://open.spotify.com/track/4BkfHpktD9uGNEU6Mu0gd0) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Close](https://open.spotify.com/album/0R5KWzMS55YDSGsRKGGqSd) | 3:14 | 2022-01-25 |  |
+| [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 | 2022-05-13 |  |
 | [Cry/Fun](https://open.spotify.com/track/77QUW7lMcR87ddDAkhnu0T) | [Issy Wood](https://open.spotify.com/artist/3nyoodEXBH2JZUcZuT4KhU) | [Cry/Fun](https://open.spotify.com/album/40Uwh4FbbntjSIBANQlu11) | 3:22 | 2022-01-25 |  |
 | [Dancing](https://open.spotify.com/track/2GaMidZlf2kO3L1ZvORSP5) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Dancing](https://open.spotify.com/album/6ztdw1jAN5UZjj8RPioBIq) | 2:41 | 2022-01-25 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-01-25 |  |
@@ -74,7 +75,7 @@
 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:05 | 2022-02-25 |  |
 | [Lose You Now](https://open.spotify.com/track/2wwzGBhDWfZveGjpxj5be7) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Lose You Now](https://open.spotify.com/album/5y4jL5I64YU5vpeJYVgPKG) | 3:13 | 2022-01-25 |  |
 | [Loud](https://open.spotify.com/track/0gvOes4JPUbtP9MPInKsWA) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Loud](https://open.spotify.com/album/0RKB3f9wQH7cRlTyiQZdha) | 4:00 | 2022-01-25 |  |
-| [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-01-25 |  |
+| [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-01-25 | 2022-05-14 |
 | [Love Story](https://open.spotify.com/track/2duyHVCqcaX2FSwjzuZijF) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [Love Story](https://open.spotify.com/album/4cj7FcpVg8HvQzPPKhoMM9) | 3:42 | 2022-01-25 |  |
 | [Make You Mine](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Make You Mine](https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214) | 3:52 | 2022-01-25 | 2022-03-18 |
 | [Material Boy](https://open.spotify.com/track/56BN5JPTAc3UGvRhQzpoqp) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Material Boy](https://open.spotify.com/album/3vt5FHwacHdkIvL05cJvLU) | 3:44 | 2022-01-25 | 2022-02-26 |

@@ -4,12 +4,13 @@
 
 > Welcome the weekend with these happy hits\. Cover\- Sidharth Malhotra, Alia Bhatt, and Fawad Khan
 
-51 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/4Sm5SJqJJCGKhlh0mSnJQm)
+52 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/4Sm5SJqJJCGKhlh0mSnJQm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaj Kal Zindagi](https://open.spotify.com/track/4MnDLNhqL6HuSzFO4b4rvJ) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:14 | 2022-03-09 |  |
 | [Aashiyan](https://open.spotify.com/track/7ttlemwytO21npSmLKqTBg) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nikhil Paul George](https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 3:56 | 2022-03-09 |  |
+| [Baazi](https://open.spotify.com/track/1vDK1yoxF0mOkckgDfPDj2) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Baazi](https://open.spotify.com/album/2jAqinyiQvDkTg8zFynNEs) | 3:28 | 2022-05-13 |  |
 | [Befikra](https://open.spotify.com/track/06wTXKpDMrSp5OfB7MErpx) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Natalie Ram](https://open.spotify.com/artist/2kUxI9BlfC8j2cx2hdkPIj), [Thomson Andrews](https://open.spotify.com/artist/2m9a8Cd9J0l2ReAQ6kg8LB), [Keshia Braganza](https://open.spotify.com/artist/1MnwT7VlD8pJpdbPK49b2k), [Gwen Dias](https://open.spotify.com/artist/1MUIFyUKNBBDXNjkyrPzDP), [Ryan Dias](https://open.spotify.com/artist/4GchJyd4c9eakThZ0j4tCd) | [Befikra](https://open.spotify.com/album/0TUEWVhmKubH0dknaTOKLi) | 5:51 | 2022-03-09 |  |
 | [Buddhu Sa Mann](https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:26 | 2022-03-09 |  |
 | [Chor Bazari \(From "Love Aaj Kal "\)](https://open.spotify.com/track/6XE0MxTJdLWEePTCqAw5xr) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Love Aaj Kal](https://open.spotify.com/album/4u7WFjehsC5sUibLEOaqLf) | 4:17 | 2022-03-09 |  |

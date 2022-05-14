@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-143 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+144 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All That Remains](https://open.spotify.com/track/4qMalQqJpfFQOd9aEYYAea) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/7gPki4Zq97kfLngBBGuzzO) | 5:08 | 2022-02-17 |  |
 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 | 2022-03-30 |  |
 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 | 2022-02-17 |  |
+| [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 | 2022-05-13 |  |
 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 | 2022-03-18 |  |
 | [Battle Belongs](https://open.spotify.com/track/6QNTTFtVslpomCt0sOQ7RJ) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Battle Belongs](https://open.spotify.com/album/6yPSq0owFKBgD6UKTrglA2) | 4:44 | 2022-02-17 |  |
 | [Beautiful People](https://open.spotify.com/track/4cqQWJKG4wD6fS0oDu5Jb7) | [Mannahouse Worship](https://open.spotify.com/artist/42z5UEkDoJlJ7QDJ1phGzN) | [Beautiful People](https://open.spotify.com/album/0vLDQv07AMn6PTuQT61I5G) | 3:38 | 2022-02-17 | 2022-04-05 |

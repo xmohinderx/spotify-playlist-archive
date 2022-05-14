@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Dr\. John
+> The best in blues right now\. Cover: Ghost Hounds
 
-183 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+185 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Down To The Bottom](https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc), [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Blues Without You](https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr) | 5:42 | 2022-03-25 |  |
 | [Fire It Up](https://open.spotify.com/track/5OK7CvtAqKcJoYXFmqUDvB) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/3C44xpr836MfZSVu7cwpel) | 3:02 | 2021-03-12 | 2022-04-23 |
 | [Fly Away](https://open.spotify.com/track/34bh0YiU4EwtgtGnEoLjko) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Fly Away](https://open.spotify.com/album/70RF8bGlKiXs5pzBfaeHDT) | 5:58 | 2022-02-25 | 2022-03-18 |
+| [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-13 |  |
 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 | 2021-10-08 |  |
 | [Full Moon, Half Crazy](https://open.spotify.com/track/2mH1duZvwv83ft7fV56Y3z) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Full Moon, Half Crazy](https://open.spotify.com/album/4jaqIASmnRVNEpK54iXLyB) | 3:21 | 2021-08-20 | 2022-02-26 |
 | [Further](https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3) | [Dwight & Nicole](https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0) | [Further](https://open.spotify.com/album/5YU8wpgoWdOkiRrjuJCeNo) | 2:57 | 2021-10-08 |  |
@@ -166,6 +167,7 @@
 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 | 2020-12-14 | 2022-02-26 |
 | [Three Time Loser](https://open.spotify.com/track/04xqwHdJ1wWnk7AOZYTzuk) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:50 | 2021-09-24 |  |
 | [Threw Me To The Wolves](https://open.spotify.com/track/2pzX6WBgMtavA1hZ0pt91F) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves](https://open.spotify.com/album/5wwJpsU8T5zdRT2X8XnZ7s) | 3:52 | 2020-12-14 | 2022-02-26 |
+| [Through Being Blue Over You](https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [You Broke Me](https://open.spotify.com/album/7rJjp8koNUpalsYy0qcPMp) | 3:51 | 2022-05-13 |  |
 | [Time Clocks](https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/6LQ8BQhfsYP2WRitSPT3Lg) | 7:07 | 2021-10-01 |  |
 | [Too Old To Grow Up](https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Too Old To Grow Up](https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH) | 3:21 | 2022-03-11 | 2022-04-23 |
 | [Troubled Man](https://open.spotify.com/track/2jg5t9K7AkFwivcExkrLX9) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [The Brotherhood](https://open.spotify.com/artist/6N9kctJhQRc8tzejdUOYNW), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Blue Sky](https://open.spotify.com/album/4eXFt8xb1vaaivb332kvu1) | 3:34 | 2020-12-14 | 2022-02-26 |

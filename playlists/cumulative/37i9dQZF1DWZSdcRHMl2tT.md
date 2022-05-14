@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-203 songs - 10 hr 39 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+209 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,8 @@
 | [Get Down](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud) | [Pafka](https://open.spotify.com/artist/0JUvxzz5fMMYFMCoBP9NU2) | [Get Down](https://open.spotify.com/album/3PcVhPxZ7f1x6eAznLGgoj) | 2:55 | 2022-04-05 |  |
 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 | 2022-04-05 |  |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2022-04-05 |  |
+| [Girl, Forever \- 2022 Remaster](https://open.spotify.com/track/55Glw2TNFjoVUUdm69Wb06) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Girl, Forever](https://open.spotify.com/album/6sTOlDzChQXyJVN4RssWyu) | 7:23 | 2022-05-13 |  |
+| [Girl, Forever \- CASSARA Remix \- Edit](https://open.spotify.com/track/2JEzpWa3mdrQ0Xf96uHziC) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Cassara](https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi) | [Girl, Forever \(CASSARA Remix\)](https://open.spotify.com/album/34xWbDkDJTmyYUoXQYBM3c) | 3:45 | 2022-05-13 |  |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2022-04-05 |  |
 | [Glow](https://open.spotify.com/track/70gpJ5jdQntbdwQD0Yg0wl) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Glow](https://open.spotify.com/album/1CHQFx98d16PMOyn4nwS72) | 3:47 | 2022-04-05 |  |
 | [Gold Coast](https://open.spotify.com/track/0aixLNh6CmHwugLZ71wqjO) | [Loell](https://open.spotify.com/artist/3jDHiq5XFmo97S6L5NtGsn) | [Gold Coast](https://open.spotify.com/album/3EW3l0OjPpIWDR99jBm6pg) | 3:23 | 2022-04-05 |  |
@@ -80,6 +82,7 @@
 | [Hanging Out](https://open.spotify.com/track/5sxk6ElBzgcFqneVR1Uug6) | [Neotronicz](https://open.spotify.com/artist/6LvxEsI0dKlKpN7RHthHOf) | [Hanging Out](https://open.spotify.com/album/1QqzZApC7xi8JtVEGXDMBr) | 2:55 | 2022-04-05 |  |
 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 | 2022-04-05 |  |
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2022-04-05 |  |
+| [Higher Ground](https://open.spotify.com/track/1V5mD0lc4OosW8EGqpM6YO) | [RWOK](https://open.spotify.com/artist/7d5EiTohz2fYhZntc4lqC5) | [Higher Ground](https://open.spotify.com/album/2jcjDljAfYOaGHy5nWqc59) | 2:00 | 2022-05-13 |  |
 | [Horizon](https://open.spotify.com/track/3Lawg0VthZy12cadJXYDeP) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Horizon](https://open.spotify.com/album/2jXHPzB2gDsEEXomOJPdkg) | 2:37 | 2022-04-05 |  |
 | [Horizon Island](https://open.spotify.com/track/3CM4BJe9jzdNLXXt9Ob3su) | [Zulu Wow](https://open.spotify.com/artist/39OA3fyzp8hPnuAG4W4Lhg) | [Horizon Island](https://open.spotify.com/album/0o2XprxKqcMod4DMKLR6DG) | 3:36 | 2022-04-05 |  |
 | [Hot Summer](https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Hot Summer](https://open.spotify.com/album/3MK2VO9vdpHMGb7RizZ72l) | 2:28 | 2022-04-05 | 2022-05-11 |
@@ -101,6 +104,7 @@
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-04-05 |  |
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2022-04-05 |  |
 | [Lost Lands](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ) | [Delta O](https://open.spotify.com/artist/3BYLxIFUAOJGEsV8lRkjSN) | [Lost Lands](https://open.spotify.com/album/0wyP4NGuJp6sI0j0SH7siA) | 3:53 | 2022-04-05 |  |
+| [Lost Sea](https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D) | [Mandy Mars](https://open.spotify.com/artist/2TfKQgp7fc193rRreQDRP9) | [Lost Sea](https://open.spotify.com/album/0sUdcjrmiMOUGbFUhojfTe) | 3:07 | 2022-05-13 |  |
 | [Lucky Indigo](https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2) | [Ayimi](https://open.spotify.com/artist/6QTs7zcBWJY3Hst7yKkc2e) | [Lucky Indigo](https://open.spotify.com/album/5xldzhflovUqTs5lKCfhxG) | 3:05 | 2022-04-05 |  |
 | [Lujo](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI) | [DJ Duboise](https://open.spotify.com/artist/4rrvVP1Aeax1bAcLYpCBCN) | [Lujo](https://open.spotify.com/album/1oaJFXlAaPf1seL59yGGb7) | 2:37 | 2022-04-05 |  |
 | [Lunar Eclipse](https://open.spotify.com/track/5DUNwt1A9BmKM0mWhufyAn) | [Serge Rey](https://open.spotify.com/artist/0KKCxS6r36wfKylvGK1gSy) | [Lunar Eclipse](https://open.spotify.com/album/4OeQwVd6QMFEtYordZZJV8) | 3:12 | 2022-04-05 |  |
@@ -152,9 +156,11 @@
 | [Rooftops](https://open.spotify.com/track/6XiT6sPw9rpKjOEdvgL2y3) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Rooftops](https://open.spotify.com/album/6cDoiRHQF3nfqlE7l4e1Wj) | 2:36 | 2022-04-05 |  |
 | [Rose](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Rose](https://open.spotify.com/album/6O3C5aOvvsqxAVfcyL1nvV) | 2:59 | 2022-04-05 |  |
 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 | 2022-04-05 |  |
+| [Sail Away](https://open.spotify.com/track/15SEpL0rQ6lPo0sK04ZuP1) | [80s Kids](https://open.spotify.com/artist/3qyrHRM9yQ3L4z0InY4T8x) | [Sail Away](https://open.spotify.com/album/3vfYXMKNGBmDmbABG73VLE) | 2:00 | 2022-05-13 |  |
 | [Saint Tropez](https://open.spotify.com/track/4JO8HC0O0wJAjjiC01OISb) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Saint Tropez](https://open.spotify.com/album/3zvW548gu7s9f5k2fndTej) | 2:35 | 2022-04-05 |  |
 | [Saints & Tropez](https://open.spotify.com/track/08SKC2H1MDH2WmTjLIoLcs) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Saints & Tropez](https://open.spotify.com/album/4L9IvFRId2lprKiP84acjy) | 3:48 | 2022-04-05 |  |
 | [Salty Tales](https://open.spotify.com/track/5Gy3t7t0vEsxFEMux3dX3X) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Salty Tales](https://open.spotify.com/album/52JSePvlPgJ8YN9sPZK0D5) | 4:50 | 2022-04-05 | 2022-05-11 |
+| [Sea To Sky \- Parra For Cuva Remix](https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sea To Sky \(Parra For Cuva Remix\)](https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU) | 3:46 | 2022-05-13 |  |
 | [Sea Ya](https://open.spotify.com/track/4eftVZJINpVQjJPF2cEBaL) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Sea Ya](https://open.spotify.com/album/7j0QI0It6JlIO7JUqGYMj8) | 3:56 | 2022-04-05 |  |
 | [Seaside](https://open.spotify.com/track/1juh9T8vZLJcW7NRfRnFyH) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Seaside](https://open.spotify.com/album/5WbSdILow0l6UxYWtvYtjw) | 3:21 | 2022-04-05 |  |
 | [Secret Chords](https://open.spotify.com/track/6z1z86T1wK9fFSIZiHb55Q) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Secret Chords](https://open.spotify.com/album/1xN9IN4TqkIMtojm4LZwpF) | 2:47 | 2022-04-05 |  |

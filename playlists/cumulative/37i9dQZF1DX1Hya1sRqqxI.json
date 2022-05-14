@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 154173,
       "name": "A Glass Of Champagne",
       "url": "https://open.spotify.com/track/3lm0QsdpQrypDUbHexpVWK"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 420986,
       "name": "Ain't No Stoppin' Us Now",
       "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 217320,
       "name": "Ain't No Stoppin' Us Now - Single Version",
       "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 193133,
       "name": "Baby, Don't Change Your Mind",
       "url": "https://open.spotify.com/track/373HS9bxPej6AuHBFM5fbX"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 211413,
       "name": "Boogie Fever",
       "url": "https://open.spotify.com/track/3FZB0xezeoc1ddx72eg7iF"
@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "A Taste Of Honey",
+        "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
+      },
+      "artists": [
+        {
+          "name": "A Taste Of Honey",
+          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338320,
+      "name": "Boogie Oogie Oogie - Remastered 2004",
+      "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
+    },
+    {
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -459,7 +477,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 137173,
       "name": "Boogie Woogie Bugle Boy",
       "url": "https://open.spotify.com/track/7MuMALGZV3KhVA9AS9TFup"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 208600,
       "name": "Daddy Cool",
       "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 163306,
       "name": "Dancin Party",
       "url": "https://open.spotify.com/track/0IA4zuUT46FUIVM0ozJET8"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 435160,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/0bFGteEuBXbVd0fbV2XpD3"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 373226,
       "name": "Don't Take Away The Music",
       "url": "https://open.spotify.com/track/2VsK5maDIMwgWM0rLMFCLG"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 163093,
       "name": "Down By The Lazy River",
       "url": "https://open.spotify.com/track/49ZAeWd40u4py51DpjEY8p"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 247666,
       "name": "Everybody Dance",
       "url": "https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 159866,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1kX0JVbq1lG9VZNiLF3Bwz"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 307946,
       "name": "Got to Be Real",
       "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 175000,
       "name": "Honey, Honey",
       "url": "https://open.spotify.com/track/2w6JXokk0F8i241Y8C0Mn6"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 347666,
       "name": "I Wanna Be Your Lover",
       "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 339946,
       "name": "In the Navy - Original Version 1979",
       "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 247856,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/1FZZUVHYkswEHdxLYe1hMZ"
@@ -2163,7 +2181,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 180666,
       "name": "Knock Three Times",
       "url": "https://open.spotify.com/track/4Z0K8WzmzsPpX0Po6qMfEh"
@@ -2397,7 +2415,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
@@ -2559,7 +2577,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182066,
       "name": "Make Me Smile",
       "url": "https://open.spotify.com/track/7k0UY4Kabh7SUHXowyfKj7"
@@ -2809,7 +2827,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 288426,
       "name": "No More Tears (Enough Is Enough)",
       "url": "https://open.spotify.com/track/2WOxDSMVbPy8rsK9oMtWuj"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 259373,
       "name": "Oh My My",
       "url": "https://open.spotify.com/track/7GqOrtlqGjt5kFlPK63ErE"
@@ -3083,7 +3101,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 192266,
       "name": "Right Back Where We Started From",
       "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
@@ -3263,7 +3281,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182139,
       "name": "Save Your Kisses For Me",
       "url": "https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht"
@@ -3285,7 +3303,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 172160,
       "name": "Say, Has Anybody Seen My Sweet Gypsy Rose (feat. Tony Orlando) - Digitally Remastered 1998",
       "url": "https://open.spotify.com/track/1IbElKiARztcn0HvvKP28Z"
@@ -3321,7 +3339,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 276000,
       "name": "Shadow Dancing",
       "url": "https://open.spotify.com/track/4K9rsZnoVWNSmmb3X8bmvT"
@@ -3357,7 +3375,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
@@ -3447,7 +3465,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 203866,
       "name": "Sing a Song",
       "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
@@ -3703,7 +3721,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 214706,
       "name": "Summer Night City",
       "url": "https://open.spotify.com/track/35iCSlFxyiawRBUOtQAkeT"
@@ -3989,7 +4007,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 189386,
       "name": "The Candy Man",
       "url": "https://open.spotify.com/track/5yjuIx3UvOKHwLsCuM3DMM"
@@ -4061,7 +4079,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
@@ -4231,7 +4249,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 309173,
       "name": "Voulez-Vous",
       "url": "https://open.spotify.com/track/17OqI90oTFZ3J8PVu6j07V"
@@ -4393,7 +4411,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 181720,
       "name": "Wig Wam Bam",
       "url": "https://open.spotify.com/track/1rC4qPMZkxNeWzAlsG0dFH"

@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-65 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
+67 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Dolores](https://open.spotify.com/track/1UOTHt2Vxk5xHMvdN7gkRF) | [The Black Market Trust](https://open.spotify.com/artist/05YUfl0SzLH3OqbAICDULQ) | [Folk Songs](https://open.spotify.com/album/7fEjk6IjjNZwM70grqR4QL) | 2:03 | 2021-02-04 |  |
 | [Donna Lee](https://open.spotify.com/track/2hLU38ZuCq9rT5T1rM6FiH) | [Joscho Stephan](https://open.spotify.com/artist/03gMsWBnlCYwx7ivVnO0WG), [Peter Autschbach](https://open.spotify.com/artist/1vx10uTehWMVhL2sPENMgG) | [Sundowner](https://open.spotify.com/album/0pjEuWVpDTupTerq0pFDBH) | 3:31 | 2021-03-12 |  |
 | [For Brassens](https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:18 | 2021-02-04 |  |
+| [For Holzmanno](https://open.spotify.com/track/3OsK1omdtWIlFoPFqvPwCQ) | [Wawau Adler](https://open.spotify.com/artist/2QDPltFMWXJLLfrGkjZ4xk) | [For Holzmanno](https://open.spotify.com/album/1YmXRKycHrJWdUrqEO2D4Q) | 3:53 | 2022-05-13 |  |
 | [For Magnio](https://open.spotify.com/track/6HV3Ma60s7MHw9bNE1bjME) | [Yorgui Loeffler](https://open.spotify.com/artist/0sALjHLWzwa0fnA1pjmS1w) | [For Magnio](https://open.spotify.com/album/5BIw4s7EX46sFOveBaEf0u) | 3:22 | 2021-02-04 |  |
 | [Guet\-Apens](https://open.spotify.com/track/4OqNtoNFjUOTeiBfOSZlsL) | [Romane](https://open.spotify.com/artist/0ILn98RGLPZlVkgm3PUBoH), [Stochelo Rosenberg](https://open.spotify.com/artist/4pTgWOAUPDXSB5c5xwHVM5) | [Tribulations](https://open.spotify.com/album/0KnGsXBLPgociBCuG6DWhZ) | 4:33 | 2021-02-04 |  |
 | [Gypsy Blue](https://open.spotify.com/track/0hdR3DIy2DlrmhKQdfa4eF) | [Robin Nolan](https://open.spotify.com/artist/2axe4X4ve982dSX78uAffV) | [Gypsy Blue](https://open.spotify.com/album/6KPX06CyYb5ZhxCoohfXtp) | 3:25 | 2021-02-04 |  |
@@ -37,6 +38,7 @@
 | [Jackrabbit Sky \(from the Motion Picture "Jackrabbit Sky"\)](https://open.spotify.com/track/0DJkYKT0SajSQ3WlQ7dOKP) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/5mTSSRzpn80KfvSBitxemy) | 2:55 | 2021-02-04 |  |
 | [Je suis en amour](https://open.spotify.com/track/6AHft4gweShwU086omcQTE) | [Steeve Laffont](https://open.spotify.com/artist/0redyV7MGTS7VmhcgfEBTX) | [Enamoromaï](https://open.spotify.com/album/6ZujwfBhiTxkIkDGZi2yvq) | 2:58 | 2021-02-04 |  |
 | [Jeannine](https://open.spotify.com/track/5NPbHD1vhzh9uFk7qnbGIK) | [Pearl Django](https://open.spotify.com/artist/530l1HsYHzQuOYFBDUOHHo) | [Eleven](https://open.spotify.com/album/30HHrcOOI391zT2vFMTJlS) | 4:31 | 2021-02-04 |  |
+| [Joseph Joseph](https://open.spotify.com/track/1nT6CxquFZxHDDIgMTgS0W) | [Harmonious Wail](https://open.spotify.com/artist/0oiYyKo8F9Bm80L02whvQ1) | [Joseph Joseph](https://open.spotify.com/album/6zE6NEAmZPFKqw2GfUHKHJ) | 3:53 | 2022-05-13 |  |
 | [Just One of Those Things](https://open.spotify.com/track/3YLIeMumXKubVSNizqQTEv) | [Rocky Gresset](https://open.spotify.com/artist/3LgwMt7NY7ofdnipSHcahX) | [Rocky Gresset](https://open.spotify.com/album/2GKxiifjmMz6xbZU17hBVc) | 3:32 | 2021-02-04 |  |
 | [La Gitane](https://open.spotify.com/track/6yZZtK74GV2IQ6JMfLYVGu) | [Angelo DeBarre](https://open.spotify.com/artist/64oD1nmr26PzBAecbxdBzt) | [Portrait Of Angelo](https://open.spotify.com/album/4Kw1m6TLxJ8nZ79qHWCIUz) | 3:39 | 2021-02-04 |  |
 | [Last Minute Swing](https://open.spotify.com/track/3tMGqSqmulMMkhEkXaKtyE) | [The Rosenberg Trio](https://open.spotify.com/artist/4xIooHvSmj2aWhQGrniJSu) | [Roots](https://open.spotify.com/album/0vN2kv5uBDKL6BYkjQ4GUn) | 3:32 | 2021-02-04 |  |

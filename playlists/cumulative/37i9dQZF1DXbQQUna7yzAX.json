@@ -584,6 +584,24 @@
     },
     {
       "album": {
+        "name": "Falling Up",
+        "url": "https://open.spotify.com/album/4hZwQBkiRq3ZeJq4oSkK6Z"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125181,
+      "name": "Falling Up",
+      "url": "https://open.spotify.com/track/0emiAPtXtYjoVZy4D1MdP6"
+    },
+    {
+      "album": {
         "name": "feel",
         "url": "https://open.spotify.com/album/4WArkLIZ0R06bVtf2s6Bca"
       },

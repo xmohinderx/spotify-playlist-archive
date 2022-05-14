@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Hillary Scott
 
-108 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+111 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Day with Jesus](https://open.spotify.com/track/4ciThdLjICgN7HzeBaLrSw) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Day with Jesus](https://open.spotify.com/album/3KGAeln42pur213kCU0iHH) | 4:02 | 2021-12-10 |  |
 | [Dear Jesus](https://open.spotify.com/track/2VjYbrcNOqPM8VfckFsCi0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The Low Light Sessions](https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC) | 3:43 | 2022-04-15 |  |
 | [Devil](https://open.spotify.com/track/6TrsjnEV5IpVAYMdAvucGs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:24 | 2021-12-10 | 2022-04-02 |
+| [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-05-13 |  |
 | [Everybody Talks To God](https://open.spotify.com/track/78NoI7XWKDtir8JvnonJ2y) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Everybody Talks To God](https://open.spotify.com/album/3InfLUe6iHsB6bx05pg9dL) | 4:17 | 2022-01-14 |  |
 | [Finally Home \(feat\. Craig Morgan\)](https://open.spotify.com/track/0TBkgBR2VLYeTG9ynsoIkm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Finally Home \(feat\. Craig Morgan\)](https://open.spotify.com/album/3rxDjgnx1xHwImjgUFDctg) | 3:11 | 2021-12-10 |  |
 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 | 2022-03-18 |  |
@@ -56,9 +57,11 @@
 | [I Saw God Today](https://open.spotify.com/track/7maV3I3KQNYpsOWYTOhGqn) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Troubadour](https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ) | 3:23 | 2021-12-10 |  |
 | [I Saw The Light](https://open.spotify.com/track/3S0dPaZYCax8OnwTFEoEPw) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT), [Sonya Isaacs](https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b) | [I Serve A Savior](https://open.spotify.com/album/0qmQNcXPAl8V4wPFWC3QDx) | 3:21 | 2021-12-10 |  |
 | [I'll Fly Away](https://open.spotify.com/track/2Rk8fztS3B4ozeNjKtirHb) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 3:52 | 2021-12-10 |  |
+| [If God Took Days Off](https://open.spotify.com/track/3JqF0zLGozLrnS1uvOhluB) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID) | 2:34 | 2022-05-13 |  |
 | [If That Ain't God](https://open.spotify.com/track/2wD4EACbGI6zfKXEAKJmBV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [If That Ain't God](https://open.spotify.com/album/6zJ23RQJ1NeubHuCzyvPlE) | 3:30 | 2021-12-10 |  |
 | [In All Things](https://open.spotify.com/track/4CVSGsxGy52bNpUAwFqrm7) | [Leslie Jordan](https://open.spotify.com/artist/7rYLqyGeyCnraP6vBfhfFn), [Danny Myrick](https://open.spotify.com/artist/2VnIRUWeM04JHxZvYkxJWv) | [Company's Comin'](https://open.spotify.com/album/2n9E08VXyUL1GGOwnVM6tm) | 3:30 | 2021-12-10 |  |
 | [In Christ Alone](https://open.spotify.com/track/4nZLgB1NYxEjfStRRPZBWE) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [In Christ Alone](https://open.spotify.com/album/5v36cGV6Gk6cA4l79cMImt) | 4:11 | 2022-04-15 |  |
+| [In Our Blood](https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [In Our Blood](https://open.spotify.com/album/3b5D7JEovpIaebGbOdJTBX) | 2:53 | 2022-05-13 |  |
 | [Just a Closer Walk with Thee](https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Just a Closer Walk with Thee](https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g) | 3:40 | 2022-01-28 |  |
 | [Less Than Whole](https://open.spotify.com/track/3OzqxGvLzW00YOet2P78sD) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:44 | 2021-12-10 |  |
 | [Like Jesus Does](https://open.spotify.com/track/3wxgj5N8ZKoZWHDw6FJUf2) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:18 | 2021-12-10 |  |

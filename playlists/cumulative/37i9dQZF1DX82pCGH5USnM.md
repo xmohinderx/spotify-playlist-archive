@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-490 songs - 1 day 5 hr 45 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+492 songs - 1 day 5 hr 52 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,8 +417,10 @@
 | [Sun Time](https://open.spotify.com/track/6bo1me9qHBypbaYu7BBQjF) | [Yelloo Hill](https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke) | [Sun Time](https://open.spotify.com/album/2GFprs0AQbp3DBsnRDsaad) | 2:09 | 2021-01-05 | 2021-09-09 |
 | [Sunday](https://open.spotify.com/track/5u4dNVgfChjREYJ6KeNuJ4) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG) | [Sunday](https://open.spotify.com/album/2gSV7HKvVIXMgo8ZgpDPwm) | 3:58 | 2020-04-14 | 2021-03-25 |
 | [Sundown](https://open.spotify.com/track/09PSpnj9hH0kpoRDRWucVW) | [Coconut & Palm Trees](https://open.spotify.com/artist/5BLqpPJJkxoP3M03obHi1K) | [Sundown](https://open.spotify.com/album/26X1IbQSHXNSFmRCZTuz03) | 2:57 | 2020-12-02 |  |
+| [Sundrops](https://open.spotify.com/track/52IP2gussRMFDPay7Ww5xv) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Sundrops](https://open.spotify.com/album/0BWBsXcUuMzjcUpWC5ofNh) | 5:03 | 2022-05-13 |  |
 | [Sunny Daydream](https://open.spotify.com/track/3YqJWoEXBf9UQ0vxbB39av) | [Ocean Lights](https://open.spotify.com/artist/2rCoNCmsCtzV7fQyhKvQ8Z) | [Sunny Daydream](https://open.spotify.com/album/404mBSjQ9FRsqQoejpLaUe) | 2:46 | 2021-08-20 |  |
 | [Sunny Nelson \(Edit\)](https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get) | [Abel Tasman](https://open.spotify.com/artist/4D2dWZ7uyVyqDj3Ah05Xtr) | [Sunny Nelson \(Edit\)](https://open.spotify.com/album/67hBb3jhTHYrHk9Dtfy5bR) | 3:48 | 2021-11-08 |  |
+| [Sunrider](https://open.spotify.com/track/57BjBUlKLXpzvveTapqUDP) | [Relŭm](https://open.spotify.com/artist/2KLneUbYr9ASsmFfZWIdYo) | [Sunrider](https://open.spotify.com/album/4TKpipN1yJhJO53XX1H9RA) | 2:08 | 2022-05-13 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-03-06 |  |
 | [Sunset Skybar](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q) | [Palma Dreams](https://open.spotify.com/artist/6g6CC8hzY5pFe9trUEoty9) | [Dive In](https://open.spotify.com/album/3ITTHt0Eu1doM1Q4wh1I8U) | 2:40 | 2022-01-21 |  |
 | [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2021-03-06 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura. Cover: Roy Woods",
+  "description": "This is R&B in Canada, elevate your aura. Cover: Dylan Sinclair",
   "name": "Mood Ring",
   "published_playlist_ids": [
     "5Scr3kl4jdyMwylCsvsI3D"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 161522,
       "name": "Bach To The Future",
       "url": "https://open.spotify.com/track/0CTa7Tzm3xKUtirAV2AOAR"
@@ -522,6 +522,24 @@
     },
     {
       "album": {
+        "name": "513",
+        "url": "https://open.spotify.com/album/6NDmSdY3c1glA8GPk3jYrn"
+      },
+      "artists": [
+        {
+          "name": "Haley Smalls",
+          "url": "https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155183,
+      "name": "Cry 4 U",
+      "url": "https://open.spotify.com/track/7pKwUPlNzY9HDN7lGL4KjR"
+    },
+    {
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL"
       },
@@ -577,6 +595,42 @@
       "duration_ms": 199053,
       "name": "Distant",
       "url": "https://open.spotify.com/track/0ygfnqXgLvgdxzuG4nyyOb"
+    },
+    {
+      "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/60QFl6Dy77yAQ7ZKry6muX"
+      },
+      "artists": [
+        {
+          "name": "Aim\u00e9e",
+          "url": "https://open.spotify.com/artist/0xEEXl82myXxXyqHKd2fnb"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171833,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/5cMtzTwiKUycwIO8RclyfR"
+    },
+    {
+      "album": {
+        "name": "My way",
+        "url": "https://open.spotify.com/album/22viOAbq3ia5Vgm5i2l61k"
+      },
+      "artists": [
+        {
+          "name": "Dfresh Sande",
+          "url": "https://open.spotify.com/artist/3gUO8KqXBI5E43eY32Cvkn"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208065,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/2Jt1N8rd5eYFVr9AHbTnuV"
     },
     {
       "album": {
@@ -957,7 +1011,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 154666,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7b7NdGG8LFS10xru0ijGYR"
@@ -1091,7 +1145,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 163764,
       "name": "Gone",
       "url": "https://open.spotify.com/track/0epiqMIMIoRpgIEryIU63G"
@@ -1203,7 +1257,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 153600,
       "name": "Hate Me Less",
       "url": "https://open.spotify.com/track/3AMKbaH2FrFN05YrkNdptz"
@@ -1229,6 +1283,24 @@
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi"
+    },
+    {
+      "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/0HDUISzJGl5h13H4AO4mFm"
+      },
+      "artists": [
+        {
+          "name": "Kyla Charter",
+          "url": "https://open.spotify.com/artist/7wzZ8mQWZVqlMRVoctu4Z9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194891,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/4ZLxc4XwUQni9pYyHI1Je5"
     },
     {
       "album": {
@@ -1494,6 +1566,24 @@
     },
     {
       "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "I'm in It",
+      "url": "https://open.spotify.com/track/6paAqzQNi3EQJUAZjaRXh0"
+    },
+    {
+      "album": {
         "name": "IT'S NOT PERSONAL",
         "url": "https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5"
       },
@@ -1741,7 +1831,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 150173,
       "name": "Knackademus",
       "url": "https://open.spotify.com/track/684FU29L57XNQDMkMUfqB4"
@@ -1835,7 +1925,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 206449,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/3Py6wuewE5h24mZhBosGYl"
@@ -1871,7 +1961,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 189651,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV"
@@ -2111,7 +2201,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 211098,
       "name": "MEMORIZE FEELINGS",
       "url": "https://open.spotify.com/track/09SAVx4Rorh7gkNIumRQLk"
@@ -2155,6 +2245,24 @@
       "duration_ms": 184873,
       "name": "MI PAPER",
       "url": "https://open.spotify.com/track/7ABS8CmDKujkYK9zF5sdCn"
+    },
+    {
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/0Y3UxSQoq362mlMLZTzTjY"
+      },
+      "artists": [
+        {
+          "name": "Miamagination",
+          "url": "https://open.spotify.com/artist/7tedjMpZKf4DIFdBA52Q4d"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193852,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/5ByHwV4nCNLOr5FY2KXxgH"
     },
     {
       "album": {
@@ -2337,6 +2445,24 @@
       "duration_ms": 184933,
       "name": "Next Man",
       "url": "https://open.spotify.com/track/1bZGBaMyZg7GBPlrHYIf5r"
+    },
+    {
+      "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/0jWJc0KMoP8LWJBF3NU8Kb"
+      },
+      "artists": [
+        {
+          "name": "Kid Riz",
+          "url": "https://open.spotify.com/artist/3prhbrzge1TX4LaZRSfwme"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190247,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/17tEziuT8V20FWvOslQZyq"
     },
     {
       "album": {
@@ -2585,6 +2711,24 @@
       "duration_ms": 306059,
       "name": "Only With Time",
       "url": "https://open.spotify.com/track/0xTZ5PCUersxLyUiLgNp2U"
+    },
+    {
+      "album": {
+        "name": "No Longer in the Suburbs",
+        "url": "https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174163,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
     },
     {
       "album": {
@@ -3222,6 +3366,24 @@
     },
     {
       "album": {
+        "name": "Smoke & Dance",
+        "url": "https://open.spotify.com/album/23nWH7wnFEJZjEzs25gUuM"
+      },
+      "artists": [
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220680,
+      "name": "Smoke & Dance",
+      "url": "https://open.spotify.com/track/4nSSNiBOvcApl9eLb40rqD"
+    },
+    {
+      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/1335ZraXDbHNdiknfgItJ5"
       },
@@ -3441,7 +3603,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 164468,
       "name": "Talk Luv",
       "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
@@ -3695,6 +3857,24 @@
       "duration_ms": 136000,
       "name": "Up to You",
       "url": "https://open.spotify.com/track/0GdeitSxIUCO33j7g710HF"
+    },
+    {
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5JGnl8hhoMnwcMKE2gYBXe"
+      },
+      "artists": [
+        {
+          "name": "Kelly Anthony",
+          "url": "https://open.spotify.com/artist/2ICgAt3eHtYeiz6AEGoRzG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/2W03dE5pdOeOaGrKqZ5Nh3"
     },
     {
       "album": {

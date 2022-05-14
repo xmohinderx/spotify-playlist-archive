@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 206657,
       "name": "Come Over (feat. Anne-Marie & Tion Wayne)",
       "url": "https://open.spotify.com/track/4eVU4U063iMLFJFXb9kzkb"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 213869,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1hJIbOjWpid6LtnozHmzRS"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 204933,
       "name": "Get Out My Head",
       "url": "https://open.spotify.com/track/055Mme9ReKK99jRFA5UJ55"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 188645,
       "name": "Head on Fire",
       "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
@@ -1617,7 +1617,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 170813,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5"
@@ -2724,6 +2724,24 @@
     },
     {
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
+      "album": {
         "name": "Oliver Twist",
         "url": "https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5"
       },
@@ -3507,7 +3525,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
@@ -3681,7 +3699,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 207755,
       "name": "Starstruck",
       "url": "https://open.spotify.com/track/2WJVFqVQ3ivhAoAQWzEzeL"
@@ -3888,6 +3906,28 @@
     },
     {
       "album": {
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+    },
+    {
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
       },
@@ -3917,7 +3957,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 190306,
       "name": "Take You Dancing",
       "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
@@ -4281,7 +4321,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 150261,
       "name": "Way Too Long",
       "url": "https://open.spotify.com/track/4YMApzzqCO31TPxPvgdHhh"
@@ -4507,7 +4547,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"

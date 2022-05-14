@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Micro TDH, Jerry Di, Big Soto, ADSO, Akapellah
 
-70 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
+71 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2efGXAVzCEGB6nG3nfhwEs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Error](https://open.spotify.com/track/2zJ72e7aoDwpyWkw8Ohz9T) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Error](https://open.spotify.com/album/4Iia6he8VBkkbiIXrsmGGN) | 2:53 | 2022-03-11 |  |
 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 | 2022-03-11 |  |
 | [Espero Que Seas Feliz](https://open.spotify.com/track/5RQbH0k816MmniwnAFIg7p) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:35 | 2022-03-11 |  |
-| [Flixi Flaxi](https://open.spotify.com/track/23UgOgqI6cmSzCy5denhXU) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Flixi Flaxi](https://open.spotify.com/album/5kIvpNW9CkRnEINlt9xKPT) | 3:28 | 2022-04-08 |  |
+| [Flixi Flaxi](https://open.spotify.com/track/23UgOgqI6cmSzCy5denhXU) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Flixi Flaxi](https://open.spotify.com/album/5kIvpNW9CkRnEINlt9xKPT) | 3:28 | 2022-04-08 | 2022-05-14 |
 | [Fuego](https://open.spotify.com/track/18hAN4TYNwXERnzAzZu5Tt) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Fuego](https://open.spotify.com/album/1DtyUnwykOKQ6n0UE1Gj1B) | 3:34 | 2022-03-11 | 2022-04-09 |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hasta Que Salga el Sol](https://open.spotify.com/album/1z3dJze0v30WJxORECHCE8) | 3:29 | 2022-03-11 |  |
 | [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 | 2022-03-11 |  |
@@ -64,6 +64,7 @@
 | [Pégate](https://open.spotify.com/track/2xf1olq5Un8S9SqwU4IO6c) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Gigi Mendez](https://open.spotify.com/artist/4RjuvJDxYh4T6tmv44HTkT) | [Pégate](https://open.spotify.com/album/00cSdJphJM7Hh8k2N0x3vP) | 3:50 | 2022-04-08 |  |
 | [Que Casualidad](https://open.spotify.com/track/1KWkxmwXF5DhXBq5AQKq3g) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Que Casualidad](https://open.spotify.com/album/3mlskUKbcLhzPrBWrRl2BV) | 2:48 | 2022-03-11 |  |
 | [Raro](https://open.spotify.com/track/4DEldV3wQKjbMRhVw64bg6) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Raro](https://open.spotify.com/album/3yepH0ckADnbqwISL1zi0M) | 3:19 | 2022-03-11 |  |
+| [Relación](https://open.spotify.com/track/28U2VaH8PflE2peJ0f9wZp) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Relación](https://open.spotify.com/album/0UA6rWr1ZXfv9aBR94Hx4g) | 3:55 | 2022-05-13 |  |
 | [Reset](https://open.spotify.com/track/2vGR2udwxxgDzH1nRkIAAa) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:11 | 2022-03-11 |  |
 | [Salao](https://open.spotify.com/track/3JLbeyprwCHlUOKczf2kMH) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Salao](https://open.spotify.com/album/5khOl6i8Dw3h9NJJfYMQe8) | 2:44 | 2022-03-11 |  |
 | [Se metieron en mi casa](https://open.spotify.com/track/4aGrgj6OiWW2HXnJzcGQd6) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Se metieron en mi casa](https://open.spotify.com/album/230ShJkfGjkrKKu9Pqdft5) | 3:23 | 2022-03-11 |  |

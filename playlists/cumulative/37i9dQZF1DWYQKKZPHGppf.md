@@ -4,7 +4,7 @@
 
 > Le migliori tracce urban italiane del 2021! Cover: Bresh
 
-50 songs - 2 hr 27 min - not published yet
+50 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/6HZY32LgXJroaGbYoDPpWg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

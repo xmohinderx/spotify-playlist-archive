@@ -1,18 +1,18 @@
 {
   "description": "The best newly released songs of the week. Cover: TOMORROW X TOGETHER",
-  "num_followers": 58686,
+  "num_followers": 58693,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM3MTIwMCwwMDAwMDQ3MzAwMDAwMTgwYjhmZjk4YTcwMDAwMDE4MGI4YTE4ZDky",
+  "snapshot_id": "MTY1MjQxNDQwMCwwMDAwMDQ3NDAwMDAwMTgwYmI5MmM2ZWUwMDAwMDE4MGI4YTE4ZDky",
   "tracks": [
     {
-      "added_at": "2022-05-12 16:00:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "The Heart Part 5",
-        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 332362,
-      "name": "The Heart Part 5",
-      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
       "added_at": "2022-05-12 16:00:00",
@@ -175,6 +175,30 @@
     {
       "added_at": "2022-05-12 16:00:00",
       "album": {
+        "name": "BTBT",
+        "url": "https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 219549,
+      "name": "BTBT",
+      "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
+    },
+    {
+      "added_at": "2022-05-12 16:00:00",
+      "album": {
         "name": "Better Than Lying",
         "url": "https://open.spotify.com/album/59NBcSiokpxchINPEl2yVD"
       },
@@ -187,6 +211,30 @@
       "duration_ms": 152399,
       "name": "Better Than Lying",
       "url": "https://open.spotify.com/track/6ZEjY2O5mKuJURxkea9IlH"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
     },
     {
       "added_at": "2022-05-12 16:00:00",
@@ -383,6 +431,22 @@
     {
       "added_at": "2022-05-12 16:00:00",
       "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
+    {
+      "added_at": "2022-05-12 16:00:00",
+      "album": {
         "name": "BAIL\u00c9 CON MI EX",
         "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
       },
@@ -428,8 +492,8 @@
           "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         },
         {
-          "name": "Kenzie",
-          "url": "https://open.spotify.com/artist/33y3zhFyQZ0DHVpoow1ka8"
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
         }
       ],
       "duration_ms": 158104,
@@ -451,6 +515,22 @@
       "duration_ms": 165453,
       "name": "Michael",
       "url": "https://open.spotify.com/track/5niZJWbyibvP1huOd2XUde"
+    },
+    {
+      "added_at": "2022-05-12 16:00:00",
+      "album": {
+        "name": "Don't Love Me",
+        "url": "https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Don't Love Me",
+      "url": "https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY"
     },
     {
       "added_at": "2022-05-12 16:00:00",

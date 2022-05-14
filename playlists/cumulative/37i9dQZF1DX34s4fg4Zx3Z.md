@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Vang; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Vang; thiết kế: Isu Kim
 
 305 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 

@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-113 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+114 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Canyon](https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 | 2022-02-17 |  |
 | [Chosen](https://open.spotify.com/track/143qitJ7Iy92Vzu4XZvr5P) | [Ron Artis II](https://open.spotify.com/artist/3u8dOa0zveymreEFH7Yo5C) | [Chosen](https://open.spotify.com/album/0HAZOFZUpAk0JSeqsPjgUl) | 3:05 | 2022-03-25 |  |
 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 | 2022-03-25 |  |
+| [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 | 2022-05-13 |  |
 | [Coming Out Fighting](https://open.spotify.com/track/4BhIdUwXCuraOleWckiAL5) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Coming Out Fighting](https://open.spotify.com/album/7v4kN2sY4pDsP6MpafYEbk) | 3:43 | 2022-02-17 |  |
 | [Count On](https://open.spotify.com/track/5xyJYRFB6Mm9hn7eR2c4dK) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Count On](https://open.spotify.com/album/6R91ORPOY75HqPuoAYHQXE) | 4:17 | 2022-02-17 |  |
 | [Delightful \(The Sower Never Wastes A Tear\)](https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Are We There Yet?](https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq) | 5:07 | 2022-04-29 |  |

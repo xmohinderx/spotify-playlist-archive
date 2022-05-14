@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> Explore the ever\-evolving roots & folk scene\. Cover: Marlon Williams
+> Explore the ever\-evolving roots & folk scene\. Cover: Andrew Bird
 
-200 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
+201 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/253UejjPPflLcat0bb66LZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-05-06 |  |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-12-10 |  |
 | [Better Days \- Stripped](https://open.spotify.com/track/4eYAj2IhOBJwL9s6sFsCwi) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days \(Stripped\)](https://open.spotify.com/album/5hSfMn1K0oSbf5mYpuNzXK) | 3:30 | 2021-12-10 | 2022-03-26 |
+| [Bittersweet, TN](https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 4:13 | 2022-05-13 |  |
 | [Black Hole](https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Black Hole](https://open.spotify.com/album/5WB4gBdiDMMGjqoQqZWj6S) | 4:02 | 2022-04-01 |  |
 | [Blind Missiles](https://open.spotify.com/track/4iIoVlUgVqWmnJ85HoOD7J) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Blind Missiles](https://open.spotify.com/album/3ia3GpJPPwJPx1mvu1JCaR) | 3:21 | 2021-12-10 |  |
 | [break the ground](https://open.spotify.com/track/2gXTKHCq2yBPouSxkUZuA7) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [break the ground](https://open.spotify.com/album/1tNEMEBBT5xddPjQI8RobJ) | 2:35 | 2022-04-22 |  |
@@ -177,7 +178,7 @@
 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 | 2021-12-10 | 2022-05-07 |
 | [These Fires](https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Deluxe Version\)](https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU) | 2:51 | 2021-12-17 |  |
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2021-12-10 | 2022-03-26 |
-| [This Is A Photograph](https://open.spotify.com/track/6R3eECv1wptTUHATHSogu7) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/1OKW5mdYIJ2gqDMIHCzpRE) | 3:30 | 2022-03-04 |  |
+| [This Is A Photograph](https://open.spotify.com/track/6R3eECv1wptTUHATHSogu7) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/1OKW5mdYIJ2gqDMIHCzpRE) | 3:30 | 2022-03-04 | 2022-05-14 |
 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 | 2022-04-01 |  |
 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 | 2022-04-15 |  |
 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 | 2021-12-10 | 2022-01-08 |

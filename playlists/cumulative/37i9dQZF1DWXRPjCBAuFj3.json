@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Future",
+  "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Kendrick Lamar",
   "name": "Rap Internazionale",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7nFpRUHzCdFcv1vSsvGf3y"
+  ],
   "tracks": [
     {
       "album": {
@@ -39,6 +41,24 @@
       "duration_ms": 186538,
       "name": "AHHH HA",
       "url": "https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp"
+    },
+    {
+      "album": {
+        "name": "Ain't It A Flex",
+        "url": "https://open.spotify.com/album/4Bsj7aknXbMq9W4zjYdNl0"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130869,
+      "name": "Ain't It A Flex",
+      "url": "https://open.spotify.com/track/3VJCF5cQExY4I1UUeumYPv"
     },
     {
       "album": {
@@ -152,6 +172,32 @@
     },
     {
       "album": {
+        "name": "B.I.B.L.E.",
+        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241643,
+      "name": "Changed On Me (feat. Vory & Polo G)",
+      "url": "https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9"
+    },
+    {
+      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -200,6 +246,68 @@
     },
     {
       "album": {
+        "name": "D.M.B.",
+        "url": "https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291611,
+      "name": "D.M.B.",
+      "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+    },
+    {
+      "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
+    },
+    {
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -215,6 +323,24 @@
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "album": {
+        "name": "Pier Pressure",
+        "url": "https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166767,
+      "name": "Early Hours",
+      "url": "https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB"
     },
     {
       "album": {
@@ -536,6 +662,24 @@
     },
     {
       "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154997,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
       },
@@ -595,6 +739,28 @@
       "duration_ms": 201168,
       "name": "Khabib",
       "url": "https://open.spotify.com/track/194U52vElkbmFe8QTefrgw"
+    },
+    {
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/0TsOm4E0XQe80Pu9LATE21"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196686,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/4nOr5Mas8g2cF5CfTHZfpY"
     },
     {
       "album": {
@@ -686,6 +852,28 @@
     },
     {
       "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
+    {
+      "album": {
         "name": "Lonely (with Lil Wayne)",
         "url": "https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l"
       },
@@ -701,7 +889,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 154432,
       "name": "Lonely (with Lil Wayne)",
       "url": "https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR"
@@ -737,7 +925,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 147000,
       "name": "mathematics",
       "url": "https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ"
@@ -933,7 +1121,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
@@ -955,6 +1143,28 @@
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK"
+    },
+    {
+      "album": {
+        "name": "Me vs. Me",
+        "url": "https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210142,
+      "name": "Push It (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1s3etXt5RKVEuC14ugwmHy"
     },
     {
       "album": {
@@ -1068,6 +1278,24 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
+    },
+    {
+      "album": {
         "name": "Right On",
         "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
       },
@@ -1083,6 +1311,24 @@
       "duration_ms": 213975,
       "name": "Right On",
       "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+    },
+    {
+      "album": {
+        "name": "ROLLIN N CONTROLLIN FREESTYLE",
+        "url": "https://open.spotify.com/album/752RRPgpiIBjptbb1BqoRI"
+      },
+      "artists": [
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191208,
+      "name": "ROLLIN N CONTROLLIN FREESTYLE",
+      "url": "https://open.spotify.com/track/1xqRKo0SDFDO5Jy8yEVD0X"
     },
     {
       "album": {
@@ -1200,6 +1446,50 @@
     },
     {
       "album": {
+        "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
+        "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213307,
+      "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
+      "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
+    },
+    {
+      "album": {
+        "name": "Story Time",
+        "url": "https://open.spotify.com/album/6RCSiZ997D80DSuDuHWsUH"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Story Time",
+      "url": "https://open.spotify.com/track/10HF71PuUpSj45eENr2hxx"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
       },
@@ -1215,6 +1505,28 @@
       "duration_ms": 196939,
       "name": "Straight Back to It",
       "url": "https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4"
+    },
+    {
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
     },
     {
       "album": {
@@ -1247,7 +1559,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 332362,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"

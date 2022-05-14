@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic music from Electronica to Techno. Cover: Moderat",
-  "num_followers": 530419,
+  "num_followers": 530601,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-05-12 23:00:00",
       "album": {
+        "name": "Empire EP",
+        "url": "https://open.spotify.com/album/6di6YbDP1WIdHmsboMKikN"
+      },
+      "artists": [
+        {
+          "name": "Koelle",
+          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
+        }
+      ],
+      "duration_ms": 230082,
+      "name": "Empires Of The North",
+      "url": "https://open.spotify.com/track/5Tk2XCfrRLVwVMK4zvk690"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
         "name": "Never The Same",
         "url": "https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj"
       },
@@ -1235,6 +1251,22 @@
       "duration_ms": 255245,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3rBi5p8tSMbtzqtQVkTi2L"
+    },
+    {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
     },
     {
       "added_at": "2022-05-12 23:00:00",

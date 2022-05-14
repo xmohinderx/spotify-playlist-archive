@@ -4,7 +4,7 @@
 
 > The sweet sounds of Tunisia.
 
-62 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
+63 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Ana Li Bghit](https://open.spotify.com/track/4p1sxxbjtfhWQfyaF2mm5d) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ana Li Bghit](https://open.spotify.com/album/6iad05pe3Sb9HDP7ffVTJU) | 3:49 | 2021-12-10 |  |
 | [Bad Love](https://open.spotify.com/track/3jI5FBlOWlKYglME1q48B4) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Bad Love](https://open.spotify.com/album/4spBd91JN0Z6286LG86wDv) | 3:48 | 2022-02-25 |  |
 | [Bannié](https://open.spotify.com/track/4kJBCP7CJLys6lWylczq6A) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Bannié](https://open.spotify.com/album/64xlqkinSkv9qeuW2Klb4V) | 2:54 | 2021-12-10 | 2022-01-15 |
-| [Barrani](https://open.spotify.com/track/3IycNypa7kCP0pHTCcW7cJ) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Barrani](https://open.spotify.com/album/5yDX6jEVnTgNHmUkT7PuxJ) | 3:03 | 2021-12-10 |  |
+| [Barrani](https://open.spotify.com/track/3IycNypa7kCP0pHTCcW7cJ) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Barrani](https://open.spotify.com/album/5yDX6jEVnTgNHmUkT7PuxJ) | 3:03 | 2021-12-10 | 2022-05-14 |
 | [Beli Wassit](https://open.spotify.com/track/0KwaYXajEWxN9KLVqpwAyK) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Beli Wassit](https://open.spotify.com/album/4oOglonQ8avYy0LeJDKcUi) | 4:05 | 2021-12-10 |  |
 | [Blata](https://open.spotify.com/track/0zVePr5IuAQISOFQXjQ1D9) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Blata](https://open.spotify.com/album/7ru31Nlx5qRZDvupo3euWo) | 3:53 | 2021-12-10 |  |
 | [Blonda](https://open.spotify.com/track/7numLiPibzIhZ2oITph8z4) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Romeo](https://open.spotify.com/album/6X6DhXAyYwrJR5KySBgGhj) | 3:42 | 2021-12-10 |  |
@@ -46,7 +46,7 @@
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 |  |
 | [Mani Wlidek](https://open.spotify.com/track/3sWOuPS3srcCShuoYjd6hG) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Mani Wlidek](https://open.spotify.com/album/7cRWMRusoJ6juDguMnq7pI) | 2:56 | 2021-12-10 |  |
 | [Mathi](https://open.spotify.com/track/2BUzhyKaCLs3uqeN5HUWHE) | [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY) | [Mathi](https://open.spotify.com/album/7F5Iqxhgk9qNwuMNtoBgdb) | 3:24 | 2022-02-03 |  |
-| [Mdayda](https://open.spotify.com/track/1ijxKmMQEF3gMcCW5irUUe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/03Ii9iQ6ScfiiliYXhjfaD) | 3:49 | 2021-12-10 |  |
+| [Mdayda](https://open.spotify.com/track/1ijxKmMQEF3gMcCW5irUUe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/03Ii9iQ6ScfiiliYXhjfaD) | 3:49 | 2021-12-10 | 2022-05-14 |
 | [Mouj El Bahar](https://open.spotify.com/track/2SL62n2nNp0dY332iKc8Th) | [Saif ElRezgui](https://open.spotify.com/artist/77oNTNdel3zaotNHdI4x65), [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Mouj El Bahar](https://open.spotify.com/album/1rcEdLVrSG3vaI3RnJqDu4) | 3:29 | 2021-12-10 | 2022-02-23 |
 | [Move](https://open.spotify.com/track/5XnU6fppfaCp8cJCM0SXxe) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Move](https://open.spotify.com/album/717IhcEaucsFqL7YlM3aUa) | 3:03 | 2021-12-10 |  |
 | [Nawara](https://open.spotify.com/track/0oO79isQFRKI7hZx7Xt2fa) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Nawara](https://open.spotify.com/album/7MTBwPr1K0vUsyetOHPXgM) | 3:28 | 2021-12-10 |  |
@@ -69,6 +69,7 @@
 | [Ya Denya](https://open.spotify.com/track/16whsA6oQEJDzjKWa4hept) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ya Denya](https://open.spotify.com/album/2gS3rvgJD2djvs01xHCVAQ) | 4:12 | 2021-12-10 |  |
 | [Ya Hasra](https://open.spotify.com/track/46w0RuHSg4LYbMh1JjJU8j) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Hasra](https://open.spotify.com/album/0lHDyY2aMHz4WQrjFSpb20) | 5:40 | 2021-12-10 | 2022-03-01 |
 | [Yammi](https://open.spotify.com/track/4kMMvrtAPcSRax1kZg49eg) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Yammi](https://open.spotify.com/album/3bjWzuvIOn8LIKZX0U7txb) | 3:41 | 2021-12-10 |  |
+| [يا مالي البيت](https://open.spotify.com/track/28hkUg6xp4S4VIWw5jdqiq) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [يا مالي البيت](https://open.spotify.com/album/35K9946pjbcu35cfcBMEUk) | 3:19 | 2022-05-13 |  |
 | [يامالي عليا](https://open.spotify.com/track/7DP29ns5AsjtWC12ld2IiC) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [يامالي عليا](https://open.spotify.com/album/4K6RK8yyrTiwFglvCHFt1p) | 3:44 | 2021-12-10 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

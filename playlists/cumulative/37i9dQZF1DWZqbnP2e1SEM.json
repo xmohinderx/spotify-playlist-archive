@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 193143,
       "name": "Another Thrill (Like This)",
       "url": "https://open.spotify.com/track/4IdgTs65lF0pvfvIcoOnQM"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 206261,
       "name": "Bad (feat. Aitch)",
       "url": "https://open.spotify.com/track/4HTKztrMHpvn2sAl4HcK3J"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 223869,
       "name": "Cola",
       "url": "https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA"
@@ -1895,7 +1895,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 145885,
       "name": "HOT HOT",
       "url": "https://open.spotify.com/track/0oskPlVmx6H6HOQifoBNvL"
@@ -2199,6 +2199,28 @@
       "duration_ms": 182439,
       "name": "Lighter (feat. KSI)",
       "url": "https://open.spotify.com/track/5lWUeSYO61UYgNlFlqcwYl"
+    },
+    {
+      "album": {
+        "name": "OUTSIDER",
+        "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Charlotte X",
+          "url": "https://open.spotify.com/artist/5KEaTilneqGJ2SUc6ilfDS"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145649,
+      "name": "LIGHTS (feat. Charlotte X)",
+      "url": "https://open.spotify.com/track/7uuevg7Jk7TKuEfwc0kVS7"
     },
     {
       "album": {
@@ -2673,7 +2695,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 211029,
       "name": "My Paradise",
       "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
@@ -2717,7 +2739,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw"
@@ -2757,7 +2779,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 212812,
       "name": "Never The Same",
       "url": "https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB"
@@ -2779,7 +2801,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
@@ -2859,7 +2881,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Out The Door",
       "url": "https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK"
@@ -3057,7 +3079,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 220581,
       "name": "Pump the Brakes",
       "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
@@ -3141,7 +3163,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 242904,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs"
@@ -3441,7 +3463,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 227189,
       "name": "Skanker",
       "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
@@ -3635,6 +3657,28 @@
       "duration_ms": 266200,
       "name": "Sunshine - Wookie Main Mix",
       "url": "https://open.spotify.com/track/5q1hpdlf8ncJUhKLyjHoHB"
+    },
+    {
+      "album": {
+        "name": "System (feat. WizKid)",
+        "url": "https://open.spotify.com/album/5ABN8cUVC3sZZQQLvGjiUM"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181550,
+      "name": "System (feat. WizKid)",
+      "url": "https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB"
     },
     {
       "album": {

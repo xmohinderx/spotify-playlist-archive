@@ -480,6 +480,24 @@
     },
     {
       "album": {
+        "name": "Changed",
+        "url": "https://open.spotify.com/album/2UrcEgREB1xJGXDNNlJcxv"
+      },
+      "artists": [
+        {
+          "name": "Taryn Papa",
+          "url": "https://open.spotify.com/artist/6Ej5v1jyKVKWQ9qdBkPMBW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168401,
+      "name": "Changed",
+      "url": "https://open.spotify.com/track/59CcTuZW4YDSAok0ZOOTgx"
+    },
+    {
+      "album": {
         "name": "Comin' from",
         "url": "https://open.spotify.com/album/2ZfSo68hUsfGiYxz0pYVf0"
       },
@@ -787,6 +805,24 @@
       "duration_ms": 173846,
       "name": "Fallback",
       "url": "https://open.spotify.com/track/3Awkc2RG0sxtLjJWgnYAHx"
+    },
+    {
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/2R4MEKaLTRhMZzTXo9mhv3"
+      },
+      "artists": [
+        {
+          "name": "Sasha McVeigh",
+          "url": "https://open.spotify.com/artist/4yrY81mNjR3hqlOAhu80IQ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "Fine Line",
+      "url": "https://open.spotify.com/track/6x65rzPIbTNgRjSXBwvmFs"
     },
     {
       "album": {
@@ -1439,6 +1475,24 @@
       "duration_ms": 184578,
       "name": "Knee On",
       "url": "https://open.spotify.com/track/2Ls3eAK8JioZRuyI508fIn"
+    },
+    {
+      "album": {
+        "name": "Know Ya",
+        "url": "https://open.spotify.com/album/1rW2XLmrFBksfkmxRSIPuj"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163924,
+      "name": "Know Ya",
+      "url": "https://open.spotify.com/track/5Fg0HlaYmQEcfeN8YoYbgV"
     },
     {
       "album": {
@@ -3123,6 +3177,24 @@
       "duration_ms": 227128,
       "name": "We'll Be",
       "url": "https://open.spotify.com/track/6nf5AVgf4Y4N9d21dolwpB"
+    },
+    {
+      "album": {
+        "name": "What Do We Do Now?",
+        "url": "https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156214,
+      "name": "What Do We Do Now?",
+      "url": "https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT"
     },
     {
       "album": {

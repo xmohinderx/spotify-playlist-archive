@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Behemoth
 
-812 songs - 2 day 6 hr 47 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+813 songs - 2 day 6 hr 51 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [Szex Witchery](https://open.spotify.com/track/2rfMZCzlXaGsrCiSdllKcT) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Szex Witchery](https://open.spotify.com/album/4POysr62d7E2iOCLDHe5sS) | 3:59 | 2022-01-21 | 2022-02-18 |
 | [Tailspin](https://open.spotify.com/track/20LvFcZE98jHaKkXn08GHe) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Tailspin](https://open.spotify.com/album/4HoG0k0I5c6ENALVZ7cGJw) | 3:16 | 2022-01-14 | 2022-02-11 |
 | [Take a Lesson](https://open.spotify.com/track/6zbgc4L3d6vho2rZlOtWQZ) | [Anvil](https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP) | [Take a Lesson](https://open.spotify.com/album/4tH9aZaQ3Zuj3SaQghgfer) | 4:21 | 2022-04-22 | 2022-04-29 |
+| [Talk to Me](https://open.spotify.com/track/5Ksj30jkBKURjP37bJHt6y) | [Scarlett O'Hara](https://open.spotify.com/artist/5ePmU5aXpdUJvBhlzEyjHp) | [Talk to Me](https://open.spotify.com/album/4BlNHCk4YJVesRg1QGq0EV) | 3:28 | 2022-05-13 |  |
 | [Tamashii No Houkai](https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Tamashii No Houkai](https://open.spotify.com/album/3ZBHu5UnXwrQrEeepL6X4B) | 5:58 | 2022-01-21 | 2022-02-18 |
 | [Tea Leaves](https://open.spotify.com/track/71rABdFG3LvphzqmMxDF2c) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Tea Leaves](https://open.spotify.com/album/6lcDSJnPRtRwPmNVVQc0Tt) | 3:34 | 2022-04-01 | 2022-04-08 |
 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 | 2022-03-11 | 2022-03-18 |

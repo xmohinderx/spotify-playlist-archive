@@ -2,9 +2,9 @@
 
 ### [mint Latin](https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi)
 
-> The leading wave of Latin Electronic music\. Cover: Tokischa & Marshmello
+> The leading wave of Latin Electronic music\. Cover: Natanael Cano, Steve Aoki
 
-96 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
+97 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2022-03-22 | 2022-04-29 |
 | [In Da Getto \- House Remix](https://open.spotify.com/track/3oF3vtJIOGoATqj4FaHdfs) | [Benja Murano](https://open.spotify.com/artist/60iQQCqxRxnfGVn7O0ijl4), [Zortness](https://open.spotify.com/artist/5vebRazPXOIg5ZGNkdQKrV) | [In Da Getto](https://open.spotify.com/album/0krGJ4a46hV1SBpS7G0vO1) | 2:52 | 2022-03-22 |  |
 | [Juntos \- Laurence Guy Remix](https://open.spotify.com/track/4unE6fywqCDfsaacxxbGvi) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Juntos \(Laurence Guy Remix\)](https://open.spotify.com/album/7IkGOvOeEI23hSW2FyvhLv) | 5:00 | 2022-03-22 | 2022-04-29 |
+| [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 | 2022-05-13 |  |
 | [La Rosa del Penal \(Llamar\)](https://open.spotify.com/track/0MyOKtPKUEgvMz7SHHwf45) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [La Rosa del Penal \(Llamar\)](https://open.spotify.com/album/0TgnR5s6e8YQMwQEZPvPuh) | 2:50 | 2022-03-22 | 2022-04-29 |
 | [Legoo](https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Legoo](https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS) | 2:28 | 2022-03-22 | 2022-04-29 |
 | [Llorando en un Ferrari](https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:13 | 2022-03-22 |  |
@@ -75,7 +76,7 @@
 | [Ojos Chiquitos](https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ojos Chiquitos](https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A) | 2:32 | 2022-04-20 |  |
 | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd) | 2:44 | 2022-03-22 |  |
 | [Papi Chulo](https://open.spotify.com/track/7BDeacseVr0vdqL0ofjm5Y) | [Nickobella](https://open.spotify.com/artist/4Bhe7FjSfLHTbUPIm5EnQt), [BeatItPunk](https://open.spotify.com/artist/4NihfBDoszDjMjIM64uJPT) | [Papi Chulo](https://open.spotify.com/album/2i8RUL42wpI7hcMMnOUHhd) | 3:10 | 2022-03-22 | 2022-04-21 |
-| [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-03-22 |  |
+| [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-03-22 | 2022-05-14 |
 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 | 2022-03-22 |  |
 | [Purisima \- Marsal Ventura & Jbill Remix](https://open.spotify.com/track/2hz28SuI4hFvHQ5E6xSXTt) | [Victor Magan](https://open.spotify.com/artist/6alFyA4PruPsPkMVpXgKdO), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Jheyzell](https://open.spotify.com/artist/3AYrBKh3Dd2cY4bfSSJThC), [Marsal Ventura](https://open.spotify.com/artist/3uGPais7i1uwcaa9xOjPjF), [Jbill](https://open.spotify.com/artist/15uUKLG8HlKhdUEAsgdejF) | [Purisima \(Marsal Ventura & Jbill Remix\)](https://open.spotify.com/album/3ZmM3WywY1Sy77o7eXAEPn) | 2:30 | 2022-03-22 | 2022-04-29 |
 | [Puñeta](https://open.spotify.com/track/6kzzkmk8zvdT0eFcIwDvFG) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP) | [NEAS DON'T CRY](https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD) | 2:51 | 2022-03-22 | 2022-04-29 |
@@ -102,7 +103,7 @@
 | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS) | 2:57 | 2022-04-29 |  |
 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 | 2022-03-22 |  |
 | [Vuela](https://open.spotify.com/track/6nJtkNn2xNPS7wnMqqxkUN) | [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60), [Dj Flechas](https://open.spotify.com/artist/5Fw4n5XRnte30eKCBAdwWH) | [Vuela](https://open.spotify.com/album/5uh94tIV50XBqUTR3trC2c) | 3:35 | 2022-03-22 | 2022-04-29 |
-| [Wanna Stop](https://open.spotify.com/track/1vj9zQwbID2XkPEsYOp59f) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Wanna Stop](https://open.spotify.com/album/3w65NF9vnUUXnphSZiof2L) | 2:33 | 2022-03-22 |  |
+| [Wanna Stop](https://open.spotify.com/track/1vj9zQwbID2XkPEsYOp59f) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Wanna Stop](https://open.spotify.com/album/3w65NF9vnUUXnphSZiof2L) | 2:33 | 2022-03-22 | 2022-05-14 |
 | [We Outside \- Sak Noel & Salvi Remix](https://open.spotify.com/track/5hbSLOZkTwfSbAglosqKh1) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY), [Kronic](https://open.spotify.com/artist/2V30V0HJG5k0FKh3Zd3UnH), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat) | [We Outside \(Sak Noel & Salvi Remix\)](https://open.spotify.com/album/2AZmSJDDeiQmf0q0EMRyKG) | 2:37 | 2022-03-22 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

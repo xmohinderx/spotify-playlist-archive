@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 180823,
+  "num_followers": 180903,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA1NzAxNjUxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA1NzU4MDY2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Mucki Bar",
         "url": "https://open.spotify.com/album/3pYdHv18QdrVPTldybOpSk"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/31dynF6Vm6s6cLsHEBL8kp"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "hjem fra fabrikken",
-        "url": "https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd"
-      },
-      "artists": [
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 208547,
-      "name": "hjem fra fabrikken",
-      "url": "https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "STOR MAND",
         "url": "https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA"
@@ -61,7 +45,23 @@
       "url": "https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "hjem fra fabrikken",
+        "url": "https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd"
+      },
+      "artists": [
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 208547,
+      "name": "hjem fra fabrikken",
+      "url": "https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Danser",
         "url": "https://open.spotify.com/album/5aIMBNbI3Qyno8HCRWP6iv"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5uPv6fOsHPC8ZqxRKElxMP"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "N\u00e5r M\u00e6nd Gr\u00e6der",
         "url": "https://open.spotify.com/album/5Hk2j3xL9WIU3oE7TWoBsv"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/1bIxLnZasVLJbol55wDU5r"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -125,23 +125,7 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "DR\u00d8M MIG V\u00c6K",
-        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "DR\u00d8M MIG V\u00c6K",
-      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "L\u00e5gsus For Evigt",
         "url": "https://open.spotify.com/album/5BsIA40eamUa23jQyAp3d1"
@@ -165,55 +149,23 @@
       "url": "https://open.spotify.com/track/1lARru9E0ESa5lZchy1Rvm"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+        "name": "DR\u00d8M MIG V\u00c6K",
+        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
         }
       ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+      "duration_ms": 163533,
+      "name": "DR\u00d8M MIG V\u00c6K",
+      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "DRIPPY",
-        "url": "https://open.spotify.com/album/4gya2SSwGp1nydI7O2yqvD"
-      },
-      "artists": [
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 194575,
-      "name": "DRIPPY",
-      "url": "https://open.spotify.com/track/15UqDIySHN7BlafyZzzD4s"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 266040,
-      "name": "Under Din Sne",
-      "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -229,23 +181,55 @@
       "url": "https://open.spotify.com/track/6e7KGsngU13kguy5hTvSxe"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+        "name": "DRIPPY",
+        "url": "https://open.spotify.com/album/4gya2SSwGp1nydI7O2yqvD"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
         }
       ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+      "duration_ms": 194575,
+      "name": "DRIPPY",
+      "url": "https://open.spotify.com/track/15UqDIySHN7BlafyZzzD4s"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 266040,
+      "name": "Under Din Sne",
+      "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -265,23 +249,7 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "f\u00f8ler mig selv 100",
         "url": "https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF"
@@ -297,55 +265,23 @@
       "url": "https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
-        "name": "Like It",
-        "url": "https://open.spotify.com/album/4HBzg9wOXmO2mNS7qNWf7v"
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
       "artists": [
         {
-          "name": "Lasse Skriver",
-          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 165330,
-      "name": "Like It",
-      "url": "https://open.spotify.com/track/5cKKhLrACXi9bVMxrMki75"
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "Hurtless",
-        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 180274,
-      "name": "Hurtless",
-      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Held & Lykke Med At Komme Hjem",
         "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"
@@ -365,43 +301,39 @@
       "url": "https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
-        "name": "The Heart Part 5",
-        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/4HBzg9wOXmO2mNS7qNWf7v"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
         }
       ],
-      "duration_ms": 332362,
-      "name": "The Heart Part 5",
-      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+      "duration_ms": 165330,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/5cKKhLrACXi9bVMxrMki75"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -417,67 +349,7 @@
       "url": "https://open.spotify.com/track/3a6GwXyS27Phmpr9XMv1h7"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "From Paris to Berlin (feat. Branco & Jimilian)",
-        "url": "https://open.spotify.com/album/76sA4WxmGHNNLUjQX2pbIQ"
-      },
-      "artists": [
-        {
-          "name": "Infernal",
-          "url": "https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k"
-        },
-        {
-          "name": "Jimilian",
-          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 152545,
-      "name": "From Paris to Berlin (feat. Branco & Jimilian)",
-      "url": "https://open.spotify.com/track/6bldUK7gjgeHbpxxoXd1xv"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Mere End Musik",
         "url": "https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9"
@@ -505,7 +377,119 @@
       "url": "https://open.spotify.com/track/2GajeoOS17ifAmYX8xxPZw"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "Hurtless",
+        "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 180274,
+      "name": "Hurtless",
+      "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "From Paris to Berlin (feat. Branco & Jimilian)",
+        "url": "https://open.spotify.com/album/76sA4WxmGHNNLUjQX2pbIQ"
+      },
+      "artists": [
+        {
+          "name": "Infernal",
+          "url": "https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k"
+        },
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "duration_ms": 152545,
+      "name": "From Paris to Berlin (feat. Branco & Jimilian)",
+      "url": "https://open.spotify.com/track/6bldUK7gjgeHbpxxoXd1xv"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Hensigt",
         "url": "https://open.spotify.com/album/0sBhlKHwZwJ1X7kcCP8Pqv"
@@ -521,39 +505,7 @@
       "url": "https://open.spotify.com/track/4b5qKstcv1JIha4xuq89iD"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "K\u00e6rlighed I Luften",
-        "url": "https://open.spotify.com/album/74O34YsHxesDMmiPUgtYDR"
-      },
-      "artists": [
-        {
-          "name": "Jimilian",
-          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "K\u00e6rlighed I Luften",
-      "url": "https://open.spotify.com/track/2xtNOow6ra2MYH35t3zbJf"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "HYGGE MYGGE",
         "url": "https://open.spotify.com/album/4rKa3KaGe8wg90d9Vpni7i"
@@ -569,23 +521,39 @@
       "url": "https://open.spotify.com/track/11AZDeHTCik5zXmZAFzDST"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
-        "name": "Thousand Miles",
-        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 164781,
-      "name": "Thousand Miles",
-      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "K\u00e6rlighed I Luften",
+        "url": "https://open.spotify.com/album/74O34YsHxesDMmiPUgtYDR"
+      },
+      "artists": [
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "K\u00e6rlighed I Luften",
+      "url": "https://open.spotify.com/track/2xtNOow6ra2MYH35t3zbJf"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Har Det Fucking Godt",
         "url": "https://open.spotify.com/album/2BmK8RyqMfaQiz0gRPfNAr"
@@ -601,31 +569,23 @@
       "url": "https://open.spotify.com/track/3NxlOtyM9V95ZhqRZGZdw7"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
+      "duration_ms": 332362,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "CSKI VOL. 2",
         "url": "https://open.spotify.com/album/0ssgEUHadlWTWQIGXuWZ5j"
@@ -649,7 +609,51 @@
       "url": "https://open.spotify.com/track/6Zw7r9dPtbX0D1CcIS8caf"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "BO4L",
+        "url": "https://open.spotify.com/album/3JE1v19SrHzxmZAbf8iHkZ"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 228590,
+      "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
+      "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "hjem fra fabrikken",
         "url": "https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd"
@@ -665,27 +669,39 @@
       "url": "https://open.spotify.com/track/1zTLgT9jFwTuwrFFcOqXNw"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 309327,
-      "name": "Churchill Downs (feat. Drake)",
-      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
@@ -709,43 +725,7 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "BO4L",
-        "url": "https://open.spotify.com/album/3JE1v19SrHzxmZAbf8iHkZ"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 228590,
-      "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
-      "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -765,7 +745,23 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "When You're Gone",
         "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
@@ -781,23 +777,27 @@
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+      "duration_ms": 309327,
+      "name": "Churchill Downs (feat. Drake)",
+      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -813,7 +813,43 @@
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "Hey Ho (feat. Hedegaard)",
+        "url": "https://open.spotify.com/album/0YDzSlf2GwXJ0FdzugxSvf"
+      },
+      "artists": [
+        {
+          "name": "Ude Af Kontrol",
+          "url": "https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev"
+        },
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Hey Ho (feat. Hedegaard)",
+      "url": "https://open.spotify.com/track/4CTIEUKezwBHWLsJsZjDw1"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+    },
+    {
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
@@ -829,7 +865,7 @@
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -849,7 +885,7 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-05-12 20:14:11",
+      "added_at": "2022-05-13 11:54:26",
       "album": {
         "name": "GHOST TOWN",
         "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
@@ -863,42 +899,6 @@
       "duration_ms": 193733,
       "name": "GHOST TOWN",
       "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
-    },
-    {
-      "added_at": "2022-05-12 20:14:11",
-      "album": {
-        "name": "Hey Ho (feat. Hedegaard)",
-        "url": "https://open.spotify.com/album/0YDzSlf2GwXJ0FdzugxSvf"
-      },
-      "artists": [
-        {
-          "name": "Ude Af Kontrol",
-          "url": "https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev"
-        },
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 195577,
-      "name": "Hey Ho (feat. Hedegaard)",
-      "url": "https://open.spotify.com/track/4CTIEUKezwBHWLsJsZjDw1"
     }
   ],
   "unique_name": "Top 50 - Denmark",

@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 259933,
       "name": "Charlie Brown Theme",
       "url": "https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 247200,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 466026,
       "name": "If I Were A Bell",
       "url": "https://open.spotify.com/track/6cp5rZOUVR0DWMf97J1VLy"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 284026,
       "name": "Kerosene II",
       "url": "https://open.spotify.com/track/1JNLwhmasqZ9cs8D652jhS"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 423173,
       "name": "La Valse Bleue",
       "url": "https://open.spotify.com/track/0FcUn6IPrPvzNRTaOyWKuu"
@@ -1533,7 +1533,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 331253,
       "name": "Prophet Jennings - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 287000,
       "name": "Sandino",
       "url": "https://open.spotify.com/track/1BYDZ6y1kfTEIj0OizAll6"
@@ -1769,7 +1769,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 146253,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/04bTSazBcvYh3yszQLzOZH"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 312680,
       "name": "The Surrey with the Fringe on Top",
       "url": "https://open.spotify.com/track/6RG7PpVmsdmqga0SIAgHWr"
@@ -2273,6 +2273,24 @@
       "duration_ms": 361226,
       "name": "You're My Everything",
       "url": "https://open.spotify.com/track/2if6fg81tcHazUisCKkXbU"
+    },
+    {
+      "album": {
+        "name": "I Don't Worry About A Thing",
+        "url": "https://open.spotify.com/album/58vFtbiyFPwDKwdhRI5D4V"
+      },
+      "artists": [
+        {
+          "name": "Mose Allison",
+          "url": "https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Your Mind Is on Vacation",
+      "url": "https://open.spotify.com/track/1GEf45ad9tT9njeDYw9WPx"
     },
     {
       "album": {

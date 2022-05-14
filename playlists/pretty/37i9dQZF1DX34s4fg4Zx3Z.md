@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Vang; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Vang; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,516 likes - 95 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,570 likes - 95 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 94 | [BABI CHO ANH MỘNG MER](https://open.spotify.com/track/7k0j1hALeDvdCshyo1CpRF) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [DAGIAM](https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg) | [BABI CHO ANH MỘNG MER](https://open.spotify.com/album/5XxY2OkSjmDPJRWLEUQMim) | 3:23 |
 | 95 | [Yêu Đơn Phương Là Gì?](https://open.spotify.com/track/6ilLvv7xWKC2Mvdfb9UkKw) | [h0n](https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS) | [Yêu Đơn Phương Là Gì](https://open.spotify.com/album/45TCvo7IOTYNjFP5VaYBIo) | 3:35 |
 
-Snapshot ID: `MTY1MjM5Mzk2NywwMDAwMDJlODAwMDAwMTgwYmE1YWZmZmMwMDAwMDE4MDgyNzk5OTUz`
+Snapshot ID: `MTY1MjQyNDE0MCwwMDAwMDJlYTAwMDAwMTgwYmMyNzY1YjEwMDAwMDE4MDgyNzk5OTUz`

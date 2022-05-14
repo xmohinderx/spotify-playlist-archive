@@ -230,6 +230,24 @@
     },
     {
       "album": {
+        "name": "Shape Up",
+        "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213613,
+      "name": "Carry Anne",
+      "url": "https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm"
+    },
+    {
+      "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/04CpXXZ8FRNJ5lipbTJDrs"
       },
@@ -536,6 +554,28 @@
     },
     {
       "album": {
+        "name": "Gas You Up",
+        "url": "https://open.spotify.com/album/5f8xhT86BR8tW1Fmaqey6A"
+      },
+      "artists": [
+        {
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
+        },
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157736,
+      "name": "Gas You Up",
+      "url": "https://open.spotify.com/track/2gX4yskSvJ8cjb5AolS0gT"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -717,7 +757,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 160000,
       "name": "I'm Perfect",
       "url": "https://open.spotify.com/track/2NFruMeEETdS4t6hM73Vip"
@@ -1407,7 +1447,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 173161,
       "name": "Splash (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"

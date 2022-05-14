@@ -1,12 +1,12 @@
 {
-  "description": "No sleep, bus, club, another club. Like this? You'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: Tove Lo",
-  "num_followers": 14760,
+  "description": "No sleep, bus, club, another club. Like this? You'll love <a href=\"spotify:playlist:37i9dQZF1DX1SbnWqcjJBz\">DESERVED</a>. Cover: AleXa",
+  "num_followers": 14945,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjMwMjgyNywwMDAwMDAyOTAwMDAwMTgwYjRlYzUxNjgwMDAwMDE4MDk0ZTk2ZDA4",
+  "snapshot_id": "MTY1MjQxNDQwMCwwMDAwMDAyYTAwMDAwMTgwYmI5MmM2ZjAwMDAwMDE4MGI1MGVlMzNl",
   "tracks": [
     {
       "added_at": "2022-05-06 04:00:00",
@@ -45,20 +45,20 @@
       "url": "https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO"
     },
     {
-      "added_at": "2022-04-29 04:01:00",
+      "added_at": "2022-05-13 04:00:00",
       "album": {
-        "name": "Technicolor",
-        "url": "https://open.spotify.com/album/31Obu5QSvQgbdm6B5puiCc"
+        "name": "Dance Away The Pain",
+        "url": "https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in"
       },
       "artists": [
         {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+          "name": "Number One Popstar",
+          "url": "https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q"
         }
       ],
-      "duration_ms": 197014,
-      "name": "Technicolor",
-      "url": "https://open.spotify.com/track/2nwOerYhdIBIxXqZZsk33g"
+      "duration_ms": 176813,
+      "name": "Dance Away The Pain",
+      "url": "https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -75,6 +75,102 @@
       "duration_ms": 190318,
       "name": "Maybe You\u2019re The Problem",
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Technicolor",
+        "url": "https://open.spotify.com/album/31Obu5QSvQgbdm6B5puiCc"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 197014,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/2nwOerYhdIBIxXqZZsk33g"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Used To Know Me",
+      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/2YxdLseWJW7VAz1jb3YPcI"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "duration_ms": 163602,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob"
+    },
+    {
+      "added_at": "2022-03-18 04:00:00",
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
+    },
+    {
+      "added_at": "2022-02-15 15:40:26",
+      "album": {
+        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Ancient Dreams In A Modern Land",
+      "url": "https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173255,
+      "name": "I'd Rather Have Sex",
+      "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
     },
     {
       "added_at": "2022-05-03 15:22:09",
@@ -109,22 +205,6 @@
       "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
     },
     {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Used To Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
-    },
-    {
       "added_at": "2022-05-09 14:06:34",
       "album": {
         "name": "Am I A Girl?",
@@ -139,22 +219,6 @@
       "duration_ms": 145272,
       "name": "Girls In Bikinis",
       "url": "https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173255,
-      "name": "I'd Rather Have Sex",
-      "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -187,22 +251,6 @@
       "duration_ms": 218706,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o"
-    },
-    {
-      "added_at": "2022-02-15 15:40:26",
-      "album": {
-        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Ancient Dreams In A Modern Land",
-      "url": "https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0"
     },
     {
       "added_at": "2022-04-01 10:49:18",
@@ -397,6 +445,22 @@
       "url": "https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G"
     },
     {
+      "added_at": "2022-02-15 15:40:26",
+      "album": {
+        "name": "EP 8",
+        "url": "https://open.spotify.com/album/5JDYyeV93HlRyB5EKqt3We"
+      },
+      "artists": [
+        {
+          "name": "Qveen Herby",
+          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
+        }
+      ],
+      "duration_ms": 203809,
+      "name": "Sugar Daddy",
+      "url": "https://open.spotify.com/track/2ViSWfhT0kvEulXA1HH7Wk"
+    },
+    {
       "added_at": "2022-04-08 13:43:43",
       "album": {
         "name": "Bang Bang (feat. Donna Missal)",
@@ -589,22 +653,6 @@
       "url": "https://open.spotify.com/track/3BoHfjuu9WBbQZ6dCd0CY7"
     },
     {
-      "added_at": "2022-02-15 15:40:26",
-      "album": {
-        "name": "EP 8",
-        "url": "https://open.spotify.com/album/5JDYyeV93HlRyB5EKqt3We"
-      },
-      "artists": [
-        {
-          "name": "Qveen Herby",
-          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
-        }
-      ],
-      "duration_ms": 203809,
-      "name": "Sugar Daddy",
-      "url": "https://open.spotify.com/track/2ViSWfhT0kvEulXA1HH7Wk"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "Check Check",
@@ -659,22 +707,6 @@
       "duration_ms": 145807,
       "name": "Fading Like A Flower",
       "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
-    },
-    {
-      "added_at": "2022-03-18 04:00:00",
-      "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
     },
     {
       "added_at": "2022-05-06 04:45:57",
@@ -747,6 +779,22 @@
       "duration_ms": 186264,
       "name": "Dance With Me - Edit",
       "url": "https://open.spotify.com/track/7IPdXJf4DEisUUL0WqTcKL"
+    },
+    {
+      "added_at": "2022-05-13 04:00:00",
+      "album": {
+        "name": "Bad for My Health",
+        "url": "https://open.spotify.com/album/1MvX6YKRXyhayUOEEqlvyI"
+      },
+      "artists": [
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 154076,
+      "name": "Bad For My Health",
+      "url": "https://open.spotify.com/track/7m0qnyh7iNzZhVjKIjRrEE"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -1443,22 +1491,6 @@
     {
       "added_at": "2022-02-15 15:40:26",
       "album": {
-        "name": "Romeo",
-        "url": "https://open.spotify.com/album/4JelUIdTlemlwWLV3GxRhm"
-      },
-      "artists": [
-        {
-          "name": "Elli Moore",
-          "url": "https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir"
-        }
-      ],
-      "duration_ms": 181628,
-      "name": "Romeo",
-      "url": "https://open.spotify.com/track/3KTLEpwnp5H4BYYjyGz9Xu"
-    },
-    {
-      "added_at": "2022-02-15 15:40:26",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX"
       },
@@ -1631,50 +1663,6 @@
       "duration_ms": 172341,
       "name": "Jenny (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/6iKV3OxYyXJK1uAoZnKVMz"
-    },
-    {
-      "added_at": "2022-02-15 15:40:26",
-      "album": {
-        "name": "Taste Test",
-        "url": "https://open.spotify.com/album/3KtsjMFlb2AZxVHwhkEkFs"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        },
-        {
-          "name": "Lemon",
-          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "Come Through",
-      "url": "https://open.spotify.com/track/1dlz8dUn5Hbebp5nA9srNX"
-    },
-    {
-      "added_at": "2022-02-15 15:40:26",
-      "album": {
-        "name": "There Will Be Tears",
-        "url": "https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w"
-      },
-      "artists": [
-        {
-          "name": "VINCINT",
-          "url": "https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd"
-        },
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        },
-        {
-          "name": "Princess Precious",
-          "url": "https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5"
-        }
-      ],
-      "duration_ms": 187639,
-      "name": "Higher (feat. Alex Newell)",
-      "url": "https://open.spotify.com/track/3x0oc9CVW5RwLx4EHW6JZk"
     },
     {
       "added_at": "2022-02-15 15:40:26",

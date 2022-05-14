@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/3MbNdzvZq9sYQ0eibEbiol"
+      },
+      "artists": [
+        {
+          "name": "Coffey Anderson",
+          "url": "https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198213,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/3iy3WGBub3OWs2t4GFTGA9"
+    },
+    {
+      "album": {
         "name": "Blessed & Free",
         "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
       },

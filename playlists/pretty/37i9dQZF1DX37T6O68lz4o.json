@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI1NDAwNSwwMDAwMDAxOTAwMDAwMTgwNzY2ODhkOWIwMDAwMDE4MDJjM2QzNzg2",
+  "snapshot_id": "MTY1MjQ3MzIyNCwwMDAwMDAxYTAwMDAwMTgwYmYxNDVmMDkwMDAwMDE4MDJjM2QzNzg2",
   "tracks": [
     {
       "added_at": "2022-04-15 08:01:02",
@@ -29,10 +29,10 @@
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
-      "added_at": "2022-04-02 00:02:24",
+      "added_at": "2022-05-13 20:20:24",
       "album": {
-        "name": "Blick Blick",
-        "url": "https://open.spotify.com/album/07aMKfkSdi11ETUey6xQZi"
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/2xMpbBZGVWtjkoaMZKhkyO"
       },
       "artists": [
         {
@@ -40,13 +40,13 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 178413,
-      "name": "Blick Blick (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/4wNH2VpM24njig7l0ivyfn"
+      "duration_ms": 209080,
+      "name": "Paranoid (with Polo G)",
+      "url": "https://open.spotify.com/track/0M0OhSuJk1TWEQgvk7J9uV"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -67,22 +67,6 @@
     {
       "added_at": "2022-04-29 17:40:05",
       "album": {
-        "name": "Shopping Spree",
-        "url": "https://open.spotify.com/album/0R0ynonS1lOBtOik0EHeFv"
-      },
-      "artists": [
-        {
-          "name": "Vintage Lee",
-          "url": "https://open.spotify.com/artist/197t0dYfJx5S2mxxEHApdf"
-        }
-      ],
-      "duration_ms": 224297,
-      "name": "Shopping Spree",
-      "url": "https://open.spotify.com/track/36aRN8cZQOsNCzflng8p4u"
-    },
-    {
-      "added_at": "2022-04-29 17:40:05",
-      "album": {
         "name": "On Deck",
         "url": "https://open.spotify.com/album/65JhfbFpJ770al7RqmmNxi"
       },
@@ -99,6 +83,38 @@
       "duration_ms": 174915,
       "name": "On Deck",
       "url": "https://open.spotify.com/track/3mxEteSWk9MppDJFxCGU2Q"
+    },
+    {
+      "added_at": "2022-05-13 20:20:24",
+      "album": {
+        "name": "Ye Not Crazy",
+        "url": "https://open.spotify.com/album/19KpEHCcxkTNQWm0O0aa9w"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 226758,
+      "name": "Ye Not Crazy",
+      "url": "https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE"
+    },
+    {
+      "added_at": "2022-04-29 17:40:05",
+      "album": {
+        "name": "Shopping Spree",
+        "url": "https://open.spotify.com/album/0R0ynonS1lOBtOik0EHeFv"
+      },
+      "artists": [
+        {
+          "name": "Vintage Lee",
+          "url": "https://open.spotify.com/artist/197t0dYfJx5S2mxxEHApdf"
+        }
+      ],
+      "duration_ms": 224297,
+      "name": "Shopping Spree",
+      "url": "https://open.spotify.com/track/36aRN8cZQOsNCzflng8p4u"
     },
     {
       "added_at": "2021-10-08 03:57:21",
@@ -177,10 +193,26 @@
       "url": "https://open.spotify.com/track/0LRDuhmYlMW44HOeZIvwj7"
     },
     {
-      "added_at": "2022-04-02 00:02:24",
+      "added_at": "2022-05-13 20:20:24",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4ACLgfMamrAg6m69EDxyPn"
+        "name": "Home Runs (feat. Austin White & KAS & Maryann Vasquez & Matt Martians & sur chevvie)",
+        "url": "https://open.spotify.com/album/7BtWzviA4kgRwdOI9I1Vzk"
+      },
+      "artists": [
+        {
+          "name": "Theo Martins",
+          "url": "https://open.spotify.com/artist/0tjTmItQq8Eo1hsVvOf83D"
+        }
+      ],
+      "duration_ms": 293142,
+      "name": "Balloons",
+      "url": "https://open.spotify.com/track/47b2XVQ10Jor3O72vv8Sd8"
+    },
+    {
+      "added_at": "2022-04-29 17:40:05",
+      "album": {
+        "name": "Idle",
+        "url": "https://open.spotify.com/album/3xfFLKv0oVNio7JbDjMKAt"
       },
       "artists": [
         {
@@ -188,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3V6C0b6qW61rD8dNhBgKdr"
         }
       ],
-      "duration_ms": 120774,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3aFNtyTpocAIn4HPgnRx1a"
+      "duration_ms": 95769,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/5hXwvADopPZvv3HbDHNdKQ"
     },
     {
       "added_at": "2022-04-02 00:02:24",
@@ -223,6 +255,26 @@
       "duration_ms": 145714,
       "name": "Sim Simma",
       "url": "https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx"
+    },
+    {
+      "added_at": "2022-05-13 20:20:24",
+      "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/2xMpbBZGVWtjkoaMZKhkyO"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "Blick Blick (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/5myb2mYtD7r7unMLd6ldng"
     },
     {
       "added_at": "2022-04-29 17:40:05",
@@ -277,20 +329,20 @@
       "url": "https://open.spotify.com/track/0ueiptVlkYXsu2gQ0xMWTi"
     },
     {
-      "added_at": "2022-04-29 17:40:05",
+      "added_at": "2022-05-13 20:20:24",
       "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/4TETa6W13oNXdnRNMNsYui"
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/2tFou8EO2dds63Yn7nhSnQ"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Gio Dee",
+          "url": "https://open.spotify.com/artist/6vDlSGgBjcYbC08baIEW46"
         }
       ],
-      "duration_ms": 142360,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/0krEkunYatZZmtrPOOzGNl"
+      "duration_ms": 128548,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/3OlEg3GUNv4nzGlffycGcn"
     },
     {
       "added_at": "2022-04-02 00:02:24",
@@ -347,18 +399,18 @@
     {
       "added_at": "2022-04-29 17:40:05",
       "album": {
-        "name": "Idle",
-        "url": "https://open.spotify.com/album/3xfFLKv0oVNio7JbDjMKAt"
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/4TETa6W13oNXdnRNMNsYui"
       },
       "artists": [
         {
-          "name": "Nino Francis",
-          "url": "https://open.spotify.com/artist/3V6C0b6qW61rD8dNhBgKdr"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 95769,
-      "name": "Moonrise",
-      "url": "https://open.spotify.com/track/5hXwvADopPZvv3HbDHNdKQ"
+      "duration_ms": 142360,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/0krEkunYatZZmtrPOOzGNl"
     },
     {
       "added_at": "2022-04-02 00:02:24",
@@ -409,7 +461,23 @@
       "url": "https://open.spotify.com/track/1MGO7n5BrI07L9IqV1rmwE"
     },
     {
-      "added_at": "2022-04-29 17:40:05",
+      "added_at": "2022-05-13 20:20:24",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/3rim2fqk0MyiDoJZkyZtJj"
+      },
+      "artists": [
+        {
+          "name": "Donald Grunge",
+          "url": "https://open.spotify.com/artist/0OYdOAg5NBuS47KdnJF4lH"
+        }
+      ],
+      "duration_ms": 121051,
+      "name": "Vamp Night",
+      "url": "https://open.spotify.com/track/0KCHHIt261Y0kjKBzG50sm"
+    },
+    {
+      "added_at": "2022-05-13 20:20:24",
       "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/6lJz9VGZfZG4WZDKudY9DN"
@@ -420,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6wmTMxyKDHCbnoxy4n66rb"
         }
       ],
-      "duration_ms": 122279,
-      "name": "Maniac Freestlye",
-      "url": "https://open.spotify.com/track/0GBrGmVit5tlCs6by41dQ2"
+      "duration_ms": 129358,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2jTE6AeQGalARe7wSgPv87"
     },
     {
       "added_at": "2022-04-02 00:02:24",
@@ -439,26 +507,6 @@
       "duration_ms": 161982,
       "name": "Daily",
       "url": "https://open.spotify.com/track/7IE6VIEvNkDEtht3MPur8n"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Just Call Me",
-        "url": "https://open.spotify.com/album/4NCcG0P2Zi0sTp3kI9rsHx"
-      },
-      "artists": [
-        {
-          "name": "David Fuller",
-          "url": "https://open.spotify.com/artist/24NPJaoT4nfaXxA4BG4jGb"
-        },
-        {
-          "name": "Chris Patrick",
-          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Just Call Me",
-      "url": "https://open.spotify.com/track/5X9lABpv52aYzMn15EmDJe"
     },
     {
       "added_at": "2022-04-29 17:40:05",
@@ -509,20 +557,20 @@
       "url": "https://open.spotify.com/track/2haIQVgu4075Yx0QhAJgCQ"
     },
     {
-      "added_at": "2022-04-29 17:40:05",
+      "added_at": "2022-05-13 20:20:24",
       "album": {
-        "name": "Loading...",
-        "url": "https://open.spotify.com/album/3IW0SINBK3zGMlGXrHONEp"
+        "name": "Lean On Me",
+        "url": "https://open.spotify.com/album/2SQZMmYxqL9t0tSJxUmeeR"
       },
       "artists": [
         {
-          "name": "Nyce Hitz",
-          "url": "https://open.spotify.com/artist/7E7gGJ4hAftdA2KwiUW4TT"
+          "name": "Krew$",
+          "url": "https://open.spotify.com/artist/2Q2bnfCHdRZfz6jktiJODz"
         }
       ],
-      "duration_ms": 190484,
-      "name": "Catch Up",
-      "url": "https://open.spotify.com/track/1cPHpHCwG6JLAg4Qi73zHv"
+      "duration_ms": 122679,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/25txMNdjx35FRB2bawYzE5"
     },
     {
       "added_at": "2022-02-18 22:25:03",
@@ -581,58 +629,6 @@
       "url": "https://open.spotify.com/track/6iukxcu5Y6aDNlWomndA3u"
     },
     {
-      "added_at": "2022-02-18 22:25:03",
-      "album": {
-        "name": "4 Me Riddim",
-        "url": "https://open.spotify.com/album/0F3KAJ2b10e7uU1LNzlekb"
-      },
-      "artists": [
-        {
-          "name": "Juxi",
-          "url": "https://open.spotify.com/artist/26tQ1RhE9rC5clEejwOCez"
-        },
-        {
-          "name": "Drey Armani",
-          "url": "https://open.spotify.com/artist/0vCW0L45r55ys8fXAhzlAX"
-        }
-      ],
-      "duration_ms": 201769,
-      "name": "4 Me Riddim",
-      "url": "https://open.spotify.com/track/4SVMDhXT7OfZPPDusSQkOr"
-    },
-    {
-      "added_at": "2022-03-18 04:37:31",
-      "album": {
-        "name": "Its Different (EP)",
-        "url": "https://open.spotify.com/album/41R7kGCZsuu7adAVzN614X"
-      },
-      "artists": [
-        {
-          "name": "Brandon James",
-          "url": "https://open.spotify.com/artist/3g4SmccDmUXgHW2vvyNPmi"
-        }
-      ],
-      "duration_ms": 166478,
-      "name": "ON MY MIND",
-      "url": "https://open.spotify.com/track/0NJTH3zNgNzYczVpbjAF2s"
-    },
-    {
-      "added_at": "2022-03-18 04:37:31",
-      "album": {
-        "name": "Last Day In",
-        "url": "https://open.spotify.com/album/5M1wvisx9DfammyIeVi27e"
-      },
-      "artists": [
-        {
-          "name": "Illy Dee",
-          "url": "https://open.spotify.com/artist/0AsuEtNobq10EgfGa9EBC7"
-        }
-      ],
-      "duration_ms": 137195,
-      "name": "Last Day In",
-      "url": "https://open.spotify.com/track/1IM3HdZFaOcMP7JSsCQawx"
-    },
-    {
       "added_at": "2022-04-15 08:01:02",
       "album": {
         "name": "Dancing With The Devil",
@@ -647,22 +643,6 @@
       "duration_ms": 165631,
       "name": "Cold Heart",
       "url": "https://open.spotify.com/track/1lmKuhfpjHbnV0JMsmSOBo"
-    },
-    {
-      "added_at": "2022-04-02 00:02:24",
-      "album": {
-        "name": "World Tour 2",
-        "url": "https://open.spotify.com/album/0hIuidP0BAmCavHKygXZMa"
-      },
-      "artists": [
-        {
-          "name": "$wifty",
-          "url": "https://open.spotify.com/artist/4RQbnt5gBFenkO4j3drPwc"
-        }
-      ],
-      "duration_ms": 130690,
-      "name": "Chris Rock",
-      "url": "https://open.spotify.com/track/6JkhdC5kDeblUbq5abrLIm"
     },
     {
       "added_at": "2022-01-29 00:15:56",
@@ -817,36 +797,36 @@
       "url": "https://open.spotify.com/track/68BtzrEvjP4CBIin4NLvKy"
     },
     {
-      "added_at": "2022-01-29 00:15:56",
+      "added_at": "2022-05-13 20:20:24",
       "album": {
-        "name": "My Escape",
-        "url": "https://open.spotify.com/album/1OM4rOFBBHRbN588TxCrD3"
+        "name": "Flashpoint",
+        "url": "https://open.spotify.com/album/0UQV7nHWScuVv5tEZn6gfE"
       },
       "artists": [
         {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          "name": "Kadeem",
+          "url": "https://open.spotify.com/artist/6tvhrOPkBOrTrzpfOB5n4R"
         }
       ],
-      "duration_ms": 223030,
-      "name": "My Escape",
-      "url": "https://open.spotify.com/track/5joeIfncVcIwkrOqyXvKCx"
+      "duration_ms": 124929,
+      "name": "Flashpoint",
+      "url": "https://open.spotify.com/track/6AENQ4X75dWj4XzdoimMbQ"
     },
     {
-      "added_at": "2022-03-04 18:25:52",
+      "added_at": "2022-05-13 20:20:24",
       "album": {
-        "name": "Catch A Vibe",
-        "url": "https://open.spotify.com/album/56diIxeoyF8JjgGown0uBc"
+        "name": "The Sensational Sound, Vol. 1",
+        "url": "https://open.spotify.com/album/1igIhdPVFflf708vHXU3ka"
       },
       "artists": [
         {
-          "name": "Smoke Bulga",
-          "url": "https://open.spotify.com/artist/3LJAb2dY303K7TNVK8G8hI"
+          "name": "Frank The Butcher",
+          "url": "https://open.spotify.com/artist/3gq3dCYaPLfkvKi65aVjNv"
         }
       ],
-      "duration_ms": 173499,
-      "name": "Catch A Vibe",
-      "url": "https://open.spotify.com/track/2YULloC3CcrBms4SVaEtwj"
+      "duration_ms": 130000,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/0iT5QofeBagraTU9n40mFf"
     },
     {
       "added_at": "2022-04-29 17:40:05",
@@ -903,6 +883,22 @@
       "duration_ms": 120000,
       "name": "How U Feel",
       "url": "https://open.spotify.com/track/1giI6r0Nsrjppnma2uoFiw"
+    },
+    {
+      "added_at": "2022-05-13 20:20:24",
+      "album": {
+        "name": "TOUCH",
+        "url": "https://open.spotify.com/album/2wCWMXhdqZ10sHYAUCfnDt"
+      },
+      "artists": [
+        {
+          "name": "Tekowa Lakica",
+          "url": "https://open.spotify.com/artist/26HeoqIprMyFI8AQZMjqJJ"
+        }
+      ],
+      "duration_ms": 164246,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/2FFTcZlVcJgix9SKcTg7Sy"
     }
   ],
   "unique_name": "Ripple Effect: New England",

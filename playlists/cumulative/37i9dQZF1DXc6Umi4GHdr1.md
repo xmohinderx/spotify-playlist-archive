@@ -4,12 +4,13 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-93 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+96 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Hole In My Jeans](https://open.spotify.com/track/7b6g3CZ4ud4zllVhO9nSMT) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [A Little Hole In My Jeans](https://open.spotify.com/album/3QQLXcFcRaSRmA7WrWB9Wv) | 3:24 | 2022-03-03 |  |
 | [Airstream](https://open.spotify.com/track/4Dh7eyJf2nJgPfpQAOiL7z) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Airstream](https://open.spotify.com/album/4SBHi1gf4x4rlDr6DEHw16) | 3:44 | 2022-03-03 |  |
+| [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 | 2022-05-13 |  |
 | [Andorra](https://open.spotify.com/track/6LoBY8H1V4JMpXTcWO73Db) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Andorra](https://open.spotify.com/album/5Myhfafww3fj0Fb38ycbYx) | 2:23 | 2022-01-11 |  |
 | [Anji](https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:13 | 2021-12-10 | 2022-04-06 |
 | [Anoranza](https://open.spotify.com/track/6aq1erKhdTigJdqnoeWCrz) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Anoranza](https://open.spotify.com/album/29qvE6ctOnyrUJWZODkMhV) | 2:48 | 2021-12-10 |  |
@@ -22,6 +23,7 @@
 | [Celebration of Sam](https://open.spotify.com/track/4RV2xO2WfaMS4W1lIxwx6J) | [Steve Pulvers](https://open.spotify.com/artist/4EIHPmsZkohwAGfn46iNmq) | [Acoustic Journey](https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g) | 3:45 | 2021-12-10 |  |
 | [Chimes](https://open.spotify.com/track/5SUEH5VIVUmIDyynFsjFgb) | [Anona Helene](https://open.spotify.com/artist/489KvuYBhHiNJYYnb2d2l2) | [Chimes](https://open.spotify.com/album/0FVTcnV3vxODYuvgviCTaU) | 2:47 | 2021-12-10 |  |
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2021-12-10 |  |
+| [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-05-13 |  |
 | [Close By The Fire](https://open.spotify.com/track/5hOXnyfvjzAPaqMP9lpojq) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Close By The Fire](https://open.spotify.com/album/5KzN2hat37o397IEZ25Zb7) | 3:25 | 2022-03-03 |  |
 | [Costa Brava](https://open.spotify.com/track/7HlZjFFk6Q9gLuotuvH44S) | [Brian Brohn](https://open.spotify.com/artist/4IvSlgyUcZU9Ru7rEAVtAQ) | [Tree Runner](https://open.spotify.com/album/3GDQ6Ds2GPGA7C505UseMo) | 3:05 | 2021-12-10 |  |
 | [Cuyutlan](https://open.spotify.com/track/451zGCNVAnPGS9Nv7PI8yQ) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:53 | 2021-12-10 |  |
@@ -82,6 +84,7 @@
 | [Southern](https://open.spotify.com/track/1MZDSZNmYSWR5IIRmmPCXm) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Southern](https://open.spotify.com/album/0s2CFBb8tEHleuDk01vwfz) | 2:38 | 2021-12-10 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-04-22 |  |
 | [The Autumn Travel](https://open.spotify.com/track/7LP1t5oBkzHKN7382egeou) | [Claude Amek](https://open.spotify.com/artist/4M0jA8df8J36E5xsqNGaAT) | [October Roads](https://open.spotify.com/album/3Ms99VQwBTFGwgxroh8Cpr) | 1:48 | 2021-12-10 |  |
+| [The Dunes](https://open.spotify.com/track/0HRRkGGFpMQH1AMLUDYjc1) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [The Dunes](https://open.spotify.com/album/0zHcpVeaC1y6X1hYDKklKL) | 2:47 | 2022-05-13 |  |
 | [The End of All Rivers](https://open.spotify.com/track/6nS9crd0L3jh2zbGCPGkiC) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Speechless](https://open.spotify.com/album/4YDbl2wUdoTpyErcBzIS74) | 5:55 | 2021-12-10 | 2022-04-06 |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-04-05 |  |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2021-12-10 |  |

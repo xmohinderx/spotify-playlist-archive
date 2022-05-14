@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-12",
   "description": "La carica giusta per i tuoi allenamenti!",
   "name": "Rap Motivazionale",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3Ey8aCYd3dXZSoSdUAPFlu"
+  ],
   "tracks": [
     {
       "album": {
@@ -79,7 +81,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 231920,
       "name": "90MIN",
       "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
@@ -123,7 +125,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 151421,
       "name": "Allenamento #2",
       "url": "https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC"
@@ -254,6 +256,24 @@
     },
     {
       "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/4P0hxsoJsKyJRcLcQ1aGG1"
       },
@@ -345,7 +365,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 205928,
       "name": "Cyborg (feat. Geolier)",
       "url": "https://open.spotify.com/track/54wRUYPMEHLttFdLImOlAt"
@@ -371,7 +391,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 231333,
       "name": "Dilemme (with tha Supreme & Mara Sattei)",
       "url": "https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt"
@@ -459,7 +479,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 168000,
       "name": "FIORI",
       "url": "https://open.spotify.com/track/500c6DLy4ag8gFAnkuzTxP"
@@ -514,6 +534,62 @@
     },
     {
       "album": {
+        "name": "GANG",
+        "url": "https://open.spotify.com/album/4LrEjQPdLMz73AkwQzCyjL"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "M4W",
+          "url": "https://open.spotify.com/artist/6hgvQjlsTbnVu6fznF1By0"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "GANG (feat. Geolier)",
+      "url": "https://open.spotify.com/track/2Yd6hF9rBSibtF4hlcnBEw"
+    },
+    {
+      "album": {
+        "name": "Re Mida (Aurum)",
+        "url": "https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164301,
+      "name": "Gigol\u00f2 (feat. Sfera Ebbasta & Capo Plaza)",
+      "url": "https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP"
+    },
+    {
+      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
       },
@@ -529,6 +605,24 @@
       "duration_ms": 221973,
       "name": "Giovane fuoriclasse",
       "url": "https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc"
+    },
+    {
+      "album": {
+        "name": "HIGHEST IN THE ROOM",
+        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175720,
+      "name": "HIGHEST IN THE ROOM",
+      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
     },
     {
       "album": {
@@ -797,6 +891,32 @@
       "duration_ms": 144097,
       "name": "MARYLEAN (feat. Marracash) - prod. Low Kidd",
       "url": "https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ"
+    },
+    {
+      "album": {
+        "name": "MI AMI O NO (feat. Capo Plaza)",
+        "url": "https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H"
+      },
+      "artists": [
+        {
+          "name": "Giaime",
+          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145085,
+      "name": "MI AMI O NO (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY"
     },
     {
       "album": {
@@ -1087,7 +1207,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188400,
       "name": "Pookie (feat. Capo Plaza) - Remix",
       "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
@@ -1185,7 +1305,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
@@ -1371,7 +1491,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 171375,
       "name": "Stamm Fort (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7hHf4gz7kGmkuwa6XMc88W"
@@ -1467,7 +1587,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 119848,
       "name": "Turn Up #3",
       "url": "https://open.spotify.com/track/54pS6oKp2y4wmZT7WdwJfr"
@@ -1536,6 +1656,28 @@
     },
     {
       "album": {
+        "name": "Scatola Nera",
+        "url": "https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173960,
+      "name": "Veleno 7",
+      "url": "https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh"
+    },
+    {
+      "album": {
         "name": "MM Vol. 4",
         "url": "https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce"
       },
@@ -1591,7 +1733,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 184320,
       "name": "VVS (feat. Gunna)",
       "url": "https://open.spotify.com/track/6t5avACouegDhYdGljoKt1"

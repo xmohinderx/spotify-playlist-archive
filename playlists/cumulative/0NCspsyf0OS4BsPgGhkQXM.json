@@ -2105,12 +2105,12 @@
       },
       "artists": [
         {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        },
-        {
           "name": "Fabian Mazur",
           "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
         }
       ],
       "date_added": "2022-05-06",
@@ -2207,6 +2207,24 @@
       "duration_ms": 120157,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
+    },
+    {
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190920,
+      "name": "Fuck U Love U",
+      "url": "https://open.spotify.com/track/33JtWDrMyTFRQTioosQwtg"
     },
     {
       "album": {
@@ -3798,6 +3816,24 @@
     },
     {
       "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/7coKFIZ84uHdwCYjnpzv9h"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f8n",
+          "url": "https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134285,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/6wTNs055Zhho6ngtbxFS2O"
+    },
+    {
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK"
       },
@@ -4612,6 +4648,24 @@
     },
     {
       "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199306,
+      "name": "Safe Life",
+      "url": "https://open.spotify.com/track/5MREUK9W3AYQ1YNowow8s8"
+    },
+    {
+      "album": {
         "name": "SAKURA BURST (Naeleck Remix) - Sakura Chill Beats Singles",
         "url": "https://open.spotify.com/album/06XBg45fb1ASwRGAwFyeD7"
       },
@@ -5364,6 +5418,28 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU"
+    },
+    {
+      "album": {
         "name": "The Ride (The FifthGuys Remix)",
         "url": "https://open.spotify.com/album/7EurNV3781MD7406Ph86i8"
       },
@@ -5459,6 +5535,24 @@
       "duration_ms": 211789,
       "name": "The Way To Do It",
       "url": "https://open.spotify.com/track/3XJPYvQwLQyXUSucA0SJQL"
+    },
+    {
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164466,
+      "name": "Thirst",
+      "url": "https://open.spotify.com/track/6vZD9cYsOhwZvQZO3C19Xk"
     },
     {
       "album": {

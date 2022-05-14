@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 158330,
       "name": "Bark Me",
       "url": "https://open.spotify.com/track/3V9WaNSklacDxsCwnpzhSa"
@@ -2009,7 +2009,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 144761,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/1wb3vmzdosCuTwmbe5MYyC"
@@ -2053,7 +2053,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 213750,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/5b8lJ9il0hbE1HFBIGgTit"
@@ -2447,7 +2447,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 184615,
       "name": "Heat",
       "url": "https://open.spotify.com/track/6dPtJhyt9o3Dhmo2n2VgUe"
@@ -3414,6 +3414,24 @@
     },
     {
       "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/4MX5uRMMHGEt3QaMIdamoH"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/3czS8iG6DI6SX5X4IT0uCu"
+    },
+    {
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/3BBduSXaJ66GdlH47TkUZw"
       },
@@ -3887,7 +3905,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 213750,
       "name": "Public Safety",
       "url": "https://open.spotify.com/track/2klazZmqwl8Bet5q4Uc7mp"
@@ -4153,7 +4171,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 156309,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/5l42EXVy40wtLv8FjUUYxl"
@@ -4293,6 +4311,24 @@
       "duration_ms": 187500,
       "name": "Sick N Heavy",
       "url": "https://open.spotify.com/track/1DcBJpHytoBKoNlSJ3JQar"
+    },
+    {
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190498,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
     },
     {
       "album": {

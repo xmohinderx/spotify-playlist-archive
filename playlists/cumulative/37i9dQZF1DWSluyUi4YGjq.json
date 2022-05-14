@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 195312,
       "name": "Al Rev\u00e9s - feat. Petite Amie",
       "url": "https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 155109,
       "name": "Bonsai",
       "url": "https://open.spotify.com/track/2Js2COGl7htc00CjZ2L2CO"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 194720,
       "name": "Bottlerocket",
       "url": "https://open.spotify.com/track/5EeaNNzKCbJfcaVnaWz6Dl"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 255786,
       "name": "Chance",
       "url": "https://open.spotify.com/track/2ULRusDLaLR8Di9kAt3JC2"
@@ -553,10 +553,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 254437,
       "name": "Culto",
       "url": "https://open.spotify.com/track/6Ow58pNK9dPNKLLxrfKX9z"
+    },
+    {
+      "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/2Fp2nN5Jriaag1RaQtYW7q"
+      },
+      "artists": [
+        {
+          "name": "Vero",
+          "url": "https://open.spotify.com/artist/2LsDmxmf4PpOYXeHYOuWKD"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190798,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/3y9rDgEdATAwgFX2NPKGw7"
     },
     {
       "album": {
@@ -679,7 +697,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 247200,
       "name": "Drift",
       "url": "https://open.spotify.com/track/61iCA0ReZHTA7f8ZaKZyEg"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 241902,
       "name": "En Letargo",
       "url": "https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 231640,
       "name": "Gemelos C\u00f3ctel",
       "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 281611,
       "name": "Gloss",
       "url": "https://open.spotify.com/track/2G7lT3oddwsV7tLX07IHvL"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 148453,
       "name": "Handsome Man",
       "url": "https://open.spotify.com/track/69AmXsTIzhpL1PzKzq4FRP"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 315968,
       "name": "In The Hanging Gardens",
       "url": "https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 276172,
       "name": "Inspiral",
       "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 191901,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 260360,
       "name": "Is This a Hotel?",
       "url": "https://open.spotify.com/track/3v4UCOl8AZzhSdCEbLLZu5"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 248186,
       "name": "Lemonade Beauty",
       "url": "https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 227281,
       "name": "Life in Color",
       "url": "https://open.spotify.com/track/4TdpOtzVF7aeh7EhvOk377"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 288575,
       "name": "Love Comes In Waves",
       "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
@@ -1536,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/1k3X1D3AnKLXo1mnMk1WeC"
+      },
+      "artists": [
+        {
+          "name": "JAUS",
+          "url": "https://open.spotify.com/artist/0m43w9Hjef7w2XWtttk7j2"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197100,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/53WUmuG7PPNjtbRWoN56SA"
+    },
+    {
+      "album": {
         "name": "Our Goal to Realise",
         "url": "https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1"
       },
@@ -1583,7 +1619,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 181301,
       "name": "Panic Song",
       "url": "https://open.spotify.com/track/41enh722WYrH5i2rJTXCxP"
@@ -1619,7 +1655,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 475065,
       "name": "Phase Break",
       "url": "https://open.spotify.com/track/1zPQS7xNJUksb1Zg5T6Nys"
@@ -1745,7 +1781,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 273533,
       "name": "Runner",
       "url": "https://open.spotify.com/track/1fItLBpR6V1T1DY1gtx9ph"
@@ -1835,7 +1871,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 276991,
       "name": "Shiny Shiny",
       "url": "https://open.spotify.com/track/33AccsjCXPy04llhvJbHFm"
@@ -2213,7 +2249,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 216520,
       "name": "Wanting War",
       "url": "https://open.spotify.com/track/1hFjYgyZe58ZTNBK4mX6m1"
@@ -2231,7 +2267,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 265600,
       "name": "While My Waves Wonder",
       "url": "https://open.spotify.com/track/5ZIspcdRpVEp02SIagDyP0"
@@ -2285,7 +2321,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 243929,
       "name": "Young Adult Friction",
       "url": "https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg"

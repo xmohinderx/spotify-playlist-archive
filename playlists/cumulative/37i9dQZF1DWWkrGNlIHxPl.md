@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Anees.
 
-132 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+133 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Got That Money](https://open.spotify.com/track/00nsIq2SgXZgTjCfmtKGet) | [DD Foxx](https://open.spotify.com/artist/3DyPuuZcBKl2eJyuU4kUS9) | [Got That Money](https://open.spotify.com/album/2QnEfbGT0qwHzBuRAxCccX) | 2:44 | 2021-12-16 |  |
 | [Grim Reaper](https://open.spotify.com/track/4Q8xz9BbklcXEMh2pqm6E8) | [N1YAH](https://open.spotify.com/artist/6ELQ5765WA0hjpXSriZfU7) | [Grim Reaper](https://open.spotify.com/album/0qBqDIErbDSTUNJ6WYXnlU) | 2:36 | 2021-12-16 |  |
 | [Grown Man Talk](https://open.spotify.com/track/4JlIzmtSDm5GGHfqXk3KPv) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Talib.](https://open.spotify.com/album/02ECeIkL7FkU4OMFzqnouf) | 2:08 | 2021-12-16 |  |
-| [Habiba \(feat\. Tawsen\)](https://open.spotify.com/track/4mCkHTkDfG4GG29cd7nrT5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/album/7gAjCKK7SJMIYLxYGDUEUM) | 3:14 | 2021-12-16 |  |
+| [Habiba \(feat\. Tawsen\)](https://open.spotify.com/track/4mCkHTkDfG4GG29cd7nrT5) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Habiba \(feat\. Tawsen\)](https://open.spotify.com/album/7gAjCKK7SJMIYLxYGDUEUM) | 3:14 | 2021-12-16 | 2022-05-14 |
 | [Habibi](https://open.spotify.com/track/7xZL48Bsvc8hgvfSgpwhei) | [J\. Esho](https://open.spotify.com/artist/5vRjZp2f2W7KbOKdLA3NoL), [Pierre Youssef](https://open.spotify.com/artist/0j31jsGOpUBaZcWNxWDYV2), [Jvanz](https://open.spotify.com/artist/1DSTAoNrETWRRoqAiBBSgF) | [Habibi](https://open.spotify.com/album/6VA3gQL0jwHnHF1XjNKRnk) | 2:40 | 2022-02-25 |  |
 | [Haifa in a Tesla](https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Haifa in a Tesla](https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4) | 2:45 | 2022-01-09 |  |
 | [Hair Up](https://open.spotify.com/track/588UOjXO2vpmEOKT5IL62o) | [Nadine](https://open.spotify.com/artist/4UnznusdX9MEldtlPuh5Oq) | [Hair Up](https://open.spotify.com/album/4GQB0OYAdjKLi3ZvMpIo2S) | 3:07 | 2021-12-16 | 2022-02-22 |
@@ -108,6 +108,7 @@
 | [Right There](https://open.spotify.com/track/06Xzb5VNN5wE9MWNEF84Fa) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/5GsOXbdCXVhIemXulDWOM9) | 3:59 | 2021-12-16 | 2021-12-31 |
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-04-01 |  |
 | [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 2:28 | 2022-03-11 |  |
+| [Say Hi To My Demons](https://open.spotify.com/track/1QzEynjWm4RPAmFUZsYZVN) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Say Hi To My Demons](https://open.spotify.com/album/6kvEYQBniePtBTOTXYukBC) | 3:18 | 2022-05-13 |  |
 | [Selfish](https://open.spotify.com/track/1hzlrszIYah7vFitAl5cji) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Love or Madness](https://open.spotify.com/album/49ICK38Ot22Q0F0Hw3njDD) | 3:05 | 2021-12-16 |  |
 | [Shattered](https://open.spotify.com/track/4bpryNIqnYK1yhr7D2PRM5) | [Wissam Hilal](https://open.spotify.com/artist/2yICXFfulgwVygZl6d19AZ), [2wice Shye](https://open.spotify.com/artist/4aTT2lVgwspZZn7JqDv5YR) | [Shattered](https://open.spotify.com/album/5J2Y1UNGQrrd8kB4ulRB1B) | 3:39 | 2021-12-16 |  |
 | [Shine](https://open.spotify.com/track/4w1yEDtO2J4otvGALYZNEt) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Shine](https://open.spotify.com/album/2HAgCkfUZq2duvnfabIeYY) | 3:47 | 2021-12-16 |  |

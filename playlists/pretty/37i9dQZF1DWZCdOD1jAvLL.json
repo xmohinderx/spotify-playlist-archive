@@ -1,13 +1,29 @@
 {
-  "description": "Ride the bassline. Cover: Tiesto, Deorro",
-  "num_followers": 163710,
+  "description": "Ride the bassline. Cover: Nostalgix",
+  "num_followers": 163881,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MzcwNiwwMDAwMDFmYzAwMDAwMTgwOWFiZmRhNWUwMDAwMDE4MDcxYmI3MjNk",
+  "snapshot_id": "MTY1MjQxNzY2NCwwMDAwMDFmZDAwMDAwMTgwYmJjNDk2NzcwMDAwMDE4MGJiYzQyODFk",
   "tracks": [
+    {
+      "added_at": "2022-05-13 04:54:24",
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/4MX5uRMMHGEt3QaMIdamoH"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/3czS8iG6DI6SX5X4IT0uCu"
+    },
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
@@ -81,6 +97,30 @@
       "url": "https://open.spotify.com/track/1D7rwwv3n4ChKvS3CyMiGL"
     },
     {
+      "added_at": "2022-05-13 04:54:24",
+      "album": {
+        "name": "Rizzla",
+        "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 282554,
+      "name": "Rizzla",
+      "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
+    },
+    {
       "added_at": "2022-05-06 19:01:46",
       "album": {
         "name": "Welcome Home",
@@ -143,6 +183,22 @@
       "duration_ms": 147125,
       "name": "Goodies",
       "url": "https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC"
+    },
+    {
+      "added_at": "2022-05-13 04:54:24",
+      "album": {
+        "name": "Pullin Up",
+        "url": "https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn"
+      },
+      "artists": [
+        {
+          "name": "Dave Summit",
+          "url": "https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Pullin Up",
+      "url": "https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL"
     },
     {
       "added_at": "2022-05-06 19:01:46",
@@ -237,6 +293,26 @@
       "url": "https://open.spotify.com/track/6TokZjKiCwAFSmA7pdWTaK"
     },
     {
+      "added_at": "2022-05-13 04:54:24",
+      "album": {
+        "name": "Tested",
+        "url": "https://open.spotify.com/album/7jZfZ6DMT9gVnlTsE9JnIK"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "Tested",
+      "url": "https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz"
+    },
+    {
       "added_at": "2022-04-29 04:01:00",
       "album": {
         "name": "RIP",
@@ -311,6 +387,22 @@
       "duration_ms": 154285,
       "name": "Let's Freak",
       "url": "https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs"
+    },
+    {
+      "added_at": "2022-05-13 04:54:24",
+      "album": {
+        "name": "Reality Check EP",
+        "url": "https://open.spotify.com/album/74GMPHZNnIWjHBfW6cdtcs"
+      },
+      "artists": [
+        {
+          "name": "Simon Doty",
+          "url": "https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3"
+        }
+      ],
+      "duration_ms": 251623,
+      "name": "Reality Check",
+      "url": "https://open.spotify.com/track/15WAqQUIlyyfNeAXX7sadG"
     },
     {
       "added_at": "2022-05-06 19:01:46",

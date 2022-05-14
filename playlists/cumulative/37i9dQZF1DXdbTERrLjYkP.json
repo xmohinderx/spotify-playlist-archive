@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Addison Grace",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Britton",
   "name": "Next Gen Singer-Songwriters",
   "published_playlist_ids": [
     "5yqeqnGwA3WW1b3xVN4nfp"
@@ -701,6 +701,24 @@
       "duration_ms": 202500,
       "name": "Face",
       "url": "https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ"
+    },
+    {
+      "album": {
+        "name": "Fall In Love Alone",
+        "url": "https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205427,
+      "name": "Fall In Love Alone",
+      "url": "https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe"
     },
     {
       "album": {
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 198607,
       "name": "Teenage Mona Lisa",
       "url": "https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz"

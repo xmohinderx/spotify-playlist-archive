@@ -254,6 +254,32 @@
     },
     {
       "album": {
+        "name": "BTBT",
+        "url": "https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219549,
+      "name": "BTBT",
+      "url": "https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98"
+    },
+    {
+      "album": {
         "name": "Bubble Up!",
         "url": "https://open.spotify.com/album/3HrulK2IpHkpbpYra1bqBd"
       },
@@ -801,7 +827,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 178346,
       "name": "No More X - English Version",
       "url": "https://open.spotify.com/track/3tj0PEdTWeq5u1TwH19gMA"

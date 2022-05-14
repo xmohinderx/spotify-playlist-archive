@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-178 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
+181 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/5y3ethzpPxuiBLDusZUJRA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Average](https://open.spotify.com/track/23NGeIYW5sdpeWs2mZJKTh) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Maze](https://open.spotify.com/album/0803IoVPGn37OTU19kKF7z) | 2:13 | 2021-11-11 | 2022-04-06 |
 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2021-11-11 | 2022-02-11 |
 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 | 2021-11-11 |  |
+| [Back To Sky](https://open.spotify.com/track/1HFIdYEIXrTFpGP9vbb8fG) | [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn) | [Back To Sky](https://open.spotify.com/album/0EVtjRnlXgTD6Br8yu7CnF) | 2:30 | 2022-05-13 |  |
 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 | 2021-11-11 |  |
 | [Ballo Da Solo](https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Proto/Emotions](https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY) | 5:19 | 2022-05-10 |  |
 | [Bansuri Whistle](https://open.spotify.com/track/6jwotT3mYVp7DPE8LQacEn) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Bansuri Whistle](https://open.spotify.com/album/1NDHHw6G5lhTpr2y6qBfun) | 5:42 | 2022-05-10 |  |
@@ -75,6 +76,7 @@
 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 | 2022-02-10 |  |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2021-11-11 |  |
 | [glacial](https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2) | [Tiriba](https://open.spotify.com/artist/1SYHJDCUZirC4azFR67geQ) | [glacial](https://open.spotify.com/album/4jw8875Q5wwxTWJ63OEw8g) | 3:35 | 2022-02-10 |  |
+| [grenadine](https://open.spotify.com/track/7ILFq1DgzrSm8vJE0GINBY) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [grenadine](https://open.spotify.com/album/0tBFQCg1QzmVCraGDfEqAl) | 2:53 | 2022-05-13 |  |
 | [Ground Concrete](https://open.spotify.com/track/7rhoPowNAOMG9GPzZUCQD9) | [Rudy Boy](https://open.spotify.com/artist/3oAXW0WYR5lFZdx62Vr8OM) | [Architecture](https://open.spotify.com/album/3NbGDz98pX5aWxroN1t0Cy) | 2:09 | 2021-11-11 |  |
 | [Hanging Out](https://open.spotify.com/track/5sxk6ElBzgcFqneVR1Uug6) | [Neotronicz](https://open.spotify.com/artist/6LvxEsI0dKlKpN7RHthHOf) | [Hanging Out](https://open.spotify.com/album/1QqzZApC7xi8JtVEGXDMBr) | 2:55 | 2022-04-05 |  |
 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 | 2021-11-11 |  |
@@ -102,6 +104,7 @@
 | [Lumina Mov](https://open.spotify.com/track/6u1PJVc6R2HjO9VmArEqAC) | [Undeva Ploua](https://open.spotify.com/artist/2pTLeyGB0F7IAftkVc3nga) | [Lucid Moments](https://open.spotify.com/album/6RlE8VrwG6K3Bqs3NbuxwV) | 1:51 | 2022-02-10 |  |
 | [Luna](https://open.spotify.com/track/3K24SOeQymC34pXPJq2ian) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Luna](https://open.spotify.com/album/6HMxIJa3vbn5re4tapLD34) | 3:01 | 2021-11-11 | 2022-04-15 |
 | [Lunar Eclipse](https://open.spotify.com/track/5DUNwt1A9BmKM0mWhufyAn) | [Serge Rey](https://open.spotify.com/artist/0KKCxS6r36wfKylvGK1gSy) | [Lunar Eclipse](https://open.spotify.com/album/4OeQwVd6QMFEtYordZZJV8) | 3:12 | 2021-11-11 | 2022-01-22 |
+| [luscious](https://open.spotify.com/track/7I7Y9ZPGOLbtpjs39VVH2o) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [luscious](https://open.spotify.com/album/4w7NyepbdBl8SVahPqD2O9) | 2:51 | 2022-05-13 |  |
 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2021-11-11 | 2022-02-11 |
 | [Massachusetts](https://open.spotify.com/track/4aLKDpv19Y6eH21QZPmiUR) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Massachusetts](https://open.spotify.com/album/0dQ8osFOicaP7MFmU0Css2) | 2:12 | 2021-11-11 |  |
 | [Meadow Elves](https://open.spotify.com/track/2aBIhGvgolIDZX9MdRUOmX) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Meadow Elves](https://open.spotify.com/album/3ziTYR8sKeEGcqTtD4iqXf) | 2:30 | 2021-11-11 |  |

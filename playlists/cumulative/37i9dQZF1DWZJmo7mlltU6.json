@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Superorganism",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: Nu Genea",
   "name": "borderless",
   "published_playlist_ids": [
     "6bA5HVht0DRnYt7fu1eP5j"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 174213,
       "name": "dancing",
       "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
@@ -1708,6 +1708,24 @@
     },
     {
       "album": {
+        "name": "Empty Seats",
+        "url": "https://open.spotify.com/album/5as79P2kyTlrSsHZoWJLDw"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201052,
+      "name": "Janet Planet",
+      "url": "https://open.spotify.com/track/75nGdj0oz2EaRRVrlIKeiL"
+    },
+    {
+      "album": {
         "name": "Je Suis La Pomme Rouge",
         "url": "https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv"
       },
@@ -2264,6 +2282,46 @@
     },
     {
       "album": {
+        "name": "Marie",
+        "url": "https://open.spotify.com/album/2vrnHGEnkpNGBB8RBT8CM7"
+      },
+      "artists": [
+        {
+          "name": "Bobbing",
+          "url": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX"
+        },
+        {
+          "name": "Maddie Jay",
+          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181257,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/29ZJpcIs5HA8gr9AMUvniG"
+    },
+    {
+      "album": {
+        "name": "Mavrud",
+        "url": "https://open.spotify.com/album/1lmD2vPPJhASKWkRiGc7oG"
+      },
+      "artists": [
+        {
+          "name": "Bulgarian Cartrader",
+          "url": "https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163975,
+      "name": "Mavrud",
+      "url": "https://open.spotify.com/track/1S5nNLEFjsphPzKdhb3lc8"
+    },
+    {
+      "album": {
         "name": "Merry Midnight",
         "url": "https://open.spotify.com/album/22yAVxCemWUc6T9B41gUvK"
       },
@@ -2601,6 +2659,24 @@
       "duration_ms": 233600,
       "name": "No News No Blues",
       "url": "https://open.spotify.com/track/0tWIcCN7lrOuJEZvAPSLab"
+    },
+    {
+      "album": {
+        "name": "The Last Thing Left",
+        "url": "https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj"
+      },
+      "artists": [
+        {
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "No Real Place",
+      "url": "https://open.spotify.com/track/1XpPV3WNz7ExOAIDgcaeLB"
     },
     {
       "album": {

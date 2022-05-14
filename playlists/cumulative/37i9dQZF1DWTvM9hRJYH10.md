@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Ella Langley
 
-180 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+184 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Casual](https://open.spotify.com/track/782ZzWLrCziHo3uVpgJ8qk) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Anything But Casual](https://open.spotify.com/album/1OKK45Ysi9Iu5r3WhsEI8s) | 3:27 | 2022-01-21 |  |
 | [Casual](https://open.spotify.com/track/5gDMFKZB0BT42aDJB0AGPI) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Casual](https://open.spotify.com/album/5biFk4V11QxQO2J8Q9kMmr) | 2:43 | 2021-12-31 |  |
 | [Champagne Problem](https://open.spotify.com/track/7JIzEv4l1UVnEZ6owvjnWf) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Champagne Problem](https://open.spotify.com/album/7h6UDZVbl2zzhcANEe7zB7) | 2:50 | 2021-12-31 |  |
+| [Changed](https://open.spotify.com/track/59CcTuZW4YDSAok0ZOOTgx) | [Taryn Papa](https://open.spotify.com/artist/6Ej5v1jyKVKWQ9qdBkPMBW) | [Changed](https://open.spotify.com/album/2UrcEgREB1xJGXDNNlJcxv) | 2:48 | 2022-05-13 |  |
 | [Comin' from](https://open.spotify.com/track/2RbFPHlqlkHERW2oWdr6YG) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [Comin' from](https://open.spotify.com/album/2ZfSo68hUsfGiYxz0pYVf0) | 2:58 | 2022-04-15 |  |
 | [Couldn't Care Less](https://open.spotify.com/track/2wz6AeBog3TfuqQY9NXVII) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Couldn't Care Less](https://open.spotify.com/album/50gHenRfrlNVQ6nSYELygE) | 3:08 | 2022-04-01 |  |
 | [Country Girl Commandments](https://open.spotify.com/track/0wqjEtWb4TBwsJQnnUu7GM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Country Girl Commandments](https://open.spotify.com/album/3CcY5dnfmGY8m1g8SIIR4G) | 2:59 | 2021-12-31 |  |
@@ -51,6 +52,7 @@
 | [ex\-whatever](https://open.spotify.com/track/3QiZU9S88JfHq8WID313Cj) | [Casey Cattie](https://open.spotify.com/artist/5TjQHpwFAlIEKv5piFHm2S) | [ex\-whatever](https://open.spotify.com/album/26YhLLOsTQU1WurV9L2OEu) | 2:51 | 2021-12-31 |  |
 | [Eyes Wide Open](https://open.spotify.com/track/5pYg8qll5inckV7GI3VNcd) | [Jeston Cade](https://open.spotify.com/artist/2mJNGAPfePeKRLanONzfcU) | [Eyes Wide Open](https://open.spotify.com/album/3YJNpxClcsc5qMmcZSgFHe) | 3:48 | 2021-12-31 |  |
 | [Fallback](https://open.spotify.com/track/3Awkc2RG0sxtLjJWgnYAHx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Fallback](https://open.spotify.com/album/2tfzITEHPPyizfRoiTTzhX) | 2:53 | 2021-12-31 |  |
+| [Fine Line](https://open.spotify.com/track/6x65rzPIbTNgRjSXBwvmFs) | [Sasha McVeigh](https://open.spotify.com/artist/4yrY81mNjR3hqlOAhu80IQ) | [Fine Line](https://open.spotify.com/album/2R4MEKaLTRhMZzTXo9mhv3) | 3:31 | 2022-05-13 |  |
 | [First Time](https://open.spotify.com/track/3CusVXKAMVGcxv9NcB4mHP) | [Brooks Huntley](https://open.spotify.com/artist/0qkwQ7ZLjeOdypr1UQCe9m) | [First Time](https://open.spotify.com/album/1qO6Xi9yMZEhLGKZqsVmcc) | 3:08 | 2021-12-31 |  |
 | [Getting in the Way](https://open.spotify.com/track/16XCzY9soTLQtrVEgK1Nkf) | [Heath Bennett](https://open.spotify.com/artist/41hA7Bgps1E23zJmxn14lS), [Jara Ward](https://open.spotify.com/artist/0ML9ZqnIXEFy5NvrZydFER) | [Getting in the Way](https://open.spotify.com/album/4Lnk7OJOPcQeGiTu4eHRX8) | 3:56 | 2022-02-18 |  |
 | [Got the Girl](https://open.spotify.com/track/5MTuBhO3QxTht2NeRkLwuI) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Got the Girl](https://open.spotify.com/album/5DT8MBGd52UwQeDwQNrtwM) | 2:43 | 2021-12-31 |  |
@@ -87,6 +89,7 @@
 | [King Of The World](https://open.spotify.com/track/6yK2aEEVtYTmQ2ca3wja3S) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [King Of The World](https://open.spotify.com/album/2YP4ubZ2u87XOAkeRaKwlU) | 3:19 | 2022-04-15 |  |
 | [Kiss About It](https://open.spotify.com/track/4atQ9Mu2f3s4ym4U2y811i) | [Cash Campbell](https://open.spotify.com/artist/57niI6IBcl5QLGLY45pEdw) | [Kiss About It](https://open.spotify.com/album/0H8cRuaKhqv98RjOWowmN7) | 3:16 | 2021-12-31 | 2022-01-08 |
 | [Knee On](https://open.spotify.com/track/2Ls3eAK8JioZRuyI508fIn) | [Clayton Shay](https://open.spotify.com/artist/70paYnUiMhlriyqsG4D0CR) | [Knee On](https://open.spotify.com/album/0DERFnU3gL3kT4phelFrzZ) | 3:04 | 2021-12-31 | 2022-02-12 |
+| [Know Ya](https://open.spotify.com/track/5Fg0HlaYmQEcfeN8YoYbgV) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Know Ya](https://open.spotify.com/album/1rW2XLmrFBksfkmxRSIPuj) | 2:43 | 2022-05-13 |  |
 | [Laid Back](https://open.spotify.com/track/1DxeneyJ1e1N9ahmq1y6zy) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/0NBmlHXj47hWNHIdneHCu5) | 2:51 | 2021-12-31 |  |
 | [Like A Boy](https://open.spotify.com/track/4PogesCtj51SnEM2ZqLp6r) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Like A Boy](https://open.spotify.com/album/57IFh9v1WO3rBi7NVO7gR3) | 2:44 | 2021-12-31 | 2022-01-22 |
 | [Like the Movies](https://open.spotify.com/track/5zd5yuvG5Xv92c1ToPtasO) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Like the Movies](https://open.spotify.com/album/6Itw6oshBRErChLtVeusJV) | 3:24 | 2021-12-31 | 2022-02-12 |
@@ -179,6 +182,7 @@
 | [Ways To Miss You](https://open.spotify.com/track/7tL3FQZW9j7mV0G1Y5CRps) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Ways To Miss You](https://open.spotify.com/album/6TvGzZvJ31VOQYuQf1wXPY) | 3:09 | 2021-12-31 |  |
 | [We Both Know](https://open.spotify.com/track/1RcJ0gnr3TXWXBKY3RB9xQ) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [We Both Know](https://open.spotify.com/album/1rPwBSAtBuu7hl9xFMLeCe) | 4:10 | 2021-12-31 |  |
 | [We'll Be](https://open.spotify.com/track/6nf5AVgf4Y4N9d21dolwpB) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [We'll Be](https://open.spotify.com/album/5VbKG5rT9ElKh5Qh0xS8NI) | 3:47 | 2021-12-31 |  |
+| [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 | 2022-05-13 |  |
 | [What I'm Missing](https://open.spotify.com/track/66GQoMh8QwUD8ogFEX2xxD) | [Tarrah](https://open.spotify.com/artist/7wAd2gJo5Hr8WUUgRiLu6l) | [What I'm Missing](https://open.spotify.com/album/5KBJHtly6fuSycf8Hou4mm) | 4:07 | 2021-12-31 | 2022-02-12 |
 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2021-12-31 |  |
 | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/track/0Mb7cQgxUHG1sv942JKRQN) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB), [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/album/0oQTz1ECewqKTOYgkWbiIN) | 3:18 | 2022-04-22 |  |

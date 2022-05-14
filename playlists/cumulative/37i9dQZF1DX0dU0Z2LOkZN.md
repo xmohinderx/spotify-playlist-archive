@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-104 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+111 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [belief tree](https://open.spotify.com/track/4sT5NZD0cHvpB3fcDkrGpD) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [belief tree](https://open.spotify.com/album/0BgIDqOrGPMFtBQW7N2LWS) | 3:00 | 2021-11-11 |  |
 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 | 2022-04-08 |  |
 | [Big Big Man](https://open.spotify.com/track/5LvWYD21qJLV4m5PpGuznD) | [Bonkers Beat Club](https://open.spotify.com/artist/4iOBGfQcQnaCbchbsOdEQx) | [Big Big Man](https://open.spotify.com/album/28EtX6paSslPKDaEbzCSWd) | 2:06 | 2022-04-08 |  |
+| [Bigtownsteelo](https://open.spotify.com/track/1HwpgBbUoeSnYAFUOSr1zO) | [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Bigtownsteelo](https://open.spotify.com/album/7c6TF2TR0tThJFpiv6X6xO) | 2:29 | 2022-05-13 |  |
 | [Bikes](https://open.spotify.com/track/1xXQc2REQJrIWvpSljejP7) | [Nometronn](https://open.spotify.com/artist/3drJMaIVtJLNisW6LezOnB) | [Bikes](https://open.spotify.com/album/21uOUcZD90UulgeEjy4vEc) | 1:25 | 2021-11-11 |  |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2021-11-11 |  |
 | [Classic](https://open.spotify.com/track/1oSACtYTXU47tpiYnPAgt5) | [Tony Bones The Producer](https://open.spotify.com/artist/3a9BCUwqB1bnRFuegvAFD7) | [Magic Roundabout](https://open.spotify.com/album/1znaGWauyGfsGRtOh3DK3Q) | 2:37 | 2021-11-11 |  |
@@ -74,6 +75,7 @@
 | [Mobilize](https://open.spotify.com/track/5NuVAK4UqklSQMOQ1E5CJe) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Mobilize](https://open.spotify.com/album/1CBvh99afG08PolU6jVvyp) | 2:56 | 2021-11-11 |  |
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2021-11-11 |  |
 | [mtv cribs](https://open.spotify.com/track/7xquksomVzxsHXvgCw6OYs) | [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [mtv cribs](https://open.spotify.com/album/2tzSHLpARzLa3kXWbpBFFb) | 1:38 | 2022-04-15 |  |
+| [Naru](https://open.spotify.com/track/3s9p5XqMCrTuUmTkVNNacS) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Naru](https://open.spotify.com/album/2UFCvN7iuvVsbCMjVfggnJ) | 1:45 | 2022-05-13 |  |
 | [New Era](https://open.spotify.com/track/3dHpf96vSkzBaO5f6J4Wxr) | [Flawless Delivery](https://open.spotify.com/artist/0LpzTJIg9AOD4ix4dsRRlf), [Solrakmi](https://open.spotify.com/artist/5XGMQDMtmKNgCPrQ9FqUfL) | [New Era](https://open.spotify.com/album/0GjENKCnXAvIlIJxhcMXlM) | 2:50 | 2022-04-15 |  |
 | [Ninetofive](https://open.spotify.com/track/4vrJiLtAsycPuLAkSTVqPk) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Beat Aesthetics](https://open.spotify.com/album/384S9zPWlZBE4E8Td4ljsE) | 2:51 | 2021-11-11 |  |
 | [Old Enough To Party](https://open.spotify.com/track/1toZcQ10Fj2q2kFlM6f7e3) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:08 | 2021-11-11 |  |
@@ -89,10 +91,14 @@
 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 | 2021-11-11 |  |
 | [rebounce](https://open.spotify.com/track/2tW8wzVmE4NZNX2dCpDyz4) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:02 | 2021-11-11 |  |
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2021-11-11 |  |
+| [Rites of Summer \- All Love](https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Rites of Summer \(All Love\)](https://open.spotify.com/album/1DYT6iXMPKG6B6JZD0imU5) | 1:32 | 2022-05-13 |  |
 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 | 2021-11-11 |  |
+| [Sedate \- Boom Bap Instrumental](https://open.spotify.com/track/1XpZ171vlP0tPiFs2AUlOe) | [Bob Lee](https://open.spotify.com/artist/6OGBVZmZ9qKwv0T2CzlczF) | [Sedate \(Boom Bap Instrumental\)](https://open.spotify.com/album/4kJwBCZGus9fsFt4hU2nCl) | 3:47 | 2022-05-13 |  |
 | [shogun](https://open.spotify.com/track/1hccHdv4Vb713T0cRgVg5l) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [moisture](https://open.spotify.com/album/2QQD51qrAwUfSyiqhf2UM9) | 1:32 | 2021-11-11 |  |
+| [Skate Day](https://open.spotify.com/track/0dhBZOXyLXbDH6Xp3t3B4P) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Skate Day](https://open.spotify.com/album/5hg32AUaotI7xq5ZPBGUcu) | 2:34 | 2022-05-13 |  |
 | [Slow Down](https://open.spotify.com/track/7m9L3LHhO1ALNXUJ7m9K04) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [Slow Down](https://open.spotify.com/album/2srbrMZXmGQskURfzFl3zx) | 3:07 | 2021-11-11 |  |
 | [Smeegoll](https://open.spotify.com/track/34G1g2Xo9Q9xbZMvsi2bBJ) | [Clush](https://open.spotify.com/artist/5tk5PQwf3VDXOuW2bDbbKj) | [Midnites](https://open.spotify.com/album/6Wg7fYktXfJoY87bwFBEn3) | 1:56 | 2021-11-11 |  |
+| [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 | 2022-05-13 |  |
 | [Spin Cycle](https://open.spotify.com/track/7IRafpsoM8i4OirXU4olje) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Targets](https://open.spotify.com/album/2JTNVTUxl3Sf1UvdSw0pth) | 2:25 | 2021-11-11 |  |
 | [Square Pusher](https://open.spotify.com/track/5ky4WPvi6mxjRpoW0CNFxV) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:51 | 2021-11-11 |  |
 | [Stay](https://open.spotify.com/track/1n1WtbBkXFJNhskphoV05W) | [Dellasollounge](https://open.spotify.com/artist/55r17oOBrjjHLLXBC5BsE3) | [Stay](https://open.spotify.com/album/1fpKnA9khgdrwdOQCFfKbG) | 2:16 | 2022-04-22 |  |
@@ -104,6 +110,7 @@
 | [tenacity](https://open.spotify.com/track/4fyqvmE6wtNToLltodcUdk) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [tenacity](https://open.spotify.com/album/2ESfWemYIppncsc9JhFKqx) | 2:00 | 2022-02-28 |  |
 | [The All Good Important](https://open.spotify.com/track/5lYMGNXk3KnB53Pah8qDKp) | [King AL](https://open.spotify.com/artist/0d1g0XDfmW95OGEDuH8Pvk) | [Mugen Manga Melodies Vol\. 1 \(Reissue\)](https://open.spotify.com/album/2A6tRrnqZI0rSRwAJOWYSh) | 2:23 | 2021-11-11 |  |
 | [The Post](https://open.spotify.com/track/5qAMzYboDI67hvcB5MSXNz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Highway Robbery](https://open.spotify.com/album/6Vf6C3rTyuIYE8BGKbaKKz) | 2:10 | 2021-11-11 |  |
+| [The Realest](https://open.spotify.com/track/6cA7Gs5OK6TyZnmSMAJXwu) | [Phil Tyler](https://open.spotify.com/artist/00hdgbWnNqR00WnuChfLf2), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [The Realest](https://open.spotify.com/album/2GyBr0pMUGDEBnCxWZQE5f) | 3:01 | 2022-05-13 |  |
 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 | 2021-11-11 |  |
 | [Trillest](https://open.spotify.com/track/2PmHbcDaBmWr3OmoD09vTd) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Playground Sessions Vol 1](https://open.spotify.com/album/2fPD6SfAuDrOmNMBjNpeTa) | 1:32 | 2021-11-11 |  |
 | [Tunnels](https://open.spotify.com/track/3vups9HViwfaDeYSzvwo7m) | [Garnishes](https://open.spotify.com/artist/23wVhpOrB0Ui8W5avo9f5N) | [Dream Map](https://open.spotify.com/album/5WMVLS6qiTqE21qQ3HxQpS) | 1:43 | 2021-11-11 |  |

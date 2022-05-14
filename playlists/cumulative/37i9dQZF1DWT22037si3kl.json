@@ -458,6 +458,32 @@
     },
     {
       "album": {
+        "name": "Evoque",
+        "url": "https://open.spotify.com/album/7CmIWILqx7vHBnndYdzUxJ"
+      },
+      "artists": [
+        {
+          "name": "COMINI",
+          "url": "https://open.spotify.com/artist/5orwiUiEd6sbMsHFMG1KeG"
+        },
+        {
+          "name": "Mc Anjim",
+          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
+        },
+        {
+          "name": "SMU",
+          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139702,
+      "name": "Evoque",
+      "url": "https://open.spotify.com/track/7AUliVQjA6OKpSaqFTPbvn"
+    },
+    {
+      "album": {
         "name": "Filho do Dono",
         "url": "https://open.spotify.com/album/6DKYGWP4vYcYnMIPHRaMAe"
       },
@@ -755,10 +781,40 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 205800,
       "name": "Jacar\u00e9",
       "url": "https://open.spotify.com/track/3WHwjHxGnPwTE1LHtnOIVq"
+    },
+    {
+      "album": {
+        "name": "Joias no Meu Pesco\u00e7o",
+        "url": "https://open.spotify.com/album/4xbDcfJGau6kBnZ8YBtAla"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Mozin",
+          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149461,
+      "name": "Joias no Meu Pesco\u00e7o",
+      "url": "https://open.spotify.com/track/7rlFg7fHPv8xqCUTSULleY"
     },
     {
       "album": {
@@ -1029,7 +1085,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 242500,
       "name": "Mans\u00e3o da Nadamal",
       "url": "https://open.spotify.com/track/1mt7mgPFH8YoJHIUFG8yF3"
@@ -1701,6 +1757,10 @@
         {
           "name": "Xam\u00e3",
           "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
       "date_added": "2022-04-01",
@@ -1821,7 +1881,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 157566,
       "name": "Trap de Cria 2",
       "url": "https://open.spotify.com/track/5qnho1YQwjbuTa3j3pfoyS"
@@ -1973,6 +2033,24 @@
       "duration_ms": 166658,
       "name": "\u00d3pera",
       "url": "https://open.spotify.com/track/0EZElfTGRs71pvssBOtYpd"
+    },
+    {
+      "album": {
+        "name": "\u00d4 M\u00e3e",
+        "url": "https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU"
+      },
+      "artists": [
+        {
+          "name": "Aleck Johnson",
+          "url": "https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132283,
+      "name": "\u00d4 M\u00e3e",
+      "url": "https://open.spotify.com/track/37A1beEC95fCBRge23pSFT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT22037si3kl"

@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\.  Artist: Kassi Ashton
 
-208 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+212 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 | 2022-03-18 |  |
 | [Mountain Time](https://open.spotify.com/track/6ArYYQLIE72oFHGYcZ0fhW) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:20 | 2021-12-10 | 2022-02-26 |
 | [Moving](https://open.spotify.com/track/0dDyKNYx6BMJcAG5Jw5FfM) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Moving](https://open.spotify.com/album/4LVFhNajXj2ZZUYetJpzF6) | 2:43 | 2021-12-10 |  |
+| [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 |  |
 | [Nervous](https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Nervous](https://open.spotify.com/album/460txPWcdGTABVidLLDuiW) | 2:55 | 2022-03-11 |  |
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-10 |  |
 | [New Town](https://open.spotify.com/track/6tlbFPMLwzwU082LxKpqxq) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5E0LXGmyDlFqUkLFzLdxdH) | 3:12 | 2021-12-10 | 2022-02-26 |
@@ -168,6 +169,7 @@
 | [Room to Dream](https://open.spotify.com/track/2yzKdZZCEQM9LCNBamNmvC) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream](https://open.spotify.com/album/3VEYJ68XnBWjndfdR9uL0V) | 3:07 | 2021-12-10 |  |
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-07 |  |
 | [Say It First](https://open.spotify.com/track/7hKcJWiTSQ5C7DswfkJKIa) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 3:20 | 2022-02-11 |  |
+| [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-05-13 |  |
 | [She Ain't](https://open.spotify.com/track/6me4kri7ccTesxEQzRMRXa) | [Seth Alley](https://open.spotify.com/artist/03iUAGyJwZiIhAF6PcSoxt) | [She Ain't](https://open.spotify.com/album/2REjfGJcn53lxTZI2VlJpS) | 2:50 | 2021-12-10 | 2022-02-26 |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2021-12-10 |  |
 | [Should Have Known Better](https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Should Have Known Better](https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c) | 2:26 | 2021-12-10 | 2022-02-26 |
@@ -213,7 +215,9 @@
 | [Why Should We](https://open.spotify.com/track/0h6qJZXkVGNUIoM4q8CrFH) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Why Should We](https://open.spotify.com/album/506ax7XUl3ogqAfdnxc3Ad) | 2:52 | 2021-12-10 | 2022-01-08 |
 | [Wild Frontier](https://open.spotify.com/track/57gjWu6xmWpk0XoNEIi08w) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Wild Frontier](https://open.spotify.com/album/2yG5wph6NJ77bHAAuNvBNG) | 3:36 | 2021-12-10 |  |
 | [Winning](https://open.spotify.com/track/5qEb5GTv9yy7Y7kLJCSMFN) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Winning](https://open.spotify.com/album/28HlFH22jF08ZKNMF15a0E) | 2:56 | 2021-12-10 |  |
+| [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm) | 3:31 | 2022-05-13 |  |
 | [YA'BOYZ](https://open.spotify.com/track/5msKKhp8QkpbmV6pt91qEN) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6), [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [YA'BOYZ](https://open.spotify.com/album/5WV28G7w51gZiSnjL7EIUF) | 2:47 | 2022-03-25 |  |
+| [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2022-05-13 |  |
 | [Z71](https://open.spotify.com/track/4vfN00PlILRXy5dcXHQE9M) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [Z71](https://open.spotify.com/album/6oxFmdfWQQK2EUxiYvgYz7) | 2:51 | 2021-12-10 |  |
 | [Zero Trucks](https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Zero Trucks](https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi) | 2:42 | 2021-12-10 |  |
 

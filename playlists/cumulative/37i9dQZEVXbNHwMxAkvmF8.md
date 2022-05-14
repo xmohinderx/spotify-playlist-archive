@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-409 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+410 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 |  |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-05-08 |
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-02-07 | 2022-03-06 |
-| [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* |  |
+| [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-05-14 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-13 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-02 |
@@ -217,6 +217,7 @@
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-24 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-03-20 | 2022-03-24 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 | 2022-03-18 | 2022-03-21 |
+| [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-13 |  |
 | [Megcsináltad](https://open.spotify.com/track/4xtinqVXs7IloLUSTx19rB) | [G.w.M.](https://open.spotify.com/artist/51o7b8jVB4q5U9qy41aYwJ) | [Megcsináltad](https://open.spotify.com/album/5LrdYOg5QRqTmRGYFePjay) | 4:13 | 2022-02-08 | 2022-02-11 |
 | [Megmondtam](https://open.spotify.com/track/4vtPjmwiNXDg7DOfB3gLet) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Megmondtam](https://open.spotify.com/album/5SDjz5ZPRspfA28qayvoSg) | 3:16 | 2021-08-16 | 2022-03-08 |
 | [Menned kell](https://open.spotify.com/track/5UbQELG0jlDX9nMrLk2Nx6) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT), [APU](https://open.spotify.com/artist/3631P73c0HmNeHWmDlUoTM) | [Menned kell](https://open.spotify.com/album/6OvRauKlO50l5X28a1jg9s) | 2:18 | 2021-11-23 | 2022-02-15 |

@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera y Los Pampas.
 
-99 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+100 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Mundo](https://open.spotify.com/track/2jL5pH60kWWSNEyoxENRol) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mundo](https://open.spotify.com/album/3irWZcLfE9HCACenWfVp3E) | 3:42 | 2021-12-31 |  |
 | [Navidad y Año Nuevo](https://open.spotify.com/track/60SbkLG67htrmPIUDWv68D) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Navidad y Año Nuevo](https://open.spotify.com/album/1HRNGUWQDfazHryTekdgpN) | 2:24 | 2021-12-31 |  |
 | [No Te Vayas Carnaval](https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Jorge Rojas](https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J) | 4:00 | 2021-12-31 |  |
-| [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 |  |
+| [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 | 2022-05-14 |
 | [Otra Vez en el Camino](https://open.spotify.com/track/7gnHVe6Juc2SFsc8UHvu7g) | [Pachi Herrera](https://open.spotify.com/artist/6dwTZmpwSlHawmTFTe5fRV) | [Otra Vez en el Camino](https://open.spotify.com/album/0oQTK9F6643YJRCNlPWc4C) | 2:53 | 2021-12-31 |  |
 | [Peregrinos](https://open.spotify.com/track/6zkFyFTX1jVxrd8s1cpa9A) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO) | 3:02 | 2021-12-31 |  |
 | [Peregrinos](https://open.spotify.com/track/1hbWDP0Ek2g3IOkSfEaNvN) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Los del Portezuelo](https://open.spotify.com/album/4i8hRtGYy0U3gbrBT9twWN) | 2:34 | 2021-12-31 | 2022-03-18 |
@@ -92,6 +92,7 @@
 | [Soy Bohemio \(feat\. Rolando Sartorio\)](https://open.spotify.com/track/1hTV0xotu2BsBK3cI9ctnW) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW), [Rolando Sartorio](https://open.spotify.com/artist/7p5juUWSPwGbJH4BI3n8u1) | [Instinto](https://open.spotify.com/album/24NfSZJS8SRtBfzDBzwML0) | 3:01 | 2021-12-31 |  |
 | [Soy Como Soy](https://open.spotify.com/track/0sQqvEtgIQd5klgn3pXrs0) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 2:43 | 2021-12-31 |  |
 | [Tan Tristes](https://open.spotify.com/track/2APdoYXRww4qRJMxCpy6As) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Dos](https://open.spotify.com/album/5IV37ig5dBAwPKGkvbx6iX) | 3:05 | 2021-12-31 |  |
+| [Tanto Amor](https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S) | [Sele Vera y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Tanto Amor](https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5) | 3:46 | 2022-05-13 |  |
 | [Tanto Amor](https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Tanto Amor](https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL) | 2:42 | 2022-03-18 |  |
 | [Todo Todo](https://open.spotify.com/track/12JymUNRIQZbyS9XIBvuk8) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc), [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Todo Todo](https://open.spotify.com/album/6ynX5vIZwYbx3h5PEzs3GG) | 3:41 | 2021-12-31 |  |
 | [Todos a bailar \- Feat\. Los Carabajal & Leandro Lovato](https://open.spotify.com/track/50GrKcRst0KzdkUeO08r34) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Los Carabajal & Leandro Lovato](https://open.spotify.com/artist/4Eaf2pySnX1znhdnLpmJQi) | [Todos a bailar \(Feat\. Los Carabajal & Leandro Lovato\)](https://open.spotify.com/album/3Hn9aFx7d6Gon6TPDNvKXa) | 2:20 | 2021-12-31 |  |

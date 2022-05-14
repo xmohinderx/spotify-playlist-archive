@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 267779,
       "name": "Aquiver",
       "url": "https://open.spotify.com/track/0n7Qqb6srcdrfJcaI69vkp"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 206564,
       "name": "Bicameral - Edit",
       "url": "https://open.spotify.com/track/3r12xxC2Euv8MWsK7eSXUv"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 277600,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/5GXeNbxOEbd7sKrbsVLVVx"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 216200,
       "name": "Lose Your Head - CamelPhat Remix",
       "url": "https://open.spotify.com/track/18XoiSzpBYBGBhDb52acQw"
@@ -1362,6 +1362,28 @@
     },
     {
       "album": {
+        "name": "Maze",
+        "url": "https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "PHIA",
+          "url": "https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183536,
+      "name": "Maze",
+      "url": "https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh"
+    },
+    {
+      "album": {
         "name": "Missing U",
         "url": "https://open.spotify.com/album/3fZzOuBn4cCQPF3li8Dcs7"
       },
@@ -1373,7 +1395,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/5jhaaWjYuXOOjdcf8GePey"
@@ -1701,7 +1723,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 269036,
       "name": "Overtones",
       "url": "https://open.spotify.com/track/3fZo9f1RF24iMVBaC6fAiA"
@@ -1803,7 +1825,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 202839,
       "name": "Pure",
       "url": "https://open.spotify.com/track/6OXnL79ZUpY7zsp01yU0q4"
@@ -2113,7 +2135,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 248226,
       "name": "She Loves Me",
       "url": "https://open.spotify.com/track/5oSPxL7HL9TmZdEC11mYd4"
@@ -2495,7 +2517,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 338181,
       "name": "The Daisy",
       "url": "https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst"
@@ -2637,7 +2659,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 177597,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6Iw43Wm8LRMwCfgkKEed0u"
@@ -2782,6 +2804,28 @@
     },
     {
       "album": {
+        "name": "Wild Feelings",
+        "url": "https://open.spotify.com/album/6nOuDvGazEOQ7Oa6Br1dKJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161634,
+      "name": "Wild Feelings",
+      "url": "https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -2867,7 +2911,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 172129,
       "name": "YourLove",
       "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"

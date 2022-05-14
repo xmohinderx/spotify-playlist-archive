@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 174406,
       "name": "As I Am (feat. Khalid)",
       "url": "https://open.spotify.com/track/4MmMxyew8yq1OEyJOMaX6M"
@@ -2601,7 +2601,7 @@
       ],
       "date_added": "2019-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 195343,
       "name": "Bloodshot",
       "url": "https://open.spotify.com/track/3EZFmxil8IXOIL0De8etDN"
@@ -3589,7 +3589,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182653,
       "name": "Carried Away (Love To Love) (with Madison Beer)",
       "url": "https://open.spotify.com/track/4IvuPZogXbY7LODs7qzr0W"
@@ -5365,7 +5365,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-25",
+      "date_removed": null,
       "duration_ms": 138733,
       "name": "Don't You Wanna Play?",
       "url": "https://open.spotify.com/track/15hhlasuVIxEZ3O0PxlRkT"
@@ -5519,7 +5519,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 182276,
       "name": "Dream On Me",
       "url": "https://open.spotify.com/track/6vHE5zEPYdb0HUKRaIQ6tI"
@@ -6373,7 +6373,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 216504,
       "name": "Fallin\u2019 (Adrenaline)",
       "url": "https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz"
@@ -8805,7 +8805,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 172071,
       "name": "High Forever",
       "url": "https://open.spotify.com/track/0fBFIKejwITajFF9nDomva"
@@ -9053,7 +9053,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
@@ -18353,7 +18353,7 @@
       ],
       "date_added": "2020-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 217493,
       "name": "Slow Grenade",
       "url": "https://open.spotify.com/track/5z8uLrYMcUVvzTV28twt44"
@@ -22415,6 +22415,24 @@
       "duration_ms": 174215,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+    },
+    {
+      "album": {
+        "name": "what would you do?",
+        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166948,
+      "name": "what would you do?",
+      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
     },
     {
       "album": {

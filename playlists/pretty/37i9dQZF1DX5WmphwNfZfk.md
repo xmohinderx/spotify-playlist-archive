@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Dylan Sinclair
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,028 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,026 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 98 | [Untouchable](https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 3:04 |
 | 99 | [Child](https://open.spotify.com/track/4b58UyTZK1qqkDAUVF0JN1) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Child](https://open.spotify.com/album/4nz18DILyysoglGaV015Cq) | 3:03 |
 
-Snapshot ID: `MTY1MjQwNDQ5MiwwMDAwMDAwMGNhYjRjZmUxZWQwMWY4N2FjYTU1ZjFlNDA2YWIwNjll`
+Snapshot ID: `MTY1MjQ5MTA3MywwMDAwMDAwMGNhYjRjZmUxZWQwMWY4N2FjYTU1ZjFlNDA2YWIwNjll`

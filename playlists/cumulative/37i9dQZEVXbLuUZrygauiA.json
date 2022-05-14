@@ -1909,7 +1909,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 214865,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
@@ -2299,7 +2299,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 188416,
       "name": "La Boda Del Huitlacoche - Live",
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
@@ -2397,6 +2397,24 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
+      "album": {
+        "name": "Puros Amigos",
+        "url": "https://open.spotify.com/album/1H06JT9v4JNm3s5rdKcFfE"
+      },
+      "artists": [
+        {
+          "name": "Luisillo Camacho",
+          "url": "https://open.spotify.com/artist/0Ft5p26juZSsRZeF4BMvJp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187872,
+      "name": "Lluvia De Balas",
+      "url": "https://open.spotify.com/track/6u4cUNsKhatptAgVy7saaj"
     },
     {
       "album": {
@@ -5043,7 +5061,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"

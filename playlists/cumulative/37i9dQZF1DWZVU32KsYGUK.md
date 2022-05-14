@@ -4,7 +4,7 @@
 
 > Elegant music for your fancy dinner
 
-213 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
+214 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [New Beginnings](https://open.spotify.com/track/5pU70T6pcn99Ut7GlFEasL) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [New Beginnings](https://open.spotify.com/album/22015qez8lWuoN1MELa67X) | 2:03 | 2022-04-27 |  |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-04-27 |  |
 | [No More](https://open.spotify.com/track/45cLs8T0cgOn6ZEd4ionkG) | [Jenifer Quai](https://open.spotify.com/artist/69UqTKITQsxxESVj6AaC1C) | [No More](https://open.spotify.com/album/6MGJbUTXoEUAwZgOJY5XvE) | 2:29 | 2022-04-27 |  |
+| [Notably, Natalie](https://open.spotify.com/track/4CTXSxYuXo4NjmZpkufqrF) | [Jaume Mitjà](https://open.spotify.com/artist/7pTrSZc1NwUjiBZ8PE5uyL) | [Notably, Natalie](https://open.spotify.com/album/0WykVJJHeExLPvAWlvJb5M) | 2:43 | 2022-05-13 |  |
 | [Notes From Tom](https://open.spotify.com/track/0MXNBq9JKgNoUprg9PMQwA) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Notes From Tom](https://open.spotify.com/album/4IMq0YcdnE2gFvU68hQfQa) | 2:47 | 2022-04-27 |  |
 | [Old Summer Romance](https://open.spotify.com/track/0PsVxQjMyJSNYo9R3zZnNR) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Old Summer Romance](https://open.spotify.com/album/1mG03oOljZ3ynqzhuWVKah) | 2:36 | 2022-04-27 |  |
 | [On the Other Side](https://open.spotify.com/track/7GhkhTL5VK9Co25CbiBf9T) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [On the Other Side](https://open.spotify.com/album/633hqMGhBHeMIyTOFfNzm7) | 2:50 | 2022-04-27 |  |

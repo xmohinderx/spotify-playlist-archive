@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chill out with these awesome rock ballads. Cover: <a href=\"spotify:artist:6Wr3hh341P84m3EI8qdn9O\">Rise Against</a>",
+  "description": "lighters up for these awesome rock ballads.",
   "name": "Rock Ballads",
   "published_playlist_ids": [
     "5gPCFlQOL7ecJxKUUBWnZX"
@@ -896,6 +896,24 @@
     },
     {
       "album": {
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e"
+    },
+    {
+      "album": {
         "name": "Extreme Behavior",
         "url": "https://open.spotify.com/album/2SmDuZSWtjukp9gkG2mcBQ"
       },
@@ -1324,6 +1342,24 @@
     },
     {
       "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198799,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
+    },
+    {
+      "album": {
         "name": "Ellipsis",
         "url": "https://open.spotify.com/album/3tepMmhxS4GyvLA9tiRKlo"
       },
@@ -1425,7 +1461,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 232146,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/1UHoHmHWdu0EX557Oqoq2P"
@@ -1576,6 +1612,24 @@
     },
     {
       "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "The Last Man On Earth",
+      "url": "https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK"
+    },
+    {
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/6471rrLPKqZgXQ6TqN5AgU"
       },
@@ -1713,7 +1767,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 193546,
       "name": "Unsteady",
       "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
@@ -1875,7 +1929,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-14",
       "duration_ms": 181093,
       "name": "You - Live",
       "url": "https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z"
