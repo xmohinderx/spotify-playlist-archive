@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري! غلاف: ويجز
 
-50 songs - 2 hr 40 min - not published yet
+50 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

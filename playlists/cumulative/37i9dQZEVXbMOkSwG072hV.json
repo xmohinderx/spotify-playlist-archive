@@ -4561,7 +4561,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 170348,
       "name": "Over - Sped Up",
       "url": "https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy"
@@ -5478,6 +5478,28 @@
     },
     {
       "album": {
+        "name": "Rel\u00edquia da Putaria",
+        "url": "https://open.spotify.com/album/6ng6AGXvnma2nq8NNzjGCD"
+      },
+      "artists": [
+        {
+          "name": "DJ Danilinho Beat",
+          "url": "https://open.spotify.com/artist/01Cn9JiIX1sQa4TK13HX4e"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Senta na Cabecinha",
+      "url": "https://open.spotify.com/track/1PqsF9YmEzcdmwGOBYbzrQ"
+    },
+    {
+      "album": {
         "name": "Sentadona (Ai Calica)",
         "url": "https://open.spotify.com/album/3oTXQfxac47CE54U58mEdG"
       },
@@ -6143,7 +6165,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 227424,
       "name": "Teu Amigo Cuidou",
       "url": "https://open.spotify.com/track/1bm9fDxVpuWlxoxoLPru7a"
@@ -6443,6 +6465,44 @@
       "duration_ms": 168048,
       "name": "TREM MAIS CARO",
       "url": "https://open.spotify.com/track/6qu6s6uwdVdGewHpi6Cdo7"
+    },
+    {
+      "album": {
+        "name": "Troquei Meu Playstation Por Um Pent\u00e3o De Robocop",
+        "url": "https://open.spotify.com/album/0T5BJw3u3ma5lL3lkaURn7"
+      },
+      "artists": [
+        {
+          "name": "DJ MENOR ML",
+          "url": "https://open.spotify.com/artist/2Xf1zKBQBwOaDHihZBvwBC"
+        },
+        {
+          "name": "Mc Jajau",
+          "url": "https://open.spotify.com/artist/1xmNs6H3WF3Hm1NSnI7HXx"
+        },
+        {
+          "name": "Mc Gn Sheik",
+          "url": "https://open.spotify.com/artist/0M69Go6w6N7pgM91heBwEF"
+        },
+        {
+          "name": "Mc Calvin",
+          "url": "https://open.spotify.com/artist/4kP9DSRxSLxxKsD2vi87eu"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/1XdSE1bVK6g4ZTWxnxJP2S"
+        },
+        {
+          "name": "Mc Rennan",
+          "url": "https://open.spotify.com/artist/17AqTMXtmzJUkxfhcDUBwE"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Troquei Meu Playstation Por Um Pent\u00e3o De Robocop",
+      "url": "https://open.spotify.com/track/7m9lMKX2qqMWkK7KmjuslU"
     },
     {
       "album": {

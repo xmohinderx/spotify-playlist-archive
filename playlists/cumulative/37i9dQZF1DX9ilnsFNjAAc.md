@@ -4,7 +4,7 @@
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-60 songs - 3 hr 58 min - not published yet
+60 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world.  (Cover: Kendrick Lamar)",
-  "num_followers": 391444,
+  "num_followers": 391588,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -35,7 +35,7 @@
     {
       "added_at": "2022-05-12 16:00:00",
       "album": {
-        "name": "Spirit Of Ecstasy",
+        "name": "Spirit Of Ecstasy (Whole-Lotta)",
         "url": "https://open.spotify.com/album/3xI1q1peka08MOT2ZfMmyc"
       },
       "artists": [
@@ -563,7 +563,7 @@
     {
       "added_at": "2022-05-12 16:00:00",
       "album": {
-        "name": "Crazy Rich Asians (CRA 2.0) [feat. Dok2, Eric Reprid, DBO, and Parlay Pass]",
+        "name": "Crazy Rich Asians (CRA 2.0) [feat. Dok2, Eric Reprid, Paul Blanco, and Parlay Pass]",
         "url": "https://open.spotify.com/album/31feY6G0NRYA465ohfMtPH"
       },
       "artists": [
@@ -576,14 +576,6 @@
           "url": "https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz"
         },
         {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        },
-        {
-          "name": "DBO",
-          "url": "https://open.spotify.com/artist/2zEat9180Q6k9FkAxTJCzd"
-        },
-        {
           "name": "Dok2",
           "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         },
@@ -594,10 +586,14 @@
         {
           "name": "Parlay Pass",
           "url": "https://open.spotify.com/artist/3XIplopEDtMlJZsBDIKFSR"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
       "duration_ms": 272307,
-      "name": "Crazy Rich Asians (CRA 2.0) [feat. Dok2, Eric Reprid, DBO, and Parlay Pass]",
+      "name": "Crazy Rich Asians (CRA 2.0) [feat. Dok2, Eric Reprid, Paul Blanco, and Parlay Pass]",
       "url": "https://open.spotify.com/track/4ANkboQawCM8FHvynsCz7X"
     },
     {

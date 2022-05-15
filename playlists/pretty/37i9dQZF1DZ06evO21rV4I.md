@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is WizKid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,670 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,711 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 46 | [Eve Bounce \- Remix](https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v) | [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Eve Bounce](https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ) | 3:24 |
 | 47 | [Jaiye Jaiye \(feat\. Femi Kuti\)](https://open.spotify.com/track/2gRzl3pbDoFoHfzRsmkQhf) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 4:06 |
 | 48 | [Pakurumo](https://open.spotify.com/track/5YgyvTZmdkIfFOnj8ri8mZ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 3:32 |
-| 49 | [Tinkerbell \(feat\. Wizkid\)](https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:03 |
-| 50 | [African Bad Gyal \(feat\. Chris Brown\)](https://open.spotify.com/track/4FRKGdgOh9G5sub5GiknfS) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:25 |
+| 49 | [African Bad Gyal \(feat\. Chris Brown\)](https://open.spotify.com/track/4FRKGdgOh9G5sub5GiknfS) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:25 |
+| 50 | [Tinkerbell \(feat\. Wizkid\)](https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:03 |
 
-Snapshot ID: `Mjc1NDA4NzQsMDAwMDAwMDA5MTg1NDA3MDdmNDRmNjEyYTQ4ZmRhNGJlYzRjMmZhNg==`
+Snapshot ID: `Mjc1NDIyNzQsMDAwMDAwMDA3NDI1MWJjNDZjNTI0MWVhNTY0OTZjYjUwODk1YmIxMw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: MI MI, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,257 likes - 64 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,262 likes - 64 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

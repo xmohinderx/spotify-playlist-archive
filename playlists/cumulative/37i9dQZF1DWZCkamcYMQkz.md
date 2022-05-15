@@ -4,7 +4,7 @@
 
 > Uplifting jazz to get you in a good mood.
 
-118 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
+119 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,9 @@
 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Remastered\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 | 2021-12-16 | 2022-04-21 |
 | [Cononbridge](https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Cononbridge](https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj) | 4:58 | 2021-12-16 |  |
 | [Dakar](https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8), [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Michael Edlund](https://open.spotify.com/artist/0kYl58y2IiOpSbieJ31Oja), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [Buen Sabor](https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0) | 8:02 | 2021-12-16 |  |
-| [Don't Get Around Much Anymore](https://open.spotify.com/track/6RjvMuSa4ZCqPueIIO4IBs) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 2:39 | 2021-12-16 |  |
+| [Don't Get Around Much Anymore](https://open.spotify.com/track/6RjvMuSa4ZCqPueIIO4IBs) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 2:39 | 2021-12-16 | 2022-05-15 |
 | [Doozy](https://open.spotify.com/track/6qszUQoH3QJYvSNwFP9yJB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 5:33 | 2021-12-16 |  |
-| [Dream a Little Dream of Me](https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing With A Beat](https://open.spotify.com/album/16nNC5RMywKfmx9shprH12) | 2:41 | 2021-12-16 |  |
+| [Dream a Little Dream of Me](https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing With A Beat](https://open.spotify.com/album/16nNC5RMywKfmx9shprH12) | 2:41 | 2021-12-16 | 2022-05-15 |
 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 | 2021-12-16 |  |
 | [El Día Feliz Que Está Llegando](https://open.spotify.com/track/3tDgxtrndyfPWSZNiBpJXl) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [El Día Feliz Que Está Llegando](https://open.spotify.com/album/4hcdtal5UPhzK9Ix9yWy4f) | 4:15 | 2022-02-24 |  |
 | [Everything Happens to Me](https://open.spotify.com/track/7qFaoRVHhqowCFEi3McfkF) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23) | 3:47 | 2021-12-16 |  |
@@ -37,6 +37,7 @@
 | [Greasy](https://open.spotify.com/track/5rcEapnWT4NrPSFT5co106) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [New Soil](https://open.spotify.com/album/2jutpmWgWgnoYm6wgy1I2Z) | 7:25 | 2021-12-16 | 2022-02-25 |
 | [Green Eyes](https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Light\-Foot](https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR) | 5:19 | 2021-12-16 |  |
 | [Hallelujah, I Love Him So](https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 2:30 | 2021-12-16 |  |
+| [Hay Burner](https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Straight Ahead](https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM) | 4:16 | 2022-05-13 |  |
 | [He's My Guy](https://open.spotify.com/track/1kk0zlIS3VOGmv34trEq6C) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan with Clifford Brown \(Expanded, Hd Remastered\)](https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT) | 4:12 | 2021-12-16 |  |
 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 | 2021-12-16 |  |
 | [Holiday Flight](https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Surf Ride](https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy) | 3:11 | 2021-12-16 |  |
@@ -124,7 +125,7 @@
 | [Wonder Why](https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [You Can't Lose with the Blues](https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl) | 5:15 | 2021-12-16 |  |
 | [Yes Sir, That's My Baby](https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 4:20 | 2021-12-16 |  |
 | [You Can Have Him](https://open.spotify.com/track/1FIkhPVchSeLTinKQcC5tV) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 3:46 | 2021-12-16 |  |
-| [You Make Me Feel so Young](https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor](https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD) | 2:51 | 2021-12-16 | 2022-05-14 |
+| [You Make Me Feel so Young](https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor](https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD) | 2:51 | 2021-12-16 |  |
 | [You're Sensational](https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [Blue Trane](https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x) | 6:52 | 2021-12-16 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

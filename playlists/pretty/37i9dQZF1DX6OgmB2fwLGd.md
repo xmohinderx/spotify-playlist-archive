@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Check out <a href="spotify:show:3oTlNRRUyazgdUpWZYdvd5">Internet People Live</a> on Tuesdays at 8pm EST\. Cover: Autumn!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,117 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,483 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > We found dancing\. Listen to a selection from <a href="https://www.thewarehouseproject.com/ticketlist">The Warehouse Project</a> to celebrate their return to Manchester this month!
 
-50 songs - 4 hr 54 min - not published yet
+50 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/35TmqE1z8EnbA23NNKAylV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2654,6 +2654,24 @@
     },
     {
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+    },
+    {
+      "album": {
         "name": "NDA",
         "url": "https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29"
       },
@@ -4037,7 +4055,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 195424,
       "name": "\u4e00\u4eba\u4e4b\u5883 in C major",
       "url": "https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7"
@@ -4535,7 +4553,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 243634,
       "name": "\u534a",
       "url": "https://open.spotify.com/track/1QP9ug2pxr20UmbgyUlTA8"
@@ -4917,7 +4935,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 246000,
       "name": "\u5e7c\u7a1a\u672a\u5b8c",
       "url": "https://open.spotify.com/track/1TcsJ21R8PMmpLcj34A02E"

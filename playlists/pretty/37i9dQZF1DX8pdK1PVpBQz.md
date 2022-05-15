@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: SLOE JACK Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,009 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,017 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 89 | [similar feeling](https://open.spotify.com/track/45uxfPewp9EY0dKjxcGOrj) | [Taylor Roche](https://open.spotify.com/artist/6YwDZ1txRytZuE9Zvx5Pl0) | [similar feeling](https://open.spotify.com/album/04RAjRUVyjVZ15xhsdnXci) | 2:43 |
 | 90 | [Sort It Out](https://open.spotify.com/track/0uVV4TDUwXQmacIpMatmDA) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Sort It Out](https://open.spotify.com/album/1VzgLYVcHN4GhsVkAdHdrc) | 1:56 |
 | 91 | [Dose](https://open.spotify.com/track/7yn8Hz1eScXBMt5Tj9DG2T) | [Chuey](https://open.spotify.com/artist/0OujLsGpqL8YZ43NGIa1Lm), [Elise Nolte](https://open.spotify.com/artist/1M8ZV36hnpYja38mZEMRY9) | [Dose](https://open.spotify.com/album/7JO5OmfE163IbCiazVMMAF) | 4:14 |
-| 92 | [Uncomfortable](https://open.spotify.com/track/1SUMXuwy4Vsu1idEY0zQFL) | [enobe](https://open.spotify.com/artist/3LjyIM1dlfms7kJUqrBTXI), [Abbey Price](https://open.spotify.com/artist/5KQfXp2USKjOyYnOjZehT8) | [Uncomfortable](https://open.spotify.com/album/5NjenoJIw1iBjiU11xwHDL) | 3:08 |
+| 92 | [Uncomfortable \(feat\. Abbey Price\)](https://open.spotify.com/track/1SUMXuwy4Vsu1idEY0zQFL) | [enobe](https://open.spotify.com/artist/3LjyIM1dlfms7kJUqrBTXI), [Abbey Price](https://open.spotify.com/artist/5KQfXp2USKjOyYnOjZehT8) | [Uncomfortable \(feat\. Abbey Price\)](https://open.spotify.com/album/5NjenoJIw1iBjiU11xwHDL) | 3:08 |
 | 93 | [Kurrajong Hotel](https://open.spotify.com/track/5vsvK1F9URrUepMJvXBdEc) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [Kurrajong Hotel](https://open.spotify.com/album/7dYOfVJO5XIqJEJ276gDZX) | 3:37 |
 | 94 | [Show Me That You Care](https://open.spotify.com/track/66TfyYjLCU5NJLSqA1KKZd) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [Show Me That You Care](https://open.spotify.com/album/6BHuCkWVmlaXH1hhfvUkDG) | 3:39 |
 | 95 | [Air 98](https://open.spotify.com/track/0G5ZuEzmW4iUWfrvxGUZH5) | [Satin Sheets](https://open.spotify.com/artist/00BuicDYmtptdvONaQwUSo) | [Air 98](https://open.spotify.com/album/0POYAIiYvoaczXgsHBAaoT) | 2:51 |

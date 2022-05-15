@@ -4,7 +4,7 @@
 
 > Slow and soft sounds of jazz.
 
-130 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
+131 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [For EH](https://open.spotify.com/track/2FbnvVjodpaYP9L8CKMgOw) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [Bright Light](https://open.spotify.com/album/5c5L9EM11mcoHhJLjLqSnV) | 4:56 | 2022-05-13 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/4kAwnSBZKNrCVwjwZnVNgf) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 2:50 | 2021-12-03 |  |
 | [From Dream to Dream](https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 7:33 | 2021-12-03 |  |
+| [Fujiyama](https://open.spotify.com/track/41fniSbDLqp964wyawCRrV) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz Impressions Of Japan](https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX) | 5:03 | 2022-05-13 |  |
 | [Good Morning Heartache](https://open.spotify.com/track/1ho1wV4HROG8ZzJwLrMe3E) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 5:28 | 2021-12-03 |  |
 | [Goor Katan](https://open.spotify.com/track/6GwG8n60P79HgFdGmZMBH3) | [Anat Fort Trio](https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3), [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/6oKLutjO07iCQ08OTcwSgJ) | 5:37 | 2021-12-03 |  |
 | [Homesick](https://open.spotify.com/track/1zWZGoKD5FydwD8chRm1ii) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Homesick](https://open.spotify.com/album/2AzcPL4WhaE67vR2aOQ8q4) | 5:40 | 2021-12-03 |  |
@@ -61,7 +62,7 @@
 | [I'm Old Fashioned \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:57 | 2021-12-03 | 2022-05-13 |
 | [If I Had You](https://open.spotify.com/track/08x5QqbphPdShZJ0fdJK6h) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:48 | 2021-12-03 |  |
 | [If The Moon Turns Green](https://open.spotify.com/track/3VVfyUGLBWKkTbGIuoLd1l) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:48 | 2021-12-03 |  |
-| [Ill Wind](https://open.spotify.com/track/5x86T4WYD8z4axZugABMJ7) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 3:41 | 2022-03-25 |  |
+| [Ill Wind](https://open.spotify.com/track/5x86T4WYD8z4axZugABMJ7) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 3:41 | 2022-03-25 | 2022-05-15 |
 | [In A Mellow Tone](https://open.spotify.com/track/6PtMY654POS9nizEBvrdPD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:10 | 2021-12-03 |  |
 | [In The Night](https://open.spotify.com/track/7AUmSRVIpO8u7yk8mBZs4E) | [Stefania Tallini](https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb), [Matteo Bortone](https://open.spotify.com/artist/6Igu2eu1zPLL09auCGQqS8), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [Uneven](https://open.spotify.com/album/5q8nd3LqfzNaOfrv9VRhG8) | 4:00 | 2021-12-03 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/34IQaMgUdIciIpNWN5CUbl) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:59 | 2021-12-03 |  |

@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 264947,
       "name": "Another World",
       "url": "https://open.spotify.com/track/5hsq03E3do2gWhyOVV2Api"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 302673,
       "name": "Bipolarity",
       "url": "https://open.spotify.com/track/2Fnl5TWYqdmSwTHvrB7voW"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 239450,
       "name": "Black Honey",
       "url": "https://open.spotify.com/track/4FX7dhugVxsKsyC4DgwJyM"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 328461,
       "name": "Black Veins",
       "url": "https://open.spotify.com/track/05SIf43ERRTKeJYrxyZCSB"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
@@ -521,10 +521,32 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 212505,
       "name": "Dead Choir",
       "url": "https://open.spotify.com/track/1pfafAH250L6UoCIsUow78"
+    },
+    {
+      "album": {
+        "name": "Lost in the Waves (The Complete Edition)",
+        "url": "https://open.spotify.com/album/6N1zjfchsRYKmiqyQZSudl"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        },
+        {
+          "name": "DR\u20acW \u00a5ORK",
+          "url": "https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223547,
+      "name": "Death",
+      "url": "https://open.spotify.com/track/2e9HC16cEYxDnj4QAmsYi4"
     },
     {
       "album": {
@@ -611,7 +633,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 155286,
       "name": "Genocidal Humanoidz",
       "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
@@ -665,7 +687,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 173174,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/464QoEFa53Et91wTKjLmTE"
@@ -683,7 +705,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 213086,
       "name": "Human",
       "url": "https://open.spotify.com/track/2Q7nzt6BXtuDdroqKOag3D"
@@ -737,7 +759,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 312937,
       "name": "In the Eye of the Beast (You'll Be Found)",
       "url": "https://open.spotify.com/track/4rhOGSi9e87aYBzZ4dMwNh"
@@ -755,7 +777,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 226348,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
@@ -773,7 +795,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 237003,
       "name": "Into The Fire",
       "url": "https://open.spotify.com/track/7zWPlO8Mcjc5mQGf7v8dlE"
@@ -1007,7 +1029,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 322000,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/53WTbZesrfUZSx1pLjDeHR"
@@ -1097,7 +1119,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/7gYL9E5WN7Nd8l2ZQ1rkKI"
@@ -1169,7 +1191,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 326803,
       "name": "Protector",
       "url": "https://open.spotify.com/track/4wDUS58qIKWEgpJKlbfWqp"
@@ -1187,7 +1209,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 263786,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
@@ -1223,7 +1245,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 323933,
       "name": "Sad But True",
       "url": "https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb"
@@ -1277,7 +1299,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 209703,
       "name": "Sham Pain",
       "url": "https://open.spotify.com/track/0nqIqABZcujg05mkixJV60"
@@ -1313,7 +1335,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 199960,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/3FRB1HLHRqOamWnPeoQbK0"
@@ -1371,6 +1393,24 @@
       "duration_ms": 245226,
       "name": "Stricken",
       "url": "https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV"
+    },
+    {
+      "album": {
+        "name": "The Anti Mother",
+        "url": "https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280546,
+      "name": "Surrender Your Sons",
+      "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
     },
     {
       "album": {
@@ -1479,7 +1519,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 223357,
       "name": "The Hunted (feat. Sully Erna)",
       "url": "https://open.spotify.com/track/08vJxMYhmZu6YTWqVmLgrA"
@@ -1519,7 +1559,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
@@ -1721,7 +1761,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 172826,
       "name": "When Legends Rise",
       "url": "https://open.spotify.com/track/367RiGuLVLO3DTer4NuRLJ"

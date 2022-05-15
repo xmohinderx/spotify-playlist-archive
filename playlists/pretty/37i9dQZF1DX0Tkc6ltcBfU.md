@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,291 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,764 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 38 | [Duntsane](https://open.spotify.com/track/3xySxvtSaRaxQ4nr2VCWEc) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Duntsane](https://open.spotify.com/album/77EHssqkfiZmrZtAHyDzq3) | 3:12 |
 | 39 | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/0uX7dGC07Dd8mpvnCcWzH0) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Pickin’ Sides \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3QMuWl11zBhxwLwLM7KpRM) | 2:13 |
 | 40 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
-| 41 | [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [Boa Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 |
+| 41 | [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [BOA Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 |
 | 42 | [Brazy \(with YNW Melly\)](https://open.spotify.com/track/6wVUIV8RvwlLJlK1DsgVdj) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Brazy](https://open.spotify.com/album/5NPJChyQgOZaESCjr2EgVg) | 2:49 |
 | 43 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 |
 | 44 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 |

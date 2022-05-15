@@ -1,6 +1,6 @@
 {
   "description": "The essential works of Franz Schubert.",
-  "num_followers": 88044,
+  "num_followers": 88089,
   "original_name": "This Is Schubert",
   "owner": {
     "name": "Spotify",
@@ -239,7 +239,7 @@
     {
       "added_at": "2022-02-04 04:00:00",
       "album": {
-        "name": "Schubert: Quintet and Lieder",
+        "name": "Schubert: String Quintet, Op. 163 & Lieder",
         "url": "https://open.spotify.com/album/72zb4wpILnZEVoUfnhnDVg"
       },
       "artists": [
@@ -250,6 +250,10 @@
         {
           "name": "Quatuor \u00c9b\u00e8ne",
           "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         }
       ],
       "duration_ms": 913335,

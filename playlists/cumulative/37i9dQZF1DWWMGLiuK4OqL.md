@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal jazz.
 
-211 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
+212 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [My Foolish Heart](https://open.spotify.com/track/0kDcnUVGfVX1JvRPkslQc3) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Sentimental Journey](https://open.spotify.com/album/5Df4tcguBo4qkUYY8vA7IV) | 4:43 | 2022-01-20 |  |
 | [My Funny Valentine](https://open.spotify.com/track/75Utq8LS7PFLi72T2hRZFy) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Hailey Tuck](https://open.spotify.com/album/4RqGTebe8VaFgqk8QYRErE) | 4:13 | 2022-01-20 |  |
 | [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 | 2022-01-20 |  |
-| [My Heart Belongs to Daddy](https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:03 | 2022-03-25 |  |
+| [My Heart Belongs to Daddy](https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:03 | 2022-03-25 | 2022-05-15 |
 | [My Love](https://open.spotify.com/track/28qG0oRPrJZFnbJwfJc9BN) | [Matt Block](https://open.spotify.com/artist/31EDi81KvwkmTqd0H4VxpP), [Morton Block](https://open.spotify.com/artist/4K6CAt40h6SerzZCE1oeBZ), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [My Love](https://open.spotify.com/album/7eVutr6kxKpRTsCS9Q12pE) | 3:33 | 2022-03-25 | 2022-04-21 |
 | [My Melancholy Baby](https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:39 | 2022-01-20 |  |
 | [My Sweetie & I](https://open.spotify.com/track/6A2cWbyXgKMufDUr5dAJkV) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [My Sweetie & I](https://open.spotify.com/album/2ey5s2msgrSIuW8BamCOHo) | 5:55 | 2022-01-20 |  |
@@ -170,6 +170,7 @@
 | [Spring Can Really Hang You up the Most](https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Spring Can Really Hang You up the Most](https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI) | 5:26 | 2022-01-20 |  |
 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 | 2022-01-20 |  |
 | [Strangers In The Night](https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:37 | 2022-01-20 | 2022-02-10 |
+| [Summer Time](https://open.spotify.com/track/7skpOVKLMC9oUwVcG6mZQ6) | [Andrea Motis](https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j), [Joan Chamorro](https://open.spotify.com/artist/0DuHQPF3vijiN2raRXwx2c), [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Ignasi Terraza](https://open.spotify.com/artist/6Zz9b0Y4a7O9P1uGObAO5a), [Esteve Pi](https://open.spotify.com/artist/10ZecKjcgHe6DDfw9X2Jm9), [Josep Traver](https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D) | [Live at Jamboree \- Barcelona](https://open.spotify.com/album/7tXiRWUOJWPqTxFIjbpvue) | 7:42 | 2022-05-13 |  |
 | [Surrey with the Fringe on Top](https://open.spotify.com/track/2GQhILwu4keRmOPV3Mqi3g) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Very Thought of You](https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP) | 5:00 | 2022-01-20 |  |
 | [Sway \- Remastered](https://open.spotify.com/track/260GbBl5QZowiAWX0j9TYC) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Very Best Of Julie London](https://open.spotify.com/album/2KpxHciuO5Zwd31c4cpKqk) | 2:35 | 2022-01-20 |  |
 | [Take My Breath Away](https://open.spotify.com/track/3B0gvjxlqRgY7stPPl3qoQ) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Take My Breath Away](https://open.spotify.com/album/6nBmfhB1ioNyyUlpb9AmMQ) | 3:30 | 2022-01-20 |  |

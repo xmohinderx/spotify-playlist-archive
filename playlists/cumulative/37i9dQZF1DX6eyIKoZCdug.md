@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-70 songs - 6 hr 42 min - not published yet
+70 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/7FfYgPlgGkKYkTqIwLeLMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Ryan Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,345 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,491 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gonna Be Alright](https://open.spotify.com/track/13KgdUgmo99HKADNuCGOlB) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Gonna Be Alright](https://open.spotify.com/album/3ssfhtvQJNgJ8sTKyFJQPA) | 4:05 |
 | 2 | [Young Love](https://open.spotify.com/track/2j85h5KZCPzIH5toHo42kd) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Young Love](https://open.spotify.com/album/2eviPVL3x8z0RBqV3YGQwg) | 4:23 |
 | 3 | [None Like You](https://open.spotify.com/track/23gYKYjZWdaSmug23zfKyQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 1:16 |
-| 4 | [Stand Strong \(feat\. The Samples\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [The Samples](https://open.spotify.com/artist/4KV8ACcPuT3Jyx9Bvh6OFs) | [Stand Strong \(feat\. The Samples\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 |
+| 4 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 |
 | 5 | [Joy of the Lord](https://open.spotify.com/track/2wHd615sqOBfpm4hFF8kzG) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN) | [Joy of the Lord](https://open.spotify.com/album/6gBsF8EEbZ5lOuTx8VpepF) | 2:45 |
 | 6 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 |
 | 7 | [Love Cuz We're Loved](https://open.spotify.com/track/2juJ2tpDl2EkpI99ekM8C1) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [Love Cuz We're Loved](https://open.spotify.com/album/5BFHvB7xehIgWKEztdeurz) | 4:42 |

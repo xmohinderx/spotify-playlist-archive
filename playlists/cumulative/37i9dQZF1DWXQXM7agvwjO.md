@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Elephant Gym \(Taiwan\)
 
-150 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+151 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Eternity As An Instant](https://open.spotify.com/track/6mFIQsnucrn7viS643LUc6) | [Mai Mishio](https://open.spotify.com/artist/0gZyTGbT1RKnpW98SejjoU) | [Wednesday/Eternity As An Instant](https://open.spotify.com/album/0lpsDsYmJ8yzrXNMUuRJSi) | 3:52 | 2022-05-12 |  |
 | [FACTS](https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [FACTS](https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO) | 2:27 | 2022-05-12 |  |
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-21 |  |
+| [Feeling Free](https://open.spotify.com/track/4sE3YbKB2AktlZd6vMFoCS) | [Somethink](https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI) | [Feeling Free](https://open.spotify.com/album/5uchrvieuhlfxfrhDwFPtt) | 2:41 | 2022-05-12 |  |
 | [Flower](https://open.spotify.com/track/1FFHAvliNowwAKaojCNYP4) | [9z](https://open.spotify.com/artist/3DoD8wMylOlNPJZm0Geebu) | [Flower](https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar) | 3:37 | 2022-03-24 | 2022-04-15 |
 | [Fool](https://open.spotify.com/track/0OfwiVN2Y6ANw9xneUi3sW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Fool](https://open.spotify.com/album/2WsVcJa42xo5RsbUwGnNSh) | 3:16 | 2022-03-24 | 2022-05-13 |
 | [Fotan Jazz Club](https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [Akira Mimasu](https://open.spotify.com/artist/5JtWkrls291QYKbtm1oSVU) | [Windsong](https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ) | 3:44 | 2022-05-12 |  |
@@ -112,7 +113,7 @@
 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 | 2022-03-24 |  |
 | [Slow Dance](https://open.spotify.com/track/4L23bFa7UjkhRpj3BwY7hu) | [Folk9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL) | [Slow Dance](https://open.spotify.com/album/1qFwIewiyPab9oEBQUuWP9) | 3:05 | 2022-03-31 |  |
 | [Somebody](https://open.spotify.com/track/1QXJAUb8ncWqjwNMbq9a8z) | [The New Modern Lights](https://open.spotify.com/artist/7fwPJniDEJ1ld3lzqZhs1D) | [Somebody](https://open.spotify.com/album/4KS27Zaiui3syxlsXXM8WB) | 4:38 | 2022-04-14 | 2022-05-07 |
-| [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/track/7BCMGPexL5U99IY3pBrxog) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71), [sunshine blvd.](https://open.spotify.com/artist/0hqb9YnV2YAr2lPHwn5rKe) | [Soul \(feat\. Sunshine Blvd.\)](https://open.spotify.com/album/3HGos1wXHhSXT4Vq5okUa6) | 2:53 | 2022-05-06 |  |
+| [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/track/7BCMGPexL5U99IY3pBrxog) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71), [sunshine blvd.](https://open.spotify.com/artist/0hqb9YnV2YAr2lPHwn5rKe) | [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/album/3HGos1wXHhSXT4Vq5okUa6) | 2:53 | 2022-05-06 |  |
 | [sour patch](https://open.spotify.com/track/2wE6tegCkdlnJZtFbDScsA) | [Darren & Cashwell](https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6) | [sour patch](https://open.spotify.com/album/7AxUn89z5i2BiiBbjKMtjh) | 2:39 | 2022-04-07 |  |
 | [Spin](https://open.spotify.com/track/5vbolJRW6w9YJXDP7yj4n3) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Spin](https://open.spotify.com/album/11lGrv1kUoOvyuWOg4anHX) | 4:05 | 2022-04-28 | 2022-05-13 |
 | [Spring](https://open.spotify.com/track/51nQXsGfDPPlvKenGc4bDh) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG) | [Spring](https://open.spotify.com/album/2oSef9jbYmouw8ihiqbVzh) | 5:03 | 2022-05-06 |  |

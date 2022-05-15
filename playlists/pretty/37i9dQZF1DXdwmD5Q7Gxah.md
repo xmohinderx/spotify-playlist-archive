@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > tons of new music this week from ethel cain, remi wolf, aldn, and more\. cover: aldn
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,265 likes - 114 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,174 likes - 114 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

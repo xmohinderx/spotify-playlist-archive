@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "#\u041c\u041e\u0421\u041a\u0410\u041b\u042c_\u041d\u0415\u041a\u0420\u0410\u0421\u0406\u0412\u0418\u0419",
+        "url": "https://open.spotify.com/album/5HuWOKv1OjsRmhIU4L5A70"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        },
+        {
+          "name": "Verka Serduchka",
+          "url": "https://open.spotify.com/artist/7uH6CJjqK71HlHW4WHNAJg"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120666,
+      "name": "#\u041c\u041e\u0421\u041a\u0410\u041b\u042c_\u041d\u0415\u041a\u0420\u0410\u0421\u0406\u0412\u0418\u0419",
+      "url": "https://open.spotify.com/track/3sYyBDC4zPM3UZsgUfPhbb"
+    },
+    {
+      "album": {
         "name": "#\u041f\u041e\u0428\u0422\u0410",
         "url": "https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g"
       },
@@ -3423,7 +3445,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 134723,
       "name": "Million",
       "url": "https://open.spotify.com/track/4umjgYILQbHyV41ZmaemQm"
@@ -3735,6 +3757,24 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
       "album": {
@@ -5449,7 +5489,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 148494,
       "name": "stockholm",
       "url": "https://open.spotify.com/track/2ChVq8CrBPd0Ubxr6f2N8u"
@@ -5475,6 +5515,24 @@
       "duration_ms": 84239,
       "name": "Super Fly",
       "url": "https://open.spotify.com/track/0OGIKKEA3s342QnF41bnkS"
+    },
+    {
+      "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "album": {
@@ -10241,7 +10299,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 266976,
       "name": "\u041d\u0435 \u0442\u0432\u043e\u044f \u0432\u0456\u0439\u043d\u0430",
       "url": "https://open.spotify.com/track/0H2ZDRzULQ8tIUvxUuTlqF"

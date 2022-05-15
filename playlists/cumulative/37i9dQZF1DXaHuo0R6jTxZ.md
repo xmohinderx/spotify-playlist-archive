@@ -4,7 +4,7 @@
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-50 songs - 3 hr 59 min - not published yet
+50 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/4zHl19xHxCLRqQv5npYejX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

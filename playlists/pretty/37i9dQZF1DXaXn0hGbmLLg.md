@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Women at full volume! Luister naar muziek van vrouwen uit Nederland\. Cover: MEROL
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,493 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,492 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [pastel](https://open.spotify.com/track/56s8JFwrhgj32R8YczxcBW) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Troostprijs](https://open.spotify.com/album/67TUHvg9bK7tNGxSYycWSY) | 2:33 |
 | 2 | [100 SMSjes](https://open.spotify.com/track/4MA4LxSsJRbj4axg1uTi2n) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [100 SMSjes](https://open.spotify.com/album/1HmekW64bQZwKdjXqxhSmG) | 2:31 |
-| 3 | [KUNG F.U.](https://open.spotify.com/track/70Ef2lCn5SMykjhWlyhyUy) | [Pink Oculus](https://open.spotify.com/artist/0Fgve0HNaQEPK4xupHohzg) | [KUNG F.U\. \|\| WATER \|\| AWAY](https://open.spotify.com/album/1oJOfKe9g7wVwWxXeVtWUR) | 3:57 |
+| 3 | [KUNG F.U.](https://open.spotify.com/track/70Ef2lCn5SMykjhWlyhyUy) | [Pink Oculus](https://open.spotify.com/artist/0Fgve0HNaQEPK4xupHohzg) | [KUNG F.U.](https://open.spotify.com/album/1oJOfKe9g7wVwWxXeVtWUR) | 3:57 |
 | 4 | [Complexion](https://open.spotify.com/track/2nQtfIkK3eE4SQiaUfAgd5) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Complexion](https://open.spotify.com/album/6mLbfA9FOK4gnbcdXD0Mr6) | 3:09 |
 | 5 | [Spring On A Winter’s Day](https://open.spotify.com/track/4qbRbV0RyEk38BZaDxKmq5) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Trails of Fails](https://open.spotify.com/album/2YAAesGub5PKdugYJhkG4v) | 3:24 |
 | 6 | [No Angel](https://open.spotify.com/track/5dxCzwtbGNzS5Va2FfFmuj) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [No Angel](https://open.spotify.com/album/1E39W0dv21bTb6sJDXODZs) | 2:40 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 57 | [De Reflectie](https://open.spotify.com/track/4zfn0C2okiqy2lecbgXKxj) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [De Reflectie](https://open.spotify.com/album/4AzEN3laaFnSIN7qgf3hh4) | 2:57 |
 | 58 | [Healthy](https://open.spotify.com/track/6WfWBCeuZvWQcYjnpLiELf) | [Kendis](https://open.spotify.com/artist/1kt0Fgzz4cguWjSDODzXxT) | [Healthy](https://open.spotify.com/album/4KzEOASNnvPofJoymTGNRf) | 3:28 |
 | 59 | [Like That](https://open.spotify.com/track/2POm4jGXrEQlzbJ7uc9t9a) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [Like That](https://open.spotify.com/album/4JZxBIzixWS4Xb3nOFRIbN) | 3:01 |
-| 60 | [Meisje uit Parijs](https://open.spotify.com/track/2tFhX1rlmcPSZeCycwKY8w) | [MAR.](https://open.spotify.com/artist/4zWR0ScciMYrUo2UWCpSY4) | [Meisje uit Parijs](https://open.spotify.com/album/4PiuJ3C4iOo7udaaIgzjvy) | 2:49 |
+| 60 | [Meisje uit Parijs](https://open.spotify.com/track/2tFhX1rlmcPSZeCycwKY8w) | [MAR.](https://open.spotify.com/artist/1CS8z1rEgP1CaiCIrBtF88) | [Meisje uit Parijs](https://open.spotify.com/album/4PiuJ3C4iOo7udaaIgzjvy) | 2:49 |
 
 Snapshot ID: `MTY1MTYxNTIwMCwwMDAwMDAxZTAwMDAwMTgwOGJlZmYzNzcwMDAwMDE4MDg1MTdhY2Vk`

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 38840,
+  "num_followers": 38845,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzA1NzU4MDY0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzA1ODQyNzY5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
         "name": "EF \u00deEIR VILJA BEEF",
         "url": "https://open.spotify.com/album/6VgF4QhwQFLzp0WbSmAMDV"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6uU1QhxwtrnOdALd4K1nBs"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
         "name": "Give That Wolf A Banana",
         "url": "https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as"
@@ -45,55 +45,7 @@
       "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "S\u00f6ngvakeppnin 2022",
-        "url": "https://open.spotify.com/album/1SZxfKraoJgUaqcxT3xdvi"
-      },
-      "artists": [
-        {
-          "name": "Systur",
-          "url": "https://open.spotify.com/artist/2ZcBLLXgX6mpYvUciCT89i"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Me\u00f0 h\u00e6kkandi s\u00f3l",
-      "url": "https://open.spotify.com/track/4t3gM4Rl5rz5du0Qn2Yd8K"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "Stefania (Kalush Orchestra)",
-        "url": "https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D"
-      },
-      "artists": [
-        {
-          "name": "KALUSH",
-          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
-        }
-      ],
-      "duration_ms": 179545,
-      "name": "Stefania (Kalush Orchestra)",
-      "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
@@ -109,7 +61,71 @@
       "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "S\u00f6ngvakeppnin 2022",
+        "url": "https://open.spotify.com/album/1SZxfKraoJgUaqcxT3xdvi"
+      },
+      "artists": [
+        {
+          "name": "Systur",
+          "url": "https://open.spotify.com/artist/2ZcBLLXgX6mpYvUciCT89i"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Me\u00f0 h\u00e6kkandi s\u00f3l",
+      "url": "https://open.spotify.com/track/4t3gM4Rl5rz5du0Qn2Yd8K"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Stefania (Kalush Orchestra)",
+        "url": "https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        }
+      ],
+      "duration_ms": 179545,
+      "name": "Stefania (Kalush Orchestra)",
+      "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 255377,
+      "name": "United In Grief",
+      "url": "https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
       "album": {
         "name": "Aldrei Toppa\u00f0",
         "url": "https://open.spotify.com/album/2jxwaybAMPXj0NNQxyhGlS"
@@ -129,39 +145,99 @@
       "url": "https://open.spotify.com/track/7teFuwH2migyw406oQEEWW"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "SPACE MAN",
+        "url": "https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
         }
       ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+      "duration_ms": 217320,
+      "name": "SPACE MAN",
+      "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 203367,
+      "name": "Worldwide Steppers",
+      "url": "https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
       "album": {
         "name": "De Diepte",
         "url": "https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o"
@@ -177,43 +253,23 @@
       "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
+        "name": "SloMo",
+        "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
         }
       ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/44APbTIWsNtA4lJivNJSQ6"
+      "duration_ms": 176285,
+      "name": "SloMo",
+      "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "Halo (feat. PIA MARIA)",
-        "url": "https://open.spotify.com/album/3IW2pdhIz1KqoJDr6sxe24"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "PIA MARIA",
-          "url": "https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Halo (feat. PIA MARIA)",
-      "url": "https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
         "name": "Brividi",
         "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
@@ -233,87 +289,187 @@
       "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/3P4DFoobXVSxBtjsvURSSP"
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "SPACE MAN",
-        "url": "https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Taylour Paige",
+          "url": "https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo"
         }
       ],
-      "duration_ms": 217320,
-      "name": "SPACE MAN",
-      "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
+      "duration_ms": 341307,
+      "name": "We Cry Together",
+      "url": "https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
+        "name": "Halo (feat. PIA MARIA)",
+        "url": "https://open.spotify.com/album/3IW2pdhIz1KqoJDr6sxe24"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "PIA MARIA",
+          "url": "https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ"
         }
       ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/1EUZrgQT3KkJ5dBiYLAbVf"
+      "duration_ms": 159600,
+      "name": "Halo (feat. PIA MARIA)",
+      "url": "https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0fF43Vtu2yuaixZViQN5yO"
+      "duration_ms": 329295,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 103319,
+      "name": "Rich - Interlude",
+      "url": "https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 283642,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Ochman (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cgyAvJqQXpY5dpasG4B2f"
+      },
+      "artists": [
+        {
+          "name": "Ochman",
+          "url": "https://open.spotify.com/artist/45YERUZVQOedUFX24vFcvc"
+        }
+      ],
+      "duration_ms": 180201,
+      "name": "River - Eurovision 2022 - Poland",
+      "url": "https://open.spotify.com/track/6mkQtlv43QQcW6ivLuL9JE"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
       "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
@@ -329,7 +485,7 @@
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
@@ -340,264 +496,28 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/6V6q0kGDvwfCkjqVlAhJWX"
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/44APbTIWsNtA4lJivNJSQ6"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "D\u00e6tur",
-        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
+        "name": "Ll\u00e1mame",
+        "url": "https://open.spotify.com/album/4CR61ko9dziDieWFFPkGWs"
       },
       "artists": [
         {
-          "name": "Fri\u00f0rik D\u00f3r",
-          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+          "name": "wrs",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
         }
       ],
-      "duration_ms": 231925,
-      "name": "Bleikur og bl\u00e1r",
-      "url": "https://open.spotify.com/track/3oqh1aMQniNyTPWZl6TC1a"
+      "duration_ms": 184029,
+      "name": "Ll\u00e1mame",
+      "url": "https://open.spotify.com/track/3n9qn38IhqkC7DcdIRaM9q"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "The Heart Part 5",
-        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 332362,
-      "name": "The Heart Part 5",
-      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/4SnZutXz7AH58ZNVJU8dmN"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "SloMo",
-        "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "SloMo",
-      "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5S2wLOfH1u9iSUQy8NtvRZ"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "S4W",
-        "url": "https://open.spotify.com/album/4so3RjKERHvgCTk4uyJsMb"
-      },
-      "artists": [
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        }
-      ],
-      "duration_ms": 150492,
-      "name": "Geekd",
-      "url": "https://open.spotify.com/track/1EXfXjotrbtS2T6ILXzQgD"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/5DTaPBlR5WVwcQVl77hCFY"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1uaSTOZG1cSH2e7EaWNYaM"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "WAIT FOR U (feat. Drake & Tems)",
-      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/76Y8XoegQ5wzOzbUeDOMos"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "I Am What I Am",
-        "url": "https://open.spotify.com/album/2IXU4jYEgRFMJiOsdLM2Pw"
-      },
-      "artists": [
-        {
-          "name": "Emma Muscat",
-          "url": "https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX"
-        }
-      ],
-      "duration_ms": 182196,
-      "name": "I Am What I Am",
-      "url": "https://open.spotify.com/track/1FtqYazfNvsqR4CQvzrrD3"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "Festival Da Can\u00e7\u00e3o 2022",
-        "url": "https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "saudade, saudade",
-      "url": "https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "Die Together",
-        "url": "https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB"
-      },
-      "artists": [
-        {
-          "name": "Amanda Tenfjord",
-          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Die Together",
-      "url": "https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/65zDaQ8wTT3GptmsF98fXs"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9mie Makiese",
-          "url": "https://open.spotify.com/artist/6VCBinAerlvZxvXSHAFVuq"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4VgSGm7CroAlCCt9GKQ75Z"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
@@ -613,130 +533,118 @@
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/65zDaQ8wTT3GptmsF98fXs"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "J\u00e9r\u00e9mie Makiese",
+          "url": "https://open.spotify.com/artist/6VCBinAerlvZxvXSHAFVuq"
         }
       ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/1rS8kkyjKDrprqYW64pcgA"
+      "duration_ms": 173333,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4VgSGm7CroAlCCt9GKQ75Z"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/6qLniagBCgRqiHD6kG97FP"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4KshQUp3ITJ4UQu4gNqWYD"
-      },
-      "artists": [
-        {
-          "name": "Ochman",
-          "url": "https://open.spotify.com/artist/45YERUZVQOedUFX24vFcvc"
-        }
-      ],
-      "duration_ms": 180201,
-      "name": "River",
-      "url": "https://open.spotify.com/track/2fSz6MBKMPjOApUhGYfPid"
-    },
-    {
-      "added_at": "2022-05-13 11:54:24",
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         },
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
         }
       ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
+      "duration_ms": 224466,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
+        "name": "Festival Da Can\u00e7\u00e3o 2022",
+        "url": "https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/4V9Dfo2e4km7aAqbyCBoff"
+      "duration_ms": 181226,
+      "name": "saudade, saudade",
+      "url": "https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
+        "name": "Trenule\u021bul",
+        "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Zdob si Zdub",
+          "url": "https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu"
+        },
+        {
+          "name": "Fratii Advahov",
+          "url": "https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC"
         }
       ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/3Ci0iILaHXY5Y5blEp9IWZ"
+      "duration_ms": 180030,
+      "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
+      "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+      "duration_ms": 264299,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2IwbW2jd0Ncv99Aroe77Ru"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "Fulenn",
-        "url": "https://open.spotify.com/album/5zcojJ1clKrh13zYgdeWvD"
+        "name": "Die Together",
+        "url": "https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tenfjord",
+          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/0t31E2aU5XmnUErQWKsy1n"
       },
       "artists": [
         {
@@ -750,26 +658,42 @@
       ],
       "duration_ms": 166255,
       "name": "Fulenn",
-      "url": "https://open.spotify.com/track/2ewv8FkYHVy3Mv0uf5Pi7k"
+      "url": "https://open.spotify.com/track/43UejonUIN69O8NNAFRu5X"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "Ela",
-        "url": "https://open.spotify.com/album/6yLTAu9P2FW7uwTzchu1Xx"
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
       "artists": [
         {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 182484,
-      "name": "Ela",
-      "url": "https://open.spotify.com/track/4kvL0qtl0uMwiHHgSGAgJl"
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Lights Off (ESC Version)",
+        "url": "https://open.spotify.com/album/2KdNg6kVcSruJSCG1JU9Mz"
+      },
+      "artists": [
+        {
+          "name": "We Are Domi",
+          "url": "https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S"
+        }
+      ],
+      "duration_ms": 179323,
+      "name": "Lights Off - ESC Version",
+      "url": "https://open.spotify.com/track/0tOKpglJb9cza4WdTtxsv7"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
@@ -780,81 +704,177 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/2rgn4a3kdHllF1O2qiNCeE"
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/3P4DFoobXVSxBtjsvURSSP"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+        "name": "D\u00e6tur",
+        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
         }
       ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+      "duration_ms": 231925,
+      "name": "Bleikur og bl\u00e1r",
+      "url": "https://open.spotify.com/track/3oqh1aMQniNyTPWZl6TC1a"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/0aunt675a1C2mknBYoAlpK"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "STEFAN",
+          "url": "https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug"
         }
       ],
-      "duration_ms": 211935,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+      "duration_ms": 183902,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6sSq38pmQxG0YuvbipDoEi"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "H\u00e1lfa Millj\u00f3n",
-        "url": "https://open.spotify.com/album/68P4qhW0teZiVQ7R14Ztwu"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
       },
       "artists": [
         {
-          "name": "Emmsj\u00e9 Gauti",
-          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0fF43Vtu2yuaixZViQN5yO"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 281069,
+      "name": "Auntie Diaries",
+      "url": "https://open.spotify.com/track/19Fg3WrTfo35Ji3PtfZE6J"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "In corpore sano",
+        "url": "https://open.spotify.com/album/5OrxFHIvmC4KkSLQI8yhsI"
+      },
+      "artists": [
+        {
+          "name": "Konstrakta",
+          "url": "https://open.spotify.com/artist/0mrbJs6eUt85g1ozyYMiUt"
+        }
+      ],
+      "duration_ms": 179482,
+      "name": "In corpore sano",
+      "url": "https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/1EUZrgQT3KkJ5dBiYLAbVf"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
         }
       ],
-      "duration_ms": 197642,
-      "name": "H\u00e1lfa Millj\u00f3n",
-      "url": "https://open.spotify.com/track/3CQoAVZ2vo8nzog2kFjWqD"
+      "duration_ms": 210841,
+      "name": "Mr. Morale",
+      "url": "https://open.spotify.com/track/7zvfDihYiJ8RQ1nRcpKBF5"
     },
     {
-      "added_at": "2022-05-13 11:54:24",
+      "added_at": "2022-05-14 11:26:09",
       "album": {
-        "name": "Tindast\u00f3ll",
-        "url": "https://open.spotify.com/album/5t1pOxnRpzDmETmqAGRDXD"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
         {
-          "name": "\u00dalfur \u00dalfur",
-          "url": "https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57"
-        },
-        {
-          "name": "Sverrir Bergmann",
-          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 177937,
-      "name": "Tindast\u00f3ll",
-      "url": "https://open.spotify.com/track/3msojKjrk2zq9rXt5XphLi"
+      "duration_ms": 152985,
+      "name": "Savior - Interlude",
+      "url": "https://open.spotify.com/track/5PPUw4Xo3Hz6rl4GpBfd3c"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Jezebel",
+        "url": "https://open.spotify.com/album/5zhjGDcXytCo05wRxkNtIX"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 190863,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/2NehRqeFiEGV72lFfqJGUn"
+    },
+    {
+      "added_at": "2022-05-14 11:26:09",
+      "album": {
+        "name": "Dansa (feat. Fri\u00f0rik D\u00f3r)",
+        "url": "https://open.spotify.com/album/49Ly3euaT1vLdLwOiXmDgK"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3n J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu"
+        },
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "Dansa (feat. Fri\u00f0rik D\u00f3r)",
+      "url": "https://open.spotify.com/track/6QyyCKMHcpo0PsdItc1CLQ"
     }
   ],
   "unique_name": "Top 50 - Iceland",

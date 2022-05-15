@@ -650,6 +650,24 @@
     },
     {
       "album": {
+        "name": "M\u516b\u4e03",
+        "url": "https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263120,
+      "name": "M\u516b\u4e03",
+      "url": "https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5"
+    },
+    {
+      "album": {
         "name": "strobo",
         "url": "https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY"
       },
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 225920,
       "name": "\u307e\u3064\u308a",
       "url": "https://open.spotify.com/track/3OdkC5pG8vc26S26qHyBo8"

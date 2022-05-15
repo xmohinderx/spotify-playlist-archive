@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,608 likes - 96 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,628 likes - 96 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 66 | [Bubble Drip \(feat\. Kassandra Ebony, WARREN B., Princess Precious\)](https://open.spotify.com/track/3SrkobmkbqHaQzKFyZgmZA) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Kassandra Ebony](https://open.spotify.com/artist/4kQduOE8yd4ugCFanu3dUX), [Warren B.](https://open.spotify.com/artist/01dZpQXrsBQyTI3TC3tYAO), [Princess Precious](https://open.spotify.com/artist/3NntTHZ9Cryd8A3KNFH6JI) | [Bubble Drip \(feat\. Kassandra Ebony, WARREN B., Princess Precious\)](https://open.spotify.com/album/6y7XQ3sLvFlr4fE6XFuhPQ) | 3:42 |
 | 67 | [ThundaKats](https://open.spotify.com/track/7DRk2Pp3vXKCrgoiSLsW4R) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ) | [ThundaKats EP](https://open.spotify.com/album/1lOA60vjn1dMSOu4ElokU4) | 6:36 |
 | 68 | [Give That](https://open.spotify.com/track/7DwR9GsGCiorqfPAGVgy7e) | [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW), [Icon Sinia Alaia](https://open.spotify.com/artist/4lcAwldRw3SfyyEmL80Hpo) | [Give That](https://open.spotify.com/album/2rtPiFNyWnHWMOOSHJo8nL) | 4:03 |
-| 69 | [Soda \- MikeQ & Divoli S’vere Daughter’s Ha Remix](https://open.spotify.com/track/0QK0irAOp7fPqyD5Cg7pXw) | [Boody](https://open.spotify.com/artist/64yfjhFPMATyVqtB7knCCH), [Le1f](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [Mike Q](https://open.spotify.com/artist/5wXyvG2EDTKhvjfWhQvMHl), [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [Liquid](https://open.spotify.com/album/5fb77zmnjz3yEZm589aCBC) | 3:29 |
+| 69 | [Soda \- MikeQ & Divoli S’vere Daughter’s Ha Remix](https://open.spotify.com/track/0QK0irAOp7fPqyD5Cg7pXw) | [Boody](https://open.spotify.com/artist/64yfjhFPMATyVqtB7knCCH), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [Mike Q](https://open.spotify.com/artist/5wXyvG2EDTKhvjfWhQvMHl), [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [Liquid](https://open.spotify.com/album/5fb77zmnjz3yEZm589aCBC) | 3:29 |
 | 70 | [Bad Bitch](https://open.spotify.com/track/7Jst8eBHdUyvBO47a5wQIR) | [Gage](https://open.spotify.com/artist/4hzEQXsNMYNMSN3P6rlym7), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Bad Bitch](https://open.spotify.com/album/1qgJrHsVBqf2v5bCVFcdqz) | 3:56 |
 | 71 | [tunna\-melt](https://open.spotify.com/track/40wS0Hn107CwIHLHSQNsGt) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [CKUNTINOMKSZ](https://open.spotify.com/album/2YzChAOzMjwskZWWuSXXcI) | 2:27 |
 | 72 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |

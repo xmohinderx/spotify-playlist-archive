@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Kendrick Lamar
 
-11,362 songs - 27 day 5 hr 51 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+11,363 songs - 27 day 5 hr 53 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3124,6 +3124,7 @@
 | [Feeling](https://open.spotify.com/track/7z21lMGgRFk10sd1EPuW76) | [Pathetic Son](https://open.spotify.com/artist/2tNhMsqGA7GhBe9dbf8fYm), [Koobs](https://open.spotify.com/artist/5IY8ejItxa7IloaLFcBSNz) | [Feeling](https://open.spotify.com/album/0KSC7LVfKxM0VOtRdT1AFc) | 3:41 | 2020-10-23 | 2020-10-30 |
 | [Feeling 21](https://open.spotify.com/track/6H1QejcKVxFuBLUDY1YWaT) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling 21](https://open.spotify.com/album/0u5zm3MRdEO25JSCxf41gI) | 4:29 | 2021-02-26 | 2021-03-06 |
 | [Feeling Blue](https://open.spotify.com/track/5FRmwsdluvsB7MBAs9LECw) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL) | [Feeling Blue](https://open.spotify.com/album/5SeunKVKGFgcbP0rdxnT1e) | 2:50 | 2020-09-11 | 2020-09-18 |
+| [Feeling Free](https://open.spotify.com/track/4sE3YbKB2AktlZd6vMFoCS) | [Somethink](https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI) | [Feeling Free](https://open.spotify.com/album/5uchrvieuhlfxfrhDwFPtt) | 2:41 | 2022-05-12 |  |
 | [Feeling Free \- With Pretty Boy Aaron](https://open.spotify.com/track/70y34niYNRbQGqvwf0eRgr) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR) | [Feeling Free \(With Pretty Boy Aaron\)](https://open.spotify.com/album/2nZ6iS9AyRRQhfKu8hgzGw) | 3:32 | 2021-02-26 | 2021-03-06 |
 | [Feeling Myself Today](https://open.spotify.com/track/5dABkHkvA7ud5nmDUArJ4r) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 3:08 | 2020-11-13 | 2020-11-20 |
 | [Feeling Something Bad...](https://open.spotify.com/track/73E4OLlpRLHFJNR7JZgwoH) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Feeling Something Bad...](https://open.spotify.com/album/2HNyPDrjx9r4vZHX984xqX) | 2:27 | 2021-03-14 | 2021-03-19 |

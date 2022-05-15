@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Dj Matt D, Ryan SP, Menor MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,552 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,753 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 8 | [Matemática](https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:14 |
 | 9 | [Tempos de Escola \(feat\. Ponto De Equilíbrio, Dimme Roots & Hash Produções\)](https://open.spotify.com/track/1XrYudR4oBTKGj4pqtb2lZ) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Dimme Roots](https://open.spotify.com/artist/4TNnhByA0EyFuJojfULhkz), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Tempos de Escola \(feat\. Ponto De Equilíbrio, Dimme Roots & Hash Produções\)](https://open.spotify.com/album/5I9kknvTmA4mxOlA4hTtxJ) | 5:27 |
 | 10 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 |
-| 11 | [Bands](https://open.spotify.com/track/6FHK4H1jf50VLiizsAl1PQ) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD), [Gxrdenx](https://open.spotify.com/artist/0HHoOQ7hezpKMgtTmi4dQP) | [Bands](https://open.spotify.com/album/1RjfUIudFbdgVvT91yvehW) | 2:00 |
+| 11 | [Bands](https://open.spotify.com/track/6FHK4H1jf50VLiizsAl1PQ) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [Gxrdenx](https://open.spotify.com/artist/0HHoOQ7hezpKMgtTmi4dQP) | [Bands](https://open.spotify.com/album/1RjfUIudFbdgVvT91yvehW) | 2:00 |
 | 12 | [Pitbull](https://open.spotify.com/track/4BbZUFzlbx4mVR1r0Z35x2) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Pitbull](https://open.spotify.com/album/6EwvwqxByg8Ll9VJmeqBcc) | 2:50 |
 | 13 | [Ela Quer \(feat\. YNC Younco\)](https://open.spotify.com/track/2UMAbyw9tyKi06TXmvDQQP) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [YNC Younco](https://open.spotify.com/artist/69MHK2hU8EbU2EXsdwxLrf) | [Ela Quer \(feat\. YNC Younco\)](https://open.spotify.com/album/6pDnP2Q51rL9LfvSKfczt8) | 2:55 |
 | 14 | [O Príncipe](https://open.spotify.com/track/1VfrKSq7cwMpf7IA7rgnEM) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [O Príncipe](https://open.spotify.com/album/5LtZ4efZCHV9bqIq4RA2A2) | 2:52 |

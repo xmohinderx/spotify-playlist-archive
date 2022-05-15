@@ -1,13 +1,33 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 678179,
+  "num_followers": 678405,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQ5MDg3NCwwMDAwMDAwMGIyYThjZGJlZjZjZDg0YTYyMWZiNzA4NzAyNjUxM2Ex",
+  "snapshot_id": "MTY1MjU3NzM5MCwwMDAwMDAwMGFkN2Q1YmYwMWI4OGE5ZjJlYWI1NGM1MjRhNjJmODI2",
   "tracks": [
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LHQUWoY6Jc4X7QhZixZaP"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 236157,
+      "name": "Before I Let Go - Edit/Remastered",
+      "url": "https://open.spotify.com/track/7KFJ33pZ8E3yPT4yxde5aQ"
+    },
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
@@ -59,6 +79,38 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 314826,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/3geEOHGloO2IIzE45BQWTC"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Do Me Baby",
+        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
+      },
+      "artists": [
+        {
+          "name": "Meli'sa Morgan",
+          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "Fool's Paradise",
+      "url": "https://open.spotify.com/track/2smHxX4ZmwamJ1Cu3BM3Os"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -71,6 +123,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Gold - '80s Soul",
+        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
+      "url": "https://open.spotify.com/track/7KEguG3CDoestm50v6XET5"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -95,34 +163,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Gold - '80s Soul",
-        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
+        "url": "https://open.spotify.com/album/0WnR10U63bFdkaAjpIBcbU"
       },
       "artists": [
         {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 234706,
-      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
-      "url": "https://open.spotify.com/track/7KEguG3CDoestm50v6XET5"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 314826,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/3geEOHGloO2IIzE45BQWTC"
+      "duration_ms": 258666,
+      "name": "Treat Her Like A Lady - Single Version",
+      "url": "https://open.spotify.com/track/6zVGwCyDWoWMOLDAoycZ1j"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -141,20 +193,52 @@
       "url": "https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp"
     },
     {
-      "added_at": "2021-04-01 19:37:56",
+      "added_at": "2021-07-01 19:39:13",
       "album": {
-        "name": "Do Me Baby",
-        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
+        "name": "Hurry Up This Way Again",
+        "url": "https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK"
       },
       "artists": [
         {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
         }
       ],
-      "duration_ms": 300733,
-      "name": "Fool's Paradise",
-      "url": "https://open.spotify.com/track/2smHxX4ZmwamJ1Cu3BM3Os"
+      "duration_ms": 353680,
+      "name": "Hurry Up This Way Again",
+      "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Best of Gerald Levert",
+        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
+      },
+      "artists": [
+        {
+          "name": "Levert",
+          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
+        }
+      ],
+      "duration_ms": 262373,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Mtume",
+          "url": "https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "Juicy Fruit",
+      "url": "https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -173,36 +257,20 @@
       "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
     },
     {
-      "added_at": "2021-04-01 19:37:56",
+      "added_at": "2021-07-01 19:39:13",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
-        "url": "https://open.spotify.com/album/0WnR10U63bFdkaAjpIBcbU"
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
         }
       ],
-      "duration_ms": 258666,
-      "name": "Treat Her Like A Lady - Single Version",
-      "url": "https://open.spotify.com/track/6zVGwCyDWoWMOLDAoycZ1j"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Best of Gerald Levert",
-        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
-      },
-      "artists": [
-        {
-          "name": "Levert",
-          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
-        }
-      ],
-      "duration_ms": 262373,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
+      "duration_ms": 285333,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -237,6 +305,38 @@
       "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
     },
     {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Greatest Hits Of Freddie Jackson",
+        "url": "https://open.spotify.com/album/7thvb896bJwK56oIcZWKwZ"
+      },
+      "artists": [
+        {
+          "name": "Freddie Jackson",
+          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "Jam Tonight",
+      "url": "https://open.spotify.com/track/2iftQA575wOPFU6VGU3XkJ"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Radio Hits Of the '80s",
+        "url": "https://open.spotify.com/album/4OhFkx7dTPfj0BXerfldyk"
+      },
+      "artists": [
+        {
+          "name": "Johnny Kemp",
+          "url": "https://open.spotify.com/artist/2u8hDu5KBMpvneOV8Th3LE"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Just Got Paid - Single Version",
+      "url": "https://open.spotify.com/track/1OK4hVcucqYKMU9Ipb3dtx"
+    },
+    {
       "added_at": "2021-07-01 19:39:13",
       "album": {
         "name": "TP (Expanded Edition)",
@@ -251,6 +351,22 @@
       "duration_ms": 299120,
       "name": "Love T.K.O.",
       "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "All Our Love",
+        "url": "https://open.spotify.com/album/317yszmuS2lV5tGIEepU2h"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 326733,
+      "name": "Love Overboard",
+      "url": "https://open.spotify.com/track/2dykYf0mZG217bYkiREKEh"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -271,54 +387,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Mtume",
-          "url": "https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "Juicy Fruit",
-      "url": "https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r"
-    },
-    {
-      "added_at": "2021-07-01 19:39:13",
-      "album": {
-        "name": "Hurry Up This Way Again",
-        "url": "https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 353680,
-      "name": "Hurry Up This Way Again",
-      "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Greatest Hits Of Freddie Jackson",
-        "url": "https://open.spotify.com/album/7thvb896bJwK56oIcZWKwZ"
-      },
-      "artists": [
-        {
-          "name": "Freddie Jackson",
-          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "Jam Tonight",
-      "url": "https://open.spotify.com/track/2iftQA575wOPFU6VGU3XkJ"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Heart Break",
         "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
       },
@@ -331,38 +399,6 @@
       "duration_ms": 309840,
       "name": "If It Isn't Love",
       "url": "https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "All Our Love",
-        "url": "https://open.spotify.com/album/317yszmuS2lV5tGIEepU2h"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 326733,
-      "name": "Love Overboard",
-      "url": "https://open.spotify.com/track/2dykYf0mZG217bYkiREKEh"
-    },
-    {
-      "added_at": "2021-07-01 19:39:13",
-      "album": {
-        "name": "I'm In Love Again",
-        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "If Only You Knew",
-      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -381,52 +417,20 @@
       "url": "https://open.spotify.com/track/3nW6iZFsJhOTZBeRdC5tKD"
     },
     {
-      "added_at": "2021-04-01 19:37:56",
+      "added_at": "2021-07-01 19:39:13",
       "album": {
-        "name": "The Best of Keith Sweat: Make You Sweat",
-        "url": "https://open.spotify.com/album/6GXk2hxl4q5GoPHarlUet8"
+        "name": "Let Me Touch You",
+        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
       },
       "artists": [
         {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 221400,
-      "name": "I Want Her",
-      "url": "https://open.spotify.com/track/24gxdUxufJ5eSamdYcPAKH"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "80's Soul Number 1's",
-        "url": "https://open.spotify.com/album/0GoeyWfdBjNPcC4fVisM7x"
-      },
-      "artists": [
-        {
-          "name": "Yarbrough & Peoples",
-          "url": "https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/0DVevhcLPiHoLaVyl6dSGr"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Lost R&B Hits Of The 80S",
-        "url": "https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk"
-      },
-      "artists": [
-        {
-          "name": "E.U.",
-          "url": "https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh"
-        }
-      ],
-      "duration_ms": 314133,
-      "name": "Da Butt",
-      "url": "https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2"
+      "duration_ms": 318253,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -447,18 +451,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Street Called Desire ... And More",
-        "url": "https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9"
+        "name": "Just Gets Better With Time",
+        "url": "https://open.spotify.com/album/0OUlAcInVaAk2LrGrQv1bH"
       },
       "artists": [
         {
-          "name": "Rene & Angela",
-          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
         }
       ],
-      "duration_ms": 321066,
-      "name": "I'll Be Good",
-      "url": "https://open.spotify.com/track/57b0v2TB75b3ON5g5e8Q6N"
+      "duration_ms": 243706,
+      "name": "Rock Steady - Radio Edit",
+      "url": "https://open.spotify.com/track/4RRs6lOD5L1KbQ56rp61RM"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -481,20 +485,36 @@
       "url": "https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp"
     },
     {
-      "added_at": "2021-07-01 19:39:13",
+      "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Let Me Touch You",
-        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
+        "name": "The Best of Keith Sweat: Make You Sweat",
+        "url": "https://open.spotify.com/album/6GXk2hxl4q5GoPHarlUet8"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
         }
       ],
-      "duration_ms": 318253,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+      "duration_ms": 221400,
+      "name": "I Want Her",
+      "url": "https://open.spotify.com/track/24gxdUxufJ5eSamdYcPAKH"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Street Called Desire ... And More",
+        "url": "https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9"
+      },
+      "artists": [
+        {
+          "name": "Rene & Angela",
+          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
+        }
+      ],
+      "duration_ms": 321066,
+      "name": "I'll Be Good",
+      "url": "https://open.spotify.com/track/57b0v2TB75b3ON5g5e8Q6N"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -519,38 +539,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LHQUWoY6Jc4X7QhZixZaP"
+        "name": "Lost R&B Hits Of The 80S",
+        "url": "https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk"
       },
       "artists": [
         {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+          "name": "E.U.",
+          "url": "https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh"
         }
       ],
-      "duration_ms": 236157,
-      "name": "Before I Let Go - Edit/Remastered",
-      "url": "https://open.spotify.com/track/7KFJ33pZ8E3yPT4yxde5aQ"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 297973,
-      "name": "The Pleasure Principle",
-      "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"
+      "duration_ms": 314133,
+      "name": "Da Butt",
+      "url": "https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -571,6 +571,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "The Pleasure Principle",
+      "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Ready For The World",
         "url": "https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg"
       },
@@ -587,86 +603,70 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Radio Hits Of the '80s",
-        "url": "https://open.spotify.com/album/4OhFkx7dTPfj0BXerfldyk"
+        "name": "80's Soul Number 1's",
+        "url": "https://open.spotify.com/album/0GoeyWfdBjNPcC4fVisM7x"
       },
       "artists": [
         {
-          "name": "Johnny Kemp",
-          "url": "https://open.spotify.com/artist/2u8hDu5KBMpvneOV8Th3LE"
+          "name": "Yarbrough & Peoples",
+          "url": "https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Just Got Paid - Single Version",
-      "url": "https://open.spotify.com/track/1OK4hVcucqYKMU9Ipb3dtx"
+      "duration_ms": 249000,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/0DVevhcLPiHoLaVyl6dSGr"
     },
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Come Share My Love",
-        "url": "https://open.spotify.com/album/0qBTPs9JvnVolUM4zvAoCf"
+        "name": "Gold - '80s Soul",
+        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
       },
       "artists": [
         {
-          "name": "Miki Howard",
-          "url": "https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh"
-        }
-      ],
-      "duration_ms": 290533,
-      "name": "Come Share My Love",
-      "url": "https://open.spotify.com/track/2tEifcUedZAkWUnRB1O4E5"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Glamorous Life",
-        "url": "https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW"
-      },
-      "artists": [
-        {
-          "name": "Sheila E.",
-          "url": "https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P"
-        }
-      ],
-      "duration_ms": 543560,
-      "name": "The Glamorous Life",
-      "url": "https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/18qv2M2UpaSk0H1f0lRauJ"
-      },
-      "artists": [
-        {
-          "name": "Kashif",
-          "url": "https://open.spotify.com/artist/135Rv69sEKYSUfBBaI7i3M"
+          "name": "Dennis Edwards",
+          "url": "https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp"
         },
         {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
         }
       ],
-      "duration_ms": 282666,
-      "name": "Love Changes (with Meli'sa Morgan) - Digitally Remastered 1998",
-      "url": "https://open.spotify.com/track/2TQAKues8mUovMsp6u8gpn"
+      "duration_ms": 243480,
+      "name": "Don't Look Any Further - Single Version",
+      "url": "https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W"
     },
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Just Gets Better With Time",
-        "url": "https://open.spotify.com/album/0OUlAcInVaAk2LrGrQv1bH"
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
+        "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
       "artists": [
         {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+          "name": "Dazz Band",
+          "url": "https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l"
         }
       ],
-      "duration_ms": 243706,
-      "name": "Rock Steady - Radio Edit",
-      "url": "https://open.spotify.com/track/4RRs6lOD5L1KbQ56rp61RM"
+      "duration_ms": 287000,
+      "name": "Let It Whip",
+      "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Guy",
+        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 273760,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2"
     }
   ],
   "unique_name": "\u201980s Jam Session",

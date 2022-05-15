@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare e in copertina c'è oli? <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,512 likes - 89 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,533 likes - 89 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 14 | [GIORNATE NOIOSE](https://open.spotify.com/track/1NtpWsXJY3b2Cmmu2wWmQH) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 2:36 |
 | 15 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 |
 | 16 | [Ascolta](https://open.spotify.com/track/2tX4EAq6MsQcncVfrNE1EP) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Ascolta](https://open.spotify.com/album/2TXXhzyuerk6eXLn4CR4y4) | 2:34 |
-| 17 | [HAPPY MEAL](https://open.spotify.com/track/2aHsQiY6ePHsArewvOhgeC) | [VERSAILLES](https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE) | [\-PATICO](https://open.spotify.com/album/5qFmUkWUyxRR8vYXhWArSn) | 2:59 |
+| 17 | [HAPPY MEAL](https://open.spotify.com/track/2aHsQiY6ePHsArewvOhgeC) | [VERSAILLES](https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE), [Tenca](https://open.spotify.com/artist/0NocYf1x6n1eBAZbJw6tNA) | [\-PATICO](https://open.spotify.com/album/5qFmUkWUyxRR8vYXhWArSn) | 2:59 |
 | 18 | [SO CHI SEI](https://open.spotify.com/track/3uNwqefXvTVJROzoGzOMCj) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SO CHI SEI](https://open.spotify.com/album/7H4olKm9KSm2stKpSkih6N) | 3:41 |
 | 19 | [Skategirl](https://open.spotify.com/track/2fIRWwwbtW21031Bv1tCKT) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [Skategirl](https://open.spotify.com/album/7bN95XmbIS6HZxlAbA0onY) | 2:44 |
 | 20 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |

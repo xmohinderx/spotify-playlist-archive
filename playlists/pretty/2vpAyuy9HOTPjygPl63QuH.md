@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,561 likes - 37 songs - 1 hr 59 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,568 likes - 37 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 15 | [Pullin Up](https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq) | [Pullin Up](https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn) | 3:05 |
 | 16 | [U Want 2 Get](https://open.spotify.com/track/5kaHaMvafqdg3noItmkeEi) | [Poison Ghost](https://open.spotify.com/artist/7cAVkIFcDsKIVHJDDjLOOb) | [U Want 2 Get](https://open.spotify.com/album/0pi1WgO5rsN5Pi8vtWJqN8) | 3:47 |
 | 17 | [On The Mind](https://open.spotify.com/track/5hWH3qZjiEkuAdy4wjnN7n) | [Pirate Snake](https://open.spotify.com/artist/6GC33IJFo0PDw5bsazEzpj), [Rettake](https://open.spotify.com/artist/2sa3ArlnMSXJNuJDf84THa) | [On The Mind](https://open.spotify.com/album/1bI5Fq35DbaD8d7NGIfx2l) | 2:53 |
-| 18 | [Uno Dos Tres](https://open.spotify.com/track/1tmiHmrdeVP3dGaIsCxtcW) | [Whistleface](https://open.spotify.com/artist/7KnYUpS6tznoeCp8LeJI1D), [Mack Gray](https://open.spotify.com/artist/5ga4xg1wQ3JyzEJAPSU51x) | [Uno Dos Tres](https://open.spotify.com/album/0eAqLbQnSS7H0iJTxV8q20) | 2:24 |
+| 18 | [Uno Dos Tres](https://open.spotify.com/track/1tmiHmrdeVP3dGaIsCxtcW) | [Whistleface](https://open.spotify.com/artist/7KnYUpS6tznoeCp8LeJI1D), [Mack Gray](https://open.spotify.com/artist/06A9vfbnrSFRTniEccSByT) | [Uno Dos Tres](https://open.spotify.com/album/0eAqLbQnSS7H0iJTxV8q20) | 2:24 |
 | 19 | [Crowd Go](https://open.spotify.com/track/1qUEgs5vGGo6Ak9yesBSci) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [Crowd Go](https://open.spotify.com/album/7EKASa7zCI7lyVVBnzuwBc) | 3:31 |
 | 20 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 |
 | 21 | [Sideline](https://open.spotify.com/track/0H3wnauakIIRxX51DkYtuc) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Sideline](https://open.spotify.com/album/21F97euPUgafnMNEiqlS3T) | 3:20 |

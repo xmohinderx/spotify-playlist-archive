@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: G\. Love
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,692 likes - 71 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,727 likes - 71 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 179616,
       "name": "After",
       "url": "https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 151501,
       "name": "ATR\u00c9VETE - Afro Version",
       "url": "https://open.spotify.com/track/7ygxApodlwQufjiR4n1poP"
@@ -363,6 +363,24 @@
       "duration_ms": 171506,
       "name": "Bla, Bla, Bla",
       "url": "https://open.spotify.com/track/4BDdnkJUI8RDqsdt2ingMA"
+    },
+    {
+      "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/1vwysXgMnjbrgBEAJOLayN"
+      },
+      "artists": [
+        {
+          "name": "Nanizzie",
+          "url": "https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154671,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/28E4ZbM3cBV8ehG1rXaz9g"
     },
     {
       "album": {
@@ -547,7 +565,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 214560,
       "name": "C\u00f3mo Le Haces",
       "url": "https://open.spotify.com/track/0Vou3YugmY9I6pu52uxaYT"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 214000,
       "name": "De Cero",
       "url": "https://open.spotify.com/track/02APyozcjYXixWTVkOQS7q"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 183980,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/7BW5CXmE4DF91TmMbK4LXg"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 159440,
       "name": "Juro Que",
       "url": "https://open.spotify.com/track/0XQr7djQbD7KWO5u4T2OkD"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 171089,
       "name": "Me Conoces",
       "url": "https://open.spotify.com/track/3VZTeLP44cx4TIsMxVpi6W"
@@ -1181,6 +1199,24 @@
       "duration_ms": 235996,
       "name": "M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/1lMuQJHBznRfq7GdQrIQN4"
+    },
+    {
+      "album": {
+        "name": "Nada Tuyo",
+        "url": "https://open.spotify.com/album/2XqvAoaxho6Ls0SyvRHxY8"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Nada Tuyo",
+      "url": "https://open.spotify.com/track/5KyC2wlH7acp95IFTQ2yLN"
     },
     {
       "album": {
@@ -1841,7 +1877,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 206116,
       "name": "Te Pienso",
       "url": "https://open.spotify.com/track/3LCUFhel7bdHUoTtlksfGG"
@@ -1899,7 +1935,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 229369,
       "name": "TODO HA CAMBIAO'",
       "url": "https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR"
@@ -1921,6 +1957,28 @@
       "duration_ms": 179912,
       "name": "Toy Story",
       "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+    },
+    {
+      "album": {
+        "name": "Tq para mi \u2728",
+        "url": "https://open.spotify.com/album/1VWrrII4gcdo9tr3wEak1t"
+      },
+      "artists": [
+        {
+          "name": "Juan Rached",
+          "url": "https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM"
+        },
+        {
+          "name": "Anacri",
+          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Tq para mi \u2728",
+      "url": "https://open.spotify.com/track/1wBM6bZWmwr0Wtq3S4SRDr"
     },
     {
       "album": {

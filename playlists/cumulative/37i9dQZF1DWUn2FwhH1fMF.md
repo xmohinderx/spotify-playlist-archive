@@ -4,7 +4,7 @@
 
 > The best dance songs of 2021\. Cover: Becky Hill.
 
-110 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/4NC9GP1oyZmO0sV37Tctze)
+110 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4NC9GP1oyZmO0sV37Tctze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2021-12-01 |  |
 | [Off Of My Mind](https://open.spotify.com/track/27sQMqYTkll2GcwQ7azPr5) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/5wlx7x7hWG3UJrboPgmIRq) | 2:44 | 2021-12-01 |  |
 | [Okay](https://open.spotify.com/track/1muUz481pBOMzJ9De3NS6e) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Nicky Romero JAPAN COLLECTION 2021](https://open.spotify.com/album/3oxyWlxzEzX7kGgOQnqtQi) | 2:31 | 2021-12-01 |  |
-| [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 5:48 | 2021-12-01 |  |
+| [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2021-12-01 |  |
 | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3KSDI400G4Ykh7HjAYS7sP) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 3:16 | 2021-12-01 |  |
 | [Ones You Miss](https://open.spotify.com/track/455tXvHRsDrIwyGJGQTxPL) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss](https://open.spotify.com/album/6Khd1eXtKR9Iq1CPB9TRQE) | 2:13 | 2021-12-01 |  |
 | [Only One](https://open.spotify.com/track/7kcvhjkit9kuMv3DogaTUI) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Expensive Sounds For Nice People](https://open.spotify.com/album/35yhWb1e6S2W3q9S5y0dQZ) | 3:11 | 2021-12-01 |  |

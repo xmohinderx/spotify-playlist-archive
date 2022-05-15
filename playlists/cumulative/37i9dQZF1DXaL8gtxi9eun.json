@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-13",
   "description": "Most adored pop hits from the Middle East and North Africa. Cover: Mahmoud El Esseily",
   "name": "Best of Arab Pop",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3oCJHmm7pEXb9N40JMypnM"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 209697,
       "name": "10 Oloub",
       "url": "https://open.spotify.com/track/2M4RHWLlXJbvfGrS9owX38"
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 212571,
       "name": "Adda El Kalam",
       "url": "https://open.spotify.com/track/4IMYgmXkjzzOmbDNbQZnVe"
@@ -111,10 +113,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 165805,
       "name": "Alach Ya Lil",
       "url": "https://open.spotify.com/track/6j1Y4fr04M40b6gwnPrM9N"
+    },
+    {
+      "album": {
+        "name": "Albi Ya Albi",
+        "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206963,
+      "name": "Albi Ya Albi",
+      "url": "https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q"
     },
     {
       "album": {
@@ -147,7 +167,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 203987,
       "name": "Ana Lamma Bheb",
       "url": "https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ"
@@ -165,7 +185,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 251810,
       "name": "Ana Law Zalana",
       "url": "https://open.spotify.com/track/4Z4WGTYz3lj5KLkkvc7XVO"
@@ -237,7 +257,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 331714,
       "name": "Baoul Aady",
       "url": "https://open.spotify.com/track/1NkW18VV3QVOCuoVQsBC84"
@@ -277,7 +297,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 228570,
       "name": "Beehom Kolohom",
       "url": "https://open.spotify.com/track/4yDzT37LAYRLnOgVDsZPCV"
@@ -403,7 +423,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 280247,
       "name": "Elly Yemshy 3ady",
       "url": "https://open.spotify.com/track/1Qh8KVerk8wYXVmRWw51Xe"
@@ -421,7 +441,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 226402,
       "name": "ElNafkha ElKadabah",
       "url": "https://open.spotify.com/track/6VaT4hvY4DvVFNx0apik5F"
@@ -497,6 +517,24 @@
       "duration_ms": 209533,
       "name": "Foq",
       "url": "https://open.spotify.com/track/6Rn1c15zyjxUcabm2vMueZ"
+    },
+    {
+      "album": {
+        "name": "Forsa Tanya (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5DI1F2g6R8qumJSSpYLXxC"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246121,
+      "name": "Forsa Tanya - Music from the Original TV Series",
+      "url": "https://open.spotify.com/track/3PvwLFsBlIwyKGXgHvHqmH"
     },
     {
       "album": {
@@ -577,7 +615,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 269500,
       "name": "Halet Ektaab",
       "url": "https://open.spotify.com/track/47nco5gKSaLGcLrkLTGz0L"
@@ -674,6 +712,24 @@
     },
     {
       "album": {
+        "name": "khateera",
+        "url": "https://open.spotify.com/album/3t3U7jth4HV9tx11NMwC0N"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "khateera",
+      "url": "https://open.spotify.com/track/3y1tMUZAy2v5LMyKo7Ko8J"
+    },
+    {
+      "album": {
         "name": "Kona Momken Netefeq",
         "url": "https://open.spotify.com/album/2V67koitIZsuGNzVvxS87j"
       },
@@ -739,7 +795,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 239250,
       "name": "Leh",
       "url": "https://open.spotify.com/track/0188UV5nlwUYejX3HKhphw"
@@ -815,7 +871,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 238775,
       "name": "Ma3lesh Asly Medalla3ha",
       "url": "https://open.spotify.com/track/5xOMOyJdSc66QGzSMlVBhl"
@@ -833,7 +889,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 255510,
       "name": "Maah",
       "url": "https://open.spotify.com/track/50eZJCaZ6sGAPfW7EaJ0NB"
@@ -1017,7 +1073,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 210322,
       "name": "Rabe3 Fengan Ahwa",
       "url": "https://open.spotify.com/track/7arsxgfPgULHOa5rsENcZI"
@@ -1053,7 +1109,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 181930,
       "name": "Saaba",
       "url": "https://open.spotify.com/track/3SZ3zSiJynzOAXYqwQqXeG"
@@ -1125,7 +1181,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 232400,
       "name": "Shattabna",
       "url": "https://open.spotify.com/track/4138h4unKb8WMM4EgoZZGi"
@@ -1273,7 +1329,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 220800,
       "name": "Yom Min el Ayyam",
       "url": "https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b"
@@ -1327,7 +1383,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 249302,
       "name": "\u0628\u0627\u0634\u0627 \u0628\u0627\u0634\u0627",
       "url": "https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc"
@@ -1367,6 +1423,24 @@
       "duration_ms": 124520,
       "name": "\u0632\u0647\u0631\u0629 \u062d\u0627\u0644\u0629 \u062d\u0644\u0648\u0629 (\u0645\u0639 \u0645\u064a\u0631\u064a\u0627\u0645 \u0641\u0627\u0631\u0633 \u0648 \u0627\u0633\u0631 \u064a\u0627\u0633\u064a\u0646)",
       "url": "https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0647\u0627\u0631\u0646\u0627 \u0648\u0631\u062f\u064a",
+        "url": "https://open.spotify.com/album/02l1jHBJrh68fU2kaiM8V7"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189594,
+      "name": "\u0646\u0647\u0627\u0631\u0646\u0627 \u0648\u0631\u062f\u064a",
+      "url": "https://open.spotify.com/track/1AZELIVj9dbzculbZXocRS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun"

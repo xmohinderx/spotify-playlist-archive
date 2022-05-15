@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 185984,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/1hfA56vqCGk6SZzVSaOxSm"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 180400,
       "name": "Ego\u00edsmo",
       "url": "https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 205714,
       "name": "ME ENCANTA EL EXCESO",
       "url": "https://open.spotify.com/track/5NQfXYpbujH50LeF65icHb"
@@ -759,6 +759,24 @@
       "duration_ms": 186404,
       "name": "nada que decir",
       "url": "https://open.spotify.com/track/1qPf4Rl5l8QyK2BXsk1CJE"
+    },
+    {
+      "album": {
+        "name": "Adicion",
+        "url": "https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259800,
+      "name": "No Dices Mas",
+      "url": "https://open.spotify.com/track/2udRqNX3z2OjdqR01ebDwU"
     },
     {
       "album": {

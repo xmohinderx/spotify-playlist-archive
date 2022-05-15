@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2nite](https://open.spotify.com/track/43NBwip0w9tLrkqDErD4jy) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl), [Carol Riddick](https://open.spotify.com/artist/0TXTa4w6P9h0tJ1GFTZIhL) | [Rogue](https://open.spotify.com/album/3uggtDqGf7M4tV7cKcFQdd) | 3:51 | 2021-11-19 |  |
+| [2nite](https://open.spotify.com/track/43NBwip0w9tLrkqDErD4jy) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl), [Carol Riddick](https://open.spotify.com/artist/0TXTa4w6P9h0tJ1GFTZIhL) | [Rogue](https://open.spotify.com/album/3uggtDqGf7M4tV7cKcFQdd) | 3:51 | 2021-11-19 | 2022-05-15 |
 | [A Better One for You](https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS) | [Guilherme Cunha Ribeiro](https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5) | [Free Afternoon](https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i) | 3:53 | 2021-11-19 |  |
 | [A Bridge](https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [A Bridge](https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ) | 4:03 | 2021-11-19 |  |
 | [A Good Goodbye](https://open.spotify.com/track/44YADxNo3TdpkwEr5DvV2B) | [Joanna Dong](https://open.spotify.com/artist/6uxDuPWsZwqC5tLhmoaAFZ) | [A Good Goodbye](https://open.spotify.com/album/6RG4OSNR3OfIj9R3GiHWiZ) | 3:33 | 2021-11-19 |  |
@@ -169,7 +169,7 @@
 | [You Are My Everything](https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x) | [Oliver Nosaczynski Bohovič](https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum) | [You Are My Everything](https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4) | 4:10 | 2021-11-19 |  |
 | [You Belong To My Heart \- Solamente una Vez](https://open.spotify.com/track/6s4lefaSddnWhOiT1hBre5) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flores para Frida](https://open.spotify.com/album/2RnkhkkMf3ohTkeynGNfMq) | 2:43 | 2021-11-19 |  |
 | [You Can't Hide Away From Love](https://open.spotify.com/track/73gYqDCBbnFjp3CWkpuwTK) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller](https://open.spotify.com/album/5SRbo9fLmQzZqInna05WyM) | 3:08 | 2021-11-19 |  |
-| [You Have to Dance \(feet\)](https://open.spotify.com/track/5FJkdtXbK4dodNkxh6KcBG) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [12 Little Spells](https://open.spotify.com/album/3mWCkfWvAFi8FSgfLNrVfg) | 3:27 | 2021-11-19 | 2022-05-14 |
+| [You Have to Dance \(feet\)](https://open.spotify.com/track/5FJkdtXbK4dodNkxh6KcBG) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [12 Little Spells](https://open.spotify.com/album/3mWCkfWvAFi8FSgfLNrVfg) | 3:27 | 2021-11-19 |  |
 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 | 2021-11-19 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

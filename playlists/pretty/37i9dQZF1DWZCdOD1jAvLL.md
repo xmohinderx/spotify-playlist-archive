@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,881 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,211 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 6 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 4:42 |
 | 7 | [Let's Rave, Make Love](https://open.spotify.com/track/6mylgnvuGYjcakF6ur4uHC) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ) | [Welcome Home](https://open.spotify.com/album/1Jz9lsCZlbb7pW829VbgXH) | 3:20 |
 | 8 | [1F2F](https://open.spotify.com/track/77sxAECGDQdMvNa82MVHGt) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [OGAQUAFINA](https://open.spotify.com/artist/07E0xIjCv2xkPCR7KCr9aK) | [1F2F](https://open.spotify.com/album/1FHvEp9a23CmefSGUrwsrs) | 2:55 |
-| 9 | [Goodies](https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [Fuse](https://open.spotify.com/artist/7xCCjSSqo7y2OUpJ2DMMrs) | [Goodies](https://open.spotify.com/album/1XjtyTyruK0RoGOuVsQNqc) | 2:27 |
+| 9 | [Goodies](https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [FUSE](https://open.spotify.com/artist/7xCCjSSqo7y2OUpJ2DMMrs) | [Goodies](https://open.spotify.com/album/1XjtyTyruK0RoGOuVsQNqc) | 2:27 |
 | 10 | [Pullin Up](https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq) | [Pullin Up](https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn) | 3:05 |
 | 11 | [Ghost \- Cloverdale Remix](https://open.spotify.com/track/4sd13Wkerj62pdgkMHBBUd) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Ghost \- Cloverdale Remix](https://open.spotify.com/album/77cGlrjC62YXn9wHJK0xRW) | 3:24 |
 | 12 | [Pathway](https://open.spotify.com/track/0au2fnq9tGdAGyNWuthEew) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Pathway](https://open.spotify.com/album/1fzqZXdmmKi4inSKoDJM5Y) | 2:35 |

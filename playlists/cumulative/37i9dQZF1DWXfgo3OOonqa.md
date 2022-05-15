@@ -4,12 +4,13 @@
 
 > Håll det 100.
 
-330 songs - 14 hr 49 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+331 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [08 ZOO](https://open.spotify.com/track/59cIFyq3hJRRbEX4yl7QVt) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [08 ZOO](https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM) | 2:04 | 2021-12-16 | 2022-01-28 |
 | [100GUMMA](https://open.spotify.com/track/3VfSujP5vV4nCsCGsIU0tt) | [Gabbe G](https://open.spotify.com/artist/5V8oJaQyjYmXR8VNVAccbq) | [100GUMMA](https://open.spotify.com/album/2kvfqvkycPcvxMicn6mi2z) | 2:41 | 2021-12-16 | 2022-01-28 |
+| [130622 REC](https://open.spotify.com/track/30qQMtkwMQqDhXcaixzYA9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [REC 130622](https://open.spotify.com/album/6vkvjIiODcebikj3TrCBVZ) | 3:47 | 2022-05-14 |  |
 | [20 talet](https://open.spotify.com/track/3RZ9e3e7Rrmd9Se8dFOV46) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [20 talet](https://open.spotify.com/album/5uzEiC1slSQj9L8mWVdNp8) | 2:36 | 2022-02-10 | 2022-03-26 |
 | [2022](https://open.spotify.com/track/5zgU6yN5KwEeNNobhnYZq5) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [2022](https://open.spotify.com/album/4b50TZmLWKcvuMCr2FcxKp) | 2:05 | 2022-01-04 | 2022-04-08 |
 | [24](https://open.spotify.com/track/5359wDL2O1rzwRPVRqwoxW) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [24](https://open.spotify.com/album/5EifQxLUTYEksUteR7M0eP) | 2:22 | 2022-01-27 | 2022-02-18 |
@@ -93,7 +94,7 @@
 | [Dyrbar tid](https://open.spotify.com/track/7ymV4ydTlFx6YQiBDJQyuu) | [Abadai](https://open.spotify.com/artist/3EAX0xy2xS8pWLu8ZWXRMW) | [AURINHO](https://open.spotify.com/album/4QB2qpnzelipDvMc9ifKMj) | 2:26 | 2022-03-04 | 2022-03-18 |
 | [Eget Bruk](https://open.spotify.com/track/1kJ9nVh9LjPYiCvcBSsPyz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:25 | 2022-04-28 |  |
 | [Elden \(feat\. Dizzy & Manny Flaco\)](https://open.spotify.com/track/7360iScV4BTruAJfE6TnjO) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [Elden \(feat\. Dizzy & Manny Flaco\)](https://open.spotify.com/album/4FmtP9HdfFAlmXtbpGiIax) | 3:03 | 2021-12-16 | 2022-01-20 |
-| [EMMA](https://open.spotify.com/track/2OKJQ3pd3FXBWYWxEg5827) | [Saikz](https://open.spotify.com/artist/3YAxYI6L8lRRh1eYqDMd4A), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [EMMA](https://open.spotify.com/album/5isXJJFykPCOnCUI0iIjuf) | 2:07 | 2022-05-05 |  |
+| [EMMA](https://open.spotify.com/track/2OKJQ3pd3FXBWYWxEg5827) | [Saikz](https://open.spotify.com/artist/3YAxYI6L8lRRh1eYqDMd4A), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [EMMA](https://open.spotify.com/album/5isXJJFykPCOnCUI0iIjuf) | 2:07 | 2022-05-05 | 2022-05-15 |
 | [EN DAG](https://open.spotify.com/track/1U9IleWFuSyd0xofUKOXpa) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl) | [EN DAG](https://open.spotify.com/album/5uQMAgs3sAWp7CjZjzTSBq) | 2:47 | 2022-01-25 | 2022-02-18 |
 | [En Stund \- Spotify Studio 100 Recording](https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [En Stund \(Spotify Studio 100 Recording\)](https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9) | 3:01 | 2021-12-16 |  |
 | [Encro](https://open.spotify.com/track/39bmGW3Iw8NLBUgj1B2kD9) | [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4), [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan) | [Encro](https://open.spotify.com/album/5OadM1PjDxfklMfqaJgwsU) | 2:39 | 2022-05-12 |  |

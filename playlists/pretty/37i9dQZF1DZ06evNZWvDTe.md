@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,170 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,175 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 49 | [Saa Okodie No \(feat\. Obrafour\)](https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:08 |
 | 50 | [Greatness](https://open.spotify.com/track/2ZD3mHmyjphne8L61uNZfk) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Alpha](https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr) | 3:38 |
 
-Snapshot ID: `Mjc1NDA4NzQsMDAwMDAwMDBjMjNmNzJhMjUzOTlkNGIzNDc4Y2I5YTY5NDA2YWEwNg==`
+Snapshot ID: `Mjc1NDIyNzUsMDAwMDAwMDAwMmY2M2FiOThlZjllYTAwOGU0Y2Y1MDI2MDllMThhYg==`

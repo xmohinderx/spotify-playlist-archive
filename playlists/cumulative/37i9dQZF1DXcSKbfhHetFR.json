@@ -24,6 +24,24 @@
     },
     {
       "album": {
+        "name": "$=Bonheur",
+        "url": "https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev"
+      },
+      "artists": [
+        {
+          "name": "Les Respectables",
+          "url": "https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267280,
+      "name": "Amalgame",
+      "url": "https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM"
+    },
+    {
+      "album": {
         "name": "Le temps au point mort",
         "url": "https://open.spotify.com/album/01eDW3QDT4HjJ7vWa6tIup"
       },
@@ -330,6 +348,42 @@
     },
     {
       "album": {
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
+      },
+      "artists": [
+        {
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192093,
+      "name": "J'pourrais pas vivre avec toi",
+      "url": "https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7"
+    },
+    {
+      "album": {
+        "name": "Rita-Rita",
+        "url": "https://open.spotify.com/album/6uozpG5nRb05QocIwvK54h"
+      },
+      "artists": [
+        {
+          "name": "Rita-Rita",
+          "url": "https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Je suis down",
+      "url": "https://open.spotify.com/track/19tPhrFje6k0GQkmaPDW4A"
+    },
+    {
+      "album": {
         "name": "Le Trashy Saloon",
         "url": "https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3"
       },
@@ -449,7 +503,7 @@
       ],
       "date_added": "2020-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 163373,
       "name": "Le m\u00e9tronome",
       "url": "https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK"
@@ -597,7 +651,7 @@
       ],
       "date_added": "2020-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 117146,
       "name": "Mini-jupe et watusi",
       "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
@@ -777,7 +831,7 @@
       ],
       "date_added": "2020-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 263640,
       "name": "Si j'ai tort",
       "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,485 likes - 146 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,495 likes - 146 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

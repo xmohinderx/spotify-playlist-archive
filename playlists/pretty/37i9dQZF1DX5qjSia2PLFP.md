@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Money Marr
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,999 likes - 56 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,048 likes - 56 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

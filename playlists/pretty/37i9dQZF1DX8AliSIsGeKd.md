@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Moderat
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,601 likes - 74 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,788 likes - 74 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 |
 | 10 | [Fire](https://open.spotify.com/track/576g4AWp68fUr4iSBp8wQy) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Fire](https://open.spotify.com/album/0q66n2F4XQvLAKRMO6YddR) | 4:45 |
 | 11 | [Restore My Soul \- Remix](https://open.spotify.com/track/2Po3vOi0P5KxVmlR1vjzgf) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Restore My Soul \(Remix\)](https://open.spotify.com/album/7bfdsv9IXDHvBwIYrDDCDs) | 4:32 |
-| 12 | [Ocean \(feat\. Jamie Foxx\) \- DJ Koze Remix](https://open.spotify.com/track/6aXZxlv7H26dTul1IetR3p) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Nobody Is Not Loved, Remixes, Pt\. 2](https://open.spotify.com/album/5xq4m6AJBvYZn9HYeGFmuc) | 5:12 |
+| 12 | [Ocean \(feat\. Jamie Foxx\) \- DJ Koze Remix](https://open.spotify.com/track/6aXZxlv7H26dTul1IetR3p) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Nobody Is Not Loved, Remixes, Pt\. 2](https://open.spotify.com/album/5xq4m6AJBvYZn9HYeGFmuc) | 5:12 |
 | 13 | [Sand It](https://open.spotify.com/track/03q6xcejhFZFETCC4tRRwK) | [Sascha Kloeber](https://open.spotify.com/artist/1Rle6CpNbJy2S3nJVTjpNU) | [Sand It](https://open.spotify.com/album/2jtwBVORaeXQnpfMynOaaU) | 4:52 |
 | 14 | [Aldeapolis](https://open.spotify.com/track/1HSLxCm2XQJKeeUidwcVeK) | [Bonfante](https://open.spotify.com/artist/0hKk2DCpmmWR348mAcRe0p) | [Aldeapolis](https://open.spotify.com/album/7otxLp1aUVPOwsO5FXhqEG) | 7:15 |
 | 15 | [Close](https://open.spotify.com/track/0wHU1VB8hLHPTnalGlLSdR) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Fabian Sprungk](https://open.spotify.com/artist/0WCaG0w6y05Cs7u3FvmrX5), [Laura Zimmermann](https://open.spotify.com/artist/209S6XTQtBUlQZzR4HXsoS) | [Close](https://open.spotify.com/album/0nN43Yz75zSEB1iLvU7d6w) | 4:39 |

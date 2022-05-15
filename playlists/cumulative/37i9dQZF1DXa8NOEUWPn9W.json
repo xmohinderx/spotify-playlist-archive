@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "24",
       "url": "https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 199384,
       "name": "Backfire",
       "url": "https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 196800,
       "name": "Basement",
       "url": "https://open.spotify.com/track/0qAGuRY2EQLbK5TM8ydzrn"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 379356,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 152669,
       "name": "Dancing Clich\u00e9",
       "url": "https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke"
@@ -2621,7 +2621,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 194319,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5YT0stC917pjldKbdVzEo4"
@@ -3434,6 +3434,28 @@
     },
     {
       "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/5K9O0DctnDZLUuAexCpccK"
+      },
+      "artists": [
+        {
+          "name": "AmyElle",
+          "url": "https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W"
+        },
+        {
+          "name": "Shania",
+          "url": "https://open.spotify.com/artist/23kMR41KbDiyLWUKrp8ZVG"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181904,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/63TnIai4KFF6E2D2PNvyWo"
+    },
+    {
+      "album": {
         "name": "Let the Music Play (Alan Fitzpatrick Remix)",
         "url": "https://open.spotify.com/album/1iKXZUq2Yw6dbb71OxeOJ8"
       },
@@ -4191,7 +4213,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 176491,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
@@ -4439,7 +4461,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 218880,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/74svMcorgPABViSTZka4yw"
@@ -4531,7 +4553,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 348953,
       "name": "Observer Effect - DJ-Kicks",
       "url": "https://open.spotify.com/track/2bJI1RpSdjVhTdtcwdP7IN"
@@ -4991,7 +5013,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 249453,
       "name": "Relationship Is",
       "url": "https://open.spotify.com/track/3o0Cq92OL7QnXJUY4F6zBz"
@@ -5575,7 +5597,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 218880,
       "name": "Spiritual Thing",
       "url": "https://open.spotify.com/track/4FvJTqvTXr0e4reHF6CKH8"
@@ -5705,7 +5727,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 176372,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
@@ -5767,7 +5789,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 421703,
       "name": "Talamanca - Cristoph Remix",
       "url": "https://open.spotify.com/track/1u2jnokwA7wxow0gZ64Fvh"
@@ -6081,7 +6103,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 226745,
       "name": "Thrill Seeker",
       "url": "https://open.spotify.com/track/0aImqoSegIewvO67JpSjVP"
@@ -6293,7 +6315,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Wait A Minute",
       "url": "https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c"
@@ -6557,7 +6579,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 164878,
       "name": "White Rabbit - Moxy Club Mix",
       "url": "https://open.spotify.com/track/2Zp0oCiV6xQZjLHUzrTJxv"
@@ -6675,7 +6697,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 181801,
       "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
       "url": "https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS"

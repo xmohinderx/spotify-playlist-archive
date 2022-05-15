@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. nova twins
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. nova twins + <a href="https://shop.bmthofficial.com/products/exclusive\-misfit\-2\-0\-black\-t\-shirt">limited edition misfits x bmth merch</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,947 likes - 77 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,082 likes - 77 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 76 | [Major Waste](https://open.spotify.com/track/5MuPQoYQRnDTLKHcngLK32) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Major Waste](https://open.spotify.com/album/2dA5MOXJ7Zr0d45VYvvMy2) | 3:18 |
 | 77 | [no more](https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more](https://open.spotify.com/album/67x9FY7e6O6PEfZnBUOUFy) | 2:44 |
 
-Snapshot ID: `MTY1MjM5NjQwMCwwMDAwMDE5ZTAwMDAwMTgwYmE4MDFlNzcwMDAwMDE4MGI0YTM2YWZj`
+Snapshot ID: `MTY1MjU2MTE1NSwwMDAwMDFhMDAwMDAwMTgwYzQ1MjE3NWUwMDAwMDE4MGI0YTM2YWZj`

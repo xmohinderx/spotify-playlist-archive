@@ -2462,6 +2462,24 @@
     },
     {
       "album": {
+        "name": "Brad Pitt",
+        "url": "https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216187,
+      "name": "Brad Pitt",
+      "url": "https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM"
+    },
+    {
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
       },
@@ -14841,7 +14859,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 216000,
       "name": "Run to You",
       "url": "https://open.spotify.com/track/38LpvbIp9It4wkOYL9SVHM"
@@ -14895,7 +14913,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 166086,
       "name": "R\u00c9SUM\u00c9",
       "url": "https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN"
@@ -17487,7 +17505,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 214323,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7zvpy4zhp5594U635c3SFL"

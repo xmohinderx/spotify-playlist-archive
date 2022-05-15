@@ -222,6 +222,28 @@
     },
     {
       "album": {
+        "name": "autre part",
+        "url": "https://open.spotify.com/album/440SAo37XdbZL1gJpfOkit"
+      },
+      "artists": [
+        {
+          "name": "Peter Belec",
+          "url": "https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu"
+        },
+        {
+          "name": "Jeff Roy",
+          "url": "https://open.spotify.com/artist/2TKigSrU6lcEAq168uMq2g"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190320,
+      "name": "autre part",
+      "url": "https://open.spotify.com/track/77Lhltr0ekivd0ZXDK9ESe"
+    },
+    {
+      "album": {
         "name": "Beethoven: F\u00fcr Elise in 432 Hz (Redesigned)",
         "url": "https://open.spotify.com/album/2tFVmygcqXtYk6dRPttag6"
       },
@@ -343,7 +365,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 300638,
       "name": "By The Sea (live)",
       "url": "https://open.spotify.com/track/3MYAcI8fKxQjDF2DrULm1B"
@@ -1021,7 +1043,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 215820,
       "name": "Etne",
       "url": "https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ"
@@ -1133,7 +1155,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 278613,
       "name": "February",
       "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
@@ -1159,7 +1181,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 181460,
       "name": "Feel What You Need",
       "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
@@ -1243,7 +1265,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 238223,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP"
@@ -1457,7 +1479,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 257142,
       "name": "Hazy Day",
       "url": "https://open.spotify.com/track/3sooQI7UYmnDwgqoJG2yQO"
@@ -1667,7 +1689,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 247043,
       "name": "Kassel - Robot Koch Rework",
       "url": "https://open.spotify.com/track/2xqRqf5is3SrJeYnIO2lPL"
@@ -1877,7 +1899,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
@@ -2013,7 +2035,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 208307,
       "name": "Mia",
       "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
@@ -2039,7 +2061,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 228954,
       "name": "Midnight Bird",
       "url": "https://open.spotify.com/track/19cnp0bp1q3kclOhLAZZYm"
@@ -2115,7 +2137,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 393813,
       "name": "mist",
       "url": "https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt"
@@ -2261,7 +2283,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 197346,
       "name": "Moving Slowly",
       "url": "https://open.spotify.com/track/596oi0xDA9ZQIHTLJr1Zg6"
@@ -2537,7 +2559,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 242880,
       "name": "Owls",
       "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
@@ -2723,7 +2745,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 249813,
       "name": "Phosphenes",
       "url": "https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4"
@@ -2839,7 +2861,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 180062,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO"
@@ -3229,7 +3251,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 218538,
       "name": "Think Of Home - Kelly Moran Rework",
       "url": "https://open.spotify.com/track/6H8tvKj4JkpYAiDhUaZjd6"
@@ -3327,7 +3349,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 388748,
       "name": "Vale",
       "url": "https://open.spotify.com/track/3PkvGNZ44JmojQBv5DbVIr"

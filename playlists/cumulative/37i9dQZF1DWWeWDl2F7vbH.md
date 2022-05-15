@@ -4,7 +4,7 @@
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-55 songs - 5 hr 34 min - not published yet
+55 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/6Yv4Yq1148W8YtnN6t5EXN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

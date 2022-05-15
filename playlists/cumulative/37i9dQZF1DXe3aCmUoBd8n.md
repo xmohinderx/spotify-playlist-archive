@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Ziad Bourji.
 
-50 songs - 2 hr 52 min - not published yet
+50 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

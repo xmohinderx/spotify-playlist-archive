@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 5323,
+  "num_followers": 5468,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQ5MDg5MCwwMDAwMDAwMDEzYzRhZDNlYTdlOWZiYjFlZTEzOTNmODkxOTQxMGRi",
+  "snapshot_id": "MTY1MjU3NzQwNiwwMDAwMDAwMDAxMmE2M2E2NWM2MzFmYTRjYjA0YzhlNTRiMTViZmIw",
   "tracks": [
     {
       "added_at": "2022-05-13 05:01:00",
@@ -23,70 +23,6 @@
       "duration_ms": 149605,
       "name": "BABY GODDAMN",
       "url": "https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Dark Red",
-        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "SIAMO RAGAZZU",
-        "url": "https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o"
-      },
-      "artists": [
-        {
-          "name": "fantahouse",
-          "url": "https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd"
-        }
-      ],
-      "duration_ms": 94132,
-      "name": "SIAMO RAGAZZU",
-      "url": "https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -115,6 +51,58 @@
       "duration_ms": 188940,
       "name": "Su di Te",
       "url": "https://open.spotify.com/track/7vYsSML4ffmNc3mwKPjGsk"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "POLKA",
+        "url": "https://open.spotify.com/album/4TZVKcYNqGT4Yz4oKWU1I2"
+      },
+      "artists": [
+        {
+          "name": "Rosa Chemical",
+          "url": "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
+        },
+        {
+          "name": "Thelonious B.",
+          "url": "https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A"
+        }
+      ],
+      "duration_ms": 170851,
+      "name": "POLKA",
+      "url": "https://open.spotify.com/track/20jG7WodtS52iOnWyGE1l4"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "SIAMO RAGAZZU",
+        "url": "https://open.spotify.com/album/0SM2IfzvxEGCQGqq8ort9o"
+      },
+      "artists": [
+        {
+          "name": "fantahouse",
+          "url": "https://open.spotify.com/artist/4KpMCwaKuRFMJ9wtf9gujd"
+        }
+      ],
+      "duration_ms": 94132,
+      "name": "SIAMO RAGAZZU",
+      "url": "https://open.spotify.com/track/7FluC0cEpmpyWEAlXMbrCT"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -155,22 +143,42 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "COMINCIA TU (feat. Rosa Chemical)",
-        "url": "https://open.spotify.com/album/4gv0l18cRn8WKpn84WeY8U"
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
       "artists": [
         {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        },
-        {
-          "name": "Rosa Chemical",
-          "url": "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 149196,
-      "name": "COMINCIA TU (feat. Rosa Chemical)",
-      "url": "https://open.spotify.com/track/00aZI3Ds8liGrcqEetsEYf"
+      "duration_ms": 186840,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "High Enough (Slowed)",
+        "url": "https://open.spotify.com/album/22fEFCYPXjbw5hguumN7lR"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        },
+        {
+          "name": "Slowed Radio",
+          "url": "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
+        }
+      ],
+      "duration_ms": 201432,
+      "name": "High Enough - Slowed",
+      "url": "https://open.spotify.com/track/5JXOF1rt31rT07luk5wFE6"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -191,86 +199,38 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Cool for the Summer [Sped Up (Nightcore)]",
-        "url": "https://open.spotify.com/album/410MZofhiv240ybaWhUxpc"
+        "name": "COMINCIA TU (feat. Rosa Chemical)",
+        "url": "https://open.spotify.com/album/4gv0l18cRn8WKpn84WeY8U"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
         },
         {
-          "name": "Speed Radio",
-          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+          "name": "Rosa Chemical",
+          "url": "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
         }
       ],
-      "duration_ms": 191912,
-      "name": "Cool for the Summer - Sped Up (Nightcore)",
-      "url": "https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67"
+      "duration_ms": 149196,
+      "name": "COMINCIA TU (feat. Rosa Chemical)",
+      "url": "https://open.spotify.com/track/00aZI3Ds8liGrcqEetsEYf"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
+        "name": "u.",
+        "url": "https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS"
       },
       "artists": [
         {
-          "name": "Vierre Cloud",
-          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
+          "name": "niteboi",
+          "url": "https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW"
         }
       ],
-      "duration_ms": 129543,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "My Ordinary Life",
-        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
-      },
-      "artists": [
-        {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
-        }
-      ],
-      "duration_ms": 230894,
-      "name": "My Ordinary Life",
-      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+      "duration_ms": 174240,
+      "name": "u.",
+      "url": "https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -295,6 +255,22 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -311,6 +287,142 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
+      },
+      "artists": [
+        {
+          "name": "Vierre Cloud",
+          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
+        }
+      ],
+      "duration_ms": 129543,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Little Dark Age",
+      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Cool for the Summer [Sped Up (Nightcore)]",
+        "url": "https://open.spotify.com/album/410MZofhiv240ybaWhUxpc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        }
+      ],
+      "duration_ms": 191912,
+      "name": "Cool for the Summer - Sped Up (Nightcore)",
+      "url": "https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        },
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "\u042d\u0442\u0430\u0436\u0438",
+        "url": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 141394,
+      "name": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u0438\u0436\u0438\u0439)",
+      "url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Bubble Gum",
+      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 153999,
+      "name": "Ginseng Strip 2002",
+      "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -343,78 +455,6 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "POLKA",
-        "url": "https://open.spotify.com/album/4TZVKcYNqGT4Yz4oKWU1I2"
-      },
-      "artists": [
-        {
-          "name": "Rosa Chemical",
-          "url": "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
-        },
-        {
-          "name": "Thelonious B.",
-          "url": "https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A"
-        }
-      ],
-      "duration_ms": 170851,
-      "name": "POLKA",
-      "url": "https://open.spotify.com/track/20jG7WodtS52iOnWyGE1l4"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "\u042d\u0442\u0430\u0436\u0438",
-        "url": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
-      },
-      "artists": [
-        {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-        }
-      ],
-      "duration_ms": 141394,
-      "name": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u0438\u0436\u0438\u0439)",
-      "url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        },
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Gawk",
-        "url": "https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 156056,
-      "name": "Alien Blues",
-      "url": "https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
         "name": "all I want is you",
         "url": "https://open.spotify.com/album/78zySHGi3bB36rQ8NVGxFt"
       },
@@ -435,74 +475,6 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "ur just horny",
-        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 178787,
-      "name": "ur just horny",
-      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "#BrooklynBloodPop!",
-        "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
-      },
-      "artists": [
-        {
-          "name": "SyKo",
-          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
-        }
-      ],
-      "duration_ms": 145610,
-      "name": "#BrooklynBloodPop!",
-      "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Who Really Cares",
-        "url": "https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 167864,
-      "name": "Not Allowed",
-      "url": "https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "6 un caxxo di rave",
-        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
-      },
-      "artists": [
-        {
-          "name": "Troyamaki",
-          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
-        },
-        {
-          "name": "christiannife",
-          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "6 un caxxo di rave",
-      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
         "name": "sex money feelings die (slowed version)",
         "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
       },
@@ -519,18 +491,226 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "u.",
-        "url": "https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS"
+        "name": "TROUBLED MEMORIES!",
+        "url": "https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q"
       },
       "artists": [
         {
-          "name": "niteboi",
-          "url": "https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW"
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
         }
       ],
-      "duration_ms": 174240,
-      "name": "u.",
-      "url": "https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i"
+      "duration_ms": 137806,
+      "name": "MEMORIES!",
+      "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Break It Off",
+        "url": "https://open.spotify.com/album/5q84FQfWp3Q7XnoMlzLRD3"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 95317,
+      "name": "Break It Off",
+      "url": "https://open.spotify.com/track/0DwVfCYLrVXgvejYbWwZAd"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "MOVIMENTO + THE DAY AFTER",
+        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
+      },
+      "artists": [
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "SUICIDE YEAR",
+        "url": "https://open.spotify.com/album/0tMQ0WClc4aez32B3BiqxJ"
+      },
+      "artists": [
+        {
+          "name": "WEEDMANE",
+          "url": "https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx"
+        },
+        {
+          "name": "Suicideyear",
+          "url": "https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO"
+        }
+      ],
+      "duration_ms": 91731,
+      "name": "SUICIDE YEAR",
+      "url": "https://open.spotify.com/track/7jVH8CXr0MSpGheHOjN4NA"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153294,
+      "name": "Still Don't Know My Name",
+      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+      },
+      "artists": [
+        {
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mon\u00eby so big",
+      "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "TauroTape3",
+        "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
+      },
+      "artists": [
+        {
+          "name": "Tauro Boys",
+          "url": "https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM"
+        },
+        {
+          "name": "Tutti Fenomeni",
+          "url": "https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE"
+        }
+      ],
+      "duration_ms": 156992,
+      "name": "Suono Roma Dimensione (feat. Tutti Fenomeni)",
+      "url": "https://open.spotify.com/track/3H8lIh5uPWPm0HjXVcET21"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Leggins di pelle",
+        "url": "https://open.spotify.com/album/63LwcPVHiaWhdMT5oSKDhx"
+      },
+      "artists": [
+        {
+          "name": "Bello Figo",
+          "url": "https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh"
+        }
+      ],
+      "duration_ms": 132330,
+      "name": "Legghins di pelle",
+      "url": "https://open.spotify.com/track/7aw1LKhEXhxNE16Y3hqDMI"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Money Rain (Phonk Remix)",
+        "url": "https://open.spotify.com/album/0z3SFl34YWiKMXwsTNPdVp"
+      },
+      "artists": [
+        {
+          "name": "VTORNIK",
+          "url": "https://open.spotify.com/artist/1iuGd0kNu2eqLwP9DFGCNY"
+        },
+        {
+          "name": "Phonk",
+          "url": "https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7"
+        }
+      ],
+      "duration_ms": 150941,
+      "name": "Money Rain - Phonk Remix",
+      "url": "https://open.spotify.com/track/4P0r0yO7HNPvOra7BHGixH"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -551,86 +731,194 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
+        "name": "Il Genio [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/7EeeFdpPLy1jFS1pmTL9he"
       },
       "artists": [
         {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "Cosmo",
-          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
-        },
-        {
-          "name": "Pop X",
-          "url": "https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55"
+          "name": "Il Genio",
+          "url": "https://open.spotify.com/artist/0ID6sR0QSfJJU9nDNUCc4d"
         }
       ],
-      "duration_ms": 236384,
-      "name": "FUNERAL PARTY (feat. Cosmo & Pop X)",
-      "url": "https://open.spotify.com/track/1eMfykfketml0h2jCPTGwI"
+      "duration_ms": 197213,
+      "name": "Pop porno",
+      "url": "https://open.spotify.com/track/2CWfkhYbrrwGhuT4ABAjPO"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Boomer Remover",
-        "url": "https://open.spotify.com/album/5ZNIg3GIa9sRLMg7wmrPI5"
+        "name": "My Ordinary Life",
+        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
       },
       "artists": [
         {
-          "name": "Garage Gang",
-          "url": "https://open.spotify.com/artist/0nVylSfYAbjeETmI5FbRyM"
-        },
-        {
-          "name": "Aegeminus",
-          "url": "https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN"
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Essere Pelati",
-      "url": "https://open.spotify.com/track/41cLnOB2fWQOs8m3CfXuqR"
+      "duration_ms": 230894,
+      "name": "My Ordinary Life",
+      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "High Enough (Slowed)",
-        "url": "https://open.spotify.com/album/22fEFCYPXjbw5hguumN7lR"
+        "name": "Perros",
+        "url": "https://open.spotify.com/album/5cX3Gsaq2Cc8J7ImJW9JPk"
       },
       "artists": [
         {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
         },
         {
-          "name": "xxtristanxo",
-          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
-        },
-        {
-          "name": "Slowed Radio",
-          "url": "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
         }
       ],
-      "duration_ms": 201432,
-      "name": "High Enough - Slowed",
-      "url": "https://open.spotify.com/track/5JXOF1rt31rT07luk5wFE6"
+      "duration_ms": 136271,
+      "name": "Perros",
+      "url": "https://open.spotify.com/track/7tTY5P7VCYjbLrzz4a2Ec4"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+        "name": "#FREEBOSSETTI",
+        "url": "https://open.spotify.com/album/1WoSgfBjKazZcFytEXH0Tq"
       },
       "artists": [
         {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        },
+        {
+          "name": "Narcolessia",
+          "url": "https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS"
+        },
+        {
+          "name": "Liltagliagole",
+          "url": "https://open.spotify.com/artist/5RSEIIcnYL0ZwWG3hTYu9G"
+        },
+        {
+          "name": "natimernero!",
+          "url": "https://open.spotify.com/artist/6WVxJVBY4poIPr4JJC964i"
         }
       ],
-      "duration_ms": 120026,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
+      "duration_ms": 143225,
+      "name": "#FREEBOSSETTI",
+      "url": "https://open.spotify.com/track/7MKamJApRrgGFeWXsn5Gd7"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "DIVE IN!",
+        "url": "https://open.spotify.com/album/3QEPmn54oibH1jzd1gcYyD"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 100517,
+      "name": "DIVE IN!",
+      "url": "https://open.spotify.com/track/2I8EDARURigigunOxtg7oi"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "cancun sega edition",
+        "url": "https://open.spotify.com/album/4mo9WtDc8It7I5LoPOLCZC"
+      },
+      "artists": [
+        {
+          "name": "offwire",
+          "url": "https://open.spotify.com/artist/7wsAK4U9Mc3qFRH0E5reO1"
+        }
+      ],
+      "duration_ms": 116546,
+      "name": "cancun sega edition",
+      "url": "https://open.spotify.com/track/5sqxqGrZrdyAjZPUZrI9lv"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "4L",
+        "url": "https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 186017,
+      "name": "Sorry Bout That",
+      "url": "https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "#BrooklynBloodPop!",
+        "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
+      },
+      "artists": [
+        {
+          "name": "SyKo",
+          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
+        }
+      ],
+      "duration_ms": 145610,
+      "name": "#BrooklynBloodPop!",
+      "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "ARDIPITHECUS",
+        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "Wait a Minute!",
+      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "CHICKEN TERIYAKI",
+        "url": "https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 122226,
+      "name": "CHICKEN TERIYAKI",
+      "url": "https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -659,190 +947,34 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Sumikko Gurashi 2.0",
-        "url": "https://open.spotify.com/album/6UWPDKMxhkCZIDEfvAsddg"
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
       },
       "artists": [
         {
-          "name": "Sillyelly",
-          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
         }
       ],
-      "duration_ms": 91966,
-      "name": "Sumikko Gurashi 2.0",
-      "url": "https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB"
+      "duration_ms": 139440,
+      "name": "HDMI",
+      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 299960,
-      "name": "Little Dark Age",
-      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "in heat.",
-        "url": "https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7"
-      },
-      "artists": [
-        {
-          "name": "Hentai Xander",
-          "url": "https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW"
-        }
-      ],
-      "duration_ms": 116376,
-      "name": "in heat.",
-      "url": "https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Il Genio [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/7EeeFdpPLy1jFS1pmTL9he"
-      },
-      "artists": [
-        {
-          "name": "Il Genio",
-          "url": "https://open.spotify.com/artist/0ID6sR0QSfJJU9nDNUCc4d"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Pop porno",
-      "url": "https://open.spotify.com/track/2CWfkhYbrrwGhuT4ABAjPO"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Leggins di pelle",
-        "url": "https://open.spotify.com/album/63LwcPVHiaWhdMT5oSKDhx"
-      },
-      "artists": [
-        {
-          "name": "Bello Figo",
-          "url": "https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh"
-        }
-      ],
-      "duration_ms": 132330,
-      "name": "Legghins di pelle",
-      "url": "https://open.spotify.com/track/7aw1LKhEXhxNE16Y3hqDMI"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "MISA & LIGHT",
-        "url": "https://open.spotify.com/album/3VuoJuyQGrWF3r1X3zZHLY"
-      },
-      "artists": [
-        {
-          "name": "NXFEIT",
-          "url": "https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k"
-        },
-        {
-          "name": "Sillyelly",
-          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
-        },
-        {
-          "name": "Hen848",
-          "url": "https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo"
-        }
-      ],
-      "duration_ms": 170860,
-      "name": "MISA & LIGHT",
-      "url": "https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "TROUBLED MEMORIES!",
-        "url": "https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 137806,
-      "name": "MEMORIES!",
-      "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Le politiche del prato",
-        "url": "https://open.spotify.com/album/141LmYjk5WtxVEcGr56N9s"
-      },
-      "artists": [
-        {
-          "name": "I Camillas",
-          "url": "https://open.spotify.com/artist/2qRou3tRPqy2p59UBDkQVC"
-        }
-      ],
-      "duration_ms": 254374,
-      "name": "La canzone del pane",
-      "url": "https://open.spotify.com/track/4zIDZLcm7EkydNvVvpU0lj"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Perros",
-        "url": "https://open.spotify.com/album/5cX3Gsaq2Cc8J7ImJW9JPk"
-      },
-      "artists": [
-        {
-          "name": "Elilluminari",
-          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 136271,
-      "name": "Perros",
-      "url": "https://open.spotify.com/track/7tTY5P7VCYjbLrzz4a2Ec4"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Mon\u00eby so big",
-      "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+      "duration_ms": 221075,
+      "name": "Primadonna",
+      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -867,70 +999,26 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Panino del McDonald's",
-        "url": "https://open.spotify.com/album/1g3Tmy5XMVCt7KyPpZ1YxF"
+        "name": "X2",
+        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
       },
       "artists": [
         {
-          "name": "GM",
-          "url": "https://open.spotify.com/artist/5QmzgBwtBqgKuIvvPNi4OT"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Panino del McDonald's",
-      "url": "https://open.spotify.com/track/2D2jmpApyIrHu6ogyLzbVP"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Money Rain (Phonk Remix)",
-        "url": "https://open.spotify.com/album/0z3SFl34YWiKMXwsTNPdVp"
-      },
-      "artists": [
-        {
-          "name": "VTORNIK",
-          "url": "https://open.spotify.com/artist/1iuGd0kNu2eqLwP9DFGCNY"
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
         },
         {
-          "name": "Phonk",
-          "url": "https://open.spotify.com/artist/3kXvE7gEBfGkwDaknMngF7"
-        }
-      ],
-      "duration_ms": 150941,
-      "name": "Money Rain - Phonk Remix",
-      "url": "https://open.spotify.com/track/4P0r0yO7HNPvOra7BHGixH"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "BABYDOLL (Speed)",
-        "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
-      },
-      "artists": [
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
+        },
         {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+          "name": "Pop X",
+          "url": "https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55"
         }
       ],
-      "duration_ms": 156650,
-      "name": "BABYDOLL (Speed)",
-      "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "REBEL",
-        "url": "https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V"
-      },
-      "artists": [
-        {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
-        }
-      ],
-      "duration_ms": 147586,
-      "name": "7 su 7",
-      "url": "https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn"
+      "duration_ms": 236384,
+      "name": "FUNERAL PARTY (feat. Cosmo & Pop X)",
+      "url": "https://open.spotify.com/track/1eMfykfketml0h2jCPTGwI"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -951,34 +1039,54 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
+        "name": "Panino del McDonald's",
+        "url": "https://open.spotify.com/album/1g3Tmy5XMVCt7KyPpZ1YxF"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+          "name": "GM",
+          "url": "https://open.spotify.com/artist/5QmzgBwtBqgKuIvvPNi4OT"
         }
       ],
-      "duration_ms": 139440,
-      "name": "HDMI",
-      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+      "duration_ms": 200176,
+      "name": "Panino del McDonald's",
+      "url": "https://open.spotify.com/track/2D2jmpApyIrHu6ogyLzbVP"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Rocking A Cardigan in Atlanta",
-        "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
+        "name": "Boomer Remover",
+        "url": "https://open.spotify.com/album/5ZNIg3GIa9sRLMg7wmrPI5"
       },
       "artists": [
         {
-          "name": "lil Shordie Scott",
-          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
+          "name": "Garage Gang",
+          "url": "https://open.spotify.com/artist/0nVylSfYAbjeETmI5FbRyM"
+        },
+        {
+          "name": "Aegeminus",
+          "url": "https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN"
         }
       ],
-      "duration_ms": 96825,
-      "name": "Rocking A Cardigan in Atlanta",
-      "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
+      "duration_ms": 229600,
+      "name": "Essere Pelati",
+      "url": "https://open.spotify.com/track/41cLnOB2fWQOs8m3CfXuqR"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Sumikko Gurashi 2.0",
+        "url": "https://open.spotify.com/album/6UWPDKMxhkCZIDEfvAsddg"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        }
+      ],
+      "duration_ms": 91966,
+      "name": "Sumikko Gurashi 2.0",
+      "url": "https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -999,238 +1107,106 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "IL CIELO NON \u00c8 UN LIMITE",
-        "url": "https://open.spotify.com/album/4can9KYB8xVGw5y77OyZMX"
+        "name": "REBEL",
+        "url": "https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V"
       },
       "artists": [
         {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
         }
       ],
-      "duration_ms": 186190,
-      "name": "GIOVANNA HARDCORE",
-      "url": "https://open.spotify.com/track/1Pq4fhffDugNRDMBNj0F5q"
+      "duration_ms": 147586,
+      "name": "7 su 7",
+      "url": "https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Condorello",
-        "url": "https://open.spotify.com/album/7edY9tRSgJwXkmSBfkAMm5"
+        "name": "Toxic Pony",
+        "url": "https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf"
       },
       "artists": [
         {
-          "name": "Pippo Sowlo",
-          "url": "https://open.spotify.com/artist/3v9LE0hCyNihlWKS5ymtCT"
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
         },
         {
-          "name": "Mortecattiva",
-          "url": "https://open.spotify.com/artist/37XQV0SgKeKyOxKO0FxLds"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         },
         {
-          "name": "Christian De Seeker",
-          "url": "https://open.spotify.com/artist/4lN320IDljNQRUiRpnMbJ2"
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
         }
       ],
-      "duration_ms": 251608,
-      "name": "Condorello",
-      "url": "https://open.spotify.com/track/7C8vwVTV1tsK6HZjoUelaz"
+      "duration_ms": 198041,
+      "name": "Toxic Pony",
+      "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
+        "name": "Rocking A Cardigan in Atlanta",
+        "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
       },
       "artists": [
         {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+          "name": "lil Shordie Scott",
+          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
         }
       ],
-      "duration_ms": 153999,
-      "name": "Ginseng Strip 2002",
-      "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
+      "duration_ms": 96825,
+      "name": "Rocking A Cardigan in Atlanta",
+      "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "ARDIPITHECUS",
-        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+        "name": "Gawk",
+        "url": "https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
         }
       ],
-      "duration_ms": 196520,
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+      "duration_ms": 156056,
+      "name": "Alien Blues",
+      "url": "https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "PHONKY TOWN",
-        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
+        "name": "Who Really Cares",
+        "url": "https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U"
       },
       "artists": [
         {
-          "name": "PlayaPhonk",
-          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         }
       ],
-      "duration_ms": 141373,
-      "name": "PHONKY TOWN",
-      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
+      "duration_ms": 167864,
+      "name": "Not Allowed",
+      "url": "https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Merce Funebre",
-        "url": "https://open.spotify.com/album/596fRdoCpJOtEHuhHHJX8M"
+        "name": "in heat.",
+        "url": "https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7"
       },
       "artists": [
         {
-          "name": "Tutti Fenomeni",
-          "url": "https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE"
+          "name": "Hentai Xander",
+          "url": "https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW"
         }
       ],
-      "duration_ms": 169925,
-      "name": "Qualcuno che si esplode",
-      "url": "https://open.spotify.com/track/1RfQm0T2ecgBhgZ6DG4nQJ"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 242960,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/1l9d1Zj9Iv2eOcdObVhdMy"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/1MJ5f5EYBC92ADD6xcz7nb"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "(DANZ\u018f)",
-        "url": "https://open.spotify.com/album/1MKEDN3U63XSARXtsdiHk9"
-      },
-      "artists": [
-        {
-          "name": "(DANZ\u018f)",
-          "url": "https://open.spotify.com/artist/5inX1qKJCmipN79C5EbVP2"
-        },
-        {
-          "name": "Hello Mimmi",
-          "url": "https://open.spotify.com/artist/3IifAvWIrEkwQlXr5e97w7"
-        }
-      ],
-      "duration_ms": 127764,
-      "name": "COTTON FIOC",
-      "url": "https://open.spotify.com/track/4HkaLhimGBstqRM9FcCAXw"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Blokka",
-        "url": "https://open.spotify.com/album/0xYcqqWc9HLfQ5lWy4G7Lc"
-      },
-      "artists": [
-        {
-          "name": "Bello Figo",
-          "url": "https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh"
-        }
-      ],
-      "duration_ms": 144648,
-      "name": "Blokka",
-      "url": "https://open.spotify.com/track/345tTz4ZC5HZ8jhW11bPFI"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 146523,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "A\u0160",
-        "url": "https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE"
-      },
-      "artists": [
-        {
-          "name": "Selene Ice",
-          "url": "https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i"
-        }
-      ],
-      "duration_ms": 118210,
-      "name": "Normale",
-      "url": "https://open.spotify.com/track/6dy9z9gihX2vTErxPBwb5f"
-    },
-    {
-      "added_at": "2022-05-13 05:01:00",
-      "album": {
-        "name": "DIVE IN!",
-        "url": "https://open.spotify.com/album/3QEPmn54oibH1jzd1gcYyD"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 100517,
-      "name": "DIVE IN!",
-      "url": "https://open.spotify.com/track/2I8EDARURigigunOxtg7oi"
+      "duration_ms": 116376,
+      "name": "in heat.",
+      "url": "https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt"
     },
     {
       "added_at": "2022-05-13 05:01:00",
@@ -1251,98 +1227,118 @@
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "SUICIDE YEAR",
-        "url": "https://open.spotify.com/album/0tMQ0WClc4aez32B3BiqxJ"
+        "name": "6 un caxxo di rave",
+        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
       },
       "artists": [
         {
-          "name": "WEEDMANE",
-          "url": "https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx"
+          "name": "Troyamaki",
+          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
         },
         {
-          "name": "Suicideyear",
-          "url": "https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO"
+          "name": "christiannife",
+          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
         }
       ],
-      "duration_ms": 91731,
-      "name": "SUICIDE YEAR",
-      "url": "https://open.spotify.com/track/7jVH8CXr0MSpGheHOjN4NA"
+      "duration_ms": 151500,
+      "name": "6 un caxxo di rave",
+      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Todo Va A Cambiar",
-        "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
+        "name": "PHONKY TOWN",
+        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        },
-        {
-          "name": "Karma C",
-          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
+          "name": "PlayaPhonk",
+          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
         }
       ],
-      "duration_ms": 147386,
-      "name": "Todo Va A Cambiar",
-      "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
+      "duration_ms": 141373,
+      "name": "PHONKY TOWN",
+      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "SHUM",
-        "url": "https://open.spotify.com/album/5PHaqajzAEUhRPjwFYqjSx"
+        "name": "Tu Tu Tu...Ta Ta Ta",
+        "url": "https://open.spotify.com/album/4YwZswZvv8WBydOeKPkPMa"
       },
       "artists": [
         {
-          "name": "Go_A",
-          "url": "https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x"
+          "name": "Kekko Dany",
+          "url": "https://open.spotify.com/artist/0fU46K9ujY686VZbm2LjX9"
         }
       ],
-      "duration_ms": 172675,
-      "name": "SHUM",
-      "url": "https://open.spotify.com/track/29bhnde7Gvnp7rvY9zsq5S"
+      "duration_ms": 189205,
+      "name": "Tu Tu Tu...Ta Ta Ta",
+      "url": "https://open.spotify.com/track/0kw42FWmuht5aB2eJf5pWn"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Play with Fire (feat. Yacht Money)",
-        "url": "https://open.spotify.com/album/2BS025TrS5OtDzutLrZBWD"
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki"
       },
       "artists": [
         {
-          "name": "Sam Tinnesz",
-          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
-        },
-        {
-          "name": "Yacht Money",
-          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         }
       ],
-      "duration_ms": 180690,
-      "name": "Play with Fire (feat. Yacht Money)",
-      "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
+      "duration_ms": 146523,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk"
     },
     {
       "added_at": "2022-05-13 05:01:00",
       "album": {
-        "name": "Neon Genesis Evangelion (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0zV3xoa0T7I1FpnJ0a9E0a"
+        "name": "Merce Funebre",
+        "url": "https://open.spotify.com/album/596fRdoCpJOtEHuhHHJX8M"
       },
       "artists": [
         {
-          "name": "Shiro Sagisu",
-          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
-        },
-        {
-          "name": "Yoko Takahashi",
-          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+          "name": "Tutti Fenomeni",
+          "url": "https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE"
         }
       ],
-      "duration_ms": 245093,
-      "name": "A Cruel Angel's Thesis - Director's Edit Version",
-      "url": "https://open.spotify.com/track/4tSB4wEJF32nLRfTOec9M5"
+      "duration_ms": 169925,
+      "name": "Qualcuno che si esplode",
+      "url": "https://open.spotify.com/track/1RfQm0T2ecgBhgZ6DG4nQJ"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "Ctrl+C, Ctrl+V",
+        "url": "https://open.spotify.com/album/5G403YDVW0RlXWJxSIDtla"
+      },
+      "artists": [
+        {
+          "name": "DAM81",
+          "url": "https://open.spotify.com/artist/3F6C11lp2Il4Ho68Ap0cvp"
+        }
+      ],
+      "duration_ms": 161481,
+      "name": "Ctrl+C, Ctrl+V",
+      "url": "https://open.spotify.com/track/41cgwtr1Zpz8L46oBjp0Pa"
+    },
+    {
+      "added_at": "2022-05-13 05:01:00",
+      "album": {
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
     }
   ],
   "unique_name": "la mia testa:",

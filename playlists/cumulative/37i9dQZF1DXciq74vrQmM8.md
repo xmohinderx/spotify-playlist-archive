@@ -2,7 +2,7 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. nova twins
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. nova twins + <a href="https://shop.bmthofficial.com/products/exclusive\-misfit\-2\-0\-black\-t\-shirt">limited edition misfits x bmth merch</a>
 
 207 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 

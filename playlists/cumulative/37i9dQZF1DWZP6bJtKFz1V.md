@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Remi Wolf
 
-238 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+238 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Nothing](https://open.spotify.com/track/2DhYQXK6ZkOTB1665GTagQ) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Nothing](https://open.spotify.com/album/3eVCwZNAC04pBYjnx2ITLF) | 2:54 | 2022-03-25 |  |
 | [Nothing Can Kill Us](https://open.spotify.com/track/6G7wNC2sMiX8YcAmOaCwqN) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Nothing Can Kill Us](https://open.spotify.com/album/7iZIeLobEeTRYUGyUQSLL9) | 2:50 | 2022-02-04 | 2022-03-26 |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-02-04 | 2022-03-12 |
-| [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 5:48 | 2022-02-04 |  |
+| [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2022-02-04 |  |
 | [One More Night](https://open.spotify.com/track/6kqMaKmXXfT5qh8GRfBL7b) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Why Don't You Feel the Way I Do?](https://open.spotify.com/album/6AiPgD5aPv6Zt2WrT6jKln) | 3:15 | 2022-02-11 |  |
 | [Out the Neighbourhood](https://open.spotify.com/track/6eApoyaNF3DBw1cZhnBBp6) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Out the Neighbourhood](https://open.spotify.com/album/18G8aSVGXVAwHgwDWiolgL) | 4:25 | 2022-02-04 | 2022-04-16 |
 | [Own Worst Enemy](https://open.spotify.com/track/5NZ5pvpLr7iu8BFWekMhLW) | [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [Own Worst Enemy](https://open.spotify.com/album/1EA7zX9nD45098NQxoToAo) | 3:11 | 2022-02-04 | 2022-03-12 |

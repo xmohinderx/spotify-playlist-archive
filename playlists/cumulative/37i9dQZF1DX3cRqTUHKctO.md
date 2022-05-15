@@ -4,7 +4,7 @@
 
 > London club night <a href="https://www.instagram.com/bigdykeenergyldn/">Big Dyke Energy</a> take over Queer Spaces\. This is their sound of Pride.
 
-50 songs - 4 hr 17 min - not published yet
+50 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/6ZAzi8vitDtPTVjfJIj8cw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

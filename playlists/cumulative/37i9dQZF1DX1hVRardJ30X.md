@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Maffio
 
-1,132 songs - 2 day 12 hr 11 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+1,134 songs - 2 day 12 hr 18 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [El Rebuleo](https://open.spotify.com/track/3YpzWAHRlZcjqObpzmLlQF) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F) | [El Rebuleo](https://open.spotify.com/album/4oAMEhmKSRc8wD1GbXrjBx) | 2:48 | 2022-04-15 | 2022-04-23 |
 | [El Teke Teke](https://open.spotify.com/track/13N3Nd6nQMe5yDgo9wzUuV) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [El Teke Teke](https://open.spotify.com/album/2E4AdaVSSNpAcyV8jb9oao) | 2:57 | 2022-05-13 |  |
 | [El Wuero](https://open.spotify.com/track/7tFtEGmpRkveItiDU9ezWO) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [El Wuero](https://open.spotify.com/album/3Ihn94Nnln08fB5n29C6jq) | 3:25 | 2021-12-31 | 2022-01-15 |
+| [Ella](https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:50 | 2022-05-14 |  |
 | [Ella Me Da](https://open.spotify.com/track/7bQlcnBl6WWwfF0yIOKy9d) | [Crooked Stilo](https://open.spotify.com/artist/4QsUyMUsPjS34t06pGpsyH) | [Ella Me Da](https://open.spotify.com/album/3AwHBxl34k08VgnhpsF14d) | 2:47 | 2022-05-06 | 2022-05-14 |
 | [Ella vive en mí \(feat\. Antonio Orozco\)](https://open.spotify.com/track/0ovmTRD7DHaHZJTFeZVivT) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Ella vive en mí \(feat\. Antonio Orozco\)](https://open.spotify.com/album/7fOxTwcJRhIMemA2x0cWkf) | 3:31 | 2022-01-07 | 2022-01-15 |
 | [Emilio y José](https://open.spotify.com/track/3Be5RB8tsIseaEsWziVDiC) | [Rosaly Rubio](https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [Emilio y José](https://open.spotify.com/album/78y6VwsItmh4ZObgXBHfqn) | 3:34 | 2022-02-04 | 2022-02-12 |
@@ -553,6 +554,7 @@
 | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/track/3o9y6YJzOuWn6yB26AhiFW) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/album/0zdgLvmtc5MJmD8Xf8gwsX) | 3:03 | 2022-02-18 | 2022-02-26 |
 | [Last Christmas](https://open.spotify.com/track/1wAKmYDAowcKs5B0vO32Kn) | [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc) | [Mi Regalo](https://open.spotify.com/album/5SpmdxUqsrZGgQ63bQy5Wz) | 3:34 | 2021-12-24 | 2022-01-08 |
 | [LAURA PAUSINI](https://open.spotify.com/track/7Bupzsl4guDXKZA2VnCbI3) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [LAURA PAUSINI](https://open.spotify.com/album/2ZJhBx40WM4lt3ZS3mZjOJ) | 2:38 | 2022-01-21 | 2022-01-29 |
+| [Lento](https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8) | [Katia Morales](https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg) | [Lento](https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru) | 3:00 | 2022-05-14 |  |
 | [Ley De Gravedad](https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ley De Gravedad](https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg) | 2:22 | 2022-02-11 | 2022-02-19 |
 | [Like the Way](https://open.spotify.com/track/5YcqrPkYcfbRGHMcsqSL4R) | [Little L3GENDS](https://open.spotify.com/artist/2RuiYRe7BKd5bMgIKZAvWh) | [Like the Way](https://open.spotify.com/album/1yfsedmeH1hAAfXM70XjMf) | 3:12 | 2022-04-15 | 2022-04-23 |
 | [Lil Tecca](https://open.spotify.com/track/7cZZTq4MjZ5Kz1zmTQGJ4G) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [M A R L K U](https://open.spotify.com/artist/0nUJZ0KwKaJVlxV77jsPwY) | [Lil Tecca](https://open.spotify.com/album/5D89k9Xb7ezT3CSUTAbca9) | 2:44 | 2022-04-15 | 2022-04-23 |

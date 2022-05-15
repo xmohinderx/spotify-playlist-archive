@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-171 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+171 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Nothing Good Comes Easy](https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Nothing Good Comes Easy](https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm) | 2:54 | 2022-02-11 |  |
 | [Noticed I cried \- Flume Remix](https://open.spotify.com/track/2sA3V6IQVkdO8FhWh7ZCMN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 2:55 | 2022-01-28 |  |
 | [Oh, Miles](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Oh, Miles](https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu) | 5:33 | 2021-12-03 |  |
-| [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 5:48 | 2021-12-03 |  |
+| [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2021-12-03 |  |
 | [One Day I'll Fly Away \(A Song for Takis\)](https://open.spotify.com/track/6X21C26ab6ePgwt9ZuU22z) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [One Day I'll Fly Away \(a Song for Takis\)](https://open.spotify.com/album/2CL51OOoYKl3rd3Ro0nug7) | 3:51 | 2021-12-03 | 2022-05-07 |
 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 | 2022-02-18 |  |
 | [One More Day \(with Chandler Leighton\)](https://open.spotify.com/track/7hCZVX8ogwzgszIKtkD6Bv) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [One More Day \(with Chandler Leighton\)](https://open.spotify.com/album/20BQqiuNutjnDzWLSBZfWL) | 4:32 | 2021-12-03 |  |

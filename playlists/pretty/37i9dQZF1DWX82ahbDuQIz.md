@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: SIX
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,830 likes - 85 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,002 likes - 85 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 26 | [Everything's Coming Up Roses](https://open.spotify.com/track/5nGY247vAiGjDjZSiIZTS2) | [Rose](https://open.spotify.com/artist/2z0IJ75fUUoHoO0MmqYAXC) | [Gypsy \- The 2008 Broadway Cast Recording](https://open.spotify.com/album/4dJ5ZnyEQ996ZqWRPyagwZ) | 2:51 |
 | 27 | [Way Down Hadestown](https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61) | [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 5:00 |
 | 28 | [Nothing](https://open.spotify.com/track/46N5j7yZCLafz4xJiIfxMx) | [Priscilla Lopez](https://open.spotify.com/artist/6CUIkKr2kYg6rvDK3DxWXV) | [A Chorus Line \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2WFqKARZjG0ybZfzLRKFCe) | 4:17 |
-| 29 | [Inner White Girl](https://open.spotify.com/track/04jRwXswyxKyMSbzMzyhQm) | [Jacquel Spivey, L Morgan Lee, James Jackson Jr., John\-Michael Lyles, John\-Andrew Morrison, Jason Veasey, Antwayn Hopper](https://open.spotify.com/artist/0RBWVfOvH4do3tTchqk7Qz), [The Original Broadway Cast of A Strange Loop](https://open.spotify.com/artist/16bokXVvBSFa6T1KC7fMFw) | [A Strange Loop \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5z6tSjQBM6N8jhJKANN7pS) | 3:33 |
+| 29 | [Inner White Girl](https://open.spotify.com/track/04jRwXswyxKyMSbzMzyhQm) | [Jaquel Spivey, L Morgan Lee, James Jackson Jr., John\-Michael Lyles, John\-Andrew Morrison, Jason Veasey, Antwayn Hopper](https://open.spotify.com/artist/67nyOqYok4PT8BCsEfZqoK), [The Original Broadway Cast of A Strange Loop](https://open.spotify.com/artist/16bokXVvBSFa6T1KC7fMFw) | [A Strange Loop \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5z6tSjQBM6N8jhJKANN7pS) | 3:33 |
 | 30 | [Wheels of a Dream](https://open.spotify.com/track/30QU7LJjegTlytck8SrljA) | [Audra McDonald](https://open.spotify.com/artist/7F6surn3OpdyOzupSawyli), [Brian Stokes Mitchell](https://open.spotify.com/artist/22ZiDrzGc0fi8wGMaHPmtX) | [Ragtime: The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ITaTY1cwy5bnG3Dyoucr1) | 3:57 |
 | 31 | [Bring Him Home](https://open.spotify.com/track/3FzFmeyzLFmPXCSx3hSS88) | [Les Misérables\-Original London Cast](https://open.spotify.com/artist/7EzZtsaDuv0EecScnO7wrh) | [Les Miserables \(The Original London Cast Recording\)](https://open.spotify.com/album/4h0K87rOHZXeuOqeXAsah8) | 2:53 |
 | 32 | [With One Look \- "Sunset Boulevard" US 1994 Cast Recordng](https://open.spotify.com/track/45hV9Fp2H67AZAsQ8VUbnL) | [Amy Powers](https://open.spotify.com/artist/4S9skXqSrE8O3aVTVlHmNm), [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe) | [Sunset Boulevard \(Remastered 2005\)](https://open.spotify.com/album/1HbN9omUmMO147VxpIwnEM) | 3:11 |

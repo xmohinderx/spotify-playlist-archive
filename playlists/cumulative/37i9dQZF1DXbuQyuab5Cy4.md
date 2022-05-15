@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-77 songs - 4 hr 41 min - not published yet
+77 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/0Sw1qMD3QYX3Np7RcmZMZR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

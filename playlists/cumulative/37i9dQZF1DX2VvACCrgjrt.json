@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 165120,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/7ElWeRWdH1YvVhNy4DrpNA"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 160955,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/1GdjigQo4MbNYSFUX7ctNH"
@@ -2053,7 +2053,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 213750,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/5b8lJ9il0hbE1HFBIGgTit"
@@ -3593,7 +3593,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 225967,
       "name": "Numb",
       "url": "https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR"
@@ -3985,7 +3985,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 184615,
       "name": "RAVE GAME",
       "url": "https://open.spotify.com/track/49DxqidpypOz3l98JUQZAn"
@@ -4727,6 +4727,28 @@
       "duration_ms": 271915,
       "name": "Teen Scene (ft Buddy) - Wax Motif Remix",
       "url": "https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S"
+    },
+    {
+      "album": {
+        "name": "TELL ME",
+        "url": "https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "TELL ME",
+      "url": "https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16"
     },
     {
       "album": {

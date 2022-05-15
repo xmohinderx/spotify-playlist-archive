@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental trap beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,695 likes - 113 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,752 likes - 113 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-13",
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
   "name": "Acoustic Arabic",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6p4gtJcb6ydfBR1qukdk2z"
+  ],
   "tracks": [
     {
       "album": {
@@ -155,7 +157,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 235374,
       "name": "Ban Koulchi",
       "url": "https://open.spotify.com/track/7lCGgHImav8C221Iy5Chy1"
@@ -389,7 +391,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 315186,
       "name": "Fi Balad",
       "url": "https://open.spotify.com/track/1ri0EAvOKGhFjtbxFioe31"
@@ -515,7 +517,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 136151,
       "name": "Konna Sghar",
       "url": "https://open.spotify.com/track/55ExdRqYPtqMOweJaWqwbX"
@@ -591,6 +593,24 @@
       "duration_ms": 176026,
       "name": "Manakir",
       "url": "https://open.spotify.com/track/0wIJTKbP1zy9B8IuoHUeyt"
+    },
+    {
+      "album": {
+        "name": "Matalib - COLORS Sudan",
+        "url": "https://open.spotify.com/album/4tB0DZqgYqg0lY2GhW2sbH"
+      },
+      "artists": [
+        {
+          "name": "Sammany",
+          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "Matalib - COLORS Sudan",
+      "url": "https://open.spotify.com/track/1jxzCZRphA9XMgYJxWwrRn"
     },
     {
       "album": {
@@ -695,7 +715,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 219560,
       "name": "No Longer Mine",
       "url": "https://open.spotify.com/track/2m7cnexJsp4w560WX86dDr"
@@ -747,7 +767,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 333066,
       "name": "Oully Ya Sahbi",
       "url": "https://open.spotify.com/track/5tYbruqE7lH3eoJsVZlmfj"
@@ -1139,7 +1159,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 247041,
       "name": "Ya Bay",
       "url": "https://open.spotify.com/track/25dpNlHr9GTVBvIcUr9cWu"
@@ -1179,7 +1199,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 217346,
       "name": "Zwit rwit",
       "url": "https://open.spotify.com/track/0vcnijpAVRaJImqrVFWOfb"

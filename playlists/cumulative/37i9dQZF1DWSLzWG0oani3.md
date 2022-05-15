@@ -4,7 +4,7 @@
 
 > Suena en el barrio, suena acá\. Foto: L\-Gante & Aleman.
 
-68 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
+69 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [El Barrio](https://open.spotify.com/track/1C99AXjM9atPNIgm3JwE3t) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/7e6QkedF9KH6dsW8McP29w) | 2:35 | 2021-12-24 |  |
 | [El Mas Piola](https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Mas Piola](https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml) | 3:37 | 2021-12-24 |  |
 | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/track/5oLWzTgq6WsZyMF16IiN7R) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/album/7bQ39IUdJuoNSZYRkJ9xYs) | 2:09 | 2021-12-24 |  |
+| [EL TIRRI \| DJ TAO Turreo Sessions \#8](https://open.spotify.com/track/0HghA8NwsiFcgROYKFjX3W) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [EL TIRRI \| DJ TAO Turreo Sessions \#8](https://open.spotify.com/album/4cQBFUMTxNTejT7TVZv958) | 3:04 | 2022-05-14 |  |
 | [Encapsulado en el Bm](https://open.spotify.com/track/6I0p6Tm3Dmw2g15PMuA5ww) | [Anthony MM](https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8), [Lucho23](https://open.spotify.com/artist/77GkTRXzckRvljR84wWvYh) | [Encapsulado en el Bm](https://open.spotify.com/album/2UyZ6ZD9zeuebVsAdAnmYi) | 2:18 | 2021-12-24 | 2022-04-02 |
 | [Grammy \(RKT\)](https://open.spotify.com/track/0nUyOZh7nghS1W1xpPMfXs) | [El Mago](https://open.spotify.com/artist/0e4HRL4nSDvQQduvoUKJRi), [Canabi](https://open.spotify.com/artist/5PVbW1HclNtaZrDBcoUbmP) | [Grammy \(RKT\)](https://open.spotify.com/album/70Jt75b9Pzx0gGY1lRM88m) | 3:06 | 2021-12-24 | 2022-04-12 |
 | [HEGEMONICA](https://open.spotify.com/track/4EROxQ47IZNf5fOFC3MbA0) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 1:46 | 2021-12-24 |  |

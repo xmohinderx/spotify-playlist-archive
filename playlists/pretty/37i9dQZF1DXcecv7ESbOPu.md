@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,096 likes - 107 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,125 likes - 107 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 66 | [GET ME OUTTA HERE](https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [GET ME OUTTA HERE](https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY) | 3:14 |
 | 67 | [With You](https://open.spotify.com/track/0ljNasm0NwfnrZgJGoumOC) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [With You](https://open.spotify.com/album/0vi9cDcAFPEbI7fUCyQmLq) | 3:11 |
 | 68 | [Adult](https://open.spotify.com/track/4g6gocnIEurcIFvjkDctUy) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Adult](https://open.spotify.com/album/3yE61uruSJMiR3z09HCndH) | 3:04 |
-| 69 | [Lover Lover Lover](https://open.spotify.com/track/282toEDZyya8e2UWywkFib) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [Lover Lover Lover](https://open.spotify.com/album/5u2NYOUBVWPBrDOVeikhZu) | 2:34 |
+| 69 | [Lover Lover Lover](https://open.spotify.com/track/282toEDZyya8e2UWywkFib) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Lover Lover Lover](https://open.spotify.com/album/5u2NYOUBVWPBrDOVeikhZu) | 2:34 |
 | 70 | [Already Messed Up](https://open.spotify.com/track/4c7VnVyYX4kDpYwc3TOC9F) | [HAVE](https://open.spotify.com/artist/4dyrWvafTovqwhWkQhEhgL), [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Juliette Claire](https://open.spotify.com/artist/2DGgHzuc1UIATQEt9ldmLR) | [Already Messed Up](https://open.spotify.com/album/4R3VSA0EPAREmjF7l66rmz) | 2:16 |
 | 71 | [Never Looking Back Again](https://open.spotify.com/track/7sPlv9X8zcAWMv97vh15zR) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Never Looking Back Again](https://open.spotify.com/album/07LkmJ7AnjKlXZHoCLdaV1) | 5:00 |
 | 72 | [Good Vibes](https://open.spotify.com/track/0S1xJLVhru1bOJH4EX0zcI) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Good Vibes](https://open.spotify.com/album/6Y8HkkS42PW6VRCDx7ajnP) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > nick & charlie forever Cover: <a href="spotify:playlist:37i9dQZF1DX5KARSfd7WcM">Heartstopper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,524 likes - 104 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,594 likes - 104 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

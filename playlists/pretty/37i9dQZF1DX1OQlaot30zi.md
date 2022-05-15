@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Capo Plaza, Shiva, tha Supreme, Gemitaiz e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,689 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,749 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Goyard](https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Goyard](https://open.spotify.com/album/0CuTFVpBoXLYDy1Rvaa0JA) | 2:44 |
+| 1 | [Goyard](https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Goyard](https://open.spotify.com/album/0CuTFVpBoXLYDy1Rvaa0JA) | 2:44 |
 | 2 | [Non è Easy](https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Non è Easy](https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP) | 2:44 |
 | 3 | [NLFP \(feat\. tha Supreme\)](https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 2:37 |
 | 4 | [K.O\. \(feat\. Coez & Marracash\)](https://open.spotify.com/track/7sYJw5AwPw30ZyLdvuEtg0) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:10 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 31 | [CHE NE SARÀ \(INTRO\)](https://open.spotify.com/track/5cx9BCOBOZEtBeFLGH44VM) | [Campus.Exe](https://open.spotify.com/artist/2rglAsV7jLuPKsYPusIVEc) | [CHE NE SARÀ \(INTRO\)](https://open.spotify.com/album/39On3SXXPSJgOsdunaEng7) | 1:36 |
 | 32 | [Figlio del quartiere](https://open.spotify.com/track/6R5MKqVkCSmvwjxQHKq4Nt) | [Erien Red](https://open.spotify.com/artist/2IcAHNbxrOcqd0BnADisjv) | [Figlio del quartiere](https://open.spotify.com/album/6qzJaHByzyD3amQitsRrhF) | 2:39 |
 | 33 | [Darlin'](https://open.spotify.com/track/6FurxdQAUJcoXaB4J5nOEQ) | [Halba x Foldino](https://open.spotify.com/artist/4RFIOsKA6DuzE9DGGOHjPT) | [Boulevardier](https://open.spotify.com/album/4NMRoRWoYnRSu7wh1SngQb) | 2:40 |
-| 34 | [Pezzo nella borsa](https://open.spotify.com/track/4zjLMe0XdGXxXjawQaYiLL) | [Dahel](https://open.spotify.com/artist/0OAu2KNpG20u8DtmJyiACW), [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [IL MOOD È](https://open.spotify.com/album/1SZrvwpxAlpblXH8ckMjLa) | 2:19 |
+| 34 | [Pezzo nella borsa](https://open.spotify.com/track/4zjLMe0XdGXxXjawQaYiLL) | [Dahel](https://open.spotify.com/artist/0OAu2KNpG20u8DtmJyiACW), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S), [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [IL MOOD È](https://open.spotify.com/album/1SZrvwpxAlpblXH8ckMjLa) | 2:19 |
 | 35 | [Penzier](https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Penzier](https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG) | 2:44 |
 | 36 | [HOLA](https://open.spotify.com/track/1ORbOadvMHNqKlS1xnJdsQ) | [GRIZZLY](https://open.spotify.com/artist/16Y59NBjDPuHryezTmuwhV), [NoSaintz](https://open.spotify.com/artist/3odBaKXT6SGHGqjFUBeXkY) | [HOLA](https://open.spotify.com/album/0BJGDsEgUw0aHaIT7tcqYq) | 2:15 |
 | 37 | [Anni Luce](https://open.spotify.com/track/3AouWRg7Ur50FqeJl9Kx2z) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dafa](https://open.spotify.com/artist/23xdPmYS80aHcswLkOTTfs), [Dope One](https://open.spotify.com/artist/3hkuxweLT2NqX7opoaRyKB) | [Young Veterans 1974](https://open.spotify.com/album/5Z0VqAJD6WqjgZw0xfdYzu) | 3:06 |

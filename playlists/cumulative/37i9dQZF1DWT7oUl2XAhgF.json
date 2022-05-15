@@ -324,6 +324,28 @@
     },
     {
       "album": {
+        "name": "Forget Me Not",
+        "url": "https://open.spotify.com/album/3ieKNLfAZMLbg9uf7I6jiQ"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235791,
+      "name": "Forget Me Not",
+      "url": "https://open.spotify.com/track/4GGy6xG1PIp1RXUNC2Tea3"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
       },
@@ -487,7 +509,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 311597,
       "name": "How Do We Heal",
       "url": "https://open.spotify.com/track/2EP80jwbqkWrLPLw9VMdgU"
@@ -653,7 +675,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 159120,
       "name": "Little by Little",
       "url": "https://open.spotify.com/track/2b5RJXQYweJKXgcfQaokKX"
@@ -711,6 +733,28 @@
       "duration_ms": 228715,
       "name": "Love Letter From A Red Roof Inn",
       "url": "https://open.spotify.com/track/6vZ2FTyBiKS5DfGz2Qe79j"
+    },
+    {
+      "album": {
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/5yDO2abSpmSiEFQJXj554K"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        },
+        {
+          "name": "Kelly Finnigan",
+          "url": "https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/5Dmo0uuZSKQPQ7WW9LNbA7"
     },
     {
       "album": {

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-13",
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Foto: Nortec: Bostich + Fussible",
   "name": "mint MX",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6ndsqys7EQOockTFuddjf1"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 166611,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
@@ -43,7 +45,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 150966,
       "name": "Agua Pa Beber",
       "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
@@ -65,7 +67,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 144375,
       "name": "Angel",
       "url": "https://open.spotify.com/track/15zIyFyJLwcoxxFYU2fT3I"
@@ -509,7 +511,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 244000,
       "name": "Discoyoac\u00e1n",
       "url": "https://open.spotify.com/track/2f7WZXEBoCe6rc5eVunLQa"
@@ -571,7 +573,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/30OijpZOdRk5DrfaaXNudS"
@@ -611,7 +613,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 222844,
       "name": "El Santito",
       "url": "https://open.spotify.com/track/5fau5l1O4BhhJlho8S7UdC"
@@ -691,7 +693,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 127026,
       "name": "Fake It Till You Make It",
       "url": "https://open.spotify.com/track/4kD4w6XFGxaABGiwOmqsXq"
@@ -739,7 +741,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 181935,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
@@ -765,7 +767,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 215294,
       "name": "Franca Barona",
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
@@ -787,6 +789,28 @@
       "duration_ms": 250775,
       "name": "Galactic Feelings",
       "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/1d1vnzF7rbEKA7Csc4OPo0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "The Arcturians",
+          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/6kEIY1YMGoUG3WGqBzpEEq"
     },
     {
       "album": {
@@ -881,7 +905,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 228907,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB"
@@ -903,7 +927,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 140952,
       "name": "Hybrid",
       "url": "https://open.spotify.com/track/4nyYBq8nEieGbkLVl7rrWz"
@@ -958,6 +982,32 @@
     },
     {
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF"
+      },
+      "artists": [
+        {
+          "name": "Maciel",
+          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
+        },
+        {
+          "name": "Benlon",
+          "url": "https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls"
+        },
+        {
+          "name": "Sharpz",
+          "url": "https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174735,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
+    },
+    {
+      "album": {
         "name": "It's a Joke",
         "url": "https://open.spotify.com/album/1iMYQwnbZ9ruhWRwbzrL04"
       },
@@ -984,6 +1034,32 @@
     },
     {
       "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr"
+      },
+      "artists": [
+        {
+          "name": "Clara Floc",
+          "url": "https://open.spotify.com/artist/0e16Li9kILC0goZoA7WR5f"
+        },
+        {
+          "name": "Light Reaction",
+          "url": "https://open.spotify.com/artist/4ImPMY6kcAHp54Zfvc035x"
+        },
+        {
+          "name": "Gabo Versus",
+          "url": "https://open.spotify.com/artist/1N4FEl0zyRocPbZBiWPzJN"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214416,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk"
+    },
+    {
+      "album": {
         "name": "killed love",
         "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
       },
@@ -995,7 +1071,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 232288,
       "name": "killed love",
       "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
@@ -1439,7 +1515,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 210967,
       "name": "Need You",
       "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
@@ -1457,7 +1533,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 139152,
       "name": "Never Love Me",
       "url": "https://open.spotify.com/track/6tr9XNosZVIw5yc8T4GFif"
@@ -1505,6 +1581,28 @@
       "duration_ms": 209146,
       "name": "Nocturno",
       "url": "https://open.spotify.com/track/4lnjB1wmSnLO8SWJgiMADy"
+    },
+    {
+      "album": {
+        "name": "Nostalgia (Vlammen Remix)",
+        "url": "https://open.spotify.com/album/4yaGDl536Pts2hUXbOaHAn"
+      },
+      "artists": [
+        {
+          "name": "Alessiah",
+          "url": "https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw"
+        },
+        {
+          "name": "VLAMMEN",
+          "url": "https://open.spotify.com/artist/54MKxUClmMypI2e8ENckps"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Nostalgia (Vlammen Remix)",
+      "url": "https://open.spotify.com/track/3n0JOshGgWaL00DIPMv9qY"
     },
     {
       "album": {
@@ -1645,7 +1743,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 200017,
       "name": "Panda",
       "url": "https://open.spotify.com/track/5fO5BPkXwoANEc7jJX9oIk"
@@ -1751,7 +1849,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 204427,
       "name": "Petricor",
       "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
@@ -1879,7 +1977,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 153473,
       "name": "Pr\u00e9ndete",
       "url": "https://open.spotify.com/track/2LnAJpzHZ8sDN8x8AoN5Pi"
@@ -2073,10 +2171,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 213000,
       "name": "Sin M\u00ed No Te Vayas",
       "url": "https://open.spotify.com/track/4GJheqbW6QK9JTtgeVkhCw"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/56XAoIyyXf4gbRyBO7uEur"
+      },
+      "artists": [
+        {
+          "name": "Youth In Circles",
+          "url": "https://open.spotify.com/artist/35FbwufKDprqJfq8Qnk31b"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/0avt9Jr2hdNXeqaRWOv1SA"
     },
     {
       "album": {
@@ -2125,7 +2241,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 187632,
       "name": "Stereo Love",
       "url": "https://open.spotify.com/track/6X9hD9medguWs5mMGy6S0X"
@@ -2331,7 +2447,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 202500,
       "name": "Tribu Latina",
       "url": "https://open.spotify.com/track/3d3XJIOhedhrt6UbU0KwQf"
@@ -2396,6 +2512,28 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/1NkjoA2CZjQV3cbwdb9ld8"
+      },
+      "artists": [
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        },
+        {
+          "name": "Zavier Royal",
+          "url": "https://open.spotify.com/artist/043Pu7AgQ1riiaa6hKaL3s"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/6YKAHZmMh4kC38swSr9RdA"
+    },
+    {
+      "album": {
         "name": "What U Doin' to Me",
         "url": "https://open.spotify.com/album/3UI9gRP38L6oiG8NKWOpRR"
       },
@@ -2407,7 +2545,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 216960,
       "name": "What U Doin' to Me",
       "url": "https://open.spotify.com/track/5BLIiXUCaGWoLduRdXMkbm"
@@ -2459,6 +2597,36 @@
       "duration_ms": 267724,
       "name": "Yo Te Fui Fiel",
       "url": "https://open.spotify.com/track/0shFNIoAeidEISIbJbiu5Q"
+    },
+    {
+      "album": {
+        "name": "\u00a1Bang Bang!",
+        "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
+      },
+      "artists": [
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        },
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "Barovier",
+          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "\u00a1Bang Bang!",
+      "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
     },
     {
       "album": {

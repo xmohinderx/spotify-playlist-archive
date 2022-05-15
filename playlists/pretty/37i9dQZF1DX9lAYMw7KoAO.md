@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,577 likes - 70 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,632 likes - 70 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 16 | [Itshokwadi \(Live at Carnival City, 2012\)](https://open.spotify.com/track/0UzgJvhYSu2i6gNbeUClRb) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:32 |
 | 17 | [Eh Yaweh](https://open.spotify.com/track/1xHh8dzuyqyGJxVETA5Waj) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Celebrate!](https://open.spotify.com/album/2jqinUWqqWhSB5ICFNykgD) | 5:55 |
 | 18 | [Unrelenting Love](https://open.spotify.com/track/0aSZ3n4vyy7XDf9XupAtRI) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Unrelenting Love](https://open.spotify.com/album/7EPslUe7EreCwFVt5b7E9x) | 4:18 |
-| 19 | [Stand Strong \(feat\. The Samples\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [The Samples](https://open.spotify.com/artist/4KV8ACcPuT3Jyx9Bvh6OFs) | [Stand Strong \(feat\. The Samples\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 |
+| 19 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 |
 | 20 | [Ese Oluwa / Papa](https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 6:48 |
 | 21 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 |
 | 22 | [Xorla \(Savior\)](https://open.spotify.com/track/5oeCjtT8jKUHnzRmRdPm5Q) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Ps\. Helen Yawson](https://open.spotify.com/artist/6kTupYkSzsvfbbE75WuAlb) | [Xorla \(Savior\)](https://open.spotify.com/album/5ksHtx5tszK7XVxXjwAPzV) | 7:28 |

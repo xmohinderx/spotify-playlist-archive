@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/2Q6crgCiZsT5cSbCOn5snz"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 297041,
       "name": "Beyond the Sky",
       "url": "https://open.spotify.com/track/0DwBNCpmS7FFq434qH7blo"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 222187,
       "name": "Breaking Light",
       "url": "https://open.spotify.com/track/616t2cVL8B7jUtzxqyLRAx"
@@ -2104,6 +2104,24 @@
     },
     {
       "album": {
+        "name": "Feel The Rain",
+        "url": "https://open.spotify.com/album/2hHez1jeKZ7Aa0EhbJoGhW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Tobias",
+          "url": "https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204206,
+      "name": "Feel The Rain",
+      "url": "https://open.spotify.com/track/6cXuTXqe24QmUB4afxgiUe"
+    },
+    {
+      "album": {
         "name": "Fluor / Liften",
         "url": "https://open.spotify.com/album/5siFr82SYSMhW0cGpmc0Us"
       },
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 250580,
       "name": "From the Sun",
       "url": "https://open.spotify.com/track/416A6PaC66kQXkxC5bbmwU"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 241846,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/06RW6PBKunCdTedqINIvJi"
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 240468,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/4nT410mdbUh0sG7FKlsVlR"
@@ -2915,7 +2933,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 210967,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/2UtJKHPrNDOlamALz8M9eS"
@@ -3161,7 +3179,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 191304,
       "name": "Invaders",
       "url": "https://open.spotify.com/track/4ZBDlALixvnxtg8I22pZHF"
@@ -3271,7 +3289,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 227301,
       "name": "Keep Me Safe",
       "url": "https://open.spotify.com/track/7evF5P1Y4BDc0zWDJSkwz2"
@@ -3921,7 +3939,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 186750,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/6UMGvMLgcqpB9TxSKYvf2j"
@@ -3939,7 +3957,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 213361,
       "name": "Magnum Opus",
       "url": "https://open.spotify.com/track/3g2Pv24yQKfRCZ2UFKhmXe"
@@ -4093,7 +4111,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 239805,
       "name": "Melodrama - Abstract Vision Remix",
       "url": "https://open.spotify.com/track/0lT9do5cYc8GFtDto2elSl"
@@ -4177,7 +4195,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 186393,
       "name": "Moon and Sun",
       "url": "https://open.spotify.com/track/6hkiUrkqujFIpHTBJN2sZE"
@@ -4447,7 +4465,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 213043,
       "name": "Nothing Compares To You",
       "url": "https://open.spotify.com/track/0HovEj9ww9qYqKjJGFO9fT"
@@ -5607,7 +5625,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 203478,
       "name": "Serenity (Original Mix)",
       "url": "https://open.spotify.com/track/4NOFk7EWCJSiOnoFhYRhQs"
@@ -6665,7 +6683,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 175606,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/2XbWo6a2g3MhkXsJyesWjG"
@@ -6855,7 +6873,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 182608,
       "name": "Visions",
       "url": "https://open.spotify.com/track/1avY7Gt8UXFY3niXHGj1pZ"

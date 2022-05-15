@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: sor",
+  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: Tabitha",
   "name": "RADAR BNLX",
   "published_playlist_ids": [
     "5PI9N3InPPtYz6UBLMEA8w"
@@ -961,6 +961,24 @@
       "duration_ms": 134557,
       "name": "Stuck in the Sky",
       "url": "https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r"
+    },
+    {
+      "album": {
+        "name": "Ten Onder",
+        "url": "https://open.spotify.com/album/3SlyGq2hf3mGf6kV1oU5CC"
+      },
+      "artists": [
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223995,
+      "name": "Ten Onder",
+      "url": "https://open.spotify.com/track/5BND52vo95M97WRJ4o7Jat"
     },
     {
       "album": {

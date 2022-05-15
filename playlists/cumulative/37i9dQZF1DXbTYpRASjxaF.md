@@ -4,7 +4,7 @@
 
 > Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Beilzin, Neo Beats, Mc G Talibã
 
-64 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/7yBgPzkrKCeqBbpF8RHyZV)
+65 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/7yBgPzkrKCeqBbpF8RHyZV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [CPX Ta Tega](https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [CPX Ta Tega](https://open.spotify.com/album/5xMRRNucy1RGzuJwwJbCcG) | 2:22 | 2022-03-18 |  |
 | [De Verdade](https://open.spotify.com/track/0VZVlc6HgGCf2RbCVJVQlw) | [Salaga](https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [OTRAFITTA](https://open.spotify.com/artist/5eYHm8UnOR6NF08OotxOHt) | [De Verdade](https://open.spotify.com/album/5mZUtd3HyC0dIz77KpScOF) | 3:17 | 2022-03-25 | 2022-04-29 |
 | [Debochando da Mídia](https://open.spotify.com/track/24cOHkrtGGQmKvA8R9BNin) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [L7NNON](https://open.spotify.com/artist/57AnmAPPIGLalUHf79O5sc), [Ian Girão](https://open.spotify.com/artist/5XQEbbbweicO6g4nCj8TSF) | [Debochando da Mídia](https://open.spotify.com/album/12PFddiRwZQ5GQ3p24jZTo) | 3:21 | 2022-03-18 |  |
-| [Dia de Baile \(feat\. Kawe\)](https://open.spotify.com/track/5A3fbFbtzKrc0xamh6b0yb) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Dia de Baile \(feat\. Kawe\)](https://open.spotify.com/album/6EZrWTVj6STAQLLq5uvlWl) | 2:45 | 2022-04-29 |  |
+| [Dia de Baile \(feat\. Kawe\)](https://open.spotify.com/track/5A3fbFbtzKrc0xamh6b0yb) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Dia de Baile \(feat\. Kawe\)](https://open.spotify.com/album/6EZrWTVj6STAQLLq5uvlWl) | 2:45 | 2022-04-29 | 2022-05-15 |
 | [Double Cup](https://open.spotify.com/track/0dhgi3YzxKhna7AnQDEou7) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Double Cup](https://open.spotify.com/album/0jX2g1c0pQOlQbEaKe1TR6) | 2:14 | 2022-03-18 | 2022-04-29 |
+| [Dublê de Marido](https://open.spotify.com/track/3Jf64Ca4Q8mAvhf1greHOg) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Dublê de Marido](https://open.spotify.com/album/7exgSMOl0XJXftVdl2v7Ks) | 2:34 | 2022-05-13 |  |
 | [Easy Money](https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Easy Money](https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow) | 3:11 | 2022-03-18 |  |
 | [Ela é Espetacular \(Mulher Kama Sutra 2\)](https://open.spotify.com/track/0x0V1IID2Sj902k6LzuWds) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Ela é Espetacular \(Mulher Kama Sutra 2\)](https://open.spotify.com/album/7d6XkxoIBZARJ5pXHm4EZp) | 3:35 | 2022-03-18 |  |
 | [Fatia do Bolo](https://open.spotify.com/track/62MJCu8Ypiwkp2YWKtY1es) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Fatia do Bolo](https://open.spotify.com/album/35AqGcnqtTdNNKAxouEcRd) | 2:32 | 2022-03-18 | 2022-04-09 |

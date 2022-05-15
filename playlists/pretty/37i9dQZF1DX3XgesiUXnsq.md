@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Logic
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,250 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,418 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 |
+| 1 | [We Cry Together](https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Taylour Paige](https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:41 |
 | 2 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |
 | 3 | [Everybody Ain’t Shit \(with EARTHGANG\)](https://open.spotify.com/track/5twFAWoVedKgYZrswt1JIn) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 3:23 |
 | 4 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [The I.N.C\. Ride](https://open.spotify.com/track/37iYAAUVZezZRmgTGnWbhY) | [Masta Ace Incorporated](https://open.spotify.com/artist/2tcM9c26zzqpFdijVdVwuB) | [Sittin' On Chrome](https://open.spotify.com/album/2q1spdp27utA1XbwK9Eb7q) | 4:10 |
 | 100 | [Breast Milk Freestyle](https://open.spotify.com/track/1nIXmqWFPYCYUYIJWaMcz1) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO), [Lou From Paradise](https://open.spotify.com/artist/6Ame2KwsAfvWNImxFeQETs) | [Breast Milk Freestyle](https://open.spotify.com/album/3wEachWrO9jFUaoSBi4Q0z) | 2:31 |
 
-Snapshot ID: `MTY1MjQxNDQwMCwwMDAwMDAwYzAwMDAwMTgwYmI5MmM3MTUwMDAwMDE4MGJhYjcxYmMw`
+Snapshot ID: `MTY1MjU1NDEwNCwwMDAwMDAwZDAwMDAwMTgwYzNlNjgwMDQwMDAwMDE4MGJhYjcxYmMw`

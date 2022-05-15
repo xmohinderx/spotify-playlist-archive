@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الخليجية التي لا يمكنك التوقف عن الاستماع اليها  الغلاف: أصالة
 
-50 songs - 3 hr 27 min - not published yet
+50 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

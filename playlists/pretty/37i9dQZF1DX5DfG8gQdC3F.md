@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,728 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,809 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 45 | [Don't Love Me](https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Don't Love Me](https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G) | 2:47 |
 | 46 | [Pullin Up](https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq) | [Pullin Up](https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn) | 3:05 |
 | 47 | [Ibiza](https://open.spotify.com/track/2Fm1t1oY0uDQSKXz3R8F9o) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Greez185](https://open.spotify.com/artist/45PJclnxVG0BakHfqNJbDs) | [Ibiza](https://open.spotify.com/album/4M7RxJ8EMFsb7HOPe6TxMX) | 3:07 |
-| 48 | [Spirit Of Ecstasy](https://open.spotify.com/track/0lJlfgLyVz29IRLnWjzqKt) | [Red Cafe](https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Spirit Of Ecstasy](https://open.spotify.com/album/3xI1q1peka08MOT2ZfMmyc) | 3:14 |
-| 49 | [Sunday Morning \- Illfactor Timberland Mix](https://open.spotify.com/track/4PlQp1Xc5RdZq6PGhTHepL) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [15!](https://open.spotify.com/album/1ChEPYF52IT1EGunpMwLrk) | 3:46 |
+| 48 | [Spirit Of Ecstasy](https://open.spotify.com/track/0lJlfgLyVz29IRLnWjzqKt) | [Red Cafe](https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Spirit Of Ecstasy \(Whole\-Lotta\)](https://open.spotify.com/album/3xI1q1peka08MOT2ZfMmyc) | 3:14 |
+| 49 | [Sunday Morning \- Illfactor Timbaland Mix](https://open.spotify.com/track/4PlQp1Xc5RdZq6PGhTHepL) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [15!](https://open.spotify.com/album/1ChEPYF52IT1EGunpMwLrk) | 3:46 |
 | 50 | [Hitta \(feat\. Bobby Shmurda\)](https://open.spotify.com/track/4kTdlruEELvYnvMX6XotML) | [Funk Flex](https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Hitta \(feat\. Bobby Shmurda\)](https://open.spotify.com/album/466zMR5xzEXwF4zU17alUf) | 2:51 |
 | 51 | [One Life](https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [One Life](https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8) | 3:25 |
 | 52 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Tank and the Bangas
 
-70 songs - 4 hr 25 min - not published yet
+72 songs - 4 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Explore](https://open.spotify.com/track/6sb1CGojNdNMiToRfSNwzY) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Explore](https://open.spotify.com/album/7DxTQ86fPK4BPoJ1RIeFos) | 4:46 | 2021-11-05 |  |
 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 | 2022-02-04 |  |
 | [Fire](https://open.spotify.com/track/18Hq4xHyecxySkoUPQyYV2) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW) | 4:06 | 2021-07-09 |  |
+| [Forget Me Not](https://open.spotify.com/track/4GGy6xG1PIp1RXUNC2Tea3) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Forget Me Not](https://open.spotify.com/album/3ieKNLfAZMLbg9uf7I6jiQ) | 3:55 | 2022-02-15 |  |
 | [Free](https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Free](https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns) | 2:46 | 2022-04-15 |  |
 | [Good Love](https://open.spotify.com/track/0J1lFaf00GdhNUekI4lmqJ) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Good Love](https://open.spotify.com/album/4CgJXHgOTv1jPGsIZYEozZ) | 3:20 | 2022-03-21 |  |
 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 | 2022-01-28 |  |
@@ -33,7 +34,7 @@
 | [Hard Up](https://open.spotify.com/track/2rs00HEFJT0yg1NC64JWpS) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/22UwgOvqggRpQcmkEPLvUl) | 4:15 | 2021-07-09 |  |
 | [Heat Wave](https://open.spotify.com/track/7gkwA9D1GqsbecFEfLR1ka) | [Motel Radio](https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7) | [Heat Wave](https://open.spotify.com/album/757XmHJA5ltYC7lX4oazsP) | 3:49 | 2022-05-13 |  |
 | [hey rose](https://open.spotify.com/track/6VU2EGIiYGVMjaQhIwC5Ys) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [hey rose](https://open.spotify.com/album/3YESJ3NMzAhqek7gV6U5En) | 2:55 | 2021-12-03 |  |
-| [How Do We Heal](https://open.spotify.com/track/2EP80jwbqkWrLPLw9VMdgU) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Bryce The Third](https://open.spotify.com/artist/2vybgOw7cAjEAInqTAT5Hx) | [How Do We Heal](https://open.spotify.com/album/1hNZPrmqSsImAAmVqElepM) | 5:11 | 2022-02-18 |  |
+| [How Do We Heal](https://open.spotify.com/track/2EP80jwbqkWrLPLw9VMdgU) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Bryce The Third](https://open.spotify.com/artist/2vybgOw7cAjEAInqTAT5Hx) | [How Do We Heal](https://open.spotify.com/album/1hNZPrmqSsImAAmVqElepM) | 5:11 | 2022-02-18 | 2022-05-15 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2021-07-09 |  |
 | [I Do](https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:00 | 2022-01-28 |  |
 | [I Need a Win](https://open.spotify.com/track/2QF4b6mH7o8oBj3ky1IuCX) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Golden Days](https://open.spotify.com/album/5LuNtoT969MSX9o07N1sDO) | 4:40 | 2021-07-09 |  |
@@ -42,10 +43,11 @@
 | [Joy & Pain](https://open.spotify.com/track/1iHj6nbjMHFpH73fl4AyWB) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Joy & Pain](https://open.spotify.com/album/6OoLcz38MMFvn9l6nAweXC) | 3:43 | 2022-01-14 |  |
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2021-12-03 |  |
 | [Little Birdie](https://open.spotify.com/track/7nsbVEf7v7RvrhktbIX42o) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Little Birdie](https://open.spotify.com/album/3lFtl9ngeK56wTq6IikwC7) | 4:03 | 2021-08-06 |  |
-| [Little by Little](https://open.spotify.com/track/2b5RJXQYweJKXgcfQaokKX) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Little by Little](https://open.spotify.com/album/14dI8QEGClOLipxmUfIaBR) | 2:39 | 2021-07-09 |  |
+| [Little by Little](https://open.spotify.com/track/2b5RJXQYweJKXgcfQaokKX) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Little by Little](https://open.spotify.com/album/14dI8QEGClOLipxmUfIaBR) | 2:39 | 2021-07-09 | 2022-05-15 |
 | [Looking For Moses](https://open.spotify.com/track/3crGdqxcBCvHVeG7VaxNY1) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Party For One / Looking For Moses](https://open.spotify.com/album/1RmGdBJcGcO9dse9IdL8XN) | 5:13 | 2022-01-14 |  |
 | [Love and Hate in a Different Time \- Edit](https://open.spotify.com/track/1aTzG5OLk5m868nYMeAn7W) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 3:28 | 2021-08-06 |  |
 | [Love Letter From A Red Roof Inn](https://open.spotify.com/track/6vZ2FTyBiKS5DfGz2Qe79j) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Love Letter From A Red Roof Inn](https://open.spotify.com/album/4ngbwV8bQCWnmhY5pQszU6) | 3:48 | 2021-12-03 |  |
+| [Love You Better](https://open.spotify.com/track/5Dmo0uuZSKQPQ7WW9LNbA7) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Love You Better](https://open.spotify.com/album/5yDO2abSpmSiEFQJXj554K) | 3:08 | 2022-04-15 |  |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-01-14 |  |
 | [Motorbike](https://open.spotify.com/track/1rYzhneH8uXuTCcGzOHKSC) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:08 | 2021-07-09 |  |
 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 | 2022-04-29 |  |

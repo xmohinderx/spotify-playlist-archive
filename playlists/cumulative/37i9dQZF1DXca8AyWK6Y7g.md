@@ -4,7 +4,7 @@
 
 > regretting that tattoo on my shoulder Cover: Sasha Alex Sloan
 
-1,068 songs - 2 day 7 hr 40 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,069 songs - 2 day 7 hr 43 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [BOYFREN](https://open.spotify.com/track/3WmgMoWZ1E5yNyn2aUzWAr) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [BOYFREN](https://open.spotify.com/album/0wgevfr942iLPDrYSG3GuN) | 2:16 | 2021-03-02 | 2021-10-11 |
 | [Boys](https://open.spotify.com/track/3r6oQ66z8GfFNdAmjZr2ct) | [Kelianne](https://open.spotify.com/artist/29Umu6q2gjFj4rQCIvmLRm) | [Boys](https://open.spotify.com/album/5KObpEAV5b6d9f6X0Oi3TF) | 2:26 | 2022-01-28 | 2022-03-05 |
 | [Boys Don't Cry](https://open.spotify.com/track/58IYY8DzJ4s9R260vyQfqT) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Boys Don’t Cry](https://open.spotify.com/album/3hVTz0IcG4DHFqj8TDiiaE) | 3:14 | 2022-04-08 | 2022-04-30 |
+| [Brad Pitt](https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Brad Pitt](https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D) | 3:36 | 2022-05-13 |  |
 | [Brand New](https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Brand New](https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP) | 2:36 | 2021-10-17 | 2021-11-14 |
 | [Breakfast With You](https://open.spotify.com/track/7BmSy7lf9pPK1X1y0xfgzo) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Breakfast With You](https://open.spotify.com/album/64jYA3DliGLlsFdx7Yiv57) | 4:02 | 2022-02-25 | 2022-03-26 |
 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 | 2021-10-08 | 2022-03-26 |
@@ -777,10 +778,10 @@
 | [Run & Hide](https://open.spotify.com/track/4ReVKQaXjsl7ihqY43pbXB) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Run & Hide](https://open.spotify.com/album/4XYTnZdyX9ltTsmrzaX4Iq) | 3:00 | 2022-05-06 |  |
 | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/track/5yZsE3TKmxdRVrSc8TCqfx) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [run away \(feat\. Chelsea Collins\)](https://open.spotify.com/album/7zVCh92Cr2xyHnSnheohp7) | 2:48 | 2021-10-08 | 2022-01-08 |
 | [Run Out](https://open.spotify.com/track/5sjeYIsN6g6WE65vUmpCs6) | [ALX](https://open.spotify.com/artist/1RE4ryNw7e9GftMcUeYKrR) | [Run Out](https://open.spotify.com/album/0mQf45gp7DrD5EteWXm7Ic) | 2:46 | 2021-09-17 | 2021-11-14 |
-| [Run to You](https://open.spotify.com/track/38LpvbIp9It4wkOYL9SVHM) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:36 | 2022-03-25 |  |
+| [Run to You](https://open.spotify.com/track/38LpvbIp9It4wkOYL9SVHM) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:36 | 2022-03-25 | 2022-05-15 |
 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 | 2021-03-01 | 2021-11-20 |
 | [running back](https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe) | 1:52 | 2022-01-28 | 2022-03-12 |
-| [RÉSUMÉ](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [RÉSUMÉ](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 | 2022-05-06 | 2022-05-12 |
+| [RÉSUMÉ](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [RÉSUMÉ](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 | 2022-05-06 |  |
 | [S.I.M.P](https://open.spotify.com/track/1FqLXcLdKdXBGh9mY9wLu4) | [Kylesimps](https://open.spotify.com/artist/47f3ZMxJ4kepycwKoGknag) | [S.I.M.P](https://open.spotify.com/album/1JFYx6VIgNV2m0IGojjPjz) | 2:11 | 2021-05-27 | 2021-05-28 |
 | [Sabali](https://open.spotify.com/track/0jHZ5yXOZNKvtwPGSgL0gX) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Welcome To Mali](https://open.spotify.com/album/6LJLRmAT69fL7I9Rf8hjcb) | 3:16 | 2021-02-24 | 2021-03-22 |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-25 |  |
@@ -918,7 +919,7 @@
 | [Sunshine](https://open.spotify.com/track/2uFSWRjGngObrrfMZcBVBv) | [Shawn Mathews](https://open.spotify.com/artist/3MkpsN5uQhUMT9EMV1LgYL) | [Sunshine](https://open.spotify.com/album/1PYCwyi5YM95iL8IlVHDOm) | 2:52 | 2021-03-06 | 2022-03-26 |
 | [SUPERIMPOSE](https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [SUPERIMPOSE](https://open.spotify.com/album/0TDvV8b1ER6fxGGcqktNaO) | 3:07 | 2021-11-12 | 2022-03-26 |
 | [Superposition](https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:50 | 2019-05-26\* | 2019-08-13 |
-| [Superstar](https://open.spotify.com/track/7zvpy4zhp5594U635c3SFL) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Superstar](https://open.spotify.com/album/0u0hWcdDdxXhXdC31gfBGd) | 3:34 | 2022-03-25 |  |
+| [Superstar](https://open.spotify.com/track/7zvpy4zhp5594U635c3SFL) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Superstar](https://open.spotify.com/album/0u0hWcdDdxXhXdC31gfBGd) | 3:34 | 2022-03-25 | 2022-05-15 |
 | [Superstar](https://open.spotify.com/track/3c46fXVjVArsPheex1R7AI) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J), [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [Superstar](https://open.spotify.com/album/7EWhJMY64EezShQPMD2zf4) | 2:57 | 2021-09-19 | 2021-11-19 |
 | [Superstitious](https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [Superstitious](https://open.spotify.com/album/0l4Yv8Woti8eZ16wiV5A8H) | 3:07 | 2022-03-11 |  |
 | [Sweet Tooth Baby](https://open.spotify.com/track/7h9GhjA4crhzz4z0Qk9h2Q) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA), [YOREN!](https://open.spotify.com/artist/1q0VsVFCMq4eICivuuJQQW) | [Sweet Tooth Baby](https://open.spotify.com/album/3EHocdF9UkeXjlEEGCrdCx) | 3:20 | 2020-09-30 | 2021-01-15 |

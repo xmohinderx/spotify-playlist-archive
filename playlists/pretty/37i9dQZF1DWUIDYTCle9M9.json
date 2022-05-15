@@ -1,29 +1,13 @@
 {
   "description": "Hits e cl\u00e1ssicos para jogar sua energia l\u00e1 em cima!",
-  "num_followers": 515946,
+  "num_followers": 516618,
   "original_name": "Alto Astral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQ5MDY1NSwwMDAwMDAwMDgyMWRhNzA2ZDY5MTU2NDRkNmVjZDFhNDk4NmFhNWEw",
+  "snapshot_id": "MTY1MjU3NzE2NiwwMDAwMDAwMDkwMDQ3ZTMxZmVjYTI0Y2Q2YWQ2NzhjMzFkN2U0ZTRm",
   "tracks": [
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Oxig\u00eanio",
-        "url": "https://open.spotify.com/album/5enKJDDkB9Y4ElY1xHw5k6"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 286200,
-      "name": "Dias Melhores",
-      "url": "https://open.spotify.com/track/6mpiOoEcus2zYIl9qdHVyG"
-    },
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 267413,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/7L2SIaoe6JGpeAmt03pdcy"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Oxig\u00eanio",
+        "url": "https://open.spotify.com/album/5enKJDDkB9Y4ElY1xHw5k6"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 286200,
+      "name": "Dias Melhores",
+      "url": "https://open.spotify.com/track/6mpiOoEcus2zYIl9qdHVyG"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -75,8 +75,8 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Quanto Mais Curtido Melhor",
-        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
+        "name": "Ac\u00fastico Cidade Negra",
+        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
         }
       ],
-      "duration_ms": 282160,
-      "name": "A Estrada",
-      "url": "https://open.spotify.com/track/3bS1srVDOOqGYCKcnzYwfs"
+      "duration_ms": 249706,
+      "name": "Girassol (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Eu, Tu, Eles",
-        "url": "https://open.spotify.com/album/4YDye2RuBIsddlXv2LqAXA"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Esperando na janela",
-      "url": "https://open.spotify.com/track/35RlhfkfwbSI5dCBDBWIT0"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
         "name": "ANAVIT\u00d3RIA",
         "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
       },
@@ -191,8 +175,24 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Ac\u00fastico Cidade Negra",
-        "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
+        "name": "Adrenalizou",
+        "url": "https://open.spotify.com/album/1b6w24ON5t9sEslhNdpjQf"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 177393,
+      "name": "Adrenalizou",
+      "url": "https://open.spotify.com/track/5e6zVhxswg8mULigBD4chY"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Quanto Mais Curtido Melhor",
+        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
       },
       "artists": [
         {
@@ -200,45 +200,41 @@
           "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
         }
       ],
-      "duration_ms": 249706,
-      "name": "Girassol (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du"
+      "duration_ms": 282160,
+      "name": "A Estrada",
+      "url": "https://open.spotify.com/track/3bS1srVDOOqGYCKcnzYwfs"
     },
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Onde Voc\u00ea Mora?",
-        "url": "https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ"
+        "name": "Eu, Tu, Eles",
+        "url": "https://open.spotify.com/album/4YDye2RuBIsddlXv2LqAXA"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 238143,
-      "name": "Onde Voc\u00ea Mora?",
-      "url": "https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL"
+      "duration_ms": 256693,
+      "name": "Esperando na janela",
+      "url": "https://open.spotify.com/track/35RlhfkfwbSI5dCBDBWIT0"
     },
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "A Cor \u00c9 Rosa",
-        "url": "https://open.spotify.com/album/3wLwv0W8vx2mhmMWC9lNEF"
+        "name": "A Forma",
+        "url": "https://open.spotify.com/album/5Lrg6ydUyNM59c9PJW7Bny"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Claudinho & Buchecha",
+          "url": "https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU"
         }
       ],
-      "duration_ms": 228875,
-      "name": "A Cor \u00c9 Rosa",
-      "url": "https://open.spotify.com/track/5QUoiOFWAaV5VC2VbBhHJ4"
+      "duration_ms": 230626,
+      "name": "Quero Te Encontrar",
+      "url": "https://open.spotify.com/track/3AYcFdYKSL8mVqJWwCpS60"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -275,6 +271,26 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
+        "name": "Onde Voc\u00ea Mora?",
+        "url": "https://open.spotify.com/album/1Z7QFFV74yC9UTB8o8eXIQ"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Onde Voc\u00ea Mora?",
+      "url": "https://open.spotify.com/track/4It6aechBYAqeqiBHvuvRL"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
         "name": "Troco Likes",
         "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
@@ -291,50 +307,18 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "A Forma",
-        "url": "https://open.spotify.com/album/5Lrg6ydUyNM59c9PJW7Bny"
+        "name": "Falamansa Essencial",
+        "url": "https://open.spotify.com/album/6QB3is8FTgiJ84fLQsMOJU"
       },
       "artists": [
         {
-          "name": "Claudinho & Buchecha",
-          "url": "https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU"
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
         }
       ],
-      "duration_ms": 230626,
-      "name": "Quero Te Encontrar",
-      "url": "https://open.spotify.com/track/3AYcFdYKSL8mVqJWwCpS60"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Adrenalizou",
-        "url": "https://open.spotify.com/album/1b6w24ON5t9sEslhNdpjQf"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 177393,
-      "name": "Adrenalizou",
-      "url": "https://open.spotify.com/track/5e6zVhxswg8mULigBD4chY"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Ao Vivo",
-        "url": "https://open.spotify.com/album/0aqrvS57NXwVRYRsYjk47a"
-      },
-      "artists": [
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        }
-      ],
-      "duration_ms": 210047,
-      "name": "Vem Meu Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2vQTjnYDhZIaLIbbSvAbpM"
+      "duration_ms": 221040,
+      "name": "Rindo \u00c0 Toa",
+      "url": "https://open.spotify.com/track/36OHYoQYvFtjuTE3LCdEoH"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -359,76 +343,40 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Falamansa Essencial",
-        "url": "https://open.spotify.com/album/6QB3is8FTgiJ84fLQsMOJU"
+        "name": "At\u00e9 Onde Vai",
+        "url": "https://open.spotify.com/album/3GiJagG5k5VmCMoVxnFs0F"
       },
       "artists": [
         {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
         }
       ],
-      "duration_ms": 221040,
-      "name": "Rindo \u00c0 Toa",
-      "url": "https://open.spotify.com/track/36OHYoQYvFtjuTE3LCdEoH"
+      "duration_ms": 276653,
+      "name": "Al\u00e9m do Horizonte",
+      "url": "https://open.spotify.com/track/42rMA2pfIu7J6a80nODfAn"
     },
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Eu e Mem\u00ea, Mem\u00ea e Eu",
-        "url": "https://open.spotify.com/album/1XgCslXe5fq5vQNcZvyEWS"
+        "name": "A Cor \u00c9 Rosa",
+        "url": "https://open.spotify.com/album/3wLwv0W8vx2mhmMWC9lNEF"
       },
       "artists": [
         {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 224866,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/0cOad1EbVLwi06mHIcqGip"
+      "duration_ms": 228875,
+      "name": "A Cor \u00c9 Rosa",
+      "url": "https://open.spotify.com/track/5QUoiOFWAaV5VC2VbBhHJ4"
     },
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Deixa (feat. Ana Gabriela)",
-        "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 176025,
-      "name": "Deixa (feat. Ana Gabriela)",
-      "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Sim",
-        "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Ai, Ai, Ai...",
-      "url": "https://open.spotify.com/track/6IvKz4Ax11LsLA0X0bPkqD"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Beleza Rara",
-        "url": "https://open.spotify.com/album/17Ac8TGm7DgJoNlYFOXuYz"
+        "name": "Ao Vivo",
+        "url": "https://open.spotify.com/album/0aqrvS57NXwVRYRsYjk47a"
       },
       "artists": [
         {
@@ -436,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
         }
       ],
-      "duration_ms": 235866,
-      "name": "Beleza Rara",
-      "url": "https://open.spotify.com/track/0Oev1uum7Oje1oSJiWKuOT"
+      "duration_ms": 210047,
+      "name": "Vem Meu Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2vQTjnYDhZIaLIbbSvAbpM"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -463,18 +411,74 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
-        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+        "name": "Eu e Mem\u00ea, Mem\u00ea e Eu",
+        "url": "https://open.spotify.com/album/1XgCslXe5fq5vQNcZvyEWS"
       },
       "artists": [
         {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
+      "duration_ms": 224866,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/0cOad1EbVLwi06mHIcqGip"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Sim",
+        "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Ai, Ai, Ai...",
+      "url": "https://open.spotify.com/track/6IvKz4Ax11LsLA0X0bPkqD"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Deixa (feat. Ana Gabriela)",
+        "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 176025,
+      "name": "Deixa (feat. Ana Gabriela)",
+      "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 175270,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/6wnCBT8ip4i9HRhM3HVk6d"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -511,18 +515,34 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "At\u00e9 Onde Vai",
-        "url": "https://open.spotify.com/album/3GiJagG5k5VmCMoVxnFs0F"
+        "name": "Beleza Rara",
+        "url": "https://open.spotify.com/album/17Ac8TGm7DgJoNlYFOXuYz"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
         }
       ],
-      "duration_ms": 276653,
-      "name": "Al\u00e9m do Horizonte",
-      "url": "https://open.spotify.com/track/42rMA2pfIu7J6a80nODfAn"
+      "duration_ms": 235866,
+      "name": "Beleza Rara",
+      "url": "https://open.spotify.com/track/0Oev1uum7Oje1oSJiWKuOT"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -543,22 +563,6 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Bar\u00e3o Pra Sempre",
-        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
-        }
-      ],
-      "duration_ms": 231107,
-      "name": "Puro \u00caxtase",
-      "url": "https://open.spotify.com/track/0D3s0ShhcmT98e4aiqlXdX"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
         "name": "Los Hermanos",
         "url": "https://open.spotify.com/album/5cZ2ehOhB8ZQ0yCHJZyhlh"
       },
@@ -575,22 +579,34 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+        "name": "Bar\u00e3o Pra Sempre",
+        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
       },
       "artists": [
         {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
         }
       ],
-      "duration_ms": 175270,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/6wnCBT8ip4i9HRhM3HVk6d"
+      "duration_ms": 231107,
+      "name": "Puro \u00caxtase",
+      "url": "https://open.spotify.com/track/0D3s0ShhcmT98e4aiqlXdX"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Novo Millennium",
+        "url": "https://open.spotify.com/album/2PEn9XdR7UtrtNEXu9AtG4"
+      },
+      "artists": [
+        {
+          "name": "Claudinho & Buchecha",
+          "url": "https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "S\u00f3 Love",
+      "url": "https://open.spotify.com/track/6tghVVbANieSAMpFpzYl8M"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -627,18 +643,54 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Novo Millennium",
-        "url": "https://open.spotify.com/album/2PEn9XdR7UtrtNEXu9AtG4"
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/42PRGs04xwTbtR5UXDqDZP"
       },
       "artists": [
         {
-          "name": "Claudinho & Buchecha",
-          "url": "https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU"
+          "name": "Fat Family",
+          "url": "https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2"
         }
       ],
-      "duration_ms": 252333,
-      "name": "S\u00f3 Love",
-      "url": "https://open.spotify.com/track/6tghVVbANieSAMpFpzYl8M"
+      "duration_ms": 252693,
+      "name": "Jeito Sexy",
+      "url": "https://open.spotify.com/track/2pGklev9ODeFJ8eIGoD2Fo"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Some que ele vem atr\u00e1s",
+        "url": "https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 194771,
+      "name": "Some que ele vem atr\u00e1s",
+      "url": "https://open.spotify.com/track/2qD7VoDYcrAPY0cVEfpsR5"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Bem Melhor",
+        "url": "https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Bem Melhor",
+      "url": "https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -675,38 +727,6 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/42PRGs04xwTbtR5UXDqDZP"
-      },
-      "artists": [
-        {
-          "name": "Fat Family",
-          "url": "https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Jeito Sexy",
-      "url": "https://open.spotify.com/track/2pGklev9ODeFJ8eIGoD2Fo"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Bem Melhor",
-        "url": "https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Bem Melhor",
-      "url": "https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
         "name": "Assim Caminha A Humanidade",
         "url": "https://open.spotify.com/album/5xLq20kfwGv54nW7VcGkXb"
       },
@@ -719,22 +739,6 @@
       "duration_ms": 208693,
       "name": "Assim Caminha a Humanidade",
       "url": "https://open.spotify.com/track/18Lb0yf7HlgETLgfaBG6eV"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Timbalada",
-        "url": "https://open.spotify.com/album/7DBNBSDCsPxPzW9QyivdTc"
-      },
-      "artists": [
-        {
-          "name": "Timbalada",
-          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
-        }
-      ],
-      "duration_ms": 269026,
-      "name": "Beija-Flor",
-      "url": "https://open.spotify.com/track/2qzvVh6WD7pP0DUkSyANNf"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -755,26 +759,6 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Some que ele vem atr\u00e1s",
-        "url": "https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 194771,
-      "name": "Some que ele vem atr\u00e1s",
-      "url": "https://open.spotify.com/track/2qD7VoDYcrAPY0cVEfpsR5"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
         "name": "Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0pV48P4dUt5ajWGZpAnvpy"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 221133,
       "name": "Sexy Iemanj\u00e1",
       "url": "https://open.spotify.com/track/0PvYd9bLZoIMbVd1TJpeju"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Timbalada",
+        "url": "https://open.spotify.com/album/7DBNBSDCsPxPzW9QyivdTc"
+      },
+      "artists": [
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        }
+      ],
+      "duration_ms": 269026,
+      "name": "Beija-Flor",
+      "url": "https://open.spotify.com/track/2qzvVh6WD7pP0DUkSyANNf"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Maria Rita",
-        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
-      },
-      "artists": [
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Cara valente",
-      "url": "https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
         "name": "NX Zero",
         "url": "https://open.spotify.com/album/36XdECqksmPP6MsEOjW6lG"
       },
@@ -839,22 +823,18 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/1GrLzuMykj1N2woxKXsb0W"
+        "name": "Maria Rita",
+        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
       },
       "artists": [
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
         }
       ],
-      "duration_ms": 223488,
-      "name": "Bilhete 2.0",
-      "url": "https://open.spotify.com/track/4eizL2CPEy9lFUZw7HBKrk"
+      "duration_ms": 282293,
+      "name": "Cara valente",
+      "url": "https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -875,22 +855,22 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Deixa Ela Beijar",
-        "url": "https://open.spotify.com/album/3ZPrHZ58I5eh9jtOBsFcov"
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/1GrLzuMykj1N2woxKXsb0W"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         }
       ],
-      "duration_ms": 166410,
-      "name": "Deixa Ela Beijar",
-      "url": "https://open.spotify.com/track/7q5agbUOzZnVF4Yes3AD7I"
+      "duration_ms": 223488,
+      "name": "Bilhete 2.0",
+      "url": "https://open.spotify.com/track/4eizL2CPEy9lFUZw7HBKrk"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -923,6 +903,26 @@
       "duration_ms": 216428,
       "name": "4 da manh\u00e3",
       "url": "https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Dona Maria",
+        "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brava",
+          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
+        },
+        {
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
+        }
+      ],
+      "duration_ms": 187998,
+      "name": "Dona Maria",
+      "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -963,46 +963,18 @@
     {
       "added_at": "2021-07-02 03:03:00",
       "album": {
-        "name": "Praia do Rosa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
+        "name": "Nove Luas",
+        "url": "https://open.spotify.com/album/4ZhHdPLQtqUgTfHbxxB8xB"
       },
       "artists": [
         {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
         }
       ],
-      "duration_ms": 256523,
-      "name": "Praia do Rosa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
-    },
-    {
-      "added_at": "2021-07-02 03:03:00",
-      "album": {
-        "name": "Dona Maria",
-        "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
-      },
-      "artists": [
-        {
-          "name": "Thiago Brava",
-          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
-        },
-        {
-          "name": "Jorge",
-          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
-        }
-      ],
-      "duration_ms": 187998,
-      "name": "Dona Maria",
-      "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
+      "duration_ms": 158933,
+      "name": "Lourinha Bombril",
+      "url": "https://open.spotify.com/track/3eUOVnvVw9ntGUqJmHKF1J"
     },
     {
       "added_at": "2021-07-02 03:03:00",
@@ -1027,6 +999,26 @@
       "duration_ms": 279756,
       "name": "Pouca Pausa",
       "url": "https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm"
+    },
+    {
+      "added_at": "2021-07-02 03:03:00",
+      "album": {
+        "name": "Deixa Ela Beijar",
+        "url": "https://open.spotify.com/album/3ZPrHZ58I5eh9jtOBsFcov"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 166410,
+      "name": "Deixa Ela Beijar",
+      "url": "https://open.spotify.com/track/7q5agbUOzZnVF4Yes3AD7I"
     }
   ],
   "unique_name": "Alto Astral",

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Samuel Cipta\. Artwork: Isu Kim.
 
-645 songs - 1 day 15 hr 34 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+646 songs - 1 day 15 hr 37 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Fear of Losing You](https://open.spotify.com/track/1idjt1h4MXEMWCM7WkkKJA) | [Faizal Azhari](https://open.spotify.com/artist/6tr0CYU6lyaxlfCA71rG6r) | [Fear of Losing You](https://open.spotify.com/album/0qm77n57BtiVpIPdcsaeqh) | 3:36 | 2022-01-27 | 2022-02-11 |
 | [feel something?](https://open.spotify.com/track/09HYCZjFYpWZLel2etwJsK) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [feel something?](https://open.spotify.com/album/4TRYCE0miUzqcKWwz5NloA) | 5:22 | 2022-03-04 | 2022-03-18 |
 | [FEELGOOD](https://open.spotify.com/track/1QXiyXpx5rOQRdAgSvNJ5X) | [Outsiderbxck](https://open.spotify.com/artist/57MzQNdRumtgm635H3zx9T), [Prince Firman](https://open.spotify.com/artist/5fOmKBU33yyTthY1XP5Qim) | [FEELGOOD](https://open.spotify.com/album/6K1mwTluVsiKZBPCQcHLn1) | 3:08 | 2022-02-24 | 2022-03-11 |
+| [Feeling Free](https://open.spotify.com/track/4sE3YbKB2AktlZd6vMFoCS) | [Somethink](https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI) | [Feeling Free](https://open.spotify.com/album/5uchrvieuhlfxfrhDwFPtt) | 2:41 | 2022-05-12 |  |
 | [feeling like the enemy](https://open.spotify.com/track/7MuDEmvMOkZyV52Qjk2z55) | [tobio](https://open.spotify.com/artist/3pHK6kG0zrm9Cg6JJoFRUT) | [feeling like the enemy](https://open.spotify.com/album/2nupe6YpPwFkqIfeBhwPaQ) | 2:14 | 2022-04-28 | 2022-05-06 |
 | [FILTHY ✱](https://open.spotify.com/track/4OTd5uaUiiJ5Sn0JOZ6Tba) | [Mario Draco](https://open.spotify.com/artist/1KwSZl8qwUAoKGk57dXl0q) | [FILTHY ✱](https://open.spotify.com/album/6HJvdM6qsCxBu7quK89xVt) | 1:32 | 2022-03-04 | 2022-03-18 |
 | [First Crush \- OST First Crush Audio Drama](https://open.spotify.com/track/2j7BgNnyjRyTRcDhsyP4xs) | [WAVONAIR](https://open.spotify.com/artist/3n3QyWDBZUMYh0feOdZUDb), [Louise Valencia](https://open.spotify.com/artist/0UYmfUz3gQgsc6Tncs4C56) | [First Crush \(OST First Crush Audio Drama\)](https://open.spotify.com/album/6r9Ffa1wJhQ94vqnuK6PL9) | 3:46 | 2022-02-17 | 2022-03-05 |

@@ -780,6 +780,24 @@
     },
     {
       "album": {
+        "name": "Feeling Free",
+        "url": "https://open.spotify.com/album/5uchrvieuhlfxfrhDwFPtt"
+      },
+      "artists": [
+        {
+          "name": "Somethink",
+          "url": "https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161217,
+      "name": "Feeling Free",
+      "url": "https://open.spotify.com/track/4sE3YbKB2AktlZd6vMFoCS"
+    },
+    {
+      "album": {
         "name": "Flower",
         "url": "https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar"
       },
@@ -2000,7 +2018,7 @@
     },
     {
       "album": {
-        "name": "Soul (feat. Sunshine Blvd.)",
+        "name": "SOUL (feat. sunshine blvd.)",
         "url": "https://open.spotify.com/album/3HGos1wXHhSXT4Vq5okUa6"
       },
       "artists": [

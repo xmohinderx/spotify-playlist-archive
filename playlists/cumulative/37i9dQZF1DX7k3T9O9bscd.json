@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 186858,
       "name": "A Shaman's Hand is Infinite",
       "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 896226,
       "name": "Acid Crusher",
       "url": "https://open.spotify.com/track/1Jl2QiqrBXJOVxDx2WqnvO"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 246631,
       "name": "Afrique Victime - Edit",
       "url": "https://open.spotify.com/track/2FENXc1Etbsd1FgsXx143M"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 235837,
       "name": "Borr\u00f3n enchufe",
       "url": "https://open.spotify.com/track/2ySH9aIYwDlTWNgDs8BKAt"
@@ -338,6 +338,24 @@
     },
     {
       "album": {
+        "name": "Lost Lands",
+        "url": "https://open.spotify.com/album/00WN8FG1ICNDQlK3kvF1KV"
+      },
+      "artists": [
+        {
+          "name": "Marie Byrd Land Band",
+          "url": "https://open.spotify.com/artist/1qfKVN8ef3WUy7OU08YvYu"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Catatumbo Lightnings",
+      "url": "https://open.spotify.com/track/4oxgLPTh8G6keUBjmMm6ey"
+    },
+    {
+      "album": {
         "name": "Panoramas",
         "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
       },
@@ -367,7 +385,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 131426,
       "name": "Chasse \u00e0 l'homme",
       "url": "https://open.spotify.com/track/30njO8xB8t4gUbocXczybe"
@@ -403,7 +421,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 269529,
       "name": "Crime em T\u00e2nger",
       "url": "https://open.spotify.com/track/5RDLAg3zVPTlsmOlKNNGf9"
@@ -421,7 +439,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 238350,
       "name": "Damaged Eyes Squinting into the Beautiful Overhot Sun",
       "url": "https://open.spotify.com/track/0eqsixwwOHKerHiBmaqQQG"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 211226,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 269799,
       "name": "God of Sun",
       "url": "https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 170186,
       "name": "Golden Dawn",
       "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 365797,
       "name": "Greven",
       "url": "https://open.spotify.com/track/54URuxbHDl2XnK5lSWJNNC"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 408948,
       "name": "Hiisi, Pt. 1",
       "url": "https://open.spotify.com/track/2gXyYqSL0g17iNfUZVQryO"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 200382,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/6bO1ZRc6JEvIhBgVQH4VPh"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 312360,
       "name": "I'll Gladly Place Myself Below You",
       "url": "https://open.spotify.com/track/7fpEayIv2yPcLnbiRLDMWn"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 236253,
       "name": "In The Eve",
       "url": "https://open.spotify.com/track/4rVD839xJRAk4jRqB2UzND"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 205160,
       "name": "Indian Zone Drum Killer Inc.",
       "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 384895,
       "name": "Jukebox Babe",
       "url": "https://open.spotify.com/track/3KZcO29G6BjqIJbdsRg0Mo"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 504193,
       "name": "kawasemi Ah",
       "url": "https://open.spotify.com/track/1uxhSPG2TZcPWzz2i6HAva"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 459578,
       "name": "Lateral Alice - Cavern of Anti-Matter Remix",
       "url": "https://open.spotify.com/track/3p3PuntYTsPXM1sejy8M7x"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 196054,
       "name": "Level 1",
       "url": "https://open.spotify.com/track/4sIzOxFgdxbYmrjkoBTQdn"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 386966,
       "name": "Lost Heads",
       "url": "https://open.spotify.com/track/1t6GfUPrPVJoe7GxWTkfwW"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 501840,
       "name": "Man It Feels Like Space Again",
       "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 275392,
       "name": "Mesmo Cora\u00e7\u00e3o - The Holydrug Couple Remix",
       "url": "https://open.spotify.com/track/4rc8SaOkVGwfk5He4brXCL"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 486860,
       "name": "Mother Seletta",
       "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 285313,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/7oxtzbhJMUcHXkr9VVnXvC"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 263453,
       "name": "Paraphernalia",
       "url": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
@@ -1494,6 +1512,42 @@
     },
     {
       "album": {
+        "name": "Posthumous Forgiveness",
+        "url": "https://open.spotify.com/album/0AA8MiQS9djcrznNT83ViG"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366066,
+      "name": "Posthumous Forgiveness",
+      "url": "https://open.spotify.com/track/3rQ0ZaLrkLv8HhAAKSbAC0"
+    },
+    {
+      "album": {
+        "name": "premonition",
+        "url": "https://open.spotify.com/album/22ccKxifv1lmzw5C9pdznt"
+      },
+      "artists": [
+        {
+          "name": "HOLY",
+          "url": "https://open.spotify.com/artist/6TNGPJ14slujZq0YSywpsQ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397863,
+      "name": "premonition / \u201a\u00f3\u00d8 / it shines through",
+      "url": "https://open.spotify.com/track/1oQrm94AgXdhDE0wusgKrc"
+    },
+    {
+      "album": {
         "name": "The Grodeck Whipperjenny (Digitally Remastered)",
         "url": "https://open.spotify.com/album/5qGe0KjGNFeVqGBHRwZwfT"
       },
@@ -1505,10 +1559,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 276871,
       "name": "Put Your Thing On Me",
       "url": "https://open.spotify.com/track/4VFMCnFF9Hc5Ki6mO9km5J"
+    },
+    {
+      "album": {
+        "name": "A New Day Dawning",
+        "url": "https://open.spotify.com/album/0VELg0oxzobE18qmAzdhMK"
+      },
+      "artists": [
+        {
+          "name": "Siena Root",
+          "url": "https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540684,
+      "name": "Rasayana",
+      "url": "https://open.spotify.com/track/2LwM4JgvJ3SiIaQOIXJT6n"
     },
     {
       "album": {
@@ -1577,7 +1649,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 196053,
       "name": "Roky Said",
       "url": "https://open.spotify.com/track/1n3cDnsKveliNsejFGLTs9"
@@ -1613,7 +1685,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 218013,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
@@ -1631,7 +1703,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 303025,
       "name": "See You There",
       "url": "https://open.spotify.com/track/4I9nM23gQdVXJC4x3uR5rF"
@@ -1667,7 +1739,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 228015,
       "name": "Shalala",
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
@@ -1685,7 +1757,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 203680,
       "name": "Shell Island",
       "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
@@ -1829,7 +1901,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 285643,
       "name": "The Blue Marble",
       "url": "https://open.spotify.com/track/5Yo6FhNtzrjOLGo9Y00Nup"
@@ -1989,7 +2061,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 434989,
       "name": "Trees",
       "url": "https://open.spotify.com/track/1NXypJl06i4aiD6Lpi06Sb"
@@ -2087,7 +2159,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 174803,
       "name": "Venus",
       "url": "https://open.spotify.com/track/7kUMtpiRKDWVUOBfRX0eLd"
@@ -2105,7 +2177,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 190650,
       "name": "Victor's Belt",
       "url": "https://open.spotify.com/track/103SLYASMHdoZq1Ls6r2hR"
@@ -2141,7 +2213,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 299462,
       "name": "What's Holding You?",
       "url": "https://open.spotify.com/track/1zGVHAHmNeYkdt51T9pgtD"
@@ -2195,7 +2267,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 138623,
       "name": "\u00c7ar\u015fambay\u0131 Sel Ald\u0131",
       "url": "https://open.spotify.com/track/4Rvx92J5G9D840uqgZiLvD"

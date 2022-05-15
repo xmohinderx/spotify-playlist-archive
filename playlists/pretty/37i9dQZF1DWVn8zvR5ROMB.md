@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,207 likes - 126 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,331 likes - 126 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 15 | [Know Ya](https://open.spotify.com/track/5Fg0HlaYmQEcfeN8YoYbgV) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Know Ya](https://open.spotify.com/album/1rW2XLmrFBksfkmxRSIPuj) | 2:43 |
 | 16 | [Seein' somebody](https://open.spotify.com/track/4ovKTEqARZhyd9LSonX3ow) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Seein' somebody](https://open.spotify.com/album/6h3efEu7JiInwNKiRjfN8k) | 3:18 |
 | 17 | [Without You](https://open.spotify.com/track/5LLj9u9X29c0X7lvUIkFco) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Without You](https://open.spotify.com/album/5bFAQJBLLVFaBwfwZJ9nQp) | 2:57 |
-| 18 | [Red Bird](https://open.spotify.com/track/1YvNoWpIYhpjquxppXIcF2) | [HunterGirl](https://open.spotify.com/artist/3XVxZC5mGWoZCr4D8aK3cg) | [Red Bird](https://open.spotify.com/album/3pDn7JFCw6lwles106HcnQ) | 3:43 |
+| 18 | [Red Bird](https://open.spotify.com/track/1YvNoWpIYhpjquxppXIcF2) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Red Bird](https://open.spotify.com/album/3pDn7JFCw6lwles106HcnQ) | 3:43 |
 | 19 | [Bottom of the Bottle](https://open.spotify.com/track/0gVTneylhEUNefm72sNYwc) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [If She Ain't Country](https://open.spotify.com/album/6boCMjNAKUkefGGVV2jPWv) | 3:31 |
 | 20 | [Act Like That](https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Kings of the New Age](https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9) | 3:03 |
 | 21 | [I Like Ya Like That](https://open.spotify.com/track/4IRxgrar5DfyYIhLcuygH2) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [Confessions of a Good Southern Lady](https://open.spotify.com/album/1VYmbhWCAFuu1jg2nVa6ip) | 2:48 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 26 | [Plan To](https://open.spotify.com/track/3S7MqER2LyVlR3G8YBLmqp) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Plan To](https://open.spotify.com/album/0FnVEOKiuU6PGPGCINsXHc) | 3:48 |
 | 27 | [Mountains](https://open.spotify.com/track/0YrVuZbN2BmMjXYdyUQo4k) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Mountains](https://open.spotify.com/album/7n1yMlzN1ciH8dEsWFYmmZ) | 3:15 |
 | 28 | [One Day Tonight](https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [One Day Tonight](https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl) | 2:45 |
-| 29 | [Open Your Mouth](https://open.spotify.com/track/0wHCdAf36jq6WlwAdPdf0r) | [Hayley Orrantia](https://open.spotify.com/artist/6Ba7gb6RPgcbbWCQY7N8Dx), [Kyle Mangels](https://open.spotify.com/artist/3XmGpjSY6KvfAzOj3dvWHo) | [Open Your Mouth](https://open.spotify.com/album/2HtghN0ABPYhAOvIVqObE2) | 3:01 |
+| 29 | [Open Your Mouth](https://open.spotify.com/track/0wHCdAf36jq6WlwAdPdf0r) | [Hayley Orrantia](https://open.spotify.com/artist/6Ba7gb6RPgcbbWCQY7N8Dx) | [Open Your Mouth](https://open.spotify.com/album/2HtghN0ABPYhAOvIVqObE2) | 3:01 |
 | 30 | [Doin' Good](https://open.spotify.com/track/0iat1oXi26nRLDqOTOZrfj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Doin' Good](https://open.spotify.com/album/3KzQiCLF4ELqL4vfQfuw10) | 3:06 |
 | 31 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
 | 32 | [Mystery](https://open.spotify.com/track/7buMFBtHjHSFFxyoqSr8ot) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Mystery](https://open.spotify.com/album/1vl7R585aea1MjRTMgir7y) | 2:34 |

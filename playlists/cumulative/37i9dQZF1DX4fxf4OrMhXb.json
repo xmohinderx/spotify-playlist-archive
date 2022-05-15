@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-13",
   "description": "Close the curtains, it's time for some leftfield gems.",
   "name": "Noises After Dark",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6h0aBJF4DpxBxWLBMOrNnP"
+  ],
   "tracks": [
     {
       "album": {
@@ -24,6 +26,28 @@
     },
     {
       "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/1XtxDRUqZmCjblEnKN9Kzt"
+      },
+      "artists": [
+        {
+          "name": "AFFKT",
+          "url": "https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF"
+        },
+        {
+          "name": "Piek",
+          "url": "https://open.spotify.com/artist/43nO5CZZAubCVReVSXGR13"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235734,
+      "name": "Adi\u00f3s Ayer",
+      "url": "https://open.spotify.com/track/69XQLZq4KqLs6bDQSjiWmM"
+    },
+    {
+      "album": {
         "name": "agape",
         "url": "https://open.spotify.com/album/0fLcvbxE3GGVBVv6v5NG5S"
       },
@@ -42,6 +66,24 @@
     },
     {
       "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/21Pr1XnjOkKkqMhBfnvlQF"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301874,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/3tjMLbJjWE3y8SfdyPUgwg"
+    },
+    {
+      "album": {
         "name": "And Groove",
         "url": "https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt"
       },
@@ -53,7 +95,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 205785,
       "name": "And Groove - Edit",
       "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
@@ -107,7 +149,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 371500,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/6VZurpFydialDEErNv26FH"
@@ -147,6 +189,24 @@
       "duration_ms": 290706,
       "name": "Bifurcation Towards Chaos",
       "url": "https://open.spotify.com/track/7ilulch8bT3gQy6RH0X1VN"
+    },
+    {
+      "album": {
+        "name": "SYS03BLITZ",
+        "url": "https://open.spotify.com/album/2dHeINo143XXuJJhi14H7j"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353704,
+      "name": "Blitz",
+      "url": "https://open.spotify.com/track/7EofNNezAKzt0nPeWXjjyA"
     },
     {
       "album": {
@@ -205,6 +265,28 @@
       "duration_ms": 457500,
       "name": "Chesters Groove",
       "url": "https://open.spotify.com/track/5roJJmMP856qJqgyJ9UV2B"
+    },
+    {
+      "album": {
+        "name": "20 Years of Poker Flat Remix Contest - Chordwalk Empire",
+        "url": "https://open.spotify.com/album/2dnPUvuL78XkMop5MkAWio"
+      },
+      "artists": [
+        {
+          "name": "Steve Bug",
+          "url": "https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J"
+        },
+        {
+          "name": "Theobald Ringer",
+          "url": "https://open.spotify.com/artist/0TkP403XgbH5o7Vw8eHWLK"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420480,
+      "name": "Chordwalk Empire - Theobald Ringer Remix",
+      "url": "https://open.spotify.com/track/3QUUdjrDFtbPNVGwJEuMRU"
     },
     {
       "album": {
@@ -291,7 +373,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 282796,
       "name": "DPDR - Original",
       "url": "https://open.spotify.com/track/34IsVi429ivIXxKZ5Dq4cz"
@@ -385,7 +467,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 460448,
       "name": "Goddess Calling",
       "url": "https://open.spotify.com/track/4npxPQ7jYsO9RL6aN9EDjl"
@@ -425,6 +507,28 @@
       "duration_ms": 461538,
       "name": "Grammar",
       "url": "https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu"
+    },
+    {
+      "album": {
+        "name": "Machine Dream",
+        "url": "https://open.spotify.com/album/68Ge0CZTXbLdM6visfV9oz"
+      },
+      "artists": [
+        {
+          "name": "Sam von Horn",
+          "url": "https://open.spotify.com/artist/3DX8h6Mv96ZPhiNdAtCLMU"
+        },
+        {
+          "name": "Fold",
+          "url": "https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468750,
+      "name": "Growth - Fold's Bubble & Squeak Re-Fry",
+      "url": "https://open.spotify.com/track/1BF9m1HktaohWorz9jJZ7T"
     },
     {
       "album": {
@@ -483,10 +587,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7IAYLg8RJ6jpRiggsb8UW7"
+    },
+    {
+      "album": {
+        "name": "Dream House Remixes Part II",
+        "url": "https://open.spotify.com/album/0iGwThQ5LD6qzBBupz8hfm"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        },
+        {
+          "name": "Marcel Dettmann",
+          "url": "https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368062,
+      "name": "Helliconia - Marcel Dettmann Remix",
+      "url": "https://open.spotify.com/track/1JDX5o7i89JMJURpDDo9fg"
     },
     {
       "album": {
@@ -595,7 +721,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 321502,
       "name": "Idontknow",
       "url": "https://open.spotify.com/track/55YMj9pA2x7CkC3NmDtBkl"
@@ -613,7 +739,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 288331,
       "name": "If U Ever",
       "url": "https://open.spotify.com/track/6rFoXa2T7l7elYqXxYCvDz"
@@ -649,7 +775,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 324433,
       "name": "IQarus",
       "url": "https://open.spotify.com/track/5xYWdZVRcU81zYwlB29uJC"
@@ -689,7 +815,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 369515,
       "name": "Jack",
       "url": "https://open.spotify.com/track/0lZDZfqfPQ7U1lDfbuh3om"
@@ -711,7 +837,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 340751,
       "name": "Jmpng",
       "url": "https://open.spotify.com/track/76uVXixtaRku87tqrVHuci"
@@ -769,7 +895,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 490532,
       "name": "Kun For Mig",
       "url": "https://open.spotify.com/track/4T0ID31kp0iHMJyvAZ8oK7"
@@ -795,7 +921,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 266684,
       "name": "Light That Fire",
       "url": "https://open.spotify.com/track/0RzjYWRNLheCV2sDXElyvF"
@@ -842,6 +968,28 @@
     },
     {
       "album": {
+        "name": "Loveless / Angels Pharmacy",
+        "url": "https://open.spotify.com/album/1QhcikPQ6VFBeaYRR58lgW"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        },
+        {
+          "name": "Aura T-09",
+          "url": "https://open.spotify.com/artist/3qZPpzVdEZepqMsySWDjn5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280495,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/6zcdePwBdxixzDGOgUGhfS"
+    },
+    {
+      "album": {
         "name": "Mars 500",
         "url": "https://open.spotify.com/album/7lfXilxttazWRwNcThahfc"
       },
@@ -875,6 +1023,24 @@
       "duration_ms": 389060,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/5kdo4INdzQh1NaeKX5an5u"
+    },
+    {
+      "album": {
+        "name": "Seduction",
+        "url": "https://open.spotify.com/album/5tWOIaGDVPVCyqoJmPtyD3"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446769,
+      "name": "Mitte",
+      "url": "https://open.spotify.com/track/6fqcYvVt2gP0tosjQjUEJK"
     },
     {
       "album": {
@@ -936,6 +1102,24 @@
     },
     {
       "album": {
+        "name": "Neutral Density",
+        "url": "https://open.spotify.com/album/3M4oY3BVS7vMrdG7G3fb0u"
+      },
+      "artists": [
+        {
+          "name": "Eugene Pascal",
+          "url": "https://open.spotify.com/artist/1vdCOowtaKhoZh7NwSuYmA"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466995,
+      "name": "Neutral Density",
+      "url": "https://open.spotify.com/track/6VOZu1uG1gWCq2I9QUSvUY"
+    },
+    {
+      "album": {
         "name": "Nisida",
         "url": "https://open.spotify.com/album/3bpoKXTJmgbgYmWoNZYssg"
       },
@@ -947,7 +1131,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 447518,
       "name": "Nisida",
       "url": "https://open.spotify.com/track/6rExvAWFcBNl0RGE2S7Fw2"
@@ -965,7 +1149,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 458659,
       "name": "no fear",
       "url": "https://open.spotify.com/track/1ggFZ0aT7eceyHsmOUU5mL"
@@ -990,6 +1174,24 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5nBTkHaicJO6esDSvfP4AB"
+      },
+      "artists": [
+        {
+          "name": "9th House",
+          "url": "https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256074,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/7q4JcY06vRAsQk71kfTjBR"
+    },
+    {
+      "album": {
         "name": "Novella EP",
         "url": "https://open.spotify.com/album/4beeUsxhIEEp0PmphMv8zS"
       },
@@ -1005,6 +1207,24 @@
       "duration_ms": 387730,
       "name": "Novella",
       "url": "https://open.spotify.com/track/5e39g1T0asZ7IsEFZcMqpC"
+    },
+    {
+      "album": {
+        "name": "On",
+        "url": "https://open.spotify.com/album/1L1NwplP7pNnM3fH8Ds5cV"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246470,
+      "name": "On - Edit",
+      "url": "https://open.spotify.com/track/3rXqlaAA6aprvQ9SSTQLVN"
     },
     {
       "album": {
@@ -1077,7 +1297,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 401697,
       "name": "Raves On Sunday",
       "url": "https://open.spotify.com/track/5xLq7wQZ5jdNchreNeX4mh"
@@ -1135,7 +1355,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 297253,
       "name": "Saku",
       "url": "https://open.spotify.com/track/2h8OnhWZCRGNjptZ9IurZw"
@@ -1179,7 +1399,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 429004,
       "name": "She Makes President - Dana Ruh Remix",
       "url": "https://open.spotify.com/track/7brsJbSSA6UsG1mulnvMUA"
@@ -1201,7 +1421,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 271274,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/4RrMjTMEkksPxC4zVhQKAO"
@@ -1219,7 +1439,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 439000,
       "name": "Slumber With a Key",
       "url": "https://open.spotify.com/track/7hM8tfmh3rz02Le2bnbmko"
@@ -1237,7 +1457,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 413368,
       "name": "Something New",
       "url": "https://open.spotify.com/track/4WSmS6TJUg6vYsBiui2bKi"
@@ -1277,7 +1497,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 234466,
       "name": "Strange Habits - Mixed",
       "url": "https://open.spotify.com/track/3ExRNcew1y15oqS73imkb1"
@@ -1299,10 +1519,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 245714,
       "name": "Sun Comes Up",
       "url": "https://open.spotify.com/track/0wS7cXdi04KcLCbiC4vDKo"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning EP",
+        "url": "https://open.spotify.com/album/6PxSrqkmGZ7ikYt64z7xgw"
+      },
+      "artists": [
+        {
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351085,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/10MaP5YHR8014q2wq6SHlW"
     },
     {
       "album": {
@@ -1353,7 +1591,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 338181,
       "name": "The Daisy",
       "url": "https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst"
@@ -1393,7 +1631,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 326625,
       "name": "The Prince - Cooper Saver Remix",
       "url": "https://open.spotify.com/track/7pYmcSvXdWYv0MPoHva12j"
@@ -1436,6 +1674,24 @@
     },
     {
       "album": {
+        "name": "Vocoder",
+        "url": "https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455000,
+      "name": "Vocoder",
+      "url": "https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD"
+    },
+    {
+      "album": {
         "name": "We Live We Die",
         "url": "https://open.spotify.com/album/7keFRmq9qc36S7pEWBUwG9"
       },
@@ -1469,7 +1725,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 193893,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"

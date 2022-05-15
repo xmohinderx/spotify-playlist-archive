@@ -4,7 +4,7 @@
 
 > Ya Wailee! Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-63 songs - 4 hr 46 min - not published yet
+63 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/7AMijtVhbae7derUkv7JiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

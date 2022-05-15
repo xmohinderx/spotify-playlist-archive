@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: ARDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,758 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,807 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 3 | [comme crisis](https://open.spotify.com/track/0It9pdTaX2mAX30b4EYNhO) | [phil](https://open.spotify.com/artist/7kPw0lfDERbzcrpz39TAMY), [kare](https://open.spotify.com/artist/2tcbWv8P2JYCCADlS63ygq), [kwes e](https://open.spotify.com/artist/6bfEL2kyoh9XtiYtpVNozy) | [BLACK DOG](https://open.spotify.com/album/2up1fZiqUhLBqBfurVxpvy) | 3:07 |
 | 4 | [R.T.T.B](https://open.spotify.com/track/40NuHUtRB6oedbFV1O2Rph) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [2 Effortless](https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz) | 2:10 |
 | 5 | [Keep IT Real](https://open.spotify.com/track/59VL7G69EtYe2LFJRhkfKr) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [B4BMG: The Experience](https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs) | 2:45 |
-| 6 | [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [Boa Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 |
+| 6 | [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [BOA Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 |
 | 7 | [Stop The Rain](https://open.spotify.com/track/6ng5m6PFWXjKJTTaaqM38B) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [The Biggest 6](https://open.spotify.com/album/3IfzYLYuf4ilq1zeBy6z9O) | 1:49 |
 | 8 | [Look Ma I Did It](https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr) | [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/38x8ZVRRLJykh2x4gAeMMz) | 2:57 |
 | 9 | [Fresh off the UFO](https://open.spotify.com/track/3RSK78MIagdtqYLvN4cWKN) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [Fresh off the UFO](https://open.spotify.com/album/5ohRCDMjtNZq70x9SdKAwC) | 1:55 |

@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: Logic
 
-112 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
+113 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Mezmorized](https://open.spotify.com/track/3bwhl6x6S42hMFrwigJaFw) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Kush & Orange Juice](https://open.spotify.com/album/2pLTbgxy2KdH2DcHSotvDk) | 4:28 | 2022-04-29 |  |
 | [Money Counter](https://open.spotify.com/track/14ABPYal8FrkOCBE5hLKEG) | [Adrian Duncan](https://open.spotify.com/artist/4UT0LBgm8ooVT0ohnFoA2F), [That's Deep](https://open.spotify.com/artist/2T2uyZ8goEevh7veWHo9wu) | [Money Counter](https://open.spotify.com/album/5MGP7z5BGtHZV2MrWkxLzb) | 3:48 | 2022-05-13 |  |
 | [Myself](https://open.spotify.com/track/7tsNi8goGCNC6evPolqs0b) | [FABD](https://open.spotify.com/artist/31oeYPedW4SdPumsV9936x), [Montrealways](https://open.spotify.com/artist/3m1PSRpCJ7tHzxKTQUBY97), [Amalia and Nino Flamenco](https://open.spotify.com/artist/3xxh1pZMrFmT10VBJyzhLq) | [Myself](https://open.spotify.com/album/3QysGsRLV0fS0hb9uuRdyS) | 3:18 | 2022-04-29 | 2022-05-07 |
-| [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-13 |  |
+| [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-13 | 2022-05-15 |
 | [Nefertiti](https://open.spotify.com/track/1uToGEGNOhqJlmJgWmOzPR) | [Elzhi](https://open.spotify.com/artist/6OwOuTjrLVrlMH1nxxIjbT), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Zhigeist](https://open.spotify.com/album/5LZCzWRQK0GNx6PK7px6Df) | 2:41 | 2022-04-29 |  |
 | [Neighborhood Winner](https://open.spotify.com/track/0AXqh1GdCXFooCQo351emP) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [The Breakthrough](https://open.spotify.com/album/0DjCfvQEt1HeZRrR6dhmWM) | 1:38 | 2022-04-29 | 2022-05-07 |
 | [Niggas Know](https://open.spotify.com/track/5Cf67CdAeUSyGpIt4ls1oG) | [Ghostboyrj](https://open.spotify.com/artist/2JOM9U6c8ef5pDlJwHAbjO) | [Niggas Know](https://open.spotify.com/album/1Z9njHhzjOrkG5dfRIp9ru) | 2:03 | 2022-04-29 |  |
@@ -116,6 +116,7 @@
 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 | 2022-04-29 |  |
 | [Walk Wit My Shadow](https://open.spotify.com/track/4ypkfIEKxbpUMxzALYsvo1) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [Walk Wit My Shadow](https://open.spotify.com/album/1uFn12B0j2qqQAYSqNUqjs) | 2:16 | 2022-05-06 |  |
 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 | 2022-04-29 |  |
+| [We Cry Together](https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Taylour Paige](https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:41 | 2022-05-14 |  |
 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 | 2022-04-29 |  |
 | [When The Moving Stops](https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [When The Moving Stops](https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8) | 3:28 | 2022-04-29 |  |
 | [White Toes](https://open.spotify.com/track/6Fb0inPGyww3CW5hbJpBEF) | [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [White Toes](https://open.spotify.com/album/3mR1ciUpGBIbxSey1xvkEY) | 3:02 | 2022-04-29 | 2022-05-14 |

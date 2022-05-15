@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 169154,
       "name": "Anything She Says",
       "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 181099,
       "name": "club",
       "url": "https://open.spotify.com/track/0SzOCqaLfsLODI4blj7cbx"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 223470,
       "name": "Don't Matter Now",
       "url": "https://open.spotify.com/track/11gbCX4RvpJjjwx4ZmitlD"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 167360,
       "name": "Drunk & I Miss You",
       "url": "https://open.spotify.com/track/7DoUCGBFzVTVfl4Nhl5BZE"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 180025,
       "name": "First Light",
       "url": "https://open.spotify.com/track/6zuVzhogxotQnXIxr2wLE5"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 206653,
       "name": "Hello, You Up",
       "url": "https://open.spotify.com/track/1cYA668ipkqAbInNuhNXsy"
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 152781,
       "name": "High Horse (feat. BRELAND and Blanco Brown)",
       "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
@@ -1649,7 +1649,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 172280,
       "name": "Make Me Want To",
       "url": "https://open.spotify.com/track/2uJwGoHVPStmWV7iTKEhcn"
@@ -1859,7 +1859,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 186520,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/3ksmU0DaEUMEVzx5V6cc3z"
@@ -1997,7 +1997,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 187369,
       "name": "Push & Pull",
       "url": "https://open.spotify.com/track/4cMGt04mMdpCq7LyNuOYzr"
@@ -2503,7 +2503,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 183189,
       "name": "Used To",
       "url": "https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4"
@@ -2521,7 +2521,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 179875,
       "name": "Used To Be",
       "url": "https://open.spotify.com/track/5a7eQFXt4Av6GJxLT9XArX"
@@ -2713,7 +2713,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 180481,
       "name": "Why Don't We",
       "url": "https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK"
@@ -2775,6 +2775,24 @@
       "duration_ms": 177951,
       "name": "Woman You Got",
       "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
+    },
+    {
+      "album": {
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh"

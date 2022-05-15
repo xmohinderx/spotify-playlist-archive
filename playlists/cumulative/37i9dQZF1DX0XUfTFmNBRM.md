@@ -4,7 +4,7 @@
 
 > Hottest Hindi music served here\. Cover\- Kartik Aaryan
 
-179 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
+180 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Chidiya](https://open.spotify.com/track/7mNZUnDWUDidWBFaUpVtOC) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/38J3178QtYOM7qQZLjQiIs) | 4:13 | 2021-01-25\* | 2021-04-06 |
 | [Chitta](https://open.spotify.com/track/6JUQViD0hLXlvWXCV4uUF8) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Shiddat](https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9) | 3:48 | 2021-10-26 |  |
 | [Dance Meri Rani](https://open.spotify.com/track/2Og3TvRiujRDfgnkmgaOhW) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P) | [Dance Meri Rani](https://open.spotify.com/album/6IxNw3TC6ZD4dKiwTsAUQq) | 3:43 | 2022-01-03 |  |
+| [De Taali \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/4Xba44w0LihzNJj1xgjs8J) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [De Taali \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/124jf3Uj8NOBismag9calO) | 3:30 | 2022-05-14 |  |
 | [Deewani Mastani \(From "Bajirao Mastani"\)](https://open.spotify.com/track/2Rk3SdNdkxKopRotoio2iZ) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Farhan Sabri](https://open.spotify.com/artist/2S7i3wOcMLQHH6DwcMHrG9), [Ganesh Chandanshive](https://open.spotify.com/artist/59fYphinaqBfGBtrQ4p9Hv), [Mujtaba Aziz Naza](https://open.spotify.com/artist/2yxX2XZyWVBpVX3pNaG0UF), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB) | [Bajirao Mastani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HJVu7w2OoUHov9S936G5j) | 5:40 | 2021-04-06 | 2021-04-12 |
 | [Dheeme Dheeme \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/track/7ofWUKeNCUw1P64ArIwG9b) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Dheeme Dheeme \(From "Pati Patni Aur Woh"\)](https://open.spotify.com/album/7mx4WDmLj9093qoqCkeSME) | 2:57 | 2021-01-25\* | 2021-04-06 |
 | [Dhokha](https://open.spotify.com/track/2aV8nAkyt5nsWdQTruzgmJ) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Khushalii Kumar](https://open.spotify.com/artist/10shJL4t1SGF0r24bg627p) | [Dhokha](https://open.spotify.com/album/7I8VnIahW5LQ03YmifHQ1u) | 4:05 | 2022-02-21 |  |

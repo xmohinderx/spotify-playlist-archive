@@ -4,7 +4,7 @@
 
 > The electro revival with Dawn Richard.
 
-37 songs - 2 hr 11 min - not published yet
+37 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

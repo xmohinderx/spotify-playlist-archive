@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of generation next\. Cover: PGF Nuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,630,902 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,631,377 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 6 | [Brazy \(with YNW Melly\)](https://open.spotify.com/track/6wVUIV8RvwlLJlK1DsgVdj) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Brazy](https://open.spotify.com/album/5NPJChyQgOZaESCjr2EgVg) | 2:49 |
 | 7 | [Sleazy Flow](https://open.spotify.com/track/16KXRgVBoNeumVdBrWOFYf) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Sleazy Flow](https://open.spotify.com/album/4uvp5CsSTU6AMkvpFe0FyP) | 1:52 |
 | 8 | [Let's Get It \(Remix\) \[feat\. 21 Savage\]](https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Let's Get It \(Remix\) \[feat\. 21 Savage\]](https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu) | 2:36 |
-| 9 | [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [Boa Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 |
+| 9 | [Voodoo](https://open.spotify.com/track/7k57GqXkbiHWEzZ1FwVGv7) | [BOA Hunxho](https://open.spotify.com/artist/2F3LBiE1vrZao4CoBEkKG6), [BOA QG](https://open.spotify.com/artist/1urzwf2o9FcFCgcmkPgcgZ) | [Voodoo](https://open.spotify.com/album/6SnySp714y6v8OLHZQeoVX) | 2:38 |
 | 10 | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/album/0fFqPfWEy8FdDqaPzXMOLx) | 2:55 |
 | 11 | [Keeper](https://open.spotify.com/track/2DxrPZi0nxaIrGciFmErTW) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Keeper](https://open.spotify.com/album/2coZBB3PhjAsm1HMRucDwm) | 3:20 |
 | 12 | [BMF \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/121wZiInkf2n3mjvh2b6TQ) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [BMF \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3epYdUTW4wgCIxRDAYKItt) | 3:01 |

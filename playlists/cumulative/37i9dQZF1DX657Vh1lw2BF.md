@@ -4,7 +4,7 @@
 
 > استمع لافضل الأغاني العراقية! الغلاف: سيف نبيل
 
-50 songs - 3 hr 7 min - not published yet
+50 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

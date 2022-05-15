@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 156164,
       "name": "BOOSMOBIL",
       "url": "https://open.spotify.com/track/0HS5ztOkdJmUMHvJ3SudYL"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 138000,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/0cldS0yz6rgaHACgLtVhFZ"
@@ -540,6 +540,24 @@
     },
     {
       "album": {
+        "name": "D ROD",
+        "url": "https://open.spotify.com/album/1J12dbEzTyxFzCvFfGFdbq"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127103,
+      "name": "D ROD",
+      "url": "https://open.spotify.com/track/4kJXsm8QcpNxu8gkqKYp9J"
+    },
+    {
+      "album": {
         "name": "D's",
         "url": "https://open.spotify.com/album/5usCGqChw84MfT09Un7kT1"
       },
@@ -595,7 +613,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 188500,
       "name": "Dat Way",
       "url": "https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 348257,
       "name": "Family",
       "url": "https://open.spotify.com/track/59cp62rlitMBIUDvrKU4H4"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 183463,
       "name": "Flashy",
       "url": "https://open.spotify.com/track/37RQa4VeoG8jT0r6gGp5Hv"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 166383,
       "name": "Foolie",
       "url": "https://open.spotify.com/track/6Up0zYrC158RxXWmXfOBeX"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 203714,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/1D4KfeQhueV9UlLwSX5ifm"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 127400,
       "name": "GLIMPSE",
       "url": "https://open.spotify.com/track/6G7ZccpTWOv3vykTT5QuJc"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "HUMBLE",
       "url": "https://open.spotify.com/track/7eQP0yU0ChII8F4Rvlv5o8"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 148494,
       "name": "longwayhome",
       "url": "https://open.spotify.com/track/5xOVRRvIkoI6xqfSAXLMew"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 118688,
       "name": "MAKE LOVE",
       "url": "https://open.spotify.com/track/263rp1fuSHHlnQRetm2LGm"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 218709,
       "name": "NASCAR",
       "url": "https://open.spotify.com/track/02dK2GoARvsOTbqknpc0tn"
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 218709,
       "name": "NASCAR",
       "url": "https://open.spotify.com/track/4ROzAiT7TDnLNwZm1LWepl"
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 214128,
       "name": "NERD",
       "url": "https://open.spotify.com/track/4rg6TeIhQo6YvqyOk5KXUB"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 187247,
       "name": "No Difference",
       "url": "https://open.spotify.com/track/7JyLTiAS8WLD9jmvMf87iw"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 158334,
       "name": "On the Loose",
       "url": "https://open.spotify.com/track/5s8b9TuTp1omlmCDaKBI3W"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 116749,
       "name": "Places",
       "url": "https://open.spotify.com/track/43nnMCrR4KRGHgvKbEkIPx"
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 122343,
       "name": "PUSH TO START (Freestyle)",
       "url": "https://open.spotify.com/track/0xBo772kgQhitcPomUCegb"
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 182124,
       "name": "RAT RACE",
       "url": "https://open.spotify.com/track/236H3YkhvEVYG5BRMyiKr2"
@@ -2336,6 +2354,24 @@
     },
     {
       "album": {
+        "name": "Berea",
+        "url": "https://open.spotify.com/album/3ms7O7zROL5P1bisr3M0SM"
+      },
+      "artists": [
+        {
+          "name": "YTK",
+          "url": "https://open.spotify.com/artist/4QsNZ1JTLzhVSAzMxjLe7b"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124839,
+      "name": "Slackface",
+      "url": "https://open.spotify.com/track/7cMGzSYblJvvEkLBj5jVKm"
+    },
+    {
+      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/7gD0WQ13VNbVHnSTU4tGJ8"
       },
@@ -2391,7 +2427,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 160695,
       "name": "Smooth Boogie",
       "url": "https://open.spotify.com/track/6ioS9o6mALt95iHqEL1bZv"
@@ -2413,7 +2449,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 105000,
       "name": "ST NICK",
       "url": "https://open.spotify.com/track/5B7e3xE6N3c0fb8wrSgwKF"
@@ -2471,7 +2507,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 151181,
       "name": "Suttin' Special",
       "url": "https://open.spotify.com/track/4fDgQUNG3851Wnc67aK1hO"
@@ -2545,7 +2581,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 220600,
       "name": "Thank Me Later",
       "url": "https://open.spotify.com/track/28TOqrJ0tUztEu5iwl6cCH"
@@ -2563,7 +2599,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 164938,
       "name": "The Game",
       "url": "https://open.spotify.com/track/091n9MH1VUepOdhnv7SLci"
@@ -2585,7 +2621,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 160000,
       "name": "The One - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx"
@@ -2777,7 +2813,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 161000,
       "name": "U N I",
       "url": "https://open.spotify.com/track/6odyd18N74S8IJtRuVZv0Y"
@@ -2843,7 +2879,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 178306,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3Fr8ZdWpDO3e4JbMGDFUmY"
@@ -2879,7 +2915,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 86582,
       "name": "Weird",
       "url": "https://open.spotify.com/track/7fPL4TiTLgjUZU0UKFR21Q"

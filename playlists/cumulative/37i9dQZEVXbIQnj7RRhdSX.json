@@ -432,6 +432,24 @@
     },
     {
       "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201964,
+      "name": "Adesso",
+      "url": "https://open.spotify.com/track/1v1ltuBMogS2CxJUW7yCyY"
+    },
+    {
+      "album": {
         "name": "DJUNGLE",
         "url": "https://open.spotify.com/album/3v8q233zGqlp3hW7BPC8K1"
       },
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 208000,
       "name": "ANNA",
       "url": "https://open.spotify.com/track/17zj2Oli03sgcCAYc75JiO"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 175586,
       "name": "Blauer",
       "url": "https://open.spotify.com/track/47E18bCgrFTWXPFYkGnLMi"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 179653,
       "name": "Caos",
       "url": "https://open.spotify.com/track/5ychvxJuts6RyjQz2aoXqY"
@@ -2113,7 +2131,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 197247,
       "name": "CASA",
       "url": "https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ"
@@ -2578,6 +2596,24 @@
     },
     {
       "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186008,
+      "name": "Ciao Baby",
+      "url": "https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV"
+    },
+    {
+      "album": {
         "name": "Ciao Ciao",
         "url": "https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj"
       },
@@ -2719,7 +2755,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 189880,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr"
@@ -4296,6 +4332,28 @@
     },
     {
       "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160457,
+      "name": "Eclissi (feat. Neffa)",
+      "url": "https://open.spotify.com/track/2hgeR92aGWwz0ymQfwbIk8"
+    },
+    {
+      "album": {
         "name": "Untouchable",
         "url": "https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC"
       },
@@ -5780,6 +5838,24 @@
     },
     {
       "album": {
+        "name": "Goyard",
+        "url": "https://open.spotify.com/album/0CuTFVpBoXLYDy1Rvaa0JA"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164087,
+      "name": "Goyard",
+      "url": "https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH"
+    },
+    {
+      "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
       },
@@ -7003,6 +7079,54 @@
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158125,
+      "name": "Jorge Lorenzo (feat. A$AP Ferg)",
+      "url": "https://open.spotify.com/track/1MLxLeWBxUubF89EUCPjUz"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190810,
+      "name": "K.O. (feat. Coez & Marracash)",
+      "url": "https://open.spotify.com/track/7sYJw5AwPw30ZyLdvuEtg0"
     },
     {
       "album": {
@@ -9229,7 +9353,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 210953,
       "name": "Mi Fider\u00f2 (feat. Madame)",
       "url": "https://open.spotify.com/track/2V8AxW9KS5i60ccy7tXCP6"
@@ -10100,6 +10224,28 @@
     },
     {
       "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe"
+      },
+      "artists": [
+        {
+          "name": "PSICOLOGI",
+          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
+        },
+        {
+          "name": "tha Supreme",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "NLFP (feat. tha Supreme)",
+      "url": "https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf"
+    },
+    {
+      "album": {
         "name": "17 - Dark Edition",
         "url": "https://open.spotify.com/album/6nKQCH9bP1APHf83iDCjO2"
       },
@@ -10505,7 +10651,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 272869,
       "name": "NUN CE PENZ\u00c0",
       "url": "https://open.spotify.com/track/3PpgbB4N9rMu4c2FKYyANb"
@@ -10523,7 +10669,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 207741,
       "name": "NUNNEOVER",
       "url": "https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL"
@@ -10673,6 +10819,28 @@
       "duration_ms": 339249,
       "name": "Off The Grid",
       "url": "https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Venerus",
+          "url": "https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183460,
+      "name": "Ogni Volta (feat. Venerus)",
+      "url": "https://open.spotify.com/track/2ha6eUtopYCY6z19TDZk4A"
     },
     {
       "album": {
@@ -11159,7 +11327,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 182727,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/4ZPmb48JaAysD1OdQEt5LL"
@@ -11355,7 +11523,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
@@ -11646,6 +11814,28 @@
     },
     {
       "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181430,
+      "name": "Pochette (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/7px3nxEoSvAHCvAZq3r38W"
+    },
+    {
+      "album": {
         "name": "OCEANO PARADISO",
         "url": "https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m"
       },
@@ -11731,6 +11921,28 @@
       "duration_ms": 158606,
       "name": "Pornografia (Bianco Paradiso)",
       "url": "https://open.spotify.com/track/7vWjyIST4LV6AOJsI0lolL"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "Pornstar (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2r0uxpCJHJC6KDNEVNQAM2"
     },
     {
       "album": {
@@ -11862,6 +12074,24 @@
     },
     {
       "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221458,
+      "name": "Qua Con Me",
+      "url": "https://open.spotify.com/track/2wsghrfpIsEahv0UljxwOz"
+    },
+    {
+      "album": {
         "name": "Keta Music, Vol. 3",
         "url": "https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa"
       },
@@ -11917,6 +12147,24 @@
       "duration_ms": 164666,
       "name": "Quando piove",
       "url": "https://open.spotify.com/track/75Htj3fbEB5n4Kpnk61kCi"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181596,
+      "name": "Quando Sto Con Te",
+      "url": "https://open.spotify.com/track/2FLuWGIR4WwxWbdwZ0GHwd"
     },
     {
       "album": {
@@ -12199,6 +12447,24 @@
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163115,
+      "name": "Rollin' Pt. 2",
+      "url": "https://open.spotify.com/track/1Q3G8aiT6zz1SzTT1JlyF6"
     },
     {
       "album": {
@@ -12759,7 +13025,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 195923,
       "name": "SESSO OCCASIONALE",
       "url": "https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD"
@@ -12961,6 +13227,24 @@
       "duration_ms": 234532,
       "name": "Si Vince Alla Fine",
       "url": "https://open.spotify.com/track/2NtVviQbTiZ58Pyx0cZGXA"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177672,
+      "name": "Silenzio",
+      "url": "https://open.spotify.com/track/5Eay94uxOnd2XrnybXoDfm"
     },
     {
       "album": {
@@ -13191,7 +13475,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 177625,
       "name": "Sola (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/5LK1zfpswTVPO588AAw6bq"
@@ -13257,7 +13541,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 211660,
       "name": "SOLITE PARE (feat. tha Supreme & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3NbehQmQsyuN17EP7dW5mJ"
@@ -13930,6 +14214,24 @@
     },
     {
       "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
         "name": "ORO BLU",
         "url": "https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U"
       },
@@ -14347,6 +14649,28 @@
       "duration_ms": 202855,
       "name": "Too Old To Die Young",
       "url": "https://open.spotify.com/track/4shPBGnWjoKx17CrTrixnN"
+    },
+    {
+      "album": {
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191202,
+      "name": "Top (feat. MadMan)",
+      "url": "https://open.spotify.com/track/2aH4Ec7vu87IeXFrtjtR17"
     },
     {
       "album": {
@@ -14929,7 +15253,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
@@ -15709,7 +16033,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-15",
       "duration_ms": 174216,
       "name": "X6 (feat. BIA)",
       "url": "https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG"

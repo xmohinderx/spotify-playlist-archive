@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Shkoon & Ragheb Alama.
 
-49 songs - 3 hr 15 min - not published yet
+49 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

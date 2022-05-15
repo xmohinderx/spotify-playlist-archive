@@ -4,7 +4,7 @@
 
 > Jungle is still massive
 
-89 songs - 7 hr 28 min - not published yet
+89 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

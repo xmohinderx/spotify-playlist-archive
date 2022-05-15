@@ -4,7 +4,7 @@
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/4I1tHZ9VgAFZYFBmOwNU7i)
+74 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/4I1tHZ9VgAFZYFBmOwNU7i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Gal Ting \- Remix](https://open.spotify.com/track/2SEZTPBqXBfsimqx66lfNl) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Gal Ting \(Remix\)](https://open.spotify.com/album/5BWZkwc7LWDSHTa7bxWnoH) | 2:55 | 2021-12-28 |  |
 | [Gaza](https://open.spotify.com/track/2bm3xKzPQcg6KzyJHTwrk1) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Gaza](https://open.spotify.com/album/649OPfRLyt6r7b8MHDvZkk) | 2:47 | 2021-12-28 | 2022-01-20 |
 | [Girlie 'O' \- Remix](https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Girlie 'O' \(Remix\)](https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4) | 3:55 | 2021-12-28 |  |
-| [Girls](https://open.spotify.com/track/509woaokKvDfZIyt5lxCrJ) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Girls](https://open.spotify.com/album/3oqIdStQ3DiR0g3Ne5KJzt) | 3:37 | 2021-12-28 |  |
+| [Girls](https://open.spotify.com/track/509woaokKvDfZIyt5lxCrJ) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Girls](https://open.spotify.com/album/3oqIdStQ3DiR0g3Ne5KJzt) | 3:37 | 2021-12-28 | 2022-05-15 |
 | [Girls Dem](https://open.spotify.com/track/2zXALsJFKguDSbGZK6i1mB) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:29 | 2022-05-10 | 2022-05-12 |
 | [Go Crazy](https://open.spotify.com/track/5ZEyOWZ3MTkLXyfMmgybID) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:25 | 2021-12-28 |  |
 | [Hale Hale](https://open.spotify.com/track/2iSeKtlHJAc9COUxZ5f57p) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR) | 3:28 | 2021-12-28 | 2022-02-13 |
@@ -45,6 +45,7 @@
 | [In My Head](https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [In My Head](https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1) | 3:14 | 2021-12-28 | 2022-05-12 |
 | [Jah Eli Jah](https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jah Eli Jah](https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4) | 3:53 | 2022-05-08 |  |
 | [Jama](https://open.spotify.com/track/4dskoEQk5pAg9HKyEC2m1y) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Shaker](https://open.spotify.com/artist/7ArAbdLBhHHZbkJI4cfndo) | [Jama](https://open.spotify.com/album/0jAZGDBm9i8MoD5AENa1xQ) | 3:54 | 2021-12-28 |  |
+| [Jericho](https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol\. 1](https://open.spotify.com/album/0DfMhXwJEtsRauBcpb2rz7) | 3:15 | 2022-05-14 |  |
 | [Katika \(Coke Studio Africa\)](https://open.spotify.com/track/5BOuo9YApuhIMiNXhERwy0) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Katika \(Coke Studio Africa\)](https://open.spotify.com/album/4CpIInNMD9r5Pnhzv64uPU) | 3:49 | 2022-03-31 |  |
 | [Killing Me](https://open.spotify.com/track/2XEIz6MxIuQ1pkWMwKzNAz) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR) | 3:14 | 2022-01-26 | 2022-01-28 |
 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 | 2021-12-28 |  |
