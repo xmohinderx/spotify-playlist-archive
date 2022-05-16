@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 250893,
       "name": "A Pain That I'm Used To",
       "url": "https://open.spotify.com/track/2G2PdkATB8EADrjHhXQuPP"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 228906,
       "name": "Ain't No Other Man",
       "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "Beat Of My Heart",
       "url": "https://open.spotify.com/track/4tglB1pOtnay3gN2F8ma7T"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 195266,
       "name": "Ce La far\u00f2",
       "url": "https://open.spotify.com/track/5QOmCiOPdbUSs3eO9yLroy"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 239960,
       "name": "Deja Vu (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/1E84SRUQzCOYjEXTIU9alA"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 186173,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/5xT8JXJSyHYNfC11OFqzFL"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 242067,
       "name": "Lovelight",
       "url": "https://open.spotify.com/track/7GWoMZsG9tM3p6xm0qgjGl"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 202120,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/20clYcstbr3UNhEfURTmCm"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 259493,
       "name": "Oh! What a Girl!",
       "url": "https://open.spotify.com/track/3KlLUHWrp8q57SWMv2xHfw"
@@ -1447,10 +1447,28 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 225320,
       "name": "Runaway - Remastered",
       "url": "https://open.spotify.com/track/5tQKprSOVVvADqldAJVYzI"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2020-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235666,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "album": {
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 214386,
       "name": "U + Ur Hand",
       "url": "https://open.spotify.com/track/7klL6qvAu4ZzthaUzLvtIN"
@@ -2075,7 +2093,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 202133,
       "name": "When The Sun Goes Down",
       "url": "https://open.spotify.com/track/2zzLRQ78kKfPTx8FJQCdC2"

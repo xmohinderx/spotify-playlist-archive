@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-80 songs - 4 hr 46 min - not published yet
+80 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

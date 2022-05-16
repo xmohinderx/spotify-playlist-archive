@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -3517,7 +3517,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
@@ -3711,7 +3711,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 148942,
       "name": "C\u00c9C\u00c9",
       "url": "https://open.spotify.com/track/4ATYrVSikxoK0QRXNjm0TL"
@@ -5443,7 +5443,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
@@ -5983,7 +5983,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 222497,
       "name": "Father Time (feat. Sampha)",
       "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
@@ -9127,7 +9127,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 185843,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/75UUG6x5zQe0gCVOiQpa6X"
@@ -10644,6 +10644,28 @@
     },
     {
       "album": {
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/6UWMCDLupfBDXi7jx7qVIe"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185437,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/3QY5JrK6MU3ebwlvQ0iniO"
+    },
+    {
+      "album": {
         "name": "LEBENSLANG (HBz Remix)",
         "url": "https://open.spotify.com/album/1jW5P0yu4tE2EUwJWNkfRs"
       },
@@ -11793,7 +11815,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 144621,
       "name": "Manila",
       "url": "https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP"
@@ -15365,7 +15387,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 202285,
       "name": "Rich Spirit",
       "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
@@ -15479,6 +15501,24 @@
       "duration_ms": 212706,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/48QdusJrsBgEPENzFVJgS0"
+    },
+    {
+      "album": {
+        "name": "Anonymous Colonist (Rockstars Edition)",
+        "url": "https://open.spotify.com/album/5AblHx3VwGHzVkT5Kb6Ac2"
+      },
+      "artists": [
+        {
+          "name": "Malik Harris",
+          "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179706,
+      "name": "Rockstars",
+      "url": "https://open.spotify.com/track/0LTn3UoaJkL42ltlGwWMxC"
     },
     {
       "album": {
@@ -17149,7 +17189,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -17399,7 +17439,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
@@ -18235,7 +18275,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 162992,
       "name": "TRY AGAIN",
       "url": "https://open.spotify.com/track/6C9wfu74gVjO1ZyuVf6qAk"
@@ -18545,7 +18585,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 255377,
       "name": "United In Grief",
       "url": "https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx"
@@ -18713,7 +18753,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 147987,
       "name": "Vay Vay",
       "url": "https://open.spotify.com/track/0D0t9EepacnmKLRaUGlxzA"
@@ -19123,7 +19163,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 158114,
       "name": "Vorbei",
       "url": "https://open.spotify.com/track/6Dk974JfMh1GF1ISD9TTw0"
@@ -20179,7 +20219,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 203367,
       "name": "Worldwide Steppers",
       "url": "https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d"

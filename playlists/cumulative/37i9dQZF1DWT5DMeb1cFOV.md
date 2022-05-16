@@ -4,7 +4,7 @@
 
 > Per trovare il buonumore, anche a lavoro!
 
-69 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/4tQ1YExJ1a3RvREbSdk0fe)
+70 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/4tQ1YExJ1a3RvREbSdk0fe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,12 +15,12 @@
 | [Better Tomorrow](https://open.spotify.com/track/758QzANWjOWaBnVW9DAZXx) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Better Tomorrow](https://open.spotify.com/album/6MxlZlomIGtoGQG7882ynk) | 3:01 | 2022-04-13 |  |
 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 | 2022-04-13 |  |
 | [Call Me Maybe](https://open.spotify.com/track/6pDfipCmDcftSSylg3BXj7) | [Plain Simple](https://open.spotify.com/artist/0XUcGC1QHkYmsVInVDjFad) | [Call Me Maybe](https://open.spotify.com/album/3iQeXzGeBiPYGoweNfxDpW) | 3:31 | 2022-04-13 |  |
-| [cheap sunglasses](https://open.spotify.com/track/4E94u3v7VnEFZkaRIYtad7) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [cheap sunglasses](https://open.spotify.com/album/0zyZJQmAJqsthlxKNNR8Cp) | 3:19 | 2022-04-13 |  |
+| [cheap sunglasses](https://open.spotify.com/track/4E94u3v7VnEFZkaRIYtad7) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [cheap sunglasses](https://open.spotify.com/album/0zyZJQmAJqsthlxKNNR8Cp) | 3:19 | 2022-04-13 | 2022-05-16 |
 | [Crocodile Tears \(feat\. Jens Hult\)](https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Crocodile Tears \(feat\. Jens Hult\)](https://open.spotify.com/album/1Dgk26akkLrvGSsGdm2jH4) | 3:38 | 2022-04-13 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/1FHNctV68GUNLgXclG2DtR) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Dancing In The Moonlight: The Best Of Toploader](https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9) | 3:53 | 2022-04-13 | 2022-05-13 |
 | [Don't Leave Me Now](https://open.spotify.com/track/59VDjcpB2I8psQasslQpdK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Cup Of Beats](https://open.spotify.com/album/3o96h0leYDLyIlGFpucPEF) | 3:15 | 2022-04-13 |  |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2022-04-13 |  |
-| [Drunk Enough To](https://open.spotify.com/track/1cgvB6KaL16ibyrJHhZeG0) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:18 | 2022-04-13 | 2022-05-15 |
+| [Drunk Enough To](https://open.spotify.com/track/1cgvB6KaL16ibyrJHhZeG0) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:18 | 2022-04-13 |  |
 | [Fire](https://open.spotify.com/track/7pnIRW5ogQJTcFpFlm26il) | [CATALI](https://open.spotify.com/artist/2ipghnxuCFGDiMUHcRJHmG) | [Fire](https://open.spotify.com/album/3eqyQJKaccx0FffDwrfnDo) | 3:11 | 2022-04-13 |  |
 | [Flags](https://open.spotify.com/track/2RZ8SjEJYJHZ8YCUzls77w) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Flags](https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9) | 3:36 | 2022-04-13 |  |
 | [Following The Sun](https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Neeka](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following The Sun](https://open.spotify.com/album/2ZcEETOWlcn0tLqHpnDTXZ) | 3:26 | 2022-04-13 |  |
@@ -42,10 +42,11 @@
 | [Lose Somebody](https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:19 | 2022-04-13 |  |
 | [Love It or Hate It](https://open.spotify.com/track/5BLjDjivsTx3GaIHppAIti) | [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [Hadar Sopher](https://open.spotify.com/artist/4ept0xjPF374lsJA76Y4rU) | [Love It or Hate It](https://open.spotify.com/album/6PZ5CyxqE2uCJnqD8Cvb94) | 2:30 | 2022-04-13 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-04-13 |  |
-| [Love On Display](https://open.spotify.com/track/4kdar6ZbJg3lT0rVVNsUyv) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Love On Display](https://open.spotify.com/album/1qRaP04UbnvSHdLMHfmDbv) | 3:03 | 2022-04-13 | 2022-05-14 |
+| [Love On Display](https://open.spotify.com/track/4kdar6ZbJg3lT0rVVNsUyv) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Love On Display](https://open.spotify.com/album/1qRaP04UbnvSHdLMHfmDbv) | 3:03 | 2022-04-13 |  |
 | [Magical](https://open.spotify.com/track/5iijzEM5oz3NEVODoGSWnk) | [The Tangram](https://open.spotify.com/artist/0j7bjnvwgCxfFklJFULrQN) | [Magical](https://open.spotify.com/album/7gE88p87SosRJOJhKgsY25) | 3:40 | 2022-04-13 |  |
 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 | 2022-04-13 |  |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2022-04-13 |  |
+| [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2022-04-13 |  |
 | [My 100](https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [My 100](https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm) | 2:53 | 2022-04-13 |  |
 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 | 2022-04-13 |  |
 | [Nobody's Love](https://open.spotify.com/track/3kwgqoBqTwoAH4nT29TYrq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Nobody's Love](https://open.spotify.com/album/2cDt5R89HP8ZCXhNAmZs27) | 3:31 | 2022-04-13 |  |
@@ -74,8 +75,8 @@
 | [Weekend Vibe](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Weekend Vibe](https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR) | 2:46 | 2022-04-13 |  |
 | [Who's Laughing Now](https://open.spotify.com/track/73h4oe03sZy8bXfQLfnqMv) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Who's Laughing Now](https://open.spotify.com/album/4mxU9BZA47n0hZbQ220Q5B) | 3:00 | 2022-04-13 |  |
 | [Why So Serious](https://open.spotify.com/track/50tGR9MkWXug4dCvshHo8s) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Why So Serious](https://open.spotify.com/album/11hecjvc4fhgngamOIxdXW) | 3:43 | 2022-04-13 |  |
-| [Wild Ones \- Nightcall Remix](https://open.spotify.com/track/5rUTxVxfvEA4wdEecWm7el) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn) | [Wild Ones \(Nightcall Remix\)](https://open.spotify.com/album/1OczM3udGYiO41hJtwFIwB) | 2:57 | 2022-04-13 |  |
-| [Wonderful Life](https://open.spotify.com/track/1C0bWhNWIF3yBdjNh4GlCT) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Ultimate Collection](https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u) | 4:04 | 2022-04-13 |  |
+| [Wild Ones \- Nightcall Remix](https://open.spotify.com/track/5rUTxVxfvEA4wdEecWm7el) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn) | [Wild Ones \(Nightcall Remix\)](https://open.spotify.com/album/1OczM3udGYiO41hJtwFIwB) | 2:57 | 2022-04-13 | 2022-05-16 |
+| [Wonderful Life](https://open.spotify.com/track/1C0bWhNWIF3yBdjNh4GlCT) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Ultimate Collection](https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u) | 4:04 | 2022-04-13 | 2022-05-16 |
 | [Would You](https://open.spotify.com/track/0nAdgG5EoHVOVi8tmIF7cq) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom \(Extended, Pt\. 1\)](https://open.spotify.com/album/56s1eNqK4UU3MOq4tnGcrm) | 3:01 | 2022-04-13 | 2022-05-14 |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

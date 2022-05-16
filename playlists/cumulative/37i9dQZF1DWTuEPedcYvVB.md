@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch on Netflix
 
-46 songs - 2 hr 40 min - not published yet
+46 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/6cWvUONQFP4knU09puj0L3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

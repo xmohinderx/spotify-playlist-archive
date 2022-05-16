@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,320 likes - 124 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,364 likes - 124 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

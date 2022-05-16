@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,125 likes - 107 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,130 likes - 107 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [Good Vibes](https://open.spotify.com/track/0S1xJLVhru1bOJH4EX0zcI) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Good Vibes](https://open.spotify.com/album/6Y8HkkS42PW6VRCDx7ajnP) | 3:32 |
 | 73 | [spinning](https://open.spotify.com/track/6ZffiEv3Y2eFHktlBBzyyY) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [spinning](https://open.spotify.com/album/3YwzAmxWhq1ojlXPLxqEMN) | 2:27 |
 | 74 | [Please Don't Remind Me](https://open.spotify.com/track/0CPWvdi2v3R249MzAVp1Js) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5), [Rodney Chrome](https://open.spotify.com/artist/5JHp5xNavhkQek484yr3qd) | [Please Don't Remind Me](https://open.spotify.com/album/2k3UMxaxYBoQ70paCFaX7t) | 2:03 |
-| 75 | [Go \(feat\. Loski & Russ Millions\)](https://open.spotify.com/track/4OMMyboFDIWObz2kI7lX0d) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Go \(feat\. Loski & Russ Millions\)](https://open.spotify.com/album/5h8ItiIzV9daZKV4vxmSvZ) | 3:00 |
+| 75 | [go \(feat\. Loski & Russ Millions\)](https://open.spotify.com/track/4OMMyboFDIWObz2kI7lX0d) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [go \(feat\. Loski & Russ Millions\)](https://open.spotify.com/album/5h8ItiIzV9daZKV4vxmSvZ) | 3:00 |
 | 76 | [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/track/1w4zc04CreWVxEmljzeykK) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/album/1Ez46n26k39YixXE5N9Dyq) | 2:07 |
 | 77 | [Härligt](https://open.spotify.com/track/3xFFkeJ4a9GN6MOGwNd52S) | [Frej Larsson](https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [Härligt](https://open.spotify.com/album/2u3ZzCUuZThkFUpS8mC3hU) | 1:39 |
 | 78 | [Younger](https://open.spotify.com/track/5VehjO5iZZ9iitRbTt9P69) | [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id) | [Younger](https://open.spotify.com/album/14ZHCYhVN0B2dzY8GVISWO) | 3:06 |

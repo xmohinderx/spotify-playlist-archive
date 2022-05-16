@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-71 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+71 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [PWR](https://open.spotify.com/track/3WvMhuycIu1eTBK7ECjtju) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [PWR](https://open.spotify.com/album/0I1DgHpjORnVm4HpDYRvCG) | 2:44 | 2022-05-13 |  |
 | [Radar](https://open.spotify.com/track/1djoRrseUF5KsdgOQeArmO) | [Lekota](https://open.spotify.com/artist/4DXQ3UFHciEdLjwwJe3gEU) | [Radar](https://open.spotify.com/album/5ur625TMdgqvNQdVYq4DmY) | 3:24 | 2022-04-29 | 2022-05-14 |
 | [Relax](https://open.spotify.com/track/3mSNJxKToHeSuI7Dbw4N62) | [PEACE MAKER!](https://open.spotify.com/artist/5L0wOxjuK5GaS1T90yNmmg), [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Relax EP](https://open.spotify.com/album/6YZckt6BZiSkzXgxc2jfaq) | 3:23 | 2022-04-28 | 2022-05-14 |
-| [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 4:42 | 2022-05-13 |  |
+| [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-05-13 |  |
 | [Rover Grover](https://open.spotify.com/track/6YiUwCBQMlOUFwNXBU4wfV) | [Kramder](https://open.spotify.com/artist/0zE8RK1Xe0w3PEJC5WUVlQ) | [Rover Grover](https://open.spotify.com/album/31bbluK8eO1yP0JHOkbZNE) | 3:18 | 2022-04-29 | 2022-05-14 |
 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 | 2022-05-13 |  |
 | [Shake That](https://open.spotify.com/track/21ePtRGoi3a3Q8ES2JEj2n) | [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [Shake That](https://open.spotify.com/album/4yIX9U9bLgtZycBbBUtnH4) | 2:49 | 2022-05-01 | 2022-05-14 |

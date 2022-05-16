@@ -4,7 +4,7 @@
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-50 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
+50 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Smalltown Boy](https://open.spotify.com/track/0FrCX7P2C2hcRTcuhjEvK4) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age Of Consent](https://open.spotify.com/album/7sJwidjwY9gt44I1AioyKm) | 5:03 | 2021-06-01 |  |
 | [Stars On 45 \- Original Single Edit](https://open.spotify.com/track/59BkBWQitTPgS1inzGfyI5) | [Stars On 45](https://open.spotify.com/artist/4r8b3Hr0AMhzhAg75le0Gx) | [Stars On 45](https://open.spotify.com/album/01fV4K8TiFQTsAn7P8ipWr) | 4:46 | 2021-06-01 |  |
 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 | 2021-06-01 |  |
-| [Think It Over](https://open.spotify.com/track/09HKieZL31JLWTb2s5tm6I) | [Cissy Houston](https://open.spotify.com/artist/4QYDxx5VDqINxMtUapyF9q) | [Think It Over](https://open.spotify.com/album/477ByKrt9WjP3DOmVi9oTQ) | 8:03 | 2021-06-01 |  |
+| [Think It Over](https://open.spotify.com/track/09HKieZL31JLWTb2s5tm6I) | [Cissy Houston](https://open.spotify.com/artist/4QYDxx5VDqINxMtUapyF9q) | [Think It Over](https://open.spotify.com/album/477ByKrt9WjP3DOmVi9oTQ) | 5:54 | 2021-06-01 |  |
 | [Victim Of Love \- Remastered](https://open.spotify.com/track/151LVGGcVL0RZJPBh1SIxn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:22 | 2021-06-01 |  |
 | [Xanadu](https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45) | 3:28 | 2021-06-01 |  |
 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [The Collection & Tracklisting](https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq) | 4:33 | 2021-06-01 |  |

@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-187 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
+187 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Remember Me](https://open.spotify.com/track/6miku1r04c7k6Si5YsPBQV) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Remember Me](https://open.spotify.com/album/625yDsem91i2TTG029lreQ) | 4:18 | 2022-03-11 |  |
 | [Ride With Me](https://open.spotify.com/track/23R3csDLEeDUkxuas66ECG) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Ride With Me](https://open.spotify.com/album/5hSPTMOJn2XATqYl7l14vc) | 2:52 | 2022-04-01 |  |
 | [RIP](https://open.spotify.com/track/17dPQMxsqyWBlNI9mSyAmu) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [RIP](https://open.spotify.com/album/6vpLOIEk5TgMGHIk3OEfC5) | 3:42 | 2022-04-29 |  |
-| [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 4:42 | 2022-05-13 |  |
+| [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-05-13 |  |
 | [Roll The Dice](https://open.spotify.com/track/3kGAV0R2L8epxVr7FQ5Wpv) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Roll The Dice](https://open.spotify.com/album/2AZ4Obu4mSxijQjXnt1s68) | 4:08 | 2022-03-04 |  |
 | [Safe With Me \(feat\. Drew Love\) \- Damon Sharpe Remix](https://open.spotify.com/track/5Rk566CzADj0SeEcgoxRFK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [Safe With Me \(Damon Sharpe Remix\) \(feat\. Drew Love\)](https://open.spotify.com/album/4CE3KhA4q2GwuCfIBwTSG6) | 2:21 | 2022-01-14 | 2022-02-26 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-04-29 |  |

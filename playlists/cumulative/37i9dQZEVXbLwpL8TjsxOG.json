@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -4055,7 +4055,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 195424,
       "name": "\u4e00\u4eba\u4e4b\u5883 in C major",
       "url": "https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7"
@@ -4376,6 +4376,24 @@
     },
     {
       "album": {
+        "name": "\u4fe1\u4e4b\u5377",
+        "url": "https://open.spotify.com/album/3RNW4B6DQWb8Bbbq2jCQaP"
+      },
+      "artists": [
+        {
+          "name": "Anson Kong \u6c5f\ud851\udcb9\u751f",
+          "url": "https://open.spotify.com/artist/6siCKQcv9mZOQRGPvee8Bp"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274667,
+      "name": "\u4fe1\u4e4b\u5377",
+      "url": "https://open.spotify.com/track/43AAdQfc9dodfuxkcKMZo3"
+    },
+    {
+      "album": {
         "name": "\u5047\u4f7f\u4e16\u754c\u539f\u4f86\u4e0d\u50cf\u4f60\u9810\u671f",
         "url": "https://open.spotify.com/album/1uIlhInRyOcam9TjlEiGP8"
       },
@@ -4485,6 +4503,24 @@
       "duration_ms": 284000,
       "name": "\u51e1\u661f (\u5929\u661f\u9280\u884cairstar\u97f3\u6a02\u5287\u5834\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf"
+    },
+    {
+      "album": {
+        "name": "\u521d\u6200",
+        "url": "https://open.spotify.com/album/3osmGX8eBAPlyeyQsYWUag"
+      },
+      "artists": [
+        {
+          "name": "Mike \u66fe\u6bd4\u7279",
+          "url": "https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "\u521d\u6200",
+      "url": "https://open.spotify.com/track/1gGgVV7kyte91NOurgCbPo"
     },
     {
       "album": {

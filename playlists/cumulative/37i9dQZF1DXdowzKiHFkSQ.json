@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 211960,
       "name": "Come with Me Now",
       "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 171533,
       "name": "First Date",
       "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 169026,
       "name": "Go Big Or Go Home",
       "url": "https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG"
@@ -1016,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/0mekXZokDUu9QCWbzhDhRx"
+      },
+      "artists": [
+        {
+          "name": "Electric Six",
+          "url": "https://open.spotify.com/artist/4xNadaO5ZZLVJdqDIVVIua"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258133,
+      "name": "I'm The Bomb",
+      "url": "https://open.spotify.com/track/0IEhPAlPDFRy7Wzpm7NOie"
+    },
+    {
+      "album": {
         "name": "Weezer (Green Album)",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 186333,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0X3hugLvdxVmenwgCgKpCZ"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 221173,
       "name": "Radiation Vibe",
       "url": "https://open.spotify.com/track/3XApt3UvXtv8y9S6DrAxCL"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-11",
+      "date_removed": null,
       "duration_ms": 283366,
       "name": "The Bliss",
       "url": "https://open.spotify.com/track/3jBxuyTAmkliaV09qYOwTo"

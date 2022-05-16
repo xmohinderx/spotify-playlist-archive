@@ -4,7 +4,7 @@
 
 > No sleep, bus, club, another club\. Like this? You'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover: AleXa
 
-124 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+125 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-02-15 |  |
 | [Seasons](https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Seasons](https://open.spotify.com/album/2YxdLseWJW7VAz1jb3YPcI) | 2:43 | 2022-05-13 |  |
 | [Show Me Love](https://open.spotify.com/track/0a7ECrkynDauNbc6wQ6ilz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Show Me Love](https://open.spotify.com/album/48cv2VaUhc8RoLk0oaARrn) | 2:33 | 2022-02-15 | 2022-05-07 |
-| [Slow / Love to Love You Baby \- From the Infinite Disco Livestream](https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ) | 3:13 | 2022-04-15 |  |
+| [SloMo \- Eurovision's Dancebreak Edit](https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo \(Eurovision's Dancebreak Edit\)](https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA) | 3:00 | 2022-05-15 |  |
+| [Slow / Love to Love You Baby \- From the Infinite Disco Livestream](https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ) | 3:13 | 2022-04-15 | 2022-05-16 |
 | [Something in Your Eyes](https://open.spotify.com/track/72QFaPZ6UETDfWU5NR3D0W) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/1DcWbwQxPayKv0pcpbNEbA) | 3:01 | 2022-02-15 |  |
 | [Sooner Or Later](https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sooner Or Later](https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt) | 3:20 | 2022-02-15 |  |
 | [Stupid Boy \(feat\. Big Freedia\)](https://open.spotify.com/track/56P7blUafQK9P8LKda9Y6P) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Stupid Boy \(feat\. Big Freedia\)](https://open.spotify.com/album/759tt2Z0PhIjKDEmbEVswM) | 3:52 | 2022-02-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Poland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,890 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,967 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 | 49 | [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1) | [Męskie Granie Orkiestra 2021](https://open.spotify.com/artist/5xoXMR6Y8PORwObvyND9ZE), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/album/01018kIpMNDTe0WrYornLN) | 3:29 |
 | 50 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 |
 
-Snapshot ID: `NzA1ODQyNzYyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzA1OTMwNTI3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

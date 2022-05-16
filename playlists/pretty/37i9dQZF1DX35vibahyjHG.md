@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M?si=NUBee52kRqWz9dHI1vbIbw"> Zuchu </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,319 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,326 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

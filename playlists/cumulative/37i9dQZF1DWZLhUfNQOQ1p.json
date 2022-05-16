@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 222590,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/1Bt0UAApn7Oxdam3lQs1vo"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 319677,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 348682,
       "name": "It's Not Over",
       "url": "https://open.spotify.com/track/3Wwb6lBoMKXTPoB5xdmI7S"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 164078,
       "name": "Love Me - GAMPER & DADONI Remix",
       "url": "https://open.spotify.com/track/3EbedhPLDbDyRbdI0UoOh6"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 174260,
       "name": "Miracle In The Middle Of My Heart",
       "url": "https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 212910,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 271306,
       "name": "Nicaraguan Dream",
       "url": "https://open.spotify.com/track/2NQ6In9ja7fBeBI9ADmMWB"
@@ -984,6 +984,28 @@
     },
     {
       "album": {
+        "name": "Say A Little Prayer",
+        "url": "https://open.spotify.com/album/29wjFumxzTTscOFSJgeGsB"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "POLINA",
+          "url": "https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186536,
+      "name": "Say A Little Prayer",
+      "url": "https://open.spotify.com/track/2VSCcSLiISjz8tZHi4ieNf"
+    },
+    {
+      "album": {
         "name": "Slow Me Down",
         "url": "https://open.spotify.com/album/6AFWVzpTt1EqlpCBGqAavI"
       },
@@ -1013,7 +1035,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 277254,
       "name": "Slow Move",
       "url": "https://open.spotify.com/track/2q49xqQnNrm5pX9VOWGyaX"
@@ -1053,6 +1075,24 @@
       "duration_ms": 172124,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp"
+    },
+    {
+      "album": {
+        "name": "Summer Crush",
+        "url": "https://open.spotify.com/album/0yIpx6waKvmtfbotLbbeO7"
+      },
+      "artists": [
+        {
+          "name": "Maiwan",
+          "url": "https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160519,
+      "name": "Summer Crush",
+      "url": "https://open.spotify.com/track/5g9EIVLc8vm5H47dpEXFfE"
     },
     {
       "album": {
@@ -1309,7 +1349,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 235549,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
@@ -1381,7 +1421,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 223769,
       "name": "Where's My Love - Tropical Mix",
       "url": "https://open.spotify.com/track/30XrUbnBpaX813Kvti3Hmn"

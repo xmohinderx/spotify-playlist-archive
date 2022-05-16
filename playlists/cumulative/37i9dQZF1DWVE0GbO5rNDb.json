@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 191008,
       "name": "About to Rise",
       "url": "https://open.spotify.com/track/3YSZOxK0KWsH91kbTvlNvp"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 169901,
       "name": "Closer (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 189919,
       "name": "Emily",
       "url": "https://open.spotify.com/track/1iBRYT9Tq6v3qEqGL1wdtn"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 184390,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/6viAMV0RuBb5nmzpPlYMAJ"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 208505,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 131217,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/0G3E42efyWKiLLHF3yLdAm"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 182053,
       "name": "I Ain't Going Home",
       "url": "https://open.spotify.com/track/0v2WYRV8MSoFDlxTuSYp3Y"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 167307,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "I'm in love",
       "url": "https://open.spotify.com/track/2Rfy50UpGrTN43GmSpn5A1"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 258325,
       "name": "It Ain't Right",
       "url": "https://open.spotify.com/track/49N9JxFP9SerCK9XdQVAiY"
@@ -1325,6 +1325,28 @@
       "duration_ms": 166750,
       "name": "Let the Sun Shine - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED"
+    },
+    {
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/1OSNncFtXpvRdzatk0TEjM"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196188,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/7I5XQpe29kmU86T37nhJip"
     },
     {
       "album": {
@@ -1567,7 +1589,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 182160,
       "name": "Need You",
       "url": "https://open.spotify.com/track/0EQeui6OBMzqJ3Z3wCOzZh"
@@ -1589,7 +1611,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 181741,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu"
@@ -1777,7 +1799,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 174584,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/76XfhJUwsSxG7VTI7zbRXW"
@@ -2247,7 +2269,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 145920,
       "name": "Steady for You",
       "url": "https://open.spotify.com/track/4d1itg8OaWVQ2e1xTnqGVy"
@@ -2401,7 +2423,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
@@ -2471,7 +2493,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 135507,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6"
@@ -2537,7 +2559,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 213040,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
@@ -2769,7 +2791,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 149032,
       "name": "Zookey 2021 (feat. Roland Richards)",
       "url": "https://open.spotify.com/track/2Q3hNa3KnynBpSNWHwzAaC"

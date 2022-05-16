@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-14",
   "description": "Feels like falling in love in the 50s ",
   "name": "Black & White Flick",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "71EBeOlWC7ZeNvRW4kIx3E"
+  ],
   "tracks": [
     {
       "album": {
@@ -25,6 +27,24 @@
       "duration_ms": 167906,
       "name": "Again (with The Mellomen)",
       "url": "https://open.spotify.com/track/0qB213IfGN0JXXm9aRjldF"
+    },
+    {
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "album": {
@@ -248,6 +268,24 @@
     },
     {
       "album": {
+        "name": "Bobby Vinton's Greatest Hits",
+        "url": "https://open.spotify.com/album/4tC7O5QfQt7Frk2IqHSeJ8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "I Love You the Way You Are",
+      "url": "https://open.spotify.com/track/39NrjF31xeQSYLWcKmX9oq"
+    },
+    {
+      "album": {
         "name": "Flamingo Serenade",
         "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
       },
@@ -375,7 +413,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 181666,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/3HZMEIZY9Z6GdhPaG5bAK2"
@@ -653,7 +691,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 202640,
       "name": "Seule ce soir",
       "url": "https://open.spotify.com/track/15OTlXh9UjlRxaZTFtzhJ5"
@@ -725,7 +763,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 161466,
       "name": "Sometime Remind Me To Tell You",
       "url": "https://open.spotify.com/track/1uzcRavSRDODbcFLlRmbbU"
@@ -761,7 +799,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 140533,
       "name": "Tears on My Pillow",
       "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
@@ -819,7 +857,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
@@ -837,7 +875,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 189700,
       "name": "There, I've Said It Again",
       "url": "https://open.spotify.com/track/6X5VTo4rH1rAfxivxomvoQ"
@@ -859,7 +897,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 279733,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/094P9Go47bQKJ5Do15lt69"
@@ -935,10 +973,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 195560,
       "name": "We Have All The Time In The World - Remastered",
       "url": "https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr"
+    },
+    {
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF"
     },
     {
       "album": {
@@ -1025,7 +1081,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"

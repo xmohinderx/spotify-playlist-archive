@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJNSeeHswcKB.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,704 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,742 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJNSeeHswcKB.md) - [plain]
 | 49 | [Go, Acid! \- Used Remix](https://open.spotify.com/track/6phZ9iQDWrB11ZPRjNDdNS) | [Acid](https://open.spotify.com/artist/7sPuUjxDOno03iDn7mDVTf), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Apson](https://open.spotify.com/artist/5pAHg4MtVKpCbuMHaX7lbJ) | [Go, Acid! \(Used Remix\)](https://open.spotify.com/album/1DyL8UnRES5UU7IfR2zXly) | 2:52 |
 | 50 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
 
-Snapshot ID: `NzA1ODQyNzYyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzA1OTMwNTI4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-14",
   "description": "A selection of the greatest funk & soul records ever made.",
   "name": "Funk & Soul Classics",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2AjOW6a9C9C9LSslZhQe3k"
+  ],
   "tracks": [
     {
       "album": {
@@ -154,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Barefootin'",
+        "url": "https://open.spotify.com/album/2aTwb9Xmn4EdFyGwgjxuQL"
+      },
+      "artists": [
+        {
+          "name": "Robert Parker",
+          "url": "https://open.spotify.com/artist/7FlUCXHUxNEOk2exJUiqp1"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157172,
+      "name": "Barefootin'",
+      "url": "https://open.spotify.com/track/0VwK5pLjwFPy8FSEC1htp9"
+    },
+    {
+      "album": {
         "name": "Hey Girl Don't Bother Me: The Best Of The Tams",
         "url": "https://open.spotify.com/album/2COE1qD4bhIepkyya8z5vQ"
       },
@@ -183,7 +203,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 251400,
       "name": "Brothers On The Slide",
       "url": "https://open.spotify.com/track/6cBhKpoE1GNqEtwqGScyBy"
@@ -824,6 +844,24 @@
     },
     {
       "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "album": {
         "name": "Pieces Of A Man",
         "url": "https://open.spotify.com/album/3HsWjdL2LBJfgHlDFJthHL"
       },
@@ -961,10 +999,28 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
+    },
+    {
+      "album": {
+        "name": "Mr. Big Stuff",
+        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
+      },
+      "artists": [
+        {
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
     },
     {
       "album": {
@@ -979,7 +1035,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 211920,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/5lE04QME0R4RNjepkflBJa"
@@ -1015,7 +1071,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 318800,
       "name": "People Say",
       "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
@@ -1123,7 +1179,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 142693,
       "name": "Sliced Tomatoes",
       "url": "https://open.spotify.com/track/4AxrlOlmlKducWdz18bLYB"
@@ -1141,7 +1197,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 167426,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2"
@@ -1397,7 +1453,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 194866,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/4Lv1bzAvoAeroCGiUUGZ9w"
@@ -1419,6 +1475,24 @@
       "duration_ms": 203013,
       "name": "The Night",
       "url": "https://open.spotify.com/track/2RWjugJQW9FQbQeun7CXav"
+    },
+    {
+      "album": {
+        "name": "The Snake",
+        "url": "https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL"
+      },
+      "artists": [
+        {
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209946,
+      "name": "The Snake",
+      "url": "https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI"
     },
     {
       "album": {
@@ -1527,6 +1601,24 @@
       "duration_ms": 232600,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB"
+    },
+    {
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/34xRDpvXJxS6oU7MTKlDtR"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/5bQduNI1lNfkNbDCKhBNX6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWvhKV4FBciw"

@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 221992,
       "name": "Bad Fuel",
       "url": "https://open.spotify.com/track/2fbvCosDEffAxouICtikzL"
@@ -242,6 +242,50 @@
     },
     {
       "album": {
+        "name": "Certified Gs",
+        "url": "https://open.spotify.com/album/2vIsedCdWyGjqwhiUMrarb"
+      },
+      "artists": [
+        {
+          "name": "DJ Phantasy",
+          "url": "https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai"
+        },
+        {
+          "name": "Harry Shotta",
+          "url": "https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Certified Gs",
+      "url": "https://open.spotify.com/track/0OFPij448pt21kHBHsT4au"
+    },
+    {
+      "album": {
+        "name": "Mercy & Misery / Clubcard",
+        "url": "https://open.spotify.com/album/21GSw1OpXdBDiuYxFGET0J"
+      },
+      "artists": [
+        {
+          "name": "Hyroglifics",
+          "url": "https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0"
+        },
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242758,
+      "name": "Clubcard",
+      "url": "https://open.spotify.com/track/69iCFPZbfFBrJ86RCi9Fk7"
+    },
+    {
+      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/35bk4rPp9c8t7wEmXgrBFU"
       },
@@ -319,7 +363,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 274292,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/2s2uRehkP1H5jqzwiiD8PI"
@@ -415,6 +459,48 @@
       "duration_ms": 204342,
       "name": "Finesse Riddim",
       "url": "https://open.spotify.com/track/13Mgkz3Rk8t1XsMZ6JyIrG"
+    },
+    {
+      "album": {
+        "name": "Fire Works 2 (Remix)",
+        "url": "https://open.spotify.com/album/1BfRvi4DKMg4KMBAMMVyeB"
+      },
+      "artists": [
+        {
+          "name": "Harry Shotta",
+          "url": "https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        },
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Skibadee",
+          "url": "https://open.spotify.com/artist/5gXXODq8Y20txFk5hJxBUa"
+        },
+        {
+          "name": "Dynamite MC",
+          "url": "https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl"
+        },
+        {
+          "name": "JMulla",
+          "url": "https://open.spotify.com/artist/2riMe46MPHt4X4cR6CMOnu"
+        },
+        {
+          "name": "PAV4N",
+          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228837,
+      "name": "Fire Works 2 - Remix",
+      "url": "https://open.spotify.com/track/4mCN3gZqyH5AIHu9stRVov"
     },
     {
       "album": {
@@ -531,10 +617,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 241687,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
+    },
+    {
+      "album": {
+        "name": "High Roller",
+        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275862,
+      "name": "High Roller",
+      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
     },
     {
       "album": {
@@ -557,7 +661,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 220800,
       "name": "Hot One",
       "url": "https://open.spotify.com/track/6dOzrKH4AkC0QKVyhB7yBc"
@@ -579,7 +683,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 219428,
       "name": "Hurt - Kendrick Remix",
       "url": "https://open.spotify.com/track/2G7P0r5rDpLHheJ0IN2CYc"
@@ -637,7 +741,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 224914,
       "name": "Journey - VIP 2",
       "url": "https://open.spotify.com/track/1JRjRDsjnBlJMaZ9xyRgXW"
@@ -803,7 +907,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 279771,
       "name": "Madness",
       "url": "https://open.spotify.com/track/4osUJ9wCzpuwjbp5Lf0NHX"
@@ -821,7 +925,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 270171,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/2uG8wKppvOFiZdYzVsdpvS"
@@ -979,7 +1083,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 268800,
       "name": "Outta Control",
       "url": "https://open.spotify.com/track/77mNZlPZg1Dqpf19U9X2tc"
@@ -1101,7 +1205,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 274970,
       "name": "Right Behind You",
       "url": "https://open.spotify.com/track/5WIQx4jTbf252m11tgYDT9"
@@ -1241,7 +1345,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
@@ -1321,7 +1425,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 268800,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9"
@@ -1339,7 +1443,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 278620,
       "name": "Synco",
       "url": "https://open.spotify.com/track/7vQSVysNGOOKtBmZ9JvHSz"
@@ -1434,6 +1538,28 @@
     },
     {
       "album": {
+        "name": "Agro Remixes Part 3",
+        "url": "https://open.spotify.com/album/5lLJ1S9fzWbCjZ9Fz2eypP"
+      },
+      "artists": [
+        {
+          "name": "Agro",
+          "url": "https://open.spotify.com/artist/12lvWxBjY0KZJp1ySVNcrE"
+        },
+        {
+          "name": "Sinexia",
+          "url": "https://open.spotify.com/artist/5Bm9oWnqOT8TB3RXijKdjn"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276333,
+      "name": "Tweeter Box - Sinexia Remix",
+      "url": "https://open.spotify.com/track/5y3zSVslXukl5t6fLTcVv1"
+    },
+    {
+      "album": {
         "name": "Ultralight",
         "url": "https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc"
       },
@@ -1517,7 +1643,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 238635,
       "name": "Whoom",
       "url": "https://open.spotify.com/track/0O9QfUm4Yvwwu8BuJV09aa"
@@ -1535,7 +1661,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 286896,
       "name": "Why Should I",
       "url": "https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4"
@@ -1553,7 +1679,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 216257,
       "name": "WORRY",
       "url": "https://open.spotify.com/track/3KHU0pDA9mI0sd5klcXDzJ"
@@ -1611,7 +1737,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 263281,
       "name": "You Asked",
       "url": "https://open.spotify.com/track/19W4tAp35EecfU0yC4ruby"

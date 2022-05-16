@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 28353,
+  "num_followers": 28486,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjU3NzQ3NywwMDAwMDAwMDEzMTM1M2I0N2NkZmY1YjA1MDc1ZWE5ZjdiODAzNTcy",
+  "snapshot_id": "MTY1MjY2MzI0MiwwMDAwMDAwMGZmYzU4YzNhZDZhODdmZmU3YjQwMmU3Mzg1MWM2ZjYz",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Walking With A Panther",
-        "url": "https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA"
-      },
-      "artists": [
-        {
-          "name": "LL Cool J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Going Back To Cali",
-      "url": "https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Most Known Unknown (Explicit)",
         "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
       },
@@ -63,58 +47,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Planet Rock: The Album",
-        "url": "https://open.spotify.com/album/5SgUEiP95ghNOAbha6bLDV"
+        "name": "Walking With A Panther",
+        "url": "https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA"
       },
       "artists": [
         {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+          "name": "LL Cool J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
-      "duration_ms": 383960,
-      "name": "Planet Rock - Original 12\" Version",
-      "url": "https://open.spotify.com/track/5NE3B0Z34OLHHMGU07tg4j"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Double Cup",
-        "url": "https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8"
-      },
-      "artists": [
-        {
-          "name": "DJ Rashad",
-          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
-        },
-        {
-          "name": "Spinn",
-          "url": "https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "Drank, Kush, Barz",
-      "url": "https://open.spotify.com/track/5xFy8h9eEJUjOIXGKRE19C"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Let The Beat Build",
-      "url": "https://open.spotify.com/track/6Az6jpQiP5m8U3yA6bLSGb"
+      "duration_ms": 249266,
+      "name": "Going Back To Cali",
+      "url": "https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -131,6 +75,42 @@
       "duration_ms": 204133,
       "name": "Peter Piper",
       "url": "https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "The Best of 2Pac",
+        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Talent",
+          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Let The Beat Build",
+      "url": "https://open.spotify.com/track/6Az6jpQiP5m8U3yA6bLSGb"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -159,50 +139,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Gangsta Memorial Edition",
-        "url": "https://open.spotify.com/album/6IoHB4CnCpbZBowrf1qySr"
+        "name": "Back in Black",
+        "url": "https://open.spotify.com/album/62Tr4gN8ueTfwcJPaMFWKB"
       },
       "artists": [
         {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
         }
       ],
-      "duration_ms": 378333,
-      "name": "Boyz-N-The-Hood - Remastered",
-      "url": "https://open.spotify.com/track/3MOaCYx0basuKRolaLeYlM"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Born To Mack",
-        "url": "https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 573066,
-      "name": "Freaky Tales",
-      "url": "https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+      "duration_ms": 333000,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -223,54 +171,138 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "The Best of 2Pac",
-        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
       },
       "artists": [
         {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 302800,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Partytime Records Greatest 12'' Mixes",
+        "url": "https://open.spotify.com/album/6ZtIsYmAKYUpw1pAW7kAZp"
+      },
+      "artists": [
+        {
+          "name": "T La Rock",
+          "url": "https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp"
         },
         {
-          "name": "Talent",
-          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
+          "name": "Jazzy Jay",
+          "url": "https://open.spotify.com/artist/1VAa8aS9HnA7L97YhMNMOJ"
         }
       ],
-      "duration_ms": 268960,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF"
+      "duration_ms": 273960,
+      "name": "It's Yours (Radio Mix)",
+      "url": "https://open.spotify.com/track/5Olg0sqyi5XGo7lMLNeRAy"
     },
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Back in Black",
-        "url": "https://open.spotify.com/album/62Tr4gN8ueTfwcJPaMFWKB"
+        "name": "When Disaster Strikes...",
+        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
       "artists": [
         {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 333000,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS"
+      "duration_ms": 217640,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g"
     },
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "56 Nights",
-        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
+        "name": "How Much Can You Take",
+        "url": "https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "M.C. A.D.E.",
+          "url": "https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT"
         }
       ],
-      "duration_ms": 244511,
-      "name": "March Madness",
-      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
+      "duration_ms": 202866,
+      "name": "How Much Can You Take?",
+      "url": "https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Gangsta Memorial Edition",
+        "url": "https://open.spotify.com/album/6IoHB4CnCpbZBowrf1qySr"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "duration_ms": 378333,
+      "name": "Boyz-N-The-Hood - Remastered",
+      "url": "https://open.spotify.com/track/3MOaCYx0basuKRolaLeYlM"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Planet Rock: The Album",
+        "url": "https://open.spotify.com/album/5SgUEiP95ghNOAbha6bLDV"
+      },
+      "artists": [
+        {
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+        }
+      ],
+      "duration_ms": 383960,
+      "name": "Planet Rock - Original 12\" Version",
+      "url": "https://open.spotify.com/track/5NE3B0Z34OLHHMGU07tg4j"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -295,74 +327,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Thump Pick Six Connie",
-        "url": "https://open.spotify.com/album/113nqnTrK2JWXpKAGySjtN"
-      },
-      "artists": [
-        {
-          "name": "Connie",
-          "url": "https://open.spotify.com/artist/1ejdpp0rh0w6ppfEYlcZdx"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Funky Little Beat",
-      "url": "https://open.spotify.com/track/4pf3zH0mVt3UdZfa0Veoyx"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Kelis Was Here",
-        "url": "https://open.spotify.com/album/5uZljAiPiHyDlTMUeE61yF"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        },
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Bossy",
-      "url": "https://open.spotify.com/track/7nR3jmYBf3e9TEf6zpJiZb"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "808s & Heartbreak",
-        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Me & My Brother",
         "url": "https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95"
       },
@@ -383,34 +347,38 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
+        },
+        {
+          "name": "Spinn",
+          "url": "https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20"
         }
       ],
-      "duration_ms": 409648,
-      "name": "Feels So Real (Won't Let Go) - 12\" Version",
-      "url": "https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ"
+      "duration_ms": 216560,
+      "name": "Drank, Kush, Barz",
+      "url": "https://open.spotify.com/track/5xFy8h9eEJUjOIXGKRE19C"
     },
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "When Disaster Strikes...",
-        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
+        "name": "56 Nights",
+        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 217640,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g"
+      "duration_ms": 244511,
+      "name": "March Madness",
+      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -439,54 +407,34 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Partytime Records Greatest 12'' Mixes",
-        "url": "https://open.spotify.com/album/6ZtIsYmAKYUpw1pAW7kAZp"
+        "name": "Dream Of A Lifetime",
+        "url": "https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf"
       },
       "artists": [
         {
-          "name": "T La Rock",
-          "url": "https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp"
-        },
-        {
-          "name": "Jazzy Jay",
-          "url": "https://open.spotify.com/artist/1VAa8aS9HnA7L97YhMNMOJ"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 273960,
-      "name": "It's Yours (Radio Mix)",
-      "url": "https://open.spotify.com/track/5Olg0sqyi5XGo7lMLNeRAy"
+      "duration_ms": 325226,
+      "name": "Sanctified Lady",
+      "url": "https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo"
     },
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Pretty Hate Machine",
-        "url": "https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN"
+        "name": "Thump Pick Six Connie",
+        "url": "https://open.spotify.com/album/113nqnTrK2JWXpKAGySjtN"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Connie",
+          "url": "https://open.spotify.com/artist/1ejdpp0rh0w6ppfEYlcZdx"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Down In It",
-      "url": "https://open.spotify.com/track/06UVb2bREPv8hvioVkaMvC"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "On the Nile",
-        "url": "https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i"
-      },
-      "artists": [
-        {
-          "name": "The Egyptian Lover",
-          "url": "https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP"
-        }
-      ],
-      "duration_ms": 319413,
-      "name": "Egypt Egypt",
-      "url": "https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY"
+      "duration_ms": 276840,
+      "name": "Funky Little Beat",
+      "url": "https://open.spotify.com/track/4pf3zH0mVt3UdZfa0Veoyx"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -507,66 +455,34 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "How Much Can You Take",
-        "url": "https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu"
+        "name": "Born To Mack",
+        "url": "https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei"
       },
       "artists": [
         {
-          "name": "M.C. A.D.E.",
-          "url": "https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT"
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
         }
       ],
-      "duration_ms": 202866,
-      "name": "How Much Can You Take?",
-      "url": "https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT"
+      "duration_ms": 573066,
+      "name": "Freaky Tales",
+      "url": "https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY"
     },
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Rhyme Pays (Explicit Version)",
-        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
       "artists": [
         {
-          "name": "ICE-T",
-          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
         }
       ],
-      "duration_ms": 224866,
-      "name": "6 'N the Mornin'",
-      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Clear",
-      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Dream Of A Lifetime",
-        "url": "https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 325226,
-      "name": "Sanctified Lady",
-      "url": "https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo"
+      "duration_ms": 409648,
+      "name": "Feels So Real (Won't Let Go) - 12\" Version",
+      "url": "https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -587,34 +503,126 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+        "name": "Rhyme Pays (Explicit Version)",
+        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
       },
       "artists": [
         {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+          "name": "ICE-T",
+          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
         }
       ],
-      "duration_ms": 323333,
-      "name": "\u5343\u306e\u30ca\u30a4\u30d5",
-      "url": "https://open.spotify.com/track/4FETdaQpwzKaq8W0QIl6jU"
+      "duration_ms": 224866,
+      "name": "6 'N the Mornin'",
+      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
     },
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Labour Of Love II",
-        "url": "https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9"
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
       "artists": [
         {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 182533,
-      "name": "The Way You Do The Things You Do",
-      "url": "https://open.spotify.com/track/04PydaEH97XN7YohGteKpK"
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Kelis Was Here",
+        "url": "https://open.spotify.com/album/5uZljAiPiHyDlTMUeE61yF"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "Bossy",
+      "url": "https://open.spotify.com/track/7nR3jmYBf3e9TEf6zpJiZb"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Mr. Davis",
+        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 233087,
+      "name": "I Get the Bag (feat. Migos)",
+      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Port Of Miami",
+        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
+      },
+      "artists": [
+        {
+          "name": "Mantronix",
+          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Needle to the Groove",
+      "url": "https://open.spotify.com/track/1K73A7cn70zjKqmdAR8PSl"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -635,18 +643,34 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
+        "name": "Miami Bass Warriors",
+        "url": "https://open.spotify.com/album/67gxDIP2wEKnKLYoHRlA22"
       },
       "artists": [
         {
-          "name": "Mantronix",
-          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
+          "name": "Otto Von Schirach",
+          "url": "https://open.spotify.com/artist/5LNKJqTTwBurtQ79xMK8Ai"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Needle to the Groove",
-      "url": "https://open.spotify.com/track/1K73A7cn70zjKqmdAR8PSl"
+      "duration_ms": 216973,
+      "name": "Calle 808 Beats",
+      "url": "https://open.spotify.com/track/07YxaT78mNe5hTcTjEDs09"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Labour Of Love II",
+        "url": "https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "The Way You Do The Things You Do",
+      "url": "https://open.spotify.com/track/04PydaEH97XN7YohGteKpK"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -675,42 +699,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "Pretty Hate Machine",
+        "url": "https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Mr. Davis",
-        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 233087,
-      "name": "I Get the Bag (feat. Migos)",
-      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
+      "duration_ms": 226373,
+      "name": "Down In It",
+      "url": "https://open.spotify.com/track/06UVb2bREPv8hvioVkaMvC"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -747,70 +747,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Miami Bass Warriors",
-        "url": "https://open.spotify.com/album/67gxDIP2wEKnKLYoHRlA22"
-      },
-      "artists": [
-        {
-          "name": "Otto Von Schirach",
-          "url": "https://open.spotify.com/artist/5LNKJqTTwBurtQ79xMK8Ai"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Calle 808 Beats",
-      "url": "https://open.spotify.com/track/07YxaT78mNe5hTcTjEDs09"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Port Of Miami",
-        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Rock the Box",
-        "url": "https://open.spotify.com/album/7v0FikRO5HniiN7NV5Ciem"
-      },
-      "artists": [
-        {
-          "name": "Sylvester",
-          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "Rock the Box",
-      "url": "https://open.spotify.com/track/6gzUi6an8slC9kR2A2GLiE"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Make Some Noise / Sound Of Stereo",
         "url": "https://open.spotify.com/album/5WRdIKqakmO4Dg9fREAqhz"
       },
@@ -823,6 +759,42 @@
       "duration_ms": 415633,
       "name": "Sound Of Stereo - Original Mix",
       "url": "https://open.spotify.com/track/4ELquocA4R6CQNfMkCYCIZ"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 323480,
+      "name": "Drunk in Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+      },
+      "artists": [
+        {
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+        }
+      ],
+      "duration_ms": 323333,
+      "name": "\u5343\u306e\u30ca\u30a4\u30d5",
+      "url": "https://open.spotify.com/track/4FETdaQpwzKaq8W0QIl6jU"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -843,22 +815,50 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Random Access Memories",
-        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 251293,
-      "name": "Doin' it Right (feat. Panda Bear)",
-      "url": "https://open.spotify.com/track/36c4JohayB9qd64eidQMBi"
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "On the Nile",
+        "url": "https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i"
+      },
+      "artists": [
+        {
+          "name": "The Egyptian Lover",
+          "url": "https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP"
+        }
+      ],
+      "duration_ms": 319413,
+      "name": "Egypt Egypt",
+      "url": "https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Rock the Box",
+        "url": "https://open.spotify.com/album/7v0FikRO5HniiN7NV5Ciem"
+      },
+      "artists": [
+        {
+          "name": "Sylvester",
+          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "Rock the Box",
+      "url": "https://open.spotify.com/track/6gzUi6an8slC9kR2A2GLiE"
     },
     {
       "added_at": "2021-10-20 15:00:00",

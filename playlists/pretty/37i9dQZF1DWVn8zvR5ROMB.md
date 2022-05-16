@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,331 likes - 126 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,397 likes - 126 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: The Bros\. Landreth
 
-100 songs - 6 hr 9 min - not published yet
+100 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

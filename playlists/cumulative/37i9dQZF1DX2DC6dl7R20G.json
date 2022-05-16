@@ -24,6 +24,24 @@
     },
     {
       "album": {
+        "name": "A little more (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212546,
+      "name": "A little more - Instrumental",
+      "url": "https://open.spotify.com/track/26iTiFmpxJTEKqZXhIvRit"
+    },
+    {
+      "album": {
         "name": "Love beyond words (From \"soundtrack#1\" [Original Soundtrack])",
         "url": "https://open.spotify.com/album/38kBeYr1NaLzclPCJGipMM"
       },
@@ -413,7 +431,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 220400,
       "name": "Your tender heart hurts me - Instrumental",
       "url": "https://open.spotify.com/track/6Dbk8sNFxJDAVdvNBAvYkZ"

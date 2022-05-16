@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Becky G; Alex Rose y Wisin & Yandel; Steve Aoki y Natanael Cano; Belinda; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,225 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,274 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

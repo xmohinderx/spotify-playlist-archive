@@ -4,10 +4,11 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-158 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
+159 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/7GMnw8RukplHysVYkXRUlm) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Lullaby](https://open.spotify.com/album/3x1AMj0KFpGzJrmWsCPxxc) | 2:16 | 2022-05-15 |  |
 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/4tw2MGyKR4FW8vIShly7T9) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses](https://open.spotify.com/album/3diwNCScanKXsiDgO1Etxn) | 2:55 | 2022-04-15 |  |
 | [A Whole New World](https://open.spotify.com/track/4PMQ9IidXtvDdhmlH4IBPD) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Breathe](https://open.spotify.com/album/1BkRLMg1PwegXipKVRXeiI) | 2:47 | 2022-04-15 |  |
 | [A Whole New World](https://open.spotify.com/track/0c5rB7E7bghYtOOKdmRUGC) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 3:14 | 2022-04-15 |  |

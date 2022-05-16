@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 147204,
       "name": "Ain\u2019t No Fun",
       "url": "https://open.spotify.com/track/7hUpFUXJsDXMKopFz3Q2AP"
@@ -890,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Black Iverson",
+        "url": "https://open.spotify.com/album/46Enyl1OWFBCqnEh2hVIfA"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185924,
+      "name": "Black Iverson",
+      "url": "https://open.spotify.com/track/3sLNEWdnPH6ML05Z8wFZhM"
+    },
+    {
+      "album": {
         "name": "Black Wall Street",
         "url": "https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv"
       },
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 123651,
       "name": "BOOK IT",
       "url": "https://open.spotify.com/track/0tJQdCQmrhviw9qfbDOlVC"
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 241655,
       "name": "CHOPPA SHOOT THE LOUDEST (with Chief Keef, feat.Trippie Redd)",
       "url": "https://open.spotify.com/track/2MyQK6cKu9IAzNXiBm7TD0"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 280500,
       "name": "CULT",
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Dead Broke",
       "url": "https://open.spotify.com/track/6CwjgmFdMX6FKzmV2oB7SY"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 175563,
       "name": "Distant",
       "url": "https://open.spotify.com/track/3mDaCneJoPlAexIC7cXCFV"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 187669,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4NpGQqfAGuIkMVRgVD5VRX"
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 202036,
       "name": "GOTW",
       "url": "https://open.spotify.com/track/4OvA3f027ZoTm3RIlBzrYB"
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 125498,
       "name": "Hit",
       "url": "https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ"
@@ -3387,7 +3405,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 144021,
       "name": "It Could Be Worse",
       "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
@@ -3591,7 +3609,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/38OxzrXfvFjyKWtgAkWdOK"
@@ -3671,7 +3689,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 202331,
       "name": "Lay Wit Ya (feat. Duke Deuce)",
       "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
@@ -4023,7 +4041,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 195153,
       "name": "LLC (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
@@ -4279,7 +4297,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 165550,
       "name": "Maytag (Tax Free)",
       "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
@@ -4475,7 +4493,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 241790,
       "name": "Modern Day",
       "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
@@ -4577,7 +4595,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 216414,
       "name": "Mopstick (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/5FAQb7Cfps6JCYl2ZjtWHO"
@@ -4781,7 +4799,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 170400,
       "name": "NBA Jam",
       "url": "https://open.spotify.com/track/3YGeC8AIZi2XbnymOauGxc"
@@ -5123,7 +5141,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 203793,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2i40wZkiPAGIFudrGH99nx"
@@ -5461,7 +5479,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 145897,
       "name": "PradadaBang",
       "url": "https://open.spotify.com/track/7zg97q1UQyQgIhhrAEke45"
@@ -5581,7 +5599,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 183021,
       "name": "Racer",
       "url": "https://open.spotify.com/track/1V3Y6TNzsJCMZLu8G68V5o"
@@ -5755,7 +5773,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 139742,
       "name": "Rich Rich",
       "url": "https://open.spotify.com/track/4edV6rg1hj1SsTIrcEMPvi"
@@ -5879,7 +5897,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 154718,
       "name": "Rule #1 (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/4apWaVWfqRac78ec6L5bJn"
@@ -5993,7 +6011,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 161572,
       "name": "Santa Monica Blvd",
       "url": "https://open.spotify.com/track/4Po2ztD6OBxolnmDagEh8o"
@@ -6661,7 +6679,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 217271,
       "name": "STUCK",
       "url": "https://open.spotify.com/track/1RvukJ9jo0u13zuq8wM4dg"
@@ -6849,7 +6867,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 158000,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/5Unr6WoYvsnGYo3NazmkW4"
@@ -6907,7 +6925,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 124973,
       "name": "Tetris",
       "url": "https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ"
@@ -8015,7 +8033,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 198960,
       "name": "Ziplock",
       "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"

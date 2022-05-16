@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Maffio
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,092 likes - 59 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,106 likes - 59 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

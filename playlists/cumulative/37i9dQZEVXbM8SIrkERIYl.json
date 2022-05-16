@@ -2413,7 +2413,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
@@ -3320,7 +3320,7 @@
     },
     {
       "album": {
-        "name": "Go (goddard. Remix)",
+        "name": "go (goddard. Remix)",
         "url": "https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv"
       },
       "artists": [
@@ -3337,7 +3337,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192514,
-      "name": "Go - goddard. Remix",
+      "name": "go - goddard. Remix",
       "url": "https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy"
     },
     {
@@ -9321,7 +9321,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 332362,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"

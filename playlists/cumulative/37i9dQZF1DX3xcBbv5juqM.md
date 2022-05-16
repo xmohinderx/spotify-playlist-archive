@@ -4,14 +4,14 @@
 
 > Riscopri le più grandi hit del 2001! Cover: Destiny's Child
 
-103 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/2GHm1y4c22CAUSNVFazqSt)
+104 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/2GHm1y4c22CAUSNVFazqSt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 | 2020-11-04 |  |
 | [Ain't It Funny](https://open.spotify.com/track/2glSi4PRdGUzLaz5QpiNJV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo](https://open.spotify.com/album/4TlzQ4FABU9yI2lDvoGVb9) | 4:06 | 2020-11-04 |  |
 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 | 2020-11-04 |  |
-| [All or Nothing](https://open.spotify.com/track/7pbNNVcFePJV3Wani6zH8q) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town 2](https://open.spotify.com/album/1MmcmLfKCDfdMKkv9VzftG) | 4:10 | 2020-11-04 |  |
+| [All or Nothing](https://open.spotify.com/track/7pbNNVcFePJV3Wani6zH8q) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town 2](https://open.spotify.com/album/1MmcmLfKCDfdMKkv9VzftG) | 4:10 | 2020-11-04 | 2022-05-16 |
 | [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 | 2020-11-04 |  |
 | [AM To PM](https://open.spotify.com/track/1PUNthIXityeZlnRLcP7JI) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Christina Milian](https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS) | 3:51 | 2020-11-04 |  |
 | [Another Chance](https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny) | 7:32 | 2020-11-04 |  |
@@ -69,7 +69,7 @@
 | [Mad About You](https://open.spotify.com/track/5drK2kTE2mrUdV33iHWyrx) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [The Magnificent Tree](https://open.spotify.com/album/10QqxagLfdvXvVL9CpdHeE) | 3:43 | 2020-11-04 |  |
 | [Mama Insegnami a Bailar](https://open.spotify.com/track/2RKGbhKWzenGwnWVw7pK17) | [Grupo Latino](https://open.spotify.com/artist/2e67hCRiGYdKhCsT7bWj5v) | [Latin](https://open.spotify.com/album/1AIV9HOfLxoWlua0LzjAU9) | 3:37 | 2020-11-04 |  |
 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 | 2020-11-04 |  |
-| [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2020-11-04 | 2022-05-15 |
+| [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2020-11-04 |  |
 | [Never Had A Dream Come True](https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB) | [S Club 7](https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX) | ["7"](https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ) | 4:00 | 2020-11-04 |  |
 | [Nobody Wants to Be Lonely \(with Christina Aguilera\)](https://open.spotify.com/track/45cVyfWuMAg8RNxmkcpmy9) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [17](https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE) | 4:12 | 2020-11-04 |  |
 | [Nuvole Rapide](https://open.spotify.com/track/64wWPrdbb7nG6BfdXdAZcQ) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Anni Luce 1997 \- 2017](https://open.spotify.com/album/58WeSXbb3fxK13nQ0uX42Z) | 4:36 | 2020-11-04 |  |
@@ -96,10 +96,11 @@
 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 | 2020-11-04 |  |
 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 | 2020-11-04 |  |
 | [There You'll Be](https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [There You'll Be](https://open.spotify.com/album/2hUHsuJ6XAS240vxAXnlb5) | 3:42 | 2020-11-04 |  |
-| [This I Promise You](https://open.spotify.com/track/2Dp2LRrY71XIfLe3co2Qnh) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 4:43 | 2020-11-04 |  |
+| [This I Promise You](https://open.spotify.com/track/2Dp2LRrY71XIfLe3co2Qnh) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 4:43 | 2020-11-04 | 2022-05-16 |
 | [Ti Prendo E Ti Porto Via](https://open.spotify.com/track/7MrSVP5njYVEAHVWgcxEho) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Stupido Hotel \(Remastered 2017\)](https://open.spotify.com/album/2Tu9xNeUqunaHIaUs4DwUJ) | 4:09 | 2020-11-04 |  |
 | [Tre Parole](https://open.spotify.com/track/3fFzwItCBsslMUGtjz1idG) | [Valeria Rossi](https://open.spotify.com/artist/36Fhq0ntaX1lpr6aNxMOpr) | [Ricordatevi Dei Fiori](https://open.spotify.com/album/7ihrWc2lUt3omDbZ8H0lIg) | 3:42 | 2020-11-04 |  |
 | [Turn Off The Light](https://open.spotify.com/track/6P8pMrMxdkUtW7Ze6Zx2l1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly!](https://open.spotify.com/album/1Tm4dxG0SLeX7VgeHZO9Ix) | 4:36 | 2020-11-04 |  |
+| [Underneath It All](https://open.spotify.com/track/3aePQpQPQ1k35NDvJ71YRd) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Rock Steady](https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352) | 5:02 | 2020-11-04 |  |
 | [Uptown Girl \- Radio Edit](https://open.spotify.com/track/2sFp6E7lNBbblJGmUtCfFH) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:06 | 2020-11-04 |  |
 | [Viva El Amor! \- Radio Edit](https://open.spotify.com/track/45i6itWO2gCFDkSQ1sSAim) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Television](https://open.spotify.com/album/7hWTCPQdbBHLSthL1nQ3Ti) | 3:46 | 2020-11-04 |  |
 | [Vivre La Vie](https://open.spotify.com/track/6kBG3Gclv11BVnYJdYrzF4) | [Kelly Joyce](https://open.spotify.com/artist/1XZG7tYc722j7l1KWKPs7F) | [Kelly Joyce](https://open.spotify.com/album/06xYZCZzyqu3Nm0tjxdbsd) | 4:02 | 2020-11-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring hand\-curated cuts from John Summit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,232 likes - 145 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,367 likes - 145 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 39 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 |
 | 40 | [Is It You](https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [Is It You](https://open.spotify.com/album/0slFvrkkV4qgU8HPsDZDSh) | 2:39 |
 | 41 | [False Need](https://open.spotify.com/track/2fSNDaBmTg8VucedIUA3IA) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [False Need](https://open.spotify.com/album/6XngZGEvyEzaPlZ3JaFs12) | 3:34 |
-| 42 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 4:42 |
+| 42 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 |
 | 43 | [Vale](https://open.spotify.com/track/155IiTveewoEfE7ISxjM8Y) | [Marco Carpentieri](https://open.spotify.com/artist/7qD17uug3YdoCuu1UqYTJa), [Tim Aroa](https://open.spotify.com/artist/3oqcNg6aegE3fUbfn6cTun), [Devan](https://open.spotify.com/artist/2hE6W430BpJRCFBNgZE3jB) | [Vale](https://open.spotify.com/album/0wpYb0HPKekYcETe7gV02O) | 2:43 |
 | 44 | [Deep State](https://open.spotify.com/track/5T1fza9F8TTuB1pGqDGziH) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Deep State](https://open.spotify.com/album/2GOLTHiwyNWYHQaBuIZASH) | 2:52 |
 | 45 | [Once Again](https://open.spotify.com/track/1Xxa1bDLOyCK5ck8gu8hpg) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Once Again](https://open.spotify.com/album/4VhyIMeKieQlTY0fv5OHab) | 2:38 |

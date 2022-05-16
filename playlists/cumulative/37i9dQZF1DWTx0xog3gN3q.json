@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-14",
   "description": "Uplifting soul classics to energize you whenever you feel for a soulful boost.",
   "name": "Uplifting Soul Classics",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0JAZGZck9T73oZ5EqI2hOx"
+  ],
   "tracks": [
     {
       "album": {
@@ -226,6 +228,24 @@
     },
     {
       "album": {
+        "name": "The Jacksons",
+        "url": "https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM"
+    },
+    {
+      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/6kEe268WsSL0bE5KPeaq8X"
       },
@@ -345,7 +365,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 323346,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
@@ -673,7 +693,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 214826,
       "name": "September",
       "url": "https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY"
@@ -821,7 +841,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 139093,
       "name": "Two Can Have A Party",
       "url": "https://open.spotify.com/track/0LIxJkq7caYmgbawjgEqMn"

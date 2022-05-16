@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Coline Rio
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,927 likes - 29 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,924 likes - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

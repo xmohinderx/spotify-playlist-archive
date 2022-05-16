@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 294586,
       "name": "A.D.O.",
       "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 202476,
       "name": "Abuelita de Batman - 2017 el Batiska",
       "url": "https://open.spotify.com/track/43wXjNizH6FJEqLryAAPWJ"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 123386,
       "name": "Abuso de autoridad",
       "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 166920,
       "name": "Dif\u00edcil",
       "url": "https://open.spotify.com/track/31Hutqdoy7EZrLiF855CCO"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 301680,
       "name": "D\u00e9jalo",
       "url": "https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 157942,
       "name": "El Harag\u00e1n",
       "url": "https://open.spotify.com/track/79t9WUQOc5n6xAD0DRO9rW"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 253653,
       "name": "El No Lo Mato",
       "url": "https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 252958,
       "name": "El No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/53jLJDQk8rk5GAHXDd0MrW"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 221320,
       "name": "Esta Vez",
       "url": "https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1"
@@ -783,6 +783,28 @@
       "duration_ms": 288360,
       "name": "Estacion Del Metro Balderas",
       "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
+    },
+    {
+      "album": {
+        "name": "Rudo",
+        "url": "https://open.spotify.com/album/5v5iSRb3oNKcIiUoAphFHe"
+      },
+      "artists": [
+        {
+          "name": "Sergio Arau",
+          "url": "https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6"
+        },
+        {
+          "name": "Los Heavy Mex",
+          "url": "https://open.spotify.com/artist/3grq85LlvvQAiis6m9t7Ef"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192347,
+      "name": "Flor de Asfalto",
+      "url": "https://open.spotify.com/track/0PeIvyyE7IuIPlTV5TlajJ"
     },
     {
       "album": {
@@ -941,7 +963,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 264733,
       "name": "Jefe De Jefes",
       "url": "https://open.spotify.com/track/6ZVpMSjOgWVn8DYWnt4qTr"
@@ -959,7 +981,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 155852,
       "name": "Juan el Descuartizador",
       "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
@@ -1071,7 +1093,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "La ingrata",
       "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 198040,
       "name": "Las piedras rodantes",
       "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
@@ -1161,7 +1183,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 196426,
       "name": "Los Intelectuales",
       "url": "https://open.spotify.com/track/7zPsqNF4oTx9XQMRoNZt5y"
@@ -1179,7 +1201,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 247453,
       "name": "Los Versos de la Catrina",
       "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
@@ -1323,7 +1345,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 183613,
       "name": "Mi Terrible Soledad",
       "url": "https://open.spotify.com/track/2CBofenBewzkNUKyxDZOnO"
@@ -1381,7 +1403,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 281757,
       "name": "Ni Una M\u00e1s",
       "url": "https://open.spotify.com/track/4WvhYvgVKgtLG7TFsJO0KI"
@@ -1435,10 +1457,32 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 199093,
       "name": "No Pinches Mames",
       "url": "https://open.spotify.com/track/6uKMEHRAyURvyleRykDMPg"
+    },
+    {
+      "album": {
+        "name": "El Sue\u00f1o de La Botarga",
+        "url": "https://open.spotify.com/album/7gWXoEqZkXNQfGKKmLRMyf"
+      },
+      "artists": [
+        {
+          "name": "La Botarga",
+          "url": "https://open.spotify.com/artist/4XO4abXYqlABqgFpDlVkLx"
+        },
+        {
+          "name": "Juan Morales",
+          "url": "https://open.spotify.com/artist/00ZtThSytJwRL11A3cEuWi"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181916,
+      "name": "No Son Basura",
+      "url": "https://open.spotify.com/track/53KwWGINnneOMWAgJgCO5a"
     },
     {
       "album": {
@@ -1471,7 +1515,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 169180,
       "name": "No Todo Es Oro",
       "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
@@ -1489,7 +1533,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 266120,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/7aTYU2BmJ0I1WasPvizwV2"
@@ -1669,7 +1713,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 200388,
       "name": "Por Tu Amor",
       "url": "https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS"
@@ -1691,7 +1735,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 254431,
       "name": "Purgante de Amor",
       "url": "https://open.spotify.com/track/6IHI4KKlAFM2K3w0gDm99K"
@@ -1727,7 +1771,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 291426,
       "name": "Que Ser\u00e1 de M\u00ed",
       "url": "https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb"
@@ -1763,7 +1807,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 281495,
       "name": "Quizas Si, Quizas No",
       "url": "https://open.spotify.com/track/6H7OWYPTw01l968dz87uki"
@@ -1821,7 +1865,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 336200,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
@@ -1965,7 +2009,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 284640,
       "name": "Todo sea por el rocanrol",
       "url": "https://open.spotify.com/track/7LEVHYuAwO8smfoevi8tYV"
@@ -2037,7 +2081,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 243670,
       "name": "Tu Mam\u00e1 No Me Quiere - Remastered",
       "url": "https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v"
@@ -2095,7 +2139,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 254038,
       "name": "Una Chaqueta por la Paz",
       "url": "https://open.spotify.com/track/5zzwoQvrdM3gMT0K6HFLe0"
@@ -2167,7 +2211,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 266880,
       "name": "Virgen Morena",
       "url": "https://open.spotify.com/track/169cKWYku9IhuwL7vsSufA"
@@ -2221,7 +2265,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 188638,
       "name": "Yo Quiero Que Sepas",
       "url": "https://open.spotify.com/track/1ByAq33DTLL2ecMBqUS3oQ"

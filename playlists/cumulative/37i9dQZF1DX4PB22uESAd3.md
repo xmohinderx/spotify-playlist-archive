@@ -4,7 +4,7 @@
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-74 songs - 3 hr 16 min - not published yet
+74 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/7ygepro0wQuN7eTDhQQ742)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

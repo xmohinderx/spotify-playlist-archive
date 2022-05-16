@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNHwMxAkvmF8.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,323 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,334 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNHwMxAkvmF8.md) - [plain]
 | 49 | [Néztek](https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2) | [Tóth Andi](https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu) | [Néztek](https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km) | 2:27 |
 | 50 | [RÉT](https://open.spotify.com/track/7EQq2RCCbFOR7XnN5J1vTv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/5NydObjtRsTiElOzm5vmgs) | [RÉT](https://open.spotify.com/album/2a9vtUOCvapcSy7dWrWfij) | 3:10 |
 
-Snapshot ID: `NzA1ODQyNzY4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzA1OTMwNTQwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

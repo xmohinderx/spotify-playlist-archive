@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-100 songs - 6 hr 11 min - not published yet
+100 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/6iR9FAQx2rscTZFHnWNECo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

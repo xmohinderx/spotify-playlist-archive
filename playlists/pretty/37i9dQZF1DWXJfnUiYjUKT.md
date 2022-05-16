@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,465 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,571 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 32 | [DAMN HOMIE \(feat\. Lil Yachty\)](https://open.spotify.com/track/1P3ngSxpsmwSVlnAq4iszK) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [DAMN HOMIE \(feat\. Lil Yachty\)](https://open.spotify.com/album/2XNIXSvuuUUdC7I9zsSRvW) | 2:20 |
 | 33 | [bargaining \(with Verzache\)](https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [good grief](https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj) | 2:31 |
 | 34 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
-| 35 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:25 |
+| 35 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:21 |
 | 36 | [we'll make this ok \(with Travis Barker\)](https://open.spotify.com/track/63Olr9i7mMzAs6JInlHDeb) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [we'll make this ok \(with Travis Barker\)](https://open.spotify.com/album/6d8EYqGfbAqVWiBo94hrwS) | 2:39 |
 | 37 | [not a home](https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [not a home](https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln) | 2:49 |
 | 38 | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm) | 3:31 |

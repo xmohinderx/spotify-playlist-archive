@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Jon Bryant
 
-100 songs - 6 hr 1 min - not published yet
+100 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

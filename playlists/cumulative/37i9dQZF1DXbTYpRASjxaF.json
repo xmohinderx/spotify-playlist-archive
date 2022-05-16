@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 165966,
       "name": "Dia de Baile (feat. Kawe)",
       "url": "https://open.spotify.com/track/5A3fbFbtzKrc0xamh6b0yb"
@@ -949,6 +949,32 @@
       "duration_ms": 210461,
       "name": "Menina Se Prepara",
       "url": "https://open.spotify.com/track/2aqqXrjrPdRHU9uSeRmL3C"
+    },
+    {
+      "album": {
+        "name": "Mini Game",
+        "url": "https://open.spotify.com/album/3rPXGZCsZjknW2TnaRtMKh"
+      },
+      "artists": [
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "DJ BRUNO PRADO",
+          "url": "https://open.spotify.com/artist/5kLUQ7J1U7CqxjW0hu8rr3"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138855,
+      "name": "Mini Game",
+      "url": "https://open.spotify.com/track/4IVbbHg8tOBMx0ltNwGXFQ"
     },
     {
       "album": {
@@ -1745,7 +1771,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 226666,
       "name": "VideoChamada (Facetime)",
       "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
@@ -1861,7 +1887,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 144374,
       "name": "Vulgo Malvad\u00e3o",
       "url": "https://open.spotify.com/track/0bq6BwMFuwpaLxEZ9iZtf9"

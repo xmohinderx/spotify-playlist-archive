@@ -4,7 +4,7 @@
 
 > The sad side of soul\. Cover: Harold Melvin.
 
-41 songs - 2 hr 44 min - not published yet
+42 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/2U7aUFRQGDnn1xyELO17Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 | 2021-11-11 |  |
 | [It Should Have Been Me](https://open.spotify.com/track/5inuDU6zkebOEl1hwHaCph) | [Yvonne Fair](https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8) | [True Motown / Spectrum 3 CD Set](https://open.spotify.com/album/1CEjdDJCspyqQjPC50CrzF) | 3:24 | 2021-11-11 |  |
 | [It's A Shame \- Remastered](https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Definitive Soul: Spinners](https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9) | 3:12 | 2021-11-11 |  |
-| [It's All Over](https://open.spotify.com/track/31IeklvAqV5qYHL7hHa4jl) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Sad Soul](https://open.spotify.com/album/5sEjqQMWBKvUbWkhgynfnH) | 3:17 | 2021-11-11 |  |
+| [It's All Over](https://open.spotify.com/track/31IeklvAqV5qYHL7hHa4jl) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Sad Soul](https://open.spotify.com/album/5sEjqQMWBKvUbWkhgynfnH) | 3:17 | 2021-11-11 | 2022-05-16 |
 | [Living All Alone](https://open.spotify.com/track/4nugpdIdJurNQXCDVei9WS) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 5:07 | 2021-11-11 | 2022-05-15 |
 | [Love Bankrupt](https://open.spotify.com/track/3HbOhYOepdfOhslkpJWRlI) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:32 | 2021-11-11 |  |
 | [Love Don't Live Here Anymore](https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 4:17 | 2021-11-11 |  |
@@ -45,6 +45,7 @@
 | [What I Need Is Love](https://open.spotify.com/track/46zfaRtWBbR8nd5myuH6JQ) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:28 | 2021-11-11 |  |
 | [When Am I Gonna Find True Love](https://open.spotify.com/track/4EoksISB2vqoRmbKyFms3x) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:22 | 2021-11-11 |  |
 | [When I'm Gone](https://open.spotify.com/track/1iA4JW1NzmcYNG8ZASIjdH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:48 | 2021-11-11 |  |
+| [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 | 2021-11-11 |  |
 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 | 2021-11-11 |  |
 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 | 2021-11-11 |  |
 | [Why Can't We Live Together](https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together: The Best Of The TK Years 1972\-'81](https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y) | 4:49 | 2021-11-11 |  |

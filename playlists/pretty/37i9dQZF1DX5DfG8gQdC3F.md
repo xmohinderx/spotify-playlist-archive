@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,809 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,857 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 83 | [Tested](https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Tested](https://open.spotify.com/album/7jZfZ6DMT9gVnlTsE9JnIK) | 2:57 |
 | 84 | [Sleeping With Penelope](https://open.spotify.com/track/6GNym8iOBTFIssSCz86NnP) | [Carlyn](https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87) | [Sleeping With Penelope](https://open.spotify.com/album/7rd52U7eCSmRbITzbBXi89) | 3:01 |
 | 85 | [Six Months By](https://open.spotify.com/track/3iIMmHQ2eAkSzpNEiq8B4a) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Six Months By](https://open.spotify.com/album/5M406bDZ2LhxyomOZobmCY) | 2:23 |
-| 86 | [fading](https://open.spotify.com/track/4uGFuFDW0lFWpXbscdNitI) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [happily catastrophic](https://open.spotify.com/album/25K22RrZtkDxnE6NX398xM) | 3:52 |
+| 86 | [fading](https://open.spotify.com/track/4uGFuFDW0lFWpXbscdNitI) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [Happily Catastrophic](https://open.spotify.com/album/25K22RrZtkDxnE6NX398xM) | 3:52 |
 | 87 | [Yo Yo](https://open.spotify.com/track/1iLizzooWyhDEF3OgiVEoS) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Yo Yo](https://open.spotify.com/album/5tvFiSuT4HkniYgffE1Gir) | 3:32 |
 | 88 | [Victory](https://open.spotify.com/track/2W03dE5pdOeOaGrKqZ5Nh3) | [Kelly Anthony](https://open.spotify.com/artist/2ICgAt3eHtYeiz6AEGoRzG) | [Victory](https://open.spotify.com/album/5JGnl8hhoMnwcMKE2gYBXe) | 2:17 |
 | 89 | [Cry 4 U](https://open.spotify.com/track/7pKwUPlNzY9HDN7lGL4KjR) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [513](https://open.spotify.com/album/6NDmSdY3c1glA8GPk3jYrn) | 2:35 |

@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 281069,
       "name": "Auntie Diaries",
       "url": "https://open.spotify.com/track/19Fg3WrTfo35Ji3PtfZE6J"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 176602,
       "name": "Boys Do Cry",
       "url": "https://open.spotify.com/track/6k0V6IGOMTyoLbxRqQeE8b"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 283642,
       "name": "Count Me Out",
       "url": "https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 264299,
       "name": "Crown",
       "url": "https://open.spotify.com/track/2IwbW2jd0Ncv99Aroe77Ru"
@@ -2269,7 +2269,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 184444,
       "name": "Dansa (feat. Fri\u00f0rik D\u00f3r)",
       "url": "https://open.spotify.com/track/6QyyCKMHcpo0PsdItc1CLQ"
@@ -2989,7 +2989,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 181795,
       "name": "Eat Your Salad",
       "url": "https://open.spotify.com/track/0rNIEBlBuo5108lnHyGbqJ"
@@ -3561,7 +3561,7 @@
       ],
       "date_added": "2021-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-25",
+      "date_removed": null,
       "duration_ms": 181786,
       "name": "Euphoria - Single Version",
       "url": "https://open.spotify.com/track/254ZJGQNxsSIp1eJJE4aFA"
@@ -3666,6 +3666,24 @@
     },
     {
       "album": {
+        "name": "Fade to black",
+        "url": "https://open.spotify.com/album/5R1xdmueRaQUorUYmDK7Ga"
+      },
+      "artists": [
+        {
+          "name": "Nadir Rustamli",
+          "url": "https://open.spotify.com/artist/7dFX4qcHIofGy7IronPXrO"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177386,
+      "name": "Fade to black",
+      "url": "https://open.spotify.com/track/7aX4w6c7gSqbTBoU8g2lnm"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -3703,6 +3721,24 @@
       "duration_ms": 183093,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/5D2L026JQTKC2gcq3qkYpj"
+    },
+    {
+      "album": {
+        "name": "Fairytales",
+        "url": "https://open.spotify.com/album/0zfqgwtMiLElEXYE6B59S2"
+      },
+      "artists": [
+        {
+          "name": "Alexander Rybak",
+          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183266,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/5MHJfk2EAZtJGrpioarm95"
     },
     {
       "album": {
@@ -8869,7 +8905,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 210841,
       "name": "Mr. Morale",
       "url": "https://open.spotify.com/track/7zvfDihYiJ8RQ1nRcpKBF5"
@@ -9313,6 +9349,24 @@
       "duration_ms": 216000,
       "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
       "url": "https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX"
+    },
+    {
+      "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/2lETgBF9RpI5Yis4IRPQdL"
+      },
+      "artists": [
+        {
+          "name": "Sheldon Riley",
+          "url": "https://open.spotify.com/artist/4C1LOSp9paX8u9JMaWXfKc"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178325,
+      "name": "Not The Same",
+      "url": "https://open.spotify.com/track/27ThQIsofXro6xEz3SzQWi"
     },
     {
       "album": {
@@ -10235,7 +10289,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
@@ -10511,7 +10565,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 103319,
       "name": "Rich - Interlude",
       "url": "https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP"
@@ -10659,6 +10713,24 @@
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "album": {
+        "name": "Anonymous Colonist (Rockstars Edition)",
+        "url": "https://open.spotify.com/album/5AblHx3VwGHzVkT5Kb6Ac2"
+      },
+      "artists": [
+        {
+          "name": "Malik Harris",
+          "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179706,
+      "name": "Rockstars",
+      "url": "https://open.spotify.com/track/0LTn3UoaJkL42ltlGwWMxC"
     },
     {
       "album": {
@@ -10967,7 +11039,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 224466,
       "name": "Savior",
       "url": "https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt"
@@ -10985,7 +11057,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 152985,
       "name": "Savior - Interlude",
       "url": "https://open.spotify.com/track/5PPUw4Xo3Hz6rl4GpBfd3c"
@@ -11065,6 +11137,24 @@
       "duration_ms": 181116,
       "name": "SEKRET",
       "url": "https://open.spotify.com/track/0zC65JcBBk4GYAjL2tHKXa"
+    },
+    {
+      "album": {
+        "name": "Sentimentai",
+        "url": "https://open.spotify.com/album/7vlt4TnVHs132OL0a0YE5E"
+      },
+      "artists": [
+        {
+          "name": "Monika LIU",
+          "url": "https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Sentimentai",
+      "url": "https://open.spotify.com/track/0JNPmXGU9K9DJpV9eHppZz"
     },
     {
       "album": {
@@ -14385,7 +14475,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-15",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"

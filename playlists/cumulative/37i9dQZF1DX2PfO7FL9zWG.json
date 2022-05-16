@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-05-14",
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Joshua Hyslop",
   "name": "Folk Favourites",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1P9OyTiTUDz0lOylvWtrf5"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Drive Through the Countryside",
+        "url": "https://open.spotify.com/album/6TUwtJ1lbA3Ovapr5cHbS4"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134652,
+      "name": "A Drive Through the Countryside",
+      "url": "https://open.spotify.com/track/366PD9y46HEbFLkOyraxMM"
+    },
     {
       "album": {
         "name": "Cape Elizabeth",
@@ -21,6 +41,24 @@
       "duration_ms": 181750,
       "name": "A Troubled Mind",
       "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
+    },
+    {
+      "album": {
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281706,
+      "name": "Always Alone",
+      "url": "https://open.spotify.com/track/2Iams73705r7Q06aSSm0XA"
     },
     {
       "album": {
@@ -165,7 +203,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 220891,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1uCXs6iF4VnDOCxyYbPw2P"
@@ -187,6 +225,24 @@
       "duration_ms": 210426,
       "name": "Bedrock",
       "url": "https://open.spotify.com/track/0jd9hK7zbDbhZKy1jF7NZT"
+    },
+    {
+      "album": {
+        "name": "Bedside Love Song",
+        "url": "https://open.spotify.com/album/1OQnsI6YfHKOrCTowUx0rC"
+      },
+      "artists": [
+        {
+          "name": "Frank Moyo",
+          "url": "https://open.spotify.com/artist/0UwN9iFJc5vV2mpJyFGCyf"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199826,
+      "name": "Bedside Love Song",
+      "url": "https://open.spotify.com/track/3dh5AzMmKDT6ztWUgIjV1u"
     },
     {
       "album": {
@@ -273,7 +329,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 244186,
       "name": "Can I Believe You",
       "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
@@ -334,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Dirty Old Town",
+        "url": "https://open.spotify.com/album/38MFQjtKhFy1su4NyaEkYi"
+      },
+      "artists": [
+        {
+          "name": "Craig Cardiff",
+          "url": "https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201258,
+      "name": "Dirty Old Town",
+      "url": "https://open.spotify.com/track/41Usv2Jjqp7vOPhtTqnUjG"
+    },
+    {
+      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/21rJkp3ysXGOSL7320EFTL"
       },
@@ -363,7 +437,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 247826,
       "name": "Failure",
       "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
@@ -453,7 +527,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 207346,
       "name": "For You",
       "url": "https://open.spotify.com/track/4HVP9LguwC1S5VzkMhzhqW"
@@ -525,7 +599,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
@@ -586,6 +660,24 @@
     },
     {
       "album": {
+        "name": "Gonna Be Leaving",
+        "url": "https://open.spotify.com/album/5ATbjtDTmqgY4mkDwL6Uta"
+      },
+      "artists": [
+        {
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190208,
+      "name": "Gonna Be Leaving",
+      "url": "https://open.spotify.com/track/3xUX0vRkQDW6Lqj3Sk30D5"
+    },
+    {
+      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -615,7 +707,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 202718,
       "name": "Half-Saved",
       "url": "https://open.spotify.com/track/6kNLASo01nyX5DVB4UGYFK"
@@ -712,6 +804,24 @@
     },
     {
       "album": {
+        "name": "Hey Louise",
+        "url": "https://open.spotify.com/album/1oPgLdyUbUd7sEM2fs0LKG"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177773,
+      "name": "Hey Louise",
+      "url": "https://open.spotify.com/track/6FMU2F12NJI4MIsfU1J7mk"
+    },
+    {
+      "album": {
         "name": "The Ghost and the Wall",
         "url": "https://open.spotify.com/album/2qeOXQCVeG1AgUD0LQHLSF"
       },
@@ -766,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Back to Love",
+        "url": "https://open.spotify.com/album/64Ll0RVJLquQzXJCFTuDNx"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188344,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6zjZArgz7ArC1yOwTW2cLm"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/3EOlCorYhw7KTFrTBNlyTi"
       },
@@ -813,7 +941,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 316743,
       "name": "Houston TX",
       "url": "https://open.spotify.com/track/6EaQXxdO9diXNDrO2vmMtJ"
@@ -1095,7 +1223,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 222333,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq"
@@ -1225,7 +1353,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"
@@ -1362,6 +1490,24 @@
     },
     {
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/3fIesHLlM6RODZGHpjhblH"
+      },
+      "artists": [
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205640,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/6uQs8IhevnDdW5RWiYtXhU"
+    },
+    {
+      "album": {
         "name": "Our Remains",
         "url": "https://open.spotify.com/album/54LIHpnnLXTEc3C5ueVD3A"
       },
@@ -1373,7 +1519,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 244120,
       "name": "Our Remains",
       "url": "https://open.spotify.com/track/6pBxnT5MpmA4apvkJkKVii"
@@ -1395,7 +1541,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 253868,
       "name": "pictures (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/6bt1R3HFqITysmy3W88M3c"
@@ -1431,10 +1577,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 202808,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4CQgSmxceVrNEpMT75aAkY"
+    },
+    {
+      "album": {
+        "name": "Sail Across the Sea",
+        "url": "https://open.spotify.com/album/5bvClgeaIvCWxFkhIXPGmG"
+      },
+      "artists": [
+        {
+          "name": "Kyle Church",
+          "url": "https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261360,
+      "name": "Sail Across the Sea",
+      "url": "https://open.spotify.com/track/22WXPA6wxAWEgK8V9755xb"
     },
     {
       "album": {
@@ -1539,7 +1703,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 227066,
       "name": "Sink",
       "url": "https://open.spotify.com/track/2BVyCBKJYlSdxic0yVpJ9C"
@@ -1557,10 +1721,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 263493,
       "name": "Something Like This - Acoustic",
       "url": "https://open.spotify.com/track/0rwmd6UpYeLGeus61u9TDd"
+    },
+    {
+      "album": {
+        "name": "Forever Overhead",
+        "url": "https://open.spotify.com/album/1jD5I8iDt4S9RfxZQZ72xM"
+      },
+      "artists": [
+        {
+          "name": "Tim Baker",
+          "url": "https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298490,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/2vEJRouRvUxL7WXhX6WNSn"
     },
     {
       "album": {
@@ -1611,7 +1793,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
@@ -1633,6 +1815,24 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
+    },
+    {
+      "album": {
+        "name": "that'd be alright",
+        "url": "https://open.spotify.com/album/3Itg7NVVyUe4fUJ8Jt56vP"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177952,
+      "name": "that'd be alright",
+      "url": "https://open.spotify.com/track/2MuIQnJTw4dEGntnK6MSNn"
     },
     {
       "album": {
@@ -1759,7 +1959,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 212905,
       "name": "To Chicago",
       "url": "https://open.spotify.com/track/2qpF9kgEoyFaVs7jik4oj3"
@@ -1860,6 +2060,24 @@
     },
     {
       "album": {
+        "name": "Watch You Shine",
+        "url": "https://open.spotify.com/album/23FXFSwRSs9FvICnH6Z8ad"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259180,
+      "name": "Watch You Shine",
+      "url": "https://open.spotify.com/track/2BL1FgdIdPjNDc2C5UlPzP"
+    },
+    {
+      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -1889,7 +2107,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 189424,
       "name": "What I Came Here For",
       "url": "https://open.spotify.com/track/73WvySq47nvcUvS6IONQ5z"
@@ -1983,7 +2201,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 158117,
       "name": "Wolves Don't Live by the Rules (feat Joe Grass)",
       "url": "https://open.spotify.com/track/61z2qry5ZoEHwuSZ17V63k"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,448 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,694 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 | 45 | [Love Hangover \- 12" Version](https://open.spotify.com/track/4NnTT5Bk4iddbZct0jz00I) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [All The Great Hits](https://open.spotify.com/album/4JsSOfR8Jp41NFjNaLZ7zU) | 7:54 |
 | 46 | [Burn Rubber On Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/track/4TgwFdlZfFzofbVA4W5QrZ) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [True Funk \[3 CD Set\]](https://open.spotify.com/album/6YQxPRto33Zn2SpzIFIobt) | 3:59 |
 | 47 | [Shake It Up](https://open.spotify.com/track/03AAIrcRJgzazS7R3eek5N) | [Divine](https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz) | [The 12" Collection](https://open.spotify.com/album/4pszojNDSBFpCwc7pqtxrM) | 6:08 |
-| 48 | [Think It Over](https://open.spotify.com/track/09HKieZL31JLWTb2s5tm6I) | [Cissy Houston](https://open.spotify.com/artist/4QYDxx5VDqINxMtUapyF9q) | [Think It Over](https://open.spotify.com/album/477ByKrt9WjP3DOmVi9oTQ) | 8:03 |
+| 48 | [Think It Over](https://open.spotify.com/track/09HKieZL31JLWTb2s5tm6I) | [Cissy Houston](https://open.spotify.com/artist/4QYDxx5VDqINxMtUapyF9q) | [Think It Over](https://open.spotify.com/album/477ByKrt9WjP3DOmVi9oTQ) | 5:54 |
 | 49 | [Knights in White Satin \- Remastered](https://open.spotify.com/track/2PkBUlyRJgmPIRFo0PTRCU) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Knights in White Satin \(Remastered Bonus Track Version\)](https://open.spotify.com/album/2XaH0tD9UH6EbRbc8WShpL) | 4:45 |
 | 50 | [I Am What I Am](https://open.spotify.com/track/4L9sdN5l6PvW3EZyP6sY7j) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Gloria Gaynor '90 \(All New Versions\)](https://open.spotify.com/album/3mn5uMVqqN1WPA2Jwd8lfk) | 3:27 |
 

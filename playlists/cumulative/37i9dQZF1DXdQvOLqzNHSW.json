@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 162710,
       "name": "7-21-17_substitute_hifi_v3",
       "url": "https://open.spotify.com/track/0GiYNY9eKlw0BpQMwXmr38"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 93969,
       "name": "Break it off",
       "url": "https://open.spotify.com/track/5892YX6q8y3Rs9OysF08kv"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 137218,
       "name": "Calico",
       "url": "https://open.spotify.com/track/51qhKBkmjhK6WhrGgHCtTu"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 156026,
       "name": "Care For You",
       "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
@@ -1666,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "SATURATION",
+        "url": "https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "FACE",
+      "url": "https://open.spotify.com/track/5bknBRjKJZ643DAN2w8Yoy"
+    },
+    {
+      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 102160,
       "name": "Hey Boy (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7twY0ucjaUFUNfjkCHj1Cs"
@@ -2871,7 +2889,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 262600,
       "name": "Lonely Shade of Blue",
       "url": "https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL"
@@ -3033,7 +3051,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 210730,
       "name": "Lower Than Low",
       "url": "https://open.spotify.com/track/4DWNqNszQGdVCceHPcdGBp"
@@ -3069,7 +3087,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 251034,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2QdSGpeLF0ZlAmhsf2lWhv"
@@ -3127,7 +3145,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 271578,
       "name": "Lucy - Gentle Dom Remix",
       "url": "https://open.spotify.com/track/5N8vDHwjXE8YB7nDKopI90"
@@ -3167,7 +3185,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 234357,
       "name": "Made",
       "url": "https://open.spotify.com/track/1c3llq4m0FYzMch1ZqQmiN"
@@ -3647,7 +3665,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 170893,
       "name": "Only in My Dreams",
       "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
@@ -3849,7 +3867,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 177226,
       "name": "Pirouette",
       "url": "https://open.spotify.com/track/5BfvUt5ztFuAyhWjgWzjr1"
@@ -4109,7 +4127,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP"
@@ -4253,7 +4271,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 168810,
       "name": "sex money feelings die - slowed version",
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
@@ -4625,7 +4643,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 159859,
       "name": "Stayback",
       "url": "https://open.spotify.com/track/1eaaALv53LViUGtOQ63jEn"
@@ -4643,7 +4661,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
@@ -4821,7 +4839,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 181120,
       "name": "Supermodel",
       "url": "https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU"
@@ -4991,7 +5009,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 321204,
       "name": "The Limit",
       "url": "https://open.spotify.com/track/5OBUmFuhkit7MYdaVZc2bs"
@@ -5197,7 +5215,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 252409,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8"
@@ -5215,7 +5233,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 292853,
       "name": "Touch",
       "url": "https://open.spotify.com/track/3A1kkAIXl4IPxeJRCCF4Bc"
@@ -5385,7 +5403,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 141587,
       "name": "Velvet Light",
       "url": "https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4"

@@ -4,7 +4,7 @@
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-53 songs - 3 hr 9 min - not published yet
+53 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/74OJ5cYHNaWeOdAyQV6W4i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Fuck'n'shit baby love!](https://open.spotify.com/track/35StJYMU9mlooTcnkJKD9W) | [Le Karlof Orchestra](https://open.spotify.com/artist/5jVN6sAwSOygXSPevl10xV) | [Fuck'n'shit baby love!](https://open.spotify.com/album/2Yr16L6r9thevk4K5OWeNh) | 2:07 | 2020-06-23 |  |
 | [Gros Tas d'Marde](https://open.spotify.com/track/1mmaW1XlXxi7quDB7Ne0BF) | [GrimSkunk](https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL) | [Fieldtrip](https://open.spotify.com/album/2sO6yUUyhX0OnTLfc3yCu0) | 3:10 | 2020-06-23 |  |
 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 | 2020-06-23 |  |
-| [Gwen Et Les Rats](https://open.spotify.com/track/40HtuAsUDbDG8FDjLUyaxj) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [L'amour la haine les animaux les automobiles](https://open.spotify.com/album/2fXJObc0jM7Zd6AdhR92DA) | 3:08 | 2020-06-23 |  |
+| [Gwen Et Les Rats](https://open.spotify.com/track/40HtuAsUDbDG8FDjLUyaxj) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [L'amour la haine les animaux les automobiles](https://open.spotify.com/album/2fXJObc0jM7Zd6AdhR92DA) | 3:08 | 2020-06-23 | 2022-05-16 |
 | [Hawaiienne](https://open.spotify.com/track/0BUD8MCnamel6skM7YCSJJ) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Gros mammouth album turbo](https://open.spotify.com/album/3gqXv0lUseQpAWqbjU3YQm) | 2:29 | 2020-06-23 |  |
 | [J'ai Oublié](https://open.spotify.com/track/4tX28kKt5YasANWQj9RgIR) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse Sociale](https://open.spotify.com/album/32OmCkG3Q6bsHQNNgbKrX3) | 3:55 | 2020-06-23 |  |
 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 | 2020-06-23 |  |
@@ -32,10 +32,10 @@
 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 | 2020-06-23 |  |
 | [Johnny Go](https://open.spotify.com/track/5o6rRZ8wzVlSonh1T49LWZ) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [Je joue de la guitare \(1985\-2003\)](https://open.spotify.com/album/2X3bC7wVi95qxWhWJFBjR5) | 5:28 | 2020-06-23 |  |
 | [Joyeus'ment désespéré](https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA) | [La Chango Family](https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8) | [La Chango Family](https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd) | 3:26 | 2020-06-23 |  |
-| [La chèvre](https://open.spotify.com/track/1FNNDPYgiLFjxdfIAKNiH1) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/7tete9W7uNYvZuL2TNgw5C) | 2:55 | 2020-06-23 |  |
+| [La chèvre](https://open.spotify.com/track/1FNNDPYgiLFjxdfIAKNiH1) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/7tete9W7uNYvZuL2TNgw5C) | 2:55 | 2020-06-23 | 2022-05-16 |
 | [Laissez venir à moi les grandes brunes](https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB) | [Le Nombre](https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d) | [Le Nombre](https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG) | 2:54 | 2020-06-23 |  |
 | [Le coup d'état](https://open.spotify.com/track/6vNUd4oWXksZURkuaZ0fti) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/6P6e4WkfYYx1cUa265Ibwj) | 4:22 | 2020-06-23 |  |
-| [Le métronome](https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Le compte complet](https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN) | 2:43 | 2020-06-23 | 2022-05-15 |
+| [Le métronome](https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Le compte complet](https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN) | 2:43 | 2020-06-23 |  |
 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 | 2020-06-23 |  |
 | [Le teint de Linda](https://open.spotify.com/track/5P4yUQ4w6u9qcCJFDfHApl) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Le chihuahua](https://open.spotify.com/album/3PVMvhoNafR5OjeRsz9DaY) | 4:39 | 2020-06-23 |  |
 | [Le temps passe](https://open.spotify.com/track/3sAZFLZVmiZJV6PCc4cFsq) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Chacun dans son espace](https://open.spotify.com/album/3lFC3QLYm10tvmRhANLMP3) | 3:24 | 2020-06-23 |  |
@@ -43,7 +43,7 @@
 | [Les patates](https://open.spotify.com/track/3Z3BvbtR8n2LxuZARFc2rW) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/6OULjgJloRJUYlWctThGkF) | 2:56 | 2020-06-23 |  |
 | [Ma dope à moi](https://open.spotify.com/track/3D7cavaQelyrkvP2kknMiU) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Western Romance](https://open.spotify.com/album/7iionYCbeYIliJLEzZIVrH) | 3:28 | 2020-06-23 |  |
 | [Magané](https://open.spotify.com/track/0TyfeeEi54ai07e7fI6KXK) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/7szcxj23WP3Y6B9KjqMVP4) | 3:47 | 2020-06-23 |  |
-| [Mini\-jupe et watusi](https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 1:57 | 2020-06-23 | 2022-05-15 |
+| [Mini\-jupe et watusi](https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 1:57 | 2020-06-23 |  |
 | [Miss Ecstasy](https://open.spotify.com/track/5fwF0ZdA8YPn2iDF78vYuR) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Dumas](https://open.spotify.com/album/3Q4MKOYexRnIgGSjziQUhm) | 3:55 | 2020-06-23 |  |
 | [Moisi moé'ssi](https://open.spotify.com/track/7KCuZqBiTccR0Hwp6yxDni) | [Fred Fortin](https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1) | [Joseph Antoine Frédéric Fortin Perron](https://open.spotify.com/album/1xbTtfA0OphaVhAktXJoC6) | 3:15 | 2020-06-23 |  |
 | [Mystère aérosol](https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu) | [Projet Orange](https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF) | [Projet Orange](https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM) | 3:56 | 2020-06-23 |  |

@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 281170,
       "name": "Baby Blu",
       "url": "https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 261773,
       "name": "California",
       "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 226234,
       "name": "Compromised",
       "url": "https://open.spotify.com/track/0TLHUakjgTs8KaSoCm0e8v"
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 192080,
       "name": "Feel It All Around",
       "url": "https://open.spotify.com/track/0BJTbkmrB2Y4E9M8qVzbYZ"
@@ -2263,7 +2263,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 190466,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/20CZyFEt1f9MAikYqM7vjU"
@@ -2299,7 +2299,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 204400,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/0VnLohgzwLEleLmo19Z8B0"
@@ -3239,7 +3239,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
@@ -3257,7 +3257,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 244946,
       "name": "Lemon Glow",
       "url": "https://open.spotify.com/track/7pD6katrwWH7H3Xt8cIZS9"
@@ -3462,6 +3462,24 @@
     },
     {
       "album": {
+        "name": "Chip Chrome & The Mono-Tones",
+        "url": "https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "Lost in Translation",
+      "url": "https://open.spotify.com/track/5TUZhrb8UaaA76NhzZax2Z"
+    },
+    {
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/2n5wpk7KaHpp3mgUYqpF4f"
       },
@@ -3509,7 +3527,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 220737,
       "name": "Love Me Like You Used To",
       "url": "https://open.spotify.com/track/6V5eKHRdQLaYLH7XPbtbOo"
@@ -3701,7 +3719,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 229173,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL"
@@ -3997,7 +4015,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 275306,
       "name": "Mykonos",
       "url": "https://open.spotify.com/track/18ycL9Q5zLDeY9M2Lr3Ozw"
@@ -4123,7 +4141,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 231173,
       "name": "New Slang",
       "url": "https://open.spotify.com/track/5oUV6yWdDM0R9Q2CizRhIt"
@@ -5031,7 +5049,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 226952,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/1fWwxmWor6QbvBeLSV428F"
@@ -5139,7 +5157,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 201053,
       "name": "Show Up",
       "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
@@ -5409,7 +5427,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 262736,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
@@ -5517,7 +5535,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 217026,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN"
@@ -5679,7 +5697,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 157800,
       "name": "Swing Lo Magellan",
       "url": "https://open.spotify.com/track/37cKyb3sDEt5hRSpBdsrns"
@@ -5827,7 +5845,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 301110,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/7uCq4vBPffjaTMlE8EQzJD"
@@ -6433,7 +6451,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 159320,
       "name": "Toothpaste Kisses",
       "url": "https://open.spotify.com/track/6jeWgaprnGyAsRhUcNuZKX"
@@ -6473,7 +6491,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 199320,
       "name": "Turn The Light",
       "url": "https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H"
@@ -6729,7 +6747,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 180133,
       "name": "Wave of Mutilation (UK Surf)",
       "url": "https://open.spotify.com/track/2KSSbWLAWSzaso01DEP32W"
@@ -6809,6 +6827,24 @@
       "duration_ms": 202026,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/3qL2jwvsVpY4hmek3t5ahn"
+    },
+    {
+      "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
     },
     {
       "album": {

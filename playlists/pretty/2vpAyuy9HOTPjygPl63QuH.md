@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,568 likes - 37 songs - 1 hr 59 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,572 likes - 37 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 20 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 |
 | 21 | [Sideline](https://open.spotify.com/track/0H3wnauakIIRxX51DkYtuc) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Sideline](https://open.spotify.com/album/21F97euPUgafnMNEiqlS3T) | 3:20 |
 | 22 | [Loca](https://open.spotify.com/track/1K7812gCyrt3oWM9KhyHYt) | [D\-Tek](https://open.spotify.com/artist/0Ss5Mgh4yOBheewjYwTJ7p) | [Loca](https://open.spotify.com/album/0yW54F75l7DJWNojmpC3EJ) | 5:35 |
-| 23 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 4:42 |
+| 23 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 |
 | 24 | [We Don’t Need](https://open.spotify.com/track/5AHZJSGknCqvbCwnsBbHzo) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1uUJoimjzFAbWUkhb8r52d) | 2:33 |
 | 25 | [704](https://open.spotify.com/track/3Eh4WCTvqTwvGn5xuKS6m9) | [Eauki](https://open.spotify.com/artist/2HCfBRvtzjEf2tH0kGKfxi) | [704](https://open.spotify.com/album/0VkwHWJK13Kv1NXhLJaHbj) | 2:53 |
 | 26 | [Hustler \- Radio Edit](https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Hustler](https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle) | 2:51 |

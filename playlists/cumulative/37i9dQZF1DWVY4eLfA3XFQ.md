@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring hand\-curated cuts from John Summit.
 
-407 songs - 1 day 0 hr 0 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+407 songs - 23 hr 59 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Rewind It Back](https://open.spotify.com/track/1o1WXMAEziMXSklmnTWKkf) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Rewind It Back](https://open.spotify.com/album/4DORITatWcmETmJzWT2Dt9) | 4:10 | 2022-02-25 | 2022-05-07 |
 | [Riser](https://open.spotify.com/track/73Szmmh8dQduG1jPY12zK8) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Riser](https://open.spotify.com/album/2Fph6wTWraY6XkhX3IZtrk) | 3:22 | 2022-02-18 | 2022-04-23 |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-05-13 |  |
-| [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 4:42 | 2022-05-13 |  |
+| [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-05-13 |  |
 | [Rock The House](https://open.spotify.com/track/51C2icKkwWdJRBErc2qno3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Rock The House EP](https://open.spotify.com/album/3IDGAi5SfiLS2HAGCpDmCA) | 2:59 | 2021-11-26 | 2022-01-06 |
 | [Rok The House](https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Rok The House](https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1) | 4:15 | 2022-05-13 |  |
 | [Roll Play](https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Roll Play](https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s) | 3:23 | 2022-02-04 | 2022-05-14 |

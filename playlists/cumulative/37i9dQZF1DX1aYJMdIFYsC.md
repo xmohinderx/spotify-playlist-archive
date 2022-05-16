@@ -4,12 +4,13 @@
 
 > Steam, steel, and cogs..\. the ultimate steampunk soundtrack.
 
-50 songs - 3 hr 19 min - not published yet
+52 songs - 3 hr 21 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A New Mission](https://open.spotify.com/track/4eryDkmhlSwLZhgVcgG9W0) | [Josh Whitehouse](https://open.spotify.com/artist/0yvmDpvW6wJgU3Et2ESc9G) | [Level Up](https://open.spotify.com/album/15jZo8EX7oE6N1EKrhinGC) | 5:00 | 2020-10-16 |  |
 | [Amulet](https://open.spotify.com/track/3L0bGiltGB95cDYaWGR7Xq) | [Copal](https://open.spotify.com/artist/5V39u9wTuNmiulZNOTJe8Y) | [Eso\-Terra](https://open.spotify.com/album/4R7c8fSzbyCB0gFJbWzjVU) | 4:52 | 2020-10-16 |  |
+| [At What Point Does a Shakespeare Say](https://open.spotify.com/track/5V29WDYHqVWER6XDR1bxS6) | [Emilie Autumn](https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC) | [Your Sugar Sits Untouched](https://open.spotify.com/album/4NLEY0kjRDR6Qzv8NQA6kc) | 0:34 | 2020-10-16 |  |
 | [Automatonic Electronic Harmonics](https://open.spotify.com/track/1vRnOlS6Hei11RiUkKCXkO) | [Steam Powered Giraffe](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) | [The 2¢ Show](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) | 5:18 | 2020-10-16 |  |
 | [Big Bang Theory Man](https://open.spotify.com/track/7c4mnic17Pi3iZK3Wrekwj) | [Clare Fader](https://open.spotify.com/artist/7mD8SI2zwq42L1PhDme5eE), [The Vaudevillains](https://open.spotify.com/artist/0jUXO59kkk0bItrLswund2) | [Seventh & Trade](https://open.spotify.com/album/5R1lWLuCJY0FNtpX1w4USe) | 4:46 | 2020-10-16 |  |
 | [Bottom of a Bender](https://open.spotify.com/track/4Zonz9vTCA1i1jJj1q2m4F) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Bottom of a Bender](https://open.spotify.com/album/1rXHd9KQmArOlcSGsqi3PZ) | 3:12 | 2020-10-16 |  |
@@ -19,7 +20,7 @@
 | [Clockwork Tiger](https://open.spotify.com/track/0RToqTkg0Ybskq73xELjL6) | [Sunday Driver](https://open.spotify.com/artist/7uwlJ8Ukz2zoC1XChgURoC) | [The Mutiny](https://open.spotify.com/album/2wpWH5HvAsmyodemSXxfRG) | 2:29 | 2020-10-16 |  |
 | [Contortionist Tango](https://open.spotify.com/track/6REr7zRu5MZHrFSAWdwhNU) | [Beat Circus](https://open.spotify.com/artist/1CHzjpDszfUNOxFOvA2GsH) | [Beat Circus: Ringleaders Revolt](https://open.spotify.com/album/3H4UfoGd5XnFlr07ObRiyA) | 6:55 | 2020-10-16 |  |
 | [Danger On the Dance Floor](https://open.spotify.com/track/0paNqyxJJVxexCM1XvHrxN) | [The Cog is Dead](https://open.spotify.com/artist/5aLQtm6eoBgUhsbHvgAJPF) | [Full Steam Ahead!](https://open.spotify.com/album/0iXVoCt3J3sam6QLPrWQM5) | 3:41 | 2020-10-16 |  |
-| [Evil Night Together](https://open.spotify.com/track/3abDzZQp1orhQbeYwd89Yq) | [Jill Tracy](https://open.spotify.com/artist/1mme7NxGRKLdbWrM77TWZf) | [Diabolical Streak](https://open.spotify.com/album/26RGsFk2sDDbS6OA0bVuyQ) | 4:35 | 2020-10-16 |  |
+| [Evil Night Together](https://open.spotify.com/track/3abDzZQp1orhQbeYwd89Yq) | [Jill Tracy](https://open.spotify.com/artist/1mme7NxGRKLdbWrM77TWZf) | [Diabolical Streak](https://open.spotify.com/album/26RGsFk2sDDbS6OA0bVuyQ) | 4:35 | 2020-10-16 | 2022-05-16 |
 | [Fighting Trousers](https://open.spotify.com/track/5d26M7OhCTM7TLeHJOFkg0) | [Professor Elemental](https://open.spotify.com/artist/74v1evvmANyDL1LqJiFIWm) | [The Indifference Engine](https://open.spotify.com/album/4b6Lqq2w8ch9heyZGhKR5Y) | 3:03 | 2020-10-16 |  |
 | [Geistzug](https://open.spotify.com/track/5fdo6fqNejb4KcOJ05IofQ) | [The Dead Brothers](https://open.spotify.com/artist/4mQTeNHQBqoPMzBJ7CtXk1) | [Flammend' Herz](https://open.spotify.com/album/3zfeImy92dfmMavqbb2in9) | 2:19 | 2020-10-16 |  |
 | [Girl Anachronism](https://open.spotify.com/track/6Zbv79YWB0iZSXwIwEsIOP) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [The Dresden Dolls](https://open.spotify.com/album/3BMhZk7YVMQBh0Y4DuyNSt) | 2:59 | 2020-10-16 |  |
@@ -55,7 +56,8 @@
 | [The Magic Lantern](https://open.spotify.com/track/6Zm6CEs3wDrrvZKfrDUEkR) | [KK & The Steampunk Orchestra](https://open.spotify.com/artist/5v15e125hR9WhmRg4HCwM7) | [The Magic Lantern](https://open.spotify.com/album/3tM7UlLWCLFpJEOEHNehoJ) | 3:53 | 2020-10-16 |  |
 | [Thor](https://open.spotify.com/track/2XZHL0Lst5dUViEBjXECbM) | [The Mechanisms](https://open.spotify.com/artist/6UE22SCOUOw9zE4ggbtiWa) | [The Bifrost Incident](https://open.spotify.com/album/2i8KURNn2NsHnYkhGeOwOh) | 3:26 | 2020-10-16 |  |
 | [Thundering Steel](https://open.spotify.com/track/4EjmZX0OldwlGKmpHeaSl0) | [Dave Sixx](https://open.spotify.com/artist/5bmP4QfBTH1aWj77rkwVvV) | [Sixxsteria](https://open.spotify.com/album/02fF6tHO8TNYCHx3wuxYpU) | 5:25 | 2020-10-16 |  |
-| [Vale Of Tears](https://open.spotify.com/track/7xDNlARZ816nAoDnYZOP8y) | [Jason Tai](https://open.spotify.com/artist/64EvqHQl0WKa7i6XPxc6nb) | [Alice: Madness Returns](https://open.spotify.com/album/64tWgbxQcc8dLBuh3VfyNG) | 1:05 | 2020-10-16 |  |
+| [Trucks, Tractors and Trains](https://open.spotify.com/track/7poJytZ2JvaJvXdttYfYaj) | [The Dirt Daubers](https://open.spotify.com/artist/3ReEQiErbGXctjBteIvbor) | [Wake Up, Sinners](https://open.spotify.com/album/2anTcwhO5xPQh7x60DuzYv) | 2:12 | 2020-10-16 |  |
+| [Vale Of Tears](https://open.spotify.com/track/7xDNlARZ816nAoDnYZOP8y) | [Jason Tai](https://open.spotify.com/artist/64EvqHQl0WKa7i6XPxc6nb) | [Alice: Madness Returns](https://open.spotify.com/album/64tWgbxQcc8dLBuh3VfyNG) | 1:05 | 2020-10-16 | 2022-05-16 |
 | [Victorian Dream](https://open.spotify.com/track/3vct6yPe3y4UnrIicr8eYj) | [The Electro Swingers](https://open.spotify.com/artist/6rUcuDz43LI9Q4vwx8J9HZ) | [Steampunk](https://open.spotify.com/album/3DI0fmy2m0QXlGLTPs5w3Q) | 3:58 | 2020-10-16 |  |
 | [You're All Scotch, No Soda](https://open.spotify.com/track/5IFRQp9ldK2GzqWS90itnO) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [You're All Scotch, No Soda](https://open.spotify.com/album/73denE4WcST4WaBBs37Lw3) | 2:52 | 2020-10-16 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 219 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 219 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,10 +105,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 95 | [School Hard](https://open.spotify.com/track/5TivemrBkp7R9jzrxMwsnz) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:25 |
 | 96 | [Inca Mummy Girl](https://open.spotify.com/track/4IGFakgfcHaazKDWRT61L4) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:51 |
 | 97 | [Passion](https://open.spotify.com/track/6PAOm2RK2cLIXNFoVMCwmc) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:05 |
-| 98 | [Homecoming](https://open.spotify.com/track/3cU8K4fe4iHcG6A0XEY1Dz) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:57 |
-| 99 | [Becoming](https://open.spotify.com/track/6AdnnraBqMxYRN2PEgY411) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:27 |
-| 100 | [Enemies](https://open.spotify.com/track/5Yud91saFTSx1f8asqb6ky) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:31 |
-| 101 | [Cinnamon \(feat\. Genevieve Stokes\)](https://open.spotify.com/track/6aQXVBCsGYRSpUp9cRkz3f) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 2:54 |
+| 98 | [Cinnamon \(feat\. Genevieve Stokes\)](https://open.spotify.com/track/6aQXVBCsGYRSpUp9cRkz3f) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 2:54 |
+| 99 | [Homecoming](https://open.spotify.com/track/3cU8K4fe4iHcG6A0XEY1Dz) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:57 |
+| 100 | [Becoming](https://open.spotify.com/track/6AdnnraBqMxYRN2PEgY411) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:27 |
+| 101 | [Enemies](https://open.spotify.com/track/5Yud91saFTSx1f8asqb6ky) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:31 |
 | 102 | [The Dark Age](https://open.spotify.com/track/1GQX77LeKKgbf9x8WpgeO3) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:14 |
 | 103 | [Amends](https://open.spotify.com/track/1rX0Eg5DdVzrwmgeXr4p4I) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 3:06 |
 | 104 | [Phases](https://open.spotify.com/track/1BgftfXFND4zCyLiqZvDxf) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:51 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 218 | [Wow Wow Wow](https://open.spotify.com/track/1LexMbAap7y77uKFMtRr53) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:22 |
 | 219 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc1NDI5NTAsMDAwMDAwMDBjNDczYjFiOWM2NjZmNTZkZmU5M2FkNGQxMzg5MzQ5Mw==`
+Snapshot ID: `Mjc1NDQzOTAsMDAwMDAwMDAzNThkOTU5N2Q2NWU5NjhlMThhYzIxZTRhYWM0MTk2Yw==`

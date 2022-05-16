@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/6GK7MOPqacKl84T0r6Rctc"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5DOZZe7PypFsrvJY8KSjpT"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -421,7 +439,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 214214,
       "name": "Commercial (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA"
@@ -443,7 +461,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 245813,
       "name": "Dedication (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6fIjnWrv46njJHLDAY2JdC"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 184573,
       "name": "Dre Grant",
       "url": "https://open.spotify.com/track/1YBo2pYIAlkfPLrIoucRLl"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 190541,
       "name": "PO UP",
       "url": "https://open.spotify.com/track/1ASG65sSdIL1z1NTPN4nhg"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 121346,
       "name": "REEL IT IN",
       "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 339506,
       "name": "Seeing Green (with Drake & Lil Wayne)",
       "url": "https://open.spotify.com/track/1TZv3bujNaYz646eezRE91"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 270714,
       "name": "STARGAZING",
       "url": "https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m"
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 173419,
       "name": "Still Runnin (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 255532,
       "name": "Straightenin",
       "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 176542,
       "name": "Trials & Tribulations",
       "url": "https://open.spotify.com/track/6V1Jx3o0S2MtBI9yIDXsJS"
@@ -1693,7 +1711,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 311960,
       "name": "Views",
       "url": "https://open.spotify.com/track/7MjSipTto9QljYzZnloXOn"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 143152,
       "name": "Woodlawn",
       "url": "https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Worked Hard",
       "url": "https://open.spotify.com/track/00V76gpjbXHTGQJKa2l6yC"

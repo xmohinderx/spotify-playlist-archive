@@ -4,7 +4,7 @@
 
 > Swedish house icons <a href ="spotify:artist:6rgEPiKjowlMKZC1DF6W75">Rebecca & Fiona</a> kicking off rave season with their gem filled spring mix!
 
-15 songs - 57 min 31 sec - not published yet
+15 songs - 57 min 31 sec - [published](https://open.spotify.com/playlist/2ksH0mMLjVf7R6ghfBiEBM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

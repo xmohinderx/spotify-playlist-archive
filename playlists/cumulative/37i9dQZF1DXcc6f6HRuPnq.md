@@ -4,7 +4,7 @@
 
 > Late night cool and the sound of smooth blues.
 
-52 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/1lH2OQ6D3sovihnuAm71bl)
+53 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/1lH2OQ6D3sovihnuAm71bl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Be Careful With a Fool](https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 5:14 | 2022-04-08 |  |
 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 | 2022-04-08 |  |
 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 | 2022-04-20 |  |
+| [Blue Because Of You](https://open.spotify.com/track/0dvTYGTfv30BCYbLCORKcb) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY) | [I Feel Like Steppin' Out](https://open.spotify.com/album/577wQlMr4FANgCxSxGuC24) | 2:31 | 2022-05-13 |  |
 | [Blue Jean Blues \- 2005 Remaster](https://open.spotify.com/track/6Gyk7ZHfFWo3d8U7poUEPs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 4:42 | 2022-04-08 |  |
 | [Blue Midnight](https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:24 | 2022-04-08 |  |
 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 | 2022-04-08 |  |
@@ -49,7 +50,7 @@
 | [RHYTHMS OF THE NIGHT](https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [The Black Tornado](https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD) | [Track Record](https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR) | 3:46 | 2022-04-08 |  |
 | [Same Old Blues Again](https://open.spotify.com/track/4iDihtKlKU9RgCnRkn0tmM) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/1JYSyzv0oKu42PeEtQLKOE) | 6:13 | 2022-04-08 |  |
 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 | 2022-04-08 | 2022-05-15 |
-| [Ships on the Ocean](https://open.spotify.com/track/5qZkTvK2yktEtZ1BxJeGCr) | [Junior Wells' Chicago Blues Band](https://open.spotify.com/artist/3qhyjnRYQ1YprGjhvGQ8GP) | [Hoodoo Man Blues](https://open.spotify.com/album/3TBecWtWPePxMvoqNAEuDt) | 4:07 | 2022-04-08 |  |
+| [Ships on the Ocean](https://open.spotify.com/track/5qZkTvK2yktEtZ1BxJeGCr) | [Junior Wells' Chicago Blues Band](https://open.spotify.com/artist/3qhyjnRYQ1YprGjhvGQ8GP) | [Hoodoo Man Blues](https://open.spotify.com/album/3TBecWtWPePxMvoqNAEuDt) | 4:07 | 2022-04-08 | 2022-05-16 |
 | [Since I Fell For You](https://open.spotify.com/track/1OuJhCr6p1n5XYbaUNScvl) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Sings The Blues](https://open.spotify.com/album/14VAZhx1Qgx05WedZMVCG2) | 2:50 | 2022-04-08 |  |
 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 | 2022-04-08 |  |
 | [Sweet Little Angel](https://open.spotify.com/track/0vUyPyd5cuIZIxTrvrtbR1) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/1JQtDephsJMr9tWdtYgv2y) | 5:30 | 2022-04-08 |  |

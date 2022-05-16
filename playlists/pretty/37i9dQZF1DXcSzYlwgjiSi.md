@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water\. Featuring Conner Smith, MacKenzie Porter, Kidd G and Alana Springsteen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,313 likes - 148 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,858 likes - 148 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

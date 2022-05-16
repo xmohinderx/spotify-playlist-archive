@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 319493,
       "name": "1982",
       "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 216360,
       "name": "Boylife in EU",
       "url": "https://open.spotify.com/track/1WA5dWFBwokGf1dIRLYwVD"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 188600,
       "name": "Eat The Runway",
       "url": "https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 176013,
       "name": "Larme \u00e0 gauche",
       "url": "https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 267666,
       "name": "Little Fluffy Clouds",
       "url": "https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 293200,
       "name": "Never Sleep",
       "url": "https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT"
@@ -1252,6 +1252,24 @@
     },
     {
       "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/4zm8WUzddQmzkyubU8ddSj"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202537,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/31FUO6PYWcal7MF4EqSdLs"
+    },
+    {
+      "album": {
         "name": "Orvnge",
         "url": "https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU"
       },
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 262327,
       "name": "Orvnge",
       "url": "https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN"
@@ -1845,7 +1863,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 397106,
       "name": "The Volume",
       "url": "https://open.spotify.com/track/1qWRGD7w0sd4ManHNxEjOa"
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 389748,
       "name": "We're Alive - Virgil Abloh Remix",
       "url": "https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5"

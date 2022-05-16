@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwRv0cVNFLv.md) - [plain]
 
 > Sounds of the city to help you drift off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,255 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,300 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

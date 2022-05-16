@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,211 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,617 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 3 | [Move It](https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Move It](https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza) | 3:21 |
 | 4 | [Dreaming](https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming](https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB) | 2:16 |
 | 5 | [Essa Mina](https://open.spotify.com/track/1D7rwwv3n4ChKvS3CyMiGL) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Essa Mina](https://open.spotify.com/album/3eaQmIHdcfnwCq68lJzKYH) | 6:10 |
-| 6 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 4:42 |
+| 6 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 |
 | 7 | [Let's Rave, Make Love](https://open.spotify.com/track/6mylgnvuGYjcakF6ur4uHC) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ) | [Welcome Home](https://open.spotify.com/album/1Jz9lsCZlbb7pW829VbgXH) | 3:20 |
 | 8 | [1F2F](https://open.spotify.com/track/77sxAECGDQdMvNa82MVHGt) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [OGAQUAFINA](https://open.spotify.com/artist/07E0xIjCv2xkPCR7KCr9aK) | [1F2F](https://open.spotify.com/album/1FHvEp9a23CmefSGUrwsrs) | 2:55 |
 | 9 | [Goodies](https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [FUSE](https://open.spotify.com/artist/7xCCjSSqo7y2OUpJ2DMMrs) | [Goodies](https://open.spotify.com/album/1XjtyTyruK0RoGOuVsQNqc) | 2:27 |

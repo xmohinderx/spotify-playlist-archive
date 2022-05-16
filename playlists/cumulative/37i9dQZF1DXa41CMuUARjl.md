@@ -4,7 +4,7 @@
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from The Chainsmokers, John Summit, Shygirl, and more!
 
-11,760 songs - 30 day 9 hr 56 min - [published](https://open.spotify.com/playlist/4TOQwqGEcog6JnWS2hyokn)
+11,760 songs - 30 day 9 hr 55 min - [published](https://open.spotify.com/playlist/4TOQwqGEcog6JnWS2hyokn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8422,7 +8422,7 @@
 | [River](https://open.spotify.com/track/6vyYiUliVaGVnv5nDnM93F) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [River](https://open.spotify.com/album/2BwhZaYdOd12lBFPATDOpl) | 3:20 | 2020-12-11 | 2020-12-18 |
 | [River \(feat\. Parson James\)](https://open.spotify.com/track/6OOkLUhFFnaj6l9LcPHzHN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [River \(feat\. Parson James\)](https://open.spotify.com/album/79KK6T8sXDlYgXWk8bi6VE) | 3:30 | 2021-10-23 | 2021-10-30 |
 | [River \(feat\. Parson James\) \[The Magician Remix\]](https://open.spotify.com/track/6GF8u7oem3HFXCtvAyJTWp) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [River \(feat\. Parson James\) \[The Magician Remix\]](https://open.spotify.com/album/5X5T4SqMFpi3GMLO1cA0FU) | 3:36 | 2021-11-13 | 2021-11-20 |
-| [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 4:42 | 2022-05-13 |  |
+| [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-05-13 |  |
 | [Road Home \(feat\. David Philips\)](https://open.spotify.com/track/4d1cBgZnSE8T3t5GGM3HHQ) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [David Philips](https://open.spotify.com/artist/6ApJfod7CMAXJN5qPr8F7l) | [Into Daylight](https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l) | 4:21 | 2020-07-24 | 2020-07-25 |
 | [Roads](https://open.spotify.com/track/6vTkm9sUwIp43vbPdyLAvR) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Philip Matta](https://open.spotify.com/artist/2lIMcjPyQfofX9H4PUB1CU) | [Roads](https://open.spotify.com/album/7cKb6JfCIFnzAkMIdlAGv4) | 2:41 | 2020-09-04 | 2020-09-11 |
 | [Roads](https://open.spotify.com/track/3orkqtg0LgCFiHvAtKs7yE) | [SO Lush](https://open.spotify.com/artist/61HhRAsOGRq1LapCGhcnL8) | [Roads](https://open.spotify.com/album/2EIXYruPiwjlEw5miWuenx) | 2:42 | 2020-09-11 | 2020-09-18 |

@@ -4,12 +4,13 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-63 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/5sKVVJySgFONogn0anMM3a)
+64 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/5sKVVJySgFONogn0anMM3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 True Love](https://open.spotify.com/track/2dJ1UJEQQq3jkLSJP4ZIoi) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:19 | 2022-03-16 |  |
 | [A Conversation](https://open.spotify.com/track/5xdfZDKwjrnmUwgbJWT0tg) | [Ben Whishaw](https://open.spotify.com/artist/7pn3GFqPy6gZ6AdwpjSFpD) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 2:42 | 2022-03-16 |  |
+| [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/7GMnw8RukplHysVYkXRUlm) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Lullaby](https://open.spotify.com/album/3x1AMj0KFpGzJrmWsCPxxc) | 2:16 | 2022-05-15 |  |
 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/3s6nfqfT6kyLBT10vs0M4l) | [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:00 | 2022-03-16 |  |
 | [A Girl Worth Fighting For](https://open.spotify.com/track/3wjgPeXocinhLyPL37p70e) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Harvey Fierstein](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9), [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP), [James Hong](https://open.spotify.com/artist/00erTY7OuCOdNTN36srPNN), [Jerry Tondo](https://open.spotify.com/artist/3wUpOiaLjwAZNregbC7CxO), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mulan \(Original Soundtrack\)](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 2:26 | 2022-03-16 |  |
 | [A Whole New World](https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin Special Edition](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) | 2:40 | 2022-03-16 |  |

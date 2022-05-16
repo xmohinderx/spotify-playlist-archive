@@ -4,11 +4,12 @@
 
 > 最新K\-POP楽曲で彩られたミュージックロマンスドラマ『サウンドトラック \#1』<a href="https://disneyplus.disney.co.jp/program/soundtrack\-1">Disney+で全話独占配信中</a>
 
-23 songs - 1 hr 25 min - not published yet
+24 songs - 1 hr 28 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A little more](https://open.spotify.com/track/5JXZEz2nO23mXsYY4nNREW) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [A little more \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd) | 3:32 | 2022-04-13 |  |
+| [A little more \- Instrumental](https://open.spotify.com/track/26iTiFmpxJTEKqZXhIvRit) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [A little more \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd) | 3:32 | 2022-04-13 |  |
 | [Love beyond words](https://open.spotify.com/track/1pPwl2q0bFgGh8l8ssRVEW) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/38kBeYr1NaLzclPCJGipMM) | 3:53 | 2022-04-13 |  |
 | [Love beyond words](https://open.spotify.com/track/40c4m7jV3UFTaqCxdm6AFB) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/7e1IQJXFhJ8WgMt2t22oJ9) | 3:53 | 2022-04-13 |  |
 | [Love beyond words \- Instrumental](https://open.spotify.com/track/0inBLZZp4n4hd3JnJfNd1M) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/38kBeYr1NaLzclPCJGipMM) | 3:53 | 2022-04-13 |  |
@@ -30,6 +31,6 @@
 | [We'll shine brighter than any other stars](https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [We'll shine brighter than any other stars \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv) | 3:49 | 2022-04-13 |  |
 | [We'll shine brighter than any other stars \- Instrumental](https://open.spotify.com/track/45Xb5LOFmd2iPILc8gH95k) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [We'll shine brighter than any other stars \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv) | 3:49 | 2022-04-13 |  |
 | [Your tender heart hurts me](https://open.spotify.com/track/6ShXmyHOzhNANXSquXe5UQ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Your tender heart hurts me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5) | 3:40 | 2022-04-13 |  |
-| [Your tender heart hurts me \- Instrumental](https://open.spotify.com/track/6Dbk8sNFxJDAVdvNBAvYkZ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Your tender heart hurts me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5) | 3:40 | 2022-04-13 |  |
+| [Your tender heart hurts me \- Instrumental](https://open.spotify.com/track/6Dbk8sNFxJDAVdvNBAvYkZ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Your tender heart hurts me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5) | 3:40 | 2022-04-13 | 2022-05-16 |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Os Originais Do Samba",
+        "url": "https://open.spotify.com/album/72ITnY3eflQkRLbLYkRkaZ"
+      },
+      "artists": [
+        {
+          "name": "Os Originais Do Samba",
+          "url": "https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg"
+        }
+      ],
+      "date_added": "2020-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180426,
+      "name": "Bacubufo no Caterefofo",
+      "url": "https://open.spotify.com/track/4qYPghBgWQe3ho7wgcuWuw"
+    },
+    {
+      "album": {
         "name": "Joe Cuba - El Alcalde Del Barrio",
         "url": "https://open.spotify.com/album/5A204B0ZpW2ZYANvA4tSyL"
       },
@@ -481,7 +499,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 218373,
       "name": "Com qualquer dois mil r\u00e9is",
       "url": "https://open.spotify.com/track/7x4RlD4cgBUUnxh6k35kaE"
@@ -539,6 +557,28 @@
       "duration_ms": 274893,
       "name": "Deixa A Vida Me Levar",
       "url": "https://open.spotify.com/track/3IGssOQU1XqizfaLUro3iE"
+    },
+    {
+      "album": {
+        "name": "Para Todo el Mundo, Vol. 2",
+        "url": "https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        },
+        {
+          "name": "Enrique Delgado",
+          "url": "https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx"
+        }
+      ],
+      "date_added": "2020-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220080,
+      "name": "Elsa",
+      "url": "https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7"
     },
     {
       "album": {
@@ -629,7 +669,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 151106,
       "name": "Guardei Minha Viola",
       "url": "https://open.spotify.com/track/1YwIo9Rs7ptTQHQyWDKdfS"
@@ -831,7 +871,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 80458,
       "name": "Lobo Bobo",
       "url": "https://open.spotify.com/track/1hwFKqDGLoRqpQHDLrPze4"
@@ -853,7 +893,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 294049,
       "name": "Mantra (Feat. Emicida)",
       "url": "https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ"
@@ -1143,7 +1183,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 310640,
       "name": "On Line",
       "url": "https://open.spotify.com/track/0I0ecglyMWHSqlMHsrUjuE"
@@ -1179,7 +1219,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 115266,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
@@ -1215,7 +1255,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 207466,
       "name": "Partido Alto",
       "url": "https://open.spotify.com/track/1IShOhCBfP7ePVNuK1L7cP"
@@ -1273,7 +1313,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 198466,
       "name": "Quando voc\u00ea chegar",
       "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
@@ -1559,7 +1599,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 185546,
       "name": "Soy El Rey",
       "url": "https://open.spotify.com/track/1pyKmZRflwwY85QnNcRXgv"
@@ -1813,7 +1853,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 219493,
       "name": "Zazueira (with Stanley Turrentine)",
       "url": "https://open.spotify.com/track/4Asm2SGig47qpAePl8Wj8r"

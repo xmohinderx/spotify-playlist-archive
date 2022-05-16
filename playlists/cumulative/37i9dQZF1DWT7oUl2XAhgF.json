@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-14",
   "description": "A new take on a classic sound. Cover: Tank and the Bangas",
   "name": "Retro Soul",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "19AFs6pZ8WyCXnrxjl6M3m"
+  ],
   "tracks": [
     {
       "album": {
@@ -43,6 +45,46 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu"
+    },
+    {
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/0lGPCXSe5AHUtZRuOXebAR"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248777,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/18vFLgoBcvIXsJP7pTX93e"
+    },
+    {
+      "album": {
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+      },
+      "artists": [
+        {
+          "name": "Quinn Devlin & The Bridge Street Kings",
+          "url": "https://open.spotify.com/artist/0QCy04wEhExkkQ1AzueEYb"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
     },
     {
       "album": {
@@ -339,7 +381,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 235791,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/4GGy6xG1PIp1RXUNC2Tea3"
@@ -361,6 +403,28 @@
       "duration_ms": 166440,
       "name": "Free",
       "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
+    },
+    {
+      "album": {
+        "name": "Get Back To The Land",
+        "url": "https://open.spotify.com/album/1wHQdMICR6yPfZfvKfh2up"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        },
+        {
+          "name": "Emma Donovan",
+          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266350,
+      "name": "Get Back To The Land",
+      "url": "https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L"
     },
     {
       "album": {
@@ -545,7 +609,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 180061,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez"
@@ -585,7 +649,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 221435,
       "name": "If My Love Was Enough",
       "url": "https://open.spotify.com/track/5aXJA4672geISfKvJYMvP2"

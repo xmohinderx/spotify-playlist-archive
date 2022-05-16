@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 478853,
       "name": "Altar of Tammy",
       "url": "https://open.spotify.com/track/0vY8f5mk1hJJ9qVWqYy0pU"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 625133,
       "name": "Are You There?",
       "url": "https://open.spotify.com/track/4uGWu07IXviuhwKIK9yafr"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 346133,
       "name": "Be the Light",
       "url": "https://open.spotify.com/track/3BgjBJHBnRWY2Ah4L5vLz4"
@@ -424,6 +424,28 @@
     },
     {
       "album": {
+        "name": "Didn't See The Comet",
+        "url": "https://open.spotify.com/album/1yNLDRaMnJDZ1Xp81WQAfg"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        },
+        {
+          "name": "Paul Sukeena",
+          "url": "https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363200,
+      "name": "Didn't See The Comet",
+      "url": "https://open.spotify.com/track/02iSZuD2mo9C7bEAsrDmWr"
+    },
+    {
+      "album": {
         "name": "Dragoon",
         "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
       },
@@ -435,7 +457,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 183050,
       "name": "Dragoon",
       "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
@@ -457,7 +479,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 173705,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK"
@@ -847,7 +869,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 136846,
       "name": "I Wonder As I Wander",
       "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
@@ -981,7 +1003,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 164589,
       "name": "Lakeshore",
       "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
@@ -1057,7 +1079,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 360006,
       "name": "Love is a Shelter",
       "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
@@ -1111,7 +1133,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 393195,
       "name": "Monastic",
       "url": "https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu"
@@ -1201,7 +1223,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 367717,
       "name": "No Clearings, No Wide Open Fields",
       "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
@@ -1277,7 +1299,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 256026,
       "name": "Open Hill",
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
@@ -1313,7 +1335,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 405400,
       "name": "Out of It",
       "url": "https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR"
@@ -1367,7 +1389,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 593866,
       "name": "Pendulum Man",
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
@@ -1475,7 +1497,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 450666,
       "name": "Sailing to Byzantium",
       "url": "https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ"
@@ -1493,7 +1515,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 265000,
       "name": "Samadhi",
       "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
@@ -1717,7 +1739,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 354066,
       "name": "The First Glimmer of Wind",
       "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
@@ -2013,7 +2035,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 355506,
       "name": "White Stork",
       "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"

@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 258893,
       "name": "At A Glance",
       "url": "https://open.spotify.com/track/6ZVjpala82zQqrzorpZcP4"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 396320,
       "name": "Based On Gustav",
       "url": "https://open.spotify.com/track/03CuJU4nQBANkiHpRrazC9"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 179586,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/4B4B5pOvFvjYYNqulRp5rR"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 494560,
       "name": "Catania",
       "url": "https://open.spotify.com/track/6UTpD8V1LjuiFstPVKthsc"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 308360,
       "name": "Elegie",
       "url": "https://open.spotify.com/track/3bYT76g5wumXxwrnNejxMf"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 366666,
       "name": "Everytime I Think Of You",
       "url": "https://open.spotify.com/track/72zSB5CoyY1zfNvQSkGQN8"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 358986,
       "name": "Find The Way",
       "url": "https://open.spotify.com/track/2sKg6jqljgKwOetEUJPaJX"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 350386,
       "name": "For You I'll Do Anything",
       "url": "https://open.spotify.com/track/1I9FUmm7nEBZix5guZxmEJ"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 342000,
       "name": "Glade",
       "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 312080,
       "name": "Hush - Nikki Iles",
       "url": "https://open.spotify.com/track/2kkgAsYTi28uYl7KM0BJCr"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 241133,
       "name": "I Remember Clifford - Live At Philharmonie, Munich / 1986",
       "url": "https://open.spotify.com/track/1Q69Gb6Atyr6gLHj5Rkd3B"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 533800,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/2W6JLNB4tOiP6dZBQE1ANE"
@@ -1482,6 +1482,32 @@
     },
     {
       "album": {
+        "name": "Shifting Sands",
+        "url": "https://open.spotify.com/album/4P3X3u2Rmp685DIao3s5Qt"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Elchin Shirinov",
+          "url": "https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311950,
+      "name": "Kinderblock",
+      "url": "https://open.spotify.com/track/0NXCAsU4pdUEpTXWuD1WQe"
+    },
+    {
+      "album": {
         "name": "Chimes of Freedom",
         "url": "https://open.spotify.com/album/1Fq52NWNh9YbQ08M7fitXG"
       },
@@ -1519,7 +1545,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 210793,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0lBCnUEZ54x5O4YiZQCjcR"
@@ -1549,6 +1575,24 @@
       "duration_ms": 361813,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK"
+    },
+    {
+      "album": {
+        "name": "The Artist",
+        "url": "https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324680,
+      "name": "Life is a Beautiful Thing",
+      "url": "https://open.spotify.com/track/5E2naT4wvGkEhYj9US26GQ"
     },
     {
       "album": {
@@ -1771,7 +1815,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 329720,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/6MNfoIb4EDeXbIS8TroQzw"
@@ -2209,7 +2253,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 329166,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C"
@@ -2227,7 +2271,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 283346,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z"
@@ -2645,7 +2689,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 438318,
       "name": "Story II: Early Snow",
       "url": "https://open.spotify.com/track/6IDHaero0jclHqzqk2PXzy"
@@ -2933,7 +2977,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 155786,
       "name": "The Longing",
       "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
@@ -3097,7 +3141,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 439133,
       "name": "Transparence",
       "url": "https://open.spotify.com/track/5ab8HwacbJDpquK57MRhH2"
@@ -3115,7 +3159,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 295466,
       "name": "Triste Ba\u00eda da Guanabara",
       "url": "https://open.spotify.com/track/5lfDj6Vix80pnherzmrI0I"
@@ -3321,7 +3365,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 326758,
       "name": "Words of Hope",
       "url": "https://open.spotify.com/track/22ANqZfFu8nHuTSWtmBq7s"
@@ -3347,7 +3391,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-16",
       "duration_ms": 535480,
       "name": "Yesterdays - Live",
       "url": "https://open.spotify.com/track/19x3hs8m84gCkXnxhSJLQu"

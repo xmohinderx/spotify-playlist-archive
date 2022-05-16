@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,502 likes - 106 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,515 likes - 106 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

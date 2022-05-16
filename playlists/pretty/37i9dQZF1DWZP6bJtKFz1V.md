@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,310 likes - 115 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,330 likes - 115 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
