@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-150 songs - 7 hr 6 min - not published yet
+150 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

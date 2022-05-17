@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Death Cab for Cutie
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,618 likes - 115 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,682 likes - 115 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

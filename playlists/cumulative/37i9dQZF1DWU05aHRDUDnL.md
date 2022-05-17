@@ -4,7 +4,7 @@
 
 > Put your headphones on and enjoy your day.
 
-20 songs - 1 hr 13 min - not published yet
+20 songs - 1 hr 13 min - [published](https://open.spotify.com/playlist/5HtQ5iF2YeYyvQtg5eHFJB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

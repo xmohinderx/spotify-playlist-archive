@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-331 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+332 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [K.A.B](https://open.spotify.com/track/0eQnQIkGXKgkRZeWp0tSci) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl), [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [K.A.B](https://open.spotify.com/album/09ZfS3qdGryVWizzi7dyob) | 3:12 | 2022-01-06 | 2022-03-04 |
 | [Kalejdoskop](https://open.spotify.com/track/1YkRezYJi1XKYmhG1GidUd) | [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c), [Käp](https://open.spotify.com/artist/13jd8ireAONmQcSDY3cMka), [Trainspotters](https://open.spotify.com/artist/4dq4bHaTzqLMpRwGJFuuxy) | [Northerntörpalisticarportmuzik](https://open.spotify.com/album/3uXQpUeiq0T1HkBG88763T) | 2:40 | 2021-12-16 | 2022-01-07 |
 | [KALLARNA](https://open.spotify.com/track/23QBUPGX3M7NcZZgVncrxT) | [2.clock](https://open.spotify.com/artist/5bEjof3z83fLcU9U56ceXp), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [KALLARNA](https://open.spotify.com/album/71KUyWkzULfQAFhhD22Zlv) | 2:06 | 2022-01-06 | 2022-02-21 |
-| [Kan du höra mig](https://open.spotify.com/track/6u5dulzeQXHhvgWBwyq353) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [This Is Sweden](https://open.spotify.com/album/78a2aU0NlQvynaBaAY0uLd) | 2:08 | 2022-05-11 |  |
+| [KAN DU HÖRA MIG](https://open.spotify.com/track/0axiFHTxgJ3lDyOcVUKYHM) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [KAN DU HÖRA MIG](https://open.spotify.com/album/2jyay8R58Y2lf2iwdzyByI) | 2:08 | 2022-05-16 |  |
+| [Kan du höra mig](https://open.spotify.com/track/6u5dulzeQXHhvgWBwyq353) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [This Is Sweden](https://open.spotify.com/album/78a2aU0NlQvynaBaAY0uLd) | 2:08 | 2022-05-11 | 2022-05-17 |
 | [Kanariefåglar](https://open.spotify.com/track/7q558L22GIsm1yozoYeSq0) | [Nomad](https://open.spotify.com/artist/264V8HSZDhiq3MPrTnVmed), [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [More 10](https://open.spotify.com/artist/2tp6KnR4tYjOrpnwwwWGeu) | [Kanariefåglar](https://open.spotify.com/album/59CL5kDZZ33MEEn8TB6gIo) | 2:22 | 2022-04-21 |  |
 | [KANTE](https://open.spotify.com/track/5Fohw3lsJpRNw0gVSqdMBq) | [Chico](https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n) | [KANTE](https://open.spotify.com/album/1y7Z6ramcSDFtYw9dMuOzT) | 3:04 | 2022-02-10 | 2022-03-05 |
 | [KARANTÄN](https://open.spotify.com/track/505kSNIUlxBUiDIgP2JFsz) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [KARANTÄN](https://open.spotify.com/album/5tpyOU7fsPLkSP0o9ST5Fj) | 2:24 | 2022-03-03 | 2022-03-25 |

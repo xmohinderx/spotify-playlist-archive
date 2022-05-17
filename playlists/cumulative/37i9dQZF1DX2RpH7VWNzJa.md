@@ -4,7 +4,7 @@
 
 > No te preocupes, feel it all here.
 
-61 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/5VYvKzUB8Xd1jQ276La7Ok)
+62 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/5VYvKzUB8Xd1jQ276La7Ok)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,10 @@
 | [Cacería](https://open.spotify.com/track/0kZKpOLObAOKeIM36VvScx) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Cacería](https://open.spotify.com/album/0ZjF6wG8buv9f5LLZ3KFR5) | 2:45 | 2021-11-12 |  |
 | [CON TAL](https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [CON TAL](https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm) | 2:54 | 2021-11-12 |  |
 | [Contándoles](https://open.spotify.com/track/0Vus5wQREmdEQw3dEPwb5c) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Contándoles](https://open.spotify.com/album/0CvQp4I6RpU77hbQmZtIgw) | 3:08 | 2021-11-12 | 2022-05-16 |
-| [Corazón](https://open.spotify.com/track/7eQFb9ZZOOSdkewzAbbwuw) | [Jaime Lorente](https://open.spotify.com/artist/7xHM0B5EaZECFfClTngHl4) | [Corazón](https://open.spotify.com/album/5rETENSUwLes5xtEDFhFze) | 2:58 | 2021-11-12 |  |
+| [Corazón](https://open.spotify.com/track/7eQFb9ZZOOSdkewzAbbwuw) | [Jaime Lorente](https://open.spotify.com/artist/7xHM0B5EaZECFfClTngHl4) | [Corazón](https://open.spotify.com/album/5rETENSUwLes5xtEDFhFze) | 2:58 | 2021-11-12 | 2022-05-17 |
 | [Dalí](https://open.spotify.com/track/20BbptvwAiTLTfYBSafptA) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Dalí](https://open.spotify.com/album/77OueE2Wa2jvuLYgLiR75i) | 2:42 | 2021-11-12 |  |
 | [De Vez en Cuando \(Aparece\)](https://open.spotify.com/track/08VP9HBayRpUC20OzFktik) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Botánica](https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc) | 3:00 | 2021-11-12 |  |
-| [Dejarte Ir](https://open.spotify.com/track/1aaQt9QmSCjaXhiu5Ebl7f) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Dejarte Ir](https://open.spotify.com/album/1ErvPibzFOYYaxCu0PgGVt) | 3:10 | 2021-11-12 |  |
+| [Dejarte Ir](https://open.spotify.com/track/1aaQt9QmSCjaXhiu5Ebl7f) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Dejarte Ir](https://open.spotify.com/album/1ErvPibzFOYYaxCu0PgGVt) | 3:10 | 2021-11-12 | 2022-05-17 |
 | [Destino](https://open.spotify.com/track/02rEaBQX5TXkTWgvLfGlVd) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Destino](https://open.spotify.com/album/2y2xsvO5g0sSo2ERMlsZNf) | 3:04 | 2021-11-12 |  |
 | [Dime la verdad](https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO) | [Jordan Boyd](https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0), [Drunk and Drops](https://open.spotify.com/artist/7GXCNFQuvcOb2TVQjtFOUG) | [Dime la verdad](https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC) | 3:00 | 2021-11-12 |  |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-11-12 |  |
@@ -42,8 +42,8 @@
 | [lo que pasó](https://open.spotify.com/track/6xS02EfbvnneFWCM90PJFG) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/7FsquZmPaXaNImnGHMnFUH) | 2:30 | 2021-11-12 |  |
 | [Malabares](https://open.spotify.com/track/3TArda30KGDCgfB3U9fmrC) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Malabares](https://open.spotify.com/album/4r7TvqBqEcQZq95ySGFi71) | 3:26 | 2021-11-12 |  |
 | [Manos vacías](https://open.spotify.com/track/39u0EhY4dzaXRmXHeSg9SX) | [Sebastian Urdiales](https://open.spotify.com/artist/1nRt9Sjc0cEhI62heTLp35) | [2001](https://open.spotify.com/album/7r0TJdYwYDjYv8XNIkGCaG) | 3:11 | 2021-11-12 |  |
-| [ME ENCANTA EL EXCESO](https://open.spotify.com/track/5NQfXYpbujH50LeF65icHb) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh) | [CiClos, Pt\. 1](https://open.spotify.com/album/0plLW33J3wLK35VjRo4KQE) | 3:25 | 2021-11-12 |  |
-| [Me Encanta Todo Lo Tuyo](https://open.spotify.com/track/6NHjr1XoiD305MLDr06uOm) | [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Me Encanta Todo Lo Tuyo](https://open.spotify.com/album/40HJi0nzOlsSWWKMlkPVyb) | 2:26 | 2021-11-12 | 2022-05-16 |
+| [ME ENCANTA EL EXCESO](https://open.spotify.com/track/5NQfXYpbujH50LeF65icHb) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh) | [CiClos, Pt\. 1](https://open.spotify.com/album/0plLW33J3wLK35VjRo4KQE) | 3:25 | 2021-11-12 | 2022-05-17 |
+| [Me Encanta Todo Lo Tuyo](https://open.spotify.com/track/6NHjr1XoiD305MLDr06uOm) | [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Me Encanta Todo Lo Tuyo](https://open.spotify.com/album/40HJi0nzOlsSWWKMlkPVyb) | 2:26 | 2021-11-12 |  |
 | [Me sabe mal](https://open.spotify.com/track/3FnmU5kBbYvoW3AltpMtth) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg), [Ocean Beats](https://open.spotify.com/artist/7bhKV9voFaydt5tPYeFFRd) | [Me sabe mal](https://open.spotify.com/album/6L1gZjZcAVCjKFuAEKJ3px) | 3:54 | 2021-11-12 |  |
 | [my future \- spanish version](https://open.spotify.com/track/38m0prhs1ExF3q6dQHTMCm) | [Maya](https://open.spotify.com/artist/7mUqcsNRIqgaLB8ZXJOg4Q) | [my future \(spanish version\)](https://open.spotify.com/album/5MwNfos4sRG3x31ahJAkPW) | 3:20 | 2021-11-12 |  |
 | [nada que decir](https://open.spotify.com/track/1qPf4Rl5l8QyK2BXsk1CJE) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [nada que decir](https://open.spotify.com/album/5YmFYvpGA85THfc1GYantK) | 3:06 | 2021-11-12 |  |
@@ -56,6 +56,7 @@
 | [Nunca me encontré ;\(](https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:22 | 2021-11-12 |  |
 | [olvídate de mí](https://open.spotify.com/track/4b0JCrKBUgl3VQYhxcxwdv) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [ep2 🌧](https://open.spotify.com/album/3DBCFDPSsiPfFIBtJRchzm) | 2:58 | 2021-11-12 |  |
 | [Paciencia](https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01 \- EP](https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy) | 3:29 | 2021-11-12 |  |
+| [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 | 2022-02-22 |  |
 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 | 2021-11-12 |  |
 | [Piedad](https://open.spotify.com/track/27jOQfdiGuKUw69HxKH9vV) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [La Luz](https://open.spotify.com/album/1w9DLtT4OOiAU93jzKdkMu) | 4:13 | 2021-11-12 | 2022-04-29 |
 | [Quieres de mi](https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan) | [Anna Zarate](https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2), [Gamboa](https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu) | [Quieres de mi](https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq) | 3:12 | 2021-11-12 |  |
@@ -63,7 +64,7 @@
 | [Rosas](https://open.spotify.com/track/0WDv0uvqDtTwBwxbXkeHH7) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Rosas](https://open.spotify.com/album/3NR8YCaIbiboXBFUDepwM9) | 4:05 | 2021-11-12 |  |
 | [Sabaneta](https://open.spotify.com/track/0KRgPFcbGovOB8cXZ88Eee) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Sabaneta](https://open.spotify.com/album/1KmHeewbt3p4TwXQGknXyO) | 2:52 | 2021-11-12 |  |
 | [SAD BEACH](https://open.spotify.com/track/0h6gWgtxfFME4Arauss6vl) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:21 | 2022-01-07 | 2022-01-26 |
-| [Sad Girl](https://open.spotify.com/track/3zm5AZiCm55YF39M9zSdCJ) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Sad Girl](https://open.spotify.com/album/3Imc13l8Rya9lpjaFQhOfW) | 3:28 | 2021-11-12 | 2022-05-16 |
+| [Sad Girl](https://open.spotify.com/track/3zm5AZiCm55YF39M9zSdCJ) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Sad Girl](https://open.spotify.com/album/3Imc13l8Rya9lpjaFQhOfW) | 3:28 | 2021-11-12 |  |
 | [Se Te Olvidó](https://open.spotify.com/track/5n9f2joGDLVqVZ3xWYVWKt) | [Roco](https://open.spotify.com/artist/1oUlx4lwzy8i3RFL8TEqq9) | [Se Te Olvidó](https://open.spotify.com/album/390miDLI7eaJCF57YosdCF) | 3:24 | 2022-01-26 |  |
 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 | 2021-11-12 | 2022-05-05 |
 | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O) | 3:03 | 2021-11-12 |  |

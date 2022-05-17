@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Phil Yoon\(필윤\)\)
 
-53 songs - 4 hr 22 min - not published yet
+53 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/26wTSHT9kapiRaMyX7792n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

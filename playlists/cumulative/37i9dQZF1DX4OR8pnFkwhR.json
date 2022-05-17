@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
@@ -1099,6 +1099,24 @@
       "duration_ms": 204868,
       "name": "Restart?",
       "url": "https://open.spotify.com/track/64INceHue7dl31QMDLLirn"
+    },
+    {
+      "album": {
+        "name": "Rock n Roll is Back",
+        "url": "https://open.spotify.com/album/1W7YnTDk4JfR1R6UTEsFRK"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176449,
+      "name": "Rock n Roll is Back",
+      "url": "https://open.spotify.com/track/7CaTBKF53EAMjKfw5DpiOt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a Foudeqush\. 🌊✨
 
-134 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+136 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [ADULTOS](https://open.spotify.com/track/4FImnjFPw8WAa9KUBNDCWw) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ADULTOS](https://open.spotify.com/album/6WMkdMFLq0M0ihfrClTqCv) | 3:03 | 2021-12-10 | 2022-02-19 |
 | [Alcohólica Funcional](https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Alcohólica Funcional](https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z) | 2:41 | 2021-12-10 |  |
 | [Aloha](https://open.spotify.com/track/7u4ECMwlGz2H7kc8r3EvRN) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Aloha](https://open.spotify.com/album/1n9qhPuxCqXD7X1dA5nQox) | 2:50 | 2021-12-10 | 2022-04-14 |
-| [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2021-12-10 |  |
+| [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2021-12-10 | 2022-05-17 |
 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 | 2022-02-04 |  |
 | [Amores de droga](https://open.spotify.com/track/4oEnLgK3RaH6On3ErWxuWS) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Amores de droga](https://open.spotify.com/album/1TZCJDQzEZoJWy4NmaXBjO) | 3:07 | 2021-12-10 | 2022-04-14 |
 | [Angel](https://open.spotify.com/track/7CBMoWo53HYA5yhEpUiF9W) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Angel](https://open.spotify.com/album/1RE3ICzJQ5kdiFcLEUSvWo) | 2:24 | 2021-12-10 | 2022-04-23 |
@@ -37,6 +37,7 @@
 | [Contigo Si](https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Contigo Si](https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX) | 3:48 | 2021-12-10 | 2022-05-07 |
 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 | 2021-12-10 | 2022-05-10 |
 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 | 2022-02-04 |  |
+| [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 | 2022-05-16 |  |
 | [Despues De Las 12](https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Despues De Las 12](https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW) | 3:14 | 2022-02-11 |  |
 | [Después De Ti](https://open.spotify.com/track/2oqayEwuda4Jq1yvkZaTEg) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Después De Ti](https://open.spotify.com/album/3IayybkRsPhakKWLdY5Jsu) | 2:57 | 2022-03-25 |  |
 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 | 2022-05-09 |  |
@@ -74,7 +75,7 @@
 | [Milk](https://open.spotify.com/track/6iqyYirdtDEyRddvYNLvLE) | [Adryanna Cauduro](https://open.spotify.com/artist/0eesQ8fqOKzv8DbP3mvnyR) | [Milk](https://open.spotify.com/album/1GvXakoTv3Lwt318NAMoUz) | 3:41 | 2022-04-13 |  |
 | [mis ganas de olvidarte](https://open.spotify.com/track/5k3512jmJrYl0YbROyhRTg) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Mati Santos](https://open.spotify.com/artist/3HUARSMWhPTw9D6HD1vAGF) | [mis ganas de olvidarte](https://open.spotify.com/album/6UMBgFkBumahYu0LONohfo) | 3:58 | 2021-12-10 | 2022-02-26 |
 | [Mitos](https://open.spotify.com/track/3dkXRCYTbrzq9MUInZovMR) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Gerovlx](https://open.spotify.com/artist/3SLm6dj35PvlOq9mg7XU3F) | [Mitos](https://open.spotify.com/album/38EvErBX2Euno5Y4ITpEft) | 3:28 | 2021-12-10 | 2022-04-14 |
-| [Mon Amour](https://open.spotify.com/track/5liJEcanWV112vEe9uT8iP) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Mon Amour](https://open.spotify.com/album/0cfuik2m7JwN1DSnYgYY2J) | 2:53 | 2021-12-10 |  |
+| [Mon Amour](https://open.spotify.com/track/5liJEcanWV112vEe9uT8iP) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Mon Amour](https://open.spotify.com/album/0cfuik2m7JwN1DSnYgYY2J) | 2:53 | 2021-12-10 | 2022-05-17 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-04-13 |  |
 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 | 2021-12-10 | 2022-03-12 |
 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 | 2021-12-10 | 2022-03-05 |
@@ -87,6 +88,7 @@
 | [Nunca Nos Fuimos](https://open.spotify.com/track/0DN1KHZWcefWyZvlL9TWJc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 4:34 | 2021-12-10 | 2022-02-19 |
 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 | 2022-03-11 |  |
 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 | 2021-12-10 | 2022-04-23 |
+| [Otro Día](https://open.spotify.com/track/0bUfdeUmiVzHSIT5l2NmGa) | [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x), [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt) | [Otro Día](https://open.spotify.com/album/1YAp4K65JOhGKRpbu1gnMb) | 2:39 | 2022-05-16 |  |
 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 | 2022-01-28 | 2022-05-10 |
 | [paranormal](https://open.spotify.com/track/1loEyzhT3hunTlsPjBYprb) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Ivan Rodriguez](https://open.spotify.com/artist/2RgmzoJSsiqaLDnDCkVUE2) | [paranormal](https://open.spotify.com/album/1aqvPNswNOnUfrdEkhyPVm) | 3:48 | 2022-02-18 |  |
 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2021-12-10 | 2022-03-24 |

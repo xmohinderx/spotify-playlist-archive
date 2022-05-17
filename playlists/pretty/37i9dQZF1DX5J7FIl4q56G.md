@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Behemoth
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,023 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,299 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 |
-| 2 | [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 |
-| 3 | [Övergivenheten \- Single Edit](https://open.spotify.com/track/4N7F0yJ3IqPJbsqB3z0huv) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Övergivenheten](https://open.spotify.com/album/0m5Myw8279H3fmmhSd5XdT) | 3:52 |
+| 1 | [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 |
+| 2 | [Övergivenheten \- Single Edit](https://open.spotify.com/track/4N7F0yJ3IqPJbsqB3z0huv) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Övergivenheten](https://open.spotify.com/album/0m5Myw8279H3fmmhSd5XdT) | 3:52 |
+| 3 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 |
 | 4 | [Flesh And Stone](https://open.spotify.com/track/3wyVcK3etnz24JX8K62b6O) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Flesh And Stone](https://open.spotify.com/album/51oXFQ9EJjYzdS09zCxmjj) | 4:10 |
 | 5 | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 |
 | 6 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Lunar Eclipse](https://open.spotify.com/track/5y3QjfkAaRtqAOH6UUqvSc) | [Veiled in Scarlet](https://open.spotify.com/artist/6umv4rFJkPXQG4PQQ6MwIQ) | [Reincarnation](https://open.spotify.com/album/6QGnH7XRbACQIqZndEqLLS) | 5:16 |
 | 50 | [Bloodbath](https://open.spotify.com/track/7KxPWRWjAbVTIMWcVkz8Yq) | [Frantic Amber](https://open.spotify.com/artist/35ExNkMZGn1aQd0WkgsRjo) | [Bloodbath](https://open.spotify.com/album/4F76Qz3CUQ69tIw6OGnd4L) | 4:49 |
 
-Snapshot ID: `MTY1MjQwMDAwMCwwMDAwMDRlZTAwMDAwMTgwYmFiNzBjOTAwMDAwMDE4MGFlMjUyMzJk`
+Snapshot ID: `MTY1MjY4NDQzMSwwMDAwMDRlZjAwMDAwMTgwY2JhYjIwNGQwMDAwMDE4MGFlMjUyMzJk`

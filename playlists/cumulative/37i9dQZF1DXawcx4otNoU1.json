@@ -1650,6 +1650,28 @@
     },
     {
       "album": {
+        "name": "No Ill",
+        "url": "https://open.spotify.com/album/0t2ZDNsrg9DbGT0TfhtPEK"
+      },
+      "artists": [
+        {
+          "name": "deadmen",
+          "url": "https://open.spotify.com/artist/1kH6sqipWrJUF1AAeSskjl"
+        },
+        {
+          "name": "Frida Touray",
+          "url": "https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179014,
+      "name": "no ill",
+      "url": "https://open.spotify.com/track/76wOHtbMpZpSmfsSyAHzlZ"
+    },
+    {
+      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
       },

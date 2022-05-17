@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare e in copertina c'è oli? <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,542 likes - 89 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,572 likes - 89 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 88 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
 | 89 | [generazione // love kids](https://open.spotify.com/track/5FdFeh5gkFUQEmuKUrpf8q) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT), [friendly](https://open.spotify.com/artist/2t6CtsrDblYL3i8eoDrqL1) | [generazione // love kids](https://open.spotify.com/album/6UinIuQGxZFG43qqfhbSHC) | 2:13 |
 
-Snapshot ID: `MTY1MjQzMDQ0OCwwMDAwMDA3YzAwMDAwMTgwYmM4N2E5MWIwMDAwMDE4MGIzODY3ZGJl`
+Snapshot ID: `MTY1MjY4NTgzNCwwMDAwMDA3ZDAwMDAwMTgwY2JjMDg4Y2MwMDAwMDE4MGIzODY3ZGJl`

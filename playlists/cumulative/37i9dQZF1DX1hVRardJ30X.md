@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Maffio
 
-1,134 songs - 2 day 12 hr 18 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+1,135 songs - 2 day 12 hr 23 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Chance](https://open.spotify.com/track/6EeGuEFLu9f72OsR3czhfF) | [Kablito](https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm) | [Chance](https://open.spotify.com/album/5v6U2rpXx6aVLpjmoUjF3v) | 2:51 | 2022-02-11 | 2022-02-19 |
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-08 | 2022-04-16 |
 | [Chance](https://open.spotify.com/track/6JdoUwgvZFCCiIDapXqax4) | [SANT1](https://open.spotify.com/artist/7u00EoTTmN7RJWLblmgxlK) | [Chance](https://open.spotify.com/album/3xwgOghwfxD3lzpqgu1w3j) | 3:02 | 2022-04-22 | 2022-04-29 |
+| [Chandal](https://open.spotify.com/track/2GOeYeBP8Q0YlkAwA3dcgU) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Chandal](https://open.spotify.com/album/6XGWHguAtnzrGT1OabVZKR) | 4:42 | 2022-05-16 |  |
 | [Charles Ans x Neto Peña x Yoss Bones \- LQRA Session \#5](https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Charles Ans x Neto Peña x Yoss Bones \- LQRA Session \#5](https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a) | 5:08 | 2021-12-24 | 2022-01-01 |
 | [Chera](https://open.spotify.com/track/2nFoymyZbcZNN5v466RXQu) | [Alec Roman](https://open.spotify.com/artist/2jca2j9hTa6bhI5F8rkNPv), [Leiva](https://open.spotify.com/artist/2WcUQEU4smqZp7ccL672QB) | [Chera](https://open.spotify.com/album/7vktQXy1Y93CKqbNVshIeq) | 2:16 | 2022-05-06 | 2022-05-14 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-02-25 | 2022-03-05 |

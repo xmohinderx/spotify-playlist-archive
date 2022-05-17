@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Kikando e Me Olhando e os funks mais 🔑 do Brasil\. Foto: Mc Braz, Mc Tairon, Dj Win
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,603,302 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,604,914 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,572 likes - 37 songs - 1 hr 58 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,573 likes - 37 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 10 | [Wha](https://open.spotify.com/track/3bF0Spa3PDTCzPxrpuPw7J) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [Wha](https://open.spotify.com/album/3UnTGZLLMNaj34Wzwg2XNV) | 3:32 |
 | 11 | [Liar](https://open.spotify.com/track/4ZvZe6oTTBqrTskpT4NTTZ) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Flavour Pepper](https://open.spotify.com/artist/6L5jISGGw9jeSJlG21qZzL) | [Liar](https://open.spotify.com/album/0wBCXcUlUV8ifhzuf7bUOv) | 4:36 |
 | 12 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 |
-| 13 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 |
+| 13 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4PvxLvdJydaTCWDkj5QVQk), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 |
 | 14 | [Falling](https://open.spotify.com/track/3GAlnDKQPrgMKcdGdkssSU) | [Shdws](https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg) | [Falling](https://open.spotify.com/album/5H5KXYChlIn0V50hLoV9C7) | 3:37 |
 | 15 | [Pullin Up](https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq) | [Pullin Up](https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn) | 3:05 |
 | 16 | [U Want 2 Get](https://open.spotify.com/track/5kaHaMvafqdg3noItmkeEi) | [Poison Ghost](https://open.spotify.com/artist/7cAVkIFcDsKIVHJDDjLOOb) | [U Want 2 Get](https://open.spotify.com/album/0pi1WgO5rsN5Pi8vtWJqN8) | 3:47 |

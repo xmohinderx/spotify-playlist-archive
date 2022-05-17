@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming music.
 
-362 songs - 15 hr 50 min - not published yet
+362 songs - 15 hr 50 min - [published](https://open.spotify.com/playlist/0sIE9FQkVbWlp9u6z9Quwo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

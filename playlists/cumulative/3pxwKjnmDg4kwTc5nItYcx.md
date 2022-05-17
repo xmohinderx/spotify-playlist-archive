@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-570 songs - 1 day 6 hr 44 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+571 songs - 1 day 6 hr 48 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-05-08 |  |
 | [Hit Me Back \(feat\. Social House\)](https://open.spotify.com/track/2GkWldueoTr8uz4O6T80GN) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Heartbreak in the Hills](https://open.spotify.com/album/7gLoySF3FKTPYWZ0VpOjL6) | 3:08 | 2020-07-24 | 2021-05-12 |
 | [Hit Me Back \(feat\. Social House\)](https://open.spotify.com/track/5IyF01fIazdmFkXHWWnQI7) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Hit Me Back \(feat\. Social House\)](https://open.spotify.com/album/5rSU5GRGD4D58dvzX43nte) | 3:08 | 2020-07-18 | 2021-05-12 |
+| [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-05-16 |  |
 | [Hold On](https://open.spotify.com/track/73kCnQ0CKS81v2UVFEu5Vp) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Hold On](https://open.spotify.com/album/2iaxtQfXx5WqypwT23lcj9) | 4:06 | 2019-08-27\* | 2019-11-11 |
 | [Hold On To Me](https://open.spotify.com/track/5tnRnYnQIm9iJCraZGpOJp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hold On To Me](https://open.spotify.com/album/3nG6F5yVPJubWNP5dp24b2) | 3:05 | 2021-02-26 |  |
 | [Holding The Gun](https://open.spotify.com/track/3tPyNRszpXjFhbJXgZIFT7) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Holding The Gun](https://open.spotify.com/album/2qu4bnIxDzOt9iaWF2kkQO) | 3:08 | 2019-08-27\* | 2020-02-12 |

@@ -688,6 +688,24 @@
     },
     {
       "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4"
+      },
+      "artists": [
+        {
+          "name": "Sophon",
+          "url": "https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226303,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc"
+    },
+    {
+      "album": {
         "name": "Deja Reve",
         "url": "https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu"
       },
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 254500,
       "name": "Lone",
       "url": "https://open.spotify.com/track/6V90OtIX1Ja8OvqvPFMe9Z"

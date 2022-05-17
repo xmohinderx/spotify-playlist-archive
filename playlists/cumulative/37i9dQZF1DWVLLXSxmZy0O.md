@@ -4,7 +4,7 @@
 
 > 디즈니+의 인기곡들을 감상해보세요\. 디즈니, 픽사, 마블, 스타워즈, 네셔널 지오그래픽 등의 사운드 트랙이 포함되어 있습니다.
 
-165 songs - 6 hr 49 min - not published yet
+165 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/0PHj6Xo72f14I7dW2PEn22)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

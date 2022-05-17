@@ -654,6 +654,28 @@
     },
     {
       "album": {
+        "name": "Beavis & Butt-head",
+        "url": "https://open.spotify.com/album/5SZ2aByHdZP9vriapgkVbs"
+      },
+      "artists": [
+        {
+          "name": "Sad Frosty",
+          "url": "https://open.spotify.com/artist/4VQjfdCN5W8jvwy4AvEnin"
+        },
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124316,
+      "name": "Beavis & Butt-head",
+      "url": "https://open.spotify.com/track/0Y9kRbsQKC9zSmfzxPgYiT"
+    },
+    {
+      "album": {
         "name": "Been Himma",
         "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
       },
@@ -1539,7 +1561,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 190093,
       "name": "Dumb Enough",
       "url": "https://open.spotify.com/track/10FZrLxIGfMSDYlgplLzkg"
@@ -2515,7 +2537,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 203662,
       "name": "IN THE MIDDLE",
       "url": "https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb"
@@ -2833,6 +2855,32 @@
       "duration_ms": 183410,
       "name": "LOCK IT UP (feat. Yeat, midwxst & Matt Ox)",
       "url": "https://open.spotify.com/track/3LkWdvgrJtFuM0ZoXKPlpH"
+    },
+    {
+      "album": {
+        "name": "Young Hot Ebony",
+        "url": "https://open.spotify.com/album/27pGqngJj2CHovycxEqKu8"
+      },
+      "artists": [
+        {
+          "name": "Father",
+          "url": "https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw"
+        },
+        {
+          "name": "ILOVEMAKONNEN",
+          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
+        },
+        {
+          "name": "KEY!",
+          "url": "https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Look at Wrist (feat. ILOVEMAKONNEN & Key!)",
+      "url": "https://open.spotify.com/track/175j3JvvIgpYzlcdg7YNmX"
     },
     {
       "album": {

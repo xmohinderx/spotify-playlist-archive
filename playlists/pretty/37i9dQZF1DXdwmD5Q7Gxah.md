@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> tons of new music this week from ethel cain, remi wolf, aldn, and more\. cover: aldn
+> Join <a href="https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d">Lorem Life Live</a> w/ guest BEABADOOBEE this Weds @ 5pm EST\. Cover: aldn
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,094 likes - 114 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,961 likes - 114 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 113 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 |
 | 114 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
 
-Snapshot ID: `MTY1MjQwMDQ3OCwwMDAwMDM3YjAwMDAwMTgwYmFiZTU4YzYwMDAwMDE4MGJhOTA2NjBm`
+Snapshot ID: `MTY1MjcyMzM1MiwwMDAwMDM3YzAwMDAwMTgwY2RmZDAyMTcwMDAwMDE4MGJhOTA2NjBm`

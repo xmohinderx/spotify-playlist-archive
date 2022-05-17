@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!!  <br/>Cover: Whiskey Myers
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,132 likes - 128 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,330 likes - 128 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

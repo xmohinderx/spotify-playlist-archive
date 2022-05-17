@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Beautiful Mine](https://open.spotify.com/track/69W7GtjzZY4ljBPnS1UPfy) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/1la4Ol737XPo4bZJMqQS57) | 5:29 | 2019-12-16 |  |
+| [A Beautiful Mine](https://open.spotify.com/track/69W7GtjzZY4ljBPnS1UPfy) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/1la4Ol737XPo4bZJMqQS57) | 5:29 | 2019-12-16 | 2022-05-17 |
 | [A Drifting Up](https://open.spotify.com/track/2mEGWzbwnYg8WTlGQGR05r) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 6:27 | 2019-12-16 |  |
 | [A Song That Will Help You Remember To Forget](https://open.spotify.com/track/3IUhMLJM4Y0fkEFnUAQZVI) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound Of Lights When Dim](https://open.spotify.com/album/0QW4mcRROn00Kc1sEUaZp1) | 6:14 | 2019-12-16 |  |
 | [Aminals](https://open.spotify.com/track/1depKpsqGCvr8wtjFFaFoO) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/66Pk1ZQyHpMjF2Fm7qjqQY) | 3:18 | 2019-12-16 |  |
@@ -49,7 +49,7 @@
 | [Places](https://open.spotify.com/track/73CpjalV6Xq6we0qVUgoad) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Late Night Tales \- Bonobo](https://open.spotify.com/album/0y3ai6LH83qeeeCbmpaIvf) | 5:03 | 2019-12-16 |  |
 | [Pleasure Centre](https://open.spotify.com/track/331tP1ALdrmjioH4RznvwC) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [On Vacation](https://open.spotify.com/album/5glo8zTL4koRq4BmOCdapU) | 5:47 | 2019-12-16 |  |
 | [Reach For The Dead](https://open.spotify.com/track/2hgerKBJ7tetp3JfL5OZX9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:47 | 2019-12-16 |  |
-| [Remember Me As A Time Of Day](https://open.spotify.com/track/3o6RpCtAPejVvTckcd5JVt) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [How Strange, Innocence](https://open.spotify.com/album/2SAI7bmJDf4ExmzaAgXctd) | 5:18 | 2019-12-16 | 2022-05-16 |
+| [Remember Me As A Time Of Day](https://open.spotify.com/track/3o6RpCtAPejVvTckcd5JVt) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [How Strange, Innocence](https://open.spotify.com/album/2SAI7bmJDf4ExmzaAgXctd) | 5:18 | 2019-12-16 |  |
 | [River \(feat\. Shura\)](https://open.spotify.com/track/3SKGZkUGPR15ahniLcQVPP) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Parklands](https://open.spotify.com/album/4fZoCUF5IbMT1clnEAZOrl) | 4:16 | 2019-12-16 |  |
 | [Sad Heart Of Mine](https://open.spotify.com/track/2OSelhrHTVKq6hdfE3fG6R) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Dust And Disquiet](https://open.spotify.com/album/1aZqgTPYSxx2ISuigQkgjD) | 4:27 | 2019-12-16 |  |
 | [See In You](https://open.spotify.com/track/7DUdkOccGYxVVSb00TstTz) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Into The Blue Again](https://open.spotify.com/album/1pFrCdJfefM5UgijeacUpB) | 4:37 | 2019-12-16 |  |

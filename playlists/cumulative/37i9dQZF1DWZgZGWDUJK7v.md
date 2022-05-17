@@ -4,7 +4,7 @@
 
 > Meet the popular animation & webtoon OSTs now! \(Cover: The Crush of Spring\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요! \(커버: 춘정지란\)
 
-55 songs - 3 hr 24 min - not published yet
+55 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

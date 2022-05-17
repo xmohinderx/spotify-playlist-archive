@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Leah Marie Mason, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,230 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,281 likes - 91 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,11 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 84 | [Love Language](https://open.spotify.com/track/18MZfeyxZEb2sioZtwXEoF) | [Nathan Thomas](https://open.spotify.com/artist/4NoYNH8SjQrObPlQKj76Yf) | [Love Language](https://open.spotify.com/album/00L0rB6w7gS8nLvDesRUca) | 4:57 |
 | 85 | [Growing Pains](https://open.spotify.com/track/2thZV7jasrRTgIb3ZpTWsP) | [Mallory Moorefield](https://open.spotify.com/artist/1V32usoUfoIJj0XYBadOhU) | [Growing Pains](https://open.spotify.com/album/2chTRGYg4JYiUZ5zfFZIwx) | 4:23 |
 | 86 | [New Sheriff in Town](https://open.spotify.com/track/5jiHrjmgUNLbiQ4HJ4mYDR) | [Brenna Bone](https://open.spotify.com/artist/0L79xgZmjcUCraxgHJoTek) | [New Sheriff in Town](https://open.spotify.com/album/4b2EIB3sW0eO2xtMY8o4oZ) | 3:12 |
-| 87 | [Rich](https://open.spotify.com/track/6MwfLRJcaqNQo8C215lT6k) | [Brian John Harwood](https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4), [Alli Walker](https://open.spotify.com/artist/0Nxzbyp5zDObdMurJZ7g5C), [Chris Labelle](https://open.spotify.com/artist/2gODSRZYGlEFhWNTfG5KJL) | [Rich](https://open.spotify.com/album/5Di3FdznilS153snIRehXk) | 3:14 |
-| 88 | [Go South](https://open.spotify.com/track/40CvwatMGE8WEDGjrIJIls) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Go South](https://open.spotify.com/album/2i1shC4lxulIH4cmO3qc8C) | 2:04 |
-| 89 | [Make the Best Memories](https://open.spotify.com/track/6Z2vjMFWw0s4pPiyOd8qhw) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Make the Best Memories](https://open.spotify.com/album/4lSerjMWfVyOxuT4ATvSQH) | 3:09 |
-| 90 | [Midnight In Milwaukee](https://open.spotify.com/track/4xRmsdxe9xyxOBoPPtcEa4) | [Nora Collins](https://open.spotify.com/artist/2VQCul6BaaFxpL6lkZUxUg) | [Midnight In Milwaukee](https://open.spotify.com/album/6JXNCuNmL2i8W0DcS1tHhT) | 3:31 |
-| 91 | [GTB](https://open.spotify.com/track/5ffu5HBOPbEdniXSyZ0zix) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [GTB](https://open.spotify.com/album/6wjC7YOSSynu9XgUo2iaRy) | 2:43 |
-| 92 | [I Guess I Do](https://open.spotify.com/track/7AoKWxL8B7rIBVi4yD1IOL) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [I Guess I Do](https://open.spotify.com/album/5nBuiaDaWek79qPFf3hc4q) | 2:40 |
+| 87 | [Go South](https://open.spotify.com/track/40CvwatMGE8WEDGjrIJIls) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Go South](https://open.spotify.com/album/2i1shC4lxulIH4cmO3qc8C) | 2:04 |
+| 88 | [Make the Best Memories](https://open.spotify.com/track/6Z2vjMFWw0s4pPiyOd8qhw) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Make the Best Memories](https://open.spotify.com/album/4lSerjMWfVyOxuT4ATvSQH) | 3:09 |
+| 89 | [Midnight In Milwaukee](https://open.spotify.com/track/4xRmsdxe9xyxOBoPPtcEa4) | [Nora Collins](https://open.spotify.com/artist/2VQCul6BaaFxpL6lkZUxUg) | [Midnight In Milwaukee](https://open.spotify.com/album/6JXNCuNmL2i8W0DcS1tHhT) | 3:31 |
+| 90 | [GTB](https://open.spotify.com/track/5ffu5HBOPbEdniXSyZ0zix) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [GTB](https://open.spotify.com/album/6wjC7YOSSynu9XgUo2iaRy) | 2:43 |
+| 91 | [I Guess I Do](https://open.spotify.com/track/7AoKWxL8B7rIBVi4yD1IOL) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [I Guess I Do](https://open.spotify.com/album/5nBuiaDaWek79qPFf3hc4q) | 2:40 |
 
-Snapshot ID: `MTY1MjI5MDM1MiwwMDAwMDFhODAwMDAwMTgwYjQyZGY2MjcwMDAwMDE4MDgwYzBjMjdh`
+Snapshot ID: `MTY1Mjc0MDQ2OCwwMDAwMDFhOTAwMDAwMTgwY2YwMjJlMGMwMDAwMDE4MDgwYzBjMjdh`

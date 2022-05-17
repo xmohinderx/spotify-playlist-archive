@@ -21750,6 +21750,24 @@
     },
     {
       "album": {
+        "name": "summer died",
+        "url": "https://open.spotify.com/album/2Q1KDKB2re98AMumPjVS24"
+      },
+      "artists": [
+        {
+          "name": "Labit",
+          "url": "https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178402,
+      "name": "summer died",
+      "url": "https://open.spotify.com/track/6JXhm0UL5WxP4P0UwkwEVL"
+    },
+    {
+      "album": {
         "name": "Summer in September",
         "url": "https://open.spotify.com/album/08ACbcnqHgZXsoYZqkQ3n8"
       },

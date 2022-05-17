@@ -6655,7 +6655,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 171425,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/2hkGd89f1mtUp19libeWmR"
@@ -18653,7 +18653,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 193733,
       "name": "Favorite Peeps",
       "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
@@ -20595,7 +20595,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 240906,
       "name": "Frightened Whispers",
       "url": "https://open.spotify.com/track/62T6j2gOY5YjRVH6MzPCgA"
@@ -21919,7 +21919,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 224000,
       "name": "GIRLFRIEND SONG",
       "url": "https://open.spotify.com/track/2QVs38RF95zCnylGTeYsAk"
@@ -31415,7 +31415,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 179714,
       "name": "JUMPSHOT!",
       "url": "https://open.spotify.com/track/1hWIeur5Q8BJ9hUrDyTI8W"
@@ -64447,6 +64447,24 @@
       "duration_ms": 166402,
       "name": "Who Has Seen the Wind?",
       "url": "https://open.spotify.com/track/3Dvaw9bre1o4k1xj0EhIAb"
+    },
+    {
+      "album": {
+        "name": "Who Knows",
+        "url": "https://open.spotify.com/album/1bAcgjeUL4cY7rdSN2FBRz"
+      },
+      "artists": [
+        {
+          "name": "Joy Again",
+          "url": "https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164294,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/75bBKbZzQsO6MX8o4Baig7"
     },
     {
       "album": {

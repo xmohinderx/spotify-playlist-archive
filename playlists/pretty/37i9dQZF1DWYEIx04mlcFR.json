@@ -1,12 +1,12 @@
 {
   "description": "La nueva-nueva ola de artistas y creadorxs mexas: presentamos a Foudeqush. \ud83c\udf0a\u2728 ",
-  "num_followers": 24568,
+  "num_followers": 24627,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjIwNzg0MSwwMDAwMDA0NDAwMDAwMTgwYWY0MmYwYjIwMDAwMDE4MDk2NGVmMWFk",
+  "snapshot_id": "MTY1MjcxOTAxNCwwMDAwMDA0NjAwMDAwMTgwY2RiYWQwZjgwMDAwMDE4MDk2NGVmMWFk",
   "tracks": [
     {
       "added_at": "2022-04-22 15:10:15",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK"
     },
     {
+      "added_at": "2022-05-06 06:41:26",
+      "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
       "added_at": "2022-05-09 19:53:02",
       "album": {
         "name": "Match",
@@ -59,6 +75,22 @@
       "duration_ms": 205160,
       "name": "Match",
       "url": "https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU"
+    },
+    {
+      "added_at": "2022-05-16 16:13:07",
+      "album": {
+        "name": "Dementes",
+        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
+      },
+      "artists": [
+        {
+          "name": "Alex Hoyer",
+          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+        }
+      ],
+      "duration_ms": 176207,
+      "name": "Dementes",
+      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
     },
     {
       "added_at": "2022-04-13 20:00:00",
@@ -83,18 +115,18 @@
     {
       "added_at": "2022-05-06 06:41:26",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+        "name": "Recuerdos Que Torturan",
+        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+      "duration_ms": 210425,
+      "name": "Recuerdos Que Torturan",
+      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
     },
     {
       "added_at": "2022-05-06 06:41:26",
@@ -117,6 +149,26 @@
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
     },
     {
+      "added_at": "2022-05-16 16:36:54",
+      "album": {
+        "name": "Otro D\u00eda",
+        "url": "https://open.spotify.com/album/1YAp4K65JOhGKRpbu1gnMb"
+      },
+      "artists": [
+        {
+          "name": "Angel Vergara",
+          "url": "https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x"
+        },
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Otro D\u00eda",
+      "url": "https://open.spotify.com/track/0bUfdeUmiVzHSIT5l2NmGa"
+    },
+    {
       "added_at": "2022-04-22 15:10:15",
       "album": {
         "name": "\u00c1ngel",
@@ -131,6 +183,38 @@
       "duration_ms": 178000,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"
+    },
+    {
+      "added_at": "2022-04-22 15:10:15",
+      "album": {
+        "name": "me piensas ;)",
+        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "me piensas ;)",
+      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
+    },
+    {
+      "added_at": "2022-05-09 19:48:51",
+      "album": {
+        "name": "20 Minutos",
+        "url": "https://open.spotify.com/album/1IgtGBd7kISzw15xkFwllh"
+      },
+      "artists": [
+        {
+          "name": "Sharlene",
+          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "20 Minutos",
+      "url": "https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK"
     },
     {
       "added_at": "2022-05-10 18:37:21",
@@ -191,54 +275,6 @@
       "duration_ms": 184000,
       "name": "DIADREAMER",
       "url": "https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv"
-    },
-    {
-      "added_at": "2022-04-22 15:10:15",
-      "album": {
-        "name": "me piensas ;)",
-        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "me piensas ;)",
-      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
-    },
-    {
-      "added_at": "2022-05-06 06:41:26",
-      "album": {
-        "name": "Recuerdos Que Torturan",
-        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 210425,
-      "name": "Recuerdos Que Torturan",
-      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
-    },
-    {
-      "added_at": "2022-05-09 19:48:51",
-      "album": {
-        "name": "20 Minutos",
-        "url": "https://open.spotify.com/album/1IgtGBd7kISzw15xkFwllh"
-      },
-      "artists": [
-        {
-          "name": "Sharlene",
-          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "20 Minutos",
-      "url": "https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK"
     },
     {
       "added_at": "2022-04-13 20:00:00",
@@ -413,22 +449,6 @@
       "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
-      "added_at": "2022-03-25 06:00:00",
-      "album": {
-        "name": "LSNC",
-        "url": "https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 153711,
-      "name": "LSNC",
-      "url": "https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK"
-    },
-    {
       "added_at": "2022-03-23 22:10:43",
       "album": {
         "name": "nom\u00e1s t\u00fa",
@@ -443,6 +463,22 @@
       "duration_ms": 157690,
       "name": "nom\u00e1s t\u00fa",
       "url": "https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa"
+    },
+    {
+      "added_at": "2022-03-25 06:00:00",
+      "album": {
+        "name": "LSNC",
+        "url": "https://open.spotify.com/album/5srzFKsRKHUk09jV2R5Tnh"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 153711,
+      "name": "LSNC",
+      "url": "https://open.spotify.com/track/3LV3d4MEOVhcLuUhKvkltK"
     },
     {
       "added_at": "2022-03-25 06:00:00",
@@ -1207,22 +1243,6 @@
     {
       "added_at": "2022-03-11 06:23:50",
       "album": {
-        "name": "Mon Amour",
-        "url": "https://open.spotify.com/album/0cfuik2m7JwN1DSnYgYY2J"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        }
-      ],
-      "duration_ms": 173895,
-      "name": "Mon Amour",
-      "url": "https://open.spotify.com/track/5liJEcanWV112vEe9uT8iP"
-    },
-    {
-      "added_at": "2022-03-11 06:23:50",
-      "album": {
         "name": "un rato",
         "url": "https://open.spotify.com/album/0LigoTHlglv2GPl0nb2O0F"
       },
@@ -1323,22 +1343,6 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
-    },
-    {
-      "added_at": "2022-03-11 06:23:50",
-      "album": {
-        "name": "Amapolas",
-        "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 205716,
-      "name": "Amapolas",
-      "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
     }
   ],
   "unique_name": "la pop~wave",

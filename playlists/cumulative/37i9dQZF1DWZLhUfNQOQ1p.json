@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Blueblurry",
+        "url": "https://open.spotify.com/album/36wHGtWT1IY7gHFC1QYdfw"
+      },
+      "artists": [
+        {
+          "name": "Duckmaw",
+          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285004,
+      "name": "Blueblurry",
+      "url": "https://open.spotify.com/track/2gMxNLe9ugpFAia2NE8OGV"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9 Dreamer",
         "url": "https://open.spotify.com/album/34kp6iILHhggrkYCnXg9sd"
       },
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 222590,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/1Bt0UAApn7Oxdam3lQs1vo"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 319677,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
@@ -467,6 +485,24 @@
       "duration_ms": 224000,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W"
+    },
+    {
+      "album": {
+        "name": "Hurt Somebody",
+        "url": "https://open.spotify.com/album/6ePXCJjApGvTuNYbufL2Xq"
+      },
+      "artists": [
+        {
+          "name": "Sol Calor",
+          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179494,
+      "name": "Hurt Somebody",
+      "url": "https://open.spotify.com/track/59oLiH1CC7dmBolUZQSSRt"
     },
     {
       "album": {
@@ -655,7 +691,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 164078,
       "name": "Love Me - GAMPER & DADONI Remix",
       "url": "https://open.spotify.com/track/3EbedhPLDbDyRbdI0UoOh6"
@@ -673,7 +709,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 186771,
       "name": "Love You Tonight",
       "url": "https://open.spotify.com/track/5BbMKYskxFCCp7kacFBdRw"
@@ -713,7 +749,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 174260,
       "name": "Miracle In The Middle Of My Heart",
       "url": "https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8"
@@ -785,7 +821,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 203021,
       "name": "My Love",
       "url": "https://open.spotify.com/track/0I2qVDrbiihbxLDL6Grm1G"
@@ -821,7 +857,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 271306,
       "name": "Nicaraguan Dream",
       "url": "https://open.spotify.com/track/2NQ6In9ja7fBeBI9ADmMWB"
@@ -959,7 +995,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 186641,
       "name": "Risin' to the Top - Radio Mix",
       "url": "https://open.spotify.com/track/5bt6R4mH4qDp5zL5JJ3ll3"
@@ -999,7 +1035,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 186536,
       "name": "Say A Little Prayer",
       "url": "https://open.spotify.com/track/2VSCcSLiISjz8tZHi4ieNf"
@@ -1089,7 +1125,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 160519,
       "name": "Summer Crush",
       "url": "https://open.spotify.com/track/5g9EIVLc8vm5H47dpEXFfE"
@@ -1147,6 +1183,24 @@
       "duration_ms": 240251,
       "name": "Sunspots",
       "url": "https://open.spotify.com/track/3sZIa6qr507qnqGkowmzk9"
+    },
+    {
+      "album": {
+        "name": "Surf The Orange Water",
+        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186809,
+      "name": "Surf The Orange Water",
+      "url": "https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2"
     },
     {
       "album": {
@@ -1313,7 +1367,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 259499,
       "name": "Tropicae",
       "url": "https://open.spotify.com/track/0rexhQFkP4bgMSLeSyZjpH"
@@ -1421,7 +1475,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 223769,
       "name": "Where's My Love - Tropical Mix",
       "url": "https://open.spotify.com/track/30XrUbnBpaX813Kvti3Hmn"
@@ -1483,7 +1537,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 208533,
       "name": "Wonder Where You Are",
       "url": "https://open.spotify.com/track/092TeHd8EpuYrzhx4qNWnn"

@@ -3660,6 +3660,24 @@
     },
     {
       "album": {
+        "name": "Chandal",
+        "url": "https://open.spotify.com/album/6XGWHguAtnzrGT1OabVZKR"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282824,
+      "name": "Chandal",
+      "url": "https://open.spotify.com/track/2GOeYeBP8Q0YlkAwA3dcgU"
+    },
+    {
+      "album": {
         "name": "Charles Ans x Neto Pe\u00f1a x Yoss Bones - LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
       },

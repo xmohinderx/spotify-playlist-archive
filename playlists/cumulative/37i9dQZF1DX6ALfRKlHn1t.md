@@ -4,7 +4,7 @@
 
 > good vibes only.
 
-148 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
+149 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-09-17 |  |
 | [Bad Habit](https://open.spotify.com/track/1MbOMquGRXUEUALDcTLuoA) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Bad Habit](https://open.spotify.com/album/5ZIp3Oc2mWHY8KJgbHnWSW) | 3:41 | 2021-03-24 | 2022-04-28 |
 | [Bad News](https://open.spotify.com/track/4jsaqIdJ3P6lJ68jRdDVyZ) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [Bad News](https://open.spotify.com/album/5wxhUV7piF05Hga0kqbTda) | 3:25 | 2021-03-24 |  |
-| [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-04-22 |  |
+| [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-04-22 | 2022-05-17 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 |  |
 | [Blackout](https://open.spotify.com/track/2ZocFU8AgL3NYeG8vFMWbm) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Blackout](https://open.spotify.com/album/45d3TzOxeMA1bWgCD4RkYs) | 3:42 | 2021-03-24 |  |
 | [Blow It Up](https://open.spotify.com/track/0K93XuM3E3idV9CHp3HS5n) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Blow It Up](https://open.spotify.com/album/1ynjoX602qZk7aaeqDFQ7W) | 3:25 | 2021-03-24 | 2022-04-27 |
@@ -112,6 +112,7 @@
 | [Says She Loves Me](https://open.spotify.com/track/2p4Yx2CRINRoK2rNdIq2RE) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/7Bxewgd1K3cNG8W4ofuIEp) | 3:39 | 2021-03-24 |  |
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2021-07-30 |  |
 | [Set On Fire](https://open.spotify.com/track/0IV5Hor3LGOLk1OlxxriAO) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [Set On Fire](https://open.spotify.com/album/0kLqHd2okMviL6ZdXzaV8C) | 3:35 | 2021-03-24 |  |
+| [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 | 2022-05-16 |  |
 | [Shay](https://open.spotify.com/track/2JKseDsbR2QFeSqfbRxLGw) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Jamesy Boy & The Screw Loose Zoo](https://open.spotify.com/album/4ma22fqmqoyBRooyUNbNds) | 3:11 | 2021-11-19 |  |
 | [She Came Down From The Stars](https://open.spotify.com/track/7hx6Llz6nbZSMu1Bby1caB) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [She Came Down From The Stars](https://open.spotify.com/album/3hQeldMOyAY7ojZCk27n9x) | 3:36 | 2021-03-24 |  |
 | [Sick Love](https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 3:41 | 2021-03-24 | 2022-04-27 |

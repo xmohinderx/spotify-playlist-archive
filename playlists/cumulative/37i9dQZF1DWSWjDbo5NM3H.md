@@ -4,7 +4,7 @@
 
 > This is the official partnership playlist for JTBC 'Famous Singers\-Battle Again'\. \(JTBC  '유명가수전\-배틀 어게인'의 공식 파트너십 플레이리스트입니다.\)
 
-170 songs - 10 hr 23 min - not published yet
+170 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/0bnb3GvHc34tvHdaEQo6mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

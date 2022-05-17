@@ -52,7 +52,7 @@
 | [Umasha](https://open.spotify.com/track/1zRaLP99iRxz6kWCB6Ynw3) | [Mickey Hart and Zakir Hussain](https://open.spotify.com/artist/0CYFqvscV4rsOT5qXU36bd) | [Supralingua](https://open.spotify.com/album/3aD8ij2ESGKnDFJOczfbrC) | 5:22 | 2018-12-10 |  |
 | [We're An American Band \- Remastered 2002](https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [We're An American Band \(Remastered / Bonus Track\)](https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg) | 3:27 | 2018-12-10 |  |
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2018-12-10 |  |
-| [Wipeout](https://open.spotify.com/track/4KFCyusUzxTL8PwE0AH02f) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [100 Years of Surfing](https://open.spotify.com/album/33msQbGd76fYSd4imz3lbh) | 2:34 | 2018-12-10 | 2022-05-15 |
+| [Wipeout](https://open.spotify.com/track/4KFCyusUzxTL8PwE0AH02f) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [100 Years of Surfing](https://open.spotify.com/album/33msQbGd76fYSd4imz3lbh) | 2:34 | 2018-12-10 |  |
 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/3QfJhbiVGJucxyUbOFiaLY) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Greatest Hits](https://open.spotify.com/album/1jkd5zta1g1eFz6zuzupyW) | 8:33 | 2018-12-10 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

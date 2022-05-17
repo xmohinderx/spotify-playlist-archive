@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 228934,
+  "num_followers": 228939,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjY2MzExNiwwMDAwMDAwMDcxNDBjNTQxNDVlNTU3NjIwN2E1MWJkZDUyZDlhZWY1",
+  "snapshot_id": "MTY1Mjc0OTM1NywwMDAwMDAwMDhlN2NiZWFmNTc4OTJkMjBmYzEzM2UwNTlkZTA5ZmIz",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -27,22 +27,6 @@
       "duration_ms": 187372,
       "name": "Make You Feel Like",
       "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -79,6 +63,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "A Message From Your Space Cat",
         "url": "https://open.spotify.com/album/1kiLEvJQB4JNBlCzDDjJ40"
       },
@@ -91,38 +91,6 @@
       "duration_ms": 306155,
       "name": "When The Rain Came",
       "url": "https://open.spotify.com/track/6q9MP6ciBDPjwHcqXDMBJN"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Mess It Up",
-        "url": "https://open.spotify.com/album/5upCRtQrXqXOi2Vb2BBx7P"
-      },
-      "artists": [
-        {
-          "name": "RaFa Sessions",
-          "url": "https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK"
-        }
-      ],
-      "duration_ms": 230718,
-      "name": "Coming for It",
-      "url": "https://open.spotify.com/track/587TMPHADmZU77Im3kHM4v"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Treat Me Right",
-        "url": "https://open.spotify.com/album/5bmQcoWunv50RmZmNMj858"
-      },
-      "artists": [
-        {
-          "name": "Crade",
-          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
-        }
-      ],
-      "duration_ms": 221249,
-      "name": "Treat Me Right - Instrumental",
-      "url": "https://open.spotify.com/track/7AFImE2Z2j8orgVVc5MgoM"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -143,6 +111,38 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Treat Me Right",
+        "url": "https://open.spotify.com/album/5bmQcoWunv50RmZmNMj858"
+      },
+      "artists": [
+        {
+          "name": "Crade",
+          "url": "https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM"
+        }
+      ],
+      "duration_ms": 221249,
+      "name": "Treat Me Right - Instrumental",
+      "url": "https://open.spotify.com/track/7AFImE2Z2j8orgVVc5MgoM"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Mess It Up",
+        "url": "https://open.spotify.com/album/5upCRtQrXqXOi2Vb2BBx7P"
+      },
+      "artists": [
+        {
+          "name": "RaFa Sessions",
+          "url": "https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK"
+        }
+      ],
+      "duration_ms": 230718,
+      "name": "Coming for It",
+      "url": "https://open.spotify.com/track/587TMPHADmZU77Im3kHM4v"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Dreams Away",
         "url": "https://open.spotify.com/album/04iUPOlqZk4toyXcRKaite"
       },
@@ -159,18 +159,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Kendwa",
-        "url": "https://open.spotify.com/album/4XfbPecsw0OHMYHGzENOX3"
+        "name": "Happiness (Eternal Moment Mix)",
+        "url": "https://open.spotify.com/album/15Ur2tyY5TVmSRyXSRw4GA"
       },
       "artists": [
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
         }
       ],
-      "duration_ms": 268363,
-      "name": "Kendwa",
-      "url": "https://open.spotify.com/track/01oAiiCUFODCl8Qxm23l7m"
+      "duration_ms": 191186,
+      "name": "Happiness - Eternal Moment Mix",
+      "url": "https://open.spotify.com/track/23eieUqlZtoCmziKZAKUXF"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -207,18 +207,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Runnin' With Curious Eyes",
-        "url": "https://open.spotify.com/album/7jm9usCJVL352gaZxZmhS2"
+        "name": "The Look of Love",
+        "url": "https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf"
       },
       "artists": [
         {
-          "name": "Ran the Man",
-          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
         }
       ],
-      "duration_ms": 205475,
-      "name": "Curious Eyes",
-      "url": "https://open.spotify.com/track/7F0wdlppROi8NADjQvsql6"
+      "duration_ms": 194429,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -239,18 +239,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "The Look of Love",
-        "url": "https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf"
+        "name": "Wicked Hearts",
+        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
       },
       "artists": [
         {
-          "name": "farfetch'd",
-          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+        },
+        {
+          "name": "Jamie Hartman",
+          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
         }
       ],
-      "duration_ms": 194429,
-      "name": "The Look of Love",
-      "url": "https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A"
+      "duration_ms": 189136,
+      "name": "Wicked Hearts",
+      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -267,26 +271,6 @@
       "duration_ms": 210412,
       "name": "All The Wild Things",
       "url": "https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Love Me (Don't Worry)",
-        "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Tullio",
-          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Love Me (Don't Worry)",
-      "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -311,6 +295,26 @@
       "duration_ms": 157009,
       "name": "Pictures - Joshua Ellis Remix",
       "url": "https://open.spotify.com/track/2ZLaVJQTHsC51XFzZvyk4d"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Love Me (Don't Worry)",
+        "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Tullio",
+          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Love Me (Don't Worry)",
+      "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -379,38 +383,34 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Wicked Hearts",
-        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
+        "name": "Slow Me Down",
+        "url": "https://open.spotify.com/album/6AFWVzpTt1EqlpCBGqAavI"
       },
       "artists": [
         {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
-        },
-        {
-          "name": "Jamie Hartman",
-          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
         }
       ],
-      "duration_ms": 189136,
-      "name": "Wicked Hearts",
-      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
+      "duration_ms": 219230,
+      "name": "Slow Me Down",
+      "url": "https://open.spotify.com/track/2V8n8otTf5i4fHImwN8Ph5"
     },
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8"
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
       "artists": [
         {
-          "name": "Johny Luv",
-          "url": "https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL"
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
         }
       ],
-      "duration_ms": 214855,
-      "name": "Pleasure & Pain",
-      "url": "https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE"
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -431,18 +431,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
+        "name": "Runnin' With Curious Eyes",
+        "url": "https://open.spotify.com/album/7jm9usCJVL352gaZxZmhS2"
       },
       "artists": [
         {
-          "name": "Vivaldi Verdes",
-          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
+          "name": "Ran the Man",
+          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
         }
       ],
-      "duration_ms": 235549,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
+      "duration_ms": 205475,
+      "name": "Curious Eyes",
+      "url": "https://open.spotify.com/track/7F0wdlppROi8NADjQvsql6"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -463,34 +463,38 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Happiness (Eternal Moment Mix)",
-        "url": "https://open.spotify.com/album/15Ur2tyY5TVmSRyXSRw4GA"
+        "name": "If I Were Your Woman",
+        "url": "https://open.spotify.com/album/65jKABoB735a6wvF7mM6lu"
       },
       "artists": [
         {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+          "name": "Neapolitan Soul",
+          "url": "https://open.spotify.com/artist/5oWP10ZSEw5Hf14xpTg0ct"
+        },
+        {
+          "name": "Luciano Gioia",
+          "url": "https://open.spotify.com/artist/0dUg6YiF9oFg1XQsUsUis4"
         }
       ],
-      "duration_ms": 191186,
-      "name": "Happiness - Eternal Moment Mix",
-      "url": "https://open.spotify.com/track/23eieUqlZtoCmziKZAKUXF"
+      "duration_ms": 472468,
+      "name": "If I Were Your Woman - Lovemental Mix",
+      "url": "https://open.spotify.com/track/4egfQoyLOPBdLBYib5PvUS"
     },
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Slow Me Down",
-        "url": "https://open.spotify.com/album/6AFWVzpTt1EqlpCBGqAavI"
+        "name": "Save Tonight",
+        "url": "https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0"
       },
       "artists": [
         {
-          "name": "Mauve",
-          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
         }
       ],
-      "duration_ms": 219230,
-      "name": "Slow Me Down",
-      "url": "https://open.spotify.com/track/2V8n8otTf5i4fHImwN8Ph5"
+      "duration_ms": 198159,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -511,34 +515,34 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/4TZjs8vZVc5Y6NgdafcVH6"
       },
       "artists": [
         {
-          "name": "PANG!",
-          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
+          "name": "Onda Norte",
+          "url": "https://open.spotify.com/artist/1bQ3iOIv9mCNc5AZrMZe6E"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
+      "duration_ms": 157111,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/6ruy12YyfW9VOz1lyEygYg"
     },
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "I Am Sick Of This Working Man's Coffee",
-        "url": "https://open.spotify.com/album/03FKhU4zwvYF2zHMBog2iL"
+        "name": "Kendwa",
+        "url": "https://open.spotify.com/album/4XfbPecsw0OHMYHGzENOX3"
       },
       "artists": [
         {
-          "name": "Keppel Skies",
-          "url": "https://open.spotify.com/artist/6GFa2nEUxUpfoPMowXuFUB"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         }
       ],
-      "duration_ms": 254608,
-      "name": "Pablo IV",
-      "url": "https://open.spotify.com/track/7x6FYyK7URaq3vQl50cCCG"
+      "duration_ms": 268363,
+      "name": "Kendwa",
+      "url": "https://open.spotify.com/track/01oAiiCUFODCl8Qxm23l7m"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -575,22 +579,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Crying Wolf",
-        "url": "https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L"
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/3r90h4IKPw9pXl4NPtrhus"
       },
       "artists": [
         {
-          "name": "Sugar Jesus",
-          "url": "https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5"
-        },
-        {
-          "name": "Leda",
-          "url": "https://open.spotify.com/artist/5fPiq0Rr9INjEZICiUMc7O"
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
         }
       ],
-      "duration_ms": 218360,
-      "name": "Crying Wolf",
-      "url": "https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva"
+      "duration_ms": 282567,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/1Qe42XGSUtjDgJJgCsYwkh"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -611,18 +611,118 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+        "name": "Thunder (Mulshine Remix)",
+        "url": "https://open.spotify.com/album/3egETuw0aGpkiYxk24mtDd"
       },
       "artists": [
         {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+          "name": "Fink's Mood",
+          "url": "https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8"
+        },
+        {
+          "name": "Mulshine",
+          "url": "https://open.spotify.com/artist/4Sbuy4YFuARLCFyhsOb7U6"
         }
       ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
+      "duration_ms": 196702,
+      "name": "Thunder - Mulshine Remix",
+      "url": "https://open.spotify.com/track/4SqOYotiuF6ZFcyre42wYx"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "I Am Sick Of This Working Man's Coffee",
+        "url": "https://open.spotify.com/album/03FKhU4zwvYF2zHMBog2iL"
+      },
+      "artists": [
+        {
+          "name": "Keppel Skies",
+          "url": "https://open.spotify.com/artist/6GFa2nEUxUpfoPMowXuFUB"
+        }
+      ],
+      "duration_ms": 254608,
+      "name": "Pablo IV",
+      "url": "https://open.spotify.com/track/7x6FYyK7URaq3vQl50cCCG"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
+      },
+      "artists": [
+        {
+          "name": "Vivaldi Verdes",
+          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
+        }
+      ],
+      "duration_ms": 235549,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Cruel Summer",
+        "url": "https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Liebt",
+          "url": "https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Retreat",
+        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
+      },
+      "artists": [
+        {
+          "name": "Sinee",
+          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
+        }
+      ],
+      "duration_ms": 171137,
+      "name": "Retreat",
+      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Surf The Orange Water",
+        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Violet Breeze",
+      "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
+      },
+      "artists": [
+        {
+          "name": "PANG!",
+          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -659,186 +759,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "99 Red Balloons",
-        "url": "https://open.spotify.com/album/6nKfSKhYkhtUz3tSWlkPKf"
+        "name": "Miracle In The Middle Of My Heart",
+        "url": "https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG"
       },
       "artists": [
         {
-          "name": "Zonoma",
-          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
+          "name": "BCX",
+          "url": "https://open.spotify.com/artist/0g8dyAYXMj72hIsb8ttK32"
         }
       ],
-      "duration_ms": 190820,
-      "name": "99 Red Balloons",
-      "url": "https://open.spotify.com/track/56tirIo28bF0MY5oMpiDah"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Oh Baby \u2014 The Strolling Cat",
-        "url": "https://open.spotify.com/album/7nzEV1BJm9za8L9kU58RrW"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 253448,
-      "name": "The Strolling Cat",
-      "url": "https://open.spotify.com/track/6NrkR6O4lunnPdW8NUXjoC"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/4TZjs8vZVc5Y6NgdafcVH6"
-      },
-      "artists": [
-        {
-          "name": "Onda Norte",
-          "url": "https://open.spotify.com/artist/1bQ3iOIv9mCNc5AZrMZe6E"
-        }
-      ],
-      "duration_ms": 157111,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/6ruy12YyfW9VOz1lyEygYg"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/7t7R7UUCmEWhDR6mhjGgBf"
-      },
-      "artists": [
-        {
-          "name": "Tom Tones",
-          "url": "https://open.spotify.com/artist/0f8fXBvUv6C4gDkTqwMvpB"
-        }
-      ],
-      "duration_ms": 203021,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/0I2qVDrbiihbxLDL6Grm1G"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "If I Were Your Woman",
-        "url": "https://open.spotify.com/album/65jKABoB735a6wvF7mM6lu"
-      },
-      "artists": [
-        {
-          "name": "Neapolitan Soul",
-          "url": "https://open.spotify.com/artist/5oWP10ZSEw5Hf14xpTg0ct"
-        },
-        {
-          "name": "Luciano Gioia",
-          "url": "https://open.spotify.com/artist/0dUg6YiF9oFg1XQsUsUis4"
-        }
-      ],
-      "duration_ms": 472468,
-      "name": "If I Were Your Woman - Lovemental Mix",
-      "url": "https://open.spotify.com/track/4egfQoyLOPBdLBYib5PvUS"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5tN8Lg9AXBSO4Q5ELOM4Fs"
-      },
-      "artists": [
-        {
-          "name": "Duckmaw",
-          "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
-        }
-      ],
-      "duration_ms": 259499,
-      "name": "Tropicae",
-      "url": "https://open.spotify.com/track/0rexhQFkP4bgMSLeSyZjpH"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/3r90h4IKPw9pXl4NPtrhus"
-      },
-      "artists": [
-        {
-          "name": "Blank & Jones",
-          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
-        }
-      ],
-      "duration_ms": 282567,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/1Qe42XGSUtjDgJJgCsYwkh"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Love You Tonight",
-        "url": "https://open.spotify.com/album/4oFF7Oh66kN9JT0DyjUW46"
-      },
-      "artists": [
-        {
-          "name": "Martin Zandt",
-          "url": "https://open.spotify.com/artist/3HVIhaXyOOKizvzcO9C1Mk"
-        }
-      ],
-      "duration_ms": 186771,
-      "name": "Love You Tonight",
-      "url": "https://open.spotify.com/track/5BbMKYskxFCCp7kacFBdRw"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Cruel Summer",
-        "url": "https://open.spotify.com/album/6ZudtFGegLxFJx8KQX40Yk"
-      },
-      "artists": [
-        {
-          "name": "Daniel Liebt",
-          "url": "https://open.spotify.com/artist/70tutLzvBrNYvlvuVanzI9"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/4sI7exQBHsJ1NRwjJqWRo2"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Thunder (Mulshine Remix)",
-        "url": "https://open.spotify.com/album/3egETuw0aGpkiYxk24mtDd"
-      },
-      "artists": [
-        {
-          "name": "Fink's Mood",
-          "url": "https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8"
-        },
-        {
-          "name": "Mulshine",
-          "url": "https://open.spotify.com/artist/4Sbuy4YFuARLCFyhsOb7U6"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Thunder - Mulshine Remix",
-      "url": "https://open.spotify.com/track/4SqOYotiuF6ZFcyre42wYx"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Save Tonight",
-        "url": "https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0"
-      },
-      "artists": [
-        {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
-        }
-      ],
-      "duration_ms": 198159,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev"
+      "duration_ms": 174260,
+      "name": "Miracle In The Middle Of My Heart",
+      "url": "https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -859,112 +791,60 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+        "name": "Crying Wolf",
+        "url": "https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L"
       },
       "artists": [
         {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
-        }
-      ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Surf The Orange Water",
-        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
-      },
-      "artists": [
-        {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Violet Breeze",
-      "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Love Me (GAMPER & DADONI Remix)",
-        "url": "https://open.spotify.com/album/5QRNgCoAaI2dlRMXnlKfz6"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+          "name": "Sugar Jesus",
+          "url": "https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5"
         },
         {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+          "name": "Leda",
+          "url": "https://open.spotify.com/artist/5fPiq0Rr9INjEZICiUMc7O"
         }
       ],
-      "duration_ms": 164078,
-      "name": "Love Me - GAMPER & DADONI Remix",
-      "url": "https://open.spotify.com/track/3EbedhPLDbDyRbdI0UoOh6"
+      "duration_ms": 218360,
+      "name": "Crying Wolf",
+      "url": "https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva"
     },
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Feel The Heat",
-        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8"
       },
       "artists": [
         {
-          "name": "Bon Lui",
-          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
+          "name": "Johny Luv",
+          "url": "https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL"
         }
       ],
-      "duration_ms": 319677,
-      "name": "Feel The Heat",
-      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
+      "duration_ms": 214855,
+      "name": "Pleasure & Pain",
+      "url": "https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE"
     },
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Retreat",
-        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
+        "name": "99 Red Balloons",
+        "url": "https://open.spotify.com/album/6nKfSKhYkhtUz3tSWlkPKf"
       },
       "artists": [
         {
-          "name": "Sinee",
-          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
+          "name": "Zonoma",
+          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
         }
       ],
-      "duration_ms": 171137,
-      "name": "Retreat",
-      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
+      "duration_ms": 190820,
+      "name": "99 Red Balloons",
+      "url": "https://open.spotify.com/track/56tirIo28bF0MY5oMpiDah"
     },
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Say A Little Prayer",
-        "url": "https://open.spotify.com/album/29wjFumxzTTscOFSJgeGsB"
-      },
-      "artists": [
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "POLINA",
-          "url": "https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB"
-        }
-      ],
-      "duration_ms": 186536,
-      "name": "Say A Little Prayer",
-      "url": "https://open.spotify.com/track/2VSCcSLiISjz8tZHi4ieNf"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Dazed And Amazed",
-        "url": "https://open.spotify.com/album/4GhOIDimNe1i5B8KCSnW3B"
+        "name": "Blueblurry",
+        "url": "https://open.spotify.com/album/36wHGtWT1IY7gHFC1QYdfw"
       },
       "artists": [
         {
@@ -972,25 +852,29 @@
           "url": "https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD"
         }
       ],
-      "duration_ms": 271306,
-      "name": "Nicaraguan Dream",
-      "url": "https://open.spotify.com/track/2NQ6In9ja7fBeBI9ADmMWB"
+      "duration_ms": 285004,
+      "name": "Blueblurry",
+      "url": "https://open.spotify.com/track/2gMxNLe9ugpFAia2NE8OGV"
     },
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Summer Crush",
-        "url": "https://open.spotify.com/album/0yIpx6waKvmtfbotLbbeO7"
+        "name": "Feel It Still",
+        "url": "https://open.spotify.com/album/1ABBRyrEHEURRnsj9JZNLC"
       },
       "artists": [
         {
-          "name": "Maiwan",
-          "url": "https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI"
+          "name": "Revelries",
+          "url": "https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ"
+        },
+        {
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
         }
       ],
-      "duration_ms": 160519,
-      "name": "Summer Crush",
-      "url": "https://open.spotify.com/track/5g9EIVLc8vm5H47dpEXFfE"
+      "duration_ms": 222590,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/1Bt0UAApn7Oxdam3lQs1vo"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -1007,6 +891,122 @@
       "duration_ms": 194242,
       "name": "The Ghost in Your Smile",
       "url": "https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Oh Baby \u2014 The Strolling Cat",
+        "url": "https://open.spotify.com/album/7nzEV1BJm9za8L9kU58RrW"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 253448,
+      "name": "The Strolling Cat",
+      "url": "https://open.spotify.com/track/6NrkR6O4lunnPdW8NUXjoC"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+      },
+      "artists": [
+        {
+          "name": "Samba Twins",
+          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+        }
+      ],
+      "duration_ms": 234510,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Where's My Love (Tropical Mix)",
+        "url": "https://open.spotify.com/album/0aITxQL5MQDN0ihHsc7mf0"
+      },
+      "artists": [
+        {
+          "name": "Boonz",
+          "url": "https://open.spotify.com/artist/21wfUjH9hrJkW2qoKU0GhQ"
+        }
+      ],
+      "duration_ms": 223769,
+      "name": "Where's My Love - Tropical Mix",
+      "url": "https://open.spotify.com/track/30XrUbnBpaX813Kvti3Hmn"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Surf The Orange Water",
+        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "duration_ms": 186809,
+      "name": "Surf The Orange Water",
+      "url": "https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Hurt Somebody",
+        "url": "https://open.spotify.com/album/6ePXCJjApGvTuNYbufL2Xq"
+      },
+      "artists": [
+        {
+          "name": "Sol Calor",
+          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
+        }
+      ],
+      "duration_ms": 179494,
+      "name": "Hurt Somebody",
+      "url": "https://open.spotify.com/track/59oLiH1CC7dmBolUZQSSRt"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Wonder Where You Are",
+        "url": "https://open.spotify.com/album/7gddr1f4C9wu6J8iFMJ35x"
+      },
+      "artists": [
+        {
+          "name": "The Waked",
+          "url": "https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV"
+        },
+        {
+          "name": "Sara Sangfelt",
+          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "Wonder Where You Are",
+      "url": "https://open.spotify.com/track/092TeHd8EpuYrzhx4qNWnn"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Risin' to the Top",
+        "url": "https://open.spotify.com/album/5PSzn7T2vQMDGGu14bn2mt"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "duration_ms": 186641,
+      "name": "Risin' to the Top - Radio Mix",
+      "url": "https://open.spotify.com/track/5bt6R4mH4qDp5zL5JJ3ll3"
     }
   ],
   "unique_name": "Aperitivo Time",

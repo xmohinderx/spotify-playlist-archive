@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "22 settembre",
+        "url": "https://open.spotify.com/album/2XXtM3qexPIlNtotrYZjRp"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230693,
+      "name": "22 settembre",
+      "url": "https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs"
+    },
+    {
+      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/77EYcClmqkA3rWSWvSOHSN"
       },
@@ -59,7 +77,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 193520,
       "name": "A forma di origami",
       "url": "https://open.spotify.com/track/2pAnqgwkm78oDPEDAzc32O"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 174638,
       "name": "Bam Bam Twist (feat. Gow Tribe, Frenetik&Orang3)",
       "url": "https://open.spotify.com/track/5i12eplaUT5pPE5iC6B2FZ"
@@ -363,7 +381,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 201931,
       "name": "Chico (feat. Rose Villain & Luch\u00e8)",
       "url": "https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO"
@@ -425,7 +443,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Como Llora - Versione Italiana",
       "url": "https://open.spotify.com/track/2WVmes2x1lSpWdAWtMrtnD"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 124065,
       "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 164842,
       "name": "Don't Go Yet",
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
@@ -747,7 +765,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 175611,
       "name": "Fiori di Chernobyl",
       "url": "https://open.spotify.com/track/54PxYcGpSUCmlpGdFGTaYR"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 195657,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 161426,
       "name": "Lalalalalalalalalala",
       "url": "https://open.spotify.com/track/1vJPGeapiTW4KRPjK65JpV"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 177809,
       "name": "Mediterranea",
       "url": "https://open.spotify.com/track/47xPl1gvgdx4Z9dNUuloPg"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 176245,
       "name": "Pensando a lei",
       "url": "https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"
@@ -1579,6 +1597,28 @@
       "duration_ms": 227678,
       "name": "Pezzo Di Cuore (con Alessandra Amoroso)",
       "url": "https://open.spotify.com/track/0BNaXcSSUeuARA4W8iB18E"
+    },
+    {
+      "album": {
+        "name": "Quanto ti vorrei",
+        "url": "https://open.spotify.com/album/7euSTXADo7aG1X9FbgMBKN"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180342,
+      "name": "Quanto ti vorrei",
+      "url": "https://open.spotify.com/track/1AC9rHDPQC3QoC3iYPeSEI"
     },
     {
       "album": {
@@ -1677,7 +1717,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 202990,
       "name": "SaN LoREnZo (feat. Annalisa) - prod. Yanomi",
       "url": "https://open.spotify.com/track/0sTiM4EWUkJe1em8SZCs8t"
@@ -1837,7 +1877,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 172200,
       "name": "Superclassico",
       "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
@@ -1863,7 +1903,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 208133,
       "name": "Ti volevo dedicare (feat. J-AX & Boomdabash)",
       "url": "https://open.spotify.com/track/00GxbkrW4m1Tac5xySEJ4M"
@@ -1899,7 +1939,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 225100,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/2YfmCkG1uJxbduwSWxV9QV"
@@ -2061,7 +2101,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"

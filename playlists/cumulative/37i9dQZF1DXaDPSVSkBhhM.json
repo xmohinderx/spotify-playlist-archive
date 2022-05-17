@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-15",
   "description": "\u00a1Pop-punk por siempre!",
   "name": "Escena Pop Punk",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3WhbNn8qSzUKSvI6nJ4Hu0"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 183209,
       "name": "3 de Noviembre",
       "url": "https://open.spotify.com/track/6YCf7WeIL4tBTXXXbe3yqR"
@@ -96,6 +98,24 @@
     },
     {
       "album": {
+        "name": "7 Minutos en el Infierno",
+        "url": "https://open.spotify.com/album/0kQwfwokGW1xXfKYSt066t"
+      },
+      "artists": [
+        {
+          "name": "2contra1",
+          "url": "https://open.spotify.com/artist/07QNsyKFdUIrz9DdQj1Df6"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157232,
+      "name": "Bajo la Misma Luna (Yo Estoy Pensando Que Tu Estas Pensando en Mi)",
+      "url": "https://open.spotify.com/track/0XFK8dOXAG5AJiVUJmEqfF"
+    },
+    {
+      "album": {
         "name": "A Todos Nos Pasa",
         "url": "https://open.spotify.com/album/6wJEaTch4XaGZnsXSAv0ve"
       },
@@ -125,7 +145,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 162640,
       "name": "Casino",
       "url": "https://open.spotify.com/track/4niODdjcyRxzbSubNHkPJD"
@@ -215,7 +235,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 183118,
       "name": "Cometas",
       "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
@@ -309,7 +329,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 204500,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/3uG25I4QTa4BIb8CvGJPnj"
@@ -363,7 +383,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 229500,
       "name": "Disparos",
       "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
@@ -645,7 +665,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 211110,
       "name": "La Muerte Nos Alcanz\u00f3",
       "url": "https://open.spotify.com/track/1i0qqbrYqtvlSWNSfbV6rG"
@@ -663,7 +683,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 294325,
       "name": "La Ultima Excusa",
       "url": "https://open.spotify.com/track/00ru0jOJXVP8Qf5fdBTaqX"
@@ -717,7 +737,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 169273,
       "name": "Mientras el Mundo Se Apagaba (Demo)",
       "url": "https://open.spotify.com/track/6J19lCB1NnsgyRKUX9zJhI"
@@ -854,6 +874,42 @@
     },
     {
       "album": {
+        "name": "Nuestra Ciudad",
+        "url": "https://open.spotify.com/album/3xxWmBCIm1SDItBuSiSHN9"
+      },
+      "artists": [
+        {
+          "name": "Infalibles",
+          "url": "https://open.spotify.com/artist/5hjFfIrBRAzWwNKYYMYVFZ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222642,
+      "name": "Nuestra Ciudad",
+      "url": "https://open.spotify.com/track/3Mo2JeLw9Cp0tp4DvWAHlw"
+    },
+    {
+      "album": {
+        "name": "Nunca Estara\u0301 Bien",
+        "url": "https://open.spotify.com/album/7qVjMt6iEyOtXA5dsYfkKu"
+      },
+      "artists": [
+        {
+          "name": "Abril 88",
+          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191043,
+      "name": "Nunca Estara\u0301 Bien",
+      "url": "https://open.spotify.com/track/31obbmT1YI5tvy0Rrx22WI"
+    },
+    {
+      "album": {
         "name": "Masappan",
         "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
       },
@@ -891,10 +947,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 186990,
       "name": "Pastillas",
       "url": "https://open.spotify.com/track/04WsXewfMeazNHxIsU1Jzq"
+    },
+    {
+      "album": {
+        "name": "Al infierno y de regreso",
+        "url": "https://open.spotify.com/album/3L9vvpiSnXOiCk58lKBBUp"
+      },
+      "artists": [
+        {
+          "name": "NUNO",
+          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/1HGA3ugVfWra42sVKd0anu"
     },
     {
       "album": {
@@ -931,6 +1005,24 @@
       "duration_ms": 185493,
       "name": "Quemando Cartas",
       "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
+    },
+    {
+      "album": {
+        "name": "2 contra 1",
+        "url": "https://open.spotify.com/album/4sEtbJkhpBn6S3NgotSMFa"
+      },
+      "artists": [
+        {
+          "name": "2contra1",
+          "url": "https://open.spotify.com/artist/07QNsyKFdUIrz9DdQj1Df6"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155115,
+      "name": "Rolleando Fuerte",
+      "url": "https://open.spotify.com/track/5eicvn7A3NuAGduvU6a68t"
     },
     {
       "album": {
@@ -1003,7 +1095,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 186549,
       "name": "Te Voy a Tener",
       "url": "https://open.spotify.com/track/08qtqeaHucyXi72GmgBwMP"
@@ -1079,6 +1171,24 @@
       "duration_ms": 221066,
       "name": "Vamos Otra Vez",
       "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
+    },
+    {
+      "album": {
+        "name": "Limits",
+        "url": "https://open.spotify.com/album/6E2j4xGEchzSCTSz5Nafur"
+      },
+      "artists": [
+        {
+          "name": "Traits",
+          "url": "https://open.spotify.com/artist/03XiGqilVkmYN6zuO89N8i"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201026,
+      "name": "We're All a Dick Sometimes",
+      "url": "https://open.spotify.com/track/6W74li23KmBPGlDPkoNnj5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaDPSVSkBhhM"

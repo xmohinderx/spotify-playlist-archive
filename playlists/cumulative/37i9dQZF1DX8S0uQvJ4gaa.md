@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Ingrid Andress
 
-1,348 songs - 3 day 1 hr 11 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
+1,349 songs - 3 day 1 hr 14 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1332,6 +1332,7 @@
 | [Wyoming](https://open.spotify.com/track/7p66NOpoeXJNrVl1AJJxLt) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Wyoming](https://open.spotify.com/album/6DDploC935TaZ1FZLzvLJO) | 4:12 | 2020-09-06 | 2020-09-28 |
 | [Y'allsome](https://open.spotify.com/track/36aPwIgCEOfeRSmIgDypWQ) | [Pryor & Lee](https://open.spotify.com/artist/0E4gzbZvE8TPQhWaMWj2vZ) | [Y'allsome](https://open.spotify.com/album/7vnp1SE7we3WJfVt6pWfdW) | 3:18 | 2020-07-04 | 2020-08-30 |
 | [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 | 2020-04-18 | 2020-05-23 |
+| [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-05-16 |  |
 | [You Ain't Gone](https://open.spotify.com/track/671d8SDHATlaTbNsNb3qm9) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [You Ain't Gone](https://open.spotify.com/album/3cTrQWdNvKH5emA3jLFTys) | 2:58 | 2021-08-21 | 2022-02-05 |
 | [You Can](https://open.spotify.com/track/5OwE2FnBLEhPhVRg97CX0q) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [You Can](https://open.spotify.com/album/2bk1vnpzFoObPCfSJotF6t) | 2:48 | 2020-07-25 | 2020-08-16 |
 | [You Did](https://open.spotify.com/track/2zObw9MePQ17Csq3IqWizy) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Seventeen](https://open.spotify.com/album/0KZUFOf422XJiRUXfl7b78) | 3:24 | 2022-02-11 |  |

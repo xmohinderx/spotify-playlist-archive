@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-05-15",
   "description": "Steam, steel, and cogs... the ultimate steampunk soundtrack.",
   "name": "Steampunk",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7AGhILVLHk7I2nemGyD0mI"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 34613,
       "name": "At What Point Does a Shakespeare Say",
       "url": "https://open.spotify.com/track/5V29WDYHqVWER6XDR1bxS6"
@@ -237,7 +239,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 275146,
       "name": "Evil Night Together",
       "url": "https://open.spotify.com/track/3abDzZQp1orhQbeYwd89Yq"
@@ -273,7 +275,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 139213,
       "name": "Geistzug",
       "url": "https://open.spotify.com/track/5fdo6fqNejb4KcOJ05IofQ"
@@ -907,7 +909,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 65026,
       "name": "Vale Of Tears",
       "url": "https://open.spotify.com/track/7xDNlARZ816nAoDnYZOP8y"

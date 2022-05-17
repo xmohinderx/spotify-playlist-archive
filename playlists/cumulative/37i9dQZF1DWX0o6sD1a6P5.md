@@ -4,7 +4,7 @@
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Rema
 
-129 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+130 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bobby Shmurda](https://open.spotify.com/track/2SfIBkJj3wADWSEGgyWXWR) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [VOL 169 ATTERRISSAGE](https://open.spotify.com/album/474RT27VhUBkRpOEMCTCzr) | 2:56 | 2022-02-24 | 2022-04-15 |
 | [Bounce](https://open.spotify.com/track/3ku51L937DfBoNcU9hmDQy) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [PANDEMIC](https://open.spotify.com/album/4DTPlpehe0NPh3hFqMOAgS) | 3:04 | 2021-12-27 | 2022-01-14 |
 | [Bresom \(feat\. Naza\)](https://open.spotify.com/track/6o7lJeWBrDtsortS0FPKPJ) | [Jaymax](https://open.spotify.com/artist/0v5TXXJsokDC2bYAUe8UAF), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Bresom \(feat\. Naza\)](https://open.spotify.com/album/0R4UB0U5Cg3CIzCKOm9zCY) | 2:11 | 2022-01-13 | 2022-02-11 |
+| [Buga](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-05-16 |  |
 | [C'est mort](https://open.spotify.com/track/3QFUkZtiiFUNSOxsHBjf6r) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [C'est mort](https://open.spotify.com/album/2VXCxNQ2RX1v58C5o5x4OP) | 2:55 | 2022-03-10 | 2022-05-06 |
 | [C'est toi](https://open.spotify.com/track/729blbra42RS4hrSqGOU3t) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [C'est toi](https://open.spotify.com/album/2az0xXjyvJVPfNZfSTlMA8) | 2:40 | 2021-12-27 | 2022-02-25 |
 | [Calm Down](https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk) | 3:39 | 2022-02-10 |  |
@@ -124,7 +125,7 @@
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-03-31 |  |
 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 | 2021-12-27 | 2022-02-11 |
 | [Sweet Daddy](https://open.spotify.com/track/491RNEZhVfVRKlbN259dff) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Daddy](https://open.spotify.com/album/5vVu6P7rrAXE6gkbCIwLCy) | 3:09 | 2022-02-17 | 2022-03-16 |
-| [Sáré](https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Sáré](https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az) | 2:34 | 2022-02-24 |  |
+| [Sáré](https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Sáré](https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az) | 2:34 | 2022-02-24 | 2022-05-17 |
 | [Tapé Poto](https://open.spotify.com/track/06lE7fleMxHKOSXAscjo9K) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Tapé Poto](https://open.spotify.com/album/4rhV8AszF8xWebe5W9nMP9) | 4:10 | 2021-12-27 | 2022-01-28 |
 | [Tigini \- Remix](https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Tigini \(Remix\)](https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp) | 3:16 | 2021-12-27 | 2022-02-25 |
 | [Tika](https://open.spotify.com/track/6RipQtV9RiquhfTVBFEYc1) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Tika](https://open.spotify.com/album/4sb0TqAJGWIR5Zy4q9jinw) | 3:09 | 2021-12-27 | 2022-01-14 |

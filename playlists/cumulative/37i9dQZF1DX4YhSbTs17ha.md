@@ -2,7 +2,7 @@
 
 ### [Sólo Pop](https://open.spotify.com/playlist/37i9dQZF1DX4YhSbTs17ha)
 
-> Escucha las canciones de pop más exitosas en México\. En portada: Jesse & Joy
+> Escucha las canciones de pop más exitosas en México\. En portada: Karol G
 
 149 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
 

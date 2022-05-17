@@ -1,13 +1,29 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 177316,
+  "num_followers": 177459,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjY2Mjg5OSwwMDAwMDAwMDMwOTVhNGYwMGQ5MDBhMjZlMjRiMDk1MDI0NWYxZTcw",
+  "snapshot_id": "MTY1Mjc0OTE1MSwwMDAwMDAwMGU4ZTI5YjczNTM1NGM3MmRjZjQ1NjNiYjY5OGY5MTk0",
   "tracks": [
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5"
+      },
+      "artists": [
+        {
+          "name": "Gat Decor",
+          "url": "https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Passion - Naked Edit",
+      "url": "https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu"
+    },
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
@@ -23,6 +39,62 @@
       "duration_ms": 244773,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 272147,
+      "name": "Ride on Time",
+      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Turn Around - Single",
+        "url": "https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ"
+      },
+      "artists": [
+        {
+          "name": "Phats & Small",
+          "url": "https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6"
+        },
+        {
+          "name": "Toney Lee",
+          "url": "https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Turn Around - Radio Edit",
+      "url": "https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "2 Future 4 U",
+        "url": "https://open.spotify.com/album/00XVrVh53A6ENcRbErr81y"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Duane Harden",
+          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
+        }
+      ],
+      "duration_ms": 484533,
+      "name": "U Don't Know Me (feat. Duane Harden)",
+      "url": "https://open.spotify.com/track/0TN9m8rp3ZuNi4JwCKSans"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -51,74 +123,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5"
-      },
-      "artists": [
-        {
-          "name": "Gat Decor",
-          "url": "https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Passion - Naked Edit",
-      "url": "https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Turn Around - Single",
-        "url": "https://open.spotify.com/album/0ekbBXoxN1AsU6dMJxpyzJ"
-      },
-      "artists": [
-        {
-          "name": "Phats & Small",
-          "url": "https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6"
-        },
-        {
-          "name": "Toney Lee",
-          "url": "https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Turn Around - Radio Edit",
-      "url": "https://open.spotify.com/track/2nx86MrPkXWQctveAEFJBf"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 272147,
-      "name": "Ride on Time",
-      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "2 Future 4 U",
-        "url": "https://open.spotify.com/album/6EQvsGSCwrxl8bp3cvWNzy"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 486266,
-      "name": "U Don't Know Me",
-      "url": "https://open.spotify.com/track/4xKSVV3RjBs9vPyrHpuslU"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/5Ogio3M1CRlOf1EZ5ymjSk"
       },
@@ -131,70 +135,6 @@
       "duration_ms": 332000,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/67c4UClxMejugp63qjUrXk"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Blueprint (The Best of)",
-        "url": "https://open.spotify.com/album/2WuGvmbLkF1HFHkVq33TuY"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 350560,
-      "name": "Pacific State",
-      "url": "https://open.spotify.com/track/3t9dq1I2VKPmEcatwRkJ9P"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Big Fun",
-      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Move Your Body (Elevation) - EP",
-        "url": "https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink"
-      },
-      "artists": [
-        {
-          "name": "Xpansions",
-          "url": "https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Hideaway / That Look - Single",
-        "url": "https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk"
-      },
-      "artists": [
-        {
-          "name": "De'Lacy",
-          "url": "https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Hideaway - Deep Dish Radio Edit",
-      "url": "https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -231,74 +171,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Make the World Go Round",
-        "url": "https://open.spotify.com/album/1eBnONVrlATUXKSV7v9Wm3"
-      },
-      "artists": [
-        {
-          "name": "Sandy B",
-          "url": "https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL"
-        },
-        {
-          "name": "Deep Dish",
-          "url": "https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "Make the World Go Round - Deep Dish Radio Edit",
-      "url": "https://open.spotify.com/track/1EgSVewb2SmueY6ZYD4vzB"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Rich in Paradise (Going Back to My Roots)",
-        "url": "https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8"
-      },
-      "artists": [
-        {
-          "name": "FPI Project",
-          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
-        }
-      ],
-      "duration_ms": 351373,
-      "name": "Rich in Paradise (Going Back to My Roots) - Vocal Remix",
-      "url": "https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "The Best Of Crystal Waters",
-        "url": "https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Return of the 90s",
-        "url": "https://open.spotify.com/album/4lsQp3EEpwSUYNr6NHlKR5"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Chime",
-      "url": "https://open.spotify.com/track/4AwEctg3w5Fi76sv2clLgY"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Needin' U (Radio Edit)",
         "url": "https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW"
       },
@@ -319,50 +191,18 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
       },
       "artists": [
         {
-          "name": "Urban Cookie Collective",
-          "url": "https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
         }
       ],
-      "duration_ms": 222666,
-      "name": "The Key, The Secret",
-      "url": "https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Plastic Dreams",
-        "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
-      },
-      "artists": [
-        {
-          "name": "Jaydee",
-          "url": "https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767"
-        }
-      ],
-      "duration_ms": 205050,
-      "name": "Plastic Dreams - Radio Edit",
-      "url": "https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "808:88:98",
-        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Pacific 707",
-      "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
+      "duration_ms": 206160,
+      "name": "Big Fun",
+      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -383,18 +223,86 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5E0tYU95grjqwwa8x0r18y"
+        "name": "Blueprint (The Best of)",
+        "url": "https://open.spotify.com/album/2WuGvmbLkF1HFHkVq33TuY"
       },
       "artists": [
         {
-          "name": "The Shamen",
-          "url": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
         }
       ],
-      "duration_ms": 208560,
-      "name": "Move Any Mountain - Beat Edit",
-      "url": "https://open.spotify.com/track/711raAnAVb68JiWeaMFCTd"
+      "duration_ms": 350560,
+      "name": "Pacific State",
+      "url": "https://open.spotify.com/track/3t9dq1I2VKPmEcatwRkJ9P"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Make the World Go Round",
+        "url": "https://open.spotify.com/album/1eBnONVrlATUXKSV7v9Wm3"
+      },
+      "artists": [
+        {
+          "name": "Sandy B",
+          "url": "https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL"
+        },
+        {
+          "name": "Deep Dish",
+          "url": "https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Make the World Go Round - Deep Dish Radio Edit",
+      "url": "https://open.spotify.com/track/1EgSVewb2SmueY6ZYD4vzB"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX"
+      },
+      "artists": [
+        {
+          "name": "Blue Boy",
+          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
+        }
+      ],
+      "duration_ms": 315400,
+      "name": "Sandman - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Back 2 House",
+        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 196293,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/4kYHN7CfG0asKuOwirbhpV"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Plastic Dreams",
+        "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
+      },
+      "artists": [
+        {
+          "name": "Jaydee",
+          "url": "https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767"
+        }
+      ],
+      "duration_ms": 205050,
+      "name": "Plastic Dreams - Radio Edit",
+      "url": "https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -419,38 +327,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "The Best Of M People",
-        "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
-      },
-      "artists": [
-        {
-          "name": "M People",
-          "url": "https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf"
-        }
-      ],
-      "duration_ms": 215533,
-      "name": "Moving on Up",
-      "url": "https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX"
-      },
-      "artists": [
-        {
-          "name": "Blue Boy",
-          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
-        }
-      ],
-      "duration_ms": 315400,
-      "name": "Sandman - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Nitelife - Armand Van Helden Remixes",
         "url": "https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen"
       },
@@ -467,18 +343,38 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+        "name": "Return of the 90s",
+        "url": "https://open.spotify.com/album/4lsQp3EEpwSUYNr6NHlKR5"
       },
       "artists": [
         {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 223535,
-      "name": "Dreamer - Janice Robinson Vocal",
-      "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
+      "duration_ms": 194653,
+      "name": "Chime",
+      "url": "https://open.spotify.com/track/4AwEctg3w5Fi76sv2clLgY"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Anthem (The Mafia Mix)",
+        "url": "https://open.spotify.com/album/5vd2RI19tkXCq9vC2XFAlq"
+      },
+      "artists": [
+        {
+          "name": "N Joi",
+          "url": "https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs"
+        },
+        {
+          "name": "Mafia Productions",
+          "url": "https://open.spotify.com/artist/71Feqz2UNoJsx4HfhWrShO"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Anthem - The Mafia Mix",
+      "url": "https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -492,9 +388,57 @@
           "url": "https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Feels Like Heaven",
-      "url": "https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt"
+      "duration_ms": 222666,
+      "name": "The Key, The Secret",
+      "url": "https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "808:88:98",
+        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Pacific 707",
+      "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "The Best Of Crystal Waters",
+        "url": "https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "The Best Of M People",
+        "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
+      },
+      "artists": [
+        {
+          "name": "M People",
+          "url": "https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf"
+        }
+      ],
+      "duration_ms": 215533,
+      "name": "Moving on Up",
+      "url": "https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -515,110 +459,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Two Can Play That Game",
-        "url": "https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brown",
-          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
-        },
-        {
-          "name": "K-Klass",
-          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Two Can Play That Game - Radio Edit",
-      "url": "https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Pacha Ibiza - The House Collection (2000-2009)",
-        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
-      },
-      "artists": [
-        {
-          "name": "Afro Medusa",
-          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
-        }
-      ],
-      "duration_ms": 427842,
-      "name": "Pasilda - Knee Deep Club Mix",
-      "url": "https://open.spotify.com/track/7GQSrFMZ6w9B9UN9g7nB0b"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Richard Sen presents This Ain't Chicago - The Underground Sound Of UK House & Acid 1987-1991",
-        "url": "https://open.spotify.com/album/1JtoOWMe2WSlrZNHpCADqC"
-      },
-      "artists": [
-        {
-          "name": "Sly",
-          "url": "https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI"
-        },
-        {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
-        }
-      ],
-      "duration_ms": 501122,
-      "name": "The World According To Sly & Lovechild - Andrew Weatherall Soul Of Europe Mix",
-      "url": "https://open.spotify.com/track/3G33NkV2Yq2uhxKwOttXFS"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Beyond The Mix",
-        "url": "https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD"
-      },
-      "artists": [
-        {
-          "name": "Frankie Knuckles",
-          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
-        }
-      ],
-      "duration_ms": 417706,
-      "name": "The Whistle Song",
-      "url": "https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Playing With Knives [Quadrant Mix]",
-        "url": "https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM"
-      },
-      "artists": [
-        {
-          "name": "Bizarre Inc",
-          "url": "https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU"
-        }
-      ],
-      "duration_ms": 407213,
-      "name": "Playing With Knives [Quadrant Mix}",
-      "url": "https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Positive Education",
-        "url": "https://open.spotify.com/album/467booOmOkJTW4KXK2v6Vv"
-      },
-      "artists": [
-        {
-          "name": "Slam",
-          "url": "https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO"
-        }
-      ],
-      "duration_ms": 519360,
-      "name": "Positive Education",
-      "url": "https://open.spotify.com/track/7Ges3Ph4dWhqmmTgSpJFNW"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "My Feeling",
         "url": "https://open.spotify.com/album/7p9RQMPqPj5LssdXAQ1v18"
       },
@@ -635,138 +475,38 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "A Final Hit - The Best Of Leftfield",
-        "url": "https://open.spotify.com/album/572FXQt3pv7BtAyHsn5bP6"
+        "name": "Move Your Body (Elevation) - EP",
+        "url": "https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink"
       },
       "artists": [
         {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+          "name": "Xpansions",
+          "url": "https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj"
         }
       ],
-      "duration_ms": 457186,
-      "name": "Not Forgotten - Hard Hands Remix",
-      "url": "https://open.spotify.com/track/4IdjLApIFnK01hRUdQlCLT"
+      "duration_ms": 231840,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf"
     },
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Wanted",
-        "url": "https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x"
+        "name": "Vintage Ibiza Classic Vol. 1",
+        "url": "https://open.spotify.com/album/06DgUHTWfx2vt6jzWXHOfF"
       },
       "artists": [
         {
-          "name": "Yazz",
-          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "The Only Way Is Up",
-      "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "The World is Full of Trouble",
-        "url": "https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn"
-      },
-      "artists": [
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        }
-      ],
-      "duration_ms": 446466,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Joey Negro presents In The Beginning",
-        "url": "https://open.spotify.com/album/6mATBsGFVNnWDjPOumc5SQ"
-      },
-      "artists": [
-        {
-          "name": "Raven Maize",
-          "url": "https://open.spotify.com/artist/5WbKRCtdFObAHIPrbF32si"
-        }
-      ],
-      "duration_ms": 341986,
-      "name": "Forever Together",
-      "url": "https://open.spotify.com/track/6rGT97YcnLQnrDRsx3OgY6"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "The Theme (2021 Remasters)",
-        "url": "https://open.spotify.com/album/1GPxjKiBeTWvSMfEgc6Lf5"
-      },
-      "artists": [
-        {
-          "name": "Hot Lizard",
-          "url": "https://open.spotify.com/artist/4ed40za1tjrU8Kz20YuhSh"
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
         },
         {
-          "name": "Charles Webster",
-          "url": "https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh"
+          "name": "Mood II Swing",
+          "url": "https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av"
         }
       ],
-      "duration_ms": 792657,
-      "name": "The Theme - Love from San Francisco Remix (2021 Remaster)",
-      "url": "https://open.spotify.com/track/5gbdmN4VMSyZSh33lILpGw"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/3iTzHehZgmL6H5uzkpZHKc"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 363866,
-      "name": "I'm For Real",
-      "url": "https://open.spotify.com/track/7xkwcX1dsnpT8d1Cu8SBFH"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Raise Your Hands",
-        "url": "https://open.spotify.com/album/4NS4zVtdf0k9jIsaOsonQV"
-      },
-      "artists": [
-        {
-          "name": "X-Press 2",
-          "url": "https://open.spotify.com/artist/1mlZXof4sEGLFspPzlQdFL"
-        }
-      ],
-      "duration_ms": 406826,
-      "name": "London Xpress",
-      "url": "https://open.spotify.com/track/7qE89I8Xw5WPykWtzPvqoD"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Boss Drum",
-        "url": "https://open.spotify.com/album/2qqBB0ifiEG4sKnRsJf1Y3"
-      },
-      "artists": [
-        {
-          "name": "The Shamen",
-          "url": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
-        },
-        {
-          "name": "Beatmasters",
-          "url": "https://open.spotify.com/artist/3kSxMljyCkYdHrOzmLzQTV"
-        }
-      ],
-      "duration_ms": 375693,
-      "name": "Ebeneezar Goode - Beatmasters Mix",
-      "url": "https://open.spotify.com/track/4KpJWjfmodlhM6XQeoZXBd"
+      "duration_ms": 369066,
+      "name": "Free - Mood II Swing Remix",
+      "url": "https://open.spotify.com/track/2FrCwt008k0xqtCFH1VaTZ"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -807,34 +547,334 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "I'll Be Your Friend",
-        "url": "https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI"
+        "name": "Hideaway / That Look - Single",
+        "url": "https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk"
       },
       "artists": [
         {
-          "name": "Robert Owens",
-          "url": "https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t"
+          "name": "De'Lacy",
+          "url": "https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho"
         }
       ],
-      "duration_ms": 456911,
-      "name": "I'll Be Your Friend - Original Mix (2011 Remastered Version)",
-      "url": "https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO"
+      "duration_ms": 211960,
+      "name": "Hideaway - Deep Dish Radio Edit",
+      "url": "https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X"
     },
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Dance Anthems Classics",
-        "url": "https://open.spotify.com/album/7D7y3vKUI95Zdx3ROo7YBh"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5E0tYU95grjqwwa8x0r18y"
       },
       "artists": [
         {
-          "name": "Richie Rich",
-          "url": "https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd"
+          "name": "The Shamen",
+          "url": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Salsa House - Edit",
-      "url": "https://open.spotify.com/track/0lYftlVimwk7bTZ1LzeBuV"
+      "duration_ms": 208560,
+      "name": "Move Any Mountain - Beat Edit",
+      "url": "https://open.spotify.com/track/711raAnAVb68JiWeaMFCTd"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Rich in Paradise (Going Back to My Roots)",
+        "url": "https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8"
+      },
+      "artists": [
+        {
+          "name": "FPI Project",
+          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
+        }
+      ],
+      "duration_ms": 351373,
+      "name": "Rich in Paradise (Going Back to My Roots) - Vocal Remix",
+      "url": "https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Beyond The Mix",
+        "url": "https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD"
+      },
+      "artists": [
+        {
+          "name": "Frankie Knuckles",
+          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
+        }
+      ],
+      "duration_ms": 417706,
+      "name": "The Whistle Song",
+      "url": "https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Richard Sen presents This Ain't Chicago - The Underground Sound Of UK House & Acid 1987-1991",
+        "url": "https://open.spotify.com/album/1JtoOWMe2WSlrZNHpCADqC"
+      },
+      "artists": [
+        {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI"
+        },
+        {
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
+        }
+      ],
+      "duration_ms": 501122,
+      "name": "The World According To Sly & Lovechild - Andrew Weatherall Soul Of Europe Mix",
+      "url": "https://open.spotify.com/track/3G33NkV2Yq2uhxKwOttXFS"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Mushrooms",
+        "url": "https://open.spotify.com/album/1Vy1OUHs1xkzpzbaoxeXZr"
+      },
+      "artists": [
+        {
+          "name": "Marshall Jefferson vs. Noosa Heads",
+          "url": "https://open.spotify.com/artist/45KxlxhV4KySZkLb5pXo8V"
+        }
+      ],
+      "duration_ms": 497939,
+      "name": "Mushrooms - Salt City Orchestra Out There Mix",
+      "url": "https://open.spotify.com/track/0DmMkCRnLCn30vkJeUhgK2"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 223535,
+      "name": "Dreamer - Janice Robinson Vocal",
+      "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x"
+      },
+      "artists": [
+        {
+          "name": "Yazz",
+          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "The Only Way Is Up",
+      "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "In & Out of My Life",
+        "url": "https://open.spotify.com/album/3FTYVUog44LgvJ9IjwwVk8"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        }
+      ],
+      "duration_ms": 391360,
+      "name": "In & Out of My Life (Knee Deep Vocal)",
+      "url": "https://open.spotify.com/track/4Foka1AEAx62AqDeqpZZpd"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Playing With Knives [Quadrant Mix]",
+        "url": "https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM"
+      },
+      "artists": [
+        {
+          "name": "Bizarre Inc",
+          "url": "https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU"
+        }
+      ],
+      "duration_ms": 407213,
+      "name": "Playing With Knives [Quadrant Mix}",
+      "url": "https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG"
+      },
+      "artists": [
+        {
+          "name": "Urban Cookie Collective",
+          "url": "https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Boss Drum",
+        "url": "https://open.spotify.com/album/2qqBB0ifiEG4sKnRsJf1Y3"
+      },
+      "artists": [
+        {
+          "name": "The Shamen",
+          "url": "https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3"
+        },
+        {
+          "name": "Beatmasters",
+          "url": "https://open.spotify.com/artist/3kSxMljyCkYdHrOzmLzQTV"
+        }
+      ],
+      "duration_ms": 375693,
+      "name": "Ebeneezar Goode - Beatmasters Mix",
+      "url": "https://open.spotify.com/track/4KpJWjfmodlhM6XQeoZXBd"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "A Final Hit - The Best Of Leftfield",
+        "url": "https://open.spotify.com/album/572FXQt3pv7BtAyHsn5bP6"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 457186,
+      "name": "Not Forgotten - Hard Hands Remix",
+      "url": "https://open.spotify.com/track/4IdjLApIFnK01hRUdQlCLT"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Jack Your Body (S&S Reloaded)",
+        "url": "https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT"
+      },
+      "artists": [
+        {
+          "name": "Steve \"Silk\" Hurley",
+          "url": "https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP"
+        }
+      ],
+      "duration_ms": 306231,
+      "name": "Jack Your Body - 1986 Club Mix",
+      "url": "https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Ladies With An Attitude (2016 Remaster)",
+        "url": "https://open.spotify.com/album/6CpoJjaKIIdnP5kLpImuxA"
+      },
+      "artists": [
+        {
+          "name": "Epitome Of Hype",
+          "url": "https://open.spotify.com/artist/60SjdVjFjUhR70M8nlqDV5"
+        }
+      ],
+      "duration_ms": 370368,
+      "name": "Let The Freak",
+      "url": "https://open.spotify.com/track/2KKmMowig9ZMrZLmaEw9A6"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
+      },
+      "artists": [
+        {
+          "name": "Aly-Us",
+          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Follow Me - Club Mix",
+      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        },
+        {
+          "name": "A. Manetta",
+          "url": "https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "Don't Stop Movin' - Radio Mix",
+      "url": "https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Washing Machine",
+        "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fingers",
+          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
+        }
+      ],
+      "duration_ms": 344013,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Pacha Ibiza - The House Collection (2000-2009)",
+        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
+      },
+      "artists": [
+        {
+          "name": "Afro Medusa",
+          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
+        }
+      ],
+      "duration_ms": 427842,
+      "name": "Pasilda - Knee Deep Club Mix",
+      "url": "https://open.spotify.com/track/7GQSrFMZ6w9B9UN9g7nB0b"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -859,6 +899,22 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
+        "name": "Positive Education",
+        "url": "https://open.spotify.com/album/467booOmOkJTW4KXK2v6Vv"
+      },
+      "artists": [
+        {
+          "name": "Slam",
+          "url": "https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO"
+        }
+      ],
+      "duration_ms": 519360,
+      "name": "Positive Education",
+      "url": "https://open.spotify.com/track/7Ges3Ph4dWhqmmTgSpJFNW"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
         "name": "GATE-AH",
         "url": "https://open.spotify.com/album/2W6tSoWGY7ShtfjVYEvxgz"
       },
@@ -875,50 +931,38 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Richard Sen presents This Ain't Chicago - The Underground Sound Of UK House & Acid 1987-1991",
-        "url": "https://open.spotify.com/album/1JtoOWMe2WSlrZNHpCADqC"
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/3iTzHehZgmL6H5uzkpZHKc"
       },
       "artists": [
         {
-          "name": "Julian Jonah",
-          "url": "https://open.spotify.com/artist/5vNDM7qXcEeFy8JDReY50L"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
         }
       ],
-      "duration_ms": 370733,
-      "name": "Jealousy And Lies",
-      "url": "https://open.spotify.com/track/5ReVGmd0h7E9fuVy9EZ9pR"
+      "duration_ms": 363866,
+      "name": "I'm For Real",
+      "url": "https://open.spotify.com/track/7xkwcX1dsnpT8d1Cu8SBFH"
     },
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "90's House & Garage compiled by Joey Negro",
-        "url": "https://open.spotify.com/album/0056ovkC4UuHKagNtk7ZAN"
+        "name": "Sindae (feat. L.G.)",
+        "url": "https://open.spotify.com/album/2dfXqrgiXOekles5uIiWeL"
       },
       "artists": [
         {
-          "name": "Gisele Jackson",
-          "url": "https://open.spotify.com/artist/10UyQv5ojqx3NCPupzEDcd"
-        }
-      ],
-      "duration_ms": 469980,
-      "name": "Love Commandments - Vocal Edit",
-      "url": "https://open.spotify.com/track/3KJ8vCkG1wmm3JudilTFOx"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Mushrooms",
-        "url": "https://open.spotify.com/album/1Vy1OUHs1xkzpzbaoxeXZr"
-      },
-      "artists": [
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        },
         {
-          "name": "Marshall Jefferson vs. Noosa Heads",
-          "url": "https://open.spotify.com/artist/45KxlxhV4KySZkLb5pXo8V"
+          "name": "L.G.",
+          "url": "https://open.spotify.com/artist/1C9jCVewiz4TYKbGD2A6EA"
         }
       ],
-      "duration_ms": 497939,
-      "name": "Mushrooms - Salt City Orchestra Out There Mix",
-      "url": "https://open.spotify.com/track/0DmMkCRnLCn30vkJeUhgK2"
+      "duration_ms": 350066,
+      "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
+      "url": "https://open.spotify.com/track/4f7PglDSAmthAX0iq7E8Mt"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -943,90 +987,54 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "The Jerusalem EP's",
-        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+        "name": "Original Soundtrack",
+        "url": "https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc"
       },
       "artists": [
         {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+          "name": "S'Express",
+          "url": "https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S"
         }
       ],
-      "duration_ms": 407893,
-      "name": "Servants Jaz House",
-      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
+      "duration_ms": 270826,
+      "name": "Hey Music Lover",
+      "url": "https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX"
     },
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Flash Back House",
-        "url": "https://open.spotify.com/album/3O5VL0jdDuTyYxb2rnUI7w"
+        "name": "Push The Feeling On",
+        "url": "https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL"
       },
       "artists": [
         {
-          "name": "Bizarre Inc",
-          "url": "https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU"
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
         },
         {
-          "name": "Dany",
-          "url": "https://open.spotify.com/artist/6VTcX5uHYfFX2wOouLcpLk"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         }
       ],
-      "duration_ms": 319986,
-      "name": "I'm Gonna Get You",
-      "url": "https://open.spotify.com/track/09CsnyDCKkeTYopxheyDcd"
+      "duration_ms": 243160,
+      "name": "Push The Feeling On - Mk Dub Revisited Edit",
+      "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
     },
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Back 2 House",
-        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+        "name": "Richard Sen presents This Ain't Chicago - The Underground Sound Of UK House & Acid 1987-1991",
+        "url": "https://open.spotify.com/album/1JtoOWMe2WSlrZNHpCADqC"
       },
       "artists": [
         {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+          "name": "Julian Jonah",
+          "url": "https://open.spotify.com/artist/5vNDM7qXcEeFy8JDReY50L"
         }
       ],
-      "duration_ms": 211853,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Washing Machine",
-        "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
-      },
-      "artists": [
-        {
-          "name": "Mr. Fingers",
-          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
-        }
-      ],
-      "duration_ms": 344013,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        },
-        {
-          "name": "A. Manetta",
-          "url": "https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "Don't Stop Movin' - Radio Mix",
-      "url": "https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc"
+      "duration_ms": 370733,
+      "name": "Jealousy And Lies",
+      "url": "https://open.spotify.com/track/5ReVGmd0h7E9fuVy9EZ9pR"
     }
   ],
   "unique_name": "90s House Classics",

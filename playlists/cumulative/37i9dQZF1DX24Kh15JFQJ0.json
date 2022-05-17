@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "12th of June",
+        "url": "https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR"
+      },
+      "artists": [
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322466,
+      "name": "Her Loving Man",
+      "url": "https://open.spotify.com/track/2VqE5LvdZ5S8CBrxubpakU"
+    },
+    {
+      "album": {
         "name": "Ain't No Closing Me Down",
         "url": "https://open.spotify.com/album/1191oeD8jhGrVnNHE6Ef36"
       },
@@ -2033,6 +2051,28 @@
       "duration_ms": 304280,
       "name": "The Night The Lights Went Out In Georgia - Eric Kupper Remix",
       "url": "https://open.spotify.com/track/3CCx4xeyrZQTONz6MvURaX"
+    },
+    {
+      "album": {
+        "name": "The Rest of It's Mine",
+        "url": "https://open.spotify.com/album/6sCKgnzpFAqnJbGFZUFGl2"
+      },
+      "artists": [
+        {
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+        },
+        {
+          "name": "Paul Overstreet",
+          "url": "https://open.spotify.com/artist/3ylJ2aEWS2QkIj4XPiC28z"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "The Rest of It's Mine",
+      "url": "https://open.spotify.com/track/2Bj7YGVBtjbVrWhhSRVwaj"
     },
     {
       "album": {

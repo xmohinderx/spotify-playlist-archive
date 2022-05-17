@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 298825,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/0UL668NCJKvzQuIgkwTQtz"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 302673,
       "name": "Bipolarity",
       "url": "https://open.spotify.com/track/2Fnl5TWYqdmSwTHvrB7voW"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 177048,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/22GEETI4LXhhePCO71PyEv"
@@ -633,10 +633,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 262783,
       "name": "Fallen Torches",
       "url": "https://open.spotify.com/track/42iSlpI9hVVDk79EK86rvP"
+    },
+    {
+      "album": {
+        "name": "ASD",
+        "url": "https://open.spotify.com/album/2cnGockaLMIgfToxVQJMoj"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227455,
+      "name": "Falling Apart In A (Crow)ded Room",
+      "url": "https://open.spotify.com/track/7LJFM2Rb1DbrzlQIdmTZmY"
     },
     {
       "album": {
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 155286,
       "name": "Genocidal Humanoidz",
       "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 237003,
       "name": "Into The Fire",
       "url": "https://open.spotify.com/track/7zWPlO8Mcjc5mQGf7v8dlE"
@@ -964,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Static",
+        "url": "https://open.spotify.com/album/2RhVl3MvjeWGbB8bw4YTRi"
+      },
+      "artists": [
+        {
+          "name": "After The Burial",
+          "url": "https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273194,
+      "name": "Lost In The Static",
+      "url": "https://open.spotify.com/track/6iGXUJW99KAwbRiwxIjKPU"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP"
       },
@@ -1047,7 +1083,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 244773,
       "name": "My Curse",
       "url": "https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv"
@@ -1083,7 +1119,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 225250,
       "name": "Of Silk and Straw",
       "url": "https://open.spotify.com/track/76waIQkhQ6MsPsdeIWVIfp"
@@ -1155,7 +1191,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/7gYL9E5WN7Nd8l2ZQ1rkKI"
@@ -1317,7 +1353,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 219184,
       "name": "Seasick Sailor",
       "url": "https://open.spotify.com/track/3I1VLSWBv6R9gMGbrESodh"
@@ -1371,7 +1407,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 199960,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/3FRB1HLHRqOamWnPeoQbK0"
@@ -1407,7 +1443,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
@@ -1555,7 +1591,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 223357,
       "name": "The Hunted (feat. Sully Erna)",
       "url": "https://open.spotify.com/track/08vJxMYhmZu6YTWqVmLgrA"
@@ -1617,6 +1653,24 @@
       "duration_ms": 213226,
       "name": "The Safety of Disbelief",
       "url": "https://open.spotify.com/track/28Mj8V1IVsfHnHhl4RkZq2"
+    },
+    {
+      "album": {
+        "name": "The Unquestionable Truth (Pt. 1)",
+        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325520,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/52h4yQrQZD3BkycTqlKsjj"
     },
     {
       "album": {
@@ -1710,6 +1764,24 @@
     },
     {
       "album": {
+        "name": "Vice Grip",
+        "url": "https://open.spotify.com/album/6Fdm9lHPvuB2sIFT4tmMbZ"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263586,
+      "name": "Vice Grip",
+      "url": "https://open.spotify.com/track/2c9TM5qY2Kx330wuh4O72y"
+    },
+    {
+      "album": {
         "name": "Eighteen Visions",
         "url": "https://open.spotify.com/album/2DZCKhA1FdFJwRSKL2cPYM"
       },
@@ -1721,7 +1793,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 178333,
       "name": "Victim",
       "url": "https://open.spotify.com/track/38RTTDR84odCz5gQrLuZQR"
@@ -1797,7 +1869,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 172826,
       "name": "When Legends Rise",
       "url": "https://open.spotify.com/track/367RiGuLVLO3DTer4NuRLJ"
@@ -1851,7 +1923,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 254613,
       "name": "You Want a Battle? (Here's a War)",
       "url": "https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk"

@@ -4,7 +4,7 @@
 
 > This is the official playlist of JTBC Superband, an audition program for musical geniuses for global superbands\. \(글로벌 슈퍼밴드를 위한 음악 천재들의 오디션 프로그램 JTBC 슈퍼밴드의 공식 플레이리스트입니다.\)
 
-91 songs - 7 hr 29 min - not published yet
+91 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/5jR3otso9RmoZwMuljXbvB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

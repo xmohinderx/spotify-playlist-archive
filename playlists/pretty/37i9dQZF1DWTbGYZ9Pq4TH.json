@@ -1,13 +1,61 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 153913,
+  "num_followers": 153937,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjY2MjkwNSwwMDAwMDAwMGM2ZTFkMDA4YWNhN2E2YWEyYzYwNmZlOWU1MjFlOWU5",
+  "snapshot_id": "MTY1Mjc0OTE1NiwwMDAwMDAwMDljOGEyYmM3YjY4MmY1N2VkYzBjMDQ0MjBmZTQ2MmY4",
   "tracks": [
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Bagus",
+        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Vieni A Vedere Perch\u00e8",
+      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Unica",
+        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
+      },
+      "artists": [
+        {
+          "name": "Antonello Venditti",
+          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Una storia semplice (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "Quel posto che non c'\u00e8",
+      "url": "https://open.spotify.com/track/2k2EIHQn1xrJU85BLNqnBC"
+    },
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
@@ -31,34 +79,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "I Grandi Successi",
-        "url": "https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA"
+        "name": "Sar\u00e0 migliore",
+        "url": "https://open.spotify.com/album/5ky21JmYFnnPcmhJJ7agLM"
       },
       "artists": [
         {
-          "name": "Anna Oxa",
-          "url": "https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN"
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 239066,
-      "name": "Quando nasce un amore",
-      "url": "https://open.spotify.com/track/42QwfNehRxZzLhQCh7Jfkr"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Fai rumore",
-        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
-      },
-      "artists": [
-        {
-          "name": "Diodato",
-          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
-        }
-      ],
-      "duration_ms": 216140,
-      "name": "Fai rumore",
-      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
+      "duration_ms": 193573,
+      "name": "Una canzone per te",
+      "url": "https://open.spotify.com/track/6nxwXubrJ26ZTYrgbNHtvX"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -79,86 +111,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Unica",
-        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
-      },
-      "artists": [
-        {
-          "name": "Antonello Venditti",
-          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Unica",
-      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Backup 1987-2012",
-        "url": "https://open.spotify.com/album/1ws4MgPpkizrbcNYCXHESG"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Baciami Ancora",
-      "url": "https://open.spotify.com/track/36UJ6MVWrKm2mTXpHovbkc"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Mi Fai Stare Bene",
-        "url": "https://open.spotify.com/album/1vQfL4IdQZAaFpUX0Sxn3w"
-      },
-      "artists": [
-        {
-          "name": "Biagio Antonacci",
-          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "Iris (Tra Le Tue Poesie)",
-      "url": "https://open.spotify.com/track/5LGWbFTVLPEvuvkwy9nXiv"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "La Vasca",
-        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "Una Su 1.000.000",
-      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Diari Aperti",
-        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
-      },
-      "artists": [
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Anche Fragile",
-      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Amami tour",
         "url": "https://open.spotify.com/album/0IGkpbOg62FzEJvtIOLQjD"
       },
@@ -175,230 +127,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Bagus",
-        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
+        "name": "Accetto Miracoli",
+        "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
       },
       "artists": [
         {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
         }
       ],
-      "duration_ms": 253626,
-      "name": "Vieni A Vedere Perch\u00e8",
-      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "TuttoVenditti",
-        "url": "https://open.spotify.com/album/5MHO15wZxm98p6BF4uAO5V"
-      },
-      "artists": [
-        {
-          "name": "Antonello Venditti",
-          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
-        }
-      ],
-      "duration_ms": 315160,
-      "name": "Ricordati di me",
-      "url": "https://open.spotify.com/track/4zb0g3sxejRXrx3SPVcOHU"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Buoni O Cattivi (Remastered 2017)",
-        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "E...",
-      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Amore che torni",
-        "url": "https://open.spotify.com/album/3tG9l5R3MTk4hWUEHoPCYc"
-      },
-      "artists": [
-        {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "La prima volta",
-      "url": "https://open.spotify.com/track/3kIxACxR2tDPtKCWWa16lq"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "L'Imboscata",
-        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
-      },
-      "artists": [
-        {
-          "name": "Franco Battiato",
-          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Perfetto",
-        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Sei Un Pensiero Speciale",
-      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Asile's World",
-        "url": "https://open.spotify.com/album/4NAldsRyud3P1gM53MpSEs"
-      },
-      "artists": [
-        {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "Luce (Tramonti a Nord Est)",
-      "url": "https://open.spotify.com/track/09g4hFrDdBK3J52I3InPgl"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Biagio Antonacci",
-        "url": "https://open.spotify.com/album/7neucB0mGnAkrD5Bp0M0MA"
-      },
-      "artists": [
-        {
-          "name": "Biagio Antonacci",
-          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
-        }
-      ],
-      "duration_ms": 293666,
-      "name": "Se Io, Se Lei",
-      "url": "https://open.spotify.com/track/1c7PV7wDi6qGqAdBRQ2rbX"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Atlantico",
-        "url": "https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI"
-      },
-      "artists": [
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 227466,
-      "name": "Hola (I Say) (feat. Tom Walker)",
-      "url": "https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Iperbole",
-        "url": "https://open.spotify.com/album/7fTv0aFzQRR1LSta69B3N9"
-      },
-      "artists": [
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        }
-      ],
-      "duration_ms": 296040,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/713hKoyY39jOdW6aEfFd8A"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Splende",
-        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Una finestra tra le stelle",
-      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Una storia semplice (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo"
-      },
-      "artists": [
-        {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "Quel posto che non c'\u00e8",
-      "url": "https://open.spotify.com/track/2k2EIHQn1xrJU85BLNqnBC"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 282720,
-      "name": "Senza Parole",
-      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Fermoimmagine",
-        "url": "https://open.spotify.com/album/3usPcrTGNDxXe3ciW0hfnA"
-      },
-      "artists": [
-        {
-          "name": "Francesco Renga",
-          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Ci Sarai",
-      "url": "https://open.spotify.com/track/6iLvjH0HEU71q31DAfKt10"
+      "duration_ms": 225386,
+      "name": "In Mezzo A Questo Inverno",
+      "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -423,40 +163,8 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "it.pop",
-        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Oggi Sono Io",
-      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Ricordami",
-        "url": "https://open.spotify.com/album/1Yrtp2iWOkmUiYU3SZrp0Y"
-      },
-      "artists": [
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 205914,
-      "name": "Ricordami",
-      "url": "https://open.spotify.com/track/6Vw7SyOg1BcWvGpyPzWgEa"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "BIAGIO",
-        "url": "https://open.spotify.com/album/740IiNnnKPXz8qrjiuyfdR"
+        "name": "Mi Fai Stare Bene",
+        "url": "https://open.spotify.com/album/1vQfL4IdQZAaFpUX0Sxn3w"
       },
       "artists": [
         {
@@ -464,9 +172,41 @@
           "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
         }
       ],
-      "duration_ms": 248546,
-      "name": "Non ci facciamo compagnia",
-      "url": "https://open.spotify.com/track/2Ap7Olfl8xOv2Ync3Wv7Yr"
+      "duration_ms": 238413,
+      "name": "Iris (Tra Le Tue Poesie)",
+      "url": "https://open.spotify.com/track/5LGWbFTVLPEvuvkwy9nXiv"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Fermoimmagine",
+        "url": "https://open.spotify.com/album/3usPcrTGNDxXe3ciW0hfnA"
+      },
+      "artists": [
+        {
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Ci Sarai",
+      "url": "https://open.spotify.com/track/6iLvjH0HEU71q31DAfKt10"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Vivere O Niente",
+        "url": "https://open.spotify.com/album/3lYK5n40cnggTy17jPSW0E"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 320627,
+      "name": "Stammi Vicino",
+      "url": "https://open.spotify.com/track/1KR1qEkaX8PIHXBYfSOpr1"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -487,24 +227,56 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Quel sorriso in volto",
-        "url": "https://open.spotify.com/album/0QCJbFcLkD9QgyNfivDkQX"
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
       "artists": [
         {
-          "name": "Mod\u00e0",
-          "url": "https://open.spotify.com/artist/3ALm6zJLaJMWV0r89kuYtu"
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
         }
       ],
-      "duration_ms": 241760,
-      "name": "Quel sorriso in volto",
-      "url": "https://open.spotify.com/track/6oDAlwyZAHxi47aAJ6Kvw7"
+      "duration_ms": 239693,
+      "name": "Anche Fragile",
+      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
     },
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Sar\u00e0 migliore",
-        "url": "https://open.spotify.com/album/5ky21JmYFnnPcmhJJ7agLM"
+        "name": "Sopravvissuti e sopravviventi [Remastered Version]",
+        "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
+      },
+      "artists": [
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Ho messo via",
+      "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Grazie",
+        "url": "https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi"
+      },
+      "artists": [
+        {
+          "name": "Gianna Nannini",
+          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
+        }
+      ],
+      "duration_ms": 270346,
+      "name": "Sei nell'anima",
+      "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Ma Cosa Vuoi Che Sia Una Canzone",
+        "url": "https://open.spotify.com/album/3qlZxpHULNTMuNtSgSMYiK"
       },
       "artists": [
         {
@@ -512,49 +284,89 @@
           "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 193573,
-      "name": "Una canzone per te",
-      "url": "https://open.spotify.com/track/6nxwXubrJ26ZTYrgbNHtvX"
+      "duration_ms": 182133,
+      "name": "La nostra relazione",
+      "url": "https://open.spotify.com/track/3aG9QxO3O3w1qYVJAxdw5R"
     },
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Canzoni",
-        "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
+        "name": "L'amore \u00e8 una cosa semplice (Special Edition)",
+        "url": "https://open.spotify.com/album/4VqOwLPLbdl3GTNoygOLW1"
       },
       "artists": [
         {
-          "name": "Mietta",
-          "url": "https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP"
-        },
-        {
-          "name": "Amedeo Minghi",
-          "url": "https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ"
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Vattene amore (feat. Amedeo Minghi)",
-      "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
+      "duration_ms": 242973,
+      "name": "L\u2019Amore \u00c8 Una Cosa Semplice",
+      "url": "https://open.spotify.com/track/7b0qDOmCeqHIAsGK7j0MbI"
     },
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Fatti sentire ancora",
-        "url": "https://open.spotify.com/album/79DqfTYT6oweCZwWPOfQOR"
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Biagio Antonacci",
-          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 224893,
-      "name": "Il coraggio di andare (feat. Biagio Antonacci)",
-      "url": "https://open.spotify.com/track/7Imr3iWPjlPs208jw92W5J"
+      "duration_ms": 228080,
+      "name": "Sei Un Pensiero Speciale",
+      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Voglio Essere Tua",
+        "url": "https://open.spotify.com/album/4gXIRr2yjFbOTUI5LxbOhI"
+      },
+      "artists": [
+        {
+          "name": "Giordana Angi",
+          "url": "https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Stringimi Pi\u00f9 Forte",
+      "url": "https://open.spotify.com/track/3L1uLi5dUwHXyPr1qdFTOS"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 264240,
+      "name": "A Te",
+      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "I Grandi Successi",
+        "url": "https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA"
+      },
+      "artists": [
+        {
+          "name": "Anna Oxa",
+          "url": "https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "Quando nasce un amore",
+      "url": "https://open.spotify.com/track/42QwfNehRxZzLhQCh7Jfkr"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -579,18 +391,34 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "L'amore \u00e8 una cosa semplice (Special Edition)",
-        "url": "https://open.spotify.com/album/4VqOwLPLbdl3GTNoygOLW1"
+        "name": "Fabio Concato",
+        "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
       },
       "artists": [
         {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+          "name": "Fabio Concato",
+          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
         }
       ],
-      "duration_ms": 226533,
-      "name": "La Fine",
-      "url": "https://open.spotify.com/track/7eEthuNKSBZ6ipfmG5mjuJ"
+      "duration_ms": 233666,
+      "name": "Fiore Di Maggio",
+      "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "L'anima vola (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1kJojaiy2j8ICZIdsKGehb"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "A modo tuo",
+      "url": "https://open.spotify.com/track/26BnLngCCgaDTtbnOe155S"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -604,89 +432,25 @@
           "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
         }
       ],
-      "duration_ms": 217613,
-      "name": "L'immenso",
-      "url": "https://open.spotify.com/track/3NNJzRvSDVuXgJ36TOE3QO"
+      "duration_ms": 289386,
+      "name": "Sei",
+      "url": "https://open.spotify.com/track/0R7971qKgDfF8zvqCWtgF1"
     },
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Tutti I Miei Sogni",
-        "url": "https://open.spotify.com/album/0tkQys6CWErjTUroTILFsA"
+        "name": "Iperbole",
+        "url": "https://open.spotify.com/album/7fTv0aFzQRR1LSta69B3N9"
       },
       "artists": [
         {
-          "name": "Riccardo Cocciante",
-          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
         }
       ],
-      "duration_ms": 279973,
-      "name": "Se stiamo insieme",
-      "url": "https://open.spotify.com/track/3V2TMVsl5LlDvEVff9hw31"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Una Canzone D'Amore Buttata Via",
-        "url": "https://open.spotify.com/album/2dFdW3uioaAxAoRgSbhYBT"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 271376,
-      "name": "Una Canzone D'Amore Buttata Via",
-      "url": "https://open.spotify.com/track/3hV8uIYz5D5orhpgqixZHj"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Musica \u00e8",
-        "url": "https://open.spotify.com/album/0OCZyh2eM52kiVJYBZZ3fJ"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Ti sposer\u00f2 perch\u00e9",
-      "url": "https://open.spotify.com/track/0Jp3BOdSROQLzAnfUGl8ce"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Sopravvissuti e sopravviventi [Remastered Version]",
-        "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
-      },
-      "artists": [
-        {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
-        }
-      ],
-      "duration_ms": 286146,
-      "name": "Ho messo via",
-      "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Amore che torni",
-        "url": "https://open.spotify.com/album/3tG9l5R3MTk4hWUEHoPCYc"
-      },
-      "artists": [
-        {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "Per uno come me",
-      "url": "https://open.spotify.com/track/0izGL1EhHAt9Rkc6cmwi4G"
+      "duration_ms": 296040,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/713hKoyY39jOdW6aEfFd8A"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -707,56 +471,104 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+        "name": "Chiamami Ancora Amore",
+        "url": "https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT"
       },
       "artists": [
         {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+          "name": "Roberto Vecchioni",
+          "url": "https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Piccola Stella",
-      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
+      "duration_ms": 253986,
+      "name": "Chiamami Ancora Amore",
+      "url": "https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5"
     },
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Grazie",
-        "url": "https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi"
+        "name": "L'amore \u00e8 una cosa semplice (Special Edition)",
+        "url": "https://open.spotify.com/album/4VqOwLPLbdl3GTNoygOLW1"
       },
       "artists": [
         {
-          "name": "Gianna Nannini",
-          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
         }
       ],
-      "duration_ms": 270346,
-      "name": "Sei nell'anima",
-      "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
+      "duration_ms": 226533,
+      "name": "La Fine",
+      "url": "https://open.spotify.com/track/7eEthuNKSBZ6ipfmG5mjuJ"
     },
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Fabio Concato",
-        "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
+        "name": "Fino a qui",
+        "url": "https://open.spotify.com/album/28rK6KrZTDZqPBoM9bGFR4"
       },
       "artists": [
         {
-          "name": "Fabio Concato",
-          "url": "https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za"
+          "name": "Tiromancino",
+          "url": "https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Fiore Di Maggio",
-      "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
+      "duration_ms": 230933,
+      "name": "Sale, amore e vento",
+      "url": "https://open.spotify.com/track/5CUA4D216X2XJtk6ePncXS"
     },
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Una storia semplice (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo"
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/2ShW1dnxI5hVcWwR3WOQEQ"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Tua Per Sempre",
+      "url": "https://open.spotify.com/track/7a6b81vuhd20Fx4C7EQoZ9"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Normale o Super (Remastered Version)",
+        "url": "https://open.spotify.com/album/5WSCJ1Bx50jylypTc6Mh7N"
+      },
+      "artists": [
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "duration_ms": 293284,
+      "name": "Sei bellissima - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4l0uiCBOrYciJROo2VW6ft"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Le Donne",
+        "url": "https://open.spotify.com/album/7oRQKOgL5wWXBa0uOo39ny"
+      },
+      "artists": [
+        {
+          "name": "Antonello Venditti",
+          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
+        }
+      ],
+      "duration_ms": 315786,
+      "name": "Amici mai",
+      "url": "https://open.spotify.com/track/1MHJZhEo79mKEK349W188E"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Amore che torni",
+        "url": "https://open.spotify.com/album/3tG9l5R3MTk4hWUEHoPCYc"
       },
       "artists": [
         {
@@ -764,31 +576,63 @@
           "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/5PWWPmpN5ZNTck8ccaMmxQ"
+      "duration_ms": 213200,
+      "name": "Per uno come me",
+      "url": "https://open.spotify.com/track/0izGL1EhHAt9Rkc6cmwi4G"
     },
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Io Non So Parlar D'Amore",
-        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
       },
       "artists": [
         {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+          "name": "Riccardo Cocciante",
+          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
         }
       ],
-      "duration_ms": 247533,
-      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
-      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
+      "duration_ms": 274973,
+      "name": "Bella senz'anima",
+      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
     },
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Ma Cosa Vuoi Che Sia Una Canzone",
-        "url": "https://open.spotify.com/album/3qlZxpHULNTMuNtSgSMYiK"
+        "name": "Grovigli",
+        "url": "https://open.spotify.com/album/2n64YwFYEsVx4cmKmFFDZW"
+      },
+      "artists": [
+        {
+          "name": "Malika Ayane",
+          "url": "https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5"
+        }
+      ],
+      "duration_ms": 217786,
+      "name": "La prima cosa bella",
+      "url": "https://open.spotify.com/track/4VbK4kLSKzJ5sgsdZWmAJ9"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "L'Imboscata",
+        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
+      },
+      "artists": [
+        {
+          "name": "Franco Battiato",
+          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Sar\u00e0 migliore",
+        "url": "https://open.spotify.com/album/5ky21JmYFnnPcmhJJ7agLM"
       },
       "artists": [
         {
@@ -796,9 +640,81 @@
           "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 182133,
-      "name": "La nostra relazione",
-      "url": "https://open.spotify.com/track/3aG9QxO3O3w1qYVJAxdw5R"
+      "duration_ms": 334773,
+      "name": "Ridere di te",
+      "url": "https://open.spotify.com/track/5YBseYFfboIucgnDKQcNpn"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Casa 69",
+        "url": "https://open.spotify.com/album/6G2h1c16cEErA8mu7JkROt"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 359160,
+      "name": "Basta cosi' - With Elisa",
+      "url": "https://open.spotify.com/track/2493A7OGenXVtLT1hfels3"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Asile's World",
+        "url": "https://open.spotify.com/album/4NAldsRyud3P1gM53MpSEs"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 264533,
+      "name": "Luce (Tramonti a Nord Est)",
+      "url": "https://open.spotify.com/track/09g4hFrDdBK3J52I3InPgl"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "TuttoVenditti",
+        "url": "https://open.spotify.com/album/5MHO15wZxm98p6BF4uAO5V"
+      },
+      "artists": [
+        {
+          "name": "Antonello Venditti",
+          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
+        }
+      ],
+      "duration_ms": 315160,
+      "name": "Ricordati di me",
+      "url": "https://open.spotify.com/track/4zb0g3sxejRXrx3SPVcOHU"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Atlantico",
+        "url": "https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 227466,
+      "name": "Hola (I Say) (feat. Tom Walker)",
+      "url": "https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -819,6 +735,74 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
+        "name": "Nome e cognome [Remastered Version]",
+        "url": "https://open.spotify.com/album/4ykRF2gZsuZmUVBeVMFnnT"
+      },
+      "artists": [
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "L'amore conta",
+      "url": "https://open.spotify.com/track/1ms3QC6CO8vN4100SgrG70"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Vietato morire",
+        "url": "https://open.spotify.com/album/4s4nkQg1wtDcwz7Tuvycpv"
+      },
+      "artists": [
+        {
+          "name": "Ermal Meta",
+          "url": "https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "duration_ms": 221920,
+      "name": "Piccola anima (feat. Elisa)",
+      "url": "https://open.spotify.com/track/0vJ1F4W4FZ9lNGxGwyJZZp"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Sono Io",
+        "url": "https://open.spotify.com/album/5oLB0uxM8hXHMPhMOt7zcd"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Come Una Favola",
+      "url": "https://open.spotify.com/track/2BxhBg9c6sKXOZRUgJotU8"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Backup 1987-2012",
+        "url": "https://open.spotify.com/album/1ws4MgPpkizrbcNYCXHESG"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 278160,
+      "name": "Baciami Ancora",
+      "url": "https://open.spotify.com/track/36UJ6MVWrKm2mTXpHovbkc"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
         "name": "Rapide",
         "url": "https://open.spotify.com/album/40tgSHlPNeumzdzLxaN9xC"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 243624,
       "name": "Rapide",
       "url": "https://open.spotify.com/track/2cf1g08CvDuhwXFqxjetQi"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Una storia semplice (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/5PWWPmpN5ZNTck8ccaMmxQ"
     }
   ],
   "unique_name": "Amore Davvero",

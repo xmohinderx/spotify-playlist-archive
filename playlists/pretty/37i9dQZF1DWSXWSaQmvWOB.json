@@ -1,13 +1,29 @@
 {
-  "description": "Your daily dose of soul-infused music! Cover: Jon Batiste",
-  "num_followers": 410916,
+  "description": "Your daily dose of soul-infused music! Cover: SABRI",
+  "num_followers": 410994,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM5MjgwMCwwMDAwMDEyMzAwMDAwMTgwYmE0OTMwNmUwMDAwMDE3ZmY4YTUwODU3",
+  "snapshot_id": "MTY1MjczODQwMCwwMDAwMDEyNDAwMDAwMTgwY2VlMmEwNTMwMDAwMDE4MGNjMDUwODIz",
   "tracks": [
+    {
+      "added_at": "2022-05-12 22:00:00",
+      "album": {
+        "name": "Too Perfect To Be Loved",
+        "url": "https://open.spotify.com/album/5ZyWcitUKa4Om03m6yP2Vu"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 224859,
+      "name": "Too Perfect To Be Loved",
+      "url": "https://open.spotify.com/track/5YuEVtQpx9bS4wBLeeBsQN"
+    },
     {
       "added_at": "2022-05-12 22:00:00",
       "album": {
@@ -63,22 +79,6 @@
       "duration_ms": 187109,
       "name": "Admit It",
       "url": "https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp"
-    },
-    {
-      "added_at": "2022-05-12 22:00:00",
-      "album": {
-        "name": "Too Perfect To Be Loved",
-        "url": "https://open.spotify.com/album/5ZyWcitUKa4Om03m6yP2Vu"
-      },
-      "artists": [
-        {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
-        }
-      ],
-      "duration_ms": 224859,
-      "name": "Too Perfect To Be Loved",
-      "url": "https://open.spotify.com/track/5YuEVtQpx9bS4wBLeeBsQN"
     },
     {
       "added_at": "2022-05-12 22:00:00",

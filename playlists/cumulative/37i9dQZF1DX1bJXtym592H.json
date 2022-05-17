@@ -2196,6 +2196,24 @@
     },
     {
       "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x"
+      },
+      "artists": [
+        {
+          "name": "Fadez N Rizer",
+          "url": "https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3"
+    },
+    {
+      "album": {
         "name": "Write Off",
         "url": "https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd"
       },

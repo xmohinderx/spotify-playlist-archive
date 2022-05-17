@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Dean Brody
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,062 likes - 179 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,164 likes - 179 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

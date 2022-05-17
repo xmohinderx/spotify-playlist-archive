@@ -4,7 +4,7 @@
 
 > Shout\. Strut\. Unite\. Riot Grrrl classics and other feminist staples.
 
-50 songs - 2 hr 34 min - not published yet
+50 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/3eskUlqxPCMMZOE5csh3l5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-94 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+96 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Mother's Waltz](https://open.spotify.com/track/7186LEkov9fIXeZlJwP8Nj) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Mother's Waltz](https://open.spotify.com/album/1n9x0IjxN4hWtOqtp19HLZ) | 1:55 | 2021-11-11 |  |
 | [My Bed](https://open.spotify.com/track/4EsDXeCeFgLEEDMQGBIXSj) | [The Easy Peasy](https://open.spotify.com/artist/4ABRagNQJwJqLUxgQw2WM2) | [My Bed](https://open.spotify.com/album/3PKwLGdrqdjdVshN4H0PUu) | 1:14 | 2021-11-11 |  |
 | [My Bonnie Lies Over the Ocean](https://open.spotify.com/track/1IEJzJhBH5EUExBZRNr90E) | [Jeremy Weber](https://open.spotify.com/artist/5kG2I7kJM2vgorcUBEmdQX) | [Guitar Lullabies](https://open.spotify.com/album/1RYmiB1F57bwA1CYhOctwu) | 1:45 | 2021-11-11 |  |
+| [My Yellow Balloon](https://open.spotify.com/track/5xIJe9ZI1WMChQebC2qwQY) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [My Yellow Balloon](https://open.spotify.com/album/55cKuVSQH7zhsaEL6v4ivy) | 2:53 | 2022-05-16 |  |
 | [Nocturne For Luna](https://open.spotify.com/track/6WZmh5M14Gb96trVMtNVmj) | [Jelmer Traaug](https://open.spotify.com/artist/2tt5ElREN9IPRHQBofxNhp) | [Nocturne For Luna](https://open.spotify.com/album/3haire3hrJ1h9zT4VT78V4) | 2:12 | 2021-11-11 |  |
 | [Oh My Darling Clementine \- Guitar Instrumental](https://open.spotify.com/track/52V3HMMWo2ifBu51czJbAU) | [Percy Montrose](https://open.spotify.com/artist/7fL5qAhMs5tY2zBgh6LPzw), [Benjamin Bonum Nocte](https://open.spotify.com/artist/3gc2mMM2cf56LNeGu0nKrY), [Baby Sleep](https://open.spotify.com/artist/1UD3SXwenV5Zmrdl7KKfqW), [Baby Lullaby](https://open.spotify.com/artist/7vgJnbva49FV9p5EkNlKq7) | [Guitar Lullabies](https://open.spotify.com/album/1tX3mdy95JS5Q6VKG0bpD0) | 1:18 | 2021-11-11 |  |
 | [On Top of Old Smokey \(Instrumental Version\)](https://open.spotify.com/track/0iPYaJS6hbMahRGl7VtueR) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Baby Lullabye Music \- Acoustic Songs for Children](https://open.spotify.com/album/0Udhpg3Zp3Y2jZkwb4M0lE) | 1:58 | 2021-11-11 |  |
@@ -99,6 +100,7 @@
 | [Waltzing Matilda](https://open.spotify.com/track/35TStN96CwcjFedErjW8Wq) | [Will Moore](https://open.spotify.com/artist/6XnR821CI0nzD4XFQ2ZFDo) | [Classical Guitar Lullabies Volume 1](https://open.spotify.com/album/4bOdmU2jKgz7eMoyFxWE0L) | 2:28 | 2021-11-11 |  |
 | [Wheels On The Bus](https://open.spotify.com/track/09inREgdiCICBK1z9gbPsw) | [Toola Hoot](https://open.spotify.com/artist/4MJ1e4BtHcv048OI92a4i9) | [Wheels On The Bus](https://open.spotify.com/album/1POdFavgcOurjDfD7C4jXb) | 1:33 | 2021-11-11 |  |
 | [When The Saints Go Marching In](https://open.spotify.com/track/4uTMTLSHl3kQAlU6CT2uAb) | [Lisa Jefferies](https://open.spotify.com/artist/4SWQEQ9XimBUaukFmdZNzi) | [Pretty Guitar Lullabies](https://open.spotify.com/album/6nACNDxZVOIiGGAsN0LFN5) | 1:56 | 2021-11-11 |  |
+| [Whisper](https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Whisper](https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC) | 1:27 | 2022-05-16 |  |
 | [Yankee Doodle](https://open.spotify.com/track/4mRfFgVV4ipWTYk8Fn4qFD) | [Landon Peterson](https://open.spotify.com/artist/0hGr3mOUfp4HDA3Vjp6EyA) | [Yankee Doodle](https://open.spotify.com/album/5eIHWL3lZNBTMQxZhDOk0L) | 2:00 | 2021-11-11 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/4EDhsaLTb8ho6Gn5K7DnaE) | [Mbese Mahl](https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def) | [You Are My Sunshine](https://open.spotify.com/album/31oCF2RhikCvolE115v4tW) | 2:19 | 2021-11-11 |  |
 | [You Are Safe In My Arms](https://open.spotify.com/track/4EfpWZIgjHSpetnWAjRCHf) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [When You Sleep I'm Close](https://open.spotify.com/album/1zu2s0djuBWMdytoE9uS8B) | 3:23 | 2021-11-11 |  |

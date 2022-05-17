@@ -1060,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "My Yellow Balloon",
+        "url": "https://open.spotify.com/album/55cKuVSQH7zhsaEL6v4ivy"
+      },
+      "artists": [
+        {
+          "name": "Lucy Sothersby",
+          "url": "https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173537,
+      "name": "My Yellow Balloon",
+      "url": "https://open.spotify.com/track/5xIJe9ZI1WMChQebC2qwQY"
+    },
+    {
+      "album": {
         "name": "Nocturne For Luna",
         "url": "https://open.spotify.com/album/3haire3hrJ1h9zT4VT78V4"
       },
@@ -1663,6 +1681,24 @@
       "duration_ms": 116671,
       "name": "When The Saints Go Marching In",
       "url": "https://open.spotify.com/track/4uTMTLSHl3kQAlU6CT2uAb"
+    },
+    {
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC"
+      },
+      "artists": [
+        {
+          "name": "Izakaru",
+          "url": "https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87500,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV"
     },
     {
       "album": {

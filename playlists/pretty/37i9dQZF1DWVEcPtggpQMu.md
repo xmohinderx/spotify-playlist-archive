@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s?si=q\-a0xYG\_RwWY\_AjQP\_\_\-nQ">BabyDaiz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,345 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,362 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

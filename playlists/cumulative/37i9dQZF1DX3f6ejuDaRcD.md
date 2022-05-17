@@ -4,7 +4,7 @@
 
 > Enjoy the soundtrack of Twenty Five Twenty One! \(청춘을 이야기하는 드라마 스물다섯 스물하나의 사운드트랙을 즐겨보세요!\)
 
-53 songs - 2 hr 32 min - not published yet
+53 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/7vRDLbTyBRv2nnsaPVvIR7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

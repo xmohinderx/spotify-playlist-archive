@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,130 likes - 107 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,133 likes - 107 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 106 | [Evergreen](https://open.spotify.com/track/2dHT2samnOh9mGhCBlicpf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Evergreen](https://open.spotify.com/album/5eHNalmognU8bbYYMhgXRL) | 2:51 |
 | 107 | [Hold me closer](https://open.spotify.com/track/2dh2kZW04gQhdw5pxzJn3T) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Hold me closer](https://open.spotify.com/album/48xDyFeRMKKKTDX7Tqs5ux) | 2:58 |
 
-Snapshot ID: `MTY1MjQyMjM5NCwwMDAwMDM4YjAwMDAwMTgwYmMwY2MwZDgwMDAwMDE4MGI5ZDcyN2I5`
+Snapshot ID: `MTY1MjY4MzYwMSwwMDAwMDM4YzAwMDAwMTgwY2I5ZTc3NzUwMDAwMDE4MGI5ZDcyN2I5`

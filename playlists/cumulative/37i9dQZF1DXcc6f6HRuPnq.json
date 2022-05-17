@@ -610,6 +610,24 @@
     },
     {
       "album": {
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Midnight Hour Blues",
+      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
+    },
+    {
+      "album": {
         "name": "The Delta Meets Detroit: Aretha's Blues",
         "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
       },
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 170493,
       "name": "Since I Fell For You",
       "url": "https://open.spotify.com/track/1OuJhCr6p1n5XYbaUNScvl"

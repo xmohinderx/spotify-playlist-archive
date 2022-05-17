@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 252565,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6nGWgxbKjV0vZThq18tDtA"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 159569,
       "name": "Badman",
       "url": "https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 218830,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Falkor's Return",
       "url": "https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ"
@@ -752,6 +752,28 @@
     },
     {
       "album": {
+        "name": "Epidemic Remixed Vol.1",
+        "url": "https://open.spotify.com/album/2S7cS5pHzNK2TiO77m5xOZ"
+      },
+      "artists": [
+        {
+          "name": "Mia Pfirrman",
+          "url": "https://open.spotify.com/artist/1J41DPq09UJRlSdeGDRKiH"
+        },
+        {
+          "name": "Ruzer",
+          "url": "https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169968,
+      "name": "How to Treat You Right (Ruzer Remix)",
+      "url": "https://open.spotify.com/track/4ET0dzN5MlTYFYPCfe2RlK"
+    },
+    {
+      "album": {
         "name": "I don't give a Fuck",
         "url": "https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM"
       },
@@ -785,7 +807,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 194262,
       "name": "I Swirl",
       "url": "https://open.spotify.com/track/2DZe6IQX5WIhTgr2q5Mu3w"
@@ -1127,7 +1149,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 324545,
       "name": "Retinues",
       "url": "https://open.spotify.com/track/1M4Tkuc3JSuAXC0d2gYvpT"
@@ -1291,7 +1313,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU"

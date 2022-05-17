@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of soul\-infused music! Cover: Jon Batiste
+> Your daily dose of soul\-infused music! Cover: SABRI
 
 472 songs - 1 day 5 hr 1 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 

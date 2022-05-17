@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> La scena italiana indipendente, senza etichette di genere\. Cover: Vieri Cervelli Montel
+> La scena italiana indipendente, senza etichette di genere\. Cover: Anna Carol
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,798 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,804 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [stanza](https://open.spotify.com/track/17o45MbE29kKZoGpWh2YvN) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/7vbidq5v7PoumjBZhzHfJ0) | 5:25 |
+| 1 | [Rotterdam](https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Rotterdam](https://open.spotify.com/album/5Hh1Yp8l8vZNDaNGS5mAco) | 3:17 |
 | 2 | [Zero](https://open.spotify.com/track/4acda42yRN6yGsdhx5ATk1) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj), [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [Zero](https://open.spotify.com/album/743Abmv04PR3012wIg5YPM) | 4:51 |
 | 3 | [sottosopra](https://open.spotify.com/track/3XLlNaKrCllDtrQaFLb0dG) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [sottosopra](https://open.spotify.com/album/6moVQ2cDgTKftRE7o4uzXM) | 2:35 |
 | 4 | [Piccoli problemi](https://open.spotify.com/track/0l4AdVfyK4ZI1aNqomkrqA) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Piccoli problemi](https://open.spotify.com/album/4fdrb9tRtt4mfIFCzBGzZ2) | 2:59 |
@@ -16,19 +16,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 6 | [Il suono che ho dentro alla testa](https://open.spotify.com/track/6MfiKVSAiknuYP9XUXQYFg) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [Il suono che ho dentro alla testa](https://open.spotify.com/album/7qhpdfM1CRlV3DDrBIqSI2) | 2:05 |
 | 7 | [Foot Forward](https://open.spotify.com/track/3Dm9mSyalSfqHdUPX5TLyR) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Foot Forward](https://open.spotify.com/album/6e3Yr0Yj7NM3ejYig0CyMK) | 2:34 |
 | 8 | [Acne \(apnea\)](https://open.spotify.com/track/0ptiXSFzFDGqD9IkMUzdms) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Acne](https://open.spotify.com/album/4p88bKpzYsdGIVUtkQUsby) | 2:04 |
-| 9 | [Almeno Stasera](https://open.spotify.com/track/6lICy5xp0iuiFkrRE7IFfv) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [AŠ](https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE) | 2:18 |
-| 10 | [Montagnarussa](https://open.spotify.com/track/7DqOvcg7JluBWkrj1P8dtR) | [Kahlo](https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F) | [Montagnarussa](https://open.spotify.com/album/7n7Vfn20UUHqmghFTuUTxe) | 2:47 |
-| 11 | [Birthday](https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Birthday](https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi) | 2:13 |
-| 12 | [APOLLO 11](https://open.spotify.com/track/5dJcZ79cBBq016PNOtAPz6) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [APOLLO 11](https://open.spotify.com/album/7Cw7BLWPn3o2XRhUTsWhqq) | 3:03 |
-| 13 | [paralosofia](https://open.spotify.com/track/3n4VTinSBZKzxXyWiVTGUN) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [paralosofia](https://open.spotify.com/album/2xJLLXbjGnMBJElImH9SMn) | 2:33 |
-| 14 | [14 maglioni](https://open.spotify.com/track/33Ndf9fuy6Kc9Zwta2wKUE) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [14 maglioni](https://open.spotify.com/album/0zo6gjnu4amNEtB7fmXSlL) | 3:22 |
-| 15 | [Piatti Sporchi](https://open.spotify.com/track/6QliTzcKrwZDZ4riRy7IL8) | [Mattino](https://open.spotify.com/artist/6AWJDRkGAulcoS0K1fChAT) | [Piatti Sporchi](https://open.spotify.com/album/3MTwNIztPZS019lqYKKuUP) | 2:28 |
-| 16 | [Ladro](https://open.spotify.com/track/2K6lcl1cqM1U1WvwTjb1Y3) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Nello spazio che resta](https://open.spotify.com/album/746EqxjUBO8HOB8ckvLDMU) | 3:06 |
-| 17 | [peso](https://open.spotify.com/track/5tlyVD3W2yvAgnK2l9HkDD) | [lambruscoxsimoeddai](https://open.spotify.com/artist/49wMxmMKaVlFwKBrrmPvGQ) | [peso](https://open.spotify.com/album/3b5BAQ20h2VRaeXR7ZB5hG) | 2:40 |
-| 18 | [Houdini](https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0), [Nubula](https://open.spotify.com/artist/7bGSYDi7LmU5F1wx8ITzIk) | [Houdini](https://open.spotify.com/album/2NfGUOifngHawKceRRzsn6) | 3:08 |
-| 19 | [Serramanico Farfalla](https://open.spotify.com/track/3GCTfmatkqze9rwqcMVvMb) | [Floral Grin](https://open.spotify.com/artist/5m1fvLDO1DDWVNhluFhOA9), [J Milli](https://open.spotify.com/artist/4kaZVOJpqYgHdQ05EwvGeK) | [Serramanico Farfalla](https://open.spotify.com/album/10ggwPJhklVqNIl9ef9Qcp) | 2:59 |
-| 20 | [Scuse](https://open.spotify.com/track/23If7giarQ3qk3Rx0AYSq6) | [44Moca](https://open.spotify.com/artist/5mE5vxk4MlRxhcAHgbPKpQ), [Nelson](https://open.spotify.com/artist/4GvQ2vmzbBgRXhjGlgYeYR) | [Scuse](https://open.spotify.com/album/6CmdaqnNkVBijCoYNveXRK) | 2:35 |
-| 21 | [Rotterdam](https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Rotterdam](https://open.spotify.com/album/5Hh1Yp8l8vZNDaNGS5mAco) | 3:17 |
+| 9 | [stanza](https://open.spotify.com/track/17o45MbE29kKZoGpWh2YvN) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/7vbidq5v7PoumjBZhzHfJ0) | 5:25 |
+| 10 | [Almeno Stasera](https://open.spotify.com/track/6lICy5xp0iuiFkrRE7IFfv) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [AŠ](https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE) | 2:18 |
+| 11 | [Montagnarussa](https://open.spotify.com/track/7DqOvcg7JluBWkrj1P8dtR) | [Kahlo](https://open.spotify.com/artist/7pR2B1Mq25ns1ZTfFND45F) | [Montagnarussa](https://open.spotify.com/album/7n7Vfn20UUHqmghFTuUTxe) | 2:47 |
+| 12 | [Birthday](https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Birthday](https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi) | 2:13 |
+| 13 | [APOLLO 11](https://open.spotify.com/track/5dJcZ79cBBq016PNOtAPz6) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [APOLLO 11](https://open.spotify.com/album/7Cw7BLWPn3o2XRhUTsWhqq) | 3:03 |
+| 14 | [paralosofia](https://open.spotify.com/track/3n4VTinSBZKzxXyWiVTGUN) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [paralosofia](https://open.spotify.com/album/2xJLLXbjGnMBJElImH9SMn) | 2:33 |
+| 15 | [14 maglioni](https://open.spotify.com/track/33Ndf9fuy6Kc9Zwta2wKUE) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [14 maglioni](https://open.spotify.com/album/0zo6gjnu4amNEtB7fmXSlL) | 3:22 |
+| 16 | [Piatti Sporchi](https://open.spotify.com/track/6QliTzcKrwZDZ4riRy7IL8) | [Mattino](https://open.spotify.com/artist/6AWJDRkGAulcoS0K1fChAT) | [Piatti Sporchi](https://open.spotify.com/album/3MTwNIztPZS019lqYKKuUP) | 2:28 |
+| 17 | [Ladro](https://open.spotify.com/track/2K6lcl1cqM1U1WvwTjb1Y3) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Nello spazio che resta](https://open.spotify.com/album/746EqxjUBO8HOB8ckvLDMU) | 3:06 |
+| 18 | [peso](https://open.spotify.com/track/5tlyVD3W2yvAgnK2l9HkDD) | [lambruscoxsimoeddai](https://open.spotify.com/artist/49wMxmMKaVlFwKBrrmPvGQ) | [peso](https://open.spotify.com/album/3b5BAQ20h2VRaeXR7ZB5hG) | 2:40 |
+| 19 | [Houdini](https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0), [Nubula](https://open.spotify.com/artist/7bGSYDi7LmU5F1wx8ITzIk) | [Houdini](https://open.spotify.com/album/2NfGUOifngHawKceRRzsn6) | 3:08 |
+| 20 | [Serramanico Farfalla](https://open.spotify.com/track/3GCTfmatkqze9rwqcMVvMb) | [Floral Grin](https://open.spotify.com/artist/5m1fvLDO1DDWVNhluFhOA9), [J Milli](https://open.spotify.com/artist/4kaZVOJpqYgHdQ05EwvGeK) | [Serramanico Farfalla](https://open.spotify.com/album/10ggwPJhklVqNIl9ef9Qcp) | 2:59 |
+| 21 | [Scuse](https://open.spotify.com/track/23If7giarQ3qk3Rx0AYSq6) | [44Moca](https://open.spotify.com/artist/5mE5vxk4MlRxhcAHgbPKpQ), [Nelson](https://open.spotify.com/artist/4GvQ2vmzbBgRXhjGlgYeYR) | [Scuse](https://open.spotify.com/album/6CmdaqnNkVBijCoYNveXRK) | 2:35 |
 | 22 | [Buio](https://open.spotify.com/track/3dsMyJ5lR9ammFyy8G4RjE) | [Giovane Giovane](https://open.spotify.com/artist/4BAxuRON1nw7gbgNTSAKAI) | [I figli degli altri](https://open.spotify.com/album/0pBDpnqaruZbsNDn1a0rzR) | 3:32 |
 | 23 | [Ho perso il conto](https://open.spotify.com/track/1LEeORXqVV1mrikm04YVyu) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y) | [GENESI](https://open.spotify.com/album/56X9IjteFWhd17bAUkzxYw) | 3:19 |
 | 24 | [Lucido](https://open.spotify.com/track/0wWHA2fRW21xXpPprVWxdc) | [ZANNA](https://open.spotify.com/artist/0F9jANZdmAJKEXyha9ELv2) | [Lucido](https://open.spotify.com/album/4Nr8JYO6KoWqJ7ylP1vYIZ) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Ucciderò](https://open.spotify.com/track/37U1dpnnOPunrt7sXoA7Zh) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Ucciderò](https://open.spotify.com/album/4Ff1liKfmFMWViEw1wPxdE) | 3:36 |
 | 50 | [Quattro pareti](https://open.spotify.com/track/7COhIpIAija8bWiHXp7MYu) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Tutti ammassati senza affetto](https://open.spotify.com/album/68kEQqgumoIrBGHQeD9aBH) | 3:09 |
 
-Snapshot ID: `MTY1MTc4ODA2MCwwMDAwMDA1MDAwMDAwMTgwOTYzZDk2MDQwMDAwMDE4MDkzOTRhZDEw`
+Snapshot ID: `MTY1MjY5MDczMCwwMDAwMDA1MTAwMDAwMTgwY2MwYjNmYjkwMDAwMDE4MGI3ZTQwODE3`

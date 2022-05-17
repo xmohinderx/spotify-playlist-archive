@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,396 songs - 3 day 9 hr 27 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,397 songs - 3 day 9 hr 30 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1139,6 +1139,7 @@
 | [Stupid](https://open.spotify.com/track/5tiXe9KoGmYHHBZwKHhAfD) | [Niki Kand](https://open.spotify.com/artist/2vh6QStsqt7NuA0XkUykhH) | [Stupid](https://open.spotify.com/album/1KWFdSnejE6hTtZoGV2i02) | 2:01 | 2020-10-26 | 2020-11-06 |
 | [Stupid Me](https://open.spotify.com/track/3yl0hK8awY340PpLYGuwZg) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [NIIVA](https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx) | 3:07 | 2021-02-19 | 2021-03-06 |
 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 | 2021-07-12 | 2021-11-19 |
+| [summer died](https://open.spotify.com/track/6JXhm0UL5WxP4P0UwkwEVL) | [Labit](https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea) | [summer died](https://open.spotify.com/album/2Q1KDKB2re98AMumPjVS24) | 2:58 | 2022-05-16 |  |
 | [Summer in September](https://open.spotify.com/track/4zkMIoLDJNjikGJxE1zHuR) | [Cam Be](https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E) | [Summer in September](https://open.spotify.com/album/08ACbcnqHgZXsoYZqkQ3n8) | 4:13 | 2021-10-20 | 2021-11-06 |
 | [Summer Nights](https://open.spotify.com/track/6wugo04WKfKrP3yqA3q3RH) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Summer Nights](https://open.spotify.com/album/0DR9YcbOqzLOLmZ0oX1QKU) | 2:39 | 2021-10-01 | 2021-10-20 |
 | [Summer Of 21'](https://open.spotify.com/track/6yjeMfISrvInGUMtoT0Yak) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Summer Of 21'](https://open.spotify.com/album/09teGR79HLyPamFoBKyQve) | 3:09 | 2021-09-24 | 2021-11-19 |

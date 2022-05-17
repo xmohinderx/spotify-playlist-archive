@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 278040,
       "name": "Ami Oh! (feat. Ang\u00e9lique Kidjo & Papa Wemba)",
       "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 222053,
       "name": "Bala Bala",
       "url": "https://open.spotify.com/track/4fY90F0MrBT2EPXqYgfAMv"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 229626,
       "name": "Born Under Punches",
       "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 237666,
       "name": "Fifa",
       "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 248586,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/3yFCAbInpUiqR1AqfUHizw"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 273066,
       "name": "Houses in Motion",
       "url": "https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 315466,
       "name": "Lady",
       "url": "https://open.spotify.com/track/6kixQpOqh28TiGN0Xm70U9"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 207026,
       "name": "Oya Diosa",
       "url": "https://open.spotify.com/track/5W5xwZtuu2pUbBnTSJyTgR"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 172880,
       "name": "Pata Pata",
       "url": "https://open.spotify.com/track/55dFmFmGpUIAIM41VeGgAw"
@@ -1287,10 +1287,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 212520,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6ZoY4JuMpnTkQTLE8tYP5k"
+    },
+    {
+      "album": {
+        "name": "Spirit Rising (Live)",
+        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244973,
+      "name": "Summertime - Live",
+      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
     },
     {
       "album": {
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 248466,
       "name": "The Great Curve",
       "url": "https://open.spotify.com/track/0Fi5C4uBEW6kNG6UF2ahm0"
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-17",
       "duration_ms": 220493,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/6EoOCVMcsU0Lt0TssHR7CY"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 222626,
       "name": "Yaki Yaki",
       "url": "https://open.spotify.com/track/5TJIFSsCxzigJUqomAfd4B"

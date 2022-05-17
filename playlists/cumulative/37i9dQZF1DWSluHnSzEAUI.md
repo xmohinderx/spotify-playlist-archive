@@ -4,7 +4,7 @@
 
 > Enjoy the soundtracks of K\-POP idols' comeback war 'Queendom'\. \(K\-POP 아이돌들의 컴백전쟁 '퀸덤'의 사운드 트랙들을 즐겨보세요.\)
 
-18 songs - 1 hr 8 min - not published yet
+18 songs - 1 hr 8 min - [published](https://open.spotify.com/playlist/31tSy2ip61KCByxrpoK5aI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
