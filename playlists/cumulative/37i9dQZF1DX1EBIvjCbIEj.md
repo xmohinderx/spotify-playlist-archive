@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2003! Cover: Tiziano Ferro
 
-104 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/7GnqBpRMHaDzTd4896TSz8)
+105 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/7GnqBpRMHaDzTd4896TSz8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 | 2020-11-04 |  |
 | [Gattomatto](https://open.spotify.com/track/1TfTHrulwvXium9LTLh7ZV) | [Roberto Angelini](https://open.spotify.com/artist/5dXjtDjzsFpgMKH1m1zceb) | [Angelini](https://open.spotify.com/album/3NRT3IkOctcqjMjEw53z2E) | 3:52 | 2020-11-04 |  |
 | [Get Busy](https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:31 | 2020-11-04 |  |
+| [Get Low](https://open.spotify.com/track/5CSossBRgqQUcBJGkI9H8S) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk \- Clean](https://open.spotify.com/album/0aFAb51gMtFlVtb1yOREsE) | 5:24 | 2020-11-04 |  |
 | [Gocce di memoria](https://open.spotify.com/track/1qGUCfrYav01b8sokQsL3T) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Spirito Libero](https://open.spotify.com/album/2Z9l7x2Q5kzRZOcY3Ak3oS) | 4:10 | 2020-11-04 |  |
 | [Going Under](https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:34 | 2020-11-04 |  |
 | [Guilty](https://open.spotify.com/track/1hosOKMreUyXeptkiqLMMT) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Guilty](https://open.spotify.com/album/2cB7BB0FN9qff1dAHCpNEy) | 3:45 | 2020-11-04 |  |
@@ -78,7 +79,7 @@
 | [Prima di partire per un lungo viaggio](https://open.spotify.com/track/7EURXaCUASIJgd2wxFD1pk) | [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H) | [Prima di partire](https://open.spotify.com/album/3RVCKhgHWueJJOXSAzI7Na) | 3:52 | 2020-11-04 |  |
 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 | 2020-11-04 |  |
 | [Ragazze Acidelle](https://open.spotify.com/track/6lS8dyBRGPlhvZqDKzPkpx) | [Flaminio Maphia](https://open.spotify.com/artist/2eOUhfCFmHm4zqfKaLNSBH) | [Er Mejo 1997\-2010](https://open.spotify.com/album/7qjBn18akikFpNjN3MdZKw) | 3:43 | 2020-11-04 |  |
-| [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 | 2020-11-04 |  |
+| [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 | 2020-11-04 | 2022-05-18 |
 | [Rise & Fall \(feat\. Sting\)](https://open.spotify.com/track/23ehR4jpFQFMfDADgFdXR7) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 4:47 | 2020-11-04 |  |
 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 | 2020-11-04 |  |
 | [Satisfaction \(Isak Original Extended\) \- Benny Benassi Presents The Biz](https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER) | 4:45 | 2020-11-04 |  |
@@ -108,9 +109,9 @@
 | [Voglio vederti danzare \- Radio Version](https://open.spotify.com/track/1AUQYchnMNYfNu15W6OQqv) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Marvin](https://open.spotify.com/artist/0MQjWOlXYUAlvDpF2PaJ8f), [Andrea Prezioso](https://open.spotify.com/artist/7eLZWdDUVeVmwQMf86njuc) | [Voglio vederti danzare](https://open.spotify.com/album/343nTm6FMkXp3xYLl9R4FD) | 3:45 | 2020-11-04 |  |
 | [Where Is The Love?](https://open.spotify.com/track/1FreAz1lmnDi5aKLB6GdFM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/4jOESXHbPsfy1IYdyvwjYI) | 4:32 | 2020-11-04 |  |
 | [White Flag](https://open.spotify.com/track/5ht9FVBi07F48ZAfIf7WdC) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/5N4Ruwnt4hgFjuVFjCekGW) | 4:00 | 2020-11-04 |  |
-| [Why Don't You & I \(feat\. Chad Kroeger\)](https://open.spotify.com/track/43LdgobPlcCc5g9Kmactvy) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:34 | 2020-11-04 | 2022-05-15 |
+| [Why Don't You & I \(feat\. Chad Kroeger\)](https://open.spotify.com/track/43LdgobPlcCc5g9Kmactvy) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:34 | 2020-11-04 |  |
 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2020-11-04 | 2022-05-15 |
 | [Xverso](https://open.spotify.com/track/60zS0V5Qdh9eaQ9TV1MpTK) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [111 Centoundici](https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7) | 3:51 | 2020-11-04 |  |
-| [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2020-11-04 |  |
+| [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 | 2020-11-04 | 2022-05-18 |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

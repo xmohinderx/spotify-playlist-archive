@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Vang; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,590 likes - 96 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,601 likes - 96 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 64 | [Neva Chia Lia](https://open.spotify.com/track/2pAZhdD0dtk0bQyOV6g8gd) | [Minchu](https://open.spotify.com/artist/5BvG46pJjsubbOQpc83sUi), [BadBz](https://open.spotify.com/artist/24g2ZCgiC9b4RQ5UcFaDDG) | [Neva Chia Lia](https://open.spotify.com/album/68jOYrlMo9XTUI3sPWPJbR) | 3:20 |
 | 65 | [Anh Dau](https://open.spotify.com/track/4cBAsuUvc3eE4aZRBzW5h9) | [younghao](https://open.spotify.com/artist/6frv7MElqCBhpktzJvGoxs), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Anh Dau](https://open.spotify.com/album/2vGt13zTh4TBEnHX7FMTQd) | 3:25 |
 | 66 | [Em Thích](https://open.spotify.com/track/2MHGIiWus5xHykiZGuDtNe) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/1cC4Mq5DZf014oC8g2FmCx) | 2:56 |
-| 67 | [Đừng Buông Tay](https://open.spotify.com/track/73VNP6sf8Kwpe3c1qPyMrc) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo) | [Đừng Buông Tay](https://open.spotify.com/album/1kCeVqOauEvomtlR7YhEKZ) | 4:08 |
+| 67 | [Đừng Buông Tay](https://open.spotify.com/track/73VNP6sf8Kwpe3c1qPyMrc) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo) | [Đừng Buông Tay](https://open.spotify.com/album/1kCeVqOauEvomtlR7YhEKZ) | 4:10 |
 | 68 | [Worthless](https://open.spotify.com/track/3PaiLH8DLZ6JMB0lcJeaQz) | [Haukong](https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [Worthless](https://open.spotify.com/album/6GY3FGcnqDi7aOkJ3rfmqn) | 3:36 |
 | 69 | [DREAMYBAE](https://open.spotify.com/track/1hOqLQYe1QYYCA5d0f3rN6) | [Arrow](https://open.spotify.com/artist/1DsuMvxjjWbfju1FGdcH3w) | [DREAMYBAE](https://open.spotify.com/album/3rlRrwJqGGG9oGyajkaaMm) | 3:03 |
 | 70 | [Ngọt Ngào Đến Mấy Cũng Tan Thành Drill](https://open.spotify.com/track/6R9Yg7BF6JlN9pnUYokDoN) | [Hazel](https://open.spotify.com/artist/22OldkM9MvTQgkozI6Scae) | [Ngọt Ngào Đến Mấy Cũng Tan Thành Drill](https://open.spotify.com/album/1gJrMp4jKmEQdkELTJTAbI) | 2:40 |

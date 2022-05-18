@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Penedo, Caio Luccas
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,740 likes - 69 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,783 likes - 69 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mente Rica](https://open.spotify.com/track/4qRB1QH2SeJty99mmVIXuA) | [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX), [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Mente Rica](https://open.spotify.com/album/20RXkBNObNEQcOgyFusjPz) | 3:40 |
 | 2 | [Espelho Meu](https://open.spotify.com/track/5i0ngsSwZMnYAZ9dLSg69f) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Espelho Meu](https://open.spotify.com/album/1mjgSHNATnRWSqO7YJ7P9k) | 2:12 |
 | 3 | [Baile da Serra](https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Serra](https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu) | 3:25 |
-| 4 | [Tonelada](https://open.spotify.com/track/3L6ubXrVpnxHLyhL8smMkX) | [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [Marv.](https://open.spotify.com/artist/2ILWVafy9bA3EsuKqmUZOi), [Kliff Hits](https://open.spotify.com/artist/6gn6AnKY4Tln44F07ejudP) | [Tonelada](https://open.spotify.com/album/0oRDhjSaFLpeATZlQ4Upyq) | 3:45 |
+| 4 | [Tonelada](https://open.spotify.com/track/3L6ubXrVpnxHLyhL8smMkX) | [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [Bovier](https://open.spotify.com/artist/2wUJ1qq1GJ6V9jUeeINIyQ), [Marv.](https://open.spotify.com/artist/2ILWVafy9bA3EsuKqmUZOi), [Kliff Hits](https://open.spotify.com/artist/6gn6AnKY4Tln44F07ejudP) | [Tonelada](https://open.spotify.com/album/0oRDhjSaFLpeATZlQ4Upyq) | 3:45 |
 | 5 | [Filho do Dono](https://open.spotify.com/track/40TTpkt2jMUr9wDeZPcQD6) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [CalliCartel](https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq) | [É o Trem!](https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx) | 3:32 |
 | 6 | [Ô Mãe](https://open.spotify.com/track/37A1beEC95fCBRge23pSFT) | [Aleck Johnson](https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA) | [Ô Mãe](https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU) | 2:12 |
 | 7 | [Surtada Interlude](https://open.spotify.com/track/3QlG3xVQgqvyi8JeyT4PS6) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [rod shawty](https://open.spotify.com/artist/0HdnynTCwfciA6uEqbXask), [SHOTBYBZK](https://open.spotify.com/artist/6ykNXCV6SmYveaTjjHUekm) | [Surtada Interlude](https://open.spotify.com/album/1ASVExvR4iHFwB8qvLfv5W) | 2:22 |

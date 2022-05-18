@@ -4,7 +4,7 @@
 
 > Join <a href="https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d">Lorem Life Live</a> w/ guest BEABADOOBEE this Weds @ 5pm EST\. Cover: aldn
 
-1,608 songs - 3 day 14 hr 1 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,609 songs - 3 day 14 hr 7 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1342,6 +1342,7 @@
 | [Stop Making This Hurt](https://open.spotify.com/track/32srSGuuy12hEhrD2iCIIK) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Stop Making This Hurt](https://open.spotify.com/album/6Zumf6wFEd0VHxHIUoMXhX) | 3:19 | 2021-05-22 | 2021-07-31 |
 | [Stop Thinking \(About Me\)](https://open.spotify.com/track/5dQcubBc2J3Pl0RVWL0wrb) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Stop Thinking \(About Me\)](https://open.spotify.com/album/4UDycw2h7dlI9ny0CVcKEQ) | 4:11 | 2019-07-30\* | 2019-10-11 |
 | [Straight Face](https://open.spotify.com/track/2UG9KZTACUkpUVjpBUvXX2) | [Younger Hunger](https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu) | [Straight Face](https://open.spotify.com/album/77gsvctozi0RYCX2lNObFp) | 2:44 | 2019-08-08 | 2019-10-10 |
+| [Strangers](https://open.spotify.com/track/1xiL7VZGTXUcJRmHqlIY5a) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 5:44 | 2022-05-17 |  |
 | [Strangers](https://open.spotify.com/track/5SxqOGFGCYfsQ5tHQWpV1j) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Strangers](https://open.spotify.com/album/1rC5GCfwN4sW2QMqbpk3gv) | 5:44 | 2022-04-08 | 2022-04-22 |
 | [strawberry cheeks](https://open.spotify.com/track/4zaLAS8k38OrOzcixofzwj) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [strawberry cheeks](https://open.spotify.com/album/0qy7ydTLwBmQeHbJMHL88t) | 2:14 | 2021-06-02 | 2021-11-13 |
 | [Street You Live On](https://open.spotify.com/track/0Rg7gsv3kLviC7jW6Jemv3) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:33 | 2021-10-16 | 2021-12-02 |

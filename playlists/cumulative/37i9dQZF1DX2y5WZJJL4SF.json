@@ -847,7 +847,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 142980,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/7A9ewjBMiEg2eXKHsojDa0"
@@ -1250,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "I Can't Help Falling In Love (Harp)",
+        "url": "https://open.spotify.com/album/67udOFmO7YqGWCIJFqo88w"
+      },
+      "artists": [
+        {
+          "name": "Chloe Hulme",
+          "url": "https://open.spotify.com/artist/547PuusQ4w9ybqTNLkI4Nu"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119269,
+      "name": "I Can't Help Falling In Love - Harp",
+      "url": "https://open.spotify.com/track/6ufNUNeLxtMKI99EmZbG0p"
+    },
+    {
+      "album": {
         "name": "I Don't Like Peas",
         "url": "https://open.spotify.com/album/2dam7lg2R9iMIAEZ72Vo0t"
       },
@@ -1628,6 +1646,24 @@
     },
     {
       "album": {
+        "name": "My Brother Charlie",
+        "url": "https://open.spotify.com/album/4EYg235urjEzSmSCbypl2V"
+      },
+      "artists": [
+        {
+          "name": "Eliza Adam",
+          "url": "https://open.spotify.com/artist/3pvPDX0ZInj5bKXW5vLEms"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "My Brother Charlie",
+      "url": "https://open.spotify.com/track/6JuYU8DQl781m1J92vGVrC"
+    },
+    {
+      "album": {
         "name": "My button",
         "url": "https://open.spotify.com/album/5tqyY54twI0oraFX1SJzmI"
       },
@@ -1952,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "Stars Are Falling",
+        "url": "https://open.spotify.com/album/6UkA9lFUPAzyEzrOpzPbpm"
+      },
+      "artists": [
+        {
+          "name": "Nash Hershey",
+          "url": "https://open.spotify.com/artist/7Jb6ocugSaKblkdgODXbUN"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56801,
+      "name": "Stars Are Falling",
+      "url": "https://open.spotify.com/track/56ylWs9S44viM3Rs790MCv"
+    },
+    {
+      "album": {
         "name": "Strawberry Milkshake",
         "url": "https://open.spotify.com/album/05Lm2GVM9Bv36k9pzTo5w0"
       },
@@ -2093,6 +2147,24 @@
       "duration_ms": 86086,
       "name": "The town is sleeping",
       "url": "https://open.spotify.com/track/1gHfdZtCaQHeb9FnKvfxKr"
+    },
+    {
+      "album": {
+        "name": "The Wheels On The Bus (Harp)",
+        "url": "https://open.spotify.com/album/1GN1mQIjCLpFHQTMc6xoYd"
+      },
+      "artists": [
+        {
+          "name": "Mandy Emery",
+          "url": "https://open.spotify.com/artist/44sB3HOu7jhEOVDrzsFkv3"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100629,
+      "name": "The Wheels On The Bus - Harp",
+      "url": "https://open.spotify.com/track/4iNT49ernA78kHJzhJJdmY"
     },
     {
       "album": {

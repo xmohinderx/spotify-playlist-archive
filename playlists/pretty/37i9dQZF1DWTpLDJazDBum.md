@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 
 > Find your gaming flow with wavy beats and soft trap!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,737 likes - 152 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,773 likes - 152 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

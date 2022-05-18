@@ -315,7 +315,7 @@
 | [Đường Vẫn Còn Dài](https://open.spotify.com/track/5dkMPrtwjnRzAtE6gMnwK6) | [SMO](https://open.spotify.com/artist/1eLRJ9F6qwKeI6frD3ZzQg) | [Đường Vẫn Còn Dài](https://open.spotify.com/album/0jxKreW7Q1Btq4pcEU1zYH) | 3:36 | 2022-04-22 |  |
 | [Đắm Say](https://open.spotify.com/track/3N5czkNQEpX8zD6MCSsnZ7) | [Poll](https://open.spotify.com/artist/3xQWxnx3qhT127zrRaRXMN) | [Đắm Say](https://open.spotify.com/album/3EiLsFu60L1vXBw1X8aYdl) | 3:43 | 2022-01-06 | 2022-03-11 |
 | [Để Làm Người Yêu Em](https://open.spotify.com/track/1M5rKwCJqCAEXvXNU32W0G) | [Chuy Blue](https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd) | [Để Làm Người Yêu Em](https://open.spotify.com/album/78825gwjBoURlJ8kxSwy2a) | 3:26 | 2022-05-04 |  |
-| [Đừng Buông Tay](https://open.spotify.com/track/73VNP6sf8Kwpe3c1qPyMrc) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo) | [Đừng Buông Tay](https://open.spotify.com/album/1kCeVqOauEvomtlR7YhEKZ) | 4:08 | 2022-05-04 |  |
+| [Đừng Buông Tay](https://open.spotify.com/track/73VNP6sf8Kwpe3c1qPyMrc) | [LOV](https://open.spotify.com/artist/59PsgmnkyIB97HRlSYRkFo) | [Đừng Buông Tay](https://open.spotify.com/album/1kCeVqOauEvomtlR7YhEKZ) | 4:10 | 2022-05-04 |  |
 | [Đừng Khiến Trái Tim Em Khóc](https://open.spotify.com/track/1aSRibNh6KrXMDOfbRQL9d) | [Chu Thúy Quỳnh](https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6) | [Đừng Khiến Trái Tim Em Khóc](https://open.spotify.com/album/1Z6Pv1Wh6RLn3oCUvGAcfP) | 3:22 | 2022-01-25 | 2022-02-11 |
 | [Ở Trong Đôi Mắt Em](https://open.spotify.com/track/3LvcVUUS0QmDiOgee1lvXj) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [Ở Trong Đôi Mắt Em](https://open.spotify.com/album/3yGF3u2anFL7j8PLeskfFl) | 4:13 | 2022-02-21 | 2022-04-29 |
 

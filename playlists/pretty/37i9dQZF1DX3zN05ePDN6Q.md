@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional e muito boom bap na área\. Foto: RT Mallone, Coruja Bc1
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,920 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,951 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 2 | [Ambicioso](https://open.spotify.com/track/4TbmRs8sJVW6FuBS826Rnp) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Ambicioso](https://open.spotify.com/album/0AUEz9YIOrPzbSGISTvtEP) | 2:43 |
 | 3 | [Daria um Livro](https://open.spotify.com/track/5dv5azooBPx0KFKDirir6e) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Daria um Livro](https://open.spotify.com/album/2bjGcjJylyRHqEDAO5Hy10) | 2:39 |
 | 4 | [Sobre mim](https://open.spotify.com/track/4qaOtwB4LjQv2U3UAJN5a1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Sobre mim](https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK) | 3:28 |
-| 5 | [Nômade VII](https://open.spotify.com/track/4XTu1iHT5Q8dDfiIXgUXLD) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Nômade VII](https://open.spotify.com/album/3jhFJYo9qphO2WxHzIWudt) | 3:26 |
+| 5 | [Nômade VII](https://open.spotify.com/track/4XTu1iHT5Q8dDfiIXgUXLD) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA) | [Nômade VII](https://open.spotify.com/album/3jhFJYo9qphO2WxHzIWudt) | 3:26 |
 | 6 | [Auxílio Emergencial do Rap](https://open.spotify.com/track/2tbnYUZqSQPSuTn2Zd0arn) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Auxílio Emergencial do Rap](https://open.spotify.com/album/0e4Szps1xppl5S4cIjjVfJ) | 3:40 |
 | 7 | [Tecnologia](https://open.spotify.com/track/4EopE6f7MU601tBbDccmcq) | [Pedro Simples](https://open.spotify.com/artist/4onypgNFPIHhPqEO7BYYIE), [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB), [Malokero Anônimo](https://open.spotify.com/artist/61h45TTf8pScBErVEDm3mz), [DJ B8](https://open.spotify.com/artist/3PH6x2yZ6Gb0iPIYj6XQAB) | [Tecnologia](https://open.spotify.com/album/5eJuA2zoW5qpztJLlMpyGa) | 3:07 |
 | 8 | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/track/7mAo5yR1WdnLwBMxJ8pBGC) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/album/6fFZz6sTLJe51S3w7IPxpg) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,853 likes - 70 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,865 likes - 70 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 9 | [Transmutation \- Pablo Bozzi Remix](https://open.spotify.com/track/3fdQPMa7cKKb4OpNqhHMZU) | [Rein](https://open.spotify.com/artist/081nh5DBAXiKgJhOlqgU2V), [Djedjotronic](https://open.spotify.com/artist/5c8Rd2gCeW7KAdTnwWIZKL), [Pablo Bozzi](https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL) | [Transmutation EP](https://open.spotify.com/album/211fjhfdGDMPli788zpzZQ) | 5:00 |
 | 10 | [Mort Sur Le Dancefloor \- TGC Mix](https://open.spotify.com/track/2Fu254Mt1m0JKNCecJZrtx) | [Kendal](https://open.spotify.com/artist/2NJZShOescj4yIvO1d4yiV) | [You Can Trust a Man with a Moustache Vol 4](https://open.spotify.com/album/74iVSH0DY3r4HN57qc9FB0) | 5:49 |
 | 11 | [Three Eyes \- Tjade Remix](https://open.spotify.com/track/52SfBugKis0R6ufKVDgZ23) | [REES](https://open.spotify.com/artist/4DsD95lJoAXFmrh7vhL6MU), [Tjade](https://open.spotify.com/artist/2XgDjvneRRotQu4r9lTRuh) | [Three Eyes](https://open.spotify.com/album/4pWnySe1IQE4w79tIYzLsc) | 7:53 |
-| 12 | [Amazonia \- Balam Remix](https://open.spotify.com/track/53MqOZyvFVeJlMDyfBeW82) | [Richie Hell](https://open.spotify.com/artist/6r8AfZY1E8xBDO0df332Bn), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh), [Balam](https://open.spotify.com/artist/76mBJskO3aPImHcQ5IcJRT) | [Gumbo Limbo \(Remixes\)](https://open.spotify.com/album/3ULqcoISce3zqKkdGD0eQy) | 6:19 |
+| 12 | [Amazonia \- Balam Remix](https://open.spotify.com/track/53MqOZyvFVeJlMDyfBeW82) | [Richie Hell](https://open.spotify.com/artist/6r8AfZY1E8xBDO0df332Bn), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh), [Balam](https://open.spotify.com/artist/0dqcQcbpMnfEvu72FFLmjL) | [Gumbo Limbo \(Remixes\)](https://open.spotify.com/album/3ULqcoISce3zqKkdGD0eQy) | 6:19 |
 | 13 | [Hiccups \(Roman Flügel Elektro House Mix\)](https://open.spotify.com/track/35B7ih8h4sSM0ZaasMUc81) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM), [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Hiccups \(Roman Flügel Remixes\)](https://open.spotify.com/album/0nXyRqnt3TG8tBUmFkhgRN) | 4:44 |
 | 14 | [Ghost of Chance](https://open.spotify.com/track/0NYoKI1pNqRI3W3Bd7vIpb) | [Pablo Bozzi](https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL) | [Ghost of Chance](https://open.spotify.com/album/2hGcadCRDzHq5pnk9bXc4v) | 6:27 |
 | 15 | [Chaser](https://open.spotify.com/track/23amdGss9M8IsqPYVOSjgk) | [High Fidelity](https://open.spotify.com/artist/3dT0jnqd5jvO095yE9qMEb) | [Chaser](https://open.spotify.com/album/6miF1egb56mZUr17xeNJI3) | 5:55 |

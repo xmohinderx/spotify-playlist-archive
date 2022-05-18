@@ -288,6 +288,24 @@
     },
     {
       "album": {
+        "name": "CRIMI",
+        "url": "https://open.spotify.com/album/0A6H9ZeitwXVP5FpsY8Vud"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167611,
+      "name": "BENEF",
+      "url": "https://open.spotify.com/track/5AV8mcCebGTtk8DmCeHAZl"
+    },
+    {
+      "album": {
         "name": "Bisous",
         "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
       },
@@ -409,7 +427,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 197671,
       "name": "Comment tu t'appelles",
       "url": "https://open.spotify.com/track/1OGvG0XEf41AxsgGF68lV3"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 146341,
       "name": "In Bilico Coi Piedi Nel Po'",
       "url": "https://open.spotify.com/track/0CqWIR10NXgO211ixGmsrX"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 159344,
       "name": "LA LEGGE NON \u00c8 UGUALE PER TUTTI",
       "url": "https://open.spotify.com/track/3kaKs57hDKwhN96DqIOgbF"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 166857,
       "name": "PARLARE",
       "url": "https://open.spotify.com/track/6DpmQYLZHyzwgdyNPKwyFT"
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 128450,
       "name": "R&R",
       "url": "https://open.spotify.com/track/5s6YjPaL77P28PQqG7wVLO"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 141000,
       "name": "RFTS 2 (Freestyle)",
       "url": "https://open.spotify.com/track/0bhvxnFCiCm4p2iEdt2b5u"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 193709,
       "name": "Sparami (feat. Inoki)",
       "url": "https://open.spotify.com/track/4EPXHRT5x0TVctWWJ7RbHQ"
@@ -2289,6 +2307,28 @@
       "duration_ms": 157714,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
+    },
+    {
+      "album": {
+        "name": "CRIMI",
+        "url": "https://open.spotify.com/album/0A6H9ZeitwXVP5FpsY8Vud"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139928,
+      "name": "SUITE HOTEL",
+      "url": "https://open.spotify.com/track/1NRnu8LjiJM3cHcPYy6rs9"
     },
     {
       "album": {

@@ -785,7 +785,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 223346,
       "name": "Feels Like This",
       "url": "https://open.spotify.com/track/53Wsf11ElpPr1WAGtRQlcx"
@@ -1884,6 +1884,24 @@
     },
     {
       "album": {
+        "name": "Montreal",
+        "url": "https://open.spotify.com/album/0R9Jtj1ieDKgBW4xHZmKSO"
+      },
+      "artists": [
+        {
+          "name": "Port Cities",
+          "url": "https://open.spotify.com/artist/6E9qPOOjsuwnt5kFLFCnWF"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179328,
+      "name": "Montreal",
+      "url": "https://open.spotify.com/track/1z8F0DUrgxictKm2lzvuki"
+    },
+    {
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7"
       },
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 200379,
       "name": "ocean eyes",
       "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 200191,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/21vCVeinc9agpAM7scu3Tx"
@@ -2769,7 +2787,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 206333,
       "name": "The Sapling",
       "url": "https://open.spotify.com/track/5LZcOXDFbkSWrhqrfVSXdz"
@@ -2859,7 +2877,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 221936,
       "name": "There for You",
       "url": "https://open.spotify.com/track/5b4991SkpZ602JRRXX0Q4C"

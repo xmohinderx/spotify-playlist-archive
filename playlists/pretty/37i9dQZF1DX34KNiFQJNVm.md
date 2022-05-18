@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Jonas Esticado, Xamã, Kendrick Lamar e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,751,671 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,751,773 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 61 | [WIG \(with Moneybagg Yo\)](https://open.spotify.com/track/3BN9oswkyJlCRzCQt1Gqug) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [WIG \(with Moneybagg Yo\)](https://open.spotify.com/album/5tZ8u9BGc4sSOlwWYsAWPB) | 2:57 |
 | 62 | [SUCESSO](https://open.spotify.com/track/3p7jegIWOUknCQp9Vj3jVt) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch) | [SUCESSO](https://open.spotify.com/album/0hZ4BFp1ROa6G7S0oFbDUP) | 2:36 |
 | 63 | [12 Chivas](https://open.spotify.com/track/0WwhC11l4afABOd1rSntp3) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [12 CHIVAS](https://open.spotify.com/album/6vfL9pYdrNR5HHNxYeGXqo) | 2:55 |
-| 64 | [Tonelada](https://open.spotify.com/track/3L6ubXrVpnxHLyhL8smMkX) | [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [Marv.](https://open.spotify.com/artist/2ILWVafy9bA3EsuKqmUZOi), [Kliff Hits](https://open.spotify.com/artist/6gn6AnKY4Tln44F07ejudP) | [Tonelada](https://open.spotify.com/album/0oRDhjSaFLpeATZlQ4Upyq) | 3:45 |
+| 64 | [Tonelada](https://open.spotify.com/track/3L6ubXrVpnxHLyhL8smMkX) | [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [Bovier](https://open.spotify.com/artist/2wUJ1qq1GJ6V9jUeeINIyQ), [Marv.](https://open.spotify.com/artist/2ILWVafy9bA3EsuKqmUZOi), [Kliff Hits](https://open.spotify.com/artist/6gn6AnKY4Tln44F07ejudP) | [Tonelada](https://open.spotify.com/album/0oRDhjSaFLpeATZlQ4Upyq) | 3:45 |
 | 65 | [Nathalina](https://open.spotify.com/track/39KW45pJsJwZugxiFpx340) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [JG](https://open.spotify.com/artist/4H0H0ZdeSMxAMrYhWHUogD) | [Nathalina](https://open.spotify.com/album/1EHuQNnZFLbEijrUcWGr0e) | 4:00 |
 | 66 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 |
 | 67 | [Luneta](https://open.spotify.com/track/7LIti6cp8qgo3kBT4a0LEY) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Luneta](https://open.spotify.com/album/5Mnj12VlfA8hG7NPD92dte) | 2:50 |

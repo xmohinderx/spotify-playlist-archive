@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nduduzo Makhathini
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,687 likes - 86 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,937 likes - 86 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 21 | [Open](https://open.spotify.com/track/5Y5tQUyZVoeWBUg5qT3xUP) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Open](https://open.spotify.com/album/1J9ELecYoqJNa7d1igb18F) | 3:52 |
 | 22 | [Badeep](https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Badeep](https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA) | 6:03 |
 | 23 | [My Old Flame](https://open.spotify.com/track/65bV7W1domslLwDqyYQgKk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [John Scofield](https://open.spotify.com/album/5KxGVWWQWETbJQ6ckQ4XD6) | 2:36 |
-| 24 | [The Avenues](https://open.spotify.com/track/4OWFijqelfGi2ooBcDl88K) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Katalyst](https://open.spotify.com/artist/5yAyZa2e9KTHLsxSOMDmrC) | [The Avenues](https://open.spotify.com/album/2UFYbuQl5FSYae42onHWde) | 4:17 |
+| 24 | [The Avenues](https://open.spotify.com/track/4OWFijqelfGi2ooBcDl88K) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM) | [The Avenues](https://open.spotify.com/album/2UFYbuQl5FSYae42onHWde) | 4:17 |
 | 25 | [Torino](https://open.spotify.com/track/6cEtprCmXLwljz6Kl3J9Tc) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/19IM6CveZ3jfng86RG1pbD) | 3:42 |
 | 26 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 |
 | 27 | [Falling](https://open.spotify.com/track/6reALukxIDs69vv9V6VCDp) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Falling](https://open.spotify.com/album/307bEMZhweuozTprnDpCoy) | 3:28 |

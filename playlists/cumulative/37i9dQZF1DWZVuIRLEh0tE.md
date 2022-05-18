@@ -4,7 +4,7 @@
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: Dowba Montana
 
-72 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
+73 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/0p7l69bBTRQySKVeTYIMy0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Marichal](https://open.spotify.com/track/3PEFEsH3UIElep67B4HRto) | [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4), [Young Bless RD](https://open.spotify.com/artist/6i7YCn4daC0HjkLlb4ITKi) | [Marichal](https://open.spotify.com/album/21V1HhvF2ytnpeQTMTc9Ls) | 3:32 | 2022-03-15 |  |
 | [Mi Ciudad](https://open.spotify.com/track/01fjnRkTRiCiP3C02LOW7s) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Mi Ciudad](https://open.spotify.com/album/76GBieZ9ccFvySoAUhJCer) | 2:35 | 2022-03-15 | 2022-04-15 |
 | [Mi Otra Mitad](https://open.spotify.com/track/2g00pvcrHmWPyjEsrf4UC2) | [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc) | [Mi Otra Mitad](https://open.spotify.com/album/4m2ovtGzjOdp3QM7vnuSRt) | 3:00 | 2022-04-14 |  |
+| [Miami](https://open.spotify.com/track/33mgpqJmtUJgbAUsexXx92) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Miami](https://open.spotify.com/album/0rCznDAIbbMoXJ7rpvMut1) | 2:24 | 2022-05-17 |  |
 | [Miedo](https://open.spotify.com/track/1jCjfnzOnvmzyeKB7ikki5) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Santo Niño](https://open.spotify.com/album/1m3Ynzb5HhBBuTlVJhFcvd) | 2:40 | 2022-03-15 |  |
 | [Millonario \(Remix\) \[feat\. Ozuna\]](https://open.spotify.com/track/1KwMVzMArDnM5m2LNuzXAO) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Millonario \(Remix\) \[feat\. Ozuna\]](https://open.spotify.com/album/264jSfnIyBxEgUBmLYA69B) | 3:34 | 2022-03-15 |  |
 | [Mio De Que](https://open.spotify.com/track/4ZznoNbEbgNXN8wPHq7nvq) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU) | [Mio De Que](https://open.spotify.com/album/0lNA0Ss0gFKy36ppeuDHYe) | 2:10 | 2022-04-14 |  |
@@ -64,7 +65,7 @@
 | [No Soy Mujeriego](https://open.spotify.com/track/2sq6NBcEtUJXVmLLbb51oU) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [No Soy Mujeriego](https://open.spotify.com/album/2XzFEnnG36vyDU2dH5puyR) | 2:44 | 2022-03-15 | 2022-04-15 |
 | [No Soy un Santo](https://open.spotify.com/track/1wamsK57rPKD25YvEgfoRW) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [Santo Niño](https://open.spotify.com/album/1m3Ynzb5HhBBuTlVJhFcvd) | 3:54 | 2022-03-15 | 2022-04-15 |
 | [Nuevo](https://open.spotify.com/track/5G6AOw6uR9i8vN2luzCeCU) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Nuevo](https://open.spotify.com/album/3fE2JhTySAjvtcb6LiHK6g) | 3:23 | 2022-03-15 |  |
-| [Perreo En Medellín](https://open.spotify.com/track/4c5vHBozEkaHz7fSdIcNVp) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Jay santana prod](https://open.spotify.com/artist/1SSTq9e8PhjyYzv6QOsAkb) | [Perreo En Medellín](https://open.spotify.com/album/220vEwP3o6nsBPUMQVaA8d) | 2:28 | 2022-04-14 |  |
+| [Perreo En Medellín](https://open.spotify.com/track/4c5vHBozEkaHz7fSdIcNVp) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Jay santana prod](https://open.spotify.com/artist/1SSTq9e8PhjyYzv6QOsAkb) | [Perreo En Medellín](https://open.spotify.com/album/220vEwP3o6nsBPUMQVaA8d) | 2:28 | 2022-04-14 | 2022-05-18 |
 | [Rico de Boca](https://open.spotify.com/track/0jNW8GUGzsGnbr2Lnhc4ur) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Rico de Boca](https://open.spotify.com/album/2jEIqBy6NDXy3CjLywapPg) | 3:19 | 2022-03-15 |  |
 | [Rico Feo](https://open.spotify.com/track/4fzZtW9YAaxVvW54tN4H3c) | [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t), [Dj Scuff](https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh) | [Rico Feo](https://open.spotify.com/album/7LXUr2L5SajQ32UMjqvOGg) | 3:31 | 2022-03-15 |  |
 | [Rubirosa](https://open.spotify.com/track/6CIgfLVT2LW7bhRMWwoWxB) | [Fetti031](https://open.spotify.com/artist/0bsQ8jCTdRt3F8R5nNU3hw) | [Rubirosa](https://open.spotify.com/album/0JYlZSI7jjfRltbl9l698F) | 2:29 | 2022-03-15 | 2022-05-14 |

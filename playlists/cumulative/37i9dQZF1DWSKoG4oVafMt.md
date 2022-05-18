@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-321 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+323 songs - 17 hr 50 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Conversation](https://open.spotify.com/track/169eHrJhaAKOPJJoda2Pgz) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Conversation](https://open.spotify.com/album/1AvCpygMn5bSEGm4kTqywo) | 3:22 | 2022-04-06 | 2022-05-11 |
 | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/6CP0jsIBEM5VEEKLr4tf69) | [Jovan Dhillon](https://open.spotify.com/artist/2EW4LUtzs9hLVAZTRzphS0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Cooper \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/6GXPVaPJPeQFhcheqd1tP7) | 2:48 | 2021-12-02 |  |
 | [Dark Circle](https://open.spotify.com/track/4Yy0Aval2j2K5UkLh6RAPO) | [Deep Fateh](https://open.spotify.com/artist/6TwRnAsvNFG4nXZyZhwXyn) | [Dark Circle](https://open.spotify.com/album/3D1EEKOLqoSXFIXGVhcngn) | 3:57 | 2022-03-25 | 2022-04-06 |
+| [Darling \- From "Kokka"](https://open.spotify.com/track/77WhbR5wdwAu28rKDriGfN) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB), [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Darling \(From "Kokka"\)](https://open.spotify.com/album/64B6K781jcvJ9lDgYUJv9w) | 3:36 | 2022-05-17 |  |
 | [Das Ke Ja](https://open.spotify.com/track/77F0pganLgCeb8An8BRzIb) | [Bobby Sidhu](https://open.spotify.com/artist/1vKbHEP0ytopMo06g1hLqh) | [Not Again](https://open.spotify.com/album/1qyokWQGVeVSaIzq3Zbchy) | 2:29 | 2022-04-25 | 2022-05-11 |
 | [Dassde](https://open.spotify.com/track/7qWApfggqk3A5UlEQwetaU) | [KRU172](https://open.spotify.com/artist/5fjpeqO0THJggLIvTJTKgc), [Surtaal Singh](https://open.spotify.com/artist/2FBUr8Sy2zQN6lqLb3B5jd) | [Dassde](https://open.spotify.com/album/1mz9DfdDowklM30GmvnsL1) | 3:16 | 2022-02-11 | 2022-02-19 |
 | [Deewana](https://open.spotify.com/track/7juUVr6VjvWPH4mccimhcZ) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [Deewana](https://open.spotify.com/album/4M93uVNVqjkjgG8U57XEOR) | 3:12 | 2022-04-28 |  |
@@ -95,6 +96,7 @@
 | [Happiness](https://open.spotify.com/track/2oF26rDiQG5tQy0ZSjyiEd) | [Gavvy Sidhu](https://open.spotify.com/artist/7kTTYdWPURJPh2B3MtUN1x) | [Happiness](https://open.spotify.com/album/35iOol9c8kn3WQ1syrga2u) | 2:47 | 2022-02-04 | 2022-02-12 |
 | [Hauli Hauli](https://open.spotify.com/track/3oMJtW4V8vuUKfUr0ZgNdn) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hauli Hauli](https://open.spotify.com/album/58a9qsPQQbGICghMaE0tY4) | 3:27 | 2022-03-22 | 2022-05-11 |
 | [Haye Jatta](https://open.spotify.com/track/6933Z2N5Fpgk7NtzLcZPgv) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Haye Jatta](https://open.spotify.com/album/6YYw4PjiL91x0ghXo9joRe) | 2:59 | 2022-04-22 | 2022-05-11 |
+| [Heer](https://open.spotify.com/track/0lzLGA5288fkENplIw8xA3) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Heer](https://open.spotify.com/album/2qTrAeWkX4YEJmQXvmNz94) | 8:08 | 2022-05-17 |  |
 | [Hometown](https://open.spotify.com/track/4LvIeOXZ4b9duvPEDUogot) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:16 | 2022-01-17 | 2022-02-01 |
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |
 | [Ik Mili Mainu Apsraa](https://open.spotify.com/track/39chWL7FFnxleLCBUXquv4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Ik Mili Mainu Apsraa](https://open.spotify.com/album/6UBOEZZXK11zsgwekmcMKa) | 4:02 | 2022-01-15 | 2022-02-01 |

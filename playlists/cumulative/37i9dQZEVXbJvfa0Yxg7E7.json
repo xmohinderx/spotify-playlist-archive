@@ -74,6 +74,32 @@
     },
     {
       "album": {
+        "name": "17. Mai er vi s\u00e5 glad i",
+        "url": "https://open.spotify.com/album/3ZB70iihD1UizGCOh2v9NW"
+      },
+      "artists": [
+        {
+          "name": "RykkinnFella",
+          "url": "https://open.spotify.com/artist/6KSaWsYvSy4JV7pM6MWQEK"
+        },
+        {
+          "name": "Jack Dee",
+          "url": "https://open.spotify.com/artist/1O4AnKY2Rp3ZNM5EmUqJrd"
+        },
+        {
+          "name": "Ola Nordmann",
+          "url": "https://open.spotify.com/artist/1NmbrZqVbinlAMscrnV3Jt"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154804,
+      "name": "17. Mai er vi s\u00e5 glad i",
+      "url": "https://open.spotify.com/track/0OdiUIuHz3W2178hAdC6rt"
+    },
+    {
+      "album": {
         "name": "Barnesanger av Thorbj\u00f8rn Egner, Alf Pr\u00f8ysen og Margrethe Munthe",
         "url": "https://open.spotify.com/album/4McfgnO2QcCEOeT6AQtlBC"
       },
@@ -1931,7 +1957,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -2383,7 +2409,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 176603,
       "name": "De Diepte",
       "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
@@ -9261,7 +9287,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -9901,7 +9927,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 202285,
       "name": "Rich Spirit",
       "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
@@ -10627,7 +10653,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 176285,
       "name": "SloMo",
       "url": "https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH"

@@ -1,12 +1,12 @@
 {
   "description": "Explore the sounds of the 26th annual EDC Las Vegas (Electric Daisy Carnival) with these essential picks from this year's lineup. ",
-  "num_followers": 693441,
+  "num_followers": 693581,
   "original_name": "EDC Las Vegas 2022 Guest List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjY3MzYwMCwwMDAwMDA4YjAwMDAwMTgwY2IwNWRhZDEwMDAwMDE4MGFhODRiODIw",
+  "snapshot_id": "MTY1MjgyODQxNSwwMDAwMDA4YzAwMDAwMTgwZDQ0MDI0ZDMwMDAwMDE4MGFhODRiODIw",
   "tracks": [
     {
       "added_at": "2022-05-16 04:00:00",
@@ -67,26 +67,18 @@
     {
       "added_at": "2022-05-16 04:00:00",
       "album": {
-        "name": "EDC Las Vegas 2022",
-        "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/4UgTdPzJTP0HZYlsEjZ1Co"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        },
-        {
-          "name": "ERV ELLO",
-          "url": "https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         }
       ],
-      "duration_ms": 238285,
-      "name": "Reason For Fighting",
-      "url": "https://open.spotify.com/track/5b2asMklnhZCS27vezhozk"
+      "duration_ms": 196000,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI"
     },
     {
       "added_at": "2022-05-16 04:00:00",
@@ -96,17 +88,17 @@
       },
       "artists": [
         {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         },
         {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Together At Last",
-      "url": "https://open.spotify.com/track/0z3LM0EvPbh7VhBbg35Jba"
+      "duration_ms": 156190,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/5C1aIvyvaTl4dMblgSE0WA"
     },
     {
       "added_at": "2022-05-16 04:00:00",
@@ -167,22 +159,6 @@
     {
       "added_at": "2022-05-16 04:00:00",
       "album": {
-        "name": "EDC Las Vegas 2022",
-        "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        }
-      ],
-      "duration_ms": 201908,
-      "name": "Where I Want 2 B",
-      "url": "https://open.spotify.com/track/4vAUiSazY05OhAK8whiC8o"
-    },
-    {
-      "added_at": "2022-05-16 04:00:00",
-      "album": {
         "name": "Escape (feat. Hayla)",
         "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
       },
@@ -211,6 +187,66 @@
     {
       "added_at": "2022-05-16 04:00:00",
       "album": {
+        "name": "Walk Me Home",
+        "url": "https://open.spotify.com/album/4lTOWYSn48zhJ7KeXEJva3"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 216125,
+      "name": "Walk Me Home",
+      "url": "https://open.spotify.com/track/2qTtA6lgLLwfuYphfT4f8C"
+    },
+    {
+      "added_at": "2022-05-16 04:00:00",
+      "album": {
+        "name": "EDC Las Vegas 2022",
+        "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "duration_ms": 201908,
+      "name": "Where I Want 2 B",
+      "url": "https://open.spotify.com/track/4vAUiSazY05OhAK8whiC8o"
+    },
+    {
+      "added_at": "2022-05-16 04:00:00",
+      "album": {
+        "name": "EDC Las Vegas 2022",
+        "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
+      },
+      "artists": [
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Together At Last",
+      "url": "https://open.spotify.com/track/0z3LM0EvPbh7VhBbg35Jba"
+    },
+    {
+      "added_at": "2022-05-16 04:00:00",
+      "album": {
         "name": "EDC Las Vegas 2022",
         "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
       },
@@ -227,6 +263,22 @@
       "duration_ms": 347826,
       "name": "Alternative Sphere - EDC Mix",
       "url": "https://open.spotify.com/track/47SYKOsIp1OlXSJToEMnNB"
+    },
+    {
+      "added_at": "2022-05-16 04:00:00",
+      "album": {
+        "name": "BOYZ",
+        "url": "https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 240321,
+      "name": "BOYZ",
+      "url": "https://open.spotify.com/track/5UnNCMFboucIF78lnp1jkR"
     },
     {
       "added_at": "2022-05-16 04:00:00",
@@ -256,17 +308,17 @@
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
         }
       ],
-      "duration_ms": 156190,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/5C1aIvyvaTl4dMblgSE0WA"
+      "duration_ms": 211274,
+      "name": "Be Here And Now",
+      "url": "https://open.spotify.com/track/3pv0BV1b1LWWDazjB887I7"
     },
     {
       "added_at": "2022-05-16 04:00:00",
@@ -287,18 +339,18 @@
     {
       "added_at": "2022-05-16 04:00:00",
       "album": {
-        "name": "BOYZ",
-        "url": "https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE"
+        "name": "EDC Las Vegas 2022",
+        "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
         }
       ],
-      "duration_ms": 240321,
-      "name": "BOYZ",
-      "url": "https://open.spotify.com/track/5UnNCMFboucIF78lnp1jkR"
+      "duration_ms": 220500,
+      "name": "RETURN TO NOTHINGNESS",
+      "url": "https://open.spotify.com/track/6le42wyFT3VngstEv92z02"
     },
     {
       "added_at": "2022-05-16 04:00:00",
@@ -308,41 +360,41 @@
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
         },
         {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
         }
       ],
-      "duration_ms": 211274,
-      "name": "Be Here And Now",
-      "url": "https://open.spotify.com/track/3pv0BV1b1LWWDazjB887I7"
+      "duration_ms": 244045,
+      "name": "Catharsis X",
+      "url": "https://open.spotify.com/track/1Ev39oBGwrkRsYKmIAsvcK"
     },
     {
       "added_at": "2022-05-16 04:00:00",
       "album": {
-        "name": "Walk Me Home",
-        "url": "https://open.spotify.com/album/4lTOWYSn48zhJ7KeXEJva3"
+        "name": "EDC Las Vegas 2022",
+        "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
       },
       "artists": [
         {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
         },
         {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "ERV ELLO",
+          "url": "https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn"
         }
       ],
-      "duration_ms": 216125,
-      "name": "Walk Me Home",
-      "url": "https://open.spotify.com/track/2qTtA6lgLLwfuYphfT4f8C"
+      "duration_ms": 238285,
+      "name": "Reason For Fighting",
+      "url": "https://open.spotify.com/track/5b2asMklnhZCS27vezhozk"
     },
     {
       "added_at": "2022-05-16 04:00:00",
@@ -408,22 +460,6 @@
       },
       "artists": [
         {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "RETURN TO NOTHINGNESS",
-      "url": "https://open.spotify.com/track/6le42wyFT3VngstEv92z02"
-    },
-    {
-      "added_at": "2022-05-16 04:00:00",
-      "album": {
-        "name": "EDC Las Vegas 2022",
-        "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
-      },
-      "artists": [
-        {
           "name": "G Jones",
           "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
         },
@@ -435,22 +471,6 @@
       "duration_ms": 189737,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/6ML0Go0mnQ6J86oKU6KFaN"
-    },
-    {
-      "added_at": "2022-05-16 04:00:00",
-      "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/4UgTdPzJTP0HZYlsEjZ1Co"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI"
     },
     {
       "added_at": "2022-05-16 04:00:00",
@@ -507,6 +527,26 @@
       "duration_ms": 200000,
       "name": "Sideline",
       "url": "https://open.spotify.com/track/3fiQ5sXpqyBSIwE2G9EKPM"
+    },
+    {
+      "added_at": "2022-05-16 04:00:00",
+      "album": {
+        "name": "Strangers (with Mansionair)",
+        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 217390,
+      "name": "Strangers (with Mansionair)",
+      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
     },
     {
       "added_at": "2022-05-16 04:00:00",
@@ -667,26 +707,6 @@
     {
       "added_at": "2022-05-16 04:00:00",
       "album": {
-        "name": "Strangers (with Mansionair)",
-        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 217390,
-      "name": "Strangers (with Mansionair)",
-      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
-    },
-    {
-      "added_at": "2022-05-16 04:00:00",
-      "album": {
         "name": "EDC Las Vegas 2022",
         "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
       },
@@ -715,6 +735,22 @@
       "duration_ms": 234397,
       "name": "Badman",
       "url": "https://open.spotify.com/track/3DFZtppglBTncgZbCqt05Y"
+    },
+    {
+      "added_at": "2022-05-16 04:00:00",
+      "album": {
+        "name": "Universal Consciousness EP",
+        "url": "https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 400624,
+      "name": "Universal Consciousness",
+      "url": "https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08"
     },
     {
       "added_at": "2022-05-16 04:00:00",
@@ -767,22 +803,6 @@
       "duration_ms": 385870,
       "name": "Nisida - Anfisa Letyago Remix",
       "url": "https://open.spotify.com/track/10KNcjEuTK51Nn0axVv59j"
-    },
-    {
-      "added_at": "2022-05-16 04:00:00",
-      "album": {
-        "name": "Universal Consciousness EP",
-        "url": "https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 400624,
-      "name": "Universal Consciousness",
-      "url": "https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08"
     },
     {
       "added_at": "2022-05-16 04:00:00",
@@ -879,26 +899,6 @@
       "duration_ms": 212800,
       "name": "Flames",
       "url": "https://open.spotify.com/track/1ehxdc6M8yoOZw4zjDRiHC"
-    },
-    {
-      "added_at": "2022-05-16 04:00:00",
-      "album": {
-        "name": "EDC Las Vegas 2022",
-        "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        },
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 244045,
-      "name": "Catharsis X",
-      "url": "https://open.spotify.com/track/1Ev39oBGwrkRsYKmIAsvcK"
     },
     {
       "added_at": "2022-05-16 04:00:00",

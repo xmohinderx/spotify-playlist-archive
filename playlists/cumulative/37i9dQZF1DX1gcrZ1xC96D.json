@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 199768,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 191842,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 178234,
       "name": "Good",
       "url": "https://open.spotify.com/track/0LEEtJg8hHOyytcotgnaKq"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 172277,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/4npAbdkJcdD7XMlltqQwIf"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 201868,
       "name": "Liquor Store",
       "url": "https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 166309,
       "name": "Move (feat. KAMILLE)",
       "url": "https://open.spotify.com/track/0BIVLvVkiWqXN6G94tgSMG"
@@ -1639,10 +1639,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 209728,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/43ezOGYCrWlOebao7hTyRG"
+    },
+    {
+      "album": {
+        "name": "Talamanca (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Talamanca - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX"
     },
     {
       "album": {
@@ -1767,7 +1789,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 194761,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/6lQw8YVh9sXbzcOBzyQPmK"
@@ -1803,7 +1825,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 165494,
       "name": "Under The Water",
       "url": "https://open.spotify.com/track/0aYkYtV9oDepLueh0hgVmV"

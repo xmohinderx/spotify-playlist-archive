@@ -135,7 +135,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 163946,
       "name": "Beg, Steal Or Borrow",
       "url": "https://open.spotify.com/track/5Tz3t51jlmiXT8vLudREpx"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 183520,
       "name": "Echo (You and I)",
       "url": "https://open.spotify.com/track/1iqnkBWge47Yhboceuceas"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 207600,
       "name": "Glorious - Video Edit",
       "url": "https://open.spotify.com/track/7MLSUbB20MvCmqDgL2gCco"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 173960,
       "name": "La det swinge",
       "url": "https://open.spotify.com/track/0LmEzNrxk0lecRm8X58jiC"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 170000,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/4Ot9gTaARnRqJT1TYwM4pQ"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 189640,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/0lI9LRra3k2RAYrNO0Htcc"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 169181,
       "name": "Moustache",
       "url": "https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 171226,
       "name": "Moustache - Eurovision 2014 - France",
       "url": "https://open.spotify.com/track/5XikhFoJEvwYWEcZbeYEeQ"
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 187533,
       "name": "No Goodbyes - Radio Edit",
       "url": "https://open.spotify.com/track/4OxAOffBcJqxGFn9R5KxYV"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 173812,
       "name": "Replay",
       "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 172152,
       "name": "Rhythm Inside",
       "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
@@ -1810,6 +1810,28 @@
     },
     {
       "album": {
+        "name": "Trenule\u021bul",
+        "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
+      },
+      "artists": [
+        {
+          "name": "Zdob si Zdub",
+          "url": "https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu"
+        },
+        {
+          "name": "Fratii Advahov",
+          "url": "https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180030,
+      "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
+      "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
+    },
+    {
+      "album": {
         "name": "Verona",
         "url": "https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY"
       },
@@ -1933,7 +1955,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 249893,
       "name": "What about my dreams? - Main",
       "url": "https://open.spotify.com/track/4coje85K8iSAup8z4G9y64"
@@ -1951,7 +1973,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 182813,
       "name": "When Spirits Are Calling My Name",
       "url": "https://open.spotify.com/track/27L4okgASeyUAzZ7etleyQ"

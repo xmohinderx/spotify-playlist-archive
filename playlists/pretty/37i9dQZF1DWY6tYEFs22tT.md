@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from Kendrick Lamar, Post Malone, and DaBaby is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,452 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,516 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 75 | [Super Gremlin](https://open.spotify.com/track/2bBClS4zzrRd4Aj59NaKSv) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Grinding All Season](https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2) | 3:20 |
 | 76 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 |
 
-Snapshot ID: `MTY1MjcxNDMzMCwwMDAwMDQ1YjAwMDAwMTgwY2Q3MzU5YjMwMDAwMDE4MGJhNjM5NjUx`
+Snapshot ID: `MTY1MjgxMzg2NywwMDAwMDQ1YzAwMDAwMTgwZDM2MjJhMDkwMDAwMDE4MGQzNjFmYTQ4`

@@ -4,7 +4,7 @@
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes the 2021 &amp; 2020 editions + bonus tracks
 
-1,397 songs - 3 day 9 hr 30 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,399 songs - 3 day 9 hr 38 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Blue Summer](https://open.spotify.com/track/3xKqJA2Qy0QboulKbztFUO) | [Natalie K](https://open.spotify.com/artist/2B2JJHFfdtp2H10DPMypwB) | [Blue Summer](https://open.spotify.com/album/2IVRvZcfdk3RpVPtfarSQd) | 3:59 | 2021-07-10 | 2021-07-25 |
 | [Blue World](https://open.spotify.com/track/2hwOoMtWPtTSSn6WHV7Vp5) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 3:29 | 2020-08-20 |  |
 | [Boardwalk](https://open.spotify.com/track/1XOkBd2q1NOjsQ1oSOBjnn) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Boardwalk](https://open.spotify.com/album/6X4pmVkbNI859VJbY0E8r0) | 2:31 | 2022-02-26 | 2022-03-19 |
+| [Boat On The Water](https://open.spotify.com/track/7ikcxWanR5beCgGYBPJytv) | [Skinny Dippers](https://open.spotify.com/artist/0Dob2W5r4Uxwa1WIJRt67Y) | [Boat On The Water](https://open.spotify.com/album/6ARNAIAPVO5CgBMRQgba9j) | 4:17 | 2022-05-17 |  |
 | [Body Double](https://open.spotify.com/track/4V7yVMtfa4dHlnhCgU3TQC) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Van Bobbi](https://open.spotify.com/artist/4nU2SDiR8P7j6hzzI0JVHi) | [Body Double](https://open.spotify.com/album/5kWEJWoBifGdhMip0yBLkB) | 3:02 | 2019-12-17 | 2019-12-27 |
 | [Body Like A Gun](https://open.spotify.com/track/6zgkFkcvsgGvap7t0mgZhd) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT), [Sarah Jackson](https://open.spotify.com/artist/5lLzCE2cRgvSqYZKzj3GZe) | [Ebusuku](https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv) | 3:19 | 2021-05-14 | 2021-05-30 |
 | [Bohemian Rhapsody](https://open.spotify.com/track/1XzJrnQz8Hzv6abTC5qn8U) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Bohemian Rhapsody](https://open.spotify.com/album/02XnINSvZFOlFYUWbtURex) | 4:05 | 2021-02-08 | 2021-02-21 |
@@ -970,6 +971,7 @@
 | [Pull Me Under](https://open.spotify.com/track/0zn3fYJWDNQSeczvT8YdIp) | [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Pull Me Under](https://open.spotify.com/album/1GCQ1N8wLN4zgo8sntuBFR) | 5:59 | 2020-05-22 | 2020-06-01 |
 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2020-03-11 | 2020-04-09 |
 | [Purple Lights](https://open.spotify.com/track/27LbOnQDsuVCj45XTcfnGZ) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Purple Lights](https://open.spotify.com/album/58nnWXMNP6rMVyN4EazeFR) | 3:25 | 2019-12-03 | 2019-12-11 |
+| [Queen](https://open.spotify.com/track/27QSweZtZcM0tXDTTaDlmC) | [Meagan De Lima](https://open.spotify.com/artist/5WCDYKGRjWdRXkBCokYd2x) | [Queen](https://open.spotify.com/album/6tNp2ML5yS9D7YB709yzMK) | 3:52 | 2022-05-17 |  |
 | [Queen of the Silver City](https://open.spotify.com/track/41Wh5NHkKf0PonuFngDlhF) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [Queen of the Silver City](https://open.spotify.com/album/4hIgrphSGvn0RU2ZFpYidU) | 3:20 | 2021-07-15 | 2021-08-28 |
 | [Quick Stop By](https://open.spotify.com/track/0slDru5T8bQJpAioZGBB8n) | [Boy Willows](https://open.spotify.com/artist/41JVKMtlK9ecoACJu1xWca) | [Quick Stop By](https://open.spotify.com/album/2CtI5l8yC8x1aQ9SxBYnaP) | 3:15 | 2022-01-15 | 2022-01-31 |
 | [Quicksand](https://open.spotify.com/track/7hSOiPkJNpQt1iGXs54FBQ) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Quicksand](https://open.spotify.com/album/0eGLLiTjp3IPecAJxZs5RB) | 4:21 | 2022-01-07 | 2022-02-18 |

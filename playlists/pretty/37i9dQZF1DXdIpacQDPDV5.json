@@ -1,12 +1,12 @@
 {
   "description": "The best of today's dance hits. Cover: ILLENIUM, Spiritbox",
-  "num_followers": 300475,
+  "num_followers": 300485,
   "original_name": "mint Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNzMwOSwwMDAwMDMzYjAwMDAwMTgwYmJiZjJhNjQwMDAwMDE4MGJiYjYxNTEz",
+  "snapshot_id": "MTY1MjgwMDc4NywwMDAwMDMzYzAwMDAwMTgwZDI5YTk1MDcwMDAwMDE4MGJiYjYxNTEz",
   "tracks": [
     {
       "added_at": "2022-05-13 04:48:29",
@@ -69,26 +69,6 @@
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
-      "added_at": "2022-05-13 04:48:29",
-      "album": {
-        "name": "The Beat",
-        "url": "https://open.spotify.com/album/2idRd7SOnFP6NOcXwwqPJ8"
-      },
-      "artists": [
-        {
-          "name": "Miles & Miles",
-          "url": "https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U"
-        },
-        {
-          "name": "Mougleta",
-          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
-        }
-      ],
-      "duration_ms": 156931,
-      "name": "The Beat",
-      "url": "https://open.spotify.com/track/16iUJ2k7QmZkmWi2ST9mnj"
-    },
-    {
       "added_at": "2022-05-06 04:00:00",
       "album": {
         "name": "Weekends (I Can Feel It)",
@@ -107,6 +87,26 @@
       "duration_ms": 160645,
       "name": "Weekends (I Can Feel It)",
       "url": "https://open.spotify.com/track/4lJG3byxSnynXXfjfvegg2"
+    },
+    {
+      "added_at": "2022-05-17 15:19:47",
+      "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/34Bo14JfCZCjfyYTQhgwQT"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "Elliot Moss",
+          "url": "https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx"
+        }
+      ],
+      "duration_ms": 188379,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/1kyT264yi4y1VpkpCKYy3k"
     },
     {
       "added_at": "2022-05-13 04:48:29",
@@ -295,6 +295,26 @@
       "duration_ms": 153414,
       "name": "My Pony",
       "url": "https://open.spotify.com/track/1UaaVPtlo795n1hWqHpOYS"
+    },
+    {
+      "added_at": "2022-05-13 04:48:29",
+      "album": {
+        "name": "The Beat",
+        "url": "https://open.spotify.com/album/2idRd7SOnFP6NOcXwwqPJ8"
+      },
+      "artists": [
+        {
+          "name": "Miles & Miles",
+          "url": "https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "duration_ms": 156931,
+      "name": "The Beat",
+      "url": "https://open.spotify.com/track/16iUJ2k7QmZkmWi2ST9mnj"
     },
     {
       "added_at": "2022-04-29 04:01:00",

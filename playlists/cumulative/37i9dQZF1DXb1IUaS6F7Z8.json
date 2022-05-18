@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 196666,
       "name": "Arrive On St. Patrick's Day",
       "url": "https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 196933,
       "name": "Celtic Storm (2010)",
       "url": "https://open.spotify.com/track/3GnmZYcYGFOwLisSqHRjJQ"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 176788,
       "name": "Fearless and Brave",
       "url": "https://open.spotify.com/track/3FaqFP70AuvbV0EbOIqonQ"
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "3 Cheers for 30 Years",
+        "url": "https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Haul Away, Joe",
+      "url": "https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC"
+    },
+    {
+      "album": {
         "name": "Toil",
         "url": "https://open.spotify.com/album/51b4dHUjtNFqMHVt6jx7Xi"
       },
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 166360,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/60xc3fnob8DL9NkGFmJxyv"
@@ -426,6 +444,24 @@
     },
     {
       "album": {
+        "name": "Liquordale",
+        "url": "https://open.spotify.com/album/2OMw9EbAk5K0oVhmmUZY9e"
+      },
+      "artists": [
+        {
+          "name": "The Peelers",
+          "url": "https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193760,
+      "name": "Katie Bar the Door",
+      "url": "https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R"
+    },
+    {
+      "album": {
         "name": "Mick Jones Nicked My Pudding",
         "url": "https://open.spotify.com/album/19oSImQhM6RbBuzbL6AZp9"
       },
@@ -437,7 +473,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 160013,
       "name": "Mick Jones Nicked My Pudding",
       "url": "https://open.spotify.com/track/2iD8GXpQJlYEgWwiCyXoW2"
@@ -747,7 +783,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 167150,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/1hVU5v9FSEjWEyqvBFs9Po"
@@ -873,7 +909,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 232186,
       "name": "The State Of Massachusetts",
       "url": "https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW"
@@ -985,6 +1021,24 @@
       "duration_ms": 207040,
       "name": "Victor and His Demons",
       "url": "https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv"
+    },
+    {
+      "album": {
+        "name": "Two Years Enough",
+        "url": "https://open.spotify.com/album/78aNC6N1fhpbXRBbgLsMiE"
+      },
+      "artists": [
+        {
+          "name": "Brick Top Blaggers",
+          "url": "https://open.spotify.com/artist/5NfRMlxntptF6CoAVVnpe2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160293,
+      "name": "Walk the Plank Again",
+      "url": "https://open.spotify.com/track/6EiQJaVP4JLBDVhKTG8tZ3"
     },
     {
       "album": {

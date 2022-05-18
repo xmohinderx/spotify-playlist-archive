@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 207500,
       "name": "Drugs - Effin VIP",
       "url": "https://open.spotify.com/track/0j43MFSf19vk8ctaWz7C74"
@@ -2349,7 +2349,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 281250,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/1ZxXGPR6WgTuUzvvExUomd"
@@ -2415,7 +2415,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 220729,
       "name": "Head Shot",
       "url": "https://open.spotify.com/track/1w4NslJtxyBFRdEfKCrAIk"
@@ -2485,7 +2485,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 129529,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1Usby6wCOlnwFcbcXtqO8O"
@@ -2701,7 +2701,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 187200,
       "name": "i wanna say",
       "url": "https://open.spotify.com/track/3Xv0K6XiBhbEHC3LEoj9id"
@@ -3845,7 +3845,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 195200,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8"
@@ -4370,6 +4370,32 @@
     },
     {
       "album": {
+        "name": "Pompeii (feat. Crooked Bangs)",
+        "url": "https://open.spotify.com/album/3Y10pwQZ9FUIpOelXxirRx"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200016,
+      "name": "Pompeii (feat. Crooked Bangs)",
+      "url": "https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v"
+    },
+    {
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc"
       },
@@ -4803,7 +4829,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 244390,
       "name": "Save My Life - if found Remix",
       "url": "https://open.spotify.com/track/7lXQ0UcmQGIuy5pD7XwLyW"
@@ -5312,6 +5338,28 @@
     },
     {
       "album": {
+        "name": "Tested",
+        "url": "https://open.spotify.com/album/7jZfZ6DMT9gVnlTsE9JnIK"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Tested",
+      "url": "https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz"
+    },
+    {
+      "album": {
         "name": "The Action",
         "url": "https://open.spotify.com/album/0jq2WhY16lMP0B5xljkjZQ"
       },
@@ -5713,7 +5761,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 140800,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/7xqWqT6WpR1cM3MqJqCvJC"
@@ -5933,7 +5981,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 205049,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/0zfIq0JObVjH33aSAHVpaq"

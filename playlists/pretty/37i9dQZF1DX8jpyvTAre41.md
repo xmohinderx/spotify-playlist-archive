@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,812 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,844 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 85 | [Pretty Little Broken Thing](https://open.spotify.com/track/0jxLZhSgfMX7zRucYH91lT) | [The Standstills](https://open.spotify.com/artist/2OCAyLpPne0X14kjvE535s) | [Pretty Little Broken Thing](https://open.spotify.com/album/3JNedfD7pj76tYf4Nt8QvG) | 2:36 |
 | 86 | [CANDU](https://open.spotify.com/track/0XWsMu0KI7l1TdoCyoqCmI) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [CANDU :: AB Bride](https://open.spotify.com/album/1AH4y5LvN3Fv3MT2VqppFA) | 3:39 |
 | 87 | [Wild Imagination](https://open.spotify.com/track/4etPf9tU0ir7JYJItgkI7W) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Jamesy Boy & The Screw Loose Zoo \(Deluxe\)](https://open.spotify.com/album/1HpqRavhIiskw4PZHetBPM) | 2:48 |
-| 88 | [Hold Steady](https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [I Will Destroy The Void In You / Hold Steady](https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H) | 2:29 |
-| 89 | [Not Necessary](https://open.spotify.com/track/5pffKlF4vFdE97wNxhcNWW) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Saskadelphia](https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per) | 3:01 |
-| 90 | [Gimme Spirit](https://open.spotify.com/track/3yugLVA1ewfpNtxzDCkD6Q) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Spirit](https://open.spotify.com/album/2cHEgxUAhTE0WcSC4QFvEm) | 3:22 |
-| 91 | [Devastatingly Mediocre](https://open.spotify.com/track/6xInLalqFCmsLDmVWkF4Gy) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [To Hell With You, I Love You](https://open.spotify.com/album/0O3etrjarBOgWlCYhBNtjH) | 3:02 |
-| 92 | [Swing & A Miss](https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:59 |
-| 93 | [Reverse the Curse](https://open.spotify.com/track/0618dwZ3KXzP71tuGsVhq0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Reverse the Curse](https://open.spotify.com/album/5IlyN5Kvcomt1cR5Kv43Oo) | 3:54 |
-| 94 | [Matilda](https://open.spotify.com/track/6eDEnqWLLUKDGp5tjjzJ0J) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/7lRqCEA3dm00WmZ5cIKBKF) | 3:51 |
-| 95 | [Misery's on Its Way](https://open.spotify.com/track/0JCCTeptZAnygNBNSWnNiy) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Misery's on Its Way](https://open.spotify.com/album/1CjeHoV7k3OwkyisouqYij) | 2:57 |
-| 96 | [Never Gonna Rain](https://open.spotify.com/track/6QYtCZjxl44kEBTUCzWfBs) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:17 |
-| 97 | [Break The Habit](https://open.spotify.com/track/5jl8iC4QC8GFFUR0Uae1tN) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/68FghP1QWbbmmmVcIKYKNM) | 3:01 |
-| 98 | [Bring on the Blues](https://open.spotify.com/track/7hkYKBhJvNYtBnIsRyH8nO) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Bring on the Blues](https://open.spotify.com/album/2tphcnXJDLkwlg1nRiZwhr) | 3:31 |
-| 99 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 |
-| 100 | [Sacred Heart](https://open.spotify.com/track/7xdNikoGh1g2rY7FO2ikzR) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [Sacred Heart](https://open.spotify.com/album/2buEnpNyo1Gue2fXNcTvTF) | 4:22 |
+| 88 | [Sacred Heart](https://open.spotify.com/track/7xdNikoGh1g2rY7FO2ikzR) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [Sacred Heart](https://open.spotify.com/album/2buEnpNyo1Gue2fXNcTvTF) | 4:22 |
+| 89 | [Hold Steady](https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [I Will Destroy The Void In You / Hold Steady](https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H) | 2:29 |
+| 90 | [Not Necessary](https://open.spotify.com/track/5pffKlF4vFdE97wNxhcNWW) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Saskadelphia](https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per) | 3:01 |
+| 91 | [Gimme Spirit](https://open.spotify.com/track/3yugLVA1ewfpNtxzDCkD6Q) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Spirit](https://open.spotify.com/album/2cHEgxUAhTE0WcSC4QFvEm) | 3:22 |
+| 92 | [Devastatingly Mediocre](https://open.spotify.com/track/6xInLalqFCmsLDmVWkF4Gy) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [To Hell With You, I Love You](https://open.spotify.com/album/0O3etrjarBOgWlCYhBNtjH) | 3:02 |
+| 93 | [Swing & A Miss](https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:59 |
+| 94 | [Reverse the Curse](https://open.spotify.com/track/0618dwZ3KXzP71tuGsVhq0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Reverse the Curse](https://open.spotify.com/album/5IlyN5Kvcomt1cR5Kv43Oo) | 3:54 |
+| 95 | [Matilda](https://open.spotify.com/track/6eDEnqWLLUKDGp5tjjzJ0J) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/7lRqCEA3dm00WmZ5cIKBKF) | 3:51 |
+| 96 | [Misery's on Its Way](https://open.spotify.com/track/0JCCTeptZAnygNBNSWnNiy) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Misery's on Its Way](https://open.spotify.com/album/1CjeHoV7k3OwkyisouqYij) | 2:57 |
+| 97 | [Never Gonna Rain](https://open.spotify.com/track/6QYtCZjxl44kEBTUCzWfBs) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:17 |
+| 98 | [Break The Habit](https://open.spotify.com/track/5jl8iC4QC8GFFUR0Uae1tN) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/68FghP1QWbbmmmVcIKYKNM) | 3:01 |
+| 99 | [Bring on the Blues](https://open.spotify.com/track/7hkYKBhJvNYtBnIsRyH8nO) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Bring on the Blues](https://open.spotify.com/album/2tphcnXJDLkwlg1nRiZwhr) | 3:31 |
+| 100 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 |
 
-Snapshot ID: `MTY1MjQxNTAxNSwwMDAwMDMyNzAwMDAwMTgwYmI5YzJhODYwMDAwMDE4MGJiMTFhYWY3`
+Snapshot ID: `MTY1MjgxMjYwOSwwMDAwMDMyODAwMDAwMTgwZDM0ZWY2NDAwMDAwMDE4MGJiMTFhYWY3`

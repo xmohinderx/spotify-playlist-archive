@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "One For Roy",
+        "url": "https://open.spotify.com/album/78OzDMPIdZQrYb5lnRLby2"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund Five",
+          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/5WhNEjI1UPLRFk3AP3uF3f"
+    },
+    {
+      "album": {
         "name": "A Ma\u00e7\u00e3",
         "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
       },
@@ -585,6 +603,24 @@
       "duration_ms": 257085,
       "name": "Descer Pelo Rio",
       "url": "https://open.spotify.com/track/5EPMAKQslCbGpMqgj6UDL9"
+    },
+    {
+      "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq"
+      },
+      "artists": [
+        {
+          "name": "Naira Fonseca",
+          "url": "https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n"
     },
     {
       "album": {

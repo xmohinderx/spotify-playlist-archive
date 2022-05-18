@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128359,
+  "num_followers": 128368,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQwOSw5YTIxYzY1Y2JiMmNjZGYzNzc5ZDhhMmMzNDg4NTFkOGM3YTgyMWQy",
+  "snapshot_id": "MzQxMSxjNjlkZGM3MWU5Yzc5ZTcxMzM4ZTM3MTJiNzM4ZTM2Zjk3NTlmYjFi",
   "tracks": [
+    {
+      "added_at": "2022-05-17 16:21:53",
+      "album": {
+        "name": "Won't Make A Sound",
+        "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Nurko",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Won't Make A Sound",
+      "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
+    },
     {
       "added_at": "2022-05-16 16:16:04",
       "album": {
@@ -1055,26 +1079,6 @@
       "duration_ms": 223615,
       "name": "Warp",
       "url": "https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj"
-    },
-    {
-      "added_at": "2022-03-04 17:08:07",
-      "album": {
-        "name": "Waiting For Love",
-        "url": "https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "neverwaves",
-          "url": "https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o"
-        }
-      ],
-      "duration_ms": 262702,
-      "name": "Waiting For Love",
-      "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

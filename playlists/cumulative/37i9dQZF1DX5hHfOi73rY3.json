@@ -201,7 +201,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 394124,
       "name": "Bigger Than Prince - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 223869,
       "name": "Cola",
       "url": "https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 390560,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/5u27DT78hXMPlIfprPHGH9"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 233573,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/2Ter3spX4wzexYMtvAMZum"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 190053,
       "name": "Hey Hey",
       "url": "https://open.spotify.com/track/6o4KTcGUoN8Xse2SNHorGU"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 364609,
       "name": "Higher Level - Bicep Remix",
       "url": "https://open.spotify.com/track/4FtjMbx5rC3fUqcBJXhu1G"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 204026,
       "name": "Lights On (feat. Ms Dynamite) - Single Mix",
       "url": "https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 248035,
       "name": "Losing It",
       "url": "https://open.spotify.com/track/5Nbsv7ERwYRaG9fH8Zssvc"
@@ -1143,6 +1143,24 @@
       "duration_ms": 218639,
       "name": "Nothing Better",
       "url": "https://open.spotify.com/track/1oqniN5rzgvhAWoq4HgY2W"
+    },
+    {
+      "album": {
+        "name": "OKAY",
+        "url": "https://open.spotify.com/album/5dGUCdPKARMirLPY52MnLM"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359297,
+      "name": "OKAY",
+      "url": "https://open.spotify.com/track/05wrtdnqihfhy54iGFZ0rV"
     },
     {
       "album": {
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 192200,
       "name": "The Jam",
       "url": "https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 150703,
       "name": "The Renegade",
       "url": "https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK"

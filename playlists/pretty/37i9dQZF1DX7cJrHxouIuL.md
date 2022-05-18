@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 
 > Kindie tunes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,230 likes - 147 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,238 likes - 147 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 9 | [Joy Spice Soul](https://open.spotify.com/track/7hXJ5GAMKq1uUq7OINEWeC) | [Lucy Kalantari & the Jazz Cats](https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8), [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Joy Spice Soul](https://open.spotify.com/album/5P1qeQcfAEBzKQ7l1a6CYi) | 3:24 |
 | 10 | [Invisible Friend](https://open.spotify.com/track/6FbPohJ6qtIBDktcfq20Z8) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Invisible Friend](https://open.spotify.com/album/3jt9rKBW3mskNcDgVR7NbV) | 1:59 |
 | 11 | [So Many Ways](https://open.spotify.com/track/1ZUQS6AJsh9wRuiORmAZ8l) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [So Many Ways](https://open.spotify.com/album/0aWVEAQKsGF9HUMrpIeK4x) | 2:54 |
-| 12 | [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/track/53nTk9BFCViL3FJgfbjPKW) | [Benny Time](https://open.spotify.com/artist/0SP4cps3hSDgkfhHhJHEqU), [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/album/5xgjSD4LXKUEZJH37ZS5jV) | 3:12 |
+| 12 | [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/track/53nTk9BFCViL3FJgfbjPKW) | [Benny Time](https://open.spotify.com/artist/0SP4cps3hSDgkfhHhJHEqU), [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN), [Eastcoast inspirational Singers](https://open.spotify.com/artist/6XcbtC6qmgQZ9FJNcixuqC) | [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/album/5xgjSD4LXKUEZJH37ZS5jV) | 3:12 |
 | 13 | [Tiny Telephone](https://open.spotify.com/track/4REqk2P75v9WLRAdbYEBdW) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Field Trip](https://open.spotify.com/album/0iyg2QKAQBeU4UaOQSVI6l) | 2:14 |
 | 14 | [Disco Rain](https://open.spotify.com/track/20twtF2MePkY2WF9qdD3bd) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Let It Out!](https://open.spotify.com/album/2SXHp5cFcwno6SDKJ2gL9p) | 2:44 |
 | 15 | [Robot Tea Party](https://open.spotify.com/track/1JY3NZtz8mqqVIeiPkvzQq) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [The Full Circle](https://open.spotify.com/album/60ghiOTP0JVoCg8lvnd9P3) | 2:36 |

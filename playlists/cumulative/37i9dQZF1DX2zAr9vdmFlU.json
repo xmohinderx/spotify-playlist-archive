@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 189000,
       "name": "Algo Contigo (with Our Latin Thing)",
       "url": "https://open.spotify.com/track/66JW6e9yEE8A0Y3pLpW6iD"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 166360,
       "name": "Around the World - Intro",
       "url": "https://open.spotify.com/track/3ZQ9xmsi4CQ8cFc4sj19yd"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 329719,
       "name": "Danza de Vision",
       "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 152072,
       "name": "La Marea",
       "url": "https://open.spotify.com/track/2jVYJ5WjkhqhEsTchOQyfW"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-18",
       "duration_ms": 229475,
       "name": "Me gustas tu",
       "url": "https://open.spotify.com/track/7tIzEqfD8SONXtdI5KE9uk"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 247320,
       "name": "Nain",
       "url": "https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK"
@@ -1806,6 +1806,24 @@
     },
     {
       "album": {
+        "name": "Rumbo a Tierra",
+        "url": "https://open.spotify.com/album/69Ir7r4C79cTgSTBptkF54"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "Rumbera",
+      "url": "https://open.spotify.com/track/6UcB9gMHjY5VMGejDCe6k7"
+    },
+    {
+      "album": {
         "name": "Hecho a Mano",
         "url": "https://open.spotify.com/album/0HLPr4c2d1vlhIA3yOZqtS"
       },
@@ -1955,7 +1973,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 237653,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4tjCdTEwREnFeaETEwmINN"

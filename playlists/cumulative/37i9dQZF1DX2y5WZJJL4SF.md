@@ -4,7 +4,7 @@
 
 > Soft and calm renditions of songs for harp.
 
-133 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
+137 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Dream a Little Dream of Me](https://open.spotify.com/track/1Z4KpYwEgywjOfIGllZy79) | [Noah Dixon](https://open.spotify.com/artist/6YA3vpJ1H12hHnxiwczvZD) | [Dream a Little Dream of Me](https://open.spotify.com/album/6hGgvW9C70D1vrQsLnA8kC) | 1:55 | 2021-11-11 | 2022-01-22 |
 | [Duermete Mi Nino](https://open.spotify.com/track/2f8NeDKkIfjjmHJMp6ETyb) | [Julia Zerrano](https://open.spotify.com/artist/18VV4kqB6xgRj86VsETZyF) | [Duermete Mi Nino](https://open.spotify.com/album/2UqaMWBOwi7DzjC41EXZ04) | 1:32 | 2021-11-11 |  |
 | [Endnu en dag](https://open.spotify.com/track/6fL7itT01Wt99xDdkmkVhC) | [Saga Villadsen](https://open.spotify.com/artist/1cuFpoEhNxpI99ojgimE64) | [På en blomstereng](https://open.spotify.com/album/4d1F6hCt9yX8C3scF4QXdw) | 1:45 | 2021-11-11 |  |
-| [Everlong](https://open.spotify.com/track/7A9ewjBMiEg2eXKHsojDa0) | [Emile Beskow](https://open.spotify.com/artist/0bB5nmobdyJCtKRqT6L9aY) | [Classics](https://open.spotify.com/album/53KvNOtTAe5tgJiwfcQ1Ax) | 2:22 | 2021-11-11 |  |
+| [Everlong](https://open.spotify.com/track/7A9ewjBMiEg2eXKHsojDa0) | [Emile Beskow](https://open.spotify.com/artist/0bB5nmobdyJCtKRqT6L9aY) | [Classics](https://open.spotify.com/album/53KvNOtTAe5tgJiwfcQ1Ax) | 2:22 | 2021-11-11 | 2022-05-18 |
 | [Feel Free to Sleep](https://open.spotify.com/track/7fBKXwIpRXfesqArhNu8Sc) | [Odell Aylmer](https://open.spotify.com/artist/6kFti89t1ebLGedez1cGeG) | [Feel Free to Sleep](https://open.spotify.com/album/0g69AegryKvyXLgiQQDlra) | 1:22 | 2021-11-11 |  |
 | [Feeling Happy](https://open.spotify.com/track/6YemG0JU5lTv7X3Qc5UajS) | [Chad Isaacson](https://open.spotify.com/artist/5UzSphuk1wV4EkpEpsxfJJ) | [Feeling Happy](https://open.spotify.com/album/05XQpRE0NTHqKH0hQXjbPz) | 1:42 | 2021-11-11 |  |
 | [Find the Rabbit](https://open.spotify.com/track/0GDw6Hmmlu6InQbf6YakPD) | [Baldwin Grey](https://open.spotify.com/artist/4tULy2gwvcYvafnuk3qzdC) | [Find the Rabbit](https://open.spotify.com/album/1vqPMljPPgF9IVhNqopH7Y) | 1:56 | 2021-11-11 |  |
@@ -77,6 +77,7 @@
 | [Hubert, the magic dog](https://open.spotify.com/track/2RXhj0DBi1UacZzk8fEn0h) | [Merv Royston](https://open.spotify.com/artist/2iJqTkHIrNCNYh4UjPMvQt) | [Hubert, the magic dog](https://open.spotify.com/album/4AXL1t0zCrdN7Q6s8TPtzT) | 1:24 | 2021-11-11 |  |
 | [Hush Little Baby](https://open.spotify.com/track/41gbj1zPSDVpYTV7xhM1Ki) | [Lina Rin](https://open.spotify.com/artist/4dMkHlQs3eMRKUoCWq7iCd) | [Hush Little Baby](https://open.spotify.com/album/5os2qnAgKy6PkLqFXTKW6t) | 1:55 | 2021-11-11 | 2022-02-11 |
 | [Hush My Little Angel](https://open.spotify.com/track/7LTCWsNXdsc0dtAQ570WLn) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [You Are My Sunshine](https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5) | 2:17 | 2021-11-11 |  |
+| [I Can't Help Falling In Love \- Harp](https://open.spotify.com/track/6ufNUNeLxtMKI99EmZbG0p) | [Chloe Hulme](https://open.spotify.com/artist/547PuusQ4w9ybqTNLkI4Nu) | [I Can't Help Falling In Love \(Harp\)](https://open.spotify.com/album/67udOFmO7YqGWCIJFqo88w) | 1:59 | 2022-05-17 |  |
 | [I Don't Like Peas](https://open.spotify.com/track/0fm4S3aLlxvh1viBe47osX) | [Peggy Buggs](https://open.spotify.com/artist/6JZRlIGBEp56gHX94QzpQe) | [I Don't Like Peas](https://open.spotify.com/album/2dam7lg2R9iMIAEZ72Vo0t) | 1:22 | 2021-11-11 |  |
 | [Idas sommarvisa](https://open.spotify.com/track/6EtjH6yR0XIHAY0PXRd65U) | [Josefine Wennman](https://open.spotify.com/artist/4Iz7MgZBYGsZzFr3gVamSc) | [Idas sommarvisa](https://open.spotify.com/album/6QTrbS5qBgNVXmfXdllD2O) | 2:29 | 2021-11-11 |  |
 | [If all the stars](https://open.spotify.com/track/6qdsdpkntWpvn6vsgdwcXY) | [Ford Ripley](https://open.spotify.com/artist/6WLptfkrV9byJX74bdV2x9) | [If all the stars](https://open.spotify.com/album/27s25kTVun2NPwD2b3oSOD) | 1:45 | 2021-11-11 |  |
@@ -98,6 +99,7 @@
 | [Mother's Day](https://open.spotify.com/track/7HJeC6sf7KlqgTimSJ64im) | [Sherry Novak](https://open.spotify.com/artist/47req48j8mLt69nZaBrial) | [Mother's Day](https://open.spotify.com/album/6KLdyUiMVFKaYKoFYiGGBV) | 1:33 | 2021-11-11 |  |
 | [My Best Friend Bob](https://open.spotify.com/track/6GU8lcVUnQQh9Tumb2uIeR) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:52 | 2021-11-11 |  |
 | [My Book](https://open.spotify.com/track/5sawCWRqlFAFoudpIZhz4W) | [Ryley Sommer](https://open.spotify.com/artist/5iAPatBtTdr2ehnAyHrBzD) | [My Book](https://open.spotify.com/album/5Q7YzI4p3LDETHwn4wsjVL) | 1:47 | 2021-11-11 | 2022-02-11 |
+| [My Brother Charlie](https://open.spotify.com/track/6JuYU8DQl781m1J92vGVrC) | [Eliza Adam](https://open.spotify.com/artist/3pvPDX0ZInj5bKXW5vLEms) | [My Brother Charlie](https://open.spotify.com/album/4EYg235urjEzSmSCbypl2V) | 2:04 | 2022-05-17 |  |
 | [My button](https://open.spotify.com/track/1GKcRgmp5fjLS6nttBMNKw) | [Baldwin Grey](https://open.spotify.com/artist/4tULy2gwvcYvafnuk3qzdC) | [My button](https://open.spotify.com/album/5tqyY54twI0oraFX1SJzmI) | 1:21 | 2021-11-11 |  |
 | [My name is Sue](https://open.spotify.com/track/05qmZG60q8wpsBate4bfAq) | [Solomon Sparks](https://open.spotify.com/artist/7JjiRaeb3qDpBU9p3Ye7DX) | [My name is Sue](https://open.spotify.com/album/1bsFXc2mI2oEveM9nNkMiv) | 1:17 | 2022-01-21 |  |
 | [My Sweet Sweet Angel](https://open.spotify.com/track/3GfJmGYQnoXXW7HfupCB0K) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [You Are My Sunshine](https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5) | 1:47 | 2021-11-11 |  |
@@ -116,6 +118,7 @@
 | [Song Of The Small Bear](https://open.spotify.com/track/40mHbIVXHZwZiUFomKa3aP) | [Jacob Radcliff](https://open.spotify.com/artist/48yYO2xrZxzM3xEjDujE0d) | [Song Of The Small Bear](https://open.spotify.com/album/7v3O7qxke2x91cxQDmUv8G) | 1:44 | 2021-11-11 |  |
 | [Spirit](https://open.spotify.com/track/5XECpuIjBhCVzF1dnx0qLg) | [Esmé Dean](https://open.spotify.com/artist/3AidWvpVrxSP3vCHDXqRHF) | [Spirit](https://open.spotify.com/album/5hJRqymE8HDPqkwYxw5ePA) | 2:11 | 2021-11-11 |  |
 | [Stars Above](https://open.spotify.com/track/5LINFAlFwHABVuvQuIwRlQ) | [Brook Parrish](https://open.spotify.com/artist/2iIEnYQQdqQB357rXwMjpI) | [Stars Above](https://open.spotify.com/album/1GjMcPaQ2FT01HRAq32Je7) | 1:24 | 2022-01-21 |  |
+| [Stars Are Falling](https://open.spotify.com/track/56ylWs9S44viM3Rs790MCv) | [Nash Hershey](https://open.spotify.com/artist/7Jb6ocugSaKblkdgODXbUN) | [Stars Are Falling](https://open.spotify.com/album/6UkA9lFUPAzyEzrOpzPbpm) | 0:56 | 2022-05-17 |  |
 | [Strawberry Milkshake](https://open.spotify.com/track/0cABvxXyln85hw4BiZm8H9) | [Brandie Herbert](https://open.spotify.com/artist/5oWkadBD5uzxKs3Es5XeZ2) | [Strawberry Milkshake](https://open.spotify.com/album/05Lm2GVM9Bv36k9pzTo5w0) | 1:40 | 2021-11-11 |  |
 | [Sunset Song](https://open.spotify.com/track/0ocglsPeTS5D5QLmvs6Umk) | [Glenda Bill](https://open.spotify.com/artist/4fsxQmjHZlspZqsCYziW0I) | [Sunset Song](https://open.spotify.com/album/2FGz6m9ZpNAwlgrOwV8acw) | 1:22 | 2021-11-11 |  |
 | [Süße Träume](https://open.spotify.com/track/0K6U4UeGHbYO2lgIvHeHkt) | [Beatrice Werner](https://open.spotify.com/artist/3RODO8LRNzu7ShXh3PMU3Z) | [Süße Träume](https://open.spotify.com/album/6XOMGeISXAGPrAN4BrvSqJ) | 1:35 | 2021-11-11 |  |
@@ -124,6 +127,7 @@
 | [The Magic Pancake](https://open.spotify.com/track/7kfp6vxgUNSdNBLGRRTY60) | [Sophea Chen](https://open.spotify.com/artist/4jsOYWTRbpLg04JEGd0Bhj) | [The Magic Pancake](https://open.spotify.com/album/7jFUXstf6ltF9aIHfK9dhw) | 1:56 | 2021-11-11 |  |
 | [The Rabbits Journey](https://open.spotify.com/track/5FgLiliSIeSTsa6h3wzufU) | [Rod Parsons](https://open.spotify.com/artist/0t294nMoDXNQcR1vvnMgdh) | [The Rabbits Journey](https://open.spotify.com/album/194NKw4yZehjxHqICUfnlu) | 1:41 | 2021-11-11 |  |
 | [The town is sleeping](https://open.spotify.com/track/1gHfdZtCaQHeb9FnKvfxKr) | [Dewayne Adams](https://open.spotify.com/artist/3rlRlqOUa8dzQgDAHEBjlh) | [The town is sleeping](https://open.spotify.com/album/3MttWi6pl7E08eNRqTQ9eT) | 1:26 | 2021-11-11 |  |
+| [The Wheels On The Bus \- Harp](https://open.spotify.com/track/4iNT49ernA78kHJzhJJdmY) | [Mandy Emery](https://open.spotify.com/artist/44sB3HOu7jhEOVDrzsFkv3) | [The Wheels On The Bus \(Harp\)](https://open.spotify.com/album/1GN1mQIjCLpFHQTMc6xoYd) | 1:40 | 2022-05-17 |  |
 | [This Old Man](https://open.spotify.com/track/2gNCbtTziyHdx9szW82JOc) | [Stephen Rossi](https://open.spotify.com/artist/3GaNCXDzlQMgcBLTxkHLWW) | [Beautiful Dreamer](https://open.spotify.com/album/32sv0cRYNSNAZATBtOtejF) | 1:47 | 2021-11-11 |  |
 | [Tiny Footprints](https://open.spotify.com/track/2LAf4b2AM8H7tN1qzYRJDc) | [Brandie Herbert](https://open.spotify.com/artist/5oWkadBD5uzxKs3Es5XeZ2) | [Tiny Footprints](https://open.spotify.com/album/6fapnJb9DQAPHrA9g63NAw) | 1:37 | 2022-04-26 |  |
 | [To a Child](https://open.spotify.com/track/4nqglfsBJV9vUKEDc35UBc) | [Ester Duncan](https://open.spotify.com/artist/3RWd3Uey3oS6wYZOLydd8B) | [Two Rosy Cheeks](https://open.spotify.com/album/6xYOdqYLLdGumrsoSKyhVU) | 1:37 | 2021-11-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Strange Alias\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,302 likes - 126 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,303 likes - 126 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

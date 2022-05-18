@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : KGF 2
 
-219 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
+220 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [I Love You \(From "Namma Hudugaru"\)](https://open.spotify.com/track/7I1PDlxV1Xo3kQvUnTHuCI) | [Puneeth Rajkumar](https://open.spotify.com/artist/45VcCRQRa6cyT9xkwvL6Uk), [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG), [Abhimann Roy](https://open.spotify.com/artist/5fyJuumOXQwePtPK9suY88) | [I Love You \(From "Namma Hudugaru"\)](https://open.spotify.com/album/5u9bwS4aQIW7Yu1z3JTqXy) | 3:32 | 2021-12-06 | 2022-01-12 |
 | [Ide Swarga \(From "Love Mocktail 2"\)](https://open.spotify.com/track/2cR0F7JctmyWg9Cj2QwRZN) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Ide Swarga \(From "Love Mocktail 2"\)](https://open.spotify.com/album/5yFX2CEoj5IMt0vgtUidG9) | 4:42 | 2021-12-06 |  |
 | [Idu Maaye Eno Ee Kushi \(From "Cherasaala"\)](https://open.spotify.com/track/6MkYEnI4X6fXCEABkXzpW2) | [Vinay Cm](https://open.spotify.com/artist/5Jvc1r5EzAszWcnyJlIWy2) | [Idu Maaye Eno Ee Kushi \(From "Cherasaala"\)](https://open.spotify.com/album/0Z6Pl3IliIw7kXCRVDhEoI) | 3:52 | 2021-12-06 | 2022-03-18 |
+| [Ivane Master \[Title Track\] \(From "Shokiwala \- Kannada"\)](https://open.spotify.com/track/4UN7341XooguUGOKUwmxgu) | [V Sridhar Sambhram](https://open.spotify.com/artist/4gWwXX46KPq97oov9NfYMC), [Shashank Sheshagiri](https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy) | [Ivane Master \[Title Track\] \(From "Shokiwala \- Kannada"\)](https://open.spotify.com/album/6ZqDzyF3twSnR7NmZKs95f) | 4:02 | 2022-05-17 |  |
 | [Jaago Re Jaago Re](https://open.spotify.com/track/3Fxs7CcSYBsFbFFh9fWuaK) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Hrithik Siddachar](https://open.spotify.com/artist/5eENxibIX1L7o2BpXYdhWI), [Silvia Fernandes](https://open.spotify.com/artist/0XfiGqRCTa7QB9X5WhTCZV), [Darrel Mascarenhas](https://open.spotify.com/artist/11jMI9dmkoeyybCWOPLgxA) | [Garuda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5H8DLlxxjTJ0X7S4059yN8) | 4:00 | 2022-01-03 | 2022-02-02 |
 | [Janani \(From "Rrr"\)](https://open.spotify.com/track/6mhQuHsN0zZrMLcBpswZ3V) | [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Janani \(From "Rrr"\)](https://open.spotify.com/album/0k0V12hKnqe6Uj2fFGvndh) | 3:08 | 2021-12-06 |  |
 | [Jeans Alli Mass Aagavle](https://open.spotify.com/track/1RRGN0jWgeDwmEjS0dloHg) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B) | [Mugilpete](https://open.spotify.com/album/1GT8fDmpGnziaZ5PBVuV6M) | 3:42 | 2022-01-28 | 2022-03-18 |
