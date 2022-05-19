@@ -4,7 +4,7 @@
 
 > It's just us—and this awesome alt soundtrack.
 
-136 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
+137 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/2Ni00bI0Uwu2mjVXmNScYr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 | 2020-02-13 | 2020-07-31 |
 | [Crystals](https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Crystals](https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA) | 4:03 | 2019-05-26\* |  |
 | [Dark Matter](https://open.spotify.com/track/7GyEDycN7qMRcqQ1XgX8Z6) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2lctdjQcxDUo9Q93GScAKC) | 5:18 | 2019-05-26\* | 2021-12-10 |
-| [Darlin'](https://open.spotify.com/track/1sfdLryuujVNx5v3SqDIh8) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Darlin’](https://open.spotify.com/album/7rK95dGqm7hOseBp2PU04g) | 4:59 | 2019-05-26\* |  |
+| [Darlin'](https://open.spotify.com/track/1sfdLryuujVNx5v3SqDIh8) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Darlin’](https://open.spotify.com/album/7rK95dGqm7hOseBp2PU04g) | 4:59 | 2019-05-26\* | 2022-05-19 |
 | [Dead Century](https://open.spotify.com/track/0qhWKhiRbhPGxtTQKr21F1) | [Wildlife](https://open.spotify.com/artist/4ulonkGlELgtzTjNxsMIaQ) | [Dead Century](https://open.spotify.com/album/185WkhWJn5rAEtpR9GrOUc) | 3:23 | 2019-05-26\* | 2020-02-13 |
 | [Decorate](https://open.spotify.com/track/603R1wKtRuCt5zSMUBHOCF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Yuna](https://open.spotify.com/album/7KLVnIYwRybc9vVLWZYTCM) | 3:44 | 2019-05-26\* | 2020-02-13 |
 | [Details](https://open.spotify.com/track/142I4efbM50oAjnSQaEUcG) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2lctdjQcxDUo9Q93GScAKC) | 3:49 | 2019-05-26\* | 2021-12-10 |
@@ -133,6 +133,7 @@
 | [There's No Other Place](https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [My Honest Face](https://open.spotify.com/album/52fKsRuzOum7y9iGC67GSn) | 7:33 | 2020-02-13 |  |
 | [Time to Wander](https://open.spotify.com/track/4LDVjxkzOKa7YUxjO1x74S) | [Gypsy & The Cat](https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6) | [Gilgamesh](https://open.spotify.com/album/3oN0gGqa25NnWjCjng1kSI) | 3:54 | 2019-05-26\* |  |
 | [Trembling hands](https://open.spotify.com/track/0P2xmlbhOoQd5LOztoe0yF) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [The Temper Trap](https://open.spotify.com/album/2iaZi2RryjkmlSj0apnzDv) | 4:39 | 2019-05-26\* |  |
+| [twin flame](https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:59 | 2022-05-18 |  |
 | [Wait for Me](https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:30 | 2019-05-26\* |  |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-01-26 |  |
 | [We All Die Trying to Get It Right](https://open.spotify.com/track/7cxg6WIDYoXza9QAOPDRpT) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 4:07 | 2019-05-26\* | 2021-12-10 |

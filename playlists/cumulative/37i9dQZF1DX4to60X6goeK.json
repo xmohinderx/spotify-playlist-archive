@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 245960,
       "name": "24",
       "url": "https://open.spotify.com/track/7Brt92CoCYZOYjqJQuIqYw"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 263275,
       "name": "Akimbo",
       "url": "https://open.spotify.com/track/6PmyB4G1A16ccon3Yzw8dF"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 274285,
       "name": "Alien Activity",
       "url": "https://open.spotify.com/track/22Ay7NiHsP1OrovO77LDAP"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 281379,
       "name": "All Night",
       "url": "https://open.spotify.com/track/12IfJhk5u4kPwtpOX3on1p"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 246857,
       "name": "Boomerang (Round & Round) - Serum Remix",
       "url": "https://open.spotify.com/track/6472IAXONSb11uwTIGQQoO"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 180000,
       "name": "Certified Gs",
       "url": "https://open.spotify.com/track/0OFPij448pt21kHBHsT4au"
@@ -345,10 +345,36 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 242758,
       "name": "Clubcard",
       "url": "https://open.spotify.com/track/69iCFPZbfFBrJ86RCi9Fk7"
+    },
+    {
+      "album": {
+        "name": "Cool Out Son",
+        "url": "https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4"
+      },
+      "artists": [
+        {
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+        },
+        {
+          "name": "Benny Page",
+          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+        },
+        {
+          "name": "Isaac Maya",
+          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208457,
+      "name": "Cool Out Son - Benny Page & Isaac Maya Remix - Edit",
+      "url": "https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL"
     },
     {
       "album": {
@@ -433,7 +459,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 204364,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
@@ -451,7 +477,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 274292,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/2s2uRehkP1H5jqzwiiD8PI"
@@ -629,7 +655,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Free",
       "url": "https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn"
@@ -687,7 +713,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 267428,
       "name": "Grape",
       "url": "https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3"
@@ -727,7 +753,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 241687,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
@@ -819,7 +845,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 219428,
       "name": "Hurt - Kendrick Remix",
       "url": "https://open.spotify.com/track/2G7P0r5rDpLHheJ0IN2CYc"
@@ -895,7 +921,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 224914,
       "name": "Journey - VIP 2",
       "url": "https://open.spotify.com/track/1JRjRDsjnBlJMaZ9xyRgXW"
@@ -931,7 +957,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 309986,
       "name": "Lady Petrol",
       "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
@@ -985,7 +1011,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 224921,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/13UCK8NNturjjCdAweLwGa"
@@ -1003,7 +1029,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 185086,
       "name": "Lift Off The Roof",
       "url": "https://open.spotify.com/track/7HcnRj6vM3fQ5xmn3AbJcq"
@@ -1039,7 +1065,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 270357,
       "name": "Lock off the Rave",
       "url": "https://open.spotify.com/track/6FPETQc9CdCmRME7HRwlgk"
@@ -1097,7 +1123,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 270171,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/2uG8wKppvOFiZdYzVsdpvS"
@@ -1119,7 +1145,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 246497,
       "name": "Mind Warp",
       "url": "https://open.spotify.com/track/1eOiR3omcI7SxBxyifehFi"
@@ -1165,7 +1191,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 264802,
       "name": "Money Moves - Remix",
       "url": "https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR"
@@ -1237,7 +1263,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 267586,
       "name": "Operator",
       "url": "https://open.spotify.com/track/2ajRKo1dsleuWOj6ukRUqi"
@@ -1295,7 +1321,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 268678,
       "name": "Protection",
       "url": "https://open.spotify.com/track/5lTxWs9bkL7d35kqdPDOXd"
@@ -1395,7 +1421,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 242737,
       "name": "Rocking",
       "url": "https://open.spotify.com/track/0jAZZTTdgOSIJm9wJKOfBA"
@@ -1579,7 +1605,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 274482,
       "name": "Step Up (Levela Remix)",
       "url": "https://open.spotify.com/track/6z6dlhBRRhGHt0j6316W8T"
@@ -1601,7 +1627,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 275862,
       "name": "Steppa",
       "url": "https://open.spotify.com/track/1SNpDm3SL1p0S7vGWfWBxL"
@@ -1619,7 +1645,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9"
@@ -1725,7 +1751,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 181028,
       "name": "Thrill Seekers - Serum Remix",
       "url": "https://open.spotify.com/track/1SMnizgMVh1AYGKsWS29Vf"
@@ -1765,7 +1791,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 276333,
       "name": "Tweeter Box - Sinexia Remix",
       "url": "https://open.spotify.com/track/5y3zSVslXukl5t6fLTcVv1"
@@ -1783,7 +1809,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 271060,
       "name": "Twist & Screw",
       "url": "https://open.spotify.com/track/4nMaX8YWn8bChjLvW3pw1R"
@@ -1837,7 +1863,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 327945,
       "name": "Void",
       "url": "https://open.spotify.com/track/0p1PEZDgUxUy8P3e6sLwxe"
@@ -1873,7 +1899,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 238635,
       "name": "Whoom",
       "url": "https://open.spotify.com/track/0O9QfUm4Yvwwu8BuJV09aa"
@@ -1927,7 +1953,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 271333,
       "name": "Yeah Boi",
       "url": "https://open.spotify.com/track/2ehFv6rdhCW1tqrSiMeP1J"

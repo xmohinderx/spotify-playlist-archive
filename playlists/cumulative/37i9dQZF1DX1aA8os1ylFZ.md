@@ -4,7 +4,7 @@
 
 > Me and bae = love
 
-133 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
+134 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-02-03 |  |
 | [Hannah](https://open.spotify.com/track/2wbS2aC4mZwSiefjovwyh1) | [Neil Hollyn](https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0) | [Hannah](https://open.spotify.com/album/60yMEN6xfAX0WpGNOBcaqX) | 3:16 | 2021-12-16 | 2022-01-21 |
 | [Hard 4 Me 2 Love You](https://open.spotify.com/track/4YF1ucCHnZHQFxeLxtPLpS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Hard 4 Me 2 Love You](https://open.spotify.com/album/1PtHdtq6JgoCxawh4fwZHl) | 3:50 | 2021-12-16 |  |
+| [Heart To Heart](https://open.spotify.com/track/4sZpxhh9oSkX4QynkJbI8E) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Heart To Heart](https://open.spotify.com/album/1Rw8TB9w9IbipBGhramigY) | 4:21 | 2022-05-18 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-12-16 | 2022-03-26 |
 | [Heaven](https://open.spotify.com/track/7zzl5nLmPPkAwk2MRIUpa4) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Heaven](https://open.spotify.com/album/7zvlOXQgusNzrFMADWbz8G) | 2:49 | 2021-12-16 | 2022-01-28 |
 | [HELLSTORM](https://open.spotify.com/track/7ka672CmPkXWtQUQOLwRqq) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [HELLSTORM](https://open.spotify.com/album/2w0Wpf3Ebuy5ibLqmnc34B) | 3:18 | 2022-03-25 |  |
@@ -90,7 +91,7 @@
 | [My Favourite Mistake](https://open.spotify.com/track/6GeNR4AIxxQUs1sXnQBjCJ) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [My Favourite Mistake](https://open.spotify.com/album/3H56yRhrGZ90lrsxKpijXH) | 3:39 | 2021-12-16 |  |
 | [NINA](https://open.spotify.com/track/32HIXa1zzJJxfCslCIQ9QK) | [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [NINA](https://open.spotify.com/album/54I14zucBYar1VfmZnNTIa) | 3:09 | 2022-03-25 |  |
 | [nothing but the love](https://open.spotify.com/track/2tW9lXMLknjIKFmWtMpf54) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [nothing but the love](https://open.spotify.com/album/7w8r37ZrBm0vZopJe9eJvs) | 3:04 | 2021-12-16 |  |
-| [Nothing's the Same](https://open.spotify.com/track/3NllHdYknM2F6UxxGevXWc) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Nothing's the Same](https://open.spotify.com/album/00yIpdpC0O5UFewLz6boJh) | 2:55 | 2021-12-16 |  |
+| [Nothing's the Same](https://open.spotify.com/track/3NllHdYknM2F6UxxGevXWc) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Nothing's the Same](https://open.spotify.com/album/00yIpdpC0O5UFewLz6boJh) | 2:55 | 2021-12-16 | 2022-05-19 |
 | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5rkAjs38ImEoJJBHW3T8pb) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/album/0k7HiB1RSPBMTzwY93aGLv) | 3:36 | 2021-12-16 |  |
 | [Off Switch \(feat\. TheColorGrey\)](https://open.spotify.com/track/7kyZIUl4X7vdckP6PPCH0h) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl), [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Off Switch \(feat\. TheColorGrey\)](https://open.spotify.com/album/2muOqGjZGWo38FHmsq0AJr) | 2:53 | 2021-12-16 |  |
 | [Only a Matter of Time](https://open.spotify.com/track/6QpPVC3iLIlWuYsm5kwIke) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Only a Matter of Time](https://open.spotify.com/album/6R51FMt4t1OXoVEC2VxLuN) | 3:14 | 2021-12-16 |  |

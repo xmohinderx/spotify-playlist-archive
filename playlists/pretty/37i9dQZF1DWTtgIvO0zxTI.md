@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Micro TDH, Jerry Di, Big Soto, ADSO, Akapellah
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,028 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,062 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 54 | [Antivirus](https://open.spotify.com/track/5YxHt7H46QWZLLCyhXG35Q) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [De Vuelta A Casa](https://open.spotify.com/album/22N2pYZpb2MlkZT29OARmC) | 3:28 |
 | 55 | [El Año Empezo Mal](https://open.spotify.com/track/20NvZKN3wXwvtd2EDoyEPr) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [El Año Empezo Mal](https://open.spotify.com/album/4ZuqUFsNEU1O1yUInzLNjF) | 2:45 |
 | 56 | [Otra Botella](https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx), [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Otra Botella](https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3) | 2:46 |
-| 57 | [Ella Baila Sola \- Remix](https://open.spotify.com/track/60VKPgWjpGbxeZHg6UIrdb) | [Dani Senay](https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp), [Omar Koonze](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy), [JAY ROZZ](https://open.spotify.com/artist/7EMWiEZp1AxYBKUVtXs29E) | [Ella Baila Sola \(Remix\)](https://open.spotify.com/album/7iEoLo3IScnBpmN0YYsmPa) | 4:29 |
+| 57 | [Ella Baila Sola \- Remix](https://open.spotify.com/track/60VKPgWjpGbxeZHg6UIrdb) | [Dani Senay](https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp), [Omar K11](https://open.spotify.com/artist/7wQ0gtk39rl8k1ijVxaiIY), [JAY ROZZ](https://open.spotify.com/artist/7EMWiEZp1AxYBKUVtXs29E) | [Ella Baila Sola \(Remix\)](https://open.spotify.com/album/7iEoLo3IScnBpmN0YYsmPa) | 4:29 |
 | 58 | [Manipularme](https://open.spotify.com/track/2Op7HzSKLl73accyggWazg) | [Cozy](https://open.spotify.com/artist/0vb89r7nEo8PCofGZBgJGd) | [Manipularme](https://open.spotify.com/album/6amaoCepJQocebEfEWWf7s) | 2:47 |
 | 59 | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/track/11jJjmMgj3vNPwuhzEQSC7) | [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/album/2bzpJ4PL5yf9kExI3Wdk8A) | 3:10 |
 | 60 | [Orilla](https://open.spotify.com/track/59b7OCoDnL1r6JhUCcNrr7) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX) | [Orilla](https://open.spotify.com/album/7kp7K3pDWv9sj95dLONEdy) | 3:29 |

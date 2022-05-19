@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kI525v95Yu.md) - [plain]
 
 > The greatest hits of U2, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,909 likes - 59 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,172 likes - 59 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

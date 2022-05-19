@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-117 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
+122 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Biodome](https://open.spotify.com/track/2sVHOerrbSQYZgEZJqVhWt) | [尾島由郎](https://open.spotify.com/artist/5GekbhuyDcYViZ0BhZc9Iw) | [ハンサム](https://open.spotify.com/album/2Msru7zQbJovRIAuRSTrun) | 6:53 | 2021-12-22 | 2022-03-11 |
 | [Bird Canyons](https://open.spotify.com/track/7aHZncwoXvG1uudkZXghQn) | [John Serrie](https://open.spotify.com/artist/0wa407BBItqXt1SqfyhMEc), [Gary Stroutsos](https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re) | [Hidden World](https://open.spotify.com/album/32RJs9ul4l3ZrfCNKvU8Hl) | 4:36 | 2021-12-22 |  |
 | [Breathing Earth I](https://open.spotify.com/track/5jmzCPIz8C3q6wpRoxb4Hc) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Winds](https://open.spotify.com/album/0Jdg6XhCRiBbOKwvxnIF5b) | 5:55 | 2021-12-22 |  |
+| [Coast](https://open.spotify.com/track/2ZXZA0n1Bfo8H2Tg3KpqB8) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Coast](https://open.spotify.com/album/2cV90JgRQmnI8eAm5mGwr0) | 7:14 | 2022-05-18 |  |
 | [Crystal Cathedral \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R) | 3:26 | 2021-12-22 |  |
 | [Cypress Magic](https://open.spotify.com/track/4u79VkDV1sGAelETOfiNcq) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Chuck Plaisance](https://open.spotify.com/artist/4wfZxczwjNep3PNGUWMwkZ) | [Tranquility](https://open.spotify.com/album/26vcQV2TjPDV3BdZGABenp) | 3:08 | 2021-12-22 |  |
 | [Dark Green](https://open.spotify.com/track/4leNLyb6fZZPzMZd40lkcv) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:46 | 2021-12-22 |  |
@@ -47,6 +48,7 @@
 | [Imaginary Soundscape II, Postcard Four](https://open.spotify.com/track/2lE2t3noIZ1WBa1Ekf4qcx) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:09 | 2021-12-22 |  |
 | [Imaginary Soundscape III, Postcard Two](https://open.spotify.com/track/4Onuwx9ruFbjuLQi9zU0w2) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 3:41 | 2021-12-22 |  |
 | [Inpour](https://open.spotify.com/track/4lShevCVGTcmaE51KyB87e) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Darkest Place](https://open.spotify.com/album/6Os8YfXapiTML5ZJIXmVfp) | 4:29 | 2021-12-22 |  |
+| [Into The Blue](https://open.spotify.com/track/3QYlpiYbm1tzXa0yKvKvo6) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:54 | 2022-05-18 |  |
 | [Japanese Meditation](https://open.spotify.com/track/4OG6VAfkY5Z2ZiDsitnjDs) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 3:00 | 2021-12-22 |  |
 | [Kono Yoni Yomeri \(Sono 2\)](https://open.spotify.com/track/0nByarxBnlqMBH5tWvBuTG) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Kakashi](https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb) | 2:20 | 2021-12-22 |  |
 | [kuu](https://open.spotify.com/track/1VO2yoOecJkqHJp3PjjSVY) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 3:38 | 2021-12-22 |  |
@@ -94,6 +96,7 @@
 | [SLEEP](https://open.spotify.com/track/1aw0BaQEC2PGp8kmYYHvyP) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 6:50 | 2021-12-22 |  |
 | [Sleep Navigator](https://open.spotify.com/track/1fDqcrUoJvUS3c1TCDXU0a) | [Yamaneko](https://open.spotify.com/artist/003Lrmd4Hy04kSf0wZm3xm) | [Spa Commissions](https://open.spotify.com/album/2ZNfT9bxnhOqw7MHonUpei) | 3:21 | 2021-12-22 |  |
 | [Slow Sky](https://open.spotify.com/track/5DlLYv7xXpnM1Se5yUPjxB) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 6:32 | 2021-12-22 |  |
+| [Song for Lungwort \(lobaria pulmonaria, a large epiphytic lichen\)](https://open.spotify.com/track/2AUuaoiqnTePBYG13D2Yjb) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Song for Lungwort \(lobaria pulmonaria, a large epiphytic lichen\)](https://open.spotify.com/album/2TgoRh8Ujg4qnvyhSHHhch) | 4:39 | 2022-05-18 |  |
 | [Sosnovka Voices](https://open.spotify.com/track/02MybcEfJAHajXL37Jz0DA) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 5:20 | 2021-12-22 |  |
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2021-12-22 |  |
 | [Spring Water](https://open.spotify.com/track/3OfS5vttcBFITgwFSs9pab) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Draw a Sleeps](https://open.spotify.com/album/2YQT0iwuaoSWLy1z0D9jrp) | 5:45 | 2021-12-22 |  |
@@ -101,6 +104,7 @@
 | [Stasis Sounds for Long\-Distance Space Travel \(Extended Hypersleep Program 2 \- Cave\)](https://open.spotify.com/track/2n6X2tLzZwprQOeyvDPpvJ) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Stasis Sounds for Long\-Distance Space Travel](https://open.spotify.com/album/36SQ8Aokc2yMPcRhtmytN3) | 10:29 | 2021-12-22 |  |
 | [Still Can't Believe It](https://open.spotify.com/track/2dwgDe9pLWHpvN9P5EfJck) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 6:36 | 2021-12-22 |  |
 | [Submerged](https://open.spotify.com/track/0bXpbgKZkhqwybPJRWnmsh) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Submerged](https://open.spotify.com/album/5Jl7bueg0pYDWJHwyZ0hNE) | 3:09 | 2022-05-06 |  |
+| [Sunfloating](https://open.spotify.com/track/3P6VlV6UjMr5qg78tzzU9P) | [Mount Shrine](https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr) | [Southeast Limits](https://open.spotify.com/album/12EWdR1T4nbITFaL5pmXUe) | 5:55 | 2022-05-18 |  |
 | [Swan and Morning Dews](https://open.spotify.com/track/2Ox800jaDGqxFW1KoDYE3N) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Stories](https://open.spotify.com/album/6bOC2AtibqcjwP1OOHHOTD) | 4:16 | 2021-12-22 |  |
 | [Take Me by the Hand \(36 After Dark Version\)](https://open.spotify.com/track/6LIqC6EASRPcMetiXt42H4) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT), [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [The Other Side of Darkness](https://open.spotify.com/album/0Tdcm7f0lANH7EwD6p7c8k) | 3:47 | 2021-12-22 |  |
 | [Thalfang](https://open.spotify.com/track/2pKCu894n98a9xwpSJ8nmG) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Thousands of Eyes in the Dark](https://open.spotify.com/album/4QMtlhvAyEYpxPLhw7XBqI) | 5:23 | 2021-12-22 |  |
@@ -117,6 +121,7 @@
 | [What If](https://open.spotify.com/track/6Ze6f6eCLCSbxuTHtwyC68) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [What If](https://open.spotify.com/album/3LbiSkkcnKQHE8l69UpMFr) | 3:14 | 2021-12-22 |  |
 | [Whisper at a Party](https://open.spotify.com/track/6pcotNzRig5MZqmYn6dvF2) | [Isaac Helsen](https://open.spotify.com/artist/01xVhqpSuHMXiHWwby8ySK) | [Remnants Series](https://open.spotify.com/album/2MXjXBNtnGLctV5n0tXGBv) | 6:56 | 2021-12-22 |  |
 | [Wind Leaf Shimmer](https://open.spotify.com/track/2arRVRDJDdOG8hqDxTOpRj) | [Constant Shapes](https://open.spotify.com/artist/4O81OJGfgxw7hD2lXowBNy) | [Breathing Instruments](https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe) | 4:00 | 2021-12-22 |  |
+| [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 | 2022-05-18 |  |
 | [YACHIMATA\_170605](https://open.spotify.com/track/4f1C0lLDT2YgPOECKvokG3) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA 4](https://open.spotify.com/album/0UZWM1GVlAGgOzJM2j26xm) | 3:59 | 2021-12-22 | 2022-03-11 |
 | [YACHIMATA\_170714](https://open.spotify.com/track/7Ec064oMKrNUOlZkLodUC0) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA 4](https://open.spotify.com/album/0UZWM1GVlAGgOzJM2j26xm) | 4:20 | 2021-12-22 | 2022-03-11 |
 | [YACHIMATA\_180425](https://open.spotify.com/track/67F4kgmp8If9NveeKUtCt3) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA 5](https://open.spotify.com/album/02jV23EvkRi8IWPV0g8Gqq) | 3:37 | 2021-12-22 | 2022-03-11 |

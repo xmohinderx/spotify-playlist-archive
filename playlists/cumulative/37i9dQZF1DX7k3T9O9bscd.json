@@ -133,7 +133,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 252089,
       "name": "Animal Noises",
       "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 317960,
       "name": "Back to Land",
       "url": "https://open.spotify.com/track/6ylxuxxLEcbZKtVTf0Feg2"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
@@ -295,10 +295,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 699976,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6HX1Wa3knjoiLFK9LvIqrQ"
+    },
+    {
+      "album": {
+        "name": "Breathe in, Breathe Out",
+        "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "Breathe in, Breathe Out",
+      "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
     },
     {
       "album": {
@@ -385,7 +403,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 255000,
       "name": "Catatumbo Lightnings",
       "url": "https://open.spotify.com/track/4oxgLPTh8G6keUBjmMm6ey"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 529777,
       "name": "Ejefjallaj\u00f6kull",
       "url": "https://open.spotify.com/track/4gE0qgEcL3lxiiCnnenhC4"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/42ud39t8ONOZvb8DJLKvB3"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 362226,
       "name": "Fishbelly 86 Onions",
       "url": "https://open.spotify.com/track/7HiyaZlTkSRWvLrHfBMcqz"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 213786,
       "name": "Flying Bird",
       "url": "https://open.spotify.com/track/4byRGdU9MnTu25FBBGiSGX"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 269799,
       "name": "God of Sun",
       "url": "https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 170186,
       "name": "Golden Dawn",
       "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 365797,
       "name": "Greven",
       "url": "https://open.spotify.com/track/54URuxbHDl2XnK5lSWJNNC"
@@ -869,6 +887,24 @@
       "duration_ms": 408948,
       "name": "Hiisi, Pt. 1",
       "url": "https://open.spotify.com/track/2gXyYqSL0g17iNfUZVQryO"
+    },
+    {
+      "album": {
+        "name": "The Adventure Continues...",
+        "url": "https://open.spotify.com/album/3BSMZ41ccuLGbR0lcmo8uD"
+      },
+      "artists": [
+        {
+          "name": "The Smoking Trees",
+          "url": "https://open.spotify.com/artist/3ezwxaw7oMvs8MbjzhHkRJ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "Honestly, I Wish That I Knew",
+      "url": "https://open.spotify.com/track/0ituf2R01F0FCxNd2txq55"
     },
     {
       "album": {
@@ -1045,7 +1081,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 205160,
       "name": "Indian Zone Drum Killer Inc.",
       "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
@@ -1081,7 +1117,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 252630,
       "name": "Intrasport",
       "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
@@ -1139,7 +1175,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 376755,
       "name": "Jibun",
       "url": "https://open.spotify.com/track/66CjKDUkUCExMT7F8OttqQ"
@@ -1175,10 +1211,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 384895,
       "name": "Jukebox Babe",
       "url": "https://open.spotify.com/track/3KZcO29G6BjqIJbdsRg0Mo"
+    },
+    {
+      "album": {
+        "name": "Ananda Shankar (US Internet Release)",
+        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
+      },
+      "artists": [
+        {
+          "name": "Ananda Shankar",
+          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
     },
     {
       "album": {
@@ -1229,7 +1283,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 310144,
       "name": "Lady Rachel",
       "url": "https://open.spotify.com/track/6Fg29nXfSaMbz3o83ky0vk"
@@ -1247,7 +1301,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 459578,
       "name": "Lateral Alice - Cavern of Anti-Matter Remix",
       "url": "https://open.spotify.com/track/3p3PuntYTsPXM1sejy8M7x"
@@ -1269,7 +1323,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 196054,
       "name": "Level 1",
       "url": "https://open.spotify.com/track/4sIzOxFgdxbYmrjkoBTQdn"
@@ -1323,7 +1377,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 501840,
       "name": "Man It Feels Like Space Again",
       "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
@@ -1359,7 +1413,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 250214,
       "name": "Meme City",
       "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
@@ -1381,7 +1435,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 275392,
       "name": "Mesmo Cora\u00e7\u00e3o - The Holydrug Couple Remix",
       "url": "https://open.spotify.com/track/4rc8SaOkVGwfk5He4brXCL"
@@ -1489,7 +1543,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 155817,
       "name": "Ninja Partisi",
       "url": "https://open.spotify.com/track/1civ8niQt12qzLrgiAeJ8I"
@@ -1595,7 +1649,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 263453,
       "name": "Paraphernalia",
       "url": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
@@ -1631,7 +1685,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 551138,
       "name": "Planet Caravan",
       "url": "https://open.spotify.com/track/0drFLipk0M6e8Oj9mSeiFx"
@@ -1649,7 +1703,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 329693,
       "name": "Plea From The Soul",
       "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
@@ -1829,7 +1883,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 104786,
       "name": "Sally Go Round the Sun",
       "url": "https://open.spotify.com/track/3sU662XXk5o2piJKZGFUdq"
@@ -1901,7 +1955,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 228015,
       "name": "Shalala",
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
@@ -1937,7 +1991,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 195346,
       "name": "Shimmer and Disappear",
       "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
@@ -1955,7 +2009,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 318960,
       "name": "Silbury Sands",
       "url": "https://open.spotify.com/track/6rsQ7ctgzajUqa8PXImfgt"
@@ -2009,7 +2063,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 397813,
       "name": "Space Camel",
       "url": "https://open.spotify.com/track/432hUaMgylN4s4aqwn9KY5"
@@ -2063,7 +2117,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 318306,
       "name": "Station Europa",
       "url": "https://open.spotify.com/track/59jMq3TSZF3dhlCbbpNOtL"
@@ -2284,6 +2338,28 @@
     },
     {
       "album": {
+        "name": "Turn Around",
+        "url": "https://open.spotify.com/album/5jRLKnu0hpjCUaCpyX7Se7"
+      },
+      "artists": [
+        {
+          "name": "Dungen",
+          "url": "https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d"
+        },
+        {
+          "name": "Woods",
+          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243863,
+      "name": "Turn Around",
+      "url": "https://open.spotify.com/track/5xUDXchsF1T8g5P3kNszHB"
+    },
+    {
+      "album": {
         "name": "Gate of Kl\u00fcna",
         "url": "https://open.spotify.com/album/17R2rM9GcvS7DXU9hdRGTI"
       },
@@ -2339,7 +2415,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 148306,
       "name": "Veni Vidi Vici",
       "url": "https://open.spotify.com/track/5Z5YEyR5i8V8Ui2e5jGAAm"
@@ -2357,7 +2433,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 174803,
       "name": "Venus",
       "url": "https://open.spotify.com/track/7kUMtpiRKDWVUOBfRX0eLd"
@@ -2411,7 +2487,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 440014,
       "name": "Waves",
       "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
@@ -2465,7 +2541,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 154055,
       "name": "Yellowblack",
       "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
@@ -2501,7 +2577,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 304901,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
@@ -2537,7 +2613,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 138623,
       "name": "\u00c7ar\u015fambay\u0131 Sel Ald\u0131",
       "url": "https://open.spotify.com/track/4Rvx92J5G9D840uqgZiLvD"

@@ -950,6 +950,24 @@
     },
     {
       "album": {
+        "name": "Dholna",
+        "url": "https://open.spotify.com/album/7KpSRckcDKWoIdwJiEyolS"
+      },
+      "artists": [
+        {
+          "name": "Aatish",
+          "url": "https://open.spotify.com/artist/6w2tW2P6MoEdHEFAGUqrMa"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177300,
+      "name": "Dholna",
+      "url": "https://open.spotify.com/track/2XjagbYk7A08ioxlnlrNOt"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/2pIDaUHfZ1BcK3Es4ptDBb"
       },
@@ -5439,6 +5457,28 @@
       "duration_ms": 134053,
       "name": "Sohna (From \"Main Te Bapu\")",
       "url": "https://open.spotify.com/track/1hsHE3SjSVrlzAnSK7lKQH"
+    },
+    {
+      "album": {
+        "name": "Sohna Koi Nahi",
+        "url": "https://open.spotify.com/album/49XzOQibHTAs3VQovDW8er"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        },
+        {
+          "name": "Neeru Bajwa",
+          "url": "https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201543,
+      "name": "Sohna Koi Nahi",
+      "url": "https://open.spotify.com/track/4xN6lESQakIc62Jkw4ejNw"
     },
     {
       "album": {

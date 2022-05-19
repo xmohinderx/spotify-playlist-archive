@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Ray Laur\u00e9l",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Hyphen",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 149497,
       "name": "alright?",
       "url": "https://open.spotify.com/track/54wIOQkXFjt4b8ISi22R1S"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 155876,
       "name": "amethyst",
       "url": "https://open.spotify.com/track/4krGuYcWC40BPg24FhmqTd"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 264266,
       "name": "Bossfight",
       "url": "https://open.spotify.com/track/6jQqrQmqPKcMyZA5pbgn7x"
@@ -974,6 +974,24 @@
     },
     {
       "album": {
+        "name": "Confidence.",
+        "url": "https://open.spotify.com/album/4l43QuR8UEWA667CQqzMX1"
+      },
+      "artists": [
+        {
+          "name": "Hyphen",
+          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Confidence.",
+      "url": "https://open.spotify.com/track/2i6VaacrVkJR4hU0oSbXHc"
+    },
+    {
+      "album": {
         "name": "Count Blessings",
         "url": "https://open.spotify.com/album/5dxrKgw1AAjVT03hnmONLw"
       },
@@ -1061,6 +1079,24 @@
       "duration_ms": 135375,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/3w2C7ISKBH9yhjHK4VjyFb"
+    },
+    {
+      "album": {
+        "name": "Day Drinking",
+        "url": "https://open.spotify.com/album/42PIBbUCSfugL50Kyx3wZ5"
+      },
+      "artists": [
+        {
+          "name": "Rolo Vango",
+          "url": "https://open.spotify.com/artist/0JpFl6ZzH9oZCh9RYKccx5"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185631,
+      "name": "Day Drinking",
+      "url": "https://open.spotify.com/track/0hFKJL27FvnYAsrW8suBh4"
     },
     {
       "album": {
@@ -1371,7 +1407,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 208106,
       "name": "Drive",
       "url": "https://open.spotify.com/track/54ARgdtJz0bkmTxGsJnR5t"
@@ -1432,6 +1468,24 @@
     },
     {
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/5whT3fn8n6kIS7GNCeoyei"
+      },
+      "artists": [
+        {
+          "name": "Abbacaxi",
+          "url": "https://open.spotify.com/artist/2j4RXegTrvI3hzAdlhoIEb"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190769,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/287zVPLJpJ5rnSU0XuT0xO"
+    },
+    {
+      "album": {
         "name": "Polarity",
         "url": "https://open.spotify.com/album/0tpe4LCmob9pd8VsZLxxY4"
       },
@@ -1461,7 +1515,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 84000,
       "name": "eternal",
       "url": "https://open.spotify.com/track/3ZZ8gLCf740Hns3ZeQ4dNV"
@@ -1836,6 +1890,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0KIPlOh1X7u5aUhPvuLooS"
+      },
+      "artists": [
+        {
+          "name": "Clarcq",
+          "url": "https://open.spotify.com/artist/1rNXEojTDioDqwEHps11f4"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/52tWAp11AoOYNkIy5D4WRX"
+    },
+    {
+      "album": {
         "name": "Ghost Mode",
         "url": "https://open.spotify.com/album/1q3QZ0LQsoFion1XOa1jCA"
       },
@@ -2086,6 +2158,42 @@
     },
     {
       "album": {
+        "name": "Gravy Train",
+        "url": "https://open.spotify.com/album/4RRZckTP69JcDfCyVc1fCp"
+      },
+      "artists": [
+        {
+          "name": "Jack Flanagan",
+          "url": "https://open.spotify.com/artist/69X5J3BbZT8hbrf2LDRNV2"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193672,
+      "name": "Gravy Train",
+      "url": "https://open.spotify.com/track/5x1I9QhoXG7hT5UNhSj4vm"
+    },
+    {
+      "album": {
+        "name": "Green Machine",
+        "url": "https://open.spotify.com/album/2daQ6sj1h4y9JR2IgKbxkR"
+      },
+      "artists": [
+        {
+          "name": "Villa in France",
+          "url": "https://open.spotify.com/artist/5magxohTewVK0VNfKy5qRu"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179862,
+      "name": "Green Machine",
+      "url": "https://open.spotify.com/track/0SgJkYp6wMeWyZOicyLiGM"
+    },
+    {
+      "album": {
         "name": "Grey Dublin",
         "url": "https://open.spotify.com/album/4OL6wr8MFyZRYxcg1Jm6fi"
       },
@@ -2119,6 +2227,24 @@
       "duration_ms": 197006,
       "name": "Gut",
       "url": "https://open.spotify.com/track/4HE2DnhCTdzmS2YlaT09h0"
+    },
+    {
+      "album": {
+        "name": "Half a Day",
+        "url": "https://open.spotify.com/album/3bAY59p2TnhVWrVSc32oZv"
+      },
+      "artists": [
+        {
+          "name": "Mehalah Ray",
+          "url": "https://open.spotify.com/artist/2FyrB3pGnBmM38dqsu4qXK"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200435,
+      "name": "Half a Day",
+      "url": "https://open.spotify.com/track/5hRqaowIbhNlTGtmwLFAAP"
     },
     {
       "album": {
@@ -2295,7 +2421,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 187475,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/5lyA4FFfyi3c9bUhfFlLWe"
@@ -2663,7 +2789,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 139524,
       "name": "It's All In My Head - Single Version",
       "url": "https://open.spotify.com/track/54ax9QFwYRQZCMOHCbMvsG"
@@ -2851,7 +2977,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 240000,
       "name": "Little Steps",
       "url": "https://open.spotify.com/track/2xtLOvj2Vd8OIJqAE5pSwU"
@@ -2971,7 +3097,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 246300,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/59CN7mcm07irUS6YSEUobE"
@@ -3726,6 +3852,24 @@
     },
     {
       "album": {
+        "name": "No Label",
+        "url": "https://open.spotify.com/album/2km4IQdS2TpkOzN3AK2GeV"
+      },
+      "artists": [
+        {
+          "name": "Rachel White",
+          "url": "https://open.spotify.com/artist/3O9y3rdDNmNMClt8uczuey"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "No Label",
+      "url": "https://open.spotify.com/track/4tdOmQv5d6OxgiqO4oQQtO"
+    },
+    {
+      "album": {
         "name": "No Matter What the People Say",
         "url": "https://open.spotify.com/album/4zvurVUzHFPeSihR093WY3"
       },
@@ -4077,7 +4221,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 200669,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/0uOVT2ZmZmqc9PfTwSczpX"
@@ -4553,6 +4697,24 @@
       "duration_ms": 169070,
       "name": "Run the Lights",
       "url": "https://open.spotify.com/track/3MOYF2MjXf2sk9l4AINpsE"
+    },
+    {
+      "album": {
+        "name": "RUNNING",
+        "url": "https://open.spotify.com/album/44hXnTNYOvG4OcquuhHvG4"
+      },
+      "artists": [
+        {
+          "name": "Sam Tucker",
+          "url": "https://open.spotify.com/artist/7hiDOporF8O9GkIPpVafUX"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221621,
+      "name": "RUNNING",
+      "url": "https://open.spotify.com/track/5wYjykMpLGS6Ga96oLgaqZ"
     },
     {
       "album": {
@@ -5196,6 +5358,24 @@
     },
     {
       "album": {
+        "name": "Tattooed on Me",
+        "url": "https://open.spotify.com/album/2Rq8y9rKffmGAdbvrmFYh2"
+      },
+      "artists": [
+        {
+          "name": "Lex Gibbon",
+          "url": "https://open.spotify.com/artist/5tdGaWXWxaOvytSxjsaE9o"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Tattooed on Me",
+      "url": "https://open.spotify.com/track/7aI3Vr32ZLpqoGNAneHrsK"
+    },
+    {
+      "album": {
         "name": "That's Why, Save Me",
         "url": "https://open.spotify.com/album/2HZWUVNoLzIHJRGj1Hm4PD"
       },
@@ -5229,6 +5409,24 @@
       "duration_ms": 218595,
       "name": "The Basics Are Coming Back",
       "url": "https://open.spotify.com/track/0LVjkXEJaDB4xRfsz6CUgB"
+    },
+    {
+      "album": {
+        "name": "The Enemy",
+        "url": "https://open.spotify.com/album/11ZyrIRcdhp4j1IjaozNDR"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188336,
+      "name": "The Enemy",
+      "url": "https://open.spotify.com/track/051Rl8dDuMUY4JNtkBdX7n"
     },
     {
       "album": {
@@ -5413,7 +5611,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 224000,
       "name": "U GET HIGH / I GET NOTHING",
       "url": "https://open.spotify.com/track/6nNQXXB2VWGDp6zl5MwK6F"
@@ -5673,7 +5871,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 220526,
       "name": "When the Lights Go Down",
       "url": "https://open.spotify.com/track/0lrF4Jr6njXe3LjaA7coUh"
@@ -5695,6 +5893,24 @@
       "duration_ms": 352692,
       "name": "When U Call",
       "url": "https://open.spotify.com/track/0qWkinRmjxDo3rrECKsIQr"
+    },
+    {
+      "album": {
+        "name": "Where Did I Go",
+        "url": "https://open.spotify.com/album/0xNbpAPnM17nLaifE3kzoS"
+      },
+      "artists": [
+        {
+          "name": "Stella Talpo",
+          "url": "https://open.spotify.com/artist/50CephN65HHaMX5mhL8DYr"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Where Did I Go",
+      "url": "https://open.spotify.com/track/5Z4rLm4yOXRyQet4fCPSF0"
     },
     {
       "album": {

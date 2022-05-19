@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione di rapper italiani\. Cover: Medy
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,108 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,132 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 32 | [Senza Invito](https://open.spotify.com/track/69He6CqCLPkym4XLGd2vOJ) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Wairaki](https://open.spotify.com/artist/7IB3VckCEheDZlvQxCDLvr) | [Senza Invito](https://open.spotify.com/album/1hmflQiiBLzPu016EDz5vN) | 3:13 |
 | 33 | [MAMMA](https://open.spotify.com/track/1RmZG2YcuNvxIjDXUvBKme) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [COSA NOSTRA](https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH) | 2:30 |
 | 34 | [Sig Sauer](https://open.spotify.com/track/5osZJMzHRegoA9y5rUOua4) | [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [Sig Sauer](https://open.spotify.com/album/5Xb2J3wUNG6B7KZD1397bi) | 2:09 |
-| 35 | [PROFONDO SUD](https://open.spotify.com/track/7giBLH6P2PcTWVhQ8TrHlt) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq), [Lil Parta](https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP) | [PROFONDO SUD](https://open.spotify.com/album/21Nct8or2VYp1dOfdCRlRF) | 3:18 |
+| 35 | [PROFONDO SUD](https://open.spotify.com/track/7giBLH6P2PcTWVhQ8TrHlt) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Lil Parta](https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [PROFONDO SUD](https://open.spotify.com/album/21Nct8or2VYp1dOfdCRlRF) | 3:18 |
 | 36 | [R&R](https://open.spotify.com/track/5s6YjPaL77P28PQqG7wVLO) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [YaluDream](https://open.spotify.com/artist/2p06NWAbxsP7iFmrq9Ny4J) | [R&R](https://open.spotify.com/album/17SGMxNqxsNMk0ZrFI24jQ) | 2:08 |
 | 37 | [GOODFELLAS](https://open.spotify.com/track/6NgmTL3J16M4Pd6dYzXFlh) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf), [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [PAIN PARTY](https://open.spotify.com/album/72k7j2fiUIHpB8qCWbm75J) | 3:16 |
 | 38 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 |

@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 190026,
       "name": "Damaged Heart",
       "url": "https://open.spotify.com/track/3Bj3ZuVPpPDwUxkwpL78L4"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 232472,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/1GjayjS8KEuljD5GhTuDDq"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 235791,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/4GGy6xG1PIp1RXUNC2Tea3"
@@ -447,6 +447,24 @@
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L"
+    },
+    {
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187319,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj"
     },
     {
       "album": {
@@ -519,7 +537,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 143606,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/2h6c3yoLPhiQKcuSW7pQDX"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 311597,
       "name": "How Do We Heal",
       "url": "https://open.spotify.com/track/2EP80jwbqkWrLPLw9VMdgU"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 180061,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 267054,
       "name": "I Will",
       "url": "https://open.spotify.com/track/4ugagKi9JkkuuDP9X95phk"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 221435,
       "name": "If My Love Was Enough",
       "url": "https://open.spotify.com/track/5aXJA4672geISfKvJYMvP2"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 276600,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/5dnvWWkwwFJoDDc0QoSbvf"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 223060,
       "name": "Joy & Pain",
       "url": "https://open.spotify.com/track/1iHj6nbjMHFpH73fl4AyWB"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 243832,
       "name": "Little Birdie",
       "url": "https://open.spotify.com/track/7nsbVEf7v7RvrhktbIX42o"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 159120,
       "name": "Little by Little",
       "url": "https://open.spotify.com/track/2b5RJXQYweJKXgcfQaokKX"
@@ -902,6 +920,28 @@
     },
     {
       "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219332,
+      "name": "Make It Better (feat. Smokey Robinson)",
+      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+    },
+    {
+      "album": {
         "name": "Minotaur",
         "url": "https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz"
       },
@@ -938,6 +978,24 @@
     },
     {
       "album": {
+        "name": "Never Forget My Love",
+        "url": "https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221173,
+      "name": "Never Forget My Love",
+      "url": "https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU"
+    },
+    {
+      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
@@ -967,7 +1025,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 196546,
       "name": "Ordinary Lives",
       "url": "https://open.spotify.com/track/4MU7yhKkOpVVDCWfxTGfxk"
@@ -1021,7 +1079,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 201933,
       "name": "Real Contender",
       "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
@@ -1253,7 +1311,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 201963,
       "name": "Stack The Deck",
       "url": "https://open.spotify.com/track/7KlAw9Himd2Er1gflw2DML"
@@ -1307,7 +1365,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 205008,
       "name": "Sunny And Warm",
       "url": "https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l"
@@ -1325,7 +1383,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 174520,
       "name": "Sure Don't Miss You",
       "url": "https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT"
@@ -1343,7 +1401,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 264747,
       "name": "Take Me to the Good Times",
       "url": "https://open.spotify.com/track/4VwAIIQDPR3T7EPnzk7Fv1"
@@ -1503,7 +1561,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 290626,
       "name": "Warpaint",
       "url": "https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L"

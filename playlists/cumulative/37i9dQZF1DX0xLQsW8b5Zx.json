@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Rock In Threes!",
+        "url": "https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD"
+      },
+      "artists": [
+        {
+          "name": "Black Raven",
+          "url": "https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160466,
+      "name": "Another Sunday Morning",
+      "url": "https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0"
+    },
+    {
+      "album": {
         "name": "Rock 'n' Roll",
         "url": "https://open.spotify.com/album/1xf6bK6YKmBPP6F4tn0UYm"
       },
@@ -199,10 +217,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 205946,
       "name": "Barfly",
       "url": "https://open.spotify.com/track/5Dp4Yl7iKlsjN6Ee9T0BVI"
+    },
+    {
+      "album": {
+        "name": "Big Boys",
+        "url": "https://open.spotify.com/album/3uQldXx6zh6T0DV6ztOW0J"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185845,
+      "name": "Big Boys",
+      "url": "https://open.spotify.com/track/44ljyjfLTjjS3XuzoFh3Z5"
     },
     {
       "album": {
@@ -271,7 +307,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 142560,
       "name": "Bluejean Bop",
       "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
@@ -325,7 +361,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 192466,
       "name": "Chalk It Up to the Blues",
       "url": "https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v"
@@ -437,7 +473,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 132400,
       "name": "Drinking Wine Spo-Dee-O-Dee - Single Version",
       "url": "https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm"
@@ -491,7 +527,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 162493,
       "name": "Everybody's Movin'",
       "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
@@ -527,7 +563,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 149053,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra"
@@ -653,7 +689,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 138840,
       "name": "Hello Mary Lou",
       "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
@@ -707,7 +743,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 129493,
       "name": "Hip Shakin' Baby",
       "url": "https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx"
@@ -833,7 +869,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 166226,
       "name": "Jungle Rock",
       "url": "https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy"
@@ -959,7 +995,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 127847,
       "name": "Matchbox",
       "url": "https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs"
@@ -977,7 +1013,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 217792,
       "name": "Meet Me After Midnight",
       "url": "https://open.spotify.com/track/5v4QQoNX0XbEkOblrMYc88"
@@ -999,6 +1035,24 @@
       "duration_ms": 186413,
       "name": "Midnight Dynamos",
       "url": "https://open.spotify.com/track/0AX3dBr7hRTDjy1O2s4N6u"
+    },
+    {
+      "album": {
+        "name": "Like Mann",
+        "url": "https://open.spotify.com/album/74VeRuvhc3cNf2JMj646Tp"
+      },
+      "artists": [
+        {
+          "name": "Carl Mann",
+          "url": "https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146728,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/3iUS5pEe8CinR7KiQn8LNm"
     },
     {
       "album": {
@@ -1053,7 +1107,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 151493,
       "name": "North Side Gal",
       "url": "https://open.spotify.com/track/7bZkuSIYH7j85RBu6Y4gTe"
@@ -1219,7 +1273,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 231586,
       "name": "Rich Little Bitch",
       "url": "https://open.spotify.com/track/12680M4NXeEB27oywHfCxg"
@@ -1255,7 +1309,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 131826,
       "name": "Rock Around With Ollie Vee - Single Version",
       "url": "https://open.spotify.com/track/1hcs4ZGMVsnKgBRawd1cCA"
@@ -1309,7 +1363,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 193053,
       "name": "Rockabilly Banjo",
       "url": "https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk"
@@ -1381,7 +1435,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "Rocket to the Moon",
       "url": "https://open.spotify.com/track/7E1XmqVGR1GfAPa6LYEYM0"
@@ -1493,7 +1547,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 165586,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0Y1BHJjQjDhTnKCAsUEmGJ"

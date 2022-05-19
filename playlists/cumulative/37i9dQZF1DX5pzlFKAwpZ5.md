@@ -4,10 +4,11 @@
 
 > Contemporary Ambient music made by Japanese artists\. Masayoshi Fujita on cover.
 
-99 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
+100 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [193193 Sleep](https://open.spotify.com/track/6XCzzYdNBLpHMHelYHVJoK) | [Chino Yoshio](https://open.spotify.com/artist/6oY3qWxcj7thT8q0zogH8m) | [193193](https://open.spotify.com/album/1fF1ghrobgXFDvlzqyRPRm) | 3:14 | 2022-05-18 |  |
 | [514](https://open.spotify.com/track/2vECXvQoLABMxEPMogaERm) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Sleep Box vol.51](https://open.spotify.com/album/24sSd5811YMvEOXmfjYs9s) | 3:02 | 2022-01-07 |  |
 | [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 | 2022-01-07 |  |
 | [A Light Snow](https://open.spotify.com/track/2eEvzoLyLK6OVlegteDtiJ) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXII](https://open.spotify.com/album/7kglN4QQK5KVbotPVHpkYQ) | 5:16 | 2022-01-07 |  |

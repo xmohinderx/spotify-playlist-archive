@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,059 likes - 105 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,061 likes - 105 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 95 | [viertelnachvier](https://open.spotify.com/track/2bINhuZxHH0xzWe2Tog2Tc) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [prodbypengg](https://open.spotify.com/artist/5BMnIDhlF7NbpuiNgkyD9b) | [viertelnachvier](https://open.spotify.com/album/6xIB9PTkRHH4DjIVszXn8O) | 2:54 |
 | 96 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 |
 | 97 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
-| 98 | [Matrix](https://open.spotify.com/track/7G4fOvwtIkEtj4BQY0Z2vK) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Jesus Was an Alien](https://open.spotify.com/album/6yW2qRVWPq2BaMaQK4nWyq) | 6:08 |
+| 98 | [Matrix](https://open.spotify.com/track/7G4fOvwtIkEtj4BQY0Z2vK) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Jesus Was An Alien](https://open.spotify.com/album/6yW2qRVWPq2BaMaQK4nWyq) | 6:08 |
 | 99 | [Yo Yo](https://open.spotify.com/track/1iLizzooWyhDEF3OgiVEoS) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Yo Yo](https://open.spotify.com/album/5tvFiSuT4HkniYgffE1Gir) | 3:32 |
 | 100 | [Alles außer Kontrolle](https://open.spotify.com/track/0PaWXV3CIhChB75657wEZg) | [Ferris MC](https://open.spotify.com/artist/7Jfwqfcttij8KlrvaIZRBk) | [Alles außer Kontrolle](https://open.spotify.com/album/5nIfaI33IqyQl3CIeKwdTZ) | 2:59 |
 | 101 | [In Chicago](https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [In Chicago](https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1) | 3:06 |

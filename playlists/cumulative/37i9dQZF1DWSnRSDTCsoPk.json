@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 203148,
       "name": "10 Out of 10",
       "url": "https://open.spotify.com/track/2oJumvALZrts4rOI3c5nGL"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 233893,
       "name": "Back",
       "url": "https://open.spotify.com/track/0uAsZrUZNHLg0JrnrSWuej"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 187506,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7bayUG8A1EwRJRm6955F96"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 224792,
       "name": "CROOKED",
       "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 271333,
       "name": "I Got A Boy",
       "url": "https://open.spotify.com/track/1w3NKvQH0sizDnL2G0keq4"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 212266,
       "name": "Outsider",
       "url": "https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL"
@@ -2561,7 +2561,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 226970,
       "name": "RHYTHM TA",
       "url": "https://open.spotify.com/track/5T7NN5LxcfMEudEbya2wcE"
@@ -3045,7 +3045,7 @@
       ],
       "date_added": "2021-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 220346,
       "name": "This Love",
       "url": "https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs"
@@ -3572,6 +3572,24 @@
     },
     {
       "album": {
+        "name": "U-Kiss Only One Album",
+        "url": "https://open.spotify.com/album/7lsKoouqNG0L1VUWEeoGVY"
+      },
+      "artists": [
+        {
+          "name": "U-KISS",
+          "url": "https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196022,
+      "name": "\ube59\uae00\ube59\uae00",
+      "url": "https://open.spotify.com/track/3OYenS9QMGVQJWv9lc0eCj"
+    },
+    {
+      "album": {
         "name": "\uc218\ub9ac\uc218\ub9ac Spellbound - The 7th Album Repackage",
         "url": "https://open.spotify.com/album/2vYBL8e2ils5F0pTLumTjV"
       },
@@ -3655,7 +3673,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 193578,
       "name": "\ud558\ub4dc\uce90\ub9ac Hard Carry",
       "url": "https://open.spotify.com/track/1xzCUpXSMnAbckUXDwBTlW"

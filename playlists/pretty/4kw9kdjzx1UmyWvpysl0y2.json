@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128368,
+  "num_followers": 128369,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzQxMSxjNjlkZGM3MWU5Yzc5ZTcxMzM4ZTM3MTJiNzM4ZTM2Zjk3NTlmYjFi",
+  "snapshot_id": "MzQxMixiOGVkNDZlMDkzNjc0YTI4ZDUxNGNkMzAwNjdhMmEyNDk2YmE2NmMx",
   "tracks": [
+    {
+      "added_at": "2022-05-18 16:40:32",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/2u43o2x6oU5twBqN0DiNqI"
+      },
+      "artists": [
+        {
+          "name": "Bound to Divide",
+          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "When The Sun Goes Down",
+      "url": "https://open.spotify.com/track/6FH2pCTCx5HkevdqH1P20D"
+    },
     {
       "added_at": "2022-05-17 16:21:53",
       "album": {

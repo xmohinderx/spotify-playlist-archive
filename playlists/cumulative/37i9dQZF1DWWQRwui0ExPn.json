@@ -11977,7 +11977,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 152445,
       "name": "desert days",
       "url": "https://open.spotify.com/track/59PI1yLKqsJKTrTbW2st4H"
@@ -17243,7 +17243,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 156961,
       "name": "free britney",
       "url": "https://open.spotify.com/track/2F0Ei0OjRquvvlWCLCGq02"
@@ -39027,7 +39027,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 165365,
       "name": "Sailing Again",
       "url": "https://open.spotify.com/track/1MKt41aRnc3WPsgBsDnsJw"
@@ -39063,7 +39063,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 122333,
       "name": "SAKURA",
       "url": "https://open.spotify.com/track/2CyocAM5pT88oWHLUGSLyy"
@@ -42209,6 +42209,10 @@
         {
           "name": "Guzimi",
           "url": "https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA"
+        },
+        {
+          "name": "Heinrich Schlupf",
+          "url": "https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y"
         }
       ],
       "date_added": "2022-04-15",

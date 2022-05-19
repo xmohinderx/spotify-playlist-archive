@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 219554,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6IP8DMuxscj75wxTErFXoh"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 211837,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 184393,
       "name": "Brother",
       "url": "https://open.spotify.com/track/4JYrpizOk0BX6BSKb0GU10"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 231148,
       "name": "Chasing A Feeling",
       "url": "https://open.spotify.com/track/6NbaSIWPpZ1b914pRY1R0W"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 206193,
       "name": "Darling",
       "url": "https://open.spotify.com/track/1GHNApC7kgkG6mEDI0f2Y5"
@@ -521,6 +521,24 @@
       "duration_ms": 255493,
       "name": "Follow the Sun",
       "url": "https://open.spotify.com/track/3KS09EvUKTtPgTHbBBsLCw"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/2kaJUzdxuVr6AQnOjqiw5W"
+      },
+      "artists": [
+        {
+          "name": "David Benjamin",
+          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212124,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/4XlSTowke4Ul0J9xPGvzuY"
     },
     {
       "album": {
@@ -969,7 +987,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 196253,
       "name": "Little Did I Know",
       "url": "https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4"
@@ -1286,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "All Love Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2PKQcwEl6dvMbu4mfz8yUF"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/20LfGhxnRtlpfaYKv0hhs2"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/3BI7cK0Z5Upgodb9UyS4RJ"
       },
@@ -1297,7 +1333,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 198585,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/792raQlbqlsC71L0djqZwU"
@@ -1391,7 +1427,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 210377,
       "name": "Rocky Trail",
       "url": "https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3"
@@ -1539,7 +1575,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 177152,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
@@ -1767,7 +1803,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 262960,
       "name": "we'll be fine",
       "url": "https://open.spotify.com/track/4TRL1Y8sOR54I3AvRzUZHk"
@@ -1785,7 +1821,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 187601,
       "name": "What They'll Say About Us",
       "url": "https://open.spotify.com/track/27Y1N4Q4U3EfDU5Ubw8ws2"
@@ -1839,7 +1875,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 175217,
       "name": "Where the World Ends",
       "url": "https://open.spotify.com/track/4Lc1jVaBN8JoZOQz4lDOlK"

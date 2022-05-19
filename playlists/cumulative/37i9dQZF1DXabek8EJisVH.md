@@ -4,7 +4,7 @@
 
 > Soothing ambient and Hang to gently focus the mind.
 
-74 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/45gpvPkFcJ345RLFnunX6G)
+75 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/45gpvPkFcJ345RLFnunX6G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Long story short](https://open.spotify.com/track/1oetccXp1I11kKWplYV8tl) | [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Made In Silence 2](https://open.spotify.com/album/6eX7cvtjM6YPh8dSeLz0pP) | 2:06 | 2022-03-03 |  |
 | [Magnificent](https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ) | [The Bay Man](https://open.spotify.com/artist/4XUwkDFoOHIN6YnWBxE5Om) | [Magnificent](https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS) | 2:53 | 2022-03-03 |  |
 | [Meditativ Drum](https://open.spotify.com/track/64lhl2mI7xabkuA2ND0wxF) | [Rand Obaso](https://open.spotify.com/artist/4llVuklNBhZLZsMwifLrIb) | [Meditativ Drum](https://open.spotify.com/album/6Cip4eo1i9MWf1zKb2QIg9) | 3:04 | 2022-03-25 |  |
+| [Mokkō](https://open.spotify.com/track/0bE1itBu6nBO7oy3X8L8Kr) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Yoru](https://open.spotify.com/album/19KxJBqNupp2VPFOg3ZgaH) | 3:10 | 2022-05-18 |  |
 | [Morning Glory](https://open.spotify.com/track/5WBokctXfaziw6WzQvlb8i) | [Lana Asana](https://open.spotify.com/artist/5elsAk2VytQPxxvXU17qhs) | [Lana Asana](https://open.spotify.com/album/4ALbFvHWOVj3NHLGLBVgGQ) | 1:56 | 2022-03-03 |  |
 | [Mystique](https://open.spotify.com/track/79GIRejvbVrpQTc8287iYz) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:04 | 2022-03-03 |  |
 | [News From New Zealand](https://open.spotify.com/track/4p7AfmyhefTJPsddROdcaj) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:13 | 2022-03-03 |  |

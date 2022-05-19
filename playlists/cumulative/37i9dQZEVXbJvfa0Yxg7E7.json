@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2166,7 +2166,7 @@
     },
     {
       "album": {
-        "name": "Creem 2022",
+        "name": "Creem",
         "url": "https://open.spotify.com/album/1kUJ01Nycm2oNLal6zayRj"
       },
       "artists": [
@@ -2179,7 +2179,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212160,
-      "name": "Creem 2022",
+      "name": "Creem",
       "url": "https://open.spotify.com/track/2Ah0Z0ZFAhmfyJAakATMCR"
     },
     {
@@ -2195,7 +2195,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 159522,
       "name": "Creme De La Creme",
       "url": "https://open.spotify.com/track/1beuDJXaekLPtvX1jQe0yx"
@@ -2507,7 +2507,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 185373,
       "name": "Den fineste Chevy'n (feat. Maria Mena)",
       "url": "https://open.spotify.com/track/2Y7npn076wSZJgH8HVr2B2"
@@ -2529,7 +2529,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Den Samme J\u00e6vla Sangen",
       "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
@@ -2595,7 +2595,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
@@ -2613,7 +2613,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 175466,
       "name": "Die Together",
       "url": "https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM"
@@ -2635,6 +2635,28 @@
       "duration_ms": 160880,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm"
+    },
+    {
+      "album": {
+        "name": "Disco Demolition 2018 (Stabekk Anthem)",
+        "url": "https://open.spotify.com/album/4HA4UiMIjBn6n6xsbGrmvK"
+      },
+      "artists": [
+        {
+          "name": "J-Dawg",
+          "url": "https://open.spotify.com/artist/18KsILOMx3thJRzBYBnKHW"
+        },
+        {
+          "name": "Lille Saus",
+          "url": "https://open.spotify.com/artist/15saPvefLxxtw3nvTOCUg0"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198448,
+      "name": "Disco Demolition 2018 (Stabekk Anthem)",
+      "url": "https://open.spotify.com/track/04rjxIPsEtpM8Yj9UPy6Tt"
     },
     {
       "album": {
@@ -3623,7 +3645,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 222497,
       "name": "Father Time (feat. Sampha)",
       "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
@@ -3803,7 +3825,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 157373,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
@@ -4021,9 +4043,9 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-20",
+      "date_removed": null,
       "duration_ms": 122800,
-      "name": "Gammel Jegermarsj (Old Hunters March)",
+      "name": "Gammel Jegermarsj",
       "url": "https://open.spotify.com/track/7vXIiUiKTw8j6Kct59ZARV"
     },
     {
@@ -6203,7 +6225,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-20",
+      "date_removed": null,
       "duration_ms": 191268,
       "name": "Ja, Vi Elsker Dette Landet",
       "url": "https://open.spotify.com/track/0GEeVI8Wa1KXGTStgBUerG"
@@ -6245,7 +6267,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-20",
+      "date_removed": null,
       "duration_ms": 519200,
       "name": "Ja, vi elsker dette landet - alle 8 vers",
       "url": "https://open.spotify.com/track/4y9ul73wG14TMt3lCeosQE"
@@ -6459,6 +6481,24 @@
       "duration_ms": 195170,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q"
+    },
+    {
+      "album": {
+        "name": "Jovial",
+        "url": "https://open.spotify.com/album/2jKylsRdIyqPDwJBvrFkSB"
+      },
+      "artists": [
+        {
+          "name": "Freddy Kalas",
+          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175093,
+      "name": "Jovial",
+      "url": "https://open.spotify.com/track/5paNYIC0vrVj1EWGVzfJzb"
     },
     {
       "album": {
@@ -7973,7 +8013,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -8651,7 +8691,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-20",
+      "date_removed": null,
       "duration_ms": 148653,
       "name": "Norge I R\u00f8dt Hvitt Og Bl\u00e5tt",
       "url": "https://open.spotify.com/track/7w75F85oAXsdaTrCoREONt"
@@ -8669,7 +8709,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-20",
+      "date_removed": null,
       "duration_ms": 201720,
       "name": "Norge i r\u00f8dt, hvitt og bl\u00e5tt - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/4S1De6Tx74tNuxyRODRLXY"
@@ -10642,6 +10682,24 @@
     },
     {
       "album": {
+        "name": "SK\u00c5L",
+        "url": "https://open.spotify.com/album/5l6rviSjbfWaR8sKoSHoqe"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130400,
+      "name": "SK\u00c5L",
+      "url": "https://open.spotify.com/track/7qhNaWtYZoJz1bH0aOqssy"
+    },
+    {
+      "album": {
         "name": "SloMo",
         "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
       },
@@ -10671,7 +10729,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 197100,
       "name": "Sl\u00e5 hjerte, sl\u00e5",
       "url": "https://open.spotify.com/track/6qMf3eqbmToDXj7LixyK1w"
@@ -11365,7 +11423,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
@@ -11489,7 +11547,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 176401,
       "name": "Sympati",
       "url": "https://open.spotify.com/track/2XAup2iHm6t3UK4Hsjkkwy"
@@ -11863,7 +11921,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 164781,
       "name": "Thousand Miles",
       "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
@@ -12207,7 +12265,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 255377,
       "name": "United In Grief",
       "url": "https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx"

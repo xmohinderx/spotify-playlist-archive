@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "193193",
+        "url": "https://open.spotify.com/album/1fF1ghrobgXFDvlzqyRPRm"
+      },
+      "artists": [
+        {
+          "name": "Chino Yoshio",
+          "url": "https://open.spotify.com/artist/6oY3qWxcj7thT8q0zogH8m"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194311,
+      "name": "193193 Sleep",
+      "url": "https://open.spotify.com/track/6XCzzYdNBLpHMHelYHVJoK"
+    },
+    {
+      "album": {
         "name": "Sleep Box vol.51",
         "url": "https://open.spotify.com/album/24sSd5811YMvEOXmfjYs9s"
       },

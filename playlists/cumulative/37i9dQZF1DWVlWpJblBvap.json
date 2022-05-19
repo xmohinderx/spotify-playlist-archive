@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 242139,
       "name": "Alive & Breathing (feat. Elle Limebear)",
       "url": "https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 324280,
       "name": "Already Done",
       "url": "https://open.spotify.com/track/2bcjiEmggC5r06kuLuwGIm"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 491690,
       "name": "Build My Life",
       "url": "https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 242401,
       "name": "Famous For (I Believe)",
       "url": "https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 318874,
       "name": "Fountain (I Am Good) - Live",
       "url": "https://open.spotify.com/track/0rrDGNRps64Pgz1Gw6AYBi"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 226173,
       "name": "Future",
       "url": "https://open.spotify.com/track/1z01NnUSANXoI9xABwxn1k"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 289742,
       "name": "Great Things",
       "url": "https://open.spotify.com/track/5BsG3NwkHDcCHtvvBnUmVb"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 333053,
       "name": "I Am Not Alone - Live",
       "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 433346,
       "name": "I Belong - Live",
       "url": "https://open.spotify.com/track/27fs8NYZ76CkPeQWNhBjyn"
@@ -1002,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279160,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
+    },
+    {
+      "album": {
         "name": "Passion: Let The Future Begin",
         "url": "https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ"
       },
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 357404,
       "name": "Just The Cross",
       "url": "https://open.spotify.com/track/5PZ4RVcDgIwvBqZ5BfiXjm"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 477513,
       "name": "Lift You High - Live",
       "url": "https://open.spotify.com/track/6p9UGx9mzny6E7aXbU3Bvw"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 402052,
       "name": "Lord Send Revival - Live",
       "url": "https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ"
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 516373,
       "name": "More Than Enough - Live",
       "url": "https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 459120,
       "name": "My Worship - Live",
       "url": "https://open.spotify.com/track/0CaD1v9lFnjI5jc1Ao34Ju"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 223481,
       "name": "Never Let Me Go - Live",
       "url": "https://open.spotify.com/track/1aEOATmuK2T6iZhrC77KYN"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 315538,
       "name": "Never Lost",
       "url": "https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 490000,
       "name": "New Wine - Live",
       "url": "https://open.spotify.com/track/1MX4dx6yNvAH2GjIVsUF4h"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 329213,
       "name": "O Praise The Name (An\u00e1stasis) - Live",
       "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
@@ -2263,7 +2281,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 308733,
       "name": "Your Waters",
       "url": "https://open.spotify.com/track/7EpnRr4uyl4eIPLVxhmBAu"

@@ -4,7 +4,7 @@
 
 > Set the tone for your date night with cozy jazz.
 
-118 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
+120 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/5E3RpynfPg8MsP0i3gsukx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cocktails for Two \- Remastered](https://open.spotify.com/track/7DAMG7QY6VYazuuYfQVTJl) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Avant\-Garde Jazz \(Remastered\)](https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N) | 3:17 | 2022-01-26 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/4FRemWPuKnnEfy0sTEb1LQ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Embraceable You](https://open.spotify.com/album/2SGvc5XNCMqomh6WmLFuvW) | 2:09 | 2022-02-10 |  |
 | [Con Alma](https://open.spotify.com/track/4FavGxmQ0kAjmh8WjN8F0j) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 5:30 | 2021-12-14 |  |
+| [Confidant](https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Confidant](https://open.spotify.com/album/4SBCeZYO6ldszj9bzQHfPl) | 4:04 | 2022-05-18 |  |
 | [Crazy He Calls Me](https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Trav'lin' Light](https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ) | 3:27 | 2022-02-10 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 4:07 | 2021-12-14 |  |
 | [Darn That Dream \- Remastered 2015](https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [One Flight Up \(Remastered 2015\)](https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8) | 7:31 | 2021-12-14 |  |
@@ -44,6 +45,7 @@
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:14 | 2021-12-14 |  |
 | [I Concentrate on You](https://open.spotify.com/track/5UkdF1wkOtQ95CvA1zjfDb) | [Little Tree Jazz Trio](https://open.spotify.com/artist/5YALVnyvdEeiMXh49ygjdZ) | [I Concentrate on You](https://open.spotify.com/album/56ypgwwjAwiv39zy2NiqnN) | 6:32 | 2021-12-14 |  |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 7:18 | 2021-12-14 | 2022-04-08 |
+| [I Loves You, Porgy](https://open.spotify.com/track/4vDwDzzYGKylT26VE53elE) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [I Loves You, Porgy](https://open.spotify.com/album/6qVDn32CzWKFsB9NdBkcJO) | 5:23 | 2022-05-18 |  |
 | [I Sing This Song for You](https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:38 | 2021-12-14 |  |
 | [I Thought About You](https://open.spotify.com/track/0Lr4NSIlDOKcZWwMOPcxGT) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:34 | 2022-02-10 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/0HFVyPMlIufaMqeLgnz8Ec) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 | 2021-12-14 |  |

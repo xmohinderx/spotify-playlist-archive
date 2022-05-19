@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 178546,
       "name": "All Of It All",
       "url": "https://open.spotify.com/track/4vMvD08D53LSWRZZJni1zp"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 170613,
       "name": "At Least I Had Fun",
       "url": "https://open.spotify.com/track/7jqXDgGWkV4w2ctdb2g59o"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 170520,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/1cWBXvQCz5jxpCwdJAHWNa"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 221748,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/7HcaM7gc9YB2JAwxq1sfjT"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 182497,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 190318,
       "name": "Maybe You\u2019re The Problem",
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 192181,
       "name": "Nights Like That (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/1FHZyJ35kZ8DaLVOlhOIYK"
@@ -1592,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "When The Light Hits The Room",
+        "url": "https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep"
+      },
+      "artists": [
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177701,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/0mBLsvxWpym819aVv6uJO3"
       },
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 182564,
       "name": "Run Into Trouble",
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Tangerine Skies",
       "url": "https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA"

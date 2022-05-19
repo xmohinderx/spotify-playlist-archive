@@ -406,6 +406,24 @@
     },
     {
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/43rpQD7NisxyZmV8wPeAfn"
+      },
+      "artists": [
+        {
+          "name": "Max Low",
+          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5Fq1Ak7zXLlge7PuAIEbWs"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/69pJO3uecsG3gL9pdCKi49"
       },
@@ -528,7 +546,7 @@
       "artists": [
         {
           "name": "CID",
-          "url": "https://open.spotify.com/artist/4PvxLvdJydaTCWDkj5QVQk"
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
         },
         {
           "name": "Westend",
@@ -678,6 +696,24 @@
     },
     {
       "album": {
+        "name": "No Option",
+        "url": "https://open.spotify.com/album/7s9zD2VTjtHTRmzuMnuzNJ"
+      },
+      "artists": [
+        {
+          "name": "Ice X Diaz",
+          "url": "https://open.spotify.com/artist/7LjMN8V8JnMOjSQEC9X5EW"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "No Option",
+      "url": "https://open.spotify.com/track/4dFuxpnBVz4K5wXw6Qq6mQ"
+    },
+    {
+      "album": {
         "name": "Nothing More To Say (feat. Marlhy)",
         "url": "https://open.spotify.com/album/3lJAE6zPsbNmllojvZaHqG"
       },
@@ -763,6 +799,24 @@
       "duration_ms": 162580,
       "name": "PPL",
       "url": "https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1zJ6tHMkOWVzPxIPi4Yrg4"
+      },
+      "artists": [
+        {
+          "name": "Jack Rush",
+          "url": "https://open.spotify.com/artist/6bjnZQLPrTOmZSQ6nJ7rkj"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237111,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/493v6fDtT0Y3qFLTn78szT"
     },
     {
       "album": {
@@ -1391,6 +1445,28 @@
       "duration_ms": 212125,
       "name": "Wha",
       "url": "https://open.spotify.com/track/3bF0Spa3PDTCzPxrpuPw7J"
+    },
+    {
+      "album": {
+        "name": "You Set Me Free",
+        "url": "https://open.spotify.com/album/1GYS0TxlnkfulEtzqT4EU0"
+      },
+      "artists": [
+        {
+          "name": "AISKA",
+          "url": "https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI"
+        },
+        {
+          "name": "Sergio Ochoa",
+          "url": "https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161150,
+      "name": "You Set Me Free",
+      "url": "https://open.spotify.com/track/75HQDik0zGfqBjdqctuHqL"
     }
   ],
   "url": "https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH"

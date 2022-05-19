@@ -207,7 +207,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 215160,
       "name": "Beautiful Soul",
       "url": "https://open.spotify.com/track/6T7tyXfvNZwAR3XDktNCBi"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 224640,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/5zdUc1JRCImBYcDWgvFNpE"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 243053,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6A1yZW5SLd9hpLZsG29hCQ"
@@ -1383,7 +1383,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 281466,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 247506,
       "name": "Outta Control - Remix",
       "url": "https://open.spotify.com/track/2uhnzF1F605tp9QS6rH2VW"
@@ -1659,6 +1659,24 @@
       "duration_ms": 229866,
       "name": "Run It! (feat. Juelz Santana)",
       "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
+    },
+    {
+      "album": {
+        "name": "Getting Away With Murder",
+        "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2020-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208199,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/3TAtUJc4Sj913Cs5gBUeu0"
     },
     {
       "album": {
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C"

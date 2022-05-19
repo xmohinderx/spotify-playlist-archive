@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-71 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+75 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,13 +29,14 @@
 | [Feel It](https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Feel It](https://open.spotify.com/album/0Xlrltos3265GCIltt7uXX) | 3:00 | 2022-05-13 |  |
 | [Find Somebody](https://open.spotify.com/track/5MOBzkc7oEuv7Bzwj1LQ9K) | [GiddiBangBang](https://open.spotify.com/artist/4r159dgfxQvmRkg6XvfbjF), [Leo Smy](https://open.spotify.com/artist/2RO7zbK3vfjvxHIan8D3uB) | [Find Somebody](https://open.spotify.com/album/3Xz6QgbslmtlRmhM13hyme) | 3:21 | 2022-04-29 | 2022-05-14 |
 | [Good And Bad](https://open.spotify.com/track/2NGMUyLWCB43kUlse3CSXy) | [Ibranovski](https://open.spotify.com/artist/5ASWBtbVe1yfxjrCuREQ4p) | [Good And Bad](https://open.spotify.com/album/4GXbvWPdGIXWYG2Ie25btm) | 3:10 | 2022-04-28 | 2022-05-14 |
+| [Good Time](https://open.spotify.com/track/5Fq1Ak7zXLlge7PuAIEbWs) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Good Time](https://open.spotify.com/album/43rpQD7NisxyZmV8wPeAfn) | 3:44 | 2022-05-18 |  |
 | [Heaven](https://open.spotify.com/track/5DIw2CSHa5gn2lUS8du2sW) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Heaven](https://open.spotify.com/album/69pJO3uecsG3gL9pdCKi49) | 3:46 | 2022-05-13 |  |
 | [Hold You](https://open.spotify.com/track/600nXwQNgfdY9bQxuOHlg8) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y) | [Hold You](https://open.spotify.com/album/1D1ICjvkDEf2fyBbi4uh6X) | 2:53 | 2022-04-28 | 2022-05-14 |
 | [Hustler \- Radio Edit](https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Hustler](https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle) | 2:51 | 2022-04-15 |  |
 | [I Can't Take This](https://open.spotify.com/track/5NbMg0HR9LaTIImgEE7RTW) | [Poison Ghost](https://open.spotify.com/artist/7cAVkIFcDsKIVHJDDjLOOb) | [I Can't Take This](https://open.spotify.com/album/3jJxg3nlW8owjNvkg2b9GV) | 3:58 | 2022-04-22 | 2022-05-14 |
 | [I Like](https://open.spotify.com/track/1CvEfMOgqFEcExZLDlnx6n) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [I Like](https://open.spotify.com/album/2mP7QCvh8pJes8A15MY3q8) | 3:08 | 2022-04-29 | 2022-05-14 |
 | [In Chicago](https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [In Chicago](https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1) | 3:06 | 2022-05-13 |  |
-| [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4PvxLvdJydaTCWDkj5QVQk), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 | 2022-05-13 |  |
+| [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 | 2022-05-13 |  |
 | [Liar](https://open.spotify.com/track/4ZvZe6oTTBqrTskpT4NTTZ) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Flavour Pepper](https://open.spotify.com/artist/6L5jISGGw9jeSJlG21qZzL) | [Liar](https://open.spotify.com/album/0wBCXcUlUV8ifhzuf7bUOv) | 4:36 | 2022-05-13 |  |
 | [Lippy \- Original Mix](https://open.spotify.com/track/0uWpo7GeZ0LGxJec3iKoy5) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Movin](https://open.spotify.com/album/71x6jaCEtiGFbgBmjKIfff) | 6:42 | 2022-04-28 | 2022-05-14 |
 | [Loca](https://open.spotify.com/track/1K7812gCyrt3oWM9KhyHYt) | [D\-Tek](https://open.spotify.com/artist/0Ss5Mgh4yOBheewjYwTJ7p) | [Loca](https://open.spotify.com/album/0yW54F75l7DJWNojmpC3EJ) | 5:35 | 2022-05-13 |  |
@@ -43,10 +44,12 @@
 | [My Mind](https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td) | 3:08 | 2021-03-29 |  |
 | [Never Ever](https://open.spotify.com/track/7pXtDwdYtjILjN5cK7UonH) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Never Ever](https://open.spotify.com/album/5gYdpQEHqsfd8y0rvakbw6) | 2:48 | 2022-05-13 |  |
 | [Nightmares](https://open.spotify.com/track/5xARo31Sdr6Kmk2g9j4t3x) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Nightmares](https://open.spotify.com/album/3FcSS6YhR6HiGx8T0RZ7qy) | 2:45 | 2022-05-13 |  |
+| [No Option](https://open.spotify.com/track/4dFuxpnBVz4K5wXw6Qq6mQ) | [Ice X Diaz](https://open.spotify.com/artist/7LjMN8V8JnMOjSQEC9X5EW) | [No Option](https://open.spotify.com/album/7s9zD2VTjtHTRmzuMnuzNJ) | 2:35 | 2022-05-18 |  |
 | [Nothing More To Say \(feat\. Marlhy\)](https://open.spotify.com/track/0mdXv5Ync5xuX1bTQ6iWt0) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Nothing More To Say \(feat\. Marlhy\)](https://open.spotify.com/album/3lJAE6zPsbNmllojvZaHqG) | 3:27 | 2022-05-13 |  |
 | [On The Mind](https://open.spotify.com/track/5hWH3qZjiEkuAdy4wjnN7n) | [Pirate Snake](https://open.spotify.com/artist/6GC33IJFo0PDw5bsazEzpj), [Rettake](https://open.spotify.com/artist/2sa3ArlnMSXJNuJDf84THa) | [On The Mind](https://open.spotify.com/album/1bI5Fq35DbaD8d7NGIfx2l) | 2:53 | 2022-05-13 |  |
 | [Overdrive](https://open.spotify.com/track/3SR4UulC7VrZpWcuuyYxOu) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Overdrive](https://open.spotify.com/album/63Rd61Zo80nbIVo7u8i6G9) | 4:02 | 2022-04-29 | 2022-05-14 |
 | [PPL](https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Johnny GOLD](https://open.spotify.com/artist/42s6z4jFABqd0XFJHyma3p) | [PPL](https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q) | 2:42 | 2022-04-28 | 2022-05-14 |
+| [Pressure](https://open.spotify.com/track/493v6fDtT0Y3qFLTn78szT) | [Jack Rush](https://open.spotify.com/artist/6bjnZQLPrTOmZSQ6nJ7rkj) | [Pressure](https://open.spotify.com/album/1zJ6tHMkOWVzPxIPi4Yrg4) | 3:57 | 2022-05-18 |  |
 | [Pride](https://open.spotify.com/track/75NQ2yr5EEYDHyK3npu4ho) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Pride](https://open.spotify.com/album/7AOjTO9vLU5nyxcI3qXqZ5) | 2:51 | 2022-05-13 |  |
 | [Pullin Up](https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq) | [Pullin Up](https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn) | 3:05 | 2022-05-13 |  |
 | [Push the Dub](https://open.spotify.com/track/2QmoKMXZmFslYbguqRWfNm) | [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Kruel Intentions](https://open.spotify.com/artist/6A7M8CKuuwPIRE7OqkQTl2) | [Push the Dub](https://open.spotify.com/album/4ulGdsQ179t85RYYMYuskd) | 2:53 | 2022-04-28 | 2022-05-14 |
@@ -79,5 +82,6 @@
 | [We Don’t Need](https://open.spotify.com/track/5AHZJSGknCqvbCwnsBbHzo) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1uUJoimjzFAbWUkhb8r52d) | 2:33 | 2022-05-13 |  |
 | [We Drop Beats](https://open.spotify.com/track/47HQ8T7jHpb14FS1Env1BD) | [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [We Drop Beats](https://open.spotify.com/album/3eOjavq637siaUO4TpPy5r) | 3:04 | 2022-05-01 | 2022-05-14 |
 | [Wha](https://open.spotify.com/track/3bF0Spa3PDTCzPxrpuPw7J) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [Wha](https://open.spotify.com/album/3UnTGZLLMNaj34Wzwg2XNV) | 3:32 | 2022-05-13 |  |
+| [You Set Me Free](https://open.spotify.com/track/75HQDik0zGfqBjdqctuHqL) | [AISKA](https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [You Set Me Free](https://open.spotify.com/album/1GYS0TxlnkfulEtzqT4EU0) | 2:41 | 2022-05-18 |  |
 
 \*This playlist was first scraped on 2022-05-02. Prior content cannot be recovered.

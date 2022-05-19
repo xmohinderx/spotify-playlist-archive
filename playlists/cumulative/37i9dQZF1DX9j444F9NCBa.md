@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-114 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
+117 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,8 @@
 | [Dancing On My Own](https://open.spotify.com/track/1Ozt1obcVy047VXqX1nL9o) | [Thomas Loof](https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3) | [Dancing On My Own](https://open.spotify.com/album/1RqwjVmRM3p1U0lYZjmOif) | 3:50 | 2022-01-21 |  |
 | [Dancing With A Stranger](https://open.spotify.com/track/2u2DHwVcSQZjxwYXjUYHgT) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Dancing With A Stranger](https://open.spotify.com/album/1hXPgb69uhDHdFttRkOgBZ) | 3:35 | 2022-01-21 |  |
 | [Defying Gravity](https://open.spotify.com/track/28cY40buH89cMkAMxdMznk) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:52 | 2022-01-21 |  |
+| [Diamonds and Pearls](https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1) | [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW) | [Diamonds and Pearls](https://open.spotify.com/album/7IBC5tXIczTPEPbSIlUGd1) | 2:57 | 2022-05-18 |  |
+| [Don't Kill My Vibe](https://open.spotify.com/track/6vB8QDhABiypQcVNpEOuQV) | [Franz Schröder](https://open.spotify.com/artist/5eK0TWmJd1D9tqBEVUe7xf) | [Don't Kill My Vibe](https://open.spotify.com/album/1Rv2l98pHdPeY1P2a76264) | 3:07 | 2022-05-18 |  |
 | [Don't Know Why](https://open.spotify.com/track/12XFOelqiJscv38MPyMqjf) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Don't Know Why](https://open.spotify.com/album/3Ps2GzZx1pI6WgBaEaILrL) | 2:43 | 2022-05-02 |  |
 | [Don't Let Me Down \(Instrumental\)](https://open.spotify.com/track/18RRTF9SbEOM9h3aoMKeNc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 | 2022-01-21 |  |
 | [Dreams](https://open.spotify.com/track/7pdumwOPFHj0SvHNNShtxc) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Hans Mölle](https://open.spotify.com/album/0uneLltOy1UqoLrXpmYb4D) | 4:37 | 2022-01-21 |  |
@@ -104,7 +106,8 @@
 | [Thinking Out Loud \(Piano\)](https://open.spotify.com/track/0o60tWNfPJARY7bPJP22iN) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Bedtime Piano Covers](https://open.spotify.com/album/1ic5hhMXaAgJQpntgFLSsi) | 4:15 | 2022-01-21 |  |
 | [This City](https://open.spotify.com/track/0QVfPQkh2Ivm9C2WlmD0xT) | [Caitlin Owens](https://open.spotify.com/artist/4bwu4i5ewOhlguYr195Wjj) | [The Bones](https://open.spotify.com/album/1Xk4W4ggHkNl4MwJehSQMr) | 3:30 | 2022-01-21 |  |
 | [Time After Time](https://open.spotify.com/track/1stBQsEHMo5cFWNOa41AlQ) | [Lottie Knight](https://open.spotify.com/artist/4fBfPbu5NCGGJdxLHeFJpm) | [Time After Time](https://open.spotify.com/album/37cfACU6aMRk7EbUbPA3kD) | 2:40 | 2022-02-10 |  |
-| [True Colors](https://open.spotify.com/track/60Ui8TTYyTGkHpCeJk9qJo) | [Kay Willard](https://open.spotify.com/artist/0eRVLsUS9Oe9eVlfr3X9ig) | [True Colors](https://open.spotify.com/album/1UPNr3hUcLkbkvaMZqJ5I6) | 2:52 | 2022-01-21 |  |
+| [True Colors](https://open.spotify.com/track/60Ui8TTYyTGkHpCeJk9qJo) | [Kay Willard](https://open.spotify.com/artist/0eRVLsUS9Oe9eVlfr3X9ig) | [True Colors](https://open.spotify.com/album/1UPNr3hUcLkbkvaMZqJ5I6) | 2:52 | 2022-01-21 | 2022-05-19 |
+| [True Colors \- Piano Version](https://open.spotify.com/track/047B5xypjW3iozKNgJgHMK) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part I](https://open.spotify.com/album/1oAIunhTkzflIbFknRJKaO) | 2:55 | 2022-05-18 |  |
 | [Umbrella](https://open.spotify.com/track/3HO6iT9UmEmwsgAAIxTc43) | [Deborah Sonderburg](https://open.spotify.com/artist/0mnW26sAqwV1hfsNEC1uWJ) | [Umbrella](https://open.spotify.com/album/5Zr0iVZy8Ns5eB9qCznBRW) | 3:40 | 2022-01-21 |  |
 | [Vincent](https://open.spotify.com/track/3hLwdzukhUxAB8epGFKIkf) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Vincent](https://open.spotify.com/album/1paZJP3ZNLhSyDLyoetkIC) | 3:38 | 2022-01-21 |  |
 | [We Don't Talk Anymore](https://open.spotify.com/track/0oYpL4iDhZirA5ctnB6vcA) | [Dean Stance](https://open.spotify.com/artist/05p69v44eqHGhc9ehcpoFC) | [We Don't Talk Anymore](https://open.spotify.com/album/7iZHW4AqiwUzIQ56mC9mFY) | 4:04 | 2022-01-21 |  |

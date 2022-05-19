@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-72 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
+73 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Angel Flying Too Close To The Ground](https://open.spotify.com/track/7o6Rv0ciQvug3oWxpR0Klx) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Angel Flying Too Close To The Ground](https://open.spotify.com/album/10OfjggATPKscEFOWCN6B6) | 3:59 | 2022-03-21 |  |
 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 | 2021-12-22 |  |
 | [Apologize](https://open.spotify.com/track/2xHKGx65VCsJgU83Bvh4j7) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Apologize](https://open.spotify.com/album/0ksnJ7aLLk73HYqEmTTGna) | 3:01 | 2021-12-22 |  |
+| [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 | 2022-05-18 |  |
 | [Attention](https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Attention](https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk) | 4:04 | 2021-12-22 |  |
 | [Back For Good](https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back For Good](https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD) | 3:14 | 2021-12-22 |  |
 | [Back To You](https://open.spotify.com/track/2GwShNdcJHDLEkGO4L34lF) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back To You](https://open.spotify.com/album/7AgRUp5Sc4PwDM5l950FeH) | 3:39 | 2021-12-22 |  |

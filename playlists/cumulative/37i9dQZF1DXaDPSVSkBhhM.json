@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 126616,
       "name": "As\u00ed Nos Romp\u00edamos el Hocico Ayer",
       "url": "https://open.spotify.com/track/08JMJA2pkJBXwwbzhvQ4av"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 231375,
       "name": "Cat\u00e1strofe",
       "url": "https://open.spotify.com/track/2JgWf1arzmiMQp4UN1XpxT"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 206517,
       "name": "Dejar de Pensar en Ti",
       "url": "https://open.spotify.com/track/7ml6ki8e1aVr0EZcYZ1ELN"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 224680,
       "name": "Desamorados",
       "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
@@ -596,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Fuera Luces",
+        "url": "https://open.spotify.com/album/480y2ectuqNgvMe47cAUeO"
+      },
+      "artists": [
+        {
+          "name": "NUNO",
+          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Fuera Luces",
+      "url": "https://open.spotify.com/track/2v4cnmPx3f5tOBTb2InG9a"
+    },
+    {
+      "album": {
         "name": "Hoy Somos Dos Extra\u00f1os en la Calle",
         "url": "https://open.spotify.com/album/1pHQZBsJh9b5jMh3wjtKTJ"
       },
@@ -701,7 +719,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 294325,
       "name": "La Ultima Excusa",
       "url": "https://open.spotify.com/track/00ru0jOJXVP8Qf5fdBTaqX"
@@ -755,7 +773,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 169273,
       "name": "Mientras el Mundo Se Apagaba (Demo)",
       "url": "https://open.spotify.com/track/6J19lCB1NnsgyRKUX9zJhI"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 196938,
       "name": "Nada M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/04RzCX08t3KFGsJiZc7eHV"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 186705,
       "name": "Nada Que Explicar",
       "url": "https://open.spotify.com/track/5ZirdB0vsnLf2MbnySb2Ao"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 243162,
       "name": "No S\u00e9 Qu\u00e9 Decir",
       "url": "https://open.spotify.com/track/4SqRftHIfHV6DgyCl2skaf"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 191043,
       "name": "Nunca Estara\u0301 Bien",
       "url": "https://open.spotify.com/track/31obbmT1YI5tvy0Rrx22WI"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 216213,
       "name": "Siempre Fuerte",
       "url": "https://open.spotify.com/track/6x8GV4GRH2hZ8eeRmpMrC4"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 186549,
       "name": "Te Voy a Tener",
       "url": "https://open.spotify.com/track/08qtqeaHucyXi72GmgBwMP"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 201026,
       "name": "We're All a Dick Sometimes",
       "url": "https://open.spotify.com/track/6W74li23KmBPGlDPkoNnj5"

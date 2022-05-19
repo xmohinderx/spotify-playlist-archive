@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/2yBXyTu1MlGwCiXAsZxAJT"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152764,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/4rAXvF3Bh1MZlHAVsmI890"
+    },
+    {
+      "album": {
         "name": "Famoso",
         "url": "https://open.spotify.com/album/27EhxNeyTwvnuo0TcWMDZf"
       },
@@ -89,6 +107,24 @@
       "duration_ms": 193554,
       "name": "Baby (with J Balvin)",
       "url": "https://open.spotify.com/track/3eblNP3Zd5b5J3JaOckl8Y"
+    },
+    {
+      "album": {
+        "name": "Bando",
+        "url": "https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Bando",
+      "url": "https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD"
     },
     {
       "album": {
@@ -159,7 +195,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 240245,
       "name": "Bimbi",
       "url": "https://open.spotify.com/track/7uPI3Q0Ke3Thl0z1xzvXFn"
@@ -399,7 +435,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
@@ -559,7 +595,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 206211,
       "name": "Davide (feat. Coez)",
       "url": "https://open.spotify.com/track/1Lq5ApqhIWUXzlryFX2K6J"
@@ -657,7 +693,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 151440,
       "name": "Effe",
       "url": "https://open.spotify.com/track/6RQjUikQBjV183yPTvrUvr"
@@ -708,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220071,
+      "name": "Fumo Da Solo",
+      "url": "https://open.spotify.com/track/6uMdn1ovj2ZRHGMbiTQAvy"
+    },
+    {
+      "album": {
         "name": "GANG",
         "url": "https://open.spotify.com/album/4LrEjQPdLMz73AkwQzCyjL"
       },
@@ -731,7 +785,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 161684,
       "name": "GANG (feat. Geolier)",
       "url": "https://open.spotify.com/track/2Yd6hF9rBSibtF4hlcnBEw"
@@ -841,7 +895,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 209791,
       "name": "Keanu Reeves (feat. Achille Lauro)",
       "url": "https://open.spotify.com/track/1MGXWglFoINJdrcp2W0U0w"
@@ -911,7 +965,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 248708,
       "name": "Lamborghini - RMX",
       "url": "https://open.spotify.com/track/4SlqAdOMa1DxsYXB3XG3Im"
@@ -1109,7 +1163,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 181866,
       "name": "Mon Cheri (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/66UkKyxN5YbJl9z7YamQOR"
@@ -1131,7 +1185,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 224150,
       "name": "Mon Fre - feat. Emis Killa",
       "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
@@ -1153,7 +1207,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 234600,
       "name": "Ne \u00e8 valsa la pena (feat. Ghali)",
       "url": "https://open.spotify.com/track/6GTCOWvhjvdk4pwlfrSjNO"
@@ -1197,7 +1251,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Nisida",
       "url": "https://open.spotify.com/track/0q9Vpg3DLMjm9rx5LnXwXE"
@@ -1437,7 +1491,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 188400,
       "name": "Pookie (feat. Capo Plaza) - Remix",
       "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
@@ -1698,6 +1752,28 @@
     },
     {
       "album": {
+        "name": "J",
+        "url": "https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208233,
+      "name": "SLIME (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/13Iu4OXlnP5vUQ0rgXR6e3"
+    },
+    {
+      "album": {
         "name": "Soldi in Nero (feat. Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
       },
@@ -1739,7 +1815,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 186066,
       "name": "Solletico (feat. Tedua & The Night Skinny)",
       "url": "https://open.spotify.com/track/6gan8nbS78t2sUy0M9UpAX"
@@ -1787,7 +1863,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 202573,
       "name": "STAI ZITTO (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/2rgOAX5Cj3pk8JFnaPwJbd"

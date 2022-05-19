@@ -4,7 +4,7 @@
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Dylan Sinclair
 
-561 songs - 1 day 4 hr 28 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+562 songs - 1 day 4 hr 32 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Evadirte](https://open.spotify.com/track/1RwllHXLprNmMDBRkp3X93) | [LMBC](https://open.spotify.com/artist/41ydZ0W1RUb6N2ObIdVP04), [Bebeboy](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [Toronto Barrio](https://open.spotify.com/album/4Q4lX2Cp8t6nQZ5MT8wGbw) | 3:53 | 2022-01-07 | 2022-02-05 |
 | [Exercise Your Demons](https://open.spotify.com/track/0nUMz1ddHrabm2V1a9KCAl) | [Gus Englehorn](https://open.spotify.com/artist/5DL9yEXrWKddfCe8SxM08Z) | [Exercise Your Demons](https://open.spotify.com/album/6iJxyB81NTPgHLgFH4P6OC) | 2:53 | 2022-04-01 | 2022-05-07 |
 | [Exes and Why's](https://open.spotify.com/track/7Bd6thM3CYtgUK7ODwvBe3) | [Meg DeAngelis](https://open.spotify.com/artist/1yolJlMzhzK1UWcHTC7Mw2) | [Exes and Why's](https://open.spotify.com/album/5cY0nAnVSTNDnWOfhkTkCQ) | 2:25 | 2022-03-04 | 2022-04-02 |
+| [extra](https://open.spotify.com/track/7KZySbbZKymxgsecEaFmPQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [extra](https://open.spotify.com/album/6dY3Qu3XLfiiisvdeN3jee) | 3:14 | 2022-05-11 |  |
 | [Failed English](https://open.spotify.com/track/7InQCJowZV0DoonCNE4mdv) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Failed English](https://open.spotify.com/album/0EsAm6SXsqxYhmTA7g6PKG) | 2:43 | 2022-01-07 | 2022-02-05 |
 | [Fairy Tales](https://open.spotify.com/track/60FrGlqLx8PVlJKMnJzbPV) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL), [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Fairy Tales](https://open.spotify.com/album/6E6z4ShjrNh5ko5f9gGltf) | 2:14 | 2022-04-01 | 2022-05-07 |
 | [Fake Friends](https://open.spotify.com/track/68GSPUt7e0nt7ItrYw3mM7) | [Ann@lise](https://open.spotify.com/artist/1JQiDKAjs1L29s18Uttcuo) | [Fake Friends](https://open.spotify.com/album/0uAr8V4yOOIArQnYmD7BYq) | 2:54 | 2022-02-04 | 2022-03-05 |

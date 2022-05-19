@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,579 likes - 37 songs - 1 hr 58 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 4,580 likes - 41 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 10 | [Wha](https://open.spotify.com/track/3bF0Spa3PDTCzPxrpuPw7J) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [Wha](https://open.spotify.com/album/3UnTGZLLMNaj34Wzwg2XNV) | 3:32 |
 | 11 | [Liar](https://open.spotify.com/track/4ZvZe6oTTBqrTskpT4NTTZ) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Flavour Pepper](https://open.spotify.com/artist/6L5jISGGw9jeSJlG21qZzL) | [Liar](https://open.spotify.com/album/0wBCXcUlUV8ifhzuf7bUOv) | 4:36 |
 | 12 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 |
-| 13 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4PvxLvdJydaTCWDkj5QVQk), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 |
+| 13 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 |
 | 14 | [Falling](https://open.spotify.com/track/3GAlnDKQPrgMKcdGdkssSU) | [Shdws](https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg) | [Falling](https://open.spotify.com/album/5H5KXYChlIn0V50hLoV9C7) | 3:37 |
 | 15 | [Pullin Up](https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq) | [Pullin Up](https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn) | 3:05 |
 | 16 | [U Want 2 Get](https://open.spotify.com/track/5kaHaMvafqdg3noItmkeEi) | [Poison Ghost](https://open.spotify.com/artist/7cAVkIFcDsKIVHJDDjLOOb) | [U Want 2 Get](https://open.spotify.com/album/0pi1WgO5rsN5Pi8vtWJqN8) | 3:47 |
@@ -45,5 +45,9 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 35 | [Touch](https://open.spotify.com/track/397W12CqjA788iknS81yMB) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Touch](https://open.spotify.com/album/2nS3OjhmMCgYYeZfWy6Bga) | 2:47 |
 | 36 | [Never Ever](https://open.spotify.com/track/7pXtDwdYtjILjN5cK7UonH) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Never Ever](https://open.spotify.com/album/5gYdpQEHqsfd8y0rvakbw6) | 2:48 |
 | 37 | [My Mind](https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td) | 3:08 |
+| 38 | [Pressure](https://open.spotify.com/track/493v6fDtT0Y3qFLTn78szT) | [Jack Rush](https://open.spotify.com/artist/6bjnZQLPrTOmZSQ6nJ7rkj) | [Pressure](https://open.spotify.com/album/1zJ6tHMkOWVzPxIPi4Yrg4) | 3:57 |
+| 39 | [Good Time](https://open.spotify.com/track/5Fq1Ak7zXLlge7PuAIEbWs) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Good Time](https://open.spotify.com/album/43rpQD7NisxyZmV8wPeAfn) | 3:44 |
+| 40 | [No Option](https://open.spotify.com/track/4dFuxpnBVz4K5wXw6Qq6mQ) | [Ice X Diaz](https://open.spotify.com/artist/7LjMN8V8JnMOjSQEC9X5EW) | [No Option](https://open.spotify.com/album/7s9zD2VTjtHTRmzuMnuzNJ) | 2:35 |
+| 41 | [You Set Me Free](https://open.spotify.com/track/75HQDik0zGfqBjdqctuHqL) | [AISKA](https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [You Set Me Free](https://open.spotify.com/album/1GYS0TxlnkfulEtzqT4EU0) | 2:41 |
 
-Snapshot ID: `NTI4NCw3MDFiYmE5MTc2MWFjMWI5OTc1NjgyOWQzN2ZmZDlmNjVjMWI5Njhl`
+Snapshot ID: `NTI4OCxmODUxMGE5NGJjNDU4MmZiNWNlZWI3NzE0NTZlZGNjMjRiODVlYTVm`

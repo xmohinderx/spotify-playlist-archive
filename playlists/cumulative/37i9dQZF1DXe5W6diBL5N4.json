@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 162382,
       "name": "About",
       "url": "https://open.spotify.com/track/1GDqEr1WJxWSTYfAbfa6af"
@@ -829,6 +829,24 @@
       "duration_ms": 167572,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/3vKX4347uUOuEECpHJwITb"
+    },
+    {
+      "album": {
+        "name": "ARIA",
+        "url": "https://open.spotify.com/album/27QtRd7Fhr3ZaU0vdtwnHW"
+      },
+      "artists": [
+        {
+          "name": "YERIN",
+          "url": "https://open.spotify.com/artist/0K75iH0Ts1A7ZbLjvKLR3d"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147853,
+      "name": "ARIA",
+      "url": "https://open.spotify.com/track/2ImbyerPmaYvCAijEsXtoD"
     },
     {
       "album": {
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 227691,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/09lkEZvJPX5Lto9Ei7SFxt"
@@ -2145,8 +2163,8 @@
           "url": "https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4"
         },
         {
-          "name": "HaHa",
-          "url": "https://open.spotify.com/artist/35D23pBU4wVoPZGx4B2Kw8"
+          "name": "Haha",
+          "url": "https://open.spotify.com/artist/3lY2yvsj2BSiYSA8PcPGqF"
         }
       ],
       "date_added": "2022-05-17",
@@ -2616,6 +2634,24 @@
     },
     {
       "album": {
+        "name": "Could Be You",
+        "url": "https://open.spotify.com/album/4AmNcpocVPbWXOwtSzi0r6"
+      },
+      "artists": [
+        {
+          "name": "Joe Aram",
+          "url": "https://open.spotify.com/artist/7f95Z1TWkVyFjO7YxP1KT4"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241053,
+      "name": "Could Be You",
+      "url": "https://open.spotify.com/track/1kqiQlkgy5HGOxDImDImDL"
+    },
+    {
+      "album": {
         "name": "Count Up",
         "url": "https://open.spotify.com/album/0VAIgSKV5VaHsetWh3Rmdw"
       },
@@ -2721,6 +2757,32 @@
       "duration_ms": 189866,
       "name": "D-DAY",
       "url": "https://open.spotify.com/track/7Kw1ycY0Dfqf3uM25SxImO"
+    },
+    {
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/2ACGmnU2bSAa6025lvIXGd"
+      },
+      "artists": [
+        {
+          "name": "TRUSTRUST",
+          "url": "https://open.spotify.com/artist/6meIj8UAv5EiQ4yJNwH2zh"
+        },
+        {
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+        },
+        {
+          "name": "CROQ",
+          "url": "https://open.spotify.com/artist/0PHcPKpUIBAYJigtZdtgM9"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205523,
+      "name": "Daisy (feat. Risso & CROQ)",
+      "url": "https://open.spotify.com/track/6Zwe2BAEzwlYYljPUCdkiF"
     },
     {
       "album": {
@@ -3176,6 +3238,24 @@
     },
     {
       "album": {
+        "name": "Don't walk away (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.8",
+        "url": "https://open.spotify.com/album/1GgOw3kzlYxXcknuvOyA8v"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/78hGUmxF4YMnMOpemPsXIX"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208466,
+      "name": "Don't walk away",
+      "url": "https://open.spotify.com/track/1V0fL8JcNB41j3Yj0FccKG"
+    },
+    {
+      "album": {
         "name": "Don't Worry",
         "url": "https://open.spotify.com/album/19yAfoV1025eq1F6BjafZN"
       },
@@ -3431,6 +3511,24 @@
       "duration_ms": 258000,
       "name": "Drinker",
       "url": "https://open.spotify.com/track/5C17xCMzRikaY6khr6RE9K"
+    },
+    {
+      "album": {
+        "name": "The Crush Of Spring OST Part.1",
+        "url": "https://open.spotify.com/album/1ayPFczFbalnsDqBh92GoP"
+      },
+      "artists": [
+        {
+          "name": "YEO-EUN",
+          "url": "https://open.spotify.com/artist/16fjppxQxQKpRH2Z1FUxww"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222685,
+      "name": "Drip Drip Drip",
+      "url": "https://open.spotify.com/track/1rfYUwAohM9nZJbscZFCWl"
     },
     {
       "album": {
@@ -4144,6 +4242,24 @@
     },
     {
       "album": {
+        "name": "SUNMIYA CLUB",
+        "url": "https://open.spotify.com/album/5m1kGBVJBKcrlLBgy300vV"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114706,
+      "name": "Fellowship",
+      "url": "https://open.spotify.com/track/6PW5GLnTnF9krvqR3QcjWg"
+    },
+    {
+      "album": {
         "name": "Modern RBW Vol. 17",
         "url": "https://open.spotify.com/album/140xzVtFoxJf6ExGNeTnH6"
       },
@@ -4314,6 +4430,24 @@
     },
     {
       "album": {
+        "name": "Flowing time",
+        "url": "https://open.spotify.com/album/42vOp6UfK3iFA2auYOpcbS"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc624\uc6d4",
+          "url": "https://open.spotify.com/artist/4zLM2qGVz8TX11ycCgwxk8"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245625,
+      "name": "Flowing time",
+      "url": "https://open.spotify.com/track/2JeO2wDLzTpdkuKozZvk9q"
+    },
+    {
+      "album": {
         "name": "Fly to me",
         "url": "https://open.spotify.com/album/2Jo2mvplm5HgWP81gsXsSc"
       },
@@ -4459,7 +4593,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 192669,
       "name": "Fort (feat. So!YoON!)",
       "url": "https://open.spotify.com/track/1qj9iKSLJ8MPHKcmn4B0YS"
@@ -5408,6 +5542,28 @@
     },
     {
       "album": {
+        "name": "Homeless",
+        "url": "https://open.spotify.com/album/0tzFk8CLBs1IfHAEojDwIW"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "Agenda",
+          "url": "https://open.spotify.com/artist/1JaMM2o29sVRV0wHW6GTnV"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Homeless",
+      "url": "https://open.spotify.com/track/0HmGtoCcvx2B6HJxEQZli4"
+    },
+    {
+      "album": {
         "name": "homesick",
         "url": "https://open.spotify.com/album/65KWlcE7BKuhhHmKhQJVSm"
       },
@@ -5463,6 +5619,24 @@
       "duration_ms": 216300,
       "name": "Hot Fox",
       "url": "https://open.spotify.com/track/16LJLtgO4CYcKPYvKuZtsb"
+    },
+    {
+      "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/5ymsjaU6HAetdVSMpMXRfv"
+      },
+      "artists": [
+        {
+          "name": "YUMIN",
+          "url": "https://open.spotify.com/artist/1Wbm8a86AGAgr1S71ZNn9i"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187838,
+      "name": "House",
+      "url": "https://open.spotify.com/track/2v4qvSCpaw7UhwdD7YiYZ3"
     },
     {
       "album": {
@@ -5550,6 +5724,40 @@
     },
     {
       "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/2DHChOTHjJzyY9RL0RKUlj"
+      },
+      "artists": [
+        {
+          "name": "Devine Channel",
+          "url": "https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw"
+        },
+        {
+          "name": "Yellowmane",
+          "url": "https://open.spotify.com/artist/69DIWtgrZbIjorw3g1UqVy"
+        },
+        {
+          "name": "Sahtyre",
+          "url": "https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU"
+        },
+        {
+          "name": "Junoflo",
+          "url": "https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R"
+        },
+        {
+          "name": "G2",
+          "url": "https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132373,
+      "name": "Howl (Feat. Yellowmane, Sahtyre, Junoflo, G2)",
+      "url": "https://open.spotify.com/track/24N9c3BdEQL2rrfJLggzka"
+    },
+    {
+      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -5612,6 +5820,28 @@
     },
     {
       "album": {
+        "name": "SUNSHINE",
+        "url": "https://open.spotify.com/album/5MgqA59cpZMyowGSHHvatc"
+      },
+      "artists": [
+        {
+          "name": "Lean Lean",
+          "url": "https://open.spotify.com/artist/6IprxsitojRXQLHOLyizzb"
+        },
+        {
+          "name": "\uc2a4\uc719\uc2a4(Swings)",
+          "url": "https://open.spotify.com/artist/1FypwMT3hrRR7uxLHpgGuU"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "i (feat. Swings)",
+      "url": "https://open.spotify.com/track/09bshPEQMZUnUWvuMwvXwK"
+    },
+    {
+      "album": {
         "name": "I Always",
         "url": "https://open.spotify.com/album/07cZHZAiskC0qhPezOpvgH"
       },
@@ -5630,7 +5860,7 @@
     },
     {
       "album": {
-        "name": "Sweetbrier",
+        "name": "I am a Sweetbrier",
         "url": "https://open.spotify.com/album/40M893U0iFpqfsbeAZ1xTG"
       },
       "artists": [
@@ -5647,7 +5877,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193243,
-      "name": "I am a Sweetbrier",
+      "name": "I am a Sweetbrier (feat. Kyo)",
       "url": "https://open.spotify.com/track/2e4beAtfC2Dapeb4KGyDyy"
     },
     {
@@ -6061,6 +6291,24 @@
       "duration_ms": 227293,
       "name": "I want you to be happy",
       "url": "https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy"
+    },
+    {
+      "album": {
+        "name": "I Will Fly",
+        "url": "https://open.spotify.com/album/0PYUc9urpMM3Om507HDmvV"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309880,
+      "name": "I Will Fly",
+      "url": "https://open.spotify.com/track/11BkRBYgserEx7OGMTq8fh"
     },
     {
       "album": {
@@ -6849,7 +7097,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 168498,
       "name": "kibun (feat. vntermude)",
       "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
@@ -8043,7 +8291,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 208840,
       "name": "Meet you at the Laundromat",
       "url": "https://open.spotify.com/track/0CuAnh471BDS8me2OJDFU4"
@@ -8065,6 +8313,24 @@
       "duration_ms": 247853,
       "name": "Melo Drama",
       "url": "https://open.spotify.com/track/34A6898sDEih1Q8fWNXziO"
+    },
+    {
+      "album": {
+        "name": "Melody (Gongzza X Whee In)",
+        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234066,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
     },
     {
       "album": {
@@ -8568,6 +8834,24 @@
     },
     {
       "album": {
+        "name": "Naksan Park",
+        "url": "https://open.spotify.com/album/7G3tBOCWksNcNucngkE04Q"
+      },
+      "artists": [
+        {
+          "name": "COCONA",
+          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "Naksan Park",
+      "url": "https://open.spotify.com/track/48xtAdnr3wrZoFbTIyiFe6"
+    },
+    {
+      "album": {
         "name": "Navillera",
         "url": "https://open.spotify.com/album/721l3ZndfYlkTkR05NYmuz"
       },
@@ -8791,7 +9075,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 193295,
       "name": "No Way",
       "url": "https://open.spotify.com/track/02n1DRLv1ZdhITK33NdIpf"
@@ -9103,7 +9387,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 227973,
       "name": "Only U (Feat. PENOMECO)",
       "url": "https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8"
@@ -9705,7 +9989,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 234290,
       "name": "Pretty Pretty (Feat. Jeon Eun Jin)",
       "url": "https://open.spotify.com/track/2CiOAB6OUvEjovg3SO14jT"
@@ -9763,6 +10047,28 @@
       "duration_ms": 230399,
       "name": "promise",
       "url": "https://open.spotify.com/track/6IHakeR5yzcnNIP2lBuJ0e"
+    },
+    {
+      "album": {
+        "name": "A Promise of May",
+        "url": "https://open.spotify.com/album/4KNSnlrN5ReI0EvJzIpN2r"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Promise (feat. Ashley Alisha)",
+      "url": "https://open.spotify.com/track/6wHSiDxQCOAF0e1WhRVCDy"
     },
     {
       "album": {
@@ -10133,7 +10439,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 197260,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/7r5FykTCroMJuGUh1E4NhE"
@@ -10212,6 +10518,24 @@
     },
     {
       "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/7fBkBBzXwB9qyXYsYpNFGx"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/5G6kdMp4tAcaH4J2RQa0Ij"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204573,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/0PAU08erz7NJwpgDSDOfsE"
+    },
+    {
+      "album": {
         "name": "HOTEL",
         "url": "https://open.spotify.com/album/5imCkLlUoh4TX15NNQuUdf"
       },
@@ -10245,7 +10569,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 162203,
       "name": "Run up - Korean Version",
       "url": "https://open.spotify.com/track/43DWdbU4rz8IH0Kd33OHI3"
@@ -10397,6 +10721,24 @@
       "duration_ms": 186000,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0t4DNbCMIoTRRUZCGDR3lw"
+    },
+    {
+      "album": {
+        "name": "A to B",
+        "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181103,
+      "name": "SAVIOR",
+      "url": "https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ"
     },
     {
       "album": {
@@ -10651,7 +10993,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 168306,
       "name": "She is",
       "url": "https://open.spotify.com/track/27fzxgx6nK8NI4CylNEBBw"
@@ -10669,7 +11011,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 197000,
       "name": "She lives in Paris",
       "url": "https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o"
@@ -11471,7 +11813,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 241266,
       "name": "Sun Setting On My Chest",
       "url": "https://open.spotify.com/track/0tNBUNP00YPCjPxB4xGEUb"
@@ -13201,7 +13543,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 226000,
       "name": "Weather report",
       "url": "https://open.spotify.com/track/5d3gS49jJRainBEemo7OF3"
@@ -13655,7 +13997,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 221053,
       "name": "Won\u2019t Cry",
       "url": "https://open.spotify.com/track/2ks7UrD9UwzpbRRZRG9Vpg"
@@ -13823,7 +14165,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 181091,
       "name": "You Erase Me",
       "url": "https://open.spotify.com/track/2EK0Oo72mbDGmAqhh9VT4e"
@@ -13903,7 +14245,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 244386,
       "name": "You will shine",
       "url": "https://open.spotify.com/track/2QnzKVxbZSiunJYCmHvt5G"

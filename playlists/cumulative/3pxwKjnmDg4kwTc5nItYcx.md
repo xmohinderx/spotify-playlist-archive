@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Budjerah
 
-571 songs - 1 day 6 hr 48 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+572 songs - 1 day 6 hr 51 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Solitude](https://open.spotify.com/track/31AuJaUuJV7LI0grZeJM1y) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Solitude](https://open.spotify.com/album/6uhLzJ1bQ7BvavKtMl57DV) | 2:58 | 2019-08-27\* | 2021-12-04 |
 | [Some Type Of Way](https://open.spotify.com/track/36kx8fhVUnIkzMWatFPQob) | [MADAM3EMPRESS](https://open.spotify.com/artist/2adQUbouv2rghpbus8Zx73) | [Some Type Of Way](https://open.spotify.com/album/2Egeyjj4DTH0EpOQxv4osP) | 2:58 | 2021-06-12 |  |
 | [Somebody Else \(feat\. JoJo\)](https://open.spotify.com/track/2fpVvARsopfxhvNaUMwvS6) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [ELEVATION](https://open.spotify.com/album/0S9DWXx2fextbZkqM9Xp5J) | 3:19 | 2019-10-25 | 2020-02-12 |
+| [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-05-18 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:28 | 2021-01-15 |  |
 | [Sorry](https://open.spotify.com/track/3te1jfT0NVC7BamNwpoSPW) | [Bonnie Anderson](https://open.spotify.com/artist/6TnYKQ80Ne0DlAISzTXB6A) | [Sorry](https://open.spotify.com/album/7aQV4QjHiSMkykarett4Y3) | 3:11 | 2019-08-27\* | 2019-11-11 |
 | [Sound Of Your Name](https://open.spotify.com/track/6xMRkOAJC6Y7tUvIcqkdwu) | [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Sound Of Your Name](https://open.spotify.com/album/1lC9CRKXwTkpIfyfWSGaDN) | 3:18 | 2020-02-14 | 2021-05-12 |

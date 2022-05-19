@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. 42 Dugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,950 likes - 57 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,955 likes - 57 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

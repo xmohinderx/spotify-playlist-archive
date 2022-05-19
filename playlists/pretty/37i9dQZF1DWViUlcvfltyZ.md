@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarrre più o meno distorte \(e, in cover, i Måneskin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,736 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,760 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,22 +12,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 2 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 |
 | 3 | [Anche questa è insicurezza](https://open.spotify.com/track/7Jv6EL3KvtPEdK67S66fVE) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Anche questa è insicurezza](https://open.spotify.com/album/0FR945zs1rjI0asExLmnM0) | 3:39 |
 | 4 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 |
-| 5 | [Coltello \(feat\. Piero Pelù\)](https://open.spotify.com/track/2jrRvvqAsLBxwAvonVVnvn) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ), [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Colla](https://open.spotify.com/album/5D5w8JApLuc02WQR6nEUSj) | 2:56 |
+| 5 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 |
 | 6 | [Strappati Lungo i Bordi](https://open.spotify.com/track/1tmxGSXmeKk5NjZh3hIG7v) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Strappati Lungo i Bordi \(Music from the Original TV Series “Strappare lungo i bordi”\)](https://open.spotify.com/album/18jzdWKRrSxdgDr9IRe0RM) | 3:19 |
 | 7 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 |
-| 8 | [Più mi odi più mi amo](https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Più mi odi più mi amo](https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT) | 4:14 |
-| 9 | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg) | 3:27 |
+| 8 | [Coltello \(feat\. Piero Pelù\)](https://open.spotify.com/track/2jrRvvqAsLBxwAvonVVnvn) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ), [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Colla](https://open.spotify.com/album/5D5w8JApLuc02WQR6nEUSj) | 2:56 |
+| 9 | [Più mi odi più mi amo](https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Più mi odi più mi amo](https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT) | 4:14 |
 | 10 | [Identikit / PLOT TWIST](https://open.spotify.com/track/3J93fJVupbMEjlrspQ2fp5) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Identikit / PLOT TWIST](https://open.spotify.com/album/5nmYuCiGDIlZRFj8VpeFgx) | 2:46 |
 | 11 | [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 |
 | 12 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 |
 | 13 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 |
 | 14 | [Vita Sperduta](https://open.spotify.com/track/4s2JGsbchZ8fNiqhIPjCZq) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Vita Sperduta](https://open.spotify.com/album/0eeFAco3jtZzRFDD6cUl6q) | 3:36 |
-| 15 | [Documentari](https://open.spotify.com/track/19b8lNcPaC9srKUjKc7Cbp) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Giuramenti](https://open.spotify.com/album/6IKfDFFZZNzNf0m5AiFRKe) | 3:16 |
+| 15 | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg) | 3:27 |
 | 16 | [My Best](https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [This Is Light](https://open.spotify.com/album/2csk5nXDfK75W5NMNpGoQD) | 3:38 |
 | 17 | [Follow the Money](https://open.spotify.com/track/7dngVIjn3nbUmOHqiJhTRg) | [Pierpaolo Capovilla e i Cattivi Maestri](https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO) | [Follow the Money](https://open.spotify.com/album/5EmIHTygguJUWXPTACC10D) | 3:33 |
 | 18 | [Vortice](https://open.spotify.com/track/6RA1qE9WbVXmWdLWmjN8Z3) | [Raniss](https://open.spotify.com/artist/5V0f1RKm4X0Lh6HBLSps3V) | [Credere Di Pensare](https://open.spotify.com/album/74zRzOFTdEjTGycktwGa0Q) | 3:40 |
-| 19 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 |
-| 20 | [POVERI DIAVOLI](https://open.spotify.com/track/7Kr5XGDiO1jytPSyVxb1yv) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [POVERI DIAVOLI](https://open.spotify.com/album/0wUUrD6LCzo2bYz7uwgm5q) | 3:16 |
+| 19 | [POVERI DIAVOLI](https://open.spotify.com/track/7Kr5XGDiO1jytPSyVxb1yv) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [POVERI DIAVOLI](https://open.spotify.com/album/0wUUrD6LCzo2bYz7uwgm5q) | 3:16 |
+| 20 | [Documentari](https://open.spotify.com/track/19b8lNcPaC9srKUjKc7Cbp) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Giuramenti](https://open.spotify.com/album/6IKfDFFZZNzNf0m5AiFRKe) | 3:16 |
 | 21 | [Diverso/Uguale](https://open.spotify.com/track/0QnSjvX4FHMcmXRql6Jef5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Diverso/Uguale](https://open.spotify.com/album/6zAvSlGmh5ppa8s9lupqjG) | 3:08 |
 | 22 | [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 |
 | 23 | [PROVARCI](https://open.spotify.com/track/6A3cyQqgcK7etGZr3ytxWb) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [PROVARCI](https://open.spotify.com/album/4gc0RD4I7jZv4JTvfxzlq5) | 2:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 59 | [Dynamite](https://open.spotify.com/track/4rrTYw1uDqd3pMTUmuHEVF) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Dynamite](https://open.spotify.com/album/4qq6sl99NWDbnySzlnUGiT) | 3:00 |
 | 60 | [Stare sveglio](https://open.spotify.com/track/1ERgcJITJ5bcd9eRWxnQMa) | [sonosem](https://open.spotify.com/artist/6krFvHoGuJyMjcjeFZRc0P) | [Da così lontano](https://open.spotify.com/album/77h73NDhSPBayfCsKrVs75) | 3:16 |
 
-Snapshot ID: `MTY1MjcwNTQyMiwwMDAwMDA5YTAwMDAwMTgwY2NlYjZkZTgwMDAwMDE4MGI3ODE0N2M2`
+Snapshot ID: `MTY1Mjg4MTQzNiwwMDAwMDA5YjAwMDAwMTgwZDc2OTMwMjcwMDAwMDE4MGI3ODE0N2M2`

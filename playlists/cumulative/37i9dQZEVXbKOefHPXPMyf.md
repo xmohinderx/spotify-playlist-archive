@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-374 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
+375 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 | 2022-04-22 | 2022-05-04 |
 | [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 | 2022-02-01 | 2022-03-04 |
 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-03-06 | 2022-03-16 |
-| [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 | 2022-05-11 |  |
+| [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 | 2022-05-11 | 2022-05-19 |
 | [Algo contigo](https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo) | 4:57 | 2022-04-15 | 2022-05-12 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2022-02-09 | 2022-02-13 |
 | [All For Us](https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 3:11 | 2022-02-27 | 2022-03-15 |
@@ -290,6 +290,7 @@
 | [si te vieras desde mis ojos](https://open.spotify.com/track/46N06MnRwCzg9S9HHrilSm) | [castronit rodig](https://open.spotify.com/artist/3Qk7ZJ3LeQNGZhQpCSrFv9) | [si te vieras desde mis ojos](https://open.spotify.com/album/6s5GuE3TTagCyIOEtPyRdr) | 2:25 | 2022-02-22 | 2022-03-03 |
 | [Si Te Vieras Desde Mis Ojos Sabrias](https://open.spotify.com/track/4u3r4baUDsPKE5U0wydXEO) | [castronit rodig](https://open.spotify.com/artist/3Qk7ZJ3LeQNGZhQpCSrFv9), [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Si Te Vieras Desde Mis Ojos Sabrias](https://open.spotify.com/album/6pjEU5DFvU2pM5F620oiM1) | 2:04 | 2022-03-01 | 2022-03-19 |
 | [Sin Censura](https://open.spotify.com/track/6PHMCzVfIzbItDmHEf9tWd) | [DJ Kendo](https://open.spotify.com/artist/5OYkaab5KaJZPdZF6knfJQ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [Sin Censura](https://open.spotify.com/album/3P0MpuszB4zJvqnlzCrb83) | 3:03 | 2022-04-26 | 2022-05-04 |
+| [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-05-18 |  |
 | [Slow Motion](https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Slow Motion](https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g) | 2:46 | 2022-04-11 |  |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-29 | 2022-02-02 |
 | [Solo tú](https://open.spotify.com/track/7tXWUU1HgnV4YuJiNbmG1l) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Yaneth Waldman](https://open.spotify.com/artist/49xYVBMRskbDXPIZJZxJwR), [Alejandro Riaño](https://open.spotify.com/artist/6gypZD8U0igayJnsl9ZWQF), [Daniela Sierra](https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Elenco de Encanto](https://open.spotify.com/artist/7yunuNilTB1HH7WnIXcCnY) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 4:38 | 2022-01-13 | 2022-01-20 |

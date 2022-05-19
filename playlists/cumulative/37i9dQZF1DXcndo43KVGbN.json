@@ -592,6 +592,28 @@
     },
     {
       "album": {
+        "name": "Memories of Log",
+        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        },
+        {
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Every Something Is An Echo Of Nothing",
+      "url": "https://open.spotify.com/track/4pPsxK4Hiw8VjGIdIlQkUj"
+    },
+    {
+      "album": {
         "name": "How Much Time it is Between You and Me?",
         "url": "https://open.spotify.com/album/3f5TwahHoUqJVnNrhp68Mm"
       },

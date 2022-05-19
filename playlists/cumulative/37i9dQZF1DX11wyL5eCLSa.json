@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-27",
+      "date_removed": null,
       "duration_ms": 247431,
       "name": "Agua Santa",
       "url": "https://open.spotify.com/track/0arH8qrtmayVDnxuySM798"
@@ -131,6 +131,24 @@
       "duration_ms": 325043,
       "name": "Austin",
       "url": "https://open.spotify.com/track/1pQOdthf95QI6yzhP8pxdW"
+    },
+    {
+      "album": {
+        "name": "A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe"
+      },
+      "artists": [
+        {
+          "name": "Rock And Lovers",
+          "url": "https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225936,
+      "name": "A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2"
     },
     {
       "album": {
@@ -427,7 +445,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 298666,
       "name": "Ef\u00edmera",
       "url": "https://open.spotify.com/track/6ghPND4VxckeuSFjOkG4XC"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 260508,
       "name": "Globos",
       "url": "https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 225480,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/1TmGgQDLKQHm2GzGDjsnFd"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 232605,
       "name": "La Tregua",
       "url": "https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 184533,
       "name": "Nunca te am\u00e9",
       "url": "https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 241160,
       "name": "Polvo C\u00f3smico",
       "url": "https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 193239,
       "name": "Punk",
       "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 230725,
       "name": "Sin Condiciones",
       "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 226853,
       "name": "Soluci\u00f3n",
       "url": "https://open.spotify.com/track/0Dw0cw0IlMcU93vBohfBQg"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 300500,
       "name": "Tecolotes",
       "url": "https://open.spotify.com/track/3kGEAWMgqQn78pcktXz2uB"

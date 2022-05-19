@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 456904,
       "name": ". . . on reflection (one)",
       "url": "https://open.spotify.com/track/1UCrxzeXf6umXnGgopWHvS"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 312485,
       "name": "Always",
       "url": "https://open.spotify.com/track/5X28wVhPZ2RK91PPyfOOgQ"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 351980,
       "name": "Aparaquasynthe - Remastered 2022",
       "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 141882,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/2daJNTleEs6jbmOUQGO3vZ"
@@ -2469,7 +2469,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 311000,
       "name": "Du repos",
       "url": "https://open.spotify.com/track/1HTyYBqbbyKH8zHRgUru2q"
@@ -2523,7 +2523,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 310000,
       "name": "Early Spring",
       "url": "https://open.spotify.com/track/5gBHwLpu16lo8wSK9DtBoj"
@@ -2633,7 +2633,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 363375,
       "name": "Echoes of the Past - Ambient Mix",
       "url": "https://open.spotify.com/track/73KkLb3vy6k6YV8myyxUJS"
@@ -2913,7 +2913,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 245250,
       "name": "Falling Snowflakes",
       "url": "https://open.spotify.com/track/0JBcYw96mPar9aBlHDYTkS"
@@ -2967,7 +2967,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 119217,
       "name": "Family",
       "url": "https://open.spotify.com/track/22S1pOKa2VYWQTbx6tHqZv"
@@ -3364,6 +3364,24 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3"
+      },
+      "artists": [
+        {
+          "name": "slowave",
+          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199058,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93"
+    },
+    {
+      "album": {
         "name": "Glass Horizon",
         "url": "https://open.spotify.com/album/6DzBW4xYSZQ0FGF3ZFLs8J"
       },
@@ -3437,7 +3455,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 241663,
       "name": "Gleam - Stilhed Rework",
       "url": "https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu"
@@ -3937,7 +3955,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/7znsnWlNp5NpC4whTL7RnQ"
@@ -3977,7 +3995,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 307228,
       "name": "If",
       "url": "https://open.spotify.com/track/5nptEUCXW1z3I0Y6F3Wz3r"
@@ -4329,7 +4347,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Jupiter 285",
       "url": "https://open.spotify.com/track/5IDYiDJLlEL4Mscj33ao83"
@@ -4647,7 +4665,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 254062,
       "name": "Lleoedd",
       "url": "https://open.spotify.com/track/5E1G3rGQTwob38KAmXwTWv"
@@ -4901,7 +4919,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 234795,
       "name": "Mammatus",
       "url": "https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g"
@@ -5047,7 +5065,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 257722,
       "name": "Meditation, No. 1",
       "url": "https://open.spotify.com/track/6YGBhIuanpChP7LeP26jhj"
@@ -5163,7 +5181,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 1088375,
       "name": "Mira",
       "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
@@ -6171,7 +6189,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 290555,
       "name": "Paravents",
       "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
@@ -6395,7 +6413,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 117749,
       "name": "Plan & Elevation: IV. The Orangery",
       "url": "https://open.spotify.com/track/6bcadsnh0VfACuF1VJdnjv"
@@ -6489,6 +6507,28 @@
       "duration_ms": 278000,
       "name": "Possibilities",
       "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
+    },
+    {
+      "album": {
+        "name": "Post String Theory (Foam and Sand Rework)",
+        "url": "https://open.spotify.com/album/4LeYPputcKJqRtKx89XCdI"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290847,
+      "name": "Post String Theory - Foam and Sand Rework",
+      "url": "https://open.spotify.com/track/4UQCB1YLBTl8n1WeshtUq1"
     },
     {
       "album": {
@@ -7206,6 +7246,24 @@
     },
     {
       "album": {
+        "name": "Weight",
+        "url": "https://open.spotify.com/album/1PNhGSrkzB7Ve4ca2VM8kH"
+      },
+      "artists": [
+        {
+          "name": "Jogging House",
+          "url": "https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305008,
+      "name": "Shape",
+      "url": "https://open.spotify.com/track/1pN5WaTsSBHWSXHfn0UOjd"
+    },
+    {
+      "album": {
         "name": "Gold Dust",
         "url": "https://open.spotify.com/album/7q07UdbjEjUxD7FflG3kDj"
       },
@@ -7453,7 +7511,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 121653,
       "name": "softly",
       "url": "https://open.spotify.com/track/1zp5bDTjX4hFLaKm3JAAub"
@@ -7742,6 +7800,24 @@
     },
     {
       "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/4LY90qgXdEBIe47t6SCvDo"
+      },
+      "artists": [
+        {
+          "name": "Origin ST",
+          "url": "https://open.spotify.com/artist/03YMunHBU0yB0WIGH6RGE9"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373894,
+      "name": "Surfacing",
+      "url": "https://open.spotify.com/track/2pF6mT3LxFy5SleXkAmq7j"
+    },
+    {
+      "album": {
         "name": "Control Voltage",
         "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
       },
@@ -7959,10 +8035,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 164495,
       "name": "The First Falling Snowflakes Of A Winter Long Gone",
       "url": "https://open.spotify.com/track/5wEdD7Wrj2Zm0z2eUg9vsF"
+    },
+    {
+      "album": {
+        "name": "High Peaks",
+        "url": "https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi"
+      },
+      "artists": [
+        {
+          "name": "Black Brunswicker",
+          "url": "https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230750,
+      "name": "The Ghosts we keep Inside Ourselves",
+      "url": "https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi"
     },
     {
       "album": {
@@ -8259,7 +8353,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 114857,
       "name": "this feeling (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/1PEKGePNN1XrdKG2QQDUCv"
@@ -8473,7 +8567,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 457639,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi"
@@ -9161,7 +9255,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 628736,
       "name": "Wawa by the Ocean",
       "url": "https://open.spotify.com/track/2S7slBXVQLbQUVW1ICWlvK"
@@ -9273,7 +9367,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 78335,
       "name": "when will i see her again?",
       "url": "https://open.spotify.com/track/65KYTtspLmlO0awOT87TaT"
@@ -9519,7 +9613,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 172577,
       "name": "you're not alone",
       "url": "https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya"

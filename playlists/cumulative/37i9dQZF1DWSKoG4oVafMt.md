@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring "Gurnam Bhullar & Sonam Bajwa"
 
-323 songs - 17 hr 50 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+325 songs - 17 hr 56 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Deewana](https://open.spotify.com/track/7juUVr6VjvWPH4mccimhcZ) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [Deewana](https://open.spotify.com/album/4M93uVNVqjkjgG8U57XEOR) | 3:12 | 2022-04-28 |  |
 | [Deewana](https://open.spotify.com/track/5z2FuFQrJ9xot9VGaJveS0) | [Erickk](https://open.spotify.com/artist/4qyIy5aNiSnuQRCNog8QYP), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Deewana](https://open.spotify.com/album/3JdqmLK5m6yMVmiJa9WYrX) | 2:50 | 2022-02-10 | 2022-02-19 |
 | [Deewana](https://open.spotify.com/track/7pHbdBHrGCmGNibnTpvIeq) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP) | [Deewana](https://open.spotify.com/album/1ojsW5BU8JfG7GNYaoGSKv) | 3:13 | 2022-03-08 | 2022-04-06 |
+| [Dholna](https://open.spotify.com/track/2XjagbYk7A08ioxlnlrNOt) | [Aatish](https://open.spotify.com/artist/6w2tW2P6MoEdHEFAGUqrMa) | [Dholna](https://open.spotify.com/album/7KpSRckcDKWoIdwJiEyolS) | 2:57 | 2022-05-18 |  |
 | [Diamond](https://open.spotify.com/track/4GPygMUqEhPyYUosLKmvCK) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu), [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM) | [Diamond](https://open.spotify.com/album/2pIDaUHfZ1BcK3Es4ptDBb) | 3:39 | 2022-01-29 | 2022-03-01 |
 | [Diamond Koka](https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Diamond Koka](https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD) | 2:52 | 2022-01-11 |  |
 | [Dil Diyan Gallan](https://open.spotify.com/track/76wpnLYf4uwrpJA4W9VwqT) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI), [Gauri Virdi](https://open.spotify.com/artist/6vhqXm02dV8QJVCfdHVE7Q) | [Dil Diyan Gallan](https://open.spotify.com/album/4fEQsSIpxj0yMT6msWS7Be) | 3:19 | 2022-02-04 | 2022-02-12 |
@@ -273,6 +274,7 @@
 | [Slow\-Mo](https://open.spotify.com/track/5HtPFkvtYUq2ToujMrfFLo) | [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T) | [Slow\-Mo](https://open.spotify.com/album/6Uv5G5GMcHdmAaWMNtZldN) | 3:20 | 2022-03-21 | 2022-04-06 |
 | [Sohna](https://open.spotify.com/track/56MH70mJQMUzmMACys5ePe) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 4:15 | 2022-02-02 | 2022-04-06 |
 | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/track/1hsHE3SjSVrlzAnSK7lKQH) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/album/7iIY4LG4qMEeCRkGfWsk9K) | 2:14 | 2022-04-18 | 2022-04-29 |
+| [Sohna Koi Nahi](https://open.spotify.com/track/4xN6lESQakIc62Jkw4ejNw) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB) | [Sohna Koi Nahi](https://open.spotify.com/album/49XzOQibHTAs3VQovDW8er) | 3:21 | 2022-05-18 |  |
 | [Sohniyan Shaklan](https://open.spotify.com/track/6jxlrho78w0b4ldZ7J7rA8) | [Khan Saab](https://open.spotify.com/artist/5Uo28tAylVBPPW2Cs8LFwN) | [Sohniyan Shaklan](https://open.spotify.com/album/2DrEVLz6eKa5b83A4N56oW) | 5:12 | 2022-04-20 | 2022-05-11 |
 | [Sorry](https://open.spotify.com/track/47AWxFFocq2DekndowAVLR) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Vinder Nathu Majra](https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN) | [Sorry](https://open.spotify.com/album/6Bq5uSzuLLsKX3nsPrqgxA) | 3:53 | 2022-05-12 |  |
 | [Stalk](https://open.spotify.com/track/4Yh6MCJEnplgYz9Ywj20oK) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Stalk](https://open.spotify.com/album/1ZUIGjIgI9oaFMTy5jjQid) | 2:17 | 2022-03-18 |  |

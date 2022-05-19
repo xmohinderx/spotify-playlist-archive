@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Tribemama Marykali, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Chinmayi Tripathi, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -954,6 +954,32 @@
     },
     {
       "album": {
+        "name": "Bin Bataye",
+        "url": "https://open.spotify.com/album/0SEa6MorRu0A4XC9jJlt1G"
+      },
+      "artists": [
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Ragasuram",
+          "url": "https://open.spotify.com/artist/5TOAOQvO0N5gjNZMse9P60"
+        },
+        {
+          "name": "Saurabh Tripathi",
+          "url": "https://open.spotify.com/artist/2kOWriOsQOgsIeuRshJf36"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Bin Bataye",
+      "url": "https://open.spotify.com/track/3FG79ZhBtwQoy4sVkXVIhE"
+    },
+    {
+      "album": {
         "name": "Bin Tere",
         "url": "https://open.spotify.com/album/19vTDNGlHa5uqjM75FHibX"
       },
@@ -1281,6 +1307,24 @@
       "duration_ms": 338213,
       "name": "Deedar E Khuda",
       "url": "https://open.spotify.com/track/69tialKK7peEbfsvO5yGuF"
+    },
+    {
+      "album": {
+        "name": "Dekho Wahaan Pe (Four Lane)",
+        "url": "https://open.spotify.com/album/3pRNNflZfxEJNWS3IISp1d"
+      },
+      "artists": [
+        {
+          "name": "Gamak",
+          "url": "https://open.spotify.com/artist/6qMwHOGfIumxsVWPQl5sfN"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189113,
+      "name": "Dekho Wahaan Pe - Four Lane",
+      "url": "https://open.spotify.com/track/10pzp3sppIrKAi5ak31DPU"
     },
     {
       "album": {
@@ -1835,7 +1879,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 233250,
       "name": "For Lost Memories",
       "url": "https://open.spotify.com/track/40UwGMkYxIG7Mc3tShZeLL"
@@ -2016,6 +2060,28 @@
     },
     {
       "album": {
+        "name": "Gum Kahin",
+        "url": "https://open.spotify.com/album/6h57I8dl2U4CWttokWEakz"
+      },
+      "artists": [
+        {
+          "name": "Shubham Srivastava",
+          "url": "https://open.spotify.com/artist/2yFN3DwkemsCYwcXcKDkvl"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171593,
+      "name": "Gum Kahin",
+      "url": "https://open.spotify.com/track/5asHox5iMFgGorPBifx6CC"
+    },
+    {
+      "album": {
         "name": "Guzarish",
         "url": "https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ"
       },
@@ -2139,7 +2205,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 202586,
       "name": "Holding On To The Hope",
       "url": "https://open.spotify.com/track/24IgBHkgObOvSD4A2IgW0y"
@@ -2223,7 +2289,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 234000,
       "name": "hues of autumn",
       "url": "https://open.spotify.com/track/3FhkU4wmGMYs8sYEZ0mbgm"
@@ -2241,7 +2307,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 163043,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3Wl2Wum1ilUlbf3ZIrJclB"
@@ -2359,7 +2425,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 220418,
       "name": "I See the Light",
       "url": "https://open.spotify.com/track/3CrvuGeBMUGGxZG3glB5Bp"
@@ -3763,7 +3829,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 220000,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/28R8mTc9jP9DKSNEGBkzMY"
@@ -4883,7 +4949,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 311830,
       "name": "Our Souls At Night",
       "url": "https://open.spotify.com/track/5gFQp3Oi2YLlFqwj1NAjGa"
@@ -4905,6 +4971,24 @@
       "duration_ms": 345515,
       "name": "Owl's Eye",
       "url": "https://open.spotify.com/track/7jRdiRxmAyazuKfmA1siPV"
+    },
+    {
+      "album": {
+        "name": "Paagal Dil",
+        "url": "https://open.spotify.com/album/5zTSRo9sfC64XOvjNYmDHt"
+      },
+      "artists": [
+        {
+          "name": "Chennai Street Band",
+          "url": "https://open.spotify.com/artist/7zhx2usXU5SMZYRICSU8UG"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224202,
+      "name": "Paagal Dil",
+      "url": "https://open.spotify.com/track/2UCaQbhU9fS4ltmj92HXdF"
     },
     {
       "album": {
@@ -5159,6 +5243,24 @@
       "duration_ms": 274494,
       "name": "Perfect World",
       "url": "https://open.spotify.com/track/3meBFy64QMATfZgIa9loka"
+    },
+    {
+      "album": {
+        "name": "persephone",
+        "url": "https://open.spotify.com/album/16ZNDmpFolJfTsdx939wiT"
+      },
+      "artists": [
+        {
+          "name": "Gaia Meera",
+          "url": "https://open.spotify.com/artist/1UELyRsYJIZC0QrOayNKxw"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251069,
+      "name": "persephone",
+      "url": "https://open.spotify.com/track/2wVUPIC27DOrJiQX9388EJ"
     },
     {
       "album": {
@@ -5503,7 +5605,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 193000,
       "name": "Rehnuma",
       "url": "https://open.spotify.com/track/4l9YKebWc0WGhcNbtJFeRe"
@@ -6359,7 +6461,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 258311,
       "name": "Straight Through",
       "url": "https://open.spotify.com/track/2LUy1Nt7vWHcmxVQ0UfOHL"
@@ -7412,6 +7514,24 @@
     },
     {
       "album": {
+        "name": "White Clouds",
+        "url": "https://open.spotify.com/album/62jKmwJGxs11c2MJecAL6p"
+      },
+      "artists": [
+        {
+          "name": "Blue Hush",
+          "url": "https://open.spotify.com/artist/3R8iUh001mnkDNnsAoFIMf"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217241,
+      "name": "White Clouds",
+      "url": "https://open.spotify.com/track/1BxutrDFAcRmQbDblSljrn"
+    },
+    {
+      "album": {
         "name": "Who I Love",
         "url": "https://open.spotify.com/album/54vT8jelDn6jUvSRhEaO3m"
       },
@@ -7449,6 +7569,24 @@
       "duration_ms": 195138,
       "name": "Wish I Could Forget Reggae Version",
       "url": "https://open.spotify.com/track/0eEvFRSDGk5zcnHdssCMqV"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1PfSP5LGD3dJdxzbEsIGNl"
+      },
+      "artists": [
+        {
+          "name": "Tarra",
+          "url": "https://open.spotify.com/artist/0zeS3VoQckGiXlZudEnWqx"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204463,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/3Nj53Otddk8nJ2vve5MuHp"
     },
     {
       "album": {
@@ -7655,6 +7793,24 @@
       "duration_ms": 259230,
       "name": "You Are Mine",
       "url": "https://open.spotify.com/track/1VXbZLIbWT4PqUYrRnzxgA"
+    },
+    {
+      "album": {
+        "name": "You Come Here",
+        "url": "https://open.spotify.com/album/4ujbOKNQoQpX1GkJNiclMe"
+      },
+      "artists": [
+        {
+          "name": "Akash Chopra",
+          "url": "https://open.spotify.com/artist/2opKS25hOaAFziQ5PWNAWT"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216834,
+      "name": "You Come Here",
+      "url": "https://open.spotify.com/track/75u9otgCcR0sMI5B5pFzaJ"
     },
     {
       "album": {

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 190820,
       "name": "99 Red Balloons",
       "url": "https://open.spotify.com/track/56tirIo28bF0MY5oMpiDah"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 155294,
       "name": "A Little Bit Closer",
       "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 174874,
       "name": "Bitter Move",
       "url": "https://open.spotify.com/track/4MN1bp2mTR563WEIoXhIoR"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 285004,
       "name": "Blueblurry",
       "url": "https://open.spotify.com/track/2gMxNLe9ugpFAia2NE8OGV"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 222590,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/1Bt0UAApn7Oxdam3lQs1vo"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 319677,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
@@ -756,6 +756,32 @@
     },
     {
       "album": {
+        "name": "Mama Say (farfetch'd Remix)",
+        "url": "https://open.spotify.com/album/0XvmvBlX3WkQGeXZmYBUiL"
+      },
+      "artists": [
+        {
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+        },
+        {
+          "name": "Parula",
+          "url": "https://open.spotify.com/artist/1sFfjHfX74mGrZpgt7ErQL"
+        },
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171910,
+      "name": "Mama Say (farfetch'd Remix)",
+      "url": "https://open.spotify.com/track/09jTPmbrPueZItnMez0zTx"
+    },
+    {
+      "album": {
         "name": "Miracle In The Middle Of My Heart",
         "url": "https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG"
       },
@@ -875,7 +901,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 271306,
       "name": "Nicaraguan Dream",
       "url": "https://open.spotify.com/track/2NQ6In9ja7fBeBI9ADmMWB"
@@ -977,7 +1003,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 214855,
       "name": "Pleasure & Pain",
       "url": "https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE"
@@ -1053,7 +1079,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 186536,
       "name": "Say A Little Prayer",
       "url": "https://open.spotify.com/track/2VSCcSLiISjz8tZHi4ieNf"
@@ -1215,7 +1241,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 186809,
       "name": "Surf The Orange Water",
       "url": "https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2"
@@ -1331,7 +1357,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 196702,
       "name": "Thunder - Mulshine Remix",
       "url": "https://open.spotify.com/track/4SqOYotiuF6ZFcyre42wYx"
@@ -1385,7 +1411,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 259499,
       "name": "Tropicae",
       "url": "https://open.spotify.com/track/0rexhQFkP4bgMSLeSyZjpH"

@@ -644,6 +644,28 @@
     },
     {
       "album": {
+        "name": "VIAIPI",
+        "url": "https://open.spotify.com/album/1HQzgHvV8wsWhI6LffYwL9"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Franky Style",
+          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146425,
+      "name": "CRO - VIAIPI ft. FRANKY STYLE",
+      "url": "https://open.spotify.com/track/08gHuPeFkw5nHo9xqUJHQe"
+    },
+    {
+      "album": {
         "name": "Cual Hay",
         "url": "https://open.spotify.com/album/4Gq43yGuKPNHuxb3Dlx9E1"
       },
@@ -2769,28 +2791,6 @@
       "duration_ms": 146716,
       "name": "Ventr\u00edlocuo",
       "url": "https://open.spotify.com/track/32ZzE1I9dEjcZM6q4DPKAK"
-    },
-    {
-      "album": {
-        "name": "VIAIPI",
-        "url": "https://open.spotify.com/album/1HQzgHvV8wsWhI6LffYwL9"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "Franky Style",
-          "url": "https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx"
-        }
-      ],
-      "date_added": "2021-11-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146425,
-      "name": "VIAIPI",
-      "url": "https://open.spotify.com/track/08gHuPeFkw5nHo9xqUJHQe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > make a mess of it\. Cover: POORSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,227 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,285 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 46 | [Prescription Kid](https://open.spotify.com/track/3qFQBjBhJRpqEB2KL2FxLK) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [XFOREVER](https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n) | 3:28 |
 | 47 | [Zombie](https://open.spotify.com/track/10IbUW87Q8kTs3ySisuLVc) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Zombie](https://open.spotify.com/album/2OrzskCbMc8Bu5rbPXppJp) | 2:42 |
 | 48 | [Scissorhands](https://open.spotify.com/track/5wC6xF8adOW6WQKZEBibCq) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Scissorhands](https://open.spotify.com/album/75la8mqEDlQzN6r9gy1tJH) | 2:38 |
-| 49 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe), [Code:Pandorum](https://open.spotify.com/artist/6Ec6YRpAZkZcsgo3WjYifd) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 |
+| 49 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 |
 | 50 | [We Appreciate Power](https://open.spotify.com/track/5b0DJPEs6UUlDmpZuoDD2X) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [We Appreciate Power](https://open.spotify.com/album/65hPTJNhxg9P2bIHyKkZUE) | 5:34 |
 | 51 | [Cry \(feat\. Grimes\)](https://open.spotify.com/track/0w1Wd17IygSVDMOZtKm4hi) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Cry \(feat\. Grimes\)](https://open.spotify.com/album/0osHesMrCdavp471L78uwu) | 2:06 |
 | 52 | [1\-800\-CLOSE\-UR\-EYES](https://open.spotify.com/track/7aO4r1tWlxaJCsq2f8tPCR) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [1\-800\-CLOSE\-UR\-EYES](https://open.spotify.com/album/4RWQdABMRwPtFCelCgEExV) | 2:13 |

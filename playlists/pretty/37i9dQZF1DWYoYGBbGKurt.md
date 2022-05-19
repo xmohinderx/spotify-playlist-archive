@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,729 likes - 543 songs - 21 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,997 likes - 543 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 46 | [lilac](https://open.spotify.com/track/3VDYHO8eQlC3yH4G18T0Aj) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [lilac](https://open.spotify.com/album/1jTJJpGPiK275BopXCx0rv) | 3:20 |
 | 47 | [Eyes Open](https://open.spotify.com/track/2xXPHmXCk7vSMsEgIOMc2N) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Eyes Open](https://open.spotify.com/album/1rtp4yN1UP0A7CEQz2ujCp) | 2:34 |
 | 48 | [Tundra](https://open.spotify.com/track/6vdPvQR9s2jdh7w6MNEAev) | [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD), [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Tundra](https://open.spotify.com/album/1BJOv9kFnR2hp0epumr7nT) | 2:30 |
-| 49 | [Something Light](https://open.spotify.com/track/5KExA1UDxPw4gJNkqoHPPd) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Something Light](https://open.spotify.com/album/0AlLpK6PfKoHDaAFjdtm8S) | 2:05 |
+| 49 | [Something Light](https://open.spotify.com/track/5KExA1UDxPw4gJNkqoHPPd) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Something Light](https://open.spotify.com/album/0AlLpK6PfKoHDaAFjdtm8S) | 2:05 |
 | 50 | [Island Broadcast](https://open.spotify.com/track/0i4Uf0eDOCZjrczVPutsDA) | [Helynt](https://open.spotify.com/artist/6wM3tYsLm3LMfEKIkl5SmY), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Our New Horizons](https://open.spotify.com/album/7KCzNyefvJazaJrZEoTg1P) | 2:25 |
 | 51 | [Summer in the Streets](https://open.spotify.com/track/1j0ocgsF8l1m5yiVjfgmMa) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Summer in the Streets](https://open.spotify.com/album/4inLD7of7k7Cap3LqvPkUd) | 1:49 |
 | 52 | [Tartufo](https://open.spotify.com/track/1GPbMICiOkUgFylbUQB2bM) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Tartufo](https://open.spotify.com/album/4n5TIXBW3FZInQEf8sMR9t) | 2:31 |

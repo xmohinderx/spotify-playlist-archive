@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Pailita, Nio Garcia
 
-92 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
+93 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/1VeWyX96wAd9PwEhX7cbqr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Soñando Despierto](https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Amor y Yo](https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf) | 2:56 | 2022-03-21 |  |
 | [Suelta](https://open.spotify.com/track/6b8ssfeNotmNKa9AzS734T) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Suelta](https://open.spotify.com/album/4ryQ5zgWSHGFuoYO4bmY92) | 3:17 | 2022-03-21 |  |
 | [TBT \(Remix\) \[feat\. Micro TDH, Feid\]](https://open.spotify.com/track/3PldY2CEKeIYkqtk8YkwvE) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [TBT \(Remix\) \[feat\. Micro TDH, Feid\]](https://open.spotify.com/album/4fJCo0tMt9NELbHalwY5Qe) | 4:58 | 2022-03-21 |  |
+| [Te Veo Bailar \(feat\. Brray & Alejandro Armes\)](https://open.spotify.com/track/3CerlljsJSVaRrzESJQVWU) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [Te Veo Bailar \(feat\. Brray & Alejandro Armes\)](https://open.spotify.com/album/3EXhIXQ22Kh8Up5lB1MSoX) | 5:25 | 2022-05-18 |  |
 | [Tendencia Global](https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tendencia Global](https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk) | 3:54 | 2022-03-21 |  |
 | [Trambo](https://open.spotify.com/track/2vTBY3AWUxdOgR6iw04Dr1) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Trambo](https://open.spotify.com/album/5TQJ5sVaQeRYpDdOrwxRBD) | 3:37 | 2022-03-21 | 2022-04-02 |
 | [Tú No Eras Así](https://open.spotify.com/track/6h1UftIKsK3dn9RJXhx4G9) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [All Star Game](https://open.spotify.com/album/7d0hMBy98bkBVRssATx4YL) | 3:00 | 2022-03-21 | 2022-04-02 |

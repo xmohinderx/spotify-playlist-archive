@@ -4,7 +4,7 @@
 
 > La scena italiana indipendente, senza etichette di genere\. Cover: Anna Carol
 
-200 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+201 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Piccoli problemi](https://open.spotify.com/track/0l4AdVfyK4ZI1aNqomkrqA) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Piccoli problemi](https://open.spotify.com/album/4fdrb9tRtt4mfIFCzBGzZ2) | 2:59 | 2022-04-19 |  |
 | [Plastica](https://open.spotify.com/track/1P7eaFyOFgj6hLIEgTWKRh) | [Brividee](https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo) | [Controluce](https://open.spotify.com/album/1zu61ZwipzAOrHSbDXsG1I) | 3:27 | 2022-01-06 | 2022-02-18 |
 | [Plata o Plomo](https://open.spotify.com/track/6df02d2Z4huWdCHC3Z11za) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Plata o Plomo](https://open.spotify.com/album/1xwusIAkk54BU8cuDJJqSQ) | 2:15 | 2022-03-03 | 2022-03-25 |
+| [Porpora](https://open.spotify.com/track/4wQlWWwxQn2MD5bowV2BwV) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Lunaire](https://open.spotify.com/album/4yoxH6CFV5aVbUE8Pb8HBm) | 2:55 | 2022-05-18 |  |
 | [PREMI PLAY](https://open.spotify.com/track/3X1l6zRsguD3Fiiw9Aa1Be) | [Giovanni Neve](https://open.spotify.com/artist/5EZhdYH1kaoL7mUQe9U7LA) | [Premi Play](https://open.spotify.com/album/4McxEPqiG19gjFGlpxXY62) | 2:44 | 2022-02-25 | 2022-03-04 |
 | [Quando](https://open.spotify.com/track/74ksYBVr5TRuWOcfiv9yk9) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [Quando](https://open.spotify.com/album/2adLcYLHWnXTAFgVlAq5I1) | 5:11 | 2022-02-17 | 2022-03-18 |
 | [quattro](https://open.spotify.com/track/5o39NoEvZyZl3jvL2CCX61) | [bianca](https://open.spotify.com/artist/6Cuyy7LGKfJqK91oFBd2yc) | [quattro](https://open.spotify.com/album/5COv2rWgGH0aTosXpgsHwe) | 3:04 | 2022-03-03 |  |

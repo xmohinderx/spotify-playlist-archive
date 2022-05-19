@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 279186,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 338333,
       "name": "Duele M\u00e1s",
       "url": "https://open.spotify.com/track/5eq5Fn07a5RXLrMXQhtbGr"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 303306,
       "name": "Es Mi Mujer",
       "url": "https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 294173,
       "name": "Lobo Domesticado",
       "url": "https://open.spotify.com/track/3G6Uc9tOzUlz4hYWxm5ZIB"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 239360,
       "name": "Me Voy a Acostumbrar - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/7sEgRgtnskDbjfZOURjNob"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 298600,
       "name": "Pagina Del Amor",
       "url": "https://open.spotify.com/track/7otEYXe06YiUKPQsK4kGqf"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 287960,
       "name": "Pensamiento y Palabra",
       "url": "https://open.spotify.com/track/7HZgFgvqDQpe4ZWIYwh0YV"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 319165,
       "name": "Si Te Marchas (Voy a Llorar)",
       "url": "https://open.spotify.com/track/68l1KAnUNML8GMTAuQu0X6"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 252826,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 267693,
       "name": "T\u00f9 No Le Amas Le Temes",
       "url": "https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ"
@@ -1511,7 +1511,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 289466,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
@@ -1609,6 +1609,24 @@
       "duration_ms": 259853,
       "name": "Yo No S\u00e9 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262053,
+      "name": "Zodiaco",
+      "url": "https://open.spotify.com/track/1RomkFIk4vXjvmjJaoOGc2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0ERdy9Swdy5"

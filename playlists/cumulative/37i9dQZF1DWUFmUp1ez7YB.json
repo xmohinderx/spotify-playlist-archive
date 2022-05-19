@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 307026,
       "name": "Bailamos Otra Vez",
       "url": "https://open.spotify.com/track/3oyeiHWxroNe5oaLnLUxCL"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 353253,
       "name": "Coraz\u00f3n Embusteros",
       "url": "https://open.spotify.com/track/527sYZvnJbG8z5ScW2DAVU"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 230520,
       "name": "Desesperado",
       "url": "https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 280013,
       "name": "Ese Hombre",
       "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 313560,
       "name": "Mi Mayor Venganza",
       "url": "https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 224826,
       "name": "Pa' Bravo Yo",
       "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
@@ -1561,10 +1561,32 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 409080,
       "name": "Peri\u00f3dico De Ayer",
       "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+    },
+    {
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/0NqWCBr5pIBYveWTRr8lXs"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401786,
+      "name": "Plastico",
+      "url": "https://open.spotify.com/track/1r1eiM9qXEdvteunOAslIW"
     },
     {
       "album": {
@@ -1597,7 +1619,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 300265,
       "name": "Probablemente",
       "url": "https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra"
@@ -1763,7 +1785,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 285546,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"

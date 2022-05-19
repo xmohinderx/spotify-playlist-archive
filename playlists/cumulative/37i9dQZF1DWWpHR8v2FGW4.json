@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 159569,
       "name": "Badman",
       "url": "https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 218830,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 196173,
       "name": "Eyes Low",
       "url": "https://open.spotify.com/track/4urIo6uuV3Dio7S0mEOjDn"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Falkor's Return",
       "url": "https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ"
@@ -535,10 +535,32 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 145920,
       "name": "FIND ME IN DA CLUB !!!",
       "url": "https://open.spotify.com/track/5uyg0qKiHRRsa0ykPAcQTN"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/23htNRZZo1AaSgRb8ZULJV"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260457,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl"
     },
     {
       "album": {
@@ -673,7 +695,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 182903,
       "name": "GUCCI LOUIS",
       "url": "https://open.spotify.com/track/7kjMP3Ac2AnOZ4mK3sS0rO"
@@ -709,7 +731,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 217142,
       "name": "Higher Purpose",
       "url": "https://open.spotify.com/track/67WV5EiiBY9zWPFnwK3yER"
@@ -807,7 +829,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 194262,
       "name": "I Swirl",
       "url": "https://open.spotify.com/track/2DZe6IQX5WIhTgr2q5Mu3w"
@@ -829,7 +851,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 215172,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/5BO9RCcQFzOcuweoahVaLZ"
@@ -927,7 +949,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 229144,
       "name": "Let's Roll",
       "url": "https://open.spotify.com/track/35lF14PODtapsReNYnN6D9"
@@ -985,7 +1007,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 222857,
       "name": "Misdemeanor",
       "url": "https://open.spotify.com/track/1Bg8eYRESsgf64VK9GvbsO"

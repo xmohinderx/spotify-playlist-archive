@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Bis - Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2020-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Argumento",
+      "url": "https://open.spotify.com/track/4eZTQ3MPXtffTSLXS1Ha1s"
+    },
+    {
+      "album": {
         "name": "Os Originais Do Samba",
         "url": "https://open.spotify.com/album/72ITnY3eflQkRLbLYkRkaZ"
       },
@@ -257,7 +275,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 155493,
       "name": "Bebete V\u00e3obora",
       "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
@@ -369,7 +387,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 211945,
       "name": "Call",
       "url": "https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2"
@@ -481,7 +499,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 184093,
       "name": "Chove Chuva",
       "url": "https://open.spotify.com/track/6mTfOxORhYlpnTvm7VrL6b"
@@ -535,7 +553,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 197426,
       "name": "De Noite Na Cama",
       "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 166186,
       "name": "Little Boy Blue",
       "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 167200,
       "name": "Maracangalha",
       "url": "https://open.spotify.com/track/7vMICBgMH80JfGFaGSi8Yp"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 115266,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 198466,
       "name": "Quando voc\u00ea chegar",
       "url": "https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/420zub6oHvl246UpV2gN7H"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 219426,
       "name": "Que No Quede Huella",
       "url": "https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 125253,
       "name": "Samba do Carioca",
       "url": "https://open.spotify.com/track/77ZXnEcwNRoZBx601vq54k"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 185546,
       "name": "Soy El Rey",
       "url": "https://open.spotify.com/track/1pyKmZRflwwY85QnNcRXgv"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 219906,
       "name": "The Harder They Come - From \"The Harder They Come\" Soundtrack",
       "url": "https://open.spotify.com/track/6XitzIBDSAbU9gU9lhouQa"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 235128,
       "name": "Voc\u00ea N\u00e3o Presta",
       "url": "https://open.spotify.com/track/253rM8bzLuRZSH8N5Z3yox"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 219493,
       "name": "Zazueira (with Stanley Turrentine)",
       "url": "https://open.spotify.com/track/4Asm2SGig47qpAePl8Wj8r"

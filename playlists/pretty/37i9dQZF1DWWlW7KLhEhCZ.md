@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Penedo, Caio Luccas
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,783 likes - 69 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,803 likes - 69 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 22 | [Pod](https://open.spotify.com/track/4hHXcfk6Lo8lK2EgkIcnjJ) | [prodbyxbs](https://open.spotify.com/artist/4DkfuOqvrE32WpHLO4OVjF), [lilbice](https://open.spotify.com/artist/1CNOHpUFm5RYlSUbs17KFX), [JotaPills](https://open.spotify.com/artist/5EFuxQqgLKrSBURDlTsC91) | [Pod](https://open.spotify.com/album/6Z9tiN4OAhuSoYQsmMZoci) | 2:37 |
 | 23 | [Vela de 7 Dias](https://open.spotify.com/track/6DR6upAHug3ctHlH5feFbb) | [Rômulo Torres](https://open.spotify.com/artist/195IxvU2BFL6ErC7ZZ66Zr), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Vela de 7 Dias](https://open.spotify.com/album/5QP5z676rfyFiIEGMtkgdI) | 2:29 |
 | 24 | [Grave](https://open.spotify.com/track/1H0Wot0dupT6fKhWKRCXqJ) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [Grave](https://open.spotify.com/album/7rfEf0bN3tlTUCtfzPph5k) | 2:23 |
-| 25 | [Detectou](https://open.spotify.com/track/6AWiKOTGiyJmpNgHXlNLwX) | [PrimeiraMente](https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT) | [Detectou](https://open.spotify.com/album/7LO0ggSquI2Ljg1UhwxQRf) | 4:34 |
+| 25 | [Detectou](https://open.spotify.com/track/6AWiKOTGiyJmpNgHXlNLwX) | [PrimeiraMente](https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT), [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Lucas Gali](https://open.spotify.com/artist/3K0d3wFUuuzWb3o6tEqRlm) | [Detectou](https://open.spotify.com/album/7LO0ggSquI2Ljg1UhwxQRf) | 4:34 |
 | 26 | [Corre](https://open.spotify.com/track/2uvlqPBRHyDiO3nPff5j2a) | [Leo VL](https://open.spotify.com/artist/1LQdDQOjdZt99E0VAFtxkd), [BocaoTudoDeus](https://open.spotify.com/artist/2k4b6Z3yqwKE2mEYJWhcIp) | [Corre](https://open.spotify.com/album/4EnnGXJKq6CcPw4YMsapnq) | 3:15 |
 | 27 | [Pitbull](https://open.spotify.com/track/4BbZUFzlbx4mVR1r0Z35x2) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Pitbull](https://open.spotify.com/album/6EwvwqxByg8Ll9VJmeqBcc) | 2:50 |
 | 28 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |

@@ -1,29 +1,13 @@
 {
   "description": "Join <a href=\"https://open.spotify.com/show/6ohzfnHlDGhODyfgpegfmB?si=deeaa9df2d834a9d\">Lorem Life Live</a> w/ guest BEABADOOBEE this Weds @ 5pm EST. Cover: aldn",
-  "num_followers": 917872,
+  "num_followers": 917784,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjgzMTc4OCwwMDAwMDM3ZDAwMDAwMTgwZDQ3MzljNmQwMDAwMDE4MGJhOTA2NjBm",
+  "snapshot_id": "MTY1MjkwMDE4NywwMDAwMDM3ZjAwMDAwMTgwZDg4NzRmMjIwMDAwMDE4MGJhOTA2NjBm",
   "tracks": [
-    {
-      "added_at": "2022-05-17 23:56:28",
-      "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 344344,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/1xiL7VZGTXUcJRmHqlIY5a"
-    },
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
@@ -41,6 +25,22 @@
       "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
     },
     {
+      "added_at": "2022-05-17 23:56:28",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 344344,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1xiL7VZGTXUcJRmHqlIY5a"
+    },
+    {
       "added_at": "2022-05-12 23:43:11",
       "album": {
         "name": "Michael",
@@ -55,22 +55,6 @@
       "duration_ms": 165453,
       "name": "Michael",
       "url": "https://open.spotify.com/track/5niZJWbyibvP1huOd2XUde"
-    },
-    {
-      "added_at": "2022-04-21 04:00:00",
-      "album": {
-        "name": "American Teenager",
-        "url": "https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH"
     },
     {
       "added_at": "2022-05-10 16:07:10",
@@ -111,6 +95,42 @@
       "duration_ms": 151111,
       "name": "bargaining (with Verzache)",
       "url": "https://open.spotify.com/track/092IjcsjJDIQHzR6Lp17Ga"
+    },
+    {
+      "added_at": "2022-04-21 04:00:00",
+      "album": {
+        "name": "American Teenager",
+        "url": "https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH"
+    },
+    {
+      "added_at": "2022-05-18 18:56:27",
+      "album": {
+        "name": "Boys In Movies",
+        "url": "https://open.spotify.com/album/1ZdXwGhectWbOc8w14ap88"
+      },
+      "artists": [
+        {
+          "name": "Liss",
+          "url": "https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI"
+        },
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 224587,
+      "name": "Boys In Movies",
+      "url": "https://open.spotify.com/track/2RheUO3luHPRjFWOLbrzVt"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -1613,22 +1633,6 @@
       "url": "https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk"
     },
     {
-      "added_at": "2022-02-02 03:08:12",
-      "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/5S2gRbLH5KRNXfcGd6o8oL"
-      },
-      "artists": [
-        {
-          "name": "Hamond",
-          "url": "https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR"
-        }
-      ],
-      "duration_ms": 188517,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/4njrQ9asHe2mqoy5VwrDYN"
-    },
-    {
       "added_at": "2022-03-18 04:00:00",
       "album": {
         "name": "u dont kno me",
@@ -1643,22 +1647,6 @@
       "duration_ms": 239195,
       "name": "u dont kno me",
       "url": "https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw"
-    },
-    {
-      "added_at": "2022-02-11 00:18:07",
-      "album": {
-        "name": "endlessly",
-        "url": "https://open.spotify.com/album/6uE1hp1mHK0kQXxnTEsuaT"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "endlessly",
-      "url": "https://open.spotify.com/track/4dR4CSy5uvkyBgPN1YeMDs"
     },
     {
       "added_at": "2021-12-01 14:26:10",
@@ -1741,38 +1729,6 @@
       "url": "https://open.spotify.com/track/4skwXbs9do3ViQGGJgsSbW"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Coolest fucking bitch in town",
-        "url": "https://open.spotify.com/album/6473Bw0fbg01rEXirczRcs"
-      },
-      "artists": [
-        {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
-        }
-      ],
-      "duration_ms": 296647,
-      "name": "Coolest fucking bitch in town",
-      "url": "https://open.spotify.com/track/7oF49vbWvNZBSqPRzrqTrr"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Superclean, Vol. II",
-        "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 258713,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
-    },
-    {
       "added_at": "2022-03-04 15:07:05",
       "album": {
         "name": "WTSGD (with Alessia Cara)",
@@ -1791,22 +1747,6 @@
       "duration_ms": 244013,
       "name": "WTSGD (with Alessia Cara)",
       "url": "https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV"
-    },
-    {
-      "added_at": "2022-02-11 00:18:07",
-      "album": {
-        "name": "pouring outside",
-        "url": "https://open.spotify.com/album/3tD59sMsBsem82vGGVRRim"
-      },
-      "artists": [
-        {
-          "name": "dyl dion",
-          "url": "https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "pouring outside",
-      "url": "https://open.spotify.com/track/6IW56BQYrmMniYZBwGCNeL"
     },
     {
       "added_at": "2022-02-11 00:18:07",
@@ -1843,22 +1783,6 @@
       "duration_ms": 183000,
       "name": "KEEP IT UP",
       "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
-    },
-    {
-      "added_at": "2022-02-02 03:08:12",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196730,
-      "name": "Billie Bossa Nova",
-      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
     },
     {
       "added_at": "2022-01-18 16:29:58",

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc1NDY1OTgsMDAwMDAwMDA3OWUyMDZjZGE2YzNhNGEwZDExMzc1YjljNzYxNjMyZA==",
+  "snapshot_id": "Mjc1NDgxNTQsMDAwMDAwMDAwOWI3ZjFlNTQxNjQ2ZTY3MzUxNGUyMjM1MjJmMDY1Ng==",
   "tracks": [
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Love Song to the Earth",
         "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
@@ -85,23 +85,7 @@
       "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "Ces Petits Riens",
-      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
@@ -125,7 +109,23 @@
       "url": "https://open.spotify.com/track/6F5bERiTAIAVAP8ZUh0tqE"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "Ces Petits Riens",
+      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
@@ -134,18 +134,14 @@
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 204240,
-      "name": "Salala",
-      "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"
+      "duration_ms": 294533,
+      "name": "Lon Lon",
+      "url": "https://open.spotify.com/track/2OkyKCr8Mo41hwLBlzI9ci"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Agolo (Da Capo's Touch)",
         "url": "https://open.spotify.com/album/0PMhkcozXB0evBnUoZIgrY"
@@ -165,7 +161,23 @@
       "url": "https://open.spotify.com/track/47oYm6GkEl2dAgrxNXSxOj"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "The Lion King 2: Simba's Pride",
+        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Milambi",
         "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
@@ -185,87 +197,7 @@
       "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Djin Djin",
-        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Lon Lon",
-      "url": "https://open.spotify.com/track/2OkyKCr8Mo41hwLBlzI9ci"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Oremi",
-        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Wombo Lombo",
-      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "The Lion King 2: Simba's Pride",
-        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "We Are One",
-      "url": "https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
@@ -289,7 +221,87 @@
       "url": "https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Naima",
+      "url": "https://open.spotify.com/track/55srfvDH9udEULKjkDKgUP"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Olofoofo",
+      "url": "https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "Wombo Lombo",
+      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Toast to Freedom",
         "url": "https://open.spotify.com/album/4oGH8ZRgR7bYMQTSjvYT2E"
@@ -369,10 +381,30 @@
       "url": "https://open.spotify.com/track/6g3ksFVdyDkIeQReZ4gT1h"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Salala",
+      "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
       },
       "artists": [
         {
@@ -380,12 +412,12 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Naima",
-      "url": "https://open.spotify.com/track/55srfvDH9udEULKjkDKgUP"
+      "duration_ms": 123653,
+      "name": "Omon Oba",
+      "url": "https://open.spotify.com/track/2E85UM4qvRKVuYDwEfFif3"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Spirit Rising (Live)",
         "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
@@ -421,55 +453,7 @@
       "url": "https://open.spotify.com/track/6rFMgbTxcAGRowwfZfzmfB"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Logozo",
-        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Batonga",
-      "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 123653,
-      "name": "Omon Oba",
-      "url": "https://open.spotify.com/track/2E85UM4qvRKVuYDwEfFif3"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Bahia",
-      "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Woman Of Steel",
         "url": "https://open.spotify.com/album/7y9bUCH7reYKiVEUs8FUV4"
@@ -489,7 +473,39 @@
       "url": "https://open.spotify.com/track/5SQPU5uLfvdznF43W5guwW"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Oremi",
+        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Zenzile: The Reimagination of Miriam Makeba",
         "url": "https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297"
@@ -509,43 +525,7 @@
       "url": "https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Logozo",
-        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Dave Matthews",
-          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "Iwoya (feat. Dave Matthews)",
-      "url": "https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Remain in Light",
         "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
@@ -561,55 +541,7 @@
       "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "Adouma",
-      "url": "https://open.spotify.com/track/3OEDBmjoVo9OptRZKvdFpo"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Celia",
-        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 270013,
-      "name": "Toro Mata",
-      "url": "https://open.spotify.com/track/6BgKLB3tbI3RbbWnLuA7qG"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Olofoofo",
-      "url": "https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "OYO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3"
@@ -629,7 +561,23 @@
       "url": "https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "Adouma",
+      "url": "https://open.spotify.com/track/3OEDBmjoVo9OptRZKvdFpo"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
@@ -645,23 +593,27 @@
       "url": "https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
-        "name": "Oh Happy Day",
-        "url": "https://open.spotify.com/album/5JpbIBWZZOq79iipDBRtaq"
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
       "artists": [
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Dave Matthews",
+          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
         }
       ],
-      "duration_ms": 215760,
-      "name": "Redemption Song",
-      "url": "https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS"
+      "duration_ms": 226826,
+      "name": "Iwoya (feat. Dave Matthews)",
+      "url": "https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Logozo",
         "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
@@ -677,7 +629,7 @@
       "url": "https://open.spotify.com/track/5QkeHNln4J9O3kEkxLZWey"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Spirit Rising (Live)",
         "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
@@ -693,7 +645,7 @@
       "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
@@ -713,10 +665,10 @@
       "url": "https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+        "name": "Oh Happy Day",
+        "url": "https://open.spotify.com/album/5JpbIBWZZOq79iipDBRtaq"
       },
       "artists": [
         {
@@ -724,12 +676,28 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 254866,
-      "name": "Afirika",
-      "url": "https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1"
+      "duration_ms": 215760,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Choose Love (Synematik Remix)",
         "url": "https://open.spotify.com/album/1aV8lZKPSOe8REki2GDnk3"
@@ -749,43 +717,7 @@
       "url": "https://open.spotify.com/track/1mn0Gp5CoKtlsMCEc89QDQ"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Care For Haiti",
-        "url": "https://open.spotify.com/album/5o4KCZHnzOSH9CiNg4GUku"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Battu",
-      "url": "https://open.spotify.com/track/7rCfUR12fVhth4IyT04Wuv"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Human Race",
-        "url": "https://open.spotify.com/album/6DTsQ3rzC6BXgfRxoqomFa"
-      },
-      "artists": [
-        {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 305986,
-      "name": "Alphaman Redemption (feat. Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/4jGl7gpSXzO1CkZVH0g8Wm"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Djin Djin",
         "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
@@ -805,10 +737,10 @@
       "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
       "artists": [
         {
@@ -816,15 +748,15 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 199240,
-      "name": "One Africa (Ind\u00e9pendance Cha-Cha)",
-      "url": "https://open.spotify.com/track/5puDqgLkZPggQNQ5sti2RK"
+      "duration_ms": 254866,
+      "name": "Afirika",
+      "url": "https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
-        "name": "Celia",
-        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
+        "name": "Care For Haiti",
+        "url": "https://open.spotify.com/album/5o4KCZHnzOSH9CiNg4GUku"
       },
       "artists": [
         {
@@ -832,48 +764,12 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 277093,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/2iqOFvioxmoazHhA86N7gS"
+      "duration_ms": 169320,
+      "name": "Battu",
+      "url": "https://open.spotify.com/track/7rCfUR12fVhth4IyT04Wuv"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Remain in Light",
-        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Born Under Punches",
-      "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "MHD",
-        "url": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE"
-      },
-      "artists": [
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Wanyinyin",
-      "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
@@ -893,7 +789,107 @@
       "url": "https://open.spotify.com/track/6maTtCz6fwZGY6QTBXXsvv"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Born Under Punches",
+      "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Cucala",
+      "url": "https://open.spotify.com/track/1W2br69NXrIXRt0hEymD3z"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "MHD",
+        "url": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE"
+      },
+      "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Wanyinyin",
+      "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Fifa",
+      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 361546,
+      "name": "Listening Wind",
+      "url": "https://open.spotify.com/track/2vh0Wy3Jvyy3vy6X9S4FgU"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "One Africa (Ind\u00e9pendance Cha-Cha)",
+      "url": "https://open.spotify.com/track/5puDqgLkZPggQNQ5sti2RK"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Quanto Mais Curtido Melhor",
         "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
@@ -913,10 +909,10 @@
       "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
       },
       "artists": [
         {
@@ -924,12 +920,12 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 237666,
-      "name": "Fifa",
-      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
+      "duration_ms": 270013,
+      "name": "Toro Mata",
+      "url": "https://open.spotify.com/track/6BgKLB3tbI3RbbWnLuA7qG"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Remain in Light",
         "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
@@ -945,7 +941,27 @@
       "url": "https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/3yFCAbInpUiqR1AqfUHizw"
+    },
+    {
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "La Vida Es Un Carnaval (Bomba Estereo Remix)",
         "url": "https://open.spotify.com/album/49yvEMly7OnIUsE0L41qIf"
@@ -961,23 +977,7 @@
       "url": "https://open.spotify.com/track/1gp1yn0h8hQWgrJq4Kgiu5"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
-      "album": {
-        "name": "Celia",
-        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Cucala",
-      "url": "https://open.spotify.com/track/1W2br69NXrIXRt0hEymD3z"
-    },
-    {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Oyaya !",
         "url": "https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/4fY90F0MrBT2EPXqYgfAMv"
     },
     {
-      "added_at": "2022-05-17 13:58:40",
+      "added_at": "2022-05-18 15:54:39",
       "album": {
         "name": "Remain in Light",
         "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 361546,
-      "name": "Listening Wind",
-      "url": "https://open.spotify.com/track/2vh0Wy3Jvyy3vy6X9S4FgU"
+      "duration_ms": 273066,
+      "name": "Houses in Motion",
+      "url": "https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML"
     }
   ],
   "unique_name": "This Is Angelique Kidjo",

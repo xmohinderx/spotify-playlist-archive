@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,533 likes - 116 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,761 likes - 116 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

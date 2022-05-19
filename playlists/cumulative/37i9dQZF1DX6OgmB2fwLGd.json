@@ -1794,6 +1794,28 @@
     },
     {
       "album": {
+        "name": "A.O Ultra",
+        "url": "https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L"
+      },
+      "artists": [
+        {
+          "name": "A.Oonthebeat",
+          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
+        },
+        {
+          "name": "Jupyter",
+          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146729,
+      "name": "Faster - Sped Up",
+      "url": "https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy"
+    },
+    {
+      "album": {
         "name": "FEAST",
         "url": "https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv"
       },
@@ -4353,7 +4375,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 192147,
       "name": "Shotta Flow 6",
       "url": "https://open.spotify.com/track/4GKHIuAyQBWSvrVxoej52H"
@@ -4571,6 +4593,24 @@
       "duration_ms": 150884,
       "name": "SRT",
       "url": "https://open.spotify.com/track/6aFn4ITLUanXywMFPWK6XH"
+    },
+    {
+      "album": {
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169828,
+      "name": "STATS",
+      "url": "https://open.spotify.com/track/0w6webWdhjRKdqJ3DeGgM1"
     },
     {
       "album": {
@@ -5085,7 +5125,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 100179,
       "name": "Watermelon Hero",
       "url": "https://open.spotify.com/track/59MvKs8OuZkO0KJ15Vq7zx"

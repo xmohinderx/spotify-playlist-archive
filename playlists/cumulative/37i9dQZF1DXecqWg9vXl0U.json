@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 176336,
       "name": "3am",
       "url": "https://open.spotify.com/track/3e8lI9dQ9q0PHIgTtQPhcH"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 265798,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/6dYRnANZHWEytnuxIRq9HY"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Andreas",
       "url": "https://open.spotify.com/track/07YRawyEQ1GsIr3aAwr7jm"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 261500,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/3gWes8gpaT8XOMLrr9eGyd"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 295500,
       "name": "Cabalgando por la Realidad",
       "url": "https://open.spotify.com/track/5bTbYCjh9DqA7mdA1KRw2B"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 193274,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 181784,
       "name": "Call Katie",
       "url": "https://open.spotify.com/track/7mVJ0pE8JrD6uvuRdN4Re4"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 254056,
       "name": "cant celebrate",
       "url": "https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 238421,
       "name": "Corazon en Asteroides",
       "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 197525,
       "name": "Coraz\u00f3n Ruidoso",
       "url": "https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 226936,
       "name": "Disco Baby",
       "url": "https://open.spotify.com/track/4E4Zsbxs0BcqYPeTqx0Hdx"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 175306,
       "name": "Escondida",
       "url": "https://open.spotify.com/track/2GcRx1c4uCLhuFsjM7fBNY"
@@ -878,6 +878,24 @@
     },
     {
       "album": {
+        "name": "I Hate The Beatles",
+        "url": "https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "I Hate The Beatles",
+      "url": "https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ"
+    },
+    {
+      "album": {
         "name": "In the Abstract",
         "url": "https://open.spotify.com/album/4YlLsK2iXvjuc8pNzGsDAw"
       },
@@ -889,7 +907,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 208954,
       "name": "In the Abstract",
       "url": "https://open.spotify.com/track/5v2yWi4mmtY8GZn1M6hUke"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 242491,
       "name": "Las Olas",
       "url": "https://open.spotify.com/track/0173sl2Y7nCQSEZcrrGeiB"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 220860,
       "name": "Melod\u00eda de Dos - Demo",
       "url": "https://open.spotify.com/track/4GwdjQUrTd2eje3yN7PUgK"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 186156,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 197096,
       "name": "moon dreams",
       "url": "https://open.spotify.com/track/5JHtjHDRtyalEZKCNmEyA4"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 188501,
       "name": "Mr. Baby",
       "url": "https://open.spotify.com/track/4JNw6A9TH89pAez18HmhVo"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 241614,
       "name": "nuestra historia",
       "url": "https://open.spotify.com/track/66gTt3LAz9w8Xlrlj3zoJU"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 144300,
       "name": "Pajaritos",
       "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 175624,
       "name": "Perdernos de Vista",
       "url": "https://open.spotify.com/track/4NSRJDeHgCxpicjoBbUuMK"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 165343,
       "name": "Qu\u00e9 me vas a contar",
       "url": "https://open.spotify.com/track/06Uhw7KLSBqAJqYy2fdjiN"
@@ -1743,7 +1761,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 155178,
       "name": "SIN DISFRAZ",
       "url": "https://open.spotify.com/track/3twPa5N5LId3yC87CEVrH3"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 180657,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7nXPGJTW9YwPtj2Dzc8Ogu"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 193168,
       "name": "Taba",
       "url": "https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE"
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 256907,
       "name": "Una Sola Vez",
       "url": "https://open.spotify.com/track/6ppst2BmCySRxbPRIVSrfX"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 138158,
       "name": "Ya No Quiero Estar - Can I Call You?",
       "url": "https://open.spotify.com/track/63KJ8rICVw03iuIZrfahIK"

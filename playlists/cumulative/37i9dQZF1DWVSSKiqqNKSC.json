@@ -45,7 +45,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 219350,
       "name": "72 Hacheros Pa' Un Palo",
       "url": "https://open.spotify.com/track/0TrY3m2S9hlj0FnUa3WhOw"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 283951,
       "name": "A qui\u00e9n no le gusta Cuba",
       "url": "https://open.spotify.com/track/7tzGPxpLP8SRRXNUoQi6Az"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 394653,
       "name": "Abreme la puerta",
       "url": "https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 313295,
       "name": "Al Paso",
       "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed Somos",
+        "url": "https://open.spotify.com/album/4nWmxmaBn9S0bbISrrXJ0Y"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Arreb\u00e1tate",
+      "url": "https://open.spotify.com/track/650iG8nnIvgj7KbQLzg5RW"
+    },
+    {
+      "album": {
         "name": "Grandes \u00e9xitos",
         "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
       },
@@ -269,7 +287,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 253360,
       "name": "Arriba De Lo Mal Hecho",
       "url": "https://open.spotify.com/track/7hFDBKmBQKem6bXw5oCNWt"
@@ -287,7 +305,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 220240,
       "name": "Baila Como Quieras",
       "url": "https://open.spotify.com/track/6dh7v5qe0PMvVmzqRbrAAM"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 248999,
       "name": "Esto te pone la cabeza mala",
       "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 165213,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4apacsxJQ508STSJXMCQnc"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 341394,
       "name": "La borrachera",
       "url": "https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 203049,
       "name": "La Gozadera",
       "url": "https://open.spotify.com/track/3ip2477VESffCtFkPFT0ov"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 278453,
       "name": "La Habana Me Llama",
       "url": "https://open.spotify.com/track/1oAWP8Ww5WyqX5ksP504d5"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 311013,
       "name": "La Mulata",
       "url": "https://open.spotify.com/track/6qxdJFgAJm3xJAd1msdNoW"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 208386,
       "name": "La Reina del Caf\u00e9",
       "url": "https://open.spotify.com/track/2ShiboaPX0z7DKswAs78WS"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 256240,
       "name": "Lo Malo Se Va Bailando",
       "url": "https://open.spotify.com/track/06wy8VY2vCWNSEnEL7BY56"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 258933,
       "name": "Los Campeones De La Salsa",
       "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 201231,
       "name": "Me Quedo Contigo",
       "url": "https://open.spotify.com/track/46vkxSDE2mKEDjRjt48gUj"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 203226,
       "name": "Me Quedo Contigo",
       "url": "https://open.spotify.com/track/7vxc1a4aks0RqIbNhBYjlg"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 347760,
       "name": "Mi M\u00fasica",
       "url": "https://open.spotify.com/track/0PH9V7S0xFRBOtf2g71IYe"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 347153,
       "name": "Mi M\u00fasica - Remasterizado",
       "url": "https://open.spotify.com/track/24hmqfTZpZ1xEb21qmOqFL"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 378070,
       "name": "Que Pasa Loco ?",
       "url": "https://open.spotify.com/track/3oauXpkAKyzYWkAiZAkVUH"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 229826,
       "name": "Soy la Mujer Que Quiero Ser",
       "url": "https://open.spotify.com/track/2jufa5OBjDgsJC9LekL7tJ"

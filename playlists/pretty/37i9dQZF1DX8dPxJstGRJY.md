@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,589 likes - 46 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,818 likes - 46 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 3 | [Nella Fantasia](https://open.spotify.com/track/41SH0UAo3nbzN4l0U38Wq3) | [Katherine Jenkins](https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl), [Choir of The King's Consort](https://open.spotify.com/artist/1bubEqwBcIyhEsO8ExpnXE), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Nicholas Dodd](https://open.spotify.com/artist/4oKiOJ0qPP6TFCv6ebRFKO) | [Katherine Jenkins / From The Heart](https://open.spotify.com/album/3Zu1qssJCsIlgXtJQskbE5) | 5:11 |
 | 4 | [To Make You Feel My Love](https://open.spotify.com/track/66z75O6SUOQxZnS7Spbp95) | [The Serenad3](https://open.spotify.com/artist/23r9OdwRI1XKiYES6p68gu) | [Romantic Serenade](https://open.spotify.com/album/4HPSlAA3McPFOUU41U5AfQ) | 3:43 |
 | 5 | [A Thousand Years \(From "The Twilight Saga: Breaking Dawn, Pt\. 1"\)](https://open.spotify.com/track/68CGs1SYzsXs7OMHKWpw0w) | [Collabro](https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR) | [Act Two](https://open.spotify.com/album/1LF3HfqmS4DTn4cNabNKzJ) | 4:05 |
-| 6 | [One Look \(feat\. Leona Lewis\)](https://open.spotify.com/track/2nCK9KFGeRp87GnunVsMgW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:18 |
-| 7 | [Return To Love](https://open.spotify.com/track/09YXhYMYIHZBHVKGEQrSQF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Return To Love](https://open.spotify.com/album/2piXcsaXhEcRXaSXVfe4aw) | 4:34 |
-| 8 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages](https://open.spotify.com/album/0UPs87sXoeGPNiKnaWxFOZ) | 3:59 |
-| 9 | [With Or Without You](https://open.spotify.com/track/0TX4O1sHvHLxyQhpr0mkEU) | [Military Wives](https://open.spotify.com/artist/41j6k61g4RW0WQa2s3TUr0) | [In My Dreams](https://open.spotify.com/album/4Vmuk6V7WX9nTAFhLvs106) | 3:59 |
+| 6 | [Return To Love](https://open.spotify.com/track/09YXhYMYIHZBHVKGEQrSQF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Return To Love](https://open.spotify.com/album/2piXcsaXhEcRXaSXVfe4aw) | 4:34 |
+| 7 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages](https://open.spotify.com/album/0UPs87sXoeGPNiKnaWxFOZ) | 3:59 |
+| 8 | [With Or Without You](https://open.spotify.com/track/0TX4O1sHvHLxyQhpr0mkEU) | [Military Wives](https://open.spotify.com/artist/41j6k61g4RW0WQa2s3TUr0) | [In My Dreams](https://open.spotify.com/album/4Vmuk6V7WX9nTAFhLvs106) | 3:59 |
+| 9 | [One Look \(feat\. Leona Lewis\)](https://open.spotify.com/track/2nCK9KFGeRp87GnunVsMgW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:18 |
 | 10 | [Regresa a Mí](https://open.spotify.com/track/3p8szomcjl5ghqOKSH5vZf) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Il Divo](https://open.spotify.com/album/2wHQ8jRc9zKG5tyNzopmJt) | 4:40 |
 | 11 | [I Believe](https://open.spotify.com/track/1djDyrvcG5IvhgyNOQh5VH) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Cecilia Bartoli](https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na) | [Believe \(Deluxe\)](https://open.spotify.com/album/1YuRC8Fj5XdgpuoA7yBDnr) | 4:14 |
 | 12 | [Somewhere \- From 'West Side Story'](https://open.spotify.com/track/6Eu5Y7S6GXPVp1W7lnlVU7) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 3:15 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 45 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 46 | [Never Say Goodbye \(Adapted from "Pavane, M\. 19"\)](https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [Pure \(Includes Bonus Tracks and Exclusive Track\)](https://open.spotify.com/album/4F4cYsACedydHGyvpZCXN5) | 3:13 |
 
-Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAxNzAwMDAwMTgwOTc4ODE3MWMwMDAwMDE3NWJkMGUxNDY3`
+Snapshot ID: `MTY1Mjg4NzE2MSwwMDAwMDAxODAwMDAwMTgwZDdjMDg5MjEwMDAwMDE3NWJkMGUxNDY3`

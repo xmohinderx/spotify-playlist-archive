@@ -1,13 +1,61 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Yaya Bey",
-  "num_followers": 149808,
+  "num_followers": 150059,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI4NzI3OCwwMDAwMDBkMTAwMDAwMTgwYjNmZjBkZDgwMDAwMDE4MDY5YmEyYTRl",
+  "snapshot_id": "MTY1Mjg5NTU3NiwwMDAwMDBkMjAwMDAwMTgwZDg0MGYwMTIwMDAwMDE4MDY5YmEyYTRl",
   "tracks": [
+    {
+      "added_at": "2022-05-18 17:39:36",
+      "album": {
+        "name": "Casper Sage",
+        "url": "https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 201942,
+      "name": "Summer's Gone",
+      "url": "https://open.spotify.com/track/5quogPZVWEjwBJoiEwTcZR"
+    },
+    {
+      "added_at": "2022-05-18 17:39:36",
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/6xqELDDENWwwHbSOArujXo"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/7G4KKZXXXwm7HCWTwTLuXU"
+    },
+    {
+      "added_at": "2022-05-18 17:39:36",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/05SBypBMyQTMs0RytEFDky"
+      },
+      "artists": [
+        {
+          "name": "Alita Moses",
+          "url": "https://open.spotify.com/artist/7BIauBSZzpxGjwgYujcnVl"
+        }
+      ],
+      "duration_ms": 237963,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1qUiFXEA5bawC3P3WOFbou"
+    },
     {
       "added_at": "2022-05-11 16:41:18",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 270000,
       "name": "GIFTED",
       "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
+    },
+    {
+      "added_at": "2022-05-11 16:41:18",
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/0oJzHZMh9yO3PaDRgD23G4"
+      },
+      "artists": [
+        {
+          "name": "Naisha",
+          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/02BBBmB5NZUrsjrm7Janc5"
+    },
+    {
+      "added_at": "2022-05-18 17:39:36",
+      "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/60QFl6Dy77yAQ7ZKry6muX"
+      },
+      "artists": [
+        {
+          "name": "Aim\u00e9e",
+          "url": "https://open.spotify.com/artist/0xEEXl82myXxXyqHKd2fnb"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/5cMtzTwiKUycwIO8RclyfR"
     },
     {
       "added_at": "2022-05-11 16:41:18",
@@ -43,18 +123,18 @@
     {
       "added_at": "2022-05-11 16:41:18",
       "album": {
-        "name": "Back & Forth",
-        "url": "https://open.spotify.com/album/0oJzHZMh9yO3PaDRgD23G4"
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx"
       },
       "artists": [
         {
-          "name": "Naisha",
-          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
+          "name": "Nick Yoon",
+          "url": "https://open.spotify.com/artist/0RFlTR5N3zJ9tmEvBn6Af2"
         }
       ],
-      "duration_ms": 197333,
-      "name": "No Lie",
-      "url": "https://open.spotify.com/track/02BBBmB5NZUrsjrm7Janc5"
+      "duration_ms": 215386,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4"
     },
     {
       "added_at": "2022-05-11 16:41:18",
@@ -93,20 +173,20 @@
       "url": "https://open.spotify.com/track/1gQrLTJ3i09hLEIuK0zeuZ"
     },
     {
-      "added_at": "2022-05-11 16:41:18",
+      "added_at": "2022-05-18 17:39:36",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx"
+        "name": "Visualize",
+        "url": "https://open.spotify.com/album/6B3SmdyRtELbBoU2ktbFQh"
       },
       "artists": [
         {
-          "name": "Nick Yoon",
-          "url": "https://open.spotify.com/artist/0RFlTR5N3zJ9tmEvBn6Af2"
+          "name": "Freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
         }
       ],
-      "duration_ms": 215386,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4"
+      "duration_ms": 161875,
+      "name": "Visualize",
+      "url": "https://open.spotify.com/track/73kOuVrN8PRINR9Lzvc5EM"
     },
     {
       "added_at": "2022-05-11 16:41:18",
@@ -195,38 +275,6 @@
     {
       "added_at": "2022-05-11 16:41:18",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/1aB96LzLx2G13D4K49YcW4"
-      },
-      "artists": [
-        {
-          "name": "Shaolinn",
-          "url": "https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q"
-        }
-      ],
-      "duration_ms": 211945,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/5uEPlpIjiRrnxefCxwKSIq"
-    },
-    {
-      "added_at": "2022-05-11 16:41:18",
-      "album": {
-        "name": "American Dirt / Sangre",
-        "url": "https://open.spotify.com/album/2pG38Zw3yE5AVYUDuBuUz3"
-      },
-      "artists": [
-        {
-          "name": "Flores",
-          "url": "https://open.spotify.com/artist/7gjUyv57FGMKDu9agyqW1Z"
-        }
-      ],
-      "duration_ms": 155250,
-      "name": "American Dirt",
-      "url": "https://open.spotify.com/track/6sX37XMyxy5emswaPxU3gl"
-    },
-    {
-      "added_at": "2022-05-11 16:41:18",
-      "album": {
         "name": "his sweater",
         "url": "https://open.spotify.com/album/24Q2QnYeG30KzsXygkQz8v"
       },
@@ -239,22 +287,6 @@
       "duration_ms": 161400,
       "name": "his sweater",
       "url": "https://open.spotify.com/track/0La9XmPkPRhGARB7zXfaEd"
-    },
-    {
-      "added_at": "2022-05-11 16:41:18",
-      "album": {
-        "name": "Beside Me",
-        "url": "https://open.spotify.com/album/17rqZcnWm6lUbrPG8QSS7g"
-      },
-      "artists": [
-        {
-          "name": "Charlie Noiir",
-          "url": "https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO"
-        }
-      ],
-      "duration_ms": 210810,
-      "name": "Beside Me",
-      "url": "https://open.spotify.com/track/2VrV7wCTN2LBvhZyv5Xly5"
     },
     {
       "added_at": "2022-05-11 16:41:18",
@@ -275,6 +307,70 @@
       "duration_ms": 275831,
       "name": "Baby Mother",
       "url": "https://open.spotify.com/track/6ORFADv7mmOJ0Ko2VcfD1F"
+    },
+    {
+      "added_at": "2022-05-11 16:41:18",
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/1aB96LzLx2G13D4K49YcW4"
+      },
+      "artists": [
+        {
+          "name": "Shaolinn",
+          "url": "https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q"
+        }
+      ],
+      "duration_ms": 211945,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/5uEPlpIjiRrnxefCxwKSIq"
+    },
+    {
+      "added_at": "2022-05-18 17:39:36",
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/0Y3UxSQoq362mlMLZTzTjY"
+      },
+      "artists": [
+        {
+          "name": "Miamagination",
+          "url": "https://open.spotify.com/artist/7tedjMpZKf4DIFdBA52Q4d"
+        }
+      ],
+      "duration_ms": 193852,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/5ByHwV4nCNLOr5FY2KXxgH"
+    },
+    {
+      "added_at": "2022-05-11 16:41:18",
+      "album": {
+        "name": "American Dirt / Sangre",
+        "url": "https://open.spotify.com/album/2pG38Zw3yE5AVYUDuBuUz3"
+      },
+      "artists": [
+        {
+          "name": "Flores",
+          "url": "https://open.spotify.com/artist/7gjUyv57FGMKDu9agyqW1Z"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "American Dirt",
+      "url": "https://open.spotify.com/track/6sX37XMyxy5emswaPxU3gl"
+    },
+    {
+      "added_at": "2022-05-11 16:41:18",
+      "album": {
+        "name": "Beside Me",
+        "url": "https://open.spotify.com/album/17rqZcnWm6lUbrPG8QSS7g"
+      },
+      "artists": [
+        {
+          "name": "Charlie Noiir",
+          "url": "https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO"
+        }
+      ],
+      "duration_ms": 210810,
+      "name": "Beside Me",
+      "url": "https://open.spotify.com/track/2VrV7wCTN2LBvhZyv5Xly5"
     },
     {
       "added_at": "2022-05-04 06:23:46",
@@ -1443,22 +1539,6 @@
     {
       "added_at": "2022-03-30 07:00:00",
       "album": {
-        "name": "Just for Now",
-        "url": "https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy"
-      },
-      "artists": [
-        {
-          "name": "Yarah",
-          "url": "https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr"
-        }
-      ],
-      "duration_ms": 107294,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/69Fxo98uVzdxZn9ACnmyYZ"
-    },
-    {
-      "added_at": "2022-03-30 07:00:00",
-      "album": {
         "name": "2MANYTHINGS",
         "url": "https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg"
       },
@@ -1579,106 +1659,6 @@
       "duration_ms": 232364,
       "name": "NASTY GIRL",
       "url": "https://open.spotify.com/track/6vxRwGCB5W01PzdEc8eyM4"
-    },
-    {
-      "added_at": "2022-03-30 07:00:00",
-      "album": {
-        "name": "Thinking",
-        "url": "https://open.spotify.com/album/2iX08scdGLXtaMP7rE5OGc"
-      },
-      "artists": [
-        {
-          "name": "Jean Root",
-          "url": "https://open.spotify.com/artist/552ZwELQyZPtQtikl5e1tn"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "Thinking",
-      "url": "https://open.spotify.com/track/7jGXlWmxFPzBJOelhhg0DK"
-    },
-    {
-      "added_at": "2022-03-23 16:00:00",
-      "album": {
-        "name": "Daygo (w/ gianni & kyle)",
-        "url": "https://open.spotify.com/album/0GGqUvHTZgiXPDnIsed3Gz"
-      },
-      "artists": [
-        {
-          "name": "KNOWN.",
-          "url": "https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot"
-        },
-        {
-          "name": "gianni & kyle",
-          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "Daygo (w/ gianni & kyle)",
-      "url": "https://open.spotify.com/track/1cXbG5cSc9jJMCyW2VnBBv"
-    },
-    {
-      "added_at": "2022-03-30 07:00:00",
-      "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/1335ZraXDbHNdiknfgItJ5"
-      },
-      "artists": [
-        {
-          "name": "Majo",
-          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
-        }
-      ],
-      "duration_ms": 198947,
-      "name": "Something Else",
-      "url": "https://open.spotify.com/track/64LRuZiztfxL4o3IPXvYqo"
-    },
-    {
-      "added_at": "2022-04-06 16:00:05",
-      "album": {
-        "name": "elephant in the room",
-        "url": "https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y"
-      },
-      "artists": [
-        {
-          "name": "untradition",
-          "url": "https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe"
-        }
-      ],
-      "duration_ms": 199107,
-      "name": "elephant in the room",
-      "url": "https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG"
-    },
-    {
-      "added_at": "2022-03-30 07:00:00",
-      "album": {
-        "name": "All On Me",
-        "url": "https://open.spotify.com/album/1xoAa87MCgEP5kw7S8KRVb"
-      },
-      "artists": [
-        {
-          "name": "Chriddy Black",
-          "url": "https://open.spotify.com/artist/3rdrSPCm79giupKxBpbaa1"
-        }
-      ],
-      "duration_ms": 176296,
-      "name": "All On Me",
-      "url": "https://open.spotify.com/track/0aaVmWg3TmHVnm9NUd7gZB"
-    },
-    {
-      "added_at": "2022-03-30 07:00:00",
-      "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/5wDDGpCtTKSpskfGvHcyfN"
-      },
-      "artists": [
-        {
-          "name": "Paradi$e",
-          "url": "https://open.spotify.com/artist/2tm8nTANMwZuGECwgumqc5"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/4lrBaqy14ETjGPLa4As2eU"
     }
   ],
   "unique_name": "Fresh Finds R&B",

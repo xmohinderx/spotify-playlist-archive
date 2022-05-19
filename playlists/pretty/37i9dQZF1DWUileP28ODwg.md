@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Tasha Layton
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,124 likes - 99 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,168 likes - 99 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Help Let Me Go](https://open.spotify.com/track/6VUqwqfKjVUoh3swTzAlfO) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 2:37 |
+| 1 | [Help Me Let Go](https://open.spotify.com/track/6VUqwqfKjVUoh3swTzAlfO) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 2:37 |
 | 2 | [Satisfied](https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Grace In The Wilderness](https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w) | 2:46 |
 | 3 | [Won't Let Me Go](https://open.spotify.com/track/4FNan8GUauT5ZdZONLCzdq) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Won't Let Me Go](https://open.spotify.com/album/1XIHJlUQDa7CFghiCQw1Nt) | 3:35 |
 | 4 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 |

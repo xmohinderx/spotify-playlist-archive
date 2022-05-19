@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 157172,
       "name": "Barefootin'",
       "url": "https://open.spotify.com/track/0VwK5pLjwFPy8FSEC1htp9"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 160240,
       "name": "Give Me Just A Little More Time",
       "url": "https://open.spotify.com/track/6qbtTps7ZebLrWtqtu1joj"
@@ -534,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "date_added": "2020-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/1ARyfw246YulT9j3B2qfXl"
       },
@@ -585,7 +603,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 349426,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/2xVtBEcsM6s2RsH8wkirhS"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 211920,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/5lE04QME0R4RNjepkflBJa"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 194866,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/4Lv1bzAvoAeroCGiUUGZ9w"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 209946,
       "name": "The Snake",
       "url": "https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI"

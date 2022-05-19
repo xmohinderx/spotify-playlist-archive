@@ -142,6 +142,28 @@
     },
     {
       "album": {
+        "name": "7een Maysara (Molowave)",
+        "url": "https://open.spotify.com/album/3Gy9HYNnuX51dSjLYHH6xN"
+      },
+      "artists": [
+        {
+          "name": "Molotof",
+          "url": "https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "7een Maysara (Molowave)",
+      "url": "https://open.spotify.com/track/3lp7tZy3eHmm7GVAzVY82W"
+    },
+    {
+      "album": {
         "name": "7Rb",
         "url": "https://open.spotify.com/album/6wJtU5I5ChMhFuV41xTHTB"
       },
@@ -297,7 +319,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 196837,
       "name": "Ahkelak",
       "url": "https://open.spotify.com/track/60gNtG4TeY7YQxbxx9mUwU"
@@ -2331,7 +2353,7 @@
       ],
       "date_added": "2021-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 184931,
       "name": "Ghaba",
       "url": "https://open.spotify.com/track/4Zpg4neFtdTJJF4wsrTJRa"
@@ -7485,7 +7507,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 220068,
       "name": "\u0645\u0641\u064a\u0634 \u0645\u0627\u0646\u0639",
       "url": "https://open.spotify.com/track/7KLy4f8VCsiIEYr69mC4uZ"

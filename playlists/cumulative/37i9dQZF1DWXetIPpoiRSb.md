@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Måneskin
 
-714 songs - 1 day 12 hr 7 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
+716 songs - 1 day 12 hr 13 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2021-08-07 | 2021-10-16 |
 | [Hit and Run](https://open.spotify.com/track/6WeQmowNd1q0jdfuzesWOs) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Hit and Run](https://open.spotify.com/album/0z6vuMM2IcZAL6lEEK7b0d) | 3:22 | 2022-02-11 | 2022-04-09 |
 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 | 2021-08-07 | 2021-10-16 |
+| [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 | 2022-05-18 |  |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2021-05-22 | 2021-08-07 |
 | [Holding On](https://open.spotify.com/track/6CN7FuZ7o1xle9TNxApGeQ) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Holding On](https://open.spotify.com/album/7CIDA4a6EIj1k88sln1tKl) | 2:06 | 2020-11-21 | 2021-01-30 |
 | [Holiday](https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Holiday](https://open.spotify.com/album/2FiATmtrSNjakqKjqgC6Vb) | 3:13 | 2021-06-19 | 2021-08-14 |
@@ -559,6 +560,7 @@
 | [Skinny Dipping](https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skinny Dipping](https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49) | 2:57 | 2021-09-10 | 2021-10-08 |
 | [sleeping on the floor](https://open.spotify.com/track/2SaMMF3gwdwTjWuR44LETg) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [sleeping on the floor](https://open.spotify.com/album/4MQRdmpYmA0GZx8XoUJLYi) | 2:33 | 2022-03-04 | 2022-05-14 |
 | [Sleepover](https://open.spotify.com/track/1X0oGnw7yE9fZUeKUdrYFg) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sleepover](https://open.spotify.com/album/7EN5v9KXPXjQXVWuUlpiXx) | 2:48 | 2021-06-26 | 2021-09-10 |
+| [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-05-18 |  |
 | [SO DONE](https://open.spotify.com/track/5psEZhQu6lukjhavJo4AbC) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SO DONE](https://open.spotify.com/album/5fyH2H1o23bLNIxGu9JcMq) | 2:06 | 2020-10-24 | 2021-01-30 |
 | [So Far Away](https://open.spotify.com/track/6cjrJbXoA0VscOXEPgLdYv) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [So Far Away](https://open.spotify.com/album/0TnwHpwza2o3cMyklfOmCJ) | 3:27 | 2021-06-05 | 2021-08-07 |
 | [so good](https://open.spotify.com/track/5viDyBHBnJHCF1XTcROFkF) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [so good](https://open.spotify.com/album/37KP5nrRhwvBAD8QDqMYWe) | 2:31 | 2021-05-08 | 2021-06-05 |

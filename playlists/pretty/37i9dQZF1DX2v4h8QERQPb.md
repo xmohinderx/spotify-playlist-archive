@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,722 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,804 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 64 | [Fruto Rojo](https://open.spotify.com/track/40gTdgKJk6m1w3DKPSrtZ1) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Fruto Rojo](https://open.spotify.com/album/7gUDkJObuad3qfTtK3R52D) | 3:09 |
 | 65 | [KIEN?](https://open.spotify.com/track/5N3M8SHDVp7UHArixHePYG) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [KIEN?](https://open.spotify.com/album/0L3ol5Eb22yOnObpbAmGrF) | 2:33 |
 | 66 | [FRAWA](https://open.spotify.com/track/2HkWX0LPuRAyHO3o7q4pZq) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R), [ÑERO](https://open.spotify.com/artist/22ExohHmyt51cObHLDBnyO) | [FRAWA](https://open.spotify.com/album/4ZYoANZBG4nKwRIOghMpug) | 4:09 |
-| 67 | [VIAIPI](https://open.spotify.com/track/08gHuPeFkw5nHo9xqUJHQe) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [VIAIPI](https://open.spotify.com/album/1HQzgHvV8wsWhI6LffYwL9) | 2:26 |
+| 67 | [CRO \- VIAIPI ft\. FRANKY STYLE](https://open.spotify.com/track/08gHuPeFkw5nHo9xqUJHQe) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [VIAIPI](https://open.spotify.com/album/1HQzgHvV8wsWhI6LffYwL9) | 2:26 |
 | 68 | [Delirio](https://open.spotify.com/track/6DlyZxhPa617E2yAnC2rC6) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Delirio](https://open.spotify.com/album/4FwTjWGjaVgyDbHCwY6G18) | 3:43 |
 | 69 | [Me Sueltan Los Ángeles](https://open.spotify.com/track/3tM6ndsUT88wEO0tX0I8AR) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Me Sueltan Los Ángeles](https://open.spotify.com/album/71zv2vayOQx9OuuoTR9gPP) | 3:24 |
 | 70 | [Fuertardo](https://open.spotify.com/track/0QgnR0LKbx6HrsWPwAMUaC) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Fuertardo](https://open.spotify.com/album/6kfwfB9zJyBlex1uTBQX88) | 2:10 |

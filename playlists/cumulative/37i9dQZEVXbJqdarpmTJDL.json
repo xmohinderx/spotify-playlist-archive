@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-29",
+      "date_removed": null,
       "duration_ms": 164536,
       "name": "Aftoktonia",
       "url": "https://open.spotify.com/track/7IokpTW54OgzPu6Q3fkVHn"
@@ -1523,6 +1523,24 @@
       "duration_ms": 163556,
       "name": "BAM BAM",
       "url": "https://open.spotify.com/track/3zpX9ccXEHY4TPJk6eZzaO"
+    },
+    {
+      "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0RgCKuCv1s7Uq9AYRItNr2"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0vDBi13nyH5IA0bE6j8oV1"
     },
     {
       "album": {
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 150579,
       "name": "Coupe",
       "url": "https://open.spotify.com/track/1LnbiN5Rh44CkUFZNfkXle"
@@ -10313,7 +10331,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 159375,
       "name": "Out of Your Mind",
       "url": "https://open.spotify.com/track/1wRKwSa4fLSA0SHGqcfSL4"
@@ -12709,7 +12727,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 179545,
       "name": "Stefania (Kalush Orchestra)",
       "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
@@ -14331,7 +14349,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 166551,
       "name": "Van Persie",
       "url": "https://open.spotify.com/track/34Q1M0pSFzV71nQ65Kl8vd"

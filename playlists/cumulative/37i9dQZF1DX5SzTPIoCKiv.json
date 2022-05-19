@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 192980,
       "name": "As For Me (feat. Chris Tomlin)",
       "url": "https://open.spotify.com/track/1XFbNf7O1xycvXDZiO8NsK"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 202943,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV"
@@ -414,6 +414,24 @@
     },
     {
       "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/5pNkUSv8sgDF81greuJ495"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214793,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/2dXntxjimv1oK2BejjEj10"
+    },
+    {
+      "album": {
         "name": "Color",
         "url": "https://open.spotify.com/album/2PyxmQHjTUXommweTpKhw2"
       },
@@ -533,7 +551,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 226666,
       "name": "Count on Me",
       "url": "https://open.spotify.com/track/2IQGuX6Tz6iuwLbfA3zk6Y"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 217053,
       "name": "Do For Love",
       "url": "https://open.spotify.com/track/4ecGGCNfUtlOKLYGcxrsUp"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 284800,
       "name": "Don't Quit",
       "url": "https://open.spotify.com/track/7Astyw7Pvb7a7VgmtZM25Y"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 257390,
       "name": "Don't You Dare",
       "url": "https://open.spotify.com/track/41Yp3rSMdCjPIaDFb0LSa5"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 229066,
       "name": "Fighting For Me",
       "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 225053,
       "name": "He Is",
       "url": "https://open.spotify.com/track/2uO3Ldx1HaCiimUkJwAf6c"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 267773,
       "name": "Hymn of Heaven",
       "url": "https://open.spotify.com/track/4nK7i4idbh4N3Nf6p9PSPa"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 181224,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2ZdoV837W0KtfWoTUHmEt1"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 202480,
       "name": "I Will Fear No More",
       "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 241946,
       "name": "It's Always Been You",
       "url": "https://open.spotify.com/track/4vM708B1zJUObZEzwjZZZK"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 193073,
       "name": "Mean Girls",
       "url": "https://open.spotify.com/track/1fgQe9gzO6czUROrxPW7vb"
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 160560,
       "name": "Poetry",
       "url": "https://open.spotify.com/track/59Ie6RW8WfI24BycVWpexi"
@@ -2075,7 +2093,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 200520,
       "name": "Prize Worth Fighting For",
       "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 244040,
       "name": "Raise a Hallelujah (Studio Version)",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
@@ -2141,6 +2159,24 @@
       "duration_ms": 198986,
       "name": "Reason",
       "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
+    },
+    {
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/3fptWbya2mXqzg2EyyoUcK"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241746,
+      "name": "Rebel",
+      "url": "https://open.spotify.com/track/0L9i1UxIS3ElJ0aIZ8e9AS"
     },
     {
       "album": {
@@ -2411,7 +2447,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 198238,
       "name": "So Many Reasons",
       "url": "https://open.spotify.com/track/7tFW4gFzr98sMnRSrekDvI"
@@ -2465,7 +2501,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 254106,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G"
@@ -2593,7 +2629,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 182612,
       "name": "The Devil Is A Liar",
       "url": "https://open.spotify.com/track/3Q2jYy7vwY6wWzPTlXwxU6"
@@ -2647,7 +2683,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 268186,
       "name": "The Road",
       "url": "https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX"
@@ -2791,7 +2827,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 242160,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4"
@@ -2817,7 +2853,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 437131,
       "name": "Waymaker",
       "url": "https://open.spotify.com/track/1Qs9gwjN6QhZ2abozDOQTC"

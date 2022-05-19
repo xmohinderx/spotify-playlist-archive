@@ -1,12 +1,12 @@
 {
   "description": "All the Canadian artists you need to hear this month, handpicked by our curators. Cover: Dylan Sinclair",
-  "num_followers": 20036,
+  "num_followers": 20031,
   "original_name": "RADAR Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjgzNTQ1MywwMDAwMDAwMGNhYjRjZmUxZWQwMWY4N2FjYTU1ZjFlNDA2YWIwNjll",
+  "snapshot_id": "MTY1MjkyMzAzMCwwMDAwMDAwMGNhYjRjZmUxZWQwMWY4N2FjYTU1ZjFlNDA2YWIwNjll",
   "tracks": [
     {
       "added_at": "2022-05-11 21:29:46",
@@ -995,6 +995,22 @@
       "duration_ms": 141160,
       "name": "WATLIOM",
       "url": "https://open.spotify.com/track/680eIJaeU7Tk4St6la6XU4"
+    },
+    {
+      "added_at": "2022-05-11 21:29:46",
+      "album": {
+        "name": "extra",
+        "url": "https://open.spotify.com/album/6dY3Qu3XLfiiisvdeN3jee"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "duration_ms": 194608,
+      "name": "extra",
+      "url": "https://open.spotify.com/track/7KZySbbZKymxgsecEaFmPQ"
     },
     {
       "added_at": "2022-05-11 21:29:46",

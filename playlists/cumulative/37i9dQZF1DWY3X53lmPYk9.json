@@ -1132,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/2aK4enHcBBbKBIYRwm1iSX"
+      },
+      "artists": [
+        {
+          "name": "Sonny Beckerlee",
+          "url": "https://open.spotify.com/artist/0XMT5PoHDKRRWHj40qLg7K"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152285,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/6LkO16bRoZItqrR9yIbHQZ"
+    },
+    {
+      "album": {
         "name": "Jazz Piano Nights",
         "url": "https://open.spotify.com/album/0DsmrLsp3Ypws2d9G3ZDSi"
       },
@@ -1201,6 +1219,24 @@
       "duration_ms": 196500,
       "name": "On A Clear Day",
       "url": "https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7"
+    },
+    {
+      "album": {
+        "name": "On The Street Where You Live",
+        "url": "https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp"
+      },
+      "artists": [
+        {
+          "name": "Ben Hubert",
+          "url": "https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw"
     },
     {
       "album": {
@@ -1431,7 +1467,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 210933,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/4Ws7Bm2Nhbm83Tz4gRxpIx"
@@ -1795,6 +1831,24 @@
       "duration_ms": 179745,
       "name": "Time Remembered",
       "url": "https://open.spotify.com/track/4ZEePa5q8Gwz6dqg4oIifT"
+    },
+    {
+      "album": {
+        "name": "Violets for Your Furs",
+        "url": "https://open.spotify.com/album/0ZLQMQ4wddsUhMcowvwFeM"
+      },
+      "artists": [
+        {
+          "name": "Tim Walker-Price",
+          "url": "https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204384,
+      "name": "Violets for Your Furs",
+      "url": "https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD"
     },
     {
       "album": {

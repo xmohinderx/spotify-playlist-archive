@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKctwWdt4be.md) - [plain]
 
 > Watch your screen as you listen to see lyrics, fun facts, and artist stories from Genius! \(on mobile only\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,251 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,250 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

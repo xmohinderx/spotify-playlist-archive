@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 222830,
       "name": "Alive (with Calle Lehmann)",
       "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 211200,
       "name": "Bailar Riddim",
       "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0LsR4TZXku2sMoFTwAivOw"
@@ -435,6 +435,50 @@
       "duration_ms": 166977,
       "name": "Can't Forget You",
       "url": "https://open.spotify.com/track/726GMkrLFseCdHebF8LdVU"
+    },
+    {
+      "album": {
+        "name": "Can't Get Away from You",
+        "url": "https://open.spotify.com/album/2DJrh6OXykMToIEHrvQrjH"
+      },
+      "artists": [
+        {
+          "name": "Tullio",
+          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
+        },
+        {
+          "name": "Vide",
+          "url": "https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173445,
+      "name": "Can't Get Away from You",
+      "url": "https://open.spotify.com/track/0s4Y8phoPkgGpDe6nFSMyA"
+    },
+    {
+      "album": {
+        "name": "Caught Up (with Olivia O'Brien)",
+        "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173214,
+      "name": "Caught Up (with Olivia O'Brien)",
+      "url": "https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1"
     },
     {
       "album": {
@@ -607,7 +651,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 140011,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
@@ -703,7 +747,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
@@ -819,7 +863,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 165326,
       "name": "Getting Started (na Na Na)",
       "url": "https://open.spotify.com/track/1pnrvsZv43qQXlrI7v8OYF"
@@ -855,7 +899,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 208505,
       "name": "Hallucinate",
       "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
@@ -1097,7 +1141,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 172143,
       "name": "i miss u (with Au/Ra)",
       "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
@@ -1207,7 +1251,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 208657,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/303r6bmyBvf5lpaR3CbaLm"
@@ -1247,7 +1291,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 168625,
       "name": "Jaleen",
       "url": "https://open.spotify.com/track/23VuPmeXay3jatu8wwBXjc"
@@ -1269,7 +1313,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Jumpin'",
       "url": "https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W"
@@ -1321,6 +1365,28 @@
       "duration_ms": 156097,
       "name": "Keep On Rising (feat. Michelle Shellers) - ManyFew & Joe Stone Remix",
       "url": "https://open.spotify.com/track/16875gBT6JDTkstpu22ESZ"
+    },
+    {
+      "album": {
+        "name": "Kiss and Tell",
+        "url": "https://open.spotify.com/album/34oVzbvx2v99lf8qoXRyD1"
+      },
+      "artists": [
+        {
+          "name": "Salasnich",
+          "url": "https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2"
+        },
+        {
+          "name": "Rhett Fisher",
+          "url": "https://open.spotify.com/artist/0Uc7yCZJgJilU0md9yyhhA"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213934,
+      "name": "Kiss and Tell",
+      "url": "https://open.spotify.com/track/7zAmki6tuarcnPsGxH3sc3"
     },
     {
       "album": {
@@ -1409,7 +1475,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 196188,
       "name": "Lies",
       "url": "https://open.spotify.com/track/7I5XQpe29kmU86T37nhJip"
@@ -1427,7 +1493,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 195452,
       "name": "Little Bit Of Love",
       "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
@@ -1515,7 +1581,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 187372,
       "name": "Make You Feel Like",
       "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
@@ -1677,7 +1743,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 181741,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu"
@@ -1773,6 +1839,28 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/6oG8wiEJIcBjXehs0lbiLN"
+      },
+      "artists": [
+        {
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+        },
+        {
+          "name": "Andrelli",
+          "url": "https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/4rQSkio3a0iiLSEuoWMwOF"
     },
     {
       "album": {
@@ -2335,7 +2423,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 145920,
       "name": "Steady for You",
       "url": "https://open.spotify.com/track/4d1itg8OaWVQ2e1xTnqGVy"
@@ -2559,7 +2647,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 135507,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6"
@@ -2603,7 +2691,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 184196,
       "name": "We Are Young",
       "url": "https://open.spotify.com/track/0m3DyjpzLPa3LCurw5A9IR"
@@ -2735,7 +2823,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 202652,
       "name": "Wired (with Ella Eyre)",
       "url": "https://open.spotify.com/track/7k3uKOLzMCvYM00E3QZTSq"
@@ -2779,7 +2867,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 158104,
       "name": "Worst Thing",
       "url": "https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt"

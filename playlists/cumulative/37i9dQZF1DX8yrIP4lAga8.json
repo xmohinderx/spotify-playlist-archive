@@ -169,7 +169,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 180924,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/21s4cGnVJbFukABXZTVlia"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 212950,
       "name": "Be with U",
       "url": "https://open.spotify.com/track/0x8F1joRXmVV0SC6FgYJnr"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 206885,
       "name": "Big Love - David Penn Remix",
       "url": "https://open.spotify.com/track/0eQ1j5MBA9Ja7zvtB9uggC"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 353568,
       "name": "Both Of Us",
       "url": "https://open.spotify.com/track/7q584VOAZLMPaIQ9pedKFl"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 185806,
       "name": "Bring Me Back",
       "url": "https://open.spotify.com/track/4fzxNsK0wKUkLr6V0uYoEq"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 147321,
       "name": "Coffee & A Coke (feat. Hannah Boleyn)",
       "url": "https://open.spotify.com/track/2bxcXhgCo0PYgZ7ukoGLb5"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 205959,
       "name": "Drink About - Kokiri Remix",
       "url": "https://open.spotify.com/track/0QLtiqoZRvzQvNoxBhQcdn"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 230163,
       "name": "Feel My Needs - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/3RiRFyvasDtAv8n0AQUKFG"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 201368,
       "name": "Free At Last - Martin Ikin Remix",
       "url": "https://open.spotify.com/track/29OpAJWfsnqXQY5VAEToTI"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 160530,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/5ESwtS1CI7JSGrEM5u8zdW"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 189875,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/6DetvocRqx9ELX2aKmwj3g"
@@ -949,6 +949,24 @@
       "duration_ms": 155250,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/3rTZinXSSEZhexNLwPhpjr"
+    },
+    {
+      "album": {
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/45DCBEkvzjYfjpZNaphhg3"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        }
+      ],
+      "date_added": "2021-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/5FzuDFYmUFcvjraadJXv28"
     },
     {
       "album": {
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 217046,
       "name": "I Feel It - Paul Woolford Remix",
       "url": "https://open.spotify.com/track/5rXnLer20fKRTYOOF092Gb"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 342580,
       "name": "Lay Our Love - Original Mix",
       "url": "https://open.spotify.com/track/2K1LOy48dppX10UB3d4vkc"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 196188,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0WWSJNzZ3GUXNMHkWj0Kno"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/28VwKroAuwwmGlrYYqIPnB"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 211452,
       "name": "Looking for Me",
       "url": "https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 160645,
       "name": "Love Like You (feat. SHELLS)",
       "url": "https://open.spotify.com/track/1Cbn204JSgklM8MQio2HF4"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 168091,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 168991,
       "name": "Make Your Move",
       "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 222260,
       "name": "Meet Me Later",
       "url": "https://open.spotify.com/track/6CAqkRAIzszlAvdz5JNabn"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 201290,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3EAwcVzkJyIp481tAtYeR0"
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 203555,
       "name": "Never Let You Go - MK Remix (Edit)",
       "url": "https://open.spotify.com/track/6RxvD8AJMIDNuhxvE30Pen"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 161883,
       "name": "One Night (feat. Raphaella)",
       "url": "https://open.spotify.com/track/4QUA94c3ycZm8dnpPih4sf"
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 168292,
       "name": "Rhythm Of The Night (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/2ueblaOZyxEOH4N0s30zDB"
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 218152,
       "name": "Set You Free - Secondcity Terrace 91 Remix",
       "url": "https://open.spotify.com/track/105u0Fvp88RztRoMU6ljrH"
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 219715,
       "name": "Simple Hit",
       "url": "https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 183662,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/7cktBtFnyH6ItWJ3ISNTrW"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 149280,
       "name": "Summer 91",
       "url": "https://open.spotify.com/track/7pARbCUoO1CTzU5ucMEaVF"
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 221705,
       "name": "The Power - Leftwing : Kody Remix",
       "url": "https://open.spotify.com/track/1CmKNKnbsvStGoo0rkW0cz"
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 146569,
       "name": "Wanna Show You",
       "url": "https://open.spotify.com/track/31Lors0F9PKAW3t61X5Dio"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 159408,
       "name": "Was a Time",
       "url": "https://open.spotify.com/track/4L3oBxjWLPgQkf2FXIWgx8"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 174193,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/1EFpoL0SkgjioIvPnEyh2R"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 192480,
       "name": "Weekend Vibe - Kokiri remix",
       "url": "https://open.spotify.com/track/3m4Mp5cF3BVijXkXEYrm57"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 136451,
       "name": "Won't Give Up",
       "url": "https://open.spotify.com/track/3G0vs3WVwcd46XuyQpVbBs"
@@ -2805,7 +2823,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 179266,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/374iP6eVAWCCCH2mvZT2A9"
@@ -2827,7 +2845,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 152419,
       "name": "You Were There (feat. Hayley May)",
       "url": "https://open.spotify.com/track/0MO2fTiSkv0ndvwVoXznU6"
@@ -2845,7 +2863,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 176097,
       "name": "You're Sunshine",
       "url": "https://open.spotify.com/track/4gdjZS54vHNBk467zeAqkq"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,426 likes - 36 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,532 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 6 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/4FjkmQ9JYaIeh1NxeLEO80) | [Elvis Presley](https://open.spotify.com/artist/1RONXV8SB9yMMRNtcHrG1O) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 1:46 |
 | 7 | [Always On My Mind](https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 3:38 |
 | 8 | [Surrender](https://open.spotify.com/track/4CLKOf0qczUKV4FzLYICra) | [Elvis Presley](https://open.spotify.com/artist/1RONXV8SB9yMMRNtcHrG1O), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 1:51 |
-| 9 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/1RONXV8SB9yMMRNtcHrG1O) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:34 |
-| 10 | [It's Now or Never](https://open.spotify.com/track/6p8LNHMqJiUMjPXy4rnO5H) | [Elvis Presley](https://open.spotify.com/artist/1RONXV8SB9yMMRNtcHrG1O) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:14 |
+| 9 | [Pocketful of Rainbows](https://open.spotify.com/track/6lSGhstIFdvPT0mYbTM6Y2) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [G.I\. Blues](https://open.spotify.com/album/1TqAYM0PTj6TDdzTcY8VGT) | 2:34 |
+| 10 | [It's Now or Never](https://open.spotify.com/track/6p8LNHMqJiUMjPXy4rnO5H) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:14 |
 | 11 | [Spanish Eyes](https://open.spotify.com/track/154uez7TUERGpe27JXTegC) | [Elvis Presley](https://open.spotify.com/artist/1RONXV8SB9yMMRNtcHrG1O) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 2:21 |
 | 12 | [She Wears My Ring](https://open.spotify.com/track/74qkAezgb0SxD5IWUC7vF5) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis At Stax](https://open.spotify.com/album/3EHxFLhmgSGEBmJ7tFXwRz) | 3:21 |
 | 13 | [Unchained Melody \- Live](https://open.spotify.com/track/7KDppbMlsEkqdcO4G0vW6U) | [Elvis Presley](https://open.spotify.com/artist/1RONXV8SB9yMMRNtcHrG1O) | [The 50 Greatest Love Songs](https://open.spotify.com/album/5cY3REzxOvyi3FI5kgeqKS) | 2:29 |

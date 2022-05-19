@@ -4,7 +4,7 @@
 
 > Soft piano interpretations of jazz classics.
 
-107 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+110 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,10 +70,12 @@
 | [My One And Only Love](https://open.spotify.com/track/7qpM6ZfKiHVCEmqo4pPnKR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My One And Only Love](https://open.spotify.com/album/0cSg1M044LOkrxLCAgPZmT) | 3:45 | 2022-01-13 |  |
 | [my romance](https://open.spotify.com/track/1jUutuE0MOLuCYq8K7WKcB) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:27 | 2021-12-14 |  |
 | [My Shining Hour](https://open.spotify.com/track/0rUZ4GStOT0a0TEi5E0eKB) | [Seth William](https://open.spotify.com/artist/4wmS3zcqEbHaGPSib72vQB) | [My Shining Hour](https://open.spotify.com/album/6vjNpvH3ZUgauSZFxQSqyK) | 2:20 | 2021-12-14 |  |
+| [Never Let Me Go](https://open.spotify.com/track/6LkO16bRoZItqrR9yIbHQZ) | [Sonny Beckerlee](https://open.spotify.com/artist/0XMT5PoHDKRRWHj40qLg7K) | [Never Let Me Go](https://open.spotify.com/album/2aK4enHcBBbKBIYRwm1iSX) | 2:32 | 2022-05-18 |  |
 | [Night and Day](https://open.spotify.com/track/7LLw6w4VwOzLIKxEoV58lK) | [Dimitri Ivanov](https://open.spotify.com/artist/6Zo37jpF0sCAvjP5YM8xQO) | [Jazz Piano Nights](https://open.spotify.com/album/0DsmrLsp3Ypws2d9G3ZDSi) | 4:53 | 2022-03-10 |  |
 | [Old Devil Moon](https://open.spotify.com/track/4XCMZFYHKBq5Tyt2MUKtDZ) | [Cheryl Patterson](https://open.spotify.com/artist/5ieZXxVzN0lLVFMMUMQrQj) | [Old Devil Moon](https://open.spotify.com/album/6SfGQphn7E3nOTjlipaA2o) | 2:50 | 2022-03-10 |  |
 | [Old Folks](https://open.spotify.com/track/14BLMhpVsywOPvT7zOaFu5) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Old Folks](https://open.spotify.com/album/3JCK1yX5Znu54wJTl2lbs0) | 4:20 | 2021-12-14 |  |
 | [On A Clear Day](https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [On A Clear Day](https://open.spotify.com/album/5tc4yM14HsMvbLUErYQ4MH) | 3:16 | 2022-04-01 |  |
+| [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2022-05-18 |  |
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/0LZ678lgdb9f0ab8AyZBHH) | [Ellen Thomas](https://open.spotify.com/artist/5SKCgE6dXEIQuEHfRzQYIj) | [Darn That Dream](https://open.spotify.com/album/2ql7oxvh5zWMOvCutpd4pP) | 3:02 | 2022-03-10 |  |
 | [Once I Had A secret Love](https://open.spotify.com/track/7kvwOnTBlrIAkScJkjIPUR) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [Once I Had A secret Love](https://open.spotify.com/album/0cBqA8iqJvj72zbk5etg5b) | 5:46 | 2022-01-13 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 | 2021-12-14 |  |
@@ -86,7 +88,7 @@
 | [Someday My Prince Will Come](https://open.spotify.com/track/0NoAxejQ4AGQlLiZWaQc5b) | [Mike Del Ferro](https://open.spotify.com/artist/0TNH4nP9pt2WmRcbmFn8kr) | [Slow Piano Music 2](https://open.spotify.com/album/3vM1vJ8SzromIFmBsYy4vr) | 2:59 | 2022-03-10 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/5DG1ux5rYimpUxMPh2HQcz) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 5:00 | 2021-12-14 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/1X9Vq3UbrHLrFYgv3d12ul) | [Dan Hawkins](https://open.spotify.com/artist/6Zrz9KdRDQ9LIfe0Cti6Lx) | [Somewhere Over The Rainbow](https://open.spotify.com/album/1CjdLuBEg4yGAWx89Ab48F) | 3:02 | 2021-12-14 |  |
-| [Sophisticated Lady](https://open.spotify.com/track/4Ws7Bm2Nhbm83Tz4gRxpIx) | [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT) | [Blues For Myself \(Piano Solo\)](https://open.spotify.com/album/4YZjyiz1O5rBwiz6c0VVyI) | 3:30 | 2022-01-13 |  |
+| [Sophisticated Lady](https://open.spotify.com/track/4Ws7Bm2Nhbm83Tz4gRxpIx) | [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT) | [Blues For Myself \(Piano Solo\)](https://open.spotify.com/album/4YZjyiz1O5rBwiz6c0VVyI) | 3:30 | 2022-01-13 | 2022-05-19 |
 | [Soul Eyes](https://open.spotify.com/track/26Wo7WEQKKuGg4JeouLnfk) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Soul Eyes](https://open.spotify.com/album/4viivNC5h64WwbgUg8UAFe) | 3:30 | 2022-05-10 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/5STmaQpxC5Isvg6JNdLbzN) | [Brooklyn Smith](https://open.spotify.com/artist/0bdL8iLPL5Nj0IRvHn2kIP) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/41Cgn5J4dGakeyUXDDgSyu) | 3:55 | 2021-12-14 |  |
 | [spring is here](https://open.spotify.com/track/1qNaAQueWsLOZswKx0zTIe) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 3:56 | 2021-12-14 |  |
@@ -107,6 +109,7 @@
 | [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2021-12-14 |  |
 | [They Say It's Wonderful](https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [They Say It's Wonderful](https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198) | 3:19 | 2022-03-10 |  |
 | [Time Remembered](https://open.spotify.com/track/4ZEePa5q8Gwz6dqg4oIifT) | [Martha Friedman](https://open.spotify.com/artist/09mk5BIlvR4do27qkRraFb) | [In A Mellow Tone](https://open.spotify.com/album/64IuKLGRM1XCFDaGmrGjyF) | 2:59 | 2021-12-14 |  |
+| [Violets for Your Furs](https://open.spotify.com/track/5HPVrnUvpTzJF3VSL5rJTD) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Violets for Your Furs](https://open.spotify.com/album/0ZLQMQ4wddsUhMcowvwFeM) | 3:24 | 2022-05-18 |  |
 | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2022-04-01 |  |
 | [What Is This Thing Called Love](https://open.spotify.com/track/3rtTjoktE2l4hxyFtD0dXY) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Alone](https://open.spotify.com/album/7MGMCePGXmLvabODZSCUST) | 2:11 | 2022-03-10 |  |
 | [When I Fall In Love](https://open.spotify.com/track/3Ko863Oq3qXwXXyor9VNci) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [When I Fall In Love](https://open.spotify.com/album/6YfxosS29pThRt7j2ACrom) | 4:12 | 2021-12-14 |  |

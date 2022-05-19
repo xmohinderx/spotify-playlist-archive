@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Cedric Burnside
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,524 likes - 131 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,554 likes - 131 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

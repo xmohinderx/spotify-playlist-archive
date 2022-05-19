@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Moderat
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,261 likes - 74 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,404 likes - 74 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 4 | [Love Is the Law \- Adana Twins Remix](https://open.spotify.com/track/7fGa4udV3kDjJhr95Wlm6G) | [Max von Sternberg](https://open.spotify.com/artist/47Jz4Lwu4QGJSp1pxKaXLJ), [Alice Rose](https://open.spotify.com/artist/4STCMtMjSR9rsnBpfAtKYE), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Love Is the Law \(Adana Twins Remix\)](https://open.spotify.com/album/7m6lWVrRfQnZxyZdaUHydU) | 6:37 |
 | 5 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 |
 | 6 | [UUUU \- &ME Remix](https://open.spotify.com/track/0rfLJGjPdvqHXgvDCTdGc6) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [UUUU \(&ME Remix\)](https://open.spotify.com/album/6WcXcUljr548zs4lB6zWBb) | 6:57 |
-| 7 | [Matrix](https://open.spotify.com/track/7G4fOvwtIkEtj4BQY0Z2vK) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Jesus Was an Alien](https://open.spotify.com/album/6yW2qRVWPq2BaMaQK4nWyq) | 6:08 |
+| 7 | [Matrix](https://open.spotify.com/track/7G4fOvwtIkEtj4BQY0Z2vK) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Jesus Was An Alien](https://open.spotify.com/album/6yW2qRVWPq2BaMaQK4nWyq) | 6:08 |
 | 8 | [Replicant](https://open.spotify.com/track/4TZPQmkyOD8KTQsyv87VFK) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Replicant](https://open.spotify.com/album/0RRJKozADemLSVXEba0xUq) | 5:14 |
 | 9 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 |
 | 10 | [Fire](https://open.spotify.com/track/576g4AWp68fUr4iSBp8wQy) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Fire](https://open.spotify.com/album/0q66n2F4XQvLAKRMO6YddR) | 4:45 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 16 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
 | 17 | [PSYCHODYSKO](https://open.spotify.com/track/6SUhqjKnzoD6NapngfSNEF) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [PSYCHODYSKO](https://open.spotify.com/album/2lFstCwn0jCvKn0sR2TQ2c) | 5:24 |
 | 18 | [Momentary](https://open.spotify.com/track/7w1XEGMMKGuzPsXO3zU9ZT) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Firestorm](https://open.spotify.com/album/4OQwkJa6EB9QUxV8eSEUKH) | 7:40 |
-| 19 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 |
+| 19 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 |
 | 20 | [1981](https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [1981](https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ) | 6:11 |
 | 21 | [Epoche](https://open.spotify.com/track/5Gxh6WPQVqsfESePvpHsDf) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Epoche](https://open.spotify.com/album/2Md53Ho2kXNMATFL8pK3go) | 6:26 |
 | 22 | [Release Me](https://open.spotify.com/track/2Lnk1GLLbg6Z10k9cQIoMO) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Release Me](https://open.spotify.com/album/36FqgtWPPZbZ4AS6NMI08I) | 6:01 |

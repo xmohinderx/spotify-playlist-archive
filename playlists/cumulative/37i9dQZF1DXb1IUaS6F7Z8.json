@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 176788,
       "name": "Fearless and Brave",
       "url": "https://open.spotify.com/track/3FaqFP70AuvbV0EbOIqonQ"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 166360,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/60xc3fnob8DL9NkGFmJxyv"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 193760,
       "name": "Katie Bar the Door",
       "url": "https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 160013,
       "name": "Mick Jones Nicked My Pudding",
       "url": "https://open.spotify.com/track/2iD8GXpQJlYEgWwiCyXoW2"
@@ -495,6 +495,24 @@
       "duration_ms": 155642,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6fKymBc5tF2uMbQhyRaezA"
+    },
+    {
+      "album": {
+        "name": "My Darling Dopamine",
+        "url": "https://open.spotify.com/album/2iqsju556G00B1EK1VmmLP"
+      },
+      "artists": [
+        {
+          "name": "Days N Daze",
+          "url": "https://open.spotify.com/artist/3wRGr9z5I5xmmVc21fIvC6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "My Darling Dopamine",
+      "url": "https://open.spotify.com/track/6WVswDACrMjAkj1nRxYI3Z"
     },
     {
       "album": {
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 173200,
       "name": "Orange and the Green",
       "url": "https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 211213,
       "name": "Skull Creek Logger",
       "url": "https://open.spotify.com/track/5Gh2ldlMcEjcxGXQZO2erc"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 160293,
       "name": "Walk the Plank Again",
       "url": "https://open.spotify.com/track/6EiQJaVP4JLBDVhKTG8tZ3"

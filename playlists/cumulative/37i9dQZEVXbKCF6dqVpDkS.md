@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-621 songs - 1 day 8 hr 30 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+622 songs - 1 day 8 hr 33 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 | 2021-09-05 | 2021-09-09 |
 | [Love Is A Game](https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-25 |
 | [Love Is On My Side](https://open.spotify.com/track/4S4RWAA749dKyJQ5CiKEBJ) | [The Black Mamba](https://open.spotify.com/artist/2huzXUiBGRUJ8iRFD4NHc7) | [Love Is On My Side](https://open.spotify.com/album/1HFvagCE5ckzZAb4yXY3yE) | 2:55 | 2021-05-25 | 2021-05-26 |
+| [Love Myself](https://open.spotify.com/track/0iBWf9gz65kHxuQkZkrNUc) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Myself](https://open.spotify.com/album/0gQZCgw5OvWAUC2NZEKLKg) | 2:59 | 2022-05-18 |  |
 | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nuka](https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z) | [Love Not War \(The Tampa Beat\)](https://open.spotify.com/album/3CHys9v5aX1NS861o6r556) | 3:12 | 2021-03-27\* | 2021-04-26 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-09-18 | 2022-01-24 |
 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 | 2021-09-28 | 2021-11-21 |
@@ -521,7 +522,7 @@
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2021-12-06 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-20 | 2021-12-29 |
 | [Solo](https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Solo](https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18) | 2:09 | 2022-05-07 |  |
-| [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 |  |
+| [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-05-19 |
 | [SPACEBAE](https://open.spotify.com/track/3LumJHMo69GJoBMxzSFFe1) | [Qlas & Blacka](https://open.spotify.com/artist/0ltU5V1lbLkZlgXrnCeGjx) | [SPACEBAE](https://open.spotify.com/album/2u1rjyei8ahEcsy4Ew43dH) | 2:23 | 2021-06-27 | 2021-08-08 |
 | [Spacebea](https://open.spotify.com/track/1M1fZ8tqhNWvqEMPIBR9th) | [DrillNL](https://open.spotify.com/artist/4rVKn7aMWtaSMWkhm73wkR), [Qlas & Blacka](https://open.spotify.com/artist/0ltU5V1lbLkZlgXrnCeGjx), [Blacka](https://open.spotify.com/artist/7uW1yOfJDGinbQOr0uv7AS) | [Spacebea](https://open.spotify.com/album/318vzEQeL0gDco6UO9v7Vg) | 2:29 | 2021-05-20 | 2021-05-21 |
 | [Spooky Love](https://open.spotify.com/track/3KbW03Tu5Q2k876P2LqKNk) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Championships](https://open.spotify.com/album/11CyESxdaPU7YyCPhkYbWy) | 3:00 | 2021-10-31 | 2021-10-31 |

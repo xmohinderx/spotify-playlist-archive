@@ -1034,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "ARIZONA BABY",
+        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211668,
+      "name": "Baby Boy",
+      "url": "https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm"
+    },
+    {
+      "album": {
         "name": "Avian",
         "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
@@ -5290,6 +5308,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/32RhQbcXcIqxzhaZlXmfFa"
+      },
+      "artists": [
+        {
+          "name": "Congee",
+          "url": "https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195786,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/08U90Je8ANncSpd6ptxNFt"
+    },
+    {
+      "album": {
         "name": "Ricardo",
         "url": "https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK"
       },
@@ -8559,7 +8595,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 308133,
       "name": "LATE NIGHT",
       "url": "https://open.spotify.com/track/52APCin3aTjyORNptNOGFx"
@@ -9605,6 +9641,24 @@
       "duration_ms": 186506,
       "name": "Mask Off (Feelings)",
       "url": "https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl"
+    },
+    {
+      "album": {
+        "name": "Maybe Not",
+        "url": "https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170060,
+      "name": "Maybe Not",
+      "url": "https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD"
     },
     {
       "album": {
@@ -14219,7 +14273,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 199796,
       "name": "Spoiled little brat",
       "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
@@ -14621,7 +14675,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 204533,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA"
@@ -16253,7 +16307,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-03-26",
+      "date_removed": null,
       "duration_ms": 160165,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Celebrating the release of PC Music, Vol\. 3.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,102 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,345 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 91 | [Ladida](https://open.spotify.com/track/0RkJu38Kh5beBzrAVroDBb) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Harmony EP](https://open.spotify.com/album/2kbMwqHzoqdBHRjg3LEVdd) | 2:35 |
 | 92 | [sad4whattt \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sad4whattt \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS) | 1:58 |
 | 93 | [DOZO](https://open.spotify.com/track/7nhyXNAngH1yIMIxps3CDM) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [DOZO](https://open.spotify.com/album/6zp4m8mXT5m6a0SH7vhhQS) | 2:23 |
-| 94 | [bad game](https://open.spotify.com/track/61WSJNQdNwXJmgAEABwUCy) | [yggd](https://open.spotify.com/artist/4f8nrKIFTDkTzScCryc9q3), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [emorave](https://open.spotify.com/artist/2R0nqFZQNMwCwSmpEv3EaM) | [bad game](https://open.spotify.com/album/6nC8B3PaTcSSduwuE7mA4Q) | 2:04 |
+| 94 | [bad game](https://open.spotify.com/track/61WSJNQdNwXJmgAEABwUCy) | [Ksiaze700](https://open.spotify.com/artist/6iZiOsw6Hr8PIHViegeAnL), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [emorave](https://open.spotify.com/artist/2R0nqFZQNMwCwSmpEv3EaM) | [bad game](https://open.spotify.com/album/6nC8B3PaTcSSduwuE7mA4Q) | 2:04 |
 | 95 | [THINKIN BOUT U!](https://open.spotify.com/track/1yWVsXAKWrX4Vrmqo8nYtP) | [Wxmell](https://open.spotify.com/artist/79qLwU4awG9JDsIOfL6IBz) | [THINKIN BOUT U!](https://open.spotify.com/album/35b0EaIeuCt7VpHgB8ellE) | 3:33 |
 | 96 | [Codependent](https://open.spotify.com/track/6XwlCj9JMf0JRXku4x9hxt) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Codependent](https://open.spotify.com/album/1ZhfgXezmD1aUFrUjt6hnl) | 2:49 |
 | 97 | [clutch](https://open.spotify.com/track/2r30yCy0ybzQkbY2LsPCoO) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK), [Devstacks](https://open.spotify.com/artist/4Ijbgdusp7syatYSHIIulR) | [clutch](https://open.spotify.com/album/5J1earJqB1MYBGUeBellaV) | 1:32 |

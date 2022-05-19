@@ -1,77 +1,13 @@
 {
   "description": "What we're gonna do right now is go back\u2014back in time. Here are all your favorite '90s R&B slow jams!",
-  "num_followers": 1405983,
+  "num_followers": 1406330,
   "original_name": "'90s Baby Makers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjgzNTA0MiwwMDAwMDAwMDU2NTcwMTc5YTAzMzJlYjVlZTg4MDk4NDUyODZmNzVj",
+  "snapshot_id": "MTY1MjkyMjU1NCwwMDAwMDAwMDEwNDhmN2RiZWYwZmNjZmZkZDcyZTlmMzcxZjI2YzZk",
   "tracks": [
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 290066,
-      "name": "Love U 4 Life",
-      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Michel'le",
-        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
-      },
-      "artists": [
-        {
-          "name": "Michel'le",
-          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Something in My Heart",
-      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "A Jagged Era",
-        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
-      },
-      "artists": [
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "I Gotta Be",
-      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
-    },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
@@ -91,6 +27,22 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
       },
@@ -103,6 +55,70 @@
       "duration_ms": 317560,
       "name": "I Get Lonely",
       "url": "https://open.spotify.com/track/5xLDmkobOw674TLTBBmnuN"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Fever for da Flavor",
+        "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
+      },
+      "artists": [
+        {
+          "name": "H-Town",
+          "url": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
+        }
+      ],
+      "duration_ms": 330945,
+      "name": "Knockin' da Boots",
+      "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "One Wish",
+        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
+      },
+      "artists": [
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Nobody's Supposed to Be Here",
+      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Michel'le",
+        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
+      },
+      "artists": [
+        {
+          "name": "Michel'le",
+          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Something in My Heart",
+      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -139,6 +155,22 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
+        "name": "A Jagged Era",
+        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "I Gotta Be",
+      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
         "name": "Total",
         "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
@@ -151,82 +183,6 @@
       "duration_ms": 282333,
       "name": "Kissin' You",
       "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "One Wish",
-        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
-      },
-      "artists": [
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Nobody's Supposed to Be Here",
-      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Best Of SWV",
-        "url": "https://open.spotify.com/album/2QHtc53nHnTTQip9d3VmoP"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "Use Your Heart",
-      "url": "https://open.spotify.com/track/5mCQirG6bW3iDN0gpdoxrP"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Levert.Sweat.Gill",
-        "url": "https://open.spotify.com/album/3BrZT0UzGMi2qhI5WExT8Y"
-      },
-      "artists": [
-        {
-          "name": "LSG",
-          "url": "https://open.spotify.com/artist/1l40tPBtp1bmS1krmINRSD"
-        },
-        {
-          "name": "Coko",
-          "url": "https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5"
-        },
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "All the Times (feat. Faith Evans, Coko & Missy Elliott)",
-      "url": "https://open.spotify.com/track/0KHHrBbdvuJ6knLxj7dqkw"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -247,18 +203,86 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
+        "name": "Best Of SWV",
+        "url": "https://open.spotify.com/album/2QHtc53nHnTTQip9d3VmoP"
       },
       "artists": [
         {
-          "name": "Troop",
-          "url": "https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI"
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
         }
       ],
-      "duration_ms": 229053,
-      "name": "All I Do Is Think of You",
-      "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
+      "duration_ms": 289240,
+      "name": "Use Your Heart",
+      "url": "https://open.spotify.com/track/5mCQirG6bW3iDN0gpdoxrP"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Blackstreet",
+        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
+      },
+      "artists": [
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        }
+      ],
+      "duration_ms": 299800,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Keith Sweat",
+        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        },
+        {
+          "name": "Athena Cage",
+          "url": "https://open.spotify.com/artist/2kqVmaPdvLEcfaT9oibK27"
+        }
+      ],
+      "duration_ms": 264773,
+      "name": "Nobody (feat. Athena Cage)",
+      "url": "https://open.spotify.com/track/4SF1747p541umnykBp352Q"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 290066,
+      "name": "Love U 4 Life",
+      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Personal Conversation",
+        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Happily Ever After",
+      "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -299,38 +323,46 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Keith Sweat",
-        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
+        "name": "Levert.Sweat.Gill",
+        "url": "https://open.spotify.com/album/3BrZT0UzGMi2qhI5WExT8Y"
       },
       "artists": [
         {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+          "name": "LSG",
+          "url": "https://open.spotify.com/artist/1l40tPBtp1bmS1krmINRSD"
         },
         {
-          "name": "Athena Cage",
-          "url": "https://open.spotify.com/artist/2kqVmaPdvLEcfaT9oibK27"
+          "name": "Coko",
+          "url": "https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 264773,
-      "name": "Nobody (feat. Athena Cage)",
-      "url": "https://open.spotify.com/track/4SF1747p541umnykBp352Q"
+      "duration_ms": 291706,
+      "name": "All the Times (feat. Faith Evans, Coko & Missy Elliott)",
+      "url": "https://open.spotify.com/track/0KHHrBbdvuJ6knLxj7dqkw"
     },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Fever for da Flavor",
-        "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/01FqJwpa24Vfb8DI6sZI6B"
       },
       "artists": [
         {
-          "name": "H-Town",
-          "url": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
         }
       ],
-      "duration_ms": 330945,
-      "name": "Knockin' da Boots",
-      "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
+      "duration_ms": 221173,
+      "name": "Sending My Love",
+      "url": "https://open.spotify.com/track/5yMQERKmNx6ajo4qHi1KT2"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -367,50 +399,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Blackstreet",
-        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/5b5MEeTdOAJHl5ICZW8QMs"
       },
       "artists": [
         {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
         }
       ],
-      "duration_ms": 299800,
-      "name": "Before I Let You Go",
-      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/1Owp8VOaFEk4r7zkvGOHmE"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 384666,
-      "name": "Cruisin' - Carl Mackintosh Mix",
-      "url": "https://open.spotify.com/track/6xYd4zCVeSp80Un2Rl9wDs"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Personal Conversation",
-        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Happily Ever After",
-      "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
+      "duration_ms": 323826,
+      "name": "Let's Chill",
+      "url": "https://open.spotify.com/track/0BEUswN4YNySo3KRVrAqCq"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -431,66 +431,66 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/01FqJwpa24Vfb8DI6sZI6B"
+        "name": "Forever My Lady",
+        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
       },
       "artists": [
         {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
         }
       ],
-      "duration_ms": 221173,
-      "name": "Sending My Love",
-      "url": "https://open.spotify.com/track/5yMQERKmNx6ajo4qHi1KT2"
+      "duration_ms": 312040,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
     },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/5b5MEeTdOAJHl5ICZW8QMs"
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/1Owp8VOaFEk4r7zkvGOHmE"
       },
       "artists": [
         {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 323826,
-      "name": "Let's Chill",
-      "url": "https://open.spotify.com/track/0BEUswN4YNySo3KRVrAqCq"
+      "duration_ms": 384666,
+      "name": "Cruisin' - Carl Mackintosh Mix",
+      "url": "https://open.spotify.com/track/6xYd4zCVeSp80Un2Rl9wDs"
     },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Radio Waves Of The '90s: Urban Hits",
-        "url": "https://open.spotify.com/album/6lnkKUssdkeFx4jFng3L6C"
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr"
       },
       "artists": [
         {
-          "name": "Lokey",
-          "url": "https://open.spotify.com/artist/4bidFqFLzQ6OBICstJbr05"
+          "name": "Troop",
+          "url": "https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI"
         }
       ],
-      "duration_ms": 257399,
-      "name": "I Got A Thang 4 Ya!",
-      "url": "https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0"
+      "duration_ms": 229053,
+      "name": "All I Do Is Think of You",
+      "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
     },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Very Best Of After 7",
-        "url": "https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7"
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
       "artists": [
         {
-          "name": "After 7",
-          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
         }
       ],
-      "duration_ms": 272333,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/0aqVhoenCvorCVcEZEfiLS"
+      "duration_ms": 235706,
+      "name": "Giving Him Something He Can Feel",
+      "url": "https://open.spotify.com/track/4htbAEZWr53J08x3dUv00W"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -511,18 +511,38 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Forever My Lady",
-        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+        "name": "The Very Best Of After 7",
+        "url": "https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7"
       },
       "artists": [
         {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
         }
       ],
-      "duration_ms": 312040,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
+      "duration_ms": 272333,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/0aqVhoenCvorCVcEZEfiLS"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "If I Ever Fall In Love",
+        "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
+      },
+      "artists": [
+        {
+          "name": "Shai",
+          "url": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
+        },
+        {
+          "name": "Bill Appleberry",
+          "url": "https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ"
+        }
+      ],
+      "duration_ms": 289693,
+      "name": "If I Ever Fall In Love",
+      "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -559,26 +579,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "If I Ever Fall In Love",
-        "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
-      },
-      "artists": [
-        {
-          "name": "Shai",
-          "url": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
-        },
-        {
-          "name": "Bill Appleberry",
-          "url": "https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ"
-        }
-      ],
-      "duration_ms": 289693,
-      "name": "If I Ever Fall In Love",
-      "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Tamia",
         "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
       },
@@ -595,6 +595,38 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
+        "name": "Radio Waves Of The '90s: Urban Hits",
+        "url": "https://open.spotify.com/album/6lnkKUssdkeFx4jFng3L6C"
+      },
+      "artists": [
+        {
+          "name": "Lokey",
+          "url": "https://open.spotify.com/artist/4bidFqFLzQ6OBICstJbr05"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "I Got A Thang 4 Ya!",
+      "url": "https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 273438,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
         "name": "The Very Best Of After 7",
         "url": "https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7"
       },
@@ -607,22 +639,6 @@
       "duration_ms": 272933,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/78fii1y8vrGtn5YtHEnpaN"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Diamonds and Pearls",
-        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 399666,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/2cXdUg5c57C4b2qLCqHAOX"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -655,38 +671,6 @@
       "duration_ms": 260666,
       "name": "All I See",
       "url": "https://open.spotify.com/track/0TEPE1KMWY0satuZIBtuRt"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 273438,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Giving Him Something He Can Feel",
-      "url": "https://open.spotify.com/track/4htbAEZWr53J08x3dUv00W"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -739,18 +723,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "For The Cool In You",
-        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
         }
       ],
-      "duration_ms": 229600,
-      "name": "When Can I See You",
-      "url": "https://open.spotify.com/track/2zItQNJrVrTioXTXWiI2ed"
+      "duration_ms": 274533,
+      "name": "Freak Me",
+      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -771,18 +755,34 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/6Y8lHGQqTmbE6Hhj1mMCkX"
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 332133,
-      "name": "Cherish the Day",
-      "url": "https://open.spotify.com/track/5ljnOdrl3v8oYC2Llknvna"
+      "duration_ms": 399666,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/2cXdUg5c57C4b2qLCqHAOX"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Take Our Time",
+      "url": "https://open.spotify.com/track/44QrzYVAHFC9WMN91GEo9H"
     }
   ],
   "unique_name": "'90s Baby Makers",

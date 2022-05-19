@@ -486,6 +486,28 @@
     },
     {
       "album": {
+        "name": "CITY 2 WEST",
+        "url": "https://open.spotify.com/album/78gTk5y1cRqMf2JnONzFtK"
+      },
+      "artists": [
+        {
+          "name": "DIBZ",
+          "url": "https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej"
+        },
+        {
+          "name": "JAYVY",
+          "url": "https://open.spotify.com/artist/5nzxFTaL8FDA5lLlm5PbKj"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "CITY 2 WEST",
+      "url": "https://open.spotify.com/track/5j1HnLFIQB4BWMS2HOk1fg"
+    },
+    {
+      "album": {
         "name": "Crazy Life",
         "url": "https://open.spotify.com/album/3cJ3RqOLpSvJpoBXgdeBM6"
       },
@@ -591,7 +613,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 178466,
       "name": "DOWN UNDER",
       "url": "https://open.spotify.com/track/706YbVUDO1KTtyw0QhJvRc"
@@ -1623,7 +1645,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-19",
       "duration_ms": 162178,
       "name": "Need it",
       "url": "https://open.spotify.com/track/5xi9havTvE7ELg0U5O5GsQ"
