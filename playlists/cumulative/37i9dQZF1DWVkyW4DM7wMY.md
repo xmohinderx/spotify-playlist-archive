@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-108 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+110 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,15 +76,17 @@
 | [Old Ghosts](https://open.spotify.com/track/7mdxLKcj9fgsMPy3pJhadc) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06) | [Old Ghosts](https://open.spotify.com/album/0L2hcwVhhMdCrT2WDxNJor) | 2:51 | 2021-10-29 |  |
 | [olivine](https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [AA side](https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr) | 3:38 | 2022-03-17 |  |
 | [Oluvannyuma](https://open.spotify.com/track/5A8vuFKIH9Co6lm7P36KEP) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Oluvannyuma](https://open.spotify.com/album/4oDTOueYllwIAfl0zkJRoY) | 3:02 | 2021-11-04 | 2022-02-25 |
-| [Only Human](https://open.spotify.com/track/42H2uitTxFmfaKvbNYDI9t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Only Human](https://open.spotify.com/album/5ILxoO9aB3fRcWPr2IpUIS) | 4:49 | 2021-10-15 |  |
+| [Omu](https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Omu](https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1) | 2:54 | 2022-05-19 |  |
+| [Only Human](https://open.spotify.com/track/42H2uitTxFmfaKvbNYDI9t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Only Human](https://open.spotify.com/album/5ILxoO9aB3fRcWPr2IpUIS) | 4:49 | 2021-10-15 | 2022-05-20 |
 | [Panda Shuka](https://open.spotify.com/track/1Kbw16cy2N3q78nDePIcWl) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Panda Shuka](https://open.spotify.com/album/6UWeD6VEZ58wm6Q0Y4LXPo) | 2:48 | 2021-10-15 | 2022-03-26 |
 | [Party](https://open.spotify.com/track/5tOjlYLXI4AE864bDVUSPr) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [Chevy Kev](https://open.spotify.com/artist/7b3Cm19fyzxElci72YY4xQ), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 3:34 | 2021-10-15 |  |
+| [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 | 2022-05-19 |  |
 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 | 2021-10-15 | 2022-03-18 |
 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2022-04-01 |  |
 | [Perfection // T r u s t](https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh) | 4:00 | 2021-10-15 |  |
 | [Pleasure Riddim](https://open.spotify.com/track/4ev6HfOvSGIWysAYaqyPdS) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Pleasure Riddim](https://open.spotify.com/album/5RSh4SiFXncnAnheuqLp7i) | 2:10 | 2022-02-04 |  |
 | [rektless](https://open.spotify.com/track/53ieS7pA76pdBS3dig8Vuk) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [rektless](https://open.spotify.com/album/6IGKWpDBZDwntsLmdGIrCT) | 2:14 | 2021-10-15 | 2022-03-18 |
-| [Restart](https://open.spotify.com/track/6eZ4hwftRrwmEHlWIoiUD8) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Restart](https://open.spotify.com/album/0Gtt1qKIGPdmiK1pI1OMtz) | 3:53 | 2021-12-16 |  |
+| [Restart](https://open.spotify.com/track/6eZ4hwftRrwmEHlWIoiUD8) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Restart](https://open.spotify.com/album/0Gtt1qKIGPdmiK1pI1OMtz) | 3:53 | 2021-12-16 | 2022-05-20 |
 | [Sambaratika](https://open.spotify.com/track/5JylASyKwZDJl64NjuTfQD) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Sambaratika](https://open.spotify.com/album/0lIeaCNbdsXfvwaLReYjo8) | 3:03 | 2022-04-28 |  |
 | [SAME](https://open.spotify.com/track/71oFX1aP1QXg0QI3Yb2arI) | [Ms.Katana](https://open.spotify.com/artist/3rL1IWGmtKC224o3Hn4yJQ), [DJ John Vincent](https://open.spotify.com/artist/1utY6zlEXlarBchNg7YYzv) | [SAME](https://open.spotify.com/album/2TWLFJXFpiRZcRJtKNET10) | 3:26 | 2021-10-15 | 2022-02-25 |
 | [SAME ENERGY](https://open.spotify.com/track/1gQlBMBfyxsGYZlSQ7bkm3) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAME ENERGY](https://open.spotify.com/album/4GINHOzNbZoL05U6RRWO4B) | 2:01 | 2021-10-15 | 2022-05-06 |

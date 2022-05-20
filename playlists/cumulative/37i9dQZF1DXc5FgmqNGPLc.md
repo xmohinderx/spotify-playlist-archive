@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-77 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
+79 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,9 @@
 | [Patrice \- Live](https://open.spotify.com/track/6bHuuD809FCg6tQW3U83iu) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Live at the Room at the Top](https://open.spotify.com/album/6bjUgLGgIZKeCeWRogVFoM) | 19:11 | 2022-05-06 |  |
 | [Perdido \- Live](https://open.spotify.com/track/5Z6cjKT9giCudItSjdDRM9) | [Bud Powell Trio](https://open.spotify.com/artist/7il5MMdORy6JoYnqxFPKqE), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Quintet: Jazz At Massey Hall](https://open.spotify.com/album/0C3hwpzJmauK7jTRmv17Yg) | 7:47 | 2021-11-12 |  |
 | [Poinciana \- Live At The Pershing, Chicago, 1958](https://open.spotify.com/track/19CKYnx17KtyWRtmCa5tMf) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Ahmad Jamal At The Pershing: But Not For Me](https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY) | 8:08 | 2021-11-12 |  |
+| [Pops \(AKA When the Saints Go Marching In\) \- Live](https://open.spotify.com/track/6FbS0wgTrEHAB7O7xVo7dx) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [The Lost Album from Ronnie Scott’s \(Live\)](https://open.spotify.com/album/3uB6lXxaCmjy76Spz1Gv9A) | 7:35 | 2022-05-20 |  |
 | [Prayer for Passive Resistance \- Live Version](https://open.spotify.com/track/4OWaNn8uChWyXcw0OXLsy4) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus At Antibes](https://open.spotify.com/album/2gMTsMOwF9WHh9jx9vGnPz) | 8:23 | 2021-11-12 |  |
+| [Seven Steps to Heaven \- Live](https://open.spotify.com/track/5oas0Hk8vrvFSpPgaALUrs) | [T.S\. Monk](https://open.spotify.com/artist/3dNwAPe7GZxgNZjNhMyx5f) | [Seven Steps to Heaven \(Live\)](https://open.spotify.com/album/6O70A9t3RODyzLGta83c2i) | 4:00 | 2022-05-20 |  |
 | [Snowflakes And Sunshine \- Live At The Golden Circle, Stockholm, 1965 / Remastered 2002 / Rudy Van Gelder Edition](https://open.spotify.com/track/0vIj8yavF8QCq17FcidSZV) | [Ornette Coleman Trio](https://open.spotify.com/artist/0NRvpjoS4w3WdVSmkqSXgV) | [At The Golden Circle](https://open.spotify.com/album/48SGjYTh92QLwPHngKf3Bs) | 10:42 | 2021-11-12 |  |
 | [Softly as in a Morning Sunrise \- Live at Lincoln Center](https://open.spotify.com/track/3UkNjYoO81SVJFNkrkkjgX) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [The Complete Last Concert](https://open.spotify.com/album/4SQ03iwnOPvzgClDLWS5oZ) | 6:26 | 2021-11-12 |  |
 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 | 2021-11-12 |  |

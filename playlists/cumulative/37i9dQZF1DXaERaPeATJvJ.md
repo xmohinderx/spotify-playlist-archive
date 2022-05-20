@@ -2,15 +2,16 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Monkey to Millionaire
+> Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: C'mon Lennon
 
-79 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+80 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Ouch\) Mighty Love](https://open.spotify.com/track/6fKHg8pucl8ZFj07NVEBvk) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j) | [Unrescued World](https://open.spotify.com/album/0knRYnWDxaU96s6cOEu8BF) | 4:11 | 2021-11-25 |  |
 | [2 AM](https://open.spotify.com/track/71x7IYQXrCv8Pd2CX39oQm) | [Monday Math Class](https://open.spotify.com/artist/2TEO3mpRZL9jXJakMGTF3J) | [Volume 1 \- Ep](https://open.spotify.com/album/6cHlFXEzCz5A4zIIy0hdNX) | 4:32 | 2021-11-25 |  |
 | [A Spy in the House of Love](https://open.spotify.com/track/6Um6kOVCAV2LdFUAEWXgyS) | [The Jonis](https://open.spotify.com/artist/5Pq2ik6ubF4yTY3BcTsDqb) | [A Spy in the House of Love](https://open.spotify.com/album/2GvKZUcqklr89phbizRh7M) | 4:39 | 2021-11-25 |  |
+| [Aku Cinta J.A.K.A.R.T.A](https://open.spotify.com/track/5fFgx8X3SjZ4boxGu0vxeY) | [C'mon Lennon](https://open.spotify.com/artist/1RDrenzYUkREj4MDKQmdnP) | [Ketika La La La](https://open.spotify.com/album/1heP6tMSv3osMfEx4btHFd) | 3:24 | 2022-05-19 |  |
 | [Aku Lupa Aku Luka](https://open.spotify.com/track/3kBV8olpppGCIbhrh8TV6o) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Blacklight](https://open.spotify.com/album/6EaWZ06yNvOjeaCY0aSz15) | 4:31 | 2021-11-25 |  |
 | [Ali Baba](https://open.spotify.com/track/7hyVSfiu8VEKYh2l8eAiIb) | [Boys Are Toys](https://open.spotify.com/artist/1b2zga59ICvBeqJ9uuxuu5) | [Weah Weah of the Blah Blah](https://open.spotify.com/album/5W6e1kRTkcmSQPNPiEeYCI) | 2:48 | 2021-11-25 |  |
 | [Am I Robot?](https://open.spotify.com/track/5ctYnyGG80tnqygzIAAVhD) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love And Turbo Action](https://open.spotify.com/album/10Mz59hmubT7MRukNG29OA) | 3:39 | 2021-11-25 |  |

@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-66 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/4rU0SGAH9zhIFDqKgDDJgY)
+67 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/4rU0SGAH9zhIFDqKgDDJgY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Donna](https://open.spotify.com/track/067KY7gyzPgB2dEOhqlqhT) | [HoodBoy](https://open.spotify.com/artist/0ENK73asIFACBdANsrvSoG), [Guima](https://open.spotify.com/artist/1izfQ33KYdX2ObYH1vq1v1), [DaSeca](https://open.spotify.com/artist/0PkEzIQnkKxgZYzXNoY8aJ) | [Donna](https://open.spotify.com/album/4DrdUrDSHBVUIYPQdfI69r) | 2:55 | 2022-03-18 |  |
 | [Enquanto](https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Enquanto](https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w) | 3:03 | 2022-03-18 |  |
 | [Eu Presto](https://open.spotify.com/track/2yyG2gtYGsRbkH6BN816ep) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Eu Presto](https://open.spotify.com/album/0NQrQxJXvtaL7goJG29Z3I) | 2:32 | 2022-03-18 |  |
+| [Flutuar](https://open.spotify.com/track/53vCPvYsEtpvtVYKwuBetB) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [Flutuar](https://open.spotify.com/album/1wzPVlNkLaSd2BHYCShNlv) | 2:12 | 2022-05-20 |  |
 | [Gorilla Roxo](https://open.spotify.com/track/0bV0LtjtZH76gD0ujPYS3n) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:45 | 2022-03-18 |  |
 | [Gosto Assim](https://open.spotify.com/track/4ft5KUZ96NspZXyHYXPJcQ) | [Slow Gang](https://open.spotify.com/artist/7yeB6oM65lMbOBhPsu5fzq), [Smoke](https://open.spotify.com/artist/4JOLUHjQd1JHJw5CASQg24), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Gosto Assim](https://open.spotify.com/album/7H2qYE1xVlUT7lHCyA23NK) | 4:08 | 2022-03-18 |  |
 | [Hortelã](https://open.spotify.com/track/5sC9NS6j4aLaFN26zCHXHe) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM) | [Hortelã](https://open.spotify.com/album/5oMHrDU6zuS6tHL4h5FMfg) | 2:17 | 2022-03-18 |  |
@@ -62,7 +63,7 @@
 | [Sainha da Cyclone](https://open.spotify.com/track/0xa752Vw66MVIEz7AzfzUQ) | [Chinegrx](https://open.spotify.com/artist/7muINs5szM4GmeutBgu3ec), [Brunnin](https://open.spotify.com/artist/7sOl1POwSHsoZ2ezDJIapz), [Hpbeats](https://open.spotify.com/artist/4R26sDu3fyRuZVcnjTA5lj) | [Sainha da Cyclone](https://open.spotify.com/album/0FKsqgos6juV7KVz03kaJD) | 2:45 | 2022-03-18 |  |
 | [Segundo Andar](https://open.spotify.com/track/7rwW1Si2yr1dlLj6G2eDnU) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Segundo Andar](https://open.spotify.com/album/0j60tsSAY0XUmuYuESyFoL) | 3:54 | 2022-03-18 |  |
 | [Senta Vai](https://open.spotify.com/track/6KbcU0uIDHFnOSMIO5mPiG) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Senta Vai](https://open.spotify.com/album/3yEmk5V2FdYSMqv37eeCLV) | 3:57 | 2022-03-18 |  |
-| [Sentir e Prazer](https://open.spotify.com/track/7wYoG6sytNtVx17cTONjVa) | [Guima](https://open.spotify.com/artist/1izfQ33KYdX2ObYH1vq1v1), [HoodBoy](https://open.spotify.com/artist/0ENK73asIFACBdANsrvSoG), [DaSeca](https://open.spotify.com/artist/0PkEzIQnkKxgZYzXNoY8aJ) | [Sentir e Prazer](https://open.spotify.com/album/29b6PADdGfwtQ1PjbIwfqo) | 3:13 | 2022-03-18 |  |
+| [Sentir e Prazer](https://open.spotify.com/track/7wYoG6sytNtVx17cTONjVa) | [Guima](https://open.spotify.com/artist/1izfQ33KYdX2ObYH1vq1v1), [HoodBoy](https://open.spotify.com/artist/0ENK73asIFACBdANsrvSoG), [DaSeca](https://open.spotify.com/artist/0PkEzIQnkKxgZYzXNoY8aJ) | [Sentir e Prazer](https://open.spotify.com/album/29b6PADdGfwtQ1PjbIwfqo) | 3:13 | 2022-03-18 | 2022-05-20 |
 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 | 2022-03-18 |  |
 | [Sessão do Descarrego](https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Sessão do Descarrego](https://open.spotify.com/album/42gDhvs8gmBfr0NUZoqq3v) | 3:55 | 2022-03-18 |  |
 | [Solo](https://open.spotify.com/track/1ZfUzmhmyxfRCEweqgInsx) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi) | [Trilogia Triunfo](https://open.spotify.com/album/3Jnl5a8gRGO8omxruOlqmY) | 3:16 | 2022-03-18 |  |

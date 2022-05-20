@@ -1,13 +1,49 @@
 {
   "description": "You and jazz are the center of this universe. Cover: Theo Croker",
-  "num_followers": 48343,
+  "num_followers": 48473,
   "original_name": "Orbit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcxMDU0OSwwMDAwMDAzODAwMDAwMTgwY2QzOWE4OTcwMDAwMDE4MDE5YTlmNjIz",
+  "snapshot_id": "MTY1MzAxOTMyMCwwMDAwMDAzOTAwMDAwMTgwZGZhMTFmMmEwMDAwMDE4MDE5YTlmNjIz",
   "tracks": [
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "SOMETHIN' (feat. Ego Ella May)",
+        "url": "https://open.spotify.com/album/3oX8Sb6OrZxhELPcsk30UW"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "SOMETHIN' (feat. Ego Ella May)",
+      "url": "https://open.spotify.com/track/7uKjeD7TdjUQLgjyYO2leP"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "While We're Here",
+        "url": "https://open.spotify.com/album/5wlqekVOKMlrcpMrlUfwW5"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 246096,
+      "name": "Cool Grey 11s",
+      "url": "https://open.spotify.com/track/795dpaaKB78dWBjPZfR3IL"
+    },
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
@@ -27,6 +63,22 @@
       "duration_ms": 175406,
       "name": "BLACK MAN",
       "url": "https://open.spotify.com/track/1rDg5VhMEq3BsUQ2PNVeFi"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4OYo1ajrOD65jcMsR7Zohq"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "duration_ms": 252463,
+      "name": "Miss Chance",
+      "url": "https://open.spotify.com/track/1xvUVh7FMV7ur57qLLp7C3"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -53,20 +105,24 @@
       "url": "https://open.spotify.com/track/3GHIpmoJ4H7iwMrccZbMFo"
     },
     {
-      "added_at": "2022-05-16 14:15:49",
+      "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+        "name": "A Moment Of Mystery (feat. Toro y Moi)",
+        "url": "https://open.spotify.com/album/4uclvwR2Rro2n4jCm7kR3C"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 264299,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/2IwbW2jd0Ncv99Aroe77Ru"
+      "duration_ms": 205760,
+      "name": "A Moment Of Mystery (feat. Toro y Moi)",
+      "url": "https://open.spotify.com/track/28y750mmZ90J6ss2RLQNK7"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -83,6 +139,26 @@
       "duration_ms": 184959,
       "name": "RUBY",
       "url": "https://open.spotify.com/track/2y9Kjl7LN7lhswglFgmIXX"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Sweet Isolation",
+        "url": "https://open.spotify.com/album/1foSNOxKYjwcWp1St0pcIl"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Kaidi Akinnibi",
+          "url": "https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ"
+        }
+      ],
+      "duration_ms": 338253,
+      "name": "Sweet Isolation",
+      "url": "https://open.spotify.com/track/5ccKgqQaJa2ccgx74610OZ"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -133,6 +209,42 @@
       "url": "https://open.spotify.com/track/5HLBgsugOZIaTAgT3rlxl4"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Circuit Breaker",
+        "url": "https://open.spotify.com/album/165lumz7klnn65bbb2538R"
+      },
+      "artists": [
+        {
+          "name": "Earthworm",
+          "url": "https://open.spotify.com/artist/6TlH8Jj8HsnzWxuj59ZWVj"
+        },
+        {
+          "name": "Onry Ozzborn",
+          "url": "https://open.spotify.com/artist/4Mlw3O6Z8b1f5isDub4hTx"
+        }
+      ],
+      "duration_ms": 210198,
+      "name": "Circuit Breaker",
+      "url": "https://open.spotify.com/track/5tOzUmuA0py76DjuTmfiSA"
+    },
+    {
+      "added_at": "2022-05-16 14:15:49",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 264299,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2IwbW2jd0Ncv99Aroe77Ru"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "reprise",
@@ -147,6 +259,22 @@
       "duration_ms": 265612,
       "name": "reprise",
       "url": "https://open.spotify.com/track/1gQrLTJ3i09hLEIuK0zeuZ"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Garden of Opinions",
+        "url": "https://open.spotify.com/album/0MOZMCz3vpGaQUWZqgkG9y"
+      },
+      "artists": [
+        {
+          "name": "Footprint Project",
+          "url": "https://open.spotify.com/artist/4t7eLqngSabfN9Ip8X1Dto"
+        }
+      ],
+      "duration_ms": 346509,
+      "name": "Did I Get You Right",
+      "url": "https://open.spotify.com/track/2irpGZy5MB83lDtjPOwqyL"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1507,22 +1635,6 @@
     {
       "added_at": "2021-11-12 17:56:00",
       "album": {
-        "name": "Best Of Me",
-        "url": "https://open.spotify.com/album/44zD5iw8kn2Xhn1QDlLnGu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 238999,
-      "name": "Best Of Me (Originals)",
-      "url": "https://open.spotify.com/track/1KkxtIMy5n9AN0hhlzWbAc"
-    },
-    {
-      "added_at": "2021-11-12 17:56:00",
-      "album": {
         "name": "Of Process and Progression",
         "url": "https://open.spotify.com/album/4GcswBUULFRN7bZ9eMC9gt"
       },
@@ -1543,42 +1655,6 @@
       "duration_ms": 280733,
       "name": "Runnin Away (feat. Malaya)",
       "url": "https://open.spotify.com/track/5UQqzoGNPkbWq0KmuH0sP3"
-    },
-    {
-      "added_at": "2021-11-12 17:56:00",
-      "album": {
-        "name": "Breathe In",
-        "url": "https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        },
-        {
-          "name": "OSHUN",
-          "url": "https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM"
-    },
-    {
-      "added_at": "2021-11-12 17:56:00",
-      "album": {
-        "name": "Going Going Gone",
-        "url": "https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl"
-      },
-      "artists": [
-        {
-          "name": "Mild High Club",
-          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
-        }
-      ],
-      "duration_ms": 127560,
-      "name": "It's Over Again",
-      "url": "https://open.spotify.com/track/660eXTPUwKkCOYvWIr6sPl"
     },
     {
       "added_at": "2021-11-12 17:56:00",
@@ -1835,38 +1911,6 @@
     {
       "added_at": "2021-11-12 17:56:00",
       "album": {
-        "name": "Section.80",
-        "url": "https://open.spotify.com/album/13WjgUEEAQp0d9JqojlWp1"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 168591,
-      "name": "Rigamortus",
-      "url": "https://open.spotify.com/track/2b3KgzISdjZVNPJJ1945nw"
-    },
-    {
-      "added_at": "2021-11-12 17:56:00",
-      "album": {
-        "name": "Clinckin",
-        "url": "https://open.spotify.com/album/6DaBng99Hobur4aVaaCF1K"
-      },
-      "artists": [
-        {
-          "name": "Krista Marina",
-          "url": "https://open.spotify.com/artist/7gh5SnyMRtWO5mzAThI4AB"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Clinckin",
-      "url": "https://open.spotify.com/track/0c7FDsu6DZO3OHeiwmVhYm"
-    },
-    {
-      "added_at": "2021-11-12 17:56:00",
-      "album": {
         "name": "chrome heart",
         "url": "https://open.spotify.com/album/3f6CUelnKbs3XpWuQym73h"
       },
@@ -1975,38 +2019,6 @@
       "duration_ms": 173609,
       "name": "Stranger Eye",
       "url": "https://open.spotify.com/track/7sEuyKNwMUqwK2Gthp0dDj"
-    },
-    {
-      "added_at": "2021-11-12 17:56:00",
-      "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "ATLiens",
-      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
-    },
-    {
-      "added_at": "2021-11-12 17:56:00",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU"
     },
     {
       "added_at": "2021-11-12 17:56:00",

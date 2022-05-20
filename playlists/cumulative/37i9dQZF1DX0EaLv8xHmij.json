@@ -758,6 +758,32 @@
     },
     {
       "album": {
+        "name": "Drill de Matuto",
+        "url": "https://open.spotify.com/album/0m2mTSU3s4LdwgPrLZvcNZ"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/2LIFq4uBUQgSJUqVgnIOpL"
+        },
+        {
+          "name": "Karma VLP",
+          "url": "https://open.spotify.com/artist/6tgRsgGyAXfEcsLA8t0Cn5"
+        },
+        {
+          "name": "ELBVLP",
+          "url": "https://open.spotify.com/artist/6IqZJDAt1SX6xdBh7heq9m"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194428,
+      "name": "Drill de Matuto",
+      "url": "https://open.spotify.com/track/2rntf7fpyjFwY0nbDyehkH"
+    },
+    {
+      "album": {
         "name": "Encomenda",
         "url": "https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY"
       },

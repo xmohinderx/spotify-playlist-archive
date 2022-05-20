@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 196666,
       "name": "Arrive On St. Patrick's Day",
       "url": "https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 176788,
       "name": "Fearless and Brave",
       "url": "https://open.spotify.com/track/3FaqFP70AuvbV0EbOIqonQ"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 166360,
       "name": "I'll Fly Away",
       "url": "https://open.spotify.com/track/60xc3fnob8DL9NkGFmJxyv"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 193760,
       "name": "Katie Bar the Door",
       "url": "https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 160013,
       "name": "Mick Jones Nicked My Pudding",
       "url": "https://open.spotify.com/track/2iD8GXpQJlYEgWwiCyXoW2"
@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "No Justice No Peace",
+        "url": "https://open.spotify.com/album/44yc7SkCdivSpBBcH69POX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Irish Bastard",
+          "url": "https://open.spotify.com/artist/5NhSUk5Sygly90DDO78eLK"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232200,
+      "name": "No Justice No Peace",
+      "url": "https://open.spotify.com/track/60UgW3NINpPTIIljhpuxsu"
+    },
+    {
+      "album": {
         "name": "The Murders Three",
         "url": "https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo"
       },
@@ -527,7 +545,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Old Maui",
       "url": "https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 218149,
       "name": "Pirates of Three Rivers",
       "url": "https://open.spotify.com/track/33feSMBaMfeDg18jvD1Xdp"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 167150,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/1hVU5v9FSEjWEyqvBFs9Po"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 232186,
       "name": "The State Of Massachusetts",
       "url": "https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW"

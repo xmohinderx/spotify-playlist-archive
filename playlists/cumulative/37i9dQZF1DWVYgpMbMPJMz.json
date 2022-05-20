@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Local Sound",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  Bryan & Katie Torwalt",
   "name": "WorshipNow",
   "published_playlist_ids": [
     "12yoI78Chtrh071OwGd6QO"
@@ -41,6 +41,24 @@
       "duration_ms": 309329,
       "name": "A Thousand Hallelujahs - Live",
       "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
+    },
+    {
+      "album": {
+        "name": "I've Got Good News (Live)",
+        "url": "https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354040,
+      "name": "Alpha Omega - Live",
+      "url": "https://open.spotify.com/track/0f8tSFxXxTtDead0x8Lhhr"
     },
     {
       "album": {
@@ -511,7 +529,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 468208,
       "name": "Come Alive (Resurrection Power) - Live",
       "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
@@ -551,7 +569,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 319226,
       "name": "Come What May",
       "url": "https://open.spotify.com/track/2xbZqKInGwWtfQ1v3MB21i"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 471208,
       "name": "Firm Foundation (He Won\u2019t) - Live",
       "url": "https://open.spotify.com/track/6znsIBODupmehAC4qb0Z3O"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 325011,
       "name": "Jesus - Live",
       "url": "https://open.spotify.com/track/51bJ2j9exBVFxjUTy6lpgJ"
@@ -2346,6 +2364,46 @@
     },
     {
       "album": {
+        "name": "Revive Us",
+        "url": "https://open.spotify.com/album/17oIxNONWHkpyohJKlpHDZ"
+      },
+      "artists": [
+        {
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326586,
+      "name": "Revive Us",
+      "url": "https://open.spotify.com/track/482JokR9fmFzeaJfMTdvzr"
+    },
+    {
+      "album": {
+        "name": "Rise And Shine (Live)",
+        "url": "https://open.spotify.com/album/2TsFi72UiFcwYAWuDx88Jb"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561041,
+      "name": "Rise And Shine - Live",
+      "url": "https://open.spotify.com/track/1hUPaZqEBm2w5G64GLtHSH"
+    },
+    {
+      "album": {
         "name": "Same God (feat. Jonsal Barrientes)",
         "url": "https://open.spotify.com/album/3s52obJaSkltal3K0Noeza"
       },
@@ -2427,7 +2485,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 384501,
       "name": "Simple Kingdom - Live",
       "url": "https://open.spotify.com/track/17wVzKqkXrOhExL7VZdJkH"
@@ -2539,6 +2597,28 @@
       "duration_ms": 320946,
       "name": "Still God, Still Good - Live",
       "url": "https://open.spotify.com/track/3posR6JonWL4rXCHeO8xDP"
+    },
+    {
+      "album": {
+        "name": "Straight To Your Heart",
+        "url": "https://open.spotify.com/album/6LMZcT3aUWS7OrjqXYpQQQ"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Whitney Medina",
+          "url": "https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259829,
+      "name": "Straight To Your Heart",
+      "url": "https://open.spotify.com/track/65DquGPEaPJobstU0k6nTq"
     },
     {
       "album": {

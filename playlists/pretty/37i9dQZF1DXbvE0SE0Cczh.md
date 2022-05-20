@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,099 likes - 61 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,288 likes - 61 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 17 | [Shake, Rattle And Roll \- Single Version](https://open.spotify.com/track/2McHF33C9Tx4lfwKBefE4n) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Best Of Bill Haley & His Comets: 20th Century Masters: The Millennium Collection](https://open.spotify.com/album/4pPyO5FgPmrBkmZ76tXXjJ) | 2:31 |
 | 18 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 |
 | 19 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |
-| 20 | [Jailhouse Rock](https://open.spotify.com/track/6pyex9B1kBoRIuabBAc4m8) | [Elvis Presley](https://open.spotify.com/artist/1RONXV8SB9yMMRNtcHrG1O) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:35 |
+| 20 | [Jailhouse Rock](https://open.spotify.com/track/6pyex9B1kBoRIuabBAc4m8) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:35 |
 | 21 | [Who's Gonna Take the Garbage Out \(feat\. Iris Dement\)](https://open.spotify.com/track/727Ric7BCNuahIETyOALEU) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Who's Gonna Take the Garbage Out \(feat\. Iris Dement\)](https://open.spotify.com/album/78B8UFzhXSTF7aCbwyDmbt) | 2:41 |
 | 22 | [I Saw Her Standing There \- Remastered 2009](https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:53 |
 | 23 | [Let The Good Times Roll](https://open.spotify.com/track/7lcCLXghOHf8xERQ9BkS3n) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Let The Good Times Roll](https://open.spotify.com/album/4JeCuwh2ciataXUhq3XUox) | 3:04 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 37 | [Party Boy](https://open.spotify.com/track/2P9jli0qvqELOihPbVN9Og) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 2:33 |
 | 38 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 |
 | 39 | [I'm a Lover, but I'll Still Fight](https://open.spotify.com/track/7JGdGIZNkesNazi6RRHOmT) | [Dale Hollow](https://open.spotify.com/artist/1vcDcCMUPI9E3cIj983L1S) | [I'm a Lover, but I'll Still Fight](https://open.spotify.com/album/4ywFdtPTiazAYyI9UBOEpr) | 4:15 |
-| 40 | [Don't Be Cruel](https://open.spotify.com/track/4zzXm1QJQXWLyUfFhWZBRg) | [Elvis Presley](https://open.spotify.com/artist/1RONXV8SB9yMMRNtcHrG1O) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:02 |
+| 40 | [Don't Be Cruel](https://open.spotify.com/track/4zzXm1QJQXWLyUfFhWZBRg) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:02 |
 | 41 | [Tutti Frutti](https://open.spotify.com/track/2vXk7PcNLLXsdnVaoMxzTj) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Georgia Peach](https://open.spotify.com/album/6WrwHm2bOjKxHvQ04bfcDD) | 2:23 |
-| 42 | [Hound Dog](https://open.spotify.com/track/0JOw67rq2X6NDz5AJP9uIG) | [Elvis Presley](https://open.spotify.com/artist/1RONXV8SB9yMMRNtcHrG1O) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:13 |
+| 42 | [Hound Dog](https://open.spotify.com/track/0JOw67rq2X6NDz5AJP9uIG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:13 |
 | 43 | [Wake up Little Susie](https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:03 |
 | 44 | [Love Me Do \- Remastered 2009](https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:21 |
 | 45 | [Be\-Bop\-a\-Lula](https://open.spotify.com/track/4AaHCzwKBltFBqp9ngboWU) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Reeling and Rocking](https://open.spotify.com/album/3OfWasjuVTLrqFpLOgMKEi) | 2:34 |

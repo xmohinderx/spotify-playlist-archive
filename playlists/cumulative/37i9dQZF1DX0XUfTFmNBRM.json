@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Hottest Hindi music served here. Cover- Kartik Aaryan\n",
+  "description": "Hottest Hindi music served here. Cover- Guru Randhawa, Yo Yo Honey Singh, and Divya Khosla Kumar\n",
   "name": "Top Hits Hindi",
   "published_playlist_ids": [
     "62e26QUbeJ31xjxLbj35D3"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 251428,
       "name": "Baarish Ki Jaaye",
       "url": "https://open.spotify.com/track/4OQFlJOSID2AzpmOcuDlJl"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 187266,
       "name": "Beqaaboo",
       "url": "https://open.spotify.com/track/1U8rhryVYw9gWZ6zvw4Orc"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 228189,
       "name": "Chitta",
       "url": "https://open.spotify.com/track/6JUQViD0hLXlvWXCV4uUF8"
@@ -801,6 +801,32 @@
       "duration_ms": 340232,
       "name": "Deewani Mastani (From \"Bajirao Mastani\")",
       "url": "https://open.spotify.com/track/2Rk3SdNdkxKopRotoio2iZ"
+    },
+    {
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/1TodfeqA8d0lKML7bf1ziA"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Divya Khosla Kumar",
+          "url": "https://open.spotify.com/artist/5tQK6I2uZ8bZUwjc2eNep9"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219095,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/7HNHIRAYrKeuobsj6n3l1y"
     },
     {
       "album": {
@@ -2219,7 +2245,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 266005,
       "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/3jf5303mzzJ96O8xFTcEn4"
@@ -3631,7 +3657,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 283260,
       "name": "Soch Liya (From \"Radhe Shyam\")",
       "url": "https://open.spotify.com/track/3gc2Rho0Tn8i4LBgf6f2O5"

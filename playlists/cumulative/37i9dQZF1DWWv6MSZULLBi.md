@@ -2,15 +2,15 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Jon Bryant
+> A laid\-back trip in the folk scene\. Cover: The Franklin Electric
 
-100 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+104 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 |  |
 | [All Dressed Up](https://open.spotify.com/track/16h6xRMuKHYA2cisxfhKSg) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time](https://open.spotify.com/album/5j3jNzAU44DXD91QpIFF8u) | 3:25 | 2022-05-13 |  |
-| [All This Time Running](https://open.spotify.com/track/0s7MLG3lt8mzq9SDfsYRcu) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/6PF9U9H1F7NNTYEd4kRuhc) | 3:05 | 2022-05-13 |  |
+| [All This Time Running](https://open.spotify.com/track/0s7MLG3lt8mzq9SDfsYRcu) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/6PF9U9H1F7NNTYEd4kRuhc) | 3:05 | 2022-05-13 | 2022-05-20 |
 | [Annie](https://open.spotify.com/track/4cbwJEhIBM7WSn73X63Vgj) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:07 | 2022-05-13 |  |
 | [Answers](https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Answers](https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a) | 2:47 | 2022-05-13 |  |
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-05-13 |  |
@@ -18,9 +18,10 @@
 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 | 2022-05-13 |  |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2022-05-13 |  |
 | [Comeback](https://open.spotify.com/track/7JC0Llg55ocb30jdJSjO8C) | [Luke Wallace](https://open.spotify.com/artist/4L7pFHjo5Tv5CT58UYTDm6) | [Comeback](https://open.spotify.com/album/7mThlkMaVrBly1Yb93TrxF) | 4:01 | 2022-05-13 |  |
-| [Coming Home](https://open.spotify.com/track/3cThhPUrZb0kCyMP16wuCq) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Coming Home](https://open.spotify.com/album/4eYQjUjsAlXey57Roncuyk) | 3:11 | 2022-05-13 |  |
+| [Coming Home](https://open.spotify.com/track/3cThhPUrZb0kCyMP16wuCq) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Coming Home](https://open.spotify.com/album/4eYQjUjsAlXey57Roncuyk) | 3:11 | 2022-05-13 | 2022-05-20 |
 | [Coming Up](https://open.spotify.com/track/6kLUzaC1PDhDwxe2zIrp6i) | [Close Kicks](https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq) | [Coming Up](https://open.spotify.com/album/1J6XWZjv2b4aqpnQl6h5bd) | 4:21 | 2022-05-13 |  |
 | [Cracks](https://open.spotify.com/track/2vovZwFq9eACQxg13nf0FM) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Cracks](https://open.spotify.com/album/3UCB6Yiedq3l9dMVo9ouCZ) | 3:25 | 2022-05-13 |  |
+| [Curbside Panic Attack](https://open.spotify.com/track/1W6saqdXAZm7QParxRP0zy) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Curbside Panic Attack](https://open.spotify.com/album/2lSqcmYDu27FvxDXh2fCuG) | 3:26 | 2022-05-20 |  |
 | [Day to Day](https://open.spotify.com/track/4jn5vtP9ciKva3ToQs8Lzo) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Day to Day](https://open.spotify.com/album/6Mz8WwrNcH5kJwFpfN8ChG) | 3:28 | 2022-05-13 |  |
 | [Dear August](https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:20 | 2022-05-13 |  |
 | [Delaney's Dad](https://open.spotify.com/track/0XGVEHblDAz53ZsEgXswjG) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [Delaney's Dad](https://open.spotify.com/album/1FEn8KVTpedBnhEvPMHav5) | 2:29 | 2022-05-13 |  |
@@ -41,7 +42,7 @@
 | [Honest Light](https://open.spotify.com/track/4Zldc9Kg9ybat4F2jIxiie) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Caroline Marie Brooks](https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe) | [Honest Light](https://open.spotify.com/album/529ski7usNNFkKb4lQVnZO) | 3:38 | 2022-05-13 |  |
 | [How I See It](https://open.spotify.com/track/4WDsdKXDfKRVvPEq4sGJvj) | [Andrew Allen](https://open.spotify.com/artist/1mAp4DKDRBkEn272c014zU) | [12:34](https://open.spotify.com/album/142mjhHKGwh7LuV6e9ggI2) | 4:36 | 2022-05-13 |  |
 | [I Lied](https://open.spotify.com/track/0LwMEbqobYWjhwMpYaFWpM) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:54 | 2022-05-13 |  |
-| [I Loved You Then \(And I Love You Still\)](https://open.spotify.com/track/5dWTDZf56Aw4e0JGhRWma8) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [I Loved You Then](https://open.spotify.com/album/1Yd60KMmi6HeDL404WVqaz) | 2:38 | 2022-05-13 |  |
+| [I Loved You Then \(And I Love You Still\)](https://open.spotify.com/track/5dWTDZf56Aw4e0JGhRWma8) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [I Loved You Then](https://open.spotify.com/album/1Yd60KMmi6HeDL404WVqaz) | 2:38 | 2022-05-13 | 2022-05-20 |
 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 | 2022-05-13 |  |
 | [In Your Corner \(For Scott Hutchison\)](https://open.spotify.com/track/7bWoSTEWfg97lxGoByeyYH) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In Your Corner \(For Scott Hutchison\)](https://open.spotify.com/album/481cy5V3RYhcCCLaaB2mav) | 3:16 | 2022-05-13 |  |
 | [It Ain't Me](https://open.spotify.com/track/1ngOAftE7NfyGtfy5Fv3el) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [It Ain't Me](https://open.spotify.com/album/1jYLdSozplK2eI9fHLi2Gf) | 3:37 | 2022-05-13 |  |
@@ -57,6 +58,7 @@
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-05-13 |  |
 | [Monica](https://open.spotify.com/track/5CtJFkJ5IPpqKgqaV9KuxL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Monica](https://open.spotify.com/album/6g94kYUfexRH2MUcgYQHmr) | 3:43 | 2022-05-13 |  |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2022-05-13 |  |
+| [My Everything](https://open.spotify.com/track/3R7HVKI87LEglZelj5qLxI) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [My Everything](https://open.spotify.com/album/5FTKbBum46H9nCNmqzQzGE) | 3:14 | 2022-05-20 |  |
 | [My Mind](https://open.spotify.com/track/3kxGvXqQDSOTo2KC6bEHNF) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [My Mind](https://open.spotify.com/album/2Y204wp0ouq1A83CBnnKtz) | 3:22 | 2022-05-13 |  |
 | [My Mother's Hand](https://open.spotify.com/track/0yVQ329gUPO2f51IUDCwy2) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [My Mother's Hand](https://open.spotify.com/album/23QAp4ByfojrrcTE7E6KzJ) | 3:40 | 2022-05-13 |  |
 | [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 | 2022-05-13 |  |
@@ -80,7 +82,8 @@
 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 | 2022-05-13 |  |
 | [Snowy Owl](https://open.spotify.com/track/6WSMa3dapwtDHoqWi92PZO) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Pretenders / Snowy Owl](https://open.spotify.com/album/7pm8B4hEadVF4jkzTRsxum) | 4:24 | 2022-05-13 |  |
 | [Someone](https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Someone](https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP) | 3:37 | 2022-05-13 |  |
-| [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 | 2022-05-13 |  |
+| [Soon](https://open.spotify.com/track/7l4hemd0vYGUQ5j2abebFR) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Michael Lessard](https://open.spotify.com/artist/6DpIwexYvFdPpsNOi6zTbE) | [Know/Soon](https://open.spotify.com/album/2nkVRH3soIiUryDHHJB6r3) | 4:03 | 2022-05-20 |  |
+| [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 | 2022-05-13 | 2022-05-20 |
 | [Sous](https://open.spotify.com/track/1QLIRpQ1hefPg79G8SIUWS) | [Okay Mann](https://open.spotify.com/artist/40LzaNxYeMt3RVPw6dHJRy) | [Sous](https://open.spotify.com/album/2RsaZIxP04R2bqRorEXEHZ) | 3:10 | 2022-05-13 |  |
 | [Star](https://open.spotify.com/track/6OpUywbnvtDyCpgsv8FBdT) | [Clay Orange](https://open.spotify.com/artist/2FICqqKkeglWrQwrIqG5r7) | [Star](https://open.spotify.com/album/7LuB2Eyyz5Oj6RpX0fLinQ) | 3:42 | 2022-05-13 |  |
 | [Steady Hands](https://open.spotify.com/track/2xh0XApnMqcRdTeDhTnNIb) | [Jillian Lake](https://open.spotify.com/artist/1VBiXsCfOgQzy8uxyhCnPY) | [Steady Hands](https://open.spotify.com/album/0WOARW08YKazgcu8LPL4bg) | 2:45 | 2022-05-13 |  |
@@ -92,6 +95,7 @@
 | [Talamanca](https://open.spotify.com/track/7oVQfidyQVhkxUT4Lg1foI) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Top Down](https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW) | 4:20 | 2022-05-13 |  |
 | [Telephone](https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Telephone](https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W) | 3:32 | 2022-05-13 |  |
 | [The Crossing](https://open.spotify.com/track/4Vr0FUtn0pT6kCXFNK3zOJ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [The Crossing](https://open.spotify.com/album/3BfHBDbLtxtsBbkccQ4QnV) | 3:54 | 2022-05-13 |  |
+| [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [THE SUN & THE SEA \(feat\. Donovan Woods\)](https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75) | 3:00 | 2022-05-20 |  |
 | [The Well Has Run Dry](https://open.spotify.com/track/4bdBLdV7zfd29ZdDvbUfkC) | [The Wilderness of Manitoba](https://open.spotify.com/artist/5iiDMOV4u4LhRMqbCAepUM) | [The Well Has Run Dry](https://open.spotify.com/album/5Op8BG0Ex8C3BHvRQvKE6H) | 5:17 | 2022-05-13 |  |
 | [This Ain't the Night](https://open.spotify.com/track/0L0yuDW8ob26KpwDA0YKEt) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [This Ain't the Night](https://open.spotify.com/album/2eZ3FXceppcpEkhlRj7CVb) | 3:27 | 2022-05-13 |  |
 | [This Book](https://open.spotify.com/track/5TC1Fufom6S1e0GgwwLij1) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [This Book](https://open.spotify.com/album/5tUfKq4zkyyWAiC1LNGNkG) | 4:01 | 2022-05-13 |  |

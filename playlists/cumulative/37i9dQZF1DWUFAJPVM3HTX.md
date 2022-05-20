@@ -4,7 +4,7 @@
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Yaya Bey
 
-463 songs - 1 day 0 hr 38 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
+464 songs - 1 day 0 hr 42 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Play Safe](https://open.spotify.com/track/7cPdCG3oXEAWSFyHiVulhL) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Play Safe](https://open.spotify.com/album/7AnvxoSu0ZjrVe6rFaC41H) | 2:32 | 2022-04-27 |  |
 | [Playlist](https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Playlist](https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA) | 2:50 | 2022-03-11 | 2022-04-28 |
 | [Plenty Honey](https://open.spotify.com/track/3nfQjISeLWePhsc92J9kgi) | [Swan Lingo](https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x) | [Plenty Honey](https://open.spotify.com/album/1DXVzBnPe7HZZz5ihNj3ks) | 1:20 | 2022-03-18 | 2022-04-28 |
+| [Pressure](https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:01 | 2022-05-18 |  |
 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 | 2022-03-11 | 2022-04-28 |
 | [Promise Me](https://open.spotify.com/track/0H0wvL5hcLnrwzsuZnRU0x) | [MARG](https://open.spotify.com/artist/1BWebeIsqWN4j0ipHoqxgv) | [Promise Me](https://open.spotify.com/album/43UhbEr9XtzJoktq0MHM8J) | 4:44 | 2021-09-01 | 2022-01-13 |
 | [Puddles](https://open.spotify.com/track/6V1RPcnnpiw4WIFKNI1GWK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Puddles](https://open.spotify.com/album/3KmHQqnBYtynGMt6ZW16FP) | 3:35 | 2022-01-12 | 2022-02-10 |

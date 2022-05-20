@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: Lisi, Nokz78
 
-143 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+144 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Love For My City](https://open.spotify.com/track/2oRJpZouHzN9Ly9PXgfzt3) | [See Naylors](https://open.spotify.com/artist/6qj1QgWdBHPCpPNz95wAot), [Zulu](https://open.spotify.com/artist/0eW1LoDjWUp5RxC5o6FDOX) | [Love For My City](https://open.spotify.com/album/0ZfRzGnc5emWL5nwbhmuJU) | 3:02 | 2022-05-05 |  |
 | [M.I.A](https://open.spotify.com/track/6Jda9GxwagQJmcQEFnuPuO) | [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb), [Snoopy](https://open.spotify.com/artist/7bbjGMqot7e1rmNn0MKRr2), [Namis](https://open.spotify.com/artist/5XLVCHrSeW33AaabzBf8rH) | [M.I.A](https://open.spotify.com/album/1xkHr5R69o9lEUcFnZJgXC) | 4:11 | 2022-03-21 |  |
 | [M1](https://open.spotify.com/track/4MZQpYHloIv9IhX1yAdi5J) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [AFTERPARTY](https://open.spotify.com/album/2kQlpPlBMk65AQgCquhaDR) | 2:57 | 2022-03-21 | 2022-03-25 |
-| [M31 \(Racing down the Hume\)](https://open.spotify.com/track/4UR73u6KPuWoqIKv4JwwiJ) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [M31 \(Racing down the Hume\)](https://open.spotify.com/album/0OU300xi5Q4hmuU6nv2Kp8) | 2:14 | 2022-04-14 |  |
+| [M31 \(Racing down the Hume\)](https://open.spotify.com/track/4UR73u6KPuWoqIKv4JwwiJ) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [M31 \(Racing down the Hume\)](https://open.spotify.com/album/0OU300xi5Q4hmuU6nv2Kp8) | 2:14 | 2022-04-14 | 2022-05-20 |
 | [Magic \(feat\. Hooligan Hefs\)](https://open.spotify.com/track/6H5ZAvmXcBzTyAPRmtgdBJ) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Magic \(feat\. Hooligan Hefs\)](https://open.spotify.com/album/0bo5RiW2Kqlbu8zSge3cZD) | 2:46 | 2022-03-21 |  |
 | [MAKE IT DIP](https://open.spotify.com/track/0gtlSZCY8G6HJNqTRiVnDT) | [Section60](https://open.spotify.com/artist/1PpLHeHNrU9ZHFgiCxcV8U) | [MAKE IT DIP](https://open.spotify.com/album/2rxCJpUc6RhvjTFaFdCPCg) | 2:30 | 2022-03-21 |  |
 | [Make Money Not Friends](https://open.spotify.com/track/5F152wL6HnVIyr0UWvKh5v) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Make Money Not Friends](https://open.spotify.com/album/74vJth8gmNpP0eGJLYWiZX) | 2:56 | 2022-04-28 |  |
@@ -125,6 +125,7 @@
 | [SEE NO EVIL](https://open.spotify.com/track/4Kttz3UZLMG8CUexnT6KIk) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [SEE NO EVIL](https://open.spotify.com/album/7hBUo4m5ZlZ9cJYD5M6kbf) | 3:18 | 2022-05-05 |  |
 | [Shelly](https://open.spotify.com/track/1BN1dmG0qmEDUcGJHhUiRH) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [Shelly](https://open.spotify.com/album/3QZBubJYumSQsFMuvnlFm9) | 2:29 | 2022-03-21 |  |
 | [Since When](https://open.spotify.com/track/5Wk5ETWckKEeWFU5zy6G6q) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [Lawd Lance](https://open.spotify.com/artist/5QomExSHXEoFZllmjeaQBM), [JR](https://open.spotify.com/artist/3XH9HjOmomIwvkGpYRKIGl) | [Since When](https://open.spotify.com/album/55md5f23yj7QaWnI3NJEfp) | 2:47 | 2022-03-21 |  |
+| [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/track/6mdexAmqt5bv08E3gem5ON) | [Colcci](https://open.spotify.com/artist/2lJOX4tJ4zpcLgZTNmHhTG), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/album/0b87eEoV2PjgmVCQRmRdXJ) | 2:59 | 2022-05-19 |  |
 | [spaceship](https://open.spotify.com/track/5kE5Wi5ZNyQxjZosVH3eTw) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [spaceship](https://open.spotify.com/album/4ib6cm9ioWybJybSquS4pm) | 1:50 | 2022-03-24 | 2022-04-15 |
 | [Steady](https://open.spotify.com/track/2x87Aklz120dbM31TrH4Kd) | [Rydah](https://open.spotify.com/artist/78arWeRSIBit1TYTcTOcAY) | [Steady](https://open.spotify.com/album/71E26CGhROyl6RCXpathME) | 2:45 | 2022-03-21 |  |
 | [STILL HERE](https://open.spotify.com/track/0igYALStTLq74Xo5OLiywe) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [STILL HERE](https://open.spotify.com/album/4LJsftEAwqLUPBlq7N3iCR) | 3:50 | 2022-03-21 |  |

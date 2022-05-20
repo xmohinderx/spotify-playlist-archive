@@ -218,6 +218,32 @@
     },
     {
       "album": {
+        "name": "Caravan To Baghdad",
+        "url": "https://open.spotify.com/album/2scmA3Bz7R4MdoSfoatypC"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "Amine tefaha",
+          "url": "https://open.spotify.com/artist/1YflNttEHeX8HtnJlngZ5L"
+        },
+        {
+          "name": "Arslane Bouras",
+          "url": "https://open.spotify.com/artist/5d9Q3LiOKZNjeQVkiMP1Rm"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Caravan To Baghdad",
+      "url": "https://open.spotify.com/track/3caRGauTC1JlnZldRHegmm"
+    },
+    {
+      "album": {
         "name": "Courage",
         "url": "https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV"
       },
@@ -801,7 +827,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 256000,
       "name": "Nhassel fi Chkoune",
       "url": "https://open.spotify.com/track/1nQuz3XdgcRgYtCIGBN82I"

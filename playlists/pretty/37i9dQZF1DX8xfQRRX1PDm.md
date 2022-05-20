@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Best Bollywood dance songs from last 10 years\. Cover\- Tiger Shroff & Tara Sutaria.
+> Best Bollywood dance songs from last 10 years\. Cover\- Kartik Aaryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,117 likes - 59 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,449 likes - 59 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 58 | [Beat Pe Booty](https://open.spotify.com/track/1UzvjLWSTgGlPT1eZXEBxn) | [Sachin Sanghvi](https://open.spotify.com/artist/30wJusyU4fVHzMW3m8Zodc), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [A Flying Jatt](https://open.spotify.com/album/6HQCxd74gaaA8aDRy1czON) | 3:17 |
 | 59 | [High Heels Te Nachche](https://open.spotify.com/track/1bAa1OyefOhXdqnL8dlxFt) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY) | [Ki &amp; Ka](https://open.spotify.com/album/3sKetZJ9cmRj54AIWXOWSv) | 3:32 |
 
-Snapshot ID: `MTY1MjUwNjYyOSwwMDAwMDA3ODAwMDAwMTgwYzExMjE0ZmIwMDAwMDE4MDA4OTBhOThh`
+Snapshot ID: `MTY1Mjk0NjU2MywwMDAwMDA3OTAwMDAwMTgwZGI0YWVmZDQwMDAwMDE4MGRiNGE2ODY4`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Let's turn ON the movement! Don't forget to check out the green circle if you're on mobile for something fun from TOMORROW X TOGETHER! Cover: LE SSERAFIM
+> Let's turn ON the movement! Watch TOMORROW X TOGETHER play the balance game if you're on mobile! Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,888,210 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,890,373 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [Tea time \(Feat\. 10CM\)](https://open.spotify.com/track/3JISGU3qHjPaBdWSh6ZJdq) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Tea time](https://open.spotify.com/album/5idRelwCZTM8zSus1bPGRH) | 2:58 |
 | 50 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 |
 
-Snapshot ID: `MTY1MjkyMzIyMCwwMDAwMDAwMDE0YzExNjg2YzhlMTU4Y2RiOTA4ODg0OTc3ZTYxZTFk`
+Snapshot ID: `MTY1MzAyNjYwNiwwMDAwMDAwMDE0YzExNjg2YzhlMTU4Y2RiOTA4ODg0OTc3ZTYxZTFk`

@@ -308,6 +308,28 @@
     },
     {
       "album": {
+        "name": "Brasileirinha",
+        "url": "https://open.spotify.com/album/25sGlSVQeCjumHDHYCDgQp"
+      },
+      "artists": [
+        {
+          "name": "Zinga",
+          "url": "https://open.spotify.com/artist/3qn5ZQRWxeKHfydnilQ1FH"
+        },
+        {
+          "name": "A Quadrilha",
+          "url": "https://open.spotify.com/artist/0neNJWwLJ11bBi77uKu9MP"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "Brasileirinha",
+      "url": "https://open.spotify.com/track/7B2dCLNPH8n71zYpQ1WX4n"
+    },
+    {
+      "album": {
         "name": "Champions - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5etwxrlkMcg2KpG8fNHV0g"
       },
@@ -1495,7 +1517,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 263913,
       "name": "Me Chamou",
       "url": "https://open.spotify.com/track/5ehI4DPwVzdatYyYCf1fZF"
@@ -1583,7 +1605,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 224571,
       "name": "Monstr\u00e3o - Remix",
       "url": "https://open.spotify.com/track/3z3nLlUTV6SQ9mGoCmamId"
@@ -1735,6 +1757,50 @@
       "duration_ms": 152375,
       "name": "Negr\u00e3o Demais",
       "url": "https://open.spotify.com/track/7AGJTioC8QBnGWJlhxHXuq"
+    },
+    {
+      "album": {
+        "name": "Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/6yxZTasbDtlUB2gzyWu9ZK"
+      },
+      "artists": [
+        {
+          "name": "Guxta",
+          "url": "https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy"
+        },
+        {
+          "name": "LOUD",
+          "url": "https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131368,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/4ip7eW9vRVyabiymJg9OsM"
+    },
+    {
+      "album": {
+        "name": "Nunca mais",
+        "url": "https://open.spotify.com/album/2XtIq7Gl9uqy9aebd8cBOq"
+      },
+      "artists": [
+        {
+          "name": "Tuba\u00edna",
+          "url": "https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243293,
+      "name": "Nunca mais",
+      "url": "https://open.spotify.com/track/2x0CxFJ4ifXLvgDXvAYc9p"
     },
     {
       "album": {
@@ -2213,7 +2279,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 174782,
       "name": "Primeira Mensagem",
       "url": "https://open.spotify.com/track/3cUxxjeTEhumdlFaUEafnZ"

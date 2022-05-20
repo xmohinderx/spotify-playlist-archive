@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: Logic",
+  "description": "Damn son, where'd ya find this? Cover: Kendrick Lamar",
   "name": "Raw & Uncut",
   "published_playlist_ids": [
     "4c9h9hZs4oLmLgvuiXYoN5"
@@ -203,6 +203,28 @@
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
+    },
+    {
+      "album": {
+        "name": "AUTOBOTO",
+        "url": "https://open.spotify.com/album/1a9BsR7Sco9wnBtBqVJWEv"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "Nayirah",
+          "url": "https://open.spotify.com/artist/14Zzvy9JX8aboQqhUkBbjh"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270040,
+      "name": "AUTOBOTO",
+      "url": "https://open.spotify.com/track/31pih2HK5Vj1RwRXF0p6L7"
     },
     {
       "album": {
@@ -659,7 +681,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 242976,
       "name": "Formation",
       "url": "https://open.spotify.com/track/5esKOdkdkkD51sT7S9YiOY"
@@ -742,6 +764,28 @@
     },
     {
       "album": {
+        "name": "Pain to Glory",
+        "url": "https://open.spotify.com/album/6Tfo2XiM7RtCJPuZEdMhDB"
+      },
+      "artists": [
+        {
+          "name": "Aligo",
+          "url": "https://open.spotify.com/artist/3Uxu9FlhsNSPLfmXEurbFe"
+        },
+        {
+          "name": "Yardboyk",
+          "url": "https://open.spotify.com/artist/1E7vBCrL1h9juuGf1BZYGL"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201728,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5JEiHbrh8sLma5LfevvvLs"
+    },
+    {
+      "album": {
         "name": "Gold Blooded",
         "url": "https://open.spotify.com/album/489nF2vpr6bzKHb0y9bTUD"
       },
@@ -761,7 +805,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 213294,
       "name": "Gold Blooded",
       "url": "https://open.spotify.com/track/68jMQAuh2N6lipckafAbtL"
@@ -1080,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "No Division Vol. 2",
+        "url": "https://open.spotify.com/album/5iBJfpPsLzwlB91QhjmlOm"
+      },
+      "artists": [
+        {
+          "name": "Mathematik",
+          "url": "https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192891,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/0DC4dhfW0BhEy7HKMFeiJf"
+    },
+    {
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -1295,7 +1357,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 123380,
       "name": "Niggas Know",
       "url": "https://open.spotify.com/track/5Cf67CdAeUSyGpIt4ls1oG"
@@ -1435,6 +1497,24 @@
       "duration_ms": 163463,
       "name": "Omarion",
       "url": "https://open.spotify.com/track/3o1sXTPmwxrsHUXgnbsdug"
+    },
+    {
+      "album": {
+        "name": "Over You.",
+        "url": "https://open.spotify.com/album/35D6HZDTGLFt623HDSYpNL"
+      },
+      "artists": [
+        {
+          "name": "Lu-Kusa Woe",
+          "url": "https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109813,
+      "name": "Over You.",
+      "url": "https://open.spotify.com/track/3a7tj41nj7S3LKmkGJB2zT"
     },
     {
       "album": {
@@ -1635,7 +1715,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 99961,
       "name": "Santa Maria",
       "url": "https://open.spotify.com/track/5UicbVcmRUiiWhoVCfdfSH"
@@ -1919,7 +1999,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 124973,
       "name": "Tetris",
       "url": "https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ"
@@ -2180,6 +2260,28 @@
     },
     {
       "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282581,
+      "name": "Vinyl Days (feat. DJ Premier)",
+      "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
+    },
+    {
+      "album": {
         "name": "Walk Wit My Shadow",
         "url": "https://open.spotify.com/album/1uFn12B0j2qqQAYSqNUqjs"
       },
@@ -2191,7 +2293,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 136920,
       "name": "Walk Wit My Shadow",
       "url": "https://open.spotify.com/track/4ypkfIEKxbpUMxzALYsvo1"
@@ -2293,6 +2395,32 @@
       "duration_ms": 182194,
       "name": "White Toes",
       "url": "https://open.spotify.com/track/6Fb0inPGyww3CW5hbJpBEF"
+    },
+    {
+      "album": {
+        "name": "Wraith",
+        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Smoko Ono",
+          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
     },
     {
       "album": {

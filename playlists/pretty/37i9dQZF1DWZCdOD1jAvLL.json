@@ -1,13 +1,33 @@
 {
   "description": "Ride the bassline. Cover: Nostalgix",
-  "num_followers": 165185,
+  "num_followers": 165316,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNzY2NCwwMDAwMDFmZDAwMDAwMTgwYmJjNDk2NzcwMDAwMDE4MGJiYzQyODFk",
+  "snapshot_id": "MTY1MzAxOTI2MCwwMDAwMDFmZTAwMDAwMTgwZGZhMDM0ZmIwMDAwMDE4MGJiYzQyODFk",
   "tracks": [
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/3FcSS6YhR6HiGx8T0RZ7qy"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 165024,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/5xARo31Sdr6Kmk2g9j4t3x"
+    },
     {
       "added_at": "2022-05-13 04:54:24",
       "album": {
@@ -63,6 +83,26 @@
       "duration_ms": 201259,
       "name": "Move It",
       "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "I Confess (feat. ROM\u00c9O)",
+        "url": "https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "ROM\u00c9O",
+          "url": "https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "I Confess (feat. ROM\u00c9O)",
+      "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
     },
     {
       "added_at": "2022-05-06 19:01:46",
@@ -141,6 +181,22 @@
       "url": "https://open.spotify.com/track/6mylgnvuGYjcakF6ur4uHC"
     },
     {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 139435,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
+    },
+    {
       "added_at": "2022-04-29 04:01:00",
       "album": {
         "name": "1F2F",
@@ -185,6 +241,22 @@
       "url": "https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC"
     },
     {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Walk Of Shame",
+        "url": "https://open.spotify.com/album/4MvEp6RWL0RdVXIgbmqiSi"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 148080,
+      "name": "Walk Of Shame",
+      "url": "https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo"
+    },
+    {
       "added_at": "2022-05-13 04:54:24",
       "album": {
         "name": "Pullin Up",
@@ -223,6 +295,22 @@
       "duration_ms": 204285,
       "name": "Ghost - Cloverdale Remix",
       "url": "https://open.spotify.com/track/4sd13Wkerj62pdgkMHBBUd"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "GOD$",
+        "url": "https://open.spotify.com/album/7izijb7nvGLBm564847RSR"
+      },
+      "artists": [
+        {
+          "name": "ANGELZ",
+          "url": "https://open.spotify.com/artist/7tbMem2T4rnyYKXiUYJPCn"
+        }
+      ],
+      "duration_ms": 263225,
+      "name": "$HEZMU",
+      "url": "https://open.spotify.com/track/5QFdfE6tZDr2wmgLevoAAQ"
     },
     {
       "added_at": "2022-04-29 04:01:00",

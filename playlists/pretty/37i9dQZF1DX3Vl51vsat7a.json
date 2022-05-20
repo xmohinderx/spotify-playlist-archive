@@ -1,15 +1,15 @@
 {
   "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: BRUCKNER",
-  "num_followers": 17068,
+  "num_followers": 17084,
   "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM5Mjg2MSwwMDAwMDA3ZDAwMDAwMTgwYmE0YTFlZWUwMDAwMDE4MGIyYTFkNTYz",
+  "snapshot_id": "MTY1Mjk5NzY2MCwwMDAwMDA3ZTAwMDAwMTgwZGU1NjlkZWYwMDAwMDE4MGIyYTFkNTYz",
   "tracks": [
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Gib Gib",
         "url": "https://open.spotify.com/album/557EOriY4Y0nOixN726p9C"
@@ -25,7 +25,55 @@
       "url": "https://open.spotify.com/track/1RUZl4jYcStuNxkwib8wBk"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
+      "album": {
+        "name": "Universum regelt",
+        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "duration_ms": 167899,
+      "name": "Abendkleider und Nadelstreifen",
+      "url": "https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O"
+    },
+    {
+      "added_at": "2022-05-19 22:01:00",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "duration_ms": 222230,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t"
+    },
+    {
+      "added_at": "2022-05-19 22:01:00",
+      "album": {
+        "name": "Bring The Good Mood Back",
+        "url": "https://open.spotify.com/album/4oHJfzm4Snx1mvehq0a9RE"
+      },
+      "artists": [
+        {
+          "name": "Kellerkind",
+          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
+        }
+      ],
+      "duration_ms": 418000,
+      "name": "Bring The Good Mood Back",
+      "url": "https://open.spotify.com/track/69dxNtRNHQknBIrXRgYvvt"
+    },
+    {
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Neues Geld",
         "url": "https://open.spotify.com/album/7tqHzLMSERvb6cs6aOzLPz"
@@ -41,7 +89,7 @@
       "url": "https://open.spotify.com/track/0ohdHACL1eACasCxA1UXa8"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/4BC8x5GAShlXg15iXkqtl0"
@@ -57,7 +105,7 @@
       "url": "https://open.spotify.com/track/0M8XGFqzmGHLsGDLRgd6fp"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
@@ -73,7 +121,7 @@
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "I Would Be Rich",
         "url": "https://open.spotify.com/album/1hgaD8ZBdht7nSTHZ1RKdt"
@@ -89,7 +137,7 @@
       "url": "https://open.spotify.com/track/0voEoD86osCqSZm6YnX41Q"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3JMWBrrc0S74EAddYj0ial"
@@ -105,7 +153,7 @@
       "url": "https://open.spotify.com/track/7yj210hrb5Itkz9XWRUazN"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Nothing to Me",
         "url": "https://open.spotify.com/album/7fiGgJfGWFRGHmNil6Wg7x"
@@ -121,27 +169,7 @@
       "url": "https://open.spotify.com/track/2pVZpUlgPZSSfTP9nFs6kn"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Mach kaputt",
-        "url": "https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4"
-      },
-      "artists": [
-        {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
-        },
-        {
-          "name": "OG Keemo",
-          "url": "https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "Mach kaputt",
-      "url": "https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Schnelle Brille",
         "url": "https://open.spotify.com/album/28ObxChs89xBac4j15Dt0e"
@@ -165,7 +193,7 @@
       "url": "https://open.spotify.com/track/5Ig9ZFTfH6PIjjZxtY3iUw"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Funke, Fl\u00e4chenbrand",
         "url": "https://open.spotify.com/album/6OTvVeDS7GlTqKf2qVU86o"
@@ -181,7 +209,7 @@
       "url": "https://open.spotify.com/track/5MumaN3URY1XqIWkRdVxjz"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "We Will Forgive Ourselves",
         "url": "https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD"
@@ -197,7 +225,7 @@
       "url": "https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Locker Room",
         "url": "https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194"
@@ -213,7 +241,7 @@
       "url": "https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Tinnitus",
         "url": "https://open.spotify.com/album/3B7SQjSOkUmlfWNOjZDFel"
@@ -229,23 +257,7 @@
       "url": "https://open.spotify.com/track/190WjFY2x74JEa1jL8BTSU"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Wer wir sind",
-        "url": "https://open.spotify.com/album/3zUerUY6tHRhKCvMnJR87K"
-      },
-      "artists": [
-        {
-          "name": "BRUCKNER",
-          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
-        }
-      ],
-      "duration_ms": 217351,
-      "name": "Wer wir sind",
-      "url": "https://open.spotify.com/track/4SEImIUylCy9YVNwREfXkL"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "an all diesen Tagen",
         "url": "https://open.spotify.com/album/2HDPnK1ZmhJXm0rcPNYXTs"
@@ -261,7 +273,7 @@
       "url": "https://open.spotify.com/track/129TLJVbwR9oS1pVn20FAb"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Push Life",
         "url": "https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4"
@@ -277,7 +289,7 @@
       "url": "https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "MANN MIT DER BRILLE",
         "url": "https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab"
@@ -293,7 +305,7 @@
       "url": "https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Immer wenn du weinst",
         "url": "https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB"
@@ -309,7 +321,7 @@
       "url": "https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Sick Of Being Sad",
         "url": "https://open.spotify.com/album/4FD9TVJXqsT3OuCR1jZjXP"
@@ -325,7 +337,7 @@
       "url": "https://open.spotify.com/track/584NxuMTvdTausXZ9oT85R"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw"
@@ -341,7 +353,7 @@
       "url": "https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Fucked Up.",
         "url": "https://open.spotify.com/album/3369iQfBJZcTS1ZrMa3Jbx"
@@ -357,7 +369,7 @@
       "url": "https://open.spotify.com/track/1nIUFAIo5U4Yc1KsnnnPz0"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "That\u2019s How It Goes (feat. 6LACK)",
         "url": "https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc"
@@ -377,7 +389,7 @@
       "url": "https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Altbau",
         "url": "https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA"
@@ -397,7 +409,7 @@
       "url": "https://open.spotify.com/track/0PoorhuDSZ7hgvFT7C6fgf"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "besonders",
         "url": "https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg"
@@ -413,7 +425,7 @@
       "url": "https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Walls Around Me EP",
         "url": "https://open.spotify.com/album/0MkBm4v1xnbLiD0sh6lAJn"
@@ -433,7 +445,7 @@
       "url": "https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "badm\u00f3mz.",
         "url": "https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz"
@@ -449,7 +461,7 @@
       "url": "https://open.spotify.com/track/2n1WH7I33C9Tm47unwnp8U"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Our Beautiful Mess",
         "url": "https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3"
@@ -465,7 +477,7 @@
       "url": "https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "MANN MIT DER BRILLE PRELUDE",
         "url": "https://open.spotify.com/album/6wWXureHWQxxFc3Q8oQ1Tk"
@@ -481,7 +493,43 @@
       "url": "https://open.spotify.com/track/4J8FybA4DlfN5HAuC6VnQE"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
+      "album": {
+        "name": "Wer wir sind",
+        "url": "https://open.spotify.com/album/3zUerUY6tHRhKCvMnJR87K"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "duration_ms": 217351,
+      "name": "Wer wir sind",
+      "url": "https://open.spotify.com/track/4SEImIUylCy9YVNwREfXkL"
+    },
+    {
+      "added_at": "2022-05-19 22:01:00",
+      "album": {
+        "name": "Mach kaputt",
+        "url": "https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        },
+        {
+          "name": "OG Keemo",
+          "url": "https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "Mach kaputt",
+      "url": "https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh"
+    },
+    {
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Don't U Dare",
         "url": "https://open.spotify.com/album/2YV91Zb0tDaxAsT2mmBDFP"
@@ -497,7 +545,7 @@
       "url": "https://open.spotify.com/track/3CQuzM93RAg867gQ0mVAw7"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL"
@@ -513,7 +561,7 @@
       "url": "https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/2C6u68wrYE0McXsrMRPogc"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/3XQDYyBoAeP7Agcx4YCwHS"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "ROOKERY",
         "url": "https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Mom&Dad",
         "url": "https://open.spotify.com/album/4XOL1wYfQ0bku2DDaoYMqn"
@@ -561,27 +609,7 @@
       "url": "https://open.spotify.com/track/7nk2rwASLMnPTGMTrW0tqa"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "Universum regelt",
-        "url": "https://open.spotify.com/album/6KlvS05TnVENX7TtId6Got"
-      },
-      "artists": [
-        {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
-        },
-        {
-          "name": "MAJAN",
-          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
-        }
-      ],
-      "duration_ms": 192595,
-      "name": "Universum regelt",
-      "url": "https://open.spotify.com/track/0oFlUUf7zFcTkFJVkxgqh9"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Sicher",
         "url": "https://open.spotify.com/album/5qGB7Az88V3wMpeJw6uwOq"
@@ -597,7 +625,7 @@
       "url": "https://open.spotify.com/track/6qEykl5MTiALJndjT2lrPM"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Mercy Stroke",
         "url": "https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK"
@@ -613,7 +641,7 @@
       "url": "https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "I'm Boring",
         "url": "https://open.spotify.com/album/2UPFVcOuNlf2Yl3C6LDxpO"
@@ -629,23 +657,7 @@
       "url": "https://open.spotify.com/track/40Xc96R5OS3s0zacs6wPte"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "New 68",
-        "url": "https://open.spotify.com/album/0R1JPqXUR7sXSq67zGMRqO"
-      },
-      "artists": [
-        {
-          "name": "Leoniden",
-          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
-        }
-      ],
-      "duration_ms": 210128,
-      "name": "New 68",
-      "url": "https://open.spotify.com/track/5hMIBsn64hajBIKbFJAsf6"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/6p4rt48ywuUFCaQtbicjUy"
@@ -661,7 +673,7 @@
       "url": "https://open.spotify.com/track/3Qhb33VQRVAfCVEa1oga05"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "I WON'T STAY",
         "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
@@ -677,7 +689,7 @@
       "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Turning Me Up (Hadal Ahbek)",
         "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
@@ -701,7 +713,7 @@
       "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "I'M A LITTLE",
         "url": "https://open.spotify.com/album/5zCcIO7yJLAznBPxohaZzb"
@@ -717,7 +729,7 @@
       "url": "https://open.spotify.com/track/36lARxuQqwXnvALPNeVjtK"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "megapunk (remixes)",
         "url": "https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs"
@@ -737,7 +749,7 @@
       "url": "https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Haus am See",
         "url": "https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe"
@@ -757,7 +769,7 @@
       "url": "https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "School Friends",
         "url": "https://open.spotify.com/album/4l86mdEGe67Ilg2dNCelZq"
@@ -773,7 +785,7 @@
       "url": "https://open.spotify.com/track/5QNmYUtAV91xj3LHePazkl"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Digital Tears",
         "url": "https://open.spotify.com/album/6dEZTAWhslVOPZc3SU18oD"
@@ -793,7 +805,7 @@
       "url": "https://open.spotify.com/track/61dvMPhVqB2iWGHQU6BjyK"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "What If the Dead Dream",
         "url": "https://open.spotify.com/album/4DNxWrwCw1MeHxgDLNezGT"
@@ -813,23 +825,7 @@
       "url": "https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
-      "album": {
-        "name": "The Pictures",
-        "url": "https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1"
-      },
-      "artists": [
-        {
-          "name": "Kellerkind",
-          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
-        }
-      ],
-      "duration_ms": 448590,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn"
-    },
-    {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Diamonds (feat. Takt32)",
         "url": "https://open.spotify.com/album/5WAnIlIOyTf5VJwMqB8DxF"
@@ -849,7 +845,7 @@
       "url": "https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/1naWv2unZPzXPa3UdQIdAb"
@@ -865,7 +861,7 @@
       "url": "https://open.spotify.com/track/3Ldae7O6YMFE7vxlTNocdQ"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B"
@@ -881,7 +877,7 @@
       "url": "https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "2 become 1",
         "url": "https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4"
@@ -897,7 +893,7 @@
       "url": "https://open.spotify.com/track/2kmaG6LSoJGUrLf9MAAX8P"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Lipsticks & Heartbreaks",
         "url": "https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc"
@@ -913,7 +909,7 @@
       "url": "https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Complex Happenings Reduced To A Simple Design",
         "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
@@ -929,7 +925,7 @@
       "url": "https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Pr\u00e9face",
         "url": "https://open.spotify.com/album/1VXdGf2leT7m5cyHw9PydB"
@@ -945,7 +941,7 @@
       "url": "https://open.spotify.com/track/3jEuAziXMAw8YVbfcvVLZR"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "TEETH OUT",
         "url": "https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2"
@@ -961,7 +957,7 @@
       "url": "https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "M (Extended)",
         "url": "https://open.spotify.com/album/1AnZRh08V385fqDx1qw979"
@@ -977,7 +973,7 @@
       "url": "https://open.spotify.com/track/3Z0vdZfMKPRgPrVlpj18oQ"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/651CcYUL1asuZzRClUinai"
@@ -993,7 +989,7 @@
       "url": "https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "For your safety",
         "url": "https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv"
@@ -1009,7 +1005,7 @@
       "url": "https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6"
     },
     {
-      "added_at": "2022-05-12 22:01:00",
+      "added_at": "2022-05-19 22:01:00",
       "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v"

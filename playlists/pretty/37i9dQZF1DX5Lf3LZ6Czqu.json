@@ -1,13 +1,33 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Paul Gilbert",
-  "num_followers": 93020,
+  "num_followers": 93055,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAyNzAwMDAwMTgwYmI5NDliNjEwMDAwMDE3ZDk1ZTlhYmE4",
+  "snapshot_id": "MTY1MzAxOTMyMCwwMDAwMDAyODAwMDAwMTgwZGZhMTFmMjYwMDAwMDE3ZDk1ZTlhYmE4",
   "tracks": [
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Earthguest",
+        "url": "https://open.spotify.com/album/42bzv7lW3nN0jxt9ZG1ZVR"
+      },
+      "artists": [
+        {
+          "name": "Steroid Puppets",
+          "url": "https://open.spotify.com/artist/1v39hJJ604GsEZWEqhrTko"
+        },
+        {
+          "name": "Marty Friedman",
+          "url": "https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p"
+        }
+      ],
+      "duration_ms": 539053,
+      "name": "Earthguest",
+      "url": "https://open.spotify.com/track/7wVAS3INpT4el1p6FJpY3x"
+    },
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {

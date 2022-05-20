@@ -4,7 +4,7 @@
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Gala Brie on cover.
 
-458 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
+459 songs - 1 day 1 hr 28 min - [published](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Al Campo](https://open.spotify.com/track/7slK2Q6nQMKWPPZYqylTdd) | [Marinita Precaria](https://open.spotify.com/artist/4HJBGcOqWcIOay7q6eeXOR) | [Al Campo](https://open.spotify.com/album/6r0PGEMp2RUVKMepYfDLCl) | 2:35 | 2022-01-19 | 2022-02-10 |
 | [Al Revés \- feat\. Petite Amie](https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4) | [Charles Spearin](https://open.spotify.com/artist/3PEieAx7awxOPIdseRJuFb), [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Al Revés \(feat\. Petite Amie\)](https://open.spotify.com/album/4VP9sto7vsed9Qi6wjmklj) | 3:15 | 2022-04-13 | 2022-05-12 |
 | [Alas](https://open.spotify.com/track/2hkNTsVpBtijLQSHcwBllZ) | [Fotomat](https://open.spotify.com/artist/6wod0c6nepHmm5DzymgzBi) | [Alas](https://open.spotify.com/album/3cktTrKRn7YPtFi9sNSisp) | 3:34 | 2022-04-06 | 2022-04-14 |
-| [Alex Gordon](https://open.spotify.com/track/1UiAF9YovgLIUbukFB4bEW) | [Perros Plaga](https://open.spotify.com/artist/0XWPRw7iZ9qJO1haAUhnJC) | [Rechazo](https://open.spotify.com/album/73TiRQuQ1n72YsaKD16cGS) | 1:24 | 2022-05-18 |  |
+| [Alex Gordon](https://open.spotify.com/track/1UiAF9YovgLIUbukFB4bEW) | [Perros Plaga](https://open.spotify.com/artist/0XWPRw7iZ9qJO1haAUhnJC) | [Rechazo](https://open.spotify.com/album/73TiRQuQ1n72YsaKD16cGS) | 1:24 | 2022-05-18 | 2022-05-20 |
 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 | 2022-02-23 | 2022-03-13 |
 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 | 2022-04-06 | 2022-04-14 |
 | [Alucinando](https://open.spotify.com/track/38kf1LkLYiUCOnrWgyYszg) | [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Alucinando](https://open.spotify.com/album/0ffaEk9kNMZHbhkHKPqjNs) | 3:23 | 2022-03-16 | 2022-03-24 |
@@ -262,6 +262,7 @@
 | [Meridiana](https://open.spotify.com/track/5btsTBFCCpPD7A0RuN9h7v) | [Letelefono](https://open.spotify.com/artist/7hIJZT3HNriAXmEFQgQhY0) | [Ω](https://open.spotify.com/album/1V10RlwrlTOXihhFD7hGaj) | 5:09 | 2021-12-22 | 2022-01-27 |
 | [Mestizo](https://open.spotify.com/track/3IWKtLSR18WDbYZSXRBX3A) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Mestizo](https://open.spotify.com/album/3xenur91hfMARSwytNSbHU) | 4:02 | 2022-03-23 | 2022-04-07 |
 | [metro luvin](https://open.spotify.com/track/1ZHafNl4OihGR7zBDS9TwV) | [Diego Guerra](https://open.spotify.com/artist/3aFsIb8NZ0MG92NYROEVPs) | [metro luvin](https://open.spotify.com/album/44HCBxkEGBVNkn8FL1ellZ) | 3:52 | 2022-02-23 | 2022-03-17 |
+| [Mi Barrio](https://open.spotify.com/track/5akQjeg228NBrfq61qHnmK) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Mi Barrio](https://open.spotify.com/album/6nUeKwD9qcF2Xe0ISUB6ys) | 2:42 | 2022-05-18 |  |
 | [Mi Cabeza](https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Mi Cabeza](https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj) | 2:42 | 2021-12-22 | 2022-01-20 |
 | [Mi Casa Es Tu Casa](https://open.spotify.com/track/1rrvPiYkHahXHUYWWXaUtc) | [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Mi Casa Es Tu Casa](https://open.spotify.com/album/38EZlVxJw9FA9ygVe9h2yp) | 4:26 | 2022-05-04 |  |
 | [Miedos](https://open.spotify.com/track/6UXudjXSWptc6VpyYOYsmm) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Miedos](https://open.spotify.com/album/1QYyoy26hsRmLSTZWUAjgH) | 3:05 | 2022-04-27 | 2022-05-19 |
@@ -306,7 +307,7 @@
 | [Not Kool](https://open.spotify.com/track/4pzQHMgSc6Vi2YRhropamo) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz), [Valerio](https://open.spotify.com/artist/66k5Adfts2iUtNwMyNywaQ) | [Not Kool](https://open.spotify.com/album/5rZIoOjrLkQgQv1uKXYl4o) | 3:01 | 2021-12-22 | 2022-01-20 |
 | [Nube](https://open.spotify.com/track/2G88FiqMrerjYadftWM9XV) | [Feralucia](https://open.spotify.com/artist/5Cy9hXh0AFvHlRwdzzVPrB) | [Nube](https://open.spotify.com/album/4wKwlbQMRU5jPUAVjVSV7o) | 4:07 | 2022-04-13 | 2022-05-05 |
 | [Nubes](https://open.spotify.com/track/4dInCgMZjnrQooQk13dfmY) | [Dicapo](https://open.spotify.com/artist/5qPLQJcclXpSdB7f8Yp4p7) | [Nubes](https://open.spotify.com/album/7hz0LYFUgbu3Tu9GX3iqvr) | 2:46 | 2022-03-16 | 2022-03-31 |
-| [Océano](https://open.spotify.com/track/72Qedzj7OHNDti4yTh7YuD) | [Resplandor](https://open.spotify.com/artist/3vgAuHUBcrSQgTqNMcNk6o) | [Tristeza](https://open.spotify.com/album/0cTKav3mJnKD4SefScUVgY) | 7:36 | 2022-05-18 |  |
+| [Océano](https://open.spotify.com/track/72Qedzj7OHNDti4yTh7YuD) | [Resplandor](https://open.spotify.com/artist/3vgAuHUBcrSQgTqNMcNk6o) | [Tristeza](https://open.spotify.com/album/0cTKav3mJnKD4SefScUVgY) | 7:36 | 2022-05-18 | 2022-05-20 |
 | [Ofiuco](https://open.spotify.com/track/7zCghHbhBoRYXP80qec493) | [Nicolás Carou](https://open.spotify.com/artist/7Eo1djl0eJ1czhXpME4Dhp), [JuliRod](https://open.spotify.com/artist/5GScIosa9ErFL5QwAOtPZy), [Kerko](https://open.spotify.com/artist/6Q0Hb3NHqIonERJw7gxUtG) | [Cosas Más Raras](https://open.spotify.com/album/1kslqILlsPW7ZbggElpTWQ) | 4:16 | 2022-05-18 |  |
 | [Oh la La](https://open.spotify.com/track/73QJQGgA0iiR8blyPfvJwH) | [Ignacio Val](https://open.spotify.com/artist/2VEYnqfdlSpPemYF3Ddwur) | [Oh la La](https://open.spotify.com/album/57w6ScueLFRjS2t96TgnMz) | 2:39 | 2021-12-22 | 2022-01-06 |
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2021-12-22 | 2022-01-06 |
@@ -378,7 +379,7 @@
 | [si tú te vas:\(](https://open.spotify.com/track/708K2jeb6oa8a6gSautjn6) | [Natalia Lozano](https://open.spotify.com/artist/1DYJKsD0vGFUZVYqs8YWHf) | [si tú te vas:\(](https://open.spotify.com/album/4KXO5SRJvb8L4AMDPQsbbL) | 4:10 | 2022-02-23 | 2022-03-17 |
 | [Siempre Tú](https://open.spotify.com/track/0VoZNaIkCcVKmUVenH84wj) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId) | [Siempre Tú](https://open.spotify.com/album/5edAQbZLZJZ3PSkkNccA3H) | 2:49 | 2022-03-16 | 2022-04-07 |
 | [Siete Días](https://open.spotify.com/track/6lutS2K7aZB6p25VHQMF8Z) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Fiesta a Cargo de E.R.](https://open.spotify.com/album/4ZUFIgo3YxWvIKzTCzBuAY) | 3:21 | 2022-01-26 | 2022-02-03 |
-| [Sigo Huyendo](https://open.spotify.com/track/11CqiCkod0sGMRBB28exxh) | [REHHLL](https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx) | [Sigo Huyendo](https://open.spotify.com/album/418ZTQIv5lGORXmPNWSfXn) | 3:28 | 2022-05-11 | 2022-05-19 |
+| [Sigo Huyendo](https://open.spotify.com/track/11CqiCkod0sGMRBB28exxh) | [REHHLL](https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx) | [Sigo Huyendo](https://open.spotify.com/album/418ZTQIv5lGORXmPNWSfXn) | 3:28 | 2022-05-11 |  |
 | [Sin Intenciones](https://open.spotify.com/track/78NCRUfNgMqSR36XAfum2l) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Sin Intenciones](https://open.spotify.com/album/5istU6vjNosM5XFoVv8QTo) | 2:58 | 2021-12-22 | 2022-01-27 |
 | [Sin Título](https://open.spotify.com/track/6d8GtfivRUvdI3SU7PFD3t) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd) | [Sin Título](https://open.spotify.com/album/2izT2j03zrRep2fAXwdXGL) | 3:08 | 2022-02-09 | 2022-02-24 |
 | [Sobrenatural](https://open.spotify.com/track/3Y1qpzuVijchoFsnsoXEah) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Sobrenatural](https://open.spotify.com/album/6OwLG0sDsLlruI8JToGkew) | 3:09 | 2022-02-02 | 2022-03-10 |

@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-106 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+107 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [close tail](https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [カワイヒデヒロ](https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM) | [close tail](https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA) | 4:49 | 2022-04-29 |  |
 | [Coffee Break Is Over](https://open.spotify.com/track/6K3g2CecVzfknsgj4V1NxH) | [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Phoenix](https://open.spotify.com/album/1jZLSW3sm0wWumdXgHtLMG) | 3:09 | 2021-02-12 |  |
 | [Core](https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Borderline](https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM) | 3:29 | 2021-02-12 |  |
+| [Dahaga](https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE) | [Erwin Gutawa](https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN) | [Dahaga](https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD) | 4:49 | 2022-05-20 |  |
 | [Decoration \- Alternative Version](https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd) | [Varre Vartiainen](https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG) | [Almost Standards \(Doctoral Edition\)](https://open.spotify.com/album/1ptiBUZkgEzYmt3nElJbdb) | 6:34 | 2022-04-29 |  |
 | [Dolemite](https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Tore Down House](https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb) | 5:52 | 2021-02-12 |  |
 | [Dream Chaser](https://open.spotify.com/track/0vdB6LzEsOVBbtGZVK6TSM) | [Nikola Bankov](https://open.spotify.com/artist/1MYTUphUheZ7NGFaqk4ufd), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Dream Chaser](https://open.spotify.com/album/6do2ff8V2y5SJUpbKAlMzD) | 5:33 | 2022-04-08 |  |

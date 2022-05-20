@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-147 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+148 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Deep Sleep](https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Deep Sleep](https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw) | 2:37 | 2021-11-10 |  |
 | [Deep Soul](https://open.spotify.com/track/3982hLjimRRPGIfInxlzyh) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [Deep Soul](https://open.spotify.com/album/7GjFApBQPjiEoZg1fvIXlr) | 2:43 | 2021-11-10 |  |
 | [Delta Sinus Noise Pad](https://open.spotify.com/track/7sKPbqAPAP4llKXGEXqCaH) | [Wiser Noise](https://open.spotify.com/artist/0AVjqSe7ExlC8YpGYMXVfn) | [Delta Sinus Noise Pad](https://open.spotify.com/album/4tpiv36su2Y9b9BPAJgPNH) | 2:04 | 2021-11-10 |  |
+| [Departure](https://open.spotify.com/track/75h0fwWf7pVVxreN5NGn1U) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Departure](https://open.spotify.com/album/4amuoVRYpYtpJ2Zzw2KIpz) | 3:35 | 2022-05-19 |  |
 | [Devi Drone](https://open.spotify.com/track/2zLMOb6Z01X9PLxl09xJ9t) | [Phunard](https://open.spotify.com/artist/6H1tyGfLTQzt80IXEGgKAM) | [Devi Drone](https://open.spotify.com/album/1FCBT0UxFx7qJUryao1JQd) | 1:52 | 2021-11-10 |  |
 | [Directional Dance](https://open.spotify.com/track/1f4D1dUMBXCRFMahucWgng) | [Tottori](https://open.spotify.com/artist/2cxaVq3RTbmSCpIv1jBvSp) | [Plant Life in Tottori](https://open.spotify.com/album/6i7ldGuVLlg82KmWRfxnrQ) | 3:47 | 2021-11-10 | 2022-05-04 |
 | [Distant Oceans](https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT) | [Frieda Walsch](https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM) | [Distant Oceans](https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80) | 2:18 | 2022-01-21 |  |

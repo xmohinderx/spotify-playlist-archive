@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: G\. Love
 
-116 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+119 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Everything You Need](https://open.spotify.com/track/2IJ7JF3Sva50EgrbCVcWW1) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Everything You Need](https://open.spotify.com/album/3yM6APa7fwLuGC4RLDmnGB) | 3:38 | 2021-06-11 | 2022-05-07 |
 | [Fading Away](https://open.spotify.com/track/7FpFxqvwMMR4j1Yi1vndpK) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Fading Away](https://open.spotify.com/album/4rbAfXhaS3CKaDGSfaK9Jb) | 3:44 | 2021-02-05 | 2022-03-26 |
 | [Fancy Drones \(Fracture Me\) \- Live at Studio 615 / May 2021](https://open.spotify.com/track/7mSlf5NUKd5UAVe3eI2VBL) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Fancy Drones \(Fracture Me\) \[Live at Studio 615 / May 2021\]](https://open.spotify.com/album/24EGgm4XrVEEoHIvEAhm5r) | 3:17 | 2021-10-01 |  |
+| [Fire with Fire](https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fire with Fire](https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr) | 2:57 | 2022-05-20 |  |
 | [Follow Me](https://open.spotify.com/track/0sgSnT7ltGmbtDk6oYCORs) | [Jessarae](https://open.spotify.com/artist/6g09G6rt0abMMLVp4xyKx6) | [Follow Me](https://open.spotify.com/album/1PGDSkZS0LldDjD74gj96M) | 3:54 | 2021-04-09 | 2022-05-07 |
 | [Forest Of My Soul](https://open.spotify.com/track/32QGqKxHi22ivxrPl4LK3n) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Forest Of My Soul](https://open.spotify.com/album/0tUiu2DeNVINqcAZNxXFz5) | 3:40 | 2022-03-25 |  |
 | [Gone](https://open.spotify.com/track/33hXeP9dCStIHmtUWNepnA) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Gone](https://open.spotify.com/album/2xheRzFSbejr9p1g18pQOu) | 3:02 | 2021-08-30 |  |
@@ -87,6 +88,7 @@
 | [Rain Gonna Fall](https://open.spotify.com/track/2aRbqrv0y95UlmSFwE9832) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Rain Gonna Fall](https://open.spotify.com/album/2Zc0N5hjKfYTecNWMollgM) | 3:50 | 2021-02-05 | 2022-03-26 |
 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-02-18 | 2022-02-26 |
 | [Rollin' On](https://open.spotify.com/track/6ol3k9BqQi7tOX98KPnVPa) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Rollin' On](https://open.spotify.com/album/4MREwsWckfOXSbAjNd1c3N) | 5:08 | 2021-08-20 |  |
+| [Rolling Around in It](https://open.spotify.com/track/5612f3JIJJmcUsauIUYdbP) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Rolling Around in It](https://open.spotify.com/album/4NQBdWlyIvwhINkgBg2TD4) | 3:22 | 2022-05-20 |  |
 | [Sanitarium Lovesick Blues \#4702](https://open.spotify.com/track/4LXdNt8mbZIJD6LXBxFS1W) | [Josh Morningstar](https://open.spotify.com/artist/2mGDvM39bEKWuSNd9H7Prm) | [Sanitarium Lovesick Blues \#4702](https://open.spotify.com/album/5N6B3t4lNcsuUe2lZn3GF4) | 2:49 | 2021-03-26 | 2022-03-26 |
 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/7JD8dY7gEQEArHha4Qar6B) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [See the Moon](https://open.spotify.com/album/7ne1A974f725ICMswwvG3e) | 3:21 | 2021-12-03 |  |
 | [Shooting Star](https://open.spotify.com/track/1Om3Mz5IazKScLUqL88oCd) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [Everybody Knows My Name](https://open.spotify.com/album/5FsMYB0f5tSktoA4QiP0uy) | 2:48 | 2022-01-21 |  |
@@ -102,6 +104,7 @@
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-11 |  |
 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 | 2022-05-06 |  |
 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 | 2022-03-25 |  |
+| [Talk To You](https://open.spotify.com/track/61PCdbwmjg5LwyIBvcuQGe) | [Dennis Johnson](https://open.spotify.com/artist/4q4GIOKuoGbaa9nkroBWjF) | [Talk To You](https://open.spotify.com/album/0koP38sKFmgO6GNRXM87MT) | 3:23 | 2022-05-20 |  |
 | [Tell It Like It Is](https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Neither Here Nor There](https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy) | 2:55 | 2022-04-29 |  |
 | [Ten Toes Down](https://open.spotify.com/track/2oqOVs5FVAyMWQhT5Bpdsa) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Ten Toes Down](https://open.spotify.com/album/3quqmLko0E0EbZR9s3JDzf) | 4:21 | 2021-02-05 | 2022-03-26 |
 | [That's The Way I Feel About You](https://open.spotify.com/track/4SrcZBjrz1mTrjFfwuGG06) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [That's The Way I Feel About You](https://open.spotify.com/album/01nRgsi6ofoo1HBxFwg6Ha) | 4:53 | 2021-07-02 |  |

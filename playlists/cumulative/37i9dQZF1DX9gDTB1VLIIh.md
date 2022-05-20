@@ -4,7 +4,7 @@
 
 > This is Nasty C, also known to fans as "A Zulu Man With Some Power"\. The essential tracks, all in one playlist
 
-45 songs - 2 hr 40 min - not published yet
+45 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/3us74V95C0wtXUW5WhbJZ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

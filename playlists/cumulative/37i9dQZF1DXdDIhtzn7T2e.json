@@ -886,6 +886,24 @@
     },
     {
       "album": {
+        "name": "The Cannabis Cowboy",
+        "url": "https://open.spotify.com/album/550hySPdjcyx1HSsdIrI4F"
+      },
+      "artists": [
+        {
+          "name": "Cannabis Cowboys",
+          "url": "https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219423,
+      "name": "The Cannabis Cowboy",
+      "url": "https://open.spotify.com/track/1mJyMvJoHJGiNs7NCxpd7l"
+    },
+    {
+      "album": {
         "name": "West Textures",
         "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
       },

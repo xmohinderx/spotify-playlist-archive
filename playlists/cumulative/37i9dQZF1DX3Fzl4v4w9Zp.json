@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "Always Saw Coming",
+        "url": "https://open.spotify.com/album/6Wu31vZfPvx9L4hBwtJm3b"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183215,
+      "name": "Always Saw Coming",
+      "url": "https://open.spotify.com/track/4PkNM6c47VlKeElu3x0Pg0"
+    },
+    {
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG"
       },
@@ -1198,6 +1216,24 @@
     },
     {
       "album": {
+        "name": "Falling Apart (Right Now)",
+        "url": "https://open.spotify.com/album/51UsMKHDATAfvVvxozppqI"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196780,
+      "name": "Falling Apart (Right Now)",
+      "url": "https://open.spotify.com/track/2ekADzomcIrK55TRhpCDVF"
+    },
+    {
+      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV"
       },
@@ -1357,7 +1393,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
@@ -1577,7 +1613,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 263923,
       "name": "Hard Things",
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
@@ -2238,6 +2274,24 @@
     },
     {
       "album": {
+        "name": "Learn To Love Myself",
+        "url": "https://open.spotify.com/album/5wpJZJE7Q9ZkrzDRkRgkJr"
+      },
+      "artists": [
+        {
+          "name": "Nicki Bluhm",
+          "url": "https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202990,
+      "name": "Learn To Love Myself",
+      "url": "https://open.spotify.com/track/6yFcjFBQLfSZIx330nVmTy"
+    },
+    {
+      "album": {
         "name": "Learn to Love You Better",
         "url": "https://open.spotify.com/album/0HfN0dvsXuFL316in0EoPu"
       },
@@ -2303,7 +2357,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 181066,
       "name": "Little by Little",
       "url": "https://open.spotify.com/track/47dausqCUFmwxjbMRurc7o"
@@ -2527,7 +2581,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/5Y6stLs2V5bK0ALhrz78FE"
@@ -2737,7 +2791,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 237480,
       "name": "Orphan Child",
       "url": "https://open.spotify.com/track/6aK8AIxvkuiYE1sHdxrYcb"
@@ -4032,6 +4086,28 @@
     },
     {
       "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        },
+        {
+          "name": "Levon Helm",
+          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356090,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/2r0O6Cdu64Op0Hn0C1wddm"
+    },
+    {
+      "album": {
         "name": "Buffalo Nichols",
         "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
       },
@@ -4333,6 +4409,24 @@
       "duration_ms": 202693,
       "name": "Welcome 2 Club XIII",
       "url": "https://open.spotify.com/track/0CqQEFDDgVBj4VZAH5C43S"
+    },
+    {
+      "album": {
+        "name": "What A Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3ffWzQw4topJ8i2UruRqtp"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186546,
+      "name": "What A Strange Time To Be Alive",
+      "url": "https://open.spotify.com/track/0mmapJXijQcLERMo1t747B"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Meu Funeral",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Gloria",
   "name": "P\u00e1tria Rock",
   "published_playlist_ids": [
     "0QCUPVPm5DzTYPmApO8yZ5"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 141788,
       "name": "A Dan\u00e7a do Zumbi",
       "url": "https://open.spotify.com/track/50TDFbEa54FuDXJN8bVX88"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 251003,
       "name": "Carpinteiro do Universo",
       "url": "https://open.spotify.com/track/55uRggGWgM5G2gmqYaIKHn"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 211520,
       "name": "Circo de Loucos",
       "url": "https://open.spotify.com/track/6QanwMDpUlvhEXiybNRZHn"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 196863,
       "name": "Din\u00e2mica de Bruto (Locomotiva Sessions) - Live Session",
       "url": "https://open.spotify.com/track/51H1qbbRDFtTCUxv6XMoVN"
@@ -962,6 +962,24 @@
     },
     {
       "album": {
+        "name": "Esse Cara N\u00e3o Sou Eu",
+        "url": "https://open.spotify.com/album/1lr1Ghu1rcRS1CbcKESLqm"
+      },
+      "artists": [
+        {
+          "name": "An\u00f4nimos An\u00f4nimos",
+          "url": "https://open.spotify.com/artist/5UWDldtq4b6RU5vo554Xnc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137345,
+      "name": "Esse Cara N\u00e3o Sou Eu",
+      "url": "https://open.spotify.com/track/7In1OiMVJnQM99n4hGhbkN"
+    },
+    {
+      "album": {
         "name": "BLLT",
         "url": "https://open.spotify.com/album/4ZkwNCKbpIgOt2PduF60SU"
       },
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 239720,
       "name": "Eu N\u00e3o Matei Joana D\u2019Arc",
       "url": "https://open.spotify.com/track/3dmf5saG9vX9CnB9Ldbq9d"
@@ -1302,6 +1320,28 @@
     },
     {
       "album": {
+        "name": "Hey, Babe",
+        "url": "https://open.spotify.com/album/2EeHe5LaOe1diWalr9K4iT"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222917,
+      "name": "Hey, Babe",
+      "url": "https://open.spotify.com/track/1TUv8ap6Kr4ilS1nKBAH4l"
+    },
+    {
+      "album": {
         "name": "Transitando a Olho Nu",
         "url": "https://open.spotify.com/album/6ucz37FZZk8WinxGpe8FwQ"
       },
@@ -1389,7 +1429,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 192496,
       "name": "J\u00e1 Faz Tanto Tempo (feat. Lulu Santos)",
       "url": "https://open.spotify.com/track/6oJKXZAUQw5tdEw71Xkdvu"
@@ -1425,7 +1465,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 243967,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0mVzzMNdJfTQA4WSOt0Zlb"
@@ -1559,10 +1599,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 160241,
       "name": "Luta ou Fuga",
       "url": "https://open.spotify.com/track/28PLERVExTPCA66oDXmw59"
+    },
+    {
+      "album": {
+        "name": "L\u00famen",
+        "url": "https://open.spotify.com/album/2cLYS9JiviSsS0Pu7wQtwD"
+      },
+      "artists": [
+        {
+          "name": "menores atos",
+          "url": "https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256130,
+      "name": "L\u00famen",
+      "url": "https://open.spotify.com/track/59zeW3tMD4uoyfnX9Vqwtg"
     },
     {
       "album": {
@@ -1833,7 +1891,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 203398,
       "name": "Navegar",
       "url": "https://open.spotify.com/track/64hYpT3rlb28PYwNcrLIDt"
@@ -1913,6 +1971,24 @@
       "duration_ms": 229333,
       "name": "N\u00e3o \u00c9 S\u00f3 Existir",
       "url": "https://open.spotify.com/track/2yqqf8Xa2oEPnRemRS5jsD"
+    },
+    {
+      "album": {
+        "name": "N\u00f3",
+        "url": "https://open.spotify.com/album/4gKgBctqVjoHhBbI7BK83t"
+      },
+      "artists": [
+        {
+          "name": "Versalle",
+          "url": "https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191907,
+      "name": "N\u00f3",
+      "url": "https://open.spotify.com/track/2NsoozYK2yr62Y9HoN1Hfk"
     },
     {
       "album": {
@@ -2036,6 +2112,28 @@
     },
     {
       "album": {
+        "name": "O Que Me Faz?",
+        "url": "https://open.spotify.com/album/26lqAUZY9uGGoye38GIYnP"
+      },
+      "artists": [
+        {
+          "name": "Tributo Ao Tempo",
+          "url": "https://open.spotify.com/artist/3yIiGpuO5YzQfzqIPbONbY"
+        },
+        {
+          "name": "Serginho Moah",
+          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225120,
+      "name": "O Que Me Faz?",
+      "url": "https://open.spotify.com/track/5hR1g8yO81j6tgSXEeTGau"
+    },
+    {
+      "album": {
         "name": "O Ritmo do Algoritmo",
         "url": "https://open.spotify.com/album/7i5stT2RY9HmuaBCHf8aox"
       },
@@ -2130,6 +2228,24 @@
     },
     {
       "album": {
+        "name": "Passageira",
+        "url": "https://open.spotify.com/album/7FPnMFyWc8gw6doOkUVmly"
+      },
+      "artists": [
+        {
+          "name": "Gloria",
+          "url": "https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Passageira",
+      "url": "https://open.spotify.com/track/4mkYd2T8dbLG6KtyT7Zh9F"
+    },
+    {
+      "album": {
         "name": "Sangue de Amor",
         "url": "https://open.spotify.com/album/2WGtQ9Mgnjw1mycBqZp3US"
       },
@@ -2192,6 +2308,24 @@
     },
     {
       "album": {
+        "name": "Origens",
+        "url": "https://open.spotify.com/album/35puEaRN9d2hF8RpOSVWS8"
+      },
+      "artists": [
+        {
+          "name": "Lado Brasil",
+          "url": "https://open.spotify.com/artist/6OM33pkNXRD2UglPgDUu9z"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214125,
+      "name": "Por Quem os Sinos Dobram",
+      "url": "https://open.spotify.com/track/5IIFSYPhm5CwzFGOVlob6R"
+    },
+    {
+      "album": {
         "name": "Quando o Encontro \u00c9 Mais",
         "url": "https://open.spotify.com/album/4UHW7w22v7Za7oCU5Quooq"
       },
@@ -2251,6 +2385,24 @@
       "duration_ms": 206299,
       "name": "Quero Ser Eu Mesmo",
       "url": "https://open.spotify.com/track/4KRdoq2lJw8dKg9QvJkx07"
+    },
+    {
+      "album": {
+        "name": "raiva",
+        "url": "https://open.spotify.com/album/3ahG4lLXnrvZjc9Sb89BP1"
+      },
+      "artists": [
+        {
+          "name": "Duda In The Sky",
+          "url": "https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195431,
+      "name": "raiva",
+      "url": "https://open.spotify.com/track/5ohmUHZRVYckbotO3zP30w"
     },
     {
       "album": {
@@ -2323,7 +2475,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 232831,
       "name": "Rouca",
       "url": "https://open.spotify.com/track/59Fp36OwfUVP7y2iqhUIHV"
@@ -2381,6 +2533,24 @@
       "duration_ms": 189731,
       "name": "Se Lembrar de Mim",
       "url": "https://open.spotify.com/track/13JRJM8CcGhyTzgGCiAFWf"
+    },
+    {
+      "album": {
+        "name": "Selva de Concreto",
+        "url": "https://open.spotify.com/album/3kgRDWQ5lPQcJZqQV4YO2n"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212880,
+      "name": "Selva de Concreto",
+      "url": "https://open.spotify.com/track/2ZHLPehoFYRKLwJCxotHYw"
     },
     {
       "album": {
@@ -2540,6 +2710,24 @@
     },
     {
       "album": {
+        "name": "They Wanna Turn Me into a Politician",
+        "url": "https://open.spotify.com/album/00norKuCaNr7z3yNLDS2Ln"
+      },
+      "artists": [
+        {
+          "name": "Supla",
+          "url": "https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116603,
+      "name": "They Wanna Turn Me into a Politician",
+      "url": "https://open.spotify.com/track/2GZOCsPD74NaqNOnfMLjfk"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Quando A Terra Era Redonda",
         "url": "https://open.spotify.com/album/7mf53NHZ8LnRVDy0qFwdOH"
       },
@@ -2569,7 +2757,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 192047,
       "name": "Todo Mundo Quer Pirar",
       "url": "https://open.spotify.com/track/1XW7bclMViizNKpTaCEN8V"

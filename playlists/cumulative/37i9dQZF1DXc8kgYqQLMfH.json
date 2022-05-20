@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 151450,
       "name": "Afterword",
       "url": "https://open.spotify.com/track/3LQoUisuqBjcuIx5kJYd0i"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 132333,
       "name": "awareness",
       "url": "https://open.spotify.com/track/4fkuzFLzXSzslhrHWSGGhI"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 137142,
       "name": "Chasing Dreams",
       "url": "https://open.spotify.com/track/7HpNwwS5G8mUjcTshcMKzi"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 171851,
       "name": "dreamworld gravity",
       "url": "https://open.spotify.com/track/6uRopPokspfqgmcaxoGhrT"
@@ -1873,10 +1873,28 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 125202,
       "name": "Endless",
       "url": "https://open.spotify.com/track/6CkDqbpSaKHUh7lvXxpioS"
+    },
+    {
+      "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/7BdAV4twF950bjoesRSrta"
+      },
+      "artists": [
+        {
+          "name": "Duos On Mars",
+          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110940,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/7feSrht6OcaDya6Un742qQ"
     },
     {
       "album": {
@@ -2983,7 +3001,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 184817,
       "name": "House",
       "url": "https://open.spotify.com/track/4KOYbbN6yiB9gv3Du0F8QX"
@@ -3424,6 +3442,24 @@
     },
     {
       "album": {
+        "name": "Keep It Calm",
+        "url": "https://open.spotify.com/album/0sSxZTHWKC6Cx8llgdP8zN"
+      },
+      "artists": [
+        {
+          "name": "Flaminguez",
+          "url": "https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132446,
+      "name": "Keep It Calm",
+      "url": "https://open.spotify.com/track/7Lk97jmCy6NLGoMOCliR25"
+    },
+    {
+      "album": {
         "name": "Khayana",
         "url": "https://open.spotify.com/album/1D5Ey1JTJH0b6VbgJxdrsJ"
       },
@@ -3623,7 +3659,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 163291,
       "name": "laze",
       "url": "https://open.spotify.com/track/3toAiZvuekDbhfaiTSJe8j"
@@ -4107,7 +4143,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 80257,
       "name": "Magnifico Disastro",
       "url": "https://open.spotify.com/track/2MOMbPmESd5YkmNz8LjKAe"
@@ -4305,7 +4341,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 143130,
       "name": "Miffing",
       "url": "https://open.spotify.com/track/482V3gj1s0CmyxggOk4OLh"
@@ -4323,7 +4359,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 158117,
       "name": "Mister Mystery",
       "url": "https://open.spotify.com/track/0zz9qrOuBk37livkJlBhUW"
@@ -4659,7 +4695,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 138158,
       "name": "Naval\u00f4n",
       "url": "https://open.spotify.com/track/1loqBKxOG2uxLQfLMLpxgK"
@@ -4825,7 +4861,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 118518,
       "name": "no way back",
       "url": "https://open.spotify.com/track/72vhwaCoLwzCACdcqOaWAO"
@@ -5031,7 +5067,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 109147,
       "name": "One Note Funk",
       "url": "https://open.spotify.com/track/1V6buaeWQxZf2Zutvnu7yx"
@@ -5397,7 +5433,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 130000,
       "name": "podr\u00f3bka",
       "url": "https://open.spotify.com/track/36lB5F7MsFyrEnSssSkvZa"
@@ -6145,7 +6181,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 106666,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/35B4ntwoU7kCxdgWlzuOuE"
@@ -6351,10 +6387,28 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 124265,
       "name": "Soft Garden",
       "url": "https://open.spotify.com/track/2a2MBD0XGNCPAHPKQNHusQ"
+    },
+    {
+      "album": {
+        "name": "solemn haze",
+        "url": "https://open.spotify.com/album/1Tw9bPCt3tNqKZDRafT8Su"
+      },
+      "artists": [
+        {
+          "name": "Vague & Moody",
+          "url": "https://open.spotify.com/artist/3odGE9auGwTw3UhnCQvWNT"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142346,
+      "name": "solemn haze",
+      "url": "https://open.spotify.com/track/1ILTCNQe6kMjRetweNHGFY"
     },
     {
       "album": {
@@ -6405,7 +6459,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 81987,
       "name": "Soul of that Heart",
       "url": "https://open.spotify.com/track/3hew8bB1R3WBnIRqhxzyHY"
@@ -6463,6 +6517,24 @@
       "duration_ms": 120750,
       "name": "Squares and Circles",
       "url": "https://open.spotify.com/track/2LHjVBewQoqtWECN4awbV4"
+    },
+    {
+      "album": {
+        "name": "stargaze",
+        "url": "https://open.spotify.com/album/1ctl658ESeKJCvVVRSpPPO"
+      },
+      "artists": [
+        {
+          "name": "nate2timez",
+          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127077,
+      "name": "stargaze",
+      "url": "https://open.spotify.com/track/3xGDY3oMBtqaTCx7rnbk3j"
     },
     {
       "album": {
@@ -6744,6 +6816,24 @@
     },
     {
       "album": {
+        "name": "Swiss Cheese Plant",
+        "url": "https://open.spotify.com/album/2vgbcYHLuA6ddj0re96qHx"
+      },
+      "artists": [
+        {
+          "name": "Foliage Beats",
+          "url": "https://open.spotify.com/artist/16L0BcRMMckwUB3XFvgAe1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95424,
+      "name": "Swiss Cheese Plant",
+      "url": "https://open.spotify.com/track/5JziHwEPGqYD1lpHxf0E12"
+    },
+    {
+      "album": {
         "name": "Khayana",
         "url": "https://open.spotify.com/album/1D5Ey1JTJH0b6VbgJxdrsJ"
       },
@@ -6875,7 +6965,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 119302,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/5oslf0fTRGWYrFME2SaL0E"
@@ -7207,7 +7297,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 106669,
       "name": "Triplets",
       "url": "https://open.spotify.com/track/0YE5gtfhfQBQ04ye3Fodrc"

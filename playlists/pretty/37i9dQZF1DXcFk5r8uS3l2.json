@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 408554,
+  "num_followers": 408600,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDA0MDAwMDAwMTgwYmI5NDliNjYwMDAwMDE3ZGI1ZDhhMjYx",
+  "snapshot_id": "MTY1MzAxOTMyMCwwMDAwMDA0MTAwMDAwMTgwZGZhMTFmMmMwMDAwMDE3ZGI1ZDhhMjYx",
   "tracks": [
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "It Feels Alright",
+        "url": "https://open.spotify.com/album/0xsAiiO0KEvKLn9J7v9XIJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "It Feels Alright",
+      "url": "https://open.spotify.com/track/6QbSBJjorahQM08lPpFfkW"
+    },
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
@@ -45,6 +61,26 @@
       "url": "https://open.spotify.com/track/3RvsARgXxO6AAgZ4lF5lZK"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "All Our Love",
+        "url": "https://open.spotify.com/album/6bH8vw3t4PRGqq9PdXLvJR"
+      },
+      "artists": [
+        {
+          "name": "Supersonic Blues Machine",
+          "url": "https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD"
+        },
+        {
+          "name": "Charlie Starr",
+          "url": "https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939"
+        }
+      ],
+      "duration_ms": 269732,
+      "name": "All Our Love",
+      "url": "https://open.spotify.com/track/4sImthKyvzr2Rhp0vaB9SJ"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Adobe",
@@ -59,6 +95,22 @@
       "duration_ms": 148853,
       "name": "Big Bend",
       "url": "https://open.spotify.com/track/6Da34y67KXjJRMtT37iSBz"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/0bHzlnQ4InLhnDwrqL0nBC"
+      },
+      "artists": [
+        {
+          "name": "Banditos",
+          "url": "https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg"
+        }
+      ],
+      "duration_ms": 148320,
+      "name": "Said and Done",
+      "url": "https://open.spotify.com/track/1nU3EteBtKcrE2DhnKZLw2"
     },
     {
       "added_at": "2022-05-06 04:02:00",

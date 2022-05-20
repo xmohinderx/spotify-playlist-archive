@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Vendou",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Loud",
   "name": "Rap qu\u00e9b",
   "published_playlist_ids": [
     "4D4AEhD54qWlJrQjbPhrFK"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 162909,
       "name": "Al\u00e9atoire",
       "url": "https://open.spotify.com/track/4WnPcLYxgBuJvDUnYKFC5K"
@@ -309,6 +309,24 @@
       "duration_ms": 161026,
       "name": "Astronef",
       "url": "https://open.spotify.com/track/5nu3PJOyMRQft0xLkz4UDN"
+    },
+    {
+      "album": {
+        "name": "Aucune promesse",
+        "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215555,
+      "name": "Aucune promesse",
+      "url": "https://open.spotify.com/track/4bE84m2q6Xecrl8Etn8hKC"
     },
     {
       "album": {
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 97391,
       "name": "Fl\u00e9au Dicaprio - Intro",
       "url": "https://open.spotify.com/track/1QnEDUXj6azyComVL89yuy"
@@ -1736,6 +1754,46 @@
     },
     {
       "album": {
+        "name": "HIT",
+        "url": "https://open.spotify.com/album/5fzL567zhWlmeslIgX9tQR"
+      },
+      "artists": [
+        {
+          "name": "David Campana",
+          "url": "https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc"
+        },
+        {
+          "name": "Shotto Guapo",
+          "url": "https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216116,
+      "name": "HIT",
+      "url": "https://open.spotify.com/track/1z4jzgRu3aPr5W1EL3fLNu"
+    },
+    {
+      "album": {
+        "name": "Aucune promesse",
+        "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213781,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA"
+    },
+    {
+      "album": {
         "name": "Home Run",
         "url": "https://open.spotify.com/album/2r4bTB0FAzdzUakL7yopqV"
       },
@@ -1871,6 +1929,24 @@
       "duration_ms": 144990,
       "name": "Intemporel",
       "url": "https://open.spotify.com/track/14OiYmRva1c3B3mISSC7Qq"
+    },
+    {
+      "album": {
+        "name": "J'ai mon blick",
+        "url": "https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212660,
+      "name": "J'ai mon blick",
+      "url": "https://open.spotify.com/track/59DFpv1yqfIb32uz8swkqL"
     },
     {
       "album": {
@@ -2766,6 +2842,24 @@
     },
     {
       "album": {
+        "name": "Pi\u00e8ge Rock Alternatif",
+        "url": "https://open.spotify.com/album/3OXD6B8JLON63qRHf0xEhg"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161221,
+      "name": "Pi\u00e8ge Rock Alternatif",
+      "url": "https://open.spotify.com/track/6AASCclUSMqIM5hhLuS7nj"
+    },
+    {
+      "album": {
         "name": "Post mortem",
         "url": "https://open.spotify.com/album/0oT0z4MkqXDQlGsmK7fh6a"
       },
@@ -2835,7 +2929,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 178934,
       "name": "PROHIBITION",
       "url": "https://open.spotify.com/track/0RW5IgPSaevPbZzIYOHYo0"
@@ -2937,7 +3031,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 236643,
       "name": "Rafales",
       "url": "https://open.spotify.com/track/3q2shp4evYbfuOswVJiiQI"
@@ -3070,6 +3164,28 @@
     },
     {
       "album": {
+        "name": "Aucune promesse",
+        "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        },
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174067,
+      "name": "Rien de moins",
+      "url": "https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0"
+    },
+    {
+      "album": {
         "name": "Rien de moins",
         "url": "https://open.spotify.com/album/29zusoGlreGGCT2f5wrjUG"
       },
@@ -3085,7 +3201,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 174067,
       "name": "Rien de moins",
       "url": "https://open.spotify.com/track/5o2DRtfBYlufpEgKrVJewh"
@@ -3111,6 +3227,24 @@
       "duration_ms": 183750,
       "name": "Risque",
       "url": "https://open.spotify.com/track/4jH3ztl0lHmltux05WwZTy"
+    },
+    {
+      "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/4NCssbQeT9blbPPK05AYX5"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159850,
+      "name": "Risqu\u00e9",
+      "url": "https://open.spotify.com/track/5jtT4TQqdgBUTHuM9zPuAr"
     },
     {
       "album": {
@@ -3205,7 +3339,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 245000,
       "name": "Salaud",
       "url": "https://open.spotify.com/track/6tjy1Hee6UYCBiBYxNiLJ3"
@@ -3583,7 +3717,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 183937,
       "name": "Uber Eats Freestyle",
       "url": "https://open.spotify.com/track/0Of0wSZPDgQcYccKuQtptU"

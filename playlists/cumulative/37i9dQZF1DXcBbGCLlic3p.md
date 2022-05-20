@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-180 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
+182 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/04iCS2Hqg3BL0NWy8kiZsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Shoreline Waves](https://open.spotify.com/track/1AvYFqAsQjo2ZTg4S2GBA8) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Break Of Day](https://open.spotify.com/album/1xWwVHZmuwV9DJCRbR2Hlc) | 4:00 | 2021-12-23 |  |
 | [Sidereus](https://open.spotify.com/track/1jp80qB36x0WCV1zPHRq31) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Sidereus](https://open.spotify.com/album/338OsNe2iBBwVdhpdtCGm3) | 3:27 | 2021-12-23 |  |
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2021-12-23 |  |
+| [Similarities](https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Similarities](https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb) | 2:38 | 2022-05-19 |  |
 | [Skirr](https://open.spotify.com/track/0tzo8lb0ghQsazQTkmUtss) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Skirr](https://open.spotify.com/album/02bD03yEh1tcxFNVEIIXqj) | 2:30 | 2022-03-03 |  |
 | [Slowly Drifting Away](https://open.spotify.com/track/3xgSzRqNvrQtUVcYP0LxdI) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Slowly Drifting Away](https://open.spotify.com/album/3mTYgLak5gS3ZQqheAFLMj) | 2:58 | 2022-03-03 |  |
 | [Slowly Relaxing](https://open.spotify.com/track/19iBXrL3jjNmm4oDaozXWA) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Peace](https://open.spotify.com/album/7wEhjeiksV9gginrs9wlHu) | 3:21 | 2021-12-23 |  |
@@ -179,6 +180,7 @@
 | [Tum Somnum](https://open.spotify.com/track/3Q2ykZ9rFuFOvYDcAOY6w3) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Tum Somnum](https://open.spotify.com/album/2ALQCc03yCk75pGsH8DEnc) | 3:05 | 2021-12-23 |  |
 | [Two](https://open.spotify.com/track/3RnKx1I9P2hV1uIO9IW5En) | [Awlee](https://open.spotify.com/artist/1bc9CAR8zEADSEyBmp3T05) | [Lullah](https://open.spotify.com/album/0o7IZ2GBgrZ49NztPbHvAB) | 2:59 | 2021-12-23 |  |
 | [Unbound](https://open.spotify.com/track/5X17M78aHKmdcB0iDCe3BT) | [Nordesía](https://open.spotify.com/artist/6sbqijgtC98MAYaPcH3cuu) | [Unbound](https://open.spotify.com/album/2pkZ4r4io3uCgrdFo8h7wT) | 3:12 | 2021-12-23 |  |
+| [Unclouded](https://open.spotify.com/track/2NqwxOKlF2jtWvAnmWDIpu) | [Thalia Mathis](https://open.spotify.com/artist/3qwAV5INzjLjEyls7XyA9F) | [Unclouded](https://open.spotify.com/album/5qaBWXUQR3bXsyzZ8kuzTP) | 3:08 | 2022-05-19 |  |
 | [Vaggvisa](https://open.spotify.com/track/2swOksshgCYLGAypm1fh1v) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Vaggvisa](https://open.spotify.com/album/2q2I0k4FPubYO3EfyaN0zO) | 1:58 | 2021-12-23 |  |
 | [Valentinios Pier](https://open.spotify.com/track/4bUkrtLWyZRbG9jit1vgdY) | [Mia Bovind](https://open.spotify.com/artist/4pnDGbpRLEb0cIu7UFrswl) | [Valentinios Pier](https://open.spotify.com/album/3R42U1cgzk5F2jCz2cYd6p) | 3:02 | 2021-12-23 |  |
 | [Violet Ocean](https://open.spotify.com/track/3ffNZwshGDc3VLJQgdis5r) | [Ocean Floor](https://open.spotify.com/artist/4nNuiFBkkhspJCQ31LWnVg) | [Noise Cloud](https://open.spotify.com/album/4DVvvyoccdAaUu3rgqY8dG) | 2:36 | 2021-12-23 |  |

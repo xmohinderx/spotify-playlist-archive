@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=etoFhYeuSKaGAQxUcO8BKg\">Victony</a>",
+  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=YIRwLwrgQi-Q924V95rtxA\">BURUKLYN BOYZ</a>",
   "name": "Radar Africa",
   "published_playlist_ids": [
     "1XAJ71W9OWLJNt1VAjOZn2"
@@ -227,6 +227,24 @@
       "duration_ms": 186000,
       "name": "be my guest",
       "url": "https://open.spotify.com/track/6EsxMkOPOgMvRcGJO02pyt"
+    },
+    {
+      "album": {
+        "name": "EAST MPAKA LONDON",
+        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175357,
+      "name": "BLICKY",
+      "url": "https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB"
     },
     {
       "album": {
@@ -1144,6 +1162,32 @@
     },
     {
       "album": {
+        "name": "EAST MPAKA LONDON",
+        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        },
+        {
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+        },
+        {
+          "name": "Silverstone Barz",
+          "url": "https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150836,
+      "name": "LAST AIR BENDER",
+      "url": "https://open.spotify.com/track/3Tkrl8e0p4WvXCq31ITeXw"
+    },
+    {
+      "album": {
         "name": "ANXIETY+",
         "url": "https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ"
       },
@@ -1305,7 +1349,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 196596,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/3HNzLvkfe8hHvoNQab0AIT"
@@ -1443,7 +1487,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 197565,
       "name": "PREE",
       "url": "https://open.spotify.com/track/0voJpkHOyEcHiTmCS6rFEB"

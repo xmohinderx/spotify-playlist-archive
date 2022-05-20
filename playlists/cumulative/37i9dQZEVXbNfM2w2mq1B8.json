@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -6149,7 +6149,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 202093,
       "name": "Lost in the Fire (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
@@ -7799,7 +7799,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 231363,
       "name": "Ot utre",
       "url": "https://open.spotify.com/track/5d6gL8EcuaisGM9UWJN4gM"
@@ -10993,7 +10993,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 255377,
       "name": "United In Grief",
       "url": "https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx"
@@ -13475,6 +13475,28 @@
       "duration_ms": 202857,
       "name": "\u0422\u043e\u043a\u0441\u0438\u0447\u0435\u043d",
       "url": "https://open.spotify.com/track/46w6RqZXx96cORKIbExvSu"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0440\u0435\u0437\u043e\u0440\u0430",
+        "url": "https://open.spotify.com/album/6nNQxk5s69aBwn16idYzeQ"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215064,
+      "name": "\u0422\u0440\u0435\u0437\u043e\u0440\u0430",
+      "url": "https://open.spotify.com/track/4BGRK42GfRCw2Hoolpu1G7"
     },
     {
       "album": {

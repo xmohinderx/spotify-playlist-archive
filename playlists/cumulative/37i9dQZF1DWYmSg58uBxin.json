@@ -552,6 +552,32 @@
     },
     {
       "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123251,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
+    },
+    {
+      "album": {
         "name": "Remnants Of A Setting Sun",
         "url": "https://open.spotify.com/album/1dbvDjcQOn1TAK3j5YZPBA"
       },
@@ -711,7 +737,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 171269,
       "name": "Enlightenment",
       "url": "https://open.spotify.com/track/5Msu8YDbMCzgcubZ70SmAQ"
@@ -1161,7 +1187,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 205440,
       "name": "Inner Sphere",
       "url": "https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj"
@@ -1730,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "Opal",
+        "url": "https://open.spotify.com/album/7zXuTzVmAVe1fbNw93N4QV"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213859,
+      "name": "Opal",
+      "url": "https://open.spotify.com/track/3vb6ZHxSckbWkqM5wNdsA5"
+    },
+    {
+      "album": {
         "name": "Sarek",
         "url": "https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi"
       },
@@ -2108,6 +2152,24 @@
     },
     {
       "album": {
+        "name": "Steady, Thyself (Piano Version)",
+        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
+      },
+      "artists": [
+        {
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185387,
+      "name": "Steady, Thyself (Piano Version)",
+      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
+    },
+    {
+      "album": {
         "name": "Stellar Love",
         "url": "https://open.spotify.com/album/62MMCb2Z0fa1kCTGvKU086"
       },
@@ -2418,6 +2480,28 @@
     },
     {
       "album": {
+        "name": "The North Wind (Daigo Hanada Re-work)",
+        "url": "https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115133,
+      "name": "The North Wind - Daigo Hanada Re-work",
+      "url": "https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l"
+    },
+    {
+      "album": {
         "name": "The Sacrament",
         "url": "https://open.spotify.com/album/6PCHBDH0Zpllxm3FKuBnMz"
       },
@@ -2537,7 +2621,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 195752,
       "name": "Time Freezes",
       "url": "https://open.spotify.com/track/7A7WJn6zZ1RNoM6FWIffq1"

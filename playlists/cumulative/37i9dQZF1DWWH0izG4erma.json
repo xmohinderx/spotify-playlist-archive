@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A Bullet With My Name",
+        "url": "https://open.spotify.com/album/4tvlbftuk2FS7IJAWPU1ud"
+      },
+      "artists": [
+        {
+          "name": "Highway Natives",
+          "url": "https://open.spotify.com/artist/4iVEbYjSOR58bq1BTYZnJ3"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255969,
+      "name": "A Bullet With My Name",
+      "url": "https://open.spotify.com/track/3aCf4ZPy3ILXFcQ0NIFTv6"
+    },
+    {
+      "album": {
         "name": "Ain't My Day",
         "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
       },

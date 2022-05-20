@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Nduduzo Makhathini\n",
+  "description": "New jazz for open minds. Cover: Joey Alexander",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -41,6 +41,24 @@
       "duration_ms": 321600,
       "name": "713",
       "url": "https://open.spotify.com/track/3EhH15zLHO0IEmEEbG5fCc"
+    },
+    {
+      "album": {
+        "name": "A Day in Brooklyn",
+        "url": "https://open.spotify.com/album/1JLtqIVHiivIG46D90yRAe"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376910,
+      "name": "A Day in Brooklyn",
+      "url": "https://open.spotify.com/track/2IaMdRERXjrdYrrxphnfRx"
     },
     {
       "album": {
@@ -477,7 +495,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 363554,
       "name": "Badeep",
       "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 463133,
       "name": "Django",
       "url": "https://open.spotify.com/track/1ds8EgsVcJyuFnFyfX1vVI"
@@ -1531,6 +1549,32 @@
       "duration_ms": 381925,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6GEV8VT0VetzFzlGLGYzub"
+    },
+    {
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/5ByTI6yusgbPzvAhHi0Qaq"
+      },
+      "artists": [
+        {
+          "name": "Portraits in Jazz",
+          "url": "https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a"
+        },
+        {
+          "name": "Nikolaj Hess",
+          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200584,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/6M2hoBo4ht5YeNMt2tgSgo"
     },
     {
       "album": {
@@ -1863,7 +1907,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 178924,
       "name": "Gift Of The Moon",
       "url": "https://open.spotify.com/track/0MYkZsnmqH7XLcJsaS6AEk"
@@ -2140,6 +2184,24 @@
     },
     {
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/1dVxWDxXOaiGH4x6xjad6O"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323320,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e"
+    },
+    {
+      "album": {
         "name": "In Common III",
         "url": "https://open.spotify.com/album/4PhiVth2ZP7t58vFc0FU3A"
       },
@@ -2219,7 +2281,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 320399,
       "name": "Humoresque - Radio Edit",
       "url": "https://open.spotify.com/track/3PSK5LVKm2RPNqsA5Kzjnj"
@@ -2355,6 +2417,36 @@
       "duration_ms": 369346,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/7dGVRBCxIMOMvnhixowGd3"
+    },
+    {
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        },
+        {
+          "name": "Jan Lundgren",
+          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
+        },
+        {
+          "name": "Hans Backenroth",
+          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
+        },
+        {
+          "name": "Kristian Leth",
+          "url": "https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423538,
+      "name": "I Think of You",
+      "url": "https://open.spotify.com/track/5O7gq2BSiX0UhDgPMLbayr"
     },
     {
       "album": {
@@ -2721,7 +2813,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 448974,
       "name": "LDN",
       "url": "https://open.spotify.com/track/6kvg46WxVlk7ebhNEWlVuk"
@@ -3254,6 +3346,24 @@
     },
     {
       "album": {
+        "name": "Motivations II",
+        "url": "https://open.spotify.com/album/1Oycfhem5KpRtgZg4Rr3iz"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326253,
+      "name": "Motivations II",
+      "url": "https://open.spotify.com/track/7AIGWiA0tjBqn1JrLmwbDg"
+    },
+    {
+      "album": {
         "name": "Mountain Man Exit",
         "url": "https://open.spotify.com/album/2HeNwpxn83O3GoMtIf4EUQ"
       },
@@ -3423,7 +3533,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 362848,
       "name": "Nature's Kiss",
       "url": "https://open.spotify.com/track/50VxERP6MGmAtug4JoYhFw"
@@ -3682,6 +3792,36 @@
     },
     {
       "album": {
+        "name": "Other Jewels",
+        "url": "https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogenen",
+          "url": "https://open.spotify.com/artist/0vYkIFXZpWVW7Lh1GTgXWA"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347377,
+      "name": "Other Jewels",
+      "url": "https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6"
+    },
+    {
+      "album": {
         "name": "Pathways",
         "url": "https://open.spotify.com/album/6WQpxKjGFJQFnc2ODSG3y1"
       },
@@ -3934,6 +4074,24 @@
     },
     {
       "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344295,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/1Iqeeci1aIDfZpelLxMSni"
+    },
+    {
+      "album": {
         "name": "Reste un oiseau",
         "url": "https://open.spotify.com/album/6803wHGAlnx5ABcWhjgmJy"
       },
@@ -4113,7 +4271,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 259027,
       "name": "Sammy Jammy - Bunker Sesh",
       "url": "https://open.spotify.com/track/1HjVuVZSIG27OWanHGLUhj"
@@ -4514,6 +4672,24 @@
     },
     {
       "album": {
+        "name": "Bunker Sesh",
+        "url": "https://open.spotify.com/album/414wzbZlf4V7Qst0ShXNiS"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395829,
+      "name": "Sus Jawn - Bunker Sesh",
+      "url": "https://open.spotify.com/track/17v2YhIU3p6FwChewyPKun"
+    },
+    {
+      "album": {
         "name": "Synchronized Swigging",
         "url": "https://open.spotify.com/album/2XWqGPWSN4EI4PQfGfhPB7"
       },
@@ -4663,7 +4839,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 266453,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/0mFTShnrAE9pSdSfWygBXf"
@@ -4725,7 +4901,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 400170,
       "name": "The Garden Path",
       "url": "https://open.spotify.com/track/31KtddFzLJobEIyxBHT3gS"
@@ -4891,7 +5067,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 470324,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/1nh00HwoFCLCuaIzB5kEpG"
@@ -5222,6 +5398,24 @@
     },
     {
       "album": {
+        "name": "Wave Decay",
+        "url": "https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291293,
+      "name": "Wave Decay",
+      "url": "https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu"
+    },
+    {
+      "album": {
         "name": "Wave of Interest",
         "url": "https://open.spotify.com/album/67R0QsEML7HjIug0FRaNPm"
       },
@@ -5284,6 +5478,24 @@
     },
     {
       "album": {
+        "name": "Where Grace Abounds",
+        "url": "https://open.spotify.com/album/418MwimbhlqiDQqxq1lrnt"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261887,
+      "name": "Where Grace Abounds",
+      "url": "https://open.spotify.com/track/7jtkZSNqKkeCVAxIh67QsH"
+    },
+    {
+      "album": {
         "name": "Winter Blues",
         "url": "https://open.spotify.com/album/2XpEElni16wHDpusrS4TZZ"
       },
@@ -5295,7 +5507,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 433403,
       "name": "Winter Blues",
       "url": "https://open.spotify.com/track/6mfwtqsfJHIMZl22Yf16Hq"

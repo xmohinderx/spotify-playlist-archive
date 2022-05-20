@@ -1,13 +1,45 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 2341,
+  "num_followers": 2354,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTgwOTcyMCwwMDAwMDAxNjAwMDAwMTgwOTc4ODE3NGMwMDAwMDE3ZDlhNmU1YTBj",
+  "snapshot_id": "MTY1MzAxOTMyMCwwMDAwMDAxNzAwMDAwMTgwZGZhMTFmMzUwMDAwMDE3ZDlhNmU1YTBj",
   "tracks": [
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Seven Steps to Heaven (Live)",
+        "url": "https://open.spotify.com/album/6O70A9t3RODyzLGta83c2i"
+      },
+      "artists": [
+        {
+          "name": "T.S. Monk",
+          "url": "https://open.spotify.com/artist/3dNwAPe7GZxgNZjNhMyx5f"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Seven Steps to Heaven - Live",
+      "url": "https://open.spotify.com/track/5oas0Hk8vrvFSpPgaALUrs"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "The Lost Album from Ronnie Scott\u2019s (Live)",
+        "url": "https://open.spotify.com/album/3uB6lXxaCmjy76Spz1Gv9A"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 455792,
+      "name": "Pops (AKA When the Saints Go Marching In) - Live",
+      "url": "https://open.spotify.com/track/6FbS0wgTrEHAB7O7xVo7dx"
+    },
     {
       "added_at": "2022-04-29 04:02:00",
       "album": {

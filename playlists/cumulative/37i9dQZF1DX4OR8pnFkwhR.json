@@ -1138,6 +1138,28 @@
     },
     {
       "album": {
+        "name": "Re:\u9283\u306e\u90e8\u54c1",
+        "url": "https://open.spotify.com/album/12CSRFbZYvZ7bYckJNlzLN"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        },
+        {
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161576,
+      "name": "Re:\u9283\u306e\u90e8\u54c1",
+      "url": "https://open.spotify.com/track/4blZivIkAuztRriZxwdwN8"
+    },
+    {
+      "album": {
         "name": "Restart?",
         "url": "https://open.spotify.com/album/5fdozRgnGyNfx9PQz5wu3h"
       },
@@ -1449,6 +1471,24 @@
       "duration_ms": 128978,
       "name": "Talking Box (Dirty Pop Remix)",
       "url": "https://open.spotify.com/track/5mqucSnaCVI1kW6ewrXYE2"
+    },
+    {
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/7Jox1gthhLqTpzfswyMnk2"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202054,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/5BM1h0qH0CVWMjw0RIQtbn"
     },
     {
       "album": {
@@ -3129,7 +3169,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 220237,
       "name": "\u7159",
       "url": "https://open.spotify.com/track/7dGYY5OqFqcHCGfXANJpnd"
@@ -3403,7 +3443,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 154823,
       "name": "\u9283\u306e\u90e8\u54c1",
       "url": "https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw"

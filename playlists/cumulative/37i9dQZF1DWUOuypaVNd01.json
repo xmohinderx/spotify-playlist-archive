@@ -528,6 +528,40 @@
     },
     {
       "album": {
+        "name": "Drill de Cria",
+        "url": "https://open.spotify.com/album/0iR16XV8DvPTaI78z2h79y"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "MAGR\u00c3O XRE",
+          "url": "https://open.spotify.com/artist/4k8NJnF9h7zTQbuJBT4lCY"
+        },
+        {
+          "name": "Jhony Mc",
+          "url": "https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww"
+        },
+        {
+          "name": "Lord ADL",
+          "url": "https://open.spotify.com/artist/7phpDFUX97M0DTGIcjXKRk"
+        },
+        {
+          "name": "Doist",
+          "url": "https://open.spotify.com/artist/01jp1wvPHhAGnoXXVQ9xQV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196691,
+      "name": "Drill de Cria",
+      "url": "https://open.spotify.com/track/63AdvYWsRKp4NvCNeYyBB4"
+    },
+    {
+      "album": {
         "name": "Vig\u00e9simo N\u00edvel",
         "url": "https://open.spotify.com/album/2O1p59ZbY2YuoVPnyeNezL"
       },
@@ -735,7 +769,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 172444,
       "name": "Flow It\u00e1lia",
       "url": "https://open.spotify.com/track/2SvBhrgOLk2wY4ZWeX9JQ1"
@@ -921,6 +955,24 @@
       "duration_ms": 197000,
       "name": "Kenner",
       "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
+    },
+    {
+      "album": {
+        "name": "Lembro",
+        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Lembro",
+      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
     },
     {
       "album": {
@@ -1545,7 +1597,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 183673,
       "name": "Santana Amarelo",
       "url": "https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l"

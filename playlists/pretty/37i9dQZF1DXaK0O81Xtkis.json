@@ -1,12 +1,12 @@
 {
   "description": "shake it up and let it pop! cover: 5 Seconds of Summer",
-  "num_followers": 193316,
+  "num_followers": 193363,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDQ2MCwwMDAwMDBhNzAwMDAwMTgwYmI5M2IxMDEwMDAwMDE4MGI5ZWY3NDI0",
+  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDBhODAwMDAwMTgwZGY5ZjRhYzMwMDAwMDE4MGI5ZWY3NDI0",
   "tracks": [
     {
       "added_at": "2022-05-13 04:01:00",
@@ -25,20 +25,36 @@
       "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
     },
     {
-      "added_at": "2022-05-06 04:27:46",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial"
+        "name": "Wish You the Worst",
+        "url": "https://open.spotify.com/album/3CJXPqgGd9igKie4C0YyiJ"
       },
       "artists": [
         {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
         }
       ],
-      "duration_ms": 156116,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E"
+      "duration_ms": 143466,
+      "name": "Wish You the Worst",
+      "url": "https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "rising",
+        "url": "https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 139386,
+      "name": "frown",
+      "url": "https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -55,6 +71,154 @@
       "duration_ms": 180637,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/29FYm9EmlZJ77BNOOq43pi"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 126316,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Settling",
+        "url": "https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR"
+      },
+      "artists": [
+        {
+          "name": "Ripe",
+          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
+        }
+      ],
+      "duration_ms": 188316,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00"
+    },
+    {
+      "added_at": "2022-05-06 04:27:46",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 156116,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E"
+    },
+    {
+      "added_at": "2022-03-18 04:01:00",
+      "album": {
+        "name": "The Band CAMINO",
+        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 182658,
+      "name": "I Think I Like You",
+      "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/61vdGknCYTjcsJFBc6KYcq"
+      },
+      "artists": [
+        {
+          "name": "Anthony Watts",
+          "url": "https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1"
+        },
+        {
+          "name": "Anthony Russo",
+          "url": "https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki"
+        }
+      ],
+      "duration_ms": 187059,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/2JSwrpnYbxzKJVmc69cGZ9"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "Colours Of You",
+        "url": "https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 255346,
+      "name": "Colours Of You",
+      "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "OLDER",
+        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "OLDER",
+      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Leap of Faith",
+        "url": "https://open.spotify.com/album/2ABlekgQfB52vzJv4ZSBDz"
+      },
+      "artists": [
+        {
+          "name": "Alex Alexander",
+          "url": "https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Leap of Faith",
+      "url": "https://open.spotify.com/track/4qgEdEx2VbNCXQOsV9Qem7"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -87,22 +251,6 @@
       "duration_ms": 143838,
       "name": "Good Advice",
       "url": "https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA"
-    },
-    {
-      "added_at": "2022-05-13 04:01:00",
-      "album": {
-        "name": "Colours Of You",
-        "url": "https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 255346,
-      "name": "Colours Of You",
-      "url": "https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -167,22 +315,6 @@
       "duration_ms": 183933,
       "name": "landline",
       "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
-    },
-    {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "The Band CAMINO",
-        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 182658,
-      "name": "I Think I Like You",
-      "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -501,22 +633,6 @@
       "url": "https://open.spotify.com/track/1wMUAnJhrgVa2Q2CkMto4b"
     },
     {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Hey You!",
-        "url": "https://open.spotify.com/album/4z6BoHLWaY5JlmouwVlJk9"
-      },
-      "artists": [
-        {
-          "name": "Zerbin",
-          "url": "https://open.spotify.com/artist/0dlr1FsAcalNnpq1q2RIoT"
-        }
-      ],
-      "duration_ms": 198975,
-      "name": "Hey You!",
-      "url": "https://open.spotify.com/track/6bTtcLpvruUeLSzH4ygsfN"
-    },
-    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Anything But Me",
@@ -581,22 +697,6 @@
       "url": "https://open.spotify.com/track/6irxfK85zCwjuTgtj9Nemu"
     },
     {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Million Dollar Bills",
-        "url": "https://open.spotify.com/album/28hOjrWUi7zMpjPweimK06"
-      },
-      "artists": [
-        {
-          "name": "Jukebox The Ghost",
-          "url": "https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Million Dollar Bills",
-      "url": "https://open.spotify.com/track/0AAApVAymzFlQtHJdyw676"
-    },
-    {
       "added_at": "2022-04-29 04:01:00",
       "album": {
         "name": "WHO HURT YOU?",
@@ -611,22 +711,6 @@
       "duration_ms": 142535,
       "name": "WHO HURT YOU?",
       "url": "https://open.spotify.com/track/4HCsFCmFZBxBuLasSvD9p8"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Palm Springs for the Weekend",
-        "url": "https://open.spotify.com/album/136BiEvn24KBjdb2mEPRP0"
-      },
-      "artists": [
-        {
-          "name": "Devin Kennedy",
-          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
-        }
-      ],
-      "duration_ms": 120826,
-      "name": "Palm Springs for the Weekend",
-      "url": "https://open.spotify.com/track/3fgXmDeOKrwEqnocqvQMdZ"
     },
     {
       "added_at": "2022-04-01 04:01:00",

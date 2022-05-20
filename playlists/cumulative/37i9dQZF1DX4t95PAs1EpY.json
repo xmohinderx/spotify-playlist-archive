@@ -641,10 +641,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 151034,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2sAueBql5AeZv5lbgIoCmw"
+    },
+    {
+      "album": {
+        "name": "Eden Garden",
+        "url": "https://open.spotify.com/album/1ISWQe58Is94DhLVmRZtJG"
+      },
+      "artists": [
+        {
+          "name": "Dilai",
+          "url": "https://open.spotify.com/artist/5vczEix1wnWLZ3FeFA6uX4"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Eden Garden",
+      "url": "https://open.spotify.com/track/3DWCpXGvN3HdNdyl6pidSO"
     },
     {
       "album": {
@@ -695,7 +713,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 164863,
       "name": "Ender",
       "url": "https://open.spotify.com/track/0mE3vnX3Jl8lPrw616n3qY"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 149610,
       "name": "Fields",
       "url": "https://open.spotify.com/track/6Hza6G5QMH7nE5mW9wE1Do"
@@ -915,7 +933,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 112619,
       "name": "Firefall",
       "url": "https://open.spotify.com/track/7nUfhnIsK4DbXSNvFEwQkk"
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 130000,
       "name": "Highway One",
       "url": "https://open.spotify.com/track/5GwIRA5zkwWuH0f4Fz9euR"
@@ -1370,6 +1388,24 @@
     },
     {
       "album": {
+        "name": "Kronotype",
+        "url": "https://open.spotify.com/album/0ajcsQW8goblOkDgWBmZoY"
+      },
+      "artists": [
+        {
+          "name": "invention_",
+          "url": "https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171711,
+      "name": "Kronotype",
+      "url": "https://open.spotify.com/track/7N1ZSuIsm3cbs1F3rVw0mA"
+    },
+    {
+      "album": {
         "name": "lake hylia",
         "url": "https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3"
       },
@@ -1489,7 +1525,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 100000,
       "name": "Lime Express",
       "url": "https://open.spotify.com/track/6W1jElE8QnsHXvH1umc4VG"
@@ -1583,7 +1619,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 192896,
       "name": "Lune",
       "url": "https://open.spotify.com/track/2boNzMHyWWrDWpgL5ddkP3"
@@ -1724,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "Monsoon",
+        "url": "https://open.spotify.com/album/0NwZDDA8mQ9Yp2LjPgHD1x"
+      },
+      "artists": [
+        {
+          "name": "lst drm",
+          "url": "https://open.spotify.com/artist/0qH83ejjkT1p7O0uycoATV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128856,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/3eEjDLyhJMg7e3BApnzQff"
+    },
+    {
+      "album": {
         "name": "morning cake",
         "url": "https://open.spotify.com/album/4cu8cji75p4tUK6CsjlneZ"
       },
@@ -1840,6 +1894,24 @@
     },
     {
       "album": {
+        "name": "need a vacation?",
+        "url": "https://open.spotify.com/album/5xadz5QNEgrbOSKCje5wSf"
+      },
+      "artists": [
+        {
+          "name": "kobicha",
+          "url": "https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128062,
+      "name": "need a vacation?",
+      "url": "https://open.spotify.com/track/1sHID1bINevTLGNkvfLQfC"
+    },
+    {
+      "album": {
         "name": "frozen grapes",
         "url": "https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz"
       },
@@ -1909,7 +1981,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 101636,
       "name": "Notes & Notes",
       "url": "https://open.spotify.com/track/5A9hqBLfGSiaxizL4hOqCI"
@@ -2017,7 +2089,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 86800,
       "name": "Pacific Ave",
       "url": "https://open.spotify.com/track/6G0L1J6Vg2kY2HHjdvKJ8E"
@@ -2129,7 +2201,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 96007,
       "name": "Plucktonal",
       "url": "https://open.spotify.com/track/1ganpYVHbwzHFsmramAXgA"
@@ -2205,6 +2277,24 @@
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+    },
+    {
+      "album": {
+        "name": "quiet thoughts",
+        "url": "https://open.spotify.com/album/6GXoGTgAT0ibfre1Mqv3Kq"
+      },
+      "artists": [
+        {
+          "name": "sumthin",
+          "url": "https://open.spotify.com/artist/1m1oQ84LqqtpGvE3Omv8Rd"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93176,
+      "name": "quiet thoughts",
+      "url": "https://open.spotify.com/track/1ND8aZ8F6qe74L9lF8XZop"
     },
     {
       "album": {
@@ -2291,7 +2381,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 122500,
       "name": "Red Dove",
       "url": "https://open.spotify.com/track/7LebLMIwvYvoWbBd9GYtxW"
@@ -2559,7 +2649,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 152571,
       "name": "smet",
       "url": "https://open.spotify.com/track/7EW0u8DM1elNsehpykrhcu"
@@ -2631,7 +2721,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 162000,
       "name": "Some Things Don't Change",
       "url": "https://open.spotify.com/track/7zSOXHtoFlF1nnEKZSHCzn"
@@ -2757,7 +2847,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 101333,
       "name": "Sydney, 11PM",
       "url": "https://open.spotify.com/track/2w3PdEwgYWFEU1YOCYyw4x"
@@ -2859,6 +2949,28 @@
       "duration_ms": 145303,
       "name": "Un Poco M\u00e1s",
       "url": "https://open.spotify.com/track/3zfLOTXWuj9wbQADkr8EyB"
+    },
+    {
+      "album": {
+        "name": "underneath the rain",
+        "url": "https://open.spotify.com/album/6yk5dT0SLFF74hn0PEI6j2"
+      },
+      "artists": [
+        {
+          "name": "Arden Records",
+          "url": "https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r"
+        },
+        {
+          "name": "wrongnumber",
+          "url": "https://open.spotify.com/artist/3jU1KxwkbO4pQfJblgxUVi"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152362,
+      "name": "underneath the rain",
+      "url": "https://open.spotify.com/track/6EruekpR534eGN50w9u8eF"
     },
     {
       "album": {
@@ -2978,6 +3090,28 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3yahRCCjwYLF6yyd15XH8d"
+      },
+      "artists": [
+        {
+          "name": "ghost talk",
+          "url": "https://open.spotify.com/artist/63vxoykPG9d9640xdt86KB"
+        },
+        {
+          "name": "User67",
+          "url": "https://open.spotify.com/artist/07cqYCAhK2tVhD6JKkWAIS"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128009,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/5YmEUcCSx4MgdonQAQYdw3"
+    },
+    {
+      "album": {
         "name": "21st Street",
         "url": "https://open.spotify.com/album/13n4ZUuUgLk4TZu4qQNa7D"
       },
@@ -3007,7 +3141,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 158125,
       "name": "You Make Me Feel Ugh",
       "url": "https://open.spotify.com/track/0hznux5VvT8vyGHDUTGCay"
@@ -3025,7 +3159,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 149403,
       "name": "yours",
       "url": "https://open.spotify.com/track/40jnfHn8DfFbTY09IWQm9u"

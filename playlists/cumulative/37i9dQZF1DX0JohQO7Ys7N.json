@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 222171,
       "name": "Hit Me Up",
       "url": "https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg"
@@ -987,6 +987,28 @@
       "duration_ms": 304224,
       "name": "Rosella",
       "url": "https://open.spotify.com/track/0X5xHB8t99D6jv5ES4BUqH"
+    },
+    {
+      "album": {
+        "name": "Saviour",
+        "url": "https://open.spotify.com/album/1g4JkRkSgMy2DwaO2Kb7aJ"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Iyanah",
+          "url": "https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145471,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w"
     },
     {
       "album": {

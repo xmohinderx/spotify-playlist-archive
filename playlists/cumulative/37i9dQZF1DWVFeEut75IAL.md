@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-77 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
+78 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Symphony No\. 1, "Afro\-American": II\. Sorrow \(Adagio\)](https://open.spotify.com/track/12KMREUbKErP77HI7Av6Gq) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Fort Smith Symphony](https://open.spotify.com/artist/2RF1pwxVSPHMVoOpSiscAE), [John Jeter](https://open.spotify.com/artist/3R8JNp3hUoSjDI0OMGt6VN) | [Still: Afro\-American Symphony](https://open.spotify.com/album/6WeAFg5AUjMi1NkuvCi0Ey) | 5:14 | 2021-11-15 | 2022-03-18 |
 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 | 2021-11-15 |  |
 | [The Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:54 | 2021-11-15 |  |
+| [The Lily \- Piano Version](https://open.spotify.com/track/2ZGFYsDWwjU0BBvVAw6js9) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [The Lily](https://open.spotify.com/album/7MB4jFZ02hbMpYaBdLOpGq) | 1:56 | 2022-05-20 |  |
 | [Violin Concerto No\. 10 in G Major: Largo](https://open.spotify.com/track/3Rw0Rg4LjlYnuxIyioW3vg) | [Joseph Boulogne Chevalier de Saint\-Georges](https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU), [Zhou Qian](https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n), [Toronto Chamber Orchestra](https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC), [Kevin Mallon](https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s) | [Saint\-Georges: Violin Concertos No\. 1, Op\. 3 and Nos\. 2 and 10](https://open.spotify.com/album/2xPu5U9CZiHN87Gyh9YA5Z) | 6:37 | 2021-11-15 | 2022-03-18 |
 | [Walk With Us \- For Black Lives Matter](https://open.spotify.com/track/6XmozAAnvBf2VtLL53AkX0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Walk With Us \(For Black Lives Matter\)](https://open.spotify.com/album/4SjtGpWBAs4PysnpKEg4xu) | 2:00 | 2021-11-15 |  |
 | [Wasserklavier](https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY) | [David Arden](https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc) | [Luciano Berio \- The Complete Works For Solo Piano](https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb) | 2:02 | 2022-01-19 |  |

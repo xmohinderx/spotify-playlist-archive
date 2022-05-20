@@ -1686,6 +1686,24 @@
     },
     {
       "album": {
+        "name": "The Lily",
+        "url": "https://open.spotify.com/album/7MB4jFZ02hbMpYaBdLOpGq"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116960,
+      "name": "The Lily - Piano Version",
+      "url": "https://open.spotify.com/track/2ZGFYsDWwjU0BBvVAw6js9"
+    },
+    {
+      "album": {
         "name": "Saint-Georges: Violin Concertos No. 1, Op. 3 and Nos. 2 and 10",
         "url": "https://open.spotify.com/album/2xPu5U9CZiHN87Gyh9YA5Z"
       },

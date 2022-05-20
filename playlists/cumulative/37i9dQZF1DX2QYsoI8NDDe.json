@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Celebrando a los mujerones con sangre mexicana! Cover: Carolina Ross",
+  "description": "\u00a1Celebrando a los mujerones con sangre mexicana! Cover: Katia Morales",
   "name": "Mujerones",
   "published_playlist_ids": [
     "7jJsKj2LL4QpeGJ8HwvgK2"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157760,
+      "name": "Abeja Reina",
+      "url": "https://open.spotify.com/track/4tiEfGlJaonFDtSTCvesoj"
+    },
     {
       "album": {
         "name": "Amante de Lo Ajeno",
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 244642,
       "name": "Ahi\u0301 Donde Me Ven",
       "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 244642,
       "name": "Ah\u00ed Donde Me Ven",
       "url": "https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg"
@@ -207,7 +225,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 185480,
       "name": "Aqu\u00ed Te La Regreso",
       "url": "https://open.spotify.com/track/6B0mfRXoTzuCIiZzZToAmH"
@@ -247,10 +265,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 243173,
       "name": "Basta Ya - Banda",
       "url": "https://open.spotify.com/track/3ic1CdU3u3vCLm2BlklevZ"
+    },
+    {
+      "album": {
+        "name": "Cada Vez Que Me Ves",
+        "url": "https://open.spotify.com/album/54JqSGLEAPCYbiQ709CpbF"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168165,
+      "name": "Cada Vez Que Me Ves",
+      "url": "https://open.spotify.com/track/5PZYcnr9OsJpqKBsTaNblt"
     },
     {
       "album": {
@@ -337,7 +373,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 258730,
       "name": "Con Todo y Mi Tristeza - Live",
       "url": "https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb"
@@ -427,7 +463,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 192913,
       "name": "Cuando Me Importabas",
       "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
@@ -568,6 +604,24 @@
     },
     {
       "album": {
+        "name": "El Corrido de Milo Vela",
+        "url": "https://open.spotify.com/album/4wSDu2770UGHS1FH3yjF43"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210014,
+      "name": "El Corrido de Milo Vela",
+      "url": "https://open.spotify.com/track/1FvNYJei932TIqXsyHkAhG"
+    },
+    {
+      "album": {
         "name": "El Honor",
         "url": "https://open.spotify.com/album/1oXdwFUoYH9IyTpPzTf268"
       },
@@ -579,7 +633,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 164226,
       "name": "El Honor",
       "url": "https://open.spotify.com/track/06ertwHm6GfQSd7h5j9gTw"
@@ -709,7 +763,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 244440,
       "name": "Equivocada - Live Version",
       "url": "https://open.spotify.com/track/7yc7bnIJpmecG0Jp1rhDyJ"
@@ -727,7 +781,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 251226,
       "name": "Es Demasiado Tarde - Remasterizado",
       "url": "https://open.spotify.com/track/6huvrtMdGxlvA28RUWK4Cc"
@@ -763,10 +817,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 310960,
       "name": "Ese Hombre",
       "url": "https://open.spotify.com/track/35kdPvpOeQXH3AD7Yo6vy1"
+    },
+    {
+      "album": {
+        "name": "Esta Cabron",
+        "url": "https://open.spotify.com/album/6gxyS2tFE77uqPfPKf1Foy"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Esta Cabron",
+      "url": "https://open.spotify.com/track/2UdfkFk03KFleLXg7N4YgJ"
     },
     {
       "album": {
@@ -785,7 +857,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 203500,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/74ULNvFq763TqXiy4crtCh"
@@ -850,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Principios Vol. 1",
+        "url": "https://open.spotify.com/album/05KzRftEfw53JFMEzSZ5sY"
+      },
+      "artists": [
+        {
+          "name": "Dueto Dos Rosas",
+          "url": "https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Gaviota Traidora",
+      "url": "https://open.spotify.com/track/5qSvi8PGmczWG2sxWwNI2I"
+    },
+    {
+      "album": {
         "name": "Enamorada Con Banda",
         "url": "https://open.spotify.com/album/01nLa6wvsYX6LDiQz58bE3"
       },
@@ -861,7 +951,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 185426,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/5vxjnZFvJYgZz8RVR4za51"
@@ -879,7 +969,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 218918,
       "name": "Hay Que Brindar (En Vivo)",
       "url": "https://open.spotify.com/track/1taKZ8KtQxp55AJWR6ziBP"
@@ -897,7 +987,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 144869,
       "name": "Hazme Tuya",
       "url": "https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5"
@@ -915,7 +1005,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 160800,
       "name": "Hermoso Cari\u00f1o",
       "url": "https://open.spotify.com/track/6dtG5oLthDJ37iUGr28hKI"
@@ -1063,7 +1153,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 206510,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/1LsnmssHeyjWIVEplI4S5s"
@@ -1081,7 +1171,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 137257,
       "name": "La Tequilera",
       "url": "https://open.spotify.com/track/56SI5fgdbkPLXualiABtsa"
@@ -1099,7 +1189,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 192400,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/6fBGOJc74unqV0UgAQHGPz"
@@ -1177,6 +1267,24 @@
       "duration_ms": 191000,
       "name": "Las Mexicanas",
       "url": "https://open.spotify.com/track/6bNHCe28nsHobXYTIM1vHd"
+    },
+    {
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7tw3cUyAi4VH9lg7Zl3Cru"
+      },
+      "artists": [
+        {
+          "name": "Katia Morales",
+          "url": "https://open.spotify.com/artist/5vvGAPzhwxeJzYaNwARBXg"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8"
     },
     {
       "album": {
@@ -1314,6 +1422,24 @@
     },
     {
       "album": {
+        "name": "Me Mordiste el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6a9Q1jZ9vebKNuZ7EiSQ52"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Me Mordiste el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0qV22JDTay1HZpfhekYCsJ"
+    },
+    {
+      "album": {
         "name": "Me Siento Libre",
         "url": "https://open.spotify.com/album/0FhCXa7BsBO0118NhJkzoU"
       },
@@ -1325,7 +1451,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 187297,
       "name": "Me Siento Libre",
       "url": "https://open.spotify.com/track/2h4WJjaELqLKd87MMjuvCD"
@@ -1401,6 +1527,24 @@
       "duration_ms": 236040,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/0SeEBAaBmDPJmGmhub9SX7"
+    },
+    {
+      "album": {
+        "name": "Merec\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4x4GrgG8ikogFhMWmW5aMa"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181970,
+      "name": "Merec\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/2bFh7FBsBMT0aFlSvvDPNi"
     },
     {
       "album": {
@@ -1603,7 +1747,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 183500,
       "name": "Nadie Me Vera Llorar - (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL"
@@ -1675,7 +1819,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 192946,
       "name": "No Llega El Olvido",
       "url": "https://open.spotify.com/track/6GKGBJYBmRGJ6QarBjhmVM"
@@ -1927,7 +2071,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 226986,
       "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
       "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
@@ -1945,7 +2089,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 255759,
       "name": "Pero Me Acuerdo de Ti",
       "url": "https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD"
@@ -2191,7 +2335,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 247053,
       "name": "Quiero Amanecer Con Alguien",
       "url": "https://open.spotify.com/track/2ryQUYtQkg8oHvkEyPxPz5"
@@ -2288,6 +2432,24 @@
     },
     {
       "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213428,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
+    },
+    {
+      "album": {
         "name": "Se Me Va A Quemar El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya"
       },
@@ -2357,7 +2519,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 206960,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/1WwFVGis90deTHP0Vk5gSt"
@@ -2393,7 +2555,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 198373,
       "name": "Sobrevivir\u00e9",
       "url": "https://open.spotify.com/track/1pgkB4dQ7ii5aWZt72FYid"
@@ -2491,6 +2653,24 @@
       "duration_ms": 228311,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/2VV3sbyQ7k0f8txzat3GgZ"
+    },
+    {
+      "album": {
+        "name": "Te Pasaste De La Raya",
+        "url": "https://open.spotify.com/album/5x7HS9zdRzQ8fwl7V0Ev3p"
+      },
+      "artists": [
+        {
+          "name": "Natalia Corona",
+          "url": "https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194584,
+      "name": "Te Pasaste De La Raya",
+      "url": "https://open.spotify.com/track/4Cy6GbncTTHRhRfVzsiZry"
     },
     {
       "album": {
@@ -2687,7 +2867,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 244933,
       "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
@@ -2792,6 +2972,24 @@
     },
     {
       "album": {
+        "name": "Una Tarde De Abril",
+        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173148,
+      "name": "Una Tarde De Abril",
+      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
+    },
+    {
+      "album": {
         "name": "Una Vida",
         "url": "https://open.spotify.com/album/4yIE4FFAh7Agudj7nC5EX2"
       },
@@ -2821,7 +3019,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 196893,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/2mkUBcaUq55xuCjDerewlC"
@@ -2879,6 +3077,24 @@
       "duration_ms": 245000,
       "name": "Y Qu\u00e9 Tal Si Te Vas",
       "url": "https://open.spotify.com/track/0eqEjWFMFMooZTyU0BdE1T"
+    },
+    {
+      "album": {
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
     },
     {
       "album": {
@@ -3019,7 +3235,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 180720,
       "name": "Ya Tengo Tu Amor",
       "url": "https://open.spotify.com/track/2cZCfkzBnncmHsHrpsroZS"
@@ -3091,7 +3307,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 207626,
       "name": "\u00bfQuieres Ser Mi Amante?",
       "url": "https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U"

@@ -1,13 +1,33 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 7081,
+  "num_followers": 7087,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjM4NjgwMCwwMDAwMDA1ODAwMDAwMTgwYjllZGExZjkwMDAwMDE4MDk0N2I5MTMx",
+  "snapshot_id": "MTY1Mjk5Mzk0MCwwMDAwMDA1OTAwMDAwMTgwZGUxZGRjN2QwMDAwMDE4MDk0N2I5MTMx",
   "tracks": [
+    {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Passenger 555",
+        "url": "https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 195596,
+      "name": "Passenger 555",
+      "url": "https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ"
+    },
     {
       "added_at": "2022-01-27 20:59:00",
       "album": {
@@ -23,26 +43,6 @@
       "duration_ms": 158000,
       "name": "Camille",
       "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
-    },
-    {
-      "added_at": "2022-05-05 20:59:00",
-      "album": {
-        "name": "Fluid",
-        "url": "https://open.spotify.com/album/2Gl9K6erA2hugDhU1qqbUC"
-      },
-      "artists": [
-        {
-          "name": "Jinku",
-          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
-        },
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        }
-      ],
-      "duration_ms": 199331,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa"
     },
     {
       "added_at": "2022-02-11 09:38:38",
@@ -97,6 +97,62 @@
       "url": "https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E"
     },
     {
+      "added_at": "2021-12-09 20:59:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq"
+      },
+      "artists": [
+        {
+          "name": "Lisa Oduor-Noah",
+          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
+    },
+    {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Omu",
+        "url": "https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "duration_ms": 174705,
+      "name": "Omu",
+      "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
+    },
+    {
+      "added_at": "2022-03-17 20:59:00",
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
+    },
+    {
       "added_at": "2022-04-25 05:46:14",
       "album": {
         "name": "FUNK TO BLACK",
@@ -113,20 +169,24 @@
       "url": "https://open.spotify.com/track/1vbXnEiGmrEVeC86HnUul3"
     },
     {
-      "added_at": "2021-12-09 20:59:00",
+      "added_at": "2022-03-10 20:59:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO"
       },
       "artists": [
         {
-          "name": "Lisa Oduor-Noah",
-          "url": "https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa"
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
+      "duration_ms": 133324,
+      "name": "100 Times",
+      "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
     },
     {
       "added_at": "2022-03-25 05:44:05",
@@ -151,58 +211,6 @@
       "duration_ms": 186875,
       "name": "All My Fault",
       "url": "https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3"
-    },
-    {
-      "added_at": "2022-03-17 20:59:00",
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
-    },
-    {
-      "added_at": "2022-03-03 20:59:00",
-      "album": {
-        "name": "Love Letters II",
-        "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
-      },
-      "artists": [
-        {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
-        }
-      ],
-      "duration_ms": 199008,
-      "name": "Let's Be Dead Together",
-      "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
-    },
-    {
-      "added_at": "2022-03-10 20:59:00",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Elani Boshoff",
-          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
-        }
-      ],
-      "duration_ms": 133324,
-      "name": "100 Times",
-      "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
     },
     {
       "added_at": "2022-03-17 20:59:00",
@@ -235,6 +243,42 @@
       "duration_ms": 206769,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h"
+    },
+    {
+      "added_at": "2022-03-03 20:59:00",
+      "album": {
+        "name": "Love Letters II",
+        "url": "https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 199008,
+      "name": "Let's Be Dead Together",
+      "url": "https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV"
+    },
+    {
+      "added_at": "2022-05-05 20:59:00",
+      "album": {
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/2Gl9K6erA2hugDhU1qqbUC"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 199331,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa"
     },
     {
       "added_at": "2022-04-28 20:59:00",
@@ -305,22 +349,6 @@
       "url": "https://open.spotify.com/track/4syW5B9Y9cLyKIBrBxWZrb"
     },
     {
-      "added_at": "2022-03-10 20:59:00",
-      "album": {
-        "name": "Ex Wako Hawezi",
-        "url": "https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Ex Wako Hawezi",
-      "url": "https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s"
-    },
-    {
       "added_at": "2022-03-17 20:59:00",
       "album": {
         "name": "This Depression Thing",
@@ -385,22 +413,6 @@
       "url": "https://open.spotify.com/track/4minQAokut1H7SBwPZKwtg"
     },
     {
-      "added_at": "2022-04-28 20:59:00",
-      "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/1Ity1cTX8gNylmJi5CNtcf"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 74437,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW"
-    },
-    {
       "added_at": "2021-12-09 20:59:00",
       "album": {
         "name": "Lonely In Nairobi",
@@ -415,6 +427,22 @@
       "duration_ms": 189173,
       "name": "Lonely In Nairobi",
       "url": "https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N"
+    },
+    {
+      "added_at": "2021-12-09 20:59:00",
+      "album": {
+        "name": "Feel A Vibe",
+        "url": "https://open.spotify.com/album/4EjSGOjlSpwN4Kdv3gvALp"
+      },
+      "artists": [
+        {
+          "name": "Iminza",
+          "url": "https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Feel A Vibe",
+      "url": "https://open.spotify.com/track/3sDAbZpJWBxgxry5ATbW9g"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -507,6 +535,38 @@
       "duration_ms": 308934,
       "name": "Kilimanjaro",
       "url": "https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH"
+    },
+    {
+      "added_at": "2022-03-10 20:59:00",
+      "album": {
+        "name": "Ex Wako Hawezi",
+        "url": "https://open.spotify.com/album/1Dc1YLXcQXRuNn55VaWxGc"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Ex Wako Hawezi",
+      "url": "https://open.spotify.com/track/3lHMAXPEoikE95Diavz31s"
+    },
+    {
+      "added_at": "2022-04-28 20:59:00",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/1Ity1cTX8gNylmJi5CNtcf"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 74437,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW"
     },
     {
       "added_at": "2022-02-24 20:59:00",
@@ -635,22 +695,6 @@
       "duration_ms": 133833,
       "name": "I Love the Way You",
       "url": "https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3"
-    },
-    {
-      "added_at": "2021-12-09 20:59:00",
-      "album": {
-        "name": "Feel A Vibe",
-        "url": "https://open.spotify.com/album/4EjSGOjlSpwN4Kdv3gvALp"
-      },
-      "artists": [
-        {
-          "name": "Iminza",
-          "url": "https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Feel A Vibe",
-      "url": "https://open.spotify.com/track/3sDAbZpJWBxgxry5ATbW9g"
     },
     {
       "added_at": "2021-10-15 19:38:29",
@@ -865,6 +909,22 @@
       "url": "https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c"
     },
     {
+      "added_at": "2021-10-15 19:38:29",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd"
+      },
+      "artists": [
+        {
+          "name": "Turunesh",
+          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
+        }
+      ],
+      "duration_ms": 253150,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ"
+    },
+    {
       "added_at": "2021-12-16 20:59:00",
       "album": {
         "name": "Oh! My Dear...",
@@ -1041,22 +1101,6 @@
       "url": "https://open.spotify.com/track/7AWNG9r1Rlv8YdLUd09AKi"
     },
     {
-      "added_at": "2021-12-16 20:59:00",
-      "album": {
-        "name": "Restart",
-        "url": "https://open.spotify.com/album/0Gtt1qKIGPdmiK1pI1OMtz"
-      },
-      "artists": [
-        {
-          "name": "Tofa Jaxx",
-          "url": "https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "Restart",
-      "url": "https://open.spotify.com/track/6eZ4hwftRrwmEHlWIoiUD8"
-    },
-    {
       "added_at": "2021-10-15 19:38:29",
       "album": {
         "name": "Umenikaa",
@@ -1087,26 +1131,6 @@
       "duration_ms": 216011,
       "name": "Dogtail",
       "url": "https://open.spotify.com/track/1ziLbRPnlPKu9QeUyl36fx"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Only Human",
-        "url": "https://open.spotify.com/album/5ILxoO9aB3fRcWPr2IpUIS"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "IkeN",
-          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
-        }
-      ],
-      "duration_ms": 289010,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/42H2uitTxFmfaKvbNYDI9t"
     },
     {
       "added_at": "2021-11-11 20:59:00",
@@ -1191,22 +1215,6 @@
       "duration_ms": 170458,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Cigarette",
-        "url": "https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd"
-      },
-      "artists": [
-        {
-          "name": "Turunesh",
-          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
-        }
-      ],
-      "duration_ms": 253150,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ"
     },
     {
       "added_at": "2021-10-15 19:38:29",

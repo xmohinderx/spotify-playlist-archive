@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-144 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+145 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Miracle](https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Miracle](https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH) | 4:56 | 2022-04-05 |  |
 | [Miracle In The Works](https://open.spotify.com/track/6zE34AOSW5hi3x17joOECg) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Miracle In The Works](https://open.spotify.com/album/7uDXTxPOdwGX9d1Sz6jiy9) | 5:07 | 2022-02-17 | 2022-04-05 |
 | [Morning By Morning \(I Will Trust\)](https://open.spotify.com/track/4d760wsASN9obHKbcm21g4) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Act Justly, Love Mercy, Walk Humbly](https://open.spotify.com/album/66DpqECMsxiqR5YxNKEVxu) | 4:20 | 2022-02-17 | 2022-04-05 |
+| [Morning By Morning \(I Will Trust\) \- Radio Version](https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Morning By Morning \(I Will Trust\)](https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv) | 3:41 | 2022-05-19 |  |
 | [Never Walk Alone \- Live](https://open.spotify.com/track/6nnVErd0ufKmBDdZBAcEV7) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Mi\-kaisha Rose](https://open.spotify.com/artist/2U2ol5NQFCm5zI9NefWhCK) | [Never Walk Alone \(Live\)](https://open.spotify.com/album/0p0ZqL10vihrkDNfUfgAb0) | 5:48 | 2022-02-17 | 2022-04-02 |
 | [Nineveh \- Live](https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Nineveh \(Live\)](https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a) | 4:28 | 2022-02-17 | 2022-04-05 |
 | [Nothing / Something \- Live](https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nothing/Something \(Live\)](https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl) | 5:21 | 2022-02-17 | 2022-04-05 |

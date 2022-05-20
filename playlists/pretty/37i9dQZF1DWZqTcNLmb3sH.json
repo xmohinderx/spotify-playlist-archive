@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 28818,
+  "num_followers": 28902,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjg3NTcxNywwMDAwMDE3ZDAwMDAwMTgwZDcxMWVhYzMwMDAwMDE3ZmFkNDkzNmEz",
+  "snapshot_id": "MTY1Mjk2NTk1NCwwMDAwMDE4MDAwMDAwMTgwZGM3MmQ1YjQwMDAwMDE3ZmFkNDkzNmEz",
   "tracks": [
     {
       "added_at": "2022-04-25 12:03:19",
@@ -85,6 +85,46 @@
       "url": "https://open.spotify.com/track/0ndEbPye7EwIx2puaz3IR1"
     },
     {
+      "added_at": "2022-05-19 13:00:10",
+      "album": {
+        "name": "Vasudhaiva Kutumbakam (From \"Avatara Purusha\")",
+        "url": "https://open.spotify.com/album/5uqclAytF94p6beqdKHLs6"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        }
+      ],
+      "duration_ms": 306857,
+      "name": "Vasudhaiva Kutumbakam",
+      "url": "https://open.spotify.com/track/3H7X1sQxtdQBJ6P8bX7Z7r"
+    },
+    {
+      "added_at": "2022-05-19 13:07:19",
+      "album": {
+        "name": "Avatara Purusha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6DxronrVkYLqb6A7zw3x06"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Vyasa Raj",
+          "url": "https://open.spotify.com/artist/0NPveDsIoLUDgeHYQGa9or"
+        }
+      ],
+      "duration_ms": 228436,
+      "name": "Avatara Purusha - Title Track",
+      "url": "https://open.spotify.com/track/0JUY3olyWgdQX7qE9oe6cp"
+    },
+    {
       "added_at": "2022-05-17 11:56:12",
       "album": {
         "name": "Ivane Master [Title Track] (From \"Shokiwala - Kannada\")",
@@ -103,6 +143,30 @@
       "duration_ms": 242711,
       "name": "Ivane Master [Title Track] (From \"Shokiwala - Kannada\")",
       "url": "https://open.spotify.com/track/4UN7341XooguUGOKUwmxgu"
+    },
+    {
+      "added_at": "2022-04-27 11:58:15",
+      "album": {
+        "name": "Okay Naa (From \"Benki\")",
+        "url": "https://open.spotify.com/album/5ctfWv8xOXQNqfoWCdmpGJ"
+      },
+      "artists": [
+        {
+          "name": "Anand Raja Vikram",
+          "url": "https://open.spotify.com/artist/1GVlUKQ967ynDhOPXQ6k5q"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Okay Naa (From \"Benki\")",
+      "url": "https://open.spotify.com/track/2HWApK9qqEbFvVMdnXdLii"
     },
     {
       "added_at": "2022-05-07 15:22:31",
@@ -531,30 +595,6 @@
       "duration_ms": 212626,
       "name": "Dhikkara Ninage Devare (From \"James - Kannada\")",
       "url": "https://open.spotify.com/track/0G7zNElFN13iZsbGgq6Z37"
-    },
-    {
-      "added_at": "2022-04-27 11:58:15",
-      "album": {
-        "name": "Okay Naa (From \"Benki\")",
-        "url": "https://open.spotify.com/album/5ctfWv8xOXQNqfoWCdmpGJ"
-      },
-      "artists": [
-        {
-          "name": "Anand Raja Vikram",
-          "url": "https://open.spotify.com/artist/1GVlUKQ967ynDhOPXQ6k5q"
-        },
-        {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
-        },
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Okay Naa (From \"Benki\")",
-      "url": "https://open.spotify.com/track/2HWApK9qqEbFvVMdnXdLii"
     },
     {
       "added_at": "2022-04-29 09:25:08",

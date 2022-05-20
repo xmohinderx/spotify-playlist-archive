@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 217278,
       "name": "Bad Chick",
       "url": "https://open.spotify.com/track/5UFbfXuj4TjirzmcvTFBBy"
@@ -3451,7 +3451,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
@@ -4411,7 +4411,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 142462,
       "name": "Einmal um die Welt",
       "url": "https://open.spotify.com/track/2L6hCTpUlR2p7Su3hiSB0s"
@@ -8055,7 +8055,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 198581,
       "name": "Konum Gizli (feat. Murda)",
       "url": "https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w"
@@ -8393,6 +8393,24 @@
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
+    },
+    {
+      "album": {
+        "name": "trip",
+        "url": "https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182471,
+      "name": "letzter song",
+      "url": "https://open.spotify.com/track/7EHEVPIFS6mOq4BOhlVL3i"
     },
     {
       "album": {
@@ -12553,7 +12571,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 179706,
       "name": "Rockstars",
       "url": "https://open.spotify.com/track/0LTn3UoaJkL42ltlGwWMxC"

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Chinmayi Tripathi, Artwork: Isu Kim
 
-395 songs - 23 hr 53 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
+396 songs - 23 hr 56 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Tumhari](https://open.spotify.com/track/0RSTkts3GU4t25TL9dd81D) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Tumhari](https://open.spotify.com/album/0dnrBLAYnrL7WVSOhVcYlq) | 2:37 | 2022-01-19 | 2022-03-10 |
 | [Tumne Nahi Jana \- Reprise](https://open.spotify.com/track/0IQVME67rkvVsblzkCFFxr) | [Shravan Mantri](https://open.spotify.com/artist/5KI5Muz5nOdv5V3DlkBonu) | [Tumne Nahi Jana \(Reprise\)](https://open.spotify.com/album/6zAVOO0BdN3omdd7enDAv0) | 2:41 | 2022-05-11 |  |
 | [Ud Chalo](https://open.spotify.com/track/7kOWOA4hDByWd1Ig4vwVJt) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Ud Chalo](https://open.spotify.com/album/4poQzoEjLTQlwfdw7FSy4R) | 3:21 | 2022-02-03 | 2022-02-09 |
+| [UDDCHALEIN](https://open.spotify.com/track/6xj3X9B4S7s0d6wjWyDT9i) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [Full Power](https://open.spotify.com/artist/0WM7rHRZePUmtvnz475kWg) | [UDDCHALEIN](https://open.spotify.com/album/1UCRVb7ArIEybHpc7wz7N5) | 3:27 | 2022-05-18 |  |
 | [Ude](https://open.spotify.com/track/2OKsROZXF2C5FIBSMTlp7M) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8), [Anouck Hilbey](https://open.spotify.com/artist/3m6cDxMySnaMJfj5fsCLi2), [Siddh](https://open.spotify.com/artist/7ss5OLIb1TUdbXAa4HDwqA) | [Ude](https://open.spotify.com/album/36CjBcSzIgFv1OM6WITlNu) | 5:49 | 2022-03-23 | 2022-04-14 |
 | [Unhinged](https://open.spotify.com/track/6lIwKagE42bWpv1NYvNJgo) | [Peach Envy](https://open.spotify.com/artist/2f4yfI8MxxMuvc4qoBNxvP) | [Unhinged](https://open.spotify.com/album/3saMprSxG7E4bV4H5Sc2kY) | 4:19 | 2022-01-12 | 2022-01-14 |
 | [Validation](https://open.spotify.com/track/4Geol9pXgkbXpBcHFddDtq) | [Prithvi Prajosh](https://open.spotify.com/artist/2yUsvzjSZohLO6cw1sR6RW) | [Validation](https://open.spotify.com/album/4tTBhnb4FjCpLt2mIgA6RI) | 2:49 | 2021-12-01 | 2022-01-13 |

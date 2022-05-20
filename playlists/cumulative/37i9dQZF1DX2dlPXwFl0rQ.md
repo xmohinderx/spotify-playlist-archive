@@ -4,7 +4,7 @@
 
 > Estas son las indomables del Regional Mexicano\. Yuridia en portada.
 
-188 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/0i8T7w20lOXAWefxMbsjZ0)
+189 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/0i8T7w20lOXAWefxMbsjZ0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Culpable o Inocente](https://open.spotify.com/track/59AAuV11OFaL8VX98tLxYx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:32 | 2021-12-17 |  |
 | [De Mí Enamórate](https://open.spotify.com/track/1tUTHWfPkAVCutSC4wj1Q4) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [De Mí Enamórate](https://open.spotify.com/album/0JbMzMkypKDPI2Bz8AUehH) | 3:35 | 2021-12-17 | 2022-01-28 |
 | [De Ti No Lo Esperaba](https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [De Ti No Lo Esperaba](https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0) | 3:13 | 2022-03-18 |  |
+| [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 | 2022-05-20 |  |
 | [Dejalo Ir](https://open.spotify.com/track/2f1u0yTIYN95nmScvQmZiQ) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed](https://open.spotify.com/album/1r0GC7OLM12sPncbIMWiUC) | 2:57 | 2022-04-29 |  |
 | [Desaparecer](https://open.spotify.com/track/2nhIWTReHbwWJQaB0AJ5lh) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Desaparecer](https://open.spotify.com/album/6uf6xnnBVS6MDayHKeYx0E) | 2:46 | 2021-12-17 |  |
 | [Desierto](https://open.spotify.com/track/6NbmwBCJd1K9GBu4kE0sOy) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH), [Eduardo Perez](https://open.spotify.com/artist/2VJLOaGQ35FZnSBWs5sWlr) | [Desierto](https://open.spotify.com/album/0ThunE3MLebOEpHB76UtP3) | 3:34 | 2022-02-25 | 2022-03-02 |
@@ -138,7 +139,7 @@
 | [Ponte Las Pilas](https://open.spotify.com/track/6iZ1Fd3YjhDek7nWZub395) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Ponte Las Pilas](https://open.spotify.com/album/223lyPMI0rFgcCYS201YLp) | 3:00 | 2022-01-28 | 2022-03-22 |
 | [Por Confiar En Ti](https://open.spotify.com/track/2MfJSHRdG2hZWX6YEL0Kjv) | [Rocio Reyna](https://open.spotify.com/artist/35IdmDZL2acYsC86sLEUbK) | [Por Confiar En Ti](https://open.spotify.com/album/5A931C8ImEjy9HPMCyxJhl) | 3:40 | 2021-12-17 | 2022-03-18 |
 | [Por Ti Me Abrazaré](https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Por Ti Me Abrazaré](https://open.spotify.com/album/5qndP6JceszrhYHRcXwVBp) | 3:14 | 2021-12-17 | 2022-04-29 |
-| [Por un Malandro](https://open.spotify.com/track/2MQPxzwvpgcJ4kBNBB0UjK) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por un Malandro](https://open.spotify.com/album/60a681bIqPM7sKHJsThh4T) | 2:58 | 2022-04-29 |  |
+| [Por un Malandro](https://open.spotify.com/track/2MQPxzwvpgcJ4kBNBB0UjK) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Por un Malandro](https://open.spotify.com/album/60a681bIqPM7sKHJsThh4T) | 2:58 | 2022-04-29 | 2022-05-20 |
 | [Porque Me Extrañas](https://open.spotify.com/track/4xMfXBXs3bpacJNWrGaA9R) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Porque Me Extrañas](https://open.spotify.com/album/4QACN6feUpJlOoaubdVfV7) | 2:37 | 2021-12-17 | 2022-02-10 |
 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 | 2021-12-17 | 2022-05-07 |
 | [Que Poca](https://open.spotify.com/track/0JQO9eCZDOTcUkXz7FfRQO) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Que Poca](https://open.spotify.com/album/0XQF6UKQVn168OYRJfNoL5) | 3:08 | 2021-12-17 |  |

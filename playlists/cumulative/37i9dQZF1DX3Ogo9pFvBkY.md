@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-647 songs - 1 day 10 hr 24 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+648 songs - 1 day 10 hr 27 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Cuori Fragili](https://open.spotify.com/track/1vDaVBhKUdQoif8v00iVgQ) | [Victor Mancuso](https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB) | [Cuori Fragili](https://open.spotify.com/album/0WoJFcYHDE2TQQakfJw4Vu) | 4:04 | 2022-01-28 |  |
 | [Curiosity](https://open.spotify.com/track/3WEdWvAScE1EcBfErseQnC) | [Beau Projet](https://open.spotify.com/artist/5bLGj9jAzmBqGwjB2UbjOC) | [Curiosity](https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k) | 2:35 | 2019-05-26\* | 2020-05-18 |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2019-05-26\* | 2020-01-09 |
-| [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2020-08-08 |  |
+| [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2020-08-08 | 2022-05-20 |
 | [Dark Waters](https://open.spotify.com/track/4hQcEuImsSUwXPCUvckx0n) | [Nikola Sati](https://open.spotify.com/artist/7JMxDlvcKZe5sGE5OGO5cq) | [Dark Waters](https://open.spotify.com/album/2rINKL70Kcm1Q0ud9rSfmF) | 2:32 | 2019-06-29 | 2021-04-28 |
 | [Dawning](https://open.spotify.com/track/2he1OylKI9ooYHDxL0nV37) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:19 | 2019-05-26\* | 2019-06-29 |
 | [Dawning](https://open.spotify.com/track/57u6QzHGiQ3StJd6jvdrBF) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dawning](https://open.spotify.com/album/763ZNUvb9O0SpjjcpakkvV) | 2:24 | 2019-05-26\* | 2020-01-09 |
@@ -215,6 +215,7 @@
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2019-05-26\* |  |
 | [Eunoia](https://open.spotify.com/track/7qpWLNqJUYQpoNtoZcTDaU) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Eunoia](https://open.spotify.com/album/3z0WSTyGVc6dBnnicvGOPI) | 4:33 | 2019-07-27 | 2021-07-23 |
 | [Euphrosyne](https://open.spotify.com/track/7arWoSrPeW1uiCGbCu0Igm) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Euphrosyne](https://open.spotify.com/album/7BlXg4aB6bpzIsYP5wqrVT) | 2:39 | 2019-12-07 |  |
+| [Evening Unbroken](https://open.spotify.com/track/7qZpqqLkUxYFimW4zb1sYM) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Evening Unbroken](https://open.spotify.com/album/1wuOepJj2f5iT4rxuGJY8J) | 3:08 | 2022-05-19 |  |
 | [Ever Connecting Thoughts](https://open.spotify.com/track/6JsGwsk7OGOrzUJ3lueufO) | [Tim Gourolis](https://open.spotify.com/artist/5q8Q9Fa2WPZVwj5VR6XYgp) | [Ever Connecting Thoughts](https://open.spotify.com/album/6JnhFLK8LVjZAHUmRe3Wx3) | 3:18 | 2020-08-08 | 2021-09-14 |
 | [Evolving Dreams](https://open.spotify.com/track/6uFpwigsKJ1gDTaDjeabIN) | [Ty Davies](https://open.spotify.com/artist/49dSIJwjDHzmOfx4io0R49) | [Evolving Dreams](https://open.spotify.com/album/0LaiKUH0fPko6Rg84ZMAbt) | 3:07 | 2022-02-15 |  |
 | [Exodus Pt\. 1](https://open.spotify.com/track/5lYclvR4p6cEl3r3V0gG5M) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Exodus](https://open.spotify.com/album/5VbZWqqOT2LGyiMLA6BQbT) | 3:07 | 2019-05-26\* |  |

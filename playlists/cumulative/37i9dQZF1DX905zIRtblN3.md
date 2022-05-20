@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Marca MP & Becky G, al millón con La Reina.
+> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Lenin Ramírez & Fuerza Regida, al millón con La Reina.
 
 124 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 

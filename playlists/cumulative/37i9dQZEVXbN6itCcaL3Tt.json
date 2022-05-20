@@ -1831,7 +1831,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 141972,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5zq97EBupOTN1XOPX5ukRJ"
@@ -2179,7 +2179,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 151874,
       "name": "Brudasy With Attitude (feat. Farid Bang)",
       "url": "https://open.spotify.com/track/6q5Bx8Jm9yZC7tmI3leDOi"
@@ -2981,7 +2981,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 201007,
       "name": "Cze\u015b\u0107, jak si\u0119 masz?",
       "url": "https://open.spotify.com/track/6sKg6jzvmiNAVsJRl8MaDE"
@@ -4407,7 +4407,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 169031,
       "name": "FURIA47",
       "url": "https://open.spotify.com/track/3K50r0Fu794rBkcKatO88X"
@@ -5357,6 +5357,24 @@
       "duration_ms": 167204,
       "name": "Jakbym Mia\u0142 W R\u0119ku Klamk\u0119",
       "url": "https://open.spotify.com/track/6npsMnV7o71LwWMGsjsOsK"
+    },
+    {
+      "album": {
+        "name": "Jakie To Uczucie?",
+        "url": "https://open.spotify.com/album/0ByKrxjxy75v4TsWyFP4sZ"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162935,
+      "name": "Jakie To Uczucie?",
+      "url": "https://open.spotify.com/track/01ss574aTs8b4E1fL1yDDW"
     },
     {
       "album": {
@@ -13075,7 +13093,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 119109,
       "name": "WCHJ",
       "url": "https://open.spotify.com/track/722oEPrFH6i8MHdWrM9ewF"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring new music by IMANU.",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring new music by Sam Gellaitry.",
   "name": "creamy",
   "published_playlist_ids": [
     "3MCIvOCYNv0w7VlFeU1IOX"
@@ -205,6 +205,24 @@
     {
       "album": {
         "name": "Angel",
+        "url": "https://open.spotify.com/album/3tvSKOoKuCwlSUDuC4sDDd"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123450,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7f5IYglRWpboSl7CIuI2iE"
+    },
+    {
+      "album": {
+        "name": "Angel",
         "url": "https://open.spotify.com/album/0mojBj3o9EM3B13S5AaY52"
       },
       "artists": [
@@ -383,7 +401,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 137704,
       "name": "Black Weirdo",
       "url": "https://open.spotify.com/track/1EYUDPtXSsrXfKPnMjkgHr"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 187294,
       "name": "Dodgeball",
       "url": "https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 143093,
       "name": "Dog Years - weird inside Remix",
       "url": "https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 217904,
       "name": "Dummo Loop",
       "url": "https://open.spotify.com/track/6xpemzIGan5uOg7KGR0wfp"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 243354,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 187506,
       "name": "Frontier",
       "url": "https://open.spotify.com/track/6yLEplXAX0k1mbqVAeNt9Z"
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 195483,
       "name": "game point",
       "url": "https://open.spotify.com/track/2JMCa4YAC2wp0HY0ChY0BQ"
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-09",
+      "date_removed": null,
       "duration_ms": 153502,
       "name": "High Like This (feat. Reo Cragun)",
       "url": "https://open.spotify.com/track/1HF9IpKHAqYgU4Kl1HseaS"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 194546,
       "name": "Home",
       "url": "https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 258299,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/0aKjU3uJlZdSS3XsxT29QI"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 189302,
       "name": "I Can See The Light",
       "url": "https://open.spotify.com/track/6oMGDBpSdF2p0MjtpX7VHN"
@@ -2113,7 +2131,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 160509,
       "name": "I Could Give It Up - Chuck Sutton Remix",
       "url": "https://open.spotify.com/track/5waNzvVH4PvgQlOTaNf5Sw"
@@ -2175,7 +2193,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 246315,
       "name": "I Love You.",
       "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 227076,
       "name": "I LUV U",
       "url": "https://open.spotify.com/track/1al8r3l7iz20WrImQUJKOI"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 139486,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/5dv1Yf3HwWuV6JuLNfOjmj"
@@ -2669,7 +2687,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Lost Someone",
       "url": "https://open.spotify.com/track/1ay9kjKoplo5f0FBCkVkTG"
@@ -2731,7 +2749,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 192000,
       "name": "Make Me A Memory",
       "url": "https://open.spotify.com/track/6rbnauS7WjniN8vbV4tTkQ"
@@ -2771,7 +2789,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 177947,
       "name": "Mind",
       "url": "https://open.spotify.com/track/05eeKZQ6HYn3tL5X7HXj36"
@@ -2789,7 +2807,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 172535,
       "name": "Minute",
       "url": "https://open.spotify.com/track/7oFUalDSW80cvDjsekma4Q"
@@ -2807,7 +2825,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 156553,
       "name": "MOON WALK",
       "url": "https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4"
@@ -2997,7 +3015,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 232156,
       "name": "only way out",
       "url": "https://open.spotify.com/track/1JZK4g9p89N6sACbG6V0a8"
@@ -3345,7 +3363,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 174283,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4"
@@ -3421,7 +3439,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 284000,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/1UwiUU0K41eaLwzO2svcvn"
@@ -3553,7 +3571,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Rolls Royce",
       "url": "https://open.spotify.com/track/7xONxR36tlMANx4jy2Take"
@@ -3637,7 +3655,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 231663,
       "name": "Rushing Back",
       "url": "https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY"
@@ -3761,7 +3779,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
@@ -3831,7 +3849,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 200240,
       "name": "sinking @@!",
       "url": "https://open.spotify.com/track/47vCeLdxTjshWI3emh3ZUb"
@@ -4021,7 +4039,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 251566,
       "name": "Spectacle",
       "url": "https://open.spotify.com/track/5Nx50OXz1e3q7M1jLdnjvH"
@@ -4167,7 +4185,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 161600,
       "name": "Streams",
       "url": "https://open.spotify.com/track/6oJVlyGstF1A14mo5NNCQZ"
@@ -4221,7 +4239,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 230045,
       "name": "Subterfuge",
       "url": "https://open.spotify.com/track/6UTPwvV7k4Lmscca3tJxuE"
@@ -4439,7 +4457,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 214110,
       "name": "Thief",
       "url": "https://open.spotify.com/track/5FjMM1DCJ5q8HOqRlOVId4"
@@ -4487,7 +4505,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 172413,
       "name": "tic tac toe",
       "url": "https://open.spotify.com/track/0ObiilKtl2cNkpiSscSVP6"
@@ -4607,7 +4625,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 232004,
       "name": "Vendetta For Cupid",
       "url": "https://open.spotify.com/track/1ZYw2g4nkNIFsysyEZxLgP"
@@ -4651,7 +4669,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 209299,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"
@@ -4695,7 +4713,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 247000,
       "name": "voices (with Pauline Herr)",
       "url": "https://open.spotify.com/track/34Xq7LTz3zCmsfWaM6oe4S"
@@ -4841,7 +4859,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 162393,
       "name": "Warm Earth, Warm Feet",
       "url": "https://open.spotify.com/track/2ZGhCVgjNB4X9U4YSUS6gi"
@@ -4917,7 +4935,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 241307,
       "name": "What Do You Feel",
       "url": "https://open.spotify.com/track/7wSF7gxepOU1AeY1klcG9a"

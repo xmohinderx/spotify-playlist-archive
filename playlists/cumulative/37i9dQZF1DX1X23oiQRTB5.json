@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Leto au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -103,6 +103,24 @@
       "duration_ms": 230800,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/479TjlDwB0JAyPjZjxFah8"
+    },
+    {
+      "album": {
+        "name": "COCO JOJO",
+        "url": "https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a"
+      },
+      "artists": [
+        {
+          "name": "Guy2bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Beretta",
+      "url": "https://open.spotify.com/track/3K1H0IDdVpvwEbKicv0vfk"
     },
     {
       "album": {
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 227386,
       "name": "Peon (feat. Orelsan)",
       "url": "https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe"
@@ -1140,6 +1158,24 @@
     },
     {
       "album": {
+        "name": "Si j'savais",
+        "url": "https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223480,
+      "name": "Si j'savais",
+      "url": "https://open.spotify.com/track/5b0jPRxr4XEqIwWlkGrVq3"
+    },
+    {
+      "album": {
         "name": "L'\u00c9trange Histoire de Mr.Anderson",
         "url": "https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz"
       },
@@ -1181,7 +1217,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 225413,
       "name": "Tchalla",
       "url": "https://open.spotify.com/track/3cFUv0LpvrvdAMAT2B4zhS"

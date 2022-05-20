@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=kLYGxjE1TfCkb-j_igjP_Q\"> Black Sherif </a> ",
+  "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=C6nQ_9wUR7eMr7OkUxjt-A\"> BURUKLYN BOYZ </a> ",
   "name": "No Wahala",
   "published_playlist_ids": [
     "6lFDRmAzLffN6r39zEBvaL"
@@ -380,6 +380,24 @@
     },
     {
       "album": {
+        "name": "EAST MPAKA LONDON",
+        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164954,
+      "name": "CATALYST",
+      "url": "https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX"
+    },
+    {
+      "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
       },
@@ -669,6 +687,32 @@
       "duration_ms": 234240,
       "name": "Guestlist",
       "url": "https://open.spotify.com/track/46yplRp7xn26QkDe8AdgaB"
+    },
+    {
+      "album": {
+        "name": "Haibo (feat. S1mba & Reason) [Remix]",
+        "url": "https://open.spotify.com/album/6y5QE68qjiuXSQ9d0XYpaJ"
+      },
+      "artists": [
+        {
+          "name": "Kiddo CSA",
+          "url": "https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW"
+        },
+        {
+          "name": "Reason",
+          "url": "https://open.spotify.com/artist/25LmW62LFKrcapOAnJWoNX"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198449,
+      "name": "Haibo (feat. S1mba & Reason) - Remix",
+      "url": "https://open.spotify.com/track/5xO9vhE0odRSahw5oQOHwr"
     },
     {
       "album": {
@@ -2029,7 +2073,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 263040,
       "name": "Xei di Kor",
       "url": "https://open.spotify.com/track/045xGstsKiBT3ozUTAfnzZ"
@@ -2125,7 +2169,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 394380,
       "name": "ZOZA",
       "url": "https://open.spotify.com/track/4zKMMryM7cPyMDvgCPPheB"

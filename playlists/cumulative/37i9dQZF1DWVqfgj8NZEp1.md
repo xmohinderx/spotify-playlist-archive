@@ -4,7 +4,7 @@
 
 > Relax to the sound of jazz.
 
-185 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+187 songs - 17 hr 46 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Moons Ago](https://open.spotify.com/track/7KVEWO1McsqsfoX7rXQdFy) | [Dominik Schürmann trio](https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK), [Max Ionata](https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz) | [Moons Ago](https://open.spotify.com/album/5i1YDBZFg7sq2PmskQdzv3) | 6:06 | 2022-03-25 |  |
 | [My Ideal](https://open.spotify.com/track/7zzaZggdFuadOs0R7SuJlp) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [My Ideal](https://open.spotify.com/album/2T8WUL1jRlaGIqj36oD5O5) | 3:39 | 2021-01-15 |  |
 | [My Little Brown Book](https://open.spotify.com/track/0WPHL9IRv1Nm4xu21qxgnw) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1rZ3fUUggXNiZ0UczEgHEq) | 5:23 | 2020-10-09 |  |
+| [My Reverie](https://open.spotify.com/track/0qPQYLhCwZlVQ0yyTYUSTe) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD), [Kristian Leth](https://open.spotify.com/artist/1CIFDAKpTPZH16rWPZMRf5) | [Classics](https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM) | 6:12 | 2022-05-19 |  |
 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj) | 4:12 | 2020-10-09 |  |
 | [Naima](https://open.spotify.com/track/53QNo32MLknNMvfO5u87DR) | [Lo Greco Bros Quartet](https://open.spotify.com/artist/3y3000WyBJpDtIGHI5y4FG) | [Naima](https://open.spotify.com/album/1MkJ9Cw7FOgkzsbfJ9uRM6) | 4:39 | 2021-07-30 |  |
 | [Naima](https://open.spotify.com/track/0D5PNTs1HSYe2nHlHulJQw) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Giant Steps](https://open.spotify.com/album/1mws5azyWvnyPkaNZEDGa4) | 5:02 | 2020-10-09 |  |
@@ -123,6 +124,7 @@
 | [Old Folks](https://open.spotify.com/track/1d2GDKkf9zUtm3uVpht4iK) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Old Folks](https://open.spotify.com/album/6IN9pyVseQooCpSgOYO25O) | 4:51 | 2022-02-24 |  |
 | [Old Folks](https://open.spotify.com/track/4UhBGmqcApvAZFTq53ukh7) | [Xavier Davis](https://open.spotify.com/artist/2LiJegzrWFHatDw2kFLsc7), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [Dwayne Burno](https://open.spotify.com/artist/6bc7L0muoQvrJmrehvygRT) | [Dance of Life](https://open.spotify.com/album/29eUcknOT3RFpp1N1UK1lS) | 8:02 | 2020-10-09 |  |
 | [On a Turquoise Cloud](https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs) | [Echoes of Swing](https://open.spotify.com/artist/2MGK5rV3sBiI1UW1hjYDD8) | [Travelin'](https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5) | 3:48 | 2020-10-09 |  |
+| [Other Jewels](https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogenen](https://open.spotify.com/artist/0vYkIFXZpWVW7Lh1GTgXWA), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [Other Jewels](https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr) | 5:47 | 2022-05-19 |  |
 | [Our Son](https://open.spotify.com/track/1dsVIoiV96Goqv1jGbJySI) | [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6) | [Inspirations & Dedications](https://open.spotify.com/album/29cOIY18Ltp3gisRUmNqh8) | 2:42 | 2020-10-09 |  |
 | [Part Trio](https://open.spotify.com/track/03k3pTFdvFcZIyt6WgNIL4) | [Anat Fort](https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi) | [Colour](https://open.spotify.com/album/1bDV4bLFXF03SWcbuV9wrm) | 5:06 | 2020-10-09 | 2022-02-18 |
 | [Peace](https://open.spotify.com/track/1y0FhVFVZ2eG82sn0M7H7v) | [Steve Davis](https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD) | [Peace](https://open.spotify.com/album/3jZLKB3Zj8yBCR7ByScKzc) | 7:16 | 2020-10-09 |  |

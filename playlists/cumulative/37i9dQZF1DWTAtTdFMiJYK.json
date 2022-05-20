@@ -534,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Doobna Aata Hai",
+        "url": "https://open.spotify.com/album/3og6i5UVjMjvZnFfVaOumg"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321912,
+      "name": "Doobna Aata Hai",
+      "url": "https://open.spotify.com/track/5WmulZwnY1U5566pqYWstk"
+    },
+    {
+      "album": {
         "name": "Doorie",
         "url": "https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd"
       },
@@ -947,7 +965,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 233071,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/3CdCfx4SMgshMvajt6uZEZ"

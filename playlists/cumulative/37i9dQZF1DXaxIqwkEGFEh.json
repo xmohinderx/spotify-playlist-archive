@@ -408,6 +408,42 @@
     },
     {
       "album": {
+        "name": "Back 2 The Ba$ics",
+        "url": "https://open.spotify.com/album/2LJIISapdPQWbfGOVDb74U"
+      },
+      "artists": [
+        {
+          "name": "Payroll Giovanni",
+          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187239,
+      "name": "Back 2 The Ba$ics",
+      "url": "https://open.spotify.com/track/0E6u7p8DhlLldNsWJlMixD"
+    },
+    {
+      "album": {
+        "name": "Back In That Mode",
+        "url": "https://open.spotify.com/album/1EkzDdvODpnYeveHgENBuQ"
+      },
+      "artists": [
+        {
+          "name": "Kuttem Reese",
+          "url": "https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98240,
+      "name": "Back In That Mode",
+      "url": "https://open.spotify.com/track/1e5xoWQgDjGpmoaHRhNIeE"
+    },
+    {
+      "album": {
         "name": "Backdoor",
         "url": "https://open.spotify.com/album/3rCLrfv45EOFmiqCWWQC9T"
       },
@@ -1347,7 +1383,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 213453,
       "name": "don\u2019t i (feat. Gunna)",
       "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
@@ -1579,6 +1615,24 @@
       "duration_ms": 165870,
       "name": "Feelings (feat. EST Gee & Rick Ross)",
       "url": "https://open.spotify.com/track/5sLibBUm0ES1LOuy5fEbHj"
+    },
+    {
+      "album": {
+        "name": "Fight",
+        "url": "https://open.spotify.com/album/3Tqx86MGIC368bu73tK6UZ"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112207,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/5BarSI6orsyymchcInlhx8"
     },
     {
       "album": {
@@ -1884,6 +1938,24 @@
     },
     {
       "album": {
+        "name": "glah glah",
+        "url": "https://open.spotify.com/album/0KZmgS5yFdR1o650rkFrGM"
+      },
+      "artists": [
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114826,
+      "name": "glah glah",
+      "url": "https://open.spotify.com/track/1vz1dpEEIq7b1qv3bvO4dU"
+    },
+    {
+      "album": {
         "name": "Mr. Crawford",
         "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
       },
@@ -1917,7 +1989,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 186888,
       "name": "God Forbid",
       "url": "https://open.spotify.com/track/4YphKexoCrhNOfMlY4lJX2"
@@ -2213,6 +2285,28 @@
       "duration_ms": 150527,
       "name": "Hot (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5qyZ6LcHvBiIHLaoED8K4g"
+    },
+    {
+      "album": {
+        "name": "HOTEL LOBBY (Unc and Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc and Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "album": {
@@ -3255,7 +3349,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 129970,
       "name": "Mission",
       "url": "https://open.spotify.com/track/4hXTbyfZIbdOJIf3bdGLH1"
@@ -3321,6 +3415,28 @@
       "duration_ms": 170435,
       "name": "Mr. Pyrex Man",
       "url": "https://open.spotify.com/track/2RekFRVuBcZmSnTtTuJuLM"
+    },
+    {
+      "album": {
+        "name": "Mufasa (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/7LvOrmZ8LChfHtWZAsYxp8"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "Mufasa (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2zIQIwzMqPugJmbyVPCYMU"
     },
     {
       "album": {
@@ -3781,7 +3897,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 132603,
       "name": "Open Air",
       "url": "https://open.spotify.com/track/5JURxzoZ0r9FP6N01XRAAi"
@@ -3883,7 +3999,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 203137,
       "name": "Pay Me To Speak",
       "url": "https://open.spotify.com/track/1Eiyvi5LpfJOsVo5kHCWpQ"
@@ -4251,7 +4367,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 217411,
       "name": "Realer and Realer (feat. Jackboy)",
       "url": "https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP"
@@ -4370,6 +4486,28 @@
     },
     {
       "album": {
+        "name": "Rocky Road (with Kodak Black)",
+        "url": "https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178948,
+      "name": "Rocky Road (with Kodak Black)",
+      "url": "https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo"
+    },
+    {
+      "album": {
         "name": "Rolling Loud (feat. Big Scarr, BigWalkDog)",
         "url": "https://open.spotify.com/album/6vmQvvkysidDuIlLTHi31Z"
       },
@@ -4429,6 +4567,28 @@
       "duration_ms": 129923,
       "name": "Rumors 3",
       "url": "https://open.spotify.com/track/52qOWmhRTi28yYgrhpBmpE"
+    },
+    {
+      "album": {
+        "name": "Rae Rae's Son",
+        "url": "https://open.spotify.com/album/5GptyXvoJ2Zg260GOvmsJy"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        },
+        {
+          "name": "Spinabenz",
+          "url": "https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195864,
+      "name": "Sad Song (with Spinabenz)",
+      "url": "https://open.spotify.com/track/4aPRR0I9gIDJGJxlez3WE0"
     },
     {
       "album": {
@@ -4623,7 +4783,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
@@ -4979,7 +5139,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 108889,
       "name": "Start Up Again (with Moneybagg Yo)",
       "url": "https://open.spotify.com/track/4O3bINhkGghgoKsOCr2HNz"

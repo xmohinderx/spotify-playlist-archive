@@ -4242,6 +4242,24 @@
     },
     {
       "album": {
+        "name": "Similarities",
+        "url": "https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb"
+      },
+      "artists": [
+        {
+          "name": "Benny Dawn",
+          "url": "https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Similarities",
+      "url": "https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r"
+    },
+    {
+      "album": {
         "name": "Sineway",
         "url": "https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO"
       },
@@ -5027,7 +5045,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 248147,
       "name": "Welkin",
       "url": "https://open.spotify.com/track/3hqnqpefPxDGTtLwGuaRG6"

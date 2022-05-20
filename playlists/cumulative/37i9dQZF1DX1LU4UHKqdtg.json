@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 230624,
       "name": "AGAIN",
       "url": "https://open.spotify.com/track/5pQp6mMy1jTEqDKPVYiMh4"
@@ -2383,7 +2383,7 @@
       },
       "artists": [
         {
-          "name": "KANG DANIEL",
+          "name": "KANGDANIEL",
           "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
         }
       ],
@@ -3127,6 +3127,28 @@
       "duration_ms": 174386,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/6WYsZJDfUOftGVji74yYSU"
+    },
+    {
+      "album": {
+        "name": "TOMBOY (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129677,
+      "name": "TOMBOY (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
     },
     {
       "album": {

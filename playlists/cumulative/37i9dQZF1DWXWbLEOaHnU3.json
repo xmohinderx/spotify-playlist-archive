@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 315766,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/5Mfs9l7PBSu1cQUHRg7vFP"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 301714,
       "name": "Art & Melody",
       "url": "https://open.spotify.com/track/0jIvbSHnTGlXbryMYaxohh"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 326000,
       "name": "Control Machine",
       "url": "https://open.spotify.com/track/71c8wiCCTK63JzK8pLDXGJ"
@@ -547,6 +547,28 @@
       "duration_ms": 188800,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/1pmuzoDKupFOcxHkMzpsvY"
+    },
+    {
+      "album": {
+        "name": "Crysis",
+        "url": "https://open.spotify.com/album/1jzuL78QHyNlYdyhiP5PiR"
+      },
+      "artists": [
+        {
+          "name": "WoZa",
+          "url": "https://open.spotify.com/artist/7AI3OS9LJ0ZD8DfTk0uDej"
+        },
+        {
+          "name": "Natika",
+          "url": "https://open.spotify.com/artist/3fVMekTlDXQulpKvrvGjFG"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335858,
+      "name": "Crysis",
+      "url": "https://open.spotify.com/track/63QmPu78mNPRloQFVMdM81"
     },
     {
       "album": {
@@ -615,7 +637,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 256000,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/5lSopyliv1abtwdNhQ4aJT"
@@ -797,7 +819,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 263103,
       "name": "Feel Home",
       "url": "https://open.spotify.com/track/1gsatgs4xQi1FsCzaL50Ma"
@@ -1141,7 +1163,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 214290,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6m8BCfpZIVikVsm5YKVQrC"
@@ -1243,7 +1265,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 408000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/7xKVXX3cAq5TWskeCB0Oan"
@@ -1279,7 +1301,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5GyZRuphTVUYfwdKgZAMJD"
@@ -1484,6 +1506,28 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/58TmnGrhKm2VT42uSCJgMY"
+      },
+      "artists": [
+        {
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/2hmiyEZJxAeSmRuvv2S7FO"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267107,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1"
+    },
+    {
+      "album": {
         "name": "Mad Ancestors",
         "url": "https://open.spotify.com/album/2kMOZes1T5yzxGXbY4e6Gu"
       },
@@ -1507,6 +1551,28 @@
       "duration_ms": 344350,
       "name": "Mad Ancestors",
       "url": "https://open.spotify.com/track/2xqspo1QaN7gGPwgnf3sWz"
+    },
+    {
+      "album": {
+        "name": "Main Computer",
+        "url": "https://open.spotify.com/album/5ZEFGQ4lEtm8vVneaBP1vt"
+      },
+      "artists": [
+        {
+          "name": "Rinkadink",
+          "url": "https://open.spotify.com/artist/06ldxpPnHY1OEWgxglSHA4"
+        },
+        {
+          "name": "Prohecht",
+          "url": "https://open.spotify.com/artist/0cFShzShlfaiIg7ZyzbiZe"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389370,
+      "name": "Main Computer",
+      "url": "https://open.spotify.com/track/6ut3Xc9Yn5tp9ki4Bg78rl"
     },
     {
       "album": {
@@ -1569,7 +1635,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 189254,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/0lFjo6mqV1VtP1T0XFc3Ng"
@@ -1591,7 +1657,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 358945,
       "name": "NAMAHA",
       "url": "https://open.spotify.com/track/19vs5EKA0WfxAmjDLzLhnx"
@@ -1661,7 +1727,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 267428,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/5FM2LQo6zItfKqSPmDluYO"
@@ -2160,6 +2226,24 @@
     },
     {
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/6SuBLFp1J2FtOMubJYi68Y"
+      },
+      "artists": [
+        {
+          "name": "Zyrus 7",
+          "url": "https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226956,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/1Eo1mHzudnBpopkg7Xc5ua"
+    },
+    {
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/2d7QLkR0exGfc514HvfWFo"
       },
@@ -2237,7 +2321,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 418285,
       "name": "Summer Never Ends",
       "url": "https://open.spotify.com/track/2TIPueGSHKcRuvsKf7VJmI"
@@ -2273,7 +2357,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 399310,
       "name": "Tachyon",
       "url": "https://open.spotify.com/track/3agwWPbLIypx5Lmbzbo1GG"
@@ -2477,7 +2561,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-03",
+      "date_removed": null,
       "duration_ms": 289418,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/37eQ13yBg842gYEz6sat92"
@@ -2579,7 +2663,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 258260,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/2LLflcAjE262tLv9vK7Dqz"
@@ -2703,7 +2787,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 390011,
       "name": "You Wanna Stay",
       "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"

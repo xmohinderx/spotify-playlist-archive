@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "dancing under streetlights type beat",
+  "description": "in the evening the real me comes alive",
   "name": "night pop",
   "published_playlist_ids": [
     "4uegMGWDoppa2uOkW5upmp"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 228440,
       "name": "AMERICAN GURL",
       "url": "https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 174141,
       "name": "Belmont Park",
       "url": "https://open.spotify.com/track/4qSDDMj8hSkjSMEybf3jdX"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 205853,
       "name": "Burn Again",
       "url": "https://open.spotify.com/track/1n0R7zfIgTGKeJOnr6P4uQ"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 97928,
       "name": "Down Since '07",
       "url": "https://open.spotify.com/track/1dmYjJ35vKDV72rptktSTu"
@@ -1809,7 +1809,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 199202,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/1hjAmj9H76OpPHs02Fbb5g"
@@ -1845,7 +1845,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 288226,
       "name": "Duel",
       "url": "https://open.spotify.com/track/3v7qgdQzpiNulr8eytLNXX"
@@ -1881,7 +1881,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 229346,
       "name": "Ego",
       "url": "https://open.spotify.com/track/253V91l7DxehjkHyvxLPNN"
@@ -2478,6 +2478,24 @@
     },
     {
       "album": {
+        "name": "Fuck Boy",
+        "url": "https://open.spotify.com/album/7fjtP6kHOwQWLTSwBqyF5w"
+      },
+      "artists": [
+        {
+          "name": "Ariana and the Rose",
+          "url": "https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186626,
+      "name": "Fuck Boy",
+      "url": "https://open.spotify.com/track/2FqWoR5iRLBgkiNKYWVebd"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -2525,7 +2543,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 201399,
       "name": "Get Wild",
       "url": "https://open.spotify.com/track/05vIJo5TbBbbYo7G5bB1Zy"
@@ -2763,7 +2781,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 189200,
       "name": "Growing on Me",
       "url": "https://open.spotify.com/track/503a5QlhcxNE79QYPspRGh"
@@ -2825,7 +2843,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 172468,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv"
@@ -3061,7 +3079,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 239706,
       "name": "HIGHWAY TO YOUR HEART",
       "url": "https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr"
@@ -3159,6 +3177,24 @@
       "duration_ms": 199314,
       "name": "How Long - From\"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
+    },
+    {
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/5f1PQzjf5sGfcVrPCr9yBK"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179084,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/6c31lcBJX8HSG9rP0XDiL0"
     },
     {
       "album": {
@@ -3473,7 +3509,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 339440,
       "name": "If You Want Me",
       "url": "https://open.spotify.com/track/1zzUsVoY12XzrKN3dYHELh"
@@ -3751,7 +3787,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 184611,
       "name": "LA Hallucinations",
       "url": "https://open.spotify.com/track/4MtbYFVMUsmr37KA52ZMN0"
@@ -4025,7 +4061,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 196240,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII"
@@ -4617,7 +4653,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 204289,
       "name": "Night Games",
       "url": "https://open.spotify.com/track/62oPiG18vOZKgtmApR8SHZ"
@@ -4823,6 +4859,28 @@
       "duration_ms": 264827,
       "name": "Out (Out)",
       "url": "https://open.spotify.com/track/4LZEs2TkZLQcCmaHa6GBfH"
+    },
+    {
+      "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/73w5XKOuWg456VuawuUH47"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174080,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu"
     },
     {
       "album": {
@@ -5061,7 +5119,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 176911,
       "name": "pretend (2003) (with Tennyson)",
       "url": "https://open.spotify.com/track/0wjQx6amJQ61K8tFQaDkgw"
@@ -6005,7 +6063,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 221350,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY"
@@ -6345,7 +6403,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 196626,
       "name": "The Pacific",
       "url": "https://open.spotify.com/track/3MPWFnCxHfW5N3Z2AKPB61"
@@ -6363,7 +6421,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
@@ -6886,6 +6944,24 @@
     },
     {
       "album": {
+        "name": "Nothing's Real",
+        "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214754,
+      "name": "What's It Gonna Be?",
+      "url": "https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ"
+    },
+    {
+      "album": {
         "name": "when was it over? (feat. Sam Hunt)",
         "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
@@ -7217,7 +7293,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 183409,
       "name": "YouYouYou",
       "url": "https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl"

@@ -1120,6 +1120,28 @@
     },
     {
       "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/0aRdcA9Utbd08sjGXpTVtx"
+      },
+      "artists": [
+        {
+          "name": "10kleeroy",
+          "url": "https://open.spotify.com/artist/2OSU31gPBXeqCgsq8K7T9k"
+        },
+        {
+          "name": "Modizo",
+          "url": "https://open.spotify.com/artist/1h7r4cQfZUgOvSkF8ckAxN"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172094,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/2YLLB3voKxIva76wcorNXa"
+    },
+    {
+      "album": {
         "name": "The Evolution",
         "url": "https://open.spotify.com/album/4s92V0ea3iKn1qVJed1AsI"
       },
@@ -1139,7 +1161,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 166760,
       "name": "Mwagia Ndani",
       "url": "https://open.spotify.com/track/6pZLBloNf2JvFAYdXJckD6"
@@ -1152,7 +1174,7 @@
       "artists": [
         {
           "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk"
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
       "date_added": "2022-02-04",
@@ -1423,6 +1445,28 @@
       "duration_ms": 163713,
       "name": "Nimekuzoea",
       "url": "https://open.spotify.com/track/6UpuTAuQF82c95Hg7lCBUe"
+    },
+    {
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK"
+      },
+      "artists": [
+        {
+          "name": "Maua Sama",
+          "url": "https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212294,
+      "name": "Nioneshe (feat. Alikiba)",
+      "url": "https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt"
     },
     {
       "album": {
@@ -2115,7 +2159,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 202826,
       "name": "Wanaweweseka",
       "url": "https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep"

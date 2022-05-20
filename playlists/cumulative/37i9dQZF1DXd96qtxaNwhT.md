@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-403 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+407 songs - 22 hr 53 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Black Hole \- Acoustic Version](https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole \(Acoustic Version\)](https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD) | 2:55 | 2021-04-07 |  |
 | [Bloom](https://open.spotify.com/track/5KGAL7bQE8vkF2mTUJfthi) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Bloom](https://open.spotify.com/album/2ppwP0NppuVoRwA0G3J0BD) | 3:19 | 2019-09-27 | 2019-12-13 |
 | [Body Language](https://open.spotify.com/track/0rgLylJW0buJUTryDANtWd) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Body Language](https://open.spotify.com/album/4ILXpjY8vQK7q5bgSaocgA) | 3:13 | 2019-09-13 | 2019-10-25 |
+| [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-19 |  |
 | [Boys Will Be Boys](https://open.spotify.com/track/3rqCRdsSSPiMT9nirKvRjb) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/1dECna1r2WizEvoEBuzE7k) | 4:04 | 2019-07-29\* | 2019-08-02 |
 | [Break With Me](https://open.spotify.com/track/28ISI9ACJ3Z3tQ7rQehHlZ) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Break With Me](https://open.spotify.com/album/47KET5CfuFBk1zjC3UTilg) | 2:35 | 2021-03-06 |  |
 | [Breathe Again](https://open.spotify.com/track/3vutFeUl31fjJyPpAGmLGf) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Breathe Again](https://open.spotify.com/album/3bA0ThKib48JGzsr9srrBF) | 3:20 | 2020-06-05 | 2022-05-13 |
@@ -74,6 +75,7 @@
 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 | 2022-01-13 |  |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2019-08-02 | 2019-09-13 |
 | [Complicate](https://open.spotify.com/track/0tzYJI2WIwMOXZ1qCQVNfu) | [Harry Parsons](https://open.spotify.com/artist/4R3nttGDHeitw0h7llzHZv) | [Complicate](https://open.spotify.com/album/0Jz0be9m1FFSDem73dZQaU) | 3:15 | 2019-08-16 | 2019-10-11 |
+| [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 | 2022-05-19 |  |
 | [Contaminated](https://open.spotify.com/track/4uFWvdUqRUjL9LkTULhPzO) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Contaminated](https://open.spotify.com/album/2MMIuj2Fzrsz3sr7UKHZAp) | 4:40 | 2019-08-02 | 2019-12-13 |
 | [counting houses](https://open.spotify.com/track/6MFZUAPmeiF9cm8tSspED7) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [counting houses](https://open.spotify.com/album/1BuceFtRvKhtzYfteVYEV5) | 3:20 | 2021-04-16 | 2022-02-10 |
 | [Crazier Things \(with Noah Kahan\)](https://open.spotify.com/track/3K7vPyMCcecKRotnu08MMP) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Crazier Things](https://open.spotify.com/album/5wlUSJwTW4mVgDoDMPXjU7) | 4:24 | 2020-06-29 | 2021-10-02 |
@@ -84,7 +86,7 @@
 | [Dear Happy](https://open.spotify.com/track/1DdgQ6y5B1rPQgStQ6hprS) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:31 | 2020-01-17 | 2020-02-11 |
 | [Dependent](https://open.spotify.com/track/2DTZh7A26l610AyBSl0XQV) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Dependent](https://open.spotify.com/album/72JaAAHyW5lWTearn99Tbb) | 3:18 | 2021-07-07 |  |
 | [Devil On My Shoulder](https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Devil On My Shoulder](https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ) | 3:32 | 2021-10-27 | 2022-04-29 |
-| [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-07-07 |  |
+| [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-07-07 | 2022-05-20 |
 | [Don't Feel Like Crying \- Live From LIFT](https://open.spotify.com/track/7c8uEE0Vc6X37RvJDhUxCC) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Don't Feel Like Crying \(Live From LIFT\)](https://open.spotify.com/album/3vsLt0JZgi5fBjb8xhFizX) | 2:34 | 2019-07-29\* | 2019-08-02 |
 | [Don't Say](https://open.spotify.com/track/6rHC7eMaQDDpbm29WuuJbe) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Say](https://open.spotify.com/album/6yYmVFP4TaBffBvA604Ney) | 3:32 | 2019-09-13 | 2019-10-01 |
 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 | 2020-06-29 | 2020-07-31 |
@@ -114,6 +116,7 @@
 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 | 2020-03-27 | 2021-06-22 |
 | [Fix You \- Live](https://open.spotify.com/track/0Hbn9DrKJiXgoQdVSwBn7B) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Fix You \(Live\)](https://open.spotify.com/album/6VnppEx0PoQpbnfTOutyaQ) | 4:17 | 2020-07-10 | 2021-06-09 |
 | [Floating](https://open.spotify.com/track/0g0tS35UJaSLRqS025rZHw) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Floating](https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad) | 4:00 | 2021-10-27 |  |
+| [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-05-19 |  |
 | [Fools](https://open.spotify.com/track/483L8PI80pZoUSlF8GgdkD) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Fools](https://open.spotify.com/album/7da2XojsKMIKSRCom0mAg7) | 3:44 | 2019-08-02 | 2019-09-13 |
 | [For a Reason](https://open.spotify.com/track/6FDBhWk8xddZfVdbO9q8S2) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [For a Reason](https://open.spotify.com/album/2UG0IazlHRzHGtaEMN5yFo) | 3:13 | 2021-01-23 | 2021-09-14 |
 | [For Now](https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [For Now](https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA) | 3:31 | 2020-12-11 | 2022-01-14 |
@@ -211,7 +214,7 @@
 | [Life After](https://open.spotify.com/track/44UE46jEE4NaIIQwkkDyNL) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/1zVzO9st0ZXLCH6YmgAzYF) | 2:50 | 2019-07-29\* | 2019-08-02 |
 | [Lights Out](https://open.spotify.com/track/1pzScQVmlD48IRUaVfhvBf) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [To A Stranger](https://open.spotify.com/album/08h1Np1KQGZAFDsc47BRRS) | 3:32 | 2019-07-29\* | 2019-09-13 |
 | [Lightweight](https://open.spotify.com/track/4lLTcW4KK2lfP6SzpZSQ9h) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Lightweight](https://open.spotify.com/album/53QtdAvZoMZrfwNxqMmBqO) | 3:10 | 2019-08-02 | 2019-09-27 |
-| [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 | 2021-06-18 |  |
+| [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 | 2021-06-18 | 2022-05-20 |
 | [Little Things](https://open.spotify.com/track/6VR6NtDo2HSWax5P70d1I3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Just Like You](https://open.spotify.com/album/4bb7y1MhIDhZJvMbacmY3h) | 3:09 | 2019-10-25 | 2020-03-14 |
 | [Lonely](https://open.spotify.com/track/3Lp8Xd2K7TwlY32SPvXkvF) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Lonely](https://open.spotify.com/album/6zzxKlEaOfvPf54fr2UTVi) | 2:24 | 2019-09-27 | 2019-12-20 |
 | [Lonely](https://open.spotify.com/track/5urSoDnEo7NAvlSK6mKF17) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN), [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Lonely](https://open.spotify.com/album/7637ikKlCmfNb6Lr9bm1GE) | 3:35 | 2020-12-11 | 2022-02-11 |
@@ -411,5 +414,6 @@
 | [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 | 2021-04-07 |  |
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 | 2020-11-20 | 2021-10-27 |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2020-05-15 | 2021-03-06 |
+| [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-19 |  |
 
 \*This playlist was first scraped on 2019-07-29. Prior content cannot be recovered.

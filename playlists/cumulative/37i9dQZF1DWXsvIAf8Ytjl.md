@@ -4,7 +4,7 @@
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-46 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1TTpnQL8vDzEXrA1b6lsMg)
+47 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/1TTpnQL8vDzEXrA1b6lsMg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,19 +40,20 @@
 | [Should I Stay or Should I Go](https://open.spotify.com/track/5V6YE0mBwnqDvh0hoblAMl) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Story Of The Clash Volume 1](https://open.spotify.com/album/2Afo3MZZGInlFyCoNXjvle) | 3:08 | 2018-12-10 |  |
 | [Skin It Back](https://open.spotify.com/track/4660oWp7DdhrJPcugJpKEQ) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 4:12 | 2018-12-10 |  |
 | [Slow Ride](https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Slow Ride / Save Your Loving \(For Me\)](https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq) | 3:52 | 2018-12-10 |  |
-| [Soul Sacrifice](https://open.spotify.com/track/1MYa0e2gng2UzPXTfbLV59) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Soul Sacrifice](https://open.spotify.com/album/0Z199sMGVSkcVHOss7j2wN) | 4:52 | 2018-12-10 | 2022-05-19 |
+| [Soul Sacrifice](https://open.spotify.com/track/1MYa0e2gng2UzPXTfbLV59) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Soul Sacrifice](https://open.spotify.com/album/0Z199sMGVSkcVHOss7j2wN) | 4:52 | 2018-12-10 |  |
 | [Speed King](https://open.spotify.com/track/4DsHoG4nyiUwsbx1lCF2lX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 4:23 | 2018-12-10 |  |
 | [Stranglehold](https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Great Gonzos! The Best Of Ted Nugent](https://open.spotify.com/album/4xKPMSSynMM7hSqB5sXjCV) | 8:22 | 2018-12-10 |  |
 | [Take the Money and Run](https://open.spotify.com/track/6xTmUziCWS4Nwh2hzqLbCS) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/3iqReiy2IaPI2N9sdLywER) | 2:50 | 2018-12-10 |  |
 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 | 2018-12-10 |  |
-| [The Shape I'm In](https://open.spotify.com/track/1vgynPzfnKfwmMk6mskZ4a) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Best Of The Band](https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr) | 4:01 | 2018-12-10 |  |
+| [The Oh Kee Pa Ceremony \- Live in Brooklyn](https://open.spotify.com/track/174K2TV5eQ2pxtr83emEVL) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 1:47 | 2018-12-10 |  |
+| [The Shape I'm In](https://open.spotify.com/track/1vgynPzfnKfwmMk6mskZ4a) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Best Of The Band](https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr) | 4:01 | 2018-12-10 | 2022-05-20 |
 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 | 2018-12-10 |  |
 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 | 2018-12-10 |  |
 | [Tripping Billies](https://open.spotify.com/track/4fXoeBGrVWfNKpdcmL8tw6) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:00 | 2018-12-10 |  |
 | [Umasha](https://open.spotify.com/track/1zRaLP99iRxz6kWCB6Ynw3) | [Mickey Hart and Zakir Hussain](https://open.spotify.com/artist/0CYFqvscV4rsOT5qXU36bd) | [Supralingua](https://open.spotify.com/album/3aD8ij2ESGKnDFJOczfbrC) | 5:22 | 2018-12-10 |  |
 | [We're An American Band \- Remastered 2002](https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [We're An American Band \(Remastered / Bonus Track\)](https://open.spotify.com/album/6hSAjI92A6vPL6OM1DWTZg) | 3:27 | 2018-12-10 |  |
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2018-12-10 |  |
-| [Wipeout](https://open.spotify.com/track/4KFCyusUzxTL8PwE0AH02f) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [100 Years of Surfing](https://open.spotify.com/album/33msQbGd76fYSd4imz3lbh) | 2:34 | 2018-12-10 |  |
+| [Wipeout](https://open.spotify.com/track/4KFCyusUzxTL8PwE0AH02f) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [100 Years of Surfing](https://open.spotify.com/album/33msQbGd76fYSd4imz3lbh) | 2:34 | 2018-12-10 | 2022-05-20 |
 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/3QfJhbiVGJucxyUbOFiaLY) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Greatest Hits](https://open.spotify.com/album/1jkd5zta1g1eFz6zuzupyW) | 8:33 | 2018-12-10 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

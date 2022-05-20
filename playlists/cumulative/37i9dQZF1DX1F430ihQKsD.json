@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Mon Doux Saigneur",
+  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Clay and Friends, Louis-Jean Cormier",
   "name": "Montr\u00e9al Chill",
   "published_playlist_ids": [
     "4x7dCsK0Zzpdb88Niig3QN"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 216093,
       "name": "De la perspective d'un vieil homme - P'tit Belliveau Remix",
       "url": "https://open.spotify.com/track/6VNas98Qy7GSduZoQeW9LY"
@@ -1564,6 +1564,24 @@
     },
     {
       "album": {
+        "name": "The Motion / Looking for Your Love",
+        "url": "https://open.spotify.com/album/5oatubY6iB4ukJXQDsCWRe"
+      },
+      "artists": [
+        {
+          "name": "FOXTROTT",
+          "url": "https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274839,
+      "name": "Looking for Your Love",
+      "url": "https://open.spotify.com/track/56sH4u4DPY9xUkog8vGDCp"
+    },
+    {
+      "album": {
         "name": "Love Alone",
         "url": "https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc"
       },
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 242500,
       "name": "Pas un chat",
       "url": "https://open.spotify.com/track/6RVkA2vDxFm91KHtZud4Uq"
@@ -2169,7 +2187,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 265734,
       "name": "P\u00e9n\u00e9lope",
       "url": "https://open.spotify.com/track/6igMBCYzoJWpYr79Rmpw1q"
@@ -2430,6 +2448,24 @@
     },
     {
       "album": {
+        "name": "Supermonkeyball",
+        "url": "https://open.spotify.com/album/39PXCIY1r6XFg6ia4DTdU3"
+      },
+      "artists": [
+        {
+          "name": "pataugeoire",
+          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228668,
+      "name": "Supermonkeyball",
+      "url": "https://open.spotify.com/track/2q6tE7DuOXOA1770rU8whn"
+    },
+    {
+      "album": {
         "name": "Sur la pointe des pieds",
         "url": "https://open.spotify.com/album/3I79ViJzvgFejiCj2UJVye"
       },
@@ -2445,6 +2481,24 @@
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/1jK4orgoFQGbmYAYp7OMbq"
+    },
+    {
+      "album": {
+        "name": "Montr\u00e9al bagarre 2",
+        "url": "https://open.spotify.com/album/651734qFKfoKaPjnYT0mEk"
+      },
+      "artists": [
+        {
+          "name": "Of Course",
+          "url": "https://open.spotify.com/artist/70ZDhrqoXsWhA23HgtYp9w"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185053,
+      "name": "T'es beau",
+      "url": "https://open.spotify.com/track/4Zs2rCa1oXnMjzUlVQQxnT"
     },
     {
       "album": {

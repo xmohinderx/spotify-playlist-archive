@@ -1,15 +1,35 @@
 {
-  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Bad Bunny.",
-  "num_followers": 1685078,
+  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Julianno Sosa & King Savagge.",
+  "num_followers": 1685435,
   "original_name": "\u00c9xitos Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQ0NzY0NywwMDAwMDE5MjAwMDAwMTgwYmQ4ZTE1N2IwMDAwMDE4MDk1ZDBhNTgz",
+  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDE5NDAwMDAwMTgwZGY5ZjRhZDUwMDAwMDE4MGRlOTUwNGUz",
   "tracks": [
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Querian Perreo?",
+        "url": "https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Cochinae",
+      "url": "https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "SEXTIME",
         "url": "https://open.spotify.com/album/1fZB1jZPTn90TzYDZv42kI"
@@ -49,27 +69,7 @@
       "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
-      "album": {
-        "name": "Querian Perreo?",
-        "url": "https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Cochinae",
-      "url": "https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW"
-    },
-    {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Me Arrepent\u00ed",
         "url": "https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Dime T\u00fa",
         "url": "https://open.spotify.com/album/5RdU0FElotMIDYbY8zKiHx"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Par de Veces",
         "url": "https://open.spotify.com/album/4zz7Q2jwt3I3PMd99K5XwL"
@@ -177,7 +177,23 @@
       "url": "https://open.spotify.com/track/2vZS65RIoFXGF4FpWqpMIR"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Ponte Pa M\u00ed",
+        "url": "https://open.spotify.com/album/4VISSS2b1TMljgzXGt1T2I"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 214468,
+      "name": "Ponte Pa M\u00ed",
+      "url": "https://open.spotify.com/track/4nDFKq4cge5x6pk53cU28S"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "En El Jacuzzi",
         "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
@@ -253,7 +269,71 @@
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
+        "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Flotao",
+        "url": "https://open.spotify.com/album/426a5rPIXnkvHG9il06TPO"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yishark",
+          "url": "https://open.spotify.com/artist/2hp2lUfm32mmW4mMlhMQnW"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Benji La Maldita Escritura De Oro",
+          "url": "https://open.spotify.com/artist/2H5XfIuAQCXmaIDm7vcViA"
+        }
+      ],
+      "duration_ms": 337021,
+      "name": "Flotao",
+      "url": "https://open.spotify.com/track/0HsI8dYRVnVGpzppNThv1e"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
@@ -269,7 +349,7 @@
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
@@ -285,7 +365,7 @@
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
@@ -301,7 +381,7 @@
       "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Yo Quiero",
         "url": "https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528"
@@ -321,7 +401,7 @@
       "url": "https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
@@ -341,7 +421,7 @@
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Flaytiando",
         "url": "https://open.spotify.com/album/4mmWsrRL32Yb0HuaD5hm39"
@@ -373,7 +453,7 @@
       "url": "https://open.spotify.com/track/7ccoyhNAr3OY5IQsvpQnck"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Ponle (Remix)",
         "url": "https://open.spotify.com/album/6cNQVNGtsG2QHIXK8tsTtO"
@@ -429,7 +509,7 @@
       "url": "https://open.spotify.com/track/60eTDDWVvw2QKXEeoQ4BjO"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
@@ -449,7 +529,7 @@
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Noche Loca",
         "url": "https://open.spotify.com/album/0jGIldXN61FvFD9bo2clt5"
@@ -469,7 +549,7 @@
       "url": "https://open.spotify.com/track/27toenwtHpZ7fn0QjehRl2"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Plan A",
         "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
@@ -485,7 +565,7 @@
       "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
@@ -501,7 +581,7 @@
       "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Anti Rana",
         "url": "https://open.spotify.com/album/5waPP31TcvQa9KCO1eO6XW"
@@ -517,43 +597,7 @@
       "url": "https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
-      "album": {
-        "name": "Flotao",
-        "url": "https://open.spotify.com/album/426a5rPIXnkvHG9il06TPO"
-      },
-      "artists": [
-        {
-          "name": "Sayian Jimmy",
-          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Yishark",
-          "url": "https://open.spotify.com/artist/2hp2lUfm32mmW4mMlhMQnW"
-        },
-        {
-          "name": "Nysix Music",
-          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
-        },
-        {
-          "name": "Tobal Mj",
-          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
-        },
-        {
-          "name": "Benji La Maldita Escritura De Oro",
-          "url": "https://open.spotify.com/artist/2H5XfIuAQCXmaIDm7vcViA"
-        }
-      ],
-      "duration_ms": 337021,
-      "name": "Flotao",
-      "url": "https://open.spotify.com/track/0HsI8dYRVnVGpzppNThv1e"
-    },
-    {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
         "url": "https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5"
@@ -573,7 +617,7 @@
       "url": "https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Como Te Va",
         "url": "https://open.spotify.com/album/77iLR6m7fjHq7pZgIX3cc8"
@@ -589,7 +633,7 @@
       "url": "https://open.spotify.com/track/3y0h34yThCG2qGO4vR0oi5"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Phillie y Botella (Remix)",
         "url": "https://open.spotify.com/album/5hFSRmx61JquqPA5NnbyF8"
@@ -617,7 +661,7 @@
       "url": "https://open.spotify.com/track/0yc0Cewx8JTFPjiOVLfzkS"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Ella (Remix)",
         "url": "https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH"
@@ -649,7 +693,7 @@
       "url": "https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Panamera",
         "url": "https://open.spotify.com/album/587dbQNUDsGAL4xMkNScm6"
@@ -665,7 +709,7 @@
       "url": "https://open.spotify.com/track/4yG3Pgc8McT71M6jwRE9Hf"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Toma",
         "url": "https://open.spotify.com/album/6FmTgEJo6aIR2oGpqlLrh0"
@@ -685,7 +729,7 @@
       "url": "https://open.spotify.com/track/0BK8ofe5aiqd4b9ANFpKpY"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Morena Cachetona",
         "url": "https://open.spotify.com/album/0ctY1GglCaW2y0ECj5Gu4e"
@@ -705,7 +749,7 @@
       "url": "https://open.spotify.com/track/124RKptoEHiglKOeXdcPAc"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
         "url": "https://open.spotify.com/album/1LDCTu0ZfGLtWAzV82Pop0"
@@ -725,7 +769,7 @@
       "url": "https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
@@ -765,7 +809,7 @@
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
@@ -781,7 +825,7 @@
       "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
@@ -797,7 +841,7 @@
       "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "DOLCE",
         "url": "https://open.spotify.com/album/18bGWFvF9E6waWylR3vaCH"
@@ -817,7 +861,7 @@
       "url": "https://open.spotify.com/track/0wDjuXaTy4MVdFOy65Gz9H"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Mi Waxita",
         "url": "https://open.spotify.com/album/1gyID6zOQdrbHWZRibFbG7"
@@ -841,7 +885,7 @@
       "url": "https://open.spotify.com/track/6phCM48H3WCQfy7MCYwy0A"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
@@ -861,7 +905,7 @@
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "FULL PIOLI 2.O (feat. Julianno Sosa, El Jordan 23, King Savagge, Polima West Coast, Drago200, Jairo Vera, Galee Galee, Best)",
         "url": "https://open.spotify.com/album/792dWqv1qLtDwjjlW36kTi"
@@ -917,7 +961,7 @@
       "url": "https://open.spotify.com/track/62aT1Uk0pCl1QG4LLBMVUn"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Baby Doll",
         "url": "https://open.spotify.com/album/3w8QAeLI6MlLCdTo5GeR5P"
@@ -941,23 +985,31 @@
       "url": "https://open.spotify.com/track/4dzBUpIYEnECzf5TIq4jFL"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Casi Amor De Verano",
-        "url": "https://open.spotify.com/album/1wiaYWxg54mycc3A5cGRI0"
+        "name": "Desde Mis Ojos (Remix)",
+        "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
       },
       "artists": [
         {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 210829,
-      "name": "Casi Amor De Verano",
-      "url": "https://open.spotify.com/track/3HSVuIkPGY4rdtifvEU3xz"
+      "duration_ms": 223563,
+      "name": "Desde Mis Ojos - Remix",
+      "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Bailemos Reggaeton",
         "url": "https://open.spotify.com/album/22Suc9rycbfTgtCYqfIz5M"
@@ -973,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0YRgRpM2bdmQEkiI8bWDBA"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
@@ -1013,23 +1065,7 @@
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Mi Gata",
         "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
@@ -1049,7 +1085,7 @@
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
@@ -1073,23 +1109,7 @@
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
@@ -1105,7 +1125,7 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-05-13 13:14:07",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7"

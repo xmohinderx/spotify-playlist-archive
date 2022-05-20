@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-87 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+89 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [How long](https://open.spotify.com/track/3b7fskQHs7o1bYYA6ARdZS) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [I AM JAS](https://open.spotify.com/artist/1tWUf08fZUPQYWI5bfPMTM) | [How long](https://open.spotify.com/album/6gMtzCRhctZHbZy4NAIBMr) | 6:44 | 2022-04-13 |  |
 | [Hwel El Wed](https://open.spotify.com/track/5N3GclOh3EfQR0l5fPwZI6) | [Riyozaki](https://open.spotify.com/artist/7qg9gHUnigBkCn6BdAcJ8v), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Sunset Camel Ride](https://open.spotify.com/album/7ycoYy6SuUF7ltb6glLAcX) | 5:55 | 2022-04-13 |  |
 | [Ithemba](https://open.spotify.com/track/1c1uaCg8VwmKpUOTWHmlRw) | [Kapibara](https://open.spotify.com/artist/4tWG36Cg7E242I26JiklSp), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT), [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip) | [Ithemba](https://open.spotify.com/album/6ilSdXr4K3a3YrLhT3kSFR) | 3:46 | 2022-04-13 |  |
+| [Jordan](https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Jordan](https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5) | 6:48 | 2022-05-19 |  |
 | [Kaneba](https://open.spotify.com/track/01dnvO2H3SxeUxFgUtY7sM) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [mo'vibes \(Various Artists\)](https://open.spotify.com/album/41wFtS7hhKWuI5U3GQdvs3) | 7:16 | 2022-04-13 |  |
 | [Kinshuka](https://open.spotify.com/track/6M4OAI2jfRNXxp2SXPZZs7) | [Toricos](https://open.spotify.com/artist/7G5OmcnjTOcCvqYcTq44Un) | [Kinshuka](https://open.spotify.com/album/6kGGObRVrrdM5zxs8jNvhg) | 6:25 | 2022-04-13 |  |
 | [Kondelelani](https://open.spotify.com/track/1qsflyGrjihmYDwEaTcdKz) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Kondelelani](https://open.spotify.com/album/0NckaNjRe6HWOLMUnW3GxZ) | 7:08 | 2022-04-13 |  |
@@ -85,6 +86,7 @@
 | [Trailblazer](https://open.spotify.com/track/7qAQDREJCagJ3f8WD2tWkZ) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Trailblazer](https://open.spotify.com/album/3EPea5hZjuLV9wG33XH3SS) | 6:16 | 2022-04-13 |  |
 | [Tuhan](https://open.spotify.com/track/3iAveahTfg2T3whfN8h2gb) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/7sp35saegKeFRy2MXQJpQY) | 7:44 | 2022-04-13 |  |
 | [Vatra](https://open.spotify.com/track/5j1Qs1RNlzDlAzqz5wHuR4) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Vatra](https://open.spotify.com/album/57HyuY3gr0yMDoD5cdbXR7) | 7:14 | 2022-04-13 |  |
+| [Vazda](https://open.spotify.com/track/3IBVWeulXxBj5pO5Sywojy) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Vazda](https://open.spotify.com/album/2jWqoNIoJ8XNuV0zziWSSQ) | 7:12 | 2022-05-19 |  |
 | [Water](https://open.spotify.com/track/6CJRmGL7DViCD19b1AjZ3i) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Aüra](https://open.spotify.com/artist/5muEGUq4zkPhuAmHdjLiwZ), [Trick Beat](https://open.spotify.com/artist/7hPKG1dTcNZ1ybAkNxFWg1), [Djarah Kan](https://open.spotify.com/artist/1208Qot91BdSVTVUNhc01y) | [Water](https://open.spotify.com/album/6pXz2BeNjmBJJEIiDiomMB) | 7:06 | 2022-04-13 |  |
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2022-04-13 |  |
 | [Ya Albi](https://open.spotify.com/track/28H69jrYqYi7uTY0xr9Jjj) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Your Destiny Ep](https://open.spotify.com/album/1gJn7kasUhDdy6HJ8pg0uv) | 6:12 | 2022-04-13 |  |

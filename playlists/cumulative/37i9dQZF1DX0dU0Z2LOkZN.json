@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 87098,
       "name": "All About It",
       "url": "https://open.spotify.com/track/3cGsZfkkOS0qSmRsq4Ewte"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 149333,
       "name": "Bigtownsteelo",
       "url": "https://open.spotify.com/track/1HwpgBbUoeSnYAFUOSr1zO"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 160000,
       "name": "CupaJoe",
       "url": "https://open.spotify.com/track/3Mdkh1U3f1jBheP7nNlBAa"
@@ -453,6 +453,24 @@
       "duration_ms": 139460,
       "name": "D-Bounce",
       "url": "https://open.spotify.com/track/3ZQzuwNNLstDqee25SQzCp"
+    },
+    {
+      "album": {
+        "name": "Deeper (You & Me)",
+        "url": "https://open.spotify.com/album/55rAOu6q5xC3tqadSOUq0h"
+      },
+      "artists": [
+        {
+          "name": "Chip Sum",
+          "url": "https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122166,
+      "name": "Deeper (You & Me)",
+      "url": "https://open.spotify.com/track/5RYaxKQYstksG8rNw8GPw9"
     },
     {
       "album": {
@@ -597,7 +615,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 127921,
       "name": "Drop '95",
       "url": "https://open.spotify.com/track/72CBVgrrKp7niHjssNHv61"
@@ -720,6 +738,24 @@
     },
     {
       "album": {
+        "name": "Gold Plated",
+        "url": "https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd"
+      },
+      "artists": [
+        {
+          "name": "Stratotune",
+          "url": "https://open.spotify.com/artist/4jj5GyEzbV9KzXTu5nXyi0"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Gold Plated",
+      "url": "https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI"
+    },
+    {
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/1tRfhMX6FsiPaBgKoAndBt"
       },
@@ -771,6 +807,24 @@
       "duration_ms": 217902,
       "name": "Higher",
       "url": "https://open.spotify.com/track/646uaJeMJuuwKA5u769awi"
+    },
+    {
+      "album": {
+        "name": "Highly Blessed",
+        "url": "https://open.spotify.com/album/1Rv4B8EwsTM4a1cYqfVv6r"
+      },
+      "artists": [
+        {
+          "name": "Little Smokey",
+          "url": "https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98666,
+      "name": "Highly Blessed",
+      "url": "https://open.spotify.com/track/6JdfFM5WBrLpLDJ6p5aiEi"
     },
     {
       "album": {
@@ -911,7 +965,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 188181,
       "name": "In The Zone",
       "url": "https://open.spotify.com/track/2GgTngIfCoDteGtVneuuTY"
@@ -1257,7 +1311,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 105000,
       "name": "Naru",
       "url": "https://open.spotify.com/track/3s9p5XqMCrTuUmTkVNNacS"
@@ -1297,10 +1351,32 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 171000,
       "name": "Ninetofive",
       "url": "https://open.spotify.com/track/4vrJiLtAsycPuLAkSTVqPk"
+    },
+    {
+      "album": {
+        "name": "Nothing Changed",
+        "url": "https://open.spotify.com/album/4E8YcQ4mA19bPQayQB2nkv"
+      },
+      "artists": [
+        {
+          "name": "Alcynoos",
+          "url": "https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY"
+        },
+        {
+          "name": "Parental",
+          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "Nothing Changed",
+      "url": "https://open.spotify.com/track/1NAllfYf8F5ncZL2GcLsbC"
     },
     {
       "album": {
@@ -1387,7 +1463,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 267236,
       "name": "Paranoid Society - Instrumental",
       "url": "https://open.spotify.com/track/65dL2H0PFe9IAV1dOAl0d3"
@@ -1553,7 +1629,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 92368,
       "name": "Rites of Summer - All Love",
       "url": "https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul"
@@ -1589,10 +1665,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 227250,
       "name": "Sedate - Boom Bap Instrumental",
       "url": "https://open.spotify.com/track/1XpZ171vlP0tPiFs2AUlOe"
+    },
+    {
+      "album": {
+        "name": "seed",
+        "url": "https://open.spotify.com/album/0RWjMFir2IACQoXAbpU5l7"
+      },
+      "artists": [
+        {
+          "name": "MF Eistee",
+          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "seed",
+      "url": "https://open.spotify.com/track/1nmqvyLwzIbdcmKKcUDKL5"
     },
     {
       "album": {
@@ -1625,7 +1719,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 154541,
       "name": "Skate Day",
       "url": "https://open.spotify.com/track/0dhBZOXyLXbDH6Xp3t3B4P"
@@ -1661,7 +1755,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 116176,
       "name": "Smeegoll",
       "url": "https://open.spotify.com/track/34G1g2Xo9Q9xbZMvsi2bBJ"
@@ -1737,7 +1831,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 136992,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1n1WtbBkXFJNhskphoV05W"
@@ -1821,6 +1915,24 @@
       "duration_ms": 184615,
       "name": "surrender",
       "url": "https://open.spotify.com/track/6Taozt3i4orsCi0eOzaSCg"
+    },
+    {
+      "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/3U8GfkwgUA2xAD57PXfFjR"
+      },
+      "artists": [
+        {
+          "name": "MidPoint",
+          "url": "https://open.spotify.com/artist/73Wck9GDgkCitvrej1t75u"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81473,
+      "name": "Take a Picture",
+      "url": "https://open.spotify.com/track/6m7gai9dX5aQFDWp7XNcT2"
     },
     {
       "album": {
@@ -1915,6 +2027,24 @@
       "duration_ms": 181546,
       "name": "The Realest",
       "url": "https://open.spotify.com/track/6cA7Gs5OK6TyZnmSMAJXwu"
+    },
+    {
+      "album": {
+        "name": "The S\u00e9ance (Instrumental)",
+        "url": "https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R"
+      },
+      "artists": [
+        {
+          "name": "SoulChef",
+          "url": "https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167234,
+      "name": "The S\u00e9ance - Instrumental",
+      "url": "https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk"
     },
     {
       "album": {

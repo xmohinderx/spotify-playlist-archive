@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295920,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
+      "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
       },
@@ -430,6 +452,28 @@
     },
     {
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "Diana (feat. King Combs)",
+      "url": "https://open.spotify.com/track/4Tc9PHEoeP17PQj3OOKXPu"
+    },
+    {
+      "album": {
         "name": "R U Still Down? [Remember Me]",
         "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
       },
@@ -637,7 +681,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 313893,
       "name": "F.U.B.U. (feat. The-Dream & BJ The Chicago Kid)",
       "url": "https://open.spotify.com/track/2aR6SYRJxy2QsBxA459ATF"
@@ -677,6 +721,24 @@
       "duration_ms": 327183,
       "name": "Feel (Safehouse Live Version)",
       "url": "https://open.spotify.com/track/6UzfxOAz5eHdFS9BjYHB2A"
+    },
+    {
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127893,
+      "name": "Feeling U, Feeling Me (Interlude)",
+      "url": "https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq"
     },
     {
       "album": {
@@ -915,7 +977,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 500960,
       "name": "God Is Fair, Sexy Nasty (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6hzbRKhJHo6cfCHSnNaDS8"
@@ -959,7 +1021,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37"
@@ -1329,7 +1391,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 287013,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/7ecOjXV0WlewEXaRo2kLNn"
@@ -1435,7 +1497,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 142417,
       "name": "Keep Me Around",
       "url": "https://open.spotify.com/track/7kQ5eCSvLropJUPuEYaUbX"
@@ -1471,7 +1533,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 183461,
       "name": "Let's Get Blown",
       "url": "https://open.spotify.com/track/28SBsuXY18udxwV60GDaV7"
@@ -1511,6 +1573,46 @@
       "duration_ms": 177720,
       "name": "LOST YOU",
       "url": "https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs"
+    },
+    {
+      "album": {
+        "name": "Love You Better (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/6VODXa19xi9MlVaGDvnjep"
+      },
+      "artists": [
+        {
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "Love You Better (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4HaTbFvIyeinaV6koLK3L4"
+    },
+    {
+      "album": {
+        "name": "Moments Ago / Yesterday Feels",
+        "url": "https://open.spotify.com/album/77obPp4tcowHZwET3NGtBB"
+      },
+      "artists": [
+        {
+          "name": "JJ Adrian",
+          "url": "https://open.spotify.com/artist/4crJ8wTee0AgPI72R7YS77"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Moments Ago",
+      "url": "https://open.spotify.com/track/6OHfVVT9bIFWizu3XhSg3P"
     },
     {
       "album": {
@@ -1608,6 +1710,28 @@
     },
     {
       "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/5DjjcPVGw8jJoF9SlsQJed"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260776,
+      "name": "No Sleeep (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/2j9bG8ErzwDyAr7QljgBBp"
+    },
+    {
+      "album": {
         "name": "NWA (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv"
       },
@@ -1627,6 +1751,28 @@
       "duration_ms": 231570,
       "name": "NWA (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7"
+    },
+    {
+      "album": {
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/68LPoE2EfeEnWZGMAOB3Cu"
+      },
+      "artists": [
+        {
+          "name": "Elle Varner",
+          "url": "https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237560,
+      "name": "Only Wanna Give It To You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/1C3GfIyZjaX654Tva4QNtJ"
     },
     {
       "album": {
@@ -1922,6 +2068,24 @@
     },
     {
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158466,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/5kkaSMcf4BFlhRRICCKZb6"
+    },
+    {
+      "album": {
         "name": "Spell on Me",
         "url": "https://open.spotify.com/album/4I4Zpw6pNnxhSYPqy4FU4S"
       },
@@ -2075,7 +2239,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 148695,
       "name": "TEMPT ME",
       "url": "https://open.spotify.com/track/4hfVEWO5d5k2EsjZyLEUmC"
@@ -2263,7 +2427,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 280004,
       "name": "Walkin",
       "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"

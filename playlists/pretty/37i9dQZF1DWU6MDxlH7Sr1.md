@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 
 > Soft and swinging jazz in the background of your cocktail party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,721 likes - 105 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,842 likes - 105 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

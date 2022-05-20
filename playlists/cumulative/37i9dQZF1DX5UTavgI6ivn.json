@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Fonseca",
+  "description": "Representando la cultura con orgullo. \u00a1Celebramos los 20 a\u00f1os del legado de \"Un D\u00eda Normal\" de Juanes!",
   "name": "Made in Colombia",
   "published_playlist_ids": [
     "52JA0GNAstvKsstw41UXnX"
@@ -41,6 +41,24 @@
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda Normal (20th Anniversary Remastered)",
+        "url": "https://open.spotify.com/album/1u6LVowYLLPQVSS2o67YyW"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "A Dios Le Pido - Remastered 2022",
+      "url": "https://open.spotify.com/track/1qLtWgyXlpEgAstbyksv4V"
     },
     {
       "album": {
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 229442,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1d0c62VFYauOOgxZ2eFUxx"
@@ -684,6 +702,24 @@
     },
     {
       "album": {
+        "name": "Un D\u00eda Normal (20th Anniversary Remastered)",
+        "url": "https://open.spotify.com/album/1u6LVowYLLPQVSS2o67YyW"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250680,
+      "name": "Es Por Ti - Remastered 2022",
+      "url": "https://open.spotify.com/track/3TfuiALDQLKQqqTirOLu4q"
+    },
+    {
+      "album": {
         "name": "Esper\u00e1ndote",
         "url": "https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg"
       },
@@ -833,7 +869,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 195493,
       "name": "La Plata (feat. Lalo Ebratt)",
       "url": "https://open.spotify.com/track/7Eso5mURNFprb5PmhOXDlf"

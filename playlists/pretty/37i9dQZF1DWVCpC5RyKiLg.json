@@ -1,33 +1,13 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 450570,
+  "num_followers": 451054,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjkyMjU1MiwwMDAwMDAwMGUxYTg2NTY5NzYwZDQ5MTliNmI4OWNmN2FiNzg5YjE1",
+  "snapshot_id": "MTY1MzAyNTk5MiwwMDAwMDAwMDRmYTE5MWUzNDBiZTZlNDlkZWVmMjhmNzM1MmJmYzhm",
   "tracks": [
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Uma Ex (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5iuKDtXrKBoMqQubckDGoJ"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        },
-        {
-          "name": "Jorge",
-          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
-        }
-      ],
-      "duration_ms": 218806,
-      "name": "Uma Ex (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5AOE9T63alCQtJrtDA78Z7"
-    },
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
@@ -51,18 +31,22 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "VIBE (Ao Vivo)",
-        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
+        "name": "Uma Ex (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5iuKDtXrKBoMqQubckDGoJ"
       },
       "artists": [
         {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
         }
       ],
-      "duration_ms": 217784,
-      "name": "Deixa Tudo Como T\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0abrd2vT2W3JZBDNezUY7r"
+      "duration_ms": 218806,
+      "name": "Uma Ex (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5AOE9T63alCQtJrtDA78Z7"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -87,6 +71,22 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
+        "name": "VIBE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 217784,
+      "name": "Deixa Tudo Como T\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0abrd2vT2W3JZBDNezUY7r"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
         "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
         "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
       },
@@ -103,22 +103,6 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Live In London - At The Royal Albert Hall",
-        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "O Que \u00c9 Que Tem",
-      "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
         "name": "Troca de Cal\u00e7ada",
         "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 203158,
       "name": "Troca de Cal\u00e7ada",
       "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Live In London - At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "O Que \u00c9 Que Tem",
+      "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -167,58 +167,6 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Debaixo Do Meu Telhado",
-        "url": "https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Foi P\u00e1 Pum",
-      "url": "https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Amo Noite E Dia",
-        "url": "https://open.spotify.com/album/0zQlaUmH7s280te2ANkYwM"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Amo Noite E Dia",
-      "url": "https://open.spotify.com/track/7wp6CdZePdMmNsfs8kKNwN"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Patroas",
-        "url": "https://open.spotify.com/album/4IzsHOBctS66OP3dHXTJsG"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Uma Vida a Mais (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/2hqRWWmbHT9CTc5a4a9NVe"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
         "name": "Estado Fr\u00e1gil (Ao Vivo)",
         "url": "https://open.spotify.com/album/3wnNUHdZ0CfEVBsap5KaIk"
       },
@@ -239,50 +187,82 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Wy1VDoKnISjxJpgBlR9kj"
+        "name": "Graveto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
       },
       "artists": [
         {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 163120,
-      "name": "Aquela Pessoa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3A1LphuJ5lQD6NjPtxtYFh"
+      "duration_ms": 170877,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
     },
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Caf\u00e9 e Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4qOLbV6MFlPRM40KMYorat"
+        "name": "Debaixo Do Meu Telhado",
+        "url": "https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
         }
       ],
-      "duration_ms": 206146,
-      "name": "Caf\u00e9 e Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7benotyTvLY2vUsDKtxbiA"
+      "duration_ms": 183413,
+      "name": "Foi P\u00e1 Pum",
+      "url": "https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp"
     },
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "De Volta aos Bares",
-        "url": "https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG"
+        "name": "F\u00e3 de Carteirinha Sunset (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QAoo8Zi6hG6dy2Ca58I9K"
       },
       "artists": [
         {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
         }
       ],
-      "duration_ms": 217666,
-      "name": "Pode Ir Embora - Ao Vivo",
-      "url": "https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst"
+      "duration_ms": 342622,
+      "name": "Nem de Gra\u00e7a / Saudade Arrega\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3rDAHk73LZmgJIyGZstWQ0"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Amo Noite E Dia",
+        "url": "https://open.spotify.com/album/0zQlaUmH7s280te2ANkYwM"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Amo Noite E Dia",
+      "url": "https://open.spotify.com/track/7wp6CdZePdMmNsfs8kKNwN"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Por Mais Beijos Ao Vivo (ao Vivo)",
+        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 169593,
+      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -307,18 +287,18 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "F\u00e3 de Carteirinha Sunset (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0QAoo8Zi6hG6dy2Ca58I9K"
+        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Wy1VDoKnISjxJpgBlR9kj"
       },
       "artists": [
         {
-          "name": "Pixote",
-          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 342622,
-      "name": "Nem de Gra\u00e7a / Saudade Arrega\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3rDAHk73LZmgJIyGZstWQ0"
+      "duration_ms": 163120,
+      "name": "Aquela Pessoa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3A1LphuJ5lQD6NjPtxtYFh"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -339,22 +319,38 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "25 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK"
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Am9uQ1h1iWP2VdnLg0KVi"
       },
       "artists": [
         {
-          "name": "Exaltasamba",
-          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
-        },
-        {
-          "name": "Mariana Rios",
-          "url": "https://open.spotify.com/artist/1r2NVJNNOKVDxT84kArEtz"
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
         }
       ],
-      "duration_ms": 227826,
-      "name": "Viver Sem Ti",
-      "url": "https://open.spotify.com/track/3Xvl9CwWglXH5ASQFr5izB"
+      "duration_ms": 240333,
+      "name": "Madri - Ao Vivo",
+      "url": "https://open.spotify.com/track/4IPopPf6xn1mx57yuNgjkN"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Patroas",
+        "url": "https://open.spotify.com/album/4IzsHOBctS66OP3dHXTJsG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Uma Vida a Mais (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/2hqRWWmbHT9CTc5a4a9NVe"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -375,118 +371,38 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Graveto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
+        "name": "Cheirosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 170877,
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
+      "duration_ms": 181930,
+      "name": "Cheirosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
     },
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Sobrenome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
+        "name": "25 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK"
       },
       "artists": [
         {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+          "name": "Exaltasamba",
+          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
         },
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Mariana Rios",
+          "url": "https://open.spotify.com/artist/1r2NVJNNOKVDxT84kArEtz"
         }
       ],
-      "duration_ms": 192253,
-      "name": "Sobrenome - Ao vivo",
-      "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "O Cara Certo",
-        "url": "https://open.spotify.com/album/46AcQjehXf14WEIzG7X780"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Pulei na Piscina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Pulei na Piscina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Am9uQ1h1iWP2VdnLg0KVi"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Madri - Ao Vivo",
-      "url": "https://open.spotify.com/track/4IPopPf6xn1mx57yuNgjkN"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Por Inteiro (Primeira Metade) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/7bhvp31hhYF8kRCZreDmAU"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        }
-      ],
-      "duration_ms": 179100,
-      "name": "Espa\u00e7osa Demais - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lEw9Id7kLDSJ6KRdaenM9"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Por Mais Beijos Ao Vivo (ao Vivo)",
-        "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 169593,
-      "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
+      "duration_ms": 227826,
+      "name": "Viver Sem Ti",
+      "url": "https://open.spotify.com/track/3Xvl9CwWglXH5ASQFr5izB"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -523,22 +439,66 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Terra do Nunca (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
+        "name": "O Cara Certo",
+        "url": "https://open.spotify.com/album/46AcQjehXf14WEIzG7X780"
       },
       "artists": [
         {
           "name": "Dilsinho",
           "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         }
       ],
-      "duration_ms": 196830,
-      "name": "Pouco a Pouco (Ao Vivo) (feat. Sorriso Maroto)",
-      "url": "https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr"
+      "duration_ms": 223546,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "De Volta aos Bares",
+        "url": "https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Pode Ir Embora - Ao Vivo",
+      "url": "https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Pulei na Piscina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Pulei na Piscina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "Medo Bobo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -563,50 +523,42 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Cheirosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
+        "name": "Sogra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 181930,
-      "name": "Cheirosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+      "duration_ms": 177067,
+      "name": "Sogra - Ao Vivo",
+      "url": "https://open.spotify.com/track/4x8XaoLvpo6kd51PZD16RK"
     },
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Ao Cubo, Ao Vivo, Em Cores",
-        "url": "https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA"
+        "name": "Sobrenome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
       },
       "artists": [
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 166672,
-      "name": "Reprise - Ao Vivo",
-      "url": "https://open.spotify.com/track/4C24fGqRUrz3TyVt4uku2Y"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Pode Sumir",
-        "url": "https://open.spotify.com/album/3Vpyz0ryjD1b1myLqFktsd"
-      },
-      "artists": [
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        },
         {
-          "name": "Lu\u00edza & Maur\u00edlio",
-          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 177564,
-      "name": "Pode Sumir",
-      "url": "https://open.spotify.com/track/5OzvtpasMB3aPWpfVr0PsA"
+      "duration_ms": 192253,
+      "name": "Sobrenome - Ao vivo",
+      "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -631,50 +583,18 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+        "name": "Por Inteiro (Primeira Metade) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/7bhvp31hhYF8kRCZreDmAU"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
         }
       ],
-      "duration_ms": 182340,
-      "name": "Notifica\u00e7\u00e3o Preferida - Ao Vivo",
-      "url": "https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 233042,
-      "name": "Eu Te Amo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1R38t8OwFftz2EzCwMogIJ"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "10 Anos Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5BHsJsz0eSBdWjAJYdFm76"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 173503,
-      "name": "Nem Doeu - Ao Vivo",
-      "url": "https://open.spotify.com/track/6EhfXC7Ns3HbzlVi4ZiuOY"
+      "duration_ms": 179100,
+      "name": "Espa\u00e7osa Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lEw9Id7kLDSJ6KRdaenM9"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -695,18 +615,118 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia - EP1",
-        "url": "https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL"
+        "name": "Nos Arcos da Lapa",
+        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 190244,
-      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg"
+      "duration_ms": 237440,
+      "name": "Final De Tarde",
+      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Text\u00e3o (ao Vivo)",
+        "url": "https://open.spotify.com/album/6A0F8iTRNqEvQ79e2mXCYC"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 183073,
+      "name": "Text\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3yOuQI8yjJaApfdo4hdkVW"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Terra do Nunca (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 196830,
+      "name": "Pouco a Pouco (Ao Vivo) (feat. Sorriso Maroto)",
+      "url": "https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Caf\u00e9 e Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4qOLbV6MFlPRM40KMYorat"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Caf\u00e9 e Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7benotyTvLY2vUsDKtxbiA"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "10 Anos Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5BHsJsz0eSBdWjAJYdFm76"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 173503,
+      "name": "Nem Doeu - Ao Vivo",
+      "url": "https://open.spotify.com/track/6EhfXC7Ns3HbzlVi4ZiuOY"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Agora \u00c9 Que S\u00e3o Elas 2 (Ao Vivo | Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 149995,
+      "name": "Aus\u00eancia - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5czCFvsdcKKkWdwT2AAAZC"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
+        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Louca de Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/2InJDvDcA4RXEeA9njdibl"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -731,22 +751,6 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "At\u00e9 Que Durou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3lOjLjCKmjIBPifXxTiFs6"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 313854,
-      "name": "At\u00e9 Que Durou - Ao Vivo",
-      "url": "https://open.spotify.com/track/02uGRWxlEIbpdypNUvJoXm"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
         "name": "Desejando Eu (Ao Vivo)",
         "url": "https://open.spotify.com/album/0aE84qddWXI20A2XliO6CP"
       },
@@ -767,70 +771,54 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia - EP1",
+        "url": "https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 190244,
+      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Juras de Amor",
+        "url": "https://open.spotify.com/album/5B1HU5inSYxdZiYr8ow3kI"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "Juras de Amor",
+      "url": "https://open.spotify.com/track/3WTWx7yJAqohrSs7PLHGhq"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Aqui Em Casa (ao Vivo)",
+        "url": "https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH"
       },
       "artists": [
         {
           "name": "Maiara & Maraisa",
           "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 174920,
-      "name": "Medo Bobo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Agora \u00c9 Que S\u00e3o Elas 2 (Ao Vivo | Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 149995,
-      "name": "Aus\u00eancia - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5czCFvsdcKKkWdwT2AAAZC"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Antes e depois (Ao vivo)",
-        "url": "https://open.spotify.com/album/3kOemlg2IUkiZfgg40eh7y"
-      },
-      "artists": [
-        {
-          "name": "Imaginasamba",
-          "url": "https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB"
         },
         {
           "name": "Dilsinho",
           "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 190296,
-      "name": "Antes e depois (Participa\u00e7\u00e3o especial de Dilsinho) - Ao vivo",
-      "url": "https://open.spotify.com/track/4fn9KNxfaHhvZ8QPImU6q7"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Nos Arcos da Lapa",
-        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Final De Tarde",
-      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
+      "duration_ms": 168080,
+      "name": "Libera Ela - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -847,6 +835,38 @@
       "duration_ms": 221693,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/4kUpVCOVfhipS0KRuoBYvs"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "Serenata - Ao Vivo",
+      "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Liberdade Provis\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6rQDlITDyOO6dihMXtM68L"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 187985,
+      "name": "Liberdade Provis\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vG3YuKRYqPwTmNmYgqkpg"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -871,18 +891,50 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Liberdade Provis\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6rQDlITDyOO6dihMXtM68L"
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
       "artists": [
         {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 187985,
-      "name": "Liberdade Provis\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/1vG3YuKRYqPwTmNmYgqkpg"
+      "duration_ms": 182340,
+      "name": "Notifica\u00e7\u00e3o Preferida - Ao Vivo",
+      "url": "https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Amor Da Sua Cama",
+        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "duration_ms": 188309,
+      "name": "Amor Da Sua Cama",
+      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pp1MaNtkBTjbrvmvXVT1w"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 243097,
+      "name": "Melhor Eu Ir - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pbmSONpVrMl9OEetkL974"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -899,302 +951,6 @@
       "duration_ms": 208930,
       "name": "Nessas Horas - Ao Vivo",
       "url": "https://open.spotify.com/track/1MnUXXQEuzlJFNF5xMH1XQ"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
-        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "Serenata - Ao Vivo",
-      "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Errejota (ao Vivo)",
-        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Algo Mais (Amante) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Sensa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Cuidado Cupido",
-      "url": "https://open.spotify.com/track/19cDGnoySRRBms8x9C0ZsY"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Sinal Vital",
-        "url": "https://open.spotify.com/album/0Ygb354Evijqox4do2bYZL"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 148837,
-      "name": "Sinal Vital",
-      "url": "https://open.spotify.com/track/0EPP4wnQKrOsQ5k0vcg2Bz"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
-        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "\u00c9 Com Ela Que Eu Estou - Ao Vivo",
-      "url": "https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Sogra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 177067,
-      "name": "Sogra - Ao Vivo",
-      "url": "https://open.spotify.com/track/4x8XaoLvpo6kd51PZD16RK"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Juras de Amor",
-        "url": "https://open.spotify.com/album/5B1HU5inSYxdZiYr8ow3kI"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 189266,
-      "name": "Juras de Amor",
-      "url": "https://open.spotify.com/track/3WTWx7yJAqohrSs7PLHGhq"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "O Som das Multid\u00f5es",
-        "url": "https://open.spotify.com/album/3XhihHyXFqyUxo5ICzp7DE"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Lancinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/2iH7RnVhofwr9NhaQ6r44K"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Romance Desapegado",
-        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
-      },
-      "artists": [
-        {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Romance Desapegado",
-      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "25 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK"
-      },
-      "artists": [
-        {
-          "name": "Exaltasamba",
-          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "T\u00e1 Vendo Aquela Lua",
-      "url": "https://open.spotify.com/track/6DjKWVAqXUvMaAzO4U4CIo"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Ao Vivo Em Bras\u00edlia (Deluxe)",
-        "url": "https://open.spotify.com/album/3rdhpit8buHMhMgEQejEEH"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Cuida Bem Dela (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3v7wCCCAalarf1HShBi4QB"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "T\u00f4 Achando Que \u00c9 Amor, Ep. 4",
-        "url": "https://open.spotify.com/album/09N2lAZ7IAtNumMMj5EZHg"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 198769,
-      "name": "Mal Acostumado",
-      "url": "https://open.spotify.com/track/4o2PBBped448WOwkMAFRHy"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Raz\u00e3o das Minhas Biritas",
-        "url": "https://open.spotify.com/album/4Ip2TRg5YA9MubkqTu4NGv"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edza & Maur\u00edlio",
-          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
-        }
-      ],
-      "duration_ms": 190722,
-      "name": "Raz\u00e3o das Minhas Biritas",
-      "url": "https://open.spotify.com/track/3k2QcH88P5lgllbw3SKB87"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Bruno Cardoso",
-          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
-      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Os Anjos Cantam",
-        "url": "https://open.spotify.com/album/0spzPH10djjrUshMB2z9jt"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 167240,
-      "name": "Nocaute",
-      "url": "https://open.spotify.com/track/2NnSYdNhqye00il4nRB4tj"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Quarto e Sala",
-        "url": "https://open.spotify.com/album/2F6QKX0h4wqizmMjFpVtGG"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 180687,
-      "name": "Onze e Pouquinho",
-      "url": "https://open.spotify.com/track/65i9Mc7h1CG7ssI1OhMPcT"
-    },
-    {
-      "added_at": "2022-01-27 00:00:00",
-      "album": {
-        "name": "Misturadin (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Chrigor",
-          "url": "https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk"
-        }
-      ],
-      "duration_ms": 360269,
-      "name": "Desliga e Vem / Gamei / Gandaia (feat. P\u00e9ricles & Chrigor) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -1219,6 +975,102 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
+        "name": "Pode Sumir",
+        "url": "https://open.spotify.com/album/3Vpyz0ryjD1b1myLqFktsd"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edza & Maur\u00edlio",
+          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
+        }
+      ],
+      "duration_ms": 177564,
+      "name": "Pode Sumir",
+      "url": "https://open.spotify.com/track/5OzvtpasMB3aPWpfVr0PsA"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Ch\u00e3o de estrelas (Ao vivo)",
+        "url": "https://open.spotify.com/album/2sRaJ90PEqpDf1XU0T4zun"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 224181,
+      "name": "At\u00e9 que enfim - Ao vivo",
+      "url": "https://open.spotify.com/track/1zI3RU0boCVsAXChjCvESu"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Tijol\u00e3o (ao Vivo)",
+        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 175219,
+      "name": "Tijol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "\u00c9 Com Ela Que Eu Estou - Ao Vivo",
+      "url": "https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "At\u00e9 Que Durou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3lOjLjCKmjIBPifXxTiFs6"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 313854,
+      "name": "At\u00e9 Que Durou - Ao Vivo",
+      "url": "https://open.spotify.com/track/02uGRWxlEIbpdypNUvJoXm"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Recairei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 166837,
+      "name": "Recairei - Ao Vivo",
+      "url": "https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
         "name": "Reflexo - Deluxe (ao Vivo)",
         "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
       },
@@ -1231,6 +1083,70 @@
       "duration_ms": 202474,
       "name": "Nem Tchum - Ao Vivo",
       "url": "https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) (ao Vivo)",
+        "url": "https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 179099,
+      "name": "Bebi Minha Bicicleta (Cora\u00e7\u00e3o Falido) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Quarto e Sala",
+        "url": "https://open.spotify.com/album/2F6QKX0h4wqizmMjFpVtGG"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 180687,
+      "name": "Onze e Pouquinho",
+      "url": "https://open.spotify.com/track/65i9Mc7h1CG7ssI1OhMPcT"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Romance Desapegado",
+        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
+      },
+      "artists": [
+        {
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "Romance Desapegado",
+      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "Pra voc\u00ea acreditar - Ao vivo",
+      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -1251,18 +1167,70 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Nos Arcos da Lapa",
-        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
+        "name": "25 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK"
+      },
+      "artists": [
+        {
+          "name": "Exaltasamba",
+          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "T\u00e1 Vendo Aquela Lua",
+      "url": "https://open.spotify.com/track/6DjKWVAqXUvMaAzO4U4CIo"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Perto De Mim",
+        "url": "https://open.spotify.com/album/0CtVDsUUU2zokJqoXxbrlN"
+      },
+      "artists": [
+        {
+          "name": "Thaeme & Thiago",
+          "url": "https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/2VtqQYnbE16obMwI9iXEwp"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Sensa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p"
       },
       "artists": [
         {
           "name": "P\u00e9ricles",
           "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 185893,
-      "name": "Tudo Fica Blue",
-      "url": "https://open.spotify.com/track/5CWNvGvbMUnUktO4BWZMMb"
+      "duration_ms": 267533,
+      "name": "Cuidado Cupido",
+      "url": "https://open.spotify.com/track/19cDGnoySRRBms8x9C0ZsY"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 161678,
+      "name": "Beijo De Varanda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
     },
     {
       "added_at": "2022-01-27 00:00:00",
@@ -1299,82 +1267,98 @@
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+        "name": "Felipe Ara\u00fajo In Bras\u00edlia (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/15XApXonewJchLQbLwFuy3"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
         }
       ],
-      "duration_ms": 203894,
-      "name": "Pra voc\u00ea acreditar - Ao vivo",
-      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
+      "duration_ms": 193669,
+      "name": "Mentira - Ao Vivo",
+      "url": "https://open.spotify.com/track/146Vb458Y5RbqEa0fYFPzm"
     },
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Ensaio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
       },
       "artists": [
         {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 161678,
-      "name": "Beijo De Varanda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
+      "duration_ms": 233042,
+      "name": "Eu Te Amo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1R38t8OwFftz2EzCwMogIJ"
     },
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Reflexo - Deluxe (ao Vivo)",
-        "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
+        "name": "Jo\u00e3o Bosco e Vin\u00edcius",
+        "url": "https://open.spotify.com/album/3g3ZJZlY60RIVHTcUpjsAi"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Jo\u00e3o Bosco & Vinicius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
         }
       ],
-      "duration_ms": 180629,
-      "name": "N\u00e3o Abro M\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3L2uyIJoJPjYkSETVNSPBQ"
+      "duration_ms": 175226,
+      "name": "Chuva",
+      "url": "https://open.spotify.com/track/29QzIklnzkIJMM52nwPzE3"
     },
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+        "name": "O Som das Multid\u00f5es",
+        "url": "https://open.spotify.com/album/3XhihHyXFqyUxo5ICzp7DE"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
         }
       ],
-      "duration_ms": 179722,
-      "name": "quando a bad bater - ao vivo",
-      "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
+      "duration_ms": 227413,
+      "name": "Lancinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2iH7RnVhofwr9NhaQ6r44K"
     },
     {
       "added_at": "2022-01-27 00:00:00",
       "album": {
-        "name": "Numanice #2",
-        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
+        "name": "Conselho (ao Vivo)",
+        "url": "https://open.spotify.com/album/0RVp1yzx3mTm7R3Vtojx3L"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
         }
       ],
-      "duration_ms": 145504,
-      "name": "Fora de Si",
-      "url": "https://open.spotify.com/track/6JwJ0BfLnfHojJEoafjFfV"
+      "duration_ms": 156838,
+      "name": "Tamb\u00e9m Sei Fazer Falta - Ao Vivo",
+      "url": "https://open.spotify.com/track/6hrV6KYL9zM8vFAbOSxFHY"
+    },
+    {
+      "added_at": "2022-01-27 00:00:00",
+      "album": {
+        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Wy1VDoKnISjxJpgBlR9kj"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
+      "url": "https://open.spotify.com/track/2x67AU9q3lf7cfPSzxCDsL"
     }
   ],
   "unique_name": "Faxina com Sofr\u00eancia",

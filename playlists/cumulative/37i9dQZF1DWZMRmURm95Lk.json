@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. In cover, Nesli e Jack The Smoker.",
+  "description": "Beat e rime, oggi come una volta. In cover, Moder.",
   "name": "Radici Hip Hop",
   "published_playlist_ids": [
     "4N3m0KkyvafB7QizhgRop2"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "17:00",
+        "url": "https://open.spotify.com/album/1SvPB5ALy58JpI8PpAdoSC"
+      },
+      "artists": [
+        {
+          "name": "Luca Re",
+          "url": "https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8"
+        },
+        {
+          "name": "Chryverde",
+          "url": "https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "17:00",
+      "url": "https://open.spotify.com/track/17kAQXRqK1uf6l7atW5Xcl"
+    },
     {
       "album": {
         "name": "Schiena Contro Schiena",
@@ -27,6 +49,24 @@
       "duration_ms": 259557,
       "name": "21 Grammi",
       "url": "https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s"
+    },
+    {
+      "album": {
+        "name": "Sotto lo stesso effetto",
+        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295333,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "album": {
@@ -101,7 +141,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 311960,
       "name": "Aspettando Il Sole - Remastered",
       "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
@@ -289,7 +329,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 193706,
       "name": "Bugie Bianche",
       "url": "https://open.spotify.com/track/4pMLcSYJgxfWtE5P7rpHPq"
@@ -307,7 +347,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 295293,
       "name": "Cani sciolti",
       "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
@@ -385,7 +425,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 240744,
       "name": "Che nessuno si muova",
       "url": "https://open.spotify.com/track/58DcYPv6jTVD6BeYsiPfSn"
@@ -403,7 +443,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 283480,
       "name": "Chi More Pe' Mme",
       "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
@@ -473,7 +513,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "Coltelli",
       "url": "https://open.spotify.com/track/5FYJs2NzhioUpt8pJ6BnHo"
@@ -491,7 +531,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 136762,
       "name": "Confessione - story",
       "url": "https://open.spotify.com/track/62PmTvqTcP5NK2ZlS2HDuR"
@@ -567,7 +607,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 323360,
       "name": "Curre curre guagli\u00f2",
       "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
@@ -607,7 +647,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 162000,
       "name": "Dicembre",
       "url": "https://open.spotify.com/track/2WMHW2QFllDvd4cnHGOLRS"
@@ -673,7 +713,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 304560,
       "name": "Disegni nella mente",
       "url": "https://open.spotify.com/track/6CTfiEvB6f6B36XATiv43W"
@@ -721,10 +761,36 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 158102,
       "name": "Enzo Tortora",
       "url": "https://open.spotify.com/track/7dqbXjoMaCtULOxJRycX2d"
+    },
+    {
+      "album": {
+        "name": "Fari Spenti.",
+        "url": "https://open.spotify.com/album/4OjBdQH7u5K77VpMefe8e8"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        },
+        {
+          "name": "Macaboro",
+          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Fari Spenti.",
+      "url": "https://open.spotify.com/track/4qzaQs0yLRwEaBwWHAIySU"
     },
     {
       "album": {
@@ -845,7 +911,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 158961,
       "name": "Ghetto Master (La Mattanza)",
       "url": "https://open.spotify.com/track/2JIvVxNnDoD7Xo8P1oFiTl"
@@ -879,6 +945,32 @@
       "duration_ms": 311000,
       "name": "Ghettoblaster",
       "url": "https://open.spotify.com/track/5JpWfVGafokOb3PBGlp98g"
+    },
+    {
+      "album": {
+        "name": "Ligera Memories",
+        "url": "https://open.spotify.com/album/5EZixxM0YWkKptyfMrnwlK"
+      },
+      "artists": [
+        {
+          "name": "MxRxGxA",
+          "url": "https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M"
+        },
+        {
+          "name": "Montenero",
+          "url": "https://open.spotify.com/artist/5oGHd7AZ8Sr05S5MP5SnYC"
+        },
+        {
+          "name": "Gionni Gioielli",
+          "url": "https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143700,
+      "name": "Gioielleria Colombo",
+      "url": "https://open.spotify.com/track/1ikGn3FDQFst0ZwSdjcSyn"
     },
     {
       "album": {
@@ -919,7 +1011,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 275920,
       "name": "Grande",
       "url": "https://open.spotify.com/track/12IMXVPVItGGUCPckxOjPl"
@@ -941,7 +1033,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 179936,
       "name": "Guardie&Ladri (feat. Nayt)",
       "url": "https://open.spotify.com/track/3glwI8YMhuziGnQvnhrkqz"
@@ -1047,7 +1139,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 599980,
       "name": "Incubi",
       "url": "https://open.spotify.com/track/70bR9llwrqj7jAeAYtNAsq"
@@ -1109,7 +1201,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 158076,
       "name": "Iron Maiden",
       "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
@@ -1171,7 +1263,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 293101,
       "name": "La Fenice (Remix)",
       "url": "https://open.spotify.com/track/5iLh8ierAnT0KbtLuan1KZ"
@@ -1211,7 +1303,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 391960,
       "name": "La porra",
       "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
@@ -1255,7 +1347,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 214235,
       "name": "Lampi nel blu",
       "url": "https://open.spotify.com/track/2pcOxAhZlZAw6XDcbe9NQ3"
@@ -1307,6 +1399,32 @@
       "duration_ms": 160574,
       "name": "Lasciami solo",
       "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
+    },
+    {
+      "album": {
+        "name": "Le Ultime Lacrime",
+        "url": "https://open.spotify.com/album/02cHJg3HsKxWID0dAXpy8m"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Dafa",
+          "url": "https://open.spotify.com/artist/0XL3wakjeNxxacLlnGAqXv"
+        },
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Le Ultime Lacrime",
+      "url": "https://open.spotify.com/track/4oX4byHbImE4WAM85RGUWN"
     },
     {
       "album": {
@@ -1405,7 +1523,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 296093,
       "name": "Meglio Che Scendi",
       "url": "https://open.spotify.com/track/4F5UX1kX9hmqe88NPwl36v"
@@ -1435,7 +1553,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 244000,
       "name": "Metaforico Malinconico - Reloaded Version",
       "url": "https://open.spotify.com/track/2oDBMXJUCc6WBOCHqC6Hr6"
@@ -1457,7 +1575,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
@@ -1621,7 +1739,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 93733,
       "name": "Nocche Dure",
       "url": "https://open.spotify.com/track/7fdwQk6qjUlIKuVT7AABMz"
@@ -1695,7 +1813,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 232986,
       "name": "Non Mi Avrete Mai",
       "url": "https://open.spotify.com/track/3NKspAjWQGaWSecwtS3lS1"
@@ -1805,7 +1923,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 299840,
       "name": "Nudo",
       "url": "https://open.spotify.com/track/0zfvcyLLO4lC9Ie7c4fNMR"
@@ -1827,7 +1945,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 174624,
       "name": "Nuove Stanze",
       "url": "https://open.spotify.com/track/4MFhwqdU8zHbk5zcMvGnrL"
@@ -1849,7 +1967,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Obscurus",
       "url": "https://open.spotify.com/track/6sZVjdvVh5Q1ZLfyT2t5wn"
@@ -1867,7 +1985,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 293973,
       "name": "Oggi no",
       "url": "https://open.spotify.com/track/26PbpiNON1xMmCZnLHViMl"
@@ -1919,7 +2037,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 187959,
       "name": "Parla piano",
       "url": "https://open.spotify.com/track/37IHphajTmd27MDLG76zEd"
@@ -1937,7 +2055,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 229560,
       "name": "Parole",
       "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
@@ -2033,7 +2151,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 230375,
       "name": "Pioggia infinita",
       "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
@@ -2063,7 +2181,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 309466,
       "name": "Piombo & fango",
       "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
@@ -2085,7 +2203,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 202142,
       "name": "Pi\u00f9 forte di me",
       "url": "https://open.spotify.com/track/0PCvuLxAe3BrJdECjoDCyv"
@@ -2159,7 +2277,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 219700,
       "name": "Polvere da sparo",
       "url": "https://open.spotify.com/track/3rEnon0Wk8GLUJn0MX0iZm"
@@ -2211,7 +2329,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 134463,
       "name": "Portami con Te.",
       "url": "https://open.spotify.com/track/1WWAYAfHPrtxCgllHjZEdm"
@@ -2259,7 +2377,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 181451,
       "name": "PRIVACY",
       "url": "https://open.spotify.com/track/2aSttgBmRJyhI6LLLgEkqO"
@@ -2311,7 +2429,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
@@ -2369,7 +2487,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 249506,
       "name": "Quelli che benpensano (feat. Riccardo Sinigallia)",
       "url": "https://open.spotify.com/track/0ekMehNXQgeMJXfCPrlTTf"
@@ -2445,7 +2563,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 285600,
       "name": "Riflessioni di un'anima inquieta",
       "url": "https://open.spotify.com/track/2mVgLG2qHFV5x83Z0NUJ99"
@@ -2463,7 +2581,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 354506,
       "name": "Rigurgito antifascista",
       "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
@@ -2519,7 +2637,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 473322,
       "name": "S.U.N.S.H.I.N.E.",
       "url": "https://open.spotify.com/track/3fdeucUkkQFNVbce7rTsW1"
@@ -2541,7 +2659,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 175026,
       "name": "Sai (feat. Christian Nife)",
       "url": "https://open.spotify.com/track/4LmypjAe4nRo0KRZ2IpiLX"
@@ -2615,7 +2733,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 187415,
       "name": "Sembra un film",
       "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
@@ -2731,7 +2849,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Solo hardcore",
       "url": "https://open.spotify.com/track/3ivUJERFA99Vh1V6BY2SBb"
@@ -2761,7 +2879,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 192530,
       "name": "Sound Fi Dead",
       "url": "https://open.spotify.com/track/2uACaAvI5voYrCcqmZEK7D"
@@ -2779,7 +2897,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 145446,
       "name": "SPECIALIST",
       "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
@@ -2875,7 +2993,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 205026,
       "name": "Sulla Giostra",
       "url": "https://open.spotify.com/track/01l8BJl6CoFQaR3RFliOD9"
@@ -2909,7 +3027,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 288000,
       "name": "Suono Sporco - Reloaded Version",
       "url": "https://open.spotify.com/track/79OhZiDrjejbJdXr1W1wcI"
@@ -2935,6 +3053,32 @@
       "duration_ms": 244600,
       "name": "Tajerino",
       "url": "https://open.spotify.com/track/0mLl4prCLzjJxsEsivHh2s"
+    },
+    {
+      "album": {
+        "name": "Tergicristalli",
+        "url": "https://open.spotify.com/album/7wSYzyI4vKbsU4DGfzxXH3"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        },
+        {
+          "name": "Duna",
+          "url": "https://open.spotify.com/artist/1eZx75fGVjN3BvdzMT92k6"
+        },
+        {
+          "name": "KD-ONE",
+          "url": "https://open.spotify.com/artist/0bXzQ96tE5uWMDUnw6xeQr"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197100,
+      "name": "Tergicristalli",
+      "url": "https://open.spotify.com/track/1HpJOgQzkHBa4l8Ct6oLGB"
     },
     {
       "album": {

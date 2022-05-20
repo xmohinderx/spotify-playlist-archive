@@ -690,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Give You Everything",
+        "url": "https://open.spotify.com/album/7Kun6EouwhyDRRTku3xGgi"
+      },
+      "artists": [
+        {
+          "name": "Eliza & The Delusionals",
+          "url": "https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203528,
+      "name": "Give You Everything",
+      "url": "https://open.spotify.com/track/6PMRGsl6rIZOdT3PrsjXtT"
+    },
+    {
+      "album": {
         "name": "How To Let Go",
         "url": "https://open.spotify.com/album/4V714KyABj469FBI9Dao8T"
       },

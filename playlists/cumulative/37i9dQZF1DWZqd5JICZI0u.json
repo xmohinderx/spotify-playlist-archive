@@ -1848,6 +1848,24 @@
     },
     {
       "album": {
+        "name": "Fields Of Thoughts",
+        "url": "https://open.spotify.com/album/0c75G7hjqOYfLt3GLGjqaP"
+      },
+      "artists": [
+        {
+          "name": "Lonaras",
+          "url": "https://open.spotify.com/artist/2q7Iuol5fO3jyAL6qV3Lea"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169111,
+      "name": "Fields Of Thoughts",
+      "url": "https://open.spotify.com/track/3572Gf3GzIVt7OcnavAILF"
+    },
+    {
+      "album": {
         "name": "Focus Forward",
         "url": "https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR"
       },
@@ -5254,6 +5272,24 @@
     },
     {
       "album": {
+        "name": "Similarities",
+        "url": "https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb"
+      },
+      "artists": [
+        {
+          "name": "Benny Dawn",
+          "url": "https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Similarities",
+      "url": "https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r"
+    },
+    {
+      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/6fg80AhUt2EltjNlo2kMZa"
       },
@@ -5319,7 +5355,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 158400,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/62cdPqaOoaQng2DXbT47j7"

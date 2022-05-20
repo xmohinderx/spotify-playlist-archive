@@ -510,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Dirt Does Dylan",
+        "url": "https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169874,
+      "name": "Country Pie",
+      "url": "https://open.spotify.com/track/7saHu3eotJFSeo6TAFkvoD"
+    },
+    {
+      "album": {
         "name": "Barroom Mirrors EP",
         "url": "https://open.spotify.com/album/5fPloWNi1Mk2LAahhDwe88"
       },
@@ -993,6 +1011,28 @@
       "duration_ms": 167530,
       "name": "Honky Tonk Boots",
       "url": "https://open.spotify.com/track/50n0xq2emVcORdDztPNqkt"
+    },
+    {
+      "album": {
+        "name": "Honky Tonk Town",
+        "url": "https://open.spotify.com/album/5bWQAEpi5HQTkMKAyLYdhP"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
+        },
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "Honky Tonk Town",
+      "url": "https://open.spotify.com/track/1Jsijb9pEP1F44gbRK1XXN"
     },
     {
       "album": {

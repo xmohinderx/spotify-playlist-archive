@@ -296,6 +296,28 @@
     },
     {
       "album": {
+        "name": "Earthguest",
+        "url": "https://open.spotify.com/album/42bzv7lW3nN0jxt9ZG1ZVR"
+      },
+      "artists": [
+        {
+          "name": "Steroid Puppets",
+          "url": "https://open.spotify.com/artist/1v39hJJ604GsEZWEqhrTko"
+        },
+        {
+          "name": "Marty Friedman",
+          "url": "https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539053,
+      "name": "Earthguest",
+      "url": "https://open.spotify.com/track/7wVAS3INpT4el1p6FJpY3x"
+    },
+    {
+      "album": {
         "name": "All of Creation",
         "url": "https://open.spotify.com/album/4JnTiM4k8PskSpoT1ORTIa"
       },

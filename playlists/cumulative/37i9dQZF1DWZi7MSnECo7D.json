@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Amor De Ver\u00e3o",
+        "url": "https://open.spotify.com/album/4NovKLUlybz2zMuBiTcfiy"
+      },
+      "artists": [
+        {
+          "name": "Maglore",
+          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179031,
+      "name": "Amor De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/55F2q4R6l1m5hxCJaqw96o"
+    },
+    {
+      "album": {
         "name": "Amor F\u00e1cil",
         "url": "https://open.spotify.com/album/0rlnF3P0b2PGkfmMzoyZK2"
       },
@@ -323,6 +341,24 @@
       "duration_ms": 179845,
       "name": "Bateria Social",
       "url": "https://open.spotify.com/track/1sz0sqdm8bUMLXrTfR5gEE"
+    },
+    {
+      "album": {
+        "name": "BB (Garupa de Moto Amarela)",
+        "url": "https://open.spotify.com/album/7ExE0OsPgAEOywkveeWoeL"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166706,
+      "name": "BB (Garupa de Moto Amarela)",
+      "url": "https://open.spotify.com/track/4urIUktF6jtKJhvjFU5hwy"
     },
     {
       "album": {
@@ -819,7 +855,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 227318,
       "name": "Decidez",
       "url": "https://open.spotify.com/track/42fbMR2dkMat25LlLFRJ20"
@@ -935,7 +971,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 168989,
       "name": "Divino",
       "url": "https://open.spotify.com/track/5h28ZG3vmzEhgiuin5dWSP"
@@ -2091,7 +2127,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 257687,
       "name": "O Seu Amor",
       "url": "https://open.spotify.com/track/1zwyRV5lzk7EdmVa9rR6tN"
@@ -2185,6 +2221,28 @@
       "duration_ms": 196886,
       "name": "Papel de Trouxa",
       "url": "https://open.spotify.com/track/3eIopS2sNEht311iFdvOZf"
+    },
+    {
+      "album": {
+        "name": "Pensar",
+        "url": "https://open.spotify.com/album/1Dd9yZOGwhF0XN4xYzr2Hr"
+      },
+      "artists": [
+        {
+          "name": "Hate Moss",
+          "url": "https://open.spotify.com/artist/70OdNVoUb2Pn8kG7gDDHGe"
+        },
+        {
+          "name": "Isis Broken",
+          "url": "https://open.spotify.com/artist/5OSfbUnn2yTVhUR40msm1V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247253,
+      "name": "Pensar",
+      "url": "https://open.spotify.com/track/6rDhAFyPjQUqtbwpd6BvnQ"
     },
     {
       "album": {
@@ -2910,6 +2968,24 @@
     },
     {
       "album": {
+        "name": "Tempo Presente",
+        "url": "https://open.spotify.com/album/4Mp6pCuxYF9myM7r182ZMi"
+      },
+      "artists": [
+        {
+          "name": "Glue Trip",
+          "url": "https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Tempo Presente",
+      "url": "https://open.spotify.com/track/6EcOfscBzI1HIEHTp25ysT"
+    },
+    {
+      "album": {
         "name": "Fernando Catatau",
         "url": "https://open.spotify.com/album/1pP6XoftJqib7n3rgJFFIi"
       },
@@ -3055,7 +3131,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 199580,
       "name": "Transtornos",
       "url": "https://open.spotify.com/track/57FgLEK6p7HdNXitdxfVSW"

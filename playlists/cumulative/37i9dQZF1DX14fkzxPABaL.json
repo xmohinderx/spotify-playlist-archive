@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Kany Garc\u00eda & Alejandro Sanz.",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: TINI.",
   "name": "Enamor\u00e1ndose",
   "published_playlist_ids": [
     "1AAjF0AYqsSQNvAOQluejC"
@@ -364,6 +364,24 @@
     },
     {
       "album": {
+        "name": "Carne y Hueso",
+        "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178309,
+      "name": "Carne y Hueso",
+      "url": "https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW"
+    },
+    {
+      "album": {
         "name": "Carretera",
         "url": "https://open.spotify.com/album/1xXmuLEEGybfGE5tlt7UvV"
       },
@@ -637,6 +655,28 @@
       "duration_ms": 188598,
       "name": "Dejar\u00eda Todo",
       "url": "https://open.spotify.com/track/1ZN2Dat0KrO0xqr9t8QP9r"
+    },
+    {
+      "album": {
+        "name": "Despu\u00e9s De Ti",
+        "url": "https://open.spotify.com/album/5F5kLsabAGAACpCMxWS1D9"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198433,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/7Gyw1SoLPJE5x1yF1ogD5o"
     },
     {
       "album": {
@@ -2094,6 +2134,24 @@
     },
     {
       "album": {
+        "name": "Somos lo Que Fuimos",
+        "url": "https://open.spotify.com/album/0exDAUCLHgsfotuIoert13"
+      },
+      "artists": [
+        {
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264544,
+      "name": "Somos lo Que Fuimos",
+      "url": "https://open.spotify.com/track/3ibDGcd0T1w3hWQgyz3upr"
+    },
+    {
+      "album": {
         "name": "Soy capaz",
         "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
       },
@@ -2243,6 +2301,24 @@
       "duration_ms": 194836,
       "name": "Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2"
+    },
+    {
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/6zSxml88fNR8yHBztM0ZcQ"
+      },
+      "artists": [
+        {
+          "name": "Jo Dimata",
+          "url": "https://open.spotify.com/artist/5sTptBGZPv9RocQoROWhAp"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252561,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/67Rux9WNh2bIIK0Ub1prft"
     },
     {
       "album": {

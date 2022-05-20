@@ -4,7 +4,7 @@
 
 > Django and beyond.
 
-67 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
+68 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/5hiFw2oABHGkaqWDrEQcEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Mumbo Jumbo](https://open.spotify.com/track/0iPqQ1s88PgRFNbxoj6E3V) | [Les doigts de l'homme](https://open.spotify.com/artist/7DOLup8LOVWI6g9PoeUOO5) | [Mumbo Jumbo](https://open.spotify.com/album/13YA3p0hUrnvlf7eyIRkj4) | 3:41 | 2021-02-04 |  |
 | [Noto Swing](https://open.spotify.com/track/0V41BiC0l8yvfYNG7uca3k) | [Angelo DeBarre](https://open.spotify.com/artist/64oD1nmr26PzBAecbxdBzt), [Moreno](https://open.spotify.com/artist/2degWnXduSuO2G7PcQi6vO), [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8) | [Moreno](https://open.spotify.com/album/2D6NyWEwm04uWDLK6iYqhH) | 3:16 | 2021-02-04 |  |
 | [Noto Swing](https://open.spotify.com/track/5K1EggH1ukqNIDZy2KA9eK) | [Harmonious Wail](https://open.spotify.com/artist/0oiYyKo8F9Bm80L02whvQ1) | [Noto Swing](https://open.spotify.com/album/0ITVfCNkcYnevE5V86zL30) | 3:23 | 2021-02-04 |  |
+| [Nymphéas](https://open.spotify.com/track/40nqi9rHYgwlw688GfD2zr) | [Duane Andrews](https://open.spotify.com/artist/0FSBa5Pm7dulcy4TlirIxR) | [Nymphéas](https://open.spotify.com/album/4xZ3oe0Ia3VG2dqjTgYigE) | 4:31 | 2022-05-20 |  |
 | [One for Nieb](https://open.spotify.com/track/5Gw7MeQTfT7WXrn5f14mm8) | [Paulo Morello](https://open.spotify.com/artist/7HOLgdn03zAzkJ0c1Rdzv0), [Mulo Francel](https://open.spotify.com/artist/4ZfWg40EXHfCUiXHOIfRsI), [Sven Faller](https://open.spotify.com/artist/498SI25eedUQQUqzrf74NF) | [One for Nieb](https://open.spotify.com/album/5ohscyS9sYAT7AEKR8avFd) | 5:29 | 2022-02-04 |  |
 | [Puttin' On the Ritz](https://open.spotify.com/track/0UOKYamx2rZB4HYjedYFxn) | [Gypsy Swing Revue](https://open.spotify.com/artist/3ZJrLqiSpAZueYPclk65Cl) | [Puttin' On The Ritz](https://open.spotify.com/album/2GhFpYVZdVZ1PnVkphY0OU) | 3:58 | 2021-02-04 |  |
 | [Ranger Swing](https://open.spotify.com/track/61bNf4P5rvoOMNTw16QIg8) | [Raphael Fays](https://open.spotify.com/artist/4P3gGxKIS5sZwZWRzmQDEJ) | [Paris Séville, bois de guitare \(Madera de Guitarra\)](https://open.spotify.com/album/4zA1OF1mdccHMXfwNBaodm) | 2:34 | 2021-02-04 |  |

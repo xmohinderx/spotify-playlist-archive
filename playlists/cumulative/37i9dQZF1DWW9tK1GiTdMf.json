@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni da gridare e in copertina c'\u00e8 oli? <3",
+  "description": "canzoni da gridare e in copertina c'\u00e8 tate mcrae <3",
   "name": "sanguegiovane",
   "published_playlist_ids": [
     "2BZ03rNM0vrjFSXCBigadZ"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 197266,
       "name": "1,2,3 Stella",
       "url": "https://open.spotify.com/track/7bkgikBKPfME68thEiN8G2"
@@ -223,6 +223,24 @@
       "duration_ms": 143500,
       "name": "Anche Stasera Mi Drogo",
       "url": "https://open.spotify.com/track/7wsUgq1rDBU2BaQLygUEDP"
+    },
+    {
+      "album": {
+        "name": "Anime Lady",
+        "url": "https://open.spotify.com/album/6grvdZizkXcb7rGDaoOG7n"
+      },
+      "artists": [
+        {
+          "name": "b0nd",
+          "url": "https://open.spotify.com/artist/1wEV0uFQT41Ur0GgbOMRyD"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211676,
+      "name": "Anime Lady",
+      "url": "https://open.spotify.com/track/2hjSYkVfpDQz0mbTa29TO0"
     },
     {
       "album": {
@@ -431,7 +449,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 143906,
       "name": "CIELO DRIVE",
       "url": "https://open.spotify.com/track/4QXnwCNswo3RzJzAr1EjWP"
@@ -519,7 +537,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 147183,
       "name": "Don\u2019t Trip (with GAYLE)",
       "url": "https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G"
@@ -830,6 +848,24 @@
     },
     {
       "album": {
+        "name": "I Hate You",
+        "url": "https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162877,
+      "name": "I Hate You",
+      "url": "https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on"
+    },
+    {
+      "album": {
         "name": "I Suicidi",
         "url": "https://open.spotify.com/album/2zKGN85z4QMrTrN1tU6kAA"
       },
@@ -1009,7 +1045,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 146250,
       "name": "Laser",
       "url": "https://open.spotify.com/track/3s1YRNXqQlv48MQ37MF2mv"
@@ -1035,6 +1071,28 @@
       "duration_ms": 165483,
       "name": "LAX",
       "url": "https://open.spotify.com/track/59gORupButLkes8N525BbB"
+    },
+    {
+      "album": {
+        "name": "Locked Out",
+        "url": "https://open.spotify.com/album/6gXs2b3V73mqBt4hroIZaA"
+      },
+      "artists": [
+        {
+          "name": "S-X",
+          "url": "https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN"
+        },
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176245,
+      "name": "Locked Out",
+      "url": "https://open.spotify.com/track/2gpqdIv5iZzssla3QhcS7X"
     },
     {
       "album": {
@@ -1162,6 +1220,28 @@
     },
     {
       "album": {
+        "name": "Nessuno",
+        "url": "https://open.spotify.com/album/4AF1T4eeQwTzjwakQ4J0qr"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "DANI",
+          "url": "https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Nessuno",
+      "url": "https://open.spotify.com/track/0kKBRhNxYw3np5uKQPFylX"
+    },
+    {
+      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe"
       },
@@ -1264,6 +1344,24 @@
     },
     {
       "album": {
+        "name": "NUOVE DUNK",
+        "url": "https://open.spotify.com/album/7yZ7IFD3aFXR2dNYrJ6wxy"
+      },
+      "artists": [
+        {
+          "name": "Sad Twins",
+          "url": "https://open.spotify.com/artist/7IB0pjMcXuxaYe1QNSlO6P"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "NUOVE DUNK",
+      "url": "https://open.spotify.com/track/54DQFPbhqJfJApFyEQe9CO"
+    },
+    {
+      "album": {
         "name": "occhi rossi",
         "url": "https://open.spotify.com/album/6OZzDSSyeSjcLV5mjZbhfd"
       },
@@ -1312,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "OGGI SE NE VA",
+        "url": "https://open.spotify.com/album/6AKHBG3JK8lP9IXT7ZaH8G"
+      },
+      "artists": [
+        {
+          "name": "Novelo",
+          "url": "https://open.spotify.com/artist/1RHfl90nY7Ut10DMRcKjDa"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140131,
+      "name": "OGGI SE NE VA",
+      "url": "https://open.spotify.com/track/13fBuOTQqWmVvIGzFxxS4o"
+    },
+    {
+      "album": {
         "name": "OH NO",
         "url": "https://open.spotify.com/album/0x9jN0c54VqoiAPSkCbPMt"
       },
@@ -1341,7 +1457,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 180370,
       "name": "papercuts",
       "url": "https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX"
@@ -1581,7 +1697,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 229565,
       "name": "Salice",
       "url": "https://open.spotify.com/track/04xLRTZiC7MoWR4zYdsQIi"
@@ -1701,6 +1817,28 @@
       "duration_ms": 159889,
       "name": "Sottosopra",
       "url": "https://open.spotify.com/track/1b65pnfClHLMDFEEhrcLJP"
+    },
+    {
+      "album": {
+        "name": "Stanotte",
+        "url": "https://open.spotify.com/album/2FtZxurKu7EIEbATUNoZEe"
+      },
+      "artists": [
+        {
+          "name": "OEL",
+          "url": "https://open.spotify.com/artist/6ReRo5S4R7Wu4ZmHYgA7j8"
+        },
+        {
+          "name": "Luca Vita",
+          "url": "https://open.spotify.com/artist/4vWXB1YlW647ptnuwwjaiJ"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Stanotte",
+      "url": "https://open.spotify.com/track/5TUMkiGR2gyObPiOOdblD5"
     },
     {
       "album": {
@@ -1995,7 +2133,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 128198,
       "name": "Washing Machine Heart",
       "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
@@ -2017,6 +2155,24 @@
       "duration_ms": 166948,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
+    },
+    {
+      "album": {
+        "name": "You Ruined Nirvana",
+        "url": "https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173066,
+      "name": "You Ruined Nirvana",
+      "url": "https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf"

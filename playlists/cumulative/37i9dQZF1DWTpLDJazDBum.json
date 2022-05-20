@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Body Bounce",
+        "url": "https://open.spotify.com/album/2MlYoEfgZnUqJKyssAawA4"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143966,
+      "name": "Body Bounce",
+      "url": "https://open.spotify.com/track/775dZ1zz41wnrxOQGg0zq8"
+    },
+    {
+      "album": {
         "name": "Bottomless",
         "url": "https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY"
       },
@@ -239,6 +257,24 @@
       "duration_ms": 160000,
       "name": "Brutal Wishes",
       "url": "https://open.spotify.com/track/7yM1bz379moGe4Plh82580"
+    },
+    {
+      "album": {
+        "name": "Cali Kation",
+        "url": "https://open.spotify.com/album/7nAZh0OL5SAsNTY6aKAH6D"
+      },
+      "artists": [
+        {
+          "name": "Damian Thorpe",
+          "url": "https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145124,
+      "name": "Cali Kation",
+      "url": "https://open.spotify.com/track/39bcm83XXUBLWmQOTsBEtK"
     },
     {
       "album": {
@@ -1274,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "Metro",
+        "url": "https://open.spotify.com/album/1P05Wn8APNqj96gEcikWoc"
+      },
+      "artists": [
+        {
+          "name": "Redrum",
+          "url": "https://open.spotify.com/artist/4gDzEX3EAlLlDOxNl52DTK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219857,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/63JFtxBWmhFiHHKH9D5qh8"
+    },
+    {
+      "album": {
         "name": "Minitaur",
         "url": "https://open.spotify.com/album/3mTxqA0qqnn1tqoDoKmS4V"
       },
@@ -1357,7 +1411,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 184864,
       "name": "Naomi",
       "url": "https://open.spotify.com/track/0tLb7gryamtrnSwN6GvaI2"
@@ -1505,7 +1559,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 150166,
       "name": "No Motivation",
       "url": "https://open.spotify.com/track/5JxFvaS1t2swlhhcuqIYyn"
@@ -2369,7 +2423,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 241307,
       "name": "The Northern Saga",
       "url": "https://open.spotify.com/track/1wt1xQv1Qrogwa7n3jv0OU"
@@ -2495,7 +2549,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 124285,
       "name": "ultraviolet blue",
       "url": "https://open.spotify.com/track/2x3ttVsyPRpohqMaeykLSs"
@@ -2585,7 +2639,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 100716,
       "name": "voices in my head",
       "url": "https://open.spotify.com/track/3DkIRVJj43aQfACA5Ys68J"
@@ -2682,6 +2736,24 @@
     },
     {
       "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x"
+      },
+      "artists": [
+        {
+          "name": "Fadez N Rizer",
+          "url": "https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3"
+    },
+    {
+      "album": {
         "name": "Yonder",
         "url": "https://open.spotify.com/album/6c22saRNvPPwqdZhz9TfAB"
       },
@@ -2747,7 +2819,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 181096,
       "name": "Youthful Lovers",
       "url": "https://open.spotify.com/track/4y703x3kEh7sKvELIYpIg6"

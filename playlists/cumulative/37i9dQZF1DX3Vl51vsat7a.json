@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Universum regelt",
+        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167899,
+      "name": "Abendkleider und Nadelstreifen",
+      "url": "https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O"
+    },
+    {
+      "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
@@ -221,6 +239,24 @@
       "duration_ms": 196310,
       "name": "Boys Will Be Girls",
       "url": "https://open.spotify.com/track/01ZPfziRi0YPBbqciOKBsv"
+    },
+    {
+      "album": {
+        "name": "Bring The Good Mood Back",
+        "url": "https://open.spotify.com/album/4oHJfzm4Snx1mvehq0a9RE"
+      },
+      "artists": [
+        {
+          "name": "Kellerkind",
+          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418000,
+      "name": "Bring The Good Mood Back",
+      "url": "https://open.spotify.com/track/69dxNtRNHQknBIrXRgYvvt"
     },
     {
       "album": {
@@ -655,7 +691,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 448590,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn"
@@ -1155,7 +1191,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 210128,
       "name": "New 68",
       "url": "https://open.spotify.com/track/5hMIBsn64hajBIKbFJAsf6"
@@ -1434,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222230,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t"
+    },
+    {
+      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/4BC8x5GAShlXg15iXkqtl0"
       },
@@ -1645,7 +1699,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 192595,
       "name": "Universum regelt",
       "url": "https://open.spotify.com/track/0oFlUUf7zFcTkFJVkxgqh9"

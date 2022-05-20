@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 283642,
       "name": "Count Me Out",
       "url": "https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1"
@@ -3081,7 +3081,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 202285,
       "name": "Rich Spirit",
       "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
@@ -3313,7 +3313,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 220779,
       "name": "Silent Hill",
       "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
@@ -3983,7 +3983,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 203367,
       "name": "Worldwide Steppers",
       "url": "https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d"
@@ -4875,7 +4875,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 169848,
       "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
       "url": "https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT"
@@ -5179,7 +5179,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-15",
+      "date_removed": null,
       "duration_ms": 231242,
       "name": "\u05d4\u05db\u05d9 \u05e7\u05e8\u05d5\u05d1 \u05d0\u05dc\u05d9\u05d9\u05da",
       "url": "https://open.spotify.com/track/7xluxbbxxQ8ovB6xrJUlim"
@@ -5457,6 +5457,24 @@
       "duration_ms": 203947,
       "name": "\u05d7\u05d9\u05d9\u05dd \u05de\u05d0\u05d5\u05e9\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5bfyO9R6raJctlhVpXzPG4"
+    },
+    {
+      "album": {
+        "name": "\u05d7\u05de\u05d9\u05e9\u05d9 \u05e9\u05d9\u05e9\u05d9",
+        "url": "https://open.spotify.com/album/53nQ4JcS0sLdyI5F7t6yiZ"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205081,
+      "name": "\u05d7\u05de\u05d9\u05e9\u05d9 \u05e9\u05d9\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/57BFhpG4Iq4Zgnoz2X6zbT"
     },
     {
       "album": {

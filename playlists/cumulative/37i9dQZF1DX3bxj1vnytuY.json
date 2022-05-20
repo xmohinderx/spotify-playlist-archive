@@ -802,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC"
+    },
+    {
+      "album": {
         "name": "mo'vibes (Various Artists)",
         "url": "https://open.spotify.com/album/41wFtS7hhKWuI5U3GQdvs3"
       },
@@ -1631,6 +1649,24 @@
       "duration_ms": 434973,
       "name": "Vatra",
       "url": "https://open.spotify.com/track/5j1Qs1RNlzDlAzqz5wHuR4"
+    },
+    {
+      "album": {
+        "name": "Vazda",
+        "url": "https://open.spotify.com/album/2jWqoNIoJ8XNuV0zziWSSQ"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432692,
+      "name": "Vazda",
+      "url": "https://open.spotify.com/track/3IBVWeulXxBj5pO5Sywojy"
     },
     {
       "album": {

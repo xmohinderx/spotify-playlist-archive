@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Ali Kiba
 
-105 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
+107 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/2xDYM2I9YQK1z2Fhl4qoxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,8 +62,9 @@
 | [Mapenzi](https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Karata 3](https://open.spotify.com/album/0eJGPJNelIGnxeFMsbIlS4) | 3:17 | 2021-06-25 | 2022-01-21 |
 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 | 2022-03-10 |  |
 | [Mi Amor](https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Mi Amor](https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm) | 3:05 | 2022-01-06 |  |
-| [Mwagia Ndani](https://open.spotify.com/track/6pZLBloNf2JvFAYdXJckD6) | [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV), [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [The Evolution](https://open.spotify.com/album/4s92V0ea3iKn1qVJed1AsI) | 2:46 | 2021-09-23 |  |
-| [Mwaka Wangu](https://open.spotify.com/track/2MDB7PF3rorpdz7oCZTVUe) | [Harmonize](https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk) | [Mwaka Wangu](https://open.spotify.com/album/132f7fl4T8pB5APju7Z36P) | 3:13 | 2022-02-04 |  |
+| [Monica](https://open.spotify.com/track/2YLLB3voKxIva76wcorNXa) | [10kleeroy](https://open.spotify.com/artist/2OSU31gPBXeqCgsq8K7T9k), [Modizo](https://open.spotify.com/artist/1h7r4cQfZUgOvSkF8ckAxN) | [Monica](https://open.spotify.com/album/0aRdcA9Utbd08sjGXpTVtx) | 2:52 | 2022-05-19 |  |
+| [Mwagia Ndani](https://open.spotify.com/track/6pZLBloNf2JvFAYdXJckD6) | [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV), [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [The Evolution](https://open.spotify.com/album/4s92V0ea3iKn1qVJed1AsI) | 2:46 | 2021-09-23 | 2022-05-20 |
+| [Mwaka Wangu](https://open.spotify.com/track/2MDB7PF3rorpdz7oCZTVUe) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Mwaka Wangu](https://open.spotify.com/album/132f7fl4T8pB5APju7Z36P) | 3:13 | 2022-02-04 |  |
 | [Mwambieni](https://open.spotify.com/track/0RHpqRNqC51Jb3BFvRjhB9) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Mwambieni](https://open.spotify.com/album/5KWJSzOB7rysi3VT90lTAJ) | 3:00 | 2022-01-27 |  |
 | [Na Enjoy \(feat\. Darassa\)](https://open.spotify.com/track/1NshVUwUc5B163Z2wfkLJK) | [Ruby Afrika](https://open.spotify.com/artist/0LJ10K0IJWJ3kLT2lWe7wW), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Na Enjoy \(feat\. Darassa\)](https://open.spotify.com/album/44zwMeBG6iizss8HvneIQ1) | 3:37 | 2021-06-25 | 2022-01-14 |
 | [Naanzaje](https://open.spotify.com/track/0ryJsVr3xjiaZdnCPrk9zK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Naanzaje](https://open.spotify.com/album/2PtTNJNz9aIkxIYPXPgYnD) | 3:19 | 2021-09-16 |  |
@@ -77,6 +78,7 @@
 | [Ni Wewe](https://open.spotify.com/track/5kZpQHkVT0EtRDPlE5nHkO) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Ni Wewe](https://open.spotify.com/album/4M1Dg9hKg46sGnSarGiJfI) | 3:00 | 2021-09-23 |  |
 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 | 2021-11-25 | 2022-02-25 |
 | [Nimekuzoea](https://open.spotify.com/track/6UpuTAuQF82c95Hg7lCBUe) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Nimekuzoea](https://open.spotify.com/album/0Hr25mTjVlrkNexp2CbKDc) | 2:43 | 2021-08-26 |  |
+| [Nioneshe \(feat\. Alikiba\)](https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 3:32 | 2022-05-19 |  |
 | [Niteke](https://open.spotify.com/track/3dWC1S6dok7pr1B3WyNvQQ) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Niteke](https://open.spotify.com/album/0DJ6lEzgMYxW5om8AUwmpP) | 2:37 | 2021-06-25 | 2022-01-28 |
 | [Niteke \(feat\. Blaq Diamond\)](https://open.spotify.com/track/5gSkBX3XjO6bxm4egr3ITH) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 4:15 | 2021-10-21 | 2022-04-29 |
 | [Number One](https://open.spotify.com/track/78upcYKwMTCZ7XjT1LeCuV) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Number One](https://open.spotify.com/album/3kwC2ffwJioEFnxnFkWO1X) | 3:33 | 2021-10-14 |  |
@@ -110,7 +112,7 @@
 | [Upendo \(feat\. Zuchu\)](https://open.spotify.com/track/4rET38eDNmdCHOgIoH4RzP) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Upendo \(feat\. Zuchu\)](https://open.spotify.com/album/3MpkiAuVgRLKdHZdm7Pjra) | 2:28 | 2021-10-21 | 2022-05-06 |
 | [Utu](https://open.spotify.com/track/6mzsCUtAl9yXzRQTbToJ57) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 4:04 | 2022-01-13 |  |
 | [Vumilia](https://open.spotify.com/track/0b1xixHB1jWoKNfHbP7WIu) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [The Green Light EP](https://open.spotify.com/album/7pdlUhrWvOQBgNjEhrUDch) | 3:20 | 2022-04-28 |  |
-| [Wanaweweseka](https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wanaweweseka](https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA) | 3:22 | 2021-09-23 |  |
+| [Wanaweweseka](https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wanaweweseka](https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA) | 3:22 | 2021-09-23 | 2022-05-20 |
 | [Why](https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv) | [The Ben](https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Why](https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB) | 3:26 | 2022-01-13 |  |
 | [Zai](https://open.spotify.com/track/53fKnybx3p5MZj3KDYvzz2) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zai](https://open.spotify.com/album/2zo7BLeC2bPUkiKxrzXtwd) | 3:36 | 2021-11-04 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Algeria.",
-  "num_followers": 80416,
+  "num_followers": 80459,
   "original_name": "Algeria Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTY5OTE0MiwwMDAwMDBhYjAwMDAwMTgwOTBmMGNlMmIwMDAwMDE3MGM0YzdmNmQ0",
+  "snapshot_id": "MTY1Mjk1NzcyNSwwMDAwMDBhYzAwMDAwMTgwZGJmNTQxYmEwMDAwMDE3MGM0YzdmNmQ0",
   "tracks": [
     {
       "added_at": "2022-05-04 21:19:02",
@@ -59,6 +59,30 @@
       "duration_ms": 206314,
       "name": "Nar El Hob",
       "url": "https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b"
+    },
+    {
+      "added_at": "2022-05-19 10:55:25",
+      "album": {
+        "name": "Caravan To Baghdad",
+        "url": "https://open.spotify.com/album/2scmA3Bz7R4MdoSfoatypC"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "Amine tefaha",
+          "url": "https://open.spotify.com/artist/1YflNttEHeX8HtnJlngZ5L"
+        },
+        {
+          "name": "Arslane Bouras",
+          "url": "https://open.spotify.com/artist/5d9Q3LiOKZNjeQVkiMP1Rm"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Caravan To Baghdad",
+      "url": "https://open.spotify.com/track/3caRGauTC1JlnZldRHegmm"
     },
     {
       "added_at": "2022-05-04 21:19:02",
@@ -727,22 +751,6 @@
       "duration_ms": 254608,
       "name": "Ma3lich ya 9albi",
       "url": "https://open.spotify.com/track/70EOQVKqRBIU9mfibNLltJ"
-    },
-    {
-      "added_at": "2022-05-04 21:19:02",
-      "album": {
-        "name": "Nhassel fi Chkoune",
-        "url": "https://open.spotify.com/album/0oSld3Mvd2nIvnhnAHvDOz"
-      },
-      "artists": [
-        {
-          "name": "Foufa Torino",
-          "url": "https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Nhassel fi Chkoune",
-      "url": "https://open.spotify.com/track/1nQuz3XdgcRgYtCIGBN82I"
     },
     {
       "added_at": "2022-05-04 21:19:02",

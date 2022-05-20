@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Natalhão
 
-81 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/1fuxTN1KVeY4FHPmGcQzOK)
+82 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/1fuxTN1KVeY4FHPmGcQzOK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dia de Baile \(feat\. Kawe\)](https://open.spotify.com/track/5A3fbFbtzKrc0xamh6b0yb) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Dia de Baile \(feat\. Kawe\)](https://open.spotify.com/album/6EZrWTVj6STAQLLq5uvlWl) | 2:45 | 2022-04-29 |  |
 | [Diamantes](https://open.spotify.com/track/4xDbjnYEpV3Iz753m9MJBc) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Diamantes](https://open.spotify.com/album/3useTCIqnhdXUMp66vOh4h) | 3:37 | 2022-03-18 |  |
 | [Driblando Igual Ronaldo](https://open.spotify.com/track/3LWmdN36GxjtnZJnwciU1c) | [Atlas Oficial](https://open.spotify.com/artist/43PE2zF3EaEl4yhXXdY3Og) | [Driblando Igual Ronaldo](https://open.spotify.com/album/2GVpBPB1ffJkXFDbv9ZVa5) | 2:44 | 2022-03-18 |  |
+| [Drill de Matuto](https://open.spotify.com/track/2rntf7fpyjFwY0nbDyehkH) | [Ber](https://open.spotify.com/artist/2LIFq4uBUQgSJUqVgnIOpL), [Karma VLP](https://open.spotify.com/artist/6tgRsgGyAXfEcsLA8t0Cn5), [ELBVLP](https://open.spotify.com/artist/6IqZJDAt1SX6xdBh7heq9m) | [Drill de Matuto](https://open.spotify.com/album/0m2mTSU3s4LdwgPrLZvcNZ) | 3:14 | 2022-05-20 |  |
 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 | 2022-03-18 |  |
 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 | 2022-03-18 |  |
 | [Família de Raça](https://open.spotify.com/track/1QGRyTHSk3KhiC7J6FZC5R) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Família de Raça](https://open.spotify.com/album/3hPQKI8AbrcFoyEMpAdmRZ) | 2:59 | 2022-04-15 |  |

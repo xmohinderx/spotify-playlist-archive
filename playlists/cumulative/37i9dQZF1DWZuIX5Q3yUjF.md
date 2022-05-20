@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Bais
+> Il meglio dell'R&B italiano\. Cover: Luca Re
 
-78 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+84 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [CD](https://open.spotify.com/track/0aIlrqoiw0VEJ3sI5niW57) | [Wako](https://open.spotify.com/artist/0b7ySAAZntR9rpgsSQLlnx) | [CD](https://open.spotify.com/album/1uNXOV1SMmAqjTvIu5gdNw) | 2:16 | 2022-05-05 |  |
 | [Cenere](https://open.spotify.com/track/4vGp3JRMvgReM7suaUphjn) | [Beatrice Dellacasa](https://open.spotify.com/artist/5piFIZ88zHRxklw95h5v4L) | [Cenere](https://open.spotify.com/album/5wBHUSY3Oc6eytdfMWpbZT) | 2:30 | 2022-05-05 |  |
 | [cento metri](https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [cento metri](https://open.spotify.com/album/393JFt171sEH0GisXy7WeM) | 2:05 | 2022-05-05 |  |
+| [Chi Chiamerò](https://open.spotify.com/track/22UnlX9bx3C4FbtxiaQ2aE) | [Albina](https://open.spotify.com/artist/14D82kuyM1n141pp3CaXx3) | [Chi Chiamerò](https://open.spotify.com/album/6tv8ynQAom4lUf5I5Fia8N) | 2:42 | 2022-05-19 |  |
 | [Cliché](https://open.spotify.com/track/4sCu7KuollkAt9xFFC7upq) | [Vinnie](https://open.spotify.com/artist/6n1k2UH7sL13ZVm2FXZFz6) | [Cliché](https://open.spotify.com/album/5c71nbw4lllzQE8AKXO7yH) | 2:57 | 2022-05-05 |  |
 | [Come fai](https://open.spotify.com/track/6EZ6ay901NLycnIWyMCEni) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Come fai](https://open.spotify.com/album/2HmFp6CpCpiG1ez0AsOc62) | 2:13 | 2022-05-05 |  |
 | [come le canzoni stonate](https://open.spotify.com/track/7pmRJ2TA1iqx2Pdt5V4b9K) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [come le canzoni stonate](https://open.spotify.com/album/7GpitQPJM57M3jJ8DcxVMb) | 3:14 | 2022-05-05 |  |
@@ -41,6 +42,7 @@
 | [Felpa](https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Felpa](https://open.spotify.com/album/23UwjDGJgmbbTNdFgDGIVR) | 2:45 | 2022-05-05 |  |
 | [Fior di glicine](https://open.spotify.com/track/3XdumBkBt85bdQTMGEdbEn) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Dalila Spagnolo](https://open.spotify.com/artist/7byMgnmiVH1BbZmcXrOGIS) | [Fior di glicine](https://open.spotify.com/album/3KTYT0lzuD9WSaMah6hU55) | 3:07 | 2022-05-05 |  |
 | [Fratelli & Sogni](https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Fratelli & Sogni](https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG) | 2:40 | 2022-05-05 |  |
+| [FUOCO \(LA NOTTE\)](https://open.spotify.com/track/53Hycm3y3MMRzXKfr1ZfVU) | [Vespro](https://open.spotify.com/artist/4TvAbp9oKmAALxGmLmXA8L) | [FUOCO \(LA NOTTE\)](https://open.spotify.com/album/3FFJZI70SRGC1M9zk5h5Ub) | 3:13 | 2022-05-19 |  |
 | [Giorni che esplodono](https://open.spotify.com/track/7KoU2DLPJXnKNIu3ikzgIR) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/6SVSdsb4X0w73ZnMqQGRHx) | 3:04 | 2022-05-12 |  |
 | [Hangover](https://open.spotify.com/track/2KYiGWhzTezhiurZpd8g4f) | [Nese Ikaro](https://open.spotify.com/artist/15JcKmQooq4qeUn6jdN8f0), [sedd](https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6) | [Hangover](https://open.spotify.com/album/1SMfOswIVtLfDi3fEB3A9Q) | 2:28 | 2022-05-12 |  |
 | [Houdini](https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0), [Nubula](https://open.spotify.com/artist/7bGSYDi7LmU5F1wx8ITzIk) | [Houdini](https://open.spotify.com/album/2NfGUOifngHawKceRRzsn6) | 3:08 | 2022-05-05 |  |
@@ -49,9 +51,11 @@
 | [Invisibile](https://open.spotify.com/track/16ul9kzVQqpjdFat8gRbeM) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Invisibile](https://open.spotify.com/album/56qIcB3BWjrEyKy49HB32z) | 2:47 | 2022-05-05 |  |
 | [Ku](https://open.spotify.com/track/40I9VS4TKqDHjd4wyFHw2Y) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Ku](https://open.spotify.com/album/4nGcz59HrKCQHjvJVrkwaH) | 4:35 | 2022-05-05 |  |
 | [La più bella](https://open.spotify.com/track/6mBrMo2CUoou15ZRqJpmI3) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [La più bella](https://open.spotify.com/album/21XWxQ4WH8wyDoKb8rGP3Z) | 3:21 | 2022-05-05 |  |
+| [LACRIME D'ORO](https://open.spotify.com/track/4HlpFmqICHyhgPZJlcp3Vw) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [LACRIME D'ORO](https://open.spotify.com/album/1yQj474qyH6wbzfQ6mlsmw) | 2:40 | 2022-05-19 |  |
 | [Lacrime dolci](https://open.spotify.com/track/5jTUqOCEHL8VzXGibJWlwf) | [Giulia Penna](https://open.spotify.com/artist/3LVgsRfnE5D4Qt83Qj6dYS) | [Lacrime dolci](https://open.spotify.com/album/6Fpaqs6bsEXWhG2bE2NgCm) | 2:46 | 2022-05-05 |  |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-05-05 |  |
 | [Like a melody](https://open.spotify.com/track/5QougSlOCoMqyHAVzK5Qc0) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [Je so accussì](https://open.spotify.com/album/2IypMkbbnccB6T3exs2u0b) | 2:18 | 2022-05-05 |  |
+| [Lo\-Fi Love](https://open.spotify.com/track/6CYmeURWTreGKriMFHcPiV) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Lo\-Fi Love](https://open.spotify.com/album/7wABqEPQRQxxIpc5Ng3i4r) | 3:40 | 2022-05-19 |  |
 | [Luce](https://open.spotify.com/track/3JNIkNlzpYSVRqRntUVMF0) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302) | 4:04 | 2022-05-05 |  |
 | [Lunatica](https://open.spotify.com/track/5u7C2wWsB5iALTL6v4HNJs) | [Sofia Nuccio](https://open.spotify.com/artist/2yTbgDLtrIA7MFMoDFViVi) | [Lunatica](https://open.spotify.com/album/76Baf3jjsQ5NsoxQGPiim6) | 3:19 | 2022-05-05 |  |
 | [LUNES](https://open.spotify.com/track/3ux6HhWQNXS4fjTGuyZcru) | [Marianna Mancini](https://open.spotify.com/artist/5kEjbi0NY9b82y85keg2hY) | [LUNES](https://open.spotify.com/album/5rMv8OvpZ9HTyTn5UkGeO5) | 3:00 | 2022-05-05 |  |
@@ -62,6 +66,7 @@
 | [O'tiempo](https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Marco Maiole](https://open.spotify.com/artist/2GTP5wrXZ1ObOHPlSgaaLm) | [San Castrese](https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G) | 3:08 | 2022-05-05 |  |
 | [Occhi su di me](https://open.spotify.com/track/4oh46p9qC3Z2E3QM2cSr59) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX) | [Occhi su di me](https://open.spotify.com/album/7wfpmJ9NtGrSFlOwfR93PB) | 2:26 | 2022-05-05 |  |
 | [Ossessione](https://open.spotify.com/track/2xTA9Fzx9W1VoqZAslxhgU) | [Riél](https://open.spotify.com/artist/0LGmCHNVaxGNAPTb73ndWL) | [Ossessione](https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy) | 3:08 | 2022-05-05 |  |
+| [Passatempo](https://open.spotify.com/track/70URplGTkPeSuAEISU5SxS) | [VIMINE](https://open.spotify.com/artist/0K1uWTds9AnxHTy8RJQxEH) | [Passatempo](https://open.spotify.com/album/4kZbt4bD50aQgRAg6tJwC5) | 2:47 | 2022-05-19 |  |
 | [Pesca Noche](https://open.spotify.com/track/4K8CrCx25sTLfexADXFboz) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Ganoona](https://open.spotify.com/artist/5jlr1VBi2pwgLmexZIcQo7) | [Pesca Noche](https://open.spotify.com/album/3uE4tgA8f7mFxngunL6206) | 3:03 | 2022-05-05 |  |
 | [Poco Male](https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Originali](https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU) | 3:22 | 2022-05-05 |  |
 | [Podio](https://open.spotify.com/track/2qG3nVwV8MMy1aCWgxGpiF) | [Sara Mancini](https://open.spotify.com/artist/0A8DfrInGzOLf2froFT3rq) | [Podio](https://open.spotify.com/album/5mhVwiB3QNnqbk1A4BE2Cg) | 2:00 | 2022-05-05 |  |
@@ -75,6 +80,7 @@
 | [Settembre](https://open.spotify.com/track/0V7oH1zg5Rmevnv2hx1v0n) | [Cloud](https://open.spotify.com/artist/6dapSPLViSAWcyvccpRoCX) | [Settembre](https://open.spotify.com/album/3iBeceXDxmYczEHVFLYWZC) | 2:38 | 2022-05-05 |  |
 | [Siberiana](https://open.spotify.com/track/4QlmhdJeIc1490DXIm614c) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Siberiana](https://open.spotify.com/album/7AyBApLEQ2BOBiGlBEiFar) | 3:30 | 2022-05-05 |  |
 | [Sparami \(feat\. Inoki\)](https://open.spotify.com/track/4EPXHRT5x0TVctWWJ7RbHQ) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Sparami \(feat\. Inoki\)](https://open.spotify.com/album/0BAQ3TAYXH3ehu2wSDv4OJ) | 3:13 | 2022-05-05 |  |
+| [Sparring Partner](https://open.spotify.com/track/1cD0Yb3NyGkatnm6fVx9tQ) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Sparring Partner](https://open.spotify.com/album/6zB8hy11G0P75DYhXPTrir) | 3:04 | 2022-05-19 |  |
 | [Stai tra fra](https://open.spotify.com/track/0bP9y38PARMlFUrT984lp0) | [Sophia Murgia](https://open.spotify.com/artist/3w2SyNbKmiG5ckNUZE5NZe) | [Stai tra fra](https://open.spotify.com/album/6nqXNm6sHNLt29nr3MzLhN) | 3:32 | 2022-05-05 |  |
 | [Stormi](https://open.spotify.com/track/0PUo4n2UQlevX5nFfxSAgU) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Stormi](https://open.spotify.com/album/6lMCnq8ZNV1BNE4fAtNGpd) | 2:51 | 2022-05-05 |  |
 | [Sul fondo](https://open.spotify.com/track/7Hya6iANpS8g6A3I1mEnJX) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Sul fondo](https://open.spotify.com/album/2MKGwFKpeTYvcCqbUtwLzo) | 2:50 | 2022-05-05 |  |

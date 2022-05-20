@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 229933,
       "name": "El Fatra Di",
       "url": "https://open.spotify.com/track/5t3LWKAUzvhwbyIxsHHW5E"
@@ -558,6 +558,24 @@
     },
     {
       "album": {
+        "name": "Mareed",
+        "url": "https://open.spotify.com/album/2tAimubevzvKSylQiwm6Om"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216710,
+      "name": "Mareed",
+      "url": "https://open.spotify.com/track/0y7wbWzryoiE8df3a0n25S"
+    },
+    {
+      "album": {
         "name": "Matkhafesh Yamma",
         "url": "https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75"
       },
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 138644,
       "name": "Setto Ana (Maktoub Alya)",
       "url": "https://open.spotify.com/track/1WwGDWDEdyUR5fKANFTxUY"
@@ -991,6 +1009,32 @@
       "duration_ms": 191673,
       "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
       "url": "https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0643\u062a\u0648\u0628 \u0639\u0644\u064a\u0627 (\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0633\u0644\u0633\u0644 \u0627\u0644\u062a\u0644\u0641\u0632\u064a\u0648\u0646\u064a \u0627\u0644\u0623\u0635\u0644\u064a)",
+        "url": "https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs"
+      },
+      "artists": [
+        {
+          "name": "Akram Hosny",
+          "url": "https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi"
+        },
+        {
+          "name": "Ayten Amer",
+          "url": "https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb"
+        },
+        {
+          "name": "Hanady Mehanna",
+          "url": "https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141887,
+      "name": "\u0633\u062a\u0648 \u0623\u0646\u0627",
+      "url": "https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT"
     },
     {
       "album": {

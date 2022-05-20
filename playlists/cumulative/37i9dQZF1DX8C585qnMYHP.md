@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: QUINQUIS Artwork: Thami Nabil
+> The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Tara Clerkin Trio Artwork: Thami Nabil
 
 851 songs - 2 day 22 hr 36 min - [published](https://open.spotify.com/playlist/7vHfjk9LwMkQlbKUYS7lDl)
 

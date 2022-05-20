@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 257975,
       "name": "A Che Ora l'Amore",
       "url": "https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 323853,
       "name": "Acid Gentle Moves",
       "url": "https://open.spotify.com/track/79PMfyJVpmvhRjVqlEQQNB"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 184389,
       "name": "Altrove - feat. BigMama",
       "url": "https://open.spotify.com/track/0s9EKoTRcWx9cIZmPXKqoW"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 196940,
       "name": "Amami - La Tosa Disco Remix",
       "url": "https://open.spotify.com/track/17x9hPgr15m3Sfvj2rZjf8"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 168053,
       "name": "Beg For You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 261795,
       "name": "Comet",
       "url": "https://open.spotify.com/track/2706bJ1IBduQztEVAMKOST"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 193114,
       "name": "Demone",
       "url": "https://open.spotify.com/track/3H3qKnJ2ZT6S5JLV6rd8jy"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 185434,
       "name": "Don Dada",
       "url": "https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5"
@@ -459,10 +459,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 223140,
       "name": "Don't Hold Back",
       "url": "https://open.spotify.com/track/5bFYFeG8PWkUr4z3561aAH"
+    },
+    {
+      "album": {
+        "name": "L'Incantesimo Delle Ciliegie",
+        "url": "https://open.spotify.com/album/3nPF3etF8ddZqguuQdmsxa"
+      },
+      "artists": [
+        {
+          "name": "Troyamaki",
+          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
+        },
+        {
+          "name": "christiannife",
+          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Dottore",
+      "url": "https://open.spotify.com/track/5KhyB4m7bwe7m1Ssd6kMq7"
     },
     {
       "album": {
@@ -485,7 +507,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 186234,
       "name": "Dulce de Leche (feat. M\u00a5SS KETA) - M\u00a5SS KETA remix",
       "url": "https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ"
@@ -525,7 +547,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 199242,
       "name": "Everything",
       "url": "https://open.spotify.com/track/1rLTQU5BoWukljTqDMnONZ"
@@ -631,7 +653,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 219951,
       "name": "Good PusS (feat. cupcakKe) - Remix",
       "url": "https://open.spotify.com/track/0jiThGoZ1qdJrImd4U6XE5"
@@ -707,7 +729,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 171527,
       "name": "Ho pianto in discoteca",
       "url": "https://open.spotify.com/track/5wvVbN2nYosTemhRiIlJ1K"
@@ -725,7 +747,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 179384,
       "name": "How I Became A House",
       "url": "https://open.spotify.com/track/2J2VP9r6Tq8yPuxEVd4UJy"
@@ -765,7 +787,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 319458,
       "name": "Italove",
       "url": "https://open.spotify.com/track/2upjPXCYscwhOgazz6Remz"
@@ -813,6 +835,24 @@
       "duration_ms": 203624,
       "name": "LA POLICE",
       "url": "https://open.spotify.com/track/1cTi2HkrcMPbyVoqzNUqwr"
+    },
+    {
+      "album": {
+        "name": "La Suora",
+        "url": "https://open.spotify.com/album/6ARW2IzeRLXYElCNrLBL39"
+      },
+      "artists": [
+        {
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183311,
+      "name": "La Suora",
+      "url": "https://open.spotify.com/track/0IGvfJenQDntbHqBl7UtuU"
     },
     {
       "album": {
@@ -929,7 +969,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 105235,
       "name": "LURIDONA",
       "url": "https://open.spotify.com/track/5jk0Jko1G8b9ZtiN7rOBhM"
@@ -987,7 +1027,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 238167,
       "name": "Microdosing",
       "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
@@ -1027,7 +1067,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 266666,
       "name": "Nina",
       "url": "https://open.spotify.com/track/0ZyFLIVC67EX1qumbhDAcd"
@@ -1365,7 +1405,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-06",
+      "date_removed": null,
       "duration_ms": 290933,
       "name": "Short Dick Man - Club Mix",
       "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
@@ -1441,7 +1481,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 236426,
       "name": "Succhiamo",
       "url": "https://open.spotify.com/track/3Urbo9F8yQPUxhxR1vXFNx"
@@ -1459,7 +1499,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 91966,
       "name": "Sumikko Gurashi 2.0",
       "url": "https://open.spotify.com/track/02ddENFyhzjTaeUkL35QeB"
@@ -1513,7 +1553,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 118153,
       "name": "Treat Me Like A Slut",
       "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
@@ -1531,7 +1571,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 260473,
       "name": "Tropicanal",
       "url": "https://open.spotify.com/track/63NuCcaxGfsgHssX8M0xkn"
@@ -1571,7 +1611,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 159960,
       "name": "Una zebra a pois / Tintarella di luna",
       "url": "https://open.spotify.com/track/7sM1bg8NrTRwoSY4CRbF1X"
@@ -1589,7 +1629,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 252018,
       "name": "Ventisette",
       "url": "https://open.spotify.com/track/4adBEEIG70VpXcrcvxXpx0"
@@ -1643,7 +1683,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 174915,
       "name": "WIZZ",
       "url": "https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9"
@@ -1691,7 +1731,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 339509,
       "name": "You Be",
       "url": "https://open.spotify.com/track/79cBivPnoqZt3w7peRRyNl"

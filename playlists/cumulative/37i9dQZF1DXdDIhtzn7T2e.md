@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-64 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
+65 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Stop Drop and Roll One](https://open.spotify.com/track/2Je5HiZUABcRsPV6DQwhph) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 3:02 | 2021-04-20 |  |
 | [Sun Daze](https://open.spotify.com/track/0El2Zyt68nYySFDG87hZgM) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:04 | 2021-04-20 |  |
 | [That's Alright With Me](https://open.spotify.com/track/1CWNDz7nWdroQZjji9GmAE) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Wild Ones \(Deluxe\)](https://open.spotify.com/album/3rvfQP9TlSJGjFMkhNEDtY) | 3:36 | 2021-04-20 |  |
+| [The Cannabis Cowboy](https://open.spotify.com/track/1mJyMvJoHJGiNs7NCxpd7l) | [Cannabis Cowboys](https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB) | [The Cannabis Cowboy](https://open.spotify.com/album/550hySPdjcyx1HSsdIrI4F) | 3:39 | 2022-05-20 |  |
 | [The Road Goes On Forever](https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [West Textures](https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6) | 5:03 | 2021-11-26 |  |
 | [Them Stems](https://open.spotify.com/track/6vcFHirl6xkhzNLgZZH6QN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:00 | 2021-04-20 |  |
 | [They Call Me Cadillac](https://open.spotify.com/track/7FtLb4VBIBVDslXESrCOQP) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [They Call Me Cadillac](https://open.spotify.com/album/6j9RPVwV4Ca1mmq6FtSBKw) | 2:59 | 2021-04-20 |  |

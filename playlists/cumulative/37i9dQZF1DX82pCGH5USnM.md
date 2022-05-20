@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-492 songs - 1 day 5 hr 52 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
+498 songs - 1 day 6 hr 11 min - [published](https://open.spotify.com/playlist/6wvPa10IM2VpPAMqDEeIM4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Fragaria](https://open.spotify.com/track/5SFYmIfbzjnoQuteQ4CuKi) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Fragaria / Deflexus](https://open.spotify.com/album/07f55XYO4bXC7cnaFz2l2C) | 5:45 | 2021-11-08 |  |
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 |  |
 | [Free](https://open.spotify.com/track/47DcKTZGe8PKTr8B64bgZM) | [DANEGIAN](https://open.spotify.com/artist/2k1h6uRnsiIMNavFowk5hc) | [Free](https://open.spotify.com/album/7uhejgr38JOpUCH43v0hkz) | 2:19 | 2021-08-20 |  |
+| [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-05-20 |  |
 | [Garden](https://open.spotify.com/track/2iGZlVQzrSSqfQjUebJ0Qf) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Garden](https://open.spotify.com/album/558o76jGzsoU2lUf27jzz0) | 3:17 | 2020-05-22 | 2020-07-10 |
 | [Gazing Deep into the Plasma TV](https://open.spotify.com/track/5T6rTXANk5BlE87q5MGV1J) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [No LCD](https://open.spotify.com/album/0EElux8TxDSjwkJOKo09aJ) | 3:11 | 2022-05-10 |  |
 | [Gazo Road](https://open.spotify.com/track/5cuyEb2n8OZSSA5s8wONYG) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Gazo Road](https://open.spotify.com/album/3Y7OzTyJlq3fKac9TQNygY) | 2:09 | 2020-04-03\* | 2021-03-25 |
@@ -194,6 +195,7 @@
 | [Hop Notch](https://open.spotify.com/track/6EbSt5wjOSSxTA4FKNdBoc) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Hop Notch](https://open.spotify.com/album/4fGkYjNUU6vqq4MD9f0kfS) | 3:19 | 2021-06-16 |  |
 | [Horizon Island](https://open.spotify.com/track/3CM4BJe9jzdNLXXt9Ob3su) | [Zulu Wow](https://open.spotify.com/artist/39OA3fyzp8hPnuAG4W4Lhg) | [Horizon Island](https://open.spotify.com/album/0o2XprxKqcMod4DMKLR6DG) | 3:36 | 2021-06-02 | 2021-08-20 |
 | [Hot Summer](https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Hot Summer](https://open.spotify.com/album/3MK2VO9vdpHMGb7RizZ72l) | 2:28 | 2021-07-08 |  |
+| [How We Do It](https://open.spotify.com/track/7Fangq5H3r0uFVnBmtjqPB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:10 | 2022-05-20 |  |
 | [Hugh's Disco](https://open.spotify.com/track/6aQoktEdPA3zbi8ZjS6KUC) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Primordial](https://open.spotify.com/album/17yAydXl6iXvXJojFXYDVp) | 5:50 | 2021-11-08 | 2022-02-11 |
 | [Hurting \- I:Cube Remix](https://open.spotify.com/track/4UjZw34ku2C14aVslkaaVf) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Cutie Schamuthie](https://open.spotify.com/artist/6bGoDRFoUbC2oHUewDmVb7), [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Moon II Remixes Pt\. I](https://open.spotify.com/album/3E7mBvJ8YEQIdjPnkbUn9P) | 5:47 | 2021-01-27 | 2021-02-04 |
 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 | 2021-08-20 |  |
@@ -226,6 +228,7 @@
 | [Kanun \- Original Mix](https://open.spotify.com/track/3Pd1HEol9zpq1hXQTewJSP) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Kanun](https://open.spotify.com/album/2aCASWXCBDPq3IRkTztLKD) | 6:06 | 2020-04-03\* | 2021-01-05 |
 | [Kashmir \(Edit\)](https://open.spotify.com/track/204q7FkjtzZBm8TWl2sjBz) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Kashmir \(Edit\)](https://open.spotify.com/album/6pD0WpAxWRTY11HZiZCPuy) | 3:04 | 2021-11-08 |  |
 | [Kata \(Edit\)](https://open.spotify.com/track/09VbC8nxZyCSTwMot9F22R) | [Jobarpopoulos](https://open.spotify.com/artist/6KmgiX5k5l3j6fEfUMs1Kz) | [Kata \(Edit\)](https://open.spotify.com/album/3kiyi8BrpfTeHcOEBQnYNX) | 2:20 | 2020-09-30 | 2022-04-15 |
+| [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 |  |
 | [Keep Keepin On](https://open.spotify.com/track/3n7zfj79mavt7QnjuTw2QQ) | [Calitto](https://open.spotify.com/artist/0sUKrTh4bykVgGFl67aau5) | [Keep Keepin On](https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q) | 3:27 | 2021-09-09 |  |
 | [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 | 2020-04-03\* | 2021-01-05 |
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2021-06-16 |  |
@@ -282,6 +285,7 @@
 | [Moving On](https://open.spotify.com/track/4tIkzYzGCbHfv5VdmbXst5) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [Moving On](https://open.spotify.com/album/6gMvsM5ZxUKFh1GLkSiAfO) | 2:48 | 2021-03-06 |  |
 | [Mr\. Goodvibe](https://open.spotify.com/track/7HMbw6XMm4dnsVJPiGyS1o) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Mr\. Goodvibe](https://open.spotify.com/album/44qkl7E15I7pKULRecEAkx) | 4:28 | 2021-02-10 | 2021-03-25 |
 | [Myst](https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Myst](https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv) | 3:02 | 2022-02-10 |  |
+| [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 | 2022-05-20 |  |
 | [New Creation](https://open.spotify.com/track/1yKDappVhFf05peEb9NFR8) | [Vertical Sight](https://open.spotify.com/artist/59fdBKobn0AP6yV1aI53W7) | [New Creation](https://open.spotify.com/album/4kV127M8gRdovkFwvwLGcA) | 2:42 | 2022-01-21 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2021-06-16 |  |
 | [Next To You](https://open.spotify.com/track/7CsOoJMd3gFKEJvX7nLhQ8) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Right Direction](https://open.spotify.com/album/1uB1qUZQ7CytxeGELt9QAy) | 3:40 | 2021-02-19 | 2021-03-18 |
@@ -299,6 +303,7 @@
 | [Ocean Flow](https://open.spotify.com/track/0kW5OLcBxPTzi8dj7XJf1a) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Tomtebo](https://open.spotify.com/album/1pm7p9wuOepnYKPIsnbXXC) | 3:46 | 2021-01-27 | 2022-05-11 |
 | [On My Mind](https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [On My Mind](https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3) | 3:14 | 2021-02-19 |  |
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2021-11-08 |  |
+| [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2022-05-20 |  |
 | [One Try](https://open.spotify.com/track/0r2uhuFtiYZzeNncUUzvv7) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/6lsgyMkymdgSTK43XGqvqI) | 2:31 | 2022-05-10 |  |
 | [Opposite](https://open.spotify.com/track/6VLstEbmUW5oCxgahFe0Wf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moment EP](https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt) | 4:34 | 2021-09-09 | 2022-04-06 |
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2022-05-10 |  |
@@ -431,6 +436,7 @@
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2021-05-06 | 2021-09-22 |
 | [Swoosh](https://open.spotify.com/track/2d5fQd2dmrPfWd0CCqelkP) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Swoosh](https://open.spotify.com/album/3WUfj10ZPtllBAqGRsnQGu) | 3:02 | 2020-10-27 |  |
 | [Symbiosis](https://open.spotify.com/track/1ZdsZcijEFam8ABkebkKZX) | [Jiungsu](https://open.spotify.com/artist/3QXLTPHUZakK8KDFCBS43I) | [Symbiosis](https://open.spotify.com/album/7umm0ZxYJpYBeKZsuqvRnC) | 2:40 | 2021-01-15 | 2021-03-25 |
+| [tagada](https://open.spotify.com/track/0dZF0uYtRqO8jiomWHPaaI) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [tagada](https://open.spotify.com/album/47wnVoEyYSQHT1zKMbJkAN) | 2:26 | 2022-05-20 |  |
 | [Taking Polaris](https://open.spotify.com/track/4PkVCSor0FoPx1X2FGJ9gR) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Taking Polaris EP](https://open.spotify.com/album/0mIW9wjcZgEg57Nz957jYP) | 4:43 | 2021-03-18 | 2021-09-22 |
 | [Talk Lines](https://open.spotify.com/track/4PoR5o9KrxitDT6gXwHTiQ) | [Blue Sirens](https://open.spotify.com/artist/3YwGWRtqEYqYHrz7mmz9aM) | [Talk Lines](https://open.spotify.com/album/5fVn1HrAPRaZrKandc6KtL) | 3:51 | 2020-11-11 | 2021-04-21 |
 | [Talk To Me](https://open.spotify.com/track/0LaErT2gDG7iZhHDKrrb2v) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Talk To Me](https://open.spotify.com/album/53caWippf1sBtHtsD2qEKL) | 2:59 | 2021-03-18 |  |

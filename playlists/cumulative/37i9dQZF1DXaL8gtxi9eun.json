@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 209697,
       "name": "10 Oloub",
       "url": "https://open.spotify.com/track/2M4RHWLlXJbvfGrS9owX38"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 223200,
       "name": "Ahla Ebdaa",
       "url": "https://open.spotify.com/track/2QFNbSv9IVYnDSWfhy1lnD"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 251810,
       "name": "Ana Law Zalana",
       "url": "https://open.spotify.com/track/4Z4WGTYz3lj5KLkkvc7XVO"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 331714,
       "name": "Baoul Aady",
       "url": "https://open.spotify.com/track/1NkW18VV3QVOCuoVQsBC84"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 228570,
       "name": "Beehom Kolohom",
       "url": "https://open.spotify.com/track/4yDzT37LAYRLnOgVDsZPCV"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 198857,
       "name": "Bel Bont El3areedh",
       "url": "https://open.spotify.com/track/4ZU4yHDLZcMcy8BF6Y89fu"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 206285,
       "name": "Darhali Galbi",
       "url": "https://open.spotify.com/track/5rX5sT9yC44Rq61EmtGrk5"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 199527,
       "name": "Ebn Nas",
       "url": "https://open.spotify.com/track/1sLwnaIL9PbN9Yph20LGLH"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 190581,
       "name": "El Hob Dayaani",
       "url": "https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 228510,
       "name": "Enta Al Saadah",
       "url": "https://open.spotify.com/track/2dN3NBI4cvTmexGsgDfbf7"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 204667,
       "name": "Enty Bethazary",
       "url": "https://open.spotify.com/track/1N1EOvCCFMW01fGu54ZNly"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 205813,
       "name": "Fe Ghamdet Ein",
       "url": "https://open.spotify.com/track/235YSol46U2FzhLEXNgcTP"
@@ -712,6 +712,28 @@
     },
     {
       "album": {
+        "name": "Helween",
+        "url": "https://open.spotify.com/album/4LgGKDj1hfjBMni5QrwUfV"
+      },
+      "artists": [
+        {
+          "name": "Joseph Attieh",
+          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
+        },
+        {
+          "name": "Rodge",
+          "url": "https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241889,
+      "name": "Helween",
+      "url": "https://open.spotify.com/track/5WWolYQgJB3fCwRiLxiPHQ"
+    },
+    {
+      "album": {
         "name": "Hetta Tanya",
         "url": "https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR"
       },
@@ -741,7 +763,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 173379,
       "name": "Howa Da Habiby",
       "url": "https://open.spotify.com/track/61ym3imFxyXoTOoZz4loqA"
@@ -759,7 +781,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 317250,
       "name": "Howa Nafs El Shouk",
       "url": "https://open.spotify.com/track/6T2rewl8ekzcdP5KQGW5K1"
@@ -777,10 +799,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": null,
       "duration_ms": 204500,
       "name": "khateera",
       "url": "https://open.spotify.com/track/3y1tMUZAy2v5LMyKo7Ko8J"
+    },
+    {
+      "album": {
+        "name": "Khayef",
+        "url": "https://open.spotify.com/album/0ZU2uWc2wZiYb5lMzufWA3"
+      },
+      "artists": [
+        {
+          "name": "Adham Nabulsi",
+          "url": "https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195576,
+      "name": "Khayef",
+      "url": "https://open.spotify.com/track/2ExMyvTPD9nsEBgq80zQQB"
     },
     {
       "album": {
@@ -867,7 +907,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 239250,
       "name": "Leh",
       "url": "https://open.spotify.com/track/0188UV5nlwUYejX3HKhphw"
@@ -961,7 +1001,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 255510,
       "name": "Maah",
       "url": "https://open.spotify.com/track/50eZJCaZ6sGAPfW7EaJ0NB"
@@ -997,7 +1037,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 218709,
       "name": "Maleket El Helwen",
       "url": "https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20"
@@ -1015,7 +1055,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 215647,
       "name": "Men Ghir Mogamla",
       "url": "https://open.spotify.com/track/5ZPaDUntiwcY86bPeFi22x"
@@ -1069,7 +1109,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 202408,
       "name": "Meshkeltak Alwahidi",
       "url": "https://open.spotify.com/track/061AcUASLoR0lEU3xksHHC"
@@ -1271,7 +1311,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 165400,
       "name": "Tearaf Bahebak Leh",
       "url": "https://open.spotify.com/track/4J91ULN1DJ1FHPRD1G4FYN"
@@ -1329,7 +1369,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Ya Aasal",
       "url": "https://open.spotify.com/track/2qIYndgPCXthIaBjnVv7Dr"
@@ -1401,7 +1441,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Yom Min el Ayyam",
       "url": "https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b"
@@ -1419,7 +1459,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 229778,
       "name": "Zahmet Weshoush",
       "url": "https://open.spotify.com/track/75oCHG4P4pcpTx79twBdpF"

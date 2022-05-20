@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 240000,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/1JhdsJnSPVmzjilbLympm7"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 250377,
       "name": "iThemba",
       "url": "https://open.spotify.com/track/0WdqO8jayFChUOpVX7cdyT"
@@ -1384,6 +1384,32 @@
     },
     {
       "album": {
+        "name": "Watering Dry Plants",
+        "url": "https://open.spotify.com/album/3G1PFpiGsMJ989PtewdMbe"
+      },
+      "artists": [
+        {
+          "name": "Phonikz",
+          "url": "https://open.spotify.com/artist/6YX1n5yl2H2RdidVHWnoc5"
+        },
+        {
+          "name": "Spartz",
+          "url": "https://open.spotify.com/artist/7BTIIrYH0F234f2wpl2irF"
+        },
+        {
+          "name": "Marcus Harvey",
+          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Lebone",
+      "url": "https://open.spotify.com/track/3RnF4b7QjpbdECHKcXXoLX"
+    },
+    {
+      "album": {
         "name": "Lengane",
         "url": "https://open.spotify.com/album/2qXY8mCFZ7cyCnD8zJqTvV"
       },
@@ -1513,6 +1539,24 @@
       "duration_ms": 254608,
       "name": "Magic In The Water",
       "url": "https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX"
+    },
+    {
+      "album": {
+        "name": "MajikaJika",
+        "url": "https://open.spotify.com/album/5G5GQ9fU9fPQOaH4qsoNQv"
+      },
+      "artists": [
+        {
+          "name": "Lumka",
+          "url": "https://open.spotify.com/artist/2nGmkqAkKcmq9UuJH0rH2v"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232421,
+      "name": "MajikaJika",
+      "url": "https://open.spotify.com/track/0dfahpHWTG567q6ZaMe1dw"
     },
     {
       "album": {
@@ -1759,7 +1803,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 236058,
       "name": "Ndizobizwa",
       "url": "https://open.spotify.com/track/0XywBbE7wpNksX5U0DLvLv"

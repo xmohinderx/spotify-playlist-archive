@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4Buj61XKuhfVLsW8rPX8YQ.md) - [plain]
 
 > 100+ of the happiest songs of all time\. Come on, Get Happy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 653 likes - 105 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 654 likes - 105 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/4Buj61XKuhfVLsW8rPX8YQ.md) - [plain]
 | 92 | [We Are Family](https://open.spotify.com/track/0x3VuSP9TB6yHSpkHB2nPv) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family / Easier To Love \[Digital 45\]](https://open.spotify.com/album/5lAf7Hwwm6Pqv97O5OS3qp) | 3:36 |
 | 93 | [Express Yourself \(Mocean Worker Remix\)](https://open.spotify.com/track/5LMw1LcXsFwvfUhyav14Mz) | [Wright, Charles and the Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/5266DvbMl9IBKrwMZB50Bj) | [Mr\. & Mrs\. Smith \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1ooPcS9FzXuXOuRUnoWtwq) | 4:31 |
 | 94 | [I'm So Excited](https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Best Of](https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X) | 3:49 |
-| 95 | [Jailhouse Rock](https://open.spotify.com/track/6pyex9B1kBoRIuabBAc4m8) | [Elvis Presley](https://open.spotify.com/artist/1RONXV8SB9yMMRNtcHrG1O) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:35 |
+| 95 | [Jailhouse Rock](https://open.spotify.com/track/6pyex9B1kBoRIuabBAc4m8) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:35 |
 | 96 | [Son of a Preacher Man](https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Girl's in Love with You](https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5) | 3:19 |
 | 97 | [No Particular Place To Go \- Single Version](https://open.spotify.com/track/07zToRJlr6YYaDNL70CFz8) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Gold](https://open.spotify.com/album/7EAya7Hj01YTP9mxLK12SY) | 2:41 |
 | 98 | [River Deep \- Mountain High](https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 4:04 |

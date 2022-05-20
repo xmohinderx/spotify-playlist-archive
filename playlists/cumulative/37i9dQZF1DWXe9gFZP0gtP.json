@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 224000,
       "name": "Buonanotte e sogni d\u2019oro",
       "url": "https://open.spotify.com/track/6pQlRxPMSILxVr7vz3JmGC"
@@ -3450,6 +3450,24 @@
     },
     {
       "album": {
+        "name": "Reflect",
+        "url": "https://open.spotify.com/album/4lBD9dWLYfzmdAA3rkltQn"
+      },
+      "artists": [
+        {
+          "name": "St/llar",
+          "url": "https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197512,
+      "name": "Reflect",
+      "url": "https://open.spotify.com/track/5L3CbldRc36fjCzTb9ttuj"
+    },
+    {
+      "album": {
         "name": "Remembering",
         "url": "https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT"
       },
@@ -3519,6 +3537,24 @@
       "duration_ms": 212894,
       "name": "Revealing The Unreal",
       "url": "https://open.spotify.com/track/2zJmgxEcBUKtrfjfCn1UMM"
+    },
+    {
+      "album": {
+        "name": "Simpler",
+        "url": "https://open.spotify.com/album/04OQuL4urHrYZKc7716UVL"
+      },
+      "artists": [
+        {
+          "name": "August Parks",
+          "url": "https://open.spotify.com/artist/3qMOfxCeQP5i24x2yOGnof"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209208,
+      "name": "Rippling",
+      "url": "https://open.spotify.com/track/5NeVNbd1n8nNSNbNxUsAzL"
     },
     {
       "album": {

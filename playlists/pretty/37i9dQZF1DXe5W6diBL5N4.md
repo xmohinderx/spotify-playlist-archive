@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: ASTRO\(아스트로\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,866 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,127 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ARIA](https://open.spotify.com/track/2ImbyerPmaYvCAijEsXtoD) | [YERIN](https://open.spotify.com/artist/0K75iH0Ts1A7ZbLjvKLR3d) | [ARIA](https://open.spotify.com/album/27QtRd7Fhr3ZaU0vdtwnHW) | 2:27 |
+| 1 | [ARIA](https://open.spotify.com/track/2ImbyerPmaYvCAijEsXtoD) | [Yerin](https://open.spotify.com/artist/563a6cNaGh9kC2cYrn78rK) | [ARIA](https://open.spotify.com/album/27QtRd7Fhr3ZaU0vdtwnHW) | 2:27 |
 | 2 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 |
 | 3 | [Fellowship](https://open.spotify.com/track/6PW5GLnTnF9krvqR3QcjWg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMIYA CLUB](https://open.spotify.com/album/5m1kGBVJBKcrlLBgy300vV) | 1:54 |
 | 4 | [I Will Fly](https://open.spotify.com/track/11BkRBYgserEx7OGMTq8fh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [I Will Fly](https://open.spotify.com/album/0PYUc9urpMM3Om507HDmvV) | 5:09 |
 | 5 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 |
 | 6 | [Don't walk away](https://open.spotify.com/track/1V0fL8JcNB41j3Yj0FccKG) | [LISA](https://open.spotify.com/artist/78hGUmxF4YMnMOpemPsXIX) | [Don't walk away \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.8](https://open.spotify.com/album/1GgOw3kzlYxXcknuvOyA8v) | 3:28 |
 | 7 | [Howl \(Feat\. Yellowmane, Sahtyre, Junoflo, G2\)](https://open.spotify.com/track/24N9c3BdEQL2rrfJLggzka) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Yellowmane](https://open.spotify.com/artist/69DIWtgrZbIjorw3g1UqVy), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU), [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66) | [Howl](https://open.spotify.com/album/2DHChOTHjJzyY9RL0RKUlj) | 2:12 |
-| 8 | [Run Away](https://open.spotify.com/track/0PAU08erz7NJwpgDSDOfsE) | [LUCY](https://open.spotify.com/artist/5G6kdMp4tAcaH4J2RQa0Ij) | [Run Away](https://open.spotify.com/album/7fBkBBzXwB9qyXYsYpNFGx) | 3:24 |
+| 8 | [Run Away](https://open.spotify.com/track/0PAU08erz7NJwpgDSDOfsE) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Run Away](https://open.spotify.com/album/7fBkBBzXwB9qyXYsYpNFGx) | 3:24 |
 | 9 | [i \(feat\. Swings\)](https://open.spotify.com/track/09bshPEQMZUnUWvuMwvXwK) | [Lean Lean](https://open.spotify.com/artist/6IprxsitojRXQLHOLyizzb), [스윙스\(Swings\)](https://open.spotify.com/artist/1FypwMT3hrRR7uxLHpgGuU) | [SUNSHINE](https://open.spotify.com/album/5MgqA59cpZMyowGSHHvatc) | 3:56 |
 | 10 | [Drip Drip Drip](https://open.spotify.com/track/1rfYUwAohM9nZJbscZFCWl) | [YEO\-EUN](https://open.spotify.com/artist/16fjppxQxQKpRH2Z1FUxww) | [The Crush Of Spring OST Part.1](https://open.spotify.com/album/1ayPFczFbalnsDqBh92GoP) | 3:42 |
 | 11 | [Homeless](https://open.spotify.com/track/0HmGtoCcvx2B6HJxEQZli4) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Agenda](https://open.spotify.com/artist/1JaMM2o29sVRV0wHW6GTnV) | [Homeless](https://open.spotify.com/album/0tzFk8CLBs1IfHAEojDwIW) | 2:37 |

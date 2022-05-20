@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Strange Alias\. Artwork: Isu Kim.
 
-203 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+205 songs - 11 hr 17 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Fall Down](https://open.spotify.com/track/5soKd4hFEkpR2pqkGiWYIE) | [Cykko](https://open.spotify.com/artist/6gQ5lg2r9qzumBycPid5Va) | [Fall Down](https://open.spotify.com/album/2GxzyYNaGytdG7bIwSkGXY) | 2:49 | 2022-02-24 |  |
 | [Fall Out Girl](https://open.spotify.com/track/1geTNBd1SNBNcQSsSc9jPq) | [Rush Martines](https://open.spotify.com/artist/2DfGCdKwXsfavSVSlcefIC) | [Fall Out Girl](https://open.spotify.com/album/0xl8ToVqdgBrvzF5wcQuZ3) | 2:42 | 2021-12-01 | 2022-01-14 |
 | [Fallen Dynasty](https://open.spotify.com/track/2qNqzPIVh04kg19RITU5By) | [MAYABAYU](https://open.spotify.com/artist/0FHRUJgD0f1jDgAti7uvgI), [Snitch&Fitch](https://open.spotify.com/artist/1wA0yiTr0Nr0xgpfOsthBP) | [Fallen Dynasty](https://open.spotify.com/album/2NKOTbmpxKvvSZVtY10IL5) | 3:51 | 2022-02-24 |  |
+| [Fast Slow](https://open.spotify.com/track/0qy89dr3XdSj7vWAFZfb3u) | [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [Fast Slow](https://open.spotify.com/album/4I63w2m2k9qIFMDV3MyeeF) | 3:14 | 2022-05-19 |  |
 | [Feel](https://open.spotify.com/track/2K57EzR21M2VTV1qCEeCa7) | [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [Feel](https://open.spotify.com/album/4v5QB3bRarNaYvTcGzjvpN) | 3:08 | 2022-03-10 | 2022-03-25 |
 | [Feelings](https://open.spotify.com/track/1H1txE9Vz7VsxyxXzd9Rmx) | [Cheryl Cecilia](https://open.spotify.com/artist/1uIhAzc0iASt7q1hVV9d3K) | [Feelings](https://open.spotify.com/album/2jXaAj8duuUuMzj8l37Lqt) | 3:42 | 2022-01-13 |  |
 | [Flames](https://open.spotify.com/track/7fjOByNcJuFByP7iC6uQud) | [Son Of Age](https://open.spotify.com/artist/3xcCu89VCCYd1sBbsnOdiq) | [Flames](https://open.spotify.com/album/4NGZalJqkWWYkqj3T2BNFL) | 4:29 | 2022-01-13 | 2022-03-25 |
@@ -206,6 +207,7 @@
 | [Without You](https://open.spotify.com/track/3lIO5alrxwoxc0VOqVu57f) | [Keith VVolf](https://open.spotify.com/artist/3TPbOzdrHElYaEhPxvg3e9) | [Without You](https://open.spotify.com/album/32c00YWobzmjAr3XYjBifM) | 6:11 | 2022-04-28 |  |
 | [Without Your Love](https://open.spotify.com/track/5HcdvdmsVmdSCvDeWlZfzX) | [Sophia Shaan](https://open.spotify.com/artist/3dspTprJMqarjB8IxlIKjs) | [Without Your Love](https://open.spotify.com/album/1Om19Y8ellMyzNjXhgbuLN) | 3:28 | 2022-01-13 | 2022-03-25 |
 | [won't you](https://open.spotify.com/track/1kXS1Q4nfDEtd7tsMtH3N9) | [Lowkeii](https://open.spotify.com/artist/588Ho9n5DcHnpVdNDvQhah), [Tyas Iglesias](https://open.spotify.com/artist/7BWkc2qgMWZWVbP2vUTob1), [fahmy.](https://open.spotify.com/artist/1B9PxfeSIjOHvfr0jVidlG) | [won't you](https://open.spotify.com/album/2B8ZU8zD2RX6BRLz4t2sVa) | 2:51 | 2022-01-27 |  |
+| [Would You Ever](https://open.spotify.com/track/6G5nyQPvqSfojOVzXfNAHf) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Everything Is](https://open.spotify.com/album/0peIMKBxWe8WVIFdUYs0OD) | 4:37 | 2022-05-19 |  |
 | [Yearning](https://open.spotify.com/track/5AIFWdHJbWYmTc81kSUwCn) | [Cheri Indigo](https://open.spotify.com/artist/7xfSpg2jjE8rY2nFCWrM8S) | [Yearning](https://open.spotify.com/album/12n7yACSrfiGAUGkl1LVWc) | 3:49 | 2021-12-01 | 2022-01-14 |
 | [YOUR EYES](https://open.spotify.com/track/7cKS9sDxGbbEe34KwagpoG) | [Kiyne](https://open.spotify.com/artist/1HTJf01tLwR7xXxaH3L92B) | [YOUR EYES](https://open.spotify.com/album/525LxSwLetm5KEbHEwo8ML) | 3:28 | 2022-04-28 |  |
 | [Your Loss](https://open.spotify.com/track/24IE7WIUYYs9gmhbgPLULC) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Your Loss](https://open.spotify.com/album/7zWIsfNXYMTqckSbp21PjE) | 3:35 | 2022-01-13 | 2022-03-11 |

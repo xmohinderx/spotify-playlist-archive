@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Instrumental trap beats to boost your weight lifting workout.",
-  "name": "Heavy Beats",
+  "description": "Instrumental beats to boost your weight lifting workout.",
+  "name": "Trap Workout",
   "published_playlist_ids": [
     "6VwdykSTPFgJcfQcjE3Tsi"
   ],
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 217600,
       "name": "500 gr.",
       "url": "https://open.spotify.com/track/6SJmVvwqAnGCdpEyTE6HvE"
@@ -708,6 +708,32 @@
     },
     {
       "album": {
+        "name": "Gold Stacks",
+        "url": "https://open.spotify.com/album/4pYrbFvIep8pumAx11IAQN"
+      },
+      "artists": [
+        {
+          "name": "Tatchy",
+          "url": "https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug"
+        },
+        {
+          "name": "Classe Beats",
+          "url": "https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW"
+        },
+        {
+          "name": "Rizzo8",
+          "url": "https://open.spotify.com/artist/0caGWjTQd9dDtOjAjxkzRK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Gold Stacks",
+      "url": "https://open.spotify.com/track/38qTxMCGROJeJlo6E274p4"
+    },
+    {
+      "album": {
         "name": "Half Way",
         "url": "https://open.spotify.com/album/0zb0u64c1aQOSRh7zLxoMT"
       },
@@ -1209,7 +1235,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 161032,
       "name": "Omit The Feeble Meat",
       "url": "https://open.spotify.com/track/6MX2R5xvIUf6c6Q9cjoSJN"
@@ -1335,7 +1361,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 127747,
       "name": "Participation Trophy",
       "url": "https://open.spotify.com/track/4Nb76xnCM8UgKVAj9LqNZ2"
@@ -1397,7 +1423,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 190290,
       "name": "PSYCHOSIS",
       "url": "https://open.spotify.com/track/04Levb9UGVWqOrnkzZFTv1"
@@ -1473,6 +1499,24 @@
       "duration_ms": 137168,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/6849JqU4mi9w90w8pQABt9"
+    },
+    {
+      "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/02X9P2VUWUlXLBhWVZlJDt"
+      },
+      "artists": [
+        {
+          "name": "trabbey",
+          "url": "https://open.spotify.com/artist/3njIliuv3ugKzuNZgEOZ6s"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109718,
+      "name": "Royal",
+      "url": "https://open.spotify.com/track/0yzK5lKI284QwESdd8ieVc"
     },
     {
       "album": {
@@ -1993,6 +2037,28 @@
       "duration_ms": 166198,
       "name": "Top of the Line",
       "url": "https://open.spotify.com/track/0hozPW69A9O8m8SDSeeHRY"
+    },
+    {
+      "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/5Gu49xUPnxox2tRgqAra7F"
+      },
+      "artists": [
+        {
+          "name": "narcotics",
+          "url": "https://open.spotify.com/artist/6oaVSzY9kQxXhuRyDQ8B4N"
+        },
+        {
+          "name": "Bayram",
+          "url": "https://open.spotify.com/artist/1GUr7nWTvDXwMWlngqx9Wb"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190811,
+      "name": "Trap or Die",
+      "url": "https://open.spotify.com/track/5usDXoiwAWVB3Ec0XoB9iG"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Tech house technicians, featuring hand-curated cuts from John Summit.",
-  "num_followers": 551792,
+  "num_followers": 551936,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mjc5NzA1MywwMDAwMDEyZTAwMDAwMTgwZDI2MTliOGUwMDAwMDE4MGFmYWQ4MDQz",
+  "snapshot_id": "MTY1MzAxOTI2MCwwMDAwMDEyZjAwMDAwMTgwZGZhMDM1MTIwMDAwMDE4MGFmYWQ4MDQz",
   "tracks": [
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "My Demons",
+        "url": "https://open.spotify.com/album/250dVzSQ7jsd6p908mAccd"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "duration_ms": 216190,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/5usdD4a3nB3XB2QAqkqAzS"
+    },
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
@@ -549,6 +565,22 @@
       "url": "https://open.spotify.com/track/1D7rwwv3n4ChKvS3CyMiGL"
     },
     {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Climax",
+        "url": "https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "duration_ms": 198502,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs"
+    },
+    {
       "added_at": "2022-05-06 04:01:00",
       "album": {
         "name": "Let's Freak",
@@ -587,6 +619,26 @@
       "duration_ms": 175238,
       "name": "On & On - Kevin McKay Remix",
       "url": "https://open.spotify.com/track/4PUpNh8xGyWxjyNB4Wf8ZY"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "I Confess (feat. ROM\u00c9O)",
+        "url": "https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "ROM\u00c9O",
+          "url": "https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "I Confess (feat. ROM\u00c9O)",
+      "url": "https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -641,6 +693,26 @@
       "url": "https://open.spotify.com/track/6tcAIvGYzQP9dVb28BjANR"
     },
     {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Don't Let It Stop",
+        "url": "https://open.spotify.com/album/0MdtjAqUkGkieieFHQA5jA"
+      },
+      "artists": [
+        {
+          "name": "DJ YUKI",
+          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "duration_ms": 146107,
+      "name": "Don't Let It Stop",
+      "url": "https://open.spotify.com/track/6YULcqvCPo9m3R2bqcMdpq"
+    },
+    {
       "added_at": "2022-05-06 04:01:00",
       "album": {
         "name": "Showing Off",
@@ -659,6 +731,42 @@
       "duration_ms": 194164,
       "name": "Showing Off",
       "url": "https://open.spotify.com/track/6UxQOvVfE9xfWdYotjw5xX"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "More Money Girls",
+        "url": "https://open.spotify.com/album/5gSzZubsivBHoaYEb6N6iO"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 184935,
+      "name": "More Money Girls",
+      "url": "https://open.spotify.com/track/3qWeNg7bQLcssTFYjnQFwB"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Where's Your Head At (Martin Ikin Remix)",
+        "url": "https://open.spotify.com/album/29ZUj3UKLquWqyoo1VeVxn"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "Where's Your Head At - Martin Ikin Remix - Edit",
+      "url": "https://open.spotify.com/track/0EUgguVSAZFdHY8RSVCBUJ"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -695,6 +803,22 @@
       "duration_ms": 154761,
       "name": "Let Me Take You",
       "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Walk Of Shame",
+        "url": "https://open.spotify.com/album/4MvEp6RWL0RdVXIgbmqiSi"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 148080,
+      "name": "Walk Of Shame",
+      "url": "https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo"
     },
     {
       "added_at": "2022-03-11 18:48:28",
@@ -811,6 +935,26 @@
       "duration_ms": 158074,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/1Xxa1bDLOyCK5ck8gu8hpg"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Pink Shoes",
+        "url": "https://open.spotify.com/album/4NEHGFE8a44yBMA4Dy5qwK"
+      },
+      "artists": [
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        {
+          "name": "Lee Wilson",
+          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
+        }
+      ],
+      "duration_ms": 231685,
+      "name": "Pink Shoes",
+      "url": "https://open.spotify.com/track/6dSJ3T3dMTGMvMdAkvEBxl"
     },
     {
       "added_at": "2022-04-15 15:02:33",
@@ -2559,22 +2703,6 @@
       "duration_ms": 183750,
       "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
       "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
-    },
-    {
-      "added_at": "2021-11-26 14:57:55",
-      "album": {
-        "name": "Love Vibration",
-        "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 180487,
-      "name": "Love Vibration",
-      "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
     },
     {
       "added_at": "2022-01-21 05:05:00",

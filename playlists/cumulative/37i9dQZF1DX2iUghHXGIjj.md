@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-102 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+103 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [I Won't Bitch](https://open.spotify.com/track/3KD3sURRyU5R5ofgj491qZ) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Welcome to My Nightmare](https://open.spotify.com/album/2cDa70BDjpfp2jJn9E4v2U) | 3:26 | 2020-11-06 |  |
 | [I'm Ready](https://open.spotify.com/track/2v7vMQGFva7ePcl4BiBF2K) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [I'm Ready](https://open.spotify.com/album/5gvcJLqMU4GFtCSFrHifY0) | 2:17 | 2021-04-16 |  |
 | [I'm So Lonely](https://open.spotify.com/track/6BsaK0v4nm49vNd5ccHyRX) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [Simple Truths](https://open.spotify.com/album/0njoBaMuox6zxRG9Is8WRF) | 4:40 | 2020-08-11 |  |
+| [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 | 2022-05-20 |  |
 | [Johnny law](https://open.spotify.com/track/4z9Je08Qpyfn6q7bbiqmW5) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/3WjgDAPVhWl6cdc7q3EM1R) | 4:29 | 2020-08-11 |  |
 | [Kansas City Blues](https://open.spotify.com/track/58TQAkARupFHoHVQ00Yj9S) | [Steve Howell](https://open.spotify.com/artist/3xJEpa8iyCscYkG3XlIxBU), [Jason Weinheimer](https://open.spotify.com/artist/4SVe1RgQ8VnJ5Lgb6NodF3) | [A Hundred Years from Today](https://open.spotify.com/album/2h4vnUECqd75oUIBehBMYl) | 3:07 | 2020-08-11 |  |
 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/1iilSLhyTDanY7cCPwZ3tl) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/5Ac9bCzeHTohN8KxBwDkzl) | 2:54 | 2020-08-11 |  |
@@ -62,7 +63,7 @@
 | [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 | 2021-08-20 |  |
 | [Life By The Drop](https://open.spotify.com/track/4KENBGgFQIxliSjJGb8FYa) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Double Trouble](https://open.spotify.com/artist/05m9VGwNd8glcJ2o5UN8H3) | [The Essential Stevie Ray Vaughan And Double Trouble 3.0](https://open.spotify.com/album/44gP7lSICNoSqTSCDyScnA) | 2:27 | 2020-08-11 |  |
 | [Living With The Blues](https://open.spotify.com/track/5NJkdnML8tFQ3wzh91BQAp) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom) | [Wishing Well](https://open.spotify.com/album/6BKMOyKifmcINqpBWIcG6D) | 3:02 | 2020-08-11 |  |
-| [Long Way Home](https://open.spotify.com/track/4A0uddUBex0iolIxq1b0km) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Ramblin' Man Blues](https://open.spotify.com/album/7I2bdm0uQNyjb25zg1qssP) | 5:38 | 2020-08-11 |  |
+| [Long Way Home](https://open.spotify.com/track/4A0uddUBex0iolIxq1b0km) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Ramblin' Man Blues](https://open.spotify.com/album/7I2bdm0uQNyjb25zg1qssP) | 5:38 | 2020-08-11 | 2022-05-20 |
 | [Lost & Lonesome](https://open.spotify.com/track/546RhRX8VYDgcZ9obgTkkX) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Lost & Lonesome](https://open.spotify.com/album/35u6E8Ukn8nRpsJJjS11xv) | 3:42 | 2021-07-30 |  |
 | [Make Me A Pallet On Your Floor](https://open.spotify.com/track/3HdPVdqcuD2Qt2QgNogHw7) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Avalon: A Tribute To Mississippi John Hurt](https://open.spotify.com/album/0IvcKOjiGavyX0GDsPI68h) | 4:42 | 2020-08-11 |  |
 | [Maybe I'll Go](https://open.spotify.com/track/1cYa4SUJNBvpimXnJ5Usyk) | [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Kokomo Kidd](https://open.spotify.com/album/5rCddIMaL73dmo0h2pKOmb) | 3:00 | 2020-08-11 |  |

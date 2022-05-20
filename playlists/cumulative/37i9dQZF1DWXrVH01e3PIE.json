@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del Trap de Argentino. Foto: John C.",
+  "description": "La casa del Trap de Argentino. Foto: Cazzu \ud83d\udd77\ufe0f\ud83d\udd78\ufe0f",
   "name": "Trapperz Argentina",
   "published_playlist_ids": [
     "23nX6vOJkUDnsNQfFrfuBO"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 157245,
       "name": "Bla Bla",
       "url": "https://open.spotify.com/track/3lJVVNEMVTodlhVIi6P1IT"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 177575,
       "name": "COACH",
       "url": "https://open.spotify.com/track/6YbzhSDVIz6zG9Hf7CoNUc"
@@ -551,6 +551,28 @@
       "duration_ms": 141090,
       "name": "Criminal Mood",
       "url": "https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA"
+    },
+    {
+      "album": {
+        "name": "Cuantas Veces Ma'",
+        "url": "https://open.spotify.com/album/1w8j2WNLhVXaVTczEIPQb5"
+      },
+      "artists": [
+        {
+          "name": "MP El Juvenil",
+          "url": "https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124548,
+      "name": "Cuantas Veces Ma'",
+      "url": "https://open.spotify.com/track/3gbxCU5idEzgq5VyH5O8FS"
     },
     {
       "album": {
@@ -859,7 +881,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 210218,
       "name": "Flash",
       "url": "https://open.spotify.com/track/2DFIUhox4TTAAl8dSI3yQV"
@@ -1090,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "Jefa",
+        "url": "https://open.spotify.com/album/1Sg6umTTHxbHrTveLYsA2q"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135521,
+      "name": "Jefa",
+      "url": "https://open.spotify.com/track/5p3UrngKJuewvX42AqBBNe"
+    },
+    {
+      "album": {
         "name": "Jimmy Fallon (Remix)",
         "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
       },
@@ -1135,7 +1175,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 135235,
       "name": "Jugador",
       "url": "https://open.spotify.com/track/3njm1G9QgV5Lis9Iu4KNiL"
@@ -2401,7 +2441,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 120944,
       "name": "TRYHARD",
       "url": "https://open.spotify.com/track/7vUpvwHlTdb7lrE3WwfVgS"
@@ -2585,6 +2625,24 @@
       "duration_ms": 156939,
       "name": "Valentino",
       "url": "https://open.spotify.com/track/27uT2ouF88miD988lpgkm5"
+    },
+    {
+      "album": {
+        "name": "Videogame",
+        "url": "https://open.spotify.com/album/6G58VCyRqIIsvWYMK5VSp3"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205570,
+      "name": "Videogame",
+      "url": "https://open.spotify.com/track/4KtgcX45dO6Vh0oqD1Ovze"
     },
     {
       "album": {

@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 225260,
       "name": "Blakwool",
       "url": "https://open.spotify.com/track/6I8asPH52FAFn13luYM3UR"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 125285,
       "name": "Calma Tranquilla",
       "url": "https://open.spotify.com/track/0SC85m5L8K9gES5M3Y4Mqb"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 192631,
       "name": "Canvas",
       "url": "https://open.spotify.com/track/6bTiKb47ao9YoIvw4vyes2"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 166000,
       "name": "Chasing Cool",
       "url": "https://open.spotify.com/track/5kPPTVaz00DgTvAVDy2Ixl"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 172118,
       "name": "Circles",
       "url": "https://open.spotify.com/track/1TJf0LTGCONCXoTIGe7hhT"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 121600,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/1KB0rmwBgwCgT8jViprDO5"
@@ -1038,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Creative Waves",
+        "url": "https://open.spotify.com/album/6vRILbTFu1ArfbdVdrRzDB"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196460,
+      "name": "Creative Waves",
+      "url": "https://open.spotify.com/track/3sWTzfo52MU2OXp0MkOsDn"
+    },
+    {
+      "album": {
         "name": "crispy snacks",
         "url": "https://open.spotify.com/album/4nvHX1HwzfGFXQxSXVeGMA"
       },
@@ -1143,6 +1161,28 @@
       "duration_ms": 221307,
       "name": "Departure",
       "url": "https://open.spotify.com/track/4RXvT4yndTczEZFmCo6J4b"
+    },
+    {
+      "album": {
+        "name": "desert days",
+        "url": "https://open.spotify.com/album/2az23kSrvKgdQaNJYks1wF"
+      },
+      "artists": [
+        {
+          "name": "Arden Records",
+          "url": "https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r"
+        },
+        {
+          "name": "Trankilo",
+          "url": "https://open.spotify.com/artist/1n2Ze3zEdTYw5nc8yq4ukP"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152445,
+      "name": "desert days",
+      "url": "https://open.spotify.com/track/59PI1yLKqsJKTrTbW2st4H"
     },
     {
       "album": {
@@ -1265,7 +1305,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 171361,
       "name": "Dreamer - Edit",
       "url": "https://open.spotify.com/track/1mY5s1cLyo6qJ96iEP0zIg"
@@ -1373,7 +1413,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 135172,
       "name": "Elbe",
       "url": "https://open.spotify.com/track/3Pakll5uxUhEG2TE5vlNQK"
@@ -1917,6 +1957,24 @@
       "duration_ms": 174692,
       "name": "Howl",
       "url": "https://open.spotify.com/track/0jv8Wc070R7666f1ZqOBc6"
+    },
+    {
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/5lQJwFSf6G5RTpyCYt5kSW"
+      },
+      "artists": [
+        {
+          "name": "Ebende",
+          "url": "https://open.spotify.com/artist/0DOiT9J5OrviDfUhBAkJAE"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253150,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/1OdyF8TKLozvztgR4Mwy0w"
     },
     {
       "album": {
@@ -2468,6 +2526,24 @@
     },
     {
       "album": {
+        "name": "Lost In Stereo",
+        "url": "https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5"
+      },
+      "artists": [
+        {
+          "name": "Summer Sunset Sessions",
+          "url": "https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Lost In Stereo",
+      "url": "https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3"
+    },
+    {
+      "album": {
         "name": "Lounges",
         "url": "https://open.spotify.com/album/2n8ETq2ybdSzRi15mGm4bt"
       },
@@ -2533,7 +2609,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 193526,
       "name": "Luminosity",
       "url": "https://open.spotify.com/track/4r2i1E3JFovSZ4sAlJZTQK"
@@ -3089,7 +3165,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 233294,
       "name": "Ocean Avenue",
       "url": "https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz"
@@ -3269,7 +3345,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 209500,
       "name": "Paramount Crowning",
       "url": "https://open.spotify.com/track/1HWbqpp8OknYsqHWsxywXy"
@@ -3539,7 +3615,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 189600,
       "name": "Reflect",
       "url": "https://open.spotify.com/track/6KoJqqoM9nwU9Gpo0mMPA9"
@@ -3773,7 +3849,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 129776,
       "name": "Satellit",
       "url": "https://open.spotify.com/track/1cMQgz4TXYfWT3aTDDNpR1"
@@ -3809,7 +3885,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 156000,
       "name": "scuba dive bar",
       "url": "https://open.spotify.com/track/7gYam9ySBh0yf6Q2lAi3J8"
@@ -4133,7 +4209,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 163527,
       "name": "Solo",
       "url": "https://open.spotify.com/track/5BRzc91LVmsK6ol09JRG0h"
@@ -4223,7 +4299,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 143406,
       "name": "spring",
       "url": "https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP"
@@ -4493,7 +4569,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 177857,
       "name": "Telescopes And Coffee",
       "url": "https://open.spotify.com/track/3TNh50TIvtx2iLeoDwAQ8m"
@@ -4918,6 +4994,24 @@
     },
     {
       "album": {
+        "name": "power to flow",
+        "url": "https://open.spotify.com/album/5C8StkM3ZYGtkDAEqmV5ll"
+      },
+      "artists": [
+        {
+          "name": "meadowzz",
+          "url": "https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "unity",
+      "url": "https://open.spotify.com/track/3Jg02v8nQp88GN1TqiAtKT"
+    },
+    {
+      "album": {
         "name": "Until Dawn",
         "url": "https://open.spotify.com/album/7akmB3n9nOEkHn48cTZWkI"
       },
@@ -4933,6 +5027,42 @@
       "duration_ms": 146333,
       "name": "Until Dawn",
       "url": "https://open.spotify.com/track/64qL1d3aSX0QMZRWf29zy4"
+    },
+    {
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv"
+      },
+      "artists": [
+        {
+          "name": "Hanawal",
+          "url": "https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n"
+    },
+    {
+      "album": {
+        "name": "Vacay lets gooo",
+        "url": "https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH"
+      },
+      "artists": [
+        {
+          "name": "Sapphire Llama",
+          "url": "https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Vacay lets gooo",
+      "url": "https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY"
     },
     {
       "album": {
@@ -5153,7 +5283,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 107763,
       "name": "Why, Rose?",
       "url": "https://open.spotify.com/track/0gSirh7kcMYR6wkFkOyJ6y"

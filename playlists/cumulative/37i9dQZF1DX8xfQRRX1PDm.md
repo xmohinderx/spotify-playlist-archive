@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Best Bollywood dance songs from last 10 years\. Cover\- Tiger Shroff & Tara Sutaria.
+> Best Bollywood dance songs from last 10 years\. Cover\- Kartik Aaryan
 
 120 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/7qAEWSrM1FrFMeKQC49WwZ)
 

@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 148965,
       "name": "barie",
       "url": "https://open.spotify.com/track/40P32hxmAR2sYfTNidx1Yz"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 172520,
       "name": "BLUR",
       "url": "https://open.spotify.com/track/4kxAF5q87vbJHQhsdiSnoT"
@@ -603,6 +603,24 @@
       "duration_ms": 144927,
       "name": "Bombs Away (the perfect interlude)",
       "url": "https://open.spotify.com/track/3J1ghAVjFCEQqk6FFgd92L"
+    },
+    {
+      "album": {
+        "name": "POST-19",
+        "url": "https://open.spotify.com/album/3N0aPdI9wrcHPiZ48zaaMc"
+      },
+      "artists": [
+        {
+          "name": "Ibejii",
+          "url": "https://open.spotify.com/artist/2zxNSwGXJmWCHyoEDsl1j0"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/6emc8ZxLfdSF86APJW1duQ"
     },
     {
       "album": {
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 206253,
       "name": "Hubris",
       "url": "https://open.spotify.com/track/61jRGsVT7lj1DlYSSAlVV3"
@@ -2214,6 +2232,28 @@
     },
     {
       "album": {
+        "name": "Passenger 555",
+        "url": "https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195596,
+      "name": "Passenger 555",
+      "url": "https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ"
+    },
+    {
+      "album": {
         "name": "PEAKING",
         "url": "https://open.spotify.com/album/5MVJpvyBltzWLE7YY28N3u"
       },
@@ -2487,7 +2527,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 134571,
       "name": "Sarki",
       "url": "https://open.spotify.com/track/1QZb7PGPXcuC7XoFdN7VKf"
@@ -2513,6 +2553,28 @@
       "duration_ms": 131250,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/719tWjaCn54N9rCD8tgtDG"
+    },
+    {
+      "album": {
+        "name": "Saviour",
+        "url": "https://open.spotify.com/album/1g4JkRkSgMy2DwaO2Kb7aJ"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Iyanah",
+          "url": "https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145471,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w"
     },
     {
       "album": {
@@ -2651,7 +2713,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 220680,
       "name": "Smoke & Dance",
       "url": "https://open.spotify.com/track/4nSSNiBOvcApl9eLb40rqD"
@@ -2924,6 +2986,28 @@
     },
     {
       "album": {
+        "name": "Telfar",
+        "url": "https://open.spotify.com/album/0AOYRGSe04kRMM1d2691cn"
+      },
+      "artists": [
+        {
+          "name": "Ronehi",
+          "url": "https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv"
+        },
+        {
+          "name": "SGaWD",
+          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Telfar",
+      "url": "https://open.spotify.com/track/5oM8mv00m1Q7T5o7msC72i"
+    },
+    {
+      "album": {
         "name": "The Girl and the Time Machine",
         "url": "https://open.spotify.com/album/4XsGm3iq4Bg2q6vTZ72lCF"
       },
@@ -2961,6 +3045,24 @@
       "duration_ms": 132571,
       "name": "the one",
       "url": "https://open.spotify.com/track/4vTOVXrG6mAWSJdQpBQaBn"
+    },
+    {
+      "album": {
+        "name": "Everybody Sucks at Texting",
+        "url": "https://open.spotify.com/album/2Woq3HRWU8ZridWdwNXNNi"
+      },
+      "artists": [
+        {
+          "name": "Sinachi",
+          "url": "https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134081,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/4DZz6kZgLqzLwNNnsfpq8h"
     },
     {
       "album": {

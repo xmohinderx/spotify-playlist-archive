@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Critic",
+        "url": "https://open.spotify.com/album/47aMURbtlVhMAlR50M6dd4"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Critic",
+      "url": "https://open.spotify.com/track/70mrIsFkdsc58aBJJWSNTO"
+    },
+    {
+      "album": {
         "name": "Damn Boy",
         "url": "https://open.spotify.com/album/0laEF40rInjHjkXmMdugTA"
       },
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 211533,
       "name": "Fine Line",
       "url": "https://open.spotify.com/track/6x65rzPIbTNgRjSXBwvmFs"

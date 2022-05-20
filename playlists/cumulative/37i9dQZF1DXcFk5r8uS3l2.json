@@ -62,6 +62,28 @@
     },
     {
       "album": {
+        "name": "All Our Love",
+        "url": "https://open.spotify.com/album/6bH8vw3t4PRGqq9PdXLvJR"
+      },
+      "artists": [
+        {
+          "name": "Supersonic Blues Machine",
+          "url": "https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD"
+        },
+        {
+          "name": "Charlie Starr",
+          "url": "https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269732,
+      "name": "All Our Love",
+      "url": "https://open.spotify.com/track/4sImthKyvzr2Rhp0vaB9SJ"
+    },
+    {
+      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI"
       },
@@ -1144,6 +1166,24 @@
     },
     {
       "album": {
+        "name": "It Feels Alright",
+        "url": "https://open.spotify.com/album/0xsAiiO0KEvKLn9J7v9XIJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "It Feels Alright",
+      "url": "https://open.spotify.com/track/6QbSBJjorahQM08lPpFfkW"
+    },
+    {
+      "album": {
         "name": "Moon Rock",
         "url": "https://open.spotify.com/album/4CBsnUSUmxwCH1NmtEyGUH"
       },
@@ -1775,6 +1815,24 @@
       "duration_ms": 242241,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/5wBP2sIgbhdWdmr1u54Eoz"
+    },
+    {
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/0bHzlnQ4InLhnDwrqL0nBC"
+      },
+      "artists": [
+        {
+          "name": "Banditos",
+          "url": "https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148320,
+      "name": "Said and Done",
+      "url": "https://open.spotify.com/track/1nU3EteBtKcrE2DhnKZLw2"
     },
     {
       "album": {

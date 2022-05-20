@@ -7356,6 +7356,24 @@
     },
     {
       "album": {
+        "name": "La Maxance",
+        "url": "https://open.spotify.com/album/3EdRFF6vufkL9fjyoZWqFu"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151840,
+      "name": "La Maxance",
+      "url": "https://open.spotify.com/track/6yP8ZNACztmI2UfAfw9sQO"
+    },
+    {
+      "album": {
         "name": "Ind\u00e9pendance",
         "url": "https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP"
       },
@@ -13059,7 +13077,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 223480,
       "name": "Si j'savais",
       "url": "https://open.spotify.com/track/5b0jPRxr4XEqIwWlkGrVq3"

@@ -170,6 +170,28 @@
     },
     {
       "album": {
+        "name": "Can\u2019t You See What You\u2019re Doing To Me (Live)",
+        "url": "https://open.spotify.com/album/7opwCaMs2Kjfp3p5vCnI4X"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373809,
+      "name": "Can\u2019t You See What You\u2019re Doing To Me - Live",
+      "url": "https://open.spotify.com/track/30TXv4AUCnTxZeSWADR9m1"
+    },
+    {
+      "album": {
         "name": "Live at the Jazzhaus",
         "url": "https://open.spotify.com/album/6bBIe89atzmYXFceEDUP1c"
       },
@@ -477,7 +499,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 290693,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/2T9rTwHMIOmXmoh2dVqs1g"
@@ -531,7 +553,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 198040,
       "name": "I Didn't Know - Live",
       "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
@@ -567,7 +589,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 571280,
       "name": "I Wonder Who - Live At The San Diego Civic Center, CA, USA / 1974",
       "url": "https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y"
@@ -693,7 +715,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 335955,
       "name": "Let Me Love You Baby - Live",
       "url": "https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu"
@@ -711,7 +733,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 345270,
       "name": "Let The Good Times Roll - Live",
       "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
@@ -751,7 +773,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 261874,
       "name": "Lonesome Whistle Blues - Live",
       "url": "https://open.spotify.com/track/75QEITVgnbtUomK27erkds"
@@ -809,7 +831,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 300929,
       "name": "Mississippi Nights - Live",
       "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
@@ -1009,7 +1031,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 615573,
       "name": "Red Light - Live",
       "url": "https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c"
@@ -1027,7 +1049,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 501010,
       "name": "Ride On Josephine - Live In Boston, Massachusetts / 1982",
       "url": "https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X"
@@ -1171,7 +1193,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 212732,
       "name": "Step By Step - Live",
       "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
@@ -1391,7 +1413,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 354893,
       "name": "True Lies",
       "url": "https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB"
@@ -1463,7 +1485,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 329840,
       "name": "Watchagonnado (Live)",
       "url": "https://open.spotify.com/track/3O3ZFiWatJ9nm8C9AhCh5z"
@@ -1499,7 +1521,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 771564,
       "name": "West L.A. Fadeaway - Live",
       "url": "https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj"
@@ -1521,7 +1543,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 252106,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/7AAT2kq93xihoOP0RsrQQm"
@@ -1539,7 +1561,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 574040,
       "name": "Why Does It Take So Long To Say Goodbye - Live",
       "url": "https://open.spotify.com/track/21Ck3GOPmXqiUQaOo4pmVs"

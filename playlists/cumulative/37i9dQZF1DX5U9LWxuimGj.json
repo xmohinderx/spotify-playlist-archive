@@ -976,6 +976,24 @@
     },
     {
       "album": {
+        "name": "Nada es Mejor (Nothing's Better - Spanish Version)",
+        "url": "https://open.spotify.com/album/4E1SCECKwmYJp3to4EMCzl"
+      },
+      "artists": [
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192126,
+      "name": "Nada es Mejor (Nothing's Better - Spanish Version)",
+      "url": "https://open.spotify.com/track/2qx6CtuCTZtZiUZbk5B8F9"
+    },
+    {
+      "album": {
         "name": "Vientos Solitarios",
         "url": "https://open.spotify.com/album/6On6L6sEBLBn0bv26utzek"
       },

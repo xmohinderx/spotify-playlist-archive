@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-372 songs - 19 hr 36 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+374 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2021-06-16 |  |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2020-09-30\* | 2021-10-21 |
 | [Felicia](https://open.spotify.com/track/5EDa5MNxytx54nv0FjOWg4) | [Antoine Pepe](https://open.spotify.com/artist/1GZ7usuOguq1obg0YHjy2S) | [Felicia](https://open.spotify.com/album/1l3DCACuj0frbOVGKV0Iny) | 2:14 | 2020-09-30\* | 2021-01-18 |
+| [Fields Of Thoughts](https://open.spotify.com/track/3572Gf3GzIVt7OcnavAILF) | [Lonaras](https://open.spotify.com/artist/2q7Iuol5fO3jyAL6qV3Lea) | [Fields Of Thoughts](https://open.spotify.com/album/0c75G7hjqOYfLt3GLGjqaP) | 2:49 | 2022-05-19 |  |
 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 | 2020-09-30\* |  |
 | [Finding You](https://open.spotify.com/track/57XqKCO5MeTbiaLSnq6dFj) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Finding You](https://open.spotify.com/album/706n9jfumnN5j4IjAeAqS7) | 3:04 | 2020-09-30\* | 2021-09-14 |
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2020-09-30\* | 2021-09-14 |
@@ -299,10 +300,11 @@
 | [Sigiriya](https://open.spotify.com/track/11tgd8lU2eFk0DNqMTEqtT) | [Varsha Macias](https://open.spotify.com/artist/0q4K7lXcRz4xbItRjTtidc) | [Sigiriya](https://open.spotify.com/album/5g8sBXRvCTBMo1WKcvny1f) | 2:48 | 2021-03-24 |  |
 | [Silhouette](https://open.spotify.com/track/5DD27u7QIYYw3IJijkqaA0) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:04 | 2020-09-30\* | 2020-12-03 |
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2021-06-16 |  |
+| [Similarities](https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Similarities](https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb) | 2:38 | 2022-05-19 |  |
 | [Skylines](https://open.spotify.com/track/3WeYjOyamokKdl3cvQysZq) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Magnetic](https://open.spotify.com/album/6fg80AhUt2EltjNlo2kMZa) | 2:46 | 2020-09-30\* | 2021-09-14 |
 | [Sleep Hibernation](https://open.spotify.com/track/0ek2PwrDkUWRqoaTq6WKDj) | [Moon Laika](https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC) | [Sleep Hibernation](https://open.spotify.com/album/11F5dVBbgB8wWuuACxtMYF) | 2:55 | 2020-09-30\* |  |
 | [Slow Crossings](https://open.spotify.com/track/0XTfWo6Sk5AUm3hww2ELuE) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Slow Crossings](https://open.spotify.com/album/2kKJSa2iciar5oL0gBdSQN) | 3:43 | 2020-09-30\* | 2021-09-14 |
-| [Slow Down](https://open.spotify.com/track/62cdPqaOoaQng2DXbT47j7) | [Miracle of Silence](https://open.spotify.com/artist/0j24YDWgdPF0QfliOxg2fj) | [Slow Down](https://open.spotify.com/album/5HUfLkt6CGniv8yYgaDpwA) | 2:38 | 2021-09-04 |  |
+| [Slow Down](https://open.spotify.com/track/62cdPqaOoaQng2DXbT47j7) | [Miracle of Silence](https://open.spotify.com/artist/0j24YDWgdPF0QfliOxg2fj) | [Slow Down](https://open.spotify.com/album/5HUfLkt6CGniv8yYgaDpwA) | 2:38 | 2021-09-04 | 2022-05-20 |
 | [Small But Nice](https://open.spotify.com/track/4JW3xordKSyyseY0508GrZ) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:18 | 2020-09-30\* |  |
 | [Sogno Illuminum](https://open.spotify.com/track/2XwakW5X0FkLa7xGfgDwot) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/278BtYoGB8VN4tnOcsTyHu) | 2:20 | 2020-09-30\* |  |
 | [Solitude](https://open.spotify.com/track/1aGU4nNNTtbEFPakvzYN2Y) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Presence](https://open.spotify.com/album/6IgFlUlufatumAUT9b9w3l) | 2:58 | 2020-09-30\* | 2021-09-14 |

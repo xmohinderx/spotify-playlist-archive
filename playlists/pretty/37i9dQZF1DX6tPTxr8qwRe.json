@@ -1,13 +1,45 @@
 {
-  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Tate McRae",
-  "num_followers": 276396,
+  "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: Lilyisthatyou",
+  "num_followers": 276664,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDQ2MCwwMDAwMDA4NzAwMDAwMTgwYmI5M2IwZWYwMDAwMDE4MGI1MzIxNmQ4",
+  "snapshot_id": "MTY1MzAyMzA5MywwMDAwMDA4ODAwMDAwMTgwZGZkYWI0YmUwMDAwMDE4MGRmMGQzMTg2",
   "tracks": [
+    {
+      "added_at": "2022-05-20 05:04:53",
+      "album": {
+        "name": "Gorgeous Gorgeous Girls",
+        "url": "https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "duration_ms": 116909,
+      "name": "Gorgeous Gorgeous Girls",
+      "url": "https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6"
+    },
+    {
+      "added_at": "2022-05-20 05:04:53",
+      "album": {
+        "name": "Wish You the Worst",
+        "url": "https://open.spotify.com/album/3CJXPqgGd9igKie4C0YyiJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "duration_ms": 143466,
+      "name": "Wish You the Worst",
+      "url": "https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS"
+    },
     {
       "added_at": "2022-05-13 04:01:00",
       "album": {
@@ -25,20 +57,68 @@
       "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
     },
     {
-      "added_at": "2022-05-13 04:01:00",
+      "added_at": "2022-05-20 05:04:53",
       "album": {
-        "name": "GET ME OUTTA HERE",
-        "url": "https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY"
+        "name": "Whatshisface",
+        "url": "https://open.spotify.com/album/2SisBph5Spa2QQgye7AeRX"
       },
       "artists": [
         {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
         }
       ],
-      "duration_ms": 194208,
-      "name": "GET ME OUTTA HERE",
-      "url": "https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8"
+      "duration_ms": 161840,
+      "name": "Whatshisface",
+      "url": "https://open.spotify.com/track/3VIpGWhJ4vFjqqGmABxMEs"
+    },
+    {
+      "added_at": "2022-05-20 05:04:53",
+      "album": {
+        "name": "Too Precious",
+        "url": "https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 169850,
+      "name": "Too Precious",
+      "url": "https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "the AUDACITY",
+        "url": "https://open.spotify.com/album/2GGCXmPDkBybkSJR59L8yA"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 193690,
+      "name": "the AUDACITY",
+      "url": "https://open.spotify.com/track/7zrVdaTYQS4QDw7DvETwvL"
+    },
+    {
+      "added_at": "2022-05-20 05:04:53",
+      "album": {
+        "name": "bad things come in 3s",
+        "url": "https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM"
+      },
+      "artists": [
+        {
+          "name": "NOT THE MAIN CHARACTERS",
+          "url": "https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "did it hurt?",
+      "url": "https://open.spotify.com/track/4NUEtHceMHws1GfgAelmAB"
     },
     {
       "added_at": "2022-04-01 04:01:00",
@@ -55,6 +135,122 @@
       "duration_ms": 120666,
       "name": "cinderella's dead",
       "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
+    },
+    {
+      "added_at": "2022-05-20 05:04:53",
+      "album": {
+        "name": "Romeo Dies",
+        "url": "https://open.spotify.com/album/7f098aQqfKMnYS5YVjkT15"
+      },
+      "artists": [
+        {
+          "name": "ari hicks",
+          "url": "https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z"
+        }
+      ],
+      "duration_ms": 168084,
+      "name": "Romeo Dies",
+      "url": "https://open.spotify.com/track/42SZ9WKuZ4EDblgvJc581c"
+    },
+    {
+      "added_at": "2022-05-20 05:04:53",
+      "album": {
+        "name": "Monica Lewinsky",
+        "url": "https://open.spotify.com/album/6tXPymDqi4qhgSo9topFTt"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 132199,
+      "name": "Monica Lewinsky",
+      "url": "https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ"
+    },
+    {
+      "added_at": "2022-05-20 05:04:53",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/2YxdLseWJW7VAz1jb3YPcI"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "duration_ms": 163602,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0MFcHhvR5m18zHafeLSqob"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "FU In My Head",
+        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 167248,
+      "name": "FU In My Head",
+      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "UH OH! (feat. BENEE)",
+        "url": "https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 133509,
+      "name": "UH OH! (feat. BENEE)",
+      "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/2KLQvgaPDzX9mhwKHdgoXn"
+      },
+      "artists": [
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "duration_ms": 183112,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/4RtLJdGrUDDf6o7EhQtcas"
+    },
+    {
+      "added_at": "2022-05-13 04:01:00",
+      "album": {
+        "name": "GET ME OUTTA HERE",
+        "url": "https://open.spotify.com/album/6Uxgt4YmTbnhyeYVa5wBvY"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 194208,
+      "name": "GET ME OUTTA HERE",
+      "url": "https://open.spotify.com/track/5Q4TOgmVhnDKhhizJFhkO8"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -87,26 +283,6 @@
       "duration_ms": 146432,
       "name": "Just Kidding",
       "url": "https://open.spotify.com/track/67PEFHPYzlrzRiI3VWYbbR"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "UH OH! (feat. BENEE)",
-        "url": "https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 133509,
-      "name": "UH OH! (feat. BENEE)",
-      "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
     },
     {
       "added_at": "2022-04-01 04:01:00",
@@ -143,22 +319,6 @@
       "duration_ms": 133712,
       "name": "LAST CIGARETTE (feat. Au/Ra)",
       "url": "https://open.spotify.com/track/2XvOZXnY0CKTRIo186QE9e"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "the AUDACITY",
-        "url": "https://open.spotify.com/album/2GGCXmPDkBybkSJR59L8yA"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 193690,
-      "name": "the AUDACITY",
-      "url": "https://open.spotify.com/track/7zrVdaTYQS4QDw7DvETwvL"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -209,38 +369,6 @@
       "url": "https://open.spotify.com/track/2muY007Tkz4pMR9L15jlJL"
     },
     {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "R\u00c9SUM\u00c9",
-        "url": "https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ"
-      },
-      "artists": [
-        {
-          "name": "jenny nuo",
-          "url": "https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz"
-        }
-      ],
-      "duration_ms": 166086,
-      "name": "R\u00c9SUM\u00c9",
-      "url": "https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "We're All Gonna Die",
-        "url": "https://open.spotify.com/album/0YKNaAwk4NPSqJ8vS2dwyy"
-      },
-      "artists": [
-        {
-          "name": "CRAY",
-          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
-        }
-      ],
-      "duration_ms": 168214,
-      "name": "We're All Gonna Die",
-      "url": "https://open.spotify.com/track/0vQ6sPAB5lR3VhiOUAhQ9n"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "American Song Contest: Episode 4",
@@ -259,22 +387,6 @@
       "duration_ms": 159050,
       "name": "DIY (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/4JW9qAFkAuPkENUEDvO4hr"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/2KLQvgaPDzX9mhwKHdgoXn"
-      },
-      "artists": [
-        {
-          "name": "Anna Sofia",
-          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
-        }
-      ],
-      "duration_ms": 183112,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/4RtLJdGrUDDf6o7EhQtcas"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -371,22 +483,6 @@
       "duration_ms": 178888,
       "name": "killer queen",
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "PAYRI$E",
-        "url": "https://open.spotify.com/album/4bFgVrzjZ5PyVsW1BgXIok"
-      },
-      "artists": [
-        {
-          "name": "Greta Isaac",
-          "url": "https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "PAYRI$E",
-      "url": "https://open.spotify.com/track/5oihHH2Lw051Y0mFWz7fMM"
     },
     {
       "added_at": "2022-04-01 04:01:00",
@@ -535,22 +631,6 @@
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "FU In My Head",
-        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 167248,
-      "name": "FU In My Head",
-      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -765,22 +845,6 @@
       "url": "https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav"
     },
     {
-      "added_at": "2022-03-18 04:01:00",
-      "album": {
-        "name": "a study of the human experience volume one",
-        "url": "https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 160809,
-      "name": "luv starved",
-      "url": "https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv"
-    },
-    {
       "added_at": "2022-02-25 05:00:00",
       "album": {
         "name": "Dead To Me",
@@ -829,22 +893,6 @@
       "url": "https://open.spotify.com/track/5fDbX9qCPLjBNZkZVnu19E"
     },
     {
-      "added_at": "2022-03-11 05:01:00",
-      "album": {
-        "name": "the other side",
-        "url": "https://open.spotify.com/album/42rzcyCeL2t08zVCEukAnr"
-      },
-      "artists": [
-        {
-          "name": "marg\u00f8",
-          "url": "https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU"
-        }
-      ],
-      "duration_ms": 183230,
-      "name": "the other side",
-      "url": "https://open.spotify.com/track/28nGgL1ko5fj8M41SxPf94"
-    },
-    {
       "added_at": "2022-02-04 05:01:00",
       "album": {
         "name": "Inside (Deluxe)",
@@ -891,22 +939,6 @@
       "duration_ms": 159651,
       "name": "Celebrity Skin",
       "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
-    },
-    {
-      "added_at": "2022-02-25 05:00:00",
-      "album": {
-        "name": "Mean Girls",
-        "url": "https://open.spotify.com/album/0L0C2pdLE0gfdtXdivLbWd"
-      },
-      "artists": [
-        {
-          "name": "CRAY",
-          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Mean Girls",
-      "url": "https://open.spotify.com/track/1ACbgqWv4OYTqd3BBYVLVF"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -1061,22 +1093,6 @@
       "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
     },
     {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Read The Room",
-        "url": "https://open.spotify.com/album/66hA0bftjpanygAoCYZhou"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 166711,
-      "name": "Read The Room",
-      "url": "https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p"
-    },
-    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "WISH U HELL",
@@ -1139,22 +1155,6 @@
       "duration_ms": 142965,
       "name": "this is how i learn to say no",
       "url": "https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6"
-    },
-    {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "god sent me as karma",
-        "url": "https://open.spotify.com/album/7jUoT7TNoh0SdI4yS5K6tp"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 186462,
-      "name": "god sent me as karma",
-      "url": "https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3"
     }
   ],
   "unique_name": "SALT",

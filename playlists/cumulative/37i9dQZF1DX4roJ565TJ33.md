@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-93 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
+94 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [The Jingle](https://open.spotify.com/track/7aLzL6v7NdiBaFH5GVNVMv) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [The Jingle](https://open.spotify.com/album/7jyfxLayqHx6fW638doFTo) | 3:52 | 2022-03-31 |  |
 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 | 2021-11-08 |  |
 | [The Thrill is Gone](https://open.spotify.com/track/5EptIZcHCWfrhtlmWylkbp) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [The Thrill is Gone](https://open.spotify.com/album/4HCvABj7J5EUJDZ6qh6X0M) | 6:55 | 2021-11-08 |  |
+| [The Walking Dog](https://open.spotify.com/track/5SDwsoqvawQ46UWWtpLck3) | [Makross](https://open.spotify.com/artist/6d0tVvhUn5wpFRzNYMtwYZ), [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU) | [Soppatorsk](https://open.spotify.com/album/0FqcdyHDlak8ni7R7PATQn) | 6:11 | 2022-05-19 |  |
 | [Till Mamma \(med sång av Sarah Riedel\)](https://open.spotify.com/track/0UhQmRG35T8joWLZrkdKk8) | [Stefan Holmlund](https://open.spotify.com/artist/1KGXHIiYXcJIH5cWNPIn1v), [Sarah Riedel](https://open.spotify.com/artist/0VHm5qSCKUVjCFHYlTfHlF) | [Till Mamma](https://open.spotify.com/album/0B1J5ol9X1oj1CqOjg02bS) | 3:11 | 2021-11-08 |  |
 | [To the Moon and Back](https://open.spotify.com/track/1nh00HwoFCLCuaIzB5kEpG) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Wanderlust](https://open.spotify.com/album/2JaYh91QAp1DZUwXgKWo40) | 7:50 | 2022-03-03 |  |
 | [Try](https://open.spotify.com/track/6QO8cmea5q5c1cHrQg81nf) | [Selma Pinton](https://open.spotify.com/artist/59okFVLWTYTvszCyx681pI) | [Try](https://open.spotify.com/album/14TmlcJfgPcPlsn4nuzzfn) | 3:59 | 2021-11-08 |  |

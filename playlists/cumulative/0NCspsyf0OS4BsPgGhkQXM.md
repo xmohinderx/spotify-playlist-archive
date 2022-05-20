@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-296 songs - 15 hr 58 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+297 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-02-03 |  |
 | [Say What You Want](https://open.spotify.com/track/0snPxRDGLijujJ8fjrEW2o) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [Say What You Want](https://open.spotify.com/album/0akxBbpsWDFvxrgbxA3oxh) | 2:35 | 2022-01-14 | 2022-02-05 |
 | [searching](https://open.spotify.com/track/2NzleQI3dYLFvhyGmeBE53) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [searching](https://open.spotify.com/album/1qFIBObdqDHVjvtvpedobj) | 3:40 | 2022-02-07 | 2022-03-05 |
+| [See Me](https://open.spotify.com/track/4ialiWgVDxVqA9XTG60EFw) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [See Me](https://open.spotify.com/album/2Qq0o5RuDqmMjIJH9eyrsP) | 4:03 | 2022-05-19 |  |
 | [Set Me Free](https://open.spotify.com/track/59j95PNCr1eJX2d6wvDwFc) | [Bloom Line](https://open.spotify.com/artist/53HYxzneeSBFFUEjkfXleH), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Set Me Free](https://open.spotify.com/album/6xu0XOWH9YCbBEejcwvPfB) | 3:26 | 2022-01-19 |  |
 | [Shadow](https://open.spotify.com/track/5keO6CNCGYsAlNs6qfN5AJ) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [Shadow](https://open.spotify.com/album/2T8aNm6lKE0Bz5jgn6DPJW) | 3:03 | 2022-01-14 | 2022-02-17 |
 | [Shanghai](https://open.spotify.com/track/3bLfSmgzIi9LjWbeWS1M3Z) | [CRÈME](https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Shanghai](https://open.spotify.com/album/2CDYL6SIyBsFVczZkJtoAv) | 2:26 | 2022-02-18 | 2022-03-19 |

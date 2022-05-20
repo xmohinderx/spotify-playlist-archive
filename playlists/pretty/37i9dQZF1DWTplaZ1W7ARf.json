@@ -1,28 +1,80 @@
 {
   "description": "Neighborhood Storytellers. Cover: NoCap",
-  "num_followers": 47844,
+  "num_followers": 47889,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDQ2MCwwMDAwMDA0OTAwMDAwMTgwYmI5M2IwZjIwMDAwMDE4MDZkMGE2Mzc1",
+  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDA0YTAwMDAwMTgwZGY5ZjRhZjgwMDAwMDE4MDZkMGE2Mzc1",
   "tracks": [
     {
-      "added_at": "2021-11-29 19:56:27",
+      "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/2RrZgDND03MLu6pRJdTkz5"
+        "name": "Slizzard & Geekin",
+        "url": "https://open.spotify.com/album/4akuE86sMxCbYwvSwlfaM5"
       },
       "artists": [
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+          "name": "Calvary Kylan",
+          "url": "https://open.spotify.com/artist/3GJruOCHZYChqnOxMcGipy"
         }
       ],
-      "duration_ms": 194050,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf"
+      "duration_ms": 204403,
+      "name": "Slizzard & Geekin",
+      "url": "https://open.spotify.com/track/7IKzgb2jU2PB5MCxNt9OxA"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Rocky Road (with Kodak Black)",
+        "url": "https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 178948,
+      "name": "Rocky Road (with Kodak Black)",
+      "url": "https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo"
+    },
+    {
+      "added_at": "2022-04-10 00:28:46",
+      "album": {
+        "name": "In A Minute",
+        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
+    },
+    {
+      "added_at": "2022-01-26 21:12:53",
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 142226,
+      "name": "livin wild",
+      "url": "https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -65,36 +117,20 @@
       "url": "https://open.spotify.com/track/2oX9VjMLgO8hYMZ3Mh4J8o"
     },
     {
-      "added_at": "2022-01-26 21:12:53",
+      "added_at": "2021-11-29 19:56:27",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2RrZgDND03MLu6pRJdTkz5"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 142226,
-      "name": "livin wild",
-      "url": "https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25"
-    },
-    {
-      "added_at": "2022-04-10 00:28:46",
-      "album": {
-        "name": "In A Minute",
-        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
+      "duration_ms": 194050,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -115,6 +151,30 @@
       "duration_ms": 171996,
       "name": "Borderline (feat. EST Gee)",
       "url": "https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "FACE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "DJ ESCO",
+          "url": "https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 205061,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/1UWwGCTP14FDO3N1B7EUQ7"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -231,6 +291,26 @@
       "duration_ms": 175750,
       "name": "Static Rain (feat. Birdy)",
       "url": "https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "How It Feels (feat. YNW BSlime)",
+        "url": "https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "YNW BSlime",
+          "url": "https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu"
+        }
+      ],
+      "duration_ms": 153117,
+      "name": "How It Feels (feat. YNW BSlime)",
+      "url": "https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG"
     },
     {
       "added_at": "2022-04-10 00:28:46",
@@ -773,26 +853,6 @@
       "url": "https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Letter From The Projects",
-        "url": "https://open.spotify.com/album/3QxR8x7qrawR2l7F4jBWB1"
-      },
-      "artists": [
-        {
-          "name": "Project Youngin",
-          "url": "https://open.spotify.com/artist/0zSnym91x3cA9RTp3wHff0"
-        },
-        {
-          "name": "FCG Heem",
-          "url": "https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC"
-        }
-      ],
-      "duration_ms": 195041,
-      "name": "Mad That I'm Rich (feat. FCG Heem)",
-      "url": "https://open.spotify.com/track/2F36MK3mo9y03u5WeQuw7B"
-    },
-    {
       "added_at": "2021-12-10 07:02:42",
       "album": {
         "name": "From The Bayou",
@@ -899,38 +959,6 @@
       "duration_ms": 176341,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/5C0x9o6J37xbQgCWRvfHM7"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Soldier Kidd Fly High",
-        "url": "https://open.spotify.com/album/7nTmZkR90qoOZqKoWEZWbv"
-      },
-      "artists": [
-        {
-          "name": "Soldier Kidd",
-          "url": "https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy"
-        }
-      ],
-      "duration_ms": 131158,
-      "name": "VOP",
-      "url": "https://open.spotify.com/track/7vdunoBHpNn9M85W7VQOQQ"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Die Young",
-        "url": "https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 134376,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU"
     },
     {
       "added_at": "2021-12-10 05:00:00",

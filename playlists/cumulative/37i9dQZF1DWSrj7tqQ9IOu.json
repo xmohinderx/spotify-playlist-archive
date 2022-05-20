@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Hyphen Hyphen",
+  "description": "The best French indie tracks right now. Cover: La Belle Vie",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 180689,
       "name": "best day ever",
       "url": "https://open.spotify.com/track/5Oj8fVzb2Ha8NutbI0x3P8"
@@ -193,6 +193,24 @@
       "duration_ms": 209626,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7HHPXRjZpDWRG262GcKyQb"
+      },
+      "artists": [
+        {
+          "name": "Waves",
+          "url": "https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2zkXYQrGkffMqvQvYrtxg8"
     },
     {
       "album": {
@@ -287,7 +305,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 174092,
       "name": "castles",
       "url": "https://open.spotify.com/track/0arsSXwDYyMvG3U6RHU21y"
@@ -385,6 +403,24 @@
       "duration_ms": 223946,
       "name": "Dans mes r\u00eaves",
       "url": "https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d"
+    },
+    {
+      "album": {
+        "name": "Seule sous ma frange",
+        "url": "https://open.spotify.com/album/2mu9cesnOqR7w5otGmRYgS"
+      },
+      "artists": [
+        {
+          "name": "Pi Ja Ma",
+          "url": "https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195613,
+      "name": "Destination l'amour",
+      "url": "https://open.spotify.com/track/0Iol63wVJyT2kaRhYix6iH"
     },
     {
       "album": {
@@ -1129,7 +1165,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 205613,
       "name": "Les questions - feat. Papa",
       "url": "https://open.spotify.com/track/1GcLyTYF18YQi3fLuNYnwh"
@@ -1688,6 +1724,28 @@
     },
     {
       "album": {
+        "name": "Psychopath",
+        "url": "https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192989,
+      "name": "Psychopath",
+      "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I"
       },
@@ -1707,6 +1765,24 @@
       "duration_ms": 268520,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml"
+    },
+    {
+      "album": {
+        "name": "Nuit louve",
+        "url": "https://open.spotify.com/album/4HcetztLiYrr6Eugkuwlff"
+      },
+      "artists": [
+        {
+          "name": "MELR\u00d8SE",
+          "url": "https://open.spotify.com/artist/02m5oP9PCp1rRRD0eFJBVC"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153099,
+      "name": "Sexfriend",
+      "url": "https://open.spotify.com/track/0vy0D33YYU4LdTRR5WrCYM"
     },
     {
       "album": {
@@ -1829,7 +1905,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-05-20",
       "duration_ms": 196216,
       "name": "Sun",
       "url": "https://open.spotify.com/track/3PRX20RJN0XrRS5qR0qvfc"

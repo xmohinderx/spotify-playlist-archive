@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-443 songs - 1 day 2 hr 0 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+447 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Branch](https://open.spotify.com/track/2Sd7KgjJDMc7vhDe64nBpi) | [Keith Keniff](https://open.spotify.com/artist/2X8UJm1TVQT3Nl6kUMYyoq), [Keith Kenniff](https://open.spotify.com/artist/58vAPNWfb4STwW9IWvSlLG) | [Branches](https://open.spotify.com/album/4IbKXPIjP2Okg0Php81yFN) | 2:05 | 2019-05-26\* | 2020-08-07 |
 | [Branches And Constellations](https://open.spotify.com/track/6fD08OgJKEiviZ1R3h8SK8) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Seasons Pt\. 3](https://open.spotify.com/album/7yaSxLY5uwMkpFc5CdZeur) | 6:27 | 2019-05-26\* | 2019-06-19 |
 | [Breathe](https://open.spotify.com/track/3aJag451WnwJY280pZecbt) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Breathe](https://open.spotify.com/album/4UPZC7MdbrN4Xo20amcPPH) | 4:13 | 2019-06-19\* | 2020-01-09 |
+| [Breathe](https://open.spotify.com/track/1ubCPXu6jZQJfttzO9APUB) | [Sjöö](https://open.spotify.com/artist/4lutqwJj41iyKFuZwJ7WwH) | [Breathe](https://open.spotify.com/album/4eOkrdd40DYCPD1JCZxiE1) | 2:40 | 2022-05-19 |  |
 | [Breathing Like the Pastures](https://open.spotify.com/track/3KumNG1cPv2wf7R7t4Hm0V) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Breathing Like the Pastures](https://open.spotify.com/album/2rzImKEk1JZHAyC6dVGJ5t) | 3:41 | 2019-07-31 | 2021-10-21 |
 | [Bsmnt](https://open.spotify.com/track/2APM7QHU3UqgBjrzoeU9nm) | [kwajbasket](https://open.spotify.com/artist/33Ce3TUIc2sa9ZsGXbj6dZ) | [Aftrthghts](https://open.spotify.com/album/2zfDqAq5AT77fZBJNnz6Dp) | 5:42 | 2021-05-06 | 2021-09-03 |
 | [Bull’s Eye](https://open.spotify.com/track/21gBsNMebPvrZ6jAD0FLBN) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Bull’s Eye](https://open.spotify.com/album/7IPXNsZzeMWkgEAAOlGF3K) | 2:30 | 2022-01-28 |  |
@@ -147,6 +148,7 @@
 | [Found](https://open.spotify.com/track/2T2EemW8X3GlKvJe1gxpBC) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Found](https://open.spotify.com/album/2LtKNN5HRbG0Acos9YDAMA) | 2:39 | 2019-09-14 |  |
 | [Foveaux Strait](https://open.spotify.com/track/3mvvnHeinX9SuYf3tfkoBF) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP) | [Foveaux Strait](https://open.spotify.com/album/3VJPYPP1PFGyTbzn2kTCBF) | 3:44 | 2019-06-27 | 2021-09-03 |
 | [From Embrace To Embrace](https://open.spotify.com/track/2AHejGSGKvO4qu4f26uyEa) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 6:23 | 2019-05-26\* | 2019-06-19 |
+| [Further Than Far](https://open.spotify.com/track/6lDhQE5NehNR4pizUh8B8p) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Further Than Far](https://open.spotify.com/album/3tuUYA7y7reegwPAtAfdbX) | 2:48 | 2022-05-19 |  |
 | [Fusion](https://open.spotify.com/track/7GiFqdQP8AdVRl1rCK7Zev) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Fusion](https://open.spotify.com/album/0AkiaKCMeeZJg4Q7AxYv7Y) | 3:47 | 2019-06-19\* | 2020-08-07 |
 | [Gather My Thoughts](https://open.spotify.com/track/11nkLTEsCUzxXLWpyuz65G) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gather My Thoughts](https://open.spotify.com/album/6Dgak5TmZJbTfz3REBTCJG) | 3:03 | 2022-04-21 |  |
 | [Gentle Whisper](https://open.spotify.com/track/0SdF87pVzhydKwygD13H6B) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gentle Whisper](https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2) | 2:58 | 2022-02-18 |  |
@@ -269,6 +271,7 @@
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2019-05-26\* | 2020-08-07 |
 | [Now It's Over\. Now I'm Awake.](https://open.spotify.com/track/1Ho9GnoEXLcl60ZmdOfxzQ) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:20 | 2019-05-26\* | 2020-08-07 |
 | [Numb](https://open.spotify.com/track/1UxbOJn4xayygB84FgRDLS) | [Lacy Magic](https://open.spotify.com/artist/2otMr0SVaBIHvh5sDBkk0k) | [Numb](https://open.spotify.com/album/3Xb4DfU9NUNCwyBhIwrmrv) | 3:23 | 2019-06-19\* | 2019-06-27 |
+| [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
 | [Observations From A Faraway Place](https://open.spotify.com/track/5H14dJbhKeaU1ffTMmIGJi) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:22 | 2019-06-19\* |  |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/4hxbBi3XqJgowkTxyQwMeq) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0RGI3UG8SabiVYyEJqGYSj) | 5:44 | 2019-05-26\* | 2019-06-19 |
 | [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:55 | 2019-06-19\* |  |
@@ -310,6 +313,7 @@
 | [Retrospectacular](https://open.spotify.com/track/58Z8R4KZPbfTc6KVYZLwTb) | [Domaine Blanc](https://open.spotify.com/artist/00G1N1QNkX5ejgmHukDKDN) | [Retrospectacular](https://open.spotify.com/album/4hAQWfWzj4uG96C5WRuccZ) | 3:20 | 2020-06-19 |  |
 | [Revealing The Unreal](https://open.spotify.com/track/2zJmgxEcBUKtrfjfCn1UMM) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Suburban Call For Concrete Dreams](https://open.spotify.com/album/3kFtOGZWe1iJnIOw0Df37m) | 3:32 | 2019-06-19\* | 2021-09-03 |
 | [Revitalize](https://open.spotify.com/track/1sPC2IR2UwzYUrItFRE1H3) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Unification](https://open.spotify.com/album/2amvCJnF3F5sK6Bzooovgx) | 3:18 | 2020-08-07 | 2020-10-27 |
+| [River Deep](https://open.spotify.com/track/3KBoMRQ6EbCiTzOCzy4pvF) | [2am Fieldscape](https://open.spotify.com/artist/39IAu6WNe9KVJkgaA82Tjq) | [River Deep](https://open.spotify.com/album/7HGtWt7FICdlGLFVQbRAlv) | 3:27 | 2022-05-19 |  |
 | [Roundabout](https://open.spotify.com/track/2yR2KTxdGPqpk8krap1Bbl) | [NYMK](https://open.spotify.com/artist/49kckQu5DktnBTpPlsJTDA) | [Roundabout](https://open.spotify.com/album/2CaVkQQRYdavwr3vRVYkMQ) | 3:09 | 2021-10-21 |  |
 | [Running On Hills](https://open.spotify.com/track/5hNffY1XnXxq6hmZQm6m6A) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Hibernation Way](https://open.spotify.com/album/6B0sGRxzsBBWWFlc7oQSfl) | 3:26 | 2021-07-14 | 2022-01-06 |
 | [Safe And Sound](https://open.spotify.com/track/61nBe7BiDRiwqSNZfAjswA) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Safe And Sound](https://open.spotify.com/album/4dzLEtw4Qusza1go3sfFcf) | 2:49 | 2019-06-19\* | 2020-08-07 |

@@ -4,7 +4,7 @@
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: ARDN
 
-341 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+342 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Pressure](https://open.spotify.com/track/0cQtpYUTFpLX9knYsQAsJf) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Pressure](https://open.spotify.com/album/0abvZEzTy1FhekP4UYAly1) | 2:44 | 2022-03-09 | 2022-04-07 |
 | [PROBLEM WITH YOU](https://open.spotify.com/track/50wB7Pvwt61uuFtfNLR6GR) | [721gusto](https://open.spotify.com/artist/1WkLzPQrfUw0l6skY3KGNf), [Esinnite](https://open.spotify.com/artist/3kHfZCUES9kKR7tRpLLoTh) | [PROBLEM WITH YOU](https://open.spotify.com/album/1gpG37b9LC1CcToyRUIlSB) | 1:23 | 2022-01-13 | 2022-01-27 |
 | [PTSD](https://open.spotify.com/track/3h3Xdy3ImUmZh5taf2rHt3) | [Austin Semo](https://open.spotify.com/artist/5058kBFqum9vplpLsp3SdZ) | [PTSD](https://open.spotify.com/album/5pJbraocqWsrCIkEd4UZjF) | 2:26 | 2022-03-02 | 2022-03-31 |
+| [Pudge Rodriguez](https://open.spotify.com/track/1p0fG2qsRTz5axiF0UEoMc) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [Lil Black Jean Jacket 3](https://open.spotify.com/album/1mFoolgRsDNPx9aizPSYDn) | 2:03 | 2022-05-19 |  |
 | [Pulling up](https://open.spotify.com/track/2tytnCYxmi5sK4jHw4Be2r) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Pulling up](https://open.spotify.com/album/2nXknIEncLdUKdfd0MFEbu) | 1:34 | 2022-05-11 |  |
 | [Purpose](https://open.spotify.com/track/3EKnzVHn9qUSBGoUA19Z4i) | [Daniel Proper\-Yates](https://open.spotify.com/artist/4xKeAeB1M4DQnrrPytfYmK) | [Purpose](https://open.spotify.com/album/6MsFYrlnXLdXrFHOXJsnM7) | 3:01 | 2022-04-27 |  |
 | [Push2Start](https://open.spotify.com/track/2WywQwJbHztRLAnqsCXhv7) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [Push2Start](https://open.spotify.com/album/2KOi8v1vDESLhTlHgqEceZ) | 1:56 | 2022-04-13 |  |

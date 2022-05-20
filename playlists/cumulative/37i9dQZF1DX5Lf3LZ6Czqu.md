@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Paul Gilbert
 
-69 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+70 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Dark Matter](https://open.spotify.com/track/3rjBROIs1VgeUPcAq6ALn2) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Modern Primitive](https://open.spotify.com/album/1QBwEou5SRg4nD9Ngd2loU) | 3:53 | 2021-05-04 |  |
 | [Dawn](https://open.spotify.com/track/6EYv1dAeBn93vg8djCiSrN) | [Joe Basilio](https://open.spotify.com/artist/7cgk7HhXl6qYMnVBCLqagN) | [Excelsis](https://open.spotify.com/album/1GGypapOEB2efPiNWKncKs) | 4:26 | 2021-05-04 |  |
 | [Dunia Duara](https://open.spotify.com/track/0LwSB5KbwWcDu1HbFip27U) | [Chris Buck](https://open.spotify.com/artist/6MKMSAadRiC0CB5D2vEtDn) | [3 Crows](https://open.spotify.com/album/7uGPN9GefcM4WEMhWAMcms) | 5:33 | 2021-05-04 |  |
+| [Earthguest](https://open.spotify.com/track/7wVAS3INpT4el1p6FJpY3x) | [Steroid Puppets](https://open.spotify.com/artist/1v39hJJ604GsEZWEqhrTko), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Earthguest](https://open.spotify.com/album/42bzv7lW3nN0jxt9ZG1ZVR) | 8:59 | 2022-05-20 |  |
 | [Elysium](https://open.spotify.com/track/2QSPTVVCczdil3ixvn7OvR) | [Al Joseph](https://open.spotify.com/artist/21PirAYDy86Fxofydxphxu) | [All of Creation](https://open.spotify.com/album/4JnTiM4k8PskSpoT1ORTIa) | 4:38 | 2021-05-04 |  |
 | [Erzuín](https://open.spotify.com/track/2yimDfvXLSIt55KCaj8LSO) | [Gilipojazz](https://open.spotify.com/artist/47TWGbbKU5JYIzlySwkFK4) | [¿Dónde está el Jazz?](https://open.spotify.com/album/4Ekvaovlvw6lzwsStKibfr) | 6:46 | 2022-04-01 |  |
 | [Esperanza](https://open.spotify.com/track/4jJQlw27J0OF3wiYGY1egh) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0) | [The Sound of My Room](https://open.spotify.com/album/6dW8Oqq6KWBEePGQ4yZj0x) | 4:18 | 2021-05-04 |  |
